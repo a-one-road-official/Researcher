@@ -8,83 +8,545 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-07T16:02:03.528496+00:00",
+ "researched_at": "2026-11-07T21:27:42.484641+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "decompositions have still suffered from the biases as business dynamics that are associated with",
+    "quote": "method developed by Foster et al. (2001) to Japanese micro data and have",
     "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ただし、残された誤りは筆者らに帰する",
+    "quote": "productivity dynamics. Section 3 presents the standard method o f decomposing",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Foster et al. (2001) have developed a standard method (FHK deco mposition) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 As a brief history of the methods for decomposing aggregate productivity, the first method was",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "“cleansing effects” proposed by Foster et al. (2014). Although the method is not",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "apply the method proposed in Foster et al. (2001) to data from Japanese",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This section first presents the standard method in Foster et al . (2001) (FHK) that",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "associated with various dimensions of firm dynamics. Then, we e xplain how to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the benchmark. As demonstrated above, the FHK method used in th is study",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "12 For the calculation of the TFP, we estimate the production fun ction using the method of",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ackerberg et al. (2016), which is currently considered the stan dard method, and measure it as the",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "14 See Appendix for details on how to estimate the merging effect.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "we use the IPW method to estimate the ATT for the merger events. Given it might",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "with the bootstrap method.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需給ギャップは実際の産出と基準となる産出の差であるが、基準となる潜在産出は直接観測されず、推計の方法に依存する",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "景気の判定方法そのものも、経済構造の変化に合わせて改定の対象になっている",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同研究会は、新CIと新DIに基づく景気基準日付の判定方法を、早ければ次の景気の山を暫定設定する際に、従来の方法と大きな乖離がないことを確認したうえで採用するとした[19]",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "潜在産出は生産要素、生産性、インフレ率の動きなどから推計する持続可能な産出の水準であり、推計方法が複数ある",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのうえでHamiltonは、四半期データについて2年先の値を現在までの直近4期の値に回帰し、その残差を循環成分とする方法を代替案として提案した[24]",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の系列の突き合わせが個々の推計誤差の影響を小さくするという性質は、推計値を誤差のない観測値として扱わずに景気を判断する方法が存在することを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、ハイエク型の機構で特定の不況を説明するには、その前の拡張期に投資の期間構成と信用条件が実際に変化していたことを示す証拠が必要になる",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "合理的期待と政策の実体的な効果が両立する経済が存在することは、ルーカス批判が対象とするのが政策の有効性ではなく政策評価の方法であることを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、金融循環の長さも、測定に用いる系列、平滑化の方法、各国の金融制度に依存し、固定周期の法則として確立したものではない",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金融循環の長さが測定方法と制度に依存することは、金融循環も固定周期の規則として予測に用いることができないことを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "石油価格ショックの効果と政策反応の効果の配分が推定方法によって変わることは、供給ショックの影響を金融政策の反応から切り離して測定できないことを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ショックの寄与率が系統的な反応の効果を含まないことは、二つの問いに別の推定方法が必要であることを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外部操作変数を用いる方法は、関心のある構造ショックとだけ相関する外部の系列を利用して、モデル全体の構造を特定せずに動学的な因果効果を推定する",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "彼らは、名目硬直性に強く依存せずに需要主導の循環を生むモデルが、データに見られる伝播の型と整合しやすいと論じた[87]",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公刊された実証研究が報告する財政乗数は、国、期間、識別の方法、経済の状態によって異なり、一つの普遍的な値に収束していない",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）",
+    "quote": "キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で",
+    "quote": "新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし、残された誤りは全て筆者に帰する",
+    "quote": "について、いくつかの方法で計測し、 事実確認を行う",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、 第4 節では、新型コロナウイルス感染症拡大下に",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "４．新型コロナウイルス感染症拡大下における経済成長・労働生産性",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "力は、 飲食や宿泊といった対面型サービス業に集中する傾向を強めており、この",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他方で、 上述の対面型サービス業の落ち",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "い技術の出現に合わせて組織としての仕事の進め方を柔軟に変えていくととも",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "を表すものであるが、業種ごとにその平均的な水準が異なる点に注意する必要",
+    "quote": "に組み合わせたうえで、仕事の進め方や組織のあり方を 見直す必要がある",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "海外と比べて、起業家精神が極端に低いことや、失敗に対する恐れが大きいこ",
+    "quote": "資源を有効に活用するための組織としての仕事の進め方や仕組み 、労働者の習",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "を増やす必要があっても、その事業が失敗した際に、従業員の解雇ができず低",
+    "quote": "社会経済環境の変化や技術革新に応じて、仕事の進め方や働き方を抜本的に",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ション成長経路）へと適切なタイミングで移行することができず、 「停滞の罠」",
+    "quote": "を導入したとしても、導入前の仕事のやり方をただ踏襲しているだけでは生産",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2 Melitz and Polanec (2015) argue that BHC-FHK decomposition has a potential bias such that entry/",
+    "quote": "つながっていないとすれば、それは仕事の進め方や組織のあり方、労働者の技",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そもそも技術革新が重要であること、また仕事の進め方や組織のあり方、労働",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "11 なお、ここでは生産性概念として特に断りのない限りTFPを用いる（計算方法の詳細は",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仕事の進め方や組織のあり方を変えていく必要がある",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ど新しい技術の出現や需要構造の変化に合わせて仕事の進め方や組 織のあり方",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Growth in Advanced Economies: Measurement Methods and Comparative",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Expanded Framework,” NBER chapters, in: Measuring Capital in the New",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "26 企業別 TFPの算出方法の詳細は Fukao and Kwon (2006) や Nishimura et al. (2005) を参照",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "計算方法等は、出所参照",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、計算方法の",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this article, we review some recent developments of decomposition methods of the",
     "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "estimates, because it is shown that there is no bias in original LM estimates (except for the level of",
+    "quote": "aggregate productivity growth by using firm/plant level datasets. These methods have been",
     "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし、 残された誤りは筆者らに帰する",
+    "quote": "We categorize these methods into (i) reduced form decomposition methods (BHC-FHK",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition method that is based on the structural estimation of an endogenous growth",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "cons of existing reduced form decomposition methods, we highlight features of the structural",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition method. As an example of the use of the structural decomposition method, we",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition methods that served as a trigger to recognize the importance of such resource",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "reallocation on the aggregate economy. Below, we categorize these methods into (i) reduced",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "existing reduced form APG decomposition methods to highlight features of the structural",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition method. As far as the author notices, these points are not raised or discussed",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "possibility of using the structural decomposition method to counterfactual policy simulations.1",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "While the reduced form APG decomposition methods have been widely used as ex-post",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "policy evaluation, the most significant advantage of the structural decomposition method is",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "form APG decomposition methods: BHC-FHK decomposition, OP decomposition, and PL",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition methods. In Section IV , we argue the pros and cons of reduced form",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上記のような潜在成長率の推計方法は、 日本の内閣府や海外の中央銀行 ・政府",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ョン比率を高めることにはつながらない点には注意が必要である",
+    "quote": "推計の手順が他の多くの機関とは異なっている",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "力を表す需給ギャップをよりタイムリーに推計する手順を踏んでいる6",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5 自然対数を用いない場合、(1)式は 𝑌𝑡 = 𝐴𝑡𝐿𝑡α𝐾𝑡1−α（コブ・ダグラス型生産関数）となる",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "となどにより上昇率の低下幅が過大推計されていた可能性が指摘され、計測方法を巡って",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プの推計方法として実務上確立されたものではあるが、GDP 統計のほか労働統",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このため、川本ほか [2017]で議論されているように推計方法を不断に見直して",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらの代替的アプローチによって推計した日本の潜在成長率 （推計方法の",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生産要素間の代替可能性が低い（代替可能性がゼロのレオンチェフ型に近い）場合などに",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "化と企業間の資源再配分の停滞、 （Ｄ） 労働市場の硬直性 （日本型雇用慣行など） 、",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注）1. 全産業の時間当たり実質賃金の計算方法・分解方法は以下のとおり （家計最終消費支出デフレ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "物価にはプラス、後者はコストカット型で物価にはマイナスに影響すると解釈",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は 2000 年代以降、 需要創出型のプロダクト・イノベーションの比率が低下 （コ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ストカット型のプロセス・イノベーションの比率が上昇） を続けており、 他の先",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このうち、②は R&D や無形資産投資の結果によってもたらされる需要創出型",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -447,6 +909,86 @@
    },
    {
     "quote": "（SNA） の実質GDP の代わりに、法人企業統計を用いて実質付加価値を算出す",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "decompositions have still suffered from the biases as business dynamics that are associated with",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、残された誤りは筆者らに帰する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、残された誤りは全て筆者に帰する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を表すものであるが、業種ごとにその平均的な水準が異なる点に注意する必要",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "海外と比べて、起業家精神が極端に低いことや、失敗に対する恐れが大きいこ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を増やす必要があっても、その事業が失敗した際に、従業員の解雇ができず低",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ション成長経路）へと適切なタイミングで移行することができず、 「停滞の罠」",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2 Melitz and Polanec (2015) argue that BHC-FHK decomposition has a potential bias such that entry/",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates, because it is shown that there is no bias in original LM estimates (except for the level of",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、 残された誤りは筆者らに帰する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ョン比率を高めることにはつながらない点には注意が必要である",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1415,548 +1957,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "method developed by Foster et al. (2001) to Japanese micro data and have",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "productivity dynamics. Section 3 presents the standard method o f decomposing",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Foster et al. (2001) have developed a standard method (FHK deco mposition) to",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3 As a brief history of the methods for decomposing aggregate productivity, the first method was",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“cleansing effects” proposed by Foster et al. (2014). Although the method is not",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "apply the method proposed in Foster et al. (2001) to data from Japanese",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This section first presents the standard method in Foster et al . (2001) (FHK) that",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "associated with various dimensions of firm dynamics. Then, we e xplain how to",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the benchmark. As demonstrated above, the FHK method used in th is study",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "12 For the calculation of the TFP, we estimate the production fun ction using the method of",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Ackerberg et al. (2016), which is currently considered the stan dard method, and measure it as the",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "14 See Appendix for details on how to estimate the merging effect.",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "we use the IPW method to estimate the ATT for the merger events. Given it might",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "with the bootstrap method.",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "需給ギャップは実際の産出と基準となる産出の差であるが、基準となる潜在産出は直接観測されず、推計の方法に依存する",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "景気の判定方法そのものも、経済構造の変化に合わせて改定の対象になっている",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同研究会は、新CIと新DIに基づく景気基準日付の判定方法を、早ければ次の景気の山を暫定設定する際に、従来の方法と大きな乖離がないことを確認したうえで採用するとした[19]",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "潜在産出は生産要素、生産性、インフレ率の動きなどから推計する持続可能な産出の水準であり、推計方法が複数ある",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのうえでHamiltonは、四半期データについて2年先の値を現在までの直近4期の値に回帰し、その残差を循環成分とする方法を代替案として提案した[24]",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数の系列の突き合わせが個々の推計誤差の影響を小さくするという性質は、推計値を誤差のない観測値として扱わずに景気を判断する方法が存在することを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、ハイエク型の機構で特定の不況を説明するには、その前の拡張期に投資の期間構成と信用条件が実際に変化していたことを示す証拠が必要になる",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "合理的期待と政策の実体的な効果が両立する経済が存在することは、ルーカス批判が対象とするのが政策の有効性ではなく政策評価の方法であることを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、金融循環の長さも、測定に用いる系列、平滑化の方法、各国の金融制度に依存し、固定周期の法則として確立したものではない",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "金融循環の長さが測定方法と制度に依存することは、金融循環も固定周期の規則として予測に用いることができないことを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "石油価格ショックの効果と政策反応の効果の配分が推定方法によって変わることは、供給ショックの影響を金融政策の反応から切り離して測定できないことを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ショックの寄与率が系統的な反応の効果を含まないことは、二つの問いに別の推定方法が必要であることを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "外部操作変数を用いる方法は、関心のある構造ショックとだけ相関する外部の系列を利用して、モデル全体の構造を特定せずに動学的な因果効果を推定する",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "彼らは、名目硬直性に強く依存せずに需要主導の循環を生むモデルが、データに見られる伝播の型と整合しやすいと論じた[87]",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公刊された実証研究が報告する財政乗数は、国、期間、識別の方法、経済の状態によって異なり、一つの普遍的な値に収束していない",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "について、いくつかの方法で計測し、 事実確認を行う",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、 第4 節では、新型コロナウイルス感染症拡大下に",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "４．新型コロナウイルス感染症拡大下における経済成長・労働生産性",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "力は、 飲食や宿泊といった対面型サービス業に集中する傾向を強めており、この",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他方で、 上述の対面型サービス業の落ち",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "い技術の出現に合わせて組織としての仕事の進め方を柔軟に変えていくととも",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "に組み合わせたうえで、仕事の進め方や組織のあり方を 見直す必要がある",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資源を有効に活用するための組織としての仕事の進め方や仕組み 、労働者の習",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "社会経済環境の変化や技術革新に応じて、仕事の進め方や働き方を抜本的に",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を導入したとしても、導入前の仕事のやり方をただ踏襲しているだけでは生産",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "つながっていないとすれば、それは仕事の進め方や組織のあり方、労働者の技",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そもそも技術革新が重要であること、また仕事の進め方や組織のあり方、労働",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "11 なお、ここでは生産性概念として特に断りのない限りTFPを用いる（計算方法の詳細は",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仕事の進め方や組織のあり方を変えていく必要がある",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ど新しい技術の出現や需要構造の変化に合わせて仕事の進め方や組 織のあり方",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Growth in Advanced Economies: Measurement Methods and Comparative",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Expanded Framework,” NBER chapters, in: Measuring Capital in the New",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "26 企業別 TFPの算出方法の詳細は Fukao and Kwon (2006) や Nishimura et al. (2005) を参照",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "計算方法等は、出所参照",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、計算方法の",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this article, we review some recent developments of decomposition methods of the",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "aggregate productivity growth by using firm/plant level datasets. These methods have been",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We categorize these methods into (i) reduced form decomposition methods (BHC-FHK",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition method that is based on the structural estimation of an endogenous growth",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "cons of existing reduced form decomposition methods, we highlight features of the structural",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition method. As an example of the use of the structural decomposition method, we",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition methods that served as a trigger to recognize the importance of such resource",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "reallocation on the aggregate economy. Below, we categorize these methods into (i) reduced",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "existing reduced form APG decomposition methods to highlight features of the structural",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition method. As far as the author notices, these points are not raised or discussed",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "possibility of using the structural decomposition method to counterfactual policy simulations.1",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "While the reduced form APG decomposition methods have been widely used as ex-post",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "policy evaluation, the most significant advantage of the structural decomposition method is",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "form APG decomposition methods: BHC-FHK decomposition, OP decomposition, and PL",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition methods. In Section IV , we argue the pros and cons of reduced form",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上記のような潜在成長率の推計方法は、 日本の内閣府や海外の中央銀行 ・政府",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計の手順が他の多くの機関とは異なっている",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "力を表す需給ギャップをよりタイムリーに推計する手順を踏んでいる6",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5 自然対数を用いない場合、(1)式は 𝑌𝑡 = 𝐴𝑡𝐿𝑡α𝐾𝑡1−α（コブ・ダグラス型生産関数）となる",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "となどにより上昇率の低下幅が過大推計されていた可能性が指摘され、計測方法を巡って",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プの推計方法として実務上確立されたものではあるが、GDP 統計のほか労働統",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このため、川本ほか [2017]で議論されているように推計方法を不断に見直して",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの代替的アプローチによって推計した日本の潜在成長率 （推計方法の",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生産要素間の代替可能性が低い（代替可能性がゼロのレオンチェフ型に近い）場合などに",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "化と企業間の資源再配分の停滞、 （Ｄ） 労働市場の硬直性 （日本型雇用慣行など） 、",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注）1. 全産業の時間当たり実質賃金の計算方法・分解方法は以下のとおり （家計最終消費支出デフレ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "物価にはプラス、後者はコストカット型で物価にはマイナスに影響すると解釈",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は 2000 年代以降、 需要創出型のプロダクト・イノベーションの比率が低下 （コ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ストカット型のプロセス・イノベーションの比率が上昇） を続けており、 他の先",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このうち、②は R&D や無形資産投資の結果によってもたらされる需要創出型",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1988,7 +1988,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kabu_times/n/ndea27cfd4f61",
+    "url": "https://note.com/humble_crane7701/n/n917c11401561",
     "status": "ok",
     "method": "http"
    },
@@ -2013,9 +2013,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
+    "url": "https://www.rieti.go.jp/jp/columns/a01_0820.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
@@ -2033,12 +2033,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.rieti.go.jp/jp/publications/nts/26j004.html",
+    "url": "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.rieti.go.jp/jp/columns/a01_0820.html",
+    "url": "https://www.rieti.go.jp/jp/publications/nts/26j004.html",
     "status": "ok",
     "method": "http"
    },
@@ -2083,17 +2083,17 @@
     "method": "pdf"
    },
    {
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.federalreserve.gov/econres/ifdp/files/ifdp1314.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
     "url": "https://www.db-thueringen.de/servlets/MCRFileNodeServlet/dbt_derivate_00060524/Diskussionspapier_Nr_180.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
     "status": "ok",
     "method": "pdf"
    }
@@ -2108,12 +2108,17 @@
     "https://note.com/knowledge_weave/n/n9ba991a7e3f1",
     "https://note.com/jack4manastalk/n/nd223ad546301",
     "https://note.com/mute_rue460/n/nf3ad6fdc9402",
+    "https://note.com/humble_crane7701/n/n917c11401561",
     "https://note.com/kabu_times/n/ndea27cfd4f61",
     "https://note.com/bizgram/n/n9a587c22ec50",
-    "https://note.com/_takumi_inoue_/n/n4aa1cbbd8f13",
-    "https://note.com/joe519/n/nfd684971e47b",
-    "https://note.com/humble_crane7701/n/n917c11401561"
-   ]
+    "https://note.com/to_the_future/n/n4b4ad20ccb66",
+    "https://note.com/_takumi_inoue_/n/n4aa1cbbd8f13"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出） note",
@@ -2122,12 +2127,16 @@
     "https://www.rieti.go.jp/jp/publications/pdp/13p010.pdf",
     "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "https://www.rieti.go.jp/jp/publications/pdp/08p007.pdf",
-    "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
     "https://www.rieti.go.jp/jp/columns/a01_0820.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
     "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
+    "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
     "https://note.com/btobmarketing/n/n7bb1cd09fab1"
-   ]
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出） やり方",
@@ -2138,10 +2147,14 @@
     "https://www.rieti.go.jp/jp/publications/pdp/08p007.pdf",
     "https://www.rieti.go.jp/jp/publications/pdp/13p010.pdf",
     "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
     "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
     "https://www.rieti.go.jp/jp/publications/nts/26j004.html"
-   ]
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出） 事例",
@@ -2155,7 +2168,11 @@
     "https://www.publication.law.nihon-u.ac.jp/pdf/property/property_17/each/07.pdf",
     "https://www.rieti.go.jp/jp/events/bbl/14121901.html",
     "https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/035_s02_02.pdf"
-   ]
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "productivity decomposition within between entry exit Melitz Polanec Japan establishment data",
@@ -2163,14 +2180,19 @@
     "https://melitz.scholars.harvard.edu/publications/dynamic-olley-pakes-productivity-decomposition-entry-and-exit",
     "https://ideas.repec.org/a/bla/randje/v46y2015i2p362-375.html",
     "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
     "https://www.federalreserve.gov/econres/ifdp/files/ifdp1314.pdf",
     "https://www.db-thueringen.de/servlets/MCRFileNodeServlet/dbt_derivate_00060524/Diskussionspapier_Nr_180.pdf",
     "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
     "https://documents1.worldbank.org/curated/en/099258304182428569/pdf/IDU19eae6d98171dd14ad11ac9613b9d79fe3a29.pdf",
-    "https://www.rieti.go.jp/jp/publications/dp/19e069.pdf",
-    "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d75b1f91&appId=PPGMS",
+    "https://www.rieti.go.jp/en/columns/v01_0241.html",
     "https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12088"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "site:note.com 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）",
@@ -2182,7 +2204,11 @@
     "https://note.com/epolicy_actvst/n/n54e475d7b6c4",
     "https://note.com/shidama522/n/n9df1efc5f2fa",
     "https://note.com/ogawa_tech/n/nac3afbb88c71"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）",
@@ -2190,14 +2216,19 @@
     "https://x.com/yastodo",
     "https://x.com/naohat23",
     "https://x.com/nikkeicenter",
-    "https://x.com/dig_nkt_v2/all",
     "https://x.com/hurosinki",
+    "https://x.com/dig_nkt_v2/all",
     "https://x.com/kawaguchi_daiji",
-    "https://x.com/500drachmas",
     "https://x.com/ropcb08",
+    "https://x.com/500drachmas",
     "https://x.com/dig_nkt_v2/status/2015428194242056511",
-    "https://x.com/dah8_dah"
-   ]
+    "https://x.com/CRIEPI_Official/reposts"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:linkedin.com 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）",
@@ -2208,20 +2239,20 @@
     "https://jp.linkedin.com/company/日本銀行",
     "https://jp.linkedin.com/pulse/guide-measuring-employee-productivity-how-measure-use-thoughtful-xvjjc?tl=ja",
     "https://pe.linkedin.com/posts/makoto-hattori_従業員1人あたりarr通称apearr-per-employee-ape-activity-7211192351493373953-zPSW",
-    "https://www.linkedin.com/posts/jumpei-takahashi-b457b9215_高齢化社会に加えて生産年齢人口の減少にも拍車がかかる中1人あたりの生産性を上げプロダクティブ-activity-6845639908107829248-mzw7"
-   ]
+    "https://www.linkedin.com/posts/jumpei-takahashi-b457b9215_高齢化社会に加えて生産年齢人口の減少にも拍車がかかる中1人あたりの生産性を上げプロダクティブ-activity-6845639908107829248-mzw7",
+    "https://jp.linkedin.com/pulse/how-measure-employee-productivity-step-by-step-guide-leaders-brown-bvr8c?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
   },
   {
    "query": "site:facebook.com 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）",
-   "results": [
-    "https://www.facebook.com/Japan.RIETI/",
-    "https://www.facebook.com/Japan.RIETI/posts/rieti公開bblウェビナー日本における生産性のダイナミズム企業規模資源再配分および企業の退出がもたらす影響スピーカー金-榮愨-専修大学経済学部-教授の開催案/1226862882806286/",
-    "https://www.facebook.com/Japan.RIETI/posts/rieti公開bblウェビナー経済成長戦略と生産性いくつかの論点スピーカー森川-正之rieti特別上席研究員特任-機械振興協会経済研究所長の開催案内を掲載いたし/1292071616285412/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリーデジタルトランスフォーメーションが生産性と企業内の資源再配分に与える影響深尾-京司ファカルティフェロー乾-友彦ファカルティフェロー金-榮愨/663009125858334/",
-    "https://www.facebook.com/Japan.RIETI/posts/308865527939364/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー銀行データを用いた日本のギグ市場の分析フードデリバリーギグワークを中心として黒田-祥子ファカルティフェロー大西-宏一郎氏早稲田大学を掲載い/591121996380381/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー日本企業のai導入と生産性スピルオーバー効果とイノベーション効果池内-健太-上席研究員政策エコノミスト乾-友彦ファカルティフェロー金-榮愨/691698266322753/"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出） note 社長",
@@ -2235,21 +2266,29 @@
     "https://hit-u.repo.nii.ac.jp/record/2056369/files/DP20-010.pdf",
     "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
     "https://www.rieti.go.jp/jp/about/Highlight_34/Highlight_34.pdf"
-   ]
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出） X 投稿",
    "results": [
-    "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
     "https://www.rieti.go.jp/jp/publications/pdp/08p007.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
     "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "https://www.rieti.go.jp/jp/publications/pdp/13p010.pdf",
     "https://www.rieti.go.jp/jp/columns/a01_0820.html",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/202212_1.pdf",
-    "https://www.rieti.go.jp/jp/publications/nts/25j023.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
     "https://www.youtube.com/watch?v=iPSMvYzTxL0",
-    "https://www.rieti.go.jp/jp/publications/nts/26e007.html"
-   ]
+    "https://www.rieti.go.jp/jp/publications/dp/23j047.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "productivity decomposition within between entry exit Melitz Polanec Japan establishment data site:linkedin.com",
@@ -2261,11 +2300,15 @@
     "https://www.linkedin.com/posts/stuartbasefsky_the-divergent-dynamics-of-labor-market-power-activity-7008496813355778048-_sy-",
     "https://www.linkedin.com/posts/tommaso-bighelli-a33390196_excited-to-share-the-working-paper-i-am-working-activity-6793126436984127488-WmMG",
     "https://pe.linkedin.com/posts/cepii_we-pay-tribute-to-our-colleague-and-friend-activity-7206660012901830656-SFrK"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 15,
+ "runs": 16,
  "first_researched_at": "2026-11-05T09:58:13.383139+00:00"
 }

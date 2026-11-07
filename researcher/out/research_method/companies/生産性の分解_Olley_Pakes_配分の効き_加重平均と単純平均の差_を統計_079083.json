@@ -8,7 +8,7 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-07T15:44:35.543631+00:00",
+ "researched_at": "2026-11-07T21:25:15.258152+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,12 +19,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/alert_hyssop1862/n/nf69299d617f0",
+    "url": "https://note.com/kens_reading1/n/n17626df2cb9d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "url": "https://note.com/seikahaibun/n/n3ff57c479302",
     "status": "ok",
     "method": "http"
    },
@@ -39,38 +39,48 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hellobase/n/n87dd9fd917db",
+    "url": "https://note.com/kengomori/n/n2974437d650d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jstor.org/stable/43965817",
-    "status": "ok",
-    "method": "http"
+    "url": "https://da.lib.kobe-u.ac.jp/da/kernel/D1008129/D1008129.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://academic.oup.com/jrsssa/article-abstract/179/3/749/7058483",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sciencedirect.com/science/article/pii/S1090944325000328",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "url": "https://www.rieti.go.jp/jp/publications/pdp/22p005.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jstor.org/stable/24752004",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
     "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://aguirregabiria.net/courses/eco2901/olley_pakes.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://file.lianxh.cn/Refs/TE/Gong/Olley-Pakes-1996-OP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0954349X21001041",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://jonminton.github.io/wip-material-2026-02-07/notes/olley-pakes-decomposition",
+    "url": "https://www.federalreserve.gov/econresdata/feds/2017/files/2017019pap.pdf",
     "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://melitz.scholars.harvard.edu/publications/dynamic-olley-pakes-productivity-decomposition-entry-and-exit",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -80,63 +90,96 @@
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 site:note.com",
    "results": [
     "https://note.com/syousuukabu_koho/n/n420b81c26a9a",
-    "https://note.com/alert_hyssop1862/n/nf69299d617f0",
     "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/seikahaibun/n/n3ff57c479302",
     "https://note.com/ogawa_tech/n/nedadba8ebf97",
     "https://note.com/aikihitonisioka/n/n069cfa5996cf",
-    "https://note.com/hellobase/n/n87dd9fd917db",
     "https://note.com/kengomori/n/n2974437d650d",
-    "https://note.com/seikahaibun/n/n3ff57c479302"
-   ]
+    "https://note.com/hellobase/n/n87dd9fd917db"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 note",
-   "results": []
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 やり方",
-   "results": []
+   "results": [
+    "https://da.lib.kobe-u.ac.jp/da/kernel/D1008129/D1008129.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 事例",
-   "results": []
+   "results": [
+    "https://da.lib.kobe-u.ac.jp/da/kernel/D1008129/D1008129.pdf",
+    "https://www.rieti.go.jp/jp/publications/pdp/22p005.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
   },
   {
    "query": "Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner",
    "results": [
-    "https://www.jstor.org/stable/43965817",
-    "https://academic.oup.com/jrsssa/article-abstract/179/3/749/7058483",
-    "https://www.sciencedirect.com/science/article/pii/S1090944325000328",
-    "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "https://www.jstor.org/stable/24752004",
-    "https://jonminton.github.io/wip-material-2026-02-07/notes/olley-pakes-decomposition",
-    "https://www.researchgate.net/publication/282941166_Olley-Pakes_productivity_decomposition_Computation_and_inference"
-   ]
+    "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "http://aguirregabiria.net/courses/eco2901/olley_pakes.pdf",
+    "https://file.lianxh.cn/Refs/TE/Gong/Olley-Pakes-1996-OP.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S0954349X21001041",
+    "https://www.federalreserve.gov/econresdata/feds/2017/files/2017019pap.pdf",
+    "https://melitz.scholars.harvard.edu/publications/dynamic-olley-pakes-productivity-decomposition-entry-and-exit",
+    "https://research.tilburguniversity.edu/files/60439656/2022_006.pdf",
+    "https://www.econometricsociety.org/publications/quantitative-economics/forthcoming-papers/0000/00/00/Decomposing-the-Rise-in-Markups/file/2832-3.pdf",
+    "https://www.istat.it/it/files/2022/05/RSU_1-2022_Article-1.pdf",
+    "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "site:note.com 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説",
    "results": [
     "https://note.com/syousuukabu_koho/n/n420b81c26a9a",
     "https://note.com/kens_reading1/n/n17626df2cb9d",
-    "https://note.com/ogawa_tech/n/nedadba8ebf97",
     "https://note.com/alert_hyssop1862/n/nf69299d617f0",
+    "https://note.com/ogawa_tech/n/nedadba8ebf97",
     "https://note.com/kengomori/n/n2974437d650d",
     "https://note.com/takatoshi_tokuo/n/n4a5f8c85a799",
-    "https://note.com/aikihitonisioka/n/n069cfa5996cf",
-    "https://note.com/tomoyoke/n/n1c9c417d0e8a"
-   ]
+    "https://note.com/aikihitonisioka/n/n069cfa5996cf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説",
    "results": [
     "https://x.com/OgawaSeisakusho/status/2099614651353088035",
     "https://x.com/bakahakken21/status/2114264380338844055",
-    "https://x.com/OgawaSeisakusho/status/1728206901996142594",
     "https://x.com/RIETIjp/status/2104774423098319350",
     "https://x.com/japan_viewpoint/status/2089823399430553928",
     "https://x.com/AkaiOHI/status/2088866937631907912",
+    "https://x.com/OgawaSeisakusho/status/1728206901996142594",
     "https://x.com/grok/status/2090764930089693294"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説",
@@ -147,50 +190,70 @@
     "https://jp.linkedin.com/pulse/optimizing-resource-management-ai-enhancing-team-through-tshokama-0navc?tl=ja",
     "https://jp.linkedin.com/pulse/optimizing-resource-allocation-industrial-automation-satish-kumar-aexof?tl=ja",
     "https://jp.linkedin.com/pulse/methods-planning-resource-management-construction-sivalingam-pmp--movaf?tl=ja",
-    "https://jp.linkedin.com/pulse/resource-allocation-levelling-project-management-amit-ahuja-hglbc?tl=ja"
-   ]
+    "https://jp.linkedin.com/pulse/strategic-significance-direct-indirect-labor-ratios-beyond-faruki-8oxzc?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説",
    "results": [
     "https://www.facebook.com/jpc0301/",
-    "https://www.facebook.com/Japan.RIETI/posts/2462479043843939/",
+    "https://www.facebook.com/public/Louise-Pakes/",
     "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー配分効率性を考慮した動学的生産性分解細野-薫-ファカルティフェロー滝澤-美帆-学習院大学を掲載いたしましたhttpswwwrietigoj/2462479043843939/",
+    "https://www.facebook.com/Japan.RIETI/posts/2462479043843939/",
     "https://www.facebook.com/Japan.RIETI/posts/rieti公開bblウェビナー日本における生産性のダイナミズム企業規模資源再配分および企業の退出がもたらす影響スピーカー金-榮愨-専修大学経済学部-教授の開催案/1226862882806286/",
     "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリーデジタルトランスフォーメーションが生産性と企業内の資源再配分に与える影響深尾-京司ファカルティフェロー乾-友彦ファカルティフェロー金-榮愨/663009125858334/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー企業グループ内の-資源再配分が-マクロ経済-の-全要素生産性に与える影響深尾-京司ファカルティフェロー金-榮愨氏専修大学を掲載いたしました/648503757308871/",
-    "https://www.facebook.com/nikkei/posts/トヨタの平均年収初の1000万円超え-国内生産維持へ人材を確保/1539646937506703/"
-   ]
+    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー企業グループ内の-資源再配分が-マクロ経済-の-全要素生産性に与える影響深尾-京司ファカルティフェロー金-榮愨氏専修大学を掲載いたしました/648503757308871/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 note 社長",
-   "results": []
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 X 投稿",
-   "results": []
+   "results": [
+    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO10002001-20256592-0003.pdf?file_id=195330"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
   },
   {
    "query": "Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/usman-zafar-6560b197_ecomonics-competition-research-activity-7420365964560637952-2YkO",
     "https://www.linkedin.com/posts/marcinwolski_firm-level-financial-frictions-and-aggregate-activity-7158896982911016961-Mt0w",
-    "https://www.linkedin.com/posts/brianpiercy_how-to-spot-a-monopoly-works-in-progress-activity-7402360402610700288-XLyY",
+    "https://www.linkedin.com/posts/usman-zafar-6560b197_ecomonics-competition-research-activity-7420365964560637952-2YkO",
     "https://www.linkedin.com/posts/semanv_firm-level-financial-frictions-and-aggregate-activity-7160538610176311297-tLXz",
+    "https://www.linkedin.com/posts/brianpiercy_how-to-spot-a-monopoly-works-in-progress-activity-7402360402610700288-XLyY",
     "https://www.linkedin.com/posts/chrisngoi_allocative-efficiency-productivity-activity-7196637987537874944-q36u",
     "https://www.linkedin.com/posts/josé-maría-martínez-pérez-79512917_the-holy-grail-of-capitalism-activity-7403342553342922752-upJC",
     "https://www.linkedin.com/posts/rebuttalpr_us-antitrust-regulation-has-historically-activity-7425667228295131137-YwiR"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ12頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）",
-  "実例": "記載なし（読んだ12頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ14頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ14頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ14頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ14頁・検索12回）",
+  "実例": "記載なし（読んだ14頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-05T15:19:48.502348+00:00"
 }

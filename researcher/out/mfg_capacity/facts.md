@@ -9981,14 +9981,29 @@
 
 ## 財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89）（MOF Policy Research Institute productivity dispersion Japan firms chapter 8 interquartile manufacturing）
 - 文脈：統計・ばらつき
-- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
-- 事業所数・社数：記載なし（読んだ55頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
-- 生産能力・設備：記載なし（読んだ55頁・検索18回）
-- 10年推移：記載なし（読んだ55頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+- 10年推移：
+  - 「July 2022」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「2021). The authors thank Kosuke Aoki, Yuto Iwasaki, Ryo Jinnai, Sohei Kaihatsu, Seisaku Kameda,」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「Then, during the 2010s, from 2012 through 2018, long-term business expansion continued, but」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「half of the 1990s.1 Since the start of the 2020, economic growth has stagnated even further」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「(one business cycle). The most recent business cycle peaked in October 2018 and bottomed out in May 2020, but」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「October–December 2019 quarter for reference. In addition, comparing data on economic growth from the dates of」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「Kaihatsu, and Yagi (2019), who discussed the background to Japan's stagnating productivity, as」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「2 See, for example, Nakano and Kato (2017) for an overview of theories about secular stagnation.」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「December 2012 quarter to year -end 2017 (Figure 7). 4 During this period, as labor market」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「In the 2020s, growth in productivity based on the FSSC declined further due to the pandemic,」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「similar to the views expressed in several studies, including those by Fukao et al. (2021a) and」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「January–March 2010 quarter through the October–December 2019 quarter.」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「6 Morikawa (2018) argues that it is highly possible that the actual growth rate of productivity reflects the impact」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「Murata (2019).」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+  - 「in Japan, remaining flat since the mid-2000s (Figure 11; see Kim et al. (2019)). As pointed out」（https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ53頁・検索18回）
+- 事業所数・社数：記載なし（読んだ53頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ53頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ53頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ53頁・検索18回）
+- 生産能力・設備：記載なし（読んだ53頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ53頁・検索18回）
 
 ## 中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減）（SME White Paper labor productivity distribution manufacturing percentile appendix statistics）
 - 文脈：統計・ばらつき
@@ -10003,14 +10018,29 @@
 
 ## 工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89）（establishment exits closures Japan manufacturing census survivor bias by industry size）
 - 文脈：統計・退出
-- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
-- 事業所数・社数：記載なし（読んだ55頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
-- 生産能力・設備：記載なし（読んだ55頁・検索18回）
-- 10年推移：記載なし（読んだ55頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+- 10年推移：
+  - 「Discussion Paper No. 2022-E-7」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「IMES Discussion Paper Series 2022-E-7」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「May 2022」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Caballero et al. 2008, Alon et al. 2017, Acemoglu et al. 2018). Among those firm」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「2001, Lents and Mortensen 2008, Riley et al. 2015, Alon et al. 2017, Acemoglu et」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「al. 2018).」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「to 2018, we find that on average, about 80% of the negative exit effect observed for」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「2 The merged effect accounts for 78% of the total exit effect from 2001 to 2018.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「et al. (2017) use the US data from 1996 to 2012 and confirm tha t the exits of low」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「and Polanec 2015; Asturias et al. 2019), the majority of studies support the positive」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「2007; Kwon et al. 2008; Inui et al. 2011; Ikeuchi et al. 2018; Fukao et al. 2021).」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「pandemic in Japan (e.g., Miyakawa et al. 2021; Hong and Saito 2 021) highlights」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「(2020) also employ the data on exit mode and examine how the pr e-exit dynamics」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Polanec (2015), size of some components could vary depending on t h e w a y t o」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ51頁・検索18回）
+- 事業所数・社数：記載なし（読んだ51頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ51頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ51頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ51頁・検索18回）
+- 生産能力・設備：記載なし（読んだ51頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ51頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

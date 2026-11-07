@@ -776,12 +776,12 @@
   - 「(株)マーブル【首都圏採用】【marble】」（https://job.mynavi.jp/27/pc/search/corp101256/outline.html・3回目）
   - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vJhkym0xB3Wz0i3EMrewvUmjamt0XVMCER6IgaFrW0TjJEnvUVw・3回目）
   - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vJhkym0xB3Wz0i3EMrewvUmjamt0XVMCER6IgaFrW0TjJEnvUVw・3回目）
+  - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKQxyyQWflaglmcc4cJffoT-gwfrsZ2P7Y62km-guHh6iRRXpZr・3回目）
+  - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKQxyyQWflaglmcc4cJffoT-gwfrsZ2P7Y62km-guHh6iRRXpZr・3回目）
   - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
   - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
   - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
   - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
-  - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vK8t_-8F_nTveQVFps2zBPyF6ZI8JAixMjiO3q1GwI9POCDEd5a・3回目）
-  - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vK8t_-8F_nTveQVFps2zBPyF6ZI8JAixMjiO3q1GwI9POCDEd5a・3回目）
 - 発言：
   - 「ラジオ業界の常識を打ち破る！人気パーソナリティ江本一真さんにインタビュー」（https://note.com/tag/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「第5回 My SWITCHインタビュー！【前編】」（https://note.com/tag/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
@@ -801,14 +801,14 @@
   - 「あいテレビ のCM 料金 - フリーザロックエージェント株式会社 — あいテレビ のCM 料金 - フリーザロックエージェント株式会社 フリーザロックエージェント株式会社 https://freetherock.com > service > tvcm > station > itv」（https://freetherock.com/service/tvcm/station/itv/・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vJhkym0xB3Wz0i3EMrewvUmjamt0XVMCER6IgaFrW0TjJEnvUVw・3回目）
   - 「あいテレビ ショッピング — あいテレビ ショッピング j-shopping.jp https://www.j-shopping.jp > itv > shop」（https://www.j-shopping.jp/itv/shop・3回目）
+  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKQxyyQWflaglmcc4cJffoT-gwfrsZ2P7Y62km-guHh6iRRXpZr・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
   - 「株式会社 あいテレビ - 四国転職ネット — 株式会社 あいテレビ - 四国転職ネット 四国転職ネット https://tenshoku.abi.co.jp > company > itv」（https://tenshoku.abi.co.jp/yuryokigyo-channel/company/itv.html・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vK8t_-8F_nTveQVFps2zBPyF6ZI8JAixMjiO3q1GwI9POCDEd5a・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKcmWhdJAJgdro4-Pa8F34wTyQriQ5XMZ3fyDJsQLm9XumUwu20・3回目）
   - 「視聴データの取扱いについて | あいテレビ は6チャンネル — 視聴データの取扱いについて | あいテレビ は6チャンネル itv6.jp https://www.itv6.jp > viewingdata」（https://www.itv6.jp/viewingdata/・3回目）
-  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKseXUQD6BwL-oLV79DvuLp7DeWroj1HJfycD66i8jmQfHfbx12・3回目）
-- 許認可：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）
 
 ## 株式会社アウトソーシング
 - 公式URL：https://www.outsourcing.co.jp/（given）
@@ -2152,13 +2152,13 @@
   - 「(株) 中国新聞 サービスセンターの新卒 採用 ・会社概要 - マイナビ — (株) 中国新聞 サービスセンターの新卒 採用 ・会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp229982 > outline」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
   - 「中国新聞社 の新卒 採用 ・就職・会社概要とクチコミ — 中国新聞社 の新卒 採用 ・就職・会社概要とクチコミ ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/7139・3回目）
   - 「(株) 中国新聞社 の新卒 採用 ・会社概要 | マイナビ2027 — (株) 中国新聞社 の新卒 採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp83036 > outline」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
-- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
-- 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
-- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
-- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
-- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
 
 ## 株式会社山陽新聞社
 - 公式URL：https://www.sanyonews.jp/（given）

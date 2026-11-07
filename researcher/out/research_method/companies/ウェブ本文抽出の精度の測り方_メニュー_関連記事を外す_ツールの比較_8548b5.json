@@ -8,90 +8,24 @@
  ],
  "context": "抽出",
  "kind": "market",
- "researched_at": "2026-11-07T15:41:48.720100+00:00",
+ "researched_at": "2026-11-07T21:22:54.300992+00:00",
  "evidence": {
-  "突き合わせ・推定": [
+  "検索結果の抜粋": [
    {
-    "quote": "ただし、この研究では多言語抽出を検証していません",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、そのラベルは検証なしに今回の形状を超えて持ち出すべきではありません",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "jusText の最大の売りである stoplist を持っていても、多言語抽出は未検証です",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "静的 HTML から定型文をどれだけきれいに取り除きつつ、タイトル、著者名、日付、本文段落を保持できるかを検証しています",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "私はバージョン 2.1.0 を Python 3.14 上の固定フィクスチャ群で検証しましたが、特に印象に残ったのは記事抽出のテストでした",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その点、ここでは検証版と配布版が同じでした",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3 つ目は、私自身の検証方法に関する注意です",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric",
+    "quote": "WCXB: A Multi-Type Web Content Extraction Benchmark — May 21, 2026 · The dominant approach treats extraction as a single task: given an HTML document, identify and return the main content while discarding navigation menus, advertisements, sidebars, cookie banners, footers, and other boilerplate elements.",
     "url": "https://arxiv.org/pdf/2605.21097",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "plexity, one has to estimate it. To show that such an estimation is",
-    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "quote": "GitHub - Murrough-Foley/web-content-extraction-benchmark ... — Jan 12, 2026 · Unlike existing benchmarks that focus exclusively on news articles, WCXB evaluates extraction across the full diversity of the modern web — product pages, forums, documentation, service pages, listings, and collections — where current extractors fail most.",
+    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "that more complex models with better features can estimate page",
-    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "on its estimated extraction complexity, as there is no one-size-fits-",
-    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "quote": "WCXB: A Multi-Type Web Content Extraction Benchmark — May 21, 2026 · Abstract Web content extraction — isolating a page's main content from surrounding boilerplate — is a prerequisite for search indexing, retrieval-augmented generation, NLP dataset construction, and large language model training. Progress in this area has been constrained by the limitations of existing evaluation benchmarks, which",
+    "url": "https://arxiv.org/pdf/2605.21097",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -644,22 +578,28 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "検索結果の抜粋": [
+  "一次情報の探し方": [
    {
-    "quote": "WCXB: A Multi-Type Web Content Extraction Benchmark — May 21, 2026 · The dominant approach treats extraction as a single task: given an HTML document, identify and return the main content while discarding navigation menus, advertisements, sidebars, cookie banners, footers, and other boilerplate elements.",
-    "url": "https://arxiv.org/pdf/2605.21097",
+    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "GitHub - Murrough-Foley/web-content-extraction-benchmark ... — Jan 12, 2026 · Unlike existing benchmarks that focus exclusively on news articles, WCXB evaluates extraction across the full diversity of the modern web — product pages, forums, documentation, service pages, listings, and collections — where current extractors fail most.",
-    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "quote": "using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "WCXB: A Multi-Type Web Content Extraction Benchmark — May 21, 2026 · Abstract Web content extraction — isolating a page's main content from surrounding boilerplate — is a prerequisite for search indexing, retrieval-augmented generation, NLP dataset construction, and large language model training. Progress in this area has been constrained by the limitations of existing evaluation benchmarks, which",
-    "url": "https://arxiv.org/pdf/2605.21097",
+    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -768,28 +708,88 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
+  "突き合わせ・推定": [
    {
-    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
-    "url": "https://www.osti.gov/servlets/purl/2429881",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294",
-    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
+    "quote": "ただし、この研究では多言語抽出を検証していません",
     "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
+    "quote": "失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、そのラベルは検証なしに今回の形状を超えて持ち出すべきではありません",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "jusText の最大の売りである stoplist を持っていても、多言語抽出は未検証です",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "静的 HTML から定型文をどれだけきれいに取り除きつつ、タイトル、著者名、日付、本文段落を保持できるかを検証しています",
     "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "私はバージョン 2.1.0 を Python 3.14 上の固定フィクスチャ群で検証しましたが、特に印象に残ったのは記事抽出のテストでした",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その点、ここでは検証版と配布版が同じでした",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 つ目は、私自身の検証方法に関する注意です",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "plexity, one has to estimate it. To show that such an estimation is",
+    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "that more complex models with better features can estimate page",
+    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "on its estimated extraction complexity, as there is no one-size-fits-",
+    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -1071,32 +1071,117 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "url": "https://note.com/it_shikaku_lab/n/n2e340abb783a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzukiyuto/n/nf8d732e9dbe0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gtminami/n/nf27073fea479",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/misaki_ai_work/n/ncf3719c7972c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kiyo_ai_note/n/ne50e512cdabe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/u_sn_notes/n/nc07670d2e70b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/12410",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yonemoto/n/nc9a3c6eeb424",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senoweb.jp/note/textmining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://textmining.userlocal.jp/questions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/textmining/article/124-0029",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://textmining.userlocal.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gohp.jp/blog/web-analysis/508/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizenplatform.com/contents/site-analysis-knowledge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizode.tdse.jp/post_column/44/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.urban-sp.jp/column/90/",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/53___/n/n0e4a04e4ce5b",
+    "url": "https://it-trend.jp/textmining/article/124-0019",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "url": "https://data.wingarc.com/text-mining-17884",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/55clotho/n/n816d179b53ec",
+    "url": "https://www.mieruka-engine.com/media/textmining",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/11210858628/n/n7e223074461f",
+    "url": "https://kaizenplatform.com/contents/site-analysis-tool",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/todoonada/n/ne5b21886eec0",
+    "url": "https://www.itreview.jp/categories/textmining",
     "status": "ok",
     "method": "http"
    },
@@ -1106,37 +1191,12 @@
     "method": "http"
    },
    {
-    "url": "https://thunderbit.com/ja/blog/best-article-scraper",
+    "url": "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/Octoparse_Japan/items/56c2577cb5a7a9ab634a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://crawlora.net/ja/blog/best-ai-web-scraping-tools-2026",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ai-pedias.com/blog/ai-web-scraping-data-extraction-2026",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
     "status": "ok",
     "method": "pdf"
    },
@@ -1146,19 +1206,19 @@
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/html/1801.02607v3",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://downloads.webis.de/publications/slides/bevendorff_2023b.pdf",
-    "status": "ok",
-    "method": "pdf"
    }
   ]
  },
@@ -1166,395 +1226,236 @@
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） site:note.com",
    "results": [
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "https://note.com/53___/n/n0e4a04e4ce5b",
-    "https://note.com/niti_technology/n/nf614a498b089",
-    "https://note.com/55clotho/n/n816d179b53ec",
-    "https://note.com/11210858628/n/n7e223074461f",
-    "https://note.com/todoonada/n/ne5b21886eec0",
-    "https://note.com/11210858628/n/nb4f19584078e"
-   ]
+    "https://note.com/it_shikaku_lab/n/n2e340abb783a",
+    "https://note.com/suzukiyuto/n/nf8d732e9dbe0",
+    "https://note.com/gtminami/n/nf27073fea479",
+    "https://note.com/misaki_ai_work/n/ncf3719c7972c",
+    "https://note.com/kiyo_ai_note/n/ne50e512cdabe",
+    "https://note.com/u_sn_notes/n/nc07670d2e70b",
+    "https://note.com/zenkok/n/n8801399a4d63",
+    "https://note.com/zenkok/n/n0a6d98b1c640",
+    "https://note.com/paguinu/n/n18d688521707",
+    "https://note.com/shiodome_098/n/nee3be7b2c1bc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） note",
    "results": [
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "https://note.com/niti_technology/n/nf614a498b089",
-    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
-    "https://thunderbit.com/ja/blog/best-article-scraper",
-    "https://qiita.com/Octoparse_Japan/items/56c2577cb5a7a9ab634a",
-    "https://crawlora.net/ja/blog/best-ai-web-scraping-tools-2026",
-    "https://thunderbit.com/ja/blog/article-extraction-libraries-compared"
-   ]
+    "https://www.aspicjapan.org/asu/article/12410",
+    "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "https://note.com/yonemoto/n/nc9a3c6eeb424",
+    "https://biz.note.com/n/n07aac40f6ada",
+    "https://senoweb.jp/note/textmining/",
+    "https://textmining.userlocal.jp/questions",
+    "https://kaizenplatform.com/contents/site-analysis-knowledge",
+    "https://note.com/tukamatter/n/nab9b672413b5",
+    "https://biz.moneyforward.com/work-efficiency/basic/19685/",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） やり方",
-   "results": []
+   "results": [
+    "https://it-trend.jp/textmining/article/124-0029",
+    "https://www.aspicjapan.org/asu/article/12410",
+    "https://textmining.userlocal.jp/",
+    "https://www.gohp.jp/blog/web-analysis/508/",
+    "https://kaizenplatform.com/contents/site-analysis-knowledge",
+    "https://kaizode.tdse.jp/post_column/44/",
+    "https://www.urban-sp.jp/column/90/",
+    "https://ec-force.com/blog/d2c_no296",
+    "https://senoweb.jp/note/textmining/",
+    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） 事例",
    "results": [
-    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "https://crawlora.net/ja/blog/best-ai-web-scraping-tools-2026",
-    "https://thunderbit.com/ja/blog/best-article-scraper",
-    "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "https://qiita.com/Octoparse_Japan/items/56c2577cb5a7a9ab634a",
-    "https://ai-pedias.com/blog/ai-web-scraping-data-extraction-2026"
-   ]
+    "https://it-trend.jp/textmining/article/124-0019",
+    "https://www.aspicjapan.org/asu/article/12410",
+    "https://data.wingarc.com/text-mining-17884",
+    "https://www.gohp.jp/blog/web-analysis/508/",
+    "https://www.mieruka-engine.com/media/textmining",
+    "https://kaizenplatform.com/contents/site-analysis-tool",
+    "https://textmining.userlocal.jp/",
+    "https://www.itreview.jp/categories/textmining",
+    "https://kaizode.tdse.jp/post_column/44/",
+    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "evaluating web main text extraction boilerplate removal precision recall",
    "results": [
-    "https://arxiv.org/pdf/2605.21097",
-    "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
+    "https://www.osti.gov/servlets/purl/2429881",
     "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
-    "https://arxiv.org/html/1801.02607v3",
-    "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "https://downloads.webis.de/publications/slides/bevendorff_2023b.pdf",
-    "https://trafilatura.readthedocs.io/en/latest/evaluation.html"
-   ]
+    "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "https://dl.acm.org/doi/10.1145/3539618.3591920",
+    "https://www.runpulse.com/blog/evaluating-document-extraction",
+    "https://arxiv.org/pdf/2605.21097"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
   },
   {
    "query": "site:note.com ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）",
    "results": [
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "https://note.com/53___/n/n0e4a04e4ce5b",
-    "https://note.com/niti_technology/n/nf614a498b089",
-    "https://note.com/55clotho/n/n816d179b53ec",
-    "https://note.com/11210858628/n/n7e223074461f",
-    "https://note.com/11210858628/n/nb4f19584078e",
-    "https://note.com/todoonada/n/ne5b21886eec0"
-   ]
+    "https://note.com/syou1024/n/ncf1c4a6d55bd",
+    "https://note.com/tsunobuchi/n/n1b1a1cb9687d",
+    "https://note.com/gtminami/n/na2dbc520d7cc",
+    "https://note.com/nonoonenono/n/n9c4e29072c2c",
+    "https://note.com/gtminami/n/nac7ff90798ca",
+    "https://note.com/hiro_seki/n/n394dfb221a77",
+    "https://note.com/ai_komon/n/n3e82a636cc7b",
+    "https://note.com/kobachou/n/nb544b04d0640",
+    "https://note.com/kaiyu06/n/n548eefd934c6",
+    "https://note.com/aki_6392/n/n6e8ca05bcced"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:x.com ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）",
    "results": [
+    "https://x.com/ginji_aihack/article/2075135455449038909",
     "https://x.com/sora_biz/status/2058901946845815092",
     "https://x.com/MGT_maccha/article/2073014053153480914",
     "https://x.com/RShirohara/status/2107455610673635492",
     "https://x.com/naoki_ninja_/status/2040635035259396423",
     "https://x.com/i/trending/2026225452621398252",
     "https://x.com/so_ainsight/status/2063594411582517310",
-    "https://x.com/blanknote/status/2106535921302810821"
-   ]
+    "https://x.com/ai_hacks_akira/status/2110720390805024957"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）",
    "results": [
+    "https://www.linkedin.com/help/linkedin/answer/a519819?lang=ja",
     "https://jp.linkedin.com/pulse/5-essential-tools-web-scraping-data-science-yash-amesar-aslqf?tl=ja",
     "https://jp.linkedin.com/pulse/becoming-analytics-wizard-web-tools-you-should-using-katarina-oja-efu6f?tl=ja",
     "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
     "https://jp.linkedin.com/pulse/definitive-guide-ocr-accuracy-benchmarks-best-practices-sanjeev-bora-i4agc?tl=ja",
     "https://jp.linkedin.com/pulse/text-extraction-ai-look-tools-matter-jim-liddle-i4fxe?tl=ja",
-    "https://www.linkedin.com/pulse/edgeのcopilotでウェブサイトの内容を要約してみよう-憲孝-田村-jlpwc",
-    "https://www.linkedin.com/feed/update/urn:li:share:7508544696785346560"
-   ]
+    "https://www.linkedin.com/pulse/edgeのcopilotでウェブサイトの内容を要約してみよう-憲孝-田村-jlpwc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）",
    "results": [
+    "https://www.facebook.com/groups/aiacademy.jp/",
     "https://www.facebook.com/relipasoft/photos/正式retailsatori小売業界向け最先端ai搭載webスクレイピングツールをchrome拡張機能としてリリースretailsatoriの強み-精度と効率性/1223679102795227/",
     "https://www.facebook.com/rooterjp/posts/未知のレイアウトのwebサイトからナビゲーションバーやサイドバーフッターなどを取りのぞいた本文部分のみを抽出するサービスを提供いたしますaiクローラーは未知のレ/2410703572509789/",
     "https://www.facebook.com/waca.jp/photos/ウェブ解析士認定試験公式テキスト2026第17版pdf版発売しました生成ai関連など最新の状況に対応するため内容を大幅に改訂しています-主な変更点生成ai関連を/1387957500007623/",
+    "https://www.facebook.com/mentalabo/videos/なぜ一流選手でもpkを外すのかメッシエムバペに見る失敗の心理と技術1gkを見続ける蹴り方はボールの精度を落としやすい2gkに反応しすぎると狙いを途中で変えてしま/3039711926218208/",
     "https://www.facebook.com/Ryusho.Igarashi/videos/嫌なホールを短くする飛距離に優位性がある選手ほど事件が起こりやすいのがゴルフで海外ツアープロほどのロングショットの精度があれば攻め切れるのでraは飛びすぎに厳し/4003025546660031/",
     "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/",
-    "https://www.facebook.com/mentalabo/videos/なぜ一流選手でもpkを外すのかメッシエムバペに見る失敗の心理と技術1gkを見続ける蹴り方はボールの精度を落としやすい2gkに反応しすぎると狙いを途中で変えてしま/3039711926218208/",
-    "https://www.facebook.com/denverpost/"
-   ]
+    "https://www.facebook.com/itricollege.fans/videos/工研院機械技術-看不見的微小誤差-決定工具機的大精度-看不見的微小誤差-決定工具機的大精度-在工具機組裝過程中只要有幾微米的偏差就可能讓成品精度下降而傳統檢測方/4145387322390134/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） note 社長",
    "results": [
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "https://note.com/niti_technology/n/nf614a498b089",
-    "https://thunderbit.com/ja/blog/best-article-scraper",
-    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
-    "https://crawlora.net/ja/blog/best-ai-web-scraping-tools-2026",
-    "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "https://qiita.com/Octoparse_Japan/items/56c2577cb5a7a9ab634a"
-   ]
+    "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "https://note.com/ai_labo26/n/n1c697c06080d",
+    "https://www.aspicjapan.org/asu/article/12410",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91note%E3%81%A8%E3%81%AF%EF%BC%9Fseo%E5%8A%B9%E6%9E%9C%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A4%9C%E7%B4%A2%E4%B8%8A%E4%BD%8D%E8%A1%A8/",
+    "https://biz.note.com/n/n07aac40f6ada",
+    "https://help.openai.com/ja-jp/articles/6825453-chatgpt-release-notes",
+    "https://textmining.userlocal.jp/questions",
+    "https://developer.apple.com/jp/videos/play/wwdc2026/268/",
+    "https://prtimes.jp/webclipping/service"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） X 投稿",
    "results": [
-    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "https://thunderbit.com/ja/blog/best-article-scraper",
-    "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "https://crawlora.net/ja/blog/best-ai-web-scraping-tools-2026",
-    "https://note.com/niti_technology/n/nf614a498b089",
-    "https://qiita.com/Octoparse_Japan/items/56c2577cb5a7a9ab634a"
-   ]
+    "https://thunderbit.com/ja/blog/twitter-ai-scraping-data-insights",
+    "https://www.aspicjapan.org/asu/article/12410",
+    "https://moltsinc.co.jp/media/process/19008/",
+    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
+    "https://note.com/ogataka/n/n51f144be23b1",
+    "https://x.com/read_kei/article/2086758239665054031",
+    "https://www.mieruka-engine.com/media/twitter-ansys",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vJtKLcf0OzJwyUK6JV_J245oH86LG40ADNWMKlqHh2wlWrCCwpp",
+    "https://kaizode.tdse.jp/post_column/44/",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "evaluating web main text extraction boilerplate removal precision recall site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/matthewedgar_technicalseo-technicalgeo-geo-activity-7371146624489857024-wM0O",
-    "https://www.linkedin.com/pulse/rag-based-evaluation-metrics-supriya-bachal-w9fkc",
-    "https://www.linkedin.com/pulse/how-measure-your-models-success-accuracy-vs-precision-chothave-8gxmf",
-    "https://www.linkedin.com/pulse/precision-recall-desirability-deep-dive-daniel-tunkelang-6acbc",
-    "https://www.linkedin.com/pulse/evaluating-text-mining-algorithms-part-ii-joeri-mesens",
-    "https://www.linkedin.com/pulse/ai-action-beyond-accuracy-understanding-precision-recall-nagireddi-80rpf",
-    "https://pe.linkedin.com/pulse/guide-metrics-thresholds-evaluating-rag-llm-models-kevin-amrelle-dswje"
-   ]
+    "https://www.linkedin.com/posts/martijn-schouten_day-19-document-parsing-and-ingestion-activity-7462041839056011265-2jzd",
+    "https://www.linkedin.com/posts/sidmanchkanti_pulse-ultra-2-is-live-our-highest-accuracy-activity-7452395479142785024-hxq2",
+    "https://www.linkedin.com/pulse/building-high-accuracy-rag-chatbot-5000-complex-pdfs-text-akash-singh-e08ic",
+    "https://www.linkedin.com/pulse/from-ots-production-ready-data-pipeline-frontier-model-training-bojkf",
+    "https://www.linkedin.com/pulse/document-parsing-rag-comprehensive-guide-understand-skugan-venkatesan-nt0bc",
+    "https://www.linkedin.com/top-content/technology/automated-testing-frameworks/testing-ocr-and-document-automation-systems/",
+    "https://ie.linkedin.com/in/omnia-zayed-296b3726",
+    "https://www.linkedin.com/pulse/you-have-10-million-pdfs-5-tb-data-how-would-design-cost-yagnik-zd8lc",
+    "https://uk.linkedin.com/in/alessio-falai",
+    "https://in.linkedin.com/in/joyboseroy"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "Modern methods in natural language processing and information retrieval are heavily dependent on large collections of text. The World Wide Web is an inexhaustible source of content for such applications. However, a common problem is that Web pages include not only main content, but also ads, hyperlink lists, navigation, previews of other articles, banners,",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". The effectiveness of our method is demonstrated on standard benchmarking datasets.",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "empirically demonstrates the merit of our method on several benchmark datasets for content extraction and document retrieval.",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Early approaches to HTML boilerplate removal use a range of heuristics and rule-based methods. Finn",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". The problem with these early methods is that they make intensive use of the fact that pages used to be partitioned into sections by",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". These methods are very suitable for detecting template content that is present in all pages of a website, but have poor performance on websites that consist of a single Web page only. In this paper we focus on single-page content extraction without exploiting the context of other pages from the same site.",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Machine learning methods offer a convenient way to combine various indicators of “contentness”, automatically weighting hand-crafted features according to their relative importance. The FIASCO system by Bauer",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "extend this approach by reformulating the classification problem as a case of sequence labeling where all blocks are jointly tagged. They use conditional random fields to take advantage of correlations between the labels of neighboring content blocks. This method was the most successful in the CleanEval competition",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". In the following, we discuss the various steps of our method. The complete pipeline is also illustrated in Figure",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "To our knowledge, the existing corpora (including CleanEval) for boilerplate detection pose an additional difficulty. These datasets consist only of pairs of Web pages and corresponding cleaned text (manually extracted). As a consequence, the alignment between the source text and cleaned text, as well as block labeling, have to be recovered. Some methods (",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ") rely on expensive manual block annotations. One of our contributions is the following automatic recovery procedure of the aligned (block, label) pairs from the original (Web page, clean text) pairs. This allows us to leverage more training data compared to previous methods.",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We first linearly scan the cleaned text of a Web page using windows of 10 consecutive characters. Each such snippet is checked for uniqueness in the original Web page (after spaces trimming). If such a unique match is found, then it can be used to divide both the cleaned text and the original Web page in two parts on which the same matching method can be applied recursively in a",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "9-text-block long Web page excerpts. We perform early stopping, observing no improvements after this number of steps. We then pick the model corresponding to the lowest error on the validation set.",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We compare Web2Text to a range of methods described in the literature or deployed in popular libraries. BTE",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "are heuristic methods.",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "in an HTML page as either boilerplate or main content. Our method",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rithm. The proposed method improves page cleaning performance on the",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Modern methods in natural language processing and information retrieval are",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "“content extraction”. Established popular methods for this problem use rule-based",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "addition to traditional features, our method leverages the representational power",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "sequence probability using the Viterbi algorithm. The eﬀectiveness of our method",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Section 4 empirically demonstrates the merit of our method on several benchmark",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rule-based methods. Finnet al. [7] design an eﬀective system calledBody Text",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Extractor (BTE). Their method relies on the observation that the main content",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The problem with these early methods is that they make intensive use of the fact",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "methods are very suitable for detecting template content that is present in all",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "methods that are able to identify multiple disconnected content regions. The",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "latter method parses the HTML source code as a vector of 1’s, representing pieces",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Machine learning methods oﬀer a convenient way to combine various indicators",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "deep learning framework to automatically learn non-linear interactions between",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "WCXB: A Multi-Type Web Content Extraction Benchmark — May 21, 2026 · The dominant approach treats extraction as a single task: given an HTML document, identify and return the main content while discarding navigation menus, advertisements, sidebars, cookie banners, footers, and other boilerplate elements.",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "GitHub - Murrough-Foley/web-content-extraction-benchmark ... — Jan 12, 2026 · Unlike existing benchmarks that focus exclusively on news articles, WCXB evaluates extraction across the full diversity of the modern web — product pages, forums, documentation, service pages, listings, and collections — where current extractors fail most.",
-    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "extend this approach by reformulating the classification problem as a case of sequence labeling where all blocks are jointly tagged. They use conditional random fields to take advantage of correlations between the labels of neighboring content blocks. This method was the most successful in the CleanEval competition",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Collapsed DOM procedure example.",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "nodes) as the blocks of our sequence. A potential disadvantage of this approach is that a hyperlink in a text paragraph can receive a different label than its neighboring text. Under this scheme, an empirical evaluation of Web2Text shows no cases where parts of a textual paragraph are wrongly labeled as",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We assign unary potentials to each text block to be labeled and pairwise potentials to each pair of neighboring text blocks. In our case, potentials are probabilities as explained below. The unary potentials",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "fashion. After all unique snippets are processed, we use dynamic programming to align the remaining splitted parts of the clean text with the corresponding splitted parts of the original Web page blocks. In the end, in the rare case that the content of a block is only partially matched with the cleaned text, we mark it as",
-    "url": "https://arxiv.org/html/1801.02607v3",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "this approach by reformulating the classiﬁcation problem as a case of sequence",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "an empirical evaluation shows no cases where parts of a paragraph are wrongly",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "combination thereof. Examples are the number of characters in the node, number",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "examples use the following binary features:",
-    "url": "https://health-nlp.com/files/pubs/ecir18a.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 9,
+ "new_this_run": {},
+ "runs": 10,
  "first_researched_at": "2026-11-06T03:10:10.811645+00:00"
 }

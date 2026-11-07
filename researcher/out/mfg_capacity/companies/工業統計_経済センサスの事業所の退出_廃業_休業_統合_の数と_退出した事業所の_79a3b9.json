@@ -1,0 +1,715 @@
+{
+ "name": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89）",
+ "en": "establishment exits closures Japan manufacturing census survivor bias by industry size",
+ "aliases": [
+  "経済センサス 存続 新設 廃業 事業所 製造業 産業細分類",
+  "工業統計 廃業 事業所 数 めっき 金型",
+  "事業所の開廃業 製造業 規模別 統計表 site:stat.go.jp"
+ ],
+ "context": "統計・退出",
+ "kind": "market",
+ "researched_at": "2026-11-07T21:23:00.010401+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "Discussion Paper No. 2022-E-7",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IMES Discussion Paper Series 2022-E-7",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "May 2022",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Caballero et al. 2008, Alon et al. 2017, Acemoglu et al. 2018). Among those firm",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2001, Lents and Mortensen 2008, Riley et al. 2015, Alon et al. 2017, Acemoglu et",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "al. 2018).",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to 2018, we find that on average, about 80% of the negative exit effect observed for",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 The merged effect accounts for 78% of the total exit effect from 2001 to 2018.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "et al. (2017) use the US data from 1996 to 2012 and confirm tha t the exits of low",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and Polanec 2015; Asturias et al. 2019), the majority of studies support the positive",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2007; Kwon et al. 2008; Inui et al. 2011; Ikeuchi et al. 2018; Fukao et al. 2021).",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "pandemic in Japan (e.g., Miyakawa et al. 2021; Hong and Saito 2 021) highlights",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2020) also employ the data on exit mode and examine how the pr e-exit dynamics",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Polanec (2015), size of some components could vary depending on t h e w a y t o",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 As discussed, Crane et al. (2020), for example, it is not necessarily clear how we should define",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "gotten great attention in the literature (e.g., Fukao et al. 2021).",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "for the period from period ݐ ൌ 2000 to 2018.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kasama.lg.jp/page/page000228.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=40&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202037_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsgraph.jp/articles/025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1203057_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/pdp/23p014.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=%E6%B4%BB%E5%8B%95%E3%82%92%E8%A1%8C%E3%81%86&statdisp_id=0004005657",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.etisa.or.jp/chosakai-backnumber.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000551983.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akagurok.com/paper/dynamics.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/25e039.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.census.gov/content/dam/Census/library/publications/2010/ADRM/CES/BDS_StatBrief4_Exit_Survival.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 人手不足 受注 断る",
+   "results": [
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.city.kasama.lg.jp/sp/page/page000228.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=40&page=1000",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.tsr-net.co.jp/data/detail/1202037_1527.html",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "https://ats-entry.hito-link.jp/sites/bssp/matter/matters/115089",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.e-census-st.go.jp/",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.city.kasama.lg.jp/sp/page/page000228.html",
+    "https://www.jagat.or.jp/archives/99010"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 人手不足 損失 億円",
+   "results": [
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004005668",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://newsgraph.jp/articles/025/",
+    "https://www.tsr-net.co.jp/data/detail/1203057_1527.html",
+    "https://www.jfc.go.jp/n/findings/pdf/ronbun2005_01.pdf",
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89）",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.rieti.go.jp/jp/publications/pdp/23p014.pdf",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 推移",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.meti.go.jp/statistics/",
+    "http://www.etisa.or.jp/chosakai-backnumber.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.rieti.go.jp/jp/publications/pdp/23p014.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 従業者規模別",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 1人当たり 万円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.city.kasama.lg.jp/sp/page/page000228.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "establishment exits closures Japan manufacturing census survivor bias by industry size Japan statistics",
+   "results": [
+    "https://www.zhuxuanli.com/paper/dynamics.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/25e039.pdf",
+    "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.census.gov/content/dam/Census/library/publications/2010/ADRM/CES/BDS_StatBrief4_Exit_Survival.pdf",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89）",
+   "results": [
+    "https://note.com/_shiripa/n/n1da51c986f33",
+    "https://note.com/shotar/n/n78e1d0d6a439",
+    "https://note.com/sagamikeizai/n/n9b3b19572374",
+    "https://note.com/sion_remake0415/n/na6a34ca36f05",
+    "https://note.com/chic_deer1160/n/ne6102f62e05e",
+    "https://note.com/mihogakusha/n/n921d38a81ba2",
+    "https://note.com/yamanaka_kan/n/n8f7640ce068e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89）",
+   "results": [
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/i/trending/2099672122675396842",
+    "https://x.com/ecensus2026",
+    "https://x.com/meti_NIPPON/status/2039316080091697577",
+    "https://x.com/MIC_soudan/status/2054003627329831245",
+    "https://x.com/tokusea0120/status/1736746144930422992",
+    "https://x.com/pref_saitama/status/2052667319319662667"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89）",
+   "results": [
+    "https://px.ads.linkedin.com/collect/?pid=5829242&fmt=gif",
+    "https://jp.linkedin.com/pulse/12-new-application-integration-statistics-trends-2022-olga-annenko?tl=ja",
+    "https://jp.linkedin.com/posts/shinsukekatai_統合報告書サステナビリティ新晃工業株式会社-sinko-activity-7395048262703042560-EtHP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:facebook.com 工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89）",
+   "results": [
+    "https://www.facebook.com/ecensus2026/",
+    "https://www.facebook.com/pref.wakayama/posts/経済センサス-活動調査総務省経済産業省和歌山県及び市町村は令和8年6月1日現在で経済センサス-活動調査を実施します本調査は全国すべての事業所企業を対象とする5年/1512921037510877/",
+    "https://www.facebook.com/kyosanto/posts/訪問介護空白加速事業所ゼロ１０７町村-半年で新たに１０増自公が報酬を削減-休廃止増の原因に-高齢者の在宅介護を支える訪問介護事業所が一つもない自治体が昨年末時点/1142032117290278/",
+    "https://www.facebook.com/AomoriPref.koho/photos/令和8年経済センサス活動調査がはじまります統計分析課昨年は国勢調査にご協力いただきありがとうございましたところで経済の国勢調査とも呼ばれている経済センサス活動調/1233720345615013/",
+    "https://www.facebook.com/AomoriPref.koho/posts/令和8年経済センサス活動調査がはじまります統計分析課昨年は国勢調査にご協力いただきありがとうございましたところで経済の国勢調査とも呼ばれている経済センサス活動調/1233720375615010/",
+    "https://www.facebook.com/okayama.pref.kochokoho/posts/令和8年経済センサス-活動調査が始まります総務省と経済産業省都道府県市区町村は令和8年6月1日現在で令和8年経済センサス活動調査を実施します全国すべての事業所企/1332135848948173/",
+    "https://www.facebook.com/tochokoho/photos/回答はお済みですか令和8年経済センサス活動調査全国すべての事業所企業が対象ですご協力いただいた事業所の皆様ありがとうございました回答がお済みでない事業所は回答を/1331740355805992/",
+    "https://www.facebook.com/tochokoho/posts/始まります令和8年経済センサス活動調査総務省と経済産業省は令和8年6月1日を期日として全国のすべての事業所及び企業を対象に令和8年経済センサス活動調査を実施しま/1281149700865058/",
+    "https://www.facebook.com/ecensus2026/posts/東洋経済オンライン-タイアップ記事のご紹介東洋経済オンラインにて経済センサス-活動調査が取り上げられました地方創生の専門家によって経済センサス-活動調査の重要性/122137124313121431/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） note 社長",
+   "results": [
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.soumu.go.jp/main_content/000755729.pdf",
+    "https://www.rieti.go.jp/jp/publications/pdp/23p014.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://note.com/tag/%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9",
+    "https://www.city.kasama.lg.jp/sp/page/page000228.html",
+    "https://www.tsr-net.co.jp/data/detail/1203057_1527.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計・経済センサスの事業所の退出（廃業・休業・統合）の数と、退出した事業所の規模・業種（受託の細分類・存続と新設と廃業の内訳・生き残りの偏りを測る・4-89） X 投稿",
+   "results": [
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,86445,c,html/86445/1kougyou1.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.city.yokkaichi.lg.jp/www/contents/1790667652744/simple/R6-5.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200553&statdisp_id=0004005669"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "establishment exits closures Japan manufacturing census survivor bias by industry size site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/directory/posts/c",
+    "https://www.linkedin.com/in/dr-abdelmoumine-traore-44042373moum",
+    "https://www.linkedin.com/directory/posts/g-17",
+    "https://ug.linkedin.com/in/harmson-opira-kiteze-mstat-bqe-40ab5153",
+    "https://www.linkedin.com/pulse/japan-faces-looming-crisis-quiet-collapse-its-small-businesses-sok-1xotc",
+    "https://www.linkedin.com/pulse/japans-manufacturing-industry-crisis-heres-how-its-fighting-大治-岩田-nmitc",
+    "https://www.linkedin.com/pulse/japan-metal-caps-closures-market-advanced-manufacturing-pp7tc",
+    "https://www.linkedin.com/pulse/japan-aluminum-closures-market-technology-resilience-ntigc",
+    "https://www.linkedin.com/pulse/japan-aluminium-caps-closures-market-manufacturing-wrfsf",
+    "https://www.linkedin.com/pulse/japan-manufacturing-forecast-analysis-market-size-bmrrf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ51頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ51頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ51頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ51頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ51頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ51頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ51頁・検索18回）"
+ }
+}

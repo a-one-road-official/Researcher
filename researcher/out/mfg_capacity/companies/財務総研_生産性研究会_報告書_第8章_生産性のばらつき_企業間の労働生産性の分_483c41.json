@@ -1,0 +1,690 @@
+{
+ "name": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89）",
+ "en": "MOF Policy Research Institute productivity dispersion Japan firms chapter 8 interquartile manufacturing",
+ "aliases": [
+  "財務総合政策研究所 生産性 ばらつき 企業間 製造業 site:mof.go.jp filetype:pdf",
+  "生産性の分散 企業間 日本 製造業 四分位",
+  "labor productivity dispersion Japanese manufacturing firms percentile"
+ ],
+ "context": "統計・ばらつき",
+ "kind": "market",
+ "researched_at": "2026-11-07T21:22:59.088677+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "July 2022",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021). The authors thank Kosuke Aoki, Yuto Iwasaki, Ryo Jinnai, Sohei Kaihatsu, Seisaku Kameda,",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Then, during the 2010s, from 2012 through 2018, long-term business expansion continued, but",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "half of the 1990s.1 Since the start of the 2020, economic growth has stagnated even further",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(one business cycle). The most recent business cycle peaked in October 2018 and bottomed out in May 2020, but",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "October–December 2019 quarter for reference. In addition, comparing data on economic growth from the dates of",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Kaihatsu, and Yagi (2019), who discussed the background to Japan's stagnating productivity, as",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 See, for example, Nakano and Kato (2017) for an overview of theories about secular stagnation.",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "December 2012 quarter to year -end 2017 (Figure 7). 4 During this period, as labor market",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In the 2020s, growth in productivity based on the FSSC declined further due to the pandemic,",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "similar to the views expressed in several studies, including those by Fukao et al. (2021a) and",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "January–March 2010 quarter through the October–December 2019 quarter.",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 Morikawa (2018) argues that it is highly possible that the actual growth rate of productivity reflects the impact",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Murata (2019).",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in Japan, remaining flat since the mid-2000s (Figure 11; see Kim et al. (2019)). As pointed out",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "by Gutiérrez and Philippon (2017), many developed countries are experiencing some degree of",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "addition, Nakajima et al. (2016) argue that inefficiencies in capital allocation in developed",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "al. (2019).8",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/public_relations/finance/202609/pdf/202609all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/siryo/2016/documents/0174.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/pdf/all_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zai-keicho.or.jp/wp-content/uploads/2022/08/er_review_vol.12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/tohoku/it/yusou/it-yutr85.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_release.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/siryo/2026/documents/0306.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/26/dl/26-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1054_all.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2023/pdf/all.pdf?ss_ad_code=beng210216",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20260626/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_all.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kokkai.ndl.go.jp/simple/detail?minId=119304376X00520170222",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h28/pdf/28honpen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/about/press/koen_2019/ko190325a.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-tokai.ac.jp/uploads/sites/10/2021/03/11_kosaki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000465.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jri.co.jp/MediaLibrary/file/report/researchreport/pdf/6513.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/public_relations/finance/202609/202609o.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001015520.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rengo-soken.or.jp/work/%E6%9C%AC%E6%96%87%EF%BC%9A%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%A8%E5%8A%B4%E5%83%8D%E7%B5%84%E5%90%88%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E7%A0%94%E7%A9%B6%E5%A7%94%E5%93%A1%E4%BC%9A%E5%A0%B1%E5%91%8A%EF%BC%88HP%E7%89%88%E3%81%AF%E4%BA%8B%E6%83%85%E3%81%AB%E3%82%88%E3%82%8A%E7%AC%AC%EF%BC%98%E7%AB%A0%E3%82%92%E9%99%A4%E3%81%8F%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/public_relations/finance/202609/pdf/202609o.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/001033220.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/002013531.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000422927.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei202304_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ci.nii.ac.jp/ncid/BD03420722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/2022/220622HS/01_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rengo-soken.or.jp/work/200410_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2007/documents/037/037_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/2021/0207nk/pdf/n21_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/listing/cg/tvdivq0000008jb0-att/um3qrc000001isbf.pdf?utm_source=tvtokyo_plus&utm_medium=article&utm_campaign=entry-27350",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fsa.go.jp/common/paper/2024/zentai/all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsri.or.jp/publish/market/pdf/market_36/36_all.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/publication/research_paper_staff_report/list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/report_paper.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/results_index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 人手不足 受注 断る",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202609/pdf/202609all.pdf",
+    "https://www.jil.go.jp/institute/siryo/2016/documents/0174.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/pdf/all_01.pdf",
+    "https://www.zai-keicho.or.jp/wp-content/uploads/2022/08/er_review_vol.12.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/it/yusou/it-yutr85.pdf",
+    "https://landsknecht.jp/books/",
+    "https://www.rengo-soken.or.jp/work/201504-02_03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 受注残 人手不足",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_release.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.jil.go.jp/institute/siryo/2026/documents/0306.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/26/dl/26-1.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/pdf/all_01.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1054_all.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2023/pdf/all.pdf?ss_ad_code=beng210216"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 人手不足 損失 億円",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/pdf/all_01.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20260626/01.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_all.pdf",
+    "https://kokkai.ndl.go.jp/simple/detail?minId=119304376X00520170222",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h28/pdf/28honpen.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89）",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.boj.or.jp/about/press/koen_2019/ko190325a.htm",
+    "https://www.u-tokai.ac.jp/uploads/sites/10/2021/03/11_kosaki.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000465.pdf",
+    "https://www.jri.co.jp/file/report/researchreport/pdf/6513.pdf",
+    "https://ci.nii.ac.jp/ncid/BD03420722",
+    "https://www.mof.go.jp/pri/research/conference/index.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 推移",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202609/202609o.html",
+    "https://www.mlit.go.jp/common/001015520.pdf",
+    "https://www.rengo-soken.or.jp/work/%E6%9C%AC%E6%96%87%EF%BC%9A%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%A8%E5%8A%B4%E5%83%8D%E7%B5%84%E5%90%88%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E7%A0%94%E7%A9%B6%E5%A7%94%E5%93%A1%E4%BC%9A%E5%A0%B1%E5%91%8A%EF%BC%88HP%E7%89%88%E3%81%AF%E4%BA%8B%E6%83%85%E3%81%AB%E3%82%88%E3%82%8A%E7%AC%AC%EF%BC%98%E7%AB%A0%E3%82%92%E9%99%A4%E3%81%8F%EF%BC%89.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202609/pdf/202609o.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_01.pdf",
+    "https://www.mof.go.jp/pri/research/conference/index.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 統計 PDF",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.mof.go.jp/public_relations/finance/202609/pdf/202609o.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202609/202609o.html",
+    "https://www.boj.or.jp/about/press/koen_2019/ko190325a.htm",
+    "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/001033220.pdf",
+    "https://www.mlit.go.jp/policy/shingikai/content/002013531.pdf",
+    "https://www.soumu.go.jp/main_content/000422927.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei202304_2.pdf",
+    "https://ci.nii.ac.jp/ncid/BD03420722"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 従業者規模別",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei.html",
+    "https://www.u-tokai.ac.jp/uploads/sites/10/2021/03/11_kosaki.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/2022/220622HS/01_2.pdf",
+    "https://www.rengo-soken.or.jp/work/200410_01.pdf",
+    "https://www.soumu.go.jp/main_content/000422927.pdf",
+    "https://www.jil.go.jp/institute/research/2007/documents/037/037_02.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 1人当たり 万円",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_01.pdf",
+    "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/001033220.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2023/pdf/all.pdf?ss_ad_code=beng210216",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h28/pdf/28honpen.pdf",
+    "https://www5.cao.go.jp/keizai3/2021/0207nk/pdf/n21_5.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1054_all.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） 2015 2025",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/2022/220622HS/01_2.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1054_all.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202609/pdf/202609o.pdf",
+    "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
+    "https://www.jpx.co.jp/equities/listing/cg/tvdivq0000008jb0-att/um3qrc000001isbf.pdf?utm_source=tvtokyo_plus&utm_medium=article&utm_campaign=entry-27350",
+    "https://www.fsa.go.jp/common/paper/2024/zentai/all.pdf",
+    "https://www.jsri.or.jp/publish/market/pdf/market_36/36_all.pdf",
+    "https://ci.nii.ac.jp/ncid/BD03420722"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "MOF Policy Research Institute productivity dispersion Japan firms chapter 8 interquartile manufacturing Japan statistics",
+   "results": [
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "https://www.mof.go.jp/english/pri/reference/ssc/results_index.htm",
+    "https://www.mof.go.jp/english/pri/reference/index.htm",
+    "https://www.mof.go.jp/english/pri/",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://jpc.jpc-net.jp/eng/stats/index.html",
+    "https://www.researchgate.net/publication/324456245_The_Evolution_of_the_Productivity_Dispersion_of_Firms_-_A_Reevaluation_of_Its_Determinants_in_the_Case_of_Japan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89）",
+   "results": [
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/hirokimiyano/n/nd06a2d521a27",
+    "https://note.com/take_yoshikawa/n/ne0886c4c30f9",
+    "https://note.com/tasuto11/n/n3a173fe21abb",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/humble_crane7701/n/n6296d90131e6",
+    "https://note.com/tck/n/n95812964bcbb",
+    "https://note.com/loyal_ivy9071/n/nf5227f7a4b5c",
+    "https://note.com/good_gnu448/n/n5fd9c4b5db74"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89）",
+   "results": [
+    "https://x.com/hashtag/財務総研スタッフ・レポート",
+    "https://jf.x.com/images/media-preview/2113545874890776741",
+    "https://x.com/PRI_MOF_Japan/status/1240463963369816064",
+    "https://x.com/ropcb08/status/2103144755131789743",
+    "https://x.com/PRI_MOF_Japan",
+    "https://x.com/sr_nishiyama/status/2066264415897260465",
+    "https://x.com/POSTwebmedia/status/2046425943229583581"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89）",
+   "results": [
+    "https://jp.linkedin.com/in/yukikabaya"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:facebook.com 財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89）",
+   "results": [
+    "https://www.facebook.com/PRI.MOF.Japan/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/財務総研職員等による財務省広報誌ファイナンスへの寄稿文生産性所得付加価値に関する研究会宇南山卓座長インタビューを掲載しました詳細はこちらからご覧くださいhttp/694936262674609/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/財務総研トピックスを更新いたしました職員トップセミナーやランチミーティングの様子など2019年11月の財務総研の活動のあらましはこちらからhttpswwwmof/2572783746174712/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/財務総研職員等による財務省広報誌ファイナンスへの寄稿文日本経済と資金循環の構造変化に関する研究会報告書を掲載しましたhttpswwwmofgojpprirese/909231044578462/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/財務総研トピックスを更新いたしました先端セミナーやランチミーティングの様子など2019年9月の財務総研の活動のあらましはこちらからhttpswwwmofgojp/2452241018228986/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/生産性所得付加価値に関する研究会報告書を取りまとめましたhttpswwwmofgojppriresearchconferencefy2022seisanseih/640489574785945/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/生産性所得付加価値に関する研究会第１回会合を11月8日に開催し研究会の問題意識等についての説明議論に続き高橋悠太様一橋大学経済研究所講師高山直樹様一橋大学経済研/499167778918126/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） note 社長",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings_sk/proceedings/20230424zaiseik.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 4
+  },
+  {
+   "query": "財務総研 生産性研究会 報告書 第8章 生産性のばらつき（企業間の労働生産性の分位・製造業・site:mof.go.jp・PDFの図表の数値・%でなく倍か金額・4-88・4-89） X 投稿",
+   "results": [
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=19601",
+    "https://pages.awscloud.com/rs/112-TZM-766/images/aws-ref-vol2.pdf.pdf",
+    "https://www.mhlw.go.jp/content/001267079.pdf",
+    "https://www.mlit.go.jp/policy/shingikai/content/002013531.pdf",
+    "https://www.soumu.go.jp/main_content/000987455.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/1efc7c7d-9e47-4ef1-835b-73512633e519/download"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "MOF Policy Research Institute productivity dispersion Japan firms chapter 8 interquartile manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/yoshi-fujiwara-22391991_productivity-dispersion-and-allocation-of-activity-7419237787125690368-L_4N",
+    "https://www.linkedin.com/posts/centre-for-economic-policy-research_japan-growth-productivity-activity-7405290516449292288-ti1t",
+    "https://www.linkedin.com/pulse/japan-key-base-market-manufacturing-productivity-landscape-veauf",
+    "https://www.linkedin.com/pulse/japan-rvs-market-manufacturing-productivity-3uctc",
+    "https://www.linkedin.com/pulse/japans-productivity-paradox-why-long-hours-persist-what-mari-ono-mba-1wosc?tl=en",
+    "https://www.linkedin.com/pulse/japan-supply-chain-logistics-market-manufacturing-c4dsf",
+    "https://www.linkedin.com/pulse/whither-japans-productivity-kok-choy-loh"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ53頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ53頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ53頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ53頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ53頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ53頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ53頁・検索18回）"
+ }
+}

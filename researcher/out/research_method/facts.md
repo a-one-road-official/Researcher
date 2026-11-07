@@ -2209,7 +2209,7 @@
   - 「結果を分析することにより、 京都府社会が、 府政運営の指針である 「明日の京都」」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果、３．歯」（https://www.soumu.go.jp/main_content/000432276.pdf）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3465,7 +3465,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -3849,11 +3849,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -4344,8 +4344,8 @@
 - 検索結果の抜粋：
   - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary statements, to enhance the credibility and transparency of intelligence analysis.」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
   - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — Intelligence Community Directive (ICD) 206 establishes requirements for sourcing information in disseminated analytic products within the Intelligence Community (IC). It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary 」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
-- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
-- 実例：記載なし（読んだ13頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
@@ -5978,8 +5978,8 @@
   - 「Centralized workflows help preserve relationships between collected artifacts and case context.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 
 ## 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事（analytic tradecraft key assumptions check indicators alternative hypotheses blog）
 - 文脈：分析の技法
@@ -8903,8 +8903,8 @@
   - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 
 ## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
 - 文脈：同一性
@@ -9585,9 +9585,9 @@
   - 「4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
@@ -11299,11 +11299,23 @@
 
 ## 政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合）（reading government statistical spreadsheets row column headers verification data journalism）
 - 文脈：手法
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「Data journalism applies quantitative analysis, statistical methods, and structured datasets to the reporting and presentation of news stories. This page covers how data journalism works mechanically, what distinguishes it from adjacent forms of reporting, what tensions arise in its practice, and how its core verification steps map onto broader」（https://journalismauthority.com/data-journalism/）
+  - 「applies statistical or computational methods — frequency counts, rate calculations, regression analysis, geographic aggregation — to derive findings. Tools in common professional use include Python (particularly pandas and geopandas libraries), R, SQL, and spreadsheet software such as Microsoft Excel or Google Sheets for simpler datasets.」（https://journalismauthority.com/data-journalism/）
+  - 「requires the reporter to check every derived figure against the underlying source data, test whether the analytical method is appropriate for the dataset structure, and have a second analyst independently replicate key findings. This is the phase most directly analogous to traditional source corroboration.」（https://journalismauthority.com/data-journalism/）
+  - 「translates findings into charts, maps, tables, or interactive graphics. The Reuters Graphics team and the New York Times's The Upshot are documented examples of in-house units that have published methodologies alongside their data stories, allowing readers to inspect source datasets directly.」（https://journalismauthority.com/data-journalism/）
+  - 「Publishing full methodology and source data is the gold standard for data journalism credibility, but it can expose the identities of individuals in datasets that were disclosed under confidentiality assumptions. De-identification is not always sufficient: the Netflix Prize dataset was re-identified by Narayanan and Shmatikoff (2008,」（https://journalismauthority.com/data-journalism/）
+  - 「Dataset selection, variable operationalization, analytical method, and visualization design all involve editorial choices that shape what the data appears to show. A crime rate story using raw incident counts versus population-adjusted rates will yield structurally different findings from the same underlying police records. Data journalism is systematic, not neutral.」（https://journalismauthority.com/data-journalism/）
+  - 「- Document every transformation step in a reproducible script or annotated spreadsheet」（https://journalismauthority.com/data-journalism/）
+  - 「- Publish the methodology in a standalone note or sidebar」（https://journalismauthority.com/data-journalism/）
+- 突き合わせ・推定：
+  - 「- Cross-check at least one derived statistic against a published secondary source」（https://journalismauthority.com/data-journalism/）
+- 一次情報の探し方：
+  - 「The scope encompasses a wide range of activities: downloading and querying government databases, filing Freedom of Information Act requests for records in structured formats (as authorized under」（https://journalismauthority.com/data-journalism/）
+  - 「- Request data in machine-readable format (CSV, JSON, XML) rather than PDF」（https://journalismauthority.com/data-journalism/）
+- 実例：
+  - 「translates findings into charts, maps, tables, or interactive graphics. The Reuters Graphics team and the New York Times's The Upshot are documented examples of in-house units that have published methodologies alongside their data stories, allowing readers to inspect source datasets directly.」（https://journalismauthority.com/data-journalism/）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例（admiralty code source grading practical OSINT analysts mistakes）
 - 文脈：手法
@@ -11418,6 +11430,17 @@
   - 「以上の結果を踏まえ、第5段階では、各仮説の相対的な確からしさについて」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 検索結果の抜粋：
   - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。 ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — この記事は、 NTT Communications Advent Calendar 2024 の記事です。 この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます。 また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法につい ...」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「インテリジェンス思考術（第24回-完） - インテリジェンスの匠 — 競合仮説分析（ACH）を使う 仮説競合分析とは 仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります。 この手法は、CIAの分析官リチャード・ホイヤーが、認知心理学をもとに整理したものです。背景には、KGBの二重 ...」（https://atsumori.shop/archives/2346）
+  - 「競合する仮説の分析 | 幻想の近現代（情報局815） — 「競合する仮説の分析」（以下 ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。 アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「Copilotで競合仮説分析(ACH)をやってみる - Qiita — Jan 10, 2026 · はじめに 競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系...」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。 NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「Analysis of Competing Hypotheses (ACH) - liberty91.com — Apr 28, 2026 · A step-by-step guide to Analysis of Competing Hypotheses (ACH) for cyber threat intelligence, with a step-by-step example and matrix template.」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
+  - 「ACH Template - SANS Institute — Jun 4, 2025 · Download ACH Template, built by SANS Instructor Pasquale Stirparo, an excel sheet that implements the scoring and weighting methodology of the Analysis of Competing Hypotheses, more specifically the Weighted Inconsistency Counting algorithm.」（https://www.sans.org/tools/ach-template）
 
 ## 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界（estimate private company revenue physical footprint square footage locations equipment funding valuation limits）
 - 文脈：推定
