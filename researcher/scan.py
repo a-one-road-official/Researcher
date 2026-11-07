@@ -815,8 +815,42 @@ def kougyo_size_section(topic):
         lst = sorted(lst, reverse=True); n = len(lst)
         rk = "、".join(f"{c} {nm[:10]} {v:,.1f}（{i + 1}/{n}位）" for i, (v, c, nm) in enumerate(lst) if c in ("2461", "2462", "2464", "2465", "2469", "2691", "2692", "2446", "2452"))
         md.append(f"- {band}・{y}年（{n}業種・中央の値 {lst[n // 2][0]:,.1f}）：{rk or '注目の業種なし'}")
+    # 2026-11-07 51回目の走査から（49回目の代わりの仮説3「並びの母数に製品の製造業が混ざり、受託の業種が下に見えるだけ」を見分ける）：
+    # 賃加工の重さ（kougyo_rows.csv シート1200・最新年）が線以上の細分類だけを母数にした並びを、同じ規模区分・同じ年で出す。線は50%と20%の2本
+    cw = _contract_weights(topic)
+    if cw:
+        for line in (0.5, 0.2):
+            md.append(f"### 受託の業種だけを母数にした並び（賃加工の重さ {line:.0%}以上・{max(cw.values(), key=lambda t: t[1])[1]}年の重さで判定・1人あたり付加価値額・万円・名目）")
+            for band, (y, lst) in sorted(latest.items()):
+                sub = sorted([t for t in lst if cw.get(t[1], (0, 0))[0] >= line], reverse=True); n = len(sub)
+                if n == 0: md.append(f"- {band}・{y}年：線以上の業種なし"); continue
+                rk = "、".join(f"{c} {nm[:10]} {v:,.1f}（{i + 1}/{n}位・重さ {cw[c][0]:.0%}）" for i, (v, c, nm) in enumerate(sub))
+                md.append(f"- {band}・{y}年（{n}業種）：{rk}" + ("・⚠ 3業種未満で順位に意味が薄い" if n < 3 else ""))
+        md.append("- 賃加工の重さが線より下の業種（金属プレス・金型など）は、統計の上では製品の出荷が大半で、受託の比べの母数に入れない。ただし材料を自分で買う下請は出荷額に数えられるので、重さが低い＝下請でない、ではない（4-70）")
     md.append("")
     return md
+
+def _contract_weights(topic):
+    """kougyo_rows.csv のシート1200から、細分類ごとの最新年の賃加工の重さ {code: (重さ, 年)} を返す（kougyo_contract_section と同じ式）"""
+    f = os.path.join(OUT, topic, "kougyo_rows.csv")
+    if not os.path.exists(f): return {}
+    acc = {}
+    for r in csv.DictReader(open(f, encoding="utf-8-sig")):
+        if str(r.get("sheet")) != "1200" or len(r.get("code") or "") != 4: continue
+        col = r.get("column") or ""
+        if "Value of manufactured goods shipments" not in col: continue
+        k = next((k for k, v in _KC.items() if v in col), None)
+        if not k: continue
+        d = acc.setdefault((r["code"], r["year"]), {"fy": r.get("file_year") or r["year"]})
+        if (r.get("file_year") or r["year"]) < d["fy"]: continue
+        if k not in d: d[k] = _kf(r.get("value"))
+    if not acc: return {}
+    ly = max(y for _, y in acc); out = {}
+    for (code, y), d in acc.items():
+        if y != ly or any(d.get(k) is None for k in _KC): continue
+        tot = sum(d[k] for k in _KC)
+        if tot > 0: out[code] = (d["加工賃"] / tot, y)
+    return out
 
 # 2026-11-07 4-68（Journalist's Resource「Basic data analysis: making the call」：比べる単位の平均の周りの95%の幅を出し、
 # その中に入る単位は「平均並み」として高い・低いと書かない）。kougyo_series.csv の最新の同じ年で、注目の細分類の
@@ -1134,6 +1168,20 @@ def scan(topic):
     _KY = re.compile(r"[髙﨑德濵邊邉澤齋齊廣國櫻龍會實與壽榮檜]")
     nky = [r for r in rows if _KY.search(r["引用"]) or _KY.search(r["品目"])]
     if nky: md.append(f"  - ⚠ 異体字（髙・﨑など）を含む引用 {len(nky)}件（例：{nky[0]['品目']}）：社名の突き合わせは字をそろえてから。そろえずに「別の会社」「見つからない」としない（4-75）")
+    # 2026-11-07 4-76（電子決算公告ドットコム「決算公告のやり方」：官報の決算公告は貸借対照表の要旨が中心で売上高・営業利益はほぼ載らない。
+    # 合同会社には決算公告の義務が無い）。①「官報」「決算公告」と同じ引用の売上高の数字は、要旨の外（別の資料・記事の取り違え）の疑いとして数える
+    # ②合同会社の決算公告の品目が空・0件でも失敗に数えない目印を出す
+    _KANPO = re.compile(r"(官報|決算公告)"); _URI = re.compile(r"(売上高|売上収益|営業収益|営業利益)")
+    nkp = [r for r in rows if _KANPO.search(r["引用"]) and _URI.search(r["引用"]) and not re.search(r"(損益計算書|P/L|PL)", r["引用"])]
+    if nkp: md.append(f"  - ⚠ 官報・決算公告の引用に売上高・営業利益 {len(nkp)}件（例：{nkp[0]['品目']}）：官報の公告は貸借対照表の要旨が中心で売上は普通載らない。要旨の外の数字の取り違えを疑い、公告の原本（官報・電子公告のページ）で欄を確かめる（4-76）")
+    ngk = [r for r in rows if "合同会社" in (r["引用"] + r["品目"]) and "公告" in (r["引用"] + r["品目"])]
+    if ngk: md.append(f"  - ⚠ 合同会社の決算公告に触れた引用 {len(ngk)}件（例：{ngk[0]['品目']}）：合同会社には決算公告の義務が無い。公告が見つからないことを欠け・失敗に数えず、売上は別の切り口（4-4）で出す（4-76）")
+    # 同（角渕由英 note「生成AIで特許侵害を見つけられるか？」：検索・引用の失敗の多くは表の構造が崩れて渡ることから起き、引用の照合に失敗したら
+    # まず抜き出した文の側（改行・表の展開）を疑う）。数字が6つ以上並ぶのに、かな・述語がほとんど無い引用は「表を平たくした文」の疑いとして数え、
+    # どの列・どの行の値かが分かるまで採る値にしない（表は表のファイルから取る・4-41）
+    _NUMS = re.compile(r"\d[\d,\.]*"); _KANA = re.compile(r"[ぁ-ん]")
+    nflat = [r for r in rows if len(_NUMS.findall(r["引用"])) >= 6 and len(_KANA.findall(r["引用"])) < 4]
+    if nflat: md.append(f"  - ⚠ 表を平たくした文の疑い（数字6つ以上・かなほぼ無し）{len(nflat)}件（例：{nflat[0]['品目']}）：列・行の見出しとの対応が崩れている恐れ。表のファイル・原文の表で列を確かめるまで採る値にしない（4-76）")
     # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
     # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
     import hashlib as _hl
