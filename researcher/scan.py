@@ -1282,6 +1282,32 @@ def scan(topic):
     _CNTEST = re.compile(r"(推計|推定|見込み|とみられ|と見られ|試算|概算)")
     ncnt = [r for r in rows if r["単位"] in ("社", "件", "事業所") and _CNTEST.search(r["引用"])]
     if ncnt: md.append(f"  - ⚠ 推計された件数（社・件・事業所）{len(ncnt)}件（例：{ncnt[0]['品目']}）：一覧・名簿から数えた数ではないので、件数の事実の欄に入れず【推定】で読む（4-74）")
+    # 2026-11-08 4-92（aruaruteitei note：AIで作った業界分析で、指摘・訂正を受け付けないと明記）。同じページのどこかに
+    # 「AIの分析・生成AIで作成・NotebookLM」や「ご指摘・訂正は受け付けない」があるURLを、ページ単位で印にし、そのURLの数字を数える。
+    # 生成物で訂正の窓口も無い出どころは、数字を事実の欄に入れず、一次で取り直す手がかりにだけ使う
+    _AIGEN = re.compile(r"(AIの分析|AIによる分析|生成AIで作成|AIが作成|AIで作成|NotebookLM|ChatGPTで作成|(ご意見|ご指摘|訂正)[^。]{0,20}(受け付けて|お受けして)(いません|おりません))")
+    aiurls = {r["URL"] for r in rows if r.get("URL") and _AIGEN.search(r["引用"])}
+    nai = [r for r in rows if r.get("URL") in aiurls and str(r.get("値", "")).strip()]
+    if nai: md.append(f"  - ⚠ 生成物・訂正を受け付けないと明記したページの数字 {len(nai)}件・{len(aiurls)}URL（例：{nai[0]['品目']}）：事実の欄に入れず、一次で取り直す手がかりにだけ使う（4-92）")
+    # 同（billye note：売上は1年分でなく10年ほどの推移で見る）。会社・品目ごとに売上の値の年が1つしかないものを数える。
+    # 1年だけの売上で「伸びている・大きい」を書かない
+    _SALES = re.compile(r"(売上高|売上|年商|営業収益)")
+    syears = {}
+    for r in rows:
+        if _SALES.search(r["品目"] + r["引用"]) and str(r.get("値", "")).strip() and str(r.get("年", "")).strip():
+            syears.setdefault(r["品目"], set()).add(str(r["年"]))
+    s1 = sorted(k for k, v in syears.items() if len(v) == 1)
+    # 2026-11-08 67回目の走査の失敗：「職業別の有効求人倍率」の品目に賃金の万円が、「採用1人あたり費用」の品目に有効求人倍率の倍が入った。
+    # 品目の名が求める単位の種類（倍率か金額か）と、取れた値の単位の種類が違うものを数え、その品目の採る値・結論に使わない
+    _MONEY = ("円", "万円", "千円", "百万円", "億円")
+    def _unit_mismatch(r):
+        n = r["品目"]
+        if "倍率" in n and not re.search(r"(費用|単価|賃金|給与|額)", n) and r["単位"] in _MONEY: return True
+        if re.search(r"(費用|単価|採用費|金額|売上)", n) and "倍率" not in n and r["単位"] == "倍": return True
+        return False
+    num = [r for r in rows if str(r.get("値", "")).strip() and _unit_mismatch(r)]
+    if num: md.append(f"  - ⚠ 品目の名が求める単位と違う単位の値 {len(num)}件（例：{num[0]['品目']}｜{num[0]['単位']}）：別の指標を拾った指紋。その品目の採る値・結論に使わない（4-92）")
+    if s1: md.append(f"  - ⚠ 売上の値が1年分しかない品目 {len(s1)}件（例：{s1[0]}）：1年で伸び・規模を書かず、決算公告・有価証券報告書で複数年を取る（4-92）")
     # 同（GENAI「AIのハルシネーション」：引用元のない統計を公的な数値のように示す型が最も見抜きにくい）。一次でない引用が
     # 「調査によると・統計によると・データによると」と書きながら、調査・統計の名（省庁・白書・「」の調査名・団体名）を持たないものを数える
     _ANON = re.compile(r"(調査によると|統計によると|データによると|調査では|統計では|調べによると)")
