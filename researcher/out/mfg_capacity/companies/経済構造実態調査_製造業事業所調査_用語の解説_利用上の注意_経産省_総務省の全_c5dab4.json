@@ -1,0 +1,516 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83）",
+ "en": "Economic Structure Survey manufacturing glossary notes national METI stat.go.jp",
+ "aliases": [
+  "経済構造実態調査 製造業事業所調査 用語の解説 site:meti.go.jp",
+  "経済構造実態調査 利用上の注意 site:stat.go.jp"
+ ],
+ "context": "統計の定義",
+ "kind": "market",
+ "researched_at": "2026-11-07T15:55:25.748838+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003109534/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001073927.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://0f23b6763487cca1605a77614f539eaf.cdnext.stream.ne.jp/faq/1005668/1005999/1041416.html",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jba210.jp/wp-content/uploads/2025/04/4185411382c9ff7b04233fcab73d290d.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/87266.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1970867909856297519",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001231885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkenren.com/news/pdf/oshirase/2407/158.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fooma.or.jp/%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%BB%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%BB%E7%B5%8C%E6%B8%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index301.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003109534/index.html",
+    "https://www.soumu.go.jp/main_content/001073927.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa/",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.soumu.go.jp/main_content/001073927.pdf",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://0f23b6763487cca1605a77614f539eaf.cdnext.stream.ne.jp/faq/1005668/1005999/1041416.html",
+    "https://www.jba210.jp/wp-content/uploads/2025/04/4185411382c9ff7b04233fcab73d290d.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/yougo.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.stat.go.jp/data/kkj/kekka/yougo.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_keizaikouzou.html",
+    "https://www.pref.ehime.jp/page/87266.html",
+    "https://www.soumu.go.jp/main_content/001073927.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://cir.nii.ac.jp/crid/1970867909856297519",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_keizaikouzou.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/yougo.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_keizaikouzou.html",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.soumu.go.jp/main_content/001073927.pdf",
+    "https://www.jba210.jp/wp-content/uploads/2025/04/4185411382c9ff7b04233fcab73d290d.pdf",
+    "https://www.nikkenren.com/news/pdf/oshirase/2407/158.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.fooma.or.jp/%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%BB%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%BB%E7%B5%8C%E6%B8%88/"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey manufacturing glossary notes national METI stat.go.jp Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index301.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.e-stat.go.jp/en",
+    "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index302.html",
+    "https://www.stat.go.jp/english/data/kkj/gaiyou.html"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83）",
+   "results": [
+    "https://note.com/grino_yu/n/n37a543223d31",
+    "https://note.com/chic_deer1160/n/ne298803b1004",
+    "https://note.com/intimatemerger/n/n9012095e7eac",
+    "https://note.com/kiyo_ai_note/n/n8447dd15c216",
+    "https://note.com/sansanjapan/n/n40c4a97e7965",
+    "https://note.com/chic_deer1160/n/n41256b604100",
+    "https://note.com/globaltaxsouken/n/na8d5b32b60e9",
+    "https://note.com/iceman_23/n/n5a2be9e58121",
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/bizgram/n/n9a587c22ec50"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2078630177639375040",
+    "https://x.com/KagawaTomo/article/2080578592044724258",
+    "https://x.com/fujikawa/status/2113033907948143047",
+    "https://x.com/luigi_jpn/article/2091082601054523816",
+    "https://x.com/luigi_jpn/article/2067024974838374611",
+    "https://x.com/i/article/2113066175089508431",
+    "https://x.com/KagawaTomo/status/2115052588332884288",
+    "https://x.com/EcoNetworks",
+    "https://x.com/KagawaTomo/article/2077860581412114800",
+    "https://x.com/dancehakase/article/2062140638658011472"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83）",
+   "results": [
+    "https://www.linkedin.com/pulse/276-%E8%87%AA%E5%BE%8B%E3%81%99%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%B8-%E9%99%BD-%E4%BD%90%E8%97%A4-fvgec",
+    "https://jp.linkedin.com/in/nobukazu-nishio",
+    "https://jp.linkedin.com/in/atsushi-hara",
+    "https://www.linkedin.com/company/imaru-holding",
+    "https://jp.linkedin.com/pulse/279-%E3%83%8A%E3%83%A9%E3%83%86%E3%82%A3%E3%83%96%E3%81%A8ai%E3%81%8C%E5%85%B1%E5%89%B5%E3%81%99%E3%82%8B%E6%9C%AA%E6%9D%A5-%E9%99%BD-%E4%BD%90%E8%97%A4-x3kjc",
+    "https://jp.linkedin.com/in/yuji-ohara-221614b7",
+    "https://jp.linkedin.com/in/daisuke-kikuchi-marimo0601",
+    "https://jp.linkedin.com/in/hiromitsu-tamaoka-6969a414a",
+    "https://jp.linkedin.com/in/%E5%95%93%E4%B8%80%E9%83%8E-%E8%97%A4%E5%8E%9F-188602240",
+    "https://jp.linkedin.com/in/alexgmatsui"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83）",
+   "results": [
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/groups/903670287751336/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/VUC2021/",
+    "https://www.facebook.com/groups/325141627499796/",
+    "https://www.facebook.com/100064515737150/?locale=th_TH",
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/groups/713390697225371/",
+    "https://www.facebook.com/groups/1848794089020669/",
+    "https://www.facebook.com/fumio.kouchi/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.soumu.go.jp/main_content/001073927.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/299047.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://cir.nii.ac.jp/crid/1970867909856297519"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.pref.kagawa.lg.jp/tokei/shoko/seizogyo/2024seizogyo.html",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/299047.pdf",
+    "https://www.pref.ehime.jp/page/87266.html"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey manufacturing glossary notes national METI stat.go.jp site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/grey-wave-global-sme-succession-crisis-case-japan-cecilia-thon-tddce",
+    "https://uk.linkedin.com/in/shohei-kawabata-54b19865",
+    "https://fr.linkedin.com/in/maiko-meguro-77a65b110",
+    "https://ca.linkedin.com/in/eric-fandrich",
+    "https://sg.linkedin.com/in/kazimkzzn",
+    "https://uk.linkedin.com/in/franti%C5%A1ek-bro%C4%8Dek-9682b3107",
+    "https://ca.linkedin.com/in/mohammad-muaz-jalil-4a780917",
+    "https://www.linkedin.com/in/braeden-thomas22",
+    "https://www.linkedin.com/in/kathleenguzman",
+    "https://uk.linkedin.com/in/pietro-bicocchi"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ45頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ45頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ45頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ45頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ45頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ45頁・検索18回）",
+  "10年推移": "記載なし（読んだ45頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ45頁・検索18回）"
+ }
+}

@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・186品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・189品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3422,7 +3422,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -4298,8 +4298,9 @@
   - 「of collection as well as source access, validation, motivation, possible bias, or expertise. When a」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
 - 検索結果の抜粋：
   - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary statements, to enhance the credibility and transparency of intelligence analysis.」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+  - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — Intelligence Community Directive (ICD) 206 establishes requirements for sourcing information in disseminated analytic products within the Intelligence Community (IC). It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary 」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
+- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
+- 実例：記載なし（読んだ13頁・検索12回）
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
@@ -5925,8 +5926,8 @@
   - 「Centralized workflows help preserve relationships between collected artifacts and case context.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
 
 ## 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事（analytic tradecraft key assumptions check indicators alternative hypotheses blog）
 - 文脈：分析の技法
@@ -11168,3 +11169,148 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）（analysis of competing hypotheses team workflow iterate add hypotheses OSINT report most likely）
+- 文脈：手法
+- 手順・やり方：
+  - 「加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「要性に余り理解を示さなかったのは、軍の教育機関において情報の分析方法が」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「した「合理的敵情判断ノ方法」及び「敵情補充ノ原則」である14」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「このほか、情報分析方法について論じたものとしては以下を参照のこ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「「合理的敵情判断ノ方法」及び「敵情補充ノ法則」に示されている井上の情」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「報分析の方法論（以下「井上の情報論」という）について、これまで情報分析」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「なお、教案とは、「教師が授業の目的、方法、時間配当、参考資料などにつ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「拠の追加を行った場合、新要素について、第3段階の手順を実施する」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「上記の手順を経て得られた結果を報告するのが、第7 段階である」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「(1) 合理的敵情判断ノ方法」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「「合理的敵情判断ノ方法」では、敵情判断の方法について、三つの方面25に」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「これら三つの方面があいまって「合理的敵情判断ノ方法」は作動するも」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「判断ノ方法」の概要を、図1のようにまとめている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+- 突き合わせ・推定：
+  - 「【イギリスの元スパイが説く】すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」とは？ | イギリス諜報機関の元スパイが教える 最強の知的武装術――残酷な時代を乗り切る10のレッスン | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/290369）
+  - 「説明を検証し、仮説を選択する」（https://diamond.jp/articles/-/290369）
+  - 「アメリカとイギリスの刑事司法制度は、当事者対抗手続きにおいて検察側と弁護側、それぞれが示す事実に関する別の説明がないかを法廷で検証する」（https://diamond.jp/articles/-/290369）
+  - 「仮説が正しいと認められるには、そうしたすべての仮定を満たさなければならないからだ」（https://diamond.jp/articles/-/290369）
+  - 「すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」」（https://diamond.jp/articles/-/290369）
+  - 「進行中の事態について考えるときには、ほかの仮説が正しいという相対的な確率を意識することが重要だ」（https://diamond.jp/articles/-/290369）
+  - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
+  - 「6が多く出るようサイコロに細工がされていると疑うなら、サイコロを何度も振ってみれば検証できる」（https://diamond.jp/articles/-/290369）
+  - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
+  - 「でも触れるベイズ推定の手法を用いて考えるといい」（https://diamond.jp/articles/-/290369）
+  - 「これは「競合仮説分析」（ACH）と呼ばれる手法だ」（https://diamond.jp/articles/-/290369）
+  - 「ACHでは、仮説（対立仮説）をすべて挙げ、どれを選択するかについてすべての証拠・推論・仮定の重要性を検証し（これは「情報報告の識別」という不快な名で呼ばれている）、反証が最も少ない説明を有力とする」（https://diamond.jp/articles/-/290369）
+  - 「残念ながら、日々出合う状況の多くは、繰り返し試して検証することができない」（https://diamond.jp/articles/-/290369）
+  - 「それでも仮説を立てれば、観察する行動と照らし合わせて、上司の偏見を合理的に立証できる」（https://diamond.jp/articles/-/290369）
+  - 「関係する人たちの動機を評価し、証拠に対して別の説明がないかを検証によって判断し、仮説を識別する」（https://diamond.jp/articles/-/290369）
+- 一次情報の探し方：
+  - 「http://www.mofa.go.jp/mofaj/press/release/17/pdfs/rls_0913a.pdf、2013年 2月 11日ア」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「の方針』内閣官房、2008年、http://www.kantei.go.jp/jp/singi/zyouhou/080214kettei.pdf、」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「実際の調査では、現場で機能する実践的な方法を採用しています」（https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html）
+  - 「このモデルを採用しているのは、関係性に基づく分析を支えるからです」（https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html）
+  - 「「なぜこのIOCを採用したのか」を B2 という2文字で示せれば、レビューする側は根拠の強さを即座に把握でき、半年後の自分も同じ基準で再評価できます」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「採用した仮説、その確度（6章）、そして「どんな証拠が出たら結論を変えるか」を明記する」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「ICD 203: Analytic Standards（米国家情報長官室・確度表現の原典PDF・英語）」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 失敗・落とし穴：
+  - 「競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系的な分析手法である」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「単一の仮説を支持する情報ばかりを集める「確証バイアス」を防ぎ、情報分析の客観性と精度を高めるために、特に諜報活動や戦略策定などで用いられている」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「インテリジェンスの歴史は、失敗の歴史ともいわれている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「戦争開戦前の大量破壊兵器に関する見積もりの失敗など、多くの「情報の失敗」」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「そして、こうした「情報の失敗」の原因と」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「2 「情報の失敗」とその対策については多くの先行研究があるが、主要なものとしては以」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「合致する証拠を重視する傾向（確証バイアス）21を持っている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「こうした傾向を持つことから、人間は、あいまい、あるいは誤りと思われる」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「この特徴により、確証バイアスを避けることができる」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「までも仮説にとどまり、一度反証されれば、誤りとされるという反証主義を唱えた」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「また、確証バイアス」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「また、敵の欺瞞が行われること49や、味方の報告に誤りが」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「これに注意することにより、情況の思わぬ変化や敵の欺瞞に対応できる60」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「合、認知能力の限界から彼は確証バイアスの影響を受け、Ａを裏付けるインフ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+- 実例：
+  - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
+  - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
+  - 「1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる」（https://diamond.jp/articles/-/290369）
+  - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
+  - 「また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない」（https://diamond.jp/articles/-/290369）
+  - 「4. ACH結果」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「今回は身近な題材を使ってCopilotによるACHの結果を観察してみた」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「ACHの分析内容も、概ね意図したとおりの結果だった」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「鮮戦争時の対中情報を事例として」『戦略研究』第5号、2007年 11月、145-159頁」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「例えば、北岡元は、前述の」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「7 例えば以下を参照のこと」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「事例に」『情報史研究』第3号、2011年 6月、39-76頁；楠公一「情報見積り手法の形」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「整合するかどうかを確認、マトリックスに結果を記入する」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「討の結果、全ての仮説に整合・不整合であった証拠については、仮説ごとの確」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「以上の結果を踏まえ、第5段階では、各仮説の相対的な確からしさについて」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+- 検索結果の抜粋：
+  - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
+
+## 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界（estimate private company revenue physical footprint square footage locations equipment funding valuation limits）
+- 文脈：推定
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）（record linkage data cleansing impossible values renamed companies former names matching）
+- 文脈：手法
+- 手順・やり方：
+  - 「名寄せとは？必要な理由や実践方法をわかりやすく解説 | 営業DX Handbook by Sansan」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「ステップ１：データ調査」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「ステップ２：データ抽出」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「ステップ３：データクレンジング」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「ステップ４：データマッチング」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「ツール間でデータ形式や管理方法が異なると、本来の機能を十分に活用できない状況が発生します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「使いにくい顧客データ問題を解決 ！「名寄せ」で活用できるデータに変える方法 資料ダウンロード」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「名寄せのやり方は、次の通りです」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「各工程で必要な手順を理解しておくと、作業をスムーズに進められるでしょう」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「事前に名寄せを実施する目的を明確にし、社内における進め方をよく検討しておきましょう」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「続いて、データ調査で決定した進め方に従い、データベースから顧客の特定に必要な情報を洗い出します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「企業の業務目標や法的要件に基づいて達成すべきデータ品質レベルを設定し、これらの基準に従ってクレンジングの優先順位や方法を決定します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「表記ゆれの修正には、データの複雑さや量に応じてさまざまな方法があります」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「適切な修正方法を選択し、正確に実行することで、名寄せの精度が大幅に向上します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「データベースの最適化には不要なデータの処理が不可欠で、処理する方法には削除と統合の2つの方法があります」（https://jp.sansan.com/media/aggregation-of-names/）
+- 突き合わせ・推定：
+  - 「営業部門とマーケティング部門で別々のデータベースを使用する場合、顧客対応に食い違いが生じる可能性があります」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「この場合、既存の顧客データをあらかじめ用意した標準化された顧客名リストと照合し、一致度を測定します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「明らかな入力ミスや論理的に矛盾するデータを特定し、修正します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「── LLMに「業種カテゴリ」「推定規模」を推定させます」（https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide）
+- 失敗・落とし穴：
+  - 「たとえば、「株式会社」と「(株)」のような表記間違いや入力ミスを防ぐためには、」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「重複データを生み出す原因となるため注意が必要」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「たとえば、顧客数の過大評価やセグメンテーションの誤りが発生する可能性があります」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「例えば、次のようなケースにおいて違いが生じやすいので注意が必要です」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「データクレンジングのプロセスでは、項目ごとに表記ルールを統一させて、誤りのあるデータがあれば正しい表記に修正します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「操作ミスによりファイルの破損・紛失などが発生するリスクもあり、取り扱いには注意が必要です」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「名寄せを実施する際は、個人情報の取り扱いに細心の注意を払わなければなりません」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「名寄せに失敗し、統合すべき情報が統合されなかった場合には、個人情報の漏えいなど大きなトラブルに発展するリスクがあるからです」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「情報の入力時だけでなく、データクレンジングやマッチングの各段階において誤りがないことを確認する」（https://jp.sansan.com/media/aggregation-of-names/）
+- 実例：
+  - 「行政においては、同一人に対する情報が複数存在した結果、データを正しく判別できず適切な対応ができない、といった事例がありました」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「職歴が複数にまたがることで国民年金・厚生年金の支払人が複数いると記録され、社会保険庁が適正な老齢年金を支給できないケースなどです」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「たとえば、住所変更が営業部門のデータベースにのみ反映され、他部門では旧住所のままというケースがあります」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「結果、全部門が最新の顧客情報にアクセスでき、一貫性のあるサービス提供や的確な意思決定が可能となります」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「その結果、顧客対応の一貫性が保たれ、サービス品質の向上につながります」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「たとえば、同じ商品の案内メールが複数回送信されるケースが考えられます」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「調査の結果を踏まえ、どのようなデータにまとめると営業やマーケティング活動に活用できるのかを決定します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「例えば、次のようなケースにおいて違いが生じやすいので注意が必要です」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「分析結果に基づき、効果的なクレンジング計画を立案します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「より複雑なケースでは、正規表現を用いたルールベースの自動修正や、大量データを効率的に処理するためのAIを活用した手法も選択肢です」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「例えば、同一顧客の複数レコードを1つに統合し、各レコードの有用な情報を保持します」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「例えば、顧客の住所が欠落している場合、他の有効な情報源から正しい住所を調べます」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「たとえば、生年月日が未来の日付になっているケースや、郵便番号と住所が一致しないケースなどが対象となります」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「例えば、企業名や住所、電話番号の3項目をキーに設定する場合、ほかの情報に相違があっても同一企業であるとみなされます」（https://jp.sansan.com/media/aggregation-of-names/）
+  - 「ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です」（https://jp.sansan.com/media/aggregation-of-names/）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）

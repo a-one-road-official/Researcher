@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・173品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・176品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -9264,6 +9264,85 @@
 - 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 用語の解説・利用上の注意（経産省・総務省の全国のページだけ・自治体のページを除く・4-83）（Economic Structure Survey manufacturing glossary notes national METI stat.go.jp）
+- 文脈：統計の定義
+- 痛み・損（深さの印）：記載なし（読んだ45頁・検索18回）
+- 事業所数・社数：記載なし（読んだ45頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ45頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ45頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ45頁・検索18回）
+- 生産能力・設備：記載なし（読んだ45頁・検索18回）
+- 10年推移：記載なし（読んだ45頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ45頁・検索18回）
+
+## 中小企業白書2020 本文 第1部第2章第2節 規模別・業種別の労働生産性の比較（第1-2-5図の本文の説明・製造業の上位10%・中央値・下位10%の数字・付属統計の Excel が取れないときの2本目・4-80・4-83）（White Paper on SMEs 2020 chapter 1-2-2 labor productivity comparison by size and industry manufacturing percentile text）
+- 文脈：1人あたり生産能力
+- 社員数・平均社員数：
+  - 「将来的に人口減少に直面する日本にとって、こうした労働生産性の高い企業を増やしていくことが重要になると中小企業白書2020は指摘する」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+- 受注金額・加工賃収入：
+  - 「Sheet1：労働生産性（万円） 従業者割合」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 149.9万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：生活関連サービス業，娯楽業：労働生産性（万円） 163.4万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：小売業：労働生産性（万円） 252.5万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：医療，福祉：労働生産性（万円） 307.6万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：その他サービス業：労働生産性（万円） 361.6万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：製造業：労働生産性（万円） 374.8万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：建設業：労働生産性（万円） 399.1万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：不動産, 物品賃貸業：労働生産性（万円） 430.8万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：運輸業，郵便業：労働生産性（万円） 456.7万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：学術研究，専門・技術サービス業：労働生産性（万円） 486.1万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：情報通信業：労働生産性（万円） 522.5万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：卸売業：労働生産性（万円） 545.9万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：医療，福祉：労働生産性（万円） 316.9万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 333.2万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+- 1人あたり・1社あたり金額：
+  - 「中小企業庁：2020年版「中小企業白書」 第1部第2章第2節 規模別・業種別での労働生産性の比較」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第2章 中小企業・小規模事業者の労働生産性」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第2節 規模別・業種別での労働生産性の比較」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「同図において、我が国の労働力のうち約7割を占める中小企業の労働生産性の平均値は、大企業における労働生産性の平均値をおおむね下回っている」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「労働生産性の分子となる付加価値額について、平成28年経済センサス‐活動調査では平成27年1年間の値を把握している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「に上位10％、中央値、下位10％の労働生産性の水準を示している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「しかし、小規模企業の上位10％の水準は大企業の中央値を上回っており、企業規模が小さくても高い労働生産性の企業が一定程度存在することが分かる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「反対に、大企業の下位10％の水準は小規模企業の中央値を下回っており、企業規模は大きいが労働生産性の低い企業も存在している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「Sheet1：第1-2-4図 労働生産性と労働構成比」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：労働生産性（万円） 従業者割合」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 149.9万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：生活関連サービス業，娯楽業：労働生産性（万円） 163.4万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：小売業：労働生産性（万円） 252.5万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：医療，福祉：労働生産性（万円） 307.6万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：その他サービス業：労働生産性（万円） 361.6万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+- 10年推移：
+  - 「中小企業庁：2020年版「中小企業白書」 第1部第2章第2節 規模別・業種別での労働生産性の比較」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「2020年版 中小企業白書（HTML版）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第1部 令和元年度（2019年度）の中小企業の動向」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第1部 令和元年度(2019年度)の中小企業の動向」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「生産性の低い企業は退出へ、中小企業の新陳代謝と見えてきた多様性：2020年版中小企業白書を読み解く（2）（2/5 ページ） - MONOist」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「2020年版中小企業白書を読み解く（2）」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「2020年11月24日 11時00分 公開」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「：生産性と労働構成比（クリックで拡大）出典：中小企業白書2020」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「将来的に人口減少に直面する日本にとって、こうした労働生産性の高い企業を増やしていくことが重要になると中小企業白書2020は指摘する」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「：企業規模別の労働生産性の比較（パーセンタイル）（クリックで拡大）出典：中小企業白書2020」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「：企業規模別・業種別の労働生産性（クリックで拡大）出典：中小企業白書2020」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「なお、中小企業白書2020は、これら労働生産性の規模間格差や企業間格差は業種によっても大きく異なると述べている」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「：業種別に見た、労働生産性の規模間格差（差分）（クリックで拡大）出典：中小企業白書2020」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+  - 「大崎駅徒歩5分のモノづくり拠点「SHIP」、2015年6月に開設」（https://monoist.itmedia.co.jp/mn/articles/2011/24/news003_2.html）
+- 人手と仕事の差：
+  - 「中小企業は、深刻化する人手不足等の構造変化に加え、働き方改革や被用者保険の適用拡大、賃上げ、インボイス導入など、今後複数年にわたり相次ぐ制度変更に直面する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+- 痛み・損（深さの印）：記載なし（読んだ45頁・検索18回）
+- 事業所数・社数：記載なし（読んだ45頁・検索18回）
+- 生産能力・設備：記載なし（読んだ45頁・検索18回）
+
+## 受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84）（Japanese contract plating heat treatment press shop floor area equipment count revenue employees company profile）
+- 文脈：1人あたり生産能力
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83）（Census of Manufacture Japan definition value of shipments including internal consumption tax METI report notes PDF）
 - 文脈：統計の定義
 - 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
 - 事業所数・社数：記載なし（読んだ55頁・検索18回）
