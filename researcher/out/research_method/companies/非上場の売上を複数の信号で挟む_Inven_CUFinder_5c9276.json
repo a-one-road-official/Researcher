@@ -8,8 +8,34 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T13:10:21.010335+00:00",
+ "researched_at": "2026-11-07T18:31:28.508771+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "SEC EDGAR (sec.gov/edgar) for public company filings",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A long-standing controversy is whether accounting should follow an “income-statement” or a",
+    "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Every CFO we spoke to laments the FASB’s de-emphasis of the income-statement perspective in",
+    "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "How to Find Revenue Estimates for Private Companies | Inven",
@@ -390,28 +416,64 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "SEC EDGAR (sec.gov/edgar) for public company filings",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A long-standing controversy is whether accounting should follow an “income-statement” or a",
+    "quote": "Although field studies suffer from their own problems (potential response bias, limited data",
     "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Every CFO we spoke to laments the FASB’s de-emphasis of the income-statement perspective in",
+    "quote": "an expert who specializes in survey design and execution. Our goal was to minimize biases induced by",
     "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "quote": "4.1 Is managerial discretion in reported earnings used to convey private information or to bias financial",
+    "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "efficiency because managers bias financial reports for private gains. Theory (Dye and Verrecchia 1995,",
+    "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Understanding Revenue Forecasting: Models, Benefits and Pitfalls",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Revenue Projection Pitfalls To Avoid",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Other mistakes businesses should work to avoid include:",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes to Avoid",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -563,68 +625,6 @@
    },
    {
     "quote": "Practical Example: Putting It All Together",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Although field studies suffer from their own problems (potential response bias, limited data",
-    "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "an expert who specializes in survey design and execution. Our goal was to minimize biases induced by",
-    "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4.1 Is managerial discretion in reported earnings used to convey private information or to bias financial",
-    "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "efficiency because managers bias financial reports for private gains. Theory (Dye and Verrecchia 1995,",
-    "url": "https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Understanding Revenue Forecasting: Models, Benefits and Pitfalls",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue Projection Pitfalls To Avoid",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Other mistakes businesses should work to avoid include:",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes to Avoid",
     "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1062,11 +1062,6 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/irshukatsu/n/n9fd752118742",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/markeducation/n/n90132f936d08",
     "status": "ok",
     "method": "http"
@@ -1077,47 +1072,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/irshukatsu/n/n9fd752118742",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nac55beffbef2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/sk_kasou/n/n5f399867efe8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/value_stock_lab/n/ne66e3df843e7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://baike.baidu.com/item/非/84174",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://en.wiktionary.org/wiki/%E9%9D%9E",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hanyuguoxue.com/zidian/zi-38750",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://namu.wiki/w/非",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://wenku.baidu.com/view/15006260da80d4d8d15abe23482fb4daa58d1de2.html",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%9D%9E",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
     "status": "ok",
     "method": "http"
    },
@@ -1127,32 +1092,17 @@
     "method": "http"
    },
    {
+    "url": "https://cufinder.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cufinder.io/ja/enrichment-engine/find-technology-stack",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-lookalikes",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://service.g-search.jp/2024/12/20/01062.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cufinder.io/ja/buying-signals",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://aitools.aiting.com/ja/ai/inven",
+    "url": "https://connected-one.world/blog/note-shukyaku",
     "status": "ok",
     "method": "http"
    },
@@ -1162,7 +1112,37 @@
     "method": "http"
    },
    {
-    "url": "https://twostone-s.com/columns/dx/dx-guide/15212/",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-lookalikes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cufinder.io/ja/enrichment-engine/find-technology-stack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cufinder.io/ja/buying-signals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navgood.com/ja/tool-details/inven-3ab50",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up",
     "status": "ok",
     "method": "http"
    },
@@ -1172,17 +1152,7 @@
     "method": "http"
    },
    {
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up",
+    "url": "https://onedesksolution.com/revenue-forecasting-methods/",
     "status": "ok",
     "method": "http"
    },
@@ -1192,9 +1162,14 @@
     "method": "http"
    },
    {
-    "url": "https://onedesksolution.com/revenue-forecasting-methods/",
+    "url": "https://www.oxxonadvisors.com/fmae-knowledge-centre/technical-guides/revenue-forecasting-methods/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://suprdeck.com/blog/bottom-up-vs-top-down-forecasting",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -1203,28 +1178,33 @@
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） site:note.com",
    "results": [
     "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "https://note.com/irshukatsu/n/n9fd752118742",
     "https://note.com/markeducation/n/n90132f936d08",
     "https://note.com/nayami_answer/n/ncacdf3ca4150",
+    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/tatsuya_sabato/n/nac55beffbef2",
     "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://note.com/value_stock_lab/n/ne66e3df843e7",
-    "https://note.com/kyoki_labo/n/na1f6d6b90e9b"
-   ]
+    "https://note.com/value_stock_lab/n/ne66e3df843e7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） note",
    "results": [
-    "https://baike.baidu.com/item/非/84174",
-    "https://en.m.wiktionary.org/wiki/非",
-    "https://www.hanyuguoxue.com/zidian/zi-38750",
-    "https://namu.wiki/w/非",
-    "https://wenku.baidu.com/view/15006260da80d4d8d15abe23482fb4daa58d1de2.html",
-    "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=非",
-    "https://hvdic.thivien.net/whv/非",
-    "https://dict.revised.moe.edu.tw/dictView.jsp?ID=1549&la=0&powerMode=0",
-    "https://www.esdict.cn/mdicts/en/非",
-    "https://baike.baidu.com/item/非/9485295"
-   ]
+    "https://cufinder.io/ja",
+    "https://cufinder.io/",
+    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
+    "https://connected-one.world/blog/note-shukyaku",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/sk_kasou/n/n5f399867efe8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） やり方",
@@ -1232,14 +1212,15 @@
     "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
     "https://cufinder.io/ja",
     "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
-    "https://cufinder.io/ja/enrichment-engine/find-technology-stack",
     "https://cufinder.io/ja/enrichment-engine/find-company-lookalikes",
-    "https://service.g-search.jp/2024/12/20/01062.html",
+    "https://cufinder.io/ja/enrichment-engine/find-technology-stack",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "https://www.g-search.or.jp/column/trend/unlisted-company/"
-   ]
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） 事例",
@@ -1247,114 +1228,147 @@
     "https://cufinder.io/ja",
     "https://cufinder.io/ja/buying-signals",
     "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
-    "https://aitools.aiting.com/ja/ai/inven",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://twostone-s.com/columns/dx/dx-guide/15212/",
-    "https://service.g-search.jp/2024/12/20/01062.html"
-   ]
+    "https://www.navgood.com/ja/tool-details/inven-3ab50",
+    "https://cufinder.io/",
+    "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "private company revenue estimate multiple signals top-down bottom-up conservative",
    "results": [
-    "https://www.everydaybudd.com/tools/business-startup-finance/revenue-forecasting-top-down-bottom-up",
-    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
     "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up",
-    "https://adlega.com/blog/revenue-forecasting/",
+    "https://www.everydaybudd.com/tools/business-startup-finance/revenue-forecasting-top-down-bottom-up",
     "https://onedesksolution.com/revenue-forecasting-methods/",
-    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies"
-   ]
+    "https://adlega.com/blog/revenue-forecasting/",
+    "https://www.oxxonadvisors.com/fmae-knowledge-centre/technical-guides/revenue-forecasting-methods/",
+    "https://suprdeck.com/blog/bottom-up-vs-top-down-forecasting",
+    "https://forecastio.ai/blog/top-down-vs-bottom-up-forecasting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:note.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
    "results": [
+    "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
+    "https://note.com/bloomo_economics/n/ncd864eb73506",
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
     "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://note.com/value_stock_lab/n/ne66e3df843e7",
-    "https://note.com/kyoki_labo/n/na1f6d6b90e9b"
-   ]
+    "https://note.com/kyoki_labo/n/na1f6d6b90e9b",
+    "https://note.com/irshukatsu/n/n9fd752118742"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
    "results": [
-    "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://note.com/value_stock_lab/n/ne66e3df843e7",
-    "https://note.com/kyoki_labo/n/na1f6d6b90e9b"
-   ]
+    "https://x.com/labo_rabo/status/2079570844796473353",
+    "https://x.com/tenma417/status/2087123885007442319",
+    "https://x.com/nikkepedia_jp/status/2087109901323837507",
+    "https://x.com/nikkepedia_jp/status/2056315388565344706",
+    "https://x.com/IA_okada/status/2100364647786479788",
+    "https://x.com/StockSun_ceo/status/2089055769820024942",
+    "https://x.com/Takuma_Uemura_/status/2088101782723723268"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
    "results": [
-    "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://note.com/value_stock_lab/n/ne66e3df843e7",
-    "https://note.com/kyoki_labo/n/na1f6d6b90e9b"
-   ]
+    "https://www.linkedin.com/company/cufinder",
+    "https://jp.linkedin.com/company/inven-ai",
+    "https://www.linkedin.com/products/inven-ai-inven/",
+    "https://www.linkedin.com/posts/cufinder_how-to-find-company-annual-revenue-using-activity-7310593906901975040-Iv-U",
+    "https://www.linkedin.com/posts/cufinder_gtm-activity-7505670124767653888-6WOz",
+    "https://www.linkedin.com/posts/cufinder_boost-your-leads-with-revenue-filter-welcome-activity-7260961079738961920-Unsz",
+    "https://www.linkedin.com/posts/cufinder_gtm-activity-7520879108533436416-1mQP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
    "results": [
-    "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://note.com/value_stock_lab/n/ne66e3df843e7",
-    "https://note.com/kyoki_labo/n/na1f6d6b90e9b"
-   ]
+    "https://www.facebook.com/groups/cufinder/",
+    "https://www.facebook.com/cufinder/",
+    "https://www.facebook.com/reel/4038660449792662/",
+    "https://www.facebook.com/celf.scsk/videos/日本語の指示だけで誰でも簡単データ集計/1388157590072474/",
+    "https://www.facebook.com/reel/1365837525238520/",
+    "https://www.facebook.com/nobuhiko.suda/videos/aiソロプレナー挑戦日記-4gumroadで販売開始から1週間アクセス0件そこで今回はchatgptclaudegeminigrokなど複数のaiと一緒にアクセ/889643920890873/",
+    "https://www.facebook.com/crossmarketing/posts/クロスが提供する無料集計ツールcross-finderクロスファインダー2簡単に質問加工やクロス集計グラフ作成レポート出力などを行うことができますpcにインスト/3487274447978609/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） note 社長",
    "results": [
-    "https://ja.wikipedia.org/wiki/Note_(企業)",
     "https://diamond.jp/articles/-/388571",
     "https://cufinder.io/ja",
+    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
     "https://note.com/proper_macaw3470/n/nb4f83f52d2a7",
     "https://note.com/nayami_answer/n/ncacdf3ca4150",
     "https://x.com/keyplayers/status/2118840870426620271",
     "https://lekky.jp/articles/20650/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） X 投稿",
    "results": [
     "https://cufinder.io/ja",
-    "https://cufinder.io/",
+    "https://cufinder.io/ja/buying-signals",
     "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
-    "https://aitools.aiting.com/ja/ai/inven",
-    "https://x.com/InputVer08/status/2085428515017720245",
     "https://x.com/IA_okada/status/2100364647786479788",
+    "https://x.com/InputVer08/status/2085428515017720245",
     "https://note.com/minato_x_log/n/nf2085471f053",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://zukaikeizai.com/ranking/revenue/unlisted/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/"
-   ]
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "private company revenue estimate multiple signals top-down bottom-up conservative site:linkedin.com",
    "results": [
-    "https://www.everydaybudd.com/tools/business-startup-finance/revenue-forecasting-top-down-bottom-up",
-    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
-    "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up",
-    "https://adlega.com/blog/revenue-forecasting/",
-    "https://onedesksolution.com/revenue-forecasting-methods/",
-    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies"
-   ]
+    "https://www.linkedin.com/posts/shradha-khera-finance_fpanda-financialforecasting-financialmodeling-activity-7495217434988118017-Gb9J",
+    "https://www.linkedin.com/posts/paras-arora-232b25240_revenue-drivers-activity-7393929583085101056-9CJb",
+    "https://www.linkedin.com/pulse/how-i-forecast-revenue-inventory-one-spreadsheet-top-down-kesina-skxbc",
+    "https://www.linkedin.com/posts/alphavaluations_building-better-revenue-forecasts-activity-7457370236816809984-s3ig",
+    "https://www.linkedin.com/pulse/know-signals-revenue-speaks-patterns-before-shows-up-atkins-mba-sblee",
+    "https://www.linkedin.com/advice/0/what-benefits-challenges-using-bottom-up-versus",
+    "https://www.linkedin.com/advice/1/what-differences-between-top-down-bottom-up-financial-umuue"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 18,
+ "runs": 19,
  "first_researched_at": "2026-11-05T05:08:45.202393+00:00"
 }

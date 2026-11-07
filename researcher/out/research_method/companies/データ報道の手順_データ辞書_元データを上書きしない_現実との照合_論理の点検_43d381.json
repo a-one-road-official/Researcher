@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-07T12:48:11.407436+00:00",
+ "researched_at": "2026-11-07T18:26:04.437477+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,17 +24,17 @@
     "method": "browser"
    },
    {
+    "url": "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/jack4manastalk/n/n0901b43af62b",
     "status": "ok",
     "method": "browser"
    },
    {
     "url": "https://note.com/syfan/n/n170a192530ef",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
     "status": "ok",
     "method": "http"
    },
@@ -59,7 +59,7 @@
     "method": "http"
    },
    {
-    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVJNb5wwFPwryHcwGFiMtWy0zarqSmmzCqSHXioDj6wrY1M%2Fk7T%2FvmQ%2FqvSSXu15M29m3vrm16iDZ3CorKlIEsUkANPZXpmnijw2H0NObjZrlKNmk9jO%2Fmge4OcM6INl0KA4%2F1RkdkZYiQqFkSOg8J2ot5%2FvBItiMTnrbWc1CbaI4PwidWsNziO4Gtyz6uDx4a4iR%2B8nFJQqqfopUjJ6kQi9jH5MdHmgC8ugNNDTEvSVnNHDfd3Qur4nwW5ZSRnpTzauTNo%2BKRONqnMW7eCt0cpA1NmRtilf5UnBwpLzIszaVIa8HIawzGWatyUbsi6lJ28k2O8q8l2u0j7veVYkcT%2F0K0jSpMhazrJClnlR5gsMcYa9QS%2BNrwiL2SpMkjAumoSJjIssj3JefCPB4ZLGB2XOKb8XXXsGofjUNIfw1S4Jvl7bWgDk0o04qbu3pbxPLK9NkM1%2FcsejalurwR%2FX9K3W36v4spDvdwerVfc72GptX24dSA8V8W4GQjeXuX%2FvZ%2FMH&RelayState=e1s1",
+    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVLLbtswEPwVgXeJEm3rQVgO3BhFDaSNESk55FKQ9CpmQZEql0rav6%2F8KtJLeiVnZ3ZmdnnzqzfRK3jUztYkS1ISgVVur%2B1LTR7bz3FJblZLFL1hA1%2BP4WAf4OcIGKJp0CI%2F%2F9Rk9JY7gRq5FT0gD4o36693nCUpH7wLTjlDojUi%2BDBJ3TqLYw%2B%2BAf%2BqFTw%2B3NXkEMKAnFIt9H5ItEjeBMJeJD8GOj3QiaXTBuhpCXokZ3R337S0ae5JtJlW0laEk40rk3Ev2ia9Vt6h64KzRltIlOupnJX5IitYXJVlEc%2FlTMRl1XVxtRCzhaxYN1czevJGou2mJt%2BLeV6JQlUlkwyyKs9VISXLcpl2OeyrIwxxhK3FIGyoCUtZHmdZnBZtVnKW8%2FmU7aJ4JtHuksYnbc8pfxSdPIOQf2nbXXy0S6Kna1sTgFy64Sd1%2F76Uj4nFtQmy%2Bk%2FueNBSOgPhsKTvtf5exbeJfLvZOaPV72htjHu79SAC1CT4EQhdXeb%2BvZ%2FVHw%3D%3D&RelayState=e1s1",
     "status": "ok",
     "method": "browser"
    },
@@ -84,6 +84,11 @@
     "method": "http"
    },
    {
+    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVLLbtswEPwVgneJEhVJNGE5cGIUNZCHESk55BJQ1CpmQZEqSSXt31fxo0gv6XUfMzszu7z8NWj0Bs4rayqcxglGYKTtlHmt8GPzLWL4crX0YtB05Osp7M0D%2FJzABzQvGs%2BPnQpPznArvPLciAE8D5LX69sbTuOEj84GK63GaO09uDBTXVvjpwFcDe5NSXh8uKnwPoTRc0KUUN0YKxG%2FCw%2BdiH%2BMZC6QGaVXGsjhCPIBTsnuvm5IXd9jtJlPUkaEg4wzkravysSDks562wdrtDIQSzuQNmNFnpY0WjBWRhdtJiK26PtokYssbxe0v5AZOWjDaLup8AuFPC9oKUQHJSuEbLO8Y4WkLGNJm8vZtq33E2yND8KECtOEFlGaRknZpIzTkicszkv2jNHu5MaVMkeXv7KuPQ55%2Fr1pdtGHXIyezmnNA%2FiUDT%2Bwu8%2BhfA0szkng1X9893vVtlZD2C%2FJZ66%2FX3E3g283O6uV%2FI3WWtv3awciQIWDmwCT1Wnv3%2F9Z%2FQE%3D&RelayState=e1s1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://www.atled.jp/wfl/article/73568/",
     "status": "ok",
     "method": "browser"
@@ -94,19 +99,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.asteria.com/jp/warp/blog/165973.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "http://www.asahi.com/miraimedia/dj/case/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
@@ -115,6 +110,11 @@
    },
    {
     "url": "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.asahi.com/miraimedia/dj/case/",
     "status": "ok",
     "method": "http"
    },
@@ -144,24 +144,24 @@
     "method": "http"
    },
    {
+    "url": "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://viewjournal.eu/articles/10.18146/view.332",
     "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
-    "url": "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
-    "status": "ok",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "status": "http_403",
     "method": "http"
    },
    {
     "url": "https://simonrogers.net/2013/01/27/a-data-journalism-workflow/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "status": "ok",
-    "method": "browser"
    }
   ]
  },
@@ -171,15 +171,17 @@
    "results": [
     "https://note.com/fujikawa/n/n536ef386c8ca?magazine_key=m2214a8addb88",
     "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
     "https://note.com/jack4manastalk/n/n0901b43af62b",
     "https://note.com/syfan/n/n170a192530ef",
-    "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
     "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "https://note.com/ymukudai/n/n4fe343ab302d",
-    "https://note.com/otankonash/n/n1bbf1ae204a5",
-    "https://note.com/terashim/n/n04de16c6fdff",
-    "https://note.com/morinokabu/n/n3b0de0d2b9d5"
-   ]
+    "https://note.com/otankonash/n/n1bbf1ae204a5"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） note",
@@ -192,8 +194,12 @@
     "https://nii-auth.atlassian.net/wiki/spaces/NIISOCSDataForResearchers/blog/2021/01/12/43417667",
     "https://www.evernote.com/l/AAHvnBD1FGlEyasQDblTFaaqdLLmHMo19Ck",
     "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
-    "https://note.com/asahi_ictrad/n/n21e94fff2691"
-   ]
+    "https://data.wingarc.com/data-journalism-new-york-times-11402"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） やり方",
@@ -201,43 +207,60 @@
     "https://data-viz-lab.com/text-data-cleansing",
     "https://www.alteryx.com/ja/glossary/data-preparation",
     "https://otsumu.co.jp/knowledge/glossary/terms/data-cleansing.html",
+    "https://waseda-jp.libguides.com/47316939",
     "https://www.atled.jp/wfl/article/73568/",
     "https://www.asahishimbun-saiyou.com/company/datajournalism",
-    "https://waseda-jp.libguides.com/47316761",
-    "https://www.asteria.com/jp/warp/blog/165973.html",
     "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
-    "https://www.soumu.go.jp/main_content/001005121.pdf",
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
-   ]
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://www.asteria.com/jp/warp/blog/165973.html",
+    "https://www.thefork.fr/near-me"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） 事例",
    "results": [
     "https://www.asahishimbun-saiyou.com/company/datajournalism",
     "https://note.com/kazukio/n/nedb9fb057839",
-    "http://www.asahi.com/miraimedia/dj/case/",
     "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
     "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "http://www.asahi.com/miraimedia/dj/case/",
     "https://kyodonewsprwire.jp/corp/glossary/7035/",
     "https://www.msiism.jp/article/nikkei-newspaper-article-structuring.html",
     "https://jp.edanz.com/blog/peer-review-limitations",
-    "https://tsukuba.repo.nii.ac.jp/records/2019138"
-   ]
+    "https://datajournalismjp.github.io/handbook/",
+    "https://en.wikipedia.org/wiki/Diocletian's_Palace"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 25
   },
   {
    "query": "data journalism data dictionary verification workflow",
    "results": [
     "https://www.ap.org/insights/ai-and-data-journalism-why-verification-matters-more-than-ever/",
     "https://onlinejournalismblog.com/2013/09/10/5-tips-for-a-data-journalism-workflow-part-2-anticipating-problems-and-collaboration/",
-    "https://viewjournal.eu/articles/10.18146/view.332",
     "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
-    "https://simonrogers.net/2013/01/27/a-data-journalism-workflow/",
+    "https://viewjournal.eu/articles/10.18146/view.332",
     "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "https://en.wikipedia.org/wiki/Data_journalism",
+    "https://simonrogers.net/2013/01/27/a-data-journalism-workflow/",
     "https://medium.com/@kacawi/quick-guide-to-data-journalism-8abcf900eec2",
+    "https://en.wikipedia.org/wiki/Data_journalism",
     "https://github.com/infoculture/awesome-datajournalism",
-    "https://datajournalism.com/read/handbook/verification-1/additional-materials/creating-a-verification-workflow"
-   ]
+    "https://www.linkedin.com/advice/1/how-do-you-test-validate-data-dictionary"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "site:note.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
@@ -248,48 +271,81 @@
     "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "https://note.com/ymukudai/n/n4fe343ab302d",
     "https://note.com/otankonash/n/n1bbf1ae204a5",
-    "https://note.com/pagoromo/n/ncc80225e1a5d",
-    "https://note.com/loots/n/nff7881f6734b",
-    "https://note.com/zono_data/n/n78b18fd55a27",
-    "https://note.com/terashim/n/n04de16c6fdff"
-   ]
+    "https://au.pitboss-grills.com/",
+    "https://uk.pitboss-grills.com/",
+    "https://fr.pitboss-grills.com/faq",
+    "https://nl.pitboss-grills.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 33
   },
   {
    "query": "site:x.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
    "results": [
     "https://x.com/fujikawa/status/2115207077073449077",
-    "https://jf.x.com/images/media-preview/2107032564787802298",
-    "https://jf.x.com/images/media-preview/2102586462248325350",
-    "https://x.com/hwtnv/status/2054133611897774417",
-    "https://x.com/nkinvestigation",
-    "https://x.com/saito_kentaro_/status/2036827288227217737",
-    "https://x.com/saito_kentaro_/status/2071954607501349192",
-    "https://x.com/tomo_sumi_tetsu/status/1338323218264850432"
-   ]
+    "https://tatship.com/en-US/tattoo-ideas/lil-peep-1838",
+    "https://bodyartguru.com/lil-peep-tattoos/",
+    "https://shadowlinetattoos.com/lil-peep-tattoo-ideas/",
+    "https://www.amazon.com/Lil-Peep-Tattoos-Notebook-College-ruled/dp/B0DNP5LFQP",
+    "https://www.pinterest.com/ideas/all-of-lil-peep-tattoos/932594491153/",
+    "https://www.pinterest.com/ideas/lil-peep-tattoos-ideas/945188449622/",
+    "https://www.hotnewhiphop.com/648009-lil-peeps-tattoos-and-their-meanings",
+    "https://en.wikipedia.org/wiki/IPod_Classic",
+    "https://www.amazon.com/ipod-classic/s?k=ipod+classic"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 28
   },
   {
    "query": "site:linkedin.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
    "results": [
-    "https://jp.linkedin.com/pulse/building-revops-data-dictionary-48-hours-step-by-step-brett-hovanec-abl5e?tl=ja",
-    "https://www.linkedin.com/posts/tadashiman_データ辞書と相互運用性データモデルデータ連携-activity-7215656872937234432-5WRD",
-    "https://jp.linkedin.com/pulse/we-have-data-strategy-dont-dictionary-aarti-nagpal-pcxqc?tl=ja",
-    "https://jp.linkedin.com/pulse/understand-data-catalogs-dictionaries-laura-bunzl-1lhje?tl=ja",
-    "https://jp.linkedin.com/pulse/business-glossary-vs-data-dictionary-catalog-metadata-jhdae?tl=ja",
-    "https://jp.linkedin.com/pulse/how-organize-data-reporting-establish-sources-truth-fred-krimmelbein-qzyje?tl=ja",
-    "https://www.linkedin.com/pulse/失敗しないデータカタログとメタデータ管理定義種類リネージから導入ロードマップまでわかりやすく解説-hide-fukano-9d9hc/"
-   ]
+    "https://carseatsmom.com/all-in-one-car-seat/",
+    "https://www.amazon.com/one-car-seat/s?k=all+in+one+car+seat",
+    "https://www.amazon.com/all-in-one-car-seat/s?k=all-in-one+car+seat",
+    "https://carseatsmom.com/cosco-easy-elite-all-in-one-review-convertible-car-seat/",
+    "https://carseatblog.com/53784/bestaios21/",
+    "https://www.consumerreports.org/babies-kids/car-seats/best-all-in-one-car-seats-a3408469535/",
+    "https://www.babylist.com/hello-baby/best-all-in-one-car-seats",
+    "https://sites.google.com/classroom.events/view/",
+    "https://www.hoodamath.com/games/unblocked.html",
+    "https://classroom-30x.github.io/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
    "results": [
-    "https://www.facebook.com/people/報道できない真実/100064570154340/",
-    "https://www.facebook.com/SlowNewsJP/posts/新シリーズスタート荻原和樹のビジュアルデータウォッチhttpsslownewscomnn52a5db64aaf7データ可視化やデータ報道のスペシャリスト荻原和樹/657284697055520/",
-    "https://www.facebook.com/SlowNewsJP/posts/1121694458479710/",
-    "https://www.facebook.com/SlowNewsJP/posts/トランプ関税相次ぐ山火事ハリケーンの命名法を可視化したコンテンツと性犯罪マップの問題点slownewscomnnb8eec0dd6e76データ可視化やデータ報道/668473825936607/",
-    "https://www.facebook.com/jima.media/posts/ona-japan主催によるコロナとデータ報道ニュースメディアは何を伝えられなかったかと題したウェビナーが99水1800に開催されます詳細は以下のリンクからご覧/1646209885537645/",
-    "https://www.facebook.com/ONAJapan/photos/本日ですイベント概要メディア関係者向けona-japanウェビナーコロナとデータ報道ニュースメディアは何を伝えられなかったか新型コロナウイルスに関する報道をめぐ/854955011576140/",
-    "https://www.facebook.com/tatsuya.sudo.771/posts/国内石油元売りが異例の手法で原油を日本に運んでいるオープンデータを駆使した取材で見えた調達手法とは弊社にはデータ報道と可視化をメーンに取材する部署がありますニュ/27154054594230057/"
-   ]
+    "https://www.rome2rio.com/s/Rome/Tropea",
+    "https://www.rome2rio.com/s/Paris-Charles-de-Gaulle-Airport-CDG/Rouen",
+    "https://help.rome2rio.com/",
+    "https://www.rome2rio.com/s/Paris/Geneva",
+    "https://www.rome2rio.com/s/Livorno/Florence-Italy",
+    "https://www.rome2rio.com/s/Málaga/Seville",
+    "https://www.rome2rio.com/s/Rome/Appian-Way",
+    "https://www.rome2rio.com/s/Rome/Positano",
+    "https://www.rome2rio.com/s/Rome/Athens",
+    "https://help.rome2rio.com/en/support/solutions/articles/22000283386-how-to-use-rome2rio-trip-planner"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） note 社長",
@@ -299,42 +355,58 @@
     "https://www.asahishimbun-saiyou.com/company/datajournalism",
     "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
     "https://waseda-jp.libguides.com/47316761",
-    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
     "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
     "https://data.wingarc.com/data-journalism-new-york-times-11402",
     "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
-    "https://saireco.jp/hr-system-nav/1762/"
-   ]
+    "https://www.amazon.com/-/es/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） X 投稿",
    "results": [
-    "https://www.asahishimbun-saiyou.com/company/datajournalism",
     "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
     "https://waseda-jp.libguides.com/47316761",
     "https://github.com/arcatdmz/blog/blob/main/src/ja/2022-07-27-data-journalism.md",
-    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
     "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
     "https://data.wingarc.com/data-journalism-new-york-times-11402",
     "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
     "https://jp.edanz.com/blog/peer-review-limitations",
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
-   ]
+    "https://soundcloud.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "data journalism data dictionary verification workflow site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/learning-analytics-series-glossary-terms-beginning-data-mark-derosa",
+    "https://www.linkedin.com/posts/dw-akademie_the-hardest-part-isnt-using-an-ai-tool-activity-7387110736747012096-xjAq",
     "https://uk.linkedin.com/in/johnguinn",
     "https://www.linkedin.com/in/tumininu-onabanjo-22a784279",
-    "https://www.linkedin.com/posts/dw-akademie_the-hardest-part-isnt-using-an-ai-tool-activity-7387110736747012096-xjAq",
-    "https://www.linkedin.com/in/samirpassi",
-    "https://www.linkedin.com/in/aboutaaron",
-    "https://www.linkedin.com/in/aleszu-bajak-7a406916",
     "https://www.linkedin.com/in/libbyheeren",
+    "https://www.linkedin.com/in/aleszu-bajak-7a406916",
+    "https://www.linkedin.com/in/samirpassi",
     "https://in.linkedin.com/in/jaganmohankb",
-    "https://ca.linkedin.com/in/wael-alalwani"
-   ]
+    "https://www.linkedin.com/in/aboutaaron",
+    "https://www.linkedin.com/in/brandon-rugg"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {
@@ -345,6 +417,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-06T04:38:15.892094+00:00"
 }

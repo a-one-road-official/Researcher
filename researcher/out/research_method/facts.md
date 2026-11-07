@@ -520,8 +520,8 @@
   - 「資金調達の方法については、資金需要を満たすための資金が営業活動によって得られるのか、銀行借入、社債発行や株式発行等による調達が必要なのかを具体的に記載することが考えられるとされており、資本コストに関する企業の定義や考え方についてもこれらの内容とともに説明することも有用とされています」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
   - 「個々の重要な投資案件の潜在的なリスク、事業等のリスクの性質ごとの分類について分かりやすく記載している例や、事業等のリスクの把握及び管理方法を記載している例が紹介されています（p. 2-1、p. 2-6、p.2-13）」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
   - 「成長投資、手許資金、株主還元の方針と、資金需要に対する資金調達の方法や設備投資の水準についての経営者の考えの記載や、今後の実質フリー・キャッシュ・フローや株主還元の目標水準及び株主資本コストの目標水準を記載している例が紹介されています（p. 4-3、p. 4-4、p. 4-5）」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
-  - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由｜やましゃん@IR就活」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「DOEとは？意味・計算方法・配当性向との違いをわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「DOEとは？意味・計算方法・配当性向との違いをわかりやすく解説「DOEって何？」「配当性向と何が違うの？」「高配当株投資でなぜ重要？」という疑問を持つ方は多いです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
 - 突き合わせ・推定：
   - 「生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「手順4：出力を一次資料で検証する」（https://note.com/irshukatsu/n/nec2070d76e3c）
@@ -589,6 +589,8 @@
 - 検索結果の抜粋：
   - 「How to Read Financial Statements: A Beginner’s GuideAnnual report - WikipediaMcDonald’s Business Model (2026) | How McDonald’s Makes Money2025 ANNUAL REPORT - Marriott InternationalOur Annual Reports | Diageo — A balance sheetconveys the “book value” of a company. It allows you to see what resources it has available and how they were financed as of a specific date. It shows its assets, liabilities」（https://online.hbs.edu/blog/post/how-to-read-financial-statements）
   - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: Investor Reading MapHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisMaster the Art of Reading Annual Reports - InvestopediaHow to Read an Annual Report Like an Equity Research AnalystHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a 」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
+  - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report Like an Equity Research Analyst — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business performance and potential. Feb 20, 2026 · Where」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
+  - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report Like an Equity Research Analyst — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and the industry it operates in. Learn how to analyze an annual 」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
   - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Apr 19, 2024 · Learn how to read a company's annual report effectively. This gui」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and th」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
   - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide cov」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
@@ -9762,6 +9764,12 @@
   - 「古い文書と新しい文書が矛盾する場合は、更新日を優先する」（https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/）
   - 「というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
   - 「まず5〜8件に増やして回答の変化を見るのが手早い検証です」（https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/）
+  - 「その RAG、社内規程に「忠実」に答えていますか？ ― 回答を遅くする後追い検証に頼らず、構造で正す」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
+  - 「重い検証ステップを足すのではなく、そもそも出典からはみ出せない構造に組み替えた」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
+  - 「後追いの検証はやめた ― 遅くなるし、結局こぼれる」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
+  - 「2. 後追いの検証はやめた ― 遅くなるし、結局こぼれる」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
+  - 「素直に思いつく対処は、検証（verification）を足すことです」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
+  - 「最初はこの方向を考えましたが、後追いの検証には2つの弱点がありました」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
 - 一次情報の探し方：
   - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「よくあるのは、共有フォルダの一部だけを取り込んだ、PDFは入っているが社内Wikiは対象外、添付資料を取得していない、といった状態です」（https://note.com/ai__worker/n/n139e4f11e738）
@@ -9776,6 +9784,8 @@
   - 「PDFからのテキスト抽出には、精度の高いライブラリ（pymupdf、pdfplumber）を使う」（https://note.com/rally_ai/n/n91367ab099aa）
   - 「XR-200_manual.pdf」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
   - 「スキャンした画像だけのPDF、図版に文字が埋め込まれた資料、複雑な結合セルを含む表は、取り込めてもチャンクの中身が空に近くなります」（https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/）
+  - 「文書分割・PDF読み取り・鮮度・検索方式・権限・リランキング・評価を」（https://catorce.jp/st/knowledge-rag-accuracy）
+  - 「RAGでは、PDFやWord、社内マニュアルなどを、そのまま検索するわけではありません」（https://catorce.jp/st/knowledge-rag-accuracy）
 - 失敗・落とし穴：
   - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
@@ -10303,19 +10313,19 @@
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ6頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
-- 実例：記載なし（読んだ6頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
 - 文脈：method
@@ -10394,8 +10404,8 @@
   - 「The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 実例：
   - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
