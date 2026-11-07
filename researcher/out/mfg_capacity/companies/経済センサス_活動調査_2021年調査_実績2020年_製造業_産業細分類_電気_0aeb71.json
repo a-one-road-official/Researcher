@@ -1,0 +1,955 @@
+{
+ "name": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26）",
+ "en": "Economic Census for Business Activity 2021 manufacturing 4-digit industry electroplating heat treatment sheet metal metal dies establishments employees shipments value added",
+ "aliases": [
+  "経済センサス 活動調査 令和3年 製造業 産業細分類 従業者数 製造品出荷額等",
+  "e-Stat 00200553 製造業 産業細分類 付加価値額",
+  "経済センサス 2021 電気めっき業 金属熱処理業 製缶板金業 金属用金型"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T00:50:18.430781+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 品目別産出事業所数 .................................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３． 調査結果のうち、事業所数、産出事業所数、従業者数については、令和3年6月1日現在",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、事業所数、従業者数については、3年活動調査及",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 産業中分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（3 万 276 事業所、構成",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 表 産業中分類別事業所数及び従業者数（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：事業所数及び従業者数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数及び従業者数の調査時点については、令和3年6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 図 産業中分類別事業所数及び従業者数の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 品目別産出事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 3 表 産出事業所数上位 30 品目の状況（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：産出事業所数については、全事業所で再集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（製造業）に関する集計（概要版）」は、従業者4人以上の事業所に限定した集計を行っ",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たが、産業別集計（製造業）は従業者1～3人も含めた全事業所における集計を行っている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ほか、従業者4人以上の事業所について、産業細分類別、品目別、都道府県・市区町村別",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３． 調査結果のうち、事業所数、産出事業所数、従業者数については、令和3年6月1日現在",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．3年活動調査においては、個人経営を含まない集計結果であることから、集計結果の時",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．従業者数、付加価値額の項目は、工業統計調査（以下「工業統計」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９．調査対象事業所は、「国税庁法人番号公表サイト」情報から、過去の調査では捉えてい",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業統計については、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 上記４．のとおり、3年活動調査においては、個人経営を含まない集計結果であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、事業所数、従業者数については、3年活動調査及",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 産業中分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 従業者数を産業中分類別構成比でみると、「食料品製造業」（110 万 1170 人、構成比 14.6",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1122_絹・人絹織物業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1142_絹・人絹織物機械染色業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1162_織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2183_人工骨材製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3251_娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3252_人形製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、従業者3人以下の事業所を除く",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 活動調査における「在庫額」については、「統計調査における売上高等の集計に係る",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円、構成比 19.8％）が最も高く、次いで「食料品製造業」（29 兆 7276 億円、同 9.8％）、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「化学工業」（28 兆 7305 億円、同 9.5％）、「生産用機械器具製造業」（19 兆 7080 億円、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同6 . 5 ％ ） 、「電気機械器具製造業」（17 兆 8745 億円、同 5.9％）の順となっている（第 2",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円、構成比 14.7％）が最も高く、次いで「化学工業」（11 兆 5975 億円、同 11.9％）、「食",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "料品製造業」（10 兆 3178 億円、同 10.6％）、「生産用機械器具製造業」（7 兆 1908 億円、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．従業者数、付加価値額の項目は、工業統計調査（以下「工業統計」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（14 兆 3348 億",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：製造品出荷額等及び付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 図 産業中分類別製造品出荷額等及び付加価値額の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９.付加価値額（粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額 ＝ 製造品出荷額等 －（推計酒税、たばこ税、揮発油税及び地方揮発油税（*1）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "７．有形固定資産額（従業者10人以上の事業所（一部を除く（*）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 有形固定資産額の取得額等には、次の区分がある",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 有形固定資産額の算式は以下のとおり",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "このため、雇用者の内訳については、時系列比較を行うことはできない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "結果の時系列比較を行う際は、十分な留意が必要である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11．時系列比較を行う場合は、工業統計について、以下の点に留意されたい",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の税率（10％）と異なることから、時系列比較を行う際は十分な留意が必要である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成22年(2010年)⼯業統計 平成22年12⽉31⽇現在 平成22年 平成22年1⽉〜12⽉ 平成22年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年(2016年)活動調査 平成28年6⽉1⽇現在 平成28年 平成27年1⽉〜12⽉ 平成27年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年(2017年)⼯業統計 平成29年6⽉1⽇現在 平成29年 平成28年1⽉〜12⽉ 平成28年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年(2018年)⼯業統計 平成30年6⽉1⽇現在 平成30年 平成29年1⽉〜12⽉ 平成29年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年(2019年)⼯業統計 令和元年6⽉1⽇現在 令和元年 平成30年1⽉〜12⽉ 平成30年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和2年(2020年)⼯業統計 令和2年6⽉1⽇現在 令和2年 令和元年1⽉〜12⽉ 令和元年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年(2021年)活動調査 令和3年6⽉1⽇現在 令和3年 令和2年1⽉〜12⽉ 令和2年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2021年） 構成比 （2021年） 構成比",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2020年） 構成比 （2020年） 構成比",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2021年） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2020年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 建設仮勘定の増加額及び減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "公開日 2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日 2023年1月6日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2021_工業用革製品製造業（手袋を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数＝192,047事業所（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "回収率＝95.1％（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年 月日の部分へすべて1月1日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "＞工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)(https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/)...",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_1-03_品目別_都道府県別_年次 2016年 – 2020年 (列指向形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造等に関連する外注費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10?base_code=&form_id=main_form&info1SearchFlg=1&info1SearchFlg_dummy=1&info2SearchFlg=1&info2SearchFlg_dummy=1&komokuSearchFlg=1&komokuSearchFlg_dummy=1&op=search&page=37&revision=04&search_kind=10&search_method=keyword&search_word=&searchboxShow1=1&searchboxShow2=0&searchboxShow3=0&srchcndId=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,93917,c,html/93917/4-1kougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t20000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?tclass=000001145041&cycle=7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?layout=dataset&query=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/asm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145666&tclass2=000001145669&tclass3=000001145674&result_page=1&tclass4val=0&statdisp_id=0004006337",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2021_6b749602-en.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 人手不足 受注 断る",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-stat.go.jp/classifications/terms/10?base_code=&form_id=main_form&info1SearchFlg=1&info1SearchFlg_dummy=1&info2SearchFlg=1&info2SearchFlg_dummy=1&komokuSearchFlg=1&komokuSearchFlg_dummy=1&op=search&page=37&revision=04&search_kind=10&search_method=keyword&search_word=&searchboxShow1=1&searchboxShow2=0&searchboxShow3=0&srchcndId=",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,93917,c,html/93917/4-1kougyo.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,93917,c,html/93917/4-1kougyo.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-census-st.go.jp/bunrui/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26）",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-stat.go.jp/classifications/terms/10?base_code=&form_id=main_form&info1SearchFlg=1&info1SearchFlg_dummy=1&info2SearchFlg=1&info2SearchFlg_dummy=1&komokuSearchFlg=1&komokuSearchFlg_dummy=1&op=search&page=37&revision=04&search_kind=10&search_method=keyword&search_word=&searchboxShow1=1&searchboxShow2=0&searchboxShow3=0&srchcndId=",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "https://www.e-census-st.go.jp/bunrui/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 推移",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,93917,c,html/93917/4-1kougyo.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,93917,c,html/93917/4-1kougyo.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-census-st.go.jp/bunrui/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t20000.htm",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 従業者規模別",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,93917,c,html/93917/4-1kougyo.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-census-st.go.jp/bunrui/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 1人当たり 万円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,93917,c,html/93917/4-1kougyo.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-census-st.go.jp/bunrui/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） 2015 2025",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t20000.htm"
+   ]
+  },
+  {
+   "query": "Economic Census for Business Activity 2021 manufacturing 4-digit industry electroplating heat treatment sheet metal metal dies establishments employees shipments value added Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145666&tclass2=000001145669&tclass3=000001145674&result_page=1&tclass4val=0&statdisp_id=0004006337",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2021_6b749602-en.html",
+    "https://www.census.gov/newsroom/press-releases/2022/annual-survey-of-manufactures.html",
+    "https://fred.stlouisfed.org/series/JPNPROINDMISMEI",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://www.stat.go.jp/english/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26）",
+   "results": []
+  },
+  {
+   "query": "site:x.com 経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26）",
+   "results": [
+    "https://x.com/Kyoto_Stat/status/1582520991095586821",
+    "https://x.com/MIC_soudan/status/2054003627329831245",
+    "https://jf.x.com/images/media-preview/2110723242894004519",
+    "https://jf.x.com/images/media-preview/2106158775875014839",
+    "https://x.com/city_ota/status/2068853977526186000",
+    "https://x.com/gamanoabura_nsb/status/2054157157550166335",
+    "https://x.com/ONEMORNING_1/status/2043467435978924186"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26）",
+   "results": [
+    "https://www.linkedin.com/jobs/企業等数-総数-全国-2021年-経済センサス-企業等数-何件-jobs",
+    "https://www.linkedin.com/company/telus-digital",
+    "https://jp.linkedin.com/pulse/キャリタス就活-学生モニター2025-崇-堀内-8ptzc",
+    "https://jp.linkedin.com/pulse/27卒の動向4月1日時点の就職活動調査-崇-堀内-v3fic",
+    "https://economicgraph.linkedin.com/",
+    "https://www.linkedin.com/company/emerson/",
+    "https://tw.linkedin.com/posts/kensakutakase_eu企業サステナビリティ報告指令csrdに関する最新情報と日本企業の対応-activity-7056463934530211840--a96"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26）",
+   "results": [
+    "https://www.facebook.com/nagasakitokei/photos/令和3年経済センサス-活動調査を実施中です全ての事業所企業のみなさまにおかれてはお知らせした期限までにご回答いただきますよう何卒ご協力をお願いいたします経済セン/2956434681289970/",
+    "https://www.facebook.com/city.mihara/posts/経済センサス-活動調査にご協力ください全国にある全ての事業所企業を対象に所在地従業員数売上金額などを把握するための国の統計調査が始まります過去の調査で所在地を把/946368374421942/",
+    "https://www.facebook.com/ginowancity.official/posts/重要経済センサス活動調査への回答はお済ですか現在全国のすべての企業事業所を対象に経済センサス活動調査を実施しています-̗̀まだ回答がお済みでない場合は下記回答期/1415415797299466/",
+    "https://www.facebook.com/pref.wakayama/posts/経済センサス-活動調査総務省経済産業省和歌山県及び市町村は令和8年6月1日現在で経済センサス-活動調査を実施します本調査は全国すべての事業所企業を対象とする5年/1512921037510877/",
+    "https://www.facebook.com/ginowancity.official/posts/重要経済センサス活動調査への回答はお済ですか現在全国のすべての企業事業所を対象に経済センサス活動調査を実施しています-̗̀まだ回答がお済みでない場合は下記回答期/1421085440065835/",
+    "https://www.facebook.com/city.tajimi/posts/経済センサス-活動調査の実施について総務省と経済産業省は令和８年６月１日現在で令和８年経済センサス活動調査を実施します全国のすべての事業所および企業が対象になり/1457494853085847/",
+    "https://www.facebook.com/HiroshimaCityOfficial/posts/経済センサス-活動調査への回答はお済みですか経済センサス-活動調査は全国すべての事業所企業を対象とした調査です調査の回答は安全で便利なインターネット回答がおすす/1032146766050132/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） note 社長",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,93917,c,html/93917/4-1kougyo.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年調査（実績2020年）製造業 産業細分類 電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691 の事業所数・従業者数・製造品出荷額等・付加価値額（e-Stat 政府統計コード00200553 の表・2019年と2022年の間の空白を埋める・段差の年として別に持つ・4-26） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/244",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t20000.htm"
+   ]
+  },
+  {
+   "query": "Economic Census for Business Activity 2021 manufacturing 4-digit industry electroplating heat treatment sheet metal metal dies establishments employees shipments value added site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/us-census-bureau_censusecondata-manufacturing-censusdata-activity-7009185364099682304-dQMd",
+    "https://www.linkedin.com/learning/learning-public-data-sets-2/us-census-bureau-industry-data",
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-january-2021",
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-december-2021",
+    "https://www.linkedin.com/posts/us-census-bureau_manufacturing-day-visualizations-activity-7249890164041216000-AxOd",
+    "https://www.linkedin.com/company/us-census-bureau-economic-census",
+    "https://www.linkedin.com/posts/us-census-bureau_americacounts-censusecondata-manufacturingday-activity-7378809650130948097-SD57"
+   ]
+  }
+ ],
+ "missing": {}
+}

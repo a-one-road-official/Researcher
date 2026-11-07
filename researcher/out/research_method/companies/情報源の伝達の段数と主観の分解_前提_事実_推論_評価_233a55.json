@@ -8,7 +8,7 @@
  ],
  "context": "出どころ",
  "kind": "market",
- "researched_at": "2026-11-06T20:14:08.511094+00:00",
+ "researched_at": "2026-11-07T00:54:53.854763+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -31,6 +31,80 @@
    },
    {
     "quote": "This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Investigative team or case assignment",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Associate evidence with the relevant case or investigation.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, an investigator correlating a forum username with a social media profile should retain the underlying observations supporting that connection.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, an investigator may capture a screenshot in one application, document its source in a spreadsheet, store the file in a shared folder, and communicate analytical context through a separate messaging platform.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It is maintaining a consistent relationship between the evidence, the collection process, and the investigative decisions made throughout the case.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Silo Case Manager supports the organization of investigation content and context, while Silo Drive provides capabilities for sharing collected material across authorized teams.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This can help teams apply appropriate access controls, manage investigative resources, and support accountability across analysts and cases.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Silo Case Manager and Silo Drive support evidence organization and team collaboration.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Centralized workflows help preserve relationships between collected artifacts and case context.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.",
     "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -127,87 +201,13 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "実例": [
-   {
-    "quote": "For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Investigative team or case assignment",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Associate evidence with the relevant case or investigation.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, an investigator correlating a forum username with a social media profile should retain the underlying observations supporting that connection.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, an investigator may capture a screenshot in one application, document its source in a spreadsheet, store the file in a shared folder, and communicate analytical context through a separate messaging platform.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It is maintaining a consistent relationship between the evidence, the collection process, and the investigative decisions made throughout the case.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Silo Case Manager supports the organization of investigation content and context, while Silo Drive provides capabilities for sharing collected material across authorized teams.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This can help teams apply appropriate access controls, manage investigative resources, and support accountability across analysts and cases.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Silo Case Manager and Silo Drive support evidence organization and team collaboration.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Centralized workflows help preserve relationships between collected artifacts and case context.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/reading_monkey/n/n9010c821e570",
+    "url": "https://note.com/fladdict/n/n247e5dcbaf1b",
     "status": "ok",
     "method": "http"
    },
@@ -222,49 +222,49 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/fladdict/n/n247e5dcbaf1b",
+    "url": "https://note.com/reading_monkey/n/n9010c821e570",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/modern_flea8708/n/ndee8060bc853",
+    "url": "https://note.com/catshun_/n/n99a8efd883c5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/zum_ism/n/n193c8a86f8aa",
+    "url": "https://note.com/jack4manastalk/n/nae5c1f7c390a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/amanomaki/n/ned5d65672bf9",
+    "url": "https://note.com/seminar_lab_jp/archives",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kyoumu.adb.fukushima-u.ac.jp/pdf/f_guidebook/manabiNAVI.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jil.go.jp/institute/siryo/2016/documents/0165.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/1aqua1/n/n1273b31d3f01",
+    "url": "https://note.com/shinu/n/n567c6705ec18",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
+    "url": "https://blog.techscore.com/entry/2022/10/12/080000",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/policy/servicepolicy/mirai_no_kyoshitsu/project/Bessatsu.pdf",
+    "url": "https://researchmap.jp/phenomenology/misc/52568953?lang=ja",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
+   },
+   {
+    "url": "https://repository.kulib.kyoto-u.ac.jp/handle/2433/125341",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ehm-yuge-h.esnet.ed.jp/json/blogs/saveLikeJson/1/108/7083",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
@@ -272,14 +272,14 @@
     "method": "http"
    },
    {
-    "url": "https://portal.do-johodai.ac.jp/articles/6080",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "status": "ok",
+    "method": "browser"
    },
    {
-    "url": "https://www2.lib.keio.ac.jp/project/kitie/evaluate/index.html",
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
@@ -287,24 +287,34 @@
     "method": "http"
    },
    {
-    "url": "https://www.mext.go.jp/content/20201014-mxt_jogai01-100003163_002.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://saycon.co.jp/archives/neta/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91%E5%A0%B1%E5%91%8A%E4%B8%8A%E6%89%8B%E3%81%AF%E3%81%93%E3%81%93%E3%81%8C%E9%81%95%E3%81%86%EF%BC%81%E3%80%8C%E4%BA%8B%E5%AE%9F%E3%80%8D",
+    "url": "https://www.cdfr.design.kyushu-u.ac.jp/lexicon/185/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://az.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=1219&item_no=1&page_id=13&block_id=17",
+    "url": "https://www2.lib.keio.ac.jp/project/kitie/evaluate/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukuba.repo.nii.ac.jp/records/2019138",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93337/",
-    "status": "http_404",
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://philarchive.org/archive/HUARKP",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
+    "status": "network_error:ReadTimeout",
+    "method": "pdf"
    },
    {
     "url": "https://repository.kulib.kyoto-u.ac.jp/bitstreams/d8a6a6e8-3a99-40e7-a4cb-f55f5a7bc7c6/download",
@@ -317,44 +327,34 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.jpo.go.jp/system/laws/rule/guideline/patent/handbook_shinsa/document/index/app_d.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://kanaya-law.jp/study",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://quizlet.com/397982778/chapter-12-poia-flash-cards/",
-    "status": "http_403",
+    "url": "https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://medium.com/@beturaniza/how-chain-of-custody-works-in-digital-forensics-456ea86ec47f",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komprise.com/glossary_terms/chain-of-custody/",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.cyberforensicacademy.com/blog/understanding-chain-of-custody-in-cyber-investigations",
+    "url": "https://www.cisa.gov/sites/default/files/publications/cisa-insights_chain-of-custody-and-ci-systems_508.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.gcu.edu/blog/criminal-justice-government-and-administration/what-is-chain-of-custody",
+    "url": "https://truescreen.io/articles/digital-chain-of-custody-guide/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/pulse/beginners-guide-chain-custody-digital-forensics-yen-ming-chiu-lyzjc",
-    "status": "robots_disallowed",
-    "method": ""
    }
   ]
  },
@@ -362,30 +362,30 @@
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） site:note.com",
    "results": [
-    "https://note.com/reading_monkey/n/n9010c821e570",
+    "https://note.com/fladdict/n/n247e5dcbaf1b",
     "https://note.com/zenkok/n/n739bfd686951",
     "https://note.com/reading_monkey/n/n4188e17ef405",
-    "https://note.com/fladdict/n/n247e5dcbaf1b",
-    "https://note.com/modern_flea8708/n/ndee8060bc853",
-    "https://note.com/zum_ism/n/n193c8a86f8aa",
-    "https://note.com/huge_kamaitachi/n/n707dbabbdbb9",
-    "https://note.com/yoheikato1021/n/ndd77481feec2",
+    "https://note.com/reading_monkey/n/n9010c821e570",
     "https://note.com/catshun_/n/n99a8efd883c5",
-    "https://note.com/kisaburo_y/n/n723408bc1a09"
+    "https://note.com/jack4manastalk/n/nae5c1f7c390a",
+    "https://note.com/kisaburo_y/n/n723408bc1a09",
+    "https://note.com/it_navi/n/n1f9f54bdc8f3",
+    "https://note.com/jack4manastalk/n/n23f349d009fb",
+    "https://note.com/jack4manastalk/n/n880406135053"
    ]
   },
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） note",
    "results": [
-    "https://note.com/amanomaki/n/ned5d65672bf9",
-    "https://note.com/zenkok/n/n739bfd686951",
+    "https://note.com/seminar_lab_jp/archives",
+    "https://note.com/shinu/n/n567c6705ec18",
+    "https://blog.techscore.com/entry/2022/10/12/080000",
     "https://note.com/fladdict/n/n247e5dcbaf1b",
-    "https://kyoumu.adb.fukushima-u.ac.jp/pdf/f_guidebook/manabiNAVI.pdf",
-    "https://www.jil.go.jp/institute/siryo/2016/documents/0165.pdf",
-    "https://note.com/1aqua1/n/n1273b31d3f01",
-    "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
-    "https://www.meti.go.jp/policy/servicepolicy/mirai_no_kyoshitsu/project/Bessatsu.pdf",
-    "https://philarchive.org/archive/STA-76",
+    "https://researchmap.jp/phenomenology/misc/52568953?lang=ja",
+    "https://repository.kulib.kyoto-u.ac.jp/handle/2433/125341",
+    "https://ehm-yuge-h.esnet.ed.jp/json/blogs/saveLikeJson/1/108/7083",
+    "https://www.chuo-u.ac.jp/uploads/2018/11/7394_commentary20_02-05.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
    ]
   },
@@ -393,29 +393,29 @@
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） やり方",
    "results": [
     "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
-    "https://portal.do-johodai.ac.jp/articles/6080",
-    "https://www2.lib.keio.ac.jp/project/kitie/evaluate/index.html",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://www.zentsuken.net/journal/file/144_5.html",
     "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
-    "https://www.jil.go.jp/institute/siryo/2016/documents/0165.pdf",
-    "https://www.mext.go.jp/content/20201014-mxt_jogai01-100003163_002.pdf",
+    "https://www.cdfr.design.kyushu-u.ac.jp/lexicon/185/",
+    "https://www2.lib.keio.ac.jp/project/kitie/evaluate/index.html",
+    "https://zenn.dev/manabuyasuda/articles/3950c61bea392f",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91%E5%A0%B1%E5%91%8A%E4%B8%8A%E6%89%8B%E3%81%AF%E3%81%93%E3%81%93%E3%81%8C%E9%81%95%E3%81%86%EF%BC%81%E3%80%8C%E4%BA%8B%E5%AE%9F%E3%80%8D",
-    "https://kanaya-law.jp/study",
-    "https://qiita.com/sho1884/items/a7c1aee2899c369ef6d6",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
    ]
   },
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） 事例",
    "results": [
-    "https://az.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=1219&item_no=1&page_id=13&block_id=17",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
-    "https://www.jil.go.jp/institute/siryo/2016/documents/0165.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://tsukuba.repo.nii.ac.jp/records/2019138",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://philarchive.org/archive/HUARKP",
+    "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
     "https://repository.kulib.kyoto-u.ac.jp/bitstreams/d8a6a6e8-3a99-40e7-a4cb-f55f5a7bc7c6/download",
     "https://www.jmfrri.gr.jp/wp-content/uploads/RRI_WG3_AI_.pdf",
-    "https://www.jpo.go.jp/system/laws/rule/guideline/patent/handbook_shinsa/document/index/app_d.pdf",
-    "https://kanaya-law.jp/study",
-    "https://www.soumu.go.jp/main_content/001016953.pdf",
-    "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
+    "https://researchmap.jp/lsdn/presentations/3214723",
+    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
     "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
    ]
   },
@@ -423,55 +423,52 @@
    "query": "source hops chain of custody intelligence information decomposition assumptions facts inferences",
    "results": [
     "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
-    "https://quizlet.com/397982778/chapter-12-poia-flash-cards/",
-    "https://medium.com/@beturaniza/how-chain-of-custody-works-in-digital-forensics-456ea86ec47f",
-    "https://www.cyberforensicacademy.com/blog/understanding-chain-of-custody-in-cyber-investigations",
-    "https://www.gcu.edu/blog/criminal-justice-government-and-administration/what-is-chain-of-custody",
-    "https://www.linkedin.com/pulse/beginners-guide-chain-custody-digital-forensics-yen-ming-chiu-lyzjc",
-    "https://michaelettingerlaw.com/Understanding-Chain-of-Custody-Evidence-Integrity-Defense/",
-    "https://www.hesslerlaw.com/blog/what-is-the-chain-of-custody-why-does-it-matter/",
+    "https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody",
+    "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "https://www.komprise.com/glossary_terms/chain-of-custody/",
     "https://www.cisa.gov/sites/default/files/publications/cisa-insights_chain-of-custody-and-ci-systems_508.pdf",
-    "https://www.cambridge.org/core/books/intelligence-analysis-as-discovery-of-evidence-hypotheses-and-arguments/chains-of-custody/C4551D55340C444A8C82C8158F289924"
+    "https://truescreen.io/articles/digital-chain-of-custody-guide/",
+    "https://www.keiseruniversity.edu/articles/why-chain-of-custody-makes-or-breaks-a-case/",
+    "https://www.kusari.dev/learning-center/chain-of-custody/",
+    "https://www.next-sight.com/resources/chain-of-custody-osint",
+    "https://en.wikipedia.org/wiki/Chain_of_custody"
    ]
   },
   {
    "query": "site:note.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
    "results": [
     "https://note.com/modern_flea8708/n/ndee8060bc853",
-    "https://note.com/his10233470/n/n86db8cc075ca",
-    "https://note.com/rn_thinking/n/nc2922b2527f9",
     "https://note.com/tsuyu_glassmania/n/n9a3e8da2410e",
     "https://note.com/vivid_crab2704/n/n7bdaa870499d",
     "https://note.com/niwatori_keirin/n/nc3da00c42d7b",
     "https://note.com/fond_bee9001/n/nfb12449e0dfb",
-    "https://note.com/lucid_gibbon1292/n/ne22f561250e5",
-    "https://note.com/fx_captain/n/nb607b6d3b455",
-    "https://note.com/spaceground/n/n6a55796143c6"
+    "https://note.com/blitz_kun/n/n69e2f77eeba5",
+    "https://note.com/spaceground/n/n6a55796143c6",
+    "https://note.com/his10233470/n/n86db8cc075ca"
    ]
   },
   {
    "query": "site:x.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
    "results": [
-    "https://x.com/fukku_ai_BD/status/2067133351262302572",
-    "https://x.com/yura_ai123/status/2103599741263352228",
-    "https://x.com/sankakuten91256/status/2101070223738564655",
     "https://x.com/hiro44_pino/status/2100058975245074878",
+    "https://x.com/fukku_ai_BD/status/2067133351262302572",
+    "https://x.com/sankakuten91256/status/2101070223738564655",
+    "https://x.com/yura_ai123/status/2103599741263352228",
     "https://x.com/enhanced_jp/status/2085668602389372932",
-    "https://x.com/shrakun/status/2103958289298198867",
-    "https://x.com/tadasoredake01/status/2117233902645551544",
-    "https://x.com/wancoro_xx/status/2070105823804883225"
+    "https://x.com/DokeiHi/status/2066811614855364653",
+    "https://x.com/tadasoredake01/status/2117233902645551544"
    ]
   },
   {
    "query": "site:linkedin.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
    "results": [
-    "https://jp.linkedin.com/pulse/学びの窓-51-概念と伝達-誠一郎-眞部-rvf5c",
+    "https://jp.linkedin.com/pulse/ladder-inference-seth-webster?tl=ja",
     "https://jp.linkedin.com/pulse/power-logic-how-develop-evidence-based-reasoning-genius-banerji-lvbzc?tl=ja",
-    "https://jp.linkedin.com/pulse/fact-fetch-reason-unified-evaluation-generation-vlad-bogolin-tufve?tl=ja",
-    "https://www.linkedin.com/posts/naba3_行動や評価の基準が言語化されていても-その前提が共有されていない-ことがあります-activity-7413903981669847040-JCvv",
+    "https://jp.linkedin.com/posts/永嶋-國雄-88ab1189_惨敗した中道は政策秘書にさえぎられ代表には本件が届いていない-ご指摘の状況は事実-activity-7427871978839076864-Z7N8",
     "https://www.linkedin.com/posts/freeowner17_一を聞いて十を知る人間になる極意-結論-演繹法-をマスターすることです-activity-7206435293804044288-J4gm",
+    "https://www.linkedin.com/posts/tokushihaneda_お知らせ-日本教育評価研究会の機関誌指導と評価2025年3月号に私の寄稿-activity-7298496551738380288-abmG",
     "https://jp.linkedin.com/pulse/how-do-risk-managers-maintain-credibility-era-mass-tony?tl=ja",
-    "https://jp.linkedin.com/posts/永嶋-國雄-88ab1189_惨敗した中道は政策秘書にさえぎられ代表には本件が届いていない-ご指摘の状況は事実-activity-7427871978839076864-Z7N8"
+    "https://jp.linkedin.com/pulse/fact-fetch-reason-unified-evaluation-generation-vlad-bogolin-tufve?tl=ja"
    ]
   },
   {
@@ -483,35 +480,37 @@
     "https://www.facebook.com/longwen.yuechuan/posts/提示された評価文について事実確認の結果を踏まえて論理構成を検証します1-数値の事実確認-高い精度主要な数値は現時点の一次情報と正確に一致しています-日本の米国債/10228620910786188/",
     "https://www.facebook.com/groups/548266103946448/posts/1202508308522221/",
     "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報524金610月開催直観と主観の覚醒によるルール形成戦略型のイノベーション力強化プログラムルール形成戦略の第一人者として数々のルール形成に自らも取り/907033654767956/",
-    "https://www.facebook.com/akihiko.manabe.9/posts/複数の推論と倫理的評価を重ねて謝罪要求に至る高橋庸正氏の最新noteを読んで判断と確認された事実は同じではない高橋庸正氏の最新noteまた自分の断定から逃げたを/3775095752628103/"
+    "https://www.facebook.com/pref.okayama.kyoikukoukou/photos/デジタル学習基盤を前提とした授業改善研修第５回を実施しました教育情報化推進室-教育情報化推進室では第４次岡山県教育振興基本計画に基づき教職員のｉｃｔ活用指導力の/1557107186202659/"
    ]
   },
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） note 社長",
    "results": [
-    "https://note.com/niwatori_keirin/n/nc3da00c42d7b",
-    "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」",
-    "https://sanpuru-saito.com/主観的情報とは？具体例とその影響を解説/",
-    "https://note.com/spaceground/n/n6a55796143c6",
+    "https://note.com/shinu/n/n567c6705ec18",
     "https://blog.techscore.com/entry/2022/10/12/080000",
-    "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
-    "https://ootakazuhiko.github.io/test-book-20250710-01/chapters/chapter03/",
-    "https://ori-plan.com/f-and-o/"
+    "https://note.com/sudatakashi/n/n5831f0e3b883",
+    "https://www.insource.co.jp/ihl/260804_data_literacy_dokkai.html",
+    "https://note.com/note_ir/n/n4a9098319c3c",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K20899",
+    "https://qiita.com/masato_makino/items/58a6eb864707c8b2d477",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/1aqua1/n/n1273b31d3f01",
+    "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
    ]
   },
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） X 投稿",
    "results": [
+    "https://qiita.com/f_uto/items/5464a85647f8765fbddb",
+    "https://grow-group.jp/archives/29326/",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vKVyD99wFrRtG7ATFcEz30ynYtRYPYgO4ptL3ZwqNe52Xpa36bR",
     "https://note.com/kawaidesign/n/ncc48348607be",
-    "https://r-labs.jp/x%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%85%AC%E9%96%8B%E3%81%A7%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%82%E3%81%AE%E3%80%82x%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%A8/",
-    "https://www.sns.adishplus.co.jp/blog/x-twitter/blog-20250430/",
-    "https://social-dog.net/ja/navi/basis-analytics-1/",
-    "https://note.com/ai_driven/n/n03692c797a72",
-    "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」",
-    "https://ootakazuhiko.github.io/test-book-20250710-01/chapters/chapter03/",
-    "https://note.com/niwatori_keirin/n/nc3da00c42d7b",
-    "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
-    "https://proceedings-of-deim.github.io/DEIM2023/4a-3-3.pdf"
+    "https://marketing.twitter.com/content/dam/marketing-twitter/apac/ja/insights/kakusan/kakusan.pdf",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/sns%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A8%E3%81%AF%EF%BD%9Cx%E3%83%BBinstagram%E5%88%A5%E3%81%AE%E8%A9%95%E4%BE%A1%E5%9F%BA%E6%BA%96/",
+    "https://baigie.me/nippo/2025/09/11/x_algo/",
+    "https://camtsuku.com/guide/3811",
+    "https://www.wantedly.com/companies/liddell/post_articles/985591",
+    "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
    ]
   },
   {
@@ -519,14 +518,14 @@
    "results": [
     "https://in.linkedin.com/in/nihan-anoop",
     "https://it.linkedin.com/in/nicolabernini",
-    "https://in.linkedin.com/in/dr-saurabh-pramanick-phd-31b8551a",
+    "https://www.linkedin.com/in/devinandrerhodes",
     "https://es.linkedin.com/in/arnau-vil%C3%A0-phd-83413665",
+    "https://in.linkedin.com/in/dr-saurabh-pramanick-phd-31b8551a",
     "https://ro.linkedin.com/in/andrei-cioroianu",
-    "https://www.linkedin.com/pulse/how-chain-custody-works-digital-forensics-wehire-laumech-rnvrf",
     "https://www.linkedin.com/pulse/chain-custody-detectives-guide-building-trustworthy-ai-sheba-fernando-99lhc/",
-    "https://www.linkedin.com/pulse/ensuring-integrity-chain-custody-digital-forensics-amgad-yousry-8smff",
     "https://www.linkedin.com/pulse/chain-custody-pillar-digital-evidence-collins-kiptoo-op6ef",
-    "https://www.linkedin.com/posts/cyberintglobal_chainofcustody-digitalevidence-digitalforensics-activity-7349304107045658624-c7Gh"
+    "https://www.linkedin.com/pulse/how-chain-custody-works-digital-forensics-wehire-laumech-rnvrf",
+    "https://www.linkedin.com/pulse/ensuring-integrity-chain-custody-digital-forensics-amgad-yousry-8smff"
    ]
   }
  ],
@@ -535,6 +534,6 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T03:39:48.721492+00:00"
 }

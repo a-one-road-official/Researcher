@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・149品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・151品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -498,6 +498,9 @@
   - 「インターンシップに応募した理由は人それぞれだと思いますが、特にその企業のインターンシップに魅力を感じるのは、その企業の何かがあなたの中に響いたからではありませんか?例えば、インターンシップを通じて成長したいと考え志望している人は「なぜその企業でなら成長できると思うのか」「その根拠となる自分自身の経験」を答えると良いでしょう」（https://unistyleinc.com/techniques/1404）
   - 「例えば、「○○（名前）と申します」（https://unistyleinc.com/techniques/1404）
 - 検索結果の抜粋：
+  - 「業界研究のやり方｜業界の絞り方と企業研究との違い | 就活Pass — この記事でわかること 1 業界研究と企業研究は、見ている距離が違う 2 何のために業界研究をするのか 3 業界研究の手順 — 俯瞰してから、一つに潜る 4 業界研究ノートの項目 早見表 5 情報源の選び方 — 一次情報から確かめる 6 調べたことを、比較できる ...」（https://www.shupass.jp/guides/gyokai-kenkyu-yarikata）
+  - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · 市場調査をAIで効率化する具体的な方法を、中小企業診断士が解説します。ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある ...」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
+  - 「Industry Analysis - Top 3 Methods to Assess and Analyze an ...Primary, Secondary, and Tertiary Sources in Business Research ...Industry Analysis: Definition, Framework, and Worked ExamplePrimary Market Research: Methods, Examples & Advantages | AMC ...Primary Research in the context of Market Research Industry - VMR — There are three commonly used and important methods of performing industry analy」（https://corporatefinanceinstitute.com/resources/management/industry-analysis-methods/）
   - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。 大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある落とし穴も紹介します。」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
 
 ## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
@@ -7365,21 +7368,21 @@
 ## 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）（quote grounding verification extracted citation exists in source text RAG hallucination legal research）
 - 文脈：検証
 - 手順・やり方：
+  - 「Deployment is governed by a rigorous evaluation framework using」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「vector index partitioned by jurisdiction for low-latency, high-relevance retrieval. Our evaluation framework measures」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「Citation Precision and Recall Evaluation Framework」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「Training Regimen and Citation-Fidelity Evaluation Framework」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「A specialized training engagement to jointly optimize retriever and generator models on a corpus of state appellate decisions, eliminating hallucinated citations through a rigorous, metrics-driven evaluation framework.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「A deployment architecture and monitoring framework for fine-tuned RAG systems that detect and correct hallucinated citations in state appellate practice, ensuring every assertion remains grounded in verifiable authority as the law evolves.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「What is the evaluation framework, and how do you measure success beyond vague 'accuracy' claims?」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「Citation grounding is a methodology that verifies citations accurately support claims by linking specific text spans to their original sources.」（https://www.emergentmind.com/topics/citation-grounding-cg）
+  - 「Empirical studies demonstrate that integrating fine-grained extraction and validation steps significantly improves citation precision and reduces hallucinations.」（https://www.emergentmind.com/topics/citation-grounding-cg）
+  - 「3. Methodological families」（https://www.emergentmind.com/topics/citation-grounding-cg）
+  - 「4. Evaluation frameworks」（https://www.emergentmind.com/topics/citation-grounding-cg）
+  - 「Legal results are bifurcated between grounded verification and closed-book generation. The Ukrainian legal citation-graph framework reports mean CG in the」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「ここに生成AIを組み込めれば、調査の進め方をかなり変えられるかもしれません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「まずは、そのような制御しやすい使い方から始めたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「スタンフォード大学等の研究チームは、検索結果を参照して回答を生成するRAG型の法律調査ツールを評価し、研究時点の対象システムで17〜33％のハルシネーションを報告しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「私としては、取得方法やアクセス頻度を決める手順と、集めた文章・図をチャートにどのように掲載するかを確認する手順を、別々に設けたいと思います」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「## 0. 使い方」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「材料・組成（MATERIAL）／工程（STEP）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- クレームカテゴリ（物／方法／プログラム／システム／製造方法）を判定し、方法クレームの場合は」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 方法クレームの実施主体の仮置きが実態と合うか」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 特許法101条（間接侵害）の検討に必要な材料：クレームの物・方法の「生産にのみ用いる物」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「各要件の機能・方法・結果を明細書の記載から整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 方法クレームの分割実施（divided infringement, Akamai）の可能性がある場合、指揮・管理の関係が」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「3. 規格・認証・型番の手がかり（該当し得る規格名、認証マーク、チップの型番、インタフェース名）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「1. 要件ごとの語彙表（下位概念／業界用語／規格・型番の手がかり／機能の見え方／反対証拠の表現）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 突き合わせ・推定：
   - 「侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7397,6 +7400,7 @@
   - 「**機械検証（必須）**：出力された各 `quote` が `DOC_TEXT` 内に（空白・改行の正規化後に）存在することをコードで確認する（付録E）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「判定と抽出を分けることで、判定モデルが原文を「読み違える」余地を減らし、引用の機械検証を可能にする」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 一次情報の探し方：
+  - 「over a citation grammar compiled into a finite-state automaton, and posthoc span alignment. In constrained decoding, the automaton tracks whether decoding is in Claim, DOCID, or SNIPPET mode, restricts allowable tokens accordingly, and retries up to 3 times with temperature increased by」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7411,8 +7415,9 @@
   - 「** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「3. **逐語引用のない判定は採用しない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「【対象法域】{{JURISDICTION}}（JP: 日本特許 / US: 米国特許 / BOTH: 両方）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 失敗・落とし穴：
+  - 「Citation precision >= 0.98; citation recall >= 0.95; hallucination rate < 0.01; evaluated on held-out state appellate decisions with Weights & Biases」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「12 even in the best setting, and reports a primacy bias in which」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「生成AIの誤りというと、存在しない文献やURLをつくることを想像しがちです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7426,24 +7431,22 @@
   - 「"required": ["bias_assessment", "changed_elements"],」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「"bias_assessment": { "type": "string" },」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「| 要件ID | 原文 | 種別 | 依存 | 否定・限定語 | 機能的表現 | 検索・判定時の注意 |」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「| 1D | 前記筐体の装着状態を検出するセンサと、 | STRUCTURE/FUNCTION | 1A | — | はい | 「装着検出」「着脱検知」「近接センサー」「光学センサー」等の別名に注意 |」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 実例：
+  - 「Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「The entire training and inference pipeline can be packaged for fully disconnected, on-premises environments. This supports national security, grand jury, and highly confidential litigation use cases where external API calls are prohibited, using optimized serving on air-gapped GPU clusters.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「(are cited cases real and correctly formatted?),」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「of a case—not just a semantically similar one. This index handles state-specific reporter abbreviations, parallel citations, and depublication signals that generic vector databases miss.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「Local evaluation with MLflow tracking; acceptance gate requires precision >= 0.97 and recall >= 0.93 on jurisdiction-specific test sets; manual attorney review of edge cases」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「Enables AI citation verification for national security, grand jury, and sealed cases; zero risk of data exfiltration; defensible chain of custody for model artifacts」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「—the moment a cited case is overturned, depublished, or distinguished by a new appellate ruling. We implement a continuous retraining pipeline orchestrated via」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「How does the system handle complex cross-reference resolution, where a state case's authority depends on a federal precedent that may have been overturned?」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
+  - 「constructs grounded training examples from unlabeled queries using a pretrained」（https://www.emergentmind.com/topics/citation-grounding-cg）
+  - 「, by contrast, studies closed-book authority generation with citation retrieval, citation completion, citation error detection, case matching, and case verification/correction, and introduces Misleading Answer Rate as a measure of concrete but incorrect outputs under low」（https://www.emergentmind.com/topics/citation-grounding-cg）
+  - 「for joint document-plus-span grounding, and finer-grained evaluation such as position-based citation recall. AGREE proposes human-annotated partial-support examples,」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「今回は、導入後の成功事例ではなく、研究やサービスの公開情報をもとに、「どの工程に使えそうか」、「どのような仕組みなら実務に載せられそうか」を考えたものです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「「そのセンサーの検出結果に基づいて制御する」という限定なら、センサーの存在と制御機能の存在だけでなく、両者の関係も確認する必要があります」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「検索エージェントを評価するBrowseComp-Plusの研究でも、同じLLMに組み合わせる検索器を変えることで、結果が大きく変わる例が報告されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「例えば、クレームの抽象的な用語をそのまま検索するだけでなく、「メーカーなら、この機能をどう説明するか」を考えて検索語をつくるイメージです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「スタンフォード大学等の研究チームは、検索結果を参照して回答を生成するRAG型の法律調査ツールを評価し、研究時点の対象システムで17〜33％のハルシネーションを報告しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「実務上の表示は、例えば次のようにしたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「例えばPatlyticsの公式資料では、公開情報や製品文書を探索し、構成要件単位のクレームチャートを作成する機能、証拠のスナップショット保存、Word・Excelへの出力などが紹介されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「個別に検討し、検討結果を明記する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「分解結果はP3〜P10のすべてで参照されるため、G1で人が確定させてから先に進む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「各要件の機能・方法・結果を明細書の記載から整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- **チャット（手動）**：弁理士が検索結果や候補ページの本文を貼り、同じシステムプロンプトで整理させる」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「私が検索結果やページ本文を貼りますので、」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「判定の手順（要件ごとに必ずこの順で検討し、検討結果を出力する）：」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 
 ## 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ（cognitive bias investigation workflow disconfirming evidence osintblog）
 - 文脈：偏り
@@ -9191,11 +9194,11 @@
 
 ## 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）（reconciling conflicting market research estimates methodology disclosure sample size sponsor bias）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）（data journalism making the call close comparisons standard error confidence interval ranking）
 - 文脈：突き合わせ
@@ -9220,8 +9223,58 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
+
+## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
+- 文脈：照合
+- 手順・やり方：
+  - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+- 突き合わせ・推定：
+  - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+- 実例：
+  - 「By use case and by industry.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Data showcases and customer case studies.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「tied to your use case rather than a single universal cutoff, and a real-time API such as」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「The two error types pull in opposite directions, so a confidence threshold is a deliberate trade-off. The table summarises that trade-off; every formula and use-case below is carried verbatim from the full explanation that follows.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Missing matches is costly — e.g. customer database deduplication, or identifying potential fraud where missing a case is worse」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「When developing an entity resolution system, you might tune your matching thresholds or rules based on whether precision or recall is more important for your use case. For instance:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Example use case: Identifying potential fraud cases where missing a fraudulent transaction is worse than flagging a legitimate one for review」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Example use case: Automated merging of patient medical records where incorrect matches could cause serious problems」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Using our previous example: With precision = 89% and recall = 80%:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「A common production pattern scores each candidate pair and routes it by confidence: pairs above an accept threshold auto-merge, pairs below a reject threshold are auto-dismissed, and the ambiguous middle band goes to a human review queue — which preserves precision on hard cases while keeping throughput high.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Can you give a worked precision, recall and F1 example?」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
 - 一次情報の探し方：記載なし（読んだ16頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+
+## 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）（outcome switching registry publication comparison selective reporting audit method COMPare）
+- 文脈：報告の点検
+- 手順・やり方：
+  - 「While steps have been taken to try and mitigate the issue of outcome reporting bias, trials still change their pre-specified outcomes without justification.」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「evidence to decision framework」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+- 失敗・落とし穴：
+  - 「Outcome reporting bias | Catalog of Bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Outcome reporting bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Selective reporting of pre-specified outcomes – depending on the nature and direction of the analysed results – occurs among a large proportion of published clinical trials, resulting in outcome reporting bias. Selective reporting of outcomes can potentially compromise the validity of a trial and any subsequent meta-analyses.」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Outcome reporting bias can be difficult to detect. One way is to obtain the protocol of a clinical trial or trial registry (via databases such as Clinicaltrials.gov or the WHO clinical trials database) and compare the intended outcomes of interest to the analysed outcomes published in the final paper. If these differ then outcome reporting bias is present.」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Chan AW et al. Outcome reporting bias in randomized trials funded by the Canadian Institutes of Health Research. CMAJ 2004;171(7):735-40.」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「While steps have been taken to try and mitigate the issue of outcome reporting bias, trials still change their pre-specified outcomes without justification.」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Clinical trial investigators must maintain a policy of transparency, and if they do change or omit planned outcomes, an adequate explanation should be provided for readers. Reviewers and journal editors should compare the final studies with their protocol or registry to assess for evidence of outcome reporting bias.」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Catalogue of Bias Collaboration, Thomas ET, Heneghan C.」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「In: Catalogue Of Biases 2017: www.catalogueofbiases.org/outcomereportingbias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Positive results bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Dealing with biased reporting of the available evidence」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「disease progression bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「All's well literature bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Diagnostic access bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+  - 「Diagnostic suspicion bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
