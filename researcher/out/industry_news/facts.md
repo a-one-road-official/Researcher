@@ -4671,38 +4671,43 @@
   - 「創出のため、公共調達指令改正で需」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「• バイオものづくり分野の産官学連携でのルール形成（GX施策等の活用）、政府調達」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
 - 顧客の顧客（発注元が求めること）：
+  - 「こうした大手消費財メーカーの方針転換により、化学品サプライヤーにも」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「【対策2：「カーボンフットプリント認証」の取得】」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「脱炭素経営とサーキュラーエコノミーの進展がリグニン由来バイオ樹脂の採用を後押し、石油化学原料の代替が企業の調達戦略を変える」（https://www.atpress.ne.jp/news/2113196）
+  - 「今後の市場開拓では、建築用構造材料と一般内装材料などの用途別要求を踏まえ、適切なリグニン配合率と製造プロセスを確立することが求められます」（https://www.atpress.ne.jp/news/2113196）
+  - 「一方で、日本企業が競争力を確保するためには、国内需要だけではなく、海外の製造拠点や顧客企業が要求する品質基準、価格水準、供給数量への対応も必要となります」（https://www.atpress.ne.jp/news/2113196）
+  - 「このため、企業が設備投資を検討する際には、実験室段階での性能評価に加え、パイロット設備による検証、生産歩留まり、長期供給契約、顧客認証に必要な期間などを確認することが重要です」（https://www.atpress.ne.jp/news/2113196）
+  - 「投資家や事業開発責任者にとっては、特許、量産能力、顧客との共同開発、原料調達契約、製品認証の進捗などが事業評価の重要な指標となります」（https://www.atpress.ne.jp/news/2113196）
+  - 「経営者は、単純な原料置換率だけでなく、製造コスト、品質安定性、顧客認証、長期供給契約、用途別利益率を比較し、最初から大規模設備投資を行うのではなく、既存顧客との共同開発を通じて採用実績を積み上げる投資戦略を検討すべきです」（https://www.atpress.ne.jp/news/2113196）
+  - 「自動車産業の脱炭素化はリグニン系樹脂市場をどこまで変えるのか？日本の自動車部品メーカーが注目すべき鋳造用バインダー、軽量複合材料、バイオベース高機能樹脂への設備投資と事業拡大機会」（https://www.atpress.ne.jp/news/2113196）
+  - 「一方で、自動車用途には耐熱性、機械的強度、加工適性、ロット間の品質再現性など厳格な要求があるため、環境性能だけで採用が決まるわけではありません」（https://www.atpress.ne.jp/news/2113196）
+  - 「経営判断においては、完成車メーカーや一次部品サプライヤーとの共同評価体制を構築し、製品別の性能試験、採用までの期間、量産時の歩留まり、ライフサイクル全体の排出削減効果を確認することが重要です」（https://www.atpress.ne.jp/news/2113196）
+  - 「また、原料供給企業、樹脂メーカー、最終用途メーカーが早期に連携することで、供給原料の規格と顧客の製品要求を一致させやすくなります」（https://www.atpress.ne.jp/news/2113196）
   - 「レンゴー ISCC PLUS認証を取得した」（https://www.env.go.jp/content/000322560.pdf）
   - 「今後、同認証によりバイオマ」（https://www.env.go.jp/content/000322560.pdf）
   - 「大日本印刷 ISCC PLUS認証を受けたバイオマス由来特性及びリサイ」（https://www.env.go.jp/content/000322560.pdf）
-  - 「出光興産がIPCC PLUS認証を取得してバイオマスナフサ」（https://www.env.go.jp/content/000322560.pdf）
-  - 「2024年にIPCC PLUC認証を取得予定」（https://www.env.go.jp/content/000322560.pdf）
-  - 「用堆肥化(NF T51-800)認証を取得した PLA、PBAT、複」（https://www.env.go.jp/content/000322560.pdf）
-  - 「◼ PHAは生分解性が高いことで知られ、一部メーカーのPHAは、もっとも生分解性の基準が厳しい海洋生分解性の認証を取」（https://www.env.go.jp/content/000322560.pdf）
-  - 「得している（TÜV AUSTRIAの「OK biodegradable MARINE」認証）」（https://www.env.go.jp/content/000322560.pdf）
-  - 「高い生分解性を持つことで知られ、海洋生分解性認証を取得している樹脂も存在する」（https://www.env.go.jp/content/000322560.pdf）
-  - 「国 メーカー PHAの種類 製造拠点 原料 製造能力（トン/年） 認証取得 その他」（https://www.env.go.jp/content/000322560.pdf）
-  - 「• 燃料や素材等の 汎用領域では、脱炭素や経済安保の観点からの 政策的な市場創出 ・需要促進」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「• 海外市場を念頭に置いたLCA等の評価手法や認証システム整備・クレジット化、製品表示、国際標準」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「細胞設計プラットフォーム事業者と生産事業者を戦略的に育成し、最終製品のサプライヤーとの連携を進める」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「フェーズを念頭に、防衛調達など官公庁による調達や規制改革など新たな需要の創出や拡大策を取り入れて」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「① バイオものづくり製品は経済成長（QOL向上）と社会課題解決（脱炭素、資源自律、食」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
 - 顧客の競合（奪いに来る側）：
-  - 「II – ② 欧州におけるバイオプラスチック等の動向調査 242」（https://www.env.go.jp/content/000322560.pdf）
-  - 「世界の樹脂別バイオプラスチックの製造能力シェア（2024年、2029年）」（https://www.env.go.jp/content/000322560.pdf）
-  - 「世界の用途別バイオプラスチックの製造能力シェア（2024年）」（https://www.env.go.jp/content/000322560.pdf）
-  - 「and copolymers（PBS）、polyethylene furanoate （PEF）、polyhydroxyalkanoates（PHA） and polypropylene（PP）のシェアは1%未満」（https://www.env.go.jp/content/000322560.pdf）
-  - 「主な製造企業 • Braskem （ブラジル） • LyondellBasell （米国）、Dow （米国）、SABIC（サウジアラ」（https://www.env.go.jp/content/000322560.pdf）
-  - 「Versalis（イタリア）、LG chemical（韓国）」（https://www.env.go.jp/content/000322560.pdf）
-  - 「術の開発を行っているCemvita Factory（米国）に出資」（https://www.env.go.jp/content/000322560.pdf）
-  - 「開発しているCemvita Factory（米国）に出資」（https://www.env.go.jp/content/000322560.pdf）
-  - 「主な製造企業2) • LyondellBasell （米国）、SABIC（サ」（https://www.env.go.jp/content/000322560.pdf）
-  - 「chemical（韓国）、三井化学 ・プライ」（https://www.env.go.jp/content/000322560.pdf）
-  - 「2025年12月には中国バイオも」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「• 米国防総省は、優先して研究開発に取り組む重」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「米国研究機関はCRISPR-Cas9（高効」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「• また、米国は2025年12月、Biosecure Act」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「原料を安価・安定的に供給するための方策についても検討」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
+  - 「これこそが、欧州バイオリファイナリーの圧倒的な収益性の秘密です」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「欧州バイオリファイナリーの競争力を支えるのは、」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「欧州では、大規模農業が主流であり、1農家あたり数百ヘクタールの農地を経営しています」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「【対策2：欧州企業との合弁事業】」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「・欧州バイオ企業と日本化学メーカーが合弁会社を設立」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「欧州バイオリファイナリーが示しているのは、」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「次回の第4話では、台湾半導体企業が先行する「水リサイクル完全クローズドループ」を取り上げます」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「しかし台湾TSMCは、工業用水の使用量を90%削減し、水コストを年間200億円削減しています」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「台湾の半導体工場で見た、使用済み工業用水が99.9%の純度で再生される瞬間」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「次号では、台湾モデルの詳細と、日本の半導体復興に不可欠な水戦略を提示します」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「今後は価格競争力だけでなく、材料の安定供給、加工適性、性能の再現性を実現できる企業が市場拡大の恩恵を受ける可能性があります」（https://www.atpress.ne.jp/news/2113196）
+  - 「経営者は、低価格競争に陥りやすい汎用接着剤市場だけを追うのではなく、環境情報の透明性や高度な品質保証が求められる建材分野に重点を置き、技術力と顧客との長期的な取引関係を活用した高付加価値事業の構築を目指すべきです」（https://www.atpress.ne.jp/news/2113196）
+  - 「Global Reportsが公開した最新調査レポート「バイオマスの世界市場規模、シェア、企業ランキング、売上、需要動向予測（2026～2032年）」によると、バイオマスの世界市場は、2025年の約298億6,500万米ドルから2026年には約328億1,000万米ドルへ拡大し、2032年には約548億7,400万米ドルに達すると予測される」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
+  - 「農林業残渣や廃棄物を燃料へ転換する技術は、食料と競合しにくい原料の活用という点でも重要性を増している」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
+  - 「中国は農林業残渣や木質資源を背景に、バイオマス燃料の主要な生産拠点となっている」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
 - 自社の競合（商社・代理店・仲介）：
+  - 「・JAには集荷手数料（トン1,000円）を支払い」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「・新規収益源（集荷手数料：年間1,200万円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「・European Commission "EU Bioeconomy Strategy" (2023)」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「Commissioned Research :」（https://www.atpress.ne.jp/news/2113196）
+  - 「https://www.reportocean.co.jp/commissioned-research-services」（https://www.atpress.ne.jp/news/2113196）
   - 「3) バイオプラスチック導入ロードマップ（2021年1月）（商社へのヒアリング結果）, http://www.env.go.jp/recycle/plastic/bio/pdf/bioplasticRoadmap_210329.pdf」（https://www.env.go.jp/content/000322560.pdf）
   - 「5) バイオプラスチック導入ロードマップ（2021年1月）（商社へのヒアリング結果）, http://www.env.go.jp/recycle/plastic/bio/pdf/bioplasticRoadmap_210329.pdf」（https://www.env.go.jp/content/000322560.pdf）
   - 「大している中、LG化学と米国の穀物商社群の合弁工場に」（https://www.env.go.jp/content/000322560.pdf）
@@ -4710,6 +4715,9 @@
   - 「出所：N. Scarlat et al (European Commission, Joint Research Centre), Environmental Development, 15, 3-34 （2015)」（https://www.nedo.go.jp/content/100870192.pdf）
   - 「東南アジア、カナダ、米国の木質ペレットの商社および生産者」（https://www.cmtevents.com/aboutevent.aspx?ev=260501&）
 - 政治（法・予算・規制）：
+  - 「原料集荷システムの整備、補助金提供、用地提供」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「・補助金：15億円（国・県補助金の合計）」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「さらに海外市場への進出を検討する企業は、各国の環境規制、顧客の調達基準、原料供給体制、製品認証などを比較し、自社技術が最も高い付加価値を発揮できる用途と地域を見極める必要があります」（https://www.atpress.ne.jp/news/2113196）
   - 「II. バイオプラスチック及び再生材等の導入に関連する規制・施策の調査 （仕様書2） 68」（https://www.env.go.jp/content/000322560.pdf）
   - 「II – ① 国内及び海外でのプラスチックに関連する規制・制度、バイオプラスチック及び再生材に関連する施策等の調査 69」（https://www.env.go.jp/content/000322560.pdf）
   - 「たプラスチックを使用した容器包装」で初のエコマーク認定」（https://www.env.go.jp/content/000322560.pdf）
@@ -4722,26 +4730,24 @@
   - 「• バイオものづくり分野の産官学連携でのルール形成（GX施策等の活用）、政府調達」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「２つの大規模な予算事業（GI基金バイオものづくりPJ、バイオものづくり革命推進事業）を軸に、国内の微生物・」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「経済安全保障の観点での重要技術の優位性確保や国際連携も推進」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「• 経済安全保障（重要技術の特定・高度化、戦略的な国際・企業間連携等）」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「日本の予算規模は、 欧米に比べて小さい （表4）」（https://www.nedo.go.jp/content/100870192.pdf）
-  - 「国・地 域 プログラム名 支援内容 予算 （期間）」（https://www.nedo.go.jp/content/100870192.pdf）
 - 経済（規模・価格・為替）：
-  - 「1-1) Braskem社プレスリリース（2021年2月23日）「Braskem invests US$61 million to increase biopolymer production」, https://www.braskem.com.br/usa/news-detail/braskem-invests-us61-million-to-increase-」（https://www.env.go.jp/content/000322560.pdf）
-  - 「市場単価（国内） • 石化PEと比較して約3倍3) （2021年ヒアリング結果）」（https://www.env.go.jp/content/000322560.pdf）
-  - 「• 約260円/kg（2021年12月LLDPE輸入単価）4)」（https://www.env.go.jp/content/000322560.pdf）
-  - 「市場単価（国内） • 180～200円/kg4)」（https://www.env.go.jp/content/000322560.pdf）
-  - 「輸入単価は近年上昇しており、2018年からの直近5年間で約2倍と」（https://www.env.go.jp/content/000322560.pdf）
-  - 「市場単価（国内） • 約430円/kg（2024年輸入単価）2)」（https://www.env.go.jp/content/000322560.pdf）
-  - 「• 輸入単価は2019年以降上昇しており、2018年からの5年間で約2倍となっている」（https://www.env.go.jp/content/000322560.pdf）
-  - 「両社は10億円の資本業務提携を締結し、ポリ乳酸を原料」（https://www.env.go.jp/content/000322560.pdf）
-  - 「グラム5年目は前年比27％増となった」（https://www.env.go.jp/content/000322560.pdf）
-  - 「エコノミー」の世界市場が2030年に約200兆円に成長、うち約４割を工業分野が占める と」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「約200兆円」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「2.7%（約200兆円、OECD加盟国）」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「• バイオテクノロジーにより生み出される世界市場 は、2030～40年に200～400兆円規模に」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「1000億ドル（約11兆円）以上の」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「のづくり産業が約24兆円規模に達し」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
+  - 「「私たちは、農家が捨てていたものを年間50億円のビジネスに変えました」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「しかも、原料費は石油の30%、販売価格は石油化学品より25%高い」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「・第1段階：高付加価値の香料成分を抽出（販売単価：kg 8,000円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「・第2段階：界面活性剤の原料を抽出（販売単価：kg 1,200円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「・第3段階：残渣からバイオプラスチックを製造（販売単価：kg 400円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「2020年、原油価格（WTI）は1バレルあたり約40ドルでした」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「しかし2024年現在、価格は80ドル前後で推移しています」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「原油価格が2倍になれば、製造コストは120%増加します」（https://note.com/iceman_23/n/n4c99a6f861e4）
+  - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略 | 株式会社レポートオーシャン」（https://www.atpress.ne.jp/news/2113196）
+  - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略」（https://www.atpress.ne.jp/news/2113196）
+  - 「リグニン系樹脂市場は、2025年の5億3,934万米ドルから2035年には8億6,066万米ドルに達すると予測されており、2026年から2035年の予測期間において年平均成長率（CAGR）5.33％で成長すると見込まれています」（https://www.atpress.ne.jp/news/2113196）
+  - 「年平均成長率5.33％という市場予測は、リグニン系樹脂が中長期的な成長領域として期待されていることを示しています」（https://www.atpress.ne.jp/news/2113196）
+  - 「プランテーションシャッター市場は2035年に209億6,000万米ドル到達へ｜CAGR 3.49％、住宅の断熱性向上・スマートホーム化・耐久性に優れたインテリア製品への需要拡大が市場成長を促進」（https://www.atpress.ne.jp/news/2113196）
+  - 「バイオマス市場規模予測2026：2032年に54874百万米ドルに到達 - 宮崎日日新聞DIGITAL」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
+  - 「バイオマス市場規模予測2026：2032･･･」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
 - 社会（人・担い手）：
+  - 「・雇用創出（施設従業員80名+関連雇用200名）」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「• バイオファウンドリ拠点の整備（培養・発酵等の生産プロセス開発、人材育成）」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「また、バイオものづくり産業の人材不足に備え、バイオものづくり産業人材」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「技術、人材育成、スタートアップ、金融など、分野横断的な課題についても、担当大臣を指名」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
@@ -4756,7 +4762,6 @@
   - 「・人材育成など自立的な産業エコシステムの構築」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
   - 「を通じて、目的物質を安定的・大量に生産するための知見や技能を含む」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
   - 「「学会発表が投資契機／技術に合う経営人材紹介」」（https://www.rite.or.jp/bio/works/media/）
-  - 「課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです」（https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html）
 - 技術（新しい技術・実証）：
   - 「I. バイオプラスチック及び再生材等の研究開発、製造動向、導入状況に関する調査 （仕様書1） 3」（https://www.env.go.jp/content/000322560.pdf）
   - 「I – ① バイオプラスチックの研究開発、製造動向、導入状況に関する調査 4」（https://www.env.go.jp/content/000322560.pdf）

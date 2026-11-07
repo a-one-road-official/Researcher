@@ -1,0 +1,911 @@
+{
+ "name": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32）",
+ "en": "Japan Census of Manufacture 2019 electroplating metal coating dies cash wages value added by industry detail",
+ "aliases": [
+  "工業統計 産業細分類 現金給与総額 付加価値額 電気めっき業",
+  "工業統計表 産業別統計表 2464 2461 2691 現金給与総額",
+  "電気めっき業 付加価値率 人件費"
+ ],
+ "context": "業種・めっき",
+ "kind": "market",
+ "researched_at": "2026-11-07T05:01:32.354625+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "工業統計調査 確報 ２０１９年確報産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 確報 ２０１９年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "工業統計調査 確報 ２０１９年確報産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【2183】人工骨材製造業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【3251】娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【3252】人形製造業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 確報 ２０１９年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【2183】人工骨材製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【3251】娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【3252】人形製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "1122_絹・人絹織物業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1142_絹・人絹織物機械染色業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1162_織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2183_人工骨材製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3251_娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3252_人形製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、従業者3人以下の事業所を除く",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "生産額(従業者29人以下は出荷額)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額(従業者30人以上)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "【2183】人工骨材製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "【3251】娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "【3252】人形製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "工業統計調査 確報 ２０１９年確報産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 確報 ２０１９年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "生産額(従業者29人以下は出荷額)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額(従業者30人以上)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "工業統計調査 確報 ２０１９年確報産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 確報 ２０１９年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "生産額(従業者29人以下は出荷額)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額(従業者30人以上)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2020-08-27 00:00",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【2020】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "2020-08-27 00:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【2020】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "公開日 2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日 2023年1月6日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2021_工業用革製品製造業（手袋を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数＝192,047事業所（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "回収率＝95.1％（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年 月日の部分へすべて1月1日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "＞工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)(https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/)...",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_1-03_品目別_都道府県別_年次 2016年 – 2020年 (列指向形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2016-04-28 00:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "有形固定資産投資総額(従業者30人以上)（万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.tottori.lg.jp/255244.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/ecm/back/2020oct/tokushu/index1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep12/15suii.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJzddrBpc1OSLifHJEFpmaB53s76v-njZAr4WdbXqeN6DSlKBnm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 人手不足 受注 断る",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "https://www.pref.tottori.lg.jp/255244.htm",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003432898",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.toyama.jp/sections/1015/ecm/back/2020oct/tokushu/index1.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep12/15suii.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 推移",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep12/15suii.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 統計 PDF",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep12/15suii.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf"
+   ]
+  },
+  {
+   "query": "Japan Census of Manufacture 2019 electroplating metal coating dies cash wages value added by industry detail Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJzddrBpc1OSLifHJEFpmaB53s76v-njZAr4WdbXqeN6DSlKBnm",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=JP",
+    "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "https://www.marketsandata.com/industry-reports/japan-fabricated-metal-products-market",
+    "https://www.coatingsworld.com/the-coating-industry-in-japan/",
+    "https://www.stat.go.jp/english/data/nenkan/68nenkan/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32）",
+   "results": [
+    "https://note.com/dakudhigura/n/n015677b91218",
+    "https://note.com/david_parekar/n/ne61b7069390d",
+    "https://note.com/david_parekar/n/n570d2928ebf3",
+    "https://note.com/vast_slug4459/n/n16700091eddc",
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/andy868/n/n797d2f8be589",
+    "https://note.com/kabunewstock/n/nfdeaf60a8253",
+    "https://note.com/atelier_emba/n/n2cad4e1d02b7"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32）",
+   "results": [
+    "https://www.linkedin.com/company/heineken/",
+    "https://pe.linkedin.com/learning/",
+    "https://jp.linkedin.com/company/電気興業（株）",
+    "https://www.linkedin.com/company/bristlecone",
+    "https://jp.linkedin.com/pulse/金属無電解めっき溶液の市場規模市場シェア市場成長タイプ別用途別の市場分析地域の洞察および2033年ま-7477415786589048835-gnane",
+    "https://jp.linkedin.com/posts/雅夫-木下-8a5215399_ギャハハハハハうわああああ-私の計算機の全排熱ファンが日本の現金のロジスティクス-activity-7484182322464858113-lfBl",
+    "https://jp.linkedin.com/learning/microsoft-project-2019-and-project-online-desktop-client-essential-training/2304744"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32）",
+   "results": [
+    "https://www.facebook.com/public/森-克哉/",
+    "https://www.facebook.com/tosoukyoukai/posts/20190225会誌塗装工学第54巻2号2019年タイトルサービスを掲載しましたこちらからご覧になれますhttpjcotgrjptosokogaku14html/2513960815298465/",
+    "https://www.facebook.com/takagikinzoku/posts/中小企業白書2019に掲載されました今後とも一層の技術向上を目指し誠心誠意邁進して参ります何卒ご支援のほどよろしくお願い申し上げます-事例-3-1-21-大企業/1882750135160909/",
+    "https://az-az.facebook.com/FUNatASEAN/posts/2019年到底該持有現金還是持有資產這個問題一直是很多人的疑問特別是新的一年剛開始持有現金還是持有資產很多人猶豫不決其實答案一直沒變過那就是持有資產安全的資產都/2054837197904851/",
+    "https://www.facebook.com/kosukesuzukiarchitects/posts/o-base2019設計協力鈴木浩介塗装左官オーナー様御婆瀬おばせ湾い沿いに建つ小さなオフグリッドタイニーハウスの周辺には豊かな自然しかありません地名であるob/2189700328004458/",
+    "https://www.facebook.com/seikatsuraku/videos/モバイルバッテリーから急に火が出たら普通にパニックになっちゃいますよね外出中だと異常に気づけないこともあるからバッテリー類の保管方法を見直しておくと安心今回は耐/1027666083203142/",
+    "https://www.facebook.com/CarReformStation/"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） note 社長",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003432898",
+    "https://www.pref.tottori.lg.jp/255244.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html"
+   ]
+  },
+  {
+   "query": "Japan Census of Manufacture 2019 electroplating metal coating dies cash wages value added by industry detail site:linkedin.com",
+   "results": []
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ36頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ36頁・検索18回）"
+ }
+}

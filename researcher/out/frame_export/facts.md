@@ -3174,54 +3174,55 @@
 - 痛み・損（深さの印）：
   - 「新型コロナウイルスの影響による部材不足や納期遅れが問題視されるなか、イノウエでは迅速な対応で、お客様の納期に確実に対応しています」（https://www.kk-inoue.co.jp/material/）
 - 顧客（金を払う側）：
-  - 「この記事では、営業担当者が顧客に提案する際に役立つ、耐熱合金の基本知識から適切な切削工具の選び方までを詳しくご紹介していきます」（https://www.dijet-tool.com/media/column/a100）
-  - 「高温でも優れた強度を維持できるため、薄肉化や軽量化が求められる構造にも採用しやすく、設計自由度の向上に貢献します」（https://www.dijet-tool.com/media/column/a100）
-  - 「顧客ニーズを理解し、最適な提案を行うことで、生産性向上とコスト削減に貢献していきましょう」（https://www.dijet-tool.com/media/column/a100）
-  - 「精密金属材料メーカーとして80年以上の実績を持つ」（https://www.tokkin.co.jp/media/technicalcolumn/2505210）
-  - 「お問い合わせにつきましては発表元企業までお願いいたします」（https://japan.zdnet.com/release/31212578/）
-  - 「【企業の皆様へ】企業情報を掲載・登録するには？」（https://japan.zdnet.com/release/31212578/）
-  - 「御社の企業情報・プレスリリース・イベント情報・製品情報などを登録するには、企業情報センターサービスへのお申し込みをいただく必要がございます」（https://japan.zdnet.com/release/31212578/）
-  - 「KDDI、「Starlink Mobile V2」27年導入 通信速度が向上しVoLTEも利用可能」（https://japan.zdnet.com/release/31212578/）
-  - 「企業を守る「サイバーレジリエンス」の新常識に迫る」（https://japan.zdnet.com/release/31212578/）
-  - 「「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題」（https://japan.zdnet.com/release/31212578/）
-  - 「12.4.5競争企業間の競合関係」（https://www.dreamnews.jp/press/0000326042）
-  - 「米国エネルギー省も、高温ニッケル超合金部品をより効率的に製造するための有望な方法として、電子ビーム粉末床溶融法と選択的レーザー溶融法を挙げていますが、より広範な産業界での採用には、認証とプロセス制御に関する課題が残っています」（https://straitsresearch.com/jp/report/superalloys-market）
-  - 「したがって、超合金メーカーは、原材料在庫、調達コスト、および信頼できる供給源を管理するという継続的なプレッシャーに直面しています」（https://straitsresearch.com/jp/report/superalloys-market）
-  - 「これにより、超合金メーカーは、高付加価値の鋳造品、リング、コーティング、その他の耐熱部品を供給しながら、販売先を多様化する機会を得ることができます」（https://straitsresearch.com/jp/report/superalloys-market）
-  - 「需要の増加に伴い、生産者は品質を損なうことなく生産量を増やす必要があり、そのため、適切な設備、熟練した冶金技術者、プロセス制御、検査能力、および顧客による検証が重要なボトルネックとなります」（https://straitsresearch.com/jp/report/superalloys-market）
+  - 「耐熱合金 - メーカー・企業10社の業務用製品ランキング | イプロスものづくり」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
+  - 「「グリーン成長戦略」などの政府の取り組みや、経済産業省の産業イノベーションプログラムによる先端材料への支援は、高性能合金の研究開発と導入を促進しています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「日本の自動車メーカーは軽量化のためにチタンやアルミニウム合金を採用しています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「このような状況において、ニッケル基超合金、チタン合金、先進的なアルミニウム/チタンハイブリッドなどの高性能合金は、自動車メーカーに好まれています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「さらに、製造には特殊な設備と熟練した労働力が必要となるため、新規参入企業や小規模メーカーの競争が困難になり、市場拡大のペースが鈍化します」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「高性能合金メーカーに関連する収益機会の一部は次のとおりです」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「地方自治体は老朽化した橋梁、鉄道、電力網の近代化への投資を増やしており、耐久性と耐疲労性に優れた高性能合金の採用が加速しています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「ヨーロッパのメーカーは、精密機械加工、積層造形、自動化技術の導入を加速させており、極限条件下でも優れた性能を発揮し、複雑な形状を可能にする高性能合金の需要が高まっています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「高性能合金市場のメーカーシェアを支配する世界トップ 10 社は次のとおりです」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「SDKI Analytics専門家分析と企業ウェブサイト」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「日本の高性能合金市場メーカーシェアを独占する上位10社は次のとおりです」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「高性能合金 市場 包括的企業分析フレームワーク」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「同社は、星崎工場の棒鋼圧延工場の生産能力を増強し、製品ポートフォリオの多様化と高機能鋼製品の品質向上を目指します」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「Carpenter Technology Corporation、Allegheny Technologies Inc. (ATI)、 Aperam 、VDM Metals GmbH、Sandvik Materials Technology などは、世界的な高性能合金市場で活動している大手企業の一部です」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「当社の調査レポートによると、Nippon Yakin Kogyo、 Hitachi Metals、 Daido Steel、 Kobe Steel、 Mitsubishi Materialsなどが、日本の高性能合金市場で活動する大手企業の一部です」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
 - 顧客の顧客（発注元が求めること）：
-  - 「本記事で取り上げている耐熱鋼や耐熱合金などの金属以外にも、セラミックス、ガラス、樹脂など、それぞれの分野で耐熱性に優れる材料があり、用途や要求特性によって材料を選択する必要があります」（https://www.tokkin.co.jp/media/technicalcolumn/2505210）
-  - 「納期短縮 (8)」（https://www.tokkin.co.jp/media/technicalcolumn/2505210）
-  - 「Aerospace and defense applications account for roughly 35-45% of Japanese demand, with power-generation gas turbines contributing another 20-25%, making the market highly sensitive to long-cycle OEM procurement decisions and safety-certification timelines.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Supply chain concentration risk persists because only a handful of global atomizer facilities can qualify powder to Japanese aerospace prime contractor specifications, and qualification cycles for new sources routinely extend beyond 18 months.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「The Japan-Australia Economic Partnership Agreement and other trade frameworks provide some security of supply for raw materials, but the specialized nature of Inconel powder means that trade patterns are driven more by technical qualification than by tariff considerations.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「The study is designed for manufacturers, distributors, importers, exporters, investors, procurement teams, advisors, and strategy teams that need a consistent, data-driven view of market dynamics and a transparent analytical definition of the product scope.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「: Industrial automation and instrumentation, Electronics and optical systems, Semiconductor and precision manufacturing, OEM integration and maintenance」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Promotion, Discounting and Procurement Patterns」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Buyer and Procurement Architecture」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Verified reviewers highlight faster qualification, clearer collaboration, and stronger bid readiness.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Superalloy Technical Qualification in Additive Manufacturing」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
-  - 「of global value, supported by entrenched aerospace and industrial gas activity and procurement patterns that typically emphasize certification readiness and repeatability in production runs. Asia Pacific, at an estimated」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
-  - 「in 2026 and 2027, a constraint that can tighten cobalt availability for alloy inputs and shift procurement strategies for manufacturers serving downstream users」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
-  - 「. These operational expansions are critical as regulatory burdens increase; in 2025, European Union and UK enhanced traceability requirements for cobalt and nickel under critical raw materials regulations added 8 to 12 weeks to procurement lead times for certain defense programs.」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
-  - 「On the materials side, EOS pushed commercial powder availability forward. In December 2024, it expanded its additive manufacturing portfolio by making nickel-based EOS IN738 and EOS K500 superalloy powders commercially available, which helped downstream users convert qualification work into faster production cycles」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
+  - 「認証（JIS、ISO）、OEMパートナーシップ」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「強力な航空宇宙研究開発、電子機器製造、そして世界的なOEMとの近接性」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「航空宇宙およびエネルギー分野における競争の激しさ、サプライヤーの力、代替品の脅威を評価します」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「Because these alloys use critical elements (Ni, Co, Mo, Cr, Nb, Ti) and complex metallurgy and certification, production/qualification capabilities are a barrier to entry — and create premium pricing for qualified suppliers.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「New strategic facilities (e.g., Lucknow aerospace/titanium unit) that increase qualification credibility for high-value supply chains. (」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「Certified metallurgy and qualification for aero engine parts remains hard and costly: long lead times, testing, certification and supply-chain traceability are required.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「Largest demand center — aerospace OEMs in China and Asia, massive power-generation refurbishment markets, and expanding AM adoption. Opportunity: supply regional casting, forgings, and AM powders; import high-value scrap to feed domestic secondary alloy production.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「A mature aerospace & gas-turbine market with stringent quality requirements; rapidly evolving circularity policy (scrap export constraints). Opportunity: offer qualified supply & secondary processing where EU scrap flows tighten; niche for Indian suppliers who can meet aerospace qualification. (」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「Growing combined-cycle power plants and petrochemical projects. Opportunity: sell cast/wrought superalloy components for gas-turbine OEMs and aftermarket.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「Supplying aerospace/gas-turbine OEMs in Europe and North America requires parts qualification and traceability. Indian exporters should prioritize achieving recognized certifications (e.g., NADCAP, AS9100) and build sample & qualification programs with OEMs — a high barrier, but high reward.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「supply remelted ingots, bars, and semi-finished castings for industrial turbines, petrochem, and non-aero buyers. Focus on markets with moderate qualification needs.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「certified aerospace supply: invest in alloy processing (VAR/VIM/HIP), documentation, and NADCAP/AS9100 qualification.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「Strategic partnership with OEM MRO houses in Middle East and SE Asia to supply spare parts.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「Co-develop qualification programs with Indian defence aerospace integrators (use Lucknow facility and similar strategic plants as credibility anchors). (The Times of India)」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「Qualification timelines:」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
 - 顧客の競合（奪いに来る側）：
+  - 「[最新リリース] 高性能合金市場の傾向、シェア, 戦略的洞察」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「米国エネルギー省の報告書によると、車両重量を10%削減することは、燃費を6%から8%向上させることに相当します」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「SDKI Analyticsの専門家によると、高性能合金市場の世界シェアに関連するレポートの洞察は以下の通りです」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「高性能合金の世界的な市場シェア拡大を阻害する主な要因の一つは、複雑な製造プロセスです」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「高性能合金市場の世界シェアを分析するために、世界中の業界専門家が信頼し、適用している有望な実現可能性モデルをいくつか提示しました」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「北米の高性能合金市場は、予測期間を通じて35%以上の市場シェアを獲得し、世界の高性能合金市場において支配的な地位を確保すると予測されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「北米、特に米国の先進医療機器分野では、インプラント、外科用器具、診断機器において高性能合金の使用が増加しています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「中国、インド、東南アジア諸国では、大規模なインフラ開発が急速に進んでおり、建設、輸送、エネルギー分野で耐腐食性と高強度を備えた合金の需要が加速しています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「高性能合金市場のメーカーシェアを支配する世界トップ 10 社は次のとおりです」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「日本の高性能合金市場メーカーシェアを独占する上位10社は次のとおりです」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「市場内の各競合他社について、次の主要領域が分析されます 高性能合金 市場:」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「出力315kWの9リッターJohn Deere製エンジンを搭載し、EU Stage 5および米国Tier 4 Final排出ガス基準に適合しているため、環境に配慮した運転が可能です」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「世界の 高性能合金市場 で最大のシェアを誇る地域はどこですか?」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「当社の調査レポートによると、2025 年には北米地域が最大の高性能合金市場シェアを獲得すると予測されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
   - 「中国のITサービス管理市場、2031年に28億2,000万米ドル規模到達見込み」（https://japan.zdnet.com/release/31212578/）
-  - 「中国からのニッケル合金部品調達の初心者向けガイド」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「ニッケル合金部品は、世界のニッケル合金の約35%を生産する中国から調達できます」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「中国のサプライヤーが本物かどうかどうやって確認するのですか?」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「中国からニッケル合金部品を調達する際は、設計ニーズを明確に伝えることが重要です」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「これらのサイトは、中国の多くのサプライヤーを見つけるのに役立ちます」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「インタラクティブマップは、中国の工場を見つけるのに役立ちます」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「中国からニッケル合金部品を購入する場合は、まずニッケル合金メーカーを確認する必要があります」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「中国からニッケル合金部品を購入する際は、様々なオプションからお選びいただけます」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「中国のタイムゾーンと休日について考えてみましょう」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「米国やヨーロッパに出荷する場合は、輸出許可、検査書類、保険が必要になる場合があります」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「手順に従えば、中国からニッケル合金部品を入手できます」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「SEATHERは、中国を代表するニッケル基超合金およびステンレス鋼の製造メーカーです」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「中国江蘇省無錫市新呉区方城路289号」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「米国土安全保障省、「Windows Server 2003」のサポート終了について注意喚起」（https://japan.zdnet.com/release/31212578/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「Reuters / EU policy reporting — European Commission planning export restrictions on aluminium scrap (policy risk & trade shift example). (」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
   - 「Below the trading houses are specialized technical distributors who maintain closer relationships with end-users, offering technical consultation, small-lot supply, and rapid delivery from local warehouses. For highly specialized aerospace applications, some global producers maintain direct technical relationships with Japanese primes, supported by local application engineers.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
   - 「The study is designed for manufacturers, distributors, importers, exporters, investors, procurement teams, advisors, and strategy teams that need a consistent, data-driven view of market dynamics and a transparent analytical definition of the product scope.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
   - 「Distributor / Partner / Direct Entry Options」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
@@ -3236,8 +3237,12 @@
   - 「テクニカルメタルス事業 | インダストリアル・サプライヤーズ株式会社｜東京都港区の特殊金属材料・マリン製品の専門商社」（https://www.isco.co.jp/service-technical-metals/）
   - 「正規代理店体制」（https://www.isco.co.jp/service-technical-metals/）
   - 「Elgiloy Specialty Metalsなどの日本総代理店として、確かな品質と技術サポートを提供します」（https://www.isco.co.jp/service-technical-metals/）
-  - 「当社は、日本総代理店として医療・半導体用途を中心に、同合金を販売しております」（https://www.isco.co.jp/service-technical-metals/）
 - 政治（法・予算・規制）：
+  - 「エネルギー効率、タービンのアップグレード、排出ガス規制」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「「グリーン成長戦略」などの政府の取り組みや、経済産業省の産業イノベーションプログラムによる先端材料への支援は、高性能合金の研究開発と導入を促進しています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「世界的に、民間航空宇宙、自動車（内燃機関および電気自動車）、船舶、鉄道を含むモビリティ・エコシステムは、燃費向上、排出量削減、そして厳しい規制目標の達成というプレッシャーが高まっています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「地域政府は防衛・海軍力への投資を増やしており、これが海洋グレードおよび航空宇宙グレードの合金の需要を押し上げています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「Given an estimated 22,500 t Asia scrap import demand, India should aim to secure quality nickel/cobalt scrap streams (both shredded and pre-alloyed turnings/swarf) for re-melting and alloy remanufacture. Government support toward quality certification, and logistics for controlled scrap intake, will be decisive.」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
   - 「セキュリティ予算は増加、被害は深刻化──国内調査が提示する「投資の質」への転換」（https://japan.zdnet.com/release/31212578/）
   - 「Government support for high-tech manufacturing sectors」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
   - 「Partnerships with research institutions and government bodies」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
@@ -3248,50 +3253,50 @@
   - 「. In parallel, cobalt pricing weakened through 2024 and hit historic lows, then reacted sharply after a DRC government four-month cobalt export ban in February 2025 triggered a 48% price surge—an example of how policy shocks could ripple into input costs for alloy makers」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
   - 「. These operational expansions are critical as regulatory burdens increase; in 2025, European Union and UK enhanced traceability requirements for cobalt and nickel under critical raw materials regulations added 8 to 12 weeks to procurement lead times for certain defense programs.」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
   - 「How are traceability regulations affecting superalloy procurement?」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
-  - 「. The inflating military expenditures by government bodies, along with the numerous research-related activities on material science, are primarily driving the market growth.」（https://www.imarcgroup.com/japan-superalloys-market）
-  - 「環境規制の強化に対応した低炭素製造プロセスや、スクラップ再資源化による循環型生産体制の整備も企業競争力を左右する重要なテーマとなっている」（https://note.com/qy_research/n/n81c795947eeb）
-  - 「規制は変更されることもあるため、新しい基準に対応しているニッケル合金メーカーを選ぶことが重要です」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「Government and Industry Initiatives for Clean Energy」（https://vocal.media/journal/superalloys-market-size-to-reach-10-0-b-by-2033-trends-and-future-outlook）
-  - 「レポートの国別セクションでは、市場の現在および将来の傾向に影響を与える個別の市場影響要因と市場規制の変更も提供しています」（https://www.databridgemarketresearch.com/jp/reports/global-high-performance-alloys-market）
 - 経済（規模・価格・為替）：
-  - 「7.3国別市場規模」（https://www.dreamnews.jp/press/0000326042）
-  - 「Q4: What growth opportunities exist in the Japan superalloy market?」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
-  - 「Japan's Inconel Superalloy Powder market is projected to expand at a compound annual growth rate of 6-8% between 2026 and 2035, driven by aerospace re-entry programs, hydrogen turbine development, and the reshoring of precision metal additive manufacturing capability.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Japan's aging workforce in metallurgy and powder processing is constraining the expansion of domestic reclassification and quality-assurance capacity, even as demand growth accelerates in the 2026-2030 period.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「The second major driver is Japan's defense build-up, with the F-X fighter program, new destroyer construction, and upgraded missile systems all requiring advanced superalloy components. Defense-related demand is expected to grow at 8-10% annually through the forecast period, outpacing commercial aerospace growth of 5-7%.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「This report provides an in-depth analysis of the Inconel Superalloy Powder market in Japan, covering market size, growth trajectory, demand structure, supply capability, trade flows, pricing, competitive landscape, and forecast to 2035.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Market size, historical development, and forecast to 2035」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「3. DOMESTIC MARKET SIZE AND DEVELOPMENT PATH」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Market Size: Historical Data (2012-2025) and Forecast (2026-2035)」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Growth Outlook and Market Development Path to 2035」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「12. GROWTH PLAYBOOK AND MARKET ENTRY」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「13. WHERE TO PLAY NEXT: MOST ATTRACTIVE GROWTH OPPORTUNITIES」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「The World Inconel Superalloy Powder market is projected to expand at a compound annual growth rate of 7–9% during the 2026–2035 forecast period, propelled by rapid adoption of powder-bed fusion and directed energy deposition processes across aerospace engine production, semiconductor equipment therm」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
-  - 「Superalloy Market Size, Share & Industry Analysis, By Type (Nickel-Based, Cobalt-Based), By Application (Aerospace, Power Generation) and Regional Forecast 2026-2032.」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
-  - 「2025 Size at 14.6 Billion USD, Projected to Reach 22.5 Billion USD by 2032 with a CAGR of 6.5%」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
+  - 「1) 高性能合金市場規模」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「当社の高性能合金市場調査レポートによると、市場は予測期間（2026―2035年）において6.5%の年平均成長率（CAGR）で成長すると予想されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「2035年には、市場規模は1,500億米ドルに達すると見込まれています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「しかしながら、当社の調査アナリストによると、基準年の市場規模は約850億米ドルと記録されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「CAGR（2026―2035年）」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「4) 日本の高性能合金市場規模:」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「日本の高性能合金市場は、2026―2035年の間に約5.2％のCAGRで成長すると予想されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「CAGR（2026」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「例えば、水素協議会の報告書では、エネルギー転換への取り組みを強化するため、2030年までに水素プロジェクトへの投資額が約320億米ドルに達すると指摘されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「2026―2035年のCAGR」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「この地域の市場は、予測期間を通じて4.8%の年平均成長率（CAGR）で成長すると予想されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「Daido Steelは、高合金棒鋼生産能力の増強のため、36億円（約25.03百万米ドル）の投資を発表しました」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「世界の高性能合金市場規模は、予測期間中に年平均成長率6.5%で成長し、2035年には1,500億米ドルに達すると予測されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「さらに、当社の調査レポートによると、 2025年の高性能合金市場規模は適度なベースで成長すると予想されています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「2025年には、世界の高性能合金市場規模は850億米ドルの収益を獲得しました」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
 - 社会（人・担い手）：
+  - 「障害者雇用で働く前に、24職種の仕事を3〜5分で無料体験できる「ためし...」（https://www.dreamnews.jp/press/0000326042）
   - 「Limited availability of skilled labor and advanced technology」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
   - 「Challenges include high raw material and manufacturing costs, environmental regulations, limited skilled labor, and competition from alternative materials like ceramics and composites.」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
   - 「Japan's aging workforce in metallurgy and powder processing is constraining the expansion of domestic reclassification and quality-assurance capacity, even as demand growth accelerates in the 2026-2030 period.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
   - 「• Specialized manufacturing processes, such as vacuum induction melting, directional solidification, and powder metallurgy, require skilled personnel and sophisticated infrastructure, restricting production capacity. These technical complexities also make scaling production difficult for smaller manufacturers, which can delay project timelines」（https://www.databridgemarketresearch.com/reports/asia-pacific-superalloys-market）
   - 「The manufacturing of superalloys is equally complex and cost-intensive. Processes such as vacuum induction melting, precision casting, and extensive heat treatments require advanced technologies and skilled labor, further escalating production costs. These factors collectively make superalloys less accessible for small and medium-sized enterprises, limiting market competition and innovation.」（https://market.us/report/global-superalloys-market/）
 - 技術（新しい技術・実証）：
-  - 「最近では、次世代航空機や電動車両の需要増加に伴い、耐熱合金の需要も高まり、加工現場では最適な工具選定が課題となっています」（https://www.dijet-tool.com/media/column/a100）
-  - 「ダイジェット工業では、耐熱合金加工に最適化された超硬工具を開発・提供しています」（https://www.dijet-tool.com/media/column/a100）
-  - 「※耐熱鋼には、耐熱鋼のみの規格である鋼種SUH（Steel Use Heat Resisting）と耐熱用途としてよく使用されるステンレス鋼SUS（Steel Use Stainless）が規定されています」（https://www.tokkin.co.jp/media/technicalcolumn/2505210）
-  - 「長年培った知見や日々寄せられるお客様からのご相談を元に、技術開発と営業が連携してお客様の疑問や課題解決に役立つ情報を発信しています」（https://www.tokkin.co.jp/media/technicalcolumn/2505210）
-  - 「試作 (8)」（https://www.tokkin.co.jp/media/technicalcolumn/2505210）
-  - 「化学用防爆型点検ロボットの世界市場2026年、グローバル市場規模（車輪式ロボット、レール走行式ロボット）・分析レポートを発表」（https://www.dreamnews.jp/press/0000326042）
-  - 「AIデータセンター向け液冷市場規模、シェア、動向、2032年までの世界予...」（https://www.dreamnews.jp/press/0000326042）
-  - 「s emphasis on sustainable energy solutions and advancements in turbine technology continue to boost the market. Additionally, the presence of leading material manufacturers and research institutions fosters continuous innovation, ensuring Japan remains competitive in the global superalloy landscape.」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
-  - 「Nickel-based superalloys maintain dominance but face potential disruption from advanced iron-based alloys due to cost and performance improvements.」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
-  - 「Demand for specialized cobalt-based superalloys remains steady, driven by niche aerospace and industrial uses, but growth is relatively moderate.」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
-  - 「Technological advancements in additive manufacturing and alloy processing are accelerating innovation across all superalloy types, enabling tailored high-performance solutions.」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
-  - 「積層造形と精密工学の進歩は、欧州における超合金市場の拡大をさらに後押ししています」（https://straitsresearch.com/jp/report/superalloys-market）
-  - 「Seather Technologyニュースレター」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「seathertechnology.com 提供」（https://seathertechnology.com/ja/source-nickel-alloy-parts-from-china/）
-  - 「クラウド インフラ最新動向--国内 1000 社以上の最優先課題は「サイバー攻撃と AI 対応」」（https://japan.zdnet.com/release/31212578/）
+  - 「「グリーン成長戦略」などの政府の取り組みや、経済産業省の産業イノベーションプログラムによる先端材料への支援は、高性能合金の研究開発と導入を促進しています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「ロボット工学と自動化における高耐久性部品の需要」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「積層造形（3Dプリンティング）」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「強力な航空宇宙研究開発、電子機器製造、そして世界的なOEMとの近接性」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「合金組成の絶え間ない開発により性能がさらに向上し、ニッケル合金は様々な用途において重要な材料選択肢となっています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「燃費の良い航空機と次世代ジェットエンジンの需要の高まり」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「これらの合金は燃費と性能を向上させることが分かっており、次世代の自動車設計に不可欠なものとなっています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「ヨーロッパのメーカーは、精密機械加工、積層造形、自動化技術の導入を加速させており、極限条件下でも優れた性能を発揮し、複雑な形状を可能にする高性能合金の需要が高まっています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「この市場の成長は、工業化と都市開発の拡大によって支えられています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「中国、インド、東南アジア諸国では、大規模なインフラ開発が急速に進んでおり、建設、輸送、エネルギー分野で耐腐食性と高強度を備えた合金の需要が加速しています」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「Carpenter Technology Corporation」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「Sandvik Materials Technology」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「Daido Steelは、高合金棒鋼生産能力の増強のため、36億円（約25.03百万米ドル）の投資を発表しました」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「Carpenter Technology Corporation、Allegheny Technologies Inc. (ATI)、 Aperam 、VDM Metals GmbH、Sandvik Materials Technology などは、世界的な高性能合金市場で活動している大手企業の一部です」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
+  - 「当社の調査レポートによると、Nippon Yakin Kogyo、 Hitachi Metals、 Daido Steel、 Kobe Steel、 Mitsubishi Materialsなどが、日本の高性能合金市場で活動する大手企業の一部です」（https://www.sdki.jp/reports/high-performance-alloys-market/61226）
 - 検索結果の抜粋：
+  - 「高合金取扱材質 （3） 耐熱合金 — 高合金取扱材質 （3） 耐熱合金 同和鍛造株式会社 PDF https://dowa-forging.co.jp > 2020/10 > metal_03」（https://dowa-forging.co.jp/wp-content/uploads/2020/10/metal_03.pdf）
+  - 「2026 Global Super Alloy Market: Export potential for India — 2026 Global Super Alloy Market: Export potential for India Lohaa https://lohaa.co.in > blog > opportunit...」（https://lohaa.co.in/blog/opportunities-for-indian-exporters-of-super-alloys-in-2026）
+  - 「Superalloys Market Size, Share & Growth | Industry Report 2035 — Superalloys Market Size, Share & Growth | Industry Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Superalloys Market Size, Share , Growth, Analysis, Report, 2034 — Superalloys Market Size, Share , Growth, Analysis, Report, 2034 Straits Research https://straitsresearch.com > report > s...」（https://straitsresearch.com/report/superalloys-market）
   - 「Japan Master Superalloy Market: Size, Share, Scope & Forecast ... — Apr 13, 2026 · The growth of Japan’s master superalloy market is primarily driven by increasing demand from the aerospace and power generation sectors. The need for high-performance materials capable of withstanding extreme temperatures and mechanical stresses is fueling innovation and production.」（https://datiqueinsightsdata.beehiiv.com/p/master-superalloy-market）
   - 「Inconel Superalloy Powder Market in Japan | Report - IndexBox ... — Japan's Inconel Superalloy Powder market is projected to expand at a compound annual growth rate of 6-8% between 2026 and 2035, driven by aerospace re-entry programs, hydrogen turbine development, and the reshoring of precision metal additive manufacturing capability.」（https://www.indexbox.io/store/japan-inconel-superalloy-powder-market-analysis-forecast-size-trends-and-insights/）
   - 「Global Superalloy Market 2026 – PW Consulting — Sep 4, 2026 · Over 2026-2032, that kind of input restraint is expected to keep buyers across Asia Pacific and Europe more selective on contract terms and sourcing routes, while Latin America and MEA likely continued to grow more slowly as they relied on imported feedstocks and project-based offtake.」（https://pmarketresearch.com/worldwide-superalloy-market-research/）
@@ -3303,10 +3308,6 @@
   - 「Superalloy Master Alloys Market Size, Share, Growth, and ... — Jan 28, 2026 · Asia-Pacific dominates with a 35% share of the Superalloy Master Alloys market, fueled by industrial expansion in China, Japan, and South Korea. China alone accounts for 40% of regional consumption due to robust aerospace and energy infrastructure growth.」（https://www.globalgrowthinsights.com/market-reports/superalloy-master-alloys-market-112309）
   - 「Superalloy Master Alloys Market Size & Share Analysis with ... — Apr 2, 2026 · Asia-Pacific dominates the global Superalloy Master Alloys Market with an estimated 35% market share, driven by rapid industrialization and aerospace expansion in China, India, Japan, and South Korea.」（https://www.360researchreports.com/market-reports/superalloy-master-alloys-market-202418）
   - 「Superalloy Bar Market: Global Outlook with US, Japan, Korea ... — Oct 27, 2026 · Their market share remains below 20%, but their unique properties—such as high-temperature stability and wear resistance—are driving targeted applications.」（https://www.linkedin.com/pulse/superalloy-bar-market-global-outlook-us-japan-korea-europe-fnu4f）
-  - 「Superalloy Industry Research Report 2024 — Detailed analysis of major countries such as the USA, Germany, the U.K., Italy, France, China, Japan, South Korea, Southeast Asia, and India will be covered within the regional segment.」（https://pdf.marketpublishers.com/apo_research/superalloy-industry-research-report-2024.pdf）
-  - 「Superalloys Market Size to Reach $10.0B by 2033 — Superalloys Market Size to Reach $10.0B by 2033 Vocal https://vocal.media > journal > supera...」（https://vocal.media/journal/superalloys-market-size-to-reach-10-0-b-by-2033-trends-and-future-outlook）
-  - 「耐熱合金 - メーカー・ 企業 11社の業務用製品ランキング — 耐熱合金 - メーカー・ 企業 11社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 耐熱合金」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
-  - 「エネルギー市場向け 耐熱合金 の市場規模、2034年に221億 ... — エネルギー市場向け 耐熱合金 の市場規模、2034年に221億 ... ZDNET Japan https://japan.zdnet.com > プレスリリース」（https://japan.zdnet.com/release/31212578/）
 
 ## 低炭素アルミ（low carbon aluminum）
 - 文脈：9 マテリアル ④低炭素金属部素材
@@ -4685,54 +4686,57 @@
   - 「◼ 日本鋳鍛鋼（圧力容器・タービン等部材）【2020年廃業】」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
   - 「BWXT（BWX Technologies）投資分析：核技術の「特許数」ではなく、認可・製造・受注残で測る」（https://note.com/tag/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%82%89）
 - 顧客（金を払う側）：
-  - 「• 大規模な集中型工場で製造できるので、コストが安くなる」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「• 廃止された石炭火力発電所跡地に導入できる」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「規模の経済が働くためには、製造工場で同じものを何百、何千、何百万と製造しなければならず、」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「SMRの研究に取り組む各国には、それぞれに適した技術があり、支援する企業もある」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「これらの設計で規模の経済性を実現するためには、複数の主要国が集まって一つの技術を決定し、メーカーと合弁会社を設立し、その技術だけを製造・配備することを約束しなければならない」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「SMRに力を入れているカナダの各州は、気候対策の重要な一貫としてSMRを導入すると主張している」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「さらに言えば、自然エネルギーが少なくとも課題の80％を解決できることは誰もが認めているわけで、可能な限り迅速に導入すべきだと考えている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「しかし、脱炭素化とエネルギー安全保障は、いずれも直近で対処すべき課題であり、比較的即効性のある原子力活用の施策の導入を考える必要が出てきている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「すなわち、(1)発電に利用する際の電気出力が300MWe級以下であること（従来の大型炉は1000～1600MWe）、(2)システム設計をシンプル化し、受動的安全機能（Passive Safety）の強化がされていること、(3) 設備の構成要素を工場でモジュールとして製造して現地組立を最小限に抑える設計であること、である」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「発電だけでなく、高温の蒸気（プロセス熱）を化学プラントや工場に供給したり、その熱を使って水素を製造したりするなど、電力以外の多目的利用も期待されている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「米国ではAmazonやGoogleが、SMR開発企業への投資や電力購入契約を相次いで発表している」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「次に、2050年のカーボンニュートラル達成目標の実現に向けた再エネ導入の道のりが、思いのほか険しいことがわかってきたこと」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「再エネ導入目標を掲げる海外諸国と比較して、直近までの日本での再エネ導入は“優等生”と呼べるほど公約通りのペースで進められてきた」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「2024年時点では再エネ導入比率が約26.7％にまで達している」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「そして、導入規模拡大に向けて頼りにしてきた大型洋上風力プロジェクトの頓挫や、買取価格の優遇縮小による太陽光ビジネスの成長鈍化・収益性低下、需給変動や出力制御、系統連系に向けたインフラ整備の遅れなど、想定する成果見通しに暗雲が立ち込め始めている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
+  - 「国内原子炉メーカーである日立GEニュークリア・エナジーは「BWRX-300」、三菱重工業は多目的軽水小型炉(PWR)と、いずれも早期に市場投入が可能な軽水炉タイプの小型モジュール炉（SMR）の概念設計を進め、海外市場をめざしているのが現状である」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「また、文部科学省と経済産業省が原子力イノベーション促進（NEXIP）イニシアチブ事業を行い、SMR実証炉を開発する民間企業等を支援している」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「1992年に建設を開始した軽水炉サイクルの中核である「再処理工場」は、トラブル続きで建設が大幅に遅れている」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「一応、国内原発メーカーである」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「Rolls-Royce（ロールス・ロイス）が主導する企業連合は、既存技術をベースに」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「一方、SMRの海外受注をめざし、トルコ、チェコ、エストニアとは実行可能性調査の覚書を締結した」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「（PWR、47万kW）を将来の導入候補として」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2030年代に テメリン・サイトで初号機を運転開始する計画で、チェコ国内では合計300万kW規模の導入が見込まれている」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2026年1月、米国エンジニアリング企業の」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「アメンタム（Amentum）と、SMRの初導入に向け主要な提供パートナーとしての協力契約を締結」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「アメンタムは、英国およびチェコにおける初号機導入プロジェクトの全体管理や監督、施工管理、実行体制の構築などを担い、プロジェクトの司令塔役を果たす」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「また、スウェーデンの建設大手スカンスカ（Skanska）と、SMR向け免震ベアリング基礎の実証モデルの納入契約を締結した」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「GBE-Nは英国の主要企業を含むSMRサプライチェーン全体で約3.5億ポンドの契約を」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「「原子力の黄金時代」と呼ぶ両国企業間の複数の合意」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■英国のエネルギー供給会社であるセントリカは、米国の先進炉開発企業のX-エナジーと提携して、」（https://www.decarbonation-tech.com/nuclear_2125/）
 - 顧客の顧客（発注元が求めること）：
+  - 「革新軽水炉が2030年代中頃に稼働するために大きな障害となり得るのは、GX脱炭素電源法で原発の60年超運転を可能にした制度である」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「間違った小型モジュール炉への期待（Ⅸ） | 脱炭素技術センター」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「ロールス・ロイスSMR製の小型モジュール炉設計について、包括的設計認証審査（GDA）の実施を要請」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「横河電機はロールス・ロイスSMRが英国や欧州で建設をめざすSMRの基幹制御システムの開発、認証取得、設置、試運転などに参加する」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「© 2022-2026 脱炭素技術センター.」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「「えつおやすお騒動」で国民のつぶやきを「偽情報」とレッテル貼り…こんな「政府広報」が巨額予算を要求中」（https://www.tokyo-np.co.jp/article/290726）
+  - 「2025年も引き続き、地政学的リスクの長期化、世界的な脱炭素化への要請、生成AI・データセンターの急拡大による電力需要増を背景に、原子力発電への期待が一段と高まった」（https://jaif.or.jp/inf/wnpp/）
+  - 「今や原子力は、低廉で安定した脱炭素電源として、エネルギー政策議論の中心に位置づけられるようになっている」（https://jaif.or.jp/inf/wnpp/）
+  - 「エネルギー安全保障と脱炭素を同時に達成し得る現実的手段として、原子力を位置づける国の裾野がいっそう広がった」（https://jaif.or.jp/inf/wnpp/）
+  - 「生成AIやデータセンターの急拡大を背景に、安定した脱炭素電源を求める需要側の動きが顕在化している」（https://jaif.or.jp/inf/wnpp/）
+  - 「2025年6月に全面施行された「脱炭素社会の実現に向けた電気供給体制の確立を図るための電気事業法等の一部を改正する法律」（GX脱炭素電源法）に基づく新制度に対応するもの」（https://jaif.or.jp/inf/wnpp/）
+  - 「GX脱炭素電源法（原子力）の大きな問題は、先に事実上60年超の運転を可能とした法律を策定し、これを実現するための規制が設定された点にある」（https://www.decarbonation-tech.com/nuclear_2121/）
   - 「間違った小型モジュール炉への期待（Ⅰ） | 脱炭素技術センター」（https://www.decarbonation-tech.com/nuclear_2116/）
   - 「2050年の脱炭素を想定した「ネット・ゼロ・シナリオ」を公表」（https://www.decarbonation-tech.com/nuclear_2116/）
   - 「© 2022-2026 脱炭素技術センター.」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「間違った小型モジュール炉への期待（Ⅲ） | 脱炭素技術センター」（https://www.decarbonation-tech.com/nuclear_2118/）
-  - 「米原子力規制委員会（NRC）で設計認証済みの技術を活用」（https://www.decarbonation-tech.com/nuclear_2118/）
-  - 「© 2022-2026 脱炭素技術センター.」（https://www.decarbonation-tech.com/nuclear_2118/）
-  - 「脱炭素の流れが強まるなか、日本の原発輸出が再開される」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
-  - 「脱炭素の流れのなか、温暖化ガスを排出しない電源として世界で開発が進んでいる」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
-  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
-  - 「太陽光や風力など気象条件によって発電にムラが出る再生可能エネルギーの電力を、SMRの発電でバックアップすることで完全な脱炭素電源を目指しており、SMRが実現すれば米国初の案件だった」（https://www.tokyo-np.co.jp/article/290726）
-  - 「今回中止となったSMRは、米原子力規制委員会（NRC）が設計を認証した唯一のものだった」（https://www.tokyo-np.co.jp/article/290726）
-  - 「「環境対策は成長を阻害しない」…COP31を前に脱炭素252団体が国に再生可能エネルギー推進を訴え」（https://www.tokyo-np.co.jp/article/290726）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「現在、国内で初めて建設される原子炉設計に対して行う包括的設計認証審査（Generic Design Assessment、GDA）の、一般的な安全、保安、環境保護に関する事例を抽出して詳細に評価する段階（ステップ3）にある」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「脱炭素社会の実現に向け、再生可能エネルギーと原子力発電所の増設は不可欠である」（https://www.decarbonation-tech.com/nuclear_2121/）
 - 顧客の競合（奪いに来る側）：
-  - 「SMRは、製造規模の経済性を達成できず、建設速度が遅く、スケールアップによる効率性を犠牲にし、安価ではなく、遠隔地や炭鉱跡地に適しておらず、多大なセキュリティコストに直面し、廃炉にはコストと時間がかかり、賠償責任保険に上限が設定される」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「インドでは14基の小型CANDU炉が稼働しているが、そのほとんどが運転を開始してから数十年を経ている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「中国のものも同様に40年の寿命を迎えようとしている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「そうして、中国のHTR-PMは、10年間にわたって建設が継続中で、唯一、遠隔操作による新技術が適用されている原子炉だ」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「しかしこの分野には、18種類の異なる技術と、その中で競合する多くの設計が乱立していて、主力となるような一貫した単一の技術は確立されていない」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「これは市場原理にもとづく解決策ではなく、各国の地政学的戦略にも合致しないため、どの炉型にしても、おそらくCANDU炉由来のインドの炉型14基を超えることはないだろう」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「中国は、原子力発電を大幅に拡大している唯一の国だが、すでに技術バリエーションが2桁に迫っており、その状況は芳しいとは言えない」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「米国は小型PWRに再び焦点をあてる可能性があるが、連邦レベルではそれを推進する政治的意志はない」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「米国全体での総セキュリティコストの原子炉あたりの配分（筆者が」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「これまで述べてきたように、SMRは競合する技術が非常に多く、またこの問題を解決するための戦略上の緊急性がないため、製造のスケールメリットを実現する可能性は極めて低い」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「米国では、原子炉の廃炉は、準備金により廃炉コストの」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「現在、米国では130億ドル（約1兆円）となっている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「米国ではAmazonやGoogleが、SMR開発企業への投資や電力購入契約を相次いで発表している」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「太陽光モジュールはセルの90％以上を輸入（特に中国）に依存し、風力の風車本体などは欧米・中国の企業が市場を支配している状況だ」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「既に、米国のNuScale PowerやTerraPowerなどSMRの有力スタートアップに対し、日系企業（日揮、IHI、三菱重工など）が出資や機器供給で深く入り込んでいる」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
+  - 「米国TAE Technologies（TAEテクノロジーズ）に続き、カナダGeneral Fusion（ジェネラル・フュージョン）、英国Tokamaku Energy（トカマク・エナジー）に注目する」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「現在、高温ガス炉（HTGR）の発電所としての実績は、中国が2023年12月に実証炉を商業運転に移行しているのみである」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「米国は2028年を目指して小型モジュール炉として実証炉の建設を進めている」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「米国ニュースケール・パワーの「VOYGR」」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「を推進しているが、米国とのアライアンスは日本にも大いに参考になる」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2021年11月、ロールス・ロイスは米国エクセロン・ジェネレーション、フランスのBNFリソーシズUKと、英国内のSMR開発に今後3年間で合計1.95億ポンド（約295億円）の投資を発表」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2026年1月、米国エンジニアリング企業の」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「横河電機はロールス・ロイスSMRが英国や欧州で建設をめざすSMRの基幹制御システムの開発、認証取得、設置、試運転などに参加する」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「トランプ大統領の国賓訪問を機に、米国と人工知能（AI）、民生用原子力、核融合、量子技術などの戦略的科学技術分野での連携強化」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2025年9月、英政府は、既存の原子力分野における英国ロールス・ロイスと米国BWXTの長い協力関係に続き、」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■英国のエネルギー供給会社であるセントリカは、米国の先進炉開発企業のX-エナジーと提携して、」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■米国ホルテック・インターナショナル、英国EDFエナジー、英国不動産投資企業のトライタックスは、」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■米国のマイクロ炉開発企業のラスト・エナジーは、港湾運営会社DPワールドのロンドン・ゲートウェイ港とビジネスパークに」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■英国ウラン濃縮事業者のウレンコと米国マイクロ炉開発企業のラディアントは、ラディアント製マイクロ炉「カレイドス」向けの」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「ウレンコは英政府との共同出資で英国に先進燃料製造施設を建設しており、米国でも同様の施設の建設を検討中である」（https://www.decarbonation-tech.com/nuclear_2125/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「GitHub Copilot Impact DashboardにChatとVS Code Agents追加、9機能に」（https://labmemo.com/smr-terrapower-natrium-oklo-tergo-data-center-2026/）
+  - 「リスクや手数料については、詳細を当社ホームページにてご確認ください」（https://www.moomoo.com/ja/community/feed/small-modular-reactors-set-to-launch-in-full-scale-which-116293845189414）
+  - 「GitHub Copilot Impact DashboardにChatとVS Code Agents追加、9機能に」（https://labmemo.com/smr-terrapower-nuscale-ge-hitachi-bwrx-300-2026/）
   - 「Moonshot AI、Kimi Hosted Agents正式公開――エージェント実行基盤をクラウドサービス化」（https://labmemo.com/smr-terrapower-natrium-oklo-tergo-data-center-2026/）
   - 「Moonshot AI、Kimi Hosted Agents正式公開――エージェント実行基盤をクラウドサービス化」（https://labmemo.com/smr-terrapower-nuscale-ge-hitachi-bwrx-300-2026/）
   - 「If you are a reseller/distributor please」（https://www.idtechex.com/en/research-report/nuclear-small-modular-reactors-smrs-market/1153）
@@ -4745,73 +4749,70 @@
   - 「25歳以下なら現物・信用ともに国内株の売買手数料が完全無料！」（https://diamond.jp/zai/articles/-/1051137）
   - 「また、デイトレード限定で手数料が無料、金利・貸株料が0%になる「一日信用取引」や手数料が激安になる「一日先物取引」など、」（https://diamond.jp/zai/articles/-/1051137）
   - 「手数料、取引ツールetc.で総合比較！ おすすめネット証券はココだ！」（https://diamond.jp/zai/articles/-/1068973）
-  - 「取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える」（https://diamond.jp/zai/articles/-/1068973）
-  - 「米国株の売買手数料が最低0米ドルから取引可能になのも魅力」（https://diamond.jp/zai/articles/-/1068973）
-  - 「◆【SBI証券の特徴とおすすめポイントを解説！】株式投資の売買手数料の安さは業界トップクラス！ IPOや米国株、夜間取引など、商品・サービスも充実」（https://diamond.jp/zai/articles/-/1068973）
 - 政治（法・予算・規制）：
-  - 「その背景には、この技術に焦点をあてる政府の政策や投資がある」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「核技術や核燃料は、核不拡散という戦略的目標のために高度に規制や制約がかけられている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「こうしたセキュリティコストは大きく、そのほとんどが連邦政府、州政府、自治体の補助金の中に隠されている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「原子力発電所を持つすべての国では、民間の賠償責任にある程度の上限を設け、それ以上の賠償責任は納税者に負わせる法律を制定している」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「ではその10倍の予算が計上されているが、そのほとんどが研究開発に充てられている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「諸州のうちオンタリオ州は、積極的に自然エネルギーに敵対しており、現州政府は758件の自然エネルギー契約を打ち切り、選挙後の最初の取り組みとして固定価格買取制度廃止を法制化した」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「政府の気候対策を先延ばしにできるからである」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「SMRへの支出のほとんどは、Nu Scale社の救済措置（オハイオ州の13億ドルの救済措置に加えて、毎年17億ドルのあからさまな連邦補助金に加えて、毎年40億ドルの隠されたセキュリティ補助金に加えて、700億ドルの資金化されていないクリーンアップ補助金に加えて、財源のない納税者債権が投入されている）以外のことに使われているからだ」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「日本政府は、2025年11月4日に日本成長戦略本部を設置し、「17の重点投資対象分野」を掲げた」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「そして、近年の政府会議では、安全性重視で新たな原子力技術（次世代炉）及び核融合の研究を、より加速させていく方針が示されている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「国際原子力機関（International Atomic Energy Agency ：IAEA）や各国の規制機関・政府は、以下の3つの条件を満たす原子炉をSMRと定義している（図2）」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「英国政府はSMR開発に25億ポンドの公的支援をアナウンスしており、2030年代半ばの送電網接続を目指している」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「民間企業が先行し、政府がそれを後押しする形で進められている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「さらに、分散配置することで、監視・規制・保全の難易度が上昇する」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「さらに、新技術ゆえの不確実性（設計、規制、人材、実績不足）が存在する」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
+  - 「その後、政府の関与を前提に2035年までに10基、2050年までに最大16基の建設を計画する」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2022年3月、英国原子力規制庁（ONR）は、BEISからロールス・ロイス子会社の」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2025年6月、英国政府が」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「「UK-SMR」は英国規制当局による包括的設計審査（GDA）の最終段階」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「英政府系機関Great British Energy–Nuclear（GBE-N）は、ロールス・ロイスSMRと」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「詳細設計や規制当局対応を進め、将来的な最終投資につなげる」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「一方、英政府の主要投資家で政策銀行であるナショナル・ウェルス・ファンド（NWF）もロールス・ロイスSMRに最大約5.99億ポンドを投資し、SMR開発を支援することとしている」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■米原子力規制委員会（NRC）、英原子力規制庁（ONR）、英環境庁（EA）が」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■両国主導による核融合市場の形成を支援するために、イノベーションの促進政策と規制を主導する」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2025年9月、英政府は、既存の原子力分野における英国ロールス・ロイスと米国BWXTの長い協力関係に続き、」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「ウレンコは英政府との共同出資で英国に先進燃料製造施設を建設しており、米国でも同様の施設の建設を検討中である」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「政府が既存原発の60年超運転を認めたことで、「革新軽水炉」の建設は見通せない」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「政府は「革新軽水炉」の建設に向けて資金的・法制的支援を決断する段階にきている」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「高を括くくっていた政府は批判されて当然で、なぜ想定以上の風評被害に至ったのかを反省し、煽あおるのではなく、風評被害の沈静化に向けた対策を強化する必要がある」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「一方で、政府は先進モジュール炉(AMR)の開発に向け、TokamakEnergyの核融合炉、Westinghouse Electric Company UKの鉛冷却高速炉開発、U-Battery Developmentsの高温ガス炉を選定した」（https://www.decarbonation-tech.com/nuclear_2125/）
 - 経済（規模・価格・為替）：
+  - 「安全対策などで建設コストが1兆円規模となる革新軽水炉への建て替えに対して、電力会社は1千億円規模で済む従来原発の運転延長を選択する可能性が高い」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「2021年11月、ロールス・ロイスは米国エクセロン・ジェネレーション、フランスのBNFリソーシズUKと、英国内のSMR開発に今後3年間で合計1.95億ポンド（約295億円）の投資を発表」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「これを受けて英国ビジネス・エネルギー・産業戦略省（BEIS）は、2.1億ポンド（約318億円）を提供する方針を表明した」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「「革新軽水炉」の建設には1兆円規模の建設費が想定されるため、これを民間任せにするのは無理がある」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「アメリカ、小型原発の商用化へ1300億円支援 カナダはG7初着工 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOGN19CEW0Z10C25A5000000/）
+  - 「原子炉開発や原発新設などの支援に9億ドル（およそ1300億円）を投じる」（https://www.nikkei.com/article/DGXZQOGN19CEW0Z10C25A5000000/）
+  - 「米政府、原発新設に2.8兆円融資へ 2030年までに10基着工」（https://www.nikkei.com/article/DGXZQOGN19CEW0Z10C25A5000000/）
+  - 「今後3年間で142億ポンド（約2兆8,000億円）が投入される見通しで、同プロジェクトにはRAB（規制資産ベース）モデルが適用される予定である」（https://jaif.or.jp/inf/wnpp/）
+  - 「EDFは同年12月、EPR2×6基の建設計画について、総事業費を728億ユーロ（約13.5兆円）とする試算を公表した」（https://jaif.or.jp/inf/wnpp/）
   - 「Nu Scale社は、SMRの発電コストを、現在の風力、太陽光発電の卸売り価格（1MWh当たり約65ドル）の2倍程度に抑えたいとの期待を表明している」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
   - 「現在、米国では130億ドル（約1兆円）となっている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
   - 「諸州のうちオンタリオ州は、積極的に自然エネルギーに敵対しており、現州政府は758件の自然エネルギー契約を打ち切り、選挙後の最初の取り組みとして固定価格買取制度廃止を法制化した」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
   - 「は電気出力：30万kW以下と小型化するために、kWあたりの発電単価は高くなる」（https://www.decarbonation-tech.com/nuclear_2116/）
   - 「～4兆円、SMRで」（https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf）
   - 「大型原発は多くの場合、1地点2～6兆円、SMRでも実績値は1～2兆円」（https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf）
-  - 「• ADBのエネルギーセクターへの2024年の年間コミットメント総額は38億ドル（5860億円）」（https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf）
-  - 「• SMRプロジェクトが1地点1～2兆円とした場合、ADBのエネルギーセクター融資枠の全てを」（https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf）
-  - 「先進国で２～６兆円/地点」（https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf）
-  - 「建設費用を約1000億円/基」（https://www.decarbonation-tech.com/nuclear_2118/）
-  - 「受注額は4基合計で3000億円規模とみられ、オンタリオ州ダーリントンに建設する」（https://www.decarbonation-tech.com/nuclear_2118/）
-  - 「日立・GE、小型原子炉を受注 カナダで3000億円規模 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
-  - 「受注額は非公表だが3000億円規模とみられる」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
-  - 「小型原子炉の1基あたりの建設費用は700億～800億円とされ、4基の建設費は単純計算で3000億円規模になりそうだ」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
-  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
 - 社会（人・担い手）：
+  - 「150万世帯への電力供給と最大2,500人の雇用創出を見込み、経済効果は少なくとも400億ポンド」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「各ユニットで約1,600名の建設雇用と250名の恒久雇用を創出し、エネルギー貯蔵と組み合わせた柔軟な電力供給をめざす」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「米国では、石炭火力発電所の閉鎖に伴う雇用や発電インフラの空白を補う選択肢として、SMRを跡地に導入する構想が進められている」（https://jaif.or.jp/inf/wnpp/）
+  - 「また、次世代革新炉の開発・設置やサプライチェーン・人材の維持・強化へ取組むことも示されています」（https://www.mhi.com/jp/news/260805.html）
+  - 「というのも、初号機には設計、審査、燃料、製造設備、人材への先行投資が集中するからです」（https://iri-group.jp/knowledge/theme/energy-food/smr/）
+  - 「つまり、1基だけの個別最適ではなく、複数基を前提に設計、工場、サプライヤー、人材へ投資します」（https://iri-group.jp/knowledge/theme/energy-food/smr/）
+  - 「既存資産を使える仕事でも、規制・品質・人材・責任の要件を満たす期間と費用が必要です」（https://iri-group.jp/knowledge/theme/energy-food/smr/）
+  - 「参入の容易さは一律ではなく、適合確認、専門人材、資金、契約上の責任によって変わります」（https://iri-group.jp/knowledge/theme/energy-food/smr/）
+  - 「ただし、組み合わせれば必ず安定するわけではなく、提供に必要な人材・承認・責任と、顧客が支払う範囲を確認します」（https://iri-group.jp/knowledge/theme/energy-food/smr/）
+  - 「Key sessions covered SMR-focused nuclear regulatory frameworks, workforce development, licensing processes, site requirements for nuclear power plants, and stakeholder engagement. U.S. and Japanese experts also presented on SMR technology, nuclear supply chains, and local industrial participation, providing guidance for Indonesia’s future nuclear energy projects.」（https://id.usembassy.gov/indonesia-united-states-and-japan-host-conference-on-nuclear-small-modular-reactor-deployment/）
+  - 「The conference also included interactive discussions and breakout sessions to address regulatory challenges, technical considerations, and workforce planning, ensuring that Indonesia was well-prepared to meet its energy security and economic growth goals.」（https://id.usembassy.gov/indonesia-united-states-and-japan-host-conference-on-nuclear-small-modular-reactor-deployment/）
   - 「の製造時に必要な溶接工・組立工・機械工などの高い技術を持つ技能職が大きく減少」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
   - 「⚫ 国内で建設や製造の現場の空白期間が続くことによる技術・人材の維持は喫緊の課題」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
   - 「✓ 建設作業に係るノウハウ・人材を喪失していたこと等も」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
   - 「４－４．米英：技術・人材が弱体化」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「関連する人材は、震災前の1/3にまで減少」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「⚫ 原子力産業の関連事業者からは、建設の空白期間の長期化による、技術・人材・サプライチェーン」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「◼ 日本でも、経験豊富な人材が時間とともに失われる」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「◼ 人材育成、技術開発、生産施設への適切な投資を」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「①必要な人材・スキルを特定した上での、戦略的な原子力人材育成・確保策、」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「技術・人材・サプライチェーンの維持に向けて」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「減ってきているので、社内での人材のス」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「いるが、人材育成は社内のOJTが中心」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「◼ 人材維持が特に難しいのは、溶接やPJ」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「①人材の育成・確保 ②供給途絶対策・事業承継」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
-  - 「⚫ プラント運転・建設やものづくりの現場がなく、職人の技能継承や人材育成の機会を喪失」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/006_03_00.pdf）
 - 技術（新しい技術・実証）：
-  - 「最初のSMRが運転を開始してから70年の間に、57の異なるデザインやコンセプトが設計、開発されたが、建設されたのはわずかである」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「そうして、中国のHTR-PMは、10年間にわたって建設が継続中で、唯一、遠隔操作による新技術が適用されている原子炉だ」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「ではその10倍の予算が計上されているが、そのほとんどが研究開発に充てられている」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
-  - 「そして、近年の政府会議では、安全性重視で新たな原子力技術（次世代炉）及び核融合の研究を、より加速させていく方針が示されている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「そこで、にわかに注目が集まり始めたのが、従来の大型原子炉に比べて安全性が高いとされる次世代炉の一種「小型モジュール炉（Small Modular Reactor：SMR）」である」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「まず、生成AIの活用や「デジタルトランスフォーメーション（DX）」の拡大などによる、データセンターを中心とした電気電子システムでの電力需要の急増に、早急に対処する必要が出てきていること」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「データセンター（特にAI学習用）は24時間365日、極めて安定した高出力電源が必要」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「米国ではAmazonやGoogleが、SMR開発企業への投資や電力購入契約を相次いで発表している」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「そして、SMRの開発・量産が、日本企業の競争力の高い、新たな巨大輸出産業になる可能性があること」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「多数の建設プロジェクトが進行中の海外、日本は制度整備と技術開発の段階」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「先述したように、SMRに必要な構成要素やSMRそのものの技術・ビジネス開発において、日本企業は高い競争力を持っている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「一方、日本は、政策・制度整備と要素技術開発、海外案件への参画が中心（国内建設はまだ構想段階）となっている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「米国では、テネシー州に設置したKairos Power製SMRの実証炉（2027年運転開始目標）と併せ、Googleとの間でAIデータセンター向けに6〜7基のSMRで最大500MWeを供給する電力購入契約を締結した」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「Amazonは、次世代SMRと燃料の開発企業「X-energy」に、同社が中心となって約5億米ドル規模の資金調達支援を行なったと発表している」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「英国政府はSMR開発に25億ポンドの公的支援をアナウンスしており、2030年代半ばの送電網接続を目指している」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
+  - 「日本は「2050年カーボンニュートラルに伴うグリーン成長戦略」で、海外のSMR実証プロジェクトとの連携で、2030年までにSMR技術の実証を目指すとしている」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「また、文部科学省と経済産業省が原子力イノベーション促進（NEXIP）イニシアチブ事業を行い、SMR実証炉を開発する民間企業等を支援している」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「次世代自動車：2010年代の開発」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「世界的にみて、SMRの開発で先行しているのは」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「を開発中で、当初は2031年の稼働をめざしていた」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「2021年11月、ロールス・ロイスは米国エクセロン・ジェネレーション、フランスのBNFリソーシズUKと、英国内のSMR開発に今後3年間で合計1.95億ポンド（約295億円）の投資を発表」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「また、スウェーデンの建設大手スカンスカ（Skanska）と、SMR向け免震ベアリング基礎の実証モデルの納入契約を締結した」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「英国ドンカスターにあるスカンスカの製造施設で進められ、プロトタイプの製造および実証試験が行われる」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「横河電機はロールス・ロイスSMRが英国や欧州で建設をめざすSMRの基幹制御システムの開発、認証取得、設置、試運転などに参加する」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「一方、英政府の主要投資家で政策銀行であるナショナル・ウェルス・ファンド（NWF）もロールス・ロイスSMRに最大約5.99億ポンドを投資し、SMR開発を支援することとしている」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「トランプ大統領の国賓訪問を機に、米国と人工知能（AI）、民生用原子力、核融合、量子技術などの戦略的科学技術分野での連携強化」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■研究、開発、実験施設やデータの利用調整を促進し、AI技術と組み合わせて、」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■英国のエネルギー供給会社であるセントリカは、米国の先進炉開発企業のX-エナジーと提携して、」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「し、高度なデータセンターを開発する」（https://www.decarbonation-tech.com/nuclear_2125/）
+  - 「■米国のマイクロ炉開発企業のラスト・エナジーは、港湾運営会社DPワールドのロンドン・ゲートウェイ港とビジネスパークに」（https://www.decarbonation-tech.com/nuclear_2125/）
 - 検索結果の抜粋：
   - 「小型モジュール炉 （ SMR ）の まやかしと原発のコスト — 小型モジュール炉 （ SMR ）の まやかしと原発のコスト 国際環境NGO FoE Japan PDF https://foejapan.org > 2025/11 > 251113_matsukubo」（https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf）
   - 「世界の 小型モジュール炉 の開発動向 - 原子力委員会 — 世界の 小型モジュール炉 の開発動向 - 原子力委員会 原子力委員会 PDF https://www.aec.go.jp > teirei > siryo32 > 1_haifu」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
@@ -4850,6 +4851,12 @@
   - 「主な製造企業 • Braskem （ブラジル） • LyondellBasell （米国）、Dow （米国）、SABIC（サウジアラ」（https://www.env.go.jp/content/000322560.pdf）
   - 「LCCO2排出量 • -2.12 kgCO2eq/kg（原料栽培～樹脂製造）5) • -2.31 kgCO2eq/kg（廃油調達～樹脂製造）6)」（https://www.env.go.jp/content/000322560.pdf）
 - 顧客の顧客（発注元が求めること）：
+  - 「アンモニア、再生可能エネルギーの利用）や電化といった脱炭素化による対応が可」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「いるため、目指すところは「脱炭素化」ではなく「脱二酸化炭素」である」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「取り組みを共通化・標準化し、日本発の認証システムとして海外展開していくことが投」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「ン技術などを活用した認証制度の構築、さらには②バイオものづくり実装製品のクレ」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「担保された認証システムの構築やバイオものづくり実装化製品のクレジット制度化に」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「活用する認証スキームを構築し、さらに、この認証スキームを活用した GHG 削減分を」（https://www.nedo.go.jp/content/100961481.pdf）
   - 「レンゴー ISCC PLUS認証を取得した」（https://www.env.go.jp/content/000322560.pdf）
   - 「今後、同認証によりバイオマ」（https://www.env.go.jp/content/000322560.pdf）
   - 「大日本印刷 ISCC PLUS認証を受けたバイオマス由来特性及びリサイ」（https://www.env.go.jp/content/000322560.pdf）
@@ -4859,12 +4866,6 @@
   - 「◼ PHAは生分解性が高いことで知られ、一部メーカーのPHAは、もっとも生分解性の基準が厳しい海洋生分解性の認証を取」（https://www.env.go.jp/content/000322560.pdf）
   - 「得している（TÜV AUSTRIAの「OK biodegradable MARINE」認証）」（https://www.env.go.jp/content/000322560.pdf）
   - 「高い生分解性を持つことで知られ、海洋生分解性認証を取得している樹脂も存在する」（https://www.env.go.jp/content/000322560.pdf）
-  - 「国 メーカー PHAの種類 製造拠点 原料 製造能力（トン/年） 認証取得 その他」（https://www.env.go.jp/content/000322560.pdf）
-  - 「いられており、その結果としてバイオマスプラスチックとしての特性（脱炭素性等）も有している」（https://www.env.go.jp/content/000322560.pdf）
-  - 「計で5,800以上の農家がトレーニング、監査、認証を受け、プロ」（https://www.env.go.jp/content/000322560.pdf）
-  - 「36,000トンの認証済みヒ」（https://www.env.go.jp/content/000322560.pdf）
-  - 「で、ISCC PLUS認証を取得」（https://www.env.go.jp/content/000322560.pdf）
-  - 「PLUSとRSBの認証取得済み）の供給を受け、Covestroが」（https://www.env.go.jp/content/000322560.pdf）
 - 顧客の競合（奪いに来る側）：
   - 「II – ② 欧州におけるバイオプラスチック等の動向調査 242」（https://www.env.go.jp/content/000322560.pdf）
   - 「世界の樹脂別バイオプラスチックの製造能力シェア（2024年、2029年）」（https://www.env.go.jp/content/000322560.pdf）
@@ -4898,6 +4899,13 @@
   - 「production capacity of 40,000 tonnes per year and SHV Energy will be the exclusive distributor,」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
   - 「In 2010 the agricultural processor Archer Daniels Midland (ADM) commissioned a propylene glycol」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
 - 政治（法・予算・規制）：
+  - 「国連の気候変動に関する政府間パネル（IPCC）は、2021 年 8 月に第 6 次評価報」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「ルに向けて予算、金融、規制改革、標準化、国際連携などの政策を総動員して取り」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「世界規模での気候変動、環境問題、食料問題、さらには経済安全保障上のカント」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「成熟度レベル）後半まで企業群に対して支援を行っており、中国においても政府補助」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「められているほか、グリーンイノベーション基金を用いた『バイオものづくり技術による」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「注 3：バイオマス活用推進基本計画（平成 28 年 9 月 16 日閣議決定）における 2025 年目標値」（https://www.nedo.go.jp/content/100961481.pdf）
+  - 「例えば、国内資源の徹底活用のための技術開発として、政府による戦略的イノベ」（https://www.nedo.go.jp/content/100961481.pdf）
   - 「II. バイオプラスチック及び再生材等の導入に関連する規制・施策の調査 （仕様書2） 68」（https://www.env.go.jp/content/000322560.pdf）
   - 「II – ① 国内及び海外でのプラスチックに関連する規制・制度、バイオプラスチック及び再生材に関連する施策等の調査 69」（https://www.env.go.jp/content/000322560.pdf）
   - 「たプラスチックを使用した容器包装」で初のエコマーク認定」（https://www.env.go.jp/content/000322560.pdf）
@@ -4906,13 +4914,6 @@
   - 「• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,767億円）」、食」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「革命推進基金（2,700億円）」を実施中」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「①GI基金 （1,790億円）」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「②バイオものづくり革命推進事業（2,700億円、基金）」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「• 予算額1,790億円に対して、計6件・国費負担総額1,806億円を採択（令和５年３月）」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「⚫ 併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「今回は、バイオものづくりの市場動向として、化学メーカーやスタートアップの動向や国内外の政府の動きなどを整理しました」（https://axetimesbiz.com/articles/chemical-biomanufacturing-industry_market-research_202404）
-  - 「日本政府は、バイオ産業における国際的な存在感が低下するリスクを回避するために、今後の方針として2030年に世界最先端のバイオエコノミー社会を実現することを示しています」（https://axetimesbiz.com/articles/chemical-biomanufacturing-industry_market-research_202404）
-  - 「GI基金事業「バイオものづくり技術によるCO2を直接原料としたカーボンリサイクルの推進」や、科学技術振興機構（JST）による「戦略的創造研究推進事業先端的カーボンニュートラル技術開発（ALCA-Next）」など、複数の技術開発のプロジェクトを官民連携により推進しています」（https://axetimesbiz.com/articles/chemical-biomanufacturing-industry_market-research_202404）
-  - 「そういった課題に対して、補助金や推奨制度など、単独企業では推進が難しい社会全体・国家的な支援が重要となっています」（https://axetimesbiz.com/articles/chemical-biomanufacturing-industry_market-research_202404）
 - 経済（規模・価格・為替）：
   - 「1-1) Braskem社プレスリリース（2021年2月23日）「Braskem invests US$61 million to increase biopolymer production」, https://www.braskem.com.br/usa/news-detail/braskem-invests-us61-million-to-increase-」（https://www.env.go.jp/content/000322560.pdf）
   - 「市場単価（国内） • 石化PEと比較して約3倍3) （2021年ヒアリング結果）」（https://www.env.go.jp/content/000322560.pdf）
@@ -4962,6 +4963,8 @@
   - 「chem.co.jp/news/detail/20220411.html」（https://www.env.go.jp/content/000322560.pdf）
   - 「2022年9月7日 https://www.cropenergies.com/de/presse/details/crop」（https://www.env.go.jp/content/000322560.pdf）
 - 検索結果の抜粋：
+  - 「Bio - Based Chemicals : Value Added Products From Biorefineries — Bio - Based Chemicals : Value Added Products From Biorefineries ResearchGate https://www.researchgate.net > 26204...」（https://www.researchgate.net/publication/262048753_Bio-Based_Chemicals_Value_Added_Products_From_Biorefineries）
+  - 「asia pacific bio - based chemicals market forecast 2019-2028 — asia pacific bio - based chemicals market forecast 2019-2028 Inkwood Research https://www.inkwoodresearch.com > ...」（https://www.inkwoodresearch.com/reports/asia-pacific-bio-based-chemicals-market/?srsltid=AYCX9vKnyoltRHtPBX5-JRITV7l-Z_93L7hhEnHu1y25BEai2Jtz2CXX）
   - 「令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... — 令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... 環境省 PDF https://www.env.go.jp > content」（https://www.env.go.jp/content/000322560.pdf）
   - 「バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ナレッジ」（https://iri-group.jp/knowledge/bio-based-chemicals/）
   - 「バイオ プラスチックを取り巻く 国内外の状況 - 環境省 — バイオ プラスチックを取り巻く 国内外の状況 - 環境省 環境省 PDF https://www.env.go.jp > recycle > mat052214」（https://www.env.go.jp/recycle/mat052214.pdf）

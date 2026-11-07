@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・147品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・148品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -7639,14 +7639,85 @@
 
 ## 金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ）（Japan metal coating heat treatment industry receipts for processing 2019 detailed industry）
 - 文脈：塗装・熱処理・統計
-- 痛み・損（深さの印）：記載なし（読んだ34頁・検索18回）
-- 事業所数・社数：記載なし（読んだ34頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ34頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ34頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ34頁・検索18回）
-- 生産能力・設備：記載なし（読んだ34頁・検索18回）
-- 10年推移：記載なし（読んだ34頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ34頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ32頁・検索18回）
+- 事業所数・社数：記載なし（読んだ32頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ32頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ32頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索18回）
+- 生産能力・設備：記載なし（読んだ32頁・検索18回）
+- 10年推移：記載なし（読んだ32頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ32頁・検索18回）
+
+## 工業統計表 2019年実績 産業細分類 電気めっき・金属製品塗装・金属用金型の現金給与総額と付加価値額（人件費の割合で労働集約の度合いを見る・代わりの仮説1・4-32）（Japan Census of Manufacture 2019 electroplating metal coating dies cash wages value added by industry detail）
+- 文脈：業種・めっき
+- 事業所数・社数：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「工業統計調査 確報 ２０１９年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 社員数・平均社員数：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【2183】人工骨材製造業」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【3251】娯楽用具・がん具製造業（人形を除く）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【3252】人形製造業」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「工業統計調査 確報 ２０１９年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+- 受注金額・加工賃収入：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「工業統計調査 確報 ２０１９年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「生産額(従業者29人以下は出荷額)（万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200）
+  - 「有形固定資産投資総額(従業者30人以上)（万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200）
+- 1人あたり・1社あたり金額：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「工業統計調査 確報 ２０１９年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「生産額(従業者29人以下は出荷額)（万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200）
+  - 「有形固定資産投資総額(従業者30人以上)（万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200）
+- 生産能力・設備：
+  - 「有形固定資産投資総額(従業者30人以上)（万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031402655&layout=dataset&statdisp_id=0003144200）
+- 10年推移：
+  - 「2020-08-27 00:00」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/dbview?sid=0003432897）
+  - 「2020-08-27 00:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2022年8月5日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「公開日 2022年8月5日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「最終更新日 2023年1月6日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2021_工業用革製品製造業（手袋を除く）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「調査対象数＝192,047事業所（2020年調査）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「回収率＝95.1％（2020年調査）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 痛み・損（深さの印）：記載なし（読んだ36頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ36頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
