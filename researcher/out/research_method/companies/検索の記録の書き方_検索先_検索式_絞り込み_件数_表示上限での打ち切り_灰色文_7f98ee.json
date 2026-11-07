@@ -8,9 +8,387 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-06T22:00:24.250656+00:00",
+ "researched_at": "2026-11-07T02:19:57.971506+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "MEDLINE/PubMedを使った137件の系統的レビューの検索式を調べた研究では、92.7%の検索式に何らかの誤りがあり、最も多かった誤りは自然言語・統制語の両方で用語が不足していることと、MeSHに関する誤りでした（Salvador-Oliván ら, 2019）",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7. 検索式をチェックしてもらう：PRESSとよくある誤り",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "著者らの系統的レビューでは、構造化されたPRESSが検索の誤りを見つけ、検索語の選択を改善できる可能性が示唆されました",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務の順序の例：PICOの概念を書く → PubMedの検索式を作る → 検索式と研究課題を司書または2人目の検索者に送る → 誤りを直す → 最終の検索式を実行する → 日付と件数を記録する",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "バイアスリスク評価｜RoB 2・ROBINS-I・NOSの選び方",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "バイアスリスク評価のツールは、含める研究の研究デザインごとに選びます",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed towards English-language publications with positive results [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Song F, Parekh-Bhurke S, Hooper L, et al. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009;9:79. doi: 10.1186/1471-2288-9-79.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997;350(9074):326–329. doi: 10.1016/S0140-6736(97)02419-7.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010;340:c365. doi: 10.1136/bmj.c365.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "統計・検定の選び方（EZR・カイ二乗とFisher・回帰）",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "医学統計解析サポート（¥79,800〜）",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計監査（¥39,800）",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EZR（Easy R）は、統計ソフトRをマウス操作で使えるようにした無料のソフトウェアです",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計解析・統計チェック・メタアナリシスに対応します",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(142.2KB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDF (720.0 KB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "うつ病に関するレビューではどちらも候補になるため、実例では両方を使いました",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実例では、Handbookの図4.4.aにあるPubMed形式の「Cochrane Highly Sensitive Search Strategy for identifying randomized trials in MEDLINE（感度最大化版、2008年改訂）」を使いました",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フィルタ後の結果の30.9%",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フィルタ後の結果の51.4%",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. 実例：9本の検索行と最終検索式",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究デザイン、結果の解釈、結論、投稿の判断は研究者に帰属します",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実例では、それぞれが相手の見つけなかった記録を見つけました",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実例では、自由語だけで見つかった記録が、各ORブロックの54.6%（うつ病）と52.9%（運動）を占めました",
+    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycINFO.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Many database platforms offer more than one database on the same platform. Some platforms allow users to search these multiple databases at one time, for example using the Ovid platform to simultaneously search MEDLINE, Embase, and the Cochrane Database of Systematic Reviews.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Many databases are available on multiple different systems, each of which have their own specifications for how a search strategy can be constructed. The location or host system of the database is the platform. Platform is sometimes referred to as the interface or vendor. Common examples include Ovid, EBSCOhost, ProQuest, and Web of Science.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Many institutions or their affiliated libraries host online repository systems for their faculty, staff, and students. An example is the University of Michigan’s Deep Blue Data system (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For an example of supplementary materials related to a systematic review search, see:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this example, the materials shared include a Read Me file to explain the files, EndNote (.enlx) files of screened references, the original files imported into EndNote, and the complete, reproducible search strategies for all information sources.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). For example, the MEDLINE database is available through at least 10 different platforms, including Ovid, EBSCOhost, Web of Science, and PubMed. Each platform offers different ways of searching the databases, such as platform-specific",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "]). In these cases, authors may choose to include the web address of the database in the text or the bibliography to provide clarity for their readers.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "]. Government, non-profit organization, and pharmaceutical company websites, for example, contain a wealth of information not published elsewhere [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ")), by citing the websites in the bibliography, or by listing the website with corresponding web address in supplementary material, as shown in the examples above.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). If the same database is used for both a topical search as well as citation searching, describe each use separately. For manually checking the reference lists for included articles, a simple statement as in the first example is sufficient.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A thorough systematic review may utilize many additional methods of locating studies beyond database searching, many of which may not be reproducible methods. A key example is searching personal files. Another is using databases’ built in tools, such as PubMed’s Related Articles feature [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". “Excluded publication types were comments, editorials, patient education handouts, newspaper articles, biographies, autobiographies, and case reports. All languages were included in the search result; non-English results were removed during the review process…. To improve specificity, the updated search was limited to human participants.” [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ") or inclusion criteria for the systematic review. For example, systematic review teams may choose to only include English-language randomized controlled trials. This can be done using limits, a combination of a filter (see Item 10) and screening, or screening alone. It should be clear to the reader which approach is used. For instance, in the “",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "Preparing a systematic review - How to get started with systematic literature searching - Library Guides at University of the West of Scotland",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to get started with systematic literature searching: Preparing a systematic review",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Registering your systematic review is an important step in ensuring transparency, credibility, and avoidance of duplication.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "At its core, registration means publicly declaring your review’s topic, scope, and methods before you begin the full process. This helps signal your intentions, prevents unintentional overlap with other reviews, and strengthens the academic integrity of your work.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Improve research quality – by committing to a protocol, you're more likely to stick to a clear, focused method.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSF (Open Science Framework)",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Using this template demonstrates a clear, transparent search method and supports critical engagement with the evidence base - a valuable skill in academic and professional practice.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Screening and appraisal methods",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Allow others to assess or replicate your methods",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Many journals (and assessors) expect full details of your search methods, including the databases used, search terms, limits applied, and the exact strategy as run. Providing this information is essential for transparency, reproducibility, and meeting publishing standards",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "), an extension of the PRISMA 2020 guidelines, focuses specifically on the transparent reporting of search strategies in systematic reviews. It helps ensure that the search methods are clear, detailed, and reproducible.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "システマティックレビューとは？やり方を8ステップで解説",
     "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
@@ -187,318 +565,6 @@
    },
    {
     "quote": "): The Open Science Framework (OSF) platform enables the storage of any documentation associated with a research study. It is possible to create DOIs for individual files or groups of files. OSF is openly and freely available.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "うつ病に関するレビューではどちらも候補になるため、実例では両方を使いました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実例では、Handbookの図4.4.aにあるPubMed形式の「Cochrane Highly Sensitive Search Strategy for identifying randomized trials in MEDLINE（感度最大化版、2008年改訂）」を使いました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "フィルタ後の結果の30.9%",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "フィルタ後の結果の51.4%",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5. 実例：9本の検索行と最終検索式",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "研究デザイン、結果の解釈、結論、投稿の判断は研究者に帰属します",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実例では、それぞれが相手の見つけなかった記録を見つけました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実例では、自由語だけで見つかった記録が、各ORブロックの54.6%（うつ病）と52.9%（運動）を占めました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycINFO.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Many database platforms offer more than one database on the same platform. Some platforms allow users to search these multiple databases at one time, for example using the Ovid platform to simultaneously search MEDLINE, Embase, and the Cochrane Database of Systematic Reviews.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Many databases are available on multiple different systems, each of which have their own specifications for how a search strategy can be constructed. The location or host system of the database is the platform. Platform is sometimes referred to as the interface or vendor. Common examples include Ovid, EBSCOhost, ProQuest, and Web of Science.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Many institutions or their affiliated libraries host online repository systems for their faculty, staff, and students. An example is the University of Michigan’s Deep Blue Data system (",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For an example of supplementary materials related to a systematic review search, see:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this example, the materials shared include a Read Me file to explain the files, EndNote (.enlx) files of screened references, the original files imported into EndNote, and the complete, reproducible search strategies for all information sources.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "). For example, the MEDLINE database is available through at least 10 different platforms, including Ovid, EBSCOhost, Web of Science, and PubMed. Each platform offers different ways of searching the databases, such as platform-specific",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]). In these cases, authors may choose to include the web address of the database in the text or the bibliography to provide clarity for their readers.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Government, non-profit organization, and pharmaceutical company websites, for example, contain a wealth of information not published elsewhere [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ")), by citing the websites in the bibliography, or by listing the website with corresponding web address in supplementary material, as shown in the examples above.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "). If the same database is used for both a topical search as well as citation searching, describe each use separately. For manually checking the reference lists for included articles, a simple statement as in the first example is sufficient.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A thorough systematic review may utilize many additional methods of locating studies beyond database searching, many of which may not be reproducible methods. A key example is searching personal files. Another is using databases’ built in tools, such as PubMed’s Related Articles feature [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". “Excluded publication types were comments, editorials, patient education handouts, newspaper articles, biographies, autobiographies, and case reports. All languages were included in the search result; non-English results were removed during the review process…. To improve specificity, the updated search was limited to human participants.” [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") or inclusion criteria for the systematic review. For example, systematic review teams may choose to only include English-language randomized controlled trials. This can be done using limits, a combination of a filter (see Item 10) and screening, or screening alone. It should be clear to the reader which approach is used. For instance, in the “",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "MEDLINE/PubMedを使った137件の系統的レビューの検索式を調べた研究では、92.7%の検索式に何らかの誤りがあり、最も多かった誤りは自然言語・統制語の両方で用語が不足していることと、MeSHに関する誤りでした（Salvador-Oliván ら, 2019）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "7. 検索式をチェックしてもらう：PRESSとよくある誤り",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "著者らの系統的レビューでは、構造化されたPRESSが検索の誤りを見つけ、検索語の選択を改善できる可能性が示唆されました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実務の順序の例：PICOの概念を書く → PubMedの検索式を作る → 検索式と研究課題を司書または2人目の検索者に送る → 誤りを直す → 最終の検索式を実行する → 日付と件数を記録する",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "バイアスリスク評価｜RoB 2・ROBINS-I・NOSの選び方",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "バイアスリスク評価のツールは、含める研究の研究デザインごとに選びます",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed towards English-language publications with positive results [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Song F, Parekh-Bhurke S, Hooper L, et al. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009;9:79. doi: 10.1186/1471-2288-9-79.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997;350(9074):326–329. doi: 10.1016/S0140-6736(97)02419-7.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010;340:c365. doi: 10.1136/bmj.c365.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "統計・検定の選び方（EZR・カイ二乗とFisher・回帰）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "医学統計解析サポート（¥79,800〜）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計監査（¥39,800）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EZR（Easy R）は、統計ソフトRをマウス操作で使えるようにした無料のソフトウェアです",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計解析・統計チェック・メタアナリシスに対応します",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(142.2KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF (720.0 KB)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -529,22 +595,17 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/yu_py/n/n8f4ea2c45ce2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/tsunobuchi/n/n037e5cd3ee54",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/pingue7/n/n5efbc0a45ae5",
+    "url": "https://note.com/yu_py/n/n8f4ea2c45ce2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/health_00/n/n81af685b1925",
+    "url": "https://note.com/pingue7/n/n5efbc0a45ae5",
     "status": "ok",
     "method": "http"
    },
@@ -559,27 +620,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.help-note.com/hc/ja/articles/62344323192857-%E6%A4%9C%E7%B4%A2%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/tag/%E6%A4%9C%E7%B4%A2%E5%BC%8F",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/notemag/n/n6e10b3230fa9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://alc.chiba-u.jp/eyr/2021/06/09/01scholar.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.note.com/n/n5d2d08475b54",
+    "url": "https://note.com/health_00/n/n81af685b1925",
     "status": "ok",
     "method": "http"
    },
@@ -589,14 +630,34 @@
     "method": "http"
    },
    {
-    "url": "https://www.elsevier.support/ja-jp/scopus/answer/%E6%96%87%E7%8C%AE%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "url": "https://note.com/tag/%E6%A4%9C%E7%B4%A2%E5%BC%8F",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.library.osaka-u.ac.jp/others/tutorial/ronbun_kensaku_with_note_3.pdf",
+    "url": "https://alc.chiba-u.jp/eyr/2021/06/09/01scholar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.help-note.com/hc/ja/articles/62344323192857-%E6%A4%9C%E7%B4%A2%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biz.note.com/n/n5d2d08475b54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legacyfileshare.elsevier.com/assets/pdf_file/0020/1323902/Scopus-QRG202211.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.elsevier.support/ja-jp/scopus/answer/%E6%96%87%E7%8C%AE%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/GoogleScholar_guide.pdf",
@@ -604,9 +665,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://help.jamas.or.jp/personal/hint2.html",
+    "url": "https://www.library.osaka-u.ac.jp/others/tutorial/ronbun_kensaku_with_note_3.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.soubun.com/journal/%E8%AB%96%E6%96%87%E3%82%92%E8%A2%AB%E5%BC%95%E7%94%A8%E6%95%B0%E9%A0%86%E3%81%AB%E6%A4%9C%E7%B4%A2%E3%81%A7%E3%81%8D%E3%82%8Bgoogle-scholar%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9%E3%82%AB/",
@@ -614,9 +675,14 @@
     "method": "http"
    },
    {
-    "url": "http://www.lib.niimi-u.ac.jp/Library/Files/logicalop.pdf",
+    "url": "https://scholar.google.com/?hl=ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://help.jamas.or.jp/personal/hint2.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.inpit.go.jp/content/100881807.pdf",
@@ -629,27 +695,22 @@
     "method": "pdf"
    },
    {
-    "url": "http://www.kautm.net/data/pds/k_total.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://brain-lab.net/evidence/for-therapist/ebp-basic/pubmed-search-query-syntax/",
+    "url": "https://help.jamas.or.jp/houjin/ascCreate.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://guides.library.ubc.ca/greylitforhealth/document",
+    "url": "https://help.jamas.or.jp/personal/ascCreate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.jamas.or.jp/houjin/ascAbout.html",
     "status": "ok",
     "method": "http"
    },
@@ -659,24 +720,29 @@
     "method": "http"
    },
    {
-    "url": "https://libraryguides.mcgill.ca/knowledge-syntheses/documenting",
+    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://au.libguides.com/systematicreviews/reportsearchresults",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libguides.ru.nl/greyliterature/searchstrategy",
+    "url": "https://equator-network.org/reporting-guidelines/prisma-s/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://knowledgetranslation.net/wp-content/uploads/2019/05/PRISMA-ScR_TipSheet_Item7.pdf",
+    "url": "https://www.prisma-statement.org/prisma-search",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0895435626000971",
+    "status": "http_403",
+    "method": "http"
    }
   ]
  },
@@ -684,12 +750,12 @@
   {
    "query": "検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索 site:note.com",
    "results": [
-    "https://note.com/yu_py/n/n8f4ea2c45ce2",
     "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "https://note.com/yu_py/n/n8f4ea2c45ce2",
     "https://note.com/pingue7/n/n5efbc0a45ae5",
-    "https://note.com/health_00/n/n81af685b1925",
     "https://note.com/philosophykit/n/n12ac0e10e1bc",
     "https://note.com/sakaimisato/n/n6efff0f944e4",
+    "https://note.com/health_00/n/n81af685b1925",
     "https://note.com/tsunobuchi/n/n5100dbf82075",
     "https://note.com/debugon78/n/nfff7ecfbd79f",
     "https://note.com/tsunobuchi/n/n13a16054cf58",
@@ -699,61 +765,61 @@
   {
    "query": "検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索 note",
    "results": [
-    "https://www.help-note.com/hc/ja/articles/62344323192857-%E6%A4%9C%E7%B4%A2%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
-    "https://note.com/tag/%E6%A4%9C%E7%B4%A2%E5%BC%8F",
-    "https://note.com/notemag/n/n6e10b3230fa9",
-    "https://alc.chiba-u.jp/eyr/2021/06/09/01scholar.html",
-    "https://biz.note.com/n/n5d2d08475b54",
     "https://paperpile.com/ja/g/google-scholar-guide/",
-    "https://jpsearch.go.jp/static/pdf/usecase/manual_202104.pdf",
+    "https://note.com/tag/%E6%A4%9C%E7%B4%A2%E5%BC%8F",
+    "https://alc.chiba-u.jp/eyr/2021/06/09/01scholar.html",
+    "https://www.help-note.com/hc/ja/articles/62344323192857-%E6%A4%9C%E7%B4%A2%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://biz.note.com/n/n5d2d08475b54",
     "https://legacyfileshare.elsevier.com/assets/pdf_file/0020/1323902/Scopus-QRG202211.pdf",
     "https://note.com/agile_sage9326/n/n5152a70dce1e",
+    "https://jpsearch.go.jp/static/pdf/usecase/manual_202104.pdf",
+    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
    ]
   },
   {
    "query": "検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索 やり方",
    "results": [
-    "https://www.elsevier.support/ja-jp/scopus/answer/%E6%96%87%E7%8C%AE%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
     "https://paperpile.com/ja/g/google-scholar-guide/",
-    "https://www.library.osaka-u.ac.jp/others/tutorial/ronbun_kensaku_with_note_3.pdf",
+    "https://www.elsevier.support/ja-jp/scopus/answer/%E6%96%87%E7%8C%AE%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/GoogleScholar_guide.pdf",
-    "https://help.jamas.or.jp/personal/hint2.html",
+    "https://www.library.osaka-u.ac.jp/others/tutorial/ronbun_kensaku_with_note_3.pdf",
     "https://www.soubun.com/journal/%E8%AB%96%E6%96%87%E3%82%92%E8%A2%AB%E5%BC%95%E7%94%A8%E6%95%B0%E9%A0%86%E3%81%AB%E6%A4%9C%E7%B4%A2%E3%81%A7%E3%81%8D%E3%82%8Bgoogle-scholar%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9%E3%82%AB/",
-    "http://www.lib.niimi-u.ac.jp/Library/Files/logicalop.pdf",
     "https://scholar.google.com/?hl=ja",
-    "https://seo-best.jp/topics/web/detahighlightr/",
+    "https://www.youtube.com/watch?v=MApp9U2MJXQ",
+    "https://help.jamas.or.jp/personal/hint2.html",
+    "https://support.google.com/webmasters/answer/7576553?hl=ja",
     "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
    ]
   },
   {
    "query": "検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索 事例",
    "results": [
-    "https://www.inpit.go.jp/content/100881807.pdf",
-    "https://www.elsevier.support/ja-jp/scopus/answer/%E6%96%87%E7%8C%AE%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://www.library.osaka-u.ac.jp/others/tutorial/ronbun_kensaku_with_note_3.pdf",
-    "https://www.shiga-med.ac.jp/library/support/manual/PubMed_manual2.pdf",
     "https://paperpile.com/ja/g/google-scholar-guide/",
+    "https://www.library.osaka-u.ac.jp/others/tutorial/ronbun_kensaku_with_note_3.pdf",
     "https://alc.chiba-u.jp/eyr/2021/06/09/01scholar.html",
+    "https://www.elsevier.support/ja-jp/scopus/answer/%E6%96%87%E7%8C%AE%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "https://www.inpit.go.jp/content/100881807.pdf",
+    "https://www.shiga-med.ac.jp/library/support/manual/PubMed_manual2.pdf",
     "https://help.jamas.or.jp/personal/hint2.html",
-    "http://www.kautm.net/data/pds/k_total.pdf",
-    "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "https://legacyfileshare.elsevier.com/assets/pdf_file/0020/1323902/Scopus-QRG202211.pdf",
+    "https://www.youtube.com/watch?v=MApp9U2MJXQ",
     "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
    ]
   },
   {
    "query": "search reporting PRISMA-S literature search documentation grey literature result limits reproducible search",
    "results": [
-    "https://guides.library.ubc.ca/greylitforhealth/document",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "https://libraryguides.mcgill.ca/knowledge-syntheses/documenting",
-    "https://au.libguides.com/systematicreviews/reportsearchresults",
-    "https://libguides.ru.nl/greyliterature/searchstrategy",
-    "https://knowledgetranslation.net/wp-content/uploads/2019/05/PRISMA-ScR_TipSheet_Item7.pdf",
+    "https://libraryguides.binghamton.edu/scopingreview/search",
+    "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "https://equator-network.org/reporting-guidelines/prisma-s/",
+    "https://www.prisma-statement.org/prisma-search",
     "https://www.sciencedirect.com/science/article/pii/S0895435626000971",
+    "https://libguides.kcl.ac.uk/systematicreview/recording",
+    "https://thepublicationplan.com/2021/05/26/prisma-s-guidance-for-reporting-literature-search-methods-for-systematic-reviews-published/",
     "https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires",
-    "https://www.prisma-statement.org/prisma-search"
+    "https://casrai.org/guides/searching-grey-literature-for-a-systematic-review"
    ]
   },
   {
@@ -761,59 +827,59 @@
    "results": [
     "https://note.com/tsunobuchi/n/n41e4d74ab9d1",
     "https://note.com/tsunobuchi/n/n0ffb90631b64",
+    "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "https://note.com/anozaki/n/nc85c19c80914",
     "https://note.com/yu_py/n/n8f4ea2c45ce2",
     "https://note.com/ipcc/n/n29adfa77345e",
-    "https://note.com/mxe05064/n/n15cf04403e39",
-    "https://note.com/onodaheisaku/n/n57354b44cec3",
-    "https://note.com/patent_i/n/n0b6ed1029449",
-    "https://note.com/tsunobuchi/n/nbe464973b68a",
-    "https://note.com/sakaimisato/n/n6efff0f944e4",
-    "https://note.com/health_00/n/n81af685b1925"
+    "https://note.com/tsunobuchi/n/n5ab4b98be5c1",
+    "https://note.com/pingue7/n/n3591121b2b77",
+    "https://note.com/anozaki/n/n4ead69b0f907",
+    "https://note.com/pingue7/n/n5efbc0a45ae5"
    ]
   },
   {
    "query": "site:x.com 検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索",
    "results": [
+    "https://x.com/masahirochaen/status/2016654296058822828",
+    "https://x.com/masahirochaen/status/1840324295404458446",
     "https://x.com/tumsat_library/status/2059127936842924439",
     "https://x.com/kokugoken/status/2098325673530077694",
     "https://x.com/ChuoU_SELib/status/2106922319163933122",
-    "https://x.com/masahirochaen/status/2016654296058822828",
+    "https://x.com/i/trending/2043289921859780621",
     "https://x.com/ai_database/status/2110572595867251009",
-    "https://x.com/WutheringW_GW/status/2050514976646074863",
     "https://x.com/Ko__Harada/status/1888781873603604582",
-    "https://x.com/TMU_PR",
-    "https://x.com/f_gakuin/status/1531909727046623232",
-    "https://x.com/i/trending/2043289921859780621"
+    "https://x.com/genkAIjokyo/highlights",
+    "https://x.com/masa_ai_med/status/2108765386678395116"
    ]
   },
   {
    "query": "site:linkedin.com 検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索",
    "results": [
-    "https://jp.linkedin.com/pulse/how-do-llms-secretly-change-tracking-invisible-shifts-david-konitzny-g4pae?tl=ja",
-    "https://jp.linkedin.com/pulse/ai-search-all-anyones-talking-cannes-weve-been-since-brighton-ashley-bzkhe?tl=ja",
-    "https://jp.linkedin.com/pulse/future-search-guide-your-seo-strategy-2026-avinash-bidkar-syuvc?tl=ja",
     "https://jp.linkedin.com/pulse/journey-semantics-search-elastic-80m-vectors-14tb-soumil-shah?tl=ja",
-    "https://jp.linkedin.com/pulse/unlocking-future-intelligent-search-comprehensive-guide-rao-vrhdf?tl=ja",
+    "https://jp.linkedin.com/pulse/how-do-llms-secretly-change-tracking-invisible-shifts-david-konitzny-g4pae?tl=ja",
     "https://jp.linkedin.com/pulse/what-billion-data-points-tell-us-ai-search-were-seeing-tabassum-a2lye?tl=ja",
-    "https://jp.linkedin.com/pulse/ai-search-explained-why-reps-campaigns-still-matter-longer-gryson-ck7we?tl=ja",
+    "https://jp.linkedin.com/pulse/unlocking-future-intelligent-search-comprehensive-guide-rao-vrhdf?tl=ja",
+    "https://jp.linkedin.com/pulse/future-search-guide-your-seo-strategy-2026-avinash-bidkar-syuvc?tl=ja",
     "https://cn.linkedin.com/company/agco-corporation/life",
+    "https://jp.linkedin.com/pulse/seo-dead-has-new-boss-how-stay-visible-ai-search-2026-anthony-j-james-xzjnf?tl=ja",
+    "https://jp.linkedin.com/pulse/ai-search-explained-why-reps-campaigns-still-matter-longer-gryson-ck7we?tl=ja",
     "https://jp.linkedin.com/pulse/building-personalized-arxiv-research-assistant-google-hoyos-phd-gg6se?tl=ja",
-    "https://jp.linkedin.com/pulse/agentic-intelligence-markus-j-buehler-tsive?tl=ja"
+    "https://cn.linkedin.com/company/xiaomi-technology"
    ]
   },
   {
    "query": "site:facebook.com 検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索",
    "results": [
-    "https://www.facebook.com/cityofwinnipeg/photos/?locale=zh_CN",
-    "https://www.facebook.com/100057416262591/posts/1%E9%9A%8E%E3%83%AC%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%B4%B9%E4%BB%8B-%E4%BA%BA%E7%89%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%AA%BF%E3%81%B9%E7%89%A9%E3%81%AA%E3%82%89%E7%B7%8F%E5%90%88%E4%BA%BA%E7%89%A9%E6%83%85%E5%A0%B1%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEwhoplus%E3%83%95%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B9%E3%81%8C%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E3%81%A7%E3%81%99-%E6%AD%B4%E5%8F%B2%E4%B8%8A%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8B%E3%82%89%E7%8F%BE%E4%BB%A3%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%BE%E3%81%A7%E5%9B%BD%E5%86%85%E5%A4%96/1396948202229042/",
-    "https://www.facebook.com/ryuichisakamoto/?locale=kk_KZ",
     "https://www.facebook.com/media/set/?vanity&set=a.122291655656194655",
-    "https://www.facebook.com/IndiaInJapan/posts/on-3rd-december-2021-representatives-from-otani-university-paid-a-courtesy-visit/6686334861437069/",
-    "https://www.facebook.com/insightmaster13/photos/?tab=album&locale=zh_CN",
+    "https://www.facebook.com/thirdbranchpottery/?locale=zh_CN",
+    "https://www.facebook.com/eastchestertownhal/?locale=zh_CN",
+    "https://www.facebook.com/foytracing/?locale=zh_CN",
+    "https://www.facebook.com/ryuichisakamoto/?locale=kk_KZ",
     "https://www.facebook.com/yasuaki.sagara.3/",
-    "https://www.facebook.com/100081159261664/posts/8%E6%9C%8819%E6%97%A5ja%E3%81%97%E3%81%BE%E3%81%AD%E8%A5%BF%E3%81%84%E3%82%8F%E3%81%BF%E5%9C%B0%E5%8C%BA%E6%9C%AC%E9%83%A8%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%8C%E5%96%B6%E7%8A%B6%E6%B3%81%E3%81%AE%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E9%A0%82%E3%81%8D%E7%A7%81%E3%81%A8%E5%87%BA%E7%B4%8D%E5%AE%A4%E9%95%B7%E8%BE%B2%E6%9E%97%E8%AA%B2%E9%95%B7%E3%81%AE3%E5%90%8D%E3%81%AB%E3%81%A6%E5%87%BA%E5%B8%AD%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-ja%E3%81%8B%E3%82%89%E3%81%AF%E7%AB%B9%E9%95%B7%E9%9A%86%E8%A5%BF%E3%81%84%E3%82%8F%E3%81%BF%E5%9C%B0%E5%8C%BA%E6%9C%AC%E9%83%A8%E9%95%B7%E4%B8%AD%E6%9D%91%E5%8A%9Bja/1118818404166791/",
-    "https://www.facebook.com/100083706756289/videos/word%E3%81%A72%E8%A1%8C%E7%9B%AE%E4%BB%A5%E9%99%8D%E3%82%92%E7%B6%BA%E9%BA%97%E3%81%AB%E6%8F%83%E3%81%88%E3%82%8B%E6%96%B9%E6%B3%95%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E3%82%84%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%81%A72%E8%A1%8C%E7%9B%AE%E4%BB%A5%E9%99%8D%E3%82%92%E4%B8%8B%E3%81%92%E3%81%9F%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AA%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%92%E3%82%A4%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88-%E6%96%B9%E6%B3%95%E2%91%A0%E3%83%9E%E3%82%A6%E3%82%B9%E6%93%8D%E4%BD%9C%E3%81%A7%E7%B4%B0%E3%81%8B%E3%81%8F%E8%A8%AD%E5%AE%9A%E2%91%A0-%E6%AE%B5%E8%90%BD%E3%82%92%E9%81%B8%E6%8A%9E%E2%91%A1-%E3%83%9B%E3%83%BC/1685860472107345/",
-    "https://www.facebook.com/thirdbranchpottery/?locale=zh_CN"
+    "https://www.facebook.com/tarrantcountyda/photos/adrian-devone-phillips-was-found-guilty-of-burglary-of-a-habitation-with-a-deadl/617314085102995/?locale=zh_CN",
+    "https://www.facebook.com/SouthernUniversityAtNewOrleans/posts/calling-all-suno-alumni/2399351460100613/?locale=zh_CN",
+    "https://www.facebook.com/insightmaster13/photos/?tab=album&locale=zh_CN",
+    "https://www.facebook.com/goessel.kansas/photos/?locale=zh_CN"
    ]
   },
   {
@@ -821,28 +887,28 @@
    "results": [
     "https://www.help-note.com/hc/ja/articles/62344323192857-%E6%A4%9C%E7%B4%A2%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
     "https://note.com/notemag/n/n6e10b3230fa9",
-    "https://biz.note.com/n/n5d2d08475b54",
-    "https://note.com/tag/%E6%A4%9C%E7%B4%A2%E5%BC%8F",
-    "https://www.library.osaka-u.ac.jp/others/tutorial/ronbun_kensaku_with_note_3.pdf",
-    "https://alc.chiba-u.jp/eyr/2021/06/09/01scholar.html",
     "https://paperpile.com/ja/g/google-scholar-guide/",
-    "https://note.com/oyakusho/n/n12c0176e4cdf",
+    "https://note.com/tag/%E6%A4%9C%E7%B4%A2%E5%BC%8F",
+    "https://alc.chiba-u.jp/eyr/2021/06/09/01scholar.html",
+    "https://www.library.osaka-u.ac.jp/others/tutorial/ronbun_kensaku_with_note_3.pdf",
+    "https://biz.note.com/n/n5d2d08475b54",
     "https://www.youtube.com/watch?v=MApp9U2MJXQ",
+    "https://note.com/info/n/n216550eab71e",
     "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
    ]
   },
   {
    "query": "検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索 X 投稿",
    "results": [
+    "https://help.x.com/ja/using-x/x-advanced-search",
     "https://ppc-master.jp/labo/2019/03/twitter_command.html",
     "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x-%E6%A4%9C%E7%B4%A2%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%A8%E3%81%AF%EF%BC%9Fx%E6%A4%9C%E7%B4%A2%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E4%B8%80/",
-    "https://tatap.jp/knowledge/x-search-commands/",
-    "https://www.sharecoto.co.jp/twitterlab/function/advanced-search/",
-    "https://note.com/5gkyu/n/nb27e77ff2315",
-    "https://help.x.com/ja/using-x/x-advanced-search",
-    "https://www.elsevier.support/ja-jp/scopus/answer/%E6%96%87%E7%8C%AE%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://tofu.misosil.com/articles/x-search-command/",
     "https://www.aiqveone.co.jp/oreo/blog/search-query/",
+    "https://www.youtube.com/watch?v=ohMiqmhOj7s",
+    "https://www.sharecoto.co.jp/twitterlab/function/advanced-search/",
+    "https://tofu.misosil.com/articles/x-search-command/",
+    "https://www.elsevier.support/ja-jp/scopus/answer/%E6%96%87%E7%8C%AE%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "https://note.com/5gkyu/n/nb27e77ff2315",
     "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
    ]
   },
@@ -850,15 +916,15 @@
    "query": "search reporting PRISMA-S literature search documentation grey literature result limits reproducible search site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/emmanueltsekleves_systematicreview-prisma-research-activity-7382755520362733568-w6tr",
-    "https://www.linkedin.com/posts/asif-ahmed-badsha_systematicreview-prisma-literaturereview-activity-7418789296288972800-FdYw",
+    "https://www.linkedin.com/posts/peter-munene-9ab033b8_%F0%9D%97%9F%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%A5%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%84-%F0%9D%97%A5%F0%9D%97%BC%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BD-activity-7462735192626167808-eHPt",
+    "https://www.linkedin.com/posts/peter-munene-9ab033b8_systematicreview-literaturereview-phd-activity-7481412924838887424-gfyj",
+    "https://www.linkedin.com/posts/namrata-ladha-81aa8a138_prisma-researchtips-activity-7491425432203042817-1pYm",
+    "https://www.linkedin.com/pulse/using-prisma-guidelines-strengthen-systematic-reviews-aderla-la3oc",
+    "https://www.linkedin.com/pulse/how-write-systematic-review-from-scratch-using-prisma-dr-preeti-eh7xc",
     "https://www.linkedin.com/posts/peter-munene-9ab033b8_scopingreview-phd-thesis-activity-7491476908157837313-yCYv",
-    "https://www.linkedin.com/pulse/how-create-literature-review-protocol-step-by-step-guide-aleem-xpidf",
-    "https://www.linkedin.com/pulse/better-sampling-trustworthy-literature-reviews-sven-kunisch-vvjse",
+    "https://www.linkedin.com/posts/drnaureenaleem_how-to-conduct-a-metaanalysis-in-eight-steps-activity-7370106797078044672-RkbA",
     "https://www.linkedin.com/pulse/literature-search-medical-devices-step-by-step-protocol-lalit-mohan-qwplc",
-    "https://uk.linkedin.com/company/systematic-review-consultants",
-    "https://www.linkedin.com/posts/peter-munene-9ab033b8_phd-masters-literaturereview-activity-7481918340207132672-hUXg",
-    "https://www.linkedin.com/pulse/when-systematic-review-finds-nothing-empty-still-h-abdel-dayem-amer-7v87f",
-    "https://www.linkedin.com/pulse/how-create-literature-review-protocol-step-by-step-guide-aleem-5r9yf"
+    "https://www.linkedin.com/posts/nacke_7-ai-tools-i-actually-use-for-literature-activity-7415380500640542721-IaMT"
    ]
   }
  ],
@@ -866,519 +932,73 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "システマティックレビューとは？やり方を8ステップで解説",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "Preparing a systematic review - How to get started with systematic literature searching - Library Guides at University of the West of Scotland",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Handbookは、ヒット件数が多いという理由だけで比較対照やアウトカムを加えたくなった場合は、先に同書が挙げる代替の方法を検討するよう述べています",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "How to get started with systematic literature searching: Preparing a systematic review",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "PubMedで概念を探す方法は2つあります",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "Registering your systematic review is an important step in ensuring transparency, credibility, and avoidance of duplication.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "それぞれの方法がどれだけ寄与するかを、表1に示します",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "At its core, registration means publicly declaring your review’s topic, scope, and methods before you begin the full process. This helps signal your intentions, prevents unintentional overlap with other reviews, and strengthens the academic integrity of your work.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Methodsには、プラットフォームと日付を書き、完全な検索式は付録を参照させます",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "Improve research quality – by committing to a protocol, you're more likely to stick to a clear, focused method.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "PRISMA-Sは、完全な検索式を補足資料に載せ、その場所をMethodsに記載してリンクすることを提案しています",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "OSF (Open Science Framework)",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "PRISMA声明でシステマティックレビューを正しく報告する方法",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "Using this template demonstrates a clear, transparent search method and supports critical engagement with the evidence base - a valuable skill in academic and professional practice.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "検索式がピアレビューを受けたこと、その方法（使ったツール）を報告するのがPRISMA-Sの項目14です",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "Screening and appraisal methods",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Editverse Japanは、プロトコルとMethodsの検索に関する記載の整理、PRISMA 2020とPRISMA-Sに沿った報告の確認、付録の表の整形、英文校正を、研究者の方と一緒に進めます",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "Allow others to assess or replicate your methods",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "研究デザイン・研究方法論相談（¥29,800）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "Many journals (and assessors) expect full details of your search methods, including the databases used, search terms, limits applied, and the exact strategy as run. Providing this information is essential for transparency, reproducibility, and meeting publishing standards",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Google Scholarの使い方｜検索・引用・アラート・プロフィール",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
+    "quote": "), an extension of the PRISMA 2020 guidelines, focuses specifically on the transparent reporting of search strategies in systematic reviews. It helps ensure that the search methods are clear, detailed, and reproducible.",
+    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
     "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "システマティックレビューとは？やり方を8ステップで解説｜他のレビューとの違い",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【完全ガイド】PRISMA声明でシステマティックレビューを正しく報告する方法",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Rayyanの使い方｜スクリーニング手順・PRISMA数・κ",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Here, an overall term for the entire information retrieval process as part of a systematic review. This includes the full range of searching methods and information sources, including databases, study registries, regulatory datasets, web searches, government documents, unpublished data, and much more.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Additional content for a study that does not fit in the main manuscript text. For a systematic review, supplementary materials should include full search strategies for all information sources and more complete search methods description. Supplementary materials are generally submitted with the manuscript for peer review.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": For the purposes of PRISMA-S, systematic review is used for the entire family of methods-based reviews. This includes rapid reviews, scoping reviews, meta-narrative reviews, realist reviews, meta-ethnography, and more.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A larger issue may be that, even amongst librarians and information specialists, debate exists as to what constitutes a reproducible search and how best to report the details of the search. Researchers assessing the reproducibility of the search have used varying methods to determine what constitutes a reproducible search [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Post-publication peer review of search methods, even amongst Cochrane reviews, which generally have superior reporting compared to non-Cochrane reviews [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Furthermore, little guidance on how to report searches using information sources or methods other than literature databases, such as searching web sites or study registries, exists [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "To develop an interdisciplinary checklist applicable to all method-driven literature searches for evidence synthesis.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. This includes, but is not limited to, scoping reviews, rapid reviews, realist reviews, metanarrative reviews, mixed methods reviews, umbrella reviews, and evidence maps [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. We use the term “literature search” or “search” throughout to encompass the full range of possible search methods and information sources.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "] according to the steps outlined in the “Guidance for Developers of Health Research Reporting Guidelines [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "To narrow the list into a usable checklist, we then used a three-step Delphi survey process [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. All participants in the Delphi process and/or consensus conference were contacted via email with instructions on how to provide feedback on the draft checklist items and/or elaboration and explanation document by commenting directly on the explanation and elaboration draft using a private commenting system, Hypothesis [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") and the other, guidance on depositing search data and method descriptions in online repositories (see Table",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Open Science Framework",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "): The Open Science Framework (OSF) platform enables the storage of any documentation associated with a research study. It is possible to create DOIs for individual files or groups of files. OSF is openly and freely available.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "うつ病に関するレビューではどちらも候補になるため、実例では両方を使いました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実例では、Handbookの図4.4.aにあるPubMed形式の「Cochrane Highly Sensitive Search Strategy for identifying randomized trials in MEDLINE（感度最大化版、2008年改訂）」を使いました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "フィルタ後の結果の30.9%",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "フィルタ後の結果の51.4%",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5. 実例：9本の検索行と最終検索式",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "研究デザイン、結果の解釈、結論、投稿の判断は研究者に帰属します",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実例では、それぞれが相手の見つけなかった記録を見つけました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実例では、自由語だけで見つかった記録が、各ORブロックの54.6%（うつ病）と52.9%（運動）を占めました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycINFO.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Many database platforms offer more than one database on the same platform. Some platforms allow users to search these multiple databases at one time, for example using the Ovid platform to simultaneously search MEDLINE, Embase, and the Cochrane Database of Systematic Reviews.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Many databases are available on multiple different systems, each of which have their own specifications for how a search strategy can be constructed. The location or host system of the database is the platform. Platform is sometimes referred to as the interface or vendor. Common examples include Ovid, EBSCOhost, ProQuest, and Web of Science.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": Many institutions or their affiliated libraries host online repository systems for their faculty, staff, and students. An example is the University of Michigan’s Deep Blue Data system (",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For an example of supplementary materials related to a systematic review search, see:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this example, the materials shared include a Read Me file to explain the files, EndNote (.enlx) files of screened references, the original files imported into EndNote, and the complete, reproducible search strategies for all information sources.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "). For example, the MEDLINE database is available through at least 10 different platforms, including Ovid, EBSCOhost, Web of Science, and PubMed. Each platform offers different ways of searching the databases, such as platform-specific",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]). In these cases, authors may choose to include the web address of the database in the text or the bibliography to provide clarity for their readers.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Government, non-profit organization, and pharmaceutical company websites, for example, contain a wealth of information not published elsewhere [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ")), by citing the websites in the bibliography, or by listing the website with corresponding web address in supplementary material, as shown in the examples above.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "). If the same database is used for both a topical search as well as citation searching, describe each use separately. For manually checking the reference lists for included articles, a simple statement as in the first example is sufficient.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A thorough systematic review may utilize many additional methods of locating studies beyond database searching, many of which may not be reproducible methods. A key example is searching personal files. Another is using databases’ built in tools, such as PubMed’s Related Articles feature [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". “Excluded publication types were comments, editorials, patient education handouts, newspaper articles, biographies, autobiographies, and case reports. All languages were included in the search result; non-English results were removed during the review process…. To improve specificity, the updated search was limited to human participants.” [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") or inclusion criteria for the systematic review. For example, systematic review teams may choose to only include English-language randomized controlled trials. This can be done using limits, a combination of a filter (see Item 10) and screening, or screening alone. It should be clear to the reader which approach is used. For instance, in the “",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "MEDLINE/PubMedを使った137件の系統的レビューの検索式を調べた研究では、92.7%の検索式に何らかの誤りがあり、最も多かった誤りは自然言語・統制語の両方で用語が不足していることと、MeSHに関する誤りでした（Salvador-Oliván ら, 2019）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "7. 検索式をチェックしてもらう：PRESSとよくある誤り",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "著者らの系統的レビューでは、構造化されたPRESSが検索の誤りを見つけ、検索語の選択を改善できる可能性が示唆されました",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実務の順序の例：PICOの概念を書く → PubMedの検索式を作る → 検索式と研究課題を司書または2人目の検索者に送る → 誤りを直す → 最終の検索式を実行する → 日付と件数を記録する",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "バイアスリスク評価｜RoB 2・ROBINS-I・NOSの選び方",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "バイアスリスク評価のツールは、含める研究の研究デザインごとに選びます",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed towards English-language publications with positive results [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Song F, Parekh-Bhurke S, Hooper L, et al. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009;9:79. doi: 10.1186/1471-2288-9-79.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997;350(9074):326–329. doi: 10.1016/S0140-6736(97)02419-7.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010;340:c365. doi: 10.1136/bmj.c365.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "統計・検定の選び方（EZR・カイ二乗とFisher・回帰）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "医学統計解析サポート（¥79,800〜）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計監査（¥39,800）",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EZR（Easy R）は、統計ソフトRをマウス操作で使えるようにした無料のソフトウェアです",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計解析・統計チェック・メタアナリシスに対応します",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(142.2KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF (720.0 KB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとし、フィルタは慎重に使うこと、そして開発の信頼性、報告された性能、頻繁に変わるインターフェースや索引付けを踏まえた現時点での正確さで評価することを求めています",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとしていますが、CENTRALには使わないとしています",
-    "url": "https://japan.editverse.com/pubmed-search-strategy-systematic-review/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses? Lancet. 2000;356(9237):1228–1231. doi: 10.1016/S0140-6736(00)02786-0.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-06T22:00:24.250656+00:00"
 }

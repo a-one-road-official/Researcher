@@ -506,21 +506,21 @@
 ## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
 - 文脈：企業
 - 手順・やり方：
+  - 「「世界一やさしい」のタイトル通り、図解とイラストを多用しながら、決算書から有望企業を発掘する手順を体系的に解説しています」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「「会計がわからんで経営ができるか」「キャッシュベース経営の原則」など、経営現場で実際に活きる会計の使い方が、実体験を通じて熱く語られています」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「「外資系金融の分析力と瞬発力が身につく19の方法」」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「決算書を読めるようになった次のステップとして、「その企業はいくらの価値があるのか」を計算するスキルが必要になります」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「ステップ1：会計ゼロからスタートする人（1〜2ヶ月）」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「ステップ2：株式投資に活かしたい人（追加で1ヶ月）」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「ステップ3：仕事・経営に活かしたい人（追加で1〜2ヶ月）」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「ステップ4：上級・専門レベルへ（追加で2〜3ヶ月）」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「継続するためのちょっとしたコツを共有しておきます」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「KPIを設定している場合には、その内容として、目標の達成度合いを測定する指標、算出方法、なぜその指標を利用するのかについて説明することや、合理的な検討を踏まえて設定された経営計画等の具体的な目標数値を記載することが考えられるとされています」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
+  - 「資金調達の方法については、資金需要を満たすための資金が営業活動によって得られるのか、銀行借入、社債発行や株式発行等による調達が必要なのかを具体的に記載することが考えられるとされており、資本コストに関する企業の定義や考え方についてもこれらの内容とともに説明することも有用とされています」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
+  - 「個々の重要な投資案件の潜在的なリスク、事業等のリスクの性質ごとの分類について分かりやすく記載している例や、事業等のリスクの把握及び管理方法を記載している例が紹介されています（p. 2-1、p. 2-6、p.2-13）」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
+  - 「成長投資、手許資金、株主還元の方針と、資金需要に対する資金調達の方法や設備投資の水準についての経営者の考えの記載や、今後の実質フリー・キャッシュ・フローや株主還元の目標水準及び株主資本コストの目標水準を記載している例が紹介されています（p. 4-3、p. 4-4、p. 4-5）」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
   - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由｜やましゃん@IR就活」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「この記事では、その具体的な手順とプロンプトを紹介する」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「2. 基本の手順——資料を渡してから聞く」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「手順1：一次資料を入手する」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「手順2：AIに資料を読み込ませる」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「手順3：目的を明示して質問する」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「手順4：出力を一次資料で検証する」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「ステップ1（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「ステップ2（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「ステップ3（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「ステップ4（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「ステップ5（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「ステップ6（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法」（https://president.jp/category/c05577）
 - 突き合わせ・推定：
   - 「生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「手順4：出力を一次資料で検証する」（https://note.com/irshukatsu/n/nec2070d76e3c）
@@ -538,38 +538,41 @@
   - 「accountants’ judgment, particularly where estimates and」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
   - 「cross-checked through revenue trends, margin movements,」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
 - 一次情報の探し方：
-  - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由｜やましゃん@IR就活」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「AIが本当に役立つのは、有価証券報告書を読ませて整理させるときだ」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「100ページの有価証券報告書を人間が読むより、AIに要約させたほうが速い」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「しかも、AIが学習したデータは過去のものなので、最新の決算が反映されていないことがある」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「有価証券報告書・決算短信・決算説明資料のPDF」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「PDFをアップロードできるAIサービスなら、そのまま添付する」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「AIが出した数字は、必ず元のPDFで該当箇所を確認する」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「添付した有価証券報告書から、就活生が企業研究で使う情報を抽出してください」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「添付した3社の決算短信から、売上高・営業利益率・自己資本比率を抽出し、同じ形式で並べてください」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「各社の決算期が異なる場合は、その旨を明記してください」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「添付した決算説明資料から、中期経営計画の目標数値をすべて抜き出し、直近実績と並べてギャップを算出してください」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「「最新の決算は」と聞いても、実際には数か月〜数年前の情報が返ってくることがある」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「：決算数値は必ず自分でEDINETまたは企業IRページから取得する」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「：AIの文章は特有の平板さがあり、読み慣れた採用担当者は気づく」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「【2026年最新】決算書の読み方が学べるおすすめ本22選｜会計初心者から株式投資・経営分析まで実戦で使える名著マップ｜コトビトの部屋＠本好き」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「【2026年最新】決算書の読み方が学べるおすすめ本22選｜会計初心者から株式投資・経営分析まで実戦で使える名著マップ」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「「決算書って数字ばっかりで、見ても何が書いてあるかさっぱり分からない…」」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「「株を買いたいんだけど、企業の決算書から有望株を見抜けるようになりたい」」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「決算書（財務3表）が読めるようになると、世界の見え方が一気に変わります」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「ただ、決算書の本は数百冊単位で出ていて、しかも内容のレベルがピンキリ」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「なぜ今、決算書を読めるスキルが価値を持つのか」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「決算書を読む力は、」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「決算書を学ぶ前に押さえたい3つの大前提」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「本の紹介に入る前に、決算書学習で挫折しないための「考え方の前提」を共有しておきます」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「決算書は会計士のためだけのものではありません」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「決算書の本は、著者ごとに切り口が違います」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「3. 必ず実物の決算短信を1社分は眺めること」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「気になる企業のIRページに飛んで、最新の「決算短信」「有価証券報告書」を1社分だけでも眺めてください」（https://note.com/tasuto11/n/nde45889dccb0）
 - 失敗・落とし穴：
-  - 「生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「最も多い失敗が、「トヨタ自動車について教えてください」とだけ入力するパターンだ」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「誤りが1つあるだけで、企業研究全体の信頼性が失われる」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「生成AIの出力には誤りが含まれる可能性があります」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説ゴールデンクロスとは、短期移動平均線が長期移動平均線を下から上に突き抜けるタイミングのことで、上昇トレンドへの転換を示す可能性があるサインとして知られています」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法」（https://president.jp/category/c05577）
-  - 「高配当株とは？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「高配当株とは？メリット・注意点をわかりやすく解説「高配当株って人気だけど、実際どういう株なの？」「配当金だけで生活できる？」「利回りが高いほど良いの？」高配当株は個人投資家の間で根強い人気があります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説「楽天ポイントで投資できるって聞いたけど、本当に意味あるの？」と疑問を持っている方は多いはずです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「⇒連結子会社が多いほど、単体とのズレに注意」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「＜チェックポイント＞財務依存型企業に注意」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「金利負担に注意！」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「M&A失敗・のれん減損リスク」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「会計をまったく知らない初心者から、株式投資のファンダメンタル分析を極めたい中上級者まで、目的別に厳選した22冊」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「⑩ 株を買うなら最低限知っておきたい ファンダメンタル投資の教科書 改訂版｜足立武志」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「個人投資家向けファンダメンタル分析本の決定版」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「⑪ 世界一やさしいファンダメンタル株投資バイブル｜日根野健（ひねけん）」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「Voicy人気パーソナリティ・ひねけん氏による、初心者向けファンダメンタル分析の決定版」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「⑩「ファンダメンタル投資の教科書」 → ⑫「3分速読からの10倍株の探し方」 → ⑭「バフェットの財務諸表を読む力」」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「10%以上なら優良、5%未満は注意」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「決算書学習でやりがちな3つの失敗」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「最後に、決算書を学び始めた人が陥りがちな失敗を3つだけ紹介します」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「失敗1：簿記から学び始める」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「失敗2：1冊を完璧にしようとする」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「失敗3：本だけで実物の決算書を見ない」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「は⑩「ファンダメンタル投資の教科書」と⑫「10倍株の探し方」と⑭「バフェットの財務諸表を読む力」」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「NISAはやめたほうがいい？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
 - 実例：
+  - 「最新の上場企業の事例を元に、決算書を「分析する視点」を学べるのがポイント」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「短期的な利益ばかり追う「PL思考」から、企業価値を最大化する「ファイナンス思考」への転換を、Amazon・リクルート・JTなどの事例を交えて解説しています」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「1冊を100%理解する必要はなく、複数冊を「7割理解」で次々に読んだ方が、結果的に立体的な理解に到達します」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「Mahindra & Mahindra's FY26 annual report as the example: its exact name, the year to 31 Mar 2026, the filing on NSE's archive (4 Jul 2026) and the unit, ₹ crore.」（https://mrchartist.com/learn/start/how-to-read-an-annual-report）
   - 「特別利益・特別損失とは？純利益への影響と決算での見方を解説「今期は最終利益が大幅増益だったのに、本業はそれほど変わっていない」——決算を見ていて、こうしたケースに出会うことがあります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「4-2.実例を見てみよう」（https://note.com/yoh2619/n/nab63a136eecc）
@@ -582,9 +585,6 @@
   - 「NotebookLMはアップロードした資料の範囲で回答する以上、入れる資料の質がそのまま分析結果の質に直結します」（https://inuiwan.com/archives/3282）
   - 「見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります」（https://kabu.com/kabuyomu/money/1191.html）
   - 「2025年3月期（2024年4月から2025年3月まで）は、増収減益という結果になりました」（https://kabu.com/kabuyomu/money/1191.html）
-  - 「一見すると“減益”という結果に不安を感じるかもしれませんが、「添付資料」まで目を通すと営業利益の主な増減要因が記されています」（https://kabu.com/kabuyomu/money/1191.html）
-  - 「GMO熊谷代表の｢コント会見｣は結果的によかった…報道対策のプロが分析するサイバー攻撃犯の"本当の狙い"」（https://president.jp/category/c05577）
-  - 「例えば、下記の連結経営指標等の※１の箇所では、本業の営業CFがマイナスになっていないか、多額の投資を行っている場合にはどのような内容のものか、資金繰りに窮して資産を売却し、投資CFが大きくプラスとなっていないかなど、企業の資金繰りに関する情報を確認します」（https://journal.bizocean.jp/corp08/h03/2552/）
 - 検索結果の抜粋：
   - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Apr 19, 2024 · Learn how to read a company's annual report effectively. This gui」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and th」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
@@ -2790,8 +2790,8 @@
 - 一次情報の探し方：
   - 「follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
-- 実例：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -4282,11 +4282,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -8008,6 +8008,11 @@
 ## ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）（point in time data survivorship bias research analyst method）
 - 文脈：検証
 - 手順・やり方：
+  - 「Frameworks for lasting change」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Another method to prevent survivorship bias, specifically in your work and research, is to be selective of the data sources used. By ensuring data sources are crafted to promote accuracy and do not omit critical observations that would change analysis results or decision-making, individuals can reduce the risk of survivorship bias.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「This article explores the challenges faced by start-ups when they are venturing into new and unfamiliar territory. When it's time to consider a strategy shift, cognitive biases can creep in to promote fast and efficient decision-making. However, fast doesn’t always equate to better choices being made, sometimes failure to consider alternatives and “going with our gut” can lead to serious missteps.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Survivorship Bias - Overview, Impact, and How to Prevent. (2020, May 15). Retrieved from https://corporatefinanceinstitute.com/resources/knowledge/other/survivorship-bias/」（https://thedecisionlab.com/biases/survivorship-bias）
   - 「The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「Static pool (cohort) method:」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
@@ -8015,30 +8020,40 @@
   - 「Understanding why the uplift seen in A/B tests often differs from real-world outcomes is essential. Explore key reasons behind this discrepancy and insights on how to manage expectations effectively.」（https://www.bellstatistics.com/glossary/survivorship-bias）
   - 「Wald, A. (1943). A Method of Estimating Plane Vulnerability Based on Damage of Survivors. Statistical Research Group, Columbia University.」（https://www.bellstatistics.com/glossary/survivorship-bias）
 - 突き合わせ・推定：
+  - 「The researchers estimated the size of survivorship bias across the United States mutual fund industry as 0.9% annum. Additionally, they defined and measured survivorship bias as the following:」（https://thedecisionlab.com/biases/survivorship-bias）
   - 「US GDP preliminary estimates land roughly 30 days after quarter-end, and final figures can be revised for up to three years.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
   - 「Early 2008 to 2009 US job-loss estimates of 4.8 million were later revised to 8.7 million, an 81% understatement of the crisis at the time it was unfolding.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
   - 「What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
 - 一次情報の探し方：
+  - 「https://www.vanguard.co.uk/documents/adv/literature/survivorship-bias.pdf」（https://thedecisionlab.com/biases/survivorship-bias）
   - 「Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
 - 失敗・落とし穴：
-  - 「Point in time analysis studies data as it was known on a date, not as it reads now. See the 3 biases it removes and why diagnosis depends on it.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
-  - 「The three biases point in time analysis removes」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
-  - 「Historical numbers change for three structural reasons, and each one biases analysis in a predictable direction. They are publication lag, revisions and restatements, and survivorship.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
-  - 「What is look-ahead bias?」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
-  - 「Look-ahead bias is using information in a historical analysis that was not actually available at the time being studied. It happens when a backtest reads a revised or late-published figure as though it existed on the decision date, inflating results that cannot repeat in live conditions.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
-  - 「What is survivorship bias in point in time analysis?」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
-  - 「Survivorship bias is the distortion that appears when failed or removed entities are dropped from a historical record. Studying only what survived into the present makes the past look healthier than it was. Point-in-time constituent data avoids it by keeping each entity in the record for the dates it actually existed.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
-  - 「Survivorship Bias in Quantitative Analysis」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
-  - 「Survivorship bias in quantitative analysis explained: why dropping dead funds, delisted stocks and defaulters invents alpha, with a closed-form result, a ten-year zero-alpha fund simulation, index backtests and the fixes.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
-  - 「1. Survivorship Bias in Plain English」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
-  - 「The crucial point is that the bias does not need anyone to cheat. Nobody deletes the losers on purpose. Closed funds stop reporting, delisted tickers vanish from the vendor file the analyst happens to download, and defaulted borrowers are archived to a different system. Survivorship bias is a property of」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
-  - 「Sampling Bias in Financial Research」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
-  - 「Selection Bias in Financial Datasets」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
-  - 「What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
-  - 「Two lessons fall straight out of the formula. First, the bias is proportional to σ. Double the dispersion of the population and you double the fake alpha, which is why survivorship matters far more for hedge funds, small caps and emerging market equities than for investment-grade bond funds. Second, the bias grows with the attrition rate」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Survivorship bias - The Decision Lab」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Where this bias occurs」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「In a similar vein, survivorship bias is why scientists recommend against taking health advice from the world’s oldest people.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Survivorship bias is everywhere we look, as it is a common bias that affects how we interpret data and information when making decisions. Survivorship bias also affects high-level decision-making, which then results in systemic challenges across multiple disciplines.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Survivorship bias can also be attributed to a fundamental misunderstanding of cause and effect, specifically concerning the concept of」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Being aware of survivorship bias and understanding how it can impact your judgment and decision-making is critical to ensure you're practicing critical thinking and making the best possible decisions for yourself.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「As we’ve explored, survivorship bias can impact individuals across several domains; thus, awareness can ensure better product decisions, financial investments, or scientific conclusions. Developing biases is an unavoidable human trait, but taking our time to challenge them is necessary to ensure that we make the best decision we possibly can.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Once they are aware of survivorship bias, individuals can practice avoiding it in several ways.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Another method to prevent survivorship bias, specifically in your work and research, is to be selective of the data sources used. By ensuring data sources are crafted to promote accuracy and do not omit critical observations that would change analysis results or decision-making, individuals can reduce the risk of survivorship bias.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「The survivorship bias and AI」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「In 1996, researchers Elton, Gruber, and Blake analyzed the relationship between fund sizes and survivorship bias. They found that survivorship bias was more significant in the small-fund sector than in more significant mutual funds. Smaller funds have a higher probability of folding than larger, more established funds, which is why they attributed this to be true for the small-fund sector.」（https://thedecisionlab.com/biases/survivorship-bias）
 - 実例：
+  - 「Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「See real world examples」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Example 1 – Financial Systems」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Example 2 – Medical Research」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Example 1 - Financial systems」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Example 2 - Medical research」（https://thedecisionlab.com/biases/survivorship-bias）
   - 「the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「3. Worked Example: Zero-Alpha Funds Over Ten Years」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
@@ -8943,21 +8958,21 @@
 ## 検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索（search reporting PRISMA-S literature search documentation grey literature result limits reproducible search）
 - 文脈：裏取り
 - 手順・やり方：
+  - 「Preparing a systematic review - How to get started with systematic literature searching - Library Guides at University of the West of Scotland」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「How to get started with systematic literature searching: Preparing a systematic review」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「Registering your systematic review is an important step in ensuring transparency, credibility, and avoidance of duplication.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「At its core, registration means publicly declaring your review’s topic, scope, and methods before you begin the full process. This helps signal your intentions, prevents unintentional overlap with other reviews, and strengthens the academic integrity of your work.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「Improve research quality – by committing to a protocol, you're more likely to stick to a clear, focused method.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「OSF (Open Science Framework)」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「Using this template demonstrates a clear, transparent search method and supports critical engagement with the evidence base - a valuable skill in academic and professional practice.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「Screening and appraisal methods」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「Allow others to assess or replicate your methods」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「Many journals (and assessors) expect full details of your search methods, including the databases used, search terms, limits applied, and the exact strategy as run. Providing this information is essential for transparency, reproducibility, and meeting publishing standards」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「), an extension of the PRISMA 2020 guidelines, focuses specifically on the transparent reporting of search strategies in systematic reviews. It helps ensure that the search methods are clear, detailed, and reproducible.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
   - 「システマティックレビューとは？やり方を8ステップで解説」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「Handbookは、ヒット件数が多いという理由だけで比較対照やアウトカムを加えたくなった場合は、先に同書が挙げる代替の方法を検討するよう述べています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「PubMedで概念を探す方法は2つあります」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「それぞれの方法がどれだけ寄与するかを、表1に示します」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「Methodsには、プラットフォームと日付を書き、完全な検索式は付録を参照させます」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「PRISMA-Sは、完全な検索式を補足資料に載せ、その場所をMethodsに記載してリンクすることを提案しています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「PRISMA声明でシステマティックレビューを正しく報告する方法」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「検索式がピアレビューを受けたこと、その方法（使ったツール）を報告するのがPRISMA-Sの項目14です」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「Editverse Japanは、プロトコルとMethodsの検索に関する記載の整理、PRISMA 2020とPRISMA-Sに沿った報告の確認、付録の表の整形、英文校正を、研究者の方と一緒に進めます」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「研究デザイン・研究方法論相談（¥29,800）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「Google Scholarの使い方｜検索・引用・アラート・プロフィール」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「システマティックレビューとは？やり方を8ステップで解説｜他のレビューとの違い」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「【完全ガイド】PRISMA声明でシステマティックレビューを正しく報告する方法」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「Rayyanの使い方｜スクリーニング手順・PRISMA数・κ」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
 - 突き合わせ・推定：
   - 「Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとし、フィルタは慎重に使うこと、そして開発の信頼性、報告された性能、頻繁に変わるインターフェースや索引付けを踏まえた現時点での正確さで評価することを求めています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとしていますが、CENTRALには使わないとしています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
@@ -9326,11 +9341,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順

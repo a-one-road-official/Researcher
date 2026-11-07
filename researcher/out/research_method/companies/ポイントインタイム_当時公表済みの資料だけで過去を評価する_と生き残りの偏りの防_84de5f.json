@@ -8,87 +8,99 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-06T21:38:26.850202+00:00",
+ "researched_at": "2026-11-07T02:14:49.528947+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Static pool (cohort) method:",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and survival methods handle censoring properly. For experiments, analyse everyone assigned rather than everyone remaining, which is intent-to-treat and is the same discipline applied to a different exit.",
-    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Understanding why the uplift seen in A/B tests often differs from real-world outcomes is essential. Explore key reasons behind this discrepancy and insights on how to manage expectations effectively.",
-    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Wald, A. (1943). A Method of Estimating Plane Vulnerability Based on Damage of Survivors. Statistical Research Group, Columbia University.",
-    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.",
-    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "US GDP preliminary estimates land roughly 30 days after quarter-end, and final figures can be revised for up to three years.",
-    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Early 2008 to 2009 US job-loss estimates of 4.8 million were later revised to 8.7 million, an 81% understatement of the crisis at the time it was unfolding.",
-    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "失敗・落とし穴": [
+   {
+    "quote": "Survivorship bias - The Decision Lab",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Where this bias occurs",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In a similar vein, survivorship bias is why scientists recommend against taking health advice from the world’s oldest people.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias is everywhere we look, as it is a common bias that affects how we interpret data and information when making decisions. Survivorship bias also affects high-level decision-making, which then results in systemic challenges across multiple disciplines.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can also be attributed to a fundamental misunderstanding of cause and effect, specifically concerning the concept of",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Being aware of survivorship bias and understanding how it can impact your judgment and decision-making is critical to ensure you're practicing critical thinking and making the best possible decisions for yourself.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As we’ve explored, survivorship bias can impact individuals across several domains; thus, awareness can ensure better product decisions, financial investments, or scientific conclusions. Developing biases is an unavoidable human trait, but taking our time to challenge them is necessary to ensure that we make the best decision we possibly can.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Once they are aware of survivorship bias, individuals can practice avoiding it in several ways.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Another method to prevent survivorship bias, specifically in your work and research, is to be selective of the data sources used. By ensuring data sources are crafted to promote accuracy and do not omit critical observations that would change analysis results or decision-making, individuals can reduce the risk of survivorship bias.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The survivorship bias and AI",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In 1996, researchers Elton, Gruber, and Blake analyzed the relationship between fund sizes and survivorship bias. They found that survivorship bias was more significant in the small-fund sector than in more significant mutual funds. Smaller funds have a higher probability of folding than larger, more established funds, which is why they attributed this to be true for the small-fund sector.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "Point in time analysis studies data as it was known on a date, not as it reads now. See the 3 biases it removes and why diagnosis depends on it.",
     "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
@@ -300,7 +312,69 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://www.vanguard.co.uk/documents/adv/literature/survivorship-bias.pdf",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.",
+    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
+   {
+    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "See real world examples",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 – Financial Systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 – Medical Research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 - Financial systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 - Medical research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
     "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
@@ -319,11 +393,122 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Frameworks for lasting change",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Another method to prevent survivorship bias, specifically in your work and research, is to be selective of the data sources used. By ensuring data sources are crafted to promote accuracy and do not omit critical observations that would change analysis results or decision-making, individuals can reduce the risk of survivorship bias.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This article explores the challenges faced by start-ups when they are venturing into new and unfamiliar territory. When it's time to consider a strategy shift, cognitive biases can creep in to promote fast and efficient decision-making. However, fast doesn’t always equate to better choices being made, sometimes failure to consider alternatives and “going with our gut” can lead to serious missteps.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship Bias - Overview, Impact, and How to Prevent. (2020, May 15). Retrieved from https://corporatefinanceinstitute.com/resources/knowledge/other/survivorship-bias/",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Static pool (cohort) method:",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and survival methods handle censoring properly. For experiments, analyse everyone assigned rather than everyone remaining, which is intent-to-treat and is the same discipline applied to a different exit.",
+    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Understanding why the uplift seen in A/B tests often differs from real-world outcomes is essential. Explore key reasons behind this discrepancy and insights on how to manage expectations effectively.",
+    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Wald, A. (1943). A Method of Estimating Plane Vulnerability Based on Damage of Survivors. Statistical Research Group, Columbia University.",
+    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "The researchers estimated the size of survivorship bias across the United States mutual fund industry as 0.9% annum. Additionally, they defined and measured survivorship bias as the following:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "US GDP preliminary estimates land roughly 30 days after quarter-end, and final figures can be revised for up to three years.",
+    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Early 2008 to 2009 US job-loss estimates of 4.8 million were later revised to 8.7 million, an 81% understatement of the crisis at the time it was unfolding.",
+    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/good_dill292/n/n93c0053a3deb",
+    "status": "ok",
+    "method": "http"
+   },
    {
     "url": "https://note.com/powerpoint_jp/n/n19840a713886",
     "status": "ok",
@@ -331,11 +516,6 @@
    },
    {
     "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/good_dill292/n/n93c0053a3deb",
     "status": "ok",
     "method": "http"
    },
@@ -365,6 +545,11 @@
     "method": "http"
    },
    {
+    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
     "status": "ok",
     "method": "http"
@@ -375,12 +560,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.jp/n/n7917dc1cdfe9?gs=580a97355f9ac6f8be9ea7111a813ab9",
+    "url": "https://note.jp/n/n7917dc1cdfe9?gs=e72ae33407a6b57bca5972a8c6da6b06",
     "status": "ok",
     "method": "http"
    },
@@ -400,17 +580,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.saa.or.jp/learning/journal/each_title/2020/05.html",
+    "url": "https://www.saa.or.jp/curriculum/foundation/pdf/sample_qa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lokad.com/ja/%E3%83%90%E3%83%83%E3%82%AF%E3%83%86%E3%82%B9%E3%83%88-%E5%AE%9A%E7%BE%A9/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.jenova.ai/ja/resources/ai-options-backtesting-agent",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.lokad.com/ja/%E3%83%90%E3%83%83%E3%82%AF%E3%83%86%E3%82%B9%E3%83%88-%E5%AE%9A%E7%BE%A9/",
     "status": "ok",
     "method": "http"
    },
@@ -440,9 +620,9 @@
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "url": "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
@@ -465,9 +645,9 @@
     "method": "http"
    },
    {
-    "url": "https://medium.com/data-science-collective/survivorship-bias-for-humans-how-to-spot-the-data-that-isnt-there-973dff1a8a00",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://stats.stackexchange.com/questions/611664/approach-to-removing-survivorship-bias",
@@ -480,16 +660,16 @@
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） site:note.com",
    "results": [
+    "https://note.com/good_dill292/n/n93c0053a3deb",
     "https://note.com/powerpoint_jp/n/n19840a713886",
     "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "https://note.com/good_dill292/n/n93c0053a3deb",
     "https://note.com/automationjp/n/nedc6c5889a1e",
     "https://note.com/right_minnow9076/n/n62a51fb5e91c",
     "https://note.com/tata_15/n/n11ebe7d5b8be",
     "https://note.com/qvb/n/n931062c31482",
     "https://note.com/kite_vrc/n/n1ec0dae76693",
-    "https://note.com/zantoux/n/n7f01d5e350af",
-    "https://note.com/ezuremanagement/n/n3e69d2b40cb9"
+    "https://note.com/ezuremanagement/n/n3e69d2b40cb9",
+    "https://note.com/masa13_/n/n1f4df2dd4113"
    ]
   },
   {
@@ -497,14 +677,14 @@
    "results": [
     "https://note.com/utokyo_phd_papa/n/n250bcff4ff63",
     "https://note.com/ku2t/n/ndcb6a117ec1c",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
     "https://note.com/ku2t/n/n73300b122872",
-    "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
     "https://note.jp/n/n7917dc1cdfe9",
+    "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
     "https://note.com/galileo_english/n/n793441346d70",
-    "https://note.com/masataka56/n/n350b6025920a",
     "http://benesse.jp/news/kosodate/join/20121202080027.html",
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
+    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest"
    ]
   },
   {
@@ -513,13 +693,13 @@
     "https://recruit.group.gmo/engineer/jisedai/blog/cv-in-financial-time-series/",
     "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
     "https://fxreplay.com/ja/playbooks/education/why-backtesting-is-the-missing-link-in-most-trading-strategies",
-    "https://www.saa.or.jp/learning/journal/each_title/2020/05.html",
-    "https://www.jenova.ai/ja/resources/ai-options-backtesting-agent",
+    "https://www.saa.or.jp/curriculum/foundation/pdf/sample_qa.pdf",
     "https://www.lokad.com/ja/%E3%83%90%E3%83%83%E3%82%AF%E3%83%86%E3%82%B9%E3%83%88-%E5%AE%9A%E7%BE%A9/",
+    "https://www.jenova.ai/ja/resources/ai-options-backtesting-agent",
     "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
-    "https://jp.edanz.com/blog/peer-review-limitations",
     "https://www.invest-concierge.com/terms/backtest",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/"
+    "https://jp.edanz.com/blog/peer-review-limitations",
+    "https://www.jmp.com/support/help/ja/19.2/jmp/survival-analysis.shtml"
    ]
   },
   {
@@ -528,13 +708,13 @@
     "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
     "https://note.com/nakanoam/n/nafb26eef1ed8",
     "https://jp.edanz.com/blog/peer-review-limitations",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://www.pictet.co.jp/investment-information/market/deep-insight/20240130.html",
     "https://www.mri.co.jp/knowledge/column/20251216_2.html",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb",
+    "https://www.daiwa-grp.jp/ir/toolkit/annualreport/pdf/ar2025/ar2025j_all.pdf",
     "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
-    "https://www.wantedly.com/companies/wantedly/post_articles/1006461",
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
+    "https://inet-sec.co.jp/column/20261029-95/"
    ]
   },
   {
@@ -544,12 +724,11 @@
     "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "https://www.reddit.com/r/statistics/comments/okvglq/q_how_does_survivorship_bias_impact_survival/",
     "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "https://medium.com/data-science-collective/survivorship-bias-for-humans-how-to-spot-the-data-that-isnt-there-973dff1a8a00",
-    "https://stats.stackexchange.com/questions/611664/approach-to-removing-survivorship-bias",
     "https://thedecisionlab.com/biases/survivorship-bias",
+    "https://stats.stackexchange.com/questions/611664/approach-to-removing-survivorship-bias",
+    "https://medium.com/data-science-collective/survivorship-bias-for-humans-how-to-spot-the-data-that-isnt-there-973dff1a8a00",
     "https://www.sciencedirect.com/science/article/pii/S0304405X99000409",
-    "https://quali-fi.com/learn/survivorship-bias",
-    "https://powakadata.com/survivorship-bias-backtesting.html"
+    "https://quali-fi.com/learn/survivorship-bias"
    ]
   },
   {
@@ -560,17 +739,21 @@
     "https://note.com/right_minnow9076/n/n62a51fb5e91c",
     "https://note.com/tata_15/n/n11ebe7d5b8be",
     "https://note.com/qvb/n/n931062c31482",
-    "https://note.com/masa13_/n/n1f4df2dd4113"
+    "https://note.com/masa13_/n/n1f4df2dd4113",
+    "https://note.com/stumblepall/n/n265a4e30f88a",
+    "https://note.com/jgiajfid_5293/n/na17dd8030399",
+    "https://note.com/g_kujo_ir/n/n0680d913daaf",
+    "https://note.com/keihin_inc/n/n46553f631c11"
    ]
   },
   {
    "query": "site:x.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
    "results": [
     "https://communitynotes.x.com/guide/ja/contributing/writing-and-rating-impact",
-    "https://x.com/Hatsuse_Kannon/status/2081364399068258532",
     "https://x.com/Kirinsha_Mgt/status/2095851873966412050",
-    "https://communitynotes.x.com/guide/ja/contributing/rating-notes",
     "https://x.com/shigeruinagaki3/status/2116984197529374891",
+    "https://communitynotes.x.com/guide/ja/contributing/rating-notes",
+    "https://x.com/Hatsuse_Kannon/status/2081364399068258532",
     "https://x.com/sharoushi_drill/status/2112396182421147990",
     "https://x.com/structure_mind/status/2107999134540329039"
    ]
@@ -583,20 +766,20 @@
     "https://jp.linkedin.com/pulse/why-performance-appraisals-stink-most-people-dont-look-tony-moorcroft?tl=ja",
     "https://jp.linkedin.com/posts/健佑-大原-664537208_組織を腐らせる人事考課のngパターンについて-最も罪深いのは現場の一次評価-activity-7440973479673327616-JHcw",
     "https://jp.linkedin.com/posts/skillty0217_ベテラン社員の評価どうする問題過去の功績ではなく現在の貢献で評価する役職定年-activity-7433298282782707713-LXGO",
-    "https://jp.linkedin.com/pulse/job-evaluation-using-point-factor-nikhil-maini?tl=ja",
-    "https://jp.linkedin.com/pulse/stages-project-evaluation-basic-principles-useful-tools-paturyan-49jbf?tl=ja"
+    "https://jp.linkedin.com/pulse/stages-project-evaluation-basic-principles-useful-tools-paturyan-49jbf?tl=ja",
+    "https://jp.linkedin.com/pulse/job-evaluation-using-point-factor-nikhil-maini?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
    "results": [
     "https://www.facebook.com/impress.madonomori/posts/windows-11の新しい復旧オプションポイントインタイム-リストアが一般提供ユーザーデータも復旧対象osがぶっ壊れても24時間以内のシステム状態に戻せる/1645920194208837/",
-    "https://www.facebook.com/gendaibusiness/posts/black-lives-matter運動のなかで人種主義を唱えた歴史上の人物の銅像や記念碑などが破壊されることがあったこれに対して日本でもsnsなどで現代の価値/3994851733864960/",
     "https://www.facebook.com/dsol.sijirei/photos/cisco-secure-endpoint旧amp-for-endpointsのページを更新しました巧妙化する脅威に対してポイントインタイムpoint-in-t/1867865660080080/",
     "https://www.facebook.com/dsol.sijirei/posts/cisco-secure-endpoint旧amp-for-endpointsのページを更新しました巧妙化する脅威に対してポイントインタイムpoint-in-t/1867138923486087/",
     "https://www.facebook.com/yoshinori.mogami/videos/コロナ禍東京都の情報発信は適切だったのか当時東京都の公式hpではワクチンについて感染予防効果があるとの情報発信がなされ接種が推奨されていましたしかしその後感染予/1733827457709886/",
+    "https://www.facebook.com/strategicfunnel/videos/ひとつの資料を1日で完成させる/28634201626211331/",
     "https://www.facebook.com/watarutb/posts/武田熙先生のあまり世に知られていない資料です原pdfから武術部分だけの抜き出し以前にも紹介したかもしれませんが武田熙-通背拳法/37889794233999702/",
-    "https://www.facebook.com/strategicfunnel/videos/ひとつの資料を1日で完成させる/28634201626211331/"
+    "https://www.facebook.com/imitsu.jp/videos/人事評価を経営に活かす自社に合うシステムを無料診断/1733604454337935/"
    ]
   },
   {
@@ -604,14 +787,14 @@
    "results": [
     "https://note.com/utokyo_phd_papa/n/n250bcff4ff63",
     "https://www.reddit.com/r/Bogleheads/comments/1u4h4e0/if_past_performance_is_not_indicative_of_future/?tl=ja",
-    "https://note.com/nanatsu_kabu/n/n9439ec9bbe89",
+    "https://note.com/ku2t/n/n73300b122872",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://note.jp/n/n7917dc1cdfe9",
     "https://www.fs.hub.hit-u.ac.jp/news-event/2022/05/post-111.php",
-    "https://note.com/nakanoam/n/nd86c5205cd9d",
-    "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
-    "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
+    "https://note.com/nanatsu_kabu/n/n9439ec9bbe89",
     "https://www.jpx.co.jp/equities/follow-up/jr4eth0000004vj2-att/mklp77000000lyr3.pdf",
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93473/revisions",
+    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest"
    ]
   },
   {
@@ -619,13 +802,13 @@
    "results": [
     "https://note.com/ogataka/n/n51f144be23b1",
     "https://prtimes.com/magazine/twitter-measurement-of-effectiveness/",
-    "https://taga-tame.com/blog/how-to-use-twitter-analytics-and-5-effective-analysis-methods/",
     "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
     "https://www.wantedly.com/companies/liddell/post_articles/985591",
-    "https://www.comnico.jp/we-love-social/how-to-use-twitter-analytics",
-    "https://webtan.impress.co.jp/e/2025/06/26/49535",
     "https://quid.tdse.jp/sns-analysis/x_algorithm/",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://gaiax-socialmedialab.jp/post-113007/",
+    "https://www.ajsa.or.jp/kentei/sns/x/x-recommendation-search-boost.html",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vLgMYIXeKObr75jj3VoN51s2YavLv-T6UW5AsAK1rCub9HWFfl0",
     "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
    ]
   },
@@ -639,14 +822,205 @@
     "https://www.linkedin.com/pulse/survivorship-bias-localization-adrian-wajer-tkyff",
     "https://www.linkedin.com/posts/david-innocent-5427a3199_one-of-the-fastest-ways-to-weaken-a-study-activity-7487054800744951808-09_b",
     "https://www.linkedin.com/pulse/avoiding-survivorship-bias-what-you-dont-see-can-hurt-mark-pybus-fytye",
-    "https://www.linkedin.com/posts/lopezdeprado_quantitativefinance-investmentresearch-activity-7516119049592889344-7kgT",
+    "https://www.linkedin.com/in/taemin-kang",
     "https://www.linkedin.com/jobs/view/senior-quantitative-equity-research-analyst-ai-platform-at-versant-media-4455639140",
     "https://in.linkedin.com/jobs/view/data-research-specialist-equity-strategy-at-acuity-analytics-4473663947"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 2,
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Survivorship bias - The Decision Lab",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Where this bias occurs",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In a similar vein, survivorship bias is why scientists recommend against taking health advice from the world’s oldest people.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias is everywhere we look, as it is a common bias that affects how we interpret data and information when making decisions. Survivorship bias also affects high-level decision-making, which then results in systemic challenges across multiple disciplines.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can also be attributed to a fundamental misunderstanding of cause and effect, specifically concerning the concept of",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Being aware of survivorship bias and understanding how it can impact your judgment and decision-making is critical to ensure you're practicing critical thinking and making the best possible decisions for yourself.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As we’ve explored, survivorship bias can impact individuals across several domains; thus, awareness can ensure better product decisions, financial investments, or scientific conclusions. Developing biases is an unavoidable human trait, but taking our time to challenge them is necessary to ensure that we make the best decision we possibly can.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Once they are aware of survivorship bias, individuals can practice avoiding it in several ways.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Another method to prevent survivorship bias, specifically in your work and research, is to be selective of the data sources used. By ensuring data sources are crafted to promote accuracy and do not omit critical observations that would change analysis results or decision-making, individuals can reduce the risk of survivorship bias.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The survivorship bias and AI",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In 1996, researchers Elton, Gruber, and Blake analyzed the relationship between fund sizes and survivorship bias. They found that survivorship bias was more significant in the small-fund sector than in more significant mutual funds. Smaller funds have a higher probability of folding than larger, more established funds, which is why they attributed this to be true for the small-fund sector.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://www.vanguard.co.uk/documents/adv/literature/survivorship-bias.pdf",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "See real world examples",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 – Financial Systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 – Medical Research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 - Financial systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 - Medical research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Frameworks for lasting change",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Another method to prevent survivorship bias, specifically in your work and research, is to be selective of the data sources used. By ensuring data sources are crafted to promote accuracy and do not omit critical observations that would change analysis results or decision-making, individuals can reduce the risk of survivorship bias.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This article explores the challenges faced by start-ups when they are venturing into new and unfamiliar territory. When it's time to consider a strategy shift, cognitive biases can creep in to promote fast and efficient decision-making. However, fast doesn’t always equate to better choices being made, sometimes failure to consider alternatives and “going with our gut” can lead to serious missteps.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship Bias - Overview, Impact, and How to Prevent. (2020, May 15). Retrieved from https://corporatefinanceinstitute.com/resources/knowledge/other/survivorship-bias/",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "The researchers estimated the size of survivorship bias across the United States mutual fund industry as 0.9% annum. Additionally, they defined and measured survivorship bias as the following:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 3,
  "first_researched_at": "2026-11-06T17:25:05.206776+00:00"
 }

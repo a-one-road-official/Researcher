@@ -8,8 +8,698 @@
  ],
  "context": "能力",
  "kind": "market",
- "researched_at": "2026-11-06T22:03:23.282942+00:00",
+ "researched_at": "2026-11-07T02:22:54.531853+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Common Mistakes",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "間違いだらけのリスク対応やいつまでもなくならない悪徳企業に対する対策について一言申し上げたく思います",
+    "url": "https://note.com/high_city/n/n0bdd75891593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【オンデマンド配信】育成・コミュニケーションの 「意図せぬすれ違い」を生むバイアス ～企業事例をご紹介～",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【百名山から学ぶベンチャー経営論】第六部「失敗から学び、成長を続ける」",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本連載では、その挑戦の中で経験した成功や失敗、そこからの学びを、ベンチャー経営や組織運営になぞらえながら考察しています",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この一年間、毎回の登山を振り返り、失敗から学び、鍛錬を繰り返しながら、挑戦できる山のレベルを徐々に上げてきました",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第六部では、失敗を認識し、そこから学び、次の挑戦につなげていくことが成長の源になる、ということについて考えてみます",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "16.一座登る度に振り返りを行う～失敗しないことよりも、失敗から学ぶことが重要～",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、同じことを繰り返さないためには、どこに注意すべきかを考える",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "百名山への挑戦を始める前は山の素人だった私ですが、こうした振り返りによって数々の失敗を認識し、そこから多くのことを学んできました",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・岩場の下山では足首捻りを起こしやすいので、特に注意する・皮の剥がれた木の根は、濡れると滑りやすい・長距離歩行では、空腹を感じる前にこまめにカロリーを補給する・けいれん予防には水分と塩分のこまめな補給が有効だった・捻挫、膝痛、マメの予防のため、各箇所にテーピングを活用する・登山前日の睡眠の質は、疲労度合いに大きく影響する",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "だからこそ、実際の失敗から学ぶ姿勢が、ベンチャー企業には欠かせません",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗しないように無難な道を選ぶのではなく、失敗を恐れず挑戦し、振り返りによって経験値を高めていく",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "登山でもビジネスでも、重要なのは失敗しないことではなく、失敗から何を学び、それを次にどう活かすかです",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経験を振り返り、失敗の原因を言語化し、次の行動を変えて初めて、その経験は「学び」に変わるのです",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、自分が取り組む事業領域に関する成功・失敗の事例研究をしたり、類似企業や競合企業について、公開情報をもとに深く分析したりといった勉強も怠ってはいけません",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日頃から幅広い知識を蓄え、他社の成功や失敗を疑似体験し、自分ならどう判断するかを考えておく",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もちろん、場数を踏めば失敗しなくなるわけではありません",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では計算式、業種別目安、労働分配率との関係、見るときの注意点を解説します",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1人当たり営業利益を見るときの注意点",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "混在させると数値の意味が変わるため要注意です",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "「作って売る！」という製造業は、決算書から外注加工費、材料費、運賃などの外部購入価値を集計したのち、付加価値額（売上高－外部購入価値）を売上高で割ることで付加価値率を計算します",
+    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「決算書」の読み方と「経営分析」のポイント",
+    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "備忘録#011｜中小企業庁統計による経営指標",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の決算書に「付加価値」という項目はありません",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業利益 ＋ 人件費 ＋ 賃借料 ＋ 租税公課 ＋ 減価償却費 ＋ 知財特許料",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "〇政府統計からオープンデータまで活用した経営判断指標の可視化",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業の決算資料でみる一人当たりの売上・粗利の目安｜ストアレコード事務局",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業の決算資料でみる一人当たりの売上・粗利の目安",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数は有価証券報告書で報告されている従業員数を用いているため、パート・アルバイトを含まない数字となっています",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に採用の意思決定の際に一人当たり売上高を意識していると人員計画の意思決定がスムーズになるとともに、3か年などの中期の経営計画も立てやすくなります",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どうしても労働生産性の指標がない中だと、目先の売上を無視してどんどん採用して固定費が重くなりがちだったり、逆に人員を増やさないと現場が疲弊してしまうのに、固定費が気になり採用ができないなど極端な選択になってしまいがちです",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CTC金融事業グループが取り組む「事業部主導」採用～タレントアクイジション戦略と実践プロセス～",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「法定雇用率を満たすため」の採用に奔走する企業も少なくない中、特例子会社や現場の最前線で問われているのは、障がい者雇用を個別の施策として捉えるのではなく、多様な人材が […]",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用・組織・労務・HR Techなど、人事担当者や経営者の皆さまの課題に寄り添った幅広いコンテンツを公開しています",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算で初めて問題に気づくのではなく、毎月の数字の動きから兆しをつかめれば、",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "賃上げや採用強化を進める場合でも、数字でバランスを確認すれば、無理のない範囲での投資判断が可能になります",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、採用強化で人件費が増えた、残業が増えて労務費が膨らんでいる、間接部門が増えている、などの原因が考えられます",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "必要に応じて、外注の活用や採用強化も選択肢になるでしょう",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「１人当たり人件費」が上がっている場合は、採用・賃上げ・残業などの要因を整理し、限界利益との釣り合いを確認することが重要です",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中小企業の人材採用戦略 〜求める人材の確保と定着率を高める仕組みづくり〜",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回モデルケースとして採用したB社は前回の「在庫回転率」で取り上げたB社と同じ会社（数字を最新のものに更新しました）、C社はB社のライバル会社として知られる会社です",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「ベンチャーエコシステムとは？」では、エコシステムを支える要素として、コラボレーション（顧客開拓・協業・人材交流・新規事業創出）と、学び合いと助け合い（勉強会・レンタル移籍・共同採用）を挙げています",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "勉強会は開発責任者層の知見共有から、ようやく現場メンバーが登壇する共有会へと広がるところですし、レンタル移籍や共同採用は、3社横断の人材活用の取り組みとして、これから手をつけます",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回取り上げている「人」が原価となるビジネスで利益を上げたければ、販売系の派遣ビジネスでも、エンジニア系のSESや受託開発・準委任のビジネスでも、営業マンを増やして新規の仕事を取って売上を上げたり、採用を増やして原価となる人を増やし売上を上げたり、高単価の仕事を選んで販売価格を上げたりすることよりもまず、働く社員の工数管理（稼働管理）を行い、最適な人員数で最適な人工を実現する上手な原価管理、すなわち「利は元にあり」を実践することが、利益を出すことに直結すると思います",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の「工数管理」の話を通してディ・ポップスグループとしてお伝えしたいことは、ビジネスは例えるなら打撃、組み技、寝技を駆使して戦う総合格闘技の様のもので、売上を追いかける営業や人増やす採用や開発する技術といったことがバラバラで成り立っているわけではなく、「工数管理」のように非常に地味なことがしっかりできていることが前提でその上に営業や採用や技術といったことを駆使することで成り立っていると言うことです",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業利益は損益計算書、従業員数は有価証券報告書の「従業員の状況」",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業利益は損益計算書、従業員数は有価証券報告書「従業員の状況」で確認できます",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "両方を割れば自分で計算可能で、決算説明会資料に直接記載する企業もあります",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上単価の低下、原材料費・人件費の上昇、新規採用による分母拡大などが代表的です",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この計算結果が大きいほど、設備投資の効率が良いことを意味します",
+    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「仕入れて売る！」という卸小売業では売上原価が外部購入価値なので、付加価値額は売上総利益と近い数字になり、結果として、付加価値率は売上総利益率（粗利益率）と近い数字となります",
+    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その結果、仕事とプライベートの両立を実現した健康で充実した幸せな人生を手にすることができるはずです",
+    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、最新鋭設備の導入により省力化を図った場合、従業員数が減った分だけ労働生産性が上がります",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "限界利益は、企業の内部分析でも使われ、例えば、部門毎や商品毎、地域毎など、それぞれに限界利益率を求めることで簡単に利益分析（収益性の明確化）をすることができ、改善すべき点を洗い出すのに便利です",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A common metric by which SaaS companies track their performance is annual recurring revenue (ARR) per employee. As was the case with the last post, the data and analysis below on ARR per employee comes from our 15th annual survey of more than 1,000 SaaS companies, which was completed in March.",
+    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The chart below shows the median ARR per employee broken down by company size. For example, the chart shows that companies with $1 million to $3 million in ARR have a median ARR per employee of $109,644.",
+    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The chart below shows the median ARR per employee broken down by company size and funding type, equity-backed or bootstrapped. For example, equity-backed companies with $5 million to $10 million in ARR have a median ARR per employee of $152,295. Meanwhile, bootstrapped companies of the same size show a median ARR per full-time equivalent (FTE) of $177,240.",
+    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, if a company earns $100,000 in revenue and has 10 full-time people, the RPE would be $10,000.",
+    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a sudden increase in RPE might look positive on the surface. But if the change stems from layoffs or high turnover, the story is very different. By digging into the “why” behind your RPE numbers, you can set thoughtful targets that evolve as your company grows.",
+    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, if a company generates $1 million in total revenue during 2022 and has 100 full-time people, the",
+    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example:",
+    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Worked Example",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example:",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.",
+    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.",
+    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.",
+    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cross-industry comparisons also have limits. An industry’s structure shapes RPE as much as management quality does, which is why our previous example of comparing a hospital to a software company on this metric tells you very little of analytical value.",
+    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use Cases",
+    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Visualization examples",
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Revenue per Employee visualization example",
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here's an example of how to visualize your Revenue per Employee data in a bar chart and compare your performance to previous periods.",
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Scroll Revenue per Employee visualization examples left",
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Scroll Revenue per Employee visualization examples right",
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果、1人当たり売上高は次の通り評価することができます",
+    "url": "https://note.com/high_city/n/n0bdd75891593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "西松屋は以下の記事にもある通り、店長1人で5店舗を管理するなど徹底したローコストオペレーションをしており、その結果が数値として表れているといえますし、逆にいえば原価率65%と商品にコストを反映しているため、それでも利益を残すためには少ない人員で回す費強グアあるともいえます",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【オンデマンド配信】 ”女性活躍”の次の一手 ～多様なリーダーが育つ職場とは～ マネジメントの変化と登用を前進させる実践事例",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【オンデマンド配信】育成・コミュニケーションの 「意図せぬすれ違い」を生むバイアス ～企業事例をご紹介～",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【オンデマンド配信】「多様な人材が活躍する」現場のつくり方 ～10万人のデータが導く実践事例～",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人事労務に携わる方は「ミスが許されない」環境ではありますが、膨大な情報量に疲弊しているケースもあるかもしれません",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "算出方法は先ほど紹介した「労働生産性の計算式と事例」を参考にしてください",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回のリモートワークやフレックスタイム制のように、ワークスタイルの自由度を高めることによって社員満足度を向上することが生産性向上につながるケースもあります",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HR NOTEメールマガジンでは、人事/HRの担当者として知っておきたい各社の取組事例やリリース情報、最新Newsから今すぐ使える実践ノウハウまで毎日配信しています",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HR NOTEメールマガジンでは、人事/HRに関する事例やサービスリリース情報、最新Newsから今すぐ使える他社実践ノウハウまで、Webサイトではお届けしきれないさまざまなお役立ち情報を配信しています",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば「売上は伸びたのに利益が増えない」「忙しさの割に余裕が感じられない」といった状況は、数字の中身が変化している可能性があります",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「1人当たり売上高」が伸びているのに「1人当たり限界利益」が伸びない場合は、「単価が低い」「値引きが増えている」「材料費・外注費などの変動費が膨らんでいる」など、利益を押し下げる要因を疑うことができます",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば「1人当たり売上高」が上がっているのに、「1人当たり限界利益」が伸びていない場合、値引きの増加、材料費・外注費の上昇、歩留まりの悪化などが起きている可能性があります",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、採用強化で人件費が増えた、残業が増えて労務費が膨らんでいる、間接部門が増えている、などの原因が考えられます",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現場がうまく回らず、機会損失が起きているケースも少なくありません",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どれか一つを極端に高めたり抑えたりするのではなく、３つのバランスを整えることが結果として利益体質の構築につながります",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DAIC2クラウドユーザー事例 「株式会社野崎住宅 様」 原価と経費を詳細に管理し限界利益率が大幅に改善",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「在庫回転率」はCFやBSに効いてくるものですが、今回取り上げる「一人当たり売上高」は結果的に数字上では営業利益つまりPLに効いてくる指標です",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "扱い商品や規模が違う会社同士は比較の結果がわかりづらくなる為、前回の「在庫回転率」の時と同様に、同じ商品を販売していて、売上規模が同程度の家電販売店をモデルケースに解説していきたいと思います",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（モデルケースの会社は架空の会社ですが、実際の会社がベースとなっております）",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回モデルケースとして採用したB社は前回の「在庫回転率」で取り上げたB社と同じ会社（数字を最新のものに更新しました）、C社はB社のライバル会社として知られる会社です",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回もわかりやすい例として一人当たり売上高を、同じ商品を販売していて、売上規模が同程度の家電販売店をモデルケースとして解説いたしましたが、同業界の競合他社とこれだけの経営効率の差は他の指標ではなかなか出ないと考えます",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回のモデルケースの様な労働集約型のビジネスだけでなく、商品やノウハウで差別化ができる資本集約型や、知識集約型のビジネスでも、従業員を雇用する限り、従業員一人当たりの効率（一人当たり売上高）から逃げることはできません",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単に人を減らすのではなく、ITツールや教育によって現場の生産性を向上させることが、結果として一人当たり売上高の改善に繋がります",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一人当たり売上高が上がる会社としての仕組みは会社によりいろいろありますが、モデルケースとした小売業の例で見れば、出店リスクの少ない売上の小さな小型店を大量に出店するのではなく、売上の大きい大型店中心の出店戦略や、他社に先駆けECに傾注する戦略、物流網に投資による入出荷の効率化、テクノロジーの導入による仕入れ部門や経理部門等の間接部門の超スリム化、そして最大のポイントは一人当たり売上高の重要性の教育が従業員になされており、常に会社と従業員が生産性を高めるための創意工夫をし続ける血の通った経営をしていることかと思います",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回も、小売業をモデルケースに一人当たり売上高のお話をさせていただきました",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この1年、僕らが着実に結果を出せているのは、この2つでした",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3社でワンストップで提案し、受けきれる体制を、グループ全体の先行事例にしていく",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アイデアランプはUI/UXとDX実装の担い手として、グループ横断の成功事例づくりを牽引していきたい",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えばAさんが月に160時間働く雇用だとすると、いま割り振られている仕事が160時間分の仕事＝1人工の仕事になっているのかを管理することです",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前者の例では、例えば8月末までの仕事をしているのに、9月以降のことは考えていない、行動していないということが起こった場合、9月から人工が浮いてしまい、売上がなくなったうえに正社員型の派遣であれば給与だけが発生することになります",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果、ものすごく儲かる仕事がなくなる、すごく稼いでいた方が独立して離職する、仕事そのものが来なくなる、というピンチが来たときに、工数管理をしていないと、誰に工数的な余力があり誰に余力がないのかがわからず、仕事を割り振れないということになります",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reconciliation example",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "TAM, SAM, and SOM: Definitions, Formulas, and Examples",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Department KPI Dashboard Examples by Function",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Markup vs Margin Calculator Explained With Real Business Examples",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Finance teams can use the metric to test hiring plans. If projected headcount growth is much faster than projected revenue growth, revenue per employee may decline. That may be acceptable, but it should be visible. Include base, upside, and downside cases in your planning spreadsheet so leadership can see the expected impact.",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
@@ -516,696 +1206,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
-   {
-    "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この計算結果が大きいほど、設備投資の効率が良いことを意味します",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「仕入れて売る！」という卸小売業では売上原価が外部購入価値なので、付加価値額は売上総利益と近い数字になり、結果として、付加価値率は売上総利益率（粗利益率）と近い数字となります",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その結果、仕事とプライベートの両立を実現した健康で充実した幸せな人生を手にすることができるはずです",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、最新鋭設備の導入により省力化を図った場合、従業員数が減った分だけ労働生産性が上がります",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "限界利益は、企業の内部分析でも使われ、例えば、部門毎や商品毎、地域毎など、それぞれに限界利益率を求めることで簡単に利益分析（収益性の明確化）をすることができ、改善すべき点を洗い出すのに便利です",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A common metric by which SaaS companies track their performance is annual recurring revenue (ARR) per employee. As was the case with the last post, the data and analysis below on ARR per employee comes from our 15th annual survey of more than 1,000 SaaS companies, which was completed in March.",
-    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The chart below shows the median ARR per employee broken down by company size. For example, the chart shows that companies with $1 million to $3 million in ARR have a median ARR per employee of $109,644.",
-    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The chart below shows the median ARR per employee broken down by company size and funding type, equity-backed or bootstrapped. For example, equity-backed companies with $5 million to $10 million in ARR have a median ARR per employee of $152,295. Meanwhile, bootstrapped companies of the same size show a median ARR per full-time equivalent (FTE) of $177,240.",
-    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, if a company earns $100,000 in revenue and has 10 full-time people, the RPE would be $10,000.",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a sudden increase in RPE might look positive on the surface. But if the change stems from layoffs or high turnover, the story is very different. By digging into the “why” behind your RPE numbers, you can set thoughtful targets that evolve as your company grows.",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, if a company generates $1 million in total revenue during 2022 and has 100 full-time people, the",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example:",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Worked Example",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example:",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cross-industry comparisons also have limits. An industry’s structure shapes RPE as much as management quality does, which is why our previous example of comparing a hospital to a software company on this metric tells you very little of analytical value.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Use Cases",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Visualization examples",
-    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue per Employee visualization example",
-    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here's an example of how to visualize your Revenue per Employee data in a bar chart and compare your performance to previous periods.",
-    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Scroll Revenue per Employee visualization examples left",
-    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Scroll Revenue per Employee visualization examples right",
-    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果、1人当たり売上高は次の通り評価することができます",
-    "url": "https://note.com/high_city/n/n0bdd75891593",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "西松屋は以下の記事にもある通り、店長1人で5店舗を管理するなど徹底したローコストオペレーションをしており、その結果が数値として表れているといえますし、逆にいえば原価率65%と商品にコストを反映しているため、それでも利益を残すためには少ない人員で回す費強グアあるともいえます",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【オンデマンド配信】 ”女性活躍”の次の一手 ～多様なリーダーが育つ職場とは～ マネジメントの変化と登用を前進させる実践事例",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【オンデマンド配信】育成・コミュニケーションの 「意図せぬすれ違い」を生むバイアス ～企業事例をご紹介～",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【オンデマンド配信】「多様な人材が活躍する」現場のつくり方 ～10万人のデータが導く実践事例～",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人事労務に携わる方は「ミスが許されない」環境ではありますが、膨大な情報量に疲弊しているケースもあるかもしれません",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "算出方法は先ほど紹介した「労働生産性の計算式と事例」を参考にしてください",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回のリモートワークやフレックスタイム制のように、ワークスタイルの自由度を高めることによって社員満足度を向上することが生産性向上につながるケースもあります",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HR NOTEメールマガジンでは、人事/HRの担当者として知っておきたい各社の取組事例やリリース情報、最新Newsから今すぐ使える実践ノウハウまで毎日配信しています",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HR NOTEメールマガジンでは、人事/HRに関する事例やサービスリリース情報、最新Newsから今すぐ使える他社実践ノウハウまで、Webサイトではお届けしきれないさまざまなお役立ち情報を配信しています",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば「売上は伸びたのに利益が増えない」「忙しさの割に余裕が感じられない」といった状況は、数字の中身が変化している可能性があります",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「1人当たり売上高」が伸びているのに「1人当たり限界利益」が伸びない場合は、「単価が低い」「値引きが増えている」「材料費・外注費などの変動費が膨らんでいる」など、利益を押し下げる要因を疑うことができます",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば「1人当たり売上高」が上がっているのに、「1人当たり限界利益」が伸びていない場合、値引きの増加、材料費・外注費の上昇、歩留まりの悪化などが起きている可能性があります",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、採用強化で人件費が増えた、残業が増えて労務費が膨らんでいる、間接部門が増えている、などの原因が考えられます",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現場がうまく回らず、機会損失が起きているケースも少なくありません",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どれか一つを極端に高めたり抑えたりするのではなく、３つのバランスを整えることが結果として利益体質の構築につながります",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "DAIC2クラウドユーザー事例 「株式会社野崎住宅 様」 原価と経費を詳細に管理し限界利益率が大幅に改善",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「在庫回転率」はCFやBSに効いてくるものですが、今回取り上げる「一人当たり売上高」は結果的に数字上では営業利益つまりPLに効いてくる指標です",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "扱い商品や規模が違う会社同士は比較の結果がわかりづらくなる為、前回の「在庫回転率」の時と同様に、同じ商品を販売していて、売上規模が同程度の家電販売店をモデルケースに解説していきたいと思います",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（モデルケースの会社は架空の会社ですが、実際の会社がベースとなっております）",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回モデルケースとして採用したB社は前回の「在庫回転率」で取り上げたB社と同じ会社（数字を最新のものに更新しました）、C社はB社のライバル会社として知られる会社です",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回もわかりやすい例として一人当たり売上高を、同じ商品を販売していて、売上規模が同程度の家電販売店をモデルケースとして解説いたしましたが、同業界の競合他社とこれだけの経営効率の差は他の指標ではなかなか出ないと考えます",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回のモデルケースの様な労働集約型のビジネスだけでなく、商品やノウハウで差別化ができる資本集約型や、知識集約型のビジネスでも、従業員を雇用する限り、従業員一人当たりの効率（一人当たり売上高）から逃げることはできません",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単に人を減らすのではなく、ITツールや教育によって現場の生産性を向上させることが、結果として一人当たり売上高の改善に繋がります",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一人当たり売上高が上がる会社としての仕組みは会社によりいろいろありますが、モデルケースとした小売業の例で見れば、出店リスクの少ない売上の小さな小型店を大量に出店するのではなく、売上の大きい大型店中心の出店戦略や、他社に先駆けECに傾注する戦略、物流網に投資による入出荷の効率化、テクノロジーの導入による仕入れ部門や経理部門等の間接部門の超スリム化、そして最大のポイントは一人当たり売上高の重要性の教育が従業員になされており、常に会社と従業員が生産性を高めるための創意工夫をし続ける血の通った経営をしていることかと思います",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回も、小売業をモデルケースに一人当たり売上高のお話をさせていただきました",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この1年、僕らが着実に結果を出せているのは、この2つでした",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3社でワンストップで提案し、受けきれる体制を、グループ全体の先行事例にしていく",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アイデアランプはUI/UXとDX実装の担い手として、グループ横断の成功事例づくりを牽引していきたい",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えばAさんが月に160時間働く雇用だとすると、いま割り振られている仕事が160時間分の仕事＝1人工の仕事になっているのかを管理することです",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前者の例では、例えば8月末までの仕事をしているのに、9月以降のことは考えていない、行動していないということが起こった場合、9月から人工が浮いてしまい、売上がなくなったうえに正社員型の派遣であれば給与だけが発生することになります",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その結果、ものすごく儲かる仕事がなくなる、すごく稼いでいた方が独立して離職する、仕事そのものが来なくなる、というピンチが来たときに、工数管理をしていないと、誰に工数的な余力があり誰に余力がないのかがわからず、仕事を割り振れないということになります",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Reconciliation example",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "TAM, SAM, and SOM: Definitions, Formulas, and Examples",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Department KPI Dashboard Examples by Function",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Markup vs Margin Calculator Explained With Real Business Examples",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Finance teams can use the metric to test hiring plans. If projected headcount growth is much faster than projected revenue growth, revenue per employee may decline. That may be acceptable, but it should be visible. Include base, upside, and downside cases in your planning spreadsheet so leadership can see the expected impact.",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Common Mistakes",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "間違いだらけのリスク対応やいつまでもなくならない悪徳企業に対する対策について一言申し上げたく思います",
-    "url": "https://note.com/high_city/n/n0bdd75891593",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【オンデマンド配信】育成・コミュニケーションの 「意図せぬすれ違い」を生むバイアス ～企業事例をご紹介～",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【百名山から学ぶベンチャー経営論】第六部「失敗から学び、成長を続ける」",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本連載では、その挑戦の中で経験した成功や失敗、そこからの学びを、ベンチャー経営や組織運営になぞらえながら考察しています",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この一年間、毎回の登山を振り返り、失敗から学び、鍛錬を繰り返しながら、挑戦できる山のレベルを徐々に上げてきました",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第六部では、失敗を認識し、そこから学び、次の挑戦につなげていくことが成長の源になる、ということについて考えてみます",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "16.一座登る度に振り返りを行う～失敗しないことよりも、失敗から学ぶことが重要～",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、同じことを繰り返さないためには、どこに注意すべきかを考える",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "百名山への挑戦を始める前は山の素人だった私ですが、こうした振り返りによって数々の失敗を認識し、そこから多くのことを学んできました",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・岩場の下山では足首捻りを起こしやすいので、特に注意する・皮の剥がれた木の根は、濡れると滑りやすい・長距離歩行では、空腹を感じる前にこまめにカロリーを補給する・けいれん予防には水分と塩分のこまめな補給が有効だった・捻挫、膝痛、マメの予防のため、各箇所にテーピングを活用する・登山前日の睡眠の質は、疲労度合いに大きく影響する",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "だからこそ、実際の失敗から学ぶ姿勢が、ベンチャー企業には欠かせません",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗しないように無難な道を選ぶのではなく、失敗を恐れず挑戦し、振り返りによって経験値を高めていく",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "登山でもビジネスでも、重要なのは失敗しないことではなく、失敗から何を学び、それを次にどう活かすかです",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "経験を振り返り、失敗の原因を言語化し、次の行動を変えて初めて、その経験は「学び」に変わるのです",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、自分が取り組む事業領域に関する成功・失敗の事例研究をしたり、類似企業や競合企業について、公開情報をもとに深く分析したりといった勉強も怠ってはいけません",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日頃から幅広い知識を蓄え、他社の成功や失敗を疑似体験し、自分ならどう判断するかを考えておく",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もちろん、場数を踏めば失敗しなくなるわけではありません",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では計算式、業種別目安、労働分配率との関係、見るときの注意点を解説します",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1人当たり営業利益を見るときの注意点",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "混在させると数値の意味が変わるため要注意です",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "「作って売る！」という製造業は、決算書から外注加工費、材料費、運賃などの外部購入価値を集計したのち、付加価値額（売上高－外部購入価値）を売上高で割ることで付加価値率を計算します",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「決算書」の読み方と「経営分析」のポイント",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "備忘録#011｜中小企業庁統計による経営指標",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の決算書に「付加価値」という項目はありません",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業利益 ＋ 人件費 ＋ 賃借料 ＋ 租税公課 ＋ 減価償却費 ＋ 知財特許料",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〇政府統計からオープンデータまで活用した経営判断指標の可視化",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業の決算資料でみる一人当たりの売上・粗利の目安｜ストアレコード事務局",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業の決算資料でみる一人当たりの売上・粗利の目安",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数は有価証券報告書で報告されている従業員数を用いているため、パート・アルバイトを含まない数字となっています",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に採用の意思決定の際に一人当たり売上高を意識していると人員計画の意思決定がスムーズになるとともに、3か年などの中期の経営計画も立てやすくなります",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どうしても労働生産性の指標がない中だと、目先の売上を無視してどんどん採用して固定費が重くなりがちだったり、逆に人員を増やさないと現場が疲弊してしまうのに、固定費が気になり採用ができないなど極端な選択になってしまいがちです",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CTC金融事業グループが取り組む「事業部主導」採用～タレントアクイジション戦略と実践プロセス～",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「法定雇用率を満たすため」の採用に奔走する企業も少なくない中、特例子会社や現場の最前線で問われているのは、障がい者雇用を個別の施策として捉えるのではなく、多様な人材が […]",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用・組織・労務・HR Techなど、人事担当者や経営者の皆さまの課題に寄り添った幅広いコンテンツを公開しています",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算で初めて問題に気づくのではなく、毎月の数字の動きから兆しをつかめれば、",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "賃上げや採用強化を進める場合でも、数字でバランスを確認すれば、無理のない範囲での投資判断が可能になります",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、採用強化で人件費が増えた、残業が増えて労務費が膨らんでいる、間接部門が増えている、などの原因が考えられます",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "必要に応じて、外注の活用や採用強化も選択肢になるでしょう",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「１人当たり人件費」が上がっている場合は、採用・賃上げ・残業などの要因を整理し、限界利益との釣り合いを確認することが重要です",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中小企業の人材採用戦略 〜求める人材の確保と定着率を高める仕組みづくり〜",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回モデルケースとして採用したB社は前回の「在庫回転率」で取り上げたB社と同じ会社（数字を最新のものに更新しました）、C社はB社のライバル会社として知られる会社です",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「ベンチャーエコシステムとは？」では、エコシステムを支える要素として、コラボレーション（顧客開拓・協業・人材交流・新規事業創出）と、学び合いと助け合い（勉強会・レンタル移籍・共同採用）を挙げています",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "勉強会は開発責任者層の知見共有から、ようやく現場メンバーが登壇する共有会へと広がるところですし、レンタル移籍や共同採用は、3社横断の人材活用の取り組みとして、これから手をつけます",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回取り上げている「人」が原価となるビジネスで利益を上げたければ、販売系の派遣ビジネスでも、エンジニア系のSESや受託開発・準委任のビジネスでも、営業マンを増やして新規の仕事を取って売上を上げたり、採用を増やして原価となる人を増やし売上を上げたり、高単価の仕事を選んで販売価格を上げたりすることよりもまず、働く社員の工数管理（稼働管理）を行い、最適な人員数で最適な人工を実現する上手な原価管理、すなわち「利は元にあり」を実践することが、利益を出すことに直結すると思います",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の「工数管理」の話を通してディ・ポップスグループとしてお伝えしたいことは、ビジネスは例えるなら打撃、組み技、寝技を駆使して戦う総合格闘技の様のもので、売上を追いかける営業や人増やす採用や開発する技術といったことがバラバラで成り立っているわけではなく、「工数管理」のように非常に地味なことがしっかりできていることが前提でその上に営業や採用や技術といったことを駆使することで成り立っていると言うことです",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業利益は損益計算書、従業員数は有価証券報告書の「従業員の状況」",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業利益は損益計算書、従業員数は有価証券報告書「従業員の状況」で確認できます",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "両方を割れば自分で計算可能で、決算説明会資料に直接記載する企業もあります",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上単価の低下、原材料費・人件費の上昇、新規採用による分母拡大などが代表的です",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います",
@@ -1243,34 +1243,9 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "url": "https://note.com/gyokai_zukan/n/nf2aedab7c6f9",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kanrisya_note/n/n21ec9ccea6e0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kanri_prp/n/ne92c20cd0570",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/aminderyota/n/n7fcc582f23e7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/gangaraganchan/n/ne1db0ada5e58",
-    "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://note.com/cloud_hr_bank/n/n256b095a5956",
@@ -1278,72 +1253,67 @@
     "method": "http"
    },
    {
-    "url": "https://corp.miidas.jp/assessment/11118/",
+    "url": "https://note.com/ai_funtouki/n/n5fe9657894d3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "url": "https://note.com/kens_reading1/n/n17626df2cb9d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
+    "url": "https://note.com/markeducation/n/n90132f936d08",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.motivation-cloud.com/hr2048/c489",
+    "url": "https://note.com/dpopsgroup/n/n6ead1340b46d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://biz.teachme.jp/blog/labor-productivity/",
+    "url": "https://notepm.jp/blog/24039",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.layers.co.jp/solution/action/",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://canon.jp/biz/trend/bpo-27",
+    "url": "https://shinobi.hatenadiary.com/entry/2026/05/01/050506",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tayori.com/blog/labor-productivity/",
+    "url": "https://retailguide.tokubai.co.jp/knowledge/37159/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "url": "https://hitorieki.jp/tools/hito-productivity/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
+    "url": "https://keisan.navilly.com/tools/productivity.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
+    "url": "https://ta5k.com/tools/industry/sales-per-employee",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://takakuka.jp/column/organization/okok.html",
+    "url": "https://salesnow.jp/insights/score/revenue-per-employee/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.r-agent.com/business/knowhow/article/9555/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.lacras.co.jp/column/labor-productivity-per-hour/",
+    "url": "https://media.shouin.io/labor-productivity-formula",
     "status": "ok",
     "method": "http"
    },
@@ -1353,42 +1323,32 @@
     "method": "browser"
    },
    {
-    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://salesnow.jp/insights/score/revenue-per-employee/",
-    "status": "http_404",
-    "method": "http"
-   },
-   {
-    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.benchmarkit.ai/saas-talk-1/revenue-per-employee",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tractian.com/en/glossary/revenue-per-employee",
+    "url": "https://www.companysights.com/resources/revenue-per-employee-a-key-benchmarking-metric-for-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
     "status": "ok",
     "method": "http"
    }
@@ -1398,275 +1358,150 @@
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 site:note.com",
    "results": [
-    "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "https://note.com/tama_salon/n/nffe68cf5979c",
-    "https://note.com/kanrisya_note/n/n21ec9ccea6e0",
-    "https://note.com/kanri_prp/n/ne92c20cd0570",
-    "https://note.com/aminderyota/n/n7fcc582f23e7",
-    "https://note.com/gangaraganchan/n/ne1db0ada5e58",
-    "https://note.com/aminderyota/n/n1ebce467d362",
-    "https://note.com/cloud_hr_bank/n/n2ebf1097378e",
+    "https://note.com/gyokai_zukan/n/nf2aedab7c6f9",
+    "https://note.com/cloud_hr_bank/n/n256b095a5956",
+    "https://note.com/ai_funtouki/n/n5fe9657894d3",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/markeducation/n/n90132f936d08",
     "https://note.com/dpopsgroup/n/n6ead1340b46d",
-    "https://note.com/rokkakuakio/n/n662cca1bfe79"
+    "https://note.com/ogawa_tech/n/n50af1e1e8268"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 note",
    "results": [
-    "https://note.com/cloud_hr_bank/n/n256b095a5956",
-    "https://corp.miidas.jp/assessment/11118/",
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "https://www.motivation-cloud.com/hr2048/c489",
-    "https://biz.teachme.jp/blog/labor-productivity/",
-    "https://www.persol-bd.co.jp/service/product/s-miteras/column/human_resources_productivity/",
-    "https://zaimani.com/financial-indicators/labor-productivity/"
+    "https://notepm.jp/blog/24039",
+    "https://note.com/dpopsgroup/n/n6ead1340b46d",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "https://shinobi.hatenadiary.com/entry/2026/05/01/050506",
+    "https://retailguide.tokubai.co.jp/knowledge/37159/",
+    "https://hitorieki.jp/tools/hito-productivity/"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 やり方",
    "results": [
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.layers.co.jp/solution/action/",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://canon.jp/biz/trend/bpo-27",
-    "https://tayori.com/blog/labor-productivity/",
-    "https://www.jpc-net.jp/research/list/comparison.html",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
-    "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
-    "https://www.motivation-cloud.com/hr2048/c489",
-    "https://keisan.navilly.com/tools/productivity.html"
+    "https://keisan.navilly.com/tools/productivity.html",
+    "https://ta5k.com/tools/industry/sales-per-employee",
+    "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "https://hitorieki.jp/tools/hito-productivity/",
+    "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "https://media.shouin.io/labor-productivity-formula",
+    "https://retailguide.tokubai.co.jp/knowledge/37159/"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 事例",
    "results": [
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.motivation-cloud.com/hr2048/c489",
-    "https://www.layers.co.jp/solution/action/",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://canon.jp/biz/trend/bpo-27",
-    "https://takakuka.jp/column/organization/okok.html",
-    "https://www.r-agent.com/business/knowhow/article/9555/",
-    "https://www.jpc-net.jp/research/list/comparison.html",
-    "https://www.lacras.co.jp/column/labor-productivity-per-hour/",
-    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "https://hitorieki.jp/tools/hito-productivity/",
+    "https://media.shouin.io/labor-productivity-formula",
+    "https://retailguide.tokubai.co.jp/knowledge/37159/",
+    "https://shinobi.hatenadiary.com/entry/2026/05/01/050506"
    ]
   },
   {
    "query": "revenue per employee benchmark analysis",
    "results": [
-    "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "https://www.hibob.com/financial-metrics/revenue-per-employee/",
     "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
-    "https://www.benchmarkit.ai/saas-talk-1/revenue-per-employee",
-    "https://tractian.com/en/glossary/revenue-per-employee",
-    "https://www.metrichq.org/finance/revenue-per-employee/",
-    "https://www.personio.com/hr-lexicon/revenue-per-employee/",
-    "https://www.unicornlabs.ca/blog/how-to-use-revenue-per-employee",
-    "https://www.hrbench.com/resource/learn/revenue-per-employee"
+    "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "https://www.companysights.com/resources/revenue-per-employee-a-key-benchmarking-metric-for-businesses",
+    "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "https://www.hyperbots.com/glossary/revenue-per-employee-benchmark"
    ]
   },
   {
    "query": "site:note.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://note.com/tommy610/n/nd90eaf5baffd",
-    "https://note.com/ote_walk/n/n8c5ea5503c8f",
-    "https://note.com/masayuki_arai/n/n731a884f400f",
-    "https://note.com/rinchan_15/n/n80fcd8eaceca",
-    "https://note.com/ak_hikiyose/n/nf08aa578d306",
-    "https://note.com/decem_u/n/n836b72420237",
-    "https://note.com/iqoys/n/n1b2bd28bcf9a",
-    "https://note.com/newbizcreate_777/n/ncdb09e84038b",
-    "https://note.com/cheeky_crab838/n/n8523064a11fc",
-    "https://note.com/kc_b_team/n/n63683b76ccc1"
+    "https://note.com/gyokai_zukan/n/nf2aedab7c6f9",
+    "https://note.com/cloud_hr_bank/n/n256b095a5956",
+    "https://note.com/dpopsgroup/n/n6ead1340b46d",
+    "https://note.com/ai_funtouki/n/n5fe9657894d3",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/kanri_prp/n/ne92c20cd0570",
+    "https://note.com/markeducation/n/n90132f936d08"
    ]
   },
   {
    "query": "site:x.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://x.com/coreline_japan/status/2022208498503942186",
-    "https://x.com/i/article/2095696677118333332",
-    "https://x.com/zakiryo1533/article/2065096178136682867",
-    "https://x.com/KagawaTomo/status/2110523688902873223",
-    "https://x.com/luigi_jpn/article/2094562625690755302",
-    "https://x.com/hrtech_/article/2074876792482205841",
-    "https://x.com/unikoukokun/status/2039755013048954960",
-    "https://x.com/unikoukokun/status/2038507100599701783",
-    "https://x.com/luigi_jpn/article/2058327743977369647",
-    "https://x.com/KagawaTomo/status/2117017787034112208"
+    "https://x.com/nikkei_business/status/2110099584727109886",
+    "https://x.com/nikkeinagoya/status/2110132723436171637",
+    "https://x.com/ax_supporter/status/2112462690077512058",
+    "https://x.com/OgawaSeisakusho/status/2103809193270825107",
+    "https://x.com/OgawaSeisakusho/status/2035840562528768337",
+    "https://x.com/jpstocks_love/status/2079388308074017044",
+    "https://x.com/edinetdb/status/2079379240680915412"
    ]
   },
   {
    "query": "site:linkedin.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://www.linkedin.com/showcase/realpacking-japan/",
-    "https://jp.linkedin.com/in/%E4%BA%AE%E4%BB%8B-%E9%95%B7%E4%B9%85-225205235",
-    "https://jp.linkedin.com/in/isc-ceo",
-    "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
-    "https://jp.linkedin.com/in/hidetoshitakano",
-    "https://jp.linkedin.com/in/dmaeda-2147ba11a",
-    "https://za.linkedin.com/in/coach-koichi/ja",
-    "https://jp.linkedin.com/in/%E6%85%8E%E5%A4%AA%E9%83%8E%F0%9F%A7%9A-%E5%A5%88%E8%89%AF-1a4357168",
-    "https://jp.linkedin.com/posts/%E6%9A%A2%E5%8F%B8-%E7%B2%95%E8%B0%B7-9063369a_%E9%87%8E%E6%9D%91%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E5%B9%B4%E5%8F%8E%E3%81%AF%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%ABse%E3%81%AE%E5%BD%B9%E8%81%B7%E5%88%A5%E7%B5%A6%E4%B8%8E%E3%81%A8%E5%B9%B4%E9%BD%A2%E5%88%A5%E3%81%AE%E5%B9%B4%E5%8F%8E%E6%8E%A8%E7%A7%BB%E9%AB%98%E7%B5%A6%E3%81%AE%E7%90%86%E7%94%B1%E3%82%92-activity-7091951755260825600-BUUJ",
-    "https://jp.linkedin.com/in/ryotaroyoshikura"
+    "https://jp.linkedin.com/posts/koyo-katsuki-23032016b_セリア従業員1人あたり売上高首位100均維持の秘訣は小さな本社-日本経済新聞-activity-7516387911714480128-gjCC",
+    "https://jp.linkedin.com/posts/祐二-古澤-8787022a5_1人あたり売上高12億円-anthropicの売上と従業員数から計算してみた-activity-7435255695031218176-YrwR",
+    "https://jp.linkedin.com/pulse/why-revenue-per-employee-number-tells-buyer-how-far-your-bell-mba-jsygc?tl=ja",
+    "https://pe.linkedin.com/posts/makoto-hattori_従業員1人あたりarr通称apearr-per-employee-ape-activity-7211192351493373953-zPSW",
+    "https://www.linkedin.com/posts/michio-okazaki-911495153_10年連続減少のmr1人あたり生産性は16倍に相次ぐリストラ削減どこまで-activity-7232159842004582404-KG0x",
+    "https://www.linkedin.com/posts/masayoshi-ogawa1980_日本の労働者の生産性は高い労働者1人あたりgdp-activity-7164734520414392320-1ei6",
+    "https://jp.linkedin.com/pulse/what-revenue-per-employee-how-can-i-use-grow-my-hancott-cgma-gysve?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://www.facebook.com/kiichiro.minami/posts/%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B%E3%81%AA%E3%82%89%E5%AE%9F%E9%9A%9B%E3%81%AE%E5%95%86%E5%A3%B2%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC%E3%81%A7300%E5%86%86%E3%81%A7%E5%A3%B2%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%82%A7%E3%82%B3%E8%A3%BD%E3%81%AE%E3%83%9C%E3%83%98%E3%83%9F%E3%82%A2%E3%83%B3%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%923000%E5%86%86%E3%81%A7%E5%A3%B2%E3%82%8B500%E5%86%86%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%92%E5%A3%B2%E3%82%8B%E3%82%88%E3%82%8A50/39348168478160668/",
-    "https://www.facebook.com/bioforestation/",
-    "https://www.facebook.com/100064515737150/?locale=ka_GE",
-    "https://www.facebook.com/VUC2021/",
-    "https://www.facebook.com/yosuke.naganawa/",
-    "https://www.facebook.com/61554216255590/posts/%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%81%8C%E6%97%A5%E6%9C%AC%E4%B8%80%E9%AB%98%E3%81%84%E3%81%AE%E3%81%AF%E6%9D%B1%E4%BA%AC%E3%81%A7%E3%82%82%E5%A4%A7%E9%98%AA%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%A8%E5%9B%BD47%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E3%81%AE%E5%B9%B4%E9%96%93%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B01%E4%BD%8D%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%AE215694%E5%86%86%E6%9C%80%E4%B8%8B%E4%BD%8D%E3%81%AF%E5%85%B5%E5%BA%AB%E7%9C%8C%E3%81%AE115320%E5%86%86%E3%81%9D%E3%81%AE%E5%B7%AE%E5%B9%B4%E9%96%93%E3%81%AA%E3%82%93%E3%81%A8%E7%B4%84/122276952386140541/",
     "https://www.facebook.com/keieisyajyuku/posts/あなたの会社の社員1人あたりの売上高は社員1人あたり年2000万円の売上を上げられる事業をした方がいいってアドバイスしていたコンサルタントがいたもう少し経営を勉/4933308890067726/",
     "https://www.facebook.com/fudousan271/posts/日本一生産性の高い管理会社のつくりかた社員1人あたり生産性2500万円の超高収益企業の成功事例大公開2020年4月に緊急事態宣言が発令された直後10年遅れている/5223540794384852/",
     "https://www.facebook.com/cuoreplanning.co.jp/photos/今期の方針生産性向上-方針例1-時間タイム-成果方針1人あたりの施術時間を最適化し回転率と満足度を両立する-施術プロセスの標準化シャンプーやカラーの手順を統一-/1269625554965574/",
-    "https://www.facebook.com/management.consulting.jp/posts/2024078217612875/"
+    "https://www.facebook.com/management.consulting.jp/posts/2024078217612875/",
+    "https://www.facebook.com/MercerJapan/posts/日本生産性本部より2023年末に公表された労働生産性の国際比較2023によると日本の国民1人あたりの労働生産性はoecd加盟38ヵ国中31位と最も低い順位だまた/1030588799069400/",
+    "https://www.facebook.com/JMTA.FB/posts/992200552710139/",
+    "https://www.facebook.com/Rimstoneco/videos/売上はあるのになぜかお金が残らないそんな悩みを持つオーナー様スタッフ一人ひとりの労働生産性を計算したことはありますか実は売上1万円のシャンプーカットでも誰がどの/1915756339033431/"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 note 社長",
    "results": [
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://note.com/cloud_hr_bank/n/n256b095a5956",
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.layers.co.jp/solution/action/",
-    "https://note.com/gangaraganchan/n/ne1db0ada5e58",
-    "https://biz.moneyforward.com/erp/basic/2625/",
-    "https://corp.miidas.jp/assessment/11118/",
-    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
-    "https://tayori.com/blog/labor-productivity/"
+    "https://notepm.jp/blog/24039",
+    "https://note.com/markeducation/n/n90132f936d08",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "https://hitorieki.jp/tools/hito-productivity/",
+    "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "https://retailguide.tokubai.co.jp/knowledge/37159/"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 X 投稿",
    "results": [
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://www.layers.co.jp/solution/action/",
-    "https://saireco.jp/hr-system-nav/1096/",
-    "https://tayori.com/blog/labor-productivity/",
-    "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
-    "https://www.jpc-net.jp/research/list/comparison.html",
-    "https://officedock.jp/blog/labor-productivity-formula/",
-    "https://takakuka.jp/column/organization/okok.html",
-    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "https://ta5k.com/tools/industry/sales-per-employee",
+    "https://hitorieki.jp/tools/hito-productivity/",
+    "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "https://shinobi.hatenadiary.com/entry/2026/05/01/050506",
+    "https://retailguide.tokubai.co.jp/knowledge/37159/"
    ]
   },
   {
    "query": "revenue per employee benchmark analysis site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/what-revenue-per-employee-how-can-i-use-grow-my-hancott-cgma-gysve",
-    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
-    "https://www.linkedin.com/pulse/how-healthy-your-pr-firm-understanding-revenue-per-chuck-tanowitz",
-    "https://www.linkedin.com/posts/ivanlandabaso_anthropic-generates-56m-revenue-per-employee-activity-7430865110384021504-b42v",
-    "https://www.linkedin.com/pulse/global-cost-per-employee-benchmarks-delivery-models-ali-katkhada-fbmrf",
-    "https://www.linkedin.com/pulse/arr-per-employee-false-metric-ai-boom-nitish-shrivastava-dbonc",
-    "https://www.linkedin.com/posts/indmoney_automobile-business-productivity-activity-7474364957133017088-5g31",
-    "https://www.linkedin.com/posts/alvinfsc_ai-companies-are-rewriting-the-economics-activity-7506894988014862336-aGAM",
-    "https://www.linkedin.com/pulse/arr-per-employee-efficiency-metric-randy-wootton-vxlcc",
-    "https://www.linkedin.com/pulse/revenue-per-employee-benchmark-what-scaling-ceos-missing-oper-hand-gmuec"
+    "https://www.linkedin.com/advice/3/what-best-practices-benchmarking-rpe-against-your",
+    "https://www.linkedin.com/pulse/revenue-per-employee-benchmark-what-scaling-ceos-missing-oper-hand-gmuec",
+    "https://pe.linkedin.com/advice/3/how-do-you-benchmark-compare-your-revenue-performance",
+    "https://pe.linkedin.com/pulse/how-benchmark-your-insurance-agencys-success-guide-bill-rd2gc",
+    "https://br.linkedin.com/pulse/use-hr-metrics-track-improve-your-performance-2025-mcadams-fcipd-qgese?tl=pt",
+    "https://rs.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-diligent-4478676655",
+    "https://in.linkedin.com/in/sonu-pandey-42560355"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "「付加価値生産性」（１人当たり付加価値額）を高めるための方策は、「設備集約型企業」であるか「知識集約型企業」であるかによって着眼点が異なります",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "設備集約型企業は省力化投資で付加価値生産性を高めることを考えます",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "知識集約型の会社が付加価値生産性を高めるには、価値を生み出せる人材が多く働いているかどうかがポイントとなります",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このような知識集約型の会社では、従業員全員が「１人当たり」という視点で会社の数字を考える習慣を定着させることが大切です",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "１人当たり売上高を大きくする方法は、１人当たり労働時間を延ばすか、あるいは、１時間当たり売上高を増やすかのいずれかです",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Calculate Revenue Per Employee",
-    "url": "https://tractian.com/en/glossary/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Proactive maintenance eliminates root causes of equipment failure before symptoms appear. Learn core techniques, how it compares to preventive and predictive strategies, and how to implement it.",
-    "url": "https://tractian.com/en/glossary/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Pressure testing pressurises a vessel, pipe, or system above operating pressure to verify structural integrity and detect leaks. Covers hydrostatic, pneumatic, and leak test methods.",
-    "url": "https://tractian.com/en/glossary/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Process reliability is the probability that a production process performs its intended function consistently without interruption. Learn key metrics, improvement methods, and how it differs from asset reliability.",
-    "url": "https://tractian.com/en/glossary/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "この計算結果が大きいほど、設備投資の効率が良いことを意味します",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「仕入れて売る！」という卸小売業では売上原価が外部購入価値なので、付加価値額は売上総利益と近い数字になり、結果として、付加価値率は売上総利益率（粗利益率）と近い数字となります",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その結果、仕事とプライベートの両立を実現した健康で充実した幸せな人生を手にすることができるはずです",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "「作って売る！」という製造業は、決算書から外注加工費、材料費、運賃などの外部購入価値を集計したのち、付加価値額（売上高－外部購入価値）を売上高で割ることで付加価値率を計算します",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「決算書」の読み方と「経営分析」のポイント",
-    "url": "https://note.com/tama_salon/n/nffe68cf5979c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ]
- },
- "runs": 16,
+ "new_this_run": {},
+ "runs": 17,
  "first_researched_at": "2026-11-05T00:00:25.623714+00:00"
 }

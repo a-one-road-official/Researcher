@@ -8,779 +8,87 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-06T22:02:37.261495+00:00",
+ "researched_at": "2026-11-07T02:17:13.492560+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由｜やましゃん@IR就活",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが本当に役立つのは、有価証券報告書を読ませて整理させるときだ",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "100ページの有価証券報告書を人間が読むより、AIに要約させたほうが速い",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかも、AIが学習したデータは過去のものなので、最新の決算が反映されていないことがある",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "有価証券報告書・決算短信・決算説明資料のPDF",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDFをアップロードできるAIサービスなら、そのまま添付する",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが出した数字は、必ず元のPDFで該当箇所を確認する",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "添付した有価証券報告書から、就活生が企業研究で使う情報を抽出してください",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "添付した3社の決算短信から、売上高・営業利益率・自己資本比率を抽出し、同じ形式で並べてください",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各社の決算期が異なる場合は、その旨を明記してください",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "添付した決算説明資料から、中期経営計画の目標数値をすべて抜き出し、直近実績と並べてギャップを算出してください",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「最新の決算は」と聞いても、実際には数か月〜数年前の情報が返ってくることがある",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：決算数値は必ず自分でEDINETまたは企業IRページから取得する",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：AIの文章は特有の平板さがあり、読み慣れた採用担当者は気づく",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "NotebookLMで決算資料を読み解く！財務諸表分析の新手法｜Re-BIRTH株式会社",
-    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "NotebookLMで決算資料を読み解く！財務諸表分析の新手法",
-    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "現代のビジネス環境において、決算資料の分析は企業の投資判断や事業戦略の策定に欠かせない重要な業務です",
-    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初学者でも出来る『５つのSTEPで読み解く有価証券報告書』",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そもそも『有価証券報告書』とは？",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年1回（通常は決算後3ヶ月以内）",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際の『有価証券報告書』を手元に用意して、読みながら実践するのがいいです！",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まだ準備できてない人は、『（会社名）_有価証券報告書』で探してみてください！",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は『有価証券報告書（有報）』を読めるようになりたい人が『読めた！』となることを目的とし、５つのSTEPで『読めるように』解説します",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書の準備はできていますか？",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "財務諸表を読むだけであれば、このSTEPはいらないですが、今回の目的は『有価証券報告書』を読めるようになることです",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「注記まで読める人」は、決算書読解の中上級者です",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この５つの質問に回答出来たら、『有価証券報告書を読めた』と区切りをつけましょう！",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのためにも出来る限り多くの有価証券報告書に触れ、",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また前述で記載しましたが、有価証券報告書は",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書を読み解くことはとても有益なのです",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【プロンプト付き】決算書が読めない営業は、提案の半分を捨てているーAI活用読解術｜藤井翔太｜11月6日『営業の未来地図（講談社/日刊現代）』発売",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【プロンプト付き】決算書が読めない営業は、提案の半分を捨てているーAI活用読解術",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「決算書、読めますか？」に、正直に答えられますか？",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なぜ営業が決算書を読むべきなのか",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書とは何か",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算書の基本ー3つの表を、3つの質問に翻訳する",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「その会社の決算書、見た？」",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書という分厚い書類を開いても、どこから読めばいいのか分からず、結局、表紙とサマリーだけ眺めて閉じてしまう",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算書の読み方は、多くの営業パーソンが、体系的に教わらないまま現場に出されている領域です",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、決算書を読めるかどうかで、提案の質は大きく変わります",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、有価証券報告書と決算書を、",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず、なぜ営業が決算書を読む必要があるのかを、整理しておきます",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "逆に、決算書を読まずに商談に臨むと、提案が一般論に終始しがちです",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決裁者は、多くの場合、決算書の数字で会社を見ています",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算書には、その会社が今どんな状況にあるかが、数字として表れています",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書の見方【就活生向け】——人事が説明会で話さない5項目と、その探し方｜やましゃん@IR就活",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書の見方【就活生向け】——人事が説明会で話さない5項目と、その探し方",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "※本記事で例示した数値は、各社が公表した有価証券報告書(2026年3月期・一部2025年3月期)の記載に基づきます(2026年7月執筆)",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "■この記事の読み方 「有価証券報告書を見ろと言われたけど、100ページ以上あってどこを読めばいいかわからない」という人に向けて書いた",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業研究のやり方を調べると、たいてい「有価証券報告書を読みましょう」と書いてある",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "100ページを超えるPDFで、専門用語が並び、どこを読めばいいのか一切書いていない",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "だが、有価証券報告書には、就活サイトにも会社説明会にも出てこない情報が載っている",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業が採用のために作った資料とは、情報の質がまったく違う",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書(通称「有報」)は、上場企業が年に1度、金融庁に提出する義務がある報告書だ",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算から3か月以内に提出されるため、3月決算の会社なら6月頃に最新版が出る",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. 有価証券報告書の探し方——どこで手に入るか",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "書類種別で「有価証券報告書」を選べば一覧が出る",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "多くの企業は自社サイトのIRページにもPDFを置いている",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「IR情報」「投資家情報」「株主・投資家の皆様へ」といったメニューから「IRライブラリ」「有価証券報告書」を探す",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社によっては決算説明資料も同じ場所にあるので、まとめて確認できるこちらのほうが効率的なこともある",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『有価証券報告書で読み解く 決算書の「超」速読術』川口宏之｜本のコンパス//ビジネスと自己成長のための読書ガイド",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『有価証券報告書で読み解く 決算書の「超」速読術』川口宏之",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『有価証券報告書で読み解く 決算書の「超」速読術』は、決算書の読み解き方を初歩から徹底的に学べる実用書です",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "著者である川口宏之さんは、公認会計士として監査法人、証券会社、ベンチャー企業コンサルティング会社で培った幅広い経験を活かし、有価証券報告書の重要性と、それを効率よく理解する方法を解説しています",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この本を読めば、一次情報を自分で読み解く力が身につき、投資や経営判断に活用できるようになります",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. 決算書を読むことの意義",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「決算書」と聞くと、数字が多くて難しそうという印象を抱く人が多いですが、著者はこの認識を変えるために本書を書きました",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に、アナリストや記者のレポートに頼るのではなく、一次情報である有価証券報告書を直接読むことの重要性を説いています",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、企業の本当の状態を知るためには一次情報が不可欠です",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. 有価証券報告書とは？",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書は、企業が1年に1回開示する書類で、決算書を含む詳細な情報が記載されています",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算短信よりも内容が充実しているものの速報性が低いため、四半期ごとの決算短信と併せて読むことで、企業の状況を効率的に把握できます",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『有価証券報告書で読み解く 決算書の「超」速読術』は、初心者から上級者まで幅広い層に役立つ一冊です",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "著者の川口宏之さんは、難解に思える決算書を、実践的かつ効率的に読み解く方法を丁寧に解説しており、特に実例を交えた説明が非常にわかりやすいです",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初めて決算書に挑戦する方や、スキルをさらに深めたい方におすすめです",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書とは、上場企業が金融商品取引法に基づいて、年に一度、開示を義務付けられている書類です",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算短信よりも詳細で、事業のリスク、従業員の状況、役員報酬、大株主の状況まで含まれます",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本株の有価証券報告書の読み方｜初心者向けの本4選と個別株・注記の見方 | Nexforge",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本株の有価証券報告書の読み方｜初心者向けの本4選と個別株・注記の見方",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本株の個別株を検討するとき、有価証券報告書は会社の事業や財務を確かめる一次資料です",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書で読み解く 決算書の「超」速読術",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書は、企業が事業の状況や財務情報などをまとめて提出する年次開示書類です",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社自身が記載した一次情報を読めるため、個別株を考える際の資料になります",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算説明資料の要約では見えにくい注記や監査報告も確認できるのが利点です",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "背景には決算期末の販売増や取引条件の変更、事業構成の変化などが考えられます",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "指標の基礎や決算資料の分析を学べる初心者向けの4冊を紹介します",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算書から企業の収益構造や利益源泉を読み解く基本と、初心者向けの株式投資本4冊を紹介",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式投資初心者向け｜決算説明資料・IR資料の読み方が学べる本4選",
-    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【コピペでOK】有価証券報告書をAIで効率化｜NotebookLMで有報・決算短信を高速分析する手順 | 効率化大全",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【コピペでOK】有価証券報告書をAIで効率化｜NotebookLMで有報・決算短信を高速分析する手順",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIを使って、効率的に決算資料の確認をしたい！",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業の有価証券報告書は、短いものでも100ページを超えます",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算のたびに更新される決算短信、競合との比較まで含めれば、1銘柄の調査だけで数時間から数日かかることも珍しくありません",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、有報や決算短信をNotebookLMに読み込ませ、コピペするだけで高速に分析する具体的な手順を、すぐ使えるプロンプト付きで紹介します",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有報・決算短信などのPDFをドラッグ＆ドロップで読み込ませる",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "転職者のための有価証券報告書の読み方｜企業分析入門｜企業分析の沼",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "転職者のための有価証券報告書の読み方｜企業分析入門",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人票や口コミサイトだけを見て、なんとなくの印象で受けて落ちていく人を、私はたくさん見てきました",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私は採用・人事の現場を見てきた立場から、",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その私が、転職活動で最も信頼している武器が「有価証券報告書」です",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "略して有報と呼ばれる、上場企業が年に一度必ず出す公式の決算書類です",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "✅ なぜ転職者こそ有価証券報告書を読むべきか",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書から「この会社はどこで・どうやって稼いでいるのか」を自分の言葉で説明できる状態になることです",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社名で検索すれば、過去の有価証券報告書をPDFで閲覧・ダウンロードできます",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここには有報のほか、決算短信や決算説明資料も置かれています",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "✅ 有価証券報告書：年に一度の最も詳しい公式書類",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "✅ 決算説明資料：図やグラフで戦略を説明する資料",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "転職の企業研究では、有報で全体像をつかみ、決算説明資料で最新の戦略を補うのが効率的です",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、有価証券報告書を出しているのは上場企業です",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、会社の採用ページや公式サイトの会社情報、帝国データバンクなどの企業情報、",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは以下の一次情報をインプットしましょう",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「AIで決算書を読むなら、ChatGPTでもいいのでは？」と思うかもしれません",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし有報のような一次情報を正確に読み解く用途では、",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "存在しない決算数値を答えたり、実際とは違う事業内容を説明したりといった事態は、投資判断の根拠としては致命的です",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一見すると不便に思えますが、有報や決算短信という一次情報を直接投入する投資分析においては、この「",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "役割を整理すると、銘柄の概要把握や市況チェックはChatGPT・Gemini、特定企業の一次情報を正確に深掘りする本格分析はNotebookLM、という使い分けになります",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "EDINET・企業IRサイトから有報や決算短信を集める",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結論で挙げた推奨ソースは、PDFで入手しソースとしてNotebookLMに入れるようにしましょう",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書（有報）とは？見方・読み方をわかりやすく解説 | Growth Insight",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書（有報）とは？見方・読み方をわかりやすく解説",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「有価証券報告書って何？」「決算短信と何が違うの？」「個人投資家も読む必要ある？」という疑問を持つ方は多いです",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算説明資料の人気・新着記事まとめ｜note",
-    "url": "https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の業績や成長戦略が記された決算説明資料の読み方や、分析手法を解説する内容です",
-    "url": "https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の業績や成長戦略が記された決算説明資料の読み方や、分析手法を解説する内容…",
-    "url": "https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書は、数百ページに及ぶこともあります",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "「世界一やさしい」のタイトル通り、図解とイラストを多用しながら、決算書から有望企業を発掘する手順を体系的に解説しています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「会計がわからんで経営ができるか」「キャッシュベース経営の原則」など、経営現場で実際に活きる会計の使い方が、実体験を通じて熱く語られています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「外資系金融の分析力と瞬発力が身につく19の方法」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書を読めるようになった次のステップとして、「その企業はいくらの価値があるのか」を計算するスキルが必要になります",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ1：会計ゼロからスタートする人（1〜2ヶ月）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ2：株式投資に活かしたい人（追加で1ヶ月）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ3：仕事・経営に活かしたい人（追加で1〜2ヶ月）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ4：上級・専門レベルへ（追加で2〜3ヶ月）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "継続するためのちょっとしたコツを共有しておきます",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "KPIを設定している場合には、その内容として、目標の達成度合いを測定する指標、算出方法、なぜその指標を利用するのかについて説明することや、合理的な検討を踏まえて設定された経営計画等の具体的な目標数値を記載することが考えられるとされています",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資金調達の方法については、資金需要を満たすための資金が営業活動によって得られるのか、銀行借入、社債発行や株式発行等による調達が必要なのかを具体的に記載することが考えられるとされており、資本コストに関する企業の定義や考え方についてもこれらの内容とともに説明することも有用とされています",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個々の重要な投資案件の潜在的なリスク、事業等のリスクの性質ごとの分類について分かりやすく記載している例や、事業等のリスクの把握及び管理方法を記載している例が紹介されています（p. 2-1、p. 2-6、p.2-13）",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "成長投資、手許資金、株主還元の方針と、資金需要に対する資金調達の方法や設備投資の水準についての経営者の考えの記載や、今後の実質フリー・キャッシュ・フローや株主還元の目標水準及び株主資本コストの目標水準を記載している例が紹介されています（p. 4-3、p. 4-4、p. 4-5）",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由｜やましゃん@IR就活",
     "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
@@ -1604,6 +912,1480 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "【2026年最新】決算書の読み方が学べるおすすめ本22選｜会計初心者から株式投資・経営分析まで実戦で使える名著マップ｜コトビトの部屋＠本好き",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【2026年最新】決算書の読み方が学べるおすすめ本22選｜会計初心者から株式投資・経営分析まで実戦で使える名著マップ",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「決算書って数字ばっかりで、見ても何が書いてあるかさっぱり分からない…」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「株を買いたいんだけど、企業の決算書から有望株を見抜けるようになりたい」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書（財務3表）が読めるようになると、世界の見え方が一気に変わります",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただ、決算書の本は数百冊単位で出ていて、しかも内容のレベルがピンキリ",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜ今、決算書を読めるスキルが価値を持つのか",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書を読む力は、",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書を学ぶ前に押さえたい3つの大前提",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本の紹介に入る前に、決算書学習で挫折しないための「考え方の前提」を共有しておきます",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書は会計士のためだけのものではありません",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書の本は、著者ごとに切り口が違います",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3. 必ず実物の決算短信を1社分は眺めること",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "気になる企業のIRページに飛んで、最新の「決算短信」「有価証券報告書」を1社分だけでも眺めてください",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが本当に役立つのは、有価証券報告書を読ませて整理させるときだ",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "100ページの有価証券報告書を人間が読むより、AIに要約させたほうが速い",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかも、AIが学習したデータは過去のものなので、最新の決算が反映されていないことがある",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "有価証券報告書・決算短信・決算説明資料のPDF",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDFをアップロードできるAIサービスなら、そのまま添付する",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが出した数字は、必ず元のPDFで該当箇所を確認する",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "添付した有価証券報告書から、就活生が企業研究で使う情報を抽出してください",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "添付した3社の決算短信から、売上高・営業利益率・自己資本比率を抽出し、同じ形式で並べてください",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各社の決算期が異なる場合は、その旨を明記してください",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "添付した決算説明資料から、中期経営計画の目標数値をすべて抜き出し、直近実績と並べてギャップを算出してください",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「最新の決算は」と聞いても、実際には数か月〜数年前の情報が返ってくることがある",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：決算数値は必ず自分でEDINETまたは企業IRページから取得する",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：AIの文章は特有の平板さがあり、読み慣れた採用担当者は気づく",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NotebookLMで決算資料を読み解く！財務諸表分析の新手法｜Re-BIRTH株式会社",
+    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NotebookLMで決算資料を読み解く！財務諸表分析の新手法",
+    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "現代のビジネス環境において、決算資料の分析は企業の投資判断や事業戦略の策定に欠かせない重要な業務です",
+    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初学者でも出来る『５つのSTEPで読み解く有価証券報告書』",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そもそも『有価証券報告書』とは？",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年1回（通常は決算後3ヶ月以内）",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際の『有価証券報告書』を手元に用意して、読みながら実践するのがいいです！",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まだ準備できてない人は、『（会社名）_有価証券報告書』で探してみてください！",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は『有価証券報告書（有報）』を読めるようになりたい人が『読めた！』となることを目的とし、５つのSTEPで『読めるように』解説します",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書の準備はできていますか？",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "財務諸表を読むだけであれば、このSTEPはいらないですが、今回の目的は『有価証券報告書』を読めるようになることです",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「注記まで読める人」は、決算書読解の中上級者です",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この５つの質問に回答出来たら、『有価証券報告書を読めた』と区切りをつけましょう！",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのためにも出来る限り多くの有価証券報告書に触れ、",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また前述で記載しましたが、有価証券報告書は",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書を読み解くことはとても有益なのです",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【プロンプト付き】決算書が読めない営業は、提案の半分を捨てているーAI活用読解術｜藤井翔太｜11月6日『営業の未来地図（講談社/日刊現代）』発売",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【プロンプト付き】決算書が読めない営業は、提案の半分を捨てているーAI活用読解術",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「決算書、読めますか？」に、正直に答えられますか？",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なぜ営業が決算書を読むべきなのか",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書とは何か",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算書の基本ー3つの表を、3つの質問に翻訳する",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「その会社の決算書、見た？」",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書という分厚い書類を開いても、どこから読めばいいのか分からず、結局、表紙とサマリーだけ眺めて閉じてしまう",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算書の読み方は、多くの営業パーソンが、体系的に教わらないまま現場に出されている領域です",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、決算書を読めるかどうかで、提案の質は大きく変わります",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、有価証券報告書と決算書を、",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず、なぜ営業が決算書を読む必要があるのかを、整理しておきます",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "逆に、決算書を読まずに商談に臨むと、提案が一般論に終始しがちです",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決裁者は、多くの場合、決算書の数字で会社を見ています",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算書には、その会社が今どんな状況にあるかが、数字として表れています",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書の見方【就活生向け】——人事が説明会で話さない5項目と、その探し方｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書の見方【就活生向け】——人事が説明会で話さない5項目と、その探し方",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "※本記事で例示した数値は、各社が公表した有価証券報告書(2026年3月期・一部2025年3月期)の記載に基づきます(2026年7月執筆)",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■この記事の読み方 「有価証券報告書を見ろと言われたけど、100ページ以上あってどこを読めばいいかわからない」という人に向けて書いた",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業研究のやり方を調べると、たいてい「有価証券報告書を読みましょう」と書いてある",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100ページを超えるPDFで、専門用語が並び、どこを読めばいいのか一切書いていない",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "だが、有価証券報告書には、就活サイトにも会社説明会にも出てこない情報が載っている",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業が採用のために作った資料とは、情報の質がまったく違う",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書(通称「有報」)は、上場企業が年に1度、金融庁に提出する義務がある報告書だ",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算から3か月以内に提出されるため、3月決算の会社なら6月頃に最新版が出る",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 有価証券報告書の探し方——どこで手に入るか",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "書類種別で「有価証券報告書」を選べば一覧が出る",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "多くの企業は自社サイトのIRページにもPDFを置いている",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「IR情報」「投資家情報」「株主・投資家の皆様へ」といったメニューから「IRライブラリ」「有価証券報告書」を探す",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社によっては決算説明資料も同じ場所にあるので、まとめて確認できるこちらのほうが効率的なこともある",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『有価証券報告書で読み解く 決算書の「超」速読術』川口宏之｜本のコンパス//ビジネスと自己成長のための読書ガイド",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『有価証券報告書で読み解く 決算書の「超」速読術』川口宏之",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『有価証券報告書で読み解く 決算書の「超」速読術』は、決算書の読み解き方を初歩から徹底的に学べる実用書です",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "著者である川口宏之さんは、公認会計士として監査法人、証券会社、ベンチャー企業コンサルティング会社で培った幅広い経験を活かし、有価証券報告書の重要性と、それを効率よく理解する方法を解説しています",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この本を読めば、一次情報を自分で読み解く力が身につき、投資や経営判断に活用できるようになります",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 決算書を読むことの意義",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「決算書」と聞くと、数字が多くて難しそうという印象を抱く人が多いですが、著者はこの認識を変えるために本書を書きました",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に、アナリストや記者のレポートに頼るのではなく、一次情報である有価証券報告書を直接読むことの重要性を説いています",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、企業の本当の状態を知るためには一次情報が不可欠です",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 有価証券報告書とは？",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書は、企業が1年に1回開示する書類で、決算書を含む詳細な情報が記載されています",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算短信よりも内容が充実しているものの速報性が低いため、四半期ごとの決算短信と併せて読むことで、企業の状況を効率的に把握できます",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『有価証券報告書で読み解く 決算書の「超」速読術』は、初心者から上級者まで幅広い層に役立つ一冊です",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "著者の川口宏之さんは、難解に思える決算書を、実践的かつ効率的に読み解く方法を丁寧に解説しており、特に実例を交えた説明が非常にわかりやすいです",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初めて決算書に挑戦する方や、スキルをさらに深めたい方におすすめです",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書とは、上場企業が金融商品取引法に基づいて、年に一度、開示を義務付けられている書類です",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算短信よりも詳細で、事業のリスク、従業員の状況、役員報酬、大株主の状況まで含まれます",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本株の有価証券報告書の読み方｜初心者向けの本4選と個別株・注記の見方 | Nexforge",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本株の有価証券報告書の読み方｜初心者向けの本4選と個別株・注記の見方",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本株の個別株を検討するとき、有価証券報告書は会社の事業や財務を確かめる一次資料です",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書で読み解く 決算書の「超」速読術",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書は、企業が事業の状況や財務情報などをまとめて提出する年次開示書類です",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社自身が記載した一次情報を読めるため、個別株を考える際の資料になります",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算説明資料の要約では見えにくい注記や監査報告も確認できるのが利点です",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "背景には決算期末の販売増や取引条件の変更、事業構成の変化などが考えられます",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "指標の基礎や決算資料の分析を学べる初心者向けの4冊を紹介します",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算書から企業の収益構造や利益源泉を読み解く基本と、初心者向けの株式投資本4冊を紹介",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式投資初心者向け｜決算説明資料・IR資料の読み方が学べる本4選",
+    "url": "https://sesera-career.com/investment-note/nihon-kabu-yuho-reading-books-beginners-notes/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【コピペでOK】有価証券報告書をAIで効率化｜NotebookLMで有報・決算短信を高速分析する手順 | 効率化大全",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【コピペでOK】有価証券報告書をAIで効率化｜NotebookLMで有報・決算短信を高速分析する手順",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIを使って、効率的に決算資料の確認をしたい！",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業の有価証券報告書は、短いものでも100ページを超えます",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算のたびに更新される決算短信、競合との比較まで含めれば、1銘柄の調査だけで数時間から数日かかることも珍しくありません",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、有報や決算短信をNotebookLMに読み込ませ、コピペするだけで高速に分析する具体的な手順を、すぐ使えるプロンプト付きで紹介します",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有報・決算短信などのPDFをドラッグ＆ドロップで読み込ませる",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "転職者のための有価証券報告書の読み方｜企業分析入門｜企業分析の沼",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "転職者のための有価証券報告書の読み方｜企業分析入門",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人票や口コミサイトだけを見て、なんとなくの印象で受けて落ちていく人を、私はたくさん見てきました",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私は採用・人事の現場を見てきた立場から、",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その私が、転職活動で最も信頼している武器が「有価証券報告書」です",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "略して有報と呼ばれる、上場企業が年に一度必ず出す公式の決算書類です",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "✅ なぜ転職者こそ有価証券報告書を読むべきか",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書から「この会社はどこで・どうやって稼いでいるのか」を自分の言葉で説明できる状態になることです",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社名で検索すれば、過去の有価証券報告書をPDFで閲覧・ダウンロードできます",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここには有報のほか、決算短信や決算説明資料も置かれています",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "✅ 有価証券報告書：年に一度の最も詳しい公式書類",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "✅ 決算説明資料：図やグラフで戦略を説明する資料",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "転職の企業研究では、有報で全体像をつかみ、決算説明資料で最新の戦略を補うのが効率的です",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、有価証券報告書を出しているのは上場企業です",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、会社の採用ページや公式サイトの会社情報、帝国データバンクなどの企業情報、",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずは以下の一次情報をインプットしましょう",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「AIで決算書を読むなら、ChatGPTでもいいのでは？」と思うかもしれません",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし有報のような一次情報を正確に読み解く用途では、",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "存在しない決算数値を答えたり、実際とは違う事業内容を説明したりといった事態は、投資判断の根拠としては致命的です",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一見すると不便に思えますが、有報や決算短信という一次情報を直接投入する投資分析においては、この「",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "役割を整理すると、銘柄の概要把握や市況チェックはChatGPT・Gemini、特定企業の一次情報を正確に深掘りする本格分析はNotebookLM、という使い分けになります",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EDINET・企業IRサイトから有報や決算短信を集める",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結論で挙げた推奨ソースは、PDFで入手しソースとしてNotebookLMに入れるようにしましょう",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書（有報）とは？見方・読み方をわかりやすく解説 | Growth Insight",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書（有報）とは？見方・読み方をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「有価証券報告書って何？」「決算短信と何が違うの？」「個人投資家も読む必要ある？」という疑問を持つ方は多いです",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算説明資料の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の業績や成長戦略が記された決算説明資料の読み方や、分析手法を解説する内容です",
+    "url": "https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の業績や成長戦略が記された決算説明資料の読み方や、分析手法を解説する内容…",
+    "url": "https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書は、数百ページに及ぶこともあります",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "会計をまったく知らない初心者から、株式投資のファンダメンタル分析を極めたい中上級者まで、目的別に厳選した22冊",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "⑩ 株を買うなら最低限知っておきたい ファンダメンタル投資の教科書 改訂版｜足立武志",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個人投資家向けファンダメンタル分析本の決定版",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "⑪ 世界一やさしいファンダメンタル株投資バイブル｜日根野健（ひねけん）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Voicy人気パーソナリティ・ひねけん氏による、初心者向けファンダメンタル分析の決定版",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "⑩「ファンダメンタル投資の教科書」 → ⑫「3分速読からの10倍株の探し方」 → ⑭「バフェットの財務諸表を読む力」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "10%以上なら優良、5%未満は注意",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書学習でやりがちな3つの失敗",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最後に、決算書を学び始めた人が陥りがちな失敗を3つだけ紹介します",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗1：簿記から学び始める",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗2：1冊を完璧にしようとする",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗3：本だけで実物の決算書を見ない",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は⑩「ファンダメンタル投資の教科書」と⑫「10倍株の探し方」と⑭「バフェットの財務諸表を読む力」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "NISAはやめたほうがいい？メリット・注意点をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "NISAはやめたほうがいい？メリット・注意点をわかりやすく解説「NISAって危険なの？」「暴落したらどうなる？」「やめたほうがいいって本当？」という疑問を持っている方は多いはずです",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "｢ある｣と答えても｢ない｣と答えてもダメ…禅の師匠に何度も突き返された修行僧が､最後に差し出した｢答え｣",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "36歳で外資コンサル転職は間違いではなかったが…丸紅･大本社長がたった1年半で｢出戻り｣を決意した深いワケ",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最も多い失敗が、「トヨタ自動車について教えてください」とだけ入力するパターンだ",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "誤りが1つあるだけで、企業研究全体の信頼性が失われる",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIの出力には誤りが含まれる可能性があります",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説ゴールデンクロスとは、短期移動平均線が長期移動平均線を下から上に突き抜けるタイミングのことで、上昇トレンドへの転換を示す可能性があるサインとして知られています",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高配当株とは？メリット・注意点をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高配当株とは？メリット・注意点をわかりやすく解説「高配当株って人気だけど、実際どういう株なの？」「配当金だけで生活できる？」「利回りが高いほど良いの？」高配当株は個人投資家の間で根強い人気があります",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説「楽天ポイントで投資できるって聞いたけど、本当に意味あるの？」と疑問を持っている方は多いはずです",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⇒連結子会社が多いほど、単体とのズレに注意",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＜チェックポイント＞財務依存型企業に注意",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金利負担に注意！",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "M&A失敗・のれん減損リスク",
+    "url": "https://note.com/yoh2619/n/nab63a136eecc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初心者が最初にやるべき失敗は、頭から全部読もうとすることです",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIの推測をそのまま鵜呑みにするのではなく、どの数字やどの記載から、その推測に至ったのかを確認する習慣をつけることで、自分自身の読解力も同時に鍛えられます",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここまでAIの活用法を紹介してきましたが、一点、注意が必要です",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "探すときの注意",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここで最も重要な注意点がある",
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "二次情報は解釈が混じり、時にはバイアスや誤りが含まれることがあります",
+    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります",
+    "url": "https://kabu.com/kabuyomu/money/1191.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "宇野千代は間違いなく惚れていた､では芥川龍之介は…文豪が短編小説に描いた｢一束4銭のネギ｣という\"恋\"",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "語尾を1文字変えるだけ…恥ずかしい失敗をした相手に育ちがいい人が｢大丈夫ですか?｣の代わりにかける言葉",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "純資産が大きくプラスでも多額の繰延税金資産がある場合には注意が必要です",
+    "url": "https://journal.bizocean.jp/corp08/h03/2552/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正しい位置や注意点を解説",
+    "url": "https://journal.bizocean.jp/corp08/h03/2552/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【例文テンプレートあり】依頼文書の書き方と注意点を解説！",
+    "url": "https://journal.bizocean.jp/corp08/h03/2552/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書を読む際の注意点",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "40%以上あれば優良、20%を下回ると少し注意が必要",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100%を下回っている状態は、短期的な資金繰りが厳しい可能性を示唆するため注意が必要です",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書は、企業分析における非常に強力なツールですが、その情報を活用する上では、いくつかの注意点を理解しておく必要があります",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際に、多くの有価証券報告書には、以下のような趣旨の注意書き（ディスクレーマー）が記載されています",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここに書かれている情報を鵜呑みにするのではなく、あくまで数ある判断材料の一つとして客観的に捉える姿勢が重要です",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらの注意点を理解した上で向き合うことで、初めてその価値を最大限に引き出すことができるのです",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専門用語の多さや、内容が将来を保証するものではないといった注意点も理解しつつ、まずは興味のある一社の報告書を実際に手に取って開いてみましょう",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書について、記載すべき内容や開示にあたっての注意点などをわかりやすく解説",
+    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/securities-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして提出にあたって、有価証券報告書は金融商品取引法、決算短信は各証券取引所によってルールが細かく定められているため、注意が必要です",
+    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/securities-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有報を見るときの注意点",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デッドクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デッドクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説デッドクロスとは、短期移動平均線が長期移動平均線を上から下に突き抜けるタイミングのことで、下落トレンドへの転換を示す可能性があるサインとして知られています",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "信用買い残・信用売り残とは？株価の需給を見る方法を解説「信用買い残が積み上がっている銘柄は要注意」——株式投資の解説でこうした話を目にすることがあります",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "配当性向とは？株初心者向けに意味・見方・注意点をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "配当性向とは？株初心者向けに意味・見方・注意点をわかりやすく解説「配当性向って何？」「高いほど良いの？」「高配当株を選ぶとき重要なの？」高配当株に興味を持ち始めると、配当利回りと並んで「配当性向」という言葉を目にするようになります",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Biggest Mistakes People Make When Reading Annual Reports",
+    "url": "https://www.quantillium.com/blog/how-to-read-an-annual-report",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "typo mistake- in the example of CRISIL- the loss of company is 300CR which is 1000-700, used + sign instead of – sign",
+    "url": "https://zerodha.com/varsity/chapter/read-annual-report-company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "✅ やりがちな読み方の失敗と、15分でできる企業分析チェックリスト",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有報を読むときにやりがちな5つの失敗",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最後に、転職者がやりがちな失敗を5つ挙げます",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有報を読み始めたばかりの段階では、いくつかの落とし穴があります",
+    "url": "https://edinetdb.jp/blog/how-to-read-yuho",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書を分析する際の3つの注意点",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書の分析手法を身につけても、いくつかの注意点を押さえておかないと、判断を誤る可能性があります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界全体の動向を確認するためには、以下のような点に注意を払う必要があります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書を分析する習慣を身につけることは、こうした失敗を防ぎ、",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、有価証券報告書の基本的な知識から、見るべき7つのポイント、具体的な分析方法、そして分析する上での注意点まで、幅広く解説しました",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リスクは、戦略リスク（競合、M&Aの失敗）、財務リスク（為替変動、金利）、オペレーショナルリスク（サプライチェーン、情報セキュリティ）、法規制リスクなど、様々な種類に分類されます",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "報告書の中で、特に注意して見るべき「危険なサイン」はありますか？",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "投資判断において注意すべきサインはいくつかあります",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『どれを選ぶべきか迷う』という方は、ポイント還元で実質的な利回りを底上げできる楽天証券を選んでおけば間違いありません",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初めての株式投資（２）新NISAで1800万円を使いこなす正しい方法｜公認会計士が教える失敗しない資産形成のコツ",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初めての株式投資（９）「PERが高くて投資に迷う」は間違い？知らないと損する株の割安判断とプロの正しい使い方",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初めての株式投資（10）【投資家必見】ROE（自己資本利益率）とは？目安やROAとの違い、注意点をプロが解説",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初めての株式投資（15）高配当株投資の「魅力」と「罠」｜本当の安定配当株を見分ける5つの指標",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初めての株式投資（19）【完全ガイド】保有株にTOB(株式公開買付)が発表されたら？個人投資家が取るべき3つの対応と税金の注意点",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初めての株式投資（23）テクニカル分析とファンダメンタルズ分析はどっちが重要？違いと使い方を投資初心者へ解説",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベトナム日系企業の会計・税務・監査！実務の落とし穴と完全対策",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【2026】会計士厳選！初心者におすすめの証券口座と失敗しない税金対策",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "保有銘柄や購入予定銘柄では、少なくとも次の開示に注意しましょう",
+    "url": "https://money-magazine.org/ir-disclosure-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、見出しだけで売買すると判断を誤りやすくなります",
+    "url": "https://money-magazine.org/ir-disclosure-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式・投資信託・NISAの注意点【2...",
+    "url": "https://money-magazine.org/ir-disclosure-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "通貨選択型投資信託とは？高金利通貨・分配金・為替リスクの注意点【2026...",
+    "url": "https://money-magazine.org/ir-disclosure-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Visa eギフトの出口・使い道は？残高の使い切り方とWesmo!チャージの注意点",
+    "url": "https://money-magazine.org/ir-disclosure-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common mistakes when reading annual reports",
+    "url": "https://equityanalysislab.com/en/guides/how-to-read-an-annual-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes Beginners Make",
+    "url": "https://fundamentalinvestinginstitute.com/how-to-read-an-annual-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "無限定適正意見が示されている場合は、財務諸表が適正であると評価され、不適正意見や限定付意見が記載されている場合は、注意が必要です",
+    "url": "https://www.kotora.jp/c/54203/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【ChatGPT最新事情】ChatGPT有料→無料に戻したら何が変わる？制限と注意点まとめ",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes Investors Make When Reading a 10-K",
+    "url": "https://site.financialmodelingprep.com/education/financial-analysis/how-to-analyze-an-annual-report-k-like-an-investor",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "NotebookLMは強力なツールですが、適切な活用のためには注意すべき点もあります",
+    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "｢調べれば何でもわかる｣は大間違い…養老孟司が｢アユの放流｣に見た日本社会の情けない悪癖",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意しろ｜NotebookLM投資活用でやってはいけない3つのこと",
+    "url": "https://mitena.co.jp/n-nisa/notebooklm-stock-investment/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新NISAの学校では、学校では教えてくれない『知らないと損をする新NISAのお得な情報』や、『失敗しない新NISAの運用方法』などを発信していきます",
+    "url": "https://mitena.co.jp/n-nisa/notebooklm-stock-investment/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most importantly, AI helps me avoid two common mistakes investors make when reading annual reports:",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これを食べると大腸がダメージを受ける…認知症専門医が10年前から絶対に口にしない､みんな大好きな食材【認知症予防3選】",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "信用倍率・空売り比率とは？見方・注意点をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "信用倍率・空売り比率とは？見方・注意点をわかりやすく解説信用倍率・空売り比率とは、株価チャートには表れない「市場参加者がどちらのポジションを多く持っているか」を示す需給指標です",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください",
@@ -1831,6 +2613,24 @@
    }
   ],
   "実例": [
+   {
+    "quote": "最新の上場企業の事例を元に、決算書を「分析する視点」を学べるのがポイント",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "短期的な利益ばかり追う「PL思考」から、企業価値を最大化する「ファイナンス思考」への転換を、Amazon・リクルート・JTなどの事例を交えて解説しています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1冊を100%理解する必要はなく、複数冊を「7割理解」で次々に読んだ方が、結果的に立体的な理解に到達します",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "Mahindra & Mahindra's FY26 annual report as the example: its exact name, the year to 31 Mar 2026, the filing on NSE's archive (4 Jul 2026) and the unit, ₹ crore.",
     "url": "https://mrchartist.com/learn/start/how-to-read-an-annual-report",
@@ -2539,512 +3339,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "最も多い失敗が、「トヨタ自動車について教えてください」とだけ入力するパターンだ",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誤りが1つあるだけで、企業研究全体の信頼性が失われる",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIの出力には誤りが含まれる可能性があります",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説ゴールデンクロスとは、短期移動平均線が長期移動平均線を下から上に突き抜けるタイミングのことで、上昇トレンドへの転換を示す可能性があるサインとして知られています",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法",
-    "url": "https://president.jp/category/c05577",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "高配当株とは？メリット・注意点をわかりやすく解説",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "高配当株とは？メリット・注意点をわかりやすく解説「高配当株って人気だけど、実際どういう株なの？」「配当金だけで生活できる？」「利回りが高いほど良いの？」高配当株は個人投資家の間で根強い人気があります",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説「楽天ポイントで投資できるって聞いたけど、本当に意味あるの？」と疑問を持っている方は多いはずです",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "⇒連結子会社が多いほど、単体とのズレに注意",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "＜チェックポイント＞財務依存型企業に注意",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "金利負担に注意！",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "M&A失敗・のれん減損リスク",
-    "url": "https://note.com/yoh2619/n/nab63a136eecc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初心者が最初にやるべき失敗は、頭から全部読もうとすることです",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIの推測をそのまま鵜呑みにするのではなく、どの数字やどの記載から、その推測に至ったのかを確認する習慣をつけることで、自分自身の読解力も同時に鍛えられます",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここまでAIの活用法を紹介してきましたが、一点、注意が必要です",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "探すときの注意",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここで最も重要な注意点がある",
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "二次情報は解釈が混じり、時にはバイアスや誤りが含まれることがあります",
-    "url": "https://note.com/bookreview_lab/n/n5ddefc10af59",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります",
-    "url": "https://kabu.com/kabuyomu/money/1191.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "宇野千代は間違いなく惚れていた､では芥川龍之介は…文豪が短編小説に描いた｢一束4銭のネギ｣という\"恋\"",
-    "url": "https://president.jp/category/c05577",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "語尾を1文字変えるだけ…恥ずかしい失敗をした相手に育ちがいい人が｢大丈夫ですか?｣の代わりにかける言葉",
-    "url": "https://president.jp/category/c05577",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "純資産が大きくプラスでも多額の繰延税金資産がある場合には注意が必要です",
-    "url": "https://journal.bizocean.jp/corp08/h03/2552/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "正しい位置や注意点を解説",
-    "url": "https://journal.bizocean.jp/corp08/h03/2552/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【例文テンプレートあり】依頼文書の書き方と注意点を解説！",
-    "url": "https://journal.bizocean.jp/corp08/h03/2552/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書を読む際の注意点",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "40%以上あれば優良、20%を下回ると少し注意が必要",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "100%を下回っている状態は、短期的な資金繰りが厳しい可能性を示唆するため注意が必要です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書は、企業分析における非常に強力なツールですが、その情報を活用する上では、いくつかの注意点を理解しておく必要があります",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際に、多くの有価証券報告書には、以下のような趣旨の注意書き（ディスクレーマー）が記載されています",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここに書かれている情報を鵜呑みにするのではなく、あくまで数ある判断材料の一つとして客観的に捉える姿勢が重要です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの注意点を理解した上で向き合うことで、初めてその価値を最大限に引き出すことができるのです",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "専門用語の多さや、内容が将来を保証するものではないといった注意点も理解しつつ、まずは興味のある一社の報告書を実際に手に取って開いてみましょう",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書について、記載すべき内容や開示にあたっての注意点などをわかりやすく解説",
-    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/securities-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして提出にあたって、有価証券報告書は金融商品取引法、決算短信は各証券取引所によってルールが細かく定められているため、注意が必要です",
-    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/securities-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有報を見るときの注意点",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デッドクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デッドクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説デッドクロスとは、短期移動平均線が長期移動平均線を上から下に突き抜けるタイミングのことで、下落トレンドへの転換を示す可能性があるサインとして知られています",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "信用買い残・信用売り残とは？株価の需給を見る方法を解説「信用買い残が積み上がっている銘柄は要注意」——株式投資の解説でこうした話を目にすることがあります",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "配当性向とは？株初心者向けに意味・見方・注意点をわかりやすく解説",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "配当性向とは？株初心者向けに意味・見方・注意点をわかりやすく解説「配当性向って何？」「高いほど良いの？」「高配当株を選ぶとき重要なの？」高配当株に興味を持ち始めると、配当利回りと並んで「配当性向」という言葉を目にするようになります",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Biggest Mistakes People Make When Reading Annual Reports",
-    "url": "https://www.quantillium.com/blog/how-to-read-an-annual-report",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "typo mistake- in the example of CRISIL- the loss of company is 300CR which is 1000-700, used + sign instead of – sign",
-    "url": "https://zerodha.com/varsity/chapter/read-annual-report-company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "✅ やりがちな読み方の失敗と、15分でできる企業分析チェックリスト",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有報を読むときにやりがちな5つの失敗",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最後に、転職者がやりがちな失敗を5つ挙げます",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有報を読み始めたばかりの段階では、いくつかの落とし穴があります",
-    "url": "https://edinetdb.jp/blog/how-to-read-yuho",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書を分析する際の3つの注意点",
-    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書の分析手法を身につけても、いくつかの注意点を押さえておかないと、判断を誤る可能性があります",
-    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界全体の動向を確認するためには、以下のような点に注意を払う必要があります",
-    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書を分析する習慣を身につけることは、こうした失敗を防ぎ、",
-    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、有価証券報告書の基本的な知識から、見るべき7つのポイント、具体的な分析方法、そして分析する上での注意点まで、幅広く解説しました",
-    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リスクは、戦略リスク（競合、M&Aの失敗）、財務リスク（為替変動、金利）、オペレーショナルリスク（サプライチェーン、情報セキュリティ）、法規制リスクなど、様々な種類に分類されます",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "報告書の中で、特に注意して見るべき「危険なサイン」はありますか？",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "投資判断において注意すべきサインはいくつかあります",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『どれを選ぶべきか迷う』という方は、ポイント還元で実質的な利回りを底上げできる楽天証券を選んでおけば間違いありません",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初めての株式投資（２）新NISAで1800万円を使いこなす正しい方法｜公認会計士が教える失敗しない資産形成のコツ",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初めての株式投資（９）「PERが高くて投資に迷う」は間違い？知らないと損する株の割安判断とプロの正しい使い方",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初めての株式投資（10）【投資家必見】ROE（自己資本利益率）とは？目安やROAとの違い、注意点をプロが解説",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初めての株式投資（15）高配当株投資の「魅力」と「罠」｜本当の安定配当株を見分ける5つの指標",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初めての株式投資（19）【完全ガイド】保有株にTOB(株式公開買付)が発表されたら？個人投資家が取るべき3つの対応と税金の注意点",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初めての株式投資（23）テクニカル分析とファンダメンタルズ分析はどっちが重要？違いと使い方を投資初心者へ解説",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ベトナム日系企業の会計・税務・監査！実務の落とし穴と完全対策",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【2026】会計士厳選！初心者におすすめの証券口座と失敗しない税金対策",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "保有銘柄や購入予定銘柄では、少なくとも次の開示に注意しましょう",
-    "url": "https://money-magazine.org/ir-disclosure-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、見出しだけで売買すると判断を誤りやすくなります",
-    "url": "https://money-magazine.org/ir-disclosure-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式・投資信託・NISAの注意点【2...",
-    "url": "https://money-magazine.org/ir-disclosure-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "通貨選択型投資信託とは？高金利通貨・分配金・為替リスクの注意点【2026...",
-    "url": "https://money-magazine.org/ir-disclosure-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Visa eギフトの出口・使い道は？残高の使い切り方とWesmo!チャージの注意点",
-    "url": "https://money-magazine.org/ir-disclosure-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common mistakes when reading annual reports",
-    "url": "https://equityanalysislab.com/en/guides/how-to-read-an-annual-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes Beginners Make",
-    "url": "https://fundamentalinvestinginstitute.com/how-to-read-an-annual-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "無限定適正意見が示されている場合は、財務諸表が適正であると評価され、不適正意見や限定付意見が記載されている場合は、注意が必要です",
-    "url": "https://www.kotora.jp/c/54203/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【ChatGPT最新事情】ChatGPT有料→無料に戻したら何が変わる？制限と注意点まとめ",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes Investors Make When Reading a 10-K",
-    "url": "https://site.financialmodelingprep.com/education/financial-analysis/how-to-analyze-an-annual-report-k-like-an-investor",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "NotebookLMは強力なツールですが、適切な活用のためには注意すべき点もあります",
-    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "｢調べれば何でもわかる｣は大間違い…養老孟司が｢アユの放流｣に見た日本社会の情けない悪癖",
-    "url": "https://president.jp/category/c05577",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意しろ｜NotebookLM投資活用でやってはいけない3つのこと",
-    "url": "https://mitena.co.jp/n-nisa/notebooklm-stock-investment/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新NISAの学校では、学校では教えてくれない『知らないと損をする新NISAのお得な情報』や、『失敗しない新NISAの運用方法』などを発信していきます",
-    "url": "https://mitena.co.jp/n-nisa/notebooklm-stock-investment/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Most importantly, AI helps me avoid two common mistakes investors make when reading annual reports:",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これを食べると大腸がダメージを受ける…認知症専門医が10年前から絶対に口にしない､みんな大好きな食材【認知症予防3選】",
-    "url": "https://president.jp/category/c05577",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "信用倍率・空売り比率とは？見方・注意点をわかりやすく解説",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "信用倍率・空売り比率とは？見方・注意点をわかりやすく解説信用倍率・空売り比率とは、株価チャートには表れない「市場参加者がどちらのポジションを多く持っているか」を示す需給指標です",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -3066,17 +3360,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/tatsuya_sabato/n/n812e0aaedcab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/oh_no/n/n66d698e5eb46",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tatsuya_sabato/n/n812e0aaedcab",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
     "status": "ok",
     "method": "http"
    },
@@ -3091,22 +3385,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.sompo-ri.co.jp/2026/07/16/23977/",
+    "url": "https://inuiwan.com/archives/3282",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
+    "url": "https://shiraberu-note.com/edinet-securities-report-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://irnote.com/?gs=7d9bcb817d33c25b6c87c452489702da",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_unilife_hack/n/ndacc8e072483",
+    "url": "https://worldfinanceedu.com/articles/yuho-reading/",
     "status": "ok",
     "method": "http"
    },
@@ -3121,8 +3415,8 @@
     "method": "http"
    },
    {
-    "url": "https://www.obc.co.jp/360/list/post235",
-    "status": "ok",
+    "url": "https://biz.moneyforward.com/accounting/basic/45916/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -3131,7 +3425,7 @@
     "method": "http"
    },
    {
-    "url": "https://journal.bizocean.jp/corp08/h03/2552/",
+    "url": "https://www.soico.jp/no1/news/securities/8465",
     "status": "ok",
     "method": "http"
    },
@@ -3146,27 +3440,27 @@
     "method": "http"
    },
    {
+    "url": "https://www.sompo-ri.co.jp/2026/07/16/23977/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.fsa.go.jp/policy/kaiji/kaiji.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/securities-report/",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://inuiwan.com/archives/3282",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://worldfinanceedu.com/articles/yuho-reading/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "url": "https://kinmyakucode.com/ja/guide/",
     "status": "ok",
     "method": "http"
    },
@@ -3181,6 +3475,11 @@
     "method": "http"
    },
    {
+    "url": "https://site.financialmodelingprep.com/education/financial-analysis/how-to-analyze-an-annual-report-k-like-an-investor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://online.hbs.edu/blog/post/how-to-read-an-annual-report",
     "status": "ok",
     "method": "http"
@@ -3189,11 +3488,6 @@
     "url": "https://www.reddit.com/r/ValueInvesting/comments/12f33w5/how_do_i_start_understanding_annual_reports/",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://site.financialmodelingprep.com/education/financial-analysis/how-to-analyze-an-annual-report-k-like-an-investor",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://biz.libretexts.org/Courses/Reedley_College/Operation_of_a_Small_Business_for_College_Students/12%3A_Financial_Statement_Analysis_and_Competitor_Evaluation/12.01%3A_Reading_and_Interpreting_Annual_Reports",
@@ -3209,28 +3503,28 @@
     "https://note.com/yoh2619/n/nab63a136eecc",
     "https://note.com/f_bby__shota/n/nee46643ea909",
     "https://note.com/tatsuya_sabato/n/n42cf734362a7",
-    "https://note.com/oh_no/n/n66d698e5eb46",
-    "https://note.com/irshukatsu/n/n426fc7c8c112",
     "https://note.com/tatsuya_sabato/n/n812e0aaedcab",
+    "https://note.com/oh_no/n/n66d698e5eb46",
+    "https://note.com/tasuto11/n/nde45889dccb0",
+    "https://note.com/irshukatsu/n/n426fc7c8c112",
     "https://note.com/kessancareerlab/n/n3be4fdc2788e",
     "https://note.com/zaimani_com/n/n55c23417fd36",
-    "https://note.com/zz08/n/nd6ec9df79282",
     "https://note.com/tatsuya_sabato/n/nc781e22aa762"
    ]
   },
   {
    "query": "有価証券報告書・決算資料から稼ぎ方を読み解く方法 note",
    "results": [
-    "https://note.com/tatsuya_sabato/n/n42cf734362a7",
     "https://note.com/yoh2619/n/nab63a136eecc",
+    "https://note.com/tatsuya_sabato/n/n42cf734362a7",
+    "https://note.com/tatsuya_sabato/n/n812e0aaedcab",
     "https://www.youtube.com/watch?v=V5J1VOAUMV0",
     "https://note.com/bookreview_lab/n/n5ddefc10af59",
     "https://note.com/oh_no/n/n66d698e5eb46",
     "https://doda.jp/companyinfo/contents/finance/002.html",
-    "https://www.sompo-ri.co.jp/2026/07/16/23977/",
-    "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
-    "https://irnote.com/",
-    "https://note.com/ai_unilife_hack/n/ndacc8e072483"
+    "https://inuiwan.com/archives/3282",
+    "https://www.youtube.com/watch?v=4PRWM5L4HTw",
+    "https://shiraberu-note.com/edinet-securities-report-guide/"
    ]
   },
   {
@@ -3239,27 +3533,27 @@
     "https://hokiraon.jp/recroots/column/kessansho",
     "https://kabu.com/kabuyomu/money/1191.html",
     "https://doda.jp/companyinfo/contents/finance/002.html",
+    "https://biz.moneyforward.com/accounting/basic/45916/",
     "https://note.com/yoh2619/n/nab63a136eecc",
-    "https://www.obc.co.jp/360/list/post235",
     "https://president.jp/category/c05577",
-    "https://journal.bizocean.jp/corp08/h03/2552/",
+    "https://www.soico.jp/no1/news/securities/8465",
     "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
-    "https://growth-insight.net/有価証券報告書（有報）とは？見方・読み方をわ/",
-    "https://inuiwan.com/archives/3282"
+    "https://inuiwan.com/archives/3282",
+    "https://growth-insight.net/有価証券報告書（有報）とは？見方・読み方をわ/"
    ]
   },
   {
    "query": "有価証券報告書・決算資料から稼ぎ方を読み解く方法 事例",
    "results": [
-    "https://www.tkc.jp/consolidate/webcolumn/014513",
-    "https://www.sompo-ri.co.jp/2026/07/16/23977/",
-    "https://kabu.com/kabuyomu/money/1191.html",
+    "https://www.youtube.com/watch?v=V5J1VOAUMV0",
     "https://hokiraon.jp/recroots/column/kessansho",
+    "https://www.tkc.jp/consolidate/webcolumn/014513",
+    "https://kabu.com/kabuyomu/money/1191.html",
+    "https://www.sompo-ri.co.jp/2026/07/16/23977/",
     "https://doda.jp/companyinfo/contents/finance/002.html",
     "https://www.fsa.go.jp/policy/kaiji/kaiji.html",
-    "https://investmentbridge.co.jp/business/ir-consulting/column/securities-report/",
     "https://note.com/yoh2619/n/nab63a136eecc",
-    "https://inuiwan.com/archives/3282",
+    "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
     "https://worldfinanceedu.com/articles/yuho-reading/"
    ]
   },
@@ -3268,14 +3562,14 @@
    "results": [
     "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
     "https://www.quantillium.com/blog/how-to-read-an-annual-report",
-    "https://www.instagram.com/reel/Daf9AactSET/",
+    "https://www.instagram.com/reel/DbRoIRKtkjy/",
+    "https://site.financialmodelingprep.com/education/financial-analysis/how-to-analyze-an-annual-report-k-like-an-investor",
     "https://online.hbs.edu/blog/post/how-to-read-an-annual-report",
     "https://www.reddit.com/r/ValueInvesting/comments/12f33w5/how_do_i_start_understanding_annual_reports/",
-    "https://site.financialmodelingprep.com/education/financial-analysis/how-to-analyze-an-annual-report-k-like-an-investor",
     "https://biz.libretexts.org/Courses/Reedley_College/Operation_of_a_Small_Business_for_College_Students/12%3A_Financial_Statement_Analysis_and_Competitor_Evaluation/12.01%3A_Reading_and_Interpreting_Annual_Reports",
-    "https://medium.com/@jennifinance/how-to-read-a-companys-annual-report-as-an-investor-in-30-minutes-8f4d1251ab66",
+    "https://www.youtube.com/watch?v=V28LpTApAww",
     "https://equityanalysislab.com/en/guides/how-to-read-an-annual-report/",
-    "https://mrchartist.com/learn/start/how-to-read-an-annual-report"
+    "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/"
    ]
   },
   {
@@ -3284,20 +3578,20 @@
     "https://note.com/yoh2619/n/nab63a136eecc",
     "https://note.com/f_bby__shota/n/nee46643ea909",
     "https://note.com/tatsuya_sabato/n/n42cf734362a7",
+    "https://note.com/tasuto11/n/nde45889dccb0",
     "https://note.com/oh_no/n/n66d698e5eb46",
-    "https://note.com/kessancareerlab/n/n3be4fdc2788e",
-    "https://note.com/zz08/n/nd6ec9df79282",
-    "https://note.com/zaimani_com/n/n55c23417fd36",
-    "https://note.com/tama_salon/n/n7c4d7e7b2f28",
     "https://note.com/good_dill292/n/n560d89f9a6d8",
-    "https://note.com/tatsuya_sabato/n/na9bc92107c20"
+    "https://note.com/good_dill292/n/n9e210ac21dbe",
+    "https://note.com/zz08/n/nd6ec9df79282",
+    "https://note.com/kessancareerlab/n/n3be4fdc2788e",
+    "https://note.com/zaimani_com/n/n55c23417fd36"
    ]
   },
   {
    "query": "site:x.com 有価証券報告書・決算資料から稼ぎ方を読み解く方法",
    "results": [
-    "https://x.com/kessan_lab?utm_source=yjrealtime&utm_medium=search",
     "https://x.com/GAMBEJP/status/2116552887652532253",
+    "https://x.com/kessan_lab?utm_source=yjrealtime&utm_medium=search",
     "https://x.com/selva_tec/status/2113465055690072118",
     "https://x.com/OTE_WALK/with_replies",
     "https://x.com/cool_warm",
@@ -3330,10 +3624,10 @@
     "https://www.facebook.com/100063773104000/posts/%E6%9C%AC%E6%97%A5%E7%99%BA%E5%A3%B2%E6%97%AC%E5%88%8A%E7%B5%8C%E7%90%86%E6%83%85%E5%A0%B110%E6%9C%881%E6%97%A5%E5%8F%B7%E2%91%A0%E7%89%B9%E9%9B%86ifrs%E4%BC%9A%E8%A8%88%E5%9F%BA%E6%BA%96%E4%BB%BB%E6%84%8F%E9%81%A9%E7%94%A8%E4%BC%81%E6%A5%AD%E3%81%AE%E9%96%8B%E7%A4%BA%E5%88%86%E6%9E%90%E3%81%A7%E3%81%AF%E6%9C%AC%E5%B9%B46%E6%9C%88%E6%9C%AB%E6%99%82%E7%82%B9%E3%81%A7%E3%81%AEifrs%E4%BC%9A%E8%A8%88%E5%9F%BA%E6%BA%96%E9%81%A9%E7%94%A8%E6%B8%88%E9%81%A9%E7%94%A8%E6%B1%BA%E5%AE%9A%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E6%9C%89%E5%A0%B1%E7%AD%89%E3%82%92%E6%8F%90%E5%87%BA%E3%81%97%E3%81%9F%E4%BC%81%E6%A5%AD/1679055850896836/",
     "https://www.facebook.com/yukito.ishiwari/",
     "https://www.facebook.com/p/%E7%AB%B9%E4%B9%8B%E5%86%85%E9%9A%86-1280465727/",
-    "https://www.facebook.com/100064515737150/?locale=ka_GE",
+    "https://www.facebook.com/100064515737150/?locale=ta_IN",
     "https://www.facebook.com/nikkeibpITpro/posts/情報通信企業大手15社の有価証券報告書を読み解き売上高や収益力平均給与などをランキング形式で見ていく第5回は平均勤続年数や平均残業時間有給休暇取得率男性の育児休/1389019073227973/",
-    "https://www.facebook.com/PwCJapan/posts/5546943048674634/",
     "https://www.facebook.com/PwCJapan/posts/調査レポート有価証券報告書から読み解くガバナンスとリスクマネジメントの動向2024国内上場企業の取り組みについて有価証券報告書をテキストマイニングで分析コーポレ/917494107073600/",
+    "https://www.facebook.com/PwCJapan/posts/5546943048674634/",
     "https://www.facebook.com/bizshinkou/",
     "https://www.facebook.com/itabashikigyou/posts/cfoの実践スキルである有価証券報告書の読み方をみっちり学ぶ毎回好評のcfo養成講座オンライン今回は有価証券報告書編を開催しますこれまでの決算書講座を通じて多く/4463804020321000/"
    ]
@@ -3344,13 +3638,13 @@
     "https://note.com/tatsuya_sabato/n/n42cf734362a7",
     "https://note.com/yoh2619/n/nab63a136eecc",
     "https://note.com/tatsuya_sabato/n/n812e0aaedcab",
-    "https://www.youtube.com/watch?v=V5J1VOAUMV0",
-    "https://note.com/f_bby__shota/n/nee46643ea909",
-    "https://www.sompo-ri.co.jp/2026/07/16/23977/",
     "https://note.com/oh_no/n/n66d698e5eb46",
-    "https://note.com/hr793/n/n30b224285b22",
-    "https://www.kotora.jp/c/54203/",
-    "https://note.com/ai_unilife_hack/n/ndacc8e072483"
+    "https://www.youtube.com/watch?v=V5J1VOAUMV0",
+    "https://note.com/tatsuya_sabato/n/n754a0605d639",
+    "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
+    "https://diamond.jp/articles/-/226361?page=2",
+    "https://edinetdb.jp/blog/management-philosophy-research",
+    "https://inuiwan.com/archives/3282"
    ]
   },
   {
@@ -3359,26 +3653,28 @@
     "https://www.youtube.com/watch?v=9CZJppArjtw",
     "https://hokiraon.jp/recroots/column/kessansho",
     "https://president.jp/category/c05577",
+    "https://www.obc.co.jp/360/list/post235",
     "https://doda.jp/companyinfo/contents/finance/002.html",
     "https://www.sompo-ri.co.jp/2026/07/16/23977/",
     "https://kabu.com/kabuyomu/money/1191.html",
     "https://note.com/tatsuya_sabato/n/n42cf734362a7",
-    "https://www.obc.co.jp/360/list/post235"
+    "https://irshukatsu.com/guide",
+    "https://note.com/company_jobhunt/n/nfee32d55b15c"
    ]
   },
   {
    "query": "read annual reports business model analysis site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/gautamrastogi1_how-to-read-annual-reports-using-ai-activity-7420638977927479296-Q8F4",
     "https://www.linkedin.com/pulse/how-read-annual-report-30-minutes-andrew-stotz-dwezf",
     "https://www.linkedin.com/posts/peeyushchitlangia_learning-financial-analysis-here-is-my-activity-7322886400972931072-XxHr",
+    "https://www.linkedin.com/posts/gautamrastogi1_how-to-read-annual-reports-using-ai-activity-7420638977927479296-Q8F4",
     "https://www.linkedin.com/pulse/mastering-art-reading-annual-reports-insights-from-warren-amit-rana",
     "https://www.linkedin.com/posts/aditya-kondawar-63725570_used-to-spend-a-couple-of-hours-reading-through-activity-7367031920787943424-ONIy",
     "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/how-to-use-financial-statements-for-competitive-analysis/",
     "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/understanding-earnings-reports-for-better-insights/",
+    "https://www.linkedin.com/pulse/how-analyze-annual-reports-investor-presentations-like-adarsh-kumar-tg41c",
     "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/financial-statement-analysis-for-investment-strategies/",
-    "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/analyzing-financial-statements-for-startups/",
-    "https://www.linkedin.com/pulse/how-analyze-annual-reports-investor-presentations-like-adarsh-kumar-tg41c"
+    "https://www.linkedin.com/top-content/writing/writing-for-finance-industry/how-to-write-financial-analyses/"
    ]
   }
  ],
@@ -3386,51 +3682,307 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "現在進行中の、あるいは将来計画されている大規模な設備投資（新工場の建設、基幹システムの導入、大型店舗の出店など）の概要が記載されています",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "quote": "「世界一やさしい」のタイトル通り、図解とイラストを多用しながら、決算書から有望企業を発掘する手順を体系的に解説しています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "「優良企業型（営業CFがプラス、投資CFと財務CFがマイナス）」",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "quote": "「会計がわからんで経営ができるか」「キャッシュベース経営の原則」など、経営現場で実際に活きる会計の使い方が、実体験を通じて熱く語られています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "主な入手方法は2つあります",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "quote": "「外資系金融の分析力と瞬発力が身につく19の方法」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "もう一つの手軽な入手方法が、",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "quote": "決算書を読めるようになった次のステップとして、「その企業はいくらの価値があるのか」を計算するスキルが必要になります",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "どちらの方法も一長一短があるため、自分の目的や習熟度に応じて使い分けることが重要です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "quote": "ステップ1：会計ゼロからスタートする人（1〜2ヶ月）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ2：株式投資に活かしたい人（追加で1ヶ月）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ3：仕事・経営に活かしたい人（追加で1〜2ヶ月）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ4：上級・専門レベルへ（追加で2〜3ヶ月）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "継続するためのちょっとしたコツを共有しておきます",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "KPIを設定している場合には、その内容として、目標の達成度合いを測定する指標、算出方法、なぜその指標を利用するのかについて説明することや、合理的な検討を踏まえて設定された経営計画等の具体的な目標数値を記載することが考えられるとされています",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資金調達の方法については、資金需要を満たすための資金が営業活動によって得られるのか、銀行借入、社債発行や株式発行等による調達が必要なのかを具体的に記載することが考えられるとされており、資本コストに関する企業の定義や考え方についてもこれらの内容とともに説明することも有用とされています",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個々の重要な投資案件の潜在的なリスク、事業等のリスクの性質ごとの分類について分かりやすく記載している例や、事業等のリスクの把握及び管理方法を記載している例が紹介されています（p. 2-1、p. 2-6、p.2-13）",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "成長投資、手許資金、株主還元の方針と、資金需要に対する資金調達の方法や設備投資の水準についての経営者の考えの記載や、今後の実質フリー・キャッシュ・フローや株主還元の目標水準及び株主資本コストの目標水準を記載している例が紹介されています（p. 4-3、p. 4-4、p. 4-5）",
+    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "【2026年最新】決算書の読み方が学べるおすすめ本22選｜会計初心者から株式投資・経営分析まで実戦で使える名著マップ｜コトビトの部屋＠本好き",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【2026年最新】決算書の読み方が学べるおすすめ本22選｜会計初心者から株式投資・経営分析まで実戦で使える名著マップ",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「決算書って数字ばっかりで、見ても何が書いてあるかさっぱり分からない…」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「株を買いたいんだけど、企業の決算書から有望株を見抜けるようになりたい」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書（財務3表）が読めるようになると、世界の見え方が一気に変わります",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただ、決算書の本は数百冊単位で出ていて、しかも内容のレベルがピンキリ",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜ今、決算書を読めるスキルが価値を持つのか",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書を読む力は、",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書を学ぶ前に押さえたい3つの大前提",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本の紹介に入る前に、決算書学習で挫折しないための「考え方の前提」を共有しておきます",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書は会計士のためだけのものではありません",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書の本は、著者ごとに切り口が違います",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3. 必ず実物の決算短信を1社分は眺めること",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "気になる企業のIRページに飛んで、最新の「決算短信」「有価証券報告書」を1社分だけでも眺めてください",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ],
   "失敗・落とし穴": [
    {
-    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説",
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "quote": "会計をまったく知らない初心者から、株式投資のファンダメンタル分析を極めたい中上級者まで、目的別に厳選した22冊",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説「楽天ポイントで投資できるって聞いたけど、本当に意味あるの？」と疑問を持っている方は多いはずです",
+    "quote": "一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "⑩ 株を買うなら最低限知っておきたい ファンダメンタル投資の教科書 改訂版｜足立武志",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個人投資家向けファンダメンタル分析本の決定版",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "⑪ 世界一やさしいファンダメンタル株投資バイブル｜日根野健（ひねけん）",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Voicy人気パーソナリティ・ひねけん氏による、初心者向けファンダメンタル分析の決定版",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "⑩「ファンダメンタル投資の教科書」 → ⑫「3分速読からの10倍株の探し方」 → ⑭「バフェットの財務諸表を読む力」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "10%以上なら優良、5%未満は注意",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書学習でやりがちな3つの失敗",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最後に、決算書を学び始めた人が陥りがちな失敗を3つだけ紹介します",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗1：簿記から学び始める",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗2：1冊を完璧にしようとする",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗3：本だけで実物の決算書を見ない",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は⑩「ファンダメンタル投資の教科書」と⑫「10倍株の探し方」と⑭「バフェットの財務諸表を読む力」",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "NISAはやめたほうがいい？メリット・注意点をわかりやすく解説",
     "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "NISAはやめたほうがいい？メリット・注意点をわかりやすく解説「NISAって危険なの？」「暴落したらどうなる？」「やめたほうがいいって本当？」という疑問を持っている方は多いはずです",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "｢ある｣と答えても｢ない｣と答えてもダメ…禅の師匠に何度も突き返された修行僧が､最後に差し出した｢答え｣",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "36歳で外資コンサル転職は間違いではなかったが…丸紅･大本社長がたった1年半で｢出戻り｣を決意した深いワケ",
+    "url": "https://president.jp/category/c05577",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "最新の上場企業の事例を元に、決算書を「分析する視点」を学べるのがポイント",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "短期的な利益ばかり追う「PL思考」から、企業価値を最大化する「ファイナンス思考」への転換を、Amazon・リクルート・JTなどの事例を交えて解説しています",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1冊を100%理解する必要はなく、複数冊を「7割理解」で次々に読んだ方が、結果的に立体的な理解に到達します",
+    "url": "https://note.com/tasuto11/n/nde45889dccb0",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 16,
+ "runs": 17,
  "first_researched_at": "2026-11-05T00:00:33.046062+00:00"
 }
