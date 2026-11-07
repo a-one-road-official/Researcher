@@ -3849,38 +3849,40 @@
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
 - 手順・やり方：
+  - 「Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Conceptualization, Methodology, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Poynter: How to Make Sense of Numbers in Science and Health Reports」（https://journaliststoolbox.ai/writing-with-numbers/）
   - 「Slides form NICAR 22 presentation on how to write with data, by Holly Hacker and Jen LaFleur.」（https://journaliststoolbox.ai/writing-with-numbers/）
   - 「GIJN: Interpreting Data – How to Read the Numbers」（https://journaliststoolbox.ai/writing-with-numbers/）
-  - 「This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Audiences may need to understand how the data originated to assess its importance. This may include understanding study-design; sample size; representativeness; how the data was collected; geographical relevance or time periods and the methodology used to analyse the data.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「For further discussion about how to evaluate statistics from sources, such as surveys and polls see separate guidance note.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「For guidelines about Data: data quality; how data is sourced; how to access analyse, present, report and store data, see Editorial Guidelines,」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「methodology used to analyse any dataset should normally be available to the audience, in a format appropriate to the content, including any relevant uncertainty or margins of error.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「The more detail a report includes of the data analysis, the more detail should be provided about the methodology, taking account of where the content will be published.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「300 words and an explanatory graphic to the methodology」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Conspiracy Beliefs and How to communicate uncertainty」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
-  - 「(articles and guides by First Draft, the Public Data Lab, the Digital Methods Initiative, and Open Intelligence Lab)」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
-  - 「The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
-  - 「This article by Poynter presents a list of pros and cons of using rating system when establishing the validity of a claim or fact. It also includes a link to a free self-directed course on how to improve your skills in fact-checking and accountability.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
-  - 「Triage your fact-checking: a method (and board game)」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
 - 突き合わせ・推定：
-  - 「You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「Estimated Unemployment」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「. Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「Large counts are usually estimates, which differ from the true value by some amount.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「But is it really “extremely improbable?” Nate Silver has estimated the odds:」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「. Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「Estimated reading time: 6 minutes」（https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing）
+  - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「checked PolitiFact fact-checks 77.4% of the time (22.6% selection disagreement). Moderate agreement was observed for deceptiveness scaling. Nearly complete agreement was observed for bottom-line attributed veracity. Additional cross-checking with other sources (Snopes,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「) compared in their assessment of statements fact-checked. We therefore evaluated the extent to which fact-checkers are checking the same statements and if cross-validation is possible. The ability to cross-check and, by implication, the ability of fact-check readers to trust results across multiple fact-checking organizations leads to our second research question:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「We took a layered approach to evaluate how often statements fact-checked by other popular sources were cross-checked with PolitiFact. First, we evaluated only statements from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「= 513 statements during Trump’s presidency). We could not cross-check」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-checking PolitiFact and」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「for more details). Coders resolved cross-checking discrepancies after discussion and re-performing the fact-checks together to ensure the right cross-check occurred. Please see the」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「for examples of five representative and successful cross-checks across」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「and PolitiFact. Note, since this coding procedure was a simple cross-checking task and did not involve thematic interpretation akin to qualitative coding, special coding software was not required. Please see the」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-checking PolitiFact with Snopes and」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-checking selection agreement」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Our cross-checking revealed 22.6% of statements fact-checked by PolitiFact did not appear in」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Table 1. Summary of cross-checking results across analyses for President Trump data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-check selection agreement (%)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
 - 一次情報の探し方：
+  - 「http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「PDF (816.3 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
   - 「PDFs and printed copies of this report are available on the」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
@@ -3891,6 +3893,12 @@
   - 「Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「We provide links to primary sources for all factual assertions wherever possible and aim to provide at least two sources to verify the central claim of a check unless there is only one relevant source. We prefer to link to data tables, legal documents, or other primary sources rather than press releases or executive summaries of statistical releases.」（https://fullfact.org/how-we-fact-check/）
 - 失敗・落とし穴：
+  - 「]. People, however, may question the credibility of fact-checkers for different reasons, including the perception that fact-checkers are biased, concerns around disinformation, or a general distrust in the media or institutions. A crucial question is: How do we know the fact-checkers are accurate? The answer is to check and compare the fact-checkers [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「) was low and the total number of reviewed statements was small as well, which would bias reliability calculations. Discrepancies were resolved after discussion and coders re-performing the fact-checks together.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「One concern with our analysis relates to the perceived liberal political bias that fact-checking organizations might have against a Republican president such as Donald Trump. To address this issue, all available fact-checks during President Biden’s first 100 days were extracted from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「. This analysis helped to indicate if a subtle, yet unknown fact-checking bias existed for」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「because of a person’s unique Google history and what Google assumes the searcher would be interested in. Algorithmic bias in fact-checking and citizens’ experiences should be acknowledged.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Four tips to avoid math mistakes」（https://journaliststoolbox.ai/writing-with-numbers/）
   - 「This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
@@ -3900,25 +3908,22 @@
   - 「Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「Even careful professionals make mistakes. What distinguishes trustworthy journalism is how errors are handled. Correct them promptly, state clearly what was wrong, and explain what the accurate information is. Hiding or quietly deleting mistakes damages trust far more than an honest correction does.」（https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing）
-  - 「• Beware emotional biases and confirmation bias – statistics may be shared to evoke particular emotions, and people」（https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf）
-  - 「• Ed Humpherson for Real World Data Science, ‘Pseudo data science’ and other pitfalls: lessons from the UK’s Stats」（https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf）
 - 実例：
+  - 「Relatedly, some fact-checkers scale the nature of false and misleading statements by providing a “grade” for their deceptiveness. PolitiFact, for example, rates false statements on their Truth-O-Meter from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「for examples of five representative and successful cross-checks across」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「. The denominator in each cross-check agreement calculation is the PolitiFact value. For example, 64.7% of PolitiFact」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「considered egregious and PolitiFact believed they had some validity. For example, three examples in the top left corner of」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「’s Fact Checker casts a wider net on the statements to fact-check. This was especially the case for President Trump as they set out to do a comprehensive review of his statements over time. These differences are noticeable and appear to affect the data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「]). For example, during his final year as president and as the 2020 U.S. presidential election approached, President Trump’s lying rate increased dramatically compared to other years [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「We learned that political fact-checking is difficult, and fact-checkers face nontrivial challenges as they try to evaluate the truth. In some cases, as our analysis involving Snopes and」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Rahmawan D, Hartanto R, Garnesia I. Multi case analysis on the development of fact-checking organizations in Indonesia. Jurnal Kajian Komunikasi. 2022;10: 14–28. doi: 10.24198/jkk.v10i1.38752」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Care should be taken when reporting a change in an average as it does not necessarily mean a change for an individual. For example, if average wages rise, this does not mean that all people in the distribution get paid more; some people may not have seen an increase in their wage at all because a mean value does not reflect income distribution.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Consideration should be given to regression to the mean as a possible cause of an observed change. For example, the reduction in the incidence of an illness following a vaccination programme may be explained by regression to the mean, particularly if the intervention was at the height of an outbreak.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Comparisons can help numbers which may be meaningless in isolation, make more sense. For example, reporting that German GDP has increased by 0.3% is more meaningful if audiences are told which time periods are being compared or how large German GDP is, or how the change compares with other European countries.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Failure to look at comparisons can highlight other contextual problems. For example, 584 unwanted pregnancies from one type of contraceptive is not so significant when compared with the much higher failure rates of other contraceptives, making it possibly the most effective form of contraception to use.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Beware that changes in measuring systems or recording standards can invalidate comparisons over time. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「To make levels of risk more meaningful, content makers should consider expressing that risk in human terms rather than as a percentage. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「(It should be noted that 1,000 out of 10,000 sounds like a higher risk than 1 out of 10 and should be avoided. If comparing risks, the same denominator should be used. For example,」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「These briefings, by Full Facts researcher Dr Dora-Olivia Vicol, explore two topics relevant to any communicators – especially journalists. These concise briefings, which use case studies and introduce psychological concepts, conclude with several recommendations for fact-checkers and journalists.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
-  - 「The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
-  - 「This article by Deepak Adhikari, editor of South Asia Check, explains the basics of fact-checking. It is part of The Kit, a collection of short guides by Exposing the Invisible. It includes definitions of terms, uses examples, and provides additional resources. Adhikari emphasises the importance of fact-checking stories which are in the public interest.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
-  - 「# NHS waiting times example — why median matters」（https://www.ukjournohub.com/data-journalism/statistics-for-journalists）
-  - 「A percentage change is impressive but the base number is tiny (e.g. 200% increase from 1 to 3 cases).」（https://www.ukjournohub.com/data-journalism/statistics-for-journalists）
 
 ## IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）（IFCN fact-checking steps rating definitions numbers claims methodology）
 - 文脈：
@@ -5721,6 +5726,7 @@
   - 「インターネットを使えない人のために、都道府県の図書館などに官報発行サイトを見られる端末も置かれています」（https://note.com/joshima_s/n/n04cab9927719）
 - 失敗・落とし穴：
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -5734,8 +5740,8 @@
   - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
+  - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -9182,7 +9188,7 @@
   - 「For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
 
 ## 競合仮説分析の診断力（どの仮説にも合う証拠を外す）と結論を兆し（サインポスト）に変える実務（Umbrex・Heuer・コンサル）（analysis of competing hypotheses diagnosticity of evidence signposts indicators consulting practice）
 - 文脈：裏取り
@@ -10205,11 +10211,11 @@
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例（full-time equivalent conversion denominator per employee comparison pitfalls）
 - 文脈：推定
