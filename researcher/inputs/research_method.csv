@@ -167,3 +167,6 @@ AIや他人が示した番号・統計・引用を原本で1件ずつ照合す�
 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活,detect overgeneralization single case to multiple in summaries date confusion verify against original text,要約 誇張 一般化 原文 照合 ファクトチェック;1件の事例 相次ぐ 誇張 見抜き方;翻訳 要約 日付 混同 検証,検証
 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活,find company financial statement public notice by publication method electronic public notice Japan coverage gap,決算公告 探し方 電子公告 官報 網羅;公告をする方法 登記事項証明書 確認;電子公告 5年 掲載期間 決算,method
 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活,detect column misalignment when flattening tables from PDF HTML table extraction validation,PDF 表 抽出 列ずれ 検証;表 テキスト化 崩れ 対策 RAG;table extraction accuracy evaluation pdf,method
+複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け,multi-source cross-check shared bias role swap majority voting vs any-alarm rule,クロスチェック 共通バイアス 役割 入れ替え;複数AI 多数決 審判 バイアス note;メタ・クロスチェック シコファンシー,突き合わせ
+1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例,full-time equivalent conversion denominator per employee comparison pitfalls,常勤換算 計算 注意点 兼務;FTE 換算 生産性 比較 落とし穴;延べ人数 頭数 違い 統計,推定
+競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ,analysis of competing hypotheses limitations hypothesis mapping empirical evidence,競合仮説分析 限界 実証;ACH 批判 仮説 生成 バイアス;仮説マッピング 情報分析,突き合わせ
