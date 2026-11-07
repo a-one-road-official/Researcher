@@ -4940,6 +4940,12 @@
 ## 造船の受注残と人手不足（一次）（shipbuilding order backlog labor shortage Japan）
 - 文脈：8 造船 ④受注残と人手
 - 痛み・損（深さの印）：
+  - 「造船・舶用に関わる人の必修ニュース 2026年8月第2週｜中国受注残トップが恒力造船に交代・韓国2強の受注爆発・川重24%増益──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/2024zosengyokai/）
+  - 「Norwegian Shipyards Face Shrinking Order Backlogs as Union Urges Government Intervention」（https://www.imarinenews.com/34482.html）
   - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「ダイハツインフィニアース（6023）の株価・配当・今後｜上期は営業益66%増・受注残1,228億円、船の発電用エンジンで国内シェア5割近い舶用メーカーを決算資料で読む｜今週のピックアップ銘柄・2026年11月」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「2026年8月12日時点の公開資料では、受注残は厚い一方で、引渡し時期は」（https://note.com/yo4shi80/n/nf9912a86ef51）
@@ -4949,29 +4955,29 @@
   - 「主要造船所に数年先まで受注残が積み上がる局面では、船主が希望する引き渡し時期を確保できず、建造先や船型を見直す可能性もあります」（https://www.atpress.ne.jp/news/5632976）
   - 「海運市況が好調な時期の大量発注は将来の引き渡し時点で供給過剰につながる可能性もあり、受注残の拡大が必ずしも造船所の収益改善を意味するわけではありません」（https://www.atpress.ne.jp/news/5632976）
   - 「・LPG運搬船受注残10隻・1→5株式分割（4月）」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「・新造船受注残4,221億円」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「：川崎重工の受注残10隻と高水準」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「：受注残・脱炭素設備投資・防衛シフトの収益寄与を追う」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「造船業界 2025年上期トピックス3選と「その後」｜受注残3.7年分・日米協力・フェリー新造ラッシュ」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「ダイハツインフィニアース（6023）の株価・配当・今後｜上期は営業益66%増・受注残1,228億円、船の発電用エンジンで国内シェア5割近い舶用メーカーを決算資料で読む｜今週のピックアップ銘柄・2026年11月」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/2024zosengyokai/）
 - 顧客（金を払う側）：
+  - 「国内の設備投資と代替燃料船の需要動向をレポートプライムが分析」（https://newscast.jp/smart/news/5632976）
+  - 「日本では2026年9月、造船業再生基金を通じた設備投資の供給確保計画が相次いで認定され、建造能力の強化が実際の投資段階へ進みました」（https://newscast.jp/smart/news/5632976）
+  - 「船台の空き、人材、主要機器の調達、鋼材価格を含めて市場を評価することが、受注増加の持続性を判断するうえで欠かせません」（https://newscast.jp/smart/news/5632976）
+  - 「ばら積み貨物船、コンテナ船、タンカー、ガス運搬船などの発注金額を中心に考え、海運会社の運賃収入や既存船隊の資産価値とは区別しています」（https://newscast.jp/smart/news/5632976）
+  - 「受注数量、契約額、受注残、引き渡し実績をそれぞれ分けて評価する必要があります」（https://newscast.jp/smart/news/5632976）
+  - 「ドックの拡張、クレーンの導入、製造工程の省力化・自動化などが支援対象となっており、造船所の生産基盤を中長期で再構築する動きとして注目されています」（https://newscast.jp/smart/news/5632976）
+  - 「ただし、この投資規模は将来の新造船受注額や売上高を示すものではありません」（https://newscast.jp/smart/news/5632976）
+  - 「設備整備が進んでも、熟練工の確保や舶用機器の調達に制約が残れば、建造量の増加には時間がかかります」（https://newscast.jp/smart/news/5632976）
+  - 「二元燃料船は複数の燃料を利用できる設計ですが、実際にどの燃料を使用するかは燃料調達網、港湾インフラ、運航航路、価格条件によって変わります」（https://newscast.jp/smart/news/5632976）
+  - 「輸送需要の変化は新造船発注に影響しますが、設備要件や納期の違いも船価を左右します」（https://newscast.jp/smart/news/5632976）
   - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「9月も17隻の輸出船を受注し、納期は2030年度まで埋まり始めました」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「1. 何が起きたのか──受注は好調、でも造船向け鋼材は9.8%減」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「──日本船舶輸出組合によると、9月の輸出船受注は17隻・51万総トン」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「受注は積み上がる一方で、完成させるペースは上がっていない」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「坂出工場に10年で約1,000億円を投資」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「採用の門が広く、待遇改善が進みやすい」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船・鉄鋼業界は技術力が高く、腰を据えて働ける企業が多い一方、」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「──受注の増加が、実際の完成量の増加につながっているか」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「の項目があるので、造船所の直接採用と、外部人材の流入を分けて読む余地があります」（https://note.com/yo4shi80/n/nf9912a86ef51）
-  - 「国内の設備投資と代替燃料船の需要動向をレポートプライムが分析」（https://www.atpress.ne.jp/news/5632976）
-  - 「日本では2026年9月、造船業再生基金を通じた設備投資の供給確保計画が相次いで認定され、建造能力の強化が実際の投資段階へ進みました」（https://www.atpress.ne.jp/news/5632976）
-  - 「船台の空き、人材、主要機器の調達、鋼材価格を含めて市場を評価することが、受注増加の持続性を判断するうえで欠かせません」（https://www.atpress.ne.jp/news/5632976）
-  - 「ばら積み貨物船、コンテナ船、タンカー、ガス運搬船などの発注金額を中心に考え、海運会社の運賃収入や既存船隊の資産価値とは区別しています」（https://www.atpress.ne.jp/news/5632976）
 - 顧客の顧客（発注元が求めること）：
+  - 「中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船業界の将来性は？｜手持ち工事量3.5年分・3強時代・防衛・自律運航・脱炭素で『再復活』フェーズの実像を一次情報で徹底解説」（https://zosenblog.com/2024zosengyokai/）
+  - 「手持ち工事量3.5年分の好況、主要各社が過去最高水準の決算、3強時代の再編、艦艇輸出・自律運航・脱炭素という新競争軸、リスクとFAQまで客観的に整理した完全ガイド」（https://zosenblog.com/2024zosengyokai/）
+  - 「政府が官民投資工程表で国産LNG運搬船「2035年以降に年3〜5隻」の建造再開を明記、海事局は27年度概算要求も視野」（https://zosenblog.com/2024zosengyokai/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大」（https://zosenblog.com/261024zosentopix/）
+  - 「造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に」（https://zosenblog.com/261024zosentopix/）
   - 「日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「9月も17隻の輸出船を受注し、納期は2030年度まで埋まり始めました」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -4981,13 +4987,12 @@
   - 「日本市場では、設備投資が進むことを出発点として、建造能力の増強が納期、製品構成、収益性の改善につながるかを継続的に見極める必要があります」（https://www.atpress.ne.jp/news/5632976）
   - 「地域別の建造能力、価格、船種の専門性、納期、主要部材の調達網を比較することが重要です」（https://www.atpress.ne.jp/news/5632976）
   - 「脱炭素化と造船DXが変える発注・投資の判断基準」（https://www.atpress.ne.jp/news/5632976）
-  - 「日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括」（https://zosenblog.com/2024zosengyokai/）
-  - 「と高水準を保ち、納期別では2029年度が49%、2030年度が32%と、受注の中心はすでに「3〜4年先」の船です（日本船舶輸出組合の発表、日本海事新聞 2026年7月15日付）」（https://zosenblog.com/2024zosengyokai/）
-  - 「造船・舶用 直近トピックス 2026年5月17日｜本決算ラッシュ総まとめ・各社過去最高水準・30年度納期じわり拡大」（https://zosenblog.com/2024zosengyokai/）
-  - 「手持ち工事量約3.5年分、4月新造船受注66万GT(+6%)、30年度納期がじわり拡大の最新動向を出典明示で整理」（https://zosenblog.com/2024zosengyokai/）
-  - 「日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています」（https://zosenblog.com/2024zosengyokai/）
-  - 「日本の造船所では納期・船型・生産性が競争力の焦点に」（https://newscast.jp/smart/news/5632976）
 - 顧客の競合（奪いに来る側）：
+  - 「造船・舶用に関わる人の必修ニュース 2026年8月第2週｜中国受注残トップが恒力造船に交代・韓国2強の受注爆発・川重24%増益──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船業界 2026年5月 必読トピック5選｜韓国Q1受注・再生ロードマップ・LCO2船開発ほか」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「韓国HD現代+86%・サムスン重工+41%のQ1受注、政府の再生ロードマップ始動、今治造船多度津工場増設、邦船3社×造船4社のLCO2船共同開発、5月決算シーズンの注目銘柄まで完全ガイド」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「深読み解説｜LNG船の国内建造再開はなぜ韓国・フランス頼み？」（https://zosenblog.com/zosenshoraisei2026/）
   - 「国交省は主な要因として、①中国・韓国に比べて事業所の規模が小さい、②鋼材・資材の高騰で船価が高く、厳しい競争の中で建造能力を縮小した、③設計や現場で人材不足が深刻化──の3つを挙げています」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「今治×JMU（国内シェア約50%）、常石×三井E&S、三菱重工の豪州FFM獲得を一次情報ベースで完全整理し、「3強時代」の見取り図と就活・転職戦略まで解説します」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「今治造船 2026年上期まとめ｜JMU子会社化で世界4位・国内シェア50%超へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -4998,12 +5003,10 @@
   - 「深読み解説｜ステンレスの反ダンピング関税は何を変えるか──国内メーカーの営業利益は3年で6割減、中国・台湾材は減っても輸入は東南アジアへ」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「深読み解説｜LNG船の国内建造再開はなぜ韓国・フランス頼み？」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「商業造船の生産基盤はアジア太平洋地域に集中しており、中国、韓国、日本が大型商船の建造や受注で重要な役割を担っています」（https://www.atpress.ne.jp/news/5632976）
-  - 「ただし、国別の建造隻数やCGTの割合は、契約金額ベースの市場シェアと一致しません」（https://www.atpress.ne.jp/news/5632976）
-  - 「中国は大型商船の量的な供給能力、韓国はガス運搬船など技術集約型船種、日本はばら積み貨物船をはじめとする商船建造の生産技術に特徴がみられます」（https://www.atpress.ne.jp/news/5632976）
-  - 「欧州ではクルーズ船や特殊船、米州では国内建造制度や特定用途の調達需要が市場の性格に影響します」（https://www.atpress.ne.jp/news/5632976）
-  - 「レポートプライムの「造船市場の規模とシェア：2032年までの予測」は、造船市場の需要構造と競争環境を船種、地域、用途、建造能力、船価、技術動向の観点から整理する調査です」（https://www.atpress.ne.jp/news/5632976）
-  - 「産業、テクノロジー、エネルギー、製造業、医療、消費財など幅広い分野において、市場規模、市場シェア、成長率、市場予測、主要企業の競争環境、地域別動向、最新の業界トレンドを分析しています」（https://www.atpress.ne.jp/news/5632976）
 - 政治（法・予算・規制）：
+  - 「三菱重工が下関の人工島に約1,000億円の建造能力拡大、カナデビアと日鉄エンジの統合破談、再生基金の支援条件、ギリシャ船主の常石発注までまとめて解説します」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年7月第1週｜日本建造バルカー船価が強含み・政府成長戦略に造船明記・さんふらわあRORO3隻を内海造船で──これだけ押さえれば情報通」（https://zosenblog.com/zosenshoraisei2026/）
   - 「日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -5016,10 +5019,14 @@
   - 「燃料供給設備や規制の進展は地域によって異なるため、特定の方式が世界市場を一律に主導すると断定することはできません」（https://www.atpress.ne.jp/news/5632976）
   - 「2026年9月には造船業再生基金に係る8件の供給確保計画が認定され、官民合わせて約9,000億円規模の投資が見込まれています」（https://www.atpress.ne.jp/news/5632976）
   - 「売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「日本の造船業界は今後どうなる？再生基金・JMU統合から読む展望【2026年】 | ぞうせんブログ」（https://zosenblog.com/2024zosengyokai/）
-  - 「日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】」（https://zosenblog.com/2024zosengyokai/）
-  - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/2024zosengyokai/）
 - 経済（規模・価格・為替）：
+  - 「9月の輸出船受注は17隻で手持ち工事は約3.6年分、経産省は造船向け鋼材が人手不足で前年比9.8%減と予測」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第1週｜三菱重工が下関に1,000億円投資・カナデビアと日鉄エンジ統合破談・ギリシャ船主が常石に発注──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「三菱重工が下関の人工島に約1,000億円の建造能力拡大、カナデビアと日鉄エンジの統合破談、再生基金の支援条件、ギリシャ船主の常石発注までまとめて解説します」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「2024年度のクレーン売上高は3918億円、設置台数は23万4000台」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「2025年の番号盗用被害475.4億円も踏まえ、情報の組み合わせ別に、カード停止と再発行の判断、ID・パスワード変更、明細確認、漏洩通知を装うフィッシングへの備えを具体的に解説します」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「2024年度のクレーン売上高は3918億円、設置台数は23万4000台」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「2025年の番号盗用被害475.4億円も踏まえ、情報の組み合わせ別に、カード停止と再発行の判断、ID・パスワード変更、明細確認、漏洩通知を装うフィッシングへの備えを具体的に解説します」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
   - 「造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -5028,13 +5035,6 @@
   - 「坂出工場に10年で約1,000億円を投資」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「JMU 2026年3月期 通期決算速報｜純利益321億円（+61%）の創業以来最高益・2年連続更新」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「売上3980億円（+22%）・営業利益292億円（+81%）・純利益321億円（+61%）で創業以来最高益・2年連続更新」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「檜垣幸人会長が掲げる世界シェア20%回復・2035年建造能力2倍、NSYや生産購買のシナジー、3000隻達成・売上4646億円の実績、丸亀工場の事故と人手不足の課題まで海事新聞ベースで解説」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析」（https://www.atpress.ne.jp/news/5632976）
-  - 「2025年約1,600億米ドル、2032年まで年平均約5％成長」（https://www.atpress.ne.jp/news/5632976）
-  - 「について、2025年の商業新造船契約額を約1,600億米ドル（推計レンジ1,450億～2,100億米ドル）、2025年から2032年までの年平均成長率を約5.0％とする分析を公表しました」（https://www.atpress.ne.jp/news/5632976）
-  - 「2032年の市場規模は2,050億～2,600億米ドルの予測レンジを示しています」（https://www.atpress.ne.jp/news/5632976）
-  - 「市場規模、2032年までの成長見通し、船種別需要、地域別動向の分析範囲をご覧いただけます」（https://www.atpress.ne.jp/news/5632976）
-  - 「2025年市場規模（中心推計）」（https://www.atpress.ne.jp/news/5632976）
 - 社会（人・担い手）：
   - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -5052,6 +5052,13 @@
   - 「本稿では商業新造船契約の金額に着目し、建造数量と金額の違い、代替燃料船の需要、設備投資の効果、材料・人材による供給制約などを取り上げています」（https://www.atpress.ne.jp/news/5632976）
   - 「設備の増強、工程の自動化、人材確保、代替燃料船への対応が注目点です」（https://www.atpress.ne.jp/news/5632976）
 - 技術（新しい技術・実証）：
+  - 「三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「射出成形機用ロボットの世界市場（2026年～2032年）、市場規模（トラバース型搬出ロボット、パラレルトラバース型搬出ロボット、ブルヘッド型搬出ロボット、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/5632976）
+  - 「造船業界 2026年5月 必読トピック5選｜韓国Q1受注・再生ロードマップ・LCO2船開発ほか」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「韓国HD現代+86%・サムスン重工+41%のQ1受注、政府の再生ロードマップ始動、今治造船多度津工場増設、邦船3社×造船4社のLCO2船共同開発、5月決算シーズンの注目銘柄まで完全ガイド」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「元塾講師が教え子になりすまして英検2級に合格し、AI合成写真で近畿大学の推薦入試に出願した事件では、学生証を見た家族の違和感が不正を崩した」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「造船・舶用に関わる人の必修ニュース 2026年7月第3週｜川崎重工×NVIDIAでAI造船所へ・日米AI造船ロボ始動・SOY2025表彰式──これだけ押さえれば情報通」（https://zosenblog.com/2024zosengyokai/）
+  - 「川崎重工がNVIDIAと組み坂出工場を次世代デジタルシップヤードへ、国交省の日米AI造船ロボ研究も本格始動」（https://zosenblog.com/2024zosengyokai/）
   - 「──DXやロボット・AI技術を使い、建造プロセス全体の生産性を上げる」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「設備を増やし、ロボットやAIで1人あたりの生産量を上げ、そのうえで人材も確保する──3つを組み合わせる設計です」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「ベトナムの設計会社「DAIZO TEC」（170人）に、詳細設計に加えて一部の上流設計も任せる方針（日本海事新聞10月7日付）」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -5060,11 +5067,4 @@
   - 「AI・ロボティクスのシンポジウム（10月6日）では、造船現場の技術者の長年の経験や判断を、どうデータ化・構造化するかが課題として示されました（日本海事新聞10月8日付）」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「──再生基金の対象案件で、ロボット・AIへの投資がどこまで進むか」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「：国土交通省海事局船舶産業課「造船業の現況と造船業再生ロードマップについて」（2026年1月、日本の造船業の就労者数等の推移・造船業の現状と課題・ロードマップ）、日本造船工業会 檜垣幸人会長「造船業再生強化 ～建造能力倍増に向けて～」（2026年3月10日、第37回海事立国フォーラム）、経済産業省の10〜12月期鋼材需要見通し（日刊鉄鋼新聞・日刊産業新聞10月16日付1面）、日本海事新聞（大島造船所の会見・川崎重工の坂出工場投資〔10月7日付〕、AI・ロボティクスシンポジウム・JMUの内定式〔10月8日付〕、日本船舶輸出組合の9月実績〔10月16日付〕、舶用マイスター〔10月19日付〕）」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「ドックの拡張、クレーンの導入、製造工程の省力化・自動化などが支援対象となっており、造船所の生産基盤を中長期で再構築する動きとして注目されています」（https://www.atpress.ne.jp/news/5632976）
-  - 「次世代船舶の事業機会を、調査データから読み解く」（https://www.atpress.ne.jp/news/5632976）
-  - 「また、設計情報の一元管理、部材切断・溶接の自動化、生産計画の高度化など、造船所のデジタル化が進んでいます」（https://www.atpress.ne.jp/news/5632976）
-  - 「設備の増強、工程の自動化、人材確保、代替燃料船への対応が注目点です」（https://www.atpress.ne.jp/news/5632976）
-  - 「一次調査と二次調査を組み合わせ、新規市場参入、事業拡大、製品開発、競争戦略の策定、投資判断を支援しています」（https://www.atpress.ne.jp/news/5632976）
-  - 「ABF基板市場規模、2032年に95億～121億米ドルへ AI半導体需要と日本の先端パッケージ基板投資を分析」（https://www.atpress.ne.jp/news/5632976）
-  - 「積層セラミックコンデンサ（MLCC）市場規模、2032年211.6億米ドルへ―日本主要3社とAI・EV需要を分析」（https://www.atpress.ne.jp/news/5632976）
 - 自社の競合（商社・代理店・仲介）：記載なし（読んだ40頁・検索15回）

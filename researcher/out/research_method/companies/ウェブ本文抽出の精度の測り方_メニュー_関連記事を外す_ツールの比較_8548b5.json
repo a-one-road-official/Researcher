@@ -8,112 +8,8 @@
  ],
  "context": "抽出",
  "kind": "market",
- "researched_at": "2026-11-07T00:28:49.177578+00:00",
+ "researched_at": "2026-11-07T05:45:14.870231+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "[3] under multilingual conditions. We first identified biases in exist-",
-    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "configured not to extract comments, which can introduce a bias in",
-    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どちらか片方だけ見ると、選ぶべきツールを誤ります",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのフィクスチャにはボイラープレートがないため平均の対象外になり、実際の失敗が完璧なスコアに隠れていました",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "測っている量が違うため、片方をもう片方として扱うのは誤りです",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "元のテストベッドを見えなかった6つのうち2つがあり、そのうち1つは完璧な再現率の裏に完全失敗を隠していました",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "あわせて、複数形式の出力、軽量なセットアップ、処理速度、失敗時の挙動、そして商品カタログや任意フィールドの抽出に向いていない理由も扱っています",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "こういうライブラリを何本も見ていると、次に何か落とし穴が来るのではと身構えてしまいます",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この地味だけれど正しい失敗の振る舞いは、定期実行のバッチで動かす用途にはまさに欲しいものです",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注意点は 3 つあります",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3 つ目は、私自身の検証方法に関する注意です",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "を返す、落ち着いた失敗挙動",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "extraction profile tuning, the held-out test set was never used during development and provides an unbiased",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "systems inherit the same article bias as heuristic systems — they were trained predominantly on article-like",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "driven stages may introduce systematic biases; we mitigate this through multi-pass structure, two rounds of",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and ReaderLM-v2 inherit the article bias of their training data. Held-out results preserve the development-",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Online order: https://classic.ntis.gov/help/order-methods/",
@@ -482,118 +378,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "ただし、この研究では多言語抽出を検証していません",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、そのラベルは検証なしに今回の形状を超えて持ち出すべきではありません",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "jusText の最大の売りである stoplist を持っていても、多言語抽出は未検証です",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "静的 HTML から定型文をどれだけきれいに取り除きつつ、タイトル、著者名、日付、本文段落を保持できるかを検証しています",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "私はバージョン 2.1.0 を Python 3.14 上の固定フィクスチャ群で検証しましたが、特に印象に残ったのは記事抽出のテストでした",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その点、ここでは検証版と配布版が同じでした",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3 つ目は、私自身の検証方法に関する注意です",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "plexity, one has to estimate it. To show that such an estimation is",
-    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "that more complex models with better features can estimate page",
-    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "on its estimated extraction complexity, as there is no one-size-fits-",
-    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
-    "url": "https://www.osti.gov/servlets/purl/2429881",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294",
-    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
-    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "allow you to control which elements of the webpage are extracted. For example, you can select for",
@@ -819,6 +603,222 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "[3] under multilingual conditions. We first identified biases in exist-",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "configured not to extract comments, which can introduce a bias in",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どちらか片方だけ見ると、選ぶべきツールを誤ります",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのフィクスチャにはボイラープレートがないため平均の対象外になり、実際の失敗が完璧なスコアに隠れていました",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "測っている量が違うため、片方をもう片方として扱うのは誤りです",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "元のテストベッドを見えなかった6つのうち2つがあり、そのうち1つは完璧な再現率の裏に完全失敗を隠していました",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あわせて、複数形式の出力、軽量なセットアップ、処理速度、失敗時の挙動、そして商品カタログや任意フィールドの抽出に向いていない理由も扱っています",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こういうライブラリを何本も見ていると、次に何か落とし穴が来るのではと身構えてしまいます",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この地味だけれど正しい失敗の振る舞いは、定期実行のバッチで動かす用途にはまさに欲しいものです",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注意点は 3 つあります",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 つ目は、私自身の検証方法に関する注意です",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を返す、落ち着いた失敗挙動",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "extraction profile tuning, the held-out test set was never used during development and provides an unbiased",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "systems inherit the same article bias as heuristic systems — they were trained predominantly on article-like",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "driven stages may introduce systematic biases; we mitigate this through multi-pass structure, two rounds of",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and ReaderLM-v2 inherit the article bias of their training data. Held-out results preserve the development-",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "ただし、この研究では多言語抽出を検証していません",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、そのラベルは検証なしに今回の形状を超えて持ち出すべきではありません",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "jusText の最大の売りである stoplist を持っていても、多言語抽出は未検証です",
+    "url": "https://thunderbit.com/ja/blog/article-extraction-libraries-compared",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "静的 HTML から定型文をどれだけきれいに取り除きつつ、タイトル、著者名、日付、本文段落を保持できるかを検証しています",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "私はバージョン 2.1.0 を Python 3.14 上の固定フィクスチャ群で検証しましたが、特に印象に残ったのは記事抽出のテストでした",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その点、ここでは検証版と配布版が同じでした",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 つ目は、私自身の検証方法に関する注意です",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "plexity, one has to estimate it. To show that such an estimation is",
+    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "that more complex models with better features can estimate page",
+    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "on its estimated extraction complexity, as there is no one-size-fits-",
+    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -850,7 +850,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tasuto11/n/n34c9ac5380aa",
+    "url": "https://note.com/u_sn_notes/n/nc07670d2e70b",
     "status": "ok",
     "method": "http"
    },
@@ -860,12 +860,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yonemoto/n/nc9a3c6eeb424",
+    "url": "https://note.com/ai_komon/n/ndd2a1fdc500b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "url": "https://note.com/yonemoto/n/nc9a3c6eeb424",
     "status": "ok",
     "method": "http"
    },
@@ -890,12 +890,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.gohp.jp/blog/web-analysis/508/",
+    "url": "https://textmining.userlocal.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://textmining.userlocal.jp/",
+    "url": "https://www.gohp.jp/blog/web-analysis/508/",
     "status": "ok",
     "method": "http"
    },
@@ -910,7 +910,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.rootmetrics.com/ja-JP/methodology",
+    "url": "https://www.urban-sp.jp/column/90/",
     "status": "ok",
     "method": "browser"
    },
@@ -925,6 +925,11 @@
     "method": "http"
    },
    {
+    "url": "https://kaizenplatform.com/contents/site-analysis-tool",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.itreview.jp/categories/textmining",
     "status": "ok",
     "method": "http"
@@ -935,12 +940,7 @@
     "method": "browser"
    },
    {
-    "url": "https://crawlora.net/ja/blog/best-ai-web-scraping-tools-2026",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://thunderbit.com/ja/blog/best-article-scraper",
+    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "status": "ok",
     "method": "http"
    },
@@ -985,25 +985,26 @@
     "https://note.com/misaki_ai_work/n/ncf3719c7972c",
     "https://note.com/gtminami/n/nf27073fea479",
     "https://note.com/kiyo_ai_note/n/ne50e512cdabe",
-    "https://note.com/tasuto11/n/n34c9ac5380aa",
     "https://note.com/u_sn_notes/n/nc07670d2e70b",
-    "https://note.com/zenkok/n/n0a6d98b1c640",
     "https://note.com/cheesegue_/n/n62b3967c13d1",
-    "https://note.com/paguinu/n/n18d688521707"
+    "https://note.com/zenkok/n/n0a6d98b1c640",
+    "https://note.com/paguinu/n/n18d688521707",
+    "https://note.com/zenkok/n/n9883e45a6e8b"
    ]
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） note",
    "results": [
     "https://www.aspicjapan.org/asu/article/12410",
-    "https://note.com/yonemoto/n/nc9a3c6eeb424",
     "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "https://note.com/yonemoto/n/nc9a3c6eeb424",
     "https://note.com/takane_konbu/n/n4140488717b9",
     "https://senoweb.jp/note/textmining/",
     "https://textmining.userlocal.jp/questions",
     "https://kaizenplatform.com/contents/site-analysis-knowledge",
     "https://biz.note.com/n/n07aac40f6ada",
-    "https://app.copyleaks.com/ja/text-compare"
+    "https://app.copyleaks.com/ja/text-compare",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135"
    ]
   },
   {
@@ -1011,29 +1012,29 @@
    "results": [
     "https://it-trend.jp/textmining/article/124-0029",
     "https://www.aspicjapan.org/asu/article/12410",
-    "https://www.gohp.jp/blog/web-analysis/508/",
     "https://textmining.userlocal.jp/",
+    "https://www.gohp.jp/blog/web-analysis/508/",
     "https://kaizenplatform.com/contents/site-analysis-knowledge",
     "https://kaizode.tdse.jp/post_column/44/",
-    "https://www.rootmetrics.com/ja-JP/methodology",
     "https://www.urban-sp.jp/column/90/",
     "https://ec-force.com/blog/d2c_no296",
-    "https://note.com/niti_technology/n/nf614a498b089"
+    "https://senoweb.jp/note/textmining/",
+    "https://hyperallergic.com/"
    ]
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） 事例",
    "results": [
-    "https://data.wingarc.com/text-mining-17884",
-    "https://it-trend.jp/textmining/article/124-0029",
     "https://www.aspicjapan.org/asu/article/12410",
+    "https://it-trend.jp/textmining/article/124-0029",
+    "https://data.wingarc.com/text-mining-17884",
     "https://www.mieruka-engine.com/media/textmining",
+    "https://textmining.userlocal.jp/",
     "https://www.gohp.jp/blog/web-analysis/508/",
-    "https://kaizenplatform.com/contents/site-analysis-knowledge",
-    "https://textmining.userlocal.jp/questions",
+    "https://kaizenplatform.com/contents/site-analysis-tool",
     "https://www.itreview.jp/categories/textmining",
     "https://www.nttcoms.com/service/research/dataanalysis/textmining/",
-    "https://crawlora.net/ja/blog/best-ai-web-scraping-tools-2026"
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135"
    ]
   },
   {
@@ -1047,7 +1048,7 @@
     "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
     "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
     "https://dl.acm.org/doi/10.1145/3539618.3591920",
-    "https://ws-dl.blogspot.com/2017/03/2017-03-20-survey-of-5-boilerplate.html",
+    "https://www.llamaindex.ai/glossary/extraction-accuracy-benchmarking",
     "https://arxiv.org/pdf/2605.21097"
    ]
   },
@@ -1055,101 +1056,102 @@
    "query": "site:note.com ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）",
    "results": [
     "https://note.com/syou1024/n/ncf1c4a6d55bd",
-    "https://note.com/octoparse_japan/n/n8f9e67afba90",
-    "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "https://note.com/shin_iwata/n/n86e4ba7a35bd",
     "https://note.com/ai_komon/n/n3e82a636cc7b",
+    "https://note.com/gtminami/n/nac7ff90798ca",
+    "https://note.com/tsunobuchi/n/ncfedae3684d7",
     "https://note.com/hiro_seki/n/n394dfb221a77",
-    "https://note.com/kakeyang/n/n5c9ded554eb0",
-    "https://note.com/pttrner_tech/n/n18d0fb472f73",
+    "https://note.com/octoparse_japan/n/n8f9e67afba90",
     "https://note.com/nonoonenono/n/n9c4e29072c2c",
-    "https://note.com/tsunobuchi/n/n1b1a1cb9687d",
-    "https://note.com/cor_marketing/n/nf577f2826ee4"
+    "https://note.com/cor_marketing/n/nf577f2826ee4",
+    "https://note.com/kaiyu06/n/n548eefd934c6"
    ]
   },
   {
    "query": "site:x.com ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）",
    "results": [
     "https://x.com/ginji_aihack/article/2075135455449038909",
-    "https://x.com/sora_biz/status/2058901946845815092",
-    "https://x.com/MGT_maccha/article/2073014053153480914",
-    "https://x.com/so_ainsight/status/2063594411582517310",
-    "https://x.com/RShirohara/status/2107455610673635492",
-    "https://x.com/i/trending/2026225452621398252",
-    "https://x.com/naoki_ninja_/status/2040635035259396423",
-    "https://x.com/blanknote/status/2106535921302810821"
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "https://note.com/53___/n/n0e4a04e4ce5b",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://note.com/55clotho/n/n816d179b53ec",
+    "https://note.com/11210858628/n/n7e223074461f",
+    "https://note.com/11210858628/n/nb4f19584078e",
+    "https://note.com/todoonada/n/ne5b21886eec0"
    ]
   },
   {
    "query": "site:linkedin.com ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）",
    "results": [
-    "https://jp.linkedin.com/pulse/5-essential-tools-web-scraping-data-science-yash-amesar-aslqf?tl=ja",
-    "https://jp.linkedin.com/pulse/becoming-analytics-wizard-web-tools-you-should-using-katarina-oja-efu6f?tl=ja",
-    "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
-    "https://jp.linkedin.com/pulse/definitive-guide-ocr-accuracy-benchmarks-best-practices-sanjeev-bora-i4agc?tl=ja",
-    "https://jp.linkedin.com/pulse/text-extraction-ai-look-tools-matter-jim-liddle-i4fxe?tl=ja",
-    "https://www.linkedin.com/pulse/edgeのcopilotでウェブサイトの内容を要約してみよう-憲孝-田村-jlpwc",
-    "https://www.linkedin.com/feed/update/urn:li:share:7508544696785346560"
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "https://note.com/53___/n/n0e4a04e4ce5b",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://note.com/55clotho/n/n816d179b53ec",
+    "https://note.com/11210858628/n/n7e223074461f",
+    "https://note.com/11210858628/n/nb4f19584078e",
+    "https://note.com/todoonada/n/ne5b21886eec0"
    ]
   },
   {
    "query": "site:facebook.com ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）",
    "results": [
-    "https://www.facebook.com/relipasoft/photos/正式retailsatori小売業界向け最先端ai搭載webスクレイピングツールをchrome拡張機能としてリリースretailsatoriの強み-精度と効率性/1223679102795227/",
-    "https://www.facebook.com/rooterjp/posts/未知のレイアウトのwebサイトからナビゲーションバーやサイドバーフッターなどを取りのぞいた本文部分のみを抽出するサービスを提供いたしますaiクローラーは未知のレ/2410703572509789/",
-    "https://www.facebook.com/waca.jp/photos/ウェブ解析士認定試験公式テキスト2026第17版pdf版発売しました生成ai関連など最新の状況に対応するため内容を大幅に改訂しています-主な変更点生成ai関連を/1387957500007623/",
-    "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/",
-    "https://www.facebook.com/Ryusho.Igarashi/videos/嫌なホールを短くする飛距離に優位性がある選手ほど事件が起こりやすいのがゴルフで海外ツアープロほどのロングショットの精度があれば攻め切れるのでraは飛びすぎに厳し/4003025546660031/",
-    "https://www.facebook.com/SolidWorksJP/posts/第15回えマジっすかそんなの知らなかったテクニック不定期でそんなの知らなかったテクニックをご紹介していきます今回はドラフト精度-マジっすかシリーズ-第15回-ド/2826263454104666/",
-    "https://www.facebook.com/mentalabo/videos/なぜ一流選手でもpkを外すのかメッシエムバペに見る失敗の心理と技術1gkを見続ける蹴り方はボールの精度を落としやすい2gkに反応しすぎると狙いを途中で変えてしま/3039711926218208/"
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "https://note.com/53___/n/n0e4a04e4ce5b",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://note.com/55clotho/n/n816d179b53ec",
+    "https://note.com/11210858628/n/n7e223074461f",
+    "https://note.com/11210858628/n/nb4f19584078e",
+    "https://note.com/todoonada/n/ne5b21886eec0"
    ]
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） note 社長",
    "results": [
     "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "https://note.com/kira_ai_lab/n/n0c9d01a4cb9e",
     "https://www.aspicjapan.org/asu/article/12410",
-    "https://biz.note.com/n/n07aac40f6ada",
     "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
     "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91note%E3%81%A8%E3%81%AF%EF%BC%9Fseo%E5%8A%B9%E6%9E%9C%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A4%9C%E7%B4%A2%E4%B8%8A%E4%BD%8D%E8%A1%A8/",
     "https://note.com/info/n/n470a5101633b",
-    "https://textmining.userlocal.jp/questions",
     "https://developer.apple.com/jp/videos/play/wwdc2026/268/",
-    "https://prtimes.jp/webclipping/service"
+    "https://textmining.userlocal.jp/questions",
+    "https://kn.itmedia.co.jp/kn/article/2609/08/2000001185/",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135"
    ]
   },
   {
    "query": "ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較） X 投稿",
    "results": [
     "https://www.aspicjapan.org/asu/article/12410",
-    "https://thunderbit.com/ja/blog/twitter-ai-scraping-data-insights",
-    "https://moltsinc.co.jp/media/process/19008/",
     "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
+    "https://moltsinc.co.jp/media/process/19008/",
+    "https://thunderbit.com/ja/blog/twitter-ai-scraping-data-insights",
     "https://note.com/ogataka/n/n51f144be23b1",
+    "https://www.tv-tokyo.co.jp/plus/business/entry/202403/14788.html",
     "https://www.mieruka-engine.com/media/twitter-ansys",
-    "https://x.com/read_kei/article/2086758239665054031",
     "https://kaizode.tdse.jp/post_column/44/",
-    "https://www.ownly.jp/sslab/x-twitter-analysis-tools",
-    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57"
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vLI3mod5p0UyhktVggp5SRnN_dWzoDiH5T5HMYmYU7XcsBKdu4R",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135"
    ]
   },
   {
    "query": "evaluating web main text extraction boilerplate removal precision recall site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/martijn-schouten_day-19-document-parsing-and-ingestion-activity-7462041839056011265-2jzd",
-    "https://www.linkedin.com/posts/sidmanchkanti_pulse-ultra-2-is-live-our-highest-accuracy-activity-7452395479142785024-hxq2",
     "https://www.linkedin.com/pulse/building-high-accuracy-rag-chatbot-5000-complex-pdfs-text-akash-singh-e08ic",
+    "https://www.linkedin.com/posts/sidmanchkanti_pulse-ultra-2-is-live-our-highest-accuracy-activity-7452395479142785024-hxq2",
     "https://www.linkedin.com/pulse/document-parsing-rag-comprehensive-guide-understand-skugan-venkatesan-nt0bc",
     "https://www.linkedin.com/posts/simon-lechevalier-5ba743198_feeding-raw-html-or-full-dom-trees-to-an-activity-7510941586269261824-jGwr",
     "https://www.linkedin.com/pulse/what-every-pdf-already-knew-correct-answer-algosrus-rqjbc",
     "https://www.linkedin.com/top-content/technology/automated-testing-frameworks/testing-ocr-and-document-automation-systems/",
     "https://ie.linkedin.com/in/omnia-zayed-296b3726",
-    "https://www.linkedin.com/posts/ahmed-touila-0b78a5115_with-claude-code-everyones-a-data-scientist-activity-7515689522635063297-KwVZ",
-    "https://www.linkedin.com/pulse/you-have-10-million-pdfs-5-tb-data-how-would-design-cost-yagnik-zd8lc"
+    "https://www.linkedin.com/pulse/you-have-10-million-pdfs-5-tb-data-how-would-design-cost-yagnik-zd8lc",
+    "https://uk.linkedin.com/in/alessio-falai"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-06T03:10:10.811645+00:00"
 }

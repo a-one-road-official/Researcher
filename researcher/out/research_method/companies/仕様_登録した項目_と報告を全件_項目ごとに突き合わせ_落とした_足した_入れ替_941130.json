@@ -8,22 +8,8 @@
  ],
  "context": "報告の点検",
  "kind": "market",
- "researched_at": "2026-11-07T00:50:29.732820+00:00",
+ "researched_at": "2026-11-07T05:49:37.715718+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "While steps have been taken to try and mitigate the issue of outcome reporting bias, trials still change their pre-specified outcomes without justification.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "evidence to decision framework",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "Outcome reporting bias | Catalog of Bias",
@@ -115,6 +101,20 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "While steps have been taken to try and mitigate the issue of outcome reporting bias, trials still change their pre-specified outcomes without justification.",
+    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "evidence to decision framework",
+    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
@@ -126,17 +126,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.lifescience.co.jp/pro/article02-2-9.html",
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "status": "ok",
     "method": "http"
    },
@@ -146,22 +141,17 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.lifescience.co.jp/pro/article02-2-9.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.icrweb.jp/pluginfile.php/729/mod_resource/content/2/ICRweb_2017-10-14_03.pdf?forcedownload=1",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jpma.or.jp/opir/news/075/06.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.viedoc.co.jp/news/patient-reported-data/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "status": "ok",
     "method": "http"
    },
@@ -212,10 +202,10 @@
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） site:note.com",
    "results": [
     "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.lifescience.co.jp/pro/article02-2-9.html",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
+    "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
     "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
@@ -226,13 +216,13 @@
   {
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） note",
    "results": [
-    "https://www.jpma.or.jp/opir/news/075/06.html",
+    "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.viedoc.co.jp/news/patient-reported-data/",
-    "https://www.lifescience.co.jp/pro/article02-2-9.html",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
+    "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
+    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/"
    ]
@@ -241,10 +231,10 @@
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） やり方",
    "results": [
     "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.lifescience.co.jp/pro/article02-2-9.html",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
+    "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
     "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
@@ -256,11 +246,11 @@
    "results": [
     "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.viedoc.co.jp/news/patient-reported-data/",
-    "https://www.lifescience.co.jp/pro/article02-2-9.html",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
+    "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
+    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/"
    ]
@@ -283,13 +273,13 @@
   {
    "query": "site:note.com 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）",
    "results": [
-    "https://note.com/ai_agent_fuku/n/nc6bfdd799fdf",
     "https://note.com/manabu_ikarashi/n/n96ef0ad858cd",
+    "https://note.com/ai_agent_fuku/n/nc6bfdd799fdf",
     "https://note.com/tender_auk9235/n/n3a6f8abf2f14",
-    "https://note.com/grow_happiness/n/n6e546f8a508f",
     "https://note.com/poco_apps/n/n499ec60f92e5",
-    "https://note.com/suusan_bonjin/n/n39c76fd07e91",
-    "https://note.com/8technology/n/n10cf1e518b3d"
+    "https://note.com/kt_softworks32/n/n4308fa9fe75a",
+    "https://note.com/grow_happiness/n/n6e546f8a508f",
+    "https://note.com/tanabemg/n/na2db89a5cbda"
    ]
   },
   {
@@ -300,8 +290,8 @@
     "https://x.com/m_miyawaki/status/2053329117463126016",
     "https://x.com/yasu_toku0709/status/2104405737246195712",
     "https://help.x.com/ja/safety-and-security/report-a-post",
-    "https://x.com/norimasu_lab/status/2111824295571968155",
-    "https://x.com/ishida_chatgpt/status/2096468848010576177"
+    "https://x.com/ishida_chatgpt/status/2096468848010576177",
+    "https://x.com/norimasu_lab/status/2111824295571968155"
    ]
   },
   {
@@ -324,8 +314,8 @@
     "https://www.facebook.com/unionsystem/videos/ss7便利な機能関連部材の登録画面を呼び出す/1419045658168046/",
     "https://www.facebook.com/RevitJapan/photos/オンラインセミナー-civil-3d-2026-日本仕様プログラム-j-tool最新アップデートのご紹介開催日時2025年-8月-7日-木-13-00-13-3/1128662515963143/",
     "https://www.facebook.com/bandokeiji/photos/一般質問を行いました一般質問の本番までの手順は次のようになりますまず質問項目の通告をしその後に質問原稿を行政に提出しますその質問内容によって担当課が答弁案を作成/840618618127621/",
-    "https://www.facebook.com/odaauto/posts/私ごとで大変恐縮ですが皆様にご報告がございます昨日当社に香港中国出身の方が来店私が2階で車両購入の打ち合わせ中に1階の現場で忙しく作業しているハルクが仕事の手を/1076718700924401/",
-    "https://www.facebook.com/matsuzaki.lawyer/videos/労働基準監督署が労働者からの申告を全件受理-みんなの質問待ってますコメントで質問ですと書いて質問してね-労基署が原則全件受理へ-弁護士-労働基準監督署/1726515031767332/"
+    "https://www.facebook.com/Nidec.JP/photos/統合報告書紹介サステナビリティの実現に向けてニデックは社会において優先的に取り組むべき5つの重要課題マテリアリティと付随する15項目の取り組みを設定し各項目にお/909428794320282/",
+    "https://www.facebook.com/tosihide.yosizawa/videos/皆様に色々ご指導戴き有り難う御座います横引き煙突l型のエルボー90度パイプから煙突のメンテナンスを手軽に出来るt管点検口付きに交換致しましたt管のジョイント部分/3637121283244436/"
    ]
   },
   {
@@ -333,11 +323,11 @@
    "results": [
     "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.viedoc.co.jp/news/patient-reported-data/",
-    "https://www.lifescience.co.jp/pro/article02-2-9.html",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
+    "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
+    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/"
    ]
@@ -345,13 +335,13 @@
   {
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） X 投稿",
    "results": [
-    "https://www.jpma.or.jp/opir/news/075/06.html",
+    "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.viedoc.co.jp/news/patient-reported-data/",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://www.lifescience.co.jp/pro/article02-2-9.html",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
+    "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
+    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/"
    ]
@@ -363,128 +353,21 @@
     "https://www.linkedin.com/pulse/role-frequentist-framework-p-values-statistical-trials-olszewski-igy3f",
     "https://ch.linkedin.com/in/ghassankaram",
     "https://www.linkedin.com/in/amandabwilson",
-    "https://www.linkedin.com/in/amil-dravid",
     "https://www.linkedin.com/in/alex-monday-31b65453",
     "https://www.linkedin.com/in/bhsanjeev",
-    "https://www.linkedin.com/in/wickersong",
-    "https://www.linkedin.com/in/olina-efthymiadou-phd-2333206b",
-    "https://www.linkedin.com/in/kelliebodeker"
+    "https://www.linkedin.com/in/kunwoocho",
+    "https://www.linkedin.com/in/cassandratelenko",
+    "https://uk.linkedin.com/in/ana-manzano-83b4221b6",
+    "https://www.linkedin.com/in/wickersong"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ17頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ17頁・検索12回）",
-  "実例": "記載なし（読んだ17頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ15頁・検索12回）",
+  "実例": "記載なし（読んだ15頁・検索12回）"
  },
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "While steps have been taken to try and mitigate the issue of outcome reporting bias, trials still change their pre-specified outcomes without justification.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "evidence to decision framework",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Outcome reporting bias | Catalog of Bias",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Outcome reporting bias",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Selective reporting of pre-specified outcomes – depending on the nature and direction of the analysed results – occurs among a large proportion of published clinical trials, resulting in outcome reporting bias. Selective reporting of outcomes can potentially compromise the validity of a trial and any subsequent meta-analyses.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Outcome reporting bias can be difficult to detect. One way is to obtain the protocol of a clinical trial or trial registry (via databases such as Clinicaltrials.gov or the WHO clinical trials database) and compare the intended outcomes of interest to the analysed outcomes published in the final paper. If these differ then outcome reporting bias is present.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Chan AW et al. Outcome reporting bias in randomized trials funded by the Canadian Institutes of Health Research. CMAJ 2004;171(7):735-40.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "While steps have been taken to try and mitigate the issue of outcome reporting bias, trials still change their pre-specified outcomes without justification.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Clinical trial investigators must maintain a policy of transparency, and if they do change or omit planned outcomes, an adequate explanation should be provided for readers. Reviewers and journal editors should compare the final studies with their protocol or registry to assess for evidence of outcome reporting bias.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Catalogue of Bias Collaboration, Thomas ET, Heneghan C.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In: Catalogue Of Biases 2017: www.catalogueofbiases.org/outcomereportingbias",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Positive results bias",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Dealing with biased reporting of the available evidence",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "disease progression bias",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "All's well literature bias",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Diagnostic access bias",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Diagnostic suspicion bias",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-07T00:50:29.732820+00:00"
 }

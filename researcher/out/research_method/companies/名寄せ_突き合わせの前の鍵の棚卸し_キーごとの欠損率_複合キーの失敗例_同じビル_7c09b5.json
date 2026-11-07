@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-07T00:52:34.868799+00:00",
+ "researched_at": "2026-11-07T05:53:35.866704+00:00",
  "evidence": {
   "実例": [
    {
@@ -338,6 +338,80 @@
    {
     "quote": "Group 4: Textual Data, Few Corner Cases",
     "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "更新日時、入力経路、活動履歴を並べ、矛盾しない値は統合し、矛盾する値はデータオーナーの判断へ回すルールに分けます",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "表示用の正式名称と、照合に使う正規化済みの値は分けて持つと運用しやすくなります",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重複の発生源がフォームなら入力項目を見直し、CSVインポートなら照合キーとマッピングを修正し、手動入力なら必須項目とヘルプテキストを調整します",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果が変わらなければ、発生源の仮説を見直し、別の入力経路や更新処理を調べます",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -892,80 +966,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "更新日時、入力経路、活動履歴を並べ、矛盾しない値は統合し、矛盾する値はデータオーナーの判断へ回すルールに分けます",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "表示用の正式名称と、照合に使う正規化済みの値は分けて持つと運用しやすくなります",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "重複の発生源がフォームなら入力項目を見直し、CSVインポートなら照合キーとマッピングを修正し、手動入力なら必須項目とヘルプテキストを調整します",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果が変わらなければ、発生源の仮説を見直し、別の入力経路や更新処理を調べます",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
@@ -1056,6 +1056,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
     "status": "ok",
     "method": "http"
@@ -1066,7 +1071,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
+    "url": "https://note.com/atstream/n/na4971a88118f",
     "status": "ok",
     "method": "http"
    },
@@ -1076,112 +1081,72 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tender_clam9623/n/n9688b0e5c705",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.convibase.jp/key-management/",
+    "url": "https://www.issoh.co.jp/column/details/18983/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ripla_business/n/n6749e43cae59",
+    "url": "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://mamorio.biz/issue-key",
+    "url": "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cabimatch.avnz.co.jp/case/case02.html",
+    "url": "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tonton_security/n/n14a22580d56d",
+    "url": "https://ec-rider.net/b2bec/tokuisaki-master-togo/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ssl.com/ja/%E8%A8%98%E4%BA%8B/%E9%8D%B5%E7%AE%A1%E7%90%86%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%80%81%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%82%AC%E3%82%A4%E3%83%89/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://traka.total-link.jp/230612/",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tokyo-jimushosagashi.com/column/management/121/",
+    "url": "https://dl.acm.org/doi/10.1145/3340531.3412781",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://neo4j.com/labs/agent-memory/explanation/resolution-deduplication/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sls.co.jp/kagizaru/other/post91130/",
+    "url": "https://michaelnocito.github.io/analyst-prep-kit/guides/entity-resolution/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sakaelock.jp/blog/case/repair/p18053/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bqey.com/column/archives/84",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kinkoya.jp/article/keybox/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pentasecurity.co.jp/pentapro/entry/encryption-key-ex",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://amperity.com/blog/three-commonly-overlooked-challenges-in-entity-matching-and-how-were-overcoming-them",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://semarchy.com/blog/data-matching-explained/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://easymorph.com/blog/5-most-common-mistakes-in-data-joins",
+    "url": "https://data.dws.informatik.uni-mannheim.de/benchmarkmatchingtasks/index.html",
     "status": "ok",
     "method": "http"
    }
@@ -1192,90 +1157,77 @@
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） site:note.com",
    "results": [
     "https://note.com/ai_komon/n/n9b96b57f965c",
+    "https://note.com/anomaly_inc/n/n15611efccadc",
     "https://note.com/ai_scout_jp/n/na264a18ce645",
     "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://note.com/anomaly_inc/n/n15611efccadc",
+    "https://note.com/atstream/n/na4971a88118f",
     "https://note.com/tender_clam9623/n/n5116d5a7bd28",
-    "https://note.com/tender_clam9623/n/n9688b0e5c705",
-    "https://note.com/ponhinata/n/n38d28a97b1f4",
-    "https://note.com/atstream/n/na4971a88118f"
+    "https://note.com/ponhinata/n/n38d28a97b1f4"
    ]
   },
   {
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） note",
    "results": [
-    "https://blog.convibase.jp/key-management/",
-    "https://note.com/ripla_business/n/n6749e43cae59",
-    "https://mamorio.biz/issue-key",
-    "https://cabimatch.avnz.co.jp/case/case02.html",
-    "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
-    "https://note.com/tonton_security/n/n14a22580d56d",
-    "https://traka.total-link.jp/230612/",
-    "https://www.youtube.com/watch?v=dBB_yeV-DM8",
-    "https://sakaelock.jp/blog/case/repair/p18053/",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://www.issoh.co.jp/column/details/18983/",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
+    "https://note.com/tender_clam9623/n/n5116d5a7bd28",
+    "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
    ]
   },
   {
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） やり方",
    "results": [
-    "https://blog.convibase.jp/key-management/",
-    "https://www.ssl.com/ja/%E8%A8%98%E4%BA%8B/%E9%8D%B5%E7%AE%A1%E7%90%86%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%80%81%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%82%AC%E3%82%A4%E3%83%89/",
-    "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
-    "https://traka.total-link.jp/230612/",
-    "https://www.tokyo-jimushosagashi.com/column/management/121/",
-    "https://mamorio.biz/issue-key",
-    "https://sls.co.jp/kagizaru/other/post91130/",
-    "https://sakaelock.jp/blog/case/repair/p18053/",
-    "https://bqey.com/column/archives/84",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://www.issoh.co.jp/column/details/18983/",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
+    "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/",
+    "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide"
    ]
   },
   {
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） 事例",
    "results": [
-    "https://blog.convibase.jp/key-management/",
-    "https://mamorio.biz/issue-key",
-    "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://cabimatch.avnz.co.jp/case/case02.html",
-    "https://traka.total-link.jp/230612/",
-    "https://bqey.com/column/archives/84",
-    "https://www.kinkoya.jp/article/keybox/",
-    "https://www.pentasecurity.co.jp/pentapro/entry/encryption-key-ex"
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://www.issoh.co.jp/column/details/18983/",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://ec-rider.net/b2bec/tokuisaki-master-togo/",
+    "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
    ]
   },
   {
    "query": "entity matching key profiling missing rate composite key false merge",
    "results": [
-    "https://amperity.com/blog/three-commonly-overlooked-challenges-in-entity-matching-and-how-were-overcoming-them",
-    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
-    "https://arxiv.org/html/2607.26298v1",
-    "https://semarchy.com/blog/data-matching-explained/",
-    "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "https://easymorph.com/blog/5-most-common-mistakes-in-data-joins",
-    "https://learn.microsoft.com/en-us/ef/core/modeling/keys",
-    "https://quizlet.com/95269104/chapter-3-relational-database-model-flash-cards/",
-    "https://deepkit.io/en/documentation/orm/composite-primary-key",
-    "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas"
+    "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "https://dl.acm.org/doi/10.1145/3340531.3412781",
+    "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "https://neo4j.com/labs/agent-memory/explanation/resolution-deduplication/",
+    "https://michaelnocito.github.io/analyst-prep-kit/guides/entity-resolution/",
+    "https://data.dws.informatik.uni-mannheim.de/benchmarkmatchingtasks/index.html",
+    "https://thedatagovernor.com/mdm-matching-and-survivorship/"
    ]
   },
   {
    "query": "site:note.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
     "https://note.com/ai_komon/n/n9b96b57f965c",
+    "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://note.com/anomaly_inc/n/n97a5977ecc26",
     "https://note.com/atstream/n/na4971a88118f",
     "https://note.com/anomaly_inc/n/n15611efccadc",
-    "https://note.com/anomaly_inc/n/n97a5977ecc26",
     "https://note.com/tender_clam9623/n/n5116d5a7bd28",
-    "https://note.com/ponhinata/n/n38d28a97b1f4",
-    "https://note.com/saborikeiri/n/n4579676fb824"
+    "https://note.com/ponhinata/n/n38d28a97b1f4"
    ]
   },
   {
    "query": "site:x.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
-    "https://x.com/codelabjp",
     "https://x.com/kotoha_ai_auto/status/2087399771057361310",
     "https://x.com/boss_sec_labo/status/2114236798163669191",
     "https://x.com/boss_sec_labo/status/2111657313614573684",
@@ -1289,12 +1241,12 @@
    "query": "site:linkedin.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
     "https://www.linkedin.com/company/concentrix",
-    "https://www.linkedin.com/company/atco-group",
-    "https://in.linkedin.com/company/ascendion",
     "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
+    "https://jp.linkedin.com/posts/清悟-中村-6952563ba_単独愛知の町工場から棚卸しもrpaも消えたgemini活用4事例が衝撃-activity-7511219977451147265-Tftt",
     "https://jp.linkedin.com/pulse/analyzing-missing-data-sql-step-by-step-guide-adetona-makinde-8scxf?tl=ja",
-    "https://jp.linkedin.com/pulse/346連載-兵力で勝てないなら頭で勝つ-vol2偵察なくして作戦なし-ai導入の前に業務の棚卸しから始めよ-忍-渡辺-3cgjc",
-    "https://jp.linkedin.com/posts/清悟-中村-6952563ba_単独愛知の町工場から棚卸しもrpaも消えたgemini活用4事例が衝撃-activity-7511219977451147265-Tftt"
+    "https://jp.linkedin.com/posts/高井-翔平-313547287_業務棚卸しの重要性と進め方-ai活用を成功させるための鍵は最新のitスキルではなく-activity-7475480348139679744-dB7Q",
+    "https://jp.linkedin.com/posts/優貴乃-岩﨑-9a2798353_ai導入前の業務棚卸しシート-activity-7473600460126412800-uzHg",
+    "https://jp.linkedin.com/pulse/handling-missing-data-how-leads-wrong-conclusions-doug-rose-otnpe?tl=ja"
    ]
   },
   {
@@ -1302,61 +1254,52 @@
    "results": [
     "https://www.facebook.com/mynumber.funsan/posts/分散化でなく名寄せキーロガー盗用画面同期も国が大丈夫ですと言うのは詭弁です一体どういう言い訳をしているのでしょうかシリアル番号だけでは個人の情報にアクセスできま/588864446795501/",
     "https://www.facebook.com/NipponSoftOfficial/photos/ma合併後の顧客データの統合でお困りではありませんかmaにともなうシステム統合ではデータの品質整合性の壁名寄せの難しさといった課題をいかに解決していくかが顧客デ/122278510886231505/",
-    "https://www.facebook.com/story.php/?story_fbid=1211807907615758&id=100063596796246",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
-    "https://www.facebook.com/asteriawarp/posts/asteria-warp-tips-紹介-条件分岐編branchstartコンポーネントを使った条件分岐を動画で解説キクちゃんことキクチがちょっと偉そうにしてま/4310092612417051/",
+    "https://www.facebook.com/story.php/?story_fbid=1211807907615758&id=100063596796246",
     "https://www.facebook.com/meow0217/posts/闇の力を秘めし鍵よ真の姿を我の前に示せ契約のもとさくらが命じるレリーズ隱藏著黑暗力量的鑰匙啊在我面前顯示你真正的力量跟你定下約定的小櫻命令你封印解除封印兩年的照/793883736095426/",
-    "https://www.facebook.com/takako.daichi/posts/根室の皆さんへ根室平内郵便局前でゴリラのキーホルダーがついた鍵を拾いました郵便局前だったので局長に託しておきました失くされた方の元に届きますように/2420433901466255/"
+    "https://www.facebook.com/takako.daichi/posts/根室の皆さんへ根室平内郵便局前でゴリラのキーホルダーがついた鍵を拾いました郵便局前だったので局長に託しておきました失くされた方の元に届きますように/2420433901466255/",
+    "https://www.facebook.com/fullcomp.hachioji/posts/お知らせ棚卸しが予想より早く終了したため一部のタイトルの買取を再開します買取可能タイトル遊戯王デュエルマスターズとなりますhttpstcoobwpvhez9q/1786599014733082/"
    ]
   },
   {
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） note 社長",
    "results": [
-    "https://blog.convibase.jp/key-management/",
-    "https://mamorio.biz/issue-key",
-    "https://note.com/itjigsaw_puzzle/n/n03ed4fbfe5cf",
-    "https://traka.total-link.jp/230612/",
-    "https://note.com/tonton_security/n/n14a22580d56d",
-    "https://www.youtube.com/watch?v=dBB_yeV-DM8",
-    "https://sakaelock.jp/blog/case/repair/p18053/",
-    "https://kagilock.jp/topics/grand-master-key-system/",
-    "https://www.pentasecurity.co.jp/pentapro/entry/encryption-key-ex",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://www.issoh.co.jp/column/details/18983/",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
+    "https://note.com/tender_clam9623/n/n5116d5a7bd28",
+    "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
    ]
   },
   {
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） X 投稿",
    "results": [
-    "https://x.com/izukan01/status/2114963556005302625",
-    "https://www.reddit.com/r/Database/comments/qcgqt7/are_composite_primary_keys_bad_practice/?tl=ja",
-    "https://blog.convibase.jp/key-management/",
-    "https://mamorio.biz/issue-key",
-    "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
-    "https://www.youtube.com/watch?v=dBB_yeV-DM8",
-    "https://traka.total-link.jp/230612/",
-    "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
-    "https://www.italki.com/ja/group-class/topic-detail/7337371284",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://www.issoh.co.jp/column/details/18983/",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://ec-rider.net/b2bec/tokuisaki-master-togo/",
+    "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
    ]
   },
   {
    "query": "entity matching key profiling missing rate composite key false merge site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/namanvyas21_dataquality-dataanalytics-dataengineering-activity-7515617557492527104-7lG-",
-    "https://www.linkedin.com/in/mukuldesai",
-    "https://pl.linkedin.com/in/olgun-aydin/en",
-    "https://www.linkedin.com/posts/mohamed-habib-khattat-2b206a173_delivering-our-ods-into-the-temenos-ecosystem-activity-7517491605902155776-rkBI",
-    "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e",
-    "https://www.linkedin.com/in/shubhamvyas7",
-    "https://gh.linkedin.com/in/lawrence-koomson-689774266",
-    "https://in.linkedin.com/in/salman-saifee-27954a147",
-    "https://www.linkedin.com/in/prakhar-anand-12a041131",
-    "https://www.linkedin.com/in/bismanpal-anand"
+    "https://www.linkedin.com/posts/sandeep-mdm-ai_matchandmerge-mdm-activity-7371956134292721664-B217",
+    "https://www.linkedin.com/posts/taeho-kim-26b139262_most-entity-resolution-pipelines-are-tuned-activity-7490234549063331840-qVZm",
+    "https://pe.linkedin.com/pulse/understanding-merge-queries-power-bi-all-join-types-explained-fc8ff",
+    "https://www.linkedin.com/pulse/entity-resolution-scale-probabilistic-matching-techniques-reddy-g934c",
+    "https://www.linkedin.com/posts/advanced-data-management-solutions_mdm-ai-merging-activity-7434249644211351553-kwnj",
+    "https://www.linkedin.com/advice/0/how-do-you-handle-mismatched-missing-data-augbc",
+    "https://www.linkedin.com/feed/update/urn:li:ugcPost:7397325496239304704/"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-05T17:50:35.263143+00:00"
 }
