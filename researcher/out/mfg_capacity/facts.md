@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・183品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・186品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -9743,6 +9743,241 @@
   - 「○「人手不足」との回答が7割近く（68.0％）で、2015年の調査実施以降、最大」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
   - 「「非常に深刻（人手不足を理由とした廃業等、今後の事業継続に不安）」（6.9%）または「深刻（事業運営に支障）」（57.2%）と回答」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
 - 1人あたり・1社あたり金額：記載なし（読んだ41頁・検索18回）
+
+## 官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88）（kanpo balance sheet summary plating heat treatment press die company net income net assets）
+- 文脈：会社・決算
+- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
+- 事業所数・社数：記載なし（読んだ23頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ23頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ23頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索18回）
+- 生産能力・設備：記載なし（読んだ23頁・検索18回）
+- 10年推移：記載なし（読んだ23頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索18回）
+
+## 日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87）（JCCI labor shortage survey respondents response rate manufacturing breakdown pdf）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「• 人手不足企業の6割超（65.5％）が、「非常に深刻（廃業のおそれ）」または」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「○ そのうちの6割超（65.5%）が、事業運営への影響について、「非常に深刻（廃業のおそれ）」」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「非常に深刻（事業運営に深刻な影響があり、廃業のおそれがある）」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「「人手が不足している」と回答した企業から人手不足の深刻度を聞いたところ、廃業など今後の事業継続に不安を持っている「非常に深刻」と答えた企業が6.9%、事業運営に支障が生じている「深刻」と答えた企業が57.2%だった」（https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html）
+  - 「一方で、20人以下の小規模企業では、約半数（49.1％）と全体を下回ったものの深刻度は5割超（54.9％）、約1割（8.2％）は廃業や事業継続を懸念している結果となった」（https://ab.jcci.or.jp/article/131956/）
+  - 「• うち6割以上（64.1％）が「非常に深刻」（人手不足を理由とした廃業等、」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「• 外国人材の離職防止に向けた取組は、「賃金水準の引上げ」（38.2%）、」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「非常に深刻（人手不足を理由とした廃業等、今後の事業継続に不安がある）」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「○ そのうちの6割以上（64.1 %）が「非常に深刻」（6.9% 人手不足を理由とした廃業等、」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「（納期遅れ、品質・サービスの低下等）」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「○一方、「事業運営の具体的な支障が生じている（納期遅れ、品質・サービスの低下等）」（21.6％）、」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「人材確保（採用拡大、離職防止）の取組」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「○ 外国人材の流失・離職防止に向けた取組としては、「賃金水準の引上げ」（38.2%）が最多」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「• 人手不足企業の6割超（65.5％）が、「非常に深刻（廃業のおそれ）」または」（https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf）
+- 事業所数・社数：
+  - 「（２）回答企業数：」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「（１）調査地域:全国47都道府県 （２）回答企業数:2,392社」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「回答企業数は3120社（回答率51.9%）だった」（https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html）
+  - 「100～299人 30～99人 10～29人 9人以下」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「（５）回収商工会議所数：425商工会議所 (６）回答企業数：3,120社（回答率：51.9％）」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「（１）調査地域:全国47都道府県 （２）回答企業数:2,392社」（https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf）
+  - 「（１）調査地域：全国47都道府県 （２）回答企業数：2,654社」（https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf）
+  - 「（５）回収商工会議所数：421商工会議所 （６）回答企業数：3,123社（回答率：52.0％）」（https://archive.jcci.or.jp/i/20210930_tayou.pdf）
+  - 「（２）回答企業数：2,654社」（https://www.tokyo-cci.or.jp/page.jsp?id=1210728）
+- 社員数・平均社員数：
+  - 「人手不足と回答した企業は６割（60.0％）」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「規模別にみると、従業員数21人以上の企業では約7割が人手不足と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「業種別にみると、建設業（77.4％）、運輸業（72.2％）、介護・看護業（70.5％）で人手不足が７割を超える」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「従業員20人以下の企業では、「事業の縮小・見直し・外注化」で対応する傾向が３割超（31.6%）と、21人以上の企業より多い」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「外国人材を受入れている企業は４社に１社（25.1％）」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「外国人材受入れにかかる国の方針について、６割近く（55.6％）が「(全面的または人手不足の業種・地域に限って)受入れを拡大すべき」と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「日本への適応性が高く、技能・知識を有する外国人材に対する「在留期限がない、家族帯同が可能な受入れ」は、半数以上（51.7％）が「増やすべき」と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「法定雇用義務の対象となる従業員37.5人以上の企業のうち、障害者法定雇用率を達成した企業は約４割（42.7％）」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「特に、50人以下の企業では、半数近く（46.0％）が「雇用しておらず、募集・採用に向けた取り組みを行っていない」と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「障害者の雇用が困難な理由について、「障害特性を踏まえた業務切り出し、設定が困難」（51.7％）、「就労・教育をサポートする人的な余裕がない」（50.9％）と回答する企業が約半数」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「女性従業員のキャリアアップに取り組むうえでの課題は、「ライフイベント（育児・介護等）によるキャリアの停滞（29.0％）」、「長時間労働や責任の重さ等により、本人が活躍を望みづらい（27.5％）」、「ロールモデルが不足（26.7％）」が約３割で最多」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「１．人手不足の状況と対策 ４～７」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「２．シニア人材の活躍推進 ８～22」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+- 受注金額・加工賃収入：
+  - 「※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「売上100億円以上 約4,500者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「売上10～100億円未満 約９万者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「売上１～10億円未満 約60万者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「売上1,000万～１億円未満 約140万者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「売上1,000万円未満 約140万者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「• 売上高10億円を目指す企業（従業員数の目安：～約50名程度）は、複数の人材確保が必要となる一方で、大企業」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「• 売上高1億円を目指す企業（従業員数の目安：～約10名程度）は、人材確保のノウハウや、業務プロセスの見直」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「省力化投資を促進する支援策（中小企業省力化投資補助事業 3,000億円）」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「50万円×グループ構成員数」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「合わせて3,000万円まで」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「(c)事務費・専門家費：200万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「１機能：～50万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「担が女性に集中」(40.3%)、「税・社会保険負担(106万円、130万円の壁等)が障壁となり」（https://archive.jcci.or.jp/i/20210930_tayou.pdf）
+- 1人あたり・1社あたり金額：
+  - 「※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「売上1,000万円未満 約140万者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「50万円×グループ構成員数」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「合わせて3,000万円まで」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「(c)事務費・専門家費：200万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「１機能：～50万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「２機能以上：～350万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「～350万円 5万円～150万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「～50万円以下：3/4」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「50万円～350万円：2/3」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「5万円～150万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「150万円～450万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「補助上限 600万円 700万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「1,000万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+- 生産能力・設備：
+  - 「※ソフトウェア投資比率＝ソフトウェア投資額÷設備投資額×100」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「「ＩＴ化等設備投資」（25.2％）など、業務効率化・生産性向上の取組は」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+  - 「○「業務プロセスの見直し」（33.2%）、「社員の能力開発」（28.9％）、「ＩＴ化等設備投資」」（https://www.jcci.or.jp/20230928_diversity_release.pdf）
+- 10年推移：
+  - 「人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「2024年3月以前のニュースを見る」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「2024年９月５日」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「（３）調査期間:2024年７月８日～７月31日 （４） 回収商工会議所数:338商工会議所」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「• 対象となる従業員40人以上の企業のうち、障害者法定雇用率（2024年４月」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「2024年7月」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「2023年7月～8月」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「2022年7月～8月」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「2021年7月～8月」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「2020年7月～8月」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「「2024年問題」の影響がうかがえる」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「【全体】 n＝2,392 ※2022年調査期間:2022年7月19日～8月10日 / 2023年調査期間:2023年７月18日～８月10日」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「○対象となる従業員40人以上の企業のうち、 障害者法定雇用率（2024年４月以降:2.5％）を達成」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「2023年10月10日」（https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html）
+  - 「日本商工会議所が全国の中小企業を対象に実施した「人手不足の状況および多様な人材の活躍等に関する調査」によると、「人手が不足している」との回答が68.0%にのぼり、2015年の調査実施以来最大となった」（https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html）
+- 人手と仕事の差：
+  - 「本調査は、中小企業における人手不足の状況と対策、外国人材・障害者・女性・シニア人材の活躍推進、仕事と家庭の両立、リスキリングの状況について、中小企業の実態を把握し、今後の要望活動に活かしていくために実施しました」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「【ポイント①：人手不足の状況と対策について】」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「人手不足と回答した企業は６割（60.0％）」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「規模別にみると、従業員数21人以上の企業では約7割が人手不足と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「業種別にみると、建設業（77.4％）、運輸業（72.2％）、介護・看護業（70.5％）で人手不足が７割を超える」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「従業員20人以下の企業では、「事業の縮小・見直し・外注化」で対応する傾向が３割超（31.6%）と、21人以上の企業より多い」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「外国人材受入れにかかる国の方針について、６割近く（55.6％）が「(全面的または人手不足の業種・地域に限って)受入れを拡大すべき」と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「１．人手不足の状況と対策 ４～７」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「（６）調査目的:中小企業における人手不足の状況と対策、シニア人材の活躍推進、女性の活躍推進・仕事と育児の」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「（人手不足の状況と対策、シニア人材の活躍推進）」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「建設業（79.2％）で約８割に達するなど、厳しい人手不足の状況が続く」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「• 人手不足企業の6割超（65.5％）が、「非常に深刻（廃業のおそれ）」または」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+  - 「策 • 人手不足への対策は、「採用活動の強化」が78.4%と最多」（https://www.tokyo-cci.or.jp/file.jsp?id=1204020）
+
+## 製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88）（productivity dispersion manufacturing Japan interquartile trend SMEs）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「また、事業承継・引継ぎに伴う廃業等についても支援している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html）
+  - 「高すぎると経営圧迫、低すぎると従業員不満で離職率上昇というジレンマがあります」（https://ayusawa-partners.jp/column/seisansei-bunseki）
+  - 「高すぎる場合(70%超)は経営圧迫、低すぎる場合(30%未満)は従業員不満・離職リスクが高まります」（https://ayusawa-partners.jp/column/seisansei-bunseki）
+  - 「上昇率がマイナス、アウトプットの上昇率がプラスであり、離職率を指数としたもの8の変」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「る労働投入の増加があるが、離職者も多く、 労働者の流動性が高い状態にあることを示して」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「あることをあわせて考えると、 離職者が多い分、 労働需要が大きいことから、 賃金も上昇傾」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「離職率（2017年度）」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「これら 2 産業では、離職者が多いが、 労働需要も労働供給も大き」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「産業によって労働生産性、 現金給与総額指数、離職率が必ずしも同じ」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「り、離職率指数の変化率もマイナスで」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「これらの産業では、離職率が」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「にあることをあわせて考えると、 これら4 産業では、離職率を低く抑えつつ、新規の就業者」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「図16 足もとの労働生産性と離職率」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「一方、労働生産性上昇率が足もとでプラスとなった 10 産業のうち、宿泊業では、離職率」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「これは、離職率が低下しつつ、 労働生産性が上昇してい」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+- 事業所数・社数：
+  - 「第3-1表 企業産業(小分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―全国」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「の従業者数当たり事業所数（91年）」（https://www5.cao.go.jp/keizai3/discussion-paper/dp036-z5.pdf）
+- 社員数・平均社員数：
+  - 「また、2005年から2022年にかけての一人当たり名目GDP平均成長率は、日本はほかの国々と比べて非常に低い水準となっている」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「労働者1人あたり、もしくは労働時間1時間あたり、生産物をどれだけ生み出せたかを知るための指標です」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「付加価値生産性も、物的生産性と同様に、労働量に対する付加価値を指標とすることが多く、これにより労働者1人あたり、もしくは労働時間1時間あたりの付加価値労働生産性を導くことができます」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「例えば、100個の製品を生み出すために、5人が労働した場合、労働者1人あたりの物的労働生産性は20」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「5人が2時間労働した場合、労働時間1時間あたりの物的労働生産性は10ということになります」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「2019年の日本の1人当たり労働生産性（就業者1人当たり付加価値）は、81,183ドル（824万円）」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「そして、日本が生産性向上に取り組まなければならない重要な理由は、少子高齢化による労働力人口（15歳以上人口のうち、就業者と完全失業者を合わせた人口のこと）の減少にあります」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「総人口は2030年の1億1,662万人を経て、2048年には1億人を割って9,913万人程度となり、2060年には8,674万人程度になるものと推計され、現在の3分の2の規模まで減少することとなる」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「さらに、同仮定を長期まで延長すると、100年後の2110年には4,286万人程度になるものと推計される」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「日本生産性本部では1981年より、OECDや世界銀行などのデータに基づいて世界各国の国民1人当たりGDP、労働生産性（就業者1人当たり国内総生産、就業1時間当たり国内総生産）、主要先進7カ国の産業別生産性トレンド・産業別労働生産性水準などの比較を行い、「労働生産性の国際比較」として発表しています」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「2. 日本の一人当たり労働生産性は、98,344ドル（935万円）」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「2024年の日本の一人当たり労働生産性（就業者一人当たり付加価値）は、98,344ドル（935万円／購買力平価 （PPP）換算）」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「2024年の日本の製造業の労働生産性（就業者一人当たり付加価値）は、80,411ドル（1,188万円／為替レート換算）でOECDに加盟する主要35カ国中20位」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「○ 「従業者１人当たり」の指標について」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「本トピックスでは、「従業者１人当たり」の売上高や付加価値額などの指標を用いていますが、これらにおいては正社員・正職員とパート・アルバイトの労働時間の違いなどは考慮していません」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+- 受注金額・加工賃収入：
+  - 「2019年の日本の1人当たり労働生産性（就業者1人当たり付加価値）は、81,183ドル（824万円）」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「韓国（24位･82,252ドル／835 万円）やニュージーランド（25位･82,033ドル／832万円）とほぼ同水準」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「2. 日本の一人当たり労働生産性は、98,344ドル（935万円）」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「2024年の日本の一人当たり労働生産性（就業者一人当たり付加価値）は、98,344ドル（935万円／購買力平価 （PPP）換算）」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「これは、ニュージーランド（100,533ドル／956万円）やスロバキア（97,612ドル／928万円）といった国とほぼ同じ水準」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「2024年の日本の製造業の労働生産性（就業者一人当たり付加価値）は、80,411ドル（1,188万円／為替レート換算）でOECDに加盟する主要35カ国中20位」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「本トピックスでは、「従業者１人当たり」の売上高や付加価値額などの指標を用いていますが、これらにおいては正社員・正職員とパート・アルバイトの労働時間の違いなどは考慮していません」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「そこで、平成24年経済センサス‐活動調査の集計項目から、以下の式により「売上高営業利益率」を求め、産業間の比較を行うこととします」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「平成23年１年間の「売上高営業利益率」は、「学術研究，専門・技術サービス業」が15.2％と最も大きく、次いで「不動産業」が12.5％、「飲食サービス業」が11.5％などとなっています」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「図1 売上高営業利益率」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「「従業者１人当たり売上高」が最も大きいのは「卸売業」」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「また、「従業者１人当たりの付加価値額（労働生産性）」は「従業者１人当たり売上高」と「売上高付加価値額率」（これを「付加価値率」といいます」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「「従業者１人当たり売上高」については、この指標が大きいほど少ない人手で多くを稼いでいるといえます」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「平成23年１年間の「従業者１人当たり付加価値額（労働生産性）」は、「情報通信業」が909万円と最も大きく、次いで「学術研究，専門・技術サービス業」が786万円、「卸売業」が747万円などとなっています」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「平成23年１年間の「従業者１人当たり売上高」は、「卸売業」が9458万円と最も大きく 、次いで「物品賃貸業」が4482万円、「娯楽業」が3855万円などとなっています」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+- 1人あたり・1社あたり金額：
+  - 「一方で、中小企業の上位10％の水準（90％タイル）は大企業の中央値を上回っており、企業規模が小さくても労働生産性の高い企業が一定程度存在することが分かる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「は、上位10％（90％タイル）と下位10％（10％タイル）の値の差分を用いて、労働生産性のばらつきを業種別に見たものである」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「また、2005年から2022年にかけての一人当たり名目GDP平均成長率は、日本はほかの国々と比べて非常に低い水準となっている」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「生産性には大きく分けて2つの種類があり、そのひとつが物的労働生産性です」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「付加価値生産性も、物的生産性と同様に、労働量に対する付加価値を指標とすることが多く、これにより労働者1人あたり、もしくは労働時間1時間あたりの付加価値労働生産性を導くことができます」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「例えば、100個の製品を生み出すために、5人が労働した場合、労働者1人あたりの物的労働生産性は20」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「5人が2時間労働した場合、労働時間1時間あたりの物的労働生産性は10ということになります」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「OECD データに基づく2019年の日本の時間当たり労働生産性（就業1時間当たり付加価値）は、47.9ドル（4,866円／購買力平価（PPP）換算）」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「2019年の日本の1人当たり労働生産性（就業者1人当たり付加価値）は、81,183ドル（824万円）」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「韓国（24位･82,252ドル／835 万円）やニュージーランド（25位･82,033ドル／832万円）とほぼ同水準」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「労働生産性の国際比較 2020」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「日本生産性本部では1981年より、OECDや世界銀行などのデータに基づいて世界各国の国民1人当たりGDP、労働生産性（就業者1人当たり国内総生産、就業1時間当たり国内総生産）、主要先進7カ国の産業別生産性トレンド・産業別労働生産性水準などの比較を行い、「労働生産性の国際比較」として発表しています」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「労働生産性の国際比較2025」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「1. 日本の時間当たり労働生産性は、60.1ドル（5,720円）」（https://www.jpc-net.jp/research/list/comparison.html）
+  - 「OECDデータに基づく2024年の日本の時間当たり労働生産性（就業1時間当たり付加価値）は、60.1ドル（5,720円／購買力平価（PPP）換算）」（https://www.jpc-net.jp/research/list/comparison.html）
+- 生産能力・設備：
+  - 「第3-1表 企業産業(小分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―全国」（https://www.stat.go.jp/data/e-census/topics/topi731.html）
+  - 「2025年版 中小企業白書（HTML版） 第4節 労働生産性・設備投資 | 中小企業庁」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html）
+  - 「第4節 労働生産性・設備投資」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html）
+  - 「受注量の増加に伴って人手不足が深刻化する中、同社はこれまで従業員の多能工化で対応してきたが限界を感じ、2016年からは、積極的な設備投資を進め、作業工程の自動化と、省力化の推進による生産性向上に取り組んできた」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html）
+  - 「だけでなく、30 代や 40 代以上の世代や、 ファミリー層をターゲットにした設備投資を行っ」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+  - 「受注生産型であることから、需要側の設備投資が国内外で 2017 年度は活発化し、生産活動」（https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf）
+- 10年推移：
+  - 「2024年版「中小企業白書」 第3節 生産性 | 中小企業庁」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「は、総務省「労働力調査（基本集計）」、「人口推計」、内閣府「国民経済計算」、国立社会保障・人口問題研究所「日本の将来推計人口」、及び内閣府経済社会総合研究所「国民経済計算年次推計」を用いて、就業者数の減少と国際競争に必要な生産性向上についての試算を行ったものである」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「これを見ると、就業者数は、推計値ベースで減少していくと考えられる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「今後、就業者数が減少していくことが見込まれる中で、一人当たり名目GDPを増加させるためには、生産性を一層向上させていくことが必要となる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「また、2005年から2022年にかけての一人当たり名目GDP平均成長率は、日本はほかの国々と比べて非常に低い水準となっている」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html）
+  - 「そして、現在の日本のように「労働力が減少している」「資源が限られている」といった状況においては、この生産性の向上が重要になってくるのです」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「また、労働者の数や人数、保有資本が増えていないにもかかわらず、全要素生産性が向上した場合、「産出量」が増加したということです」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「OECD データに基づく2019年の日本の時間当たり労働生産性（就業1時間当たり付加価値）は、47.9ドル（4,866円／購買力平価（PPP）換算）」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「2019年の日本の1人当たり労働生産性（就業者1人当たり付加価値）は、81,183ドル（824万円）」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「労働生産性の国際比較 2020」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「そして、日本が生産性向上に取り組まなければならない重要な理由は、少子高齢化による労働力人口（15歳以上人口のうち、就業者と完全失業者を合わせた人口のこと）の減少にあります」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「総人口は2030年の1億1,662万人を経て、2048年には1億人を割って9,913万人程度となり、2060年には8,674万人程度になるものと推計され、現在の3分の2の規模まで減少することとなる」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「さらに、同仮定を長期まで延長すると、100年後の2110年には4,286万人程度になるものと推計される」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「総人口が減るということは、当然労働力人口も減少します」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「労働力人口が減少すると、国全体の生産力を維持することができなくなり、国際的な競争力も低下」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+- 人手と仕事の差：
+  - 「この外部購入費には、「原材料費」「部品費」「外注加工費」「製造経費」が含まれます」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「例えば、ある企業が1つ生産するために原材料費が5,000円、外注加工費用が5,000円かかった製品があるとします」（https://www.hitachi-solutions.co.jp/wsi/column/c021.html）
+  - 「▶人手不足への対応として従業員の多能工化を進めるも限界を感じ、自動化を推進」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html）
+  - 「受注量の増加に伴って人手不足が深刻化する中、同社はこれまで従業員の多能工化で対応してきたが限界を感じ、2016年からは、積極的な設備投資を進め、作業工程の自動化と、省力化の推進による生産性向上に取り組んできた」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html）
+  - 「自動化による作業時間短縮で、通常は納期に1～2か月必要な制御盤の製造を、少ロットで急ぎの発注であっても1日で対応できるようになるなど、顧客対応力が飛躍的に向上」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html）
+  - 「生産性分析は経営分析の4つの柱(収益性・安全性・成長性・効率性)に加える5番目の領域で、近年の人手不足と賃上げ圧力の中で、その重要性が急速に高まっています」（https://ayusawa-partners.jp/column/seisansei-bunseki）
+  - 「生産工程のIT化と外注比率の見直しで労働生産性を1.3倍に改善し、賃上げ原資を確保したケースがあります」（https://ayusawa-partners.jp/column/seisansei-bunseki）
+  - 「外部購入価値=売上原価+外注費+運賃+販売手数料+リース料+地代家賃 等」（https://ayusawa-partners.jp/column/seisansei-bunseki）
+  - 「建設業や運送業など外注比率が高い業種では労働生産性をどう計算しますか?」（https://ayusawa-partners.jp/column/seisansei-bunseki）
+  - 「「加工高=売上高−材料費−外注費」で計算し、これを従業員数で割ります」（https://ayusawa-partners.jp/column/seisansei-bunseki）
+  - 「外注費を控除しないと、自社の実質的な付加価値が過大評価されるためです」（https://ayusawa-partners.jp/column/seisansei-bunseki）
+  - 「製造業における外部購入価値とは、原材料費や部品代および外注加工費などを指します」（https://fukakachi-lab.com/category/value-management/606）
+  - 「付加価値額 ＝ 売上高 － 外部購入価値（材料費・外注加工費など）」（https://fukakachi-lab.com/category/value-management/606）
+  - 「自社独自の加工技術や、超短納期対応といった「」（https://fukakachi-lab.com/category/value-management/606）
+  - 「材料費の高騰や深刻な人手不足が続く現在のビジネス環境において、中小製造業が生き残るためには「稼ぐ力の質」を高めることが不可欠です」（https://fukakachi-lab.com/category/value-management/606）
+- 検索結果の抜粋：
+  - 「企業レベルデータに基づく 日本の 労働生産性 に関する考察 — 企業レベルデータに基づく 日本の 労働生産性 に関する考察 財務省 PDF https://www.mof.go.jp > research > jinkou202001_01」（https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

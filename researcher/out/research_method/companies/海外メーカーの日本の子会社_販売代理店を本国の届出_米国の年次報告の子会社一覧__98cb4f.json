@@ -1,0 +1,393 @@
+{
+ "name": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
+ "en": "verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house",
+ "aliases": [
+  "Exhibit 21 subsidiaries Japan",
+  "Companies House 子会社 日本 調べ方",
+  "海外企業 日本法人 代理店 確認 方法"
+ ],
+ "context": "会社・一次",
+ "kind": "market",
+ "researched_at": "2026-11-07T19:49:24.493545+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/iksus25/n/ndc20e9ffb76d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nk_advisory/n/n4af854770603",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/8click/n/n2830b16a8056",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tender_dunlin641/n/n58307d1e6a12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/global_bizz/n/nb49212399d96",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gov.uk/government/publications/overseas-registries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pm-lawyer.com/20200326-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=trade-representative-office-of-united-states&conditions%5Bsearch_type_id%5D=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/13610/000095012303003637/y82814exv21.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/n_america/us/invest_09.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoplazza.com/ja/blog/company-registration-in-uk-for-non-residents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.markresearch.com/learning/japan_branch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lawm.net/39_gaikokukaisha_kabushiki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji06_00104.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gf-instruction.biz/instruction/application/files/7416/3599/0948/E211104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://blog.n-cpa.com/2022/12/12/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%B3%95%E4%BA%BA%E3%81%AE%E6%97%A5%E6%9C%AC%E5%AD%90%E4%BC%9A%E7%A4%BE%E7%9B%A3%E6%9F%BB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kansa.or.jp/support/library/post-355/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sailor.co.jp/wp-content/uploads/ir/20210202_IRnews_distributor.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/2032341/000121390026034218/ea028272901ex21-1.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/special/overseas/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/_Reports/02/2025/7a51522b08c46537/202503.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gov.uk/government/publications/overseas-companies-in-the-uk-registration-filing-and-disclosure-obligations/overseas-companies-registered-in-the-uk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12879232/filing-history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/edgar/search/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pmda.go.jp/english/review-services/reviews/foreign-mfr/0001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/english/listing/co-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergobyul.com/services/medical-device-registration-and-approval-japan",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務 site:note.com",
+   "results": [
+    "https://note.com/iksus25/n/ndc20e9ffb76d",
+    "https://note.com/nk_advisory/n/n4af854770603",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://note.com/8click/n/n2830b16a8056",
+    "https://note.com/tender_dunlin641/n/n58307d1e6a12",
+    "https://note.com/global_bizz/n/nb49212399d96",
+    "https://note.com/tradetax/n/n49c60d78c8a6",
+    "https://note.com/yamamoto_ec/n/n441239606332",
+    "https://note.com/anbou_navi/n/nadf8ce9beb89",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務 note",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126",
+    "https://www.gov.uk/government/publications/overseas-registries",
+    "https://pm-lawyer.com/20200326-1/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=trade-representative-office-of-united-states",
+    "https://www.sec.gov/Archives/edgar/data/13610/000095012303003637/y82814exv21.htm",
+    "https://sailor.co.jp/wp-content/uploads/ir/20210202_IRnews_distributor.pdf",
+    "https://blog.n-cpa.com/2022/12/12/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%B3%95%E4%BA%BA%E3%81%AE%E6%97%A5%E6%9C%AC%E5%AD%90%E4%BC%9A%E7%A4%BE%E7%9B%A3%E6%9F%BB/",
+    "https://samurai-law.com/kaisha/2020/09/28/column2-4/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務 やり方",
+   "results": [
+    "https://www.jetro.go.jp/world/n_america/us/invest_09.html",
+    "https://www.shoplazza.com/ja/blog/company-registration-in-uk-for-non-residents",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126",
+    "https://www.markresearch.com/learning/japan_branch/",
+    "https://www.lawm.net/39_gaikokukaisha_kabushiki.html",
+    "https://www.moj.go.jp/MINJI/minji06_00104.html",
+    "https://gf-instruction.biz/instruction/download_file/503/0",
+    "https://www.gov.uk/government/publications/overseas-registries",
+    "https://pm-lawyer.com/20200326-1/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務 事例",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126",
+    "https://blog.n-cpa.com/2022/12/12/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%B3%95%E4%BA%BA%E3%81%AE%E6%97%A5%E6%9C%AC%E5%AD%90%E4%BC%9A%E7%A4%BE%E7%9B%A3%E6%9F%BB/",
+    "https://www.kansa.or.jp/support/library/post-355/",
+    "https://sailor.co.jp/wp-content/uploads/ir/20210202_IRnews_distributor.pdf",
+    "https://www.gov.uk/government/publications/overseas-registries",
+    "https://www.sec.gov/Archives/edgar/data/2032341/000121390026034218/ea028272901ex21-1.htm",
+    "https://j-net21.smrj.go.jp/special/overseas/01.html",
+    "https://www.jetro.go.jp/ext_images/_Reports/02/2025/7a51522b08c46537/202503.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house",
+   "results": [
+    "https://www.gov.uk/government/publications/overseas-companies-in-the-uk-registration-filing-and-disclosure-obligations/overseas-companies-registered-in-the-uk",
+    "https://find-and-update.company-information.service.gov.uk/company/12879232/filing-history",
+    "https://www.sec.gov/edgar/search/",
+    "https://www.pmda.go.jp/english/review-services/reviews/foreign-mfr/0001.html",
+    "https://www.jpx.co.jp/english/listing/co-search/",
+    "https://www.emergobyul.com/services/medical-device-registration-and-approval-japan",
+    "https://asiaactual.com/japan/warehouse-manufacturer/",
+    "https://datadashboard.fda.gov/oii/fd/fser.htm",
+    "https://www.gov.uk/government/organisations/companies-house",
+    "https://www.gov.uk/guidance/searching-the-companies-house-register"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
+   "results": [
+    "https://note.com/iksus25/n/ndc20e9ffb76d",
+    "https://note.com/nk_advisory/n/n4af854770603",
+    "https://note.com/tender_dunlin641/n/n58307d1e6a12",
+    "https://note.com/global_bizz/n/nb49212399d96",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://note.com/tradetax/n/n49c60d78c8a6",
+    "https://note.com/8click/n/n2830b16a8056"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
+   "results": [
+    "https://x.com/Y1K6",
+    "https://x.com/ec_challenge/status/2091132274519519613",
+    "https://x.com/trokuma/status/1242328988619395072",
+    "https://x.com/narita_ko_/status/2093112070199812144",
+    "https://x.com/columbus_ceo/status/2019678626908938502",
+    "https://x.com/i/status/1892848876299964644",
+    "https://x.com/PRTIMES_BIZ/status/2084491790040928431"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
+   "results": [
+    "https://jp.linkedin.com/in/aya-mihara-a02ab6267",
+    "https://jp.linkedin.com/company/waygate-technologies",
+    "https://jp.linkedin.com/posts/taku-matsumoto-6ab69abb_本邦上場会社の外為法における対内直接投資等事前届出該当性リストの改訂について-activity-7241067329227268096--0zv",
+    "https://www.linkedin.com/pulse/maximizing-roi-ai-era-mainframe-value-tco-explained-tom-mcpherson-bkq2e",
+    "https://jp.linkedin.com/pulse/日本の自動販売機市場シェア主要企業の分析と予測2024-2032-chetan-kumar-xypkc",
+    "https://jp.linkedin.com/posts/tomoko-sasaki-1236654b_欧州連合2023年の企業結合簡素化パッケージ-企業結合規制の近代化-activity-7113527760534294529-0r9U",
+    "https://jp.linkedin.com/posts/takamasa-adachi-a7415297_中国自動車メーカーの海外動向bydgeely-自動車産業ポータル-マークラインズ-activity-7240160004819816449-m4C8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
+   "results": [
+    "https://www.facebook.com/sekidorc/photos/cp2026特設ページ公開httpssekidocorpcomcp2026セキドが正規販売代理店をつとめるdji日本総代理店をつとめるhasselblad-と-/1312176990940561/",
+    "https://www.facebook.com/BizHack1/posts/届書作成プログラム-はよく使う届出書を作成電子申請できるので使うやすさは別としても便利ですが-se99001-が返ってきた時対処ができず困った事はありませんかそ/1002721575221411/",
+    "https://www.facebook.com/docusignjpn/posts/ドキュサインの販売代理店およびディストリビューターの一覧日本を公開しました-弊社ではお客様により付加価値の高いソリューションの提供を可能にするパートナーエコシス/1471448659880102/",
+    "https://www.facebook.com/atlascopco.Jp/posts/コンプレッサ事業本部では現在日本各地に15の販売代理店を設けお客様のあらゆるニーズに迅速にお応えいたします110kw以下の給油式コンプレッサー-正規代理店詳細お/1042834947866593/",
+    "https://www.facebook.com/sekidorc/posts/cp2026特設ページ公開httpssekidocorpcomcp2026セキドが正規販売代理店をつとめるdji日本総代理店をつとめるhasselblad-と-/1312181717606755/",
+    "https://www.facebook.com/filgen.jp/photos/新規取扱いメーカーのお知らせelabscience-biotechnology社中国の全製品について日本国内における販売代理店となりましたelisaキットcli/2124835364229098/",
+    "https://www.facebook.com/ImmigrationServicesAgency.MOJ/posts/学校や会社を変更した場合の届出留学生の方や就労の在留資格を持っている方は所属する学校や会社を変更した場合辞めた場合に入管への届出が必要です届出はインターネットで/1623540653106819/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務 note 社長",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126",
+    "https://www.gov.uk/government/publications/overseas-registries",
+    "https://pm-lawyer.com/20200326-1/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=trade-representative-office-of-united-states",
+    "https://sailor.co.jp/wp-content/uploads/ir/20210202_IRnews_distributor.pdf",
+    "https://blog.n-cpa.com/2022/12/12/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%B3%95%E4%BA%BA%E3%81%AE%E6%97%A5%E6%9C%AC%E5%AD%90%E4%BC%9A%E7%A4%BE%E7%9B%A3%E6%9F%BB/",
+    "https://samurai-law.com/kaisha/2020/09/28/column2-4/",
+    "https://www.jwtc.jp/open/doc/doclist.asp?type=regulations&lang=cn"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務 X 投稿",
+   "results": [
+    "https://i-tip.wto.org/goods/Forms/LoadTableView.aspx?membername=Japon&areacode=SGS&languageid=2&grandtotal=0&membergroup=0",
+    "https://www.iadb.org/ja/viewer/EZSHARE-1185058265-1180",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126",
+    "https://www.markresearch.com/learning/japan_branch/",
+    "https://www.jetro.go.jp/world/europe/uk/invest_09.html",
+    "https://base-one.jp/%E5%A4%96%E8%B3%87%E7%B3%BB%E4%BC%81%E6%A5%AD%E3%81%AE%E6%97%A5%E6%9C%AC%E9%80%B2%E5%87%BA-%E6%8B%A0%E7%82%B9%E8%A8%AD%E7%AB%8B%E3%81%8B%E3%82%89%E4%BA%8B%E6%A5%AD%E9%96%8B%E5%A7%8B%E3%81%BE%E3%81%A7/",
+    "https://yoshizaki-lawyer.com/kaigaishien/%E6%B5%B7%E5%A4%96%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%A7%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%82%92%E8%A8%AD%E7%AB%8B%E3%81%99%E3%82%8B%E6%B5%81%E3%82%8C%E3%81%A8%E6%B3%A8%E6%84%8F/",
+    "https://www.youtube.com/watch?v=dZ2NxcNtSYw",
+    "https://tlg-visa.law/case/7439/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/leonardo-natale-5b218393",
+    "https://www.linkedin.com/posts/adamglawrence_most-people-assume-companies-house-tells-activity-7506234538780483586-kgkB",
+    "https://www.linkedin.com/company/eli-lilly-and-company",
+    "https://uk.linkedin.com/in/paul-feldberg-023bbb43",
+    "https://md.linkedin.com/in/nicolae-buldumac-43a8a910a",
+    "https://www.linkedin.com/company/bristol-myers-squibb",
+    "https://www.linkedin.com/company/unisys",
+    "https://www.linkedin.com/company/johnson-&-johnson",
+    "https://www.linkedin.com/company/cardinal-health",
+    "https://uk.linkedin.com/in/laurent-philavong-6401657"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-07T19:49:24.493545+00:00"
+}

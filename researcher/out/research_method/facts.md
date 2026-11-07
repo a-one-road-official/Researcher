@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・197品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・200品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1131,6 +1131,9 @@
   - 「In this beginner’s guide, we’ll walk through the key phases of performing equity research step-by-step. You’ll learn how analysts research companies, model financials, calculate valuations, and make investment recommendations.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「Once you’ve analyzed historical performance, the next step is modeling the future.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「provides step-by-step financial modeling tips.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
+  - 「Step 8: Risk Assessment」（https://thalasoft.com/p/equity-research-a-step-by-step-approach/）
+  - 「Step 9: Investment Recommendation」（https://thalasoft.com/p/equity-research-a-step-by-step-approach/）
+  - 「Step 10: Report Writing & Portfolio Monitoring」（https://thalasoft.com/p/equity-research-a-step-by-step-approach/）
   - 「This article will discuss the fundamental teaching capabilities of equity research and how equity research helps develop all the different types of skills, perspectives, and mental infrastructures and frameworks through which equity researchers think about companies and business. It will also discuss why equity research lessons are applicable across multiple industries and career fields.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「As a result of all of the above Factors Analysts develop Practical Tools to Analyze Industries, so that we will have an Accurate View of how they develop over Time. Analysts will develop a Foresight of how to make Industry Decisions based on their history.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「For equity research analysts, financial statements are not just accounts; they tell a story about how a business has performed. Analysts learn how to read the income statement, balance sheet, and cash flow statement as a series of linked stories.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
@@ -1138,9 +1141,6 @@
   - 「Equity Research teaches people not only what to think but also how to think about companies. The Equity Research process teaches an individual to think within a structure, build a structured approach to analytical thinking, and develop the strategic mindset needed for virtually any decision-making role.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「Conducting equity research provides much more than just insight into finance; it provides insights into how to think about running and managing a business. Analyzing the structure, industry, management, and financial statements of companies helps the researcher learn how to evaluate each company's business operation.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「Move from triage to model to write-up in order; skipping steps creates gaps that show up in the final recommendation.」（https://blog.tickerplace.com/blog/step-by-step-equity-research）
-  - 「BtoB SaaSのマーケティングコスト最適化の解き方（ザ・モデル型組織での実践）」（https://note.com/poco_c/m/m9305ed081d0f）
-  - 「The investment analysis process is how investors judge an opportunity's likely return and risk. This guide covers its methods, components and tools, and where AI now speeds up the research behind them.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
-  - 「In this blog post, we will provide a comprehensive overview of investment analysis, covering its various methods, its role in portfolio management, and its essential applications in investment analytics.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
 - 突き合わせ・推定：
   - 「Estimate future free cash flows」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「DCF analysis is a method used to estimate the value of an investment based on its expected future cash flows. The DCF model is a key tool in valuation, helping analysts determine the present value of expected future earnings.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
@@ -3311,7 +3311,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -5797,6 +5797,7 @@
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -5808,7 +5809,6 @@
   - 「一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 
 ## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
 - 文脈：突き合わせ
@@ -11830,11 +11830,11 @@
 
 ## 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）（ownership chain verification beneficial ownership filings subsidiaries OSINT）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務（verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house）
 - 文脈：会社・一次
@@ -11843,3 +11843,66 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）（citation error types hallucination outdated superseded source verification checklist）
+- 文脈：検証
+- 手順・やり方：
+  - 「How to check AI citations and identify AI hallucinations in references | Editage」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「How to check AI citations and identify AI hallucinations in references」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「Step-by-Step Process to Verify AI-Generated References」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「Before submitting any AI-assisted document, run every citation through a structured verification process. The 5 steps below work for academic papers, reports, and articles alike.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「Step 1: Confirm the Source Exists」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「Step 2: Match Author Names and Publication Details」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「Step 3: Verify DOIs and URLs」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「Step 4: Cross-Check with Academic Databases」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「Step 5: Confirm the Citation Supports the Claim」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「updated guidelines on how to actually cite AI output」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「Common Punctuation Errors in Academic Writing (and How to Fix Them)」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+- 突き合わせ・推定：
+  - 「Step 4: Cross-Check with Academic Databases」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+  - 「A professional editor cross-checks every citation against the original source, corrects formatting, and edits the surrounding text for flow, coherence, and argument strength.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+- 一次情報の探し方：
+  - 「Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+- 実例：
+  - 「A List of Strong Verbs for Academic Writing: Examples and Exercises」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+
+## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
+- 文脈：会社・一次
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
+
+## 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）（intelligence grading 3x5x2 handling code dissemination OSINT）
+- 文脈：検証
+- 手順・やり方：
+  - 「Explored the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Modern investigative work increasingly relies upon open-source intelligence (OSINT). However, an effective intelligence-gathering process depends on more than just collecting data: structured practices of grading, handling, and securely disseminating intelligence are essential. These methods help guarantee operational security, foster credibility, and enable effective collaboration.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Any information OSINT investigators obtain should be recorded through the frameworks discussed in this article.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「to assign to it when formulating a response or deciding how to use it effectively. To address this issue, a nationally standardised grading system is available to both public and private investigation bodies, providing them with an easily understood way to share intelligence and assess its trustworthiness.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「How intelligence is evaluated and authorised within the applicable intelligence framework」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「History of Grading Frameworks」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「While sharing common roots, these frameworks have been adapted over time to meet the specific needs of different organisations and countries. The evolution of these grading frameworks reflects ongoing efforts to improve the accuracy and reliability of intelligence evaluation.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Sample of an Intelligence Grading Framework」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Standardised grading frameworks like 3x5x2 streamline this process, making it easier for private and public organisations to collaborate. However, intelligence sharing must remain segmented, and where appropriate, "」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「, due diligence, or law enforcement fails to draw a line between reliable data and less credible data. Such a gap highlights the need for a robust methodology combined with advanced analytics for accurate」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Embedding intelligence grading into OSINT so it aligns with other intelligence disciplines can help investigators achieve better operational outcomes, protect sources, and engender confidence in their findings. Adopting such methodologies forms a best practice and is increasingly necessary in today's high-speed, high-stakes investigative environment.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+- 実例：
+  - 「Examples – Technical products e.g. DNA, fingerprints, CCTV」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
+  - 「determined, for example, members of the public, Crimestoppers.」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
+  - 「Examples – members of the public with a potentially malicious」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
+  - 「If this is the case, the rationale for why it is believed to be false」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
+  - 「Examples – malicious/non-malicious callers, CHIS engaging in」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
+  - 「Code P intelligence. For example:」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
+  - 「" case management, these practices are vital for success and help avoid "」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Since then, various intelligence grading systems have been developed and used by different organisations. For example:」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「These codes simplify communication and ensure consistency across different organisations or agencies. For example:」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「. For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）

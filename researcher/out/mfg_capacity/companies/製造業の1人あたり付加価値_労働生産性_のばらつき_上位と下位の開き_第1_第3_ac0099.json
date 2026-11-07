@@ -1,0 +1,2186 @@
+{
+ "name": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88）",
+ "en": "productivity dispersion manufacturing Japan interquartile trend SMEs",
+ "aliases": [
+  "生産性のばらつき 製造業 日本 推移 四分位",
+  "財務総合政策研究所 生産性 ばらつき 報告書",
+  "中小企業白書 労働生産性 分布 上位10% 下位10% 推移 製造業"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T19:49:44.052886+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "また、2005年から2022年にかけての一人当たり名目GDP平均成長率は、日本はほかの国々と比べて非常に低い水準となっている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働者1人あたり、もしくは労働時間1時間あたり、生産物をどれだけ生み出せたかを知るための指標です",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値生産性も、物的生産性と同様に、労働量に対する付加価値を指標とすることが多く、これにより労働者1人あたり、もしくは労働時間1時間あたりの付加価値労働生産性を導くことができます",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、100個の製品を生み出すために、5人が労働した場合、労働者1人あたりの物的労働生産性は20",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "5人が2時間労働した場合、労働時間1時間あたりの物的労働生産性は10ということになります",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年の日本の1人当たり労働生産性（就業者1人当たり付加価値）は、81,183ドル（824万円）",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして、日本が生産性向上に取り組まなければならない重要な理由は、少子高齢化による労働力人口（15歳以上人口のうち、就業者と完全失業者を合わせた人口のこと）の減少にあります",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "総人口は2030年の1億1,662万人を経て、2048年には1億人を割って9,913万人程度となり、2060年には8,674万人程度になるものと推計され、現在の3分の2の規模まで減少することとなる",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、同仮定を長期まで延長すると、100年後の2110年には4,286万人程度になるものと推計される",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本生産性本部では1981年より、OECDや世界銀行などのデータに基づいて世界各国の国民1人当たりGDP、労働生産性（就業者1人当たり国内総生産、就業1時間当たり国内総生産）、主要先進7カ国の産業別生産性トレンド・産業別労働生産性水準などの比較を行い、「労働生産性の国際比較」として発表しています",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 日本の一人当たり労働生産性は、98,344ドル（935万円）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の一人当たり労働生産性（就業者一人当たり付加価値）は、98,344ドル（935万円／購買力平価 （PPP）換算）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の製造業の労働生産性（就業者一人当たり付加価値）は、80,411ドル（1,188万円／為替レート換算）でOECDに加盟する主要35カ国中20位",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "○ 「従業者１人当たり」の指標について",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "本トピックスでは、「従業者１人当たり」の売上高や付加価値額などの指標を用いていますが、これらにおいては正社員・正職員とパート・アルバイトの労働時間の違いなどは考慮していません",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、「従業者１人当たり」の指標を産業間で比較した結果を見る際には、各産業の雇用形態の特徴などにも留意する必要があります",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "「従業者１人当たり付加価値額（労働生産性）」が最も大きいのは「情報通信業」",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "「従業者１人当たり売上高」が最も大きいのは「卸売業」",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の生産性をみる指標としては、付加価値額を従業者数で割って求めた「従業者１人当たり の付加価値額」があります",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは「付加価値労働生産性」、あるいは単に「労働生産性」とも呼ばれ、従業者１人が生み出す新たな価値であるといえます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、「従業者１人当たりの付加価値額（労働生産性）」は「従業者１人当たり売上高」と「売上高付加価値額率」（これを「付加価値率」といいます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "「従業者１人当たり売上高」については、この指標が大きいほど少ない人手で多くを稼いでいるといえます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「従業者１人当たり付加価値額（労働生産性）」は、「情報通信業」が909万円と最も大きく、次いで「学術研究，専門・技術サービス業」が786万円、「卸売業」が747万円などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "図2-1 従業者１人当たり付加価値額（労働生産性）",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「従業者１人当たり売上高」は、「卸売業」が9458万円と最も大きく 、次いで「物品賃貸業」が4482万円、「娯楽業」が3855万円などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "図2-2 従業者１人当たり売上高",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "[2] 「従業者１人当たり」の係数の産業間比較の際の留意点については、",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "『「従業者１人当たり」の指標について』",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "[3] 「卸売業」の従業者1人当り売上高には、総合商社や貿易商社などが寄与しているものとみられます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "人口減少と経済成長に関する研究会 第2回",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化率 (人口に占める65歳以上人口の割合) は過去最高",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "fe ifn (15~64imk) 人口比率は過去最低で20604",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、一国全体の経済を考えた場合、豊かさの指標として、しばしば利用される1人当たりGDP（国内総生産）をとりあげてみましょう",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、GDPを人口で割った1人当たりGDPは、一国の「平均所得」の指標であると考えられます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "この1人当たりGDPを分解すると、労働者当たりのGDP（＝総生産量）、すなわち労働生産性と人口当たりの労働者数（労働力率）の積として表すことができます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "（図1-3）したがって、国民生活の豊かさ（1人当たりGDP）の改善は、労働生産性の伸びに依存していることが分かります",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、(2)については、発展途上国のようなデータが整備されていない国でも、生産額や従業者数のデータぐらいは入手できるので、労働生産性による分析が可能です",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "今、従業員が2人いて、1人がうどんを担当し、1人がそばを担当しているとします",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、2人を、「茹で」担当と「スープ&トッピング」担当として分業させれば、注文が集中しても手分けして仕事を進められるので生産性が改善すると考えられます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "食器洗い機を導入すると、2人の労働時間は大幅に削減されるので一見生産性が改善したようにみえます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用面から考えると、仮に時間当たり使用料が2人の時給を上回るようなら、生産性は改善したとはいえません",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度“日本”株式会社の決算 － その２ ～法人企業統計から読み解く企業活動の移り変わりと現在位置～ | 佐久間 啓 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年9月14日付のMarket Side Mirrorで「2022年度“日本”株式会社の決算」と題し、法人企業統計年次別調査データから売上高、ＲＯＥ、キャッシュフロー、バランスシートの状況について1980年以降の企業活動の移り変わりを整理した",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は“その２”と題し、前回は触れられなかったが企業活動分析では欠かせない損益分岐点売上高比率、一人当たり付加価値（＝労働生産性）、労働分配率についてその移り変わりと現在位置を確認しておくことにする",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値の定義には様々あるが、ここでは付加価値＝営業純益+人件費+支払利息+動産不動産賃借料+租税公課とし、具体的には法人企業統計データの項番73「付加価値(当期末)」データを使用している",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは大企業については役員-従業員比率は1％に満たないが、中小企業では10数％に上り、役員は経営者という側面に加え業務執行者として付加価値創出にかかわっている側面が強く役員を含めることが合理的であること、大企業、中小企業を同じ土俵で比較するという観点から役員も含めた人員数を分母とした",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の一人当たり付加価値額（＝労働生産性）は全規模全産業ベースで640万円（持株会社含むベースでは656万円）、製造業が837万円、非製造業が590万円となった",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "役員従業員数でみるとそれぞれ122.6、73.9、147.4となる",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値のうち人件費の割合が労働分配率だが2022年度は全規模全産業ベースで69.0％（持株会社含むベースでは67.5％）、製造業、非製造業とも69.0％",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人日本生産性本部注 1 は OECD 統計データを基に毎年",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021」によると、日本の１人あたり労働生産性は、OECD 加盟 38 カ国中の第 28",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「労働生産性の国際比較 2021」によると、１人あたり労働生産性は、第 1 位はアイルラン",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（図表 1）１人あたり労働生産性（2020 年）",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "較 2022」から、１人あたり平均年間総実労働時間をみると、最も労働時間が多いのは韓国で",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（図表 3）１人あたり平均年間総実労働時間（2020 年）",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：独立行政法人労働政策研究・研修機構「データブック国際労働比較2022」より筆者作成",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は「就業者数×労働時間」で割ることで、1 人当たり労働生産性および時間当たり労働生産性",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、1 人当たり労働生産性は、1 人あたりまたは時間あたり GDP と解することがで",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の算定式と、国内総生産（GDP）の算出方法を認識したうえで、各国の１人あ",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "センブルグ」、第 4 位「スイス」は、IMF 統計データ（2021 年）によると「1 人あたり購買力",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "一方で、中小企業の上位10％の水準（90％タイル）は大企業の中央値を上回っており、企業規模が小さくても労働生産性の高い企業が一定程度存在することが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、上位10％（90％タイル）と下位10％（10％タイル）の値の差分を用いて、労働生産性のばらつきを業種別に見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2005年から2022年にかけての一人当たり名目GDP平均成長率は、日本はほかの国々と比べて非常に低い水準となっている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産性には大きく分けて2つの種類があり、そのひとつが物的労働生産性です",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値生産性も、物的生産性と同様に、労働量に対する付加価値を指標とすることが多く、これにより労働者1人あたり、もしくは労働時間1時間あたりの付加価値労働生産性を導くことができます",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、100個の製品を生み出すために、5人が労働した場合、労働者1人あたりの物的労働生産性は20",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "5人が2時間労働した場合、労働時間1時間あたりの物的労働生産性は10ということになります",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "OECD データに基づく2019年の日本の時間当たり労働生産性（就業1時間当たり付加価値）は、47.9ドル（4,866円／購買力平価（PPP）換算）",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年の日本の1人当たり労働生産性（就業者1人当たり付加価値）は、81,183ドル（824万円）",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "韓国（24位･82,252ドル／835 万円）やニュージーランド（25位･82,033ドル／832万円）とほぼ同水準",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較 2020",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本生産性本部では1981年より、OECDや世界銀行などのデータに基づいて世界各国の国民1人当たりGDP、労働生産性（就業者1人当たり国内総生産、就業1時間当たり国内総生産）、主要先進7カ国の産業別生産性トレンド・産業別労働生産性水準などの比較を行い、「労働生産性の国際比較」として発表しています",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2025",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. 日本の時間当たり労働生産性は、60.1ドル（5,720円）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "OECDデータに基づく2024年の日本の時間当たり労働生産性（就業1時間当たり付加価値）は、60.1ドル（5,720円／購買力平価（PPP）換算）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "物価変動を調整した実質ベースの労働生産性上昇率は－0.6％（2024年・OECD加盟38カ国中33位）で、2023年（＋0.1％・同16位）から落ち込んだことが影響した",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 日本の一人当たり労働生産性は、98,344ドル（935万円）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の一人当たり労働生産性（就業者一人当たり付加価値）は、98,344ドル（935万円／購買力平価 （PPP）換算）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ニュージーランド（100,533ドル／956万円）やスロバキア（97,612ドル／928万円）といった国とほぼ同じ水準",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "3. 日本の製造業の労働生産性は、80,411ドル",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の製造業の労働生産性（就業者一人当たり付加価値）は、80,411ドル（1,188万円／為替レート換算）でOECDに加盟する主要35カ国中20位",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の名目労働生産性は、円ベースでは上昇が続いているが、円安が進んでいるためドルベースでみると直近のピーク（2018年、97,971ドル）から2024年までに18％落ち込んでいる",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2024",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2023",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2022",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2021",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2020",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "本トピックスでは、「従業者１人当たり」の売上高や付加価値額などの指標を用いていますが、これらにおいては正社員・正職員とパート・アルバイトの労働時間の違いなどは考慮していません",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "「従業者１人当たり付加価値額（労働生産性）」が最も大きいのは「情報通信業」",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の生産性をみる指標としては、付加価値額を従業者数で割って求めた「従業者１人当たり の付加価値額」があります",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは「付加価値労働生産性」、あるいは単に「労働生産性」とも呼ばれ、従業者１人が生み出す新たな価値であるといえます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、「従業者１人当たりの付加価値額（労働生産性）」は「従業者１人当たり売上高」と「売上高付加価値額率」（これを「付加価値率」といいます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「従業者１人当たり付加価値額（労働生産性）」は、「情報通信業」が909万円と最も大きく、次いで「学術研究，専門・技術サービス業」が786万円、「卸売業」が747万円などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "図2-1 従業者１人当たり付加価値額（労働生産性）",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「従業者１人当たり売上高」は、「卸売業」が9458万円と最も大きく 、次いで「物品賃貸業」が4482万円、「娯楽業」が3855万円などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "「売上高付加価値額率（付加価値率）」は、「社会福祉・介護事業」が63.2％と最も大きく、次いで「医療，保健衛生」が52.4％、「教育，学習支援業」が47.4％などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "図2-3 売上高付加価値額率（付加価値率）",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "「従業者１人当たり 給与総額」は「従業者１人当たり付加価値額（労働生産性）」と「付加価値額給与総額率」に分解できます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「従業者１人当たり給与総額」をみると、「情報通信業」が590万円と最も大きく、次いで「卸売業」が463万円、「学術研究，専門・技術サービス業」が445万円などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「付加価値額給与総額率（労働分配率）」をみると、「教育，学習支援業」が88.1％と最も大きく、次いで「社会福祉・介護事業」が85.8％、「他のサービス業」が78.7％などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2017年の日本の労働生産性は米国を 1 とすると製造業で0. 7 程",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、一国全体の経済を考えた場合、豊かさの指標として、しばしば利用される1人当たりGDP（国内総生産）をとりあげてみましょう",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、GDPを人口で割った1人当たりGDPは、一国の「平均所得」の指標であると考えられます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "この1人当たりGDPを分解すると、労働者当たりのGDP（＝総生産量）、すなわち労働生産性と人口当たりの労働者数（労働力率）の積として表すことができます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "（図1-3）したがって、国民生活の豊かさ（1人当たりGDP）の改善は、労働生産性の伸びに依存していることが分かります",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、(2)については、発展途上国のようなデータが整備されていない国でも、生産額や従業者数のデータぐらいは入手できるので、労働生産性による分析が可能です",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "では、労働生産性はどんなときに向上するのでしょうか？ 労働生産性向上の源泉としては、1) 生産工程の改善と2) 新規設備の導入が考えられます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "図3-1は、繊維製品製造業の労働生産性の推移です",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "図2でみたように、繊維製品製造業の国際競争力は低下傾向にあるにも関わらず、意外にも繊維製品製造業の労働生産性は上昇傾向にあります",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は“その２”と題し、前回は触れられなかったが企業活動分析では欠かせない損益分岐点売上高比率、一人当たり付加価値（＝労働生産性）、労働分配率についてその移り変わりと現在位置を確認しておくことにする",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の一人当たり付加価値額（＝労働生産性）は全規模全産業ベースで640万円（持株会社含むベースでは656万円）、製造業が837万円、非製造業が590万円となった",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別には大企業が1,349万円、中堅企業が784万円、中小企業が460万円である",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "分子であるグロスの付加価値額は1990年度を100とした指数で2022年度の全規模全産業は125.2、製造業は91.6、非製造業は144.3",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021」によると、日本の１人あたり労働生産性は、OECD 加盟 38 カ国中の第 28",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "位、時間あたり労働生産性は同第 23 位と、日本の労働生産性が OECD 平均より",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「労働生産性の国際比較 2021」によると、１人あたり労働生産性は、第 1 位はアイルラン",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ル）、日本は OECD 平均 100,799 ドルを下回り 78,655 ドル（約 810 万円）で、OECD 加盟 38",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、時間あたり労働生産性では、同じく第 1 位はアイルランド（121.8 ドル）、第 2 位は",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（図表 1）１人あたり労働生産性（2020 年）",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：日本生産性本部「労働生産性の国際比較 2021」より筆者作成",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2024年版「中小企業白書」 第3節 生産性 | 中小企業庁",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、総務省「労働力調査（基本集計）」、「人口推計」、内閣府「国民経済計算」、国立社会保障・人口問題研究所「日本の将来推計人口」、及び内閣府経済社会総合研究所「国民経済計算年次推計」を用いて、就業者数の減少と国際競争に必要な生産性向上についての試算を行ったものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、就業者数は、推計値ベースで減少していくと考えられる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後、就業者数が減少していくことが見込まれる中で、一人当たり名目GDPを増加させるためには、生産性を一層向上させていくことが必要となる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2005年から2022年にかけての一人当たり名目GDP平均成長率は、日本はほかの国々と比べて非常に低い水準となっている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして、現在の日本のように「労働力が減少している」「資源が限られている」といった状況においては、この生産性の向上が重要になってくるのです",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、労働者の数や人数、保有資本が増えていないにもかかわらず、全要素生産性が向上した場合、「産出量」が増加したということです",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "OECD データに基づく2019年の日本の時間当たり労働生産性（就業1時間当たり付加価値）は、47.9ドル（4,866円／購買力平価（PPP）換算）",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年の日本の1人当たり労働生産性（就業者1人当たり付加価値）は、81,183ドル（824万円）",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較 2020",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして、日本が生産性向上に取り組まなければならない重要な理由は、少子高齢化による労働力人口（15歳以上人口のうち、就業者と完全失業者を合わせた人口のこと）の減少にあります",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "総人口は2030年の1億1,662万人を経て、2048年には1億人を割って9,913万人程度となり、2060年には8,674万人程度になるものと推計され、現在の3分の2の規模まで減少することとなる",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、同仮定を長期まで延長すると、100年後の2110年には4,286万人程度になるものと推計される",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "総人口が減るということは、当然労働力人口も減少します",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働力人口が減少すると、国全体の生産力を維持することができなくなり、国際的な競争力も低下",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働力人口減少を背景とした労働力不足は、すべての企業にとっての課題です",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2025",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜2025年版＞",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "OECDデータに基づく2024年の日本の時間当たり労働生産性（就業1時間当たり付加価値）は、60.1ドル（5,720円／購買力平価（PPP）換算）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年（21位）から2020年（28位）にかけて急激に落ち込んでから回復しつつあったが、2024年は再び28位となっている",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "物価変動を調整した実質ベースの労働生産性上昇率は－0.6％（2024年・OECD加盟38カ国中33位）で、2023年（＋0.1％・同16位）から落ち込んだことが影響した",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の一人当たり労働生産性（就業者一人当たり付加価値）は、98,344ドル（935万円／購買力平価 （PPP）換算）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "順位は、OECD加盟38カ国中29位で2023年から変わらなかったが、主要先進7カ国でみると最も低い状況が続いている",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の製造業の労働生産性（就業者一人当たり付加価値）は、80,411ドル（1,188万円／為替レート換算）でOECDに加盟する主要35カ国中20位",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の名目労働生産性は、円ベースでは上昇が続いているが、円安が進んでいるためドルベースでみると直近のピーク（2018年、97,971ドル）から2024年までに18％落ち込んでいる",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度版",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2024",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度版",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2023",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度版",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2022",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度版",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の国際比較2021",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度版",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月17日",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人口減少と経済成長に関する研究会 第2回",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・イノベー ショ ンの創発に欠かせない若年層の減少が生産性の停滞を引",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金・権・深尾 (2019) の表 1",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1995-2005 2005-2015 1995-2005 2005-2015 1995-2005 2005-2015",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マンアテアワー増加の寄与 -0.74% -0.59% -1.55% -0.94% -0.45% -0.48%",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本サービス投入増加の寄与 0.65% 0.10% 0.52% 0.13% 0.71% 0.08%",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済成長率の低下の要因 (金・権・深尾 (2019) より抜粋)",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・労働の質の寄与も低下、これは団塊の世代が退職する一方、増加した女性労働者や再雇用され",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・女性や高齢者における就業率上昇が人口減少・高齢化によるマンアワーの減少を小幅にするこ",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・2017年の日本の労働生産性は米国を 1 とすると製造業で0. 7 程",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・1997年と2017年を比較",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働力率は、人口に占める労働者の比率で、人口に占める子どもや高齢者など非労働力人口が減少すると労働力率は増加しますが、短期的には大きな変化が起こることはありません",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "図3-1は、繊維製品製造業の労働生産性の推移です",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "1973年投入量を1として、その後の推移を示しています",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働投入が一貫して低下しているのに対して、資本ストックは増加しています",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでTFPは、食品からのエネルギー吸収効率のようなもので、同じカロリーでも効率的に体重増加につながれば、生産性が改善したと考えます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "まず、少子高齢化で労働力が減少し、労働投入の寄与が大きく減少しました",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "1975～1990年の労働投入増加の寄与は1%程度でしたが、1990年以降はほとんどゼロになっています",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして、1990年代に入ってTFPの寄与が減少したことも経済成長率低迷の大きな要因です",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、近年、パート・アルバイトと呼ばれる短時間労働者が増えていますが、これを人数の増加として捉えると、投入量を過大評価することになってしまいます",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "次のグラフは、小売業の労働投入の推移を示しています",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は増加する一方で、平均年間労働時間は低下しています",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、パート・アルバイトなどの短時間労働者が増加しているからです",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "プログラム (2024-2028年度)",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "プログラム (2020-2023年度)",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "2019年の日本の1人当たり労働生産性（就業者1人当たり付加価値）は、81,183ドル（824万円）",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "韓国（24位･82,252ドル／835 万円）やニュージーランド（25位･82,033ドル／832万円）とほぼ同水準",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 日本の一人当たり労働生産性は、98,344ドル（935万円）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の一人当たり労働生産性（就業者一人当たり付加価値）は、98,344ドル（935万円／購買力平価 （PPP）換算）",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ニュージーランド（100,533ドル／956万円）やスロバキア（97,612ドル／928万円）といった国とほぼ同じ水準",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の製造業の労働生産性（就業者一人当たり付加価値）は、80,411ドル（1,188万円／為替レート換算）でOECDに加盟する主要35カ国中20位",
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "本トピックスでは、「従業者１人当たり」の売上高や付加価値額などの指標を用いていますが、これらにおいては正社員・正職員とパート・アルバイトの労働時間の違いなどは考慮していません",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、平成24年経済センサス‐活動調査の集計項目から、以下の式により「売上高営業利益率」を求め、産業間の比較を行うこととします",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「売上高営業利益率」は、「学術研究，専門・技術サービス業」が15.2％と最も大きく、次いで「不動産業」が12.5％、「飲食サービス業」が11.5％などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "図1 売上高営業利益率",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "「従業者１人当たり売上高」が最も大きいのは「卸売業」",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、「従業者１人当たりの付加価値額（労働生産性）」は「従業者１人当たり売上高」と「売上高付加価値額率」（これを「付加価値率」といいます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "「従業者１人当たり売上高」については、この指標が大きいほど少ない人手で多くを稼いでいるといえます",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「従業者１人当たり付加価値額（労働生産性）」は、「情報通信業」が909万円と最も大きく、次いで「学術研究，専門・技術サービス業」が786万円、「卸売業」が747万円などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年１年間の「従業者１人当たり売上高」は、「卸売業」が9458万円と最も大きく 、次いで「物品賃貸業」が4482万円、「娯楽業」が3855万円などとなっています",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、(2)については、発展途上国のようなデータが整備されていない国でも、生産額や従業者数のデータぐらいは入手できるので、労働生産性による分析が可能です",
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "pass": 3
+   },
+   {
+    "quote": "＊2022年度の損益分岐点売上高比率は全体で80.0％、1980年度以降の最低を更新",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年9月14日付のMarket Side Mirrorで「2022年度“日本”株式会社の決算」と題し、法人企業統計年次別調査データから売上高、ＲＯＥ、キャッシュフロー、バランスシートの状況について1980年以降の企業活動の移り変わりを整理した",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は“その２”と題し、前回は触れられなかったが企業活動分析では欠かせない損益分岐点売上高比率、一人当たり付加価値（＝労働生産性）、労働分配率についてその移り変わりと現在位置を確認しておくことにする",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、前回指摘の通り、2009年度より非製造業の中に業種分類として純粋持株会社が独立して設けられているが、純粋持株会社は子会社の株を持ち、経営管理をすることが主たる業務であり、売上げは子会社からの配当等に限られるため売上げ規模の割に利益（率）は大きく（高く）なりがちである",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "また本文中、「大企業」は資本金10億円超、「中堅企業」は資本金1億円超～10億円未満、「中小企業」は資本金1億円未満の企業である",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の損益分岐点売上高比率は全規模全産業ベースで80.0％（持株会社含むベースでは79.2％）",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の一人当たり付加価値額（＝労働生産性）は全規模全産業ベースで640万円（持株会社含むベースでは656万円）、製造業が837万円、非製造業が590万円となった",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別には大企業が1,349万円、中堅企業が784万円、中小企業が460万円である",
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "pass": 3
+   },
+   {
+    "quote": "ル）、日本は OECD 平均 100,799 ドルを下回り 78,655 ドル（約 810 万円）で、OECD 加盟 38",
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 単位：百万円",
+    "url": "https://note.com/ogawa_tech/n/naba6bc2b50fd",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年度の労働生産性 (全産業・全規模) は 817 万円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※製造業 (全規模) 995 万円、非製造業 (SME) 769 万円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 流動資産 1 流動負債 I 売上原価",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版ものづくり白書の図では、2024年の製造業の1人当たり名目労働生産性は1,141万円、全産業は927万円でした",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業：2015 1,060 万円/人、2016 1,065 万円/人、2017 1,080 万円/人、2018 1,088 万円/人、2019 1,074 万円/人、2020 1,043 万円/人、2021 1,080 万円/人、2022 1,055 万円/人、2023 1,138 万円/人、2024 1,141 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "全産業：2015 853 万円/人、2016 857 万円/人、2017 861 万円/人、2018 848 万円/人、2019 844 万円/人、2020 824 万円/人、2021 850 万円/人、2022 862 万円/人、2023 906 万円/人、2024 927 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2015：1,060 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2016：1,065 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2017：1,080 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2018：1,088 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2019：1,074 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2020：1,043 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2021：1,080 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2022：1,055 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2023：1,138 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、2024：1,141 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "全産業、2015：853 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "全産業、2016：857 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "全産業、2017：861 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "全産業、2018：848 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "全産業、2019：844 万円/人",
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年度補正予算から令和3年度補正予算まで5次にわたり約9,600億円の予算措置を行い、感染症の影響を受けつつも、前向きな取組を行う中小企業・小規模事業者の取組を支えるべく、特別枠を創設して補助率や補助上限額を引き上げるなど、制度を拡充している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年に実施した効果測定の結果、採択企業は非採択企業と比べ、一社当たり採択から8年で毎年の売上約20億円、売上総利益約3億円プラスの効果があること等が確認されており、本事業を通じて研究開発に取り組んだ結果、成長を遂げた事例も多数存在",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでの累積分布とは、労働生産性の水準を10万円/人単位で区切り、それぞれの区間ごとに何％の企業が分布しているかを集計した後、足し上げたものを指す",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 300万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 1,000万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "累計で約10億円に上る投資は、即時償却制度の活用で利益を圧縮して手元資金を蓄積しながら、次の投資へ挑む着実な足取りで進めてきた",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社の売上高は、従業員数を維持したまま2016年の6億円から2024年の12億円へと、8年間で倍増した",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性(中小企業目安1,000万円以上)",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "日本の法人企業全体(金融業・保険業を除く)の平均労働生産性は約850万円(2025年度)で、労働生産性を上げない限り賃上げの原資は確保できません",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "年商4億円規模の製造業を担当した経験では、労働生産性が業界平均の70%にとどまっていたため、賃上げ要請に応えられず若手退職が連鎖していました",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円以上",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "250万円以上",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値÷売上高×100",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "この外部購入費には、「原材料費」「部品費」「外注加工費」「製造経費」が含まれます",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある企業が1つ生産するために原材料費が5,000円、外注加工費用が5,000円かかった製品があるとします",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "▶人手不足への対応として従業員の多能工化を進めるも限界を感じ、自動化を推進",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "受注量の増加に伴って人手不足が深刻化する中、同社はこれまで従業員の多能工化で対応してきたが限界を感じ、2016年からは、積極的な設備投資を進め、作業工程の自動化と、省力化の推進による生産性向上に取り組んできた",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動化による作業時間短縮で、通常は納期に1～2か月必要な制御盤の製造を、少ロットで急ぎの発注であっても1日で対応できるようになるなど、顧客対応力が飛躍的に向上",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産性分析は経営分析の4つの柱(収益性・安全性・成長性・効率性)に加える5番目の領域で、近年の人手不足と賃上げ圧力の中で、その重要性が急速に高まっています",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "生産工程のIT化と外注比率の見直しで労働生産性を1.3倍に改善し、賃上げ原資を確保したケースがあります",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "外部購入価値=売上原価+外注費+運賃+販売手数料+リース料+地代家賃 等",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "建設業や運送業など外注比率が高い業種では労働生産性をどう計算しますか?",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "「加工高=売上高−材料費−外注費」で計算し、これを従業員数で割ります",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "外注費を控除しないと、自社の実質的な付加価値が過大評価されるためです",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における外部購入価値とは、原材料費や部品代および外注加工費などを指します",
+    "url": "https://fukakachi-lab.com/category/value-management/606",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 ＝ 売上高 － 外部購入価値（材料費・外注加工費など）",
+    "url": "https://fukakachi-lab.com/category/value-management/606",
+    "pass": 3
+   },
+   {
+    "quote": "自社独自の加工技術や、超短納期対応といった「",
+    "url": "https://fukakachi-lab.com/category/value-management/606",
+    "pass": 3
+   },
+   {
+    "quote": "材料費の高騰や深刻な人手不足が続く現在のビジネス環境において、中小製造業が生き残るためには「稼ぐ力の質」を高めることが不可欠です",
+    "url": "https://fukakachi-lab.com/category/value-management/606",
+    "pass": 3
+   },
+   {
+    "quote": "特に、非製造業の中堅・中小企業を中心に人手不足感が深刻になっており、",
+    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M106914/202411129753/_prw_PA2fl_M5gG9K74.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、 人手不足",
+    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M106914/202411129753/_prw_PA2fl_M5gG9K74.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "賃金も、人手不足などを背景に上昇傾向にある",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/trend_summary_2023.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "賃金 ：コロナ禍で一時落ち込んだが、人手不足で上",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/trend_summary_2023.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "下回る 2%台で推移しており、サービス産業分野を中心に人手不足に悩む企業が目立つよう",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る女性や高齢者などの雇用が人手不足の中で着実に進んだことなどが背景にあると思われ",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻化している小売業や運輸業、建設業(3",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "就業者が増加しているとはいえ、企業の認識として 人手不足と感じる現状が足もとで大",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "として大幅なマイナスとなっており、現状が人手不足と認識する企業が幅広い分野で多数",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セクターで人手不足が進むと予測する企業が増えているとみることができる",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金支払余力を少しずつ圧迫しているといってよい",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ると、 このところの労働生産性の上昇は、 人手不足などともあいまって正社員の負担が高ま",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 生産性の上昇や人手不足に伴って賃金水準(現金給与総額)も、2013 年あたりから緩",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在の人手不足を背景とした賃金上昇圧力が 大きいことを示すものともいえそうだが、足",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "堅調に推移する景気情勢や人手不足などから今後も賃金上昇が続きそうな情",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "様に人手不足が指摘されているが、 労働投入が増加している",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加傾向にあるものの、 労働需要の方が大きく、 人手不足が解消されるには至っていないこと",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と同様に人手不足が続いており、 特に地方における人手不足が深刻であることから、労働需",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足からパート ・ アルバイト時給が上昇傾向にあり、",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多く、 競争が激しいだけでなく、 人手不足問題が顕在化している産業であるので、 労働生産",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "順による食材価格の上昇や、 円安による輸入食材の価格上昇、 人手不足による人件費の高騰",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店と同様に、同社においても近年人手不足が深刻化しており、効率的に店舗運営をする",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、年間売上高2億円、外部購入費用（原材料費・外注費など）1億2,000万円、従業員数10名の製造業企業の場合を考えます",
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ成功企業はオウンドメディア外注を選ぶのか？補助金で実質半額にする方法",
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの外注先おすすめの選び方｜「記事を書くだけ」の会社に要注意",
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "第3-1表 企業産業(小分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―全国",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "の従業者数当たり事業所数（91年）",
+    "url": "https://www5.cao.go.jp/keizai3/discussion-paper/dp036-z5.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "第3-1表 企業産業(小分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―全国",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版 中小企業白書（HTML版） 第4節 労働生産性・設備投資 | 中小企業庁",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "第4節 労働生産性・設備投資",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "受注量の増加に伴って人手不足が深刻化する中、同社はこれまで従業員の多能工化で対応してきたが限界を感じ、2016年からは、積極的な設備投資を進め、作業工程の自動化と、省力化の推進による生産性向上に取り組んできた",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "だけでなく、30 代や 40 代以上の世代や、 ファミリー層をターゲットにした設備投資を行っ",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注生産型であることから、需要側の設備投資が国内外で 2017 年度は活発化し、生産活動",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業レベルデータに基づく 日本の 労働生産性 に関する考察 — 企業レベルデータに基づく 日本の 労働生産性 に関する考察 財務省 PDF https://www.mof.go.jp > research > jinkou202001_01",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "また、事業承継・引継ぎに伴う廃業等についても支援している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
+    "pass": 3
+   },
+   {
+    "quote": "高すぎると経営圧迫、低すぎると従業員不満で離職率上昇というジレンマがあります",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "高すぎる場合(70%超)は経営圧迫、低すぎる場合(30%未満)は従業員不満・離職リスクが高まります",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "pass": 3
+   },
+   {
+    "quote": "上昇率がマイナス、アウトプットの上昇率がプラスであり、離職率を指数としたもの8の変",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る労働投入の増加があるが、離職者も多く、 労働者の流動性が高い状態にあることを示して",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "あることをあわせて考えると、 離職者が多い分、 労働需要が大きいことから、 賃金も上昇傾",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "離職率（2017年度）",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これら 2 産業では、離職者が多いが、 労働需要も労働供給も大き",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業によって労働生産性、 現金給与総額指数、離職率が必ずしも同じ",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、離職率指数の変化率もマイナスで",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの産業では、離職率が",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にあることをあわせて考えると、 これら4 産業では、離職率を低く抑えつつ、新規の就業者",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図16 足もとの労働生産性と離職率",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、労働生産性上昇率が足もとでプラスとなった 10 産業のうち、宿泊業では、離職率",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは、離職率が低下しつつ、 労働生産性が上昇してい",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少していること、離職率が低下していることをあわせて考えると、 労働の効率的な投入が",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※図中の数値はそれぞれ労働生産性上昇率、離職指数の変化率を示す",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、離職率指数についてみてみると、窯業・土石製品工業(＋11.7％)、ゴム製品工業",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品工業(－13.7％)等 14 産業で離職率指数は減少している",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "部品・デバイス(－1.9％)、 電気機械(－8.4％)の 3 産業については、離職率指数が減少してい",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こういった産業では、離職率を減らすような職場環境",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期決算から、有価証券報告書を提出する企業のうち一定規模以上の企業は、人件費総額・教育投資額・離職率・",
+    "url": "https://taxjudge.com/2026/05/27/labor-productivity-formula-benchmark/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計 on X: \"【最新】2025年の労働生産性と... 2025年の1人あたり付加価値は758万円で、昨年度の726万円から大幅に上昇しています。 平均給与は426万円で、昨年 (417万円)より上昇していますが、生産性の上昇幅に対してはやや上昇幅が小さいようです。",
+    "url": "https://x.com/OgawaSeisakusho/status/2095258759459459223",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業x経済統計 on X: \"@konno1706584136 産業別の労働... @konno1706584136 産業別の労働生産性についてまとめてみると、こんな感じです。 付加価値の水準は為替レート換算値となり、為替変動の影響を受けますのでご留意ください。",
+    "url": "https://x.com/OgawaSeisakusho/status/2103780310349701143",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業x経済統計 on X: \"日本の労働者1人あたりGDPを見... 【労働生産性の国際比較】 OECDによる最新 (2025年)の労働生産性 (労働時間あたりGDP)を見ると、日本は61.8ドルでOECD37か国中29位となったようです。 アメリカ、ドイツ、フランスの6割程度で、2024年と比べると韓国に抜かれて1つ順位を落としています。 Show more 2 ...",
+    "url": "https://x.com/OgawaSeisakusho/status/2102541200851190168",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "労働生産性＝付加価値額 ÷ 労働投入量：数字の裏にある本質 Dec 18, 2025 · 製造業の経営を支援します。 ー 中期計画達成率の向上、生産性改善、労災の撲滅、離職防止、海外展開、メディア発信、M&A Published Dec 18, 2025 + Follow",
+    "url": "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/",
+    "pass": 3
+   },
+   {
+    "quote": "314 雇用者の労働時間あたり付加価値 - 生産性の国際比較 | 小川製作... 「雇用者の労働時間あたり付加価値」 雇用者が労働時間あたりに稼いだ付加価値(労働生産性)を計算してみました。 日本はかなり低い水準(48.6 ...",
+    "url": "https://www.linkedin.com/posts/masayoshi-ogawa1980_314-雇用者の労働時間あたり付加価値-生産性の国際比較-小川製作所-東京都葛飾区-activity-7176692327673991169-72Vi",
+    "pass": 3
+   },
+   {
+    "quote": "技術者こそ企業経営トップを目指せ ー 第2章 生産性向上への考え方：... Nov 9, 2020 · まずは労働生産性（g）と資本生産性（r）から見ていこう。 ピケティの「21世紀の資本論」では、経済効率性と資本効率性では、資本効率性が勝るとしている。 GDPを労働生産性の指標とすると、世界で毎年1～2%成長している。",
+    "url": "https://jp.linkedin.com/pulse/技術者こそ企業経営トップを目指せ-ー-第2章-生産性向上への考え方ビット生産性bと量子ビット生産性q-mitsunobu-koshiba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "日本生産性本部 - 「労働生産性の国際比較2025」を公表！... | Facebo... Dec 21, 2025 · ～日本の時間当たり労働生産性は60.1ドル（5,720 円）で OECD加盟38カ国中28位～ OECDデータに基づく2024年の日本の時間当たり労働 生産性は、 60.1ドル（5,720 円）で、OECD加盟38カ国中28位でした。 実質ベースでは、2023年から若干ながら低下（－0.6 ％）しています。",
+    "url": "https://www.facebook.com/jpc0301/posts/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883787067651/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/naba6bc2b50fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?stat_infid=000031364727",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fukakachi-lab.com/category/value-management/606",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M106914/202411129753/_prw_PA2fl_M5gG9K74.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/trend_summary_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004035171",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/discussion-paper/dp036-z5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=019020026&statdisp_id=0004003964",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taxjudge.com/2026/05/27/labor-productivity-formula-benchmark/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fmclub.jp/blog/zaimu/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/reigniting-productivity-growth_67b7a182.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/pdp/13p021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nber.org/system/files/chapters/c8452/c8452.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://oecdecoscope.blog/2026/05/21/reviving-business-dynamism-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho/status/2095258759459459223",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho/status/2103780310349701143",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho/status/2102541200851190168",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/masayoshi-ogawa1980_314-雇用者の労働時間あたり付加価値-生産性の国際比較-小川製作所-東京都葛飾区-activity-7176692327673991169-72Vi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/技術者こそ企業経営トップを目指せ-ー-第2章-生産性向上への考え方ビット生産性bと量子ビット生産性q-mitsunobu-koshiba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jpc0301/posts/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883787067651/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://note.com/ogawa_tech/n/naba6bc2b50fd",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://note.com/ogawa_tech/n/naba6bc2b50fd",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "https://note.com/ogawa_tech/n/naba6bc2b50fd",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "productivity dispersion manufacturing Japan interquartile trend SMEs Japan statistics",
+   "results": [
+    "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/reigniting-productivity-growth_67b7a182.html",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.rieti.go.jp/jp/publications/pdp/13p021.pdf",
+    "https://www.nber.org/system/files/chapters/c8452/c8452.pdf",
+    "https://oecdecoscope.blog/2026/05/21/reviving-business-dynamism-in-japan/",
+    "https://www.brookings.edu/wp-content/uploads/2020/01/es-1.30.20-bailybosworthdoshi.pdf",
+    "https://www.statista.com/topics/13372/smes-in-japan/?srsltid=AYCX9vKLO5J9pCs6CNMsIQT-5dGuiIxazM_1ABBa4kq2pukPz6LzTx9_",
+    "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
+    "https://jpc.jpc-net.jp/eng/stats/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88）",
+   "results": [
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/webcrafts/n/n523d80561984",
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "https://note.com/ogawa_tech/n/nf899d8bb932c",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/ogawa_tech/n/naba6bc2b50fd",
+    "https://note.com/kens_reading1/n/n502ebeaf1635",
+    "https://note.com/ogawa_tech/n/n2013377c1e66"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com 製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88）",
+   "results": [
+    "https://x.com/OgawaSeisakusho/status/2095258759459459223",
+    "https://x.com/OgawaSeisakusho/status/2103780310349701143",
+    "https://x.com/OgawaSeisakusho/status/2102541200851190168",
+    "https://x.com/OgawaSeisakusho/status/1728206901996142594",
+    "https://x.com/OgawaSeisakusho/status/2114828517833875700",
+    "https://x.com/OgawaSeisakusho/status/2114828010503459213",
+    "https://x.com/OgawaSeisakusho/status/2114827307454238733"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88）",
+   "results": [
+    "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/",
+    "https://www.linkedin.com/posts/masayoshi-ogawa1980_314-雇用者の労働時間あたり付加価値-生産性の国際比較-小川製作所-東京都葛飾区-activity-7176692327673991169-72Vi",
+    "https://jp.linkedin.com/pulse/技術者こそ企業経営トップを目指せ-ー-第2章-生産性向上への考え方ビット生産性bと量子ビット生産性q-mitsunobu-koshiba",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の本来の稼ぎとは-企業規模別の純付加価値と減価償却費-activity-7433241835688595456-MK-1",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の投資は本当に少ないのか-付加価値と総固定資本形成の関係-activity-7405339762611482624-gktE",
+    "https://jp.linkedin.com/posts/atamura_統計-経済-労働分配率-activity-7482569554670407680-GXQ1",
+    "https://jp.linkedin.com/pulse/strategic-significance-direct-indirect-labor-ratios-beyond-faruki-8oxzc?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88）",
+   "results": [
+    "https://www.facebook.com/jpc0301/posts/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883787067651/",
+    "https://www.facebook.com/grobjapan/videos/生産効率品質のばらつき人員不足製造単価の高騰などお困りごとはございませんかgrobはお客様のための理想的な自動化ソリューションをご提案します当社のwebサイトか/3600535930190648/",
+    "https://www.facebook.com/Deloitte.Japan/posts/1人あたり付加価値の向上が人口減少時代の答えになるデロイト-トーマツ-グループ著の書籍価値循環の成長戦略のポイントを動画で解説執筆を手掛けたデロイト-トーマツ-/888672193280343/",
+    "https://www.facebook.com/ITmediaBusinessOnline/posts/2025年5月15日日本生産性本部は付加価値増大を軸とした生産性経営の実践2040年日本を世界の生産性トップリーグへ導く経営変革の道筋と題する提言を発表したこの/1419636440180647/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/生産性所得付加価値に関する研究会第１回会合を11月8日に開催し研究会の問題意識等についての説明議論に続き高橋悠太様一橋大学経済研究所講師高山直樹様一橋大学経済研/499167778918126/",
+    "https://www.facebook.com/minitab.japan/photos/a.507130433199480/1093203884592129/",
+    "https://www.facebook.com/mammy.toyama/posts/はい量産型生産ラインのようにレバレッジが効く領域では多少高価でもロボティクスが優位性を持ちうるそれでも自動車でさえ付加価値ベースで半分くらいは今でも人手にかなわ/28488732064050239/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "製造業の1人あたり付加価値（労働生産性）のばらつき（上位と下位の開き・第1〜第3四分位）の年ごとの推移と、ばらつきが開いたか縮んだか（財務総研 生産性研究会・中小企業白書の付属統計・経済センサスでカバー率が変わった年をまたがない・4-88） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_3_3.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "https://www.kawasaki-shindanshi.jp/2023/01/topics-130/",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "productivity dispersion manufacturing Japan interquartile trend SMEs site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/in/afzal-hussain1",
+    "https://ca.linkedin.com/in/azadeh-ghadimi-phdcengcanada",
+    "https://www.linkedin.com/pulse/japan-polyurethane-dispersion-market-industry-overview-gtt5c",
+    "https://www.linkedin.com/pulse/japan-dispersion-machines-emulsifying-market-cagr-2026-2033-tmyve",
+    "https://pe.linkedin.com/pulse/japan-pedotpss-dispersion-market-2026-size-driven-ai-trends-uhklc",
+    "https://pe.linkedin.com/pulse/way-out-from-accelerated-bureaucratization-japanese-smes-takeo-harada",
+    "https://www.linkedin.com/pulse/japan-dispersion-machine-market-growth-analysis-predicts-expansion-onhfe",
+    "https://www.linkedin.com/pulse/japan-polyurethane-dispersion-market-industry-trends-future-ilfyc",
+    "https://www.linkedin.com/pulse/japan-dispersion-coating-market-analysis-trends-mynhc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {}
+}

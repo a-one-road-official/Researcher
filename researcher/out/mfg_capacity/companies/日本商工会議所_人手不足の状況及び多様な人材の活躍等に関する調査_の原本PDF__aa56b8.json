@@ -1,0 +1,1844 @@
+{
+ "name": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87）",
+ "en": "JCCI labor shortage survey respondents response rate manufacturing breakdown pdf",
+ "aliases": [
+  "日本商工会議所 人手不足 調査 回答企業数 回答率 製造業 filetype:pdf",
+  "site:jcci.or.jp 人手不足の状況 調査結果",
+  "商工会議所 人手不足 調査 製造業 回答 社 割合"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T19:49:40.590397+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足企業の6割超（65.5％）が、「非常に深刻（廃業のおそれ）」または",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "○ そのうちの6割超（65.5%）が、事業運営への影響について、「非常に深刻（廃業のおそれ）」",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "非常に深刻（事業運営に深刻な影響があり、廃業のおそれがある）",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "「人手が不足している」と回答した企業から人手不足の深刻度を聞いたところ、廃業など今後の事業継続に不安を持っている「非常に深刻」と答えた企業が6.9%、事業運営に支障が生じている「深刻」と答えた企業が57.2%だった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、20人以下の小規模企業では、約半数（49.1％）と全体を下回ったものの深刻度は5割超（54.9％）、約1割（8.2％）は廃業や事業継続を懸念している結果となった",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "• うち6割以上（64.1％）が「非常に深刻」（人手不足を理由とした廃業等、",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 外国人材の離職防止に向けた取組は、「賃金水準の引上げ」（38.2%）、",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非常に深刻（人手不足を理由とした廃業等、今後の事業継続に不安がある）",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ そのうちの6割以上（64.1 %）が「非常に深刻」（6.9% 人手不足を理由とした廃業等、",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（納期遅れ、品質・サービスの低下等）",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○一方、「事業運営の具体的な支障が生じている（納期遅れ、品質・サービスの低下等）」（21.6％）、",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材確保（採用拡大、離職防止）の取組",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 外国人材の流失・離職防止に向けた取組としては、「賃金水準の引上げ」（38.2%）が最多",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足企業の6割超（65.5％）が、「非常に深刻（廃業のおそれ）」または",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ そのうちの6割超（65.5%）が、事業運営への影響について、「非常に深刻（廃業のおそれ）」",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非常に深刻（事業運営に深刻な影響があり、廃業のおそれがある）",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を超え、約１割（8.2％）は廃業や事業継続を懸念",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非常に深刻（事業運営に深刻な影響があり、廃業の恐れ・事業継続に懸念がある）",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "深刻（売上の機会損失など事業運営に具体的な支障があるが、何とか事業を継続している）",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "刻である」は５割超（54.9%）で全体を超え、約１割（8.2％）が「廃業の恐れ・事業継続に懸念が",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業運営に重大な支障が生じる（事業継続が困難、廃業の懸念）",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業運営に支障が生じる（売上の機会損失、人件費等のコスト増加、事業縮小等）",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定着・離職防止に資する支援体制の整備（就労全般に係る",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "離職を防ぐ取り組みの裏で、他の従業員に残業や休日出勤など",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1210728",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "（２）回答企業数：",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）調査地域:全国47都道府県 （２）回答企業数:2,392社",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "回答企業数は3120社（回答率51.9%）だった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "100～299人 30～99人 10～29人 9人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）回収商工会議所数：425商工会議所 (６）回答企業数：3,120社（回答率：51.9％）",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）調査地域:全国47都道府県 （２）回答企業数:2,392社",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）調査地域：全国47都道府県 （２）回答企業数：2,654社",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）回収商工会議所数：421商工会議所 （６）回答企業数：3,123社（回答率：52.0％）",
+    "url": "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）回答企業数：2,654社",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1210728",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "人手不足と回答した企業は６割（60.0％）",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "規模別にみると、従業員数21人以上の企業では約7割が人手不足と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別にみると、建設業（77.4％）、運輸業（72.2％）、介護・看護業（70.5％）で人手不足が７割を超える",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員20人以下の企業では、「事業の縮小・見直し・外注化」で対応する傾向が３割超（31.6%）と、21人以上の企業より多い",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材を受入れている企業は４社に１社（25.1％）",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材受入れにかかる国の方針について、６割近く（55.6％）が「(全面的または人手不足の業種・地域に限って)受入れを拡大すべき」と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本への適応性が高く、技能・知識を有する外国人材に対する「在留期限がない、家族帯同が可能な受入れ」は、半数以上（51.7％）が「増やすべき」と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "法定雇用義務の対象となる従業員37.5人以上の企業のうち、障害者法定雇用率を達成した企業は約４割（42.7％）",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、50人以下の企業では、半数近く（46.0％）が「雇用しておらず、募集・採用に向けた取り組みを行っていない」と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "障害者の雇用が困難な理由について、「障害特性を踏まえた業務切り出し、設定が困難」（51.7％）、「就労・教育をサポートする人的な余裕がない」（50.9％）と回答する企業が約半数",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "女性従業員のキャリアアップに取り組むうえでの課題は、「ライフイベント（育児・介護等）によるキャリアの停滞（29.0％）」、「長時間労働や責任の重さ等により、本人が活躍を望みづらい（27.5％）」、「ロールモデルが不足（26.7％）」が約３割で最多",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "１．人手不足の状況と対策 ４～７",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "２．シニア人材の活躍推進 ８～22",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "４．外国人材の活躍推進 30 ～33",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "（６）調査目的:中小企業における人手不足の状況と対策、シニア人材の活躍推進、女性の活躍推進・仕事と育児の",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "5 人以下 6 ～10人 11～20人 21～50人 51～100 人 101 ～300 人 301 人以上",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "5人以下:262社【11.0％】 6 ～10人:228社【9.5％】 11 ～20人:427社【17.9％】 21 ～50人:625社【26.1%】",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "51～100人:400社【16.7％】 101 ～300人:361社【15.1％】 301 人以上:89社【3.7％】",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手が「不足している」との回答が６割超（63.0％）",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "建設業（79.2％）で約８割に達するなど、厳しい人手不足の状況が続く",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足企業の6割超（65.5％）が、「非常に深刻（廃業のおそれ）」または",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "策 • 人手不足への対策は、「採用活動の強化」が78.4%と最多",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "• シニア人材（60歳以上）の割合が「３割以上」と回答した企業は全体の２割",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "超（25.2%）、20人以下の企業では３割超（32.8％）",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "• ４社に１社（25.5％）が外部シニア人材を既に「受け入れている」としており、",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の68％が「人手不足」、過去最大：日商 | 記事一覧 | J-Net21[中小企業ビジネス支援サイト]",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の68％が「人手不足」、過去最大：日商",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本商工会議所が全国の中小企業を対象に実施した「人手不足の状況および多様な人材の活躍等に関する調査」によると、「人手が不足している」との回答が68.0%にのぼり、2015年の調査実施以来最大となった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手が不足している」と回答した企業から人手不足の深刻度を聞いたところ、廃業など今後の事業継続に不安を持っている「非常に深刻」と答えた企業が6.9%、事業運営に支障が生じている「深刻」と答えた企業が57.2%だった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別に人手不足の状況をみると、介護・看護業が86.0%と最も高く、次いで、建設業（82.3%）、宿泊・飲食業（79.4%）の順に高かった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "最も低い製造業でも58.8%と6割近い回答があり、幅広い業種に人手不足が広がっていることが鮮明になった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、人手不足を理由に事業継続に不安を持つ「非常に深刻」な企業の割合をみると、介護・看護業で18.6%、宿泊・飲食業で12.7%と1割を超えた",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、従業員数5人以下の企業では2割を超えた",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足の状況および多様な人材の活躍等に関する調査」 の集計結果について ～中小企業の7割近くが人手不足、8割強が仕事と育児の両立推進が必要と感じていると回答～",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材調査 6割が人手不足 建設・運輸・介護で深刻化 日本・東京商工会議所は9月15日、「多様な人材の活躍等に関する調査」の結果を公表した",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "人材調査 6割が人手不足 建設・運輸・介護で深刻化",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "日本・東京商工会議所は9月15日、「多様な人材の活躍等に関する調査」の結果を公表した",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果によると「人手不足」と回答した企業は全体の6割に上り、そのうち約半数（48.2％）が事業運営に影響・支障をきたす深刻な状況であることが明らかになった",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別では、建設業、運輸業、介護・看護業で人手不足が7割を超えた",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果では、人手不足と回答した企業は6割（60.0％）",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別に見ると、従業員数21人以上の企業では約7割が人手不足と回答",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、20人以下の小規模企業では、約半数（49.1％）と全体を下回ったものの深刻度は5割超（54.9％）、約1割（8.2％）は廃業や事業継続を懸念している結果となった",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材を受け入れている企業は4社に1社（25.1％）",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "障害者の活躍推進については、法定雇用義務の対象となる従業員37.5人以上の企業のうち50人以下の企業では、半数近く（46.0％）が「雇用しておらず、募集・採用に向けた取り組みを行っていない」と回答",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "その理由として「障害特性を踏まえた業務切り出し、設定が困難」（51.7％）、「就労・教育をサポートする人的な余裕がない」（50.9％）が約半数に上った",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "女性がキャリアアップに取り組む上での課題は、「ライフイベント（育児・介護など）によるキャリアの停滞」（29.0％）、「長時間労働や責任の重さなどにより、本人が活躍を望みづらい」（27.5％）、「ロールモデルが不足」（26.7％）が約3割に達した",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "シニア人材の活躍推進では、従業員に占めるシニア人材（60歳以上）の割合が「3割以上」と回答した企業は2割超（24.4％）に上った",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 生産年齢人口は、2020年から2043年にかけて約1,500万人（7,509万人→5,969万人）減少する可能性",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満 300～999人 1000～4999人 5000人以上",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EU（27か国）において人手不足を感じている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：総務省「住民基本台帳人口移動報告（令和６年）」を基に中小企業庁が作成 8",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．人手不足の状況と対策 ５～12",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．外国人材の受入れ 24～33",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（７）調査目的：中小企業における人手不足の状況と対策、女性のキャリアアップ支援、仕事と育児の両立、外国人材の",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5人以下：118社【3.8％】 6～10人：221社【7.1％】 11～20人：689社【22.1％】 21～50人：945社【30.3%】",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "51～100人：552社【17.7％】 101～300人：443社【14.2％】 301人以上：102社【3.3％】 無回答：50社【1.6%】",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 人以下 6 ～10人 11～20人 21～50人 51～100 人 101 ～300 人 301 人以上 無回答",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月以前のニュースを見る",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年９月５日",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "（３）調査期間:2024年７月８日～７月31日 （４） 回収商工会議所数:338商工会議所",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "• 対象となる従業員40人以上の企業のうち、障害者法定雇用率（2024年４月",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月～8月",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "2022年7月～8月",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "2021年7月～8月",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月～8月",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年問題」の影響がうかがえる",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "【全体】 n＝2,392 ※2022年調査期間:2022年7月19日～8月10日 / 2023年調査期間:2023年７月18日～８月10日",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "○対象となる従業員40人以上の企業のうち、 障害者法定雇用率（2024年４月以降:2.5％）を達成",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月10日",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本商工会議所が全国の中小企業を対象に実施した「人手不足の状況および多様な人材の活躍等に関する調査」によると、「人手が不足している」との回答が68.0%にのぼり、2015年の調査実施以来最大となった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "“人手不足を感じている企業”の割合推移 “人手不足を感じている企業” の国別割合比較",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：ManpowerGroup「2025 Global Talent Shortage 」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査期間：2024年10月1日～10月31日",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中長期的には、生産年齢人口は減少の可能性",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 生産年齢人口は、2020年から2043年にかけて約1,500万人（7,509万人→5,969万人）減少する可能性",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年 2019年 2020年 2021年 2022年 2023年 2024年 2025年",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025」を基に作成 出典：European Commission「Eurobarometer（2023） - SMEs and skills",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Economic Trends（2025）」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別転入超過数（2023年、2024年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中小企業では、設備投資額総額に占めるソフトウェア投資額の比率も、大企業と比較すると低い水準で推移",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化の取組段階 ソフトウェア投資比率の推移（企業規模別）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025」を基に作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※能力開発費が実質GDPに占める割合の５か年平均の推移",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2016年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• また、経営戦略と人材戦略を「紐づけた」企業は、「紐づけなかった」企業と比較して、売上高増加率の水準が高い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁 「中小企業白書2025」を基に作成 出典：中小企業庁 「中小企業白書2023」を基に作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15出典：厚生労働省「労働時間制度等に関する実態調査（個人調査） 2024年度」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年９月28日",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）調査期間：2023年７月18日～８月10日 （４）調査方法：各地商工会議所職員による訪問調査等（※）",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ると3割を超え（30.3％）、前年調査から7.7ポイント増加",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年の調査実施以降、最大",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月～8月",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年7月～8月",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年7月～8月",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年2月",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月～8月",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年2月～3月",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年問題を抱える運輸業（75.0%） 、建設業（65.6％）でも7割前後と高い割合となった",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保育の質・量の拡充（保育所や放課後児童クラブ（学童）の施設増加、開所時間の…",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（学童）の施設増加、開所時間の延長等）",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "政府は男性の育児休業取得率を2025年までに50％まで引き上げることを目標としている",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 「現状維持・縮小すべき」とする理由は、 「日本人の雇用機会の減少につながる」が42.0%で最多",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 「既に受入れている」は約3割（26.6％）で、前年調査より3.5ポイント増加",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年９月５日",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）調査期間:2024年７月８日～７月31日 （４） 回収商工会議所数:338商工会議所",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 対象となる従業員40人以上の企業のうち、障害者法定雇用率（2024年４月",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月～8月",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年7月～8月",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年7月～8月",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月～8月",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年問題」の影響がうかがえる",
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "本調査は、中小企業における人手不足の状況と対策、外国人材・障害者・女性・シニア人材の活躍推進、仕事と家庭の両立、リスキリングの状況について、中小企業の実態を把握し、今後の要望活動に活かしていくために実施しました",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ポイント①：人手不足の状況と対策について】",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と回答した企業は６割（60.0％）",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "規模別にみると、従業員数21人以上の企業では約7割が人手不足と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別にみると、建設業（77.4％）、運輸業（72.2％）、介護・看護業（70.5％）で人手不足が７割を超える",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員20人以下の企業では、「事業の縮小・見直し・外注化」で対応する傾向が３割超（31.6%）と、21人以上の企業より多い",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材受入れにかかる国の方針について、６割近く（55.6％）が「(全面的または人手不足の業種・地域に限って)受入れを拡大すべき」と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "１．人手不足の状況と対策 ４～７",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "（６）調査目的:中小企業における人手不足の状況と対策、シニア人材の活躍推進、女性の活躍推進・仕事と育児の",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "（人手不足の状況と対策、シニア人材の活躍推進）",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "建設業（79.2％）で約８割に達するなど、厳しい人手不足の状況が続く",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足企業の6割超（65.5％）が、「非常に深刻（廃業のおそれ）」または",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "策 • 人手不足への対策は、「採用活動の強化」が78.4%と最多",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "• 両立支援の課題については、「人手不足のため、子育て中の社員の仕事のカ",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "１．人手不足の状況と対策",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "＜人手不足の深刻度＞ n＝1,507 ※人手が「不足している」と回答した企業",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "事業のスリム化、無駄の排除、外注の活用",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "○ 人手不足への対策としては、「採用活動の強化（非正規含む）」（78.4%）が最多",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "○従業員に占める シニア人材（60歳以上）の割合が「３割以上」と回答した企業の割合は、人手不足が",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "○ 法定下限（60歳）を超える定年の措置を講じている企業の割合は、人手不足が深刻な「介護・看護",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "○ 法律上の義務（65歳まで）を超える継続雇用の措置を講じている企業の割合は、人手不足が深刻な",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "深刻な人手不足もあり、年齢に関わらない雇用",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "○外部シニア人材を 「受け入れている」企業の割合は、人手不足の深刻な「介護・看護業」（55.5％）で",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "○ シニア人材雇用を「強化・拡充したい」企業が挙げた理由は、 「人手不足の解消」が81.6%で最多",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足のため、子育て中の従業員の仕事のカバーが難しい",
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の68％が「人手不足」、過去最大：日商 | 記事一覧 | J-Net21[中小企業ビジネス支援サイト]",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の68％が「人手不足」、過去最大：日商",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本商工会議所が全国の中小企業を対象に実施した「人手不足の状況および多様な人材の活躍等に関する調査」によると、「人手が不足している」との回答が68.0%にのぼり、2015年の調査実施以来最大となった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手が不足している」と回答した企業から人手不足の深刻度を聞いたところ、廃業など今後の事業継続に不安を持っている「非常に深刻」と答えた企業が6.9%、事業運営に支障が生じている「深刻」と答えた企業が57.2%だった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別に人手不足の状況をみると、介護・看護業が86.0%と最も高く、次いで、建設業（82.3%）、宿泊・飲食業（79.4%）の順に高かった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "最も低い製造業でも58.8%と6割近い回答があり、幅広い業種に人手不足が広がっていることが鮮明になった",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、人手不足を理由に事業継続に不安を持つ「非常に深刻」な企業の割合をみると、介護・看護業で18.6%、宿泊・飲食業で12.7%と1割を超えた",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足の状況および多様な人材の活躍等に関する調査」 の集計結果について ～中小企業の7割近くが人手不足、8割強が仕事と育児の両立推進が必要と感じていると回答～",
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材調査 6割が人手不足 建設・運輸・介護で深刻化 日本・東京商工会議所は9月15日、「多様な人材の活躍等に関する調査」の結果を公表した",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "人材調査 6割が人手不足 建設・運輸・介護で深刻化",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の状況および多様な人材の活用等に関する調査",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果によると「人手不足」と回答した企業は全体の6割に上り、そのうち約半数（48.2％）が事業運営に影響・支障をきたす深刻な状況であることが明らかになった",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別では、建設業、運輸業、介護・看護業で人手不足が7割を超えた",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "同調査は、中小企業における人手不足の状況と対策、外国人材・障害者・女性・シニア人材の活躍推進、仕事と家庭の両立、リスキリングの状況について、中小企業の実態を把握し、今後の要望活動に生かしていくために実施した",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果では、人手不足と回答した企業は6割（60.0％）",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別に見ると、従業員数21人以上の企業では約7割が人手不足と回答",
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“人手不足を感じている企業”の割合推移 “人手不足を感じている企業” の国別割合比較",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業と比較して中堅・中小企業の人手不足感が強い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 雇用人員DIによれば、大企業と比較して中堅・中小企業の人手不足感が強い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中小企業の従業員数過不足DIを見ると、全ての業種において人手不足感が強まっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本の中小企業は、世界の国々と比較しても人手不足感の強さが見られる",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※人手不足の過不足状況について、「不足」または「やや不足」と",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EU（27か国）において人手不足を感じている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "首都圏への人口流出が、地方の人手不足に影響",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足への対策としては採用活動の強化が最多となっており、事業のスリム化、多様な人材の活用、従業員の能力",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業のスリム化、無駄の排除、外注の活用",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の人手不足への対応は採用活動が中心",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足や人材育成に対する支援機関のノウハウは必ずしも十分ではなく、機関によってばらつきがある",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足解消に効果のある「省力化投資」を後押しする補助金",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．人手不足の状況と対策 ５～12",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（７）調査目的：中小企業における人手不足の状況と対策、女性のキャリアアップ支援、仕事と育児の両立、外国人材の",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円以上 約4,500者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上10～100億円未満 約９万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上１～10億円未満 約60万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万～１億円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 売上高10億円を目指す企業（従業員数の目安：～約50名程度）は、複数の人材確保が必要となる一方で、大企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 売上高1億円を目指す企業（従業員数の目安：～約10名程度）は、人材確保のノウハウや、業務プロセスの見直",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資を促進する支援策（中小企業省力化投資補助事業 3,000億円）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "担が女性に集中」(40.3%)、「税・社会保険負担(106万円、130万円の壁等)が障壁となり",
+    "url": "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "税・社会保険負担（106 万円、130 万円の壁等）が障壁となり、就業調整を意識する女性社員が多い",
+    "url": "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○女性の活躍推進の課題に対する要因について、外部要因では、「税・社会保険負担（106万円、130万円の壁等",
+    "url": "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GE) 大企業は資本金10億円以上、中堅企業は1億円以上10億円未満、中小企業",
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は2千万円以上1億円未満の企業",
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２機能以上：～350万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円 5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～50万円以下：3/4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～350万円：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～450万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限 600万円 700万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１１：労働生産性向上への取り組み実施状況（％） 図１２：労働生産性向上への取り組み状況",
+    "url": "https://www.mlit.go.jp/common/001108485.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "担が女性に集中」(40.3%)、「税・社会保険負担(106万円、130万円の壁等)が障壁となり",
+    "url": "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "税・社会保険負担（106 万円、130 万円の壁等）が障壁となり、就業調整を意識する女性社員が多い",
+    "url": "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○女性の活躍推進の課題に対する要因について、外部要因では、「税・社会保険負担（106万円、130万円の壁等",
+    "url": "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は2千万円以上1億円未満の企業",
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "※ソフトウェア投資比率＝ソフトウェア投資額÷設備投資額×100",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「ＩＴ化等設備投資」（25.2％）など、業務効率化・生産性向上の取組は",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○「業務プロセスの見直し」（33.2%）、「社員の能力開発」（28.9％）、「ＩＴ化等設備投資」",
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanbaishi.com/news/16169",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nkr-office.com/nkrblog/%E6%9D%B1%E4%BA%AC%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%82%88%E3%82%8A%E3%80%8C%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E7%8A%B6%E6%B3%81%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%9A%E6%A7%98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tange-office.jp/custom/2024-11-07/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutsucci.or.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%83%BB%E5%A4%9A%E6%A7%98%E3%81%AA%E4%BA%BA%E6%9D%90%E3%81%AE%E6%B4%BB%E8%BA%8D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/131956/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcci.or.jp/20230928_diversity_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/file/sangyo2/202409/20240905_diversity_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1204012",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001108485.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jcci-gw.jcci.or.jp/research/archive.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.jcci.or.jp/news/jcci-news/2023/0928140000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1210728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.jcci.or.jp/research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jbic.go.jp/en/information/image/houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/67cb23eaf0c6c4d4080e059a/68a5d42fa7f541b482051e76_en-br250401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/foreign-labor-survey/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 人手不足 受注 断る",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.hanbaishi.com/news/16169",
+    "https://www.nkr-office.com/nkrblog/%E6%9D%B1%E4%BA%AC%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%82%88%E3%82%8A%E3%80%8C%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E7%8A%B6%E6%B3%81%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%9A%E6%A7%98/",
+    "https://tange-office.jp/custom/2024-11-07/",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1204012"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 受注残 人手不足",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://www.hanbaishi.com/news/16169",
+    "https://www.nkr-office.com/nkrblog/%E6%9D%B1%E4%BA%AC%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%82%88%E3%82%8A%E3%80%8C%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E7%8A%B6%E6%B3%81%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%9A%E6%A7%98/",
+    "https://www.mutsucci.or.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%83%BB%E5%A4%9A%E6%A7%98%E3%81%AA%E4%BA%BA%E6%9D%90%E3%81%AE%E6%B4%BB%E8%BA%8D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B/",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://ab.jcci.or.jp/article/131956/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 人手不足 損失 億円",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://ab.jcci.or.jp/article/131956/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://tange-office.jp/custom/2024-11-07/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-2.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87）",
+   "results": [
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://www.hanbaishi.com/news/16169",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://ab.jcci.or.jp/article/131956/",
+    "https://tange-office.jp/custom/2024-11-07/",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://www.jcci.or.jp/20230928_diversity_release.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 推移",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://www.hanbaishi.com/news/16169",
+    "https://tange-office.jp/custom/2024-11-07/",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://ab.jcci.or.jp/article/131956/",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://www.mlit.go.jp/common/001108485.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 統計 PDF",
+   "results": [
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://www.hanbaishi.com/news/16169",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://www.mutsucci.or.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%83%BB%E5%A4%9A%E6%A7%98%E3%81%AA%E4%BA%BA%E6%9D%90%E3%81%AE%E6%B4%BB%E8%BA%8D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B/",
+    "https://tange-office.jp/custom/2024-11-07/",
+    "https://ab.jcci.or.jp/article/131956/",
+    "https://jcci-gw.jcci.or.jp/research/archive.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 従業者規模別",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://archive.jcci.or.jp/i/20210930_tayou.pdf",
+    "https://www.hanbaishi.com/news/16169",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://ab.jcci.or.jp/article/131956/",
+    "https://www.mutsucci.or.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%83%BB%E5%A4%9A%E6%A7%98%E3%81%AA%E4%BA%BA%E6%9D%90%E3%81%AE%E6%B4%BB%E8%BA%8D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B/",
+    "https://jcci-gw.jcci.or.jp/research/archive.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 1人当たり 万円",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://www.hanbaishi.com/news/16169",
+    "https://www.nkr-office.com/nkrblog/%E6%9D%B1%E4%BA%AC%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%82%88%E3%82%8A%E3%80%8C%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E7%8A%B6%E6%B3%81%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%9A%E6%A7%98/",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://tange-office.jp/custom/2024-11-07/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） 2015 2025",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://www.hanbaishi.com/news/16169",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://www.nkr-office.com/nkrblog/%E6%9D%B1%E4%BA%AC%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%82%88%E3%82%8A%E3%80%8C%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E7%8A%B6%E6%B3%81%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%9A%E6%A7%98/",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail002.html",
+    "https://jcci-gw.jcci.or.jp/research/archive.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "JCCI labor shortage survey respondents response rate manufacturing breakdown pdf Japan statistics",
+   "results": [
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "https://www.jbic.go.jp/en/information/image/houkokusyo.pdf",
+    "https://cdn.prod.website-files.com/67cb23eaf0c6c4d4080e059a/68a5d42fa7f541b482051e76_en-br250401.pdf",
+    "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "https://www.japantimes.co.jp/news/2026/09/16/japan/foreign-labor-survey/",
+    "https://www.researchgate.net/publication/387448732_An_Analysis_of_the_Japanese_Labor_Market_-_A_Case_Study_of_University_Students_Actively_Selecting_Companies",
+    "https://www.jetro.go.jp/ext_images/en/reports/survey/pdf/2025/rp_global2025.pdf",
+    "https://www.stat.go.jp/english/data/roudou/index.html",
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87）",
+   "results": [
+    "https://note.com/taituna/n/n79bf258768fb",
+    "https://note.com/maoulogic/n/nb1443eb4d8fc",
+    "https://note.com/tito1273/n/n341dbb65e237",
+    "https://note.com/masanori1980/n/ne238ed550ad1",
+    "https://note.com/momotorasalon/n/n81fcd0426bce",
+    "https://note.com/chic_deer1160/n/n90f503955cf1",
+    "https://note.com/japancareer_co/n/n674223972b65",
+    "https://note.com/heita246/n/ncc0527a862e6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87）",
+   "results": [
+    "https://x.com/fabic11_sk/status/2106670666355187757",
+    "https://x.com/next_site_is/status/2100057098780365050",
+    "https://x.com/npkjkc/status/2100131438096187811",
+    "https://x.com/jintekishihon/status/2102228892895301889",
+    "https://x.com/yorisoi_hr_jp/status/2076459883084533781",
+    "https://x.com/i/trending/2099867697022472319",
+    "https://x.com/TSR_NEWS/status/2106933859250278638",
+    "https://jf.x.com/images/media-preview/2095075824672412050",
+    "https://jf.x.com/images/media-preview/2107026590135918812",
+    "https://x.com/sharouren/status/2081907491525243084"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:duckduckgo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com 日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87）",
+   "results": [
+    "https://jp.linkedin.com/in/yasuyuki-takagi-48a92594",
+    "https://jp.linkedin.com/in/靖直-小松-5b076296",
+    "https://www.linkedin.com/feed/update/urn:li:share:7247096830134497280",
+    "https://www.linkedin.com/in/doug-petno",
+    "https://jp.linkedin.com/posts/kawaguchi-まあさん-860809275_中小企業の656が人手不足と回答賃上げ実施予定の企業は６割超え日商の調査-activity-7165118523365580800-7iHR",
+    "https://jp.linkedin.com/posts/persol-research-and-consulting_これからの人手不足にどう立ち向かえばよいのか-労働市場の未来推計-2035で見-activity-7432975271458377728-8dIv",
+    "https://jp.linkedin.com/pulse/なぜ外国人は日本で働きたいのか深刻な人手不足で需要が高まる業界と成功の鍵-susumu-shimoda-7ntcf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87）",
+   "results": [
+    "https://www.facebook.com/mikicci/posts/8234420416630955/",
+    "https://www.facebook.com/tokyocci/posts/人手不足の状況および多様な人材の活躍等に関する調査の結果を公表しました人手が不足しているとの回答は6割超で依然として厳しい人手不足の状況が見られましたその他シニ/935687688597503/",
+    "https://www.facebook.com/kkpartners/posts/日本商工会議所は人手不足の状況働き方改革関連法への対応に関する調査の集計結果について発表しました-日本商工会議所ならびに東京商工会議所ともに三村明夫会頭はこのた/2855475351242227/",
+    "https://www.facebook.com/tokyocci/posts/人手不足を生き抜くために中小企業向けレポートを公表日商東商は本日レポート求められる少数精鋭の成長モデルへの自己変革を公表しました中小企業が深刻な人手不足社会を生/768763691956571/",
+    "https://www.facebook.com/osakacci/posts/人手不足への対応が最大の課題調査結果３割強労務費上昇分を全く価格転嫁できず大阪商工会議所は2024年4月18日深刻化する人手不足への中堅中小小規模企業の対応や価/454746870453203/",
+    "https://www.facebook.com/kyotocci/posts/117人手不足時代を乗り越えるための人財確保対策セミナー社会保険労務士法人ミライガ-代表社員社会保険労務士の藤井様よりご講演いただきましたセミナーでは働き方改革/1030402248886158/",
+    "https://www.facebook.com/tokyocci/posts/人手不足の状況アフターコロナを見据えて推進すべき働き方に関する調査の集計結果について-人手不足感は新型コロナウイルス感染症の影響により低下日本商工会議所ならびに/3387203841363095/",
+    "https://www.facebook.com/tokyocci/posts/人手不足の状況および多様な人材の活躍等に関する調査を公表東商と日商が実施した人手不足の状況および多様な人材の活躍等に関する調査の結果を本日公表しました中小企業の/717109337122007/",
+    "https://www.facebook.com/taneyamamc/posts/東京商工会議所から人手不足の状況および新卒採用インターンシップの実施状況に関する調査が公表されました人手不足が慢性化してきましたが約６割の企業が賃上げの実施募集/495704455744350/",
+    "https://www.facebook.com/tokyocci/photos/人手不足でお悩みの経営者人事ご担当者へ特別講演会未経験者が活躍する職場づくり多様な人材を戦力にする人材育成術の極意6月25日木14001530詳細お申込みhtt/1536821548484111/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） note 社長",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://www.hanbaishi.com/news/16169",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://tange-office.jp/custom/2024-11-07/",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://ab.jcci.or.jp/article/131956/",
+    "https://archive.jcci.or.jp/i/20210930_tayou.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "日本商工会議所「人手不足の状況及び多様な人材の活躍等に関する調査」の原本PDF（回答企業数・回答率・製造業の内訳・site:jcci.or.jp・回収率5割未満の値の母数を確かめる・4-87） X 投稿",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "https://www.hanbaishi.com/news/23542",
+    "https://tange-office.jp/custom/2024-11-07/",
+    "https://www.mutsucci.or.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%83%BB%E5%A4%9A%E6%A7%98%E3%81%AA%E4%BA%BA%E6%9D%90%E3%81%AE%E6%B4%BB%E8%BA%8D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B/",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://machida-cci.or.jp/26266/",
+    "https://archive.jcci.or.jp/i/20210930_tayou.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "JCCI labor shortage survey respondents response rate manufacturing breakdown pdf site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/michaelspiroprofile",
+    "https://www.linkedin.com/in/tomoyo-arita-2aa00528b",
+    "https://uk.linkedin.com/in/michail-di-vamvakaris",
+    "https://za.linkedin.com/in/arithuza-mbanjwa-1ab0a4111",
+    "https://in.linkedin.com/in/sanjay-kumar-verma-b176a7139",
+    "https://www.linkedin.com/in/carlos-torres-mba",
+    "https://in.linkedin.com/in/arnav-kalia-852b0765",
+    "https://za.linkedin.com/in/francisnyaraindende",
+    "https://in.linkedin.com/in/ecostatmath",
+    "https://za.linkedin.com/in/linathi-makanda"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {}
+}

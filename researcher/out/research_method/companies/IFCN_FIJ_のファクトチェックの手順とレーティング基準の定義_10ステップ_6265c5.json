@@ -8,7 +8,7 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-07T14:20:34.511390+00:00",
+ "researched_at": "2026-11-07T19:54:20.005093+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -236,122 +236,6 @@
    {
     "quote": "in the US. The International Fact-checking Network estimated that",
     "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10820/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "不確かな情報を発信しないように注意し、常に正しい情報を発信する",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注意すべきは、",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なお、ここで注意したいのが",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでは、キーワードを入力すると「誤り」「不正確」といった判定と一緒に、関連記事を見ることができます",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "発言の一部を切り取り、発言した本人の意図と異なる印象を与えるようなニュースや動画にはとくに注意しましょう",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "キーワードを入力すると、その情報の正確性を「誤り」「不正確」などの基準で判定してくれます",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、現時点では日本の情報環境に特化している点には注意が必要です",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この点について、国際ファクトチェックネットワーク（ＩＦＣＮ）が具体的な注意点をまとめた記事を発表していますので、ご一読をおすすめします（主に政治家の言説をファクトチェックすることを念頭に書かれていますが、ファクトチェック全般に共通した注意点も含まれています）",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ファクトチェック記事につける見出しは、対象言説の内容や検証の結論について誤解を与えないように注意して付けるものとします",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事実の誤りはなく、重要な要素が欠けていない",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一部は不正確だが、主要な部分・根幹に誤りはない",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "誤りと証明できないが、証拠・根拠がないか非常に乏しい",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全て、もしくは根幹部分に事実の誤りがある",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全て、もしくは根幹部分に事実の誤りがあり、事実でないと知りながら伝えた疑いが濃厚である",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "誤りの可能性が強くはないが、否定もできない",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "何が事実で何がそうでないのか、情報の（不）正確性を可視化し、一般の人々に注意喚起をする機能がある",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ガイドラインでは、「誤り」「不正確」「ミスリード」「根拠不明」といった用語と定義を定めたレーティング基準を作り、推奨している",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -732,6 +616,122 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "不確かな情報を発信しないように注意し、常に正しい情報を発信する",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注意すべきは、",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、ここで注意したいのが",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは、キーワードを入力すると「誤り」「不正確」といった判定と一緒に、関連記事を見ることができます",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "発言の一部を切り取り、発言した本人の意図と異なる印象を与えるようなニュースや動画にはとくに注意しましょう",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キーワードを入力すると、その情報の正確性を「誤り」「不正確」などの基準で判定してくれます",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、現時点では日本の情報環境に特化している点には注意が必要です",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この点について、国際ファクトチェックネットワーク（ＩＦＣＮ）が具体的な注意点をまとめた記事を発表していますので、ご一読をおすすめします（主に政治家の言説をファクトチェックすることを念頭に書かれていますが、ファクトチェック全般に共通した注意点も含まれています）",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ファクトチェック記事につける見出しは、対象言説の内容や検証の結論について誤解を与えないように注意して付けるものとします",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事実の誤りはなく、重要な要素が欠けていない",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一部は不正確だが、主要な部分・根幹に誤りはない",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤りと証明できないが、証拠・根拠がないか非常に乏しい",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全て、もしくは根幹部分に事実の誤りがある",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全て、もしくは根幹部分に事実の誤りがあり、事実でないと知りながら伝えた疑いが濃厚である",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤りの可能性が強くはないが、否定もできない",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "何が事実で何がそうでないのか、情報の（不）正確性を可視化し、一般の人々に注意喚起をする機能がある",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ガイドラインでは、「誤り」「不正確」「ミスリード」「根拠不明」といった用語と定義を定めたレーティング基準を作り、推奨している",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "公的機関や報道機関が発信している情報と照らし合わせてみましょう",
@@ -823,6 +823,36 @@
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/jfactcheckcenter/n/n2cee9bbf1311?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jfactcheckcenter/n/ne2c802afa5e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jfactcheckcenter/n/n2cee9bbf1311",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ruka1107/n/n31f3daf2ae89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lyco_pene/n/n8df9ee7a82c4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clean_broom590/n/n715b11453f96",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://fij.info/introduction/basic",
     "status": "ok",
     "method": "http"
@@ -853,12 +883,12 @@
     "method": "http"
    },
    {
-    "url": "https://hfnet.nibn.go.jp/column/%E3%80%90%E7%AC%AC15%E5%9B%9E%E3%80%91-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%A8%E6%83%85%E5%A0%B1%E5%88%A9%E6%B4%BB/",
+    "url": "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
+    "url": "https://hfnet.nibn.go.jp/column/%E3%80%90%E7%AC%AC15%E5%9B%9E%E3%80%91-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%A8%E6%83%85%E5%A0%B1%E5%88%A9%E6%B4%BB/",
     "status": "ok",
     "method": "http"
    },
@@ -868,12 +898,12 @@
     "method": "http"
    },
    {
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "url": "https://fij.info/introduction/ifcn-code",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://fij.info/introduction/ifcn-code",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
     "status": "ok",
     "method": "http"
    },
@@ -895,7 +925,7 @@
    {
     "url": "https://factcheckni.org/about/code-of-principles/",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://en.wikipedia.org/wiki/Fact-checking",
@@ -903,16 +933,28 @@
     "method": "http"
    },
    {
-    "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10820/",
+    "url": "https://www.claimreviewproject.com/mediareview/an-open-process",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    }
   ]
  },
  "search_log": [
   {
    "query": "IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例） site:note.com",
-   "results": []
+   "results": [
+    "https://note.com/jfactcheckcenter/n/n2cee9bbf1311?hl=en",
+    "https://note.com/jfactcheckcenter/n/ne2c802afa5e0",
+    "https://note.com/jfactcheckcenter/n/n2cee9bbf1311",
+    "https://note.com/ruka1107/n/n31f3daf2ae89",
+    "https://note.com/lyco_pene/n/n8df9ee7a82c4",
+    "https://note.com/clean_broom590/n/n715b11453f96",
+    "https://note.com/tomo_saka/n/n7883462e62d6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例） note",
@@ -926,35 +968,47 @@
     "https://www.worldoftest.com/ja/print/pdf/node/6174",
     "https://transparency.meta.com/ja-jp/features/how-fact-checking-works/",
     "https://fungry.co.jp/cnaps/blog/fact-check/"
-   ]
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例） やり方",
    "results": [
     "https://fij.info/introduction/basic",
-    "https://litmus-factcheck.jp/policy/",
     "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "https://litmus-factcheck.jp/policy/",
     "https://www.soumu.go.jp/main_content/000749420.pdf",
-    "https://hfnet.nibn.go.jp/column/%E3%80%90%E7%AC%AC15%E5%9B%9E%E3%80%91-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%A8%E6%83%85%E5%A0%B1%E5%88%A9%E6%B4%BB/",
     "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
+    "https://hfnet.nibn.go.jp/column/%E3%80%90%E7%AC%AC15%E5%9B%9E%E3%80%91-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%A8%E6%83%85%E5%A0%B1%E5%88%A9%E6%B4%BB/",
     "https://www.asahi.com/articles/AST6C1BRLT6CULZU002M.html",
     "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "https://fungry.co.jp/cnaps/blog/fact-check/"
-   ]
+    "https://fij.info/introduction/ifcn-code"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例） 事例",
    "results": [
     "https://fij.info/introduction/basic",
     "https://www.soumu.go.jp/main_content/000749420.pdf",
-    "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
     "https://hfnet.nibn.go.jp/column/%E3%80%90%E7%AC%AC15%E5%9B%9E%E3%80%91-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%A8%E6%83%85%E5%A0%B1%E5%88%A9%E6%B4%BB/",
+    "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
     "https://litmus-factcheck.jp/policy/",
     "https://www.asahi.com/articles/AST6C1BRLT6CULZU002M.html",
     "https://www.nposfss.com/cat7/kikan45_p01.html",
     "https://fungry.co.jp/cnaps/blog/fact-check/",
     "https://fij.info/introduction/ifcn-code"
-   ]
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "IFCN fact-checking steps rating definitions numbers claims methodology",
@@ -964,60 +1018,81 @@
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "https://factcheckni.org/about/code-of-principles/",
     "https://en.wikipedia.org/wiki/Fact-checking",
-    "https://commonslibrary.parliament.uk/research-briefings/cbp-10820/",
-    "https://www.facebook.com/business/help/2593586717571940",
     "https://www.claimreviewproject.com/mediareview/an-open-process",
-    "https://akademie.dw.com/en/fact-checking-fact-sheets-network-fact-checking/a-55121810",
+    "https://www.facebook.com/business/help/2593586717571940",
+    "https://commonslibrary.parliament.uk/research-briefings/cbp-10820/",
+    "https://chequeado.com/code-of-principles/",
     "https://ifcncodeofprinciples.poynter.org/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "site:note.com IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）",
    "results": [
+    "https://note.com/jfactcheckcenter/n/n2cee9bbf1311?hl=en",
     "https://note.com/jfactcheckcenter/n/ne2c802afa5e0",
     "https://note.com/jfactcheckcenter/n/n2cee9bbf1311",
     "https://note.com/ruka1107/n/n31f3daf2ae89",
-    "https://note.com/jfactcheckcenter/n/n2cee9bbf1311?hl=en",
     "https://note.com/lyco_pene/n/n8df9ee7a82c4",
     "https://note.com/tomo_saka/n/n7883462e62d6",
-    "https://note.com/narukoaiart_note/n/nd8b1f7be19de"
-   ]
+    "https://note.com/100years_hiker/n/ne8ba942c9378"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）",
    "results": [
     "https://x.com/FIJ_factcheck",
-    "https://x.com/MyFalsetto/status/2097176901161001083",
-    "https://x.com/fact_check_jp/status/2046130553871540336",
-    "https://x.com/naruko_aiart/status/2105643275155857854",
-    "https://x.com/YoiTateiwa/status/2096432091353534486",
     "https://x.com/K_Ichida/status/2110904055719514217",
-    "https://x.com/fact_check_jp"
-   ]
+    "https://x.com/fact_check_jp",
+    "https://x.com/fact_check_jp/status/2046130553871540336",
+    "https://x.com/MyFalsetto/status/2097176901161001083",
+    "https://x.com/naruko_aiart/status/2105643275155857854",
+    "https://x.com/YoiTateiwa/status/2096432091353534486"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）",
    "results": [
-    "https://jp.linkedin.com/company/factcheckinitiativejapan",
     "https://www.linkedin.com/company/factchecknet",
-    "https://www.linkedin.com/pulse/what-ifcn-levent-özen-kjjnf",
+    "https://in.linkedin.com/company/ifcn",
     "https://jp.linkedin.com/posts/daisukefuruta_76が資金難で脆弱危機的それでも広がる読者とコラボifcn報告書から見-activity-7451931745383268352-FBJr",
+    "https://jp.linkedin.com/company/factcheckinitiativejapan",
+    "https://www.linkedin.com/posts/poynter_as-globalfact10-brings-international-fact-checkers-activity-7079835520721190912-Kac8",
     "https://jp.linkedin.com/posts/asahi-shimbun_ファクトチェック朝日新聞-activity-7340532385001705472-cKV-",
-    "https://jp.linkedin.com/pulse/chain-verification-unlocking-power-fact-checking-7znxf?tl=ja",
-    "https://www.linkedin.com/posts/daisukefuruta_ファクトチェックと検閲の違いとは-情報を消すのではなく追加する-ifcnサラエボ-activity-7211589119204892672-B9XH"
-   ]
+    "https://jp.linkedin.com/pulse/chain-verification-unlocking-power-fact-checking-7znxf?tl=ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）",
    "results": [
+    "https://www.facebook.com/FactCheckInitiativeJapan/posts/お知らせｆｉｊはファクトチェックに携わる団体メディアが共通して使用できるようレーティング基準を策定し発表しました-メディア関係者と協議を重ね不正確ミスリード誤り/586248918543493/",
     "https://www.facebook.com/FactCheckInitiativeJapan/",
     "https://www.facebook.com/japanfactcheckcenter/posts/国際ファクトチェックネットワークifcnが業界の現状をまとめたファクトチェッカー実態レポート2025年版を公開しましたifcnの加盟団体を対象に2026年2月に/924969703713564/",
-    "https://www.facebook.com/FactCheckInitiativeJapan/posts/国際-ファクトチェック-デー特集-fij-特集サイトのコンテンツを一部紹介しますfactcheckingdayhttpfijinfofactcheckingda/586313175203734/",
     "https://www.facebook.com/FactCheckInitiativeJapan/posts/1594790881022620/",
-    "https://www.facebook.com/FactCheckInitiativeJapan/posts/お知らせｆｉｊはファクトチェックに携わる団体メディアが共通して使用できるようレーティング基準を策定し発表しました-メディア関係者と協議を重ね不正確ミスリード誤り/586248918543493/",
-    "https://www.facebook.com/FactCheckInitiativeJapan/posts/952044195297295/",
-    "https://www.facebook.com/groups/factcheck.community/posts/2545213372508931/"
-   ]
+    "https://www.facebook.com/groups/factcheck.community/",
+    "https://www.facebook.com/FactCheckInitiativeJapan/posts/国際-ファクトチェック-デー特集-fij-特集サイトのコンテンツを一部紹介しますfactcheckingdayhttpfijinfofactcheckingda/586313175203734/",
+    "https://www.facebook.com/FactCheckInitiativeJapan/posts/952044195297295/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例） note 社長",
@@ -1030,21 +1105,29 @@
     "https://fungry.co.jp/cnaps/blog/fact-check/",
     "https://www.nposfss.com/cat7/kikan45_p01.html",
     "https://www.netattest.com/fact-checking-2024_mkt_tst"
-   ]
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例） X 投稿",
    "results": [
     "https://fij.info/introduction/basic",
     "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
-    "https://www.soumu.go.jp/main_content/000948334.pdf",
-    "https://hfnet.nibn.go.jp/column/%E3%80%90%E7%AC%AC15%E5%9B%9E%E3%80%91-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%A8%E6%83%85%E5%A0%B1%E5%88%A9%E6%B4%BB/",
     "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
     "https://litmus-factcheck.jp/policy/",
-    "https://transparency.meta.com/ja-jp/features/how-fact-checking-works/",
+    "https://www.soumu.go.jp/main_content/000948334.pdf",
+    "https://hfnet.nibn.go.jp/column/%E3%80%90%E7%AC%AC15%E5%9B%9E%E3%80%91-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%A8%E6%83%85%E5%A0%B1%E5%88%A9%E6%B4%BB/",
     "https://www.asahi.com/articles/AST6C1BRLT6CULZU002M.html",
-    "https://fungry.co.jp/cnaps/blog/fact-check/"
-   ]
+    "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "https://transparency.meta.com/ja-jp/features/how-fact-checking-works/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "IFCN fact-checking steps rating definitions numbers claims methodology site:linkedin.com",
@@ -1052,18 +1135,22 @@
     "https://www.linkedin.com/in/searchbistro",
     "https://gh.linkedin.com/in/rabiu-alhassan-18909253",
     "https://hk.linkedin.com/in/crystalchingchow",
-    "https://www.linkedin.com/in/tanushreem",
     "https://www.linkedin.com/in/jesse-stiller-60291b140",
+    "https://www.linkedin.com/in/tanushreem",
     "https://www.linkedin.com/in/laurakondourajian",
     "https://www.linkedin.com/in/alex-kasprak-64457058",
     "https://www.linkedin.com/in/doreenmarchionni",
-    "https://www.linkedin.com/in/jeton-mehmeti-4ab17810b",
-    "https://au.linkedin.com/in/corinnepodger"
-   ]
+    "https://au.linkedin.com/in/corinnepodger",
+    "https://www.linkedin.com/in/jeton-mehmeti-4ab17810b"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-05T13:09:59.509835+00:00"
 }
