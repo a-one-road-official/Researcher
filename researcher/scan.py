@@ -674,6 +674,12 @@ def conservative(vals):
 # build_kougyo.py が所管の Excel から直接読んだ kougyo_series.csv（産業細分類×年、同じ表・同じ年の組だけで割った値）があれば、
 # 番号ごとに最初の年・最後の年・複利の年率（4-37）・端の1点を外したときの向き（4-40）・統計の切れ目（2016年・2021年〜・4-26）を機械で出す
 KOUGYO_FOCUS = re.compile(r"めっき|金型|機械加工|熱処理|金属プレス|プレス|鍛造|鋳|溶接|塗装|研磨|切削|表面処理|製缶|板金|ねじ|ばね")
+# 2026-11-07 走査で見つかった失敗から（45回目・4-70）：KOUGYO_FOCUS の「鋳・研磨・溶接・めっき」が、受託（賃加工）でない製品の製造業
+# （2293 鋳鉄管・2252 可鍛鋳鉄・2171 研磨材・2921 電気溶接機・2411 ブリキ缶・めっき板・2249 表面処理鋼材）も拾い、平均並みの幅の母数と
+# 「幅より上」の一覧を占めていた。比べる母数（幅・製造業計との上下の数・分子分母の型）からは製品の製造業を外す。本文の一覧には残す
+KOUGYO_PRODUCT = re.compile(r"鋳鉄管|可鍛鋳鉄|銑鉄鋳物|鋼鋳鉄|研磨材|研磨布紙|溶接機|ブリキ|めっき板|表面処理鋼材|鋼材|鋳型製造")
+def _kfocus(name):
+    return bool(KOUGYO_FOCUS.search(name or "")) and not KOUGYO_PRODUCT.search(name or "")
 def _kf(x):
     try: return float(str(x).replace(",", "").replace("△", "-").replace("▲", "-"))
     except Exception: return None
@@ -756,7 +762,7 @@ def kougyo_callband(by):
     # 小分類（末尾0の 2410・2440・2460 など）と、子が1つだけで値が同じ番号（2410＝2411、2480＝2481）が入っていた。
     # 母数は細分類（末尾が0でない番号）だけにし、同じ年に同じ値の番号は1つとして数える
     for (code, name), rs in sorted(by.items()):
-        if not KOUGYO_FOCUS.search(name or "") or len(str(code)) != 4 or str(code)[-1:] == "0": continue
+        if not _kfocus(name) or len(str(code)) != 4 or str(code)[-1:] == "0": continue
         for y, r in rs:
             v = _kf(r.get(fld))
             if v is not None and v > 0 and v not in pts.get(y, {}).values(): pts.setdefault(y, {})[(code, name)] = v
@@ -768,7 +774,8 @@ def kougyo_callband(by):
     lo = [f"{c} {nm} {v:,.1f}" for (c, nm), v in sorted(pts[y].items(), key=lambda kv: kv[1]) if v < m - ci]
     mid = n - len(hi) - len(lo)
     return [f"- 平均並みの幅（4-68・{y}年・注目の細分類{n}業種・{fld}・百万円）：平均 {m:,.2f}・標準誤差 {se:,.3f}・95%の幅 {m - ci:,.2f}〜{m + ci:,.2f}。"
-            f"幅の中の{mid}業種は「平均並み」として高い・低いと書かない",
+            f"幅の中の{mid}業種は「平均並み」として高い・低いと書かない。母数から受託でない製品の製造業（鋳鉄管・研磨材・溶接機・めっき板など）を外した（4-70）。"
+            "この幅は平均の不確かさの幅で、業種1つ1つの散らばりの幅ではない（業種の多くが幅の外に出るのは普通）",
             "  - 幅より上：" + ("、".join(hi[:8]) or "なし"), "  - 幅より下：" + ("、".join(lo[:8]) or "なし")]
 
 def kougyo_section(topic):
@@ -822,7 +829,43 @@ def kougyo_section(topic):
     if shown == 0: md.append("- （番号つきの行が年2点以上そろわない）")
     md += kougyo_segments(by)
     md += kougyo_callband(by)
+    md += kougyo_decompose(by)
     return md + [""]
+
+# 2026-11-07 4-70（hrbench「Revenue per employee」：1人あたりが動いた理由は分子と分母のどちらが動いたかで別物。
+# 下がったときは「人が売上より速く増えた」か「売上が減って人が据え置き」のほぼ2つ）。段差をまたがない最長の区間で、
+# 1人あたり製造品出荷額等の年率を、分子（製造品出荷額等）と分母（従業者数）の年率に分けて並べ、どちらが効いたかを機械で書く。
+# 分子・分母は同じ表・同じ年の組だけ（4-5 の「別々の出典の値どうしを割らない」）。名目のまま
+def kougyo_decompose(by):
+    sheet = "1100"
+    def segs(ys):
+        out, cur = [], []
+        for y in ys:
+            if cur and (y in (2015, 2016) or y != cur[-1] + 1): out.append(cur); cur = []
+            cur.append(y)
+        if cur: out.append(cur)
+        return [s for s in out if len(s) >= 2]
+    md = []
+    for (code, name), rs in sorted(by.items()):
+        if code != "0000" and (not _kfocus(name) or code[-1:] == "0"): continue
+        num = dict(_kseries(rs, "製造品出荷額等", sheet)); den = dict(_kseries(rs, "従業者数", sheet))
+        ys = sorted(set(num) & set(den))
+        ss = segs(ys)
+        if not ss: continue
+        s = max(ss, key=len); a, b = s[0], s[-1]
+        gn = _cagr(num[a], num[b], b - a); gd = _cagr(den[a], den[b], b - a)
+        if gn is None or gd is None: continue
+        gp = (1 + gn) / (1 + gd) - 1
+        if gp >= 0:
+            why = ("出荷額が伸び、人が減った（両方が上げた）" if gd < 0 else "出荷額が人より速く伸びた" if gn > 0 else "人が出荷額より速く減った（縮みながらの上昇・生き残りを疑う 4-25）")
+        else:
+            why = ("人が出荷額より速く増えた（需要より先に人を増やした型）" if gd > 0 and gn >= 0 else
+                   "出荷額が減り、人は増えたか据え置き" if gd >= 0 else "出荷額が人より速く減った")
+        md.append(f"- {code} {name} {a}→{b}年：1人あたり出荷額 年率 {gp:+.1%} ＝ 出荷額 {gn:+.1%} ／ 従業者 {gd:+.1%}。{why}")
+        if len(md) >= 30: break
+    if not md: return []
+    return ["", "### 1人あたりの向きを分子と分母に分ける（4-70・段差をまたがない最長の区間・同じ表の組・名目・機械）",
+            "- 1人あたりの年率は (1+出荷額の年率)÷(1+従業者の年率)−1。同じ1人あたりの上昇でも、出荷額が伸びた型と人が減った型は意味が逆なので、scan.md ではどちらの型かを書く"] + md
 
 # 2026-11-06 走査で見つかった失敗から（4-26・4-37・4-44）：上の年率は実績2013→2019年を1本で結ぶので、
 # 経済センサスの2015年と、製造業計で1事業所あたり従業者が段差を作る2015→2016年（事業所の数え方の違いの疑い）をまたぐ。
@@ -869,11 +912,12 @@ def kougyo_segments(by):
     # 2026-11-07 走査で見つかった失敗から（42回目・4-67）：「35業種中 上 20・下 15」の母数に、小分類（末尾0の 2410・2440・2460 など）と
     # その下の細分類が両方入り、子が1つだけの小分類（2410＝2411、2480＝2481）は同じ値が2回数えられていた。数える母数は細分類（末尾が0でない番号）だけにし、
     # 値の並びがすでに数えた番号と同じなら数えない。小分類の行は本文には残す
-    _seen_sig = set(); _dup = 0; _agg = 0
+    _seen_sig = set(); _dup = 0; _agg = 0; _prod_n = [0]
     for (code, name), rs in sorted(by.items()):
         if code == "0000" or not KOUGYO_FOCUS.search(name or ""): continue
+        if KOUGYO_PRODUCT.search(name or ""): _agg += 0; _prod_n[0] += 1
         _sig = tuple(tuple(_kseries(rs, f, sheet)) for f in KOUGYO_SEG_FIELDS)
-        _count = code[-1:] != "0" and _sig not in _seen_sig
+        _count = code[-1:] != "0" and _sig not in _seen_sig and not KOUGYO_PRODUCT.search(name or "")
         if code[-1:] == "0": _agg += 1
         elif _sig in _seen_sig: _dup += 1
         _seen_sig.add(_sig)
@@ -899,7 +943,7 @@ def kougyo_segments(by):
     if tally:
         md.append("- 見た細分類の数と、製造業計との差の向き（4-65・探索の数を添える）：" + "／".join(
             f"{f} {a + b + c}業種中 上 {a}・下 {b}・同じ {c}" for f, (a, b, c) in tally.items())
-            + f"（母数は細分類だけ。小分類の行 {_agg}件と、値の並びが同じ番号 {_dup}件は数えない）")
+            + f"（母数は細分類だけ。小分類の行 {_agg}件と、値の並びが同じ番号 {_dup}件、受託でない製品の製造業 {_prod_n[0]}件は数えない・4-70）")
     return md
 
 MOCHIBUN = re.compile(r"(合同会社|合名会社|合資会社|LLC|\(同\)|（同）)")
@@ -1628,7 +1672,7 @@ def scan(topic):
             _miss = [n for n in _inp5 if n in _hasn and _key(n) and _key(n) not in _st]
             md += ["## 報告からの落とし（4-69）",
                    f"- 数字が取れたのに scan.md に名前が出ない品目：{len(_miss)}件／数字のある品目 {sum(1 for n in _inp5 if n in _hasn)}件"
-                   + ("。次の scan.md で、採らない理由を1行ずつ書くか結論に入れる" if _miss else ""), *(f"  - {n[:60]}" for n in _miss[:20]), ""]
+                   + ("。次の scan.md で、採らない理由を1行ずつ書くか結論に入れる" if _miss else ""), *(f"  - {n[:60]}" for n in _miss[:60]), ""]  # 2026-11-07 45回目：20件で切ると残りの品目に理由を書けない（4-69 の全件照合）ので60件まで出す
     except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
