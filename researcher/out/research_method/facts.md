@@ -436,6 +436,7 @@
 - 突き合わせ・推定：
   - 「【3】テスト・品質保証（QA）— 検証担当」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「その後、『納期を守れ』と言われる矛盾」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「確認できた事実、自分の仮説、まだ分からないことを分け、次に確かめる問いを1つ残す」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
   - 「経営方針や事業内容、社風など企業により様々な特徴がありますが、企業選びの軸を明確にすることでブレや矛盾がなく説得力のある志望動機を書くことができます」（https://unistyleinc.com/techniques/1404）
   - 「論理矛盾が起こらない志望動機を書くためには、必ず大枠の論理、志望動機で言えば「どんな仕事をしたいのか」という大きな枠から整理して、徐々に「この業界・この企業で働きたい」という小さな枠に落とし込むことが重要になります」（https://unistyleinc.com/techniques/1404）
   - 「多くの創業者が、事業アイデアを思いついた段階で「自分のサービスを誰が買うか」を十分に検証しないまま走り始めてしまいます」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
@@ -448,7 +449,6 @@
   - 「採用サイトの美しい言葉と、四季報の数字を突き合わせる作業が、企業研究の核心になります」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「㉚ もうけの仕組み ビジネスモデル大図鑑 404社を徹底検証!｜会社四季報業界地図編集部 編／井上達彦 監修」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「もうけの仕組み: ビジネスモデル大図鑑 404社を徹底検証!」（https://note.com/tasuto11/n/n3d32991f6192）
 - 一次情報の探し方：
   - 「今回のような業界分析noteは今後も出していく予定ですが、その都度このnoteには業界分析のPDFを追記するため、それをそのままNotebookLMに入れると、このnote自体をソースとして活用できます」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「対比としてWeb系企業は「アジャイル型」（短期間で試行錯誤）を採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
@@ -488,15 +488,15 @@
   - 「：SIer初年度は「開発・テストフェーズで初めて激務を経験する」ケースが多く、メンタルヘルス不調の報告例が少なくありません」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「：1年～1.5年ごとに異なる客先に配置替えされるケースが多い」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「結果として「食べられるが、成長できない」という停滞状況に」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「残高の増減から、資金の出入りの内訳へ進む実例です」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「無料記事の読み方が合いそうなら、DDCをフォローして次の事例をお受け取りください」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「読み方が合いそうならフォローして、次の事例でも一緒に確かめていきましょう」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
   - 「例えば、自動車業界であれば「自動車業界」という広い括りではなく、「自動車部品メーカー」「完成車メーカー」「自動車販売会社」などと、業界の中でも細かく分類してノートを作成するというものが挙げられます」（https://unistyleinc.com/techniques/1404）
   - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1404）
   - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかという、」（https://unistyleinc.com/techniques/1404）
   - 「例えば、総合商社であれば「三菱商事」、自動車業界であれば「トヨタ自動車」などといったように各業界のリーディングカンパニーを知っておくことも必要です」（https://unistyleinc.com/techniques/1404）
   - 「長期インターンの場合、有給で募集されることもありますが、短期のものは無給のケースが多いです」（https://unistyleinc.com/techniques/1404）
   - 「募集時期8月～10月頃から募集が始まるケースが多く、エントリーのピークは9月～10月頃」（https://unistyleinc.com/techniques/1404）
-  - 「SNS・イベント経由X（旧Twitter）やLinkedIn、合同説明会、逆求人イベントなどから、その場でインターンシップにつながるケースもあります」（https://unistyleinc.com/techniques/1404）
-  - 「一方で、実務型や選考直結型のインターンは3年生以上を対象としているケースが多く、応募条件は事前に必ず確認しましょう」（https://unistyleinc.com/techniques/1404）
-  - 「例えば、苦手意識を持つ生徒には、テキストの説明に加え、イラストや例え話を用いて説明する等、伝え方を工夫しました」（https://unistyleinc.com/techniques/1404）
 - 検索結果の抜粋：
   - 「業界研究のやり方｜業界の絞り方と企業研究との違い | 就活Pass — この記事でわかること 1 業界研究と企業研究は、見ている距離が違う 2 何のために業界研究をするのか 3 業界研究の手順 — 俯瞰してから、一つに潜る 4 業界研究ノートの項目 早見表 5 情報源の選び方 — 一次情報から確かめる 6 調べたことを、比較できる ...」（https://www.shupass.jp/guides/gyokai-kenkyu-yarikata）
   - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · 市場調査をAIで効率化する具体的な方法を、中小企業診断士が解説します。ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある ...」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
@@ -9427,11 +9427,11 @@
 
 ## 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）（reconciling conflicting market research estimates methodology disclosure sample size sponsor bias）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）（data journalism making the call close comparisons standard error confidence interval ranking）
 - 文脈：突き合わせ
@@ -9456,11 +9456,11 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
 - 文脈：照合
@@ -9524,7 +9524,7 @@
   - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
   - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
   - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
 
 ## 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）（outcome switching registry publication comparison selective reporting audit method COMPare）
 - 文脈：報告の点検

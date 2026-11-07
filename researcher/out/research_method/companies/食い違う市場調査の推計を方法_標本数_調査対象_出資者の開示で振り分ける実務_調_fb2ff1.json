@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T06:25:06.996756+00:00",
+ "researched_at": "2026-11-07T11:16:47.599066+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -39,92 +39,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/makememo/n/n7ae565d6e7f0",
+    "url": "https://note.com/miraikyoso/n/n71ef349a6d1c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=7812ac994761392b18b3ad7246af0e3a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/ai_datamimi/n/na7eff46a487c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000456858.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cic.co.jp/guide/credit-report/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.intage.co.jp/service/glossary/3096/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.americanexpress.com/ja-jp/benefits/good-news/life/cic-view/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.dm-insight.jp/column/sample-size/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.rjc.co.jp/column/262",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jmro.co.jp/amr00045/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.sprocket.bz/blog/20221018-sample.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.gminsights.com/ja/customer-faq",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nikkei-r.co.jp/service/",
+    "url": "https://timewell.jp/columns/market-sizing-tam-sam-som",
     "status": "ok",
     "method": "http"
    },
@@ -134,33 +54,53 @@
     "method": "http"
    },
    {
-    "url": "https://catalogofbias.org/biases/industry-sponsorship-bias/",
+    "url": "https://walkand.co.jp/market-research-method/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.varsitytutors.com/practice/subjects/biostatistics/lessons/conflicts-of-interest-and-reporting-bias",
+    "url": "https://ai-shijochosa.com/%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%8E%A8%E8%A8%88%E6%96%B9%E6%B3%95%E3%81%A8%E6%A0%B9%E6%8B%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BD%9C%E6%8A%95%E8%B3%87%E5%AE%B6%E3%83%BB%E7%B5%8C/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6187765/",
+    "url": "https://www.rjc.co.jp/column/262",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.m3global.com/blog-managing-conflicts-of-interest-in-Industry-sponsored-market-research.html",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://glg.com/articles/avoiding-bias-in-market-research-types-of-bias",
+    "url": "https://www.researchgate.net/publication/376835021_Tackling_Inaccurate_Sample_Size_Estimation_using_Risk_of_Bias",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nutritionsource.hsph.harvard.edu/industry-funded-research/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://embassy.science/wiki/Theme:B962d39b-ee34-4562-951c-5193700beff6",
+    "url": "https://journals.sagepub.com/doi/10.1177/0141076820914242",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7819374/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12897549/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/0141076820914242",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -174,92 +114,64 @@
     "https://note.com/moritomokyan/n/n8549d50bb719",
     "https://note.com/kakizaway/n/n0922fa9c4878",
     "https://note.com/ote_walk/n/n84135dbb9b34",
-    "https://note.com/makememo/n/n7ae565d6e7f0",
-    "https://note.com/oh1ta/n/nbe59fdb76e4f",
+    "https://note.com/miraikyoso/n/n71ef349a6d1c",
     "https://note.com/wish11_11/n/n0438f12d1d54"
    ]
   },
   {
    "query": "食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか） note",
-   "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
-    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
-    "https://note.com/ai_datamimi/n/na7eff46a487c",
-    "https://www.soumu.go.jp/main_content/000456858.pdf",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://note.com/ai_datamimi/n/nb5ed46476574",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915"
-   ]
+   "results": []
   },
   {
    "query": "食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか） やり方",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.cic.co.jp/guide/credit-report/",
-    "https://www.intage.co.jp/service/glossary/3096/",
-    "https://www.americanexpress.com/ja-jp/benefits/good-news/life/cic-view/",
-    "https://www.soumu.go.jp/main_content/000456858.pdf",
-    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
-    "https://www.dm-insight.jp/column/sample-size/",
-    "https://www.rjc.co.jp/column/262",
-    "https://www.irrc.co.jp/cic-jicc/",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
+    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "https://insight.rakuten.co.jp/knowledge/column/column034/",
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
+    "https://walkand.co.jp/market-research-method/",
+    "https://ai-shijochosa.com/市場規模の推計方法と根拠の作り方｜投資家・経/",
+    "https://www.rjc.co.jp/column/262"
    ]
   },
   {
    "query": "食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか） 事例",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.intage.co.jp/service/glossary/3096/",
-    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
-    "https://jmro.co.jp/amr00045/",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
-    "https://www.sprocket.bz/blog/20221018-sample.html",
-    "https://www.gminsights.com/ja/customer-faq",
-    "https://www.nikkei-r.co.jp/service/",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
+    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
+    "https://insight.rakuten.co.jp/knowledge/column/column034/",
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://walkand.co.jp/market-research-method/",
+    "https://www.rjc.co.jp/column/262",
+    "https://media.spready.co.jp/how-to-estimate-market-size/"
    ]
   },
   {
    "query": "reconciling conflicting market research estimates methodology disclosure sample size sponsor bias",
    "results": [
-    "https://catalogofbias.org/biases/industry-sponsorship-bias/",
-    "https://www.varsitytutors.com/practice/subjects/biostatistics/lessons/conflicts-of-interest-and-reporting-bias",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6187765/",
-    "https://www.m3global.com/blog-managing-conflicts-of-interest-in-Industry-sponsored-market-research.html",
-    "https://glg.com/articles/avoiding-bias-in-market-research-types-of-bias",
-    "https://embassy.science/wiki/Theme:B962d39b-ee34-4562-951c-5193700beff6",
-    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-13",
-    "https://en.testingtreatments.org/recognizing-researchersponsor-biases-fraud/",
-    "https://www.drugdiscoverynews.com/sponsorship-effect-how-drug-manufacturers-bias-clinical-trials-16178",
-    "https://www.researchgate.net/publication/376835021_Tackling_Inaccurate_Sample_Size_Estimation_using_Risk_of_Bias"
+    "https://www.researchgate.net/publication/376835021_Tackling_Inaccurate_Sample_Size_Estimation_using_Risk_of_Bias",
+    "https://nutritionsource.hsph.harvard.edu/industry-funded-research/",
+    "https://journals.sagepub.com/doi/10.1177/0141076820914242",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7819374/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12897549/",
+    "https://journals.sagepub.com/doi/pdf/10.1177/0141076820914242",
+    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-07"
    ]
   },
   {
    "query": "site:note.com 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）",
-   "results": [
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "https://note.com/kakizaway/n/n0922fa9c4878",
-    "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "https://note.com/ote_walk/n/n84135dbb9b34",
-    "https://note.com/wish11_11/n/n0438f12d1d54",
-    "https://note.com/oh1ta/n/nbe59fdb76e4f",
-    "https://note.com/miraikyoso/n/n71ef349a6d1c"
-   ]
+   "results": []
   },
   {
    "query": "site:x.com 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）",
    "results": [
+    "https://jf.x.com/images/media-preview/2113881047280886053",
     "https://x.com/tokuyobi/status/2060647415372259783",
     "https://x.com/tarantula_ds_/status/2077528824972284197",
     "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
     "https://x.com/tomizawayutaka/article/2109846840900567482",
-    "https://x.com/tsumariitachoco/status/2111828518279799224",
-    "https://x.com/JRTDesk/status/2109550920224895366",
-    "https://x.com/TeraCoreFM1/status/2058555136285217245"
+    "https://x.com/TeraCoreFM1/status/2058555136285217245",
+    "https://x.com/JRTDesk/status/2109550920224895366"
    ]
   },
   {
@@ -277,68 +189,52 @@
   {
    "query": "site:facebook.com 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）",
    "results": [
-    "https://www.facebook.com/recycletsushin/posts/速報リユース経済新聞が独自にリユース市場規模の推計を行ったところ2024年の市場規模は前年比45増の33兆円となった調査対象とした2009年以降15年連続で拡大/1393305849467791/",
     "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー惣菜中食米飯市場に関する調査を実施2026年2025年度の日配惣菜米飯市場は前年度比1026の10兆5218億円加工惣菜米飯市場は前年度比1/1592051452936948/",
     "https://www.facebook.com/KankyoJpn.gov/posts/環境省は環境産業の市場規模雇用規模等の推計結果をまとめた環境産業の市場規模雇用規模等に関する報告書を毎年公表していますこの度令和７年度報告書2024年調査結果を/1348211457402361/",
     "https://www.facebook.com/tmlibrary/photos/319水1400市場調査マーケティングの強い味方-東京都立中央図書館-の活用方法オンライン開催要申込tokyo創業ステーション-主催これから起業をされる方起業し/1020418363450755/",
-    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー介護dx市場に関する調査を実施2025年2024年度の介護dx市場5分野計は545億7600万円と推計介護人材不足の中介護スタッフの業務負担/1347329327409163/",
     "https://www.facebook.com/mapsolution.jp/posts/診療圏分析計画医療機関の推計患者数算出方法についてこんにちは本日は診療圏分析をお使い頂いているユーザー様にお知らせでございます診療圏分析調査書を作成する際の詳細/2188681207816772/",
-    "https://www.facebook.com/ReutersJapan/posts/東芝の外部弁護士がまとめた調査報告書が波紋を広げている改正外為法の運用を巡る経済産業省の主張と食い違う部分も多く運用面での不透明さが解消できなければ対日直接投資/4042413545808124/"
+    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー介護dx市場に関する調査を実施2025年2024年度の介護dx市場5分野計は545億7600万円と推計介護人材不足の中介護スタッフの業務負担/1347329327409163/",
+    "https://www.facebook.com/ReutersJapan/posts/東芝の外部弁護士がまとめた調査報告書が波紋を広げている改正外為法の運用を巡る経済産業省の主張と食い違う部分も多く運用面での不透明さが解消できなければ対日直接投資/4042413545808124/",
+    "https://www.facebook.com/tax.matsuki/posts/国税庁の統計資料である会社標本調査結果税務統計からみた法人企業-の実態の第６表に非常に興味深いデータが掲載されています-昭和57年度税制改正により大法人資本金１/1350420371735119/"
    ]
   },
   {
    "query": "食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか） note 社長",
-   "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
-    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
-    "https://note.com/ai_datamimi/n/na7eff46a487c",
-    "https://hybrid-analysis.com/sample/7f4c136e54045e917da50be35d7025451d64a8fd06a0e658c39c2e0508030ac4/5a75d5327ca3e15563409593",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://br-campus.jp/companies/603/articles/11753",
-    "https://note.com/ogataka/n/n9da5cd1635fa"
-   ]
+   "results": []
   },
   {
    "query": "食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか） X 投稿",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.intage.co.jp/service/glossary/3096/",
-    "https://www.jmra-net.or.jp/Portals/0/rule/guideline/20220526_ranking_ads_guideline.pdf",
-    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
-    "https://www.cic.co.jp/guide/credit-report/",
-    "https://jmro.co.jp/amr00045/",
-    "https://japan.eb.com/rg/article-04583800",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.gminsights.com/ja/customer-faq",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
+    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "https://insight.rakuten.co.jp/knowledge/column/column034/",
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
+    "https://walkand.co.jp/market-research-method/",
+    "https://ai-shijochosa.com/市場規模の推計方法と根拠の作り方｜投資家・経/",
+    "https://note.com/shijochosa_labo/n/n7648b1cfab60"
    ]
   },
   {
    "query": "reconciling conflicting market research estimates methodology disclosure sample size sponsor bias site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/when-everyone-has-data-one-context-crisis-information-andre-osobe",
-    "https://www.linkedin.com/in/sahil-pardasani",
-    "https://in.linkedin.com/in/ca-khandelwal-vivek",
-    "https://co.linkedin.com/in/daniel-steven-rodriguez-sandoval/es",
     "https://www.linkedin.com/advice/0/how-do-you-reconcile-conflicting-market-research",
     "https://www.linkedin.com/advice/3/youre-faced-conflicting-results-market-research-euxnc",
-    "https://pe.linkedin.com/advice/3/your-market-analysis-reveals-conflicting-data-sources-kk9jf",
     "https://pe.linkedin.com/advice/3/how-would-you-navigate-conflicting-data-when-pnkze",
+    "https://pe.linkedin.com/advice/3/your-market-analysis-reveals-conflicting-data-sources-kk9jf",
+    "https://www.linkedin.com/advice/0/youre-analyzing-market-research-data-conflicting-1ueaf",
     "https://www.linkedin.com/advice/3/youre-faced-conflicting-data-market-research-how-yvuee",
-    "https://www.linkedin.com/advice/0/youre-analyzing-market-research-data-conflicting-1ueaf"
+    "https://www.linkedin.com/advice/0/whats-your-strategy-conflicting-market-research-consulting-advice"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ18頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ18頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ18頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ18頁・検索12回）",
+  "実例": "記載なし（読んだ18頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T01:06:28.410729+00:00"
 }

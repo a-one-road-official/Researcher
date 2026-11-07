@@ -8,8 +8,22 @@
  ],
  "context": "報告の点検",
  "kind": "market",
- "researched_at": "2026-11-07T05:49:37.715718+00:00",
+ "researched_at": "2026-11-07T11:15:15.525721+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "While steps have been taken to try and mitigate the issue of outcome reporting bias, trials still change their pre-specified outcomes without justification.",
+    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "evidence to decision framework",
+    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "Outcome reporting bias | Catalog of Bias",
@@ -101,27 +115,13 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "While steps have been taken to try and mitigate the issue of outcome reporting bias, trials still change their pre-specified outcomes without justification.",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "evidence to decision framework",
-    "url": "https://catalogofbias.org/biases/outcome-reporting-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
+    "url": "https://www.jpma.or.jp/information/evaluation/results/allotment/lofurc00000064ju-att/cdash.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -132,6 +132,11 @@
    },
    {
     "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.viedoc.co.jp/news/patient-reported-data/",
     "status": "ok",
     "method": "http"
    },
@@ -149,11 +154,6 @@
     "url": "https://www.icrweb.jp/pluginfile.php/729/mod_resource/content/2/ICRweb_2017-10-14_03.pdf?forcedownload=1",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://www.viedoc.co.jp/news/patient-reported-data/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.pmda.go.jp/files/000199484.pdf",
@@ -201,13 +201,13 @@
   {
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） site:note.com",
    "results": [
-    "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
+    "https://www.jpma.or.jp/information/evaluation/results/allotment/lofurc00000064ju-att/cdash.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
     "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
-    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/",
     "https://note.com/ai_agent_fuku/n/nc6bfdd799fdf"
@@ -216,13 +216,13 @@
   {
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） note",
    "results": [
-    "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
+    "https://www.jpma.or.jp/information/evaluation/results/allotment/lofurc00000064ju-att/cdash.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
-    "https://www.lifescience.co.jp/pro/article02-2-9.html",
-    "https://www.icrweb.jp/mod/resource/view.php?id=310",
     "https://www.viedoc.co.jp/news/patient-reported-data/",
+    "https://www.lifescience.co.jp/pro/article02-2-9.html",
+    "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
+    "https://www.icrweb.jp/mod/resource/view.php?id=310",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/"
    ]
@@ -230,13 +230,13 @@
   {
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） やり方",
    "results": [
-    "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
+    "https://www.jpma.or.jp/information/evaluation/results/allotment/lofurc00000064ju-att/cdash.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
     "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
-    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/"
    ]
@@ -244,13 +244,13 @@
   {
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） 事例",
    "results": [
-    "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
+    "https://www.jpma.or.jp/information/evaluation/results/allotment/lofurc00000064ju-att/cdash.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
     "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
-    "https://www.viedoc.co.jp/news/patient-reported-data/",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/"
    ]
@@ -265,57 +265,57 @@
     "https://link.springer.com/article/10.1186/s12874-024-02381-5",
     "https://peerreviewcongress.org/abstract/outcome-switching-in-observational-studies-of-interventions-comparison-of-registration-records-and-published-articles/",
     "https://www.compare-trials.org/blog/are-your-results-unusual-or-how-often-are-outcomes-switched/index.html",
+    "https://methods.cochrane.org/statistics/sites/methods.cochrane.org.statistics/files/uploads/SMG_training_course_cardiff/2010_SMG_training_cardiff_day2_session3_dwan_altman.pdf",
     "https://www.cebm.ox.ac.uk/news/views/outcome-reporting-bias-if-you-say-youre-going-to-do-something-do-it",
-    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2738347",
     "https://www.compare-trials.org/"
    ]
   },
   {
    "query": "site:note.com 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）",
    "results": [
-    "https://note.com/manabu_ikarashi/n/n96ef0ad858cd",
     "https://note.com/ai_agent_fuku/n/nc6bfdd799fdf",
-    "https://note.com/tender_auk9235/n/n3a6f8abf2f14",
+    "https://note.com/manabu_ikarashi/n/n96ef0ad858cd",
     "https://note.com/poco_apps/n/n499ec60f92e5",
+    "https://note.com/suusan_bonjin/n/n39c76fd07e91",
     "https://note.com/kt_softworks32/n/n4308fa9fe75a",
-    "https://note.com/grow_happiness/n/n6e546f8a508f",
-    "https://note.com/tanabemg/n/na2db89a5cbda"
+    "https://note.com/ya8oki/n/n4ca6203d8d5e",
+    "https://note.com/tender_auk9235/n/n3a6f8abf2f14"
    ]
   },
   {
    "query": "site:x.com 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）",
    "results": [
-    "https://jf.x.com/images/media-preview/2113536939278348725",
-    "https://jf.x.com/images/media-preview/2096546854641279388",
     "https://x.com/m_miyawaki/status/2053329117463126016",
     "https://x.com/yasu_toku0709/status/2104405737246195712",
     "https://help.x.com/ja/safety-and-security/report-a-post",
+    "https://x.com/norimasu_lab/status/2111824295571968155",
     "https://x.com/ishida_chatgpt/status/2096468848010576177",
-    "https://x.com/norimasu_lab/status/2111824295571968155"
+    "https://x.com/ai_ai_ailover/status/2097293958347186247",
+    "https://x.com/wakara_nagomi/status/2114552615623352568"
    ]
   },
   {
    "query": "site:linkedin.com 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）",
    "results": [
     "https://jp.linkedin.com/learning/excel-2016-essential-training-2/527603",
-    "https://jp.linkedin.com/pulse/jira-bulk-export-hack-google-sheets-rescue-brandon-davies-g3tmc?tl=ja",
     "https://www.linkedin.com/pulse/一人社長とai従業員あなたの会社の基本情報をデジタルオフィスに登録する会社情報デザイン仕様文体書類のテン-小田島-ioccc/",
-    "https://www.linkedin.com/help/linkedin/answer/a1342513?lang=ja",
     "https://jp.linkedin.com/pulse/understanding-mis-reporting-key-concepts-benefits-businesses-jha-bj1vf?tl=ja",
-    "https://jp.linkedin.com/posts/anfini_sap-品目マスタ概要テーブル構造の解説マスタ登録例主要項目テーブル-activity-7237663334127280130--Lv2",
-    "https://jp.linkedin.com/posts/聖斗-増田-2415072a4_ビズリーチの仕様変更個人的には結構大きいと思っています-820にビズリーチ-activity-7497427480996163584-I7Vu"
+    "https://www.linkedin.com/help/linkedin/answer/a1342513?lang=ja",
+    "https://jp.linkedin.com/pulse/jira-bulk-export-hack-google-sheets-rescue-brandon-davies-g3tmc?tl=ja",
+    "https://jp.linkedin.com/posts/聖斗-増田-2415072a4_ビズリーチの仕様変更個人的には結構大きいと思っています-820にビズリーチ-activity-7497427480996163584-I7Vu",
+    "https://jp.linkedin.com/posts/anfini_sap-品目マスタ概要テーブル構造の解説マスタ登録例主要項目テーブル-activity-7237663334127280130--Lv2"
    ]
   },
   {
    "query": "site:facebook.com 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）",
    "results": [
-    "https://www.facebook.com/theboardjp/posts/案件の任意項目を必須化できる必須項目設定を追加しましたこれによりたとえば案件区分1を入力必須とするといった設定が可能になります詳しくは下記をご覧ください/1420116509903024/",
     "https://www.facebook.com/rakrakworkflow.sis/posts/本日は様々な状態別で文書を閲覧できる一覧機能のご紹介ですこんにちは和久-風浪太わく-ふうろうたです楽々workflowiiでは文書を閲覧したいときに一覧から確認/467630851817097/",
+    "https://www.facebook.com/theboardjp/posts/案件の任意項目を必須化できる必須項目設定を追加しましたこれによりたとえば案件区分1を入力必須とするといった設定が可能になります詳しくは下記をご覧ください/1420116509903024/",
     "https://www.facebook.com/unionsystem/videos/ss7便利な機能関連部材の登録画面を呼び出す/1419045658168046/",
-    "https://www.facebook.com/RevitJapan/photos/オンラインセミナー-civil-3d-2026-日本仕様プログラム-j-tool最新アップデートのご紹介開催日時2025年-8月-7日-木-13-00-13-3/1128662515963143/",
     "https://www.facebook.com/bandokeiji/photos/一般質問を行いました一般質問の本番までの手順は次のようになりますまず質問項目の通告をしその後に質問原稿を行政に提出しますその質問内容によって担当課が答弁案を作成/840618618127621/",
-    "https://www.facebook.com/Nidec.JP/photos/統合報告書紹介サステナビリティの実現に向けてニデックは社会において優先的に取り組むべき5つの重要課題マテリアリティと付随する15項目の取り組みを設定し各項目にお/909428794320282/",
-    "https://www.facebook.com/tosihide.yosizawa/videos/皆様に色々ご指導戴き有り難う御座います横引き煙突l型のエルボー90度パイプから煙突のメンテナンスを手軽に出来るt管点検口付きに交換致しましたt管のジョイント部分/3637121283244436/"
+    "https://www.facebook.com/tosihide.yosizawa/videos/皆様に色々ご指導戴き有り難う御座います横引き煙突l型のエルボー90度パイプから煙突のメンテナンスを手軽に出来るt管点検口付きに交換致しましたt管のジョイント部分/3637121283244436/",
+    "https://www.facebook.com/RevitJapan/photos/オンラインセミナー-civil-3d-2026-日本仕様プログラム-j-tool最新アップデートのご紹介開催日時2025年-8月-7日-木-13-00-13-3/1128662515963143/",
+    "https://www.facebook.com/matsuzaki.lawyer/videos/労働基準監督署が労働者からの申告を全件受理-みんなの質問待ってますコメントで質問ですと書いて質問してね-労基署が原則全件受理へ-弁護士-労働基準監督署/1726515031767332/"
    ]
   },
   {
@@ -324,10 +324,10 @@
     "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
-    "https://www.lifescience.co.jp/pro/article02-2-9.html",
-    "https://www.icrweb.jp/mod/resource/view.php?id=310",
     "https://www.viedoc.co.jp/news/patient-reported-data/",
+    "https://www.lifescience.co.jp/pro/article02-2-9.html",
+    "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
+    "https://www.icrweb.jp/mod/resource/view.php?id=310",
     "https://www.pmda.go.jp/files/000199484.pdf",
     "https://www.solix.com/ja/leadership-lessons/application-specific-search-to-study-level-retrieval-the-last-mile-for-reproducible-clinical-trial-data/"
    ]
@@ -336,8 +336,8 @@
    "query": "仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用） X 投稿",
    "results": [
     "https://www.jpma.or.jp/information/evaluation/results/allotment/eo4se3000000878v-att/DS_202504_PRO.pdf",
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://icrek.w3.kanazawa-u.ac.jp/wp/wp-content/uploads/2023/12/20240109.pdf",
     "https://www.lifescience.co.jp/pro/article02-2-9.html",
     "https://www.icrweb.jp/mod/resource/view.php?id=310",
@@ -352,13 +352,13 @@
     "https://www.linkedin.com/posts/laurent-servais-7259ab2b5_angelman-duchenne-activity-7519287485546340352-9ns5",
     "https://www.linkedin.com/pulse/role-frequentist-framework-p-values-statistical-trials-olszewski-igy3f",
     "https://ch.linkedin.com/in/ghassankaram",
+    "https://www.linkedin.com/pulse/clinical-study-reports-drug-development-comprehensive-hiep-ben--gensc",
+    "https://www.linkedin.com/posts/peter-munene-9ab033b8_%F0%9D%9F%AD%F0%9D%9F%AC-%F0%9D%97%A7%F0%9D%98%86%F0%9D%97%BD%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%9F%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-activity-7518942543242477568-mY1n",
     "https://www.linkedin.com/in/amandabwilson",
     "https://www.linkedin.com/in/alex-monday-31b65453",
     "https://www.linkedin.com/in/bhsanjeev",
     "https://www.linkedin.com/in/kunwoocho",
-    "https://www.linkedin.com/in/cassandratelenko",
-    "https://uk.linkedin.com/in/ana-manzano-83b4221b6",
-    "https://www.linkedin.com/in/wickersong"
+    "https://www.linkedin.com/in/cassandratelenko"
    ]
   }
  ],
@@ -368,6 +368,6 @@
   "実例": "記載なし（読んだ15頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T00:50:29.732820+00:00"
 }
