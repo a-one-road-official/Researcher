@@ -1,0 +1,338 @@
+{
+ "name": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事",
+ "en": "survivorship bias correction backfill dead firms pessimistic bounds double selection",
+ "aliases": [
+  "生存者バイアス 補正 方法 データ分析 廃業企業",
+  "survivorship bias correction dataset backfill delisted firms",
+  "生き残り バイアス 統計 事業所 退出 平均"
+ ],
+ "context": "失敗・落とし穴",
+ "kind": "market",
+ "researched_at": "2026-11-08T03:59:52.820235+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://nan.ac/solutions/23631",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.kitei-kanri.jp/krd/efbes/doc/kacho/6.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://imidas.shueisha.co.jp/science/detail.html/?article_id=K-051-017-11-06-G385",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/ykawakubo/items/b80c4c7c3d17bec4a73e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samegawa.fcs.ed.jp/json/bbses/saveLikeJson/2/4/755",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nicico.nan.ac/solutions/16299",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://komatsu-j.esnet.ed.jp/plugin/blogs/show/40/82/3781",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eac.ac/articles/6328",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nan.ac/solutions/23663",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metricgate.com/blogs/selection-bias-vs-survivorship-bias/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://algoseek.com/blog/data-guides/survivorship-bias-in-backtesting-what-to-ask-a-data-vendor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataschool.com/misrepresenting-data/survivorship-bias/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rpc.cfainstitute.org/research/cfa-digest/2013/11/reverse-survivorship-bias-digest-summary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manuelgarcia.info/guides/research/guide/existing-cohort-survivorship-selection-bias",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 site:note.com",
+   "results": [
+    "https://nan.ac/solutions/23631",
+    "https://www2.kitei-kanri.jp/krd/efbes/doc/kacho/6.html",
+    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "https://imidas.shueisha.co.jp/science/detail.html/?article_id=K-051-017-11-06-G385",
+    "https://qiita.com/ykawakubo/items/b80c4c7c3d17bec4a73e",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "https://komatsu-j.esnet.ed.jp/plugin/blogs/show/40/82/3781",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20141007-00000013-san-l14&lang=ja",
+    "https://note.com/mhamadajp/n/na8e31715c257"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 note",
+   "results": [
+    "https://samegawa.fcs.ed.jp/json/bbses/saveLikeJson/2/4/755",
+    "https://nicico.nan.ac/solutions/16299",
+    "https://www2.kitei-kanri.jp/krd/efbes/doc/kacho/6.html",
+    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "https://qiita.com/ykawakubo/items/b80c4c7c3d17bec4a73e",
+    "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "https://imidas.shueisha.co.jp/science/detail.html/?article_id=K-051-017-11-06-G385",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "https://komatsu-j.esnet.ed.jp/plugin/blogs/show/40/82/3781"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 やり方",
+   "results": [
+    "https://samegawa.fcs.ed.jp/json/bbses/saveLikeJson/2/4/755",
+    "https://nicico.nan.ac/solutions/16299",
+    "https://www2.kitei-kanri.jp/krd/efbes/doc/kacho/6.html",
+    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "https://imidas.shueisha.co.jp/science/detail.html/?article_id=K-051-017-11-06-G385",
+    "https://qiita.com/ykawakubo/items/b80c4c7c3d17bec4a73e",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "https://komatsu-j.esnet.ed.jp/plugin/blogs/show/40/82/3781"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 事例",
+   "results": [
+    "https://eac.ac/articles/6328",
+    "https://samegawa.fcs.ed.jp/json/bbses/saveLikeJson/2/4/755",
+    "https://nan.ac/solutions/23663",
+    "https://www2.kitei-kanri.jp/krd/efbes/doc/kacho/6.html",
+    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
+    "https://imidas.shueisha.co.jp/science/detail.html/?article_id=K-051-017-11-06-G385",
+    "https://qiita.com/ykawakubo/items/b80c4c7c3d17bec4a73e",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09="
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "survivorship bias correction backfill dead firms pessimistic bounds double selection",
+   "results": [
+    "https://metricgate.com/blogs/selection-bias-vs-survivorship-bias/",
+    "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "https://algoseek.com/blog/data-guides/survivorship-bias-in-backtesting-what-to-ask-a-data-vendor/",
+    "https://dataschool.com/misrepresenting-data/survivorship-bias/",
+    "https://rpc.cfainstitute.org/research/cfa-digest/2013/11/reverse-survivorship-bias-digest-summary",
+    "https://manuelgarcia.info/guides/research/guide/existing-cohort-survivorship-selection-bias",
+    "https://medium.com/@qhsestandard/the-survivorship-bias-why-we-study-success-to-learn-about-failure-2b005287a65c",
+    "https://forum.bionicturtle.com/threads/selection-bias-vs-survivorship-bias.9470/",
+    "https://ryanoconnellfinance.com/hedge-fund-benchmarks/",
+    "https://thequant.space/guides/survivorship-bias/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事",
+   "results": [
+    "https://note.com/jack4manastalk/n/n23f349d009fb",
+    "https://note.com/jack4manastalk/n/n8261d83048c1",
+    "https://note.com/mhamadajp/n/na8e31715c257",
+    "https://note.com/ronjii/n/n227adc1a4634",
+    "https://note.com/tanakaminoru_/n/n292ca4b33230",
+    "https://note.com/prime_beyond1975/n/nfbbc3a78cf70",
+    "https://note.com/momoen_de/n/nd9effdff8c90",
+    "https://note.com/tender_zinnia286/n/n9e8c94f85675",
+    "https://note.com/quirky_frog4014/n/n5dd4939ec983"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事",
+   "results": [
+    "https://x.com/tetsukichi25/status/2090806757044179097",
+    "https://x.com/kagakutetsugaku/status/2054224078912028750",
+    "https://x.com/KuwaharaTabito/status/2096827048807538835",
+    "https://x.com/PomopmPompom/status/2098410811995857152",
+    "https://x.com/akibasukida/status/2099724902320509265",
+    "https://x.com/yoshuggah/status/2098965085226205331",
+    "https://x.com/i/status/2100196380799365172"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事",
+   "results": [
+    "https://jp.linkedin.com/pulse/unveiling-bias-signs-youre-making-biased-decisions-outme?tl=ja",
+    "https://jp.linkedin.com/posts/mickysuzuki1210_キャリア形成の成功は偏りにあったりする-日本人は完璧主義の傾向が強く-activity-7386529231981203456-AU1x",
+    "https://www.linkedin.com/posts/信治-近藤-928046210_極端な思考の偏りでも当事者にとっては整合性が取れている振り子の針を無理やり戻そうとする-activity-7303660946600640512-Em3r",
+    "https://www.linkedin.com/feed/update/urn:li:share:7119445505113214976/",
+    "https://jp.linkedin.com/pulse/dark-side-hr-how-bias-favoritism-can-destroy-trust-vanya-goel-ggclc?tl=ja",
+    "https://jp.linkedin.com/posts/k-hayashi-din_偏りなさい-というか偏らないなんて無理だと思う-偏るな-バランスよく-activity-7507758083645972480-QDST",
+    "https://jp.linkedin.com/pulse/how-i-turned-painful-manual-exit-survey-process-structured-naik-cp43c?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事",
+   "results": [
+    "https://www.facebook.com/satomiiko/posts/生き方の偏りが病気をつくる/26327985660157097/",
+    "https://www.facebook.com/yoshika.chikatune/posts/偏りってあまり良い言葉として使われない偏見とか片寄った見方とかだから私は長いこと偏りは直すものだと思っていたでも最近思う偏りこそその人らしさなのかもしれない私は/37112869521645568/",
+    "https://www.facebook.com/tomoko.torihara.5/videos/国地域が変われば暮らし方や価値観が全く違います自分の出来上がった世界観や価値観に挑戦する体験は大事ですね当たり前と思っていた考え方や思考の偏り歪みが分かる瞬間は/1769481331162869/",
+    "https://www.facebook.com/kota.takemura.7/videos/身体とつながり本来の自分を取り戻す現代人の身体は過剰に力んでいるか逆に腑抜けのように力が入っていないかどちらかに偏りがちです身体が硬い痛みがあるという人を見てい/1097027489923702/",
+    "https://www.facebook.com/kiichiro.minami/posts/車を失った高齢者は地方から退出せよ地方切り捨て政策が生む静かな人口流出美しい自然に囲まれた地方の町豊かな森林澄んだ空気四季の変化都会の人から見れば地方暮らしは憧/37449361371374731/",
+    "https://www.facebook.com/mari.miyanishi/videos/自分の分を最後によそった自分のことは後回しと話す人がいる後に回せるのは全体が見えるから今日は自分の番を早めていい人の分を先によそえる人ほどまわりがよく見えていま/28137035065926950/",
+    "https://www.facebook.com/groups/2441657902704259/posts/3200536556816386/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 note 社長",
+   "results": [
+    "https://eac.ac/articles/6328",
+    "https://samegawa.fcs.ed.jp/json/bbses/saveLikeJson/2/4/755",
+    "https://nan.ac/solutions/23663",
+    "https://www2.kitei-kanri.jp/krd/efbes/doc/kacho/6.html",
+    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
+    "https://imidas.shueisha.co.jp/science/detail.html/?article_id=K-051-017-11-06-G385",
+    "https://qiita.com/ykawakubo/items/b80c4c7c3d17bec4a73e",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09="
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 X 投稿",
+   "results": [
+    "https://samegawa.fcs.ed.jp/json/bbses/saveLikeJson/2/4/755",
+    "https://nicico.nan.ac/solutions/16299",
+    "https://www2.kitei-kanri.jp/krd/efbes/doc/kacho/6.html",
+    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "https://imidas.shueisha.co.jp/science/detail.html/?article_id=K-051-017-11-06-G385",
+    "https://qiita.com/ykawakubo/items/b80c4c7c3d17bec4a73e",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "https://komatsu-j.esnet.ed.jp/plugin/blogs/show/40/82/3781"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "survivorship bias correction backfill dead firms pessimistic bounds double selection site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/survivorship-bias-starts-data-problem-raymond-mullaney-1cx3e",
+    "https://www.linkedin.com/pulse/impact-survivorship-bias-backtesting-results-analytical-platform-uwwoe",
+    "https://www.linkedin.com/advice/3/how-can-you-avoid-survivorship-bias-when-backtesting-f7hxc",
+    "https://www.linkedin.com/posts/mintingm_datascience-survivorshipbias-backtesting-activity-7429764150895165440-56fZ",
+    "https://www.linkedin.com/pulse/how-overcome-survivorship-bias-backtesting-trading-ayodeji-m-olumofe-bfl0e",
+    "https://www.linkedin.com/pulse/survivorship-bias-look-ahead-corporate-action-index-one-sri-rangan-jjgde",
+    "https://www.linkedin.com/posts/ubong-patrick_backfill-and-survivorship-bias-in-managed-futures-activity-7492692380496777216-0jpl"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ19頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ19頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ19頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ19頁・検索12回）",
+  "実例": "記載なし（読んだ19頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T03:59:52.820235+00:00"
+}

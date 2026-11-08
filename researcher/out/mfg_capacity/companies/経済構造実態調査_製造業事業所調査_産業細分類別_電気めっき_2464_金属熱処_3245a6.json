@@ -1,0 +1,448 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26）",
+ "en": "Economic Structure Survey manufacturing establishments detailed industry electroplating heat treatment metal stamping dies establishments employees 2021-2024",
+ "aliases": [
+  "経済構造実態調査 製造業事業所調査 産業細分類 事業所数 従業者数 統計表 site:e-stat.go.jp",
+  "経済構造実態調査 製造業事業所調査 確報 産業別 表 Excel",
+  "2022年経済構造実態調査 製造業事業所調査 産業細分類"
+ ],
+ "context": "人数・事業所数",
+ "kind": "market",
+ "researched_at": "2026-11-08T03:59:06.298929+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "(2025年12月25日)",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2025年8月29日)",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2025年1月16日)",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2024年1月26日)",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2023年12月22日)",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2023年10月2日)",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index301.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dvirc.org/wp-content/uploads/2025/06/DVIRC_PAMEP_Reports_FabricatedMetalIndustry_v21-0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments detailed industry electroplating heat treatment metal stamping dies establishments employees 2021-2024 Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index301.html",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://www.dvirc.org/wp-content/uploads/2025/06/DVIRC_PAMEP_Reports_FabricatedMetalIndustry_v21-0.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e02.pdf",
+    "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/overview.html",
+    "https://www.jil.go.jp/english/events/documents/session_1.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26）",
+   "results": [
+    "https://note.com/powerpoint_jp/n/n5fe611924a90",
+    "https://note.com/3n7no_tech_pr/n/nff92d019d9ea",
+    "https://note.com/kurashiki_note/n/nf62bfe5b9660?hl=en",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/meijihatsumeikai/n/n7e1a01596144",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/andy868/n/na2de84cb0c6a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26）",
+   "results": [
+    "https://www.linkedin.com/company/linkedin",
+    "https://www.linkedin.com/login-cap",
+    "https://in.linkedin.com/in/varunmayya",
+    "https://uk.linkedin.com/company/woodgroup-ltd",
+    "https://kr.linkedin.com/in/hyun-woo-lee/en",
+    "https://in.linkedin.com/company/yash-technologies",
+    "https://sg.linkedin.com/in/bassel-haddad-565b955"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26）",
+   "results": [
+    "https://www.facebook.com/SirWilly77/",
+    "https://www.facebook.com/cgbombaci/",
+    "https://www.facebook.com/midoriw3/posts/生活の記録つけ初めて-６年と9ヶ月-2465日目①目標だった早寝早起きは頑張ったら出来ました-綺麗な朝焼けと日の出が見れた日は一日清々しく過ごせ本当に三文の徳を/28525919537061626/",
+    "https://www.facebook.com/Antoniophillip1/",
+    "https://www.facebook.com/BoneyardCyclesLLC/",
+    "https://www.facebook.com/afrmeeke/",
+    "https://www.facebook.com/marketplace/item/28618889901086740/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou30-06-full-listm/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments detailed industry electroplating heat treatment metal stamping dies establishments employees 2021-2024 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/straight-from-source-inside-us-metal-forgings-stampings-15qhc/",
+    "https://economicgraph.linkedin.com/workforce-data",
+    "https://www.linkedin.com/pulse/united-states-electroplating-machines-market-outlook-yz4kf",
+    "https://www.linkedin.com/pulse/stamping-metalloplastic-market-industry-outlook-innovation-yjggf",
+    "https://www.linkedin.com/pulse/industry-update-metal-fabrication-sector-trends-fxq1e",
+    "https://www.linkedin.com/pulse/detailed-market-study-global-north-america-metal-stamping-ucwme",
+    "https://www.linkedin.com/pulse/market-size-strategic-outlook-united-states-electroplating-l34hf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ16頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ16頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ16頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ16頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ16頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ16頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ16頁・検索18回）"
+ }
+}

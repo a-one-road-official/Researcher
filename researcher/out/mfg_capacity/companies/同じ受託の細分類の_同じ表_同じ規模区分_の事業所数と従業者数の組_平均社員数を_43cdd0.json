@@ -1,0 +1,777 @@
+{
+ "name": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方）",
+ "en": "same table establishments and employees by size class contracted metal processing average employees per establishment Japan",
+ "aliases": [
+  "工業統計表 産業細分類 従業者規模別 事業所数 従業者数 金属製品 表",
+  "従業者規模別 事業所数 従業者数 電気めっき業 統計表",
+  "1事業所あたり従業者数 金属熱処理業 統計"
+ ],
+ "context": "人数・事業所数",
+ "kind": "market",
+ "researched_at": "2026-11-08T03:59:02.079969+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "第１表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 従業者規模別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 産業細分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 産業中分類別事業所数、 事業所敷地面積及び１日当たり水源別用水量 （従業者３０人",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．\u0003調査結果のうち、事業所数、産出事業所数、従業者数については、\u0015\u0013\u0015\u0016年\u0019月\u0014日現在",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "第１表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 従業者規模別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "及び付加価値額（従業者３０人以上の事業所） ······························ 37",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加価値額（従業者１～２９人の事業所） ··································· 112",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 産業細分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 産業中分類別事業所数、 事業所敷地面積及び１日当たり水源別用水量 （従業者３０人",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．\u0003調査結果のうち、事業所数、産出事業所数、従業者数については、\u0015\u0013\u0015\u0016年\u0019月\u0014日現在",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 経済産業統計協会 TEL 03-3561-2974",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "高 （製造品出荷額等） 総額の９割を達成する範囲に含まれる事業所を調査対象とし、 その",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４． 製造品出荷額等の経理事項については、 原則消費税込みで把握しているが、 一部の消費",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "及び付加価値額（従業者３０人以上の事業所） ······························ 37",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "第４表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "、e-Stat 政府統計の総合窓口に掲載されている『2023年経済構造実態調査 製造業事",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業所調査』の集計結果（ 「産業編」 「品目編」 「地域編」 ） （2024 年 7 月 26 日公表）とそれらの関",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000180562.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/93940",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2020/documents/0193.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/totikensangyo/const/content/001382090.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.os-kouiki.org/uploads/public/news_0000002127_00/%E5%85%A5%E6%9C%AD%E8%AA%AC%E6%98%8E%E6%9B%B8%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA%E5%95%8F%E3%83%BB%E5%9B%9E%E7%AD%94%E6%9B%B8%EF%BC%88%E7%AC%AC2%E5%9B%9E%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/kibo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_14_10_31.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keidanren.or.jp/pri/theme/data/220602.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000368490.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kumamoto.jp/kiji0035374/3_5374_up_nxsd4a8i.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003032590",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfonica.or.jp/datalist/03/0301/H24edandhyodai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kyoto-roudoukyoku/content/contents/001720994.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi1171.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/jsdb/register_5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&toukei=00200552&tstat=000001072573&tclass1=000001077419&tclass2=000001080217&stat_infid=000031349998",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kobe.lg.jp/documents/28354/17sanren_chap_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/dl/detail-05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?stat_infid=000032203474",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/pdf/sanngyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkenren.com/news/pdf/oshirase/2407/158.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=252&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/kaiseihou/dl/tuuthi_111121_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/fukushi-kaigo/kaigo/shinsei/kyotaku/5tebiki/tebiki.files/tebiki_16.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/guide/statguide01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00020111001/download/sp006/latest",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001674610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/documents/3150/r6_rankana_1of2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004005643",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/mbss/yougo.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 人手不足 受注 断る",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000007.000180562.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "https://forbesjapan.com/articles/detail/93940",
+    "https://www.jil.go.jp/institute/research/2020/documents/0193.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001382090.pdf",
+    "https://www.mhlw.go.jp/content/11600000/000770384.pdf",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://www.maff.go.jp/j/seisan/suisin/tuyoi_nougyou/attach/pdf/sanchipu-65.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://www.os-kouiki.org/uploads/public/news_0000002127_00/%E5%85%A5%E6%9C%AD%E8%AA%AC%E6%98%8E%E6%9B%B8%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA%E5%95%8F%E3%83%BB%E5%9B%9E%E7%AD%94%E6%9B%B8%EF%BC%88%E7%AC%AC2%E5%9B%9E%EF%BC%89.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/kibo.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_14_10_31.pdf",
+    "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/002024200.pdf",
+    "https://www.fsa.go.jp/policy/chuukai/2603gyosyubetsu_00zentai10.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.keidanren.or.jp/pri/theme/data/220602.pdf",
+    "https://www.mlit.go.jp/report/press/content/001895678.pdf",
+    "https://www.fsa.go.jp/policy/chuukai/2603gyosyubetsu_00zentai10.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je26/pdf/all_01.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方）",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.soumu.go.jp/main_content/000368490.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "https://www.city.kumamoto.jp/kiji0035374/3_5374_up_nxsd4a8i.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003032590",
+    "https://www.sinfonica.or.jp/datalist/03/0301/H24edandhyodai.pdf",
+    "https://jsite.mhlw.go.jp/kyoto-roudoukyoku/content/contents/001720994.pdf",
+    "https://www.city.yokohama.lg.jp/business/bunyabetsu/fukushi-kaigo/kaigo/shinsei/kyotaku/5tebiki/tebiki.files/tebiki_16.pdf",
+    "https://www.city.saitama.lg.jp/001/011/014/004/005/p030832_d/fil/01_reibeppyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 推移",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/topics/topi1171.html",
+    "https://www.soumu.go.jp/main_content/000368490.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://www.stat.go.jp/info/kenkyu/jsdb/register_5.html",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://www.e-stat.go.jp/stat-search/files?stat_infid=000032203474"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 統計 PDF",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000368490.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&toukei=00200552&tstat=000001072573&tclass1=000001077419&tclass2=000001080217&stat_infid=000031349998",
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://www.city.kobe.lg.jp/documents/28354/17sanren_chap_2.pdf",
+    "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/dl/detail-05.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://www.e-stat.go.jp/stat-search/files?stat_infid=000032203474"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.nikkenren.com/news/pdf/oshirase/2407/158.pdf",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.jagat.or.jp/archives/99010"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.stat.go.jp/data/jigyou/2001/kakuhou/04.html",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=252&page=1000",
+    "https://www.mhlw.go.jp/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/kaiseihou/dl/tuuthi_111121_03.pdf",
+    "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.city.yokohama.lg.jp/business/bunyabetsu/fukushi-kaigo/kaigo/shinsei/kyotaku/5tebiki/tebiki.files/tebiki_16.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 1人当たり 万円",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.jil.go.jp/kokunai/statistics/guide/statguide01.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "https://www.e-stat.go.jp/surveyplan/p00020111001/download/sp006/latest",
+    "https://www.mhlw.go.jp/content/001674610.pdf",
+    "https://www.pref.kanagawa.jp/documents/3150/r6_rankana_1of2.pdf",
+    "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "https://www.city.yokohama.lg.jp/business/bunyabetsu/fukushi-kaigo/kaigo/shinsei/kyotaku/5tebiki/tebiki.files/tebiki_16.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） 2015 2025",
+   "results": [
+    "https://www.stat.go.jp/data/mbss/yougo.html",
+    "https://www.soumu.go.jp/main_content/000953817.pdf",
+    "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/kyufu/2025/12.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001473249",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/09Hakusyo_fuzokutoukei_web.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/prj/hou/hou090/hou90a.pdf",
+    "https://www.gpif.go.jp/about/gpif2025_4Q_0703_jp.pdf",
+    "https://jta.or.jp/wp-content/themes/jta_theme/pdf/yusosangyo2025.pdf",
+    "https://hitori-cm.com/subsidy/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "same table establishments and employees by size class contracted metal processing average employees per establishment Japan Japan statistics",
+   "results": [
+    "https://swopec.hhs.se/hastef/papers/hastef0624.pdf",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://documents1.worldbank.org/curated/en/981781468043500369/pdf/330270wbi37183.pdf",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://hardestmarket.com/pay/other-product-manufacturing-and-processing-workers-metal-products/",
+    "https://www.statista.com/statistics/629853/japan-employee-share-by-company-size/?srsltid=AYCX9vJ6QRB_9a_gv6DGuK6S6ZT2i6uIbl4dgiTWlzETirJqgX1SBMGF",
+    "https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A757.pdf",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方）",
+   "results": [
+    "https://note.com/ichi_twnovel/n/n9bde056023e1",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/honepoo/n/n71b80ce3ced4",
+    "https://note.com/hidetoshi_h_/n/ne2921ea57407",
+    "https://note.com/modern_flea8708/n/n988bc31b2e1f",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/marumaru_lab/n/n20288c3fb814",
+    "https://note.com/notenavi/n/n7d1db645e5a9",
+    "https://note.com/makabe_takashi/n/n10bd363c59a6",
+    "https://note.com/soratobuneco/n/n7a0e7c4e31c4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方）",
+   "results": [
+    "https://x.com/houkan_data/status/2106315828438413507",
+    "https://x.com/Joint_kaigo/status/2085282331590615459",
+    "https://x.com/fukushi_ngo/status/2115247173474697655",
+    "https://x.com/redata_cre/status/2103407336715157997",
+    "https://x.com/fringejp/status/2075551042952102311",
+    "https://x.com/case_studyypjl/status/2050197658808242651",
+    "https://x.com/Leifras0828/status/2100747023222030657"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方）",
+   "results": [
+    "https://www.linkedin.com/company/goldman-sachs",
+    "https://jp.linkedin.com/learning/excel-tips-and-tricks-365-2019/2282639",
+    "https://jp.linkedin.com/pulse/提案書下書きと調査メモを同じ表で比べるとき困るのは守りたい列が混ざることです-takayoshi-narumi-1xojc",
+    "https://jp.linkedin.com/posts/rearrangeinc_速報2026年度診療報酬改定訪問看護の大転換同一建物評価の細分化と包括型新設-activity-7435438142087737344-SUED",
+    "https://jp.linkedin.com/posts/賢太-荒川-684722409_市町村から介護予防の事業を受託しています始めた頃に一番苦労したのが仕様書の読み-activity-7516626526340141057-vLIy",
+    "https://jp.linkedin.com/posts/himi1001_わが社のチーム数は20名を超えました-超細分化-依頼業務内容多岐に渡る-activity-7301160030119034880--_UB",
+    "https://www.linkedin.com/posts/聰典-高橋-8644547b_確定申告書第一表の区分とは-ずいぶん増えた区分の欄-令和３年分の-activity-6906419152710455297-f2V5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方）",
+   "results": [
+    "https://www.facebook.com/groups/627324771859424/",
+    "https://www.facebook.com/caremane/posts/901988401927120/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/medwatch.jp/photos/2026年度診療報酬改定答申2地域包括医療病棟を33673066点の6区分に細分化adl低下割合などの基準柔軟化も-2026年度診療報酬改定答申2地域包括医療病/1501645918313832/",
+    "https://www.facebook.com/medwatch.jp/posts/2026年度診療報酬改定答申2地域包括医療病棟を33673066点の6区分に細分化adl低下割合などの基準柔軟化も-2026年度診療報酬改定答申2地域包括医療病/1501645934980497/",
+    "https://www.facebook.com/100066281780121/videos/966785532616898/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） note 社長",
+   "results": [
+    "https://note.com/seodoa_academy/n/n7cda43de5859",
+    "https://www.stat.go.jp/info/kenkyu/jsdb/register_4.html",
+    "https://note.com/279279/n/ne7a7b35809d7",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=238&page=1000",
+    "https://www.mhlw.go.jp/content/001673837.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/kibo.html",
+    "https://note.com/netshops/n/n6bb3c4d14b0a",
+    "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r159/r159_2.pdf",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/r60301_jimurenraku-pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si12-12.pdf",
+    "https://www.pref.ehime.jp/page/11586.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/r60301_jimurenraku-pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/kibo.html",
+    "https://www.city.minamiawaji.hyogo.jp/site/kaigo-iryo/syutyugensan.html",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/minkan/henkouten.htm",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/8549",
+    "https://www.wam.go.jp/gyoseiShiryou-files/documents/2024/0510142842214/20240510_000.pdf",
+    "https://note.com/kaigo_kj/n/n817e83259a9b",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "same table establishments and employees by size class contracted metal processing average employees per establishment Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/fluor",
+    "https://www.linkedin.com/company/bechtel-corporation",
+    "https://www.linkedin.com/company/hitt-contracting-inc-",
+    "https://www.linkedin.com/company/caterpillar-inc",
+    "https://www.linkedin.com/company/cargill",
+    "https://www.linkedin.com/company/api-group-inc-",
+    "https://www.linkedin.com/company/omnisource-llc",
+    "https://www.linkedin.com/company/capital-industries-llc.",
+    "https://www.linkedin.com/company/gilbane-building-company",
+    "https://www.linkedin.com/company/alberici"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

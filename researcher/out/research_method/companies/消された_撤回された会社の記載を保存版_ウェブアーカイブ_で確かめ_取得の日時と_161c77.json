@@ -1,0 +1,2869 @@
+{
+ "name": "消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手）",
+ "en": "wayback machine verify deleted company statements OSINT evidence capture",
+ "aliases": [
+  "ウェブアーカイブ 削除された記載 確認 OSINT",
+  "Wayback Machine 企業調査 証拠",
+  "魚拓 調査報道 検証"
+ ],
+ "context": "手順・やり方",
+ "kind": "market",
+ "researched_at": "2026-11-08T04:01:41.315557+00:00",
+ "evidence": {
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "多くは国などの公的機関が保存・公開に取り組んでいているが、民間で最も有名なのが、アメリカの非営利団体",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "国の機関、地方自治体、独立行政法人、国公立大学などの公的機関のサイトが中心だが、一部民間サイトも収集している",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "リンクをクリックすれば、その先にあったページやPDFも見られるようになっていることが多いので、目的のものがWARPにあるなら",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "たとえ現在のサイトから消えたとしても、WARPに保存されていれば過去のデータも（リンク先のPDFまで）さかのぼることができる",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公的機関のサイトが多いとはいえ、それ以外も意外とあるのがWARPの面白いところ",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特に、国や自治体といった公的機関のサイトには、過去の大事な情報も、現在の大事な情報も詰まっている",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "日本の国立機関が運営する、信頼性の高い公的ウェブアーカイブです",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公的機関サイトを法律に基づいて網羅的に収集",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDFなどのリンク先ファイルも含めて保存されるため、統計・報告書の確認に強い",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "WARPに保存されているのは主に公的機関のサイトです",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "WARP（国立国会図書館） & ◎ & ◎ & ✕ & 公的機関・行政サイト \\\\ \\hlineBingキャッシュ & ○ & △ & ✕ & 最近のページ \\\\ \\hline",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "保存データはHTMLだけでなく画像やスクリプト、PDFなども含まれることがあります",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特許庁など一部機関で日付の証拠として受け入れられている",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "将来の消失に備えるなら、気になるページは即座にSave Page NowとPDF保存をしておくのが手軽で確実です",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "大事なページは消える前にSave Page Nowを使い、手元のPDFも残すと安心",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計を使っているなら、元の表と調査方法を見る",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "元の映像、写真、文書、統計表、発言記録などである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "文書の画像やPDFがSNSへ投稿されることがある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第35章 PDFの作成日だけを信用しない",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDFファイルには作成日、更新日、作成ソフトなどの情報が含まれることがある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "企業の主張と、財務数値や公的記録が一致しているかを確認する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ネット民は報道の何を暴いてきたのか―一次情報・集合知・市民ジャーナリズムによる検証",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "数字でだまされないメディアリテラシー―統計・世論調査・グラフの嘘を見抜く方法",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "あなたが今日、誰かのSNSプロフィール写真から撮影場所を特定したり、企業の登記情報から本当の経営者を調べたり、ニュースに流れた画像が本物かどうかを検証したりすることができると知ったら、どう感じますか？これらはすべて",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4-2. 企業の登記・財務情報の調査",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4-3. 採用情報からわかる「企業の内側」",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTの対象となる情報源は驚くほど広く、インターネット上のウェブサイト・SNS・ニュース記事・学術論文・政府の公開データベース・企業の登記情報・特許データベース・衛星写真・電話帳・地図サービスなど、実に多岐にわたります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "マッチングアプリ相手の身元確認、怪しい求人のチェック、フィッシング詐欺の検証",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば「ある企業の採用ページに以前は掲載されていた役員情報が今は削除されている」「企業が声明を撤回したが、撤回前の内容を確認したい」といったケースで非常に有効です",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "上場企業の有価証券報告書・役員報酬・株主情報",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "企業の従業員数・組織構造・採用動向・技術スタック",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "企業の求人情報は、OSINTにおいて意外なほど有用な情報源です",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "求人票には使用している技術スタック・社内の組織構造・進行中のプロジェクト・抱えているセキュリティ上の課題などが如実に表れることがあります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "📌 FACT：求人票から企業の脆弱性がバレる",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "セキュリティ研究者の調査によると、企業がセキュリティ担当者の求人票に「Fortinet製品の経験者歓迎」「Cisco ASAの運用経験」などと具体的に記載することで、攻撃者がその企業が使用している製品・バージョンを推定し、対応する既知の脆弱性を調べるケースが実際に報告されています",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "採用情報は「会社の内側を語る公開情報」なのです",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ウェブアーカイブは、世界各国の国立図書館や公的機関が中心となって行っており、日本では国立国会図書館が2002年よりインターネット資料収集保存事業（WARP）を実施しています",
+    "url": "https://d-jedi.jp/n/n90e111c11d23?gs=9f2bacdf03e5992d629cdabe86491227",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A collection of books, academic papers, and open-access research materials anybody can explore, mostly in PDF and epub format.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "例えば、とあるサイトで年に1度公開される調査報告書がある",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、「市川海老蔵」と検索してみると、メタデータの検索結果と全文の検索結果が出てくる",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以前はGoogle検索結果から「キャッシュ」をクリックすることでページの保存版を見られましたが、段階的に廃止が進み",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現在はGoogleの代替として、検索結果の「この結果について」メニューからWayback Machineへのリンクが提供される場合があります",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以前読んだ解説、閉店したお店の告知、昔よく見ていたブログなど、検索しても再発見できないケースも",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https:// と http://、wwwの有無で結果が変わることがある",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索結果やフォーム送信後に表示されるページ",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでは、単に検索結果を並べるだけでは不十分である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、検索結果の上位記事を読んだだけで、OSINTを行ったことにはならない",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでは、検索結果から元の情報源へ戻る",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索結果が見つかった場合は、最も古い掲載例を探す",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第11章 検索結果が出ないことは本物の証明ではない",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、検索結果がない理由は複数ある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "したがって、検索結果がないことは、出典を発見できなかったことを意味するだけである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "画像全体で検索して結果が出ない場合、特徴的な部分を切り抜いて検索する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つのサービスで結果が出なくても、別のサービスで見つかる場合がある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つの検索結果だけで判断せず、複数の方法を使うことが望ましい",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AI判定サービスの結果も、最終判定ではなく参考情報として扱うべきである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "動画の途中に別の映像が挿入されていれば、場面ごとに異なる検索結果が出る可能性がある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "別の資料、当事者の証言、実際の結果と照合する必要がある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "アーカイブ、検索結果、公式説明、訂正記事を確認する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第45章 検索結果のない情報にも注意する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つまり、「秘密の情報」よりも「公開されている情報」のほうが圧倒的に多く、そしてより信頼性が高いケースも多いのです",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Bellingcat（ベリングキャット）に代表されるOSINT特化の調査報道機関が、政府や軍の公式発表では明らかにならない事実を公開情報だけで暴き出す成功事例を次々と生み出したことで、OSINTは世界的に注目されました",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "分析結果を目的に合った形式でまとめ、必要な相手に伝える",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "報告の結果や新たな疑問をもとに、調査の計画を見直し、必要であれば収集・分析を繰り返す",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば「ある企業の採用ページに以前は掲載されていた役員情報が今は削除されている」「企業が声明を撤回したが、撤回前の内容を確認したい」といったケースで非常に有効です",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "セキュリティ研究者の調査によると、企業がセキュリティ担当者の求人票に「Fortinet製品の経験者歓迎」「Cisco ASAの運用経験」などと具体的に記載することで、攻撃者がその企業が使用している製品・バージョンを推定し、対応する既知の脆弱性を調べるケースが実際に報告されています",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公開の航空機追跡データが「軍事インテリジェンス」として機能した歴史的な事例です",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "まず以下の5つだけを使いこなせれば、OSINTの80%のユースケースをカバーできます",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「2024年の地震の被害写真」として拡散されている画像が、実は2011年の別の地震の写真だったというケースは非常によくあります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「昼間に撮影された」と主張する画像が、実は夕方の影の方向と一致しないケースがあります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ケース①：SNSを「公開設定」にしている人物の情報収集",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第1章で述べたように、入札のことを告知する「入札公告」や、結果を示した「入札（経過）調書」は、官庁や自治体のホームページに掲載されますが、これが削除されてしまった、というケースがありました",
+    "url": "https://d-jedi.jp/n/n90e111c11d23?gs=9f2bacdf03e5992d629cdabe86491227",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Tracking the evolution of a website. Verifying historical claims or allegations. Gathering evidence for a legal or cybersecurity case. In all these scenarios and more, the Internet Archive is your unique window into the past. This guide explores how to make the most of it.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINT Industries Case Study",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "that suggested they didn’t know about a soldier’s Russian connections. Finding missing content can change the course of a case.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of the same webpage over time to show up modifications and redactions. Tracking change with the Wayback Machine can suggest the reasons for change, and can be case-crucial in other ways too.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://web.archive.org/web/*/example.com",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://web.archive.org/web/20220101*/example.com",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://web.archive.org/web/*/sub.example.com/*",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://archive.is/example.com",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Not all websites are archived, and some pages may be missing. At worst, this can give a one-sided or inaccurate view of the chronology of events. Missing content can change everything – for example, a missing apology or correction could radically misrepresent the chain of events around a controversial statement online. Always make sure you have the whole picture before you proceed.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "is a cornerstone of OSINT investigations, but also a cornerstone of internet culture as a whole. Despite challenges, the Internet Archive remains a critical tool in the fight to safeguard our digital heritage. By utilizing it in OSINT practice, analysts showcase its utility. In a small way, this is ensuring that the internet's past is not lost to the future.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "To see examples of OSINT fighting misinformation, check out our Case Studies.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "それが後で振り返って検証しようというときに役立つはずだ",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "数年後、数十年後、数百年後にも検証可能な形で残す",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "IPアドレスが分かると5ちゃんねる等の過去ログと照合して「匿名投稿」と「note上の本人」を結びつけられる（＝デラノニマイズ／非匿名化）の危険が現実に指摘された",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる | Resixley Blog",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "でニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事は、連載「オールドメディアとネット時代の情報検証――認知戦・データサイエンス・OSINTから読み解く誤報と偏向報道【全10回】」の第7回である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第7回では、インターネット上の公開情報から事実を検証するOSINTの基本を解説する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このように、公開されている情報を収集し、照合し、分析する手法をOSINTと呼ぶ",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索、地図、画像、動画、公文書など、一般に公開されている情報を、再検証できる手順によって組み合わせる方法である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "こうした情報を収集し、整理し、別の情報と照合して、調査上の問いへ答える",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第4章 事実、主張、仮説を分ける",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでは、確認された事実と、投稿者の主張と、調査者の仮説を分けなければならない",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査者が「別の国の過去映像ではないか」と考えたなら、それは仮説である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事実、主張、仮説を混ぜると、検証前の推測が確定情報へ変わってしまう",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "自分自身の記憶違いを防ぎ、第三者が検証できる状態を作るためのものである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検証では、まず画像だけを見て、何が直接読み取れるかを記録する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第17章 動画検証は元動画を探すことから始まる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "あなたが今日、誰かのSNSプロフィール写真から撮影場所を特定したり、企業の登記情報から本当の経営者を調べたり、ニュースに流れた画像が本物かどうかを検証したりすることができると知ったら、どう感じますか？これらはすべて",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "8-1. 疑わしい画像・動画を検証する5ステップ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "戦争犯罪の証拠収集、政治家の虚偽発言の検証、フェイクニュースのファクトチェック",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "マッチングアプリ相手の身元確認、怪しい求人のチェック、フィッシング詐欺の検証",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "がパスワードも使い回していたことが判明しています（パスワードの使い回しはHave I Been Pwnedのデータ分析による推計）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ドメインに関連するメールアドレスの発見・検証",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "と呼ばれ、フェイクニュース検証・人道支援活動・戦争犯罪調査などで広く活用されています",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：言語・通貨・建築様式・車のナンバープレートのデザインから、国・地域を推定する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：SunCalcやShadow Calculatorを使い、画像内の影の方向・長さから撮影時刻を推定する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：Google Earth・Sentinel Hub・Planet Labsで現地の衛星写真を確認し、地上写真と一致するかを検証する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "セキュリティ研究者の調査によると、企業がセキュリティ担当者の求人票に「Fortinet製品の経験者歓迎」「Cisco ASAの運用経験」などと具体的に記載することで、攻撃者がその企業が使用している製品・バージョンを推定し、対応する既知の脆弱性を調べるケースが実際に報告されています",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "メールアドレス・パスワードの漏えいデータベース照合",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェイクニュースの検証（ファクトチェック）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "写真・動画の背景に映っている建物・看板・地形・標識などを手がかりに、Googleストリートビューや衛星写真で「本当にその場所で撮られたものか」を検証する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ジャーナリスト向けのOSINT・検証トレーニング資料",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ｜惣一郎さん",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、現在使えるウェブ魚拓サービスの種類と、それぞれの使い方をわかりやすく解説します",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "魚拓とはもともと魚の形を墨で紙に写し取る日本の伝統技法ですが、ウェブの世界でもページの「型」を取るイメージからこの名前が使われています",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ブックマーク先が消えたときに試したい、Wayback Machineで過去のページを探す方法｜みなとHints｜暮らしの小さな発見(フォロバ100)",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ブックマーク先が消えたときに試したい、Wayback Machineで過去のページを探す方法",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ドメイン部分だけ入力して、トップページから目的ページを探す方法もある",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる | Resixley Blog",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "でニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "画像、動画、地図、衛星画像、天候記録、公文書、企業資料、ウェブアーカイブなどを組み合わせ、情報の出所、撮影場所、日時、変更履歴を確かめる方法を扱う",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索、地図、画像、動画、公文書など、一般に公開されている情報を、再検証できる手順によって組み合わせる方法である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何が確認でき、何が確認できていないかを分け、証拠を積み重ね、第三者が同じ手順を再現できるようにすることである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計を使っているなら、元の表と調査方法を見る",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "リバース画像検索は、画像を使って同じ画像や類似画像を探す方法である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "画像検索サービスは、それぞれ索引の範囲や検索方法が異なる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つの検索結果だけで判断せず、複数の方法を使うことが望ましい",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第三者が同じ資料へアクセスし、同じ手順を試せることが重要である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第52章 ツール名より手順が重要である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "問いに最も適した、確実な方法を選ぶことである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第64章 OSINTを報道検証へ使う基本手順",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この手順を守れば、特別な技術がなくても、報道やSNS投稿の検証精度を高められる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTは合法的な「公開情報の調査」ですが、使い方によっては個人情報保護法・不正アクセス禁止法・ストーカー規制法などに抵触する可能性があります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第2章：OSINTの基本フレームワーク——情報収集の「型」を学ぶ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "画像からの位置情報特定：ステップバイステップ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Wayback Machineの使い方：「削除された証拠」を復元する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第8章：OSINTの実践演習——フェイクニュースを見破る手順",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "8-1. 疑わしい画像・動画を検証する5ステップ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 1：逆画像検索で「初出」を確認する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 2：メタデータを確認する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 3：動画の場合はInVID/WeVerifyを使う",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 4：地理的な整合性を確認する（ジオロケーション）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 5：時間的な整合性を確認する（クロノロケーション）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "10-1. レベル別の学習ステップ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、図書館で得た情報を使って誰かを傷つけることが問題になるように、OSINTで得た情報の「使い方」には常に倫理的な判断が求められます",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "# Sherlockの使い方（コマンドライン）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "次のような手順で画像の撮影場所を特定できます",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ウェブブラウザで問題のページを表示させ、プリントアウトして、紙媒体で保存する方法です",
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ウェブブラウザで問題のページを表示させ、その表示画面自体を画像として保存する方法です",
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "問題となるウェブページの分量が多い場合、印刷や画面の画像保存の方法では手間がかかり過ぎることがあります",
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そこで、このような場合には問題となるウェブページを表示する一連の動作すべてをビデオカメラで撮影するなどして動画で保存する方法を用いることもあります",
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "まずは消されてしまったウェブ上の情報を探し出す方法をご紹介します",
+    "url": "https://d-jedi.jp/n/n90e111c11d23?gs=9f2bacdf03e5992d629cdabe86491227",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How to Conduct OSINT on the Wayback Machine",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Tracking the evolution of a website. Verifying historical claims or allegations. Gathering evidence for a legal or cybersecurity case. In all these scenarios and more, the Internet Archive is your unique window into the past. This guide explores how to make the most of it.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". This tool is instrumental in providing your key snapshots and analyzing changes over time. Let’s go through how to learn how to leverage this powerful resource to enrich your investigations with the historical digital footprints others might overlook.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How to Use OSINT Techniques for the Internet Archive",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "While the Internet Archive contains vast amounts of historical data at your fingertips, knowing how to efficiently extract the right intel is all-important. Here are some key OSINT techniques:",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How to find social media accounts by email",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Learn how to find social media accounts by email using manual searches and OSINT tools, verify profile matches, and protect privacy.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Reverse Email Lookup: How to Find Who's Behind Any Email Address",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Learn how to perform a reverse email lookup to uncover publicly available information linked to an email, including social media profiles, and usernames.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Learn how to uncover a subject's Google reviews using just a Gmail address. Reveal valuable location and behavioral data using manual OSINT techniques.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "以前の記事では、推し活の観点からWayback Machineの利活用を書いたが、とかく「調査」が必要な場面において大活躍間違いなしなので、",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、全てのページが残っているわけではないので注意が必要です",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "保存操作は対象サイトのアクセスログに残るため、こっそり調査したい場合は注意してください",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "こうした誤りは、誰にでも起こる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第15章 画像の解像度と圧縮に注意する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、影を使った分析には注意が必要である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第45章 検索結果のない情報にも注意する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つの仮説だけで進めると、確証バイアスによって、それを支持する証拠だけを集めやすくなる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「ほぼ間違いない」という表現を使うなら、何が未確認なのかを示す",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "誤りが判明したら、元の投稿を黙って削除するだけでは不十分である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "・OSINT調査者にも、誤りを透明に訂正する責任がある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "・誤りが判明した場合に訂正できる形で公開しているか",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "07:認知戦・認知バイアス",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "認知戦とは何か──情報戦・心理戦との違いと認知バイアスの基本",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人はなぜ偏った報道を信じるのか―脳科学と認知バイアスで読み解く情報操作",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "認知戦・認知バイアス・ストローマン論法──メディア、政治家、知識人が社会に及ぼす影響と対策【全7回・総合案内】",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事では、OSINTの基本概念から具体的なツール・手法・実践例・倫理的な注意点まで、徹底的にわかりやすく解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事では、OSINTの基本概念から実践的なツール・手法・倫理的注意点まで、約20,000字にわたって解説しました",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "site:やfiletype:などの検索演算子で、公開されてしまった情報を探す方法と法律上の注意点が分かる",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "直すための更新にも落とし穴がある本体の弱点（CVE-2026-119977）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", mistakes by the Australian Defence Force were exposed in",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会図書館WARP ほか》｜調部（しらべ）",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会図書館WARP ほか》",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "多くは国などの公的機関が保存・公開に取り組んでいているが、民間で最も有名なのが、アメリカの非営利団体",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "である。世界中のさまざまなウェブページを保存・公開してくれている便利なサイトだ。",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これを使えば、消えてしまったサイトや更新されて見られなくなったコンテンツなどを見返すことができる。リンク切れでアクセスできなくなったURLも確認できるし、閉館した劇場や放送が終了した大河ドラマの公式サイトもよみがる。",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以前の記事では、推し活の観点からWayback Machineの利活用を書いたが、とかく「調査」が必要な場面において大活躍間違いなしなので、",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、Wayback Machine以外にもさまざまなウェブアーカイブがある。日本では、国立国会図書館が行っている",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/michiko_katagiri/n/nc88904136e92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/michiko_katagiri/n/n3716539f0829",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/happy_hosta5785/n/n880c402788e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ti.com/bin/ti/transcripts/5415203482001_ja-jp.json",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/%E9%9B%BB%E5%AD%90%E8%A8%BC%E6%8B%A0/SNS%E4%B8%8A%E3%81%AE%E6%8A%95%E7%A8%BF%E3%82%92%E8%A8%BC%E6%8B%A0%E3%81%A8%E3%81%97%E3%81%A6%E7%A2%BA%E4%BF%9D%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86%E3%81%A8%E3%83%84%E3%83%BC%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/macccoto_lab/n/nfcdc31ed3e47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meitoku-law.jp/rensai/737/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ifixit.com/Join#last_page=https%3A%2F%2Fjp.ifixit.com%2FGuide%2Fhistory%2F181522",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daillo.com/digital-forensics/pc-reset-history-digital-evidence-forensic-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improved-move.com/ja/services/osint-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ags.co.jp/security/column/detail04/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://d-jedi.jp/n/n90e111c11d23?gs=9f2bacdf03e5992d629cdabe86491227",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spectee.co.jp/report/osint_changes_the_world_of_newsreporting_disasterprevention/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forensic-invest.com/about/method.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bureauveritas.jp/media/23301",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library/blob/GitBook/osint-tools/wayback-machine.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://web.archive.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osint4all.com/tool/wayback-machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://truescreen.io/insights/wayback-machine-forensic-capture-web-evidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/wayback-machine-powerful-tool-digital-investigations-janie-a-duncan-ca9oc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手） site:note.com",
+   "results": [
+    "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "https://note.com/michiko_katagiri/n/nc88904136e92",
+    "https://note.com/zz08/n/ncd84a61a7641",
+    "https://note.com/michiko_katagiri/n/n3716539f0829",
+    "https://note.com/minato_hints/n/n66753053b58f",
+    "https://note.com/happy_hosta5785/n/n880c402788e0",
+    "https://note.com/real_ram9758/n/n059c43bf4c4a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手） note",
+   "results": [
+    "https://www.ti.com/bin/ti/transcripts/5415203482001_ja-jp.json",
+    "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/%E9%9B%BB%E5%AD%90%E8%A8%BC%E6%8B%A0/SNS%E4%B8%8A%E3%81%AE%E6%8A%95%E7%A8%BF%E3%82%92%E8%A8%BC%E6%8B%A0%E3%81%A8%E3%81%97%E3%81%A6%E7%A2%BA%E4%BF%9D%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86%E3%81%A8%E3%83%84%E3%83%BC%E3%83%AB/",
+    "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "https://note.com/macccoto_lab/n/nfcdc31ed3e47",
+    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "https://note.com/sherlokian/n/nc28aed5f6c3a",
+    "https://www.elplanning.co.jp/column/reverse_seo_measures/note-deletion/",
+    "https://shifter.io/ja/blog/osint-tool-category-betsu",
+    "https://seo-nippou.com/entry/20250906"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手） やり方",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://sowasogo.jp/slanderdelete/delete06.html",
+    "https://meitoku-law.jp/rensai/737",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://jp.ifixit.com/Guide/history/181522",
+    "https://daillo.com/digital-forensics/pc-reset-history-digital-evidence-forensic-report/",
+    "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
+    "https://www.adec-cert.jp/files/request/DATAWIPEGUIDEBOOK.pdf",
+    "https://asueito.com/digitalforensic/",
+    "https://seo-nippou.com/entry/20250906"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手） 事例",
+   "results": [
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://daillo.com/digital-forensics/pc-reset-history-digital-evidence-forensic-report/",
+    "https://improved-move.com/ja/services/osint-research/",
+    "https://www.ags.co.jp/security/column/detail04/",
+    "https://d-jedi.jp/n/n90e111c11d23",
+    "https://spectee.co.jp/report/osint_changes_the_world_of_newsreporting_disasterprevention/",
+    "https://www.forensic-invest.com/about/method.html",
+    "https://www.bureauveritas.jp/media/23301",
+    "https://note.com/sherlokian/n/nc28aed5f6c3a",
+    "https://seo-nippou.com/entry/20250906"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "wayback machine verify deleted company statements OSINT evidence capture",
+   "results": [
+    "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library/blob/GitBook/osint-tools/wayback-machine.md",
+    "http://web.archive.org/",
+    "https://osint4all.com/tool/wayback-machine/",
+    "https://www.youtube.com/watch?v=Vp6KpxET2qk",
+    "https://truescreen.io/insights/wayback-machine-forensic-capture-web-evidence/",
+    "https://www.linkedin.com/pulse/wayback-machine-powerful-tool-digital-investigations-janie-a-duncan-ca9oc",
+    "https://crossborderadvisorysolutions.com/admitting-archived-website-versions-in-court-a-modern-evidentiary-challenge/",
+    "https://www.osintcurio.us/2021/03/03/using-archive-org-for-osint-investigations/",
+    "https://maxintel.org/wayback-osint-guide-2026.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手）",
+   "results": [
+    "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "https://note.com/michiko_katagiri/n/nc88904136e92",
+    "https://note.com/zz08/n/ncd84a61a7641",
+    "https://note.com/michiko_katagiri/n/n3716539f0829",
+    "https://note.com/minato_hints/n/n66753053b58f",
+    "https://note.com/real_ram9758/n/n059c43bf4c4a",
+    "https://note.com/happy_hosta5785/n/n880c402788e0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手）",
+   "results": [
+    "https://x.com/mundane_view/status/2051993621214433328",
+    "https://x.com/okinawanobases/status/2105985036419989820",
+    "https://x.com/i/status/2066484384128237733",
+    "https://help.x.com/ja/managing-your-account/how-to-download-your-x-archive",
+    "https://help.x.com/ja/rules-and-policies/enforcement-options",
+    "https://x.com/i/trending/2058724495851147723",
+    "https://x.com/scarecrowEng/status/2067135376091947238"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手）",
+   "results": [
+    "https://www.linkedin.com/help/learning/answer/a566295?lang=ja-JP",
+    "https://www.linkedin.com/jobs/view/4382211087?mcid=6853763504395177984&ePP=CwEAAAGdEN08NgsKdKJ2bPhYmAQFFm1tCTmzuvmPJ6yWV7TQY6jro1oI3EdVwak6XC0525vZTozZyu0rGk7sjT8sYj8z_ceE14DRzUONGQ&ccuid=70103974236",
+    "https://jp.linkedin.com/company/similarweb-japan",
+    "https://jp.linkedin.com/pulse/complete-list-200-companies-acquired-google-kalyani-kurve-vlduf?tl=ja",
+    "https://jp.linkedin.com/pulse/朝起きたら会社が潰れていた話実話-剛-西中村",
+    "https://jp.linkedin.com/pulse/why-retractions-rarely-retract-belief-biases-work-heide-anderson-jskgf?tl=ja",
+    "https://jp.linkedin.com/pulse/信託の変更撤回終了の仕組みとは-柔軟性と責任のバランスを理解する-三浦龍太郎-ryutaro-miura-q9arc"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手）",
+   "results": [
+    "https://www.facebook.com/JALgenkoku/",
+    "https://www.facebook.com/61588363832991/videos/1368578662007409/",
+    "https://www.facebook.com/JamesBond007JP/videos/007消されたライセンス/1035718260184516/",
+    "https://www.facebook.com/noboru.murakumo/posts/戦後ghqにより消されたり変えられた文字は沢山ありますこの文字はそしじと読みますそしじは宗神主を合わせた人間として個の存在意義や役割という概念を表す文字であり愛/852210263766591/",
+    "https://www.facebook.com/takaya.masato.5/videos/真実を語る者は消される/3231010177106461/",
+    "https://www.facebook.com/matsuo.akihito/posts/退職願1週間後の撤回認められず-最高裁まで争い女性社員の敗訴確定8月23日今日の日経新聞の記事ですこれは会社員と経営者ではかなり受け止め方が違う記事だと思いまし/28137301372556696/",
+    "https://www.facebook.com/mainichishimbun/posts/撤回された安全性論文-除草剤ラウンドアップをめぐる闇今回取り上げるのは企業の利益を目的として不正に作成された論文です内容は除草剤ラウンドアップに関するものです経/1252767823552236/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手） note 社長",
+   "results": [
+    "https://www.ti.com/bin/ti/transcripts/5415203482001_ja-jp.json",
+    "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/%E9%9B%BB%E5%AD%90%E8%A8%BC%E6%8B%A0/SNS%E4%B8%8A%E3%81%AE%E6%8A%95%E7%A8%BF%E3%82%92%E8%A8%BC%E6%8B%A0%E3%81%A8%E3%81%97%E3%81%A6%E7%A2%BA%E4%BF%9D%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86%E3%81%A8%E3%83%84%E3%83%BC%E3%83%AB/",
+    "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "https://note.com/macccoto_lab/n/nfcdc31ed3e47",
+    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "https://note.com/sherlokian/n/nc28aed5f6c3a",
+    "https://www.elplanning.co.jp/column/reverse_seo_measures/note-deletion/",
+    "https://shifter.io/ja/blog/osint-tool-category-betsu",
+    "https://seo-nippou.com/entry/20250906"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手） X 投稿",
+   "results": [
+    "https://tangram.gr.jp/blog/detail/20260914224436/",
+    "https://wp.allylogistics.com/hasegawa-shizuoka/k82ld1b.html",
+    "https://sowasogo.jp/slanderdelete/delete06.html",
+    "https://x.com/osintjapan",
+    "https://www.odx.co.jp/st/ja/news/article/jks5cponwhmk/",
+    "https://d-jedi.jp/n/n90e111c11d23",
+    "https://www.youtube.com/watch?v=sDfwOFDCUYQ",
+    "https://daillo.com/digital-forensics/pc-reset-history-digital-evidence-forensic-report/",
+    "https://www.reddit.com/r/Military/comments/1918d0a/please_be_aware_several_of_these_twitter_osint/?tl=ja",
+    "https://seo-nippou.com/entry/20250906"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "wayback machine verify deleted company statements OSINT evidence capture site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/in/computerforensicsexpertwitness",
+    "https://www.linkedin.com/in/devinchavira",
+    "https://www.linkedin.com/in/jamestunkey",
+    "https://uk.linkedin.com/in/kalina-bontcheva-940156",
+    "https://br.linkedin.com/in/tclahr",
+    "https://www.linkedin.com/in/harshdthakur",
+    "https://www.linkedin.com/top-content/science/forensic-science-in-criminal-investigations/investigative-case-search-techniques/",
+    "https://www.linkedin.com/in/rgingrascfce",
+    "https://in.linkedin.com/in/akhil-dara",
+    "https://www.linkedin.com/pulse/leveraging-ai-prompt-engineering-cyberthreat-digital-threat-henning-grh5e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "多くは国などの公的機関が保存・公開に取り組んでいているが、民間で最も有名なのが、アメリカの非営利団体",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "国の機関、地方自治体、独立行政法人、国公立大学などの公的機関のサイトが中心だが、一部民間サイトも収集している",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "リンクをクリックすれば、その先にあったページやPDFも見られるようになっていることが多いので、目的のものがWARPにあるなら",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "たとえ現在のサイトから消えたとしても、WARPに保存されていれば過去のデータも（リンク先のPDFまで）さかのぼることができる",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公的機関のサイトが多いとはいえ、それ以外も意外とあるのがWARPの面白いところ",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特に、国や自治体といった公的機関のサイトには、過去の大事な情報も、現在の大事な情報も詰まっている",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "日本の国立機関が運営する、信頼性の高い公的ウェブアーカイブです",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公的機関サイトを法律に基づいて網羅的に収集",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDFなどのリンク先ファイルも含めて保存されるため、統計・報告書の確認に強い",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "WARPに保存されているのは主に公的機関のサイトです",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "WARP（国立国会図書館） & ◎ & ◎ & ✕ & 公的機関・行政サイト \\\\ \\hlineBingキャッシュ & ○ & △ & ✕ & 最近のページ \\\\ \\hline",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "保存データはHTMLだけでなく画像やスクリプト、PDFなども含まれることがあります",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特許庁など一部機関で日付の証拠として受け入れられている",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "将来の消失に備えるなら、気になるページは即座にSave Page NowとPDF保存をしておくのが手軽で確実です",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "大事なページは消える前にSave Page Nowを使い、手元のPDFも残すと安心",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計を使っているなら、元の表と調査方法を見る",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "元の映像、写真、文書、統計表、発言記録などである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "文書の画像やPDFがSNSへ投稿されることがある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第35章 PDFの作成日だけを信用しない",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDFファイルには作成日、更新日、作成ソフトなどの情報が含まれることがある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "企業の主張と、財務数値や公的記録が一致しているかを確認する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ネット民は報道の何を暴いてきたのか―一次情報・集合知・市民ジャーナリズムによる検証",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "数字でだまされないメディアリテラシー―統計・世論調査・グラフの嘘を見抜く方法",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "あなたが今日、誰かのSNSプロフィール写真から撮影場所を特定したり、企業の登記情報から本当の経営者を調べたり、ニュースに流れた画像が本物かどうかを検証したりすることができると知ったら、どう感じますか？これらはすべて",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4-2. 企業の登記・財務情報の調査",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4-3. 採用情報からわかる「企業の内側」",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTの対象となる情報源は驚くほど広く、インターネット上のウェブサイト・SNS・ニュース記事・学術論文・政府の公開データベース・企業の登記情報・特許データベース・衛星写真・電話帳・地図サービスなど、実に多岐にわたります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "マッチングアプリ相手の身元確認、怪しい求人のチェック、フィッシング詐欺の検証",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば「ある企業の採用ページに以前は掲載されていた役員情報が今は削除されている」「企業が声明を撤回したが、撤回前の内容を確認したい」といったケースで非常に有効です",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "上場企業の有価証券報告書・役員報酬・株主情報",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "企業の従業員数・組織構造・採用動向・技術スタック",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "企業の求人情報は、OSINTにおいて意外なほど有用な情報源です",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "求人票には使用している技術スタック・社内の組織構造・進行中のプロジェクト・抱えているセキュリティ上の課題などが如実に表れることがあります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "📌 FACT：求人票から企業の脆弱性がバレる",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "セキュリティ研究者の調査によると、企業がセキュリティ担当者の求人票に「Fortinet製品の経験者歓迎」「Cisco ASAの運用経験」などと具体的に記載することで、攻撃者がその企業が使用している製品・バージョンを推定し、対応する既知の脆弱性を調べるケースが実際に報告されています",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "採用情報は「会社の内側を語る公開情報」なのです",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ウェブアーカイブは、世界各国の国立図書館や公的機関が中心となって行っており、日本では国立国会図書館が2002年よりインターネット資料収集保存事業（WARP）を実施しています",
+    "url": "https://d-jedi.jp/n/n90e111c11d23?gs=9f2bacdf03e5992d629cdabe86491227",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A collection of books, academic papers, and open-access research materials anybody can explore, mostly in PDF and epub format.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "例えば、とあるサイトで年に1度公開される調査報告書がある",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、「市川海老蔵」と検索してみると、メタデータの検索結果と全文の検索結果が出てくる",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以前はGoogle検索結果から「キャッシュ」をクリックすることでページの保存版を見られましたが、段階的に廃止が進み",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現在はGoogleの代替として、検索結果の「この結果について」メニューからWayback Machineへのリンクが提供される場合があります",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以前読んだ解説、閉店したお店の告知、昔よく見ていたブログなど、検索しても再発見できないケースも",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https:// と http://、wwwの有無で結果が変わることがある",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索結果やフォーム送信後に表示されるページ",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでは、単に検索結果を並べるだけでは不十分である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、検索結果の上位記事を読んだだけで、OSINTを行ったことにはならない",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでは、検索結果から元の情報源へ戻る",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索結果が見つかった場合は、最も古い掲載例を探す",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第11章 検索結果が出ないことは本物の証明ではない",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、検索結果がない理由は複数ある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "したがって、検索結果がないことは、出典を発見できなかったことを意味するだけである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "画像全体で検索して結果が出ない場合、特徴的な部分を切り抜いて検索する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つのサービスで結果が出なくても、別のサービスで見つかる場合がある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つの検索結果だけで判断せず、複数の方法を使うことが望ましい",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AI判定サービスの結果も、最終判定ではなく参考情報として扱うべきである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "動画の途中に別の映像が挿入されていれば、場面ごとに異なる検索結果が出る可能性がある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "別の資料、当事者の証言、実際の結果と照合する必要がある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "アーカイブ、検索結果、公式説明、訂正記事を確認する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第45章 検索結果のない情報にも注意する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つまり、「秘密の情報」よりも「公開されている情報」のほうが圧倒的に多く、そしてより信頼性が高いケースも多いのです",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Bellingcat（ベリングキャット）に代表されるOSINT特化の調査報道機関が、政府や軍の公式発表では明らかにならない事実を公開情報だけで暴き出す成功事例を次々と生み出したことで、OSINTは世界的に注目されました",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "分析結果を目的に合った形式でまとめ、必要な相手に伝える",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "報告の結果や新たな疑問をもとに、調査の計画を見直し、必要であれば収集・分析を繰り返す",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば「ある企業の採用ページに以前は掲載されていた役員情報が今は削除されている」「企業が声明を撤回したが、撤回前の内容を確認したい」といったケースで非常に有効です",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "セキュリティ研究者の調査によると、企業がセキュリティ担当者の求人票に「Fortinet製品の経験者歓迎」「Cisco ASAの運用経験」などと具体的に記載することで、攻撃者がその企業が使用している製品・バージョンを推定し、対応する既知の脆弱性を調べるケースが実際に報告されています",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公開の航空機追跡データが「軍事インテリジェンス」として機能した歴史的な事例です",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "まず以下の5つだけを使いこなせれば、OSINTの80%のユースケースをカバーできます",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「2024年の地震の被害写真」として拡散されている画像が、実は2011年の別の地震の写真だったというケースは非常によくあります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「昼間に撮影された」と主張する画像が、実は夕方の影の方向と一致しないケースがあります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ケース①：SNSを「公開設定」にしている人物の情報収集",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第1章で述べたように、入札のことを告知する「入札公告」や、結果を示した「入札（経過）調書」は、官庁や自治体のホームページに掲載されますが、これが削除されてしまった、というケースがありました",
+    "url": "https://d-jedi.jp/n/n90e111c11d23?gs=9f2bacdf03e5992d629cdabe86491227",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Tracking the evolution of a website. Verifying historical claims or allegations. Gathering evidence for a legal or cybersecurity case. In all these scenarios and more, the Internet Archive is your unique window into the past. This guide explores how to make the most of it.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINT Industries Case Study",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "that suggested they didn’t know about a soldier’s Russian connections. Finding missing content can change the course of a case.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of the same webpage over time to show up modifications and redactions. Tracking change with the Wayback Machine can suggest the reasons for change, and can be case-crucial in other ways too.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://web.archive.org/web/*/example.com",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://web.archive.org/web/20220101*/example.com",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://web.archive.org/web/*/sub.example.com/*",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://archive.is/example.com",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Not all websites are archived, and some pages may be missing. At worst, this can give a one-sided or inaccurate view of the chronology of events. Missing content can change everything – for example, a missing apology or correction could radically misrepresent the chain of events around a controversial statement online. Always make sure you have the whole picture before you proceed.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "is a cornerstone of OSINT investigations, but also a cornerstone of internet culture as a whole. Despite challenges, the Internet Archive remains a critical tool in the fight to safeguard our digital heritage. By utilizing it in OSINT practice, analysts showcase its utility. In a small way, this is ensuring that the internet's past is not lost to the future.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "To see examples of OSINT fighting misinformation, check out our Case Studies.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "それが後で振り返って検証しようというときに役立つはずだ",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "数年後、数十年後、数百年後にも検証可能な形で残す",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "IPアドレスが分かると5ちゃんねる等の過去ログと照合して「匿名投稿」と「note上の本人」を結びつけられる（＝デラノニマイズ／非匿名化）の危険が現実に指摘された",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる | Resixley Blog",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "でニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事は、連載「オールドメディアとネット時代の情報検証――認知戦・データサイエンス・OSINTから読み解く誤報と偏向報道【全10回】」の第7回である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第7回では、インターネット上の公開情報から事実を検証するOSINTの基本を解説する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このように、公開されている情報を収集し、照合し、分析する手法をOSINTと呼ぶ",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索、地図、画像、動画、公文書など、一般に公開されている情報を、再検証できる手順によって組み合わせる方法である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "こうした情報を収集し、整理し、別の情報と照合して、調査上の問いへ答える",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第4章 事実、主張、仮説を分ける",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでは、確認された事実と、投稿者の主張と、調査者の仮説を分けなければならない",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査者が「別の国の過去映像ではないか」と考えたなら、それは仮説である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事実、主張、仮説を混ぜると、検証前の推測が確定情報へ変わってしまう",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "自分自身の記憶違いを防ぎ、第三者が検証できる状態を作るためのものである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検証では、まず画像だけを見て、何が直接読み取れるかを記録する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第17章 動画検証は元動画を探すことから始まる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "あなたが今日、誰かのSNSプロフィール写真から撮影場所を特定したり、企業の登記情報から本当の経営者を調べたり、ニュースに流れた画像が本物かどうかを検証したりすることができると知ったら、どう感じますか？これらはすべて",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "8-1. 疑わしい画像・動画を検証する5ステップ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "戦争犯罪の証拠収集、政治家の虚偽発言の検証、フェイクニュースのファクトチェック",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "マッチングアプリ相手の身元確認、怪しい求人のチェック、フィッシング詐欺の検証",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "がパスワードも使い回していたことが判明しています（パスワードの使い回しはHave I Been Pwnedのデータ分析による推計）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ドメインに関連するメールアドレスの発見・検証",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "と呼ばれ、フェイクニュース検証・人道支援活動・戦争犯罪調査などで広く活用されています",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：言語・通貨・建築様式・車のナンバープレートのデザインから、国・地域を推定する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：SunCalcやShadow Calculatorを使い、画像内の影の方向・長さから撮影時刻を推定する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：Google Earth・Sentinel Hub・Planet Labsで現地の衛星写真を確認し、地上写真と一致するかを検証する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "セキュリティ研究者の調査によると、企業がセキュリティ担当者の求人票に「Fortinet製品の経験者歓迎」「Cisco ASAの運用経験」などと具体的に記載することで、攻撃者がその企業が使用している製品・バージョンを推定し、対応する既知の脆弱性を調べるケースが実際に報告されています",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "メールアドレス・パスワードの漏えいデータベース照合",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェイクニュースの検証（ファクトチェック）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "写真・動画の背景に映っている建物・看板・地形・標識などを手がかりに、Googleストリートビューや衛星写真で「本当にその場所で撮られたものか」を検証する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ジャーナリスト向けのOSINT・検証トレーニング資料",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ｜惣一郎さん",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、現在使えるウェブ魚拓サービスの種類と、それぞれの使い方をわかりやすく解説します",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "魚拓とはもともと魚の形を墨で紙に写し取る日本の伝統技法ですが、ウェブの世界でもページの「型」を取るイメージからこの名前が使われています",
+    "url": "https://note.com/zz08/n/ncd84a61a7641",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ブックマーク先が消えたときに試したい、Wayback Machineで過去のページを探す方法｜みなとHints｜暮らしの小さな発見(フォロバ100)",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ブックマーク先が消えたときに試したい、Wayback Machineで過去のページを探す方法",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ドメイン部分だけ入力して、トップページから目的ページを探す方法もある",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる | Resixley Blog",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "でニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "画像、動画、地図、衛星画像、天候記録、公文書、企業資料、ウェブアーカイブなどを組み合わせ、情報の出所、撮影場所、日時、変更履歴を確かめる方法を扱う",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索、地図、画像、動画、公文書など、一般に公開されている情報を、再検証できる手順によって組み合わせる方法である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何が確認でき、何が確認できていないかを分け、証拠を積み重ね、第三者が同じ手順を再現できるようにすることである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計を使っているなら、元の表と調査方法を見る",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "リバース画像検索は、画像を使って同じ画像や類似画像を探す方法である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "画像検索サービスは、それぞれ索引の範囲や検索方法が異なる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つの検索結果だけで判断せず、複数の方法を使うことが望ましい",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第三者が同じ資料へアクセスし、同じ手順を試せることが重要である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第52章 ツール名より手順が重要である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "問いに最も適した、確実な方法を選ぶことである",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第64章 OSINTを報道検証へ使う基本手順",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この手順を守れば、特別な技術がなくても、報道やSNS投稿の検証精度を高められる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTは合法的な「公開情報の調査」ですが、使い方によっては個人情報保護法・不正アクセス禁止法・ストーカー規制法などに抵触する可能性があります",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第2章：OSINTの基本フレームワーク——情報収集の「型」を学ぶ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "画像からの位置情報特定：ステップバイステップ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Wayback Machineの使い方：「削除された証拠」を復元する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第8章：OSINTの実践演習——フェイクニュースを見破る手順",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "8-1. 疑わしい画像・動画を検証する5ステップ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 1：逆画像検索で「初出」を確認する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 2：メタデータを確認する",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 3：動画の場合はInVID/WeVerifyを使う",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 4：地理的な整合性を確認する（ジオロケーション）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 5：時間的な整合性を確認する（クロノロケーション）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "10-1. レベル別の学習ステップ",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、図書館で得た情報を使って誰かを傷つけることが問題になるように、OSINTで得た情報の「使い方」には常に倫理的な判断が求められます",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "# Sherlockの使い方（コマンドライン）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "次のような手順で画像の撮影場所を特定できます",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ウェブブラウザで問題のページを表示させ、プリントアウトして、紙媒体で保存する方法です",
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ウェブブラウザで問題のページを表示させ、その表示画面自体を画像として保存する方法です",
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "問題となるウェブページの分量が多い場合、印刷や画面の画像保存の方法では手間がかかり過ぎることがあります",
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そこで、このような場合には問題となるウェブページを表示する一連の動作すべてをビデオカメラで撮影するなどして動画で保存する方法を用いることもあります",
+    "url": "https://sowasogo.jp/slanderdelete/delete06.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "まずは消されてしまったウェブ上の情報を探し出す方法をご紹介します",
+    "url": "https://d-jedi.jp/n/n90e111c11d23?gs=9f2bacdf03e5992d629cdabe86491227",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How to Conduct OSINT on the Wayback Machine",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Tracking the evolution of a website. Verifying historical claims or allegations. Gathering evidence for a legal or cybersecurity case. In all these scenarios and more, the Internet Archive is your unique window into the past. This guide explores how to make the most of it.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". This tool is instrumental in providing your key snapshots and analyzing changes over time. Let’s go through how to learn how to leverage this powerful resource to enrich your investigations with the historical digital footprints others might overlook.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How to Use OSINT Techniques for the Internet Archive",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "While the Internet Archive contains vast amounts of historical data at your fingertips, knowing how to efficiently extract the right intel is all-important. Here are some key OSINT techniques:",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How to find social media accounts by email",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Learn how to find social media accounts by email using manual searches and OSINT tools, verify profile matches, and protect privacy.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Reverse Email Lookup: How to Find Who's Behind Any Email Address",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Learn how to perform a reverse email lookup to uncover publicly available information linked to an email, including social media profiles, and usernames.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Learn how to uncover a subject's Google reviews using just a Gmail address. Reveal valuable location and behavioral data using manual OSINT techniques.",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "以前の記事では、推し活の観点からWayback Machineの利活用を書いたが、とかく「調査」が必要な場面において大活躍間違いなしなので、",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、全てのページが残っているわけではないので注意が必要です",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "保存操作は対象サイトのアクセスログに残るため、こっそり調査したい場合は注意してください",
+    "url": "https://note.com/minato_hints/n/n66753053b58f",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "こうした誤りは、誰にでも起こる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第15章 画像の解像度と圧縮に注意する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、影を使った分析には注意が必要である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第45章 検索結果のない情報にも注意する",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つの仮説だけで進めると、確証バイアスによって、それを支持する証拠だけを集めやすくなる",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「ほぼ間違いない」という表現を使うなら、何が未確認なのかを示す",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "誤りが判明したら、元の投稿を黙って削除するだけでは不十分である",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "・OSINT調査者にも、誤りを透明に訂正する責任がある",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "・誤りが判明した場合に訂正できる形で公開しているか",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "07:認知戦・認知バイアス",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "認知戦とは何か──情報戦・心理戦との違いと認知バイアスの基本",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人はなぜ偏った報道を信じるのか―脳科学と認知バイアスで読み解く情報操作",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "認知戦・認知バイアス・ストローマン論法──メディア、政治家、知識人が社会に及ぼす影響と対策【全7回・総合案内】",
+    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事では、OSINTの基本概念から具体的なツール・手法・実践例・倫理的な注意点まで、徹底的にわかりやすく解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事では、OSINTの基本概念から実践的なツール・手法・倫理的注意点まで、約20,000字にわたって解説しました",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "site:やfiletype:などの検索演算子で、公開されてしまった情報を探す方法と法律上の注意点が分かる",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "直すための更新にも落とし穴がある本体の弱点（CVE-2026-119977）",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", mistakes by the Australian Defence Force were exposed in",
+    "url": "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会図書館WARP ほか》｜調部（しらべ）",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会図書館WARP ほか》",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "多くは国などの公的機関が保存・公開に取り組んでいているが、民間で最も有名なのが、アメリカの非営利団体",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "である。世界中のさまざまなウェブページを保存・公開してくれている便利なサイトだ。",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これを使えば、消えてしまったサイトや更新されて見られなくなったコンテンツなどを見返すことができる。リンク切れでアクセスできなくなったURLも確認できるし、閉館した劇場や放送が終了した大河ドラマの公式サイトもよみがる。",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以前の記事では、推し活の観点からWayback Machineの利活用を書いたが、とかく「調査」が必要な場面において大活躍間違いなしなので、",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、Wayback Machine以外にもさまざまなウェブアーカイブがある。日本では、国立国会図書館が行っている",
+    "url": "https://note.com/shirabeshi/n/nee92b41d8cc1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-08T04:01:41.315557+00:00"
+}

@@ -7,9 +7,39 @@
  ],
  "context": "9 マテリアル ③革新的金属部素材",
  "kind": "market",
- "researched_at": "2026-11-07T03:50:48.851637+00:00",
+ "researched_at": "2026-11-08T03:59:43.734554+00:00",
  "evidence": {
   "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "BE, 熱疲労強度などの機械特性が要求きれる. このため",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "肉化が要求され, 従来のフェライト系では強度不足の",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "支援サービスには、信頼性を確保するための金属組織試験、認証、および故障解析が含まれます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "具体的には、原材料とその主要サプライヤー、製品の製造に要するコスト構成の内訳、製造プロセスの詳細な分析、および航空機エンジン用ニッケル基超合金の産業チェーン全体の構造が網羅されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ニッケル基超合金は、通常、1020℃以上の温度で使用されるため、非常に高度な材料技術が要求されます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "本記事で取り上げている耐熱鋼や耐熱合金などの金属以外にも、セラミックス、ガラス、樹脂など、それぞれの分野で耐熱性に優れる材料があり、用途や要求特性によって材料を選択する必要があります",
     "url": "https://www.tokkin.co.jp/media/technicalcolumn/2505210",
@@ -366,6 +396,66 @@
    }
   ],
   "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "D-3 や NTK S-4 \" といった米国 AISI 規格の 200 番系に",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機用ニッケル基超合金の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機用ニッケル基超合金の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空エンジン用ニッケル基超合金の欧州市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本インサイトレポートは、世界の航空機用ニッケル基超合金の市場動向を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、航空機用ニッケル基超合金市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、市場はタイプ（鍛造超合金、鋳造超合金、その他）、材料（Ni–Cr–Fe基、Ni–Mo–Fe基、その他）、および用途（民生用、軍事用）にセグメント化され、それぞれのセグメントにおける2021年から2026年までの売上高、市場シェア、収益、および販売価格の詳細な分析が提供されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業ごとの年間売上高、売上高市場シェア、年間収益、収益市場シェア、および販売価格が比較されます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国・地域ごとの市場状況が個別に扱われています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "AIデータセンター向け液冷市場規模、シェア、動向、2032年までの世界予...",
     "url": "https://www.dreamnews.jp/press/0000355962",
@@ -801,216 +891,102 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "経済（規模・価格・為替）": [
+  "政治（法・予算・規制）": [
    {
-    "quote": "3DプリンターとUVプリンターの複合機HeyGears「G1」、Kickstarterで32万円から",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "quote": "of heat-resistant properties have been suppressed. Recently, environmental regulations have become stricter, so heat-resistant",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "結合インダクタ市場規模は2026年440百万米ドル、成長率3.9%で拡大予測",
-    "url": "https://www.dreamnews.jp/press/0000355962",
+    "quote": "暗規制強化に対応した動きとして, 燃焼効率の向上に伴",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中流工程では、溶解・再溶解、インゴットおよびビレットの製造、粉末噴霧、熱処理、ならびに鋳造品、鍛造品、または積層造形によるプリフォームへの成形が行われ、これらは検査および認定試験によって支えられています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "培ったノウハウで企業支援 障がい者雇用に積極的に取り組んでいるネジ商社のコノエ（大阪府東大阪市、06・6746・1903）は、障がい者雇用に関する優良な中小事業者を厚生労働大臣が認定する「もにす認定」を取得",
+    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "リーチスタッカー市場規模分析レポート：2026年は549百万米ドルに到達予測",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "世界のウェーハレベルエージング試験装置市場規模、2026年401百万米ドルから2032年658百万米ドルへ拡大",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特殊ファスナーの世界市場（2026年～2032年）、市場規模（合金鋼、高品位ステンレス鋼、ニッケル基超合金、チタン合金、エンジニアリングプラスチック／複合材料）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "quote": "全体として、規制や安全基準の厳格化、航空宇宙・防衛分野の受注回復、新エネルギー車およびエネルギー貯蔵分野の拡大、ならびに過酷な作業環境（深海、極寒、高温、高腐食性環境）で使用される機器の増加により、世界のファスナー産業における特殊ファスナーの価値シェアは今後も拡大し続ける見込みである",
     "url": "https://www.atpress.ne.jp/news/3743444",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "特殊ファスナーの世界市場（2026年～2032年）、市場規模（合金鋼、高品位ステンレス鋼、ニッケル基超合金、チタン合金、エンジニアリングプラスチック／複合材料）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/3743444",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "世界の特殊ファスナー市場規模は、2025年の51億1000万米ドルから2032年には63億1600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.1％で成長すると見込まれています",
-    "url": "https://www.atpress.ne.jp/news/3743444",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2024年、世界の特殊ファスナーの生産量は36億2000万個に達し、平均販売価格は1トンあたり1.4米ドルでした",
-    "url": "https://www.atpress.ne.jp/news/3743444",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「特殊ファスナー産業予測」では、過去の売上実績を検証し、2025年の世界の特殊ファスナー総売上高を分析するとともに、2026年から2032年までの予測売上高について、地域および市場セクター別の包括的な分析を提供しています",
-    "url": "https://www.atpress.ne.jp/news/3743444",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第2章には、世界の特殊ファスナー市場の概要、2021年から2032年までの世界年間売上、2021年、2025年、2032年における地理的地域および国別の現在と将来の分析が収録されています",
-    "url": "https://www.atpress.ne.jp/news/3743444",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、合金鋼、高品位ステンレス鋼、ニッケル基超合金、チタン合金、エンジニアリングプラスチック/複合材料などのタイプ別の特殊ファスナーセグメント、およびタイプ別の売上、収益、販売価格とその市場シェア（2021-2026年）の分析が含まれます",
-    "url": "https://www.atpress.ne.jp/news/3743444",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模は、機械統計にないため不明だが、主な超硬工具、特殊鋼工具メーカーに聞くと、「年間売上高の数％を占める」とするところもあれば、「現在５、６％を占め、航空機向けに加え自動車、家庭用燃料機器向けなど利用範囲が拡大中」とするところもある",
+    "quote": "培ったノウハウで企業支援 障がい者雇用に積極的に取り組んでいるネジ商社のコノエ（大阪府東大阪市、06・6746・1903）は、障がい者雇用に関する優良な中小事業者を厚生労働大臣が認定する「もにす認定」を取得",
     "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ニオブ C-103の世界市場（2026年～2032年）、市場規模（Nb-10Hf-1Ti 合金、Nb-Hf-Ti 耐火合金）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本資料には、ニオブ C-103の世界市場規模、市場動向、セグメント別予測（Nb-10Hf-1Ti 合金、Nb-Hf-Ti 耐火合金、その他）、関連企業の情報などが盛り込まれています",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "世界のニオブC-103市場規模は、2025年の4,451万米ドルから2032年には8,517万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.6%で成長すると見込まれています",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年、世界のニオブC-103の生産量は約35トンに達し、世界平均市場価格は約1,300米ドル/kgでした",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "原材料（高純度ニオブ、ハフニウム、チタン）は総コストの55～65％を占め、世界の鉱石価格や輸入コストに連動していますが、機械的な粉末混合により原材料コストを大幅に削減することが可能です",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本インサイトレポートは、ニオブC-103の世界的な見通しを形作る主要な市場動向、推進要因、および影響要因を評価し、化学組成、用途、地域、市場規模ごとに予測を細分化することで、新興のビジネスチャンスを浮き彫りにします",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国市場規模（2021-2026年）",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "カナダ市場規模（2021-2026年）",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メキシコ市場規模（2021-2026年）",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ブラジル市場規模（2021-2026年）",
-    "url": "https://www.atpress.ne.jp/news/4875929",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3.3メーカー別平均価格（2019～2024年）",
+    "quote": "DX認定を取得した宮崎AIギルウド、...",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "YHResearchの調査によると、世界市場規模は2025年の375億5,000万米ドルから2032年には466億1,000万米ドルへ拡大し、2026～2032年のCAGRは3.2%と予測されています",
+    "quote": "地政学的リスク、輸出政策、環境規制による生産制限は、調達コストや納期に影響を与えるため、調達先の分散とリサイクル原料の活用が重要です",
     "url": "https://www.dreamnews.jp/press/0000367015",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "3. 世界市場規模と2026年の業界動向",
+    "quote": "DX認定を取得した宮崎AIギルウド、...",
     "url": "https://www.dreamnews.jp/press/0000367015",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "YHResearchの予測では、世界市場規模は2025年の375億5,000万米ドル、2026年の386億8,000万米ドルから、2032年には466億1,000万米ドルへ成長する見通しです",
-    "url": "https://www.dreamnews.jp/press/0000367015",
+    "quote": "弊社自らが経験することで得た”WEBの集客力向上”、”補助金申請支援”をはじめとしたノウハウを惜しまず展開しております",
+    "url": "https://www.imahashi-ss.jp/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "水素製造市場規模は2030年までに2,387.9億ドルに達し、CAGR7.6%で成長",
-    "url": "https://www.dreamnews.jp/press/0000367015",
+    "quote": "『事業再構築補助金(通常枠)』の採択を受けました(経済産業省)",
+    "url": "https://www.imahashi-ss.jp/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Ni-based Superalloys Market Size, Share, Insights, Competitive Landscape, and Forecast 2026 to 2033",
+    "quote": "Defense and space propulsion create a strategic revenue pool for Ni-based superalloy producers. Governments are increasing spending on military aircraft, missiles, drones, and space launch systems.",
     "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "The global Ni-based superalloys market size is expected to be valued at US$ 10.35 billion in 2026 and projected to reach US$ 18.92 billion by 2033, growing at a CAGR of 9.0% between 2026 and 2033.",
+    "quote": "use nickel superalloys in turbopumps and combustion chambers, often produced with additive manufacturing. Governments in the",
     "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "US$ 1 billion",
+    "quote": "fund domestic capacity to reduce reliance on foreign suppliers. Defense ministries, prime contractors, and space companies are the main customers. Long-term government-backed contracts provide stable, high-margin revenue for qualified suppliers.",
     "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "スーパー合金の日本市場（2026年～2034年）、市場規模（航空宇宙、産業用ガスタービン、自動車、石油・ガス、産業用）・分析レポートを発表 | NEWSCAST",
+    "quote": "政府機関による軍事費の増加、および材料科学に関する数多くの研究活動が、主に市場成長を牽引しています",
     "url": "https://newscast.jp/news/7875080",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "スーパー合金の日本市場（2026年～2034年）、市場規模（航空宇宙、産業用ガスタービン、自動車、石油・ガス、産業用）・分析レポートを発表",
+    "quote": "機器の耐久性と安全性を確保するための政府規制も、高品質な超合金の採用を促進する上で役割を果たしており、これがもう一つの重要な成長促進要因となっています",
     "url": "https://newscast.jp/news/7875080",
     "pass": 3,
     "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本における超合金市場規模は、2025年に6億9,730万米ドルに達しました",
-    "url": "https://newscast.jp/news/7875080",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本調査会社は、2034年までに市場が12億9,600万米ドルに達し、2026年から2034年の予測期間中に年平均成長率（CAGR）7.13%を示すと予測しています",
-    "url": "https://newscast.jp/news/7875080",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なぜ1万円台でロボットを配るのか？NVIDIAが2兆円で買ったハギングフェイスの歴史",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
    },
    {
     "quote": "予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門",
@@ -1019,241 +995,37 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "大学生時代にカジノサークルで稼いだ1億円で起業、世界的ソフトウェアを生み出した男の話",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "世界のニッケル合金市場動向、年平均成長率6.1%で拡大継続2026-2032 | QY Research株式会社のプレスリリース",
+    "quote": "環境規制の強化に対応した低炭素製造プロセスや、スクラップ再資源化による循環型生産体制の整備も企業競争力を左右する重要なテーマとなっている",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "世界のニッケル合金市場動向、年平均成長率6.1%で拡大継続2026-2032",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "QYResearch調査チームの最新レポート「ニッケル合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、ニッケル合金の世界市場は、2025年に10660百万米ドルと推定され、2026年には11240百万米ドルに達すると予測されています",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）6.1%で推移し、2032年には16040百万米ドルに拡大すると見込まれています",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "本記事は、QY Research発行のレポート「ニッケル合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "プレスケールフィルム業界動向：2026年の市場規模は192百万米ドル見込み",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "全自動ソフトパックティッシュ包装機の世界市場規模：2026年は391百万米ドルに達する見込み",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "※本会の維持員社員が同一講座に 3 名以上でお申込みの場合、受講料が正員価格より 25% 割引となります（お申込み前にご相談下さい）",
-    "url": "https://jimm.jp/event/online/ondemand/026.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "二元 Ti-Al 合金市場規模推移：2026年4461百万米ドルから2032年8322百万米ドルへ拡大 | NEWSCAST",
-    "url": "https://newscast.jp/smart/news/2494475",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "二元 Ti-Al 合金市場規模推移：2026年4461百万米ドルから2032年8322百万米ドルへ拡大",
-    "url": "https://newscast.jp/smart/news/2494475",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "QY Research株式会社は「二元 Ti-Al 合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」の調査レポートを発表しました",
-    "url": "https://newscast.jp/smart/news/2494475",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "二元 Ti-Al 合金の世界市場規模は2025年に4061百万米ドルに達し、2026年には4461百万米ドルに拡大すると予測されております",
-    "url": "https://newscast.jp/smart/news/2494475",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2026年から2032年の期間においては、11.0%の年平均成長率（CAGR）を維持し、最終的に2032年の市場規模は8322百万ドルに達すると予測されております",
-    "url": "https://newscast.jp/smart/news/2494475",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "耐熱合金の世界市場2025年、グローバル市場規模（鉄系超合金、ニッケル系超合金、コバルト系超合金）・分析レポートを発表 | 株式会社マーケットリサーチセンターのプレスリリース",
+    "quote": "地域別の分析では、北米およびヨーロッパは、政府による技術革新の推進政策や環境・安全への意識向上を背景に、安定した市場拡大を見せています",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "耐熱合金の世界市場2025年、グローバル市場規模（鉄系超合金、ニッケル系超合金、コバルト系超合金）・分析レポートを発表",
+    "quote": "政府の規制や支援政策、技術革新、消費者の嗜好、そしてサステナビリティ重視の流れが、業界全体の成長ドライバーとして機能しています",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "予測期間中の年平均成長率（CAGR）は5.6％と堅調な伸びが予測されています",
-    "url": "https://www.dreamnews.jp/press/0000326042",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "1.5世界市場規模と予測",
-    "url": "https://www.dreamnews.jp/press/0000326042",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "1.5.3世界平均価格（2019～2030年）",
-    "url": "https://www.dreamnews.jp/press/0000326042",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "（以下、すべての企業について共通構成：企業情報、主力事業、耐熱合金製品とサービス、販売数量・平均価格・収益・粗利率・市場シェア（2019～2024）、最新動向）",
-    "url": "https://www.dreamnews.jp/press/0000326042",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Explore the Global Superalloys Market — analysis of key trends, regional growth, top players, and a 10-year forecast from 2026 to 2036.",
+    "quote": "Government Statistics Portals and Public Data Releases",
     "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "CAGR (2026 to 2036)",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "USD 9.40 billion",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "USD 10.20 billion",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "USD 23.06 billion",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "CAGR. Based on Future Market Insights analysis, the market is set to add an incremental opportunity worth USD 12.86 billion over the forecast period. As per FMI, the procurement landscape for superalloys is being reshaped by evolving specification requirements, regional capacity investments, and shifting end-use demand patterns across established and emerging buyer segments.",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Across tracked geographies, China sets the pace at 11.50% CAGR. India follows at 10.60%. Germany follows at 9.80%. Brazil follows at 8.90%. USA follows at 8.10%. UK follows at 7.20%. Japan follows at 6.40%.",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "11.50% compound growth, supported by domestic capacity expansion and rising consumption.",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Top Country Growth Comparison Superalloys Market Cagr (2026 2036)",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Top 10 Superalloys Market Companies 2026 Size & Growth",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "USD 7.82 Billion in 2025",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "CAGR of 9.00%",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "USD 22.44 Billion by 2034",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Market Size (2025)",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "USD 7.82 Billion",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Projected Market Size (2034)",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "USD 22.44 Billion",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "CAGR (2025–2034)",
-    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
   ],
   "検索結果の抜粋": [
+   {
+    "quote": "航空機エンジン用ニッケル基超 合金 の世界市場（ 2026年 ... — 航空機エンジン用ニッケル基超 合金 の世界市場（ 2026年 ... Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "高合金取扱材質 （3） 耐熱合金 — 高合金取扱材質 （3） 耐熱合金 同和鍛造株式会社 PDF https://dowa-forging.co.jp > 2020/10 > metal_03",
     "url": "https://dowa-forging.co.jp/wp-content/uploads/2020/10/metal_03.pdf",
@@ -1369,33 +1141,1017 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
+  "技術（新しい技術・実証）": [
    {
-    "quote": "Top Superalloy for Oil & Gas Manufacturers: Ranking and ... Top Superalloy for Oil & Gas Manufacturers: Ranking and ... LinkedIn https://www.linkedin.com > pulse > to...",
-    "url": "https://www.linkedin.com/pulse/top-superalloy-oil-gas-manufacturers-ranking-profiles-delvoriac-djuue",
+    "quote": "boilers and turbines of thermal energy plants, engine parts of cars/aircraft/ships, garbage incinerators, heat-treatment furnaces,",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "SH, 合金が開発されてきた. しかし, 希少元素の生産地",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "省資源型耐熱材料の開発としては, 第2 次世界大戦中",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "終戦間際にネ 20 というジェットエンジンを開発し, HG",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "設計, 材料開発がなされているともいえる. コスト低減",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "* 大同特殊鋼帆技術開発研究所 (Corporate Research & Development Center, Daido Steel Co., Ltd.)",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Corporation の登録商標) など合金を開発した会社のブ",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "熱材料が開発されている \"“『. いずれの材料もそれぞれ",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "にて特長と開発動向について述べることとする.",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Table 1. Chemical compositions and main applications of typical heat-resistant steels and alloys.",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3Dプリンターで作る持ち運べるGridfinity収納ボックス、片手で開けられるラッチや引き出しスライドを備えたV2が公開",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "音楽に反応して光るLEDパネル付きジュークボックス、ラズパイと3Dプリンターで製作",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中流工程では、溶解・再溶解、インゴットおよびビレットの製造、粉末噴霧、熱処理、ならびに鋳造品、鍛造品、または積層造形によるプリフォームへの成形が行われ、これらは検査および認定試験によって支えられています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本インサイトレポートは、世界の航空機用ニッケル基超合金の市場動向を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第13章には、ATI Materials、Precision Castparts Corporation、Carpenter Technologies、Haynes、Aperam、Proterial、Aubert & Duval、Doncasters、VDM Metals、Nippon Yakin Kogyo、CMK Group、Special Metals Corporation、Fushun Special Steel、CISRI Gaona、Zhongke Sannai、Western Superconducting Technologies、Jiangsu Longda Superalloyを含む17の主要企業の詳細な分析が掲載されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "新しい合金成分の開発や、ナノ構造の制御、表面処理技術などが注目されており、これにより材料の耐久性や高温強度をさらに改善することが期待されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その多様な用途と優れた特性により、今後も新しい技術や材料の開発が進み、航空機エンジンの性能をさらに高めることが期待されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "腱駆動の軟性ロボットを2パラメータで制御——IITGが誤差1%以下の新手法を開発",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "独研究機関、EVバッテリーの容量を2.5倍に高める新素材を開発中——柔らかい布でシリコンの弱点を克服",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【無料・使い放題】MiniMaxの動画生成AI「H3」を開放 1文で音声付き動...",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "DSALOYX-750と同様な析出強化型Ni-Cr耐熱合金で、内燃機関の排気バルブ用として開発されました",
+    "url": "https://www.daido.co.jp/products/superalloy/heat/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最近では、次世代航空機や電動車両の需要増加に伴い、耐熱合金の需要も高まり、加工現場では最適な工具選定が課題となっています",
+    "url": "https://www.dijet-tool.com/media/column/a100",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイジェット工業では、耐熱合金加工に最適化された超硬工具を開発・提供しています",
+    "url": "https://www.dijet-tool.com/media/column/a100",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※耐熱鋼には、耐熱鋼のみの規格である鋼種SUH（Steel Use Heat Resisting）と耐熱用途としてよく使用されるステンレス鋼SUS（Steel Use Stainless）が規定されています",
+    "url": "https://www.tokkin.co.jp/media/technicalcolumn/2505210",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長年培った知見や日々寄せられるお客様からのご相談を元に、技術開発と営業が連携してお客様の疑問や課題解決に役立つ情報を発信しています",
+    "url": "https://www.tokkin.co.jp/media/technicalcolumn/2505210",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "試作 (8)",
+    "url": "https://www.tokkin.co.jp/media/technicalcolumn/2505210",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "祖父が彫った木製の仮面を2D図面からBlenderで再現、3Dプリンターで出力",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "開発効率が飛躍的向上、OpenAIが「GPT-5」をリリース 計算効率は従来比70-80%改善",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIデータセンター向け液冷市場規模、シェア、動向、2032年までの世界予...",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "切削工具メーカーは耐熱性や耐摩耗性に優れ、かつ欠損しにくい靭性を兼ね備えた耐熱合金用工具の開発を進める",
+    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各メーカーが開発に力を入れる中、最新の耐熱合金用工具を紹介する",
+    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同製品は「難削材加工で切削条件を上げ、工具寿命も伸ばしたい」というユーザーの声を形にするため開発された",
+    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「高い加工安定性で高能率加工を行える肩削り工具」をコンセプトに、独自形状のインサートを開発し、高剛性で多刃な工具設計を可能にした",
+    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "独自開発インサートは、底面にＶ字形状を採用し、ボディの心厚とバックメタルを増加させた",
+    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造プロセス別では、冷間圧造/冷間成形、熱間圧造/ダイ鍛造、精密機械加工、積層造形別の特殊ファスナーセグメント、およびその売上、収益、販売価格とその市場シェア（2021-2026年）の分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/3743444",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に新しい合金やプラスチック材料の開発により、特殊ファスナーの性能は向上し続けています",
+    "url": "https://www.atpress.ne.jp/news/3743444",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本外科用顕微鏡市場は2035年に1億8,760万米ドルに到達、CAGR 11.21％で成長｜脳神経外科・眼科・形成外科における高解像度イメージングとロボット支援手術の進展が需要を牽引",
+    "url": "https://www.atpress.ne.jp/news/3743444",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フィッシングブランド「DAIWA」が展開する",
+    "url": "https://www.atpress.ne.jp/news/3743444",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アパレルライン『DAIWA247』ラゾーナ川崎プラザにて",
+    "url": "https://www.atpress.ne.jp/news/3743444",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "切削工具メーカーは、製品・技術開発に凌ぎを削っている",
+    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米国や英国など５カ国のメーカー７社（日本はＩＨＩ、川崎重工業、三菱重工業の３社）で共同開発した中型旅客機のターボファンエンジンＶ２５００の生産は、エアバス３２０やボーイングＭＤ９０に搭載され、これまでに６０００機にのぼる",
+    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このベストセラー機、Ｖ２５００は今、米プラット・アンド・ホイットニー（Ｐ＆Ｗ）の新型エンジンＰＷ１１００Ｇに引き継がれ、ＩＨＩ、川崎重工業、三菱重工業の３社では日本航空機エンジン協会（ＪＡＥＣ）を通じて共同開発が進められている",
+    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本航空機開発協会（ＪＡＤＣ）のジェット旅客機の需要予測（２０１５年３月時点）によると、「20席以上のジェットエンジン旅客機の生産は１万９２０８機、20年後の２０３３年にはロードファクターの増加、機材の生産性向上もあり、現在の１．９倍、３万６７６９機」を予測する",
+    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "切削工具メーカー各社が耐熱鋼向け工具を開発している背景はここにある",
+    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ジェットエンジンは、タービン入口ガス温度が高いほど効率や比推力が良くなるため、燃焼室やタービン、排気系統には主に耐熱合金が使われ、ジェットエンジンの進歩は、これら耐熱合金の開発に掛かっているといわれている",
+    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIデータセンター向け液冷市場規模、シェア、動向、2032年までの世界予...",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ラズパイ Zero 2 Wで音声AIアシスタントを製作、ボタンを押して話しかけるとOpenClaw経由で応答",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Superalloy Manufacturing Solutions Corporation | LinkedIn Superalloy Manufacturing Solutions Corporation | LinkedIn LinkedIn https://www.linkedin.com > company",
-    "url": "https://www.linkedin.com/company/superalloy-manufacturing-solutions-corporation",
+    "quote": "使用済み電池から純度80％で金属回収、SLACが複数AIに探索させる",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "加工・精錬（真空アーク再溶解、積層造形）は20～25％を占め、高度な設備を必要とする",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "残りの2～8％は間接費であり、高い技術的ハードルに起因する管理、物流、研究開発などが含まれる",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ビジネスチャンスは、ハイエンド産業向けの高純度製品の生産、コスト削減のための先進的な加工技術の開発、供給の安定化と受注確保のための協力関係の拡大、そして国内企業の強みを活かした世界市場の拡大と技術的独占の打破にある",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ニオブC-103は、その優れた耐熱性能からエンジンノズルや燃焼室に広く使用されており、例えば米国では、SLM（選別積層造形）法で製造されたC-103合金製エンジンノズルの適用に成功しています",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本インサイトレポートは、世界のニオブC-103市場の包括的な分析を提供し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、M&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Transform Material Technology",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Litai No-nferrous Metals",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、化学組成（Nb-10Hf-1Ti合金、Nb-Hf-Ti耐熱合金、その他）、性能カテゴリ（高温耐性合金、高強度延性合金）、製造プロセス（真空アーク溶解（VAR）合金、積層造形（SLM）合金）、およびアプリケーション（航空宇宙・防衛、医療、半導体、エネルギー、その他）ごとのニオブ C-103の販売量、収益、市場シェア、販売価格（2021年から2026年まで）に関する詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Advanced Powders and Coatings (AP&C)、Materion、ADDMAN、Elmet Technologies、Elmet Additive、Admat、Western Alloys、Raytec Metal、Yunch Titanium、Transform Material Technology、Litai No-nferrous Metalsといった各企業について、会社情報、ニオブ C-103の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、および最新の動向が個別に詳細に記述されています",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今後の研究開発では、ニオブC-103の特性をさらに向上させるための試みが続けられており、より高性能な超伝導体の開発が期待されています",
+    "url": "https://www.atpress.ne.jp/news/4875929",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DX認定を取得した宮崎AIギルウド、...",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【公式】NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～ - 展示会概要｜カンファレンス(セミナー・フォーラム)や特別企画(イベント)も多数開催",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～ - 展示会概要",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【公式】NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ガスタービン、タービン部品加工（鋼板、耐熱合金などの難削材加工など）、タービン構成部品（ブレード、ベーン、ディスク、ケースなど）、タービン設計・開発支援ツール、廃熱回収ボイラ、各種発電機 …など",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コーポレート戦略本部 コーポレート事業開発統括部 水素事業開発部 事業・営業企画課 主事 様",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次世代エネルギー本部水素インフラ開発部部長",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次世代 火力とは、従来の燃料である石炭や天然ガスなどではなく、水素やアンモニアを活用する火力発電です",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこで、燃焼時にCO2を排出しない、「究極のクリーンエネルギー」と呼ばれる水素（アンモニアも水素エネルギーのひとつ）を活用した火力発電が、次世代 火力発電です",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在はまだ実証段階にあり、実用化に向けた技術開発が必要ですが、カーボンニュートラルに貢献する次世代エネルギーとして注目されています",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デジタル発電所とは、発電所内のオペレーションや性能管理、設備のメンテナンスなどの様々な業務に関してIoTやAIを活用し、データとして取得する発電所のことです",
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "用途に応じたクロムフリー材料や環境配慮型耐火物への転換が、製品開発の重要な方向性となっています",
+    "url": "https://www.dreamnews.jp/press/0000367015",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に、電炉化、低炭素製造、リサイクル、設備のデジタル監視は、製品開発と企業間競争に影響する重要なテーマです",
+    "url": "https://www.dreamnews.jp/press/0000367015",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Email：info@yhresearch.com",
+    "url": "https://www.dreamnews.jp/press/0000367015",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DX認定を取得した宮崎AIギルウド、...",
+    "url": "https://www.dreamnews.jp/press/0000367015",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "試作、切削加工、短納期対応の今橋製作所",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "試作、難削材、複雑形状、短納期対応の切削加工メーカー",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "開発を含む試作から小・中ロット、量産まで適正品質かつ短納期での対応",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自由曲面のある３D形状や複雑形状の加工、インコネルなどの耐熱合金材の加工など豊富経験と実績で試作支援を行っています",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "試作 無酸素銅 3D形状",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "水力 試作 SUS304 3D加工",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自動車開発 アルミ加工 3D形状 試作",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "カバー 薄肉加工 試作 SUS304",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3D切削 ロボットアーム FA機器 試作",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Vice-President of International Affairs,",
+    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Satoshi Utada｜NIMS Researchers Directory Service -SAMURAI-",
+    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It will be shown that W and Mo induce acidic hot corrosion leading to extensive attacks in equiaxed Rene77 and directionally solidified DS200. In low cost single crystal AM1 superalloy, the microstructure (as-cast vs. fully heat treated) plays a significant role whereas in advanced Pt-containing TROPEA single crystal, Pt is shown to act as catalyst for sulfidation.",
+    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this view, conventional out-of-pack aluminide coatings are shown to protect against corrosion while the positive protective effects are far more marked in Simodified slurry aluminide coatings.",
+    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "E-mail:rcsm_info=nims.go.jp([=]→[@])",
+    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Vice-President of International Affairs,",
+    "url": "https://www.nims.go.jp/rcsm/news/2026/202611161.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It will be shown that W and Mo induce acidic hot corrosion leading to extensive attacks in equiaxed Rene77 and directionally solidified DS200. In low cost single crystal AM1 superalloy, the microstructure (as-cast vs. fully heat treated) plays a significant role whereas in advanced Pt-containing TROPEA single crystal, Pt is shown to act as catalyst for sulfidation.",
+    "url": "https://www.nims.go.jp/rcsm/news/2026/202611161.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIが数週間で3Dプリント向け耐熱合金を6種発見、1000℃の酸化を85％抑制 - FabScene（ファブシーン）",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "SeAH Superalloy Technologies | LinkedIn SeAH Superalloy Technologies | LinkedIn LinkedIn https://www.linkedin.com > company",
-    "url": "https://www.linkedin.com/company/seahsuperalloys",
+    "quote": "AIが数週間で3Dプリント向け耐熱合金を6種発見、1000℃の酸化を85％抑制",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Why Use Nickel-Base Superalloys for Heat and Corrosion ... Why Use Nickel-Base Superalloys for Heat and Corrosion ... LinkedIn https://www.linkedin.com > pulse > w...",
-    "url": "https://www.linkedin.com/pulse/why-use-nickel-base-superalloys-heat-corrosion-resistance-sable",
+    "quote": "カナダのトロント大学の研究チームが、AIとロボットを組み合わせた実験装置を使い、金属3Dプリンターで造形できる耐熱合金を6種類見つけた",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レーザーで溶かして積む金属3Dプリンターに向く組成となると、さらに絞り込みが要る",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究チームは、この探索をAIに任せた",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使ったのは能動学習と呼ぶ手法で、計算モデルと機械学習、ロボットによる製造・試験を組み合わせ、人の手をほとんど介さずに次に試す組成を決めていく",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "U of T Engineering: Self-driving lab leverages AI to develop tough new 3D-printable metal alloys",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "編み地そのものが3種のスイッチに、ハーバード大が歩数計と自転車で実証",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上海交通大学が1.7mmで全方向の力を測る光学式触覚センサーを開発",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "表情豊かなロボットほどミスで信頼を失う、米ドレクセル大が脳とホルモンで確認",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年はγ'析出強化技術や単結晶・一方向凝固技術、高純度溶解技術の進歩により、800℃を超える高温環境でも長期間使用できる製品開発が進み、積層造形（3Dプリンティング）との組み合わせによる高付加価値部材の実用化も加速している",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニッケル合金は航空宇宙、エネルギー、化学プラント、新エネルギー、自動車など幅広い産業で不可欠な基幹材料であり、近年はAIサーバー向け設備や水素関連インフラへの採用も進んでいる",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "航空機需要の回復に伴い、次世代エンジンや保守・交換部品向けの耐熱合金需要が増加している",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に積層造形技術を活用した複雑形状部品の製造は、材料歩留まりの改善と製造期間短縮を実現する技術として注目されている",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主要メーカーにはVDM Metals、Special Metals Corporation、ArcelorMittal、Carpenter Technology、Aperam（Imphy Alloys）、ATI、Proterial Metals、Nippon Yakin、Sumitomo、Haynes Internationalなどが挙げられ、高性能耐熱合金や特殊用途材料の開発競争が続いている",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後は航空宇宙・水素エネルギー・半導体製造装置向け高機能材料が市場成長を牽引するとともに、積層造形対応材料や高リサイクル性合金への研究開発が、新たな競争優位性を生み出す重要な要素になると考えられる",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E-mail：japan@qyresearch.com",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GMKtec、Ryzen AI Max+ PRO 495搭載ミニワークステーション「EVO-X5 Pro...",
+    "url": "https://www.dreamnews.jp/press/0000355962",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大同特殊鋼が開発した『DSA3015』は、析出硬化型オーステナイト系の",
+    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "東北大学、日本発条、 SII 、エイワが共同で耐熱バネ用材料として開発した合金です！",
+    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当社は、従来からの超硬刃具に加え、セラミック刃具による自社開発の",
+    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "■5軸加工機と自社開発の小径工具で高精度に加工",
+    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "耐熱材料は、その耐熱性向上・長寿命化に向けた長年の研究開発により、火力発電タービン・航空機エンジン等の熱機関や化学石油プラント等の反応装置の効率向上にこれまで貢献してきました",
+    "url": "https://jimm.jp/event/online/ondemand/026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E-mail: meeting@jimm.jp",
+    "url": "https://jimm.jp/event/online/ondemand/026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エネルギー資源学会、応用物理学会、金属系材料研究開発センター、軽金属学会、軽金属製品協会、合金状態図研究会、資源・素材学会、ステンレス協会、素形材センター、電気化学会、電気学会、日本アルミニウム協会、日本MRS、日本化学会、日本ガスタービン学会、日本機械学会、日本材料科学会、日本材料学会、日本磁気学会、日本セラミックス協会、日本塑性加工学会、日本チタン協会、日本鋳造工学会、日本鉄鋼協会、日本物理学会、日本分析化学会、粉体粉末冶金協会、腐食防食学会、表面技術協会、日本チタン学会、日本バイオマテリアル学会",
+    "url": "https://jimm.jp/event/online/ondemand/026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "試作、難削材、複雑形状、短納期対応の切削加工メーカー",
+    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "試作 無酸素銅 3D形状",
+    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "短納期 試作支援",
+    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代高温構造材料として研究開発が進められている",
+    "url": "https://newscast.jp/smart/news/2494475",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "二元 Ti-Al 合金分野における代表的企業：ATI、 VSMPO-AVISMA、 Precision Castparts Corp、 Western Superconducting、 Howmet Aerospace (Alcoa)、 carpentertechnology、 DaidoSteel、 AMG、 KBMAffilips、 Timet、 Special Metals Corporation、 Norsk Titanium、 Aperam Alloys Imphy、 Kobe Steel, Ltd. (Kobelco)",
+    "url": "https://newscast.jp/smart/news/2494475",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本レポートは、耐熱合金の産業チェーンの発展、市場の現状、主要企業の動向、最新技術、特許、応用分野、そして市場トレンドに関する分析を含んでいます",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "● Carpenter Technology Corporation",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "● Beijing Cisri-Gaona Materials & Technology",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年では、積層造形（3Dプリンティング）対応材料や、ニッケル・コバルトをベースとした高性能合金、ナノ結晶技術の応用が進められています",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高機能化・高効率化を求められる現代社会において、その重要性はますます高まっており、本レポートは市場戦略の立案、研究開発、サプライチェーン構築などにおいて極めて有用な資料となっています",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2.5CarpenterTechnologyCorporation",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2.13BeijingCisri-GaonaMaterials&Technology",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後も新しいエネルギー技術や次世代輸送機器の発展に伴い、耐熱合金の重要性は一層高まっていくと考えられます",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ミリ波AiPモジュールの世界市場2026年、グローバル市場規模（通信用アンテナ内蔵モジュール、レーダー用アンテナ内蔵モジュール、位相配列アンテナ内蔵モジュール）・分析レポートを発表",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GMKtec、Ryzen AI Max+ PRO 495搭載ミニワークステーション「EVO-X5 Pro...",
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "座長:余 浩(東北大学)、川岸 京子(国立研究開発法人物質・材料研究機構)",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(1. 早稲田大学、2. 国立研究開発法人 物質・材料研究機構)",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(1. 国立研究開発法人 物質・材料研究機構)",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "[技術賞受賞講演]環境改善に貢献する各種耐熱鋼および耐熱合金の開発",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "IN738LCレーザ粉末床積層造形体に生じる割れ分布の熱処理温度依存性",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI for Science",
+    "url": "https://materialsfutures.org/news/12182",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": ". Unlike typical grain boundaries that migrate over time at high temperatures, this complexion acts as a structural stabilizer, maintaining the nanocrystalline structure, preventing grain growth and dramatically improving high-temperature performance.",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "This Cu-Ta-Li alloy combines copper’s exceptional heat and electrical conductivity while remaining strong and stable at extreme temperatures.",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Patent, Funding and Future Work",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The U.S. Army Research Laboratory was awarded a U.S. patent (US 11,975,385 B2) for the alloy, highlighting its strategic significance, particularly in defense applications like military heat exchangers, propulsion systems and hypersonic vehicles.",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "This research was supported by the U.S. Army Research Laboratory, the National Science Foundation, and the Lehigh University Presidential Nano-Human Interfaces (NHI) Initiative, which fosters innovation in nanotechnology. Lehigh’s longstanding partnership with ARL, spanning more than a decade, has been instrumental in pushing the boundaries of materials science.",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "“This project is a great example of how federal investment in fundamental science drives American leadership in materials technology,” Harmer said. “Scientific discoveries such as this are key to strengthening national security and fueling industrial innovation.”",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Disclaimer:",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Grain boundaries",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "/Physical sciences/Materials science/Materials engineering/Microstructures/Grain boundaries/",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Grain boundary migration",
+    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究業績一覧 | 高田 裕治 | SAMURAI - NIMS Researchers Directory Service",
+    "url": "https://samurai.nims.go.jp/profiles/takata_yuji/publications?locale=ja",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SAMURAIについて",
+    "url": "https://samurai.nims.go.jp/profiles/takata_yuji/publications?locale=ja",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特許から探す",
+    "url": "https://samurai.nims.go.jp/profiles/takata_yuji/publications?locale=ja",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
   ],
   "顧客（金を払う側）": [
+   {
+    "quote": "ていたため量産に至らなかったことが知られている. ま",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "メーカーで規格に登録きれていないさまざまな新しい耐",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "可能なオーステナイト系を採用するとともに, 熱療労",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "を組み合せた2 重管構造にて解決したエキマニが採用",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "れぞれ使われた『\". 日本は戦前より欧米の技術を導入し",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "たが, 特に右ハンドル車のイギリスから技術を導入し",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "の調達が困難になったことから『\", Niの代わりにMn",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "マンスに優れるため, 日本にも導入されて SUH35 EL",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本資料には、航空機エンジン用ニッケル基超合金の世界市場規模、市場動向、セグメント別予測（鍛造超合金、鋳造超合金、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空エンジン用ニッケル基超合金の世界的な主要企業には、ATI Materials、Precision Castparts Corporation、Carpenter Technologies、Haynes、Aperamなどが含まれます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本インサイトレポートは、世界の航空機用ニッケル基超合金の市場動向を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、本レポートでは、航空機エンジン用ニッケル基超合金のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な航空機エンジン用ニッケル基超合金市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、航空機用ニッケル基超合金市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下に紹介する企業は、主要な専門家からの情報および各社の事業範囲、製品ポートフォリオ、市場浸透度を分析した上で選定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第1章には、航空機エンジン用ニッケル基超合金市場の紹介、調査対象となる期間（考慮される年数）、本調査の具体的な目的、採用された市場調査方法論、データ収集および分析のプロセスとデータソース、市場分析に影響を与える主要な経済指標、使用される通貨、および市場予測における潜在的な不確実性や注意点に関する情報が記載されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第3章には、企業別の航空機エンジン用ニッケル基超合金市場の詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業ごとの年間売上高、売上高市場シェア、年間収益、収益市場シェア、および販売価格が比較されます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、主要メーカーの生産地域分布、販売地域、提供する製品タイプ、製品所在地分布に関する情報も含まれます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "耐熱合金 - メーカー・企業10社の業務用製品ランキング | イプロスものづくり",
     "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
@@ -2243,802 +2999,540 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "技術（新しい技術・実証）": [
+  "経済（規模・価格・為替）": [
    {
-    "quote": "腱駆動の軟性ロボットを2パラメータで制御——IITGが誤差1%以下の新手法を開発",
+    "quote": "た, 2007 年のニッケル価格の高騰も省資源型耐熱材料",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機エンジン用ニッケル基超合金の世界市場（2026年～2032年）、市場規模（鍛造超合金、鋳造超合金、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機エンジン用ニッケル基超合金の世界市場（2026年～2032年）、市場規模（鍛造超合金、鋳造超合金、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "世界の航空機エンジン用ニッケル基超合金の市場規模は、2025年の34億7,900万米ドルから2032年には50億1,700万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.5％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2025年、航空エンジン用ニッケル基超合金の世界生産量は約12,500トンに達し、世界平均市場価格は1トンあたり約28万5,000米ドル、粗利益率は約20%～40%でした",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機用ニッケル基超合金の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機用ニッケル基超合金の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空エンジン用ニッケル基超合金の欧州市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「航空エンジン用ニッケル基超合金の業界予測」では、過去の売上高を検証し、2025年の世界の航空エンジン用ニッケル基超合金の総売上高を分析するとともに、2026年から2032年までの予測売上高について、地域および市場セクター別の包括的な分析を提供しています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3DプリンターとUVプリンターの複合機HeyGears「G1」、Kickstarterで32万円から",
     "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "独研究機関、EVバッテリーの容量を2.5倍に高める新素材を開発中——柔らかい布でシリコンの弱点を克服",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【無料・使い放題】MiniMaxの動画生成AI「H3」を開放 1文で音声付き動...",
+    "quote": "結合インダクタ市場規模は2026年440百万米ドル、成長率3.9%で拡大予測",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "DSALOYX-750と同様な析出強化型Ni-Cr耐熱合金で、内燃機関の排気バルブ用として開発されました",
-    "url": "https://www.daido.co.jp/products/superalloy/heat/",
-    "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "最近では、次世代航空機や電動車両の需要増加に伴い、耐熱合金の需要も高まり、加工現場では最適な工具選定が課題となっています",
-    "url": "https://www.dijet-tool.com/media/column/a100",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ダイジェット工業では、耐熱合金加工に最適化された超硬工具を開発・提供しています",
-    "url": "https://www.dijet-tool.com/media/column/a100",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※耐熱鋼には、耐熱鋼のみの規格である鋼種SUH（Steel Use Heat Resisting）と耐熱用途としてよく使用されるステンレス鋼SUS（Steel Use Stainless）が規定されています",
-    "url": "https://www.tokkin.co.jp/media/technicalcolumn/2505210",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "長年培った知見や日々寄せられるお客様からのご相談を元に、技術開発と営業が連携してお客様の疑問や課題解決に役立つ情報を発信しています",
-    "url": "https://www.tokkin.co.jp/media/technicalcolumn/2505210",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "試作 (8)",
-    "url": "https://www.tokkin.co.jp/media/technicalcolumn/2505210",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "祖父が彫った木製の仮面を2D図面からBlenderで再現、3Dプリンターで出力",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "開発効率が飛躍的向上、OpenAIが「GPT-5」をリリース 計算効率は従来比70-80%改善",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIデータセンター向け液冷市場規模、シェア、動向、2032年までの世界予...",
+    "quote": "リーチスタッカー市場規模分析レポート：2026年は549百万米ドルに到達予測",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "切削工具メーカーは耐熱性や耐摩耗性に優れ、かつ欠損しにくい靭性を兼ね備えた耐熱合金用工具の開発を進める",
-    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
+    "quote": "世界のウェーハレベルエージング試験装置市場規模、2026年401百万米ドルから2032年658百万米ドルへ拡大",
+    "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "各メーカーが開発に力を入れる中、最新の耐熱合金用工具を紹介する",
-    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同製品は「難削材加工で切削条件を上げ、工具寿命も伸ばしたい」というユーザーの声を形にするため開発された",
-    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「高い加工安定性で高能率加工を行える肩削り工具」をコンセプトに、独自形状のインサートを開発し、高剛性で多刃な工具設計を可能にした",
-    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "独自開発インサートは、底面にＶ字形状を採用し、ボディの心厚とバックメタルを増加させた",
-    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "製造プロセス別では、冷間圧造/冷間成形、熱間圧造/ダイ鍛造、精密機械加工、積層造形別の特殊ファスナーセグメント、およびその売上、収益、販売価格とその市場シェア（2021-2026年）の分析が示されています",
+    "quote": "特殊ファスナーの世界市場（2026年～2032年）、市場規模（合金鋼、高品位ステンレス鋼、ニッケル基超合金、チタン合金、エンジニアリングプラスチック／複合材料）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
     "url": "https://www.atpress.ne.jp/news/3743444",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "特に新しい合金やプラスチック材料の開発により、特殊ファスナーの性能は向上し続けています",
+    "quote": "特殊ファスナーの世界市場（2026年～2032年）、市場規模（合金鋼、高品位ステンレス鋼、ニッケル基超合金、チタン合金、エンジニアリングプラスチック／複合材料）・分析レポートを発表",
     "url": "https://www.atpress.ne.jp/news/3743444",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本外科用顕微鏡市場は2035年に1億8,760万米ドルに到達、CAGR 11.21％で成長｜脳神経外科・眼科・形成外科における高解像度イメージングとロボット支援手術の進展が需要を牽引",
+    "quote": "世界の特殊ファスナー市場規模は、2025年の51億1000万米ドルから2032年には63億1600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.1％で成長すると見込まれています",
     "url": "https://www.atpress.ne.jp/news/3743444",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "フィッシングブランド「DAIWA」が展開する",
+    "quote": "2024年、世界の特殊ファスナーの生産量は36億2000万個に達し、平均販売価格は1トンあたり1.4米ドルでした",
     "url": "https://www.atpress.ne.jp/news/3743444",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "アパレルライン『DAIWA247』ラゾーナ川崎プラザにて",
+    "quote": "「特殊ファスナー産業予測」では、過去の売上実績を検証し、2025年の世界の特殊ファスナー総売上高を分析するとともに、2026年から2032年までの予測売上高について、地域および市場セクター別の包括的な分析を提供しています",
     "url": "https://www.atpress.ne.jp/news/3743444",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "切削工具メーカーは、製品・技術開発に凌ぎを削っている",
+    "quote": "第2章には、世界の特殊ファスナー市場の概要、2021年から2032年までの世界年間売上、2021年、2025年、2032年における地理的地域および国別の現在と将来の分析が収録されています",
+    "url": "https://www.atpress.ne.jp/news/3743444",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、合金鋼、高品位ステンレス鋼、ニッケル基超合金、チタン合金、エンジニアリングプラスチック/複合材料などのタイプ別の特殊ファスナーセグメント、およびタイプ別の売上、収益、販売価格とその市場シェア（2021-2026年）の分析が含まれます",
+    "url": "https://www.atpress.ne.jp/news/3743444",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模は、機械統計にないため不明だが、主な超硬工具、特殊鋼工具メーカーに聞くと、「年間売上高の数％を占める」とするところもあれば、「現在５、６％を占め、航空機向けに加え自動車、家庭用燃料機器向けなど利用範囲が拡大中」とするところもある",
     "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "米国や英国など５カ国のメーカー７社（日本はＩＨＩ、川崎重工業、三菱重工業の３社）で共同開発した中型旅客機のターボファンエンジンＶ２５００の生産は、エアバス３２０やボーイングＭＤ９０に搭載され、これまでに６０００機にのぼる",
-    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このベストセラー機、Ｖ２５００は今、米プラット・アンド・ホイットニー（Ｐ＆Ｗ）の新型エンジンＰＷ１１００Ｇに引き継がれ、ＩＨＩ、川崎重工業、三菱重工業の３社では日本航空機エンジン協会（ＪＡＥＣ）を通じて共同開発が進められている",
-    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本航空機開発協会（ＪＡＤＣ）のジェット旅客機の需要予測（２０１５年３月時点）によると、「20席以上のジェットエンジン旅客機の生産は１万９２０８機、20年後の２０３３年にはロードファクターの増加、機材の生産性向上もあり、現在の１．９倍、３万６７６９機」を予測する",
-    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "切削工具メーカー各社が耐熱鋼向け工具を開発している背景はここにある",
-    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ジェットエンジンは、タービン入口ガス温度が高いほど効率や比推力が良くなるため、燃焼室やタービン、排気系統には主に耐熱合金が使われ、ジェットエンジンの進歩は、これら耐熱合金の開発に掛かっているといわれている",
-    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIデータセンター向け液冷市場規模、シェア、動向、2032年までの世界予...",
-    "url": "https://www.dreamnews.jp/press/0000326042",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ラズパイ Zero 2 Wで音声AIアシスタントを製作、ボタンを押して話しかけるとOpenClaw経由で応答",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "使用済み電池から純度80％で金属回収、SLACが複数AIに探索させる",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "加工・精錬（真空アーク再溶解、積層造形）は20～25％を占め、高度な設備を必要とする",
+    "quote": "ニオブ C-103の世界市場（2026年～2032年）、市場規模（Nb-10Hf-1Ti 合金、Nb-Hf-Ti 耐火合金）・分析レポートを発表",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "残りの2～8％は間接費であり、高い技術的ハードルに起因する管理、物流、研究開発などが含まれる",
+    "quote": "本資料には、ニオブ C-103の世界市場規模、市場動向、セグメント別予測（Nb-10Hf-1Ti 合金、Nb-Hf-Ti 耐火合金、その他）、関連企業の情報などが盛り込まれています",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ビジネスチャンスは、ハイエンド産業向けの高純度製品の生産、コスト削減のための先進的な加工技術の開発、供給の安定化と受注確保のための協力関係の拡大、そして国内企業の強みを活かした世界市場の拡大と技術的独占の打破にある",
+    "quote": "世界のニオブC-103市場規模は、2025年の4,451万米ドルから2032年には8,517万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.6%で成長すると見込まれています",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ニオブC-103は、その優れた耐熱性能からエンジンノズルや燃焼室に広く使用されており、例えば米国では、SLM（選別積層造形）法で製造されたC-103合金製エンジンノズルの適用に成功しています",
+    "quote": "2025年、世界のニオブC-103の生産量は約35トンに達し、世界平均市場価格は約1,300米ドル/kgでした",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本インサイトレポートは、世界のニオブC-103市場の包括的な分析を提供し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、M&A活動に関連する主要なトレンドを明らかにします",
+    "quote": "原材料（高純度ニオブ、ハフニウム、チタン）は総コストの55～65％を占め、世界の鉱石価格や輸入コストに連動していますが、機械的な粉末混合により原材料コストを大幅に削減することが可能です",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Transform Material Technology",
+    "quote": "本インサイトレポートは、ニオブC-103の世界的な見通しを形作る主要な市場動向、推進要因、および影響要因を評価し、化学組成、用途、地域、市場規模ごとに予測を細分化することで、新興のビジネスチャンスを浮き彫りにします",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Litai No-nferrous Metals",
+    "quote": "米国市場規模（2021-2026年）",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "また、化学組成（Nb-10Hf-1Ti合金、Nb-Hf-Ti耐熱合金、その他）、性能カテゴリ（高温耐性合金、高強度延性合金）、製造プロセス（真空アーク溶解（VAR）合金、積層造形（SLM）合金）、およびアプリケーション（航空宇宙・防衛、医療、半導体、エネルギー、その他）ごとのニオブ C-103の販売量、収益、市場シェア、販売価格（2021年から2026年まで）に関する詳細な分析が示されています",
+    "quote": "カナダ市場規模（2021-2026年）",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Advanced Powders and Coatings (AP&C)、Materion、ADDMAN、Elmet Technologies、Elmet Additive、Admat、Western Alloys、Raytec Metal、Yunch Titanium、Transform Material Technology、Litai No-nferrous Metalsといった各企業について、会社情報、ニオブ C-103の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、および最新の動向が個別に詳細に記述されています",
+    "quote": "メキシコ市場規模（2021-2026年）",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "今後の研究開発では、ニオブC-103の特性をさらに向上させるための試みが続けられており、より高性能な超伝導体の開発が期待されています",
+    "quote": "ブラジル市場規模（2021-2026年）",
     "url": "https://www.atpress.ne.jp/news/4875929",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "DX認定を取得した宮崎AIギルウド、...",
+    "quote": "3.3メーカー別平均価格（2019～2024年）",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【公式】NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～ - 展示会概要｜カンファレンス(セミナー・フォーラム)や特別企画(イベント)も多数開催",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～ - 展示会概要",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【公式】NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ガスタービン、タービン部品加工（鋼板、耐熱合金などの難削材加工など）、タービン構成部品（ブレード、ベーン、ディスク、ケースなど）、タービン設計・開発支援ツール、廃熱回収ボイラ、各種発電機 …など",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コーポレート戦略本部 コーポレート事業開発統括部 水素事業開発部 事業・営業企画課 主事 様",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次世代エネルギー本部水素インフラ開発部部長",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次世代 火力とは、従来の燃料である石炭や天然ガスなどではなく、水素やアンモニアを活用する火力発電です",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこで、燃焼時にCO2を排出しない、「究極のクリーンエネルギー」と呼ばれる水素（アンモニアも水素エネルギーのひとつ）を活用した火力発電が、次世代 火力発電です",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現在はまだ実証段階にあり、実用化に向けた技術開発が必要ですが、カーボンニュートラルに貢献する次世代エネルギーとして注目されています",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デジタル発電所とは、発電所内のオペレーションや性能管理、設備のメンテナンスなどの様々な業務に関してIoTやAIを活用し、データとして取得する発電所のことです",
-    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "用途に応じたクロムフリー材料や環境配慮型耐火物への転換が、製品開発の重要な方向性となっています",
+    "quote": "YHResearchの調査によると、世界市場規模は2025年の375億5,000万米ドルから2032年には466億1,000万米ドルへ拡大し、2026～2032年のCAGRは3.2%と予測されています",
     "url": "https://www.dreamnews.jp/press/0000367015",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "特に、電炉化、低炭素製造、リサイクル、設備のデジタル監視は、製品開発と企業間競争に影響する重要なテーマです",
+    "quote": "3. 世界市場規模と2026年の業界動向",
     "url": "https://www.dreamnews.jp/press/0000367015",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Email：info@yhresearch.com",
+    "quote": "YHResearchの予測では、世界市場規模は2025年の375億5,000万米ドル、2026年の386億8,000万米ドルから、2032年には466億1,000万米ドルへ成長する見通しです",
     "url": "https://www.dreamnews.jp/press/0000367015",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "DX認定を取得した宮崎AIギルウド、...",
+    "quote": "水素製造市場規模は2030年までに2,387.9億ドルに達し、CAGR7.6%で成長",
     "url": "https://www.dreamnews.jp/press/0000367015",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "試作、切削加工、短納期対応の今橋製作所",
-    "url": "https://www.imahashi-ss.jp/",
+    "quote": "Ni-based Superalloys Market Size, Share, Insights, Competitive Landscape, and Forecast 2026 to 2033",
+    "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "試作、難削材、複雑形状、短納期対応の切削加工メーカー",
-    "url": "https://www.imahashi-ss.jp/",
+    "quote": "The global Ni-based superalloys market size is expected to be valued at US$ 10.35 billion in 2026 and projected to reach US$ 18.92 billion by 2033, growing at a CAGR of 9.0% between 2026 and 2033.",
+    "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "開発を含む試作から小・中ロット、量産まで適正品質かつ短納期での対応",
-    "url": "https://www.imahashi-ss.jp/",
+    "quote": "US$ 1 billion",
+    "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "自由曲面のある３D形状や複雑形状の加工、インコネルなどの耐熱合金材の加工など豊富経験と実績で試作支援を行っています",
-    "url": "https://www.imahashi-ss.jp/",
+    "quote": "スーパー合金の日本市場（2026年～2034年）、市場規模（航空宇宙、産業用ガスタービン、自動車、石油・ガス、産業用）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/7875080",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "自動車部品 試作 SUS304 薄肉",
-    "url": "https://www.imahashi-ss.jp/",
+    "quote": "スーパー合金の日本市場（2026年～2034年）、市場規模（航空宇宙、産業用ガスタービン、自動車、石油・ガス、産業用）・分析レポートを発表",
+    "url": "https://newscast.jp/news/7875080",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "試作 無酸素銅 3D形状",
-    "url": "https://www.imahashi-ss.jp/",
+    "quote": "日本における超合金市場規模は、2025年に6億9,730万米ドルに達しました",
+    "url": "https://newscast.jp/news/7875080",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "水力 試作 SUS304 3D加工",
-    "url": "https://www.imahashi-ss.jp/",
+    "quote": "本調査会社は、2034年までに市場が12億9,600万米ドルに達し、2026年から2034年の予測期間中に年平均成長率（CAGR）7.13%を示すと予測しています",
+    "url": "https://newscast.jp/news/7875080",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "自動車開発 アルミ加工 3D形状 試作",
-    "url": "https://www.imahashi-ss.jp/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "カバー 薄肉加工 試作 SUS304",
-    "url": "https://www.imahashi-ss.jp/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3D切削 ロボットアーム FA機器 試作",
-    "url": "https://www.imahashi-ss.jp/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Vice-President of International Affairs,",
-    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Satoshi Utada｜NIMS Researchers Directory Service -SAMURAI-",
-    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It will be shown that W and Mo induce acidic hot corrosion leading to extensive attacks in equiaxed Rene77 and directionally solidified DS200. In low cost single crystal AM1 superalloy, the microstructure (as-cast vs. fully heat treated) plays a significant role whereas in advanced Pt-containing TROPEA single crystal, Pt is shown to act as catalyst for sulfidation.",
-    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this view, conventional out-of-pack aluminide coatings are shown to protect against corrosion while the positive protective effects are far more marked in Simodified slurry aluminide coatings.",
-    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "E-mail:rcsm_info=nims.go.jp([=]→[@])",
-    "url": "https://www.nims.go.jp/rcsm/en/news/2026/202611161.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Vice-President of International Affairs,",
-    "url": "https://www.nims.go.jp/rcsm/news/2026/202611161.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It will be shown that W and Mo induce acidic hot corrosion leading to extensive attacks in equiaxed Rene77 and directionally solidified DS200. In low cost single crystal AM1 superalloy, the microstructure (as-cast vs. fully heat treated) plays a significant role whereas in advanced Pt-containing TROPEA single crystal, Pt is shown to act as catalyst for sulfidation.",
-    "url": "https://www.nims.go.jp/rcsm/news/2026/202611161.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIが数週間で3Dプリント向け耐熱合金を6種発見、1000℃の酸化を85％抑制 - FabScene（ファブシーン）",
+    "quote": "なぜ1万円台でロボットを配るのか？NVIDIAが2兆円で買ったハギングフェイスの歴史",
     "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "AIが数週間で3Dプリント向け耐熱合金を6種発見、1000℃の酸化を85％抑制",
+    "quote": "予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門",
     "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "カナダのトロント大学の研究チームが、AIとロボットを組み合わせた実験装置を使い、金属3Dプリンターで造形できる耐熱合金を6種類見つけた",
+    "quote": "NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか",
     "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "レーザーで溶かして積む金属3Dプリンターに向く組成となると、さらに絞り込みが要る",
+    "quote": "大学生時代にカジノサークルで稼いだ1億円で起業、世界的ソフトウェアを生み出した男の話",
     "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "研究チームは、この探索をAIに任せた",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "使ったのは能動学習と呼ぶ手法で、計算モデルと機械学習、ロボットによる製造・試験を組み合わせ、人の手をほとんど介さずに次に試す組成を決めていく",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "U of T Engineering: Self-driving lab leverages AI to develop tough new 3D-printable metal alloys",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "編み地そのものが3種のスイッチに、ハーバード大が歩数計と自転車で実証",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "上海交通大学が1.7mmで全方向の力を測る光学式触覚センサーを開発",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "表情豊かなロボットほどミスで信頼を失う、米ドレクセル大が脳とホルモンで確認",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "近年はγ'析出強化技術や単結晶・一方向凝固技術、高純度溶解技術の進歩により、800℃を超える高温環境でも長期間使用できる製品開発が進み、積層造形（3Dプリンティング）との組み合わせによる高付加価値部材の実用化も加速している",
+    "quote": "世界のニッケル合金市場動向、年平均成長率6.1%で拡大継続2026-2032 | QY Research株式会社のプレスリリース",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "ニッケル合金は航空宇宙、エネルギー、化学プラント、新エネルギー、自動車など幅広い産業で不可欠な基幹材料であり、近年はAIサーバー向け設備や水素関連インフラへの採用も進んでいる",
+    "quote": "世界のニッケル合金市場動向、年平均成長率6.1%で拡大継続2026-2032",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "航空機需要の回復に伴い、次世代エンジンや保守・交換部品向けの耐熱合金需要が増加している",
+    "quote": "QYResearch調査チームの最新レポート「ニッケル合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、ニッケル合金の世界市場は、2025年に10660百万米ドルと推定され、2026年には11240百万米ドルに達すると予測されています",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "特に積層造形技術を活用した複雑形状部品の製造は、材料歩留まりの改善と製造期間短縮を実現する技術として注目されている",
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）6.1%で推移し、2032年には16040百万米ドルに拡大すると見込まれています",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "主要メーカーにはVDM Metals、Special Metals Corporation、ArcelorMittal、Carpenter Technology、Aperam（Imphy Alloys）、ATI、Proterial Metals、Nippon Yakin、Sumitomo、Haynes Internationalなどが挙げられ、高性能耐熱合金や特殊用途材料の開発競争が続いている",
+    "quote": "本記事は、QY Research発行のレポート「ニッケル合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "今後は航空宇宙・水素エネルギー・半導体製造装置向け高機能材料が市場成長を牽引するとともに、積層造形対応材料や高リサイクル性合金への研究開発が、新たな競争優位性を生み出す重要な要素になると考えられる",
+    "quote": "プレスケールフィルム業界動向：2026年の市場規模は192百万米ドル見込み",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "E-mail：japan@qyresearch.com",
+    "quote": "全自動ソフトパックティッシュ包装機の世界市場規模：2026年は391百万米ドルに達する見込み",
     "url": "https://www.dreamnews.jp/press/0000355962",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "GMKtec、Ryzen AI Max+ PRO 495搭載ミニワークステーション「EVO-X5 Pro...",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "大同特殊鋼が開発した『DSA3015』は、析出硬化型オーステナイト系の",
-    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "東北大学、日本発条、 SII 、エイワが共同で耐熱バネ用材料として開発した合金です！",
-    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "当社は、従来からの超硬刃具に加え、セラミック刃具による自社開発の",
-    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "■5軸加工機と自社開発の小径工具で高精度に加工",
-    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "耐熱材料は、その耐熱性向上・長寿命化に向けた長年の研究開発により、火力発電タービン・航空機エンジン等の熱機関や化学石油プラント等の反応装置の効率向上にこれまで貢献してきました",
+    "quote": "※本会の維持員社員が同一講座に 3 名以上でお申込みの場合、受講料が正員価格より 25% 割引となります（お申込み前にご相談下さい）",
     "url": "https://jimm.jp/event/online/ondemand/026.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "E-mail: meeting@jimm.jp",
-    "url": "https://jimm.jp/event/online/ondemand/026.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "エネルギー資源学会、応用物理学会、金属系材料研究開発センター、軽金属学会、軽金属製品協会、合金状態図研究会、資源・素材学会、ステンレス協会、素形材センター、電気化学会、電気学会、日本アルミニウム協会、日本MRS、日本化学会、日本ガスタービン学会、日本機械学会、日本材料科学会、日本材料学会、日本磁気学会、日本セラミックス協会、日本塑性加工学会、日本チタン協会、日本鋳造工学会、日本鉄鋼協会、日本物理学会、日本分析化学会、粉体粉末冶金協会、腐食防食学会、表面技術協会、日本チタン学会、日本バイオマテリアル学会",
-    "url": "https://jimm.jp/event/online/ondemand/026.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "試作、難削材、複雑形状、短納期対応の切削加工メーカー",
-    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "自動車部品 試作 SUS304 薄肉",
-    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "試作 無酸素銅 3D形状",
-    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "短納期 試作支援",
-    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "次世代高温構造材料として研究開発が進められている",
+    "quote": "二元 Ti-Al 合金市場規模推移：2026年4461百万米ドルから2032年8322百万米ドルへ拡大 | NEWSCAST",
     "url": "https://newscast.jp/smart/news/2494475",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "二元 Ti-Al 合金分野における代表的企業：ATI、 VSMPO-AVISMA、 Precision Castparts Corp、 Western Superconducting、 Howmet Aerospace (Alcoa)、 carpentertechnology、 DaidoSteel、 AMG、 KBMAffilips、 Timet、 Special Metals Corporation、 Norsk Titanium、 Aperam Alloys Imphy、 Kobe Steel, Ltd. (Kobelco)",
+    "quote": "二元 Ti-Al 合金市場規模推移：2026年4461百万米ドルから2032年8322百万米ドルへ拡大",
     "url": "https://newscast.jp/smart/news/2494475",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "本レポートは、耐熱合金の産業チェーンの発展、市場の現状、主要企業の動向、最新技術、特許、応用分野、そして市場トレンドに関する分析を含んでいます",
+    "quote": "QY Research株式会社は「二元 Ti-Al 合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」の調査レポートを発表しました",
+    "url": "https://newscast.jp/smart/news/2494475",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "二元 Ti-Al 合金の世界市場規模は2025年に4061百万米ドルに達し、2026年には4461百万米ドルに拡大すると予測されております",
+    "url": "https://newscast.jp/smart/news/2494475",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年から2032年の期間においては、11.0%の年平均成長率（CAGR）を維持し、最終的に2032年の市場規模は8322百万ドルに達すると予測されております",
+    "url": "https://newscast.jp/smart/news/2494475",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "耐熱合金の世界市場2025年、グローバル市場規模（鉄系超合金、ニッケル系超合金、コバルト系超合金）・分析レポートを発表 | 株式会社マーケットリサーチセンターのプレスリリース",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "● Carpenter Technology Corporation",
+    "quote": "耐熱合金の世界市場2025年、グローバル市場規模（鉄系超合金、ニッケル系超合金、コバルト系超合金）・分析レポートを発表",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "● Beijing Cisri-Gaona Materials & Technology",
+    "quote": "予測期間中の年平均成長率（CAGR）は5.6％と堅調な伸びが予測されています",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "近年では、積層造形（3Dプリンティング）対応材料や、ニッケル・コバルトをベースとした高性能合金、ナノ結晶技術の応用が進められています",
+    "quote": "1.5世界市場規模と予測",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "高機能化・高効率化を求められる現代社会において、その重要性はますます高まっており、本レポートは市場戦略の立案、研究開発、サプライチェーン構築などにおいて極めて有用な資料となっています",
+    "quote": "1.5.3世界平均価格（2019～2030年）",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "2.5CarpenterTechnologyCorporation",
+    "quote": "（以下、すべての企業について共通構成：企業情報、主力事業、耐熱合金製品とサービス、販売数量・平均価格・収益・粗利率・市場シェア（2019～2024）、最新動向）",
     "url": "https://www.dreamnews.jp/press/0000326042",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "2.13BeijingCisri-GaonaMaterials&Technology",
-    "url": "https://www.dreamnews.jp/press/0000326042",
+    "quote": "Explore the Global Superalloys Market — analysis of key trends, regional growth, top players, and a 10-year forecast from 2026 to 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "今後も新しいエネルギー技術や次世代輸送機器の発展に伴い、耐熱合金の重要性は一層高まっていくと考えられます",
-    "url": "https://www.dreamnews.jp/press/0000326042",
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "ミリ波AiPモジュールの世界市場2026年、グローバル市場規模（通信用アンテナ内蔵モジュール、レーダー用アンテナ内蔵モジュール、位相配列アンテナ内蔵モジュール）・分析レポートを発表",
-    "url": "https://www.dreamnews.jp/press/0000326042",
+    "quote": "USD 9.40 billion",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "GMKtec、Ryzen AI Max+ PRO 495搭載ミニワークステーション「EVO-X5 Pro...",
-    "url": "https://www.dreamnews.jp/press/0000326042",
+    "quote": "USD 10.20 billion",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "座長:余 浩(東北大学)、川岸 京子(国立研究開発法人物質・材料研究機構)",
-    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "quote": "USD 23.06 billion",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "(1. 早稲田大学、2. 国立研究開発法人 物質・材料研究機構)",
-    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "quote": "CAGR. Based on Future Market Insights analysis, the market is set to add an incremental opportunity worth USD 12.86 billion over the forecast period. As per FMI, the procurement landscape for superalloys is being reshaped by evolving specification requirements, regional capacity investments, and shifting end-use demand patterns across established and emerging buyer segments.",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "(1. 国立研究開発法人 物質・材料研究機構)",
-    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "quote": "Across tracked geographies, China sets the pace at 11.50% CAGR. India follows at 10.60%. Germany follows at 9.80%. Brazil follows at 8.90%. USA follows at 8.10%. UK follows at 7.20%. Japan follows at 6.40%.",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "[技術賞受賞講演]環境改善に貢献する各種耐熱鋼および耐熱合金の開発",
-    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "quote": "11.50% compound growth, supported by domestic capacity expansion and rising consumption.",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "IN738LCレーザ粉末床積層造形体に生じる割れ分布の熱処理温度依存性",
-    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "quote": "Top Country Growth Comparison Superalloys Market Cagr (2026 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "AI for Science",
-    "url": "https://materialsfutures.org/news/12182",
+    "quote": "Top 10 Superalloys Market Companies 2026 Size & Growth",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": ". Unlike typical grain boundaries that migrate over time at high temperatures, this complexion acts as a structural stabilizer, maintaining the nanocrystalline structure, preventing grain growth and dramatically improving high-temperature performance.",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "USD 7.82 Billion in 2025",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "This Cu-Ta-Li alloy combines copper’s exceptional heat and electrical conductivity while remaining strong and stable at extreme temperatures.",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "CAGR of 9.00%",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Patent, Funding and Future Work",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "USD 22.44 Billion by 2034",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "The U.S. Army Research Laboratory was awarded a U.S. patent (US 11,975,385 B2) for the alloy, highlighting its strategic significance, particularly in defense applications like military heat exchangers, propulsion systems and hypersonic vehicles.",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "Market Size (2025)",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "This research was supported by the U.S. Army Research Laboratory, the National Science Foundation, and the Lehigh University Presidential Nano-Human Interfaces (NHI) Initiative, which fosters innovation in nanotechnology. Lehigh’s longstanding partnership with ARL, spanning more than a decade, has been instrumental in pushing the boundaries of materials science.",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "USD 7.82 Billion",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "“This project is a great example of how federal investment in fundamental science drives American leadership in materials technology,” Harmer said. “Scientific discoveries such as this are key to strengthening national security and fueling industrial innovation.”",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "Projected Market Size (2034)",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Disclaimer:",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "USD 22.44 Billion",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Grain boundaries",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.intellectualmarketinsights.com/blogs/superalloys-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Top Superalloy for Oil & Gas Manufacturers: Ranking and ... Top Superalloy for Oil & Gas Manufacturers: Ranking and ... LinkedIn https://www.linkedin.com > pulse > to...",
+    "url": "https://www.linkedin.com/pulse/top-superalloy-oil-gas-manufacturers-ranking-profiles-delvoriac-djuue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Superalloy Manufacturing Solutions Corporation | LinkedIn Superalloy Manufacturing Solutions Corporation | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/superalloy-manufacturing-solutions-corporation",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "/Physical sciences/Materials science/Materials engineering/Microstructures/Grain boundaries/",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
+    "quote": "SeAH Superalloy Technologies | LinkedIn SeAH Superalloy Technologies | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/seahsuperalloys",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Grain boundary migration",
-    "url": "https://www.eurekalert.org/news-releases/1078487",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "研究業績一覧 | 高田 裕治 | SAMURAI - NIMS Researchers Directory Service",
-    "url": "https://samurai.nims.go.jp/profiles/takata_yuji/publications?locale=ja",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "SAMURAIについて",
-    "url": "https://samurai.nims.go.jp/profiles/takata_yuji/publications?locale=ja",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "特許から探す",
-    "url": "https://samurai.nims.go.jp/profiles/takata_yuji/publications?locale=ja",
+    "quote": "Why Use Nickel-Base Superalloys for Heat and Corrosion ... Why Use Nickel-Base Superalloys for Heat and Corrosion ... LinkedIn https://www.linkedin.com > pulse > w...",
+    "url": "https://www.linkedin.com/pulse/why-use-nickel-base-superalloys-heat-corrosion-resistance-sable",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
@@ -3110,116 +3604,6 @@
     "pass": 3,
     "first_seen": "2026-11-04"
    }
-  ],
-  "政治（法・予算・規制）": [
-   {
-    "quote": "培ったノウハウで企業支援 障がい者雇用に積極的に取り組んでいるネジ商社のコノエ（大阪府東大阪市、06・6746・1903）は、障がい者雇用に関する優良な中小事業者を厚生労働大臣が認定する「もにす認定」を取得",
-    "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "全体として、規制や安全基準の厳格化、航空宇宙・防衛分野の受注回復、新エネルギー車およびエネルギー貯蔵分野の拡大、ならびに過酷な作業環境（深海、極寒、高温、高腐食性環境）で使用される機器の増加により、世界のファスナー産業における特殊ファスナーの価値シェアは今後も拡大し続ける見込みである",
-    "url": "https://www.atpress.ne.jp/news/3743444",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "培ったノウハウで企業支援 障がい者雇用に積極的に取り組んでいるネジ商社のコノエ（大阪府東大阪市、06・6746・1903）は、障がい者雇用に関する優良な中小事業者を厚生労働大臣が認定する「もにす認定」を取得",
-    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "DX認定を取得した宮崎AIギルウド、...",
-    "url": "https://www.dreamnews.jp/press/0000326042",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "地政学的リスク、輸出政策、環境規制による生産制限は、調達コストや納期に影響を与えるため、調達先の分散とリサイクル原料の活用が重要です",
-    "url": "https://www.dreamnews.jp/press/0000367015",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "DX認定を取得した宮崎AIギルウド、...",
-    "url": "https://www.dreamnews.jp/press/0000367015",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "弊社自らが経験することで得た”WEBの集客力向上”、”補助金申請支援”をはじめとしたノウハウを惜しまず展開しております",
-    "url": "https://www.imahashi-ss.jp/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『事業再構築補助金(通常枠)』の採択を受けました(経済産業省)",
-    "url": "https://www.imahashi-ss.jp/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Defense and space propulsion create a strategic revenue pool for Ni-based superalloy producers. Governments are increasing spending on military aircraft, missiles, drones, and space launch systems.",
-    "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "use nickel superalloys in turbopumps and combustion chambers, often produced with additive manufacturing. Governments in the",
-    "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "fund domestic capacity to reduce reliance on foreign suppliers. Defense ministries, prime contractors, and space companies are the main customers. Long-term government-backed contracts provide stable, high-margin revenue for qualified suppliers.",
-    "url": "https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "政府機関による軍事費の増加、および材料科学に関する数多くの研究活動が、主に市場成長を牽引しています",
-    "url": "https://newscast.jp/news/7875080",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "機器の耐久性と安全性を確保するための政府規制も、高品質な超合金の採用を促進する上で役割を果たしており、これがもう一つの重要な成長促進要因となっています",
-    "url": "https://newscast.jp/news/7875080",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "環境規制の強化に対応した低炭素製造プロセスや、スクラップ再資源化による循環型生産体制の整備も企業競争力を左右する重要なテーマとなっている",
-    "url": "https://www.dreamnews.jp/press/0000355962",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "地域別の分析では、北米およびヨーロッパは、政府による技術革新の推進政策や環境・安全への意識向上を背景に、安定した市場拡大を見せています",
-    "url": "https://www.dreamnews.jp/press/0000326042",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "政府の規制や支援政策、技術革新、消費者の嗜好、そしてサステナビリティ重視の流れが、業界全体の成長ドライバーとして機能しています",
-    "url": "https://www.dreamnews.jp/press/0000326042",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Government Statistics Portals and Public Data Releases",
-    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
   ]
  },
  "figures": {},
@@ -3241,9 +3625,9 @@
     "method": ""
    },
    {
-    "url": "https://www.nisshin-oillio.com/company/news/down2.php?attach_id=1594&uid=8734",
+    "url": "https://jobhouse.jp/factory/entry/1206468",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
@@ -3271,12 +3655,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "url": "https://www.mk.co.kr/jp/world/11463597",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mk.co.kr/jp/world/11463597",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
     "status": "ok",
     "method": "http"
    },
@@ -3301,6 +3685,16 @@
     "method": "http"
    },
    {
+    "url": "https://www.asahi-kasei.com/jp/news/2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/9440413",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.atpress.ne.jp/news/5470297",
     "status": "ok",
     "method": "http"
@@ -3311,18 +3705,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://academist-cf.com/projects/431?lang=en",
-    "status": "ok",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/nickel-alloys-market",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -3331,32 +3720,7 @@
     "method": "http"
    },
    {
-    "url": "https://jp.linkedin.com/pulse/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91-market-growth-projections-2026-2033-11-cagr-analysis-zhl1e",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.mordorintelligence.com/ja/industry-reports/nickel-alloys-market",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nikkan.co.jp/articles/view/795147",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/%E6%B4%9E%E5%AF%9F%E5%8A%9B%E3%81%AB%E5%AF%8C%E3%82%80%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E7%94%A3%E6%A5%AD%E6%88%90%E9%95%B7%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3123%E3%81%AE%E5%8B%95%E5%90%91%E3%82%92%E5%88%86%E6%9E%90-protocol-pulses-ccwme",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://newscast.jp/smart/news/4375268",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
     "status": "ok",
     "method": "http"
    },
@@ -3366,7 +3730,27 @@
     "method": "browser"
    },
    {
-    "url": "https://www.atpress.ne.jp/news/1609933",
+    "url": "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000326042",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tnksanwa.co.jp/news/detail.html?id=4197",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6803759",
     "status": "ok",
     "method": "http"
    },
@@ -3376,22 +3760,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.nipponsteel.com/newsroom/news/2026/",
-    "status": "ok",
+    "url": "https://www.excite.co.jp/news/article/Dreamnews_0000355962/",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://newspicks.com/company/SPD2MJG7LRQT90PS/resources/v2/companies/SPD2MJG7LRQT90PS/financialResults/2025-11-20/88713405-0d65-4f76-908e-31fbe6f8b8d3.pdf",
+    "url": "https://dempa-digital.com/article/479288",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.chusho.meti.go.jp/koukai/hojyokin/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://portal.monodukuri-hojo.jp/",
     "status": "ok",
     "method": "http"
    },
@@ -3401,7 +3780,12 @@
     "method": "http"
    },
    {
-    "url": "https://smbiz.asahi.com/article/16339351",
+    "url": "https://portal.monodukuri-hojo.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icom-giken.com/blog/mono_2025/",
     "status": "ok",
     "method": "http"
    },
@@ -3421,7 +3805,7 @@
     "method": "browser"
    },
    {
-    "url": "https://pub.nikkan.co.jp/book/b10206122.html",
+    "url": "https://pub.nikkan.co.jp/book/b10193444.html",
     "status": "ok",
     "method": "http"
    },
@@ -3449,14 +3833,19 @@
     "https://www.glpjp.com/topics/press/426/",
     "https://www.scgr.co.jp/report/column/?_page=11",
     "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/104274",
-    "https://www.nisshin-oillio.com/company/news/down2.php?attach_id=1594&uid=8734",
-    "https://jobhouse.jp/factory/entry/1247726",
+    "https://jobhouse.jp/factory/entry/1206468",
     "https://www.carsteel.co.jp/news/info/1205/?share=line",
+    "https://www.nisshin-oillio.com/company/news/down2.php?attach_id=1594&uid=8734",
     "https://www.cassina-ixc.jp/press/20261105.html",
     "https://release.nikkei.co.jp/attach_file/0518755_03.pdf",
-    "https://ir.mmc.co.jp/ja/ir/news/news20240731102956.html",
+    "https://www.nogizaka46.com/s/n46/news/detail/101059?ima=3221",
     "https://note.com/bright_dog6230/n/n29f11c7f99c4"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "耐熱合金 受注残 人手不足",
@@ -3467,26 +3856,36 @@
     "https://www.mmc-carbide.com/jp/technical_information/article/kikai_2023_02",
     "https://www.tokkin.co.jp/media/technicalcolumn/2505210",
     "https://dowa-forging.co.jp/wp-content/uploads/2020/10/metal_03.pdf",
-    "https://www.chusho.meti.go.jp/keiei/sapoin/senryaku/download/H251C.pdf",
     "https://tetsutohagane.net/articles/search/files/65/7/KJ00002710245.pdf",
-    "https://www.tohoku.ac.jp/japanese/newimg/pressimg/tohokuuniv-press20170316_02web.pdf",
-    "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819"
-   ]
+    "https://www.chusho.meti.go.jp/keiei/sapoin/senryaku/download/H251C.pdf",
+    "https://www.dreamnews.jp/press/0000326042",
+    "https://lean-operation.com/media/management/manufacturingindustry/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "耐熱合金 人手不足 損失 億円",
    "results": [
     "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
-    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
     "https://www.mk.co.kr/jp/world/11463597",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
     "https://www.nipponsteel.com/ir/management/risk.html",
     "https://j-net21.smrj.go.jp/special/growth100/20261009.html",
     "https://www8.cao.go.jp/cstp/gaiyo/sip/sipkenkyukaihatu11kadai.pdf",
     "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf",
     "https://www.swcc.co.jp/jpn/ir/pdf/IR_presentation241209.pdf",
     "https://www.resonac.com/sites/default/files/2025-08/pdf-sustainability-report-integratedreport-RESONAC25J_spread.pdf",
-    "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/"
-   ]
+    "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "耐熱合金 ニュース 2026年11月",
@@ -3494,14 +3893,19 @@
     "https://jp.linkedin.com/pulse/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AE%E5%BE%B9%E5%BA%95%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88cagr-104%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A22026%E5%B9%B42033%E5%B9%B4%E3%81%AE%E5%88%86%E6%9E%90%E3%82%92%E7%B6%B2%E7%BE%85-tulme",
     "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "https://www.dreamnews.jp/press/0000355962",
-    "https://www.atpress.ne.jp/news/5470297",
-    "https://www.nyk.co.jp/news/",
-    "https://newscast.jp/smart/news/4782896",
-    "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
     "https://www.asahi-kasei.com/jp/news/2026",
+    "https://newscast.jp/smart/news/9440413",
+    "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
+    "https://www.atpress.ne.jp/news/5470297",
     "https://nihonsanki-shimbun.com/191205object-mmc/",
-    "https://jp.linkedin.com/pulse/耐熱合金市場の徹底調査レポートcagr-104市場規模セグメンテーションシェア2026年2033年の分析を網羅-tulme"
-   ]
+    "https://pr.mono.ipros.com/kbknet/news/detail/202536/",
+    "https://www.zhihu.com/question/529242535"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "耐熱合金 発表 2026年11月",
@@ -3509,74 +3913,101 @@
     "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
     "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
     "https://jp.linkedin.com/pulse/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AE%E5%BE%B9%E5%BA%95%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88cagr-104%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A22026%E5%B9%B42033%E5%B9%B4%E3%81%AE%E5%88%86%E6%9E%90%E3%82%92%E7%B6%B2%E7%BE%85-tulme",
-    "https://www.mmc-carbide.com/jp/newproduct/2026_list/202611_newproducts",
-    "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
-    "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
+    "https://newscast.jp/smart/news/9440413",
     "https://www.atpress.ne.jp/news/5470297",
-    "https://academist-cf.com/projects/431?lang=en",
-    "https://www.dreamnews.jp/press/0000355962",
-    "https://jp.linkedin.com/pulse/耐熱合金市場の徹底調査レポートcagr-104市場規模セグメンテーションシェア2026年2033年の分析を網羅-tulme"
-   ]
+    "https://www.mmc-carbide.com/jp/newproduct/2026_list/202611_newproducts",
+    "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%81%E3%80%91%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%80%E8%88%AA%E7%A9%BA%E3%83%BB%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E3%81%AE%E9%9C%80%E8%A6%81/",
+    "https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/",
+    "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "https://www.flashscore.com/football/italy/serie-d-group-c-2025-2026/fixtures/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "耐熱合金 受注 2026年11月",
    "results": [
-    "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
-    "https://info.fusionww.com/ja/resources/the-greensheet-2026-%E5%B9%B4-5-%E6%9C%88%E5%8F%B7",
-    "https://jp.linkedin.com/pulse/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91-market-growth-projections-2026-2033-11-cagr-analysis-zhl1e",
-    "https://www.mordorintelligence.com/ja/industry-reports/nickel-alloys-market",
+    "https://jp.linkedin.com/pulse/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AE%E5%BE%B9%E5%BA%95%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88cagr-104%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A22026%E5%B9%B42033%E5%B9%B4%E3%81%AE%E5%88%86%E6%9E%90%E3%82%92%E7%B6%B2%E7%BE%85-tulme",
     "https://www.atpress.ne.jp/news/5470297",
-    "https://www.nikkan.co.jp/articles/view/795147",
-    "https://www.nyk.co.jp/news/",
-    "https://nihonsanki-shimbun.com/%E4%B8%89%E8%8F%B1%E6%97%A5%E7%AB%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%81%8C%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E5%B7%A5%E5%85%B7%E3%82%92%E7%99%BA%E5%A3%B2/",
-    "https://www.dreamnews.jp/press/0000326042",
-    "https://jp.linkedin.com/pulse/耐熱合金市場の徹底調査レポートcagr-104市場規模セグメンテーションシェア2026年2033年の分析を網羅-tulme"
-   ]
+    "https://www.mordorintelligence.com/ja/industry-reports/nickel-alloys-market",
+    "https://info.fusionww.com/ja/resources/the-greensheet-2026-%E5%B9%B4-5-%E6%9C%88%E5%8F%B7",
+    "https://newscast.jp/smart/news/4375268",
+    "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "https://www.dreamnews.jp/press/0000365321",
+    "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E8%80%90%E7%86%B1/",
+    "https://www.nikkan.co.jp/articles/view/795147"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "耐熱合金 提携 2026年11月",
    "results": [
-    "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
-    "https://jp.linkedin.com/pulse/%E6%B4%9E%E5%AF%9F%E5%8A%9B%E3%81%AB%E5%AF%8C%E3%82%80%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E7%94%A3%E6%A5%AD%E6%88%90%E9%95%B7%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3123%E3%81%AE%E5%8B%95%E5%90%91%E3%82%92%E5%88%86%E6%9E%90-protocol-pulses-ccwme",
+    "https://jp.linkedin.com/pulse/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AE%E5%BE%B9%E5%BA%95%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88cagr-104%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A22026%E5%B9%B42033%E5%B9%B4%E3%81%AE%E5%88%86%E6%9E%90%E3%82%92%E7%B6%B2%E7%BE%85-tulme",
     "https://www.atpress.ne.jp/news/5470297",
     "https://newscast.jp/smart/news/4375268",
+    "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
     "https://nihonsanki-shimbun.com/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E7%94%A8%E5%B7%A5%E5%85%B7%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%84%E8%BB%8A%E5%90%91%E3%81%91%E3%81%A7%E9%9C%80%E8%A6%81%E5%A2%97%E3%80%81%E5%BF%9C%E7%94%A8%E3%81%AE/",
     "https://www.mordorintelligence.com/ja/industry-reports/nickel-alloys-market",
-    "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
     "https://www.dreamnews.jp/press/0000326042",
     "https://www.tnksanwa.co.jp/news/detail.html?id=4197",
-    "https://biz.chosun.com/jp/jp-industry/2026/11/02/NYQOEYYCTRE63CKLU4Z3W7TFQE/"
-   ]
+    "https://www.wsew.jp/hub/ja-jp/about/zet.html",
+    "https://gemini.google.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 39
   },
   {
    "query": "耐熱合金 設備投資 2026年11月",
    "results": [
     "https://www.dreamnews.jp/press/0000355962",
-    "https://www.atpress.ne.jp/news/1609933",
+    "https://www.atpress.ne.jp/news/6803759",
     "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
-    "https://www.nipponsteel.com/newsroom/news/2026/",
+    "http://www.excite.co.jp/news/article/Dreamnews_0000355962/",
+    "https://dempa-digital.com/article/479288",
     "https://newspicks.com/company/SPD2MJG7LRQT90PS/resources/v2/companies/SPD2MJG7LRQT90PS/financialResults/2025-11-20/88713405-0d65-4f76-908e-31fbe6f8b8d3.pdf",
+    "https://newscast.jp/smart/news/4400651",
     "https://jp.linkedin.com/pulse/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91-market-growth-projections-2026-2033-11-cagr-analysis-zhl1e",
-    "https://newscast.jp/smart/news/6803759",
     "https://www.furukawaelectric.com/ir/",
-    "https://www.nyk.co.jp/news/",
-    "https://jp.linkedin.com/pulse/耐熱合金市場の徹底調査レポートcagr-104市場規模セグメンテーションシェア2026年2033年の分析を網羅-tulme"
-   ]
+    "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-how-is-a-peptic-ulcer-treated/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
   },
   {
    "query": "耐熱合金 補助金 採択 2026年11月",
    "results": [
     "https://www.chusho.meti.go.jp/koukai/hojyokin/index.html",
-    "https://portal.monodukuri-hojo.jp/",
     "https://ichidokiri.co.jp/column/metal-processing-subsidy/",
-    "https://smbiz.asahi.com/article/16339351",
+    "https://portal.monodukuri-hojo.jp/",
     "https://www.icom-giken.com/blog/mono_2025/",
     "https://hojokin-joseikin.com/2061/",
     "https://shoryokuka.smrj.go.jp/",
-    "https://www.sme-support.co.jp/column/p7704/",
     "https://shouryokuka-hojokin.jp/articles/hojokin-ichiran-2026/",
-    "https://www.hamateras.com/schedule/"
-   ]
+    "https://hojokin-agent.jp/subsidy/260955",
+    "https://www.sme-support.co.jp/column/p7704/",
+    "https://dpboss.net/live.php"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
   },
   {
    "query": "耐熱合金 日刊工業新聞 2026年11月",
@@ -3584,14 +4015,20 @@
     "https://www.nikkan.co.jp/",
     "https://corp.nikkan.co.jp/p/honoring/jyudaishinseihinshou",
     "https://www.nikkan.co.jp/articles/view/795011",
-    "https://pub.nikkan.co.jp/book/b10206122.html",
+    "https://pub.nikkan.co.jp/book/b10193444.html",
     "https://www.japanmetal.com/nonf-metal-price",
     "https://www.mrj.jp/",
-    "https://pub.nikkan.co.jp/book/b10193444.html",
     "https://pub.confit.atlas.jp/ja/event/jimm2026spring/session/2E01-11",
+    "https://pub.nikkan.co.jp/book/b10206122.html",
     "https://www.fujidie.co.jp/news/276",
-    "https://www.nikkan.co.jp/spaces/view/89513"
-   ]
+    "https://culturefly.com/products/coraline-huggers-decorative-mini-figures"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
   },
   {
    "query": "superalloy news 2026年11月",
@@ -3599,59 +4036,80 @@
     "https://www.facebook.com/NASAGlenn/videos/nasa-licenses-superalloy-to-benefit-us-economymp4/1543596422891235/",
     "https://phys.org/news/2020-12-group-defect-resistant-superalloy-d-printed.html",
     "https://materialsfutures.org/news/12182",
-    "https://www.tms.org/Superalloy718-2026",
-    "https://inl.gov/news-release/treated-superalloys-demonstrate-unprecedented-heat-resistance/",
     "https://aerospaceamerica.aiaa.org/departments/nasas-new-superalloy/",
+    "https://scandium-canada.com/2026-news-releases/",
+    "https://www.tms.org/Superalloy718-2026",
     "https://www.voxelmatters.com/aubert-duval-and-alloyed-launch-abd-1000am-nickel-superalloy/",
-    "https://www.digitimes.com/news/a20261105PD226/superalloy-production-revenue-2026-profit.html",
     "https://www.eurekalert.org/news-releases/1078487",
-    "https://pmarketresearch.com/worldwide-superalloy-market-research/"
-   ]
+    "https://www.metaltechnews.com/story/2025/04/23/tech-metals/pnnl-superalloy-breaks-free-from-cobalt/2245.html",
+    "https://en.wikipedia.org/wiki/Superalloy"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "superalloy Japan 2026年11月",
    "results": [
+    "https://www.automotiveworld.jp/nagoya/en-gb.html",
     "https://samurai.nims.go.jp/profiles/tabata_chihiro/publications.txt?publication_type=presentation",
     "https://www.linkedin.com/pulse/comprehensive-superalloy-market-analysis-growing-149-ny12e",
     "https://www.chemmate.jp/",
-    "https://www.automotiveworld.jp/nagoya/en-gb.html",
     "https://sks.unlocx.tech/2026/",
-    "https://www.programmaster.org/PM/PM.nsf/Home?OpenForm&ParentUNID=22e30dad42f7c1f085258c2f0057e058",
     "https://www.event-marketing.co.jp/schedule/sampe-japan-2026/",
     "https://www.tms.org/Superalloy718-2026",
+    "https://www.programmaster.org/PM/PM.nsf/Home?OpenForm&ParentUNID=22e30dad42f7c1f085258c2f0057e058",
     "https://www.futuremarketinsights.com/reports/superalloys-market",
-    "https://www.imarcgroup.com/japan-superalloys-market"
-   ]
+    "https://en.wikipedia.org/wiki/Superalloy"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "site:note.com 耐熱合金 2026",
    "results": [
     "https://note.com/qy_research/n/n81c795947eeb",
-    "https://note.com/qy_research/n/ncc66efae1f76",
     "https://note.com/kazzima/n/n1d139afcaeb4",
+    "https://note.com/qy_research/n/ncc66efae1f76",
     "https://note.com/qy_research/n/n1c16d9c85a4b",
-    "https://note.com/qy_research/n/n39a348f072d1",
     "https://note.com/qy_research/n/n31f615373204",
-    "https://note.com/light_coot9097/n/n4baaa17b93fa",
+    "https://note.com/drneurosur/n/n358281a1df26",
+    "https://note.com/qy_research/n/n39a348f072d1",
     "https://note.com/qy_research/n/nfe09dfc9eb73",
-    "https://note.com/qy_research/n/na3afc2da5792",
-    "https://note.com/qy_research/n/nb42d30ddb1ba"
-   ]
+    "https://note.com/qy_research/n/n2152998edb8f",
+    "https://note.com/light_coot9097/n/n4baaa17b93fa"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:x.com 耐熱合金",
    "results": [
     "https://x.com/wingnews/status/2056968813174997471",
     "https://x.com/JAEA_japan/status/1702615274099503353",
-    "https://x.com/ns_tool/status/2115683224555012128",
     "https://x.com/utokyo_gsfs/status/2055192771418612147",
+    "https://x.com/ns_tool/status/2115683224555012128",
     "https://x.com/TungaloyJapan/status/2028259097192112280",
-    "https://x.com/takapon_jp/status/723455285042376704",
     "https://x.com/utokyo_gsfs/status/1821098091757629903",
-    "https://x.com/ayano_kunimitsu/status/2108735139908145323",
+    "https://x.com/takapon_jp/status/723455285042376704",
     "https://x.com/gikenfukui/status/1882291333777571916",
-    "https://x.com/naga_888888/status/2109903779881681258"
-   ]
+    "https://x.com/ayano_kunimitsu/status/2108735139908145323",
+    "https://en.wikipedia.org/wiki/Los_Angeles_Angels"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
   },
   {
    "query": "site:linkedin.com superalloy",
@@ -3659,91 +4117,424 @@
     "https://www.linkedin.com/company/superalloy-manufacturing-solutions-corporation",
     "https://www.linkedin.com/company/seahsuperalloys",
     "https://www.linkedin.com/pulse/why-use-nickel-base-superalloys-heat-corrosion-resistance-sable",
+    "https://www.linkedin.com/company/superalloy",
     "https://www.linkedin.com/company/wuxi-longda-metal-material-co-ltd-",
     "https://www.linkedin.com/in/greg-gardiner-265141190",
     "https://www.linkedin.com/pulse/comprehensive-superalloy-market-analysis-growing-149-ny12e",
-    "https://www.linkedin.com/company/superalloy",
-    "https://www.linkedin.com/pulse/how-superalloy-automotive-market-supporting-7agvf",
-    "https://www.linkedin.com/company/seahsuperalloys/jobs",
-    "https://www.linkedin.com/pulse/what-superalloy-automotive-uses-how-works-y0ske"
-   ]
+    "https://www.linkedin.com/pulse/tungsten-carbide-vs-superalloy-shijin-lei",
+    "https://in.linkedin.com/company/fas10",
+    "https://en.wikipedia.org/wiki/Superalloy"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   }
  ],
  "missing": {
   "痛み・損（深さの印）": "記載なし（読んだ43頁・検索15回）"
  },
  "new_this_run": {
-  "社会（人・担い手）": [
+  "顧客の顧客（発注元が求めること）": [
    {
-    "quote": "障害者雇用で働く前に、24職種の仕事を3〜5分で無料体験できる「ためし...",
-    "url": "https://www.dreamnews.jp/press/0000355962",
+    "quote": "BE, 熱疲労強度などの機械特性が要求きれる. このため",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "肉化が要求され, 従来のフェライト系では強度不足の",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "支援サービスには、信頼性を確保するための金属組織試験、認証、および故障解析が含まれます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "具体的には、原材料とその主要サプライヤー、製品の製造に要するコスト構成の内訳、製造プロセスの詳細な分析、および航空機エンジン用ニッケル基超合金の産業チェーン全体の構造が網羅されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ニッケル基超合金は、通常、1020℃以上の温度で使用されるため、非常に高度な材料技術が要求されます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
    }
   ],
-  "経済（規模・価格・為替）": [
+  "顧客の競合（奪いに来る側）": [
    {
-    "quote": "3DプリンターとUVプリンターの複合機HeyGears「G1」、Kickstarterで32万円から",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "quote": "D-3 や NTK S-4 \" といった米国 AISI 規格の 200 番系に",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機用ニッケル基超合金の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機用ニッケル基超合金の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空エンジン用ニッケル基超合金の欧州市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本インサイトレポートは、世界の航空機用ニッケル基超合金の市場動向を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、航空機用ニッケル基超合金市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、市場はタイプ（鍛造超合金、鋳造超合金、その他）、材料（Ni–Cr–Fe基、Ni–Mo–Fe基、その他）、および用途（民生用、軍事用）にセグメント化され、それぞれのセグメントにおける2021年から2026年までの売上高、市場シェア、収益、および販売価格の詳細な分析が提供されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業ごとの年間売上高、売上高市場シェア、年間収益、収益市場シェア、および販売価格が比較されます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国・地域ごとの市場状況が個別に扱われています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "of heat-resistant properties have been suppressed. Recently, environmental regulations have become stricter, so heat-resistant",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "暗規制強化に対応した動きとして, 燃焼効率の向上に伴",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中流工程では、溶解・再溶解、インゴットおよびビレットの製造、粉末噴霧、熱処理、ならびに鋳造品、鍛造品、または積層造形によるプリフォームへの成形が行われ、これらは検査および認定試験によって支えられています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
    }
   ],
   "検索結果の抜粋": [
    {
-    "quote": "高合金取扱材質 （3） 耐熱合金 — 高合金取扱材質 （3） 耐熱合金 同和鍛造株式会社 PDF https://dowa-forging.co.jp > 2020/10 > metal_03",
-    "url": "https://dowa-forging.co.jp/wp-content/uploads/2020/10/metal_03.pdf",
+    "quote": "航空機エンジン用ニッケル基超 合金 の世界市場（ 2026年 ... — 航空機エンジン用ニッケル基超 合金 の世界市場（ 2026年 ... Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/9440413",
     "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "耐熱合金 市場の徹底調査レポート：CAGR 10.4% - LinkedIn — 耐熱合金 市場の徹底調査レポート：CAGR 10.4% - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 耐熱合金市場の徹底調...",
-    "url": "https://jp.linkedin.com/pulse/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AE%E5%BE%B9%E5%BA%95%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88cagr-104%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A22026%E5%B9%B42033%E5%B9%B4%E3%81%AE%E5%88%86%E6%9E%90%E3%82%92%E7%B6%B2%E7%BE%85-tulme",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "GRX-810 is going commercial! NASA's superalloy is now co ... — GRX-810 is going commercial! NASA's superalloy is now co ... Facebook https://www.facebook.com > ... > Videos",
-    "url": "https://www.facebook.com/NASAGlenn/videos/nasa-licenses-superalloy-to-benefit-us-economymp4/1543596422891235/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Comprehensive Superalloy Market Analysis: Growing at 14.9 ... — Comprehensive Superalloy Market Analysis: Growing at 14.9 ... LinkedIn https://www.linkedin.com > pulse > c...",
-    "url": "https://www.linkedin.com/pulse/comprehensive-superalloy-market-analysis-growing-149-ny12e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "顧客（金を払う側）": [
-   {
-    "quote": "耐熱合金 - メーカー・企業10社の業務用製品ランキング | イプロスものづくり",
-    "url": "https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    }
   ],
   "技術（新しい技術・実証）": [
    {
-    "quote": "腱駆動の軟性ロボットを2パラメータで制御——IITGが誤差1%以下の新手法を開発",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "quote": "boilers and turbines of thermal energy plants, engine parts of cars/aircraft/ships, garbage incinerators, heat-treatment furnaces,",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "独研究機関、EVバッテリーの容量を2.5倍に高める新素材を開発中——柔らかい布でシリコンの弱点を克服",
-    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "quote": "SH, 合金が開発されてきた. しかし, 希少元素の生産地",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "【無料・使い放題】MiniMaxの動画生成AI「H3」を開放 1文で音声付き動...",
-    "url": "https://www.dreamnews.jp/press/0000355962",
+    "quote": "省資源型耐熱材料の開発としては, 第2 次世界大戦中",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "終戦間際にネ 20 というジェットエンジンを開発し, HG",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "設計, 材料開発がなされているともいえる. コスト低減",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "* 大同特殊鋼帆技術開発研究所 (Corporate Research & Development Center, Daido Steel Co., Ltd.)",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Corporation の登録商標) など合金を開発した会社のブ",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "熱材料が開発されている \"“『. いずれの材料もそれぞれ",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "にて特長と開発動向について述べることとする.",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Table 1. Chemical compositions and main applications of typical heat-resistant steels and alloys.",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3Dプリンターで作る持ち運べるGridfinity収納ボックス、片手で開けられるラッチや引き出しスライドを備えたV2が公開",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "音楽に反応して光るLEDパネル付きジュークボックス、ラズパイと3Dプリンターで製作",
+    "url": "https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中流工程では、溶解・再溶解、インゴットおよびビレットの製造、粉末噴霧、熱処理、ならびに鋳造品、鍛造品、または積層造形によるプリフォームへの成形が行われ、これらは検査および認定試験によって支えられています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本インサイトレポートは、世界の航空機用ニッケル基超合金の市場動向を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第13章には、ATI Materials、Precision Castparts Corporation、Carpenter Technologies、Haynes、Aperam、Proterial、Aubert & Duval、Doncasters、VDM Metals、Nippon Yakin Kogyo、CMK Group、Special Metals Corporation、Fushun Special Steel、CISRI Gaona、Zhongke Sannai、Western Superconducting Technologies、Jiangsu Longda Superalloyを含む17の主要企業の詳細な分析が掲載されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "新しい合金成分の開発や、ナノ構造の制御、表面処理技術などが注目されており、これにより材料の耐久性や高温強度をさらに改善することが期待されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その多様な用途と優れた特性により、今後も新しい技術や材料の開発が進み、航空機エンジンの性能をさらに高めることが期待されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "ていたため量産に至らなかったことが知られている. ま",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "メーカーで規格に登録きれていないさまざまな新しい耐",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "可能なオーステナイト系を採用するとともに, 熱療労",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "を組み合せた2 重管構造にて解決したエキマニが採用",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "れぞれ使われた『\". 日本は戦前より欧米の技術を導入し",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "たが, 特に右ハンドル車のイギリスから技術を導入し",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "の調達が困難になったことから『\", Niの代わりにMn",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "マンスに優れるため, 日本にも導入されて SUH35 EL",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本資料には、航空機エンジン用ニッケル基超合金の世界市場規模、市場動向、セグメント別予測（鍛造超合金、鋳造超合金、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空エンジン用ニッケル基超合金の世界的な主要企業には、ATI Materials、Precision Castparts Corporation、Carpenter Technologies、Haynes、Aperamなどが含まれます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本インサイトレポートは、世界の航空機用ニッケル基超合金の市場動向を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、本レポートでは、航空機エンジン用ニッケル基超合金のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な航空機エンジン用ニッケル基超合金市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、航空機用ニッケル基超合金市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下に紹介する企業は、主要な専門家からの情報および各社の事業範囲、製品ポートフォリオ、市場浸透度を分析した上で選定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第1章には、航空機エンジン用ニッケル基超合金市場の紹介、調査対象となる期間（考慮される年数）、本調査の具体的な目的、採用された市場調査方法論、データ収集および分析のプロセスとデータソース、市場分析に影響を与える主要な経済指標、使用される通貨、および市場予測における潜在的な不確実性や注意点に関する情報が記載されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第3章には、企業別の航空機エンジン用ニッケル基超合金市場の詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業ごとの年間売上高、売上高市場シェア、年間収益、収益市場シェア、および販売価格が比較されます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、主要メーカーの生産地域分布、販売地域、提供する製品タイプ、製品所在地分布に関する情報も含まれます",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "た, 2007 年のニッケル価格の高騰も省資源型耐熱材料",
+    "url": "https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機エンジン用ニッケル基超合金の世界市場（2026年～2032年）、市場規模（鍛造超合金、鋳造超合金、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機エンジン用ニッケル基超合金の世界市場（2026年～2032年）、市場規模（鍛造超合金、鋳造超合金、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "世界の航空機エンジン用ニッケル基超合金の市場規模は、2025年の34億7,900万米ドルから2032年には50億1,700万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.5％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2025年、航空エンジン用ニッケル基超合金の世界生産量は約12,500トンに達し、世界平均市場価格は1トンあたり約28万5,000米ドル、粗利益率は約20%～40%でした",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機用ニッケル基超合金の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空機用ニッケル基超合金の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "航空エンジン用ニッケル基超合金の欧州市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「航空エンジン用ニッケル基超合金の業界予測」では、過去の売上高を検証し、2025年の世界の航空エンジン用ニッケル基超合金の総売上高を分析するとともに、2026年から2032年までの予測売上高について、地域および市場セクター別の包括的な分析を提供しています",
+    "url": "https://newscast.jp/smart/news/9440413",
+    "pass": 3,
+    "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-04T01:04:12.723858+00:00"
 }

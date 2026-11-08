@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・204品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・206品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -10468,14 +10468,67 @@
 
 ## 経済センサス‐基礎調査・活動調査 存続・新設・廃業事業所数 製造業 金属製品（中分類24）の表（退出した先を含む全体で埋め戻す・生き残りの偏り・4-95）（Economic Census establishments continuing new closed manufacturing fabricated metal products Japan）
 - 文脈：事業所の出入り
-- 痛み・損（深さの印）：記載なし（読んだ44頁・検索18回）
-- 事業所数・社数：記載なし（読んだ44頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ44頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ44頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ44頁・検索18回）
-- 生産能力・設備：記載なし（読んだ44頁・検索18回）
-- 10年推移：記載なし（読んだ44頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ44頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ47頁・検索18回）
+- 事業所数・社数：記載なし（読んだ47頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ47頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ47頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ47頁・検索18回）
+- 生産能力・設備：記載なし（読んだ47頁・検索18回）
+- 10年推移：記載なし（読んだ47頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ47頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査 産業細分類別 電気めっき（2464）・金属熱処理（2465）・金属プレス（2452）・金属用金型（2691）の事業所数と従業者数（2021〜2024年実績・同じ表の組・切れ目の後ろの系列・4-26）（Economic Structure Survey manufacturing establishments detailed industry electroplating heat treatment metal stamping dies establishments employees 2021-2024）
+- 文脈：人数・事業所数
+- 10年推移：
+  - 「(2025年12月25日)」（https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html）
+  - 「(2025年8月29日)」（https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html）
+  - 「(2025年1月16日)」（https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html）
+  - 「(2024年1月26日)」（https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html）
+  - 「(2023年12月22日)」（https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html）
+  - 「(2023年10月2日)」（https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html）
+- 痛み・損（深さの印）：記載なし（読んだ16頁・検索18回）
+- 事業所数・社数：記載なし（読んだ16頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ16頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ16頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ16頁・検索18回）
+- 生産能力・設備：記載なし（読んだ16頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ16頁・検索18回）
+
+## 同じ受託の細分類の「同じ表・同じ規模区分」の事業所数と従業者数の組（平均社員数を出すための分母と分子・単位の行と注記ごと・4-85・4-96 同じ出どころの中の複数の値の選び方）（same table establishments and employees by size class contracted metal processing average employees per establishment Japan）
+- 文脈：人数・事業所数
+- 事業所数・社数：
+  - 「第１表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第２表 従業者規模別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第３表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第４表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第５表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第６表 産業細分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第７表 産業中分類別事業所数、 事業所敷地面積及び１日当たり水源別用水量 （従業者３０人」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、年月日現在」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+- 社員数・平均社員数：
+  - 「第１表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第２表 従業者規模別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第３表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「及び付加価値額（従業者３０人以上の事業所） ······························ 37」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第４表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第５表 産業中分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「加価値額（従業者１～２９人の事業所） ··································· 112」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第６表 産業細分類別事業所数、 従業者数、 事業に従事する者の人件費及び派遣受入者に係る」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「第７表 産業中分類別事業所数、 事業所敷地面積及び１日当たり水源別用水量 （従業者３０人」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、年月日現在」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「一般社団法人 経済産業統計協会 TEL 03-3561-2974」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+- 受注金額・加工賃収入：
+  - 「高 （製造品出荷額等） 総額の９割を達成する範囲に含まれる事業所を調査対象とし、 その」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「４． 製造品出荷額等の経理事項については、 原則消費税込みで把握しているが、 一部の消費」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+- 1人あたり・1社あたり金額：
+  - 「及び付加価値額（従業者３０人以上の事業所） ······························ 37」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+- 生産能力・設備：
+  - 「第４表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+- 10年推移：
+  - 「、e-Stat 政府統計の総合窓口に掲載されている『2023年経済構造実態調査 製造業事」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+  - 「業所調査』の集計結果（ 「産業編」 「品目編」 「地域編」 ） （2024 年 7 月 26 日公表）とそれらの関」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

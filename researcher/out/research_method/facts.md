@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・219品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・222品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -239,6 +239,8 @@
   - 「公式サイトは最も信頼できる一次情報であり、企業の「公式な意思」が反映されています」（https://careerticket.jp/media/article/320/）
   - 「紹介する企業はすべて事前に直接取材を行っているため、求人票だけでは見えない職場の雰囲気をお伝えでき、あなたの企業研究ノートをより深みのある内容へとアップデートできるでしょう」（https://careerticket.jp/media/article/320/）
 - 失敗・落とし穴：
+  - 「4. 企業分析におけるよくある失敗と対処法」（https://cheercareer.jp/ip_blogs/552）
+  - 「ここでは、企業分析におけるよくある失敗と対処法を紹介します」（https://cheercareer.jp/ip_blogs/552）
   - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】｜billye」（https://note.com/billye/n/n1b91b3c986af）
   - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】」（https://note.com/billye/n/n1b91b3c986af）
   - 「特にファンダメンタル分析は、企業の経営状況の把握や、今後の業績の見通しを予測できるため、中長期投資の銘柄選びに役立ちます」（https://note.com/billye/n/n1b91b3c986af）
@@ -252,9 +254,10 @@
   - 「決算書は、いくつかの資料で構成されていますが、ファンダメンタル分析の基本となる資料は大きく3種類です」（https://note.com/billye/n/n1b91b3c986af）
   - 「そこで、実際にファンダメンタル分析を行う場合は、単に、1年分の売上高だけではなく、ここ10年分くらいの売上高の推移をチェックすることも大切です」（https://note.com/billye/n/n1b91b3c986af）
   - 「投資初心者の場合、ファンダメンタル分析の際にチェックしておきたい主な指標は、次の8個です」（https://note.com/billye/n/n1b91b3c986af）
-  - 「今回は、株のファンダメンタル分析に使う様々な株式指標が出てきたので、特に投資初心者の方は、少し戸惑ってしまったかもしれません」（https://note.com/billye/n/n1b91b3c986af）
-  - 「また、PBRやROAなど、横3文字の経済用語に抵抗感がある場合、ファンダメンタル分析を行うことに、億劫だと感じてしまう方もいるかもしれません」（https://note.com/billye/n/n1b91b3c986af）
 - 実例：
+  - 「短所で「周りの目を気にする」を伝える例文｜26卒内定者の実例」（https://careerpark-agent.jp/column/67587）
+  - 「例えば、安定志向の企業もあれば、リスクを覚悟で新しいビジネスに着手する企業もあり、事業に対する向き合い方は、同業界の企業で合っても大きく異なります」（https://cheercareer.jp/ip_blogs/552）
+  - 「例えば入社当初からスピード感を持って自分のスキルアップがしたいと考えている方が、安定志向の企業に入ってしまうと目的が叶えられません」（https://cheercareer.jp/ip_blogs/552）
   - 「有報の読み方 有報ガイド 有報が使えない非上場人気企業の調べ方を体系化し、サイトの構造的弱点を解消する 親子上場の有報活用テクニックなど、他の就活メディアにはない実践的な調査手法を提供 就活人気企業の中には非上場企業が多数あり、有報が使えないケースが実際に存在する 非上場でも決算公告・信用調査・上場子会社の有報など代替情報源は複数ある サントリーHDのように非上場でも上場子会社の有報から事業内容を読み取れるケースがある 情報源ごとに信頼性と入手しやすさが異なるため、複数を組み合わせるのが基本」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「従業員の多様性データや環境関連の投資額など、面接での差別化に使える情報が見つかるケースもあります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「: ケーススタディ、採用情報、プレスリリースが主な情報源」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
@@ -267,10 +270,8 @@
   - 「These are true “small businesses” that are dependent on the owner, who tends to be highly involved in day-to-day operations. Examples include a barber shop, a doctor’s office, M&I and BIWS, and any company with “Wall Street” in its title.」（https://mergersandinquisitions.com/private-company-valuation/）
   - 「企業分析の結果と自分の思考との共通点を探してみてください」（https://careerticket.jp/media/article/320/）
   - 「手書きのノートではなく、パソコンやスマホを活用して企業研究の結果を管理するのもおすすめです」（https://careerticket.jp/media/article/320/）
-  - 「近年では、履歴書をスマホやパソコンで作成するケースも増えています」（https://careerticket.jp/media/article/320/）
-  - 「具体的な数字や事業事例を引用することで、ほかの学生と差別化された、中身の濃い志望動機になるでしょう」（https://careerticket.jp/media/article/320/）
-  - 「就活中は企業研究だけでなく、スケジュールや自己分析の結果など、あらゆる情報を整理しなければなりません」（https://careerticket.jp/media/article/320/）
 - 検索結果の抜粋：
+  - 「【28卒】企業分析のやり方とは？4ステップで就活生に向けて解説 - 選... — Dec 27, 2025 · 企業分析の目的から具体的なやり方、比較ポイントまでを徹底解説。市場動向や競合比較など、分析を成功させる4つのステップと情報収集のコツを紹介します。自分に合う企業を見極め、選考を有利に進めるためのノウハウが満載です。」（https://cheercareer.jp/ip_blogs/552）
   - 「就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 調査方法: 企業の「会社概要」や「採用情報」ページでビジョン・ミッションを確認。 CSRレポート や インタビュー記事 をチェックして、企業の価値観や社会的責任に対する姿勢を調べる。」（https://note.com/miyu6754/n/nf3b036381057）
   - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ」（https://campus.doda.jp/career/job/000292.html）
   - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |... — Aug 7, 2026 · 企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう 企業研究ノートを作る前に押さえておくべき基礎知識 意味：企業情報を一覧化してまとめたノート 目的：企業選びや選考対策に役立てる メリット：企業を比較しやすくなる 3ステップで完成！ 企業研究ノートの作り方 ...」（https://careerpark-agent.jp/column/67587）
@@ -285,7 +286,6 @@
   - 「企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — Apr 16, 2026 · 企業分析ノートの作り方と競合比較 集めた情報は、頭の中に置いておくだけでは面接で引き出せません。 企業分析ノート として1社ごとに整理しておくことを強くおすすめします。ノートは前述の7項目（事業内容・ビジネスモデル・強み弱み・業績・将来性・社風・求める人物像）を見出しに ...」（https://sinmido-recruit.com/columns/企業分析のやり方｜有報・四季報・ir資料を使った/）
   - 「【企業分析のやり方・コツ】業界・社会全体の動向まで調べる — Feb 16, 2024 · 今回は企業分析のやり方についてです。 面接官は 志望企業や業界、社会動向等に関する質問を多く繰り出してきます。 しっかり分析して備えておくと面接で話が盛り上がりやすくなります。 業界により、適切なやり方が若干異なるかもしれませんが、 私のやり方を参考にチューニングしてみ ...」（https://note.com/sunakeso/n/nadc16e37f21f）
   - 「企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際に... — Aug 11, 2026 · 投資家は違うやり方をする。 自分の金を投じる相手を、公開データから自力で評価する。 そして必ず 複数を並べる。 1社だけ見ても、その数字が高いのか低いのか判断できないからだ。 就活は自分の時間を投じる意思決定なので、同じやり方が使える。」（https://note.com/irshukatsu/n/n208897213bd4）
-  - 「ゴブリンが教える『企業分析のやり方』｜ゴブリン就活 — Apr 29, 2026 · はじめまして！ゴブリン就活です！ 就活でよく聞く「企業分析」。 でも、実際にやろうとすると、 「何を調べればいいの？」 「企業研究と何が違うの？」 「志望動機にどうつなげればいいの？」 と迷う人も多いと思います。 企業分析は、ただ会社の名前や事業内容を調べるだけではあり ...」（https://note.com/gobrinsyukatsu/n/n4ba9c3240e78）
 
 ## 求人情報・採用ページから会社の実態を読む方法（infer company from job postings）
 - 文脈：企業
@@ -11424,6 +11424,14 @@
 ## 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）（analysis of competing hypotheses team workflow iterate add hypotheses OSINT report most likely）
 - 文脈：手法
 - 手順・やり方：
+  - 「マルウェア解析と仮想環境とInetsimの活用方法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「メモリの中を読む無料ツールの使い方と6つの虫めがね」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Splunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「この記事ではSplunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を、専門用語をかみ砕きながら丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「UTXO、おつり、TXID:vout、Spentの4語だけで追跡方法を整理」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「ACH surfaces disagreements within analytical teams. Bureaucratic pressure to produce unified assessments can push analysts to abandon methodological rigor in favor of consensus」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「— adversarial countermeasures against analytical methodology」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
   - 「加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
@@ -11431,14 +11439,6 @@
   - 「した「合理的敵情判断ノ方法」及び「敵情補充ノ原則」である14」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「このほか、情報分析方法について論じたものとしては以下を参照のこ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「「合理的敵情判断ノ方法」及び「敵情補充ノ法則」に示されている井上の情」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「報分析の方法論（以下「井上の情報論」という）について、これまで情報分析」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「なお、教案とは、「教師が授業の目的、方法、時間配当、参考資料などにつ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「拠の追加を行った場合、新要素について、第3段階の手順を実施する」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「上記の手順を経て得られた結果を報告するのが、第7 段階である」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「(1) 合理的敵情判断ノ方法」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「「合理的敵情判断ノ方法」では、敵情判断の方法について、三つの方面25に」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「これら三つの方面があいまって「合理的敵情判断ノ方法」は作動するも」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「判断ノ方法」の概要を、図1のようにまとめている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 突き合わせ・推定：
   - 「【イギリスの元スパイが説く】すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」とは？ | イギリス諜報機関の元スパイが教える 最強の知的武装術――残酷な時代を乗り切る10のレッスン | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/290369）
   - 「説明を検証し、仮説を選択する」（https://diamond.jp/articles/-/290369）
@@ -11472,6 +11472,9 @@
   - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 失敗・落とし穴：
+  - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Cognitive Biases in CTI: Structured Techniques for Sharper Analysis」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
+  - 「Next: Cognitive Biases in CTI →」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
   - 「競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系的な分析手法である」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
   - 「単一の仮説を支持する情報ばかりを集める「確証バイアス」を防ぎ、情報分析の客観性と精度を高めるために、特に諜報活動や戦略策定などで用いられている」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
   - 「インテリジェンスの歴史は、失敗の歴史ともいわれている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
@@ -11484,9 +11487,6 @@
   - 「までも仮説にとどまり、一度反証されれば、誤りとされるという反証主義を唱えた」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「また、確証バイアス」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「また、敵の欺瞞が行われること49や、味方の報告に誤りが」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「これに注意することにより、情況の思わぬ変化や敵の欺瞞に対応できる60」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「合、認知能力の限界から彼は確証バイアスの影響を受け、Ａを裏付けるインフ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
 - 実例：
   - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
   - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
@@ -11504,6 +11504,12 @@
   - 「討の結果、全ての仮説に整合・不整合であった証拠については、仮説ごとの確」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「以上の結果を踏まえ、第5段階では、各仮説の相対的な確からしさについて」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 検索結果の抜粋：
+  - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — Dec 19, 2024 · この記事は、 NTT Communications Advent Calendar 2024 の記事です。 この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます。 また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法につい ...」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「インテリジェンス思考術（第24回-完） – インテリジェンスの匠 — Apr 14, 2026 · 競合仮説分析（ACH）を使う 仮説競合分析とは 仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります。 この手法は、CIAの分析官リチャード・ホイヤーが、認知心理学をもとに整理したものです。背景には、KGBの二重 ...」（https://atsumori.shop/archives/2346）
+  - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · 集めた情報を「評価」する技術 Admiralty Code・循環報道・ACH・確度表現の実務ガイド OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes. The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most 」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
   - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
   - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。 ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -11513,9 +11519,6 @@
   - 「競合する仮説の分析 | 幻想の近現代（情報局815） — 「競合する仮説の分析」（以下 ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。 アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「Copilotで競合仮説分析(ACH)をやってみる - Qiita — Jan 10, 2026 · はじめに 競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系...」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
   - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。 NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
-  - 「Analysis of Competing Hypotheses (ACH) - liberty91.com — Apr 28, 2026 · A step-by-step guide to Analysis of Competing Hypotheses (ACH) for cyber threat intelligence, with a step-by-step example and matrix template.」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
-  - 「ACH Template - SANS Institute — Jun 4, 2025 · Download ACH Template, built by SANS Instructor Pasquale Stirparo, an excel sheet that implements the scoring and weighting methodology of the Analysis of Competing Hypotheses, more specifically the Weighted Inconsistency Counting algorithm.」（https://www.sans.org/tools/ach-template）
 
 ## 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界（estimate private company revenue physical footprint square footage locations equipment funding valuation limits）
 - 文脈：推定
@@ -12718,19 +12721,19 @@
 
 ## 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事（survivorship bias correction backfill dead firms pessimistic bounds double selection）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）（hypothesis forms moderation mediation business research segment analysis）
 - 文脈：手順
@@ -12739,3 +12742,167 @@
 - 一次情報の探し方：記載なし（読んだ27頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
 - 実例：記載なし（読んだ27頁・検索12回）
+
+## 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）（corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company）
+- 文脈：一次情報の探し方
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
+
+## 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）（selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「Clinical Research Institute, American University of Beirut, Beirut, Lebanon; Department of Health Research Methods, Evidence, and Impact, McMaster University, Hamilton, Ontario, Canada」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Methods Centre, Bruyère Research Institute, Ottawa, Ontario, Canada; School of Epidemiology and Public Health, Faculty of Medicine, University of Ottawa, Ottawa, Canada」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「We have updated the PRISMA 2009 statement (to PRISMA 2020) to ensure currency and relevance and to reflect advances in systematic review methodology and terminology.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「); a development paper (which outlines the steps taken to update the PRISMA 2009 statement and provides rationale for modifications to the original items」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「—A review that uses explicit, systematic methods to collate and synthesize findings of studies that address a clearly formulated question」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「for a description of each method)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Consider providing additional information in the title, such as the method of analysis used (for example, “a systematic review with meta-analysis”), the designs of included studies (for example, “a systematic review of randomised trials”), or an indication that the review is an update of an existing review or a continually updated (“living”) systematic review.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「but has been revised to make the wording consistent with the PRISMA 2020 statement and includes a new item recommending authors specify the methods used to present and synthesize results (item #6). The checklist includes the following 12 items:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Specify the methods used to assess risk of bias in the included studies」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Specify the methods used to present and synthesise results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「An abstract providing key information about the main objective(s) or question(s) that the review addresses, methods, results, and implications of the findings should help readers decide whether to access the full report.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「), consider presenting a logic model (sometimes referred to as a conceptual framework or theory of change) to visually display the hypothesised relationship between intervention components and outcomes.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Provide an explicit statement of all objective(s) or question(s) the review addresses, expressed in terms of a relevant question formulation framework (see Booth et al」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「for various frameworks).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+- 突き合わせ・推定：
+  - 「—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Meta-analysis of effect estimates」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「—A statistical technique used to synthesize results when study effect estimates and their variances are available, yielding a quantitative summary of results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「—The combination of a point estimate (such as a mean difference, risk ratio or proportion) and a measure of its precision (such as a confidence/credible interval) for a particular outcome」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Present results for main outcomes, preferably indicating the number of included studies and participants for each. If meta-analysis was done, report the summary estimate and confidence/credible interval. If comparing groups, indicate the direction of the effect (that is, which group is favoured)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Furthermore, authors need to interpret effect estimates in relation to whether the effect is of importance to decision makers. For a particular outcome and effect measure, this requires specification of thresholds (or ranges) used to interpret the size of effect (such as minimally important difference; ranges for no/trivial, small, moderate, and large effects).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「transforming effect estimates (such as converting standardised mean differences to odds ratios」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「The principal graphical method for meta-analysis is the forest plot, which displays the effect estimates and confidence intervals of each study and often the summary estimate.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Similar to tabulation, ordering the studies in the forest plot based on study characteristics (such as by size of the effect estimate, year of publication, study weight, or overall risk of bias) rather than alphabetically (as is often done) can reveal patterns in the data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Other graphs that aim to display information about the magnitude or direction of effects might be considered when a forest plot cannot be used due to incompletely reported effect estimates (such as no measure of precision reported).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Various statistical methods are available to synthesise results, the most common of which is meta-analysis of effect estimates (see」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「). Meta-analysis is used to synthesise effect estimates across studies, yielding a summary estimate. Different meta-analysis models are available, with the random-effects and fixed-effect models being in widespread use. Model choice can importantly affect the summary estimate and its confidence interval; hence the rationale for the selected model should be provided (see」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Meta-analysis is a statistical technique used to synthesise results when study effect estimates and their variances are available, yielding a quantitative summary of results.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「The method facilitates interpretation that would otherwise be difficult to achieve if, for example, a narrative summary of each result was presented, particularly as the number of studies increases. Furthermore, meta-analysis increases the chance of detecting a clinically important effect as statistically significant, if it exists, and increases the precision of the estimated effect.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「The summary estimate is a weighted average of the study effect estimates, where the study weights are determined primarily by the meta-analysis model. The two most common meta-analysis models are the “fixed-effect” and “random-effects” models.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+- 一次情報の探し方：
+  - 「Specify the primary source of funding for the review」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「pagm061901.w1.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「(757.9KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+- 失敗・落とし穴：
+  - 「Specify the methods used to assess risk of bias in the included studies」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Provide a brief summary of the limitations of the evidence included in the review (such as study risk of bias, inconsistency, and imprecision)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Findings: Of 8122 records identified, 21 were eligible and data were available for 15 RCTs, all of which had a low to moderate risk of overall bias. Anxiety (five interventions, 728 participants) showed a greater response to intervention among women reporting intimate partner violence than among those who did not (difference in standardised mean differences [dSMD] 0.31, 95% CI 0.04 to 0.57, I」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「) the study investigators considered most important (such as the study’s primary outcome). It is important to specify the methods that were used to select the results when multiple results were available so that users are able to judge the appropriateness of those methods and whether there is potential for bias in the selection of results.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Reviewers may make changes to the inclusion or definition of the outcome domains or to the importance given to them in the review (for example, an outcome listed as “important” in the protocol is considered “critical” in the review). Providing a rationale for the change allows readers to assess the legitimacy of the change and whether it has potential to introduce bias in the review process.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Study risk of bias assessment」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Item 11. Specify the methods used to assess risk of bias in the included studies, including details of the tool(s) used, how many reviewers assessed each study and whether they worked independently, and, if applicable, details of automation tools used in the process」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Users of reviews need to know the risk of bias in the included studies to appropriately interpret the evidence. Numerous tools have been developed to assess study limitations for various designs.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「However, many tools have been criticised because of their content (which may extend beyond assessing study limitations that have the potential to bias findings) and the way in which the items are combined (such as scales where items are combined to yield a numerical score) (see」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Reporting details of the selected tool enables readers to assess whether the tool focuses solely on items that have the potential to bias findings. Reporting details of how studies were assessed (such as by one or two authors) allows readers to assess the potential for errors in the assessments.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Reporting how risk of bias assessments were incorporated into the analysis is addressed in Items #13e and #13f.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Box 4. Assessment of risk of bias in studies and bias due to missing results.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「In PRISMA 2020, we distinguish “quality” from “risk of bias” and have focused the relevant items and elaborations on the latter. Risk of bias refers to the potential for study findings to systematically deviate from the truth due to methodological flaws in the design, conduct or analysis.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Quality is not well defined, but has been shown to encompass constructs beyond those that may bias the findings, including, for example, imprecision, reporting completeness, ethics, and applicability.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「In systematic reviews, focus should be given to the design, conduct, and analysis features that may lead to important bias in the findings.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+- 実例：
+  - 「In this article we explain why reporting of each item is recommended, present bullet points that detail the reporting recommendations, and present examples from published reviews」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Consider providing additional information in the title, such as the method of analysis used (for example, “a systematic review with meta-analysis”), the designs of included studies (for example, “a systematic review of randomised trials”), or an indication that the review is an update of an existing review or a continually updated (“living”) systematic review.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Example of item 1 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Example of item 2 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Example of item 3 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Example of item 4 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「For example, in a review examining the effects of psychological interventions for smoking cessation in pregnancy, the authors specified intervention groups (counselling, health education, feedback, incentive-based interventions, social support, and exercise) and the defining components of each group.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Specify eligibility criteria with regard to report characteristics, such as year of dissemination, language, and report status (for example, whether reports such as unpublished manuscripts and conference abstracts were eligible for inclusion).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Consider providing rationales for any notable restrictions to study eligibility. For example, authors might explain that the review was restricted to studies published from 2000 onward because that was the year the device was first available.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Example of item 5 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Authors should fully report the “what, when, and how” of the sources searched; the “what” and “when” are covered in item #6, and the “how” is covered in item #7. Further guidance and examples about searching can be found in PRISMA-Search, an extension to the PRISMA statement for reporting literature searches in systematic reviews.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Example of item 6 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Further guidance and examples of reporting search strategies can be found in PRISMA-Search.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「If published approaches such as search filters designed to retrieve specific types of records (for example, filter for randomised trials)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「or search strategies from other systematic reviews, were used, cite them. If published approaches were adapted—for example, if existing search filters were amended—note the changes made.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+
+## 消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手）（wayback machine verify deleted company statements OSINT evidence capture）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ｜惣一郎さん」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「この記事では、現在使えるウェブ魚拓サービスの種類と、それぞれの使い方をわかりやすく解説します」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「魚拓とはもともと魚の形を墨で紙に写し取る日本の伝統技法ですが、ウェブの世界でもページの「型」を取るイメージからこの名前が使われています」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「ブックマーク先が消えたときに試したい、Wayback Machineで過去のページを探す方法｜みなとHints｜暮らしの小さな発見(フォロバ100)」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「ブックマーク先が消えたときに試したい、Wayback Machineで過去のページを探す方法」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「ドメイン部分だけ入力して、トップページから目的ページを探す方法もある」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる | Resixley Blog」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「でニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「画像、動画、地図、衛星画像、天候記録、公文書、企業資料、ウェブアーカイブなどを組み合わせ、情報の出所、撮影場所、日時、変更履歴を確かめる方法を扱う」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「検索、地図、画像、動画、公文書など、一般に公開されている情報を、再検証できる手順によって組み合わせる方法である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「何が確認でき、何が確認できていないかを分け、証拠を積み重ね、第三者が同じ手順を再現できるようにすることである」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「統計を使っているなら、元の表と調査方法を見る」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「リバース画像検索は、画像を使って同じ画像や類似画像を探す方法である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+- 突き合わせ・推定：
+  - 「それが後で振り返って検証しようというときに役立つはずだ」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「数年後、数十年後、数百年後にも検証可能な形で残す」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「IPアドレスが分かると5ちゃんねる等の過去ログと照合して「匿名投稿」と「note上の本人」を結びつけられる（＝デラノニマイズ／非匿名化）の危険が現実に指摘された」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる | Resixley Blog」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「でニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「本記事は、連載「オールドメディアとネット時代の情報検証――認知戦・データサイエンス・OSINTから読み解く誤報と偏向報道【全10回】」の第7回である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「第7回では、インターネット上の公開情報から事実を検証するOSINTの基本を解説する」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「このように、公開されている情報を収集し、照合し、分析する手法をOSINTと呼ぶ」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「検索、地図、画像、動画、公文書など、一般に公開されている情報を、再検証できる手順によって組み合わせる方法である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「こうした情報を収集し、整理し、別の情報と照合して、調査上の問いへ答える」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「第4章 事実、主張、仮説を分ける」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「OSINTでは、確認された事実と、投稿者の主張と、調査者の仮説を分けなければならない」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「調査者が「別の国の過去映像ではないか」と考えたなら、それは仮説である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「事実、主張、仮説を混ぜると、検証前の推測が確定情報へ変わってしまう」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+- 一次情報の探し方：
+  - 「多くは国などの公的機関が保存・公開に取り組んでいているが、民間で最も有名なのが、アメリカの非営利団体」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「国の機関、地方自治体、独立行政法人、国公立大学などの公的機関のサイトが中心だが、一部民間サイトも収集している」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「リンクをクリックすれば、その先にあったページやPDFも見られるようになっていることが多いので、目的のものがWARPにあるなら」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「たとえ現在のサイトから消えたとしても、WARPに保存されていれば過去のデータも（リンク先のPDFまで）さかのぼることができる」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「公的機関のサイトが多いとはいえ、それ以外も意外とあるのがWARPの面白いところ」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「特に、国や自治体といった公的機関のサイトには、過去の大事な情報も、現在の大事な情報も詰まっている」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「日本の国立機関が運営する、信頼性の高い公的ウェブアーカイブです」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「公的機関サイトを法律に基づいて網羅的に収集」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「PDFなどのリンク先ファイルも含めて保存されるため、統計・報告書の確認に強い」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「WARPに保存されているのは主に公的機関のサイトです」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「WARP（国立国会図書館） & ◎ & ◎ & ✕ & 公的機関・行政サイト \\ \hlineBingキャッシュ & ○ & △ & ✕ & 最近のページ \\ \hline」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「保存データはHTMLだけでなく画像やスクリプト、PDFなども含まれることがあります」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「特許庁など一部機関で日付の証拠として受け入れられている」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「将来の消失に備えるなら、気になるページは即座にSave Page NowとPDF保存をしておくのが手軽で確実です」（https://note.com/minato_hints/n/n66753053b58f）
+- 失敗・落とし穴：
+  - 「以前の記事では、推し活の観点からWayback Machineの利活用を書いたが、とかく「調査」が必要な場面において大活躍間違いなしなので、」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「ただし、全てのページが残っているわけではないので注意が必要です」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「保存操作は対象サイトのアクセスログに残るため、こっそり調査したい場合は注意してください」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「こうした誤りは、誰にでも起こる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「第15章 画像の解像度と圧縮に注意する」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「ただし、影を使った分析には注意が必要である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「第45章 検索結果のない情報にも注意する」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「一つの仮説だけで進めると、確証バイアスによって、それを支持する証拠だけを集めやすくなる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「「ほぼ間違いない」という表現を使うなら、何が未確認なのかを示す」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「誤りが判明したら、元の投稿を黙って削除するだけでは不十分である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「・OSINT調査者にも、誤りを透明に訂正する責任がある」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「・誤りが判明した場合に訂正できる形で公開しているか」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「07:認知戦・認知バイアス」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「認知戦とは何か──情報戦・心理戦との違いと認知バイアスの基本」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「人はなぜ偏った報道を信じるのか―脳科学と認知バイアスで読み解く情報操作」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+- 実例：
+  - 「例えば、とあるサイトで年に1度公開される調査報告書がある」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「例えば、「市川海老蔵」と検索してみると、メタデータの検索結果と全文の検索結果が出てくる」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「以前はGoogle検索結果から「キャッシュ」をクリックすることでページの保存版を見られましたが、段階的に廃止が進み」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「現在はGoogleの代替として、検索結果の「この結果について」メニューからWayback Machineへのリンクが提供される場合があります」（https://note.com/zz08/n/ncd84a61a7641）
+  - 「以前読んだ解説、閉店したお店の告知、昔よく見ていたブログなど、検索しても再発見できないケースも」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「https:// と http://、wwwの有無で結果が変わることがある」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「検索結果やフォーム送信後に表示されるページ」（https://note.com/minato_hints/n/n66753053b58f）
+  - 「OSINTでは、単に検索結果を並べるだけでは不十分である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「しかし、検索結果の上位記事を読んだだけで、OSINTを行ったことにはならない」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「OSINTでは、検索結果から元の情報源へ戻る」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「検索結果が見つかった場合は、最も古い掲載例を探す」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「第11章 検索結果が出ないことは本物の証明ではない」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「しかし、検索結果がない理由は複数ある」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「したがって、検索結果がないことは、出典を発見できなかったことを意味するだけである」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+- 検索結果の抜粋：
+  - 「消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...」（https://note.com/shirabeshi/n/nee92b41d8cc1）
