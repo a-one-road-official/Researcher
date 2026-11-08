@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・239品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・241品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -12296,6 +12296,110 @@
 - 受注金額・加工賃収入：記載なし（読んだ54頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ54頁・検索18回）
 - 生産能力・設備：記載なし（読んだ54頁・検索18回）
+
+## PRTR 届出事業所数 電気めっき業・金属製品製造業の業種別・都道府県別の年次（環境省・経産省の届出の集計表・事業所の物理の足跡として工業統計の事業所数と並べる2本目の出どころ・site:env.go.jp・site:meti.go.jp・4-109）（PRTR notified facilities electroplating fabricated metal products by industry annual Japan）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ33頁・検索18回）
+- 事業所数・社数：記載なし（読んだ33頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ33頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ33頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ33頁・検索18回）
+- 生産能力・設備：記載なし（読んだ33頁・検索18回）
+- 10年推移：記載なし（読んだ33頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ33頁・検索18回）
+
+## めっき薬品・表面処理薬品の上場メーカーの有価証券報告書のセグメント売上（JCU・上村工業など・顧客＝受託めっき業の需要の先行・一致の信号として・会社の主張でなく開示の数字・4-109）（listed plating chemical suppliers segment sales Japan JCU C.Uyemura annual report surface treatment demand）
+- 文脈：上場・開示
+- 痛み・損（深さの印）：
+  - 「セグメントの名称 受注高(千円) 前年同期比(％) 受注残高(千円) 前年同期比(％)」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「区分 受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/06/S100W0TQ.pdf）
+  - 「新卒の3年後離職率は開示義務がなく、当サイトでは掲載していません」（https://kigyo-scope.jp/company/4966/）
+- 社員数・平均社員数：
+  - 「従業員数 (名) 183(22) 182(29) 184(29) 190(30) 192(27)」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「７ 従業員数の(外書)は、臨時従業員の年間平均雇用人員であります」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「明治33年４月 神戸市兵庫区において、個人経営の石原永壽堂を創業、医薬品、工業薬品の卸小売業を開始」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「(注) １ 従業員数は就業人員であります」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「２ 従業員数の(外書)は、臨時従業員の年間平均雇用人員であります」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「権の減少156百万円、たな卸資産の減少219百万円、仕入債務の減少160百万円及び法人税等の支払い219」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「(2) 研究開発活動及び人材育成について」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「第75期の研究人員は、79名で研究開発費として905百万円を投入しました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「(注) １ 従業員数の(外書)は、臨時従業員数であります」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「(人) ― 9 7 92 3 1 1,7291,841 ―」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「(注) 自己株式280株は、「個人その他」に2単元、「単元未満株式の状況」に80株含まれております」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「昭和51年４月 監査法人サンワ事務所(現 有限責」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「(外、平均臨時雇用者数) (人) 391 426 455 504 528(40) (45) (37) (6) (11)」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「(外、平均臨時雇用者数) (人) 250 245 245 252 258(9) (12) (11) (6) (11)」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「JCU(北京)貿易有限公司 中華人民共和国北京市朝陽区 千人民元1,000 薬品事業装置事業新規事業 51.0」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+- 受注金額・加工賃収入：
+  - 「売上高 (千円) 13,305,54212,823,07114,209,02415,523,08516,288,637」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「２ 売上高には、消費税等は含まれておりません」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「このような状況下、売上高は16,288百万円（前年比4.9％増）、営業利益は760百万円（前年比11.9％」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「増）、経常利益は821百万円（前年比11.6％増）となりましたが、投資有価証券売却損の計上により、当期」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「純利益は370百万円（前年比0.7％減）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「は10,704百万円（前年比11.7％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「は9,905百万円（前年比18.7％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「この結果、電子材料の売上高は799百万円（前」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「動車用品分野の売上高は1,619百万円（前年比1.1％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「この結果、工業薬品分野の売上高は3,963百万円（前年比8.5％減）となりまし」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「当期末における現金及び現金同等物は、前期末より644百万円減少し2,339百万円となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「税引前当期純利益が前年同期に比べ60百万円減少し571百万円となり、減価償却費344百万円、売上債」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「権の減少156百万円、たな卸資産の減少219百万円、仕入債務の減少160百万円及び法人税等の支払い219」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「百万円等により営業活動によるキャッシュ・フローは、1,049百万円（前年同期951百万円）となりま」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「有価証券の取得による支出1,013百万円、有価証券の売却及び償還による収入1,425百万円及び有形」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+- 1人あたり・1社あたり金額：
+  - 「このような状況下、売上高は16,288百万円（前年比4.9％増）、営業利益は760百万円（前年比11.9％」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「増）、経常利益は821百万円（前年比11.6％増）となりましたが、投資有価証券売却損の計上により、当期」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「純利益は370百万円（前年比0.7％減）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「は10,704百万円（前年比11.7％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「は9,905百万円（前年比18.7％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「この結果、電子材料の売上高は799百万円（前」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「動車用品分野の売上高は1,619百万円（前年比1.1％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「この結果、工業薬品分野の売上高は3,963百万円（前年比8.5％減）となりまし」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「当期末における現金及び現金同等物は、前期末より644百万円減少し2,339百万円となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「税引前当期純利益が前年同期に比べ60百万円減少し571百万円となり、減価償却費344百万円、売上債」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「権の減少156百万円、たな卸資産の減少219百万円、仕入債務の減少160百万円及び法人税等の支払い219」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「百万円等により営業活動によるキャッシュ・フローは、1,049百万円（前年同期951百万円）となりま」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「有価証券の取得による支出1,013百万円、有価証券の売却及び償還による収入1,425百万円及び有形」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「固定資産の取得による支出418百万円等により投資活動によるキャッシュ・フローは、△1,429百万円」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「（前年同期△1,760百万円）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+- 生産能力・設備：
+  - 「主な増減は、有形固定資産の増加221百万円、投資有価証券の減少103百万円、繰延税金資産の減」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「１ 【設備投資等の概要】」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「当期の設備投資の総額は、530百万円で主なものは神戸工場建屋建設、滋賀工場生産設備の維持更新及び」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「有形固定資産合計 3,355,443 3,576,552」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「有形固定資産の取得による支出 △859,790 △418,684」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「有形固定資産の売却による収入 259 －」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「(1) 有形固定資産（リース資産除く）」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「当社は、法人税法の改正に伴い、当事業年度より、平成24年４月１日以後に取得した有形固定資産につ」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「装置事業におきましては、設備投資が抑制された影響で、売上高は2,017百万円（前年同期比20.3％減）となり」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「装置事業におきましては、設備投資が抑制された影響で、売上高は2,017百万円（前年同」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「１ 【設備投資等の概要】」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「中心に622百万円の設備投資を実施いたしました」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「当社総合研究所(川崎市麻生区)の研究開発用実験設備の購入に74百万円の設備投資を実施いたしました」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「発用施設の新設に148百万円の設備投資を実施いたしました」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「JCU (THAILAND) CO., LTD.のめっき用治具製造設備建設に36百万円の設備投資を実施いたしました」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+- 10年推移：
+  - 「１ 【主要な経営指標等の推移】」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「このような状況下、売上高は16,288百万円（前年比4.9％増）、営業利益は760百万円（前年比11.9％」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「増）、経常利益は821百万円（前年比11.6％増）となりましたが、投資有価証券売却損の計上により、当期」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「純利益は370百万円（前年比0.7％減）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「は10,704百万円（前年比11.7％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「めましたが、下期に入り一部ユーザーで設備投資の凍結による装置需要の減少、生産縮小による試薬」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「需要の減少があり、前年を下回る結果となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「は9,905百万円（前年比18.7％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「電子材料のニッケル超微粉は、ユーザーのセラミックコンデンサの生産状況もあり納入が減少し」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「ユーザーの増加やリピート受注が好調に推移しましたが、洗車剤の減少、円高による輸出減もあり、自」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「動車用品分野の売上高は1,619百万円（前年比1.1％増）となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「磁鋼板向け特殊薬剤の輸出不調による使用量減少、鉄鋼市場向け一般薬剤の使用量減などあり需要は」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「この結果、工業薬品分野の売上高は3,963百万円（前年比8.5％減）となりまし」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「当期末における現金及び現金同等物は、前期末より644百万円減少し2,339百万円となりました」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「税引前当期純利益が前年同期に比べ60百万円減少し571百万円となり、減価償却費344百万円、売上債」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+- 人手と仕事の差：
+  - 「Ⅱ 外注加工費 323,735 11.2 306,387 11.1」（https://www.unicon.co.jp/files/yuhou-h25_6.pdf）
+  - 「セグメントの名称 受注高(千円) 前年同期比(％) 受注残高(千円) 前年同期比(％)」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007UX3.pdf）
+  - 「区分 受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/06/S100W0TQ.pdf）
+  - 「仕様、過去の類似契約における原価実績、契約期間の委託外注費、材料費、労務費の見積り等に基づ」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/06/S100W0TQ.pdf）
+- 事業所数・社数：記載なし（読んだ53頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

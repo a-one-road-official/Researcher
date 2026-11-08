@@ -8,360 +8,8 @@
  ],
  "context": "型",
  "kind": "market",
- "researched_at": "2026-11-08T09:15:44.104856+00:00",
+ "researched_at": "2026-11-08T17:04:29.390942+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なお、これらの手法をまとめて「インテリジェンス」と呼ぶ際には、概念上の緊張関係に注意が必要である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競争インテリジェンスを強化するために元情報機関の職員を雇う企業もあるが、その際には倫理と法の一線を越えないよう注意しなければならない(United Press International [UPI], 2001)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、こうした公開情報からの人物特定の技法は、前述の攻撃者によるソーシャルエンジニアリングと表裏一体である点に注意が必要である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競合が不注意でデータを露出させた場合、たとえば保護されていないウェブサイトのディレクトリやWi-Fiの位置情報の公開データベースなどは、合法的に入手できる限り分析が許される",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業は第三者のデータ提供者にも注意を払うべきである",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、こうした間接的な代理指標は誤差や見せかけの相関を含みうるため、複数の情報源で裏づけて初めて信頼できる推論になる点に注意が必要である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意すべきなのは、重要な非公開の財務情報は内部情報にあたりうる点である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意すべきなのは、AIには質の高いデータを与え、適切な問いで導く必要があるという点である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インテリジェンスの世界では、AIを慎重に管理しなければ偏りや誤りを持ち込みうるという認識がある",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAの公刊誌に載った論考は、生成AIが存在しない事実や引用を作り出すこと、質の高いAIを使う人ほど注意を怠りがちになること、利用者がAIの偏りを吸収し、使うのをやめた後もそれを保ち続けることを研究に基づいて指摘し、AIは「本物の知性を補う義肢」として従属的に使うべきだと結論づけている(Brown, 2024)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法的には、たとえ不注意で漏れたものでも、明らかに機密である情報を故意に使うことには危険が伴う",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GMOインターネットグループ. (2025). OSINTとは？活用時の注意点と具体的プロセスを詳しく解説. GMOインターネットグループ サイバーセキュリティ.",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "またこの文章は分析者と意思決定者が別の役割であることが前提に書かれているが、意思決定者が自分で分析する場合でも注意すべき点は全く同じである",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者はバイアスを明らかにし緩和する推論の技法と実務的な仕組みを用いなければならない",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バイアス、利害関係、視野狭窄、自己欺瞞、願望、思い込み、好みなど客観性を失わせる要因は数多い",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この4つのことは、分析を語る上では間違いなく基準となるものだ",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2つのICの分析要素間のような、分析判断における重大な相違は、十分に検討し、顧客の注意を喚起すべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その際、分析成果物は、顧客にとって有用なすべての判断を提示すべきであり、間違いのリスクを最小化するために困難な判断を回避すべきではない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ACHが対抗しようとしている認知バイアスは、OSINT調査者の職業病でもあります",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バイアス 1",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バイアス 2",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バイアス 3",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "直すための更新にも落とし穴がある本体の弱点（CVE-2026-119977）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Analytic Standards - DNI .gov — Analytic Standards - DNI .gov DNI.gov PDF https://archive.dni.gov > documents > ICD > ICD-203",
-    "url": "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス — Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Alexandru Marcoci, Ans Vercammen and Mark Burgman] ODNI as an ... — Director of National Intelligence (ODNI) charged with ensuring that intelligence reports from across the IC comply with these standards. ICD203 (in its second, January 2, 2015 iteration) contains four analytic standards: objectivity, political independence, timeliness and good tradecraft. The last is broken down into nine analytic",
-    "url": "https://researchonline.lse.ac.uk/id/eprint/90562/1/Marcoci_ODNI+as+analytic+ombudsman_2018.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "競争インテリジェンスの担当部門は、報道記事、業界報告書、特許、学術研究、そして近年ではソーシャルメディアやウェブ解析といった、情報機関と多くを共有する情報源に頼っている",
@@ -706,14 +354,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
     "quote": "The Value of ICD 203 Analytical Tradecraft Standards in the ... Oct 20, 2023 · The research article \"Can Private Sector Intelligence Benefit from US Intelligence Community Analytic Standards?\" penned by Dorothea Gioe, Jeremey Parkhurst, & David V. Gioe delves deep into this question. The authors explore the potential of ICD 203's core principles and standards in shaping the analytical efforts of b",
@@ -752,51 +392,9 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "SNS・note（note・本文）": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5つの「Analytic Standards」",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どんなにデータ基盤を充実させて整備したとしても、分析がおかしければすべては無駄になる。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ところが、分析の成果物について、「これはこうあるべきだ」という体系的な基準が見当たらない（自分も書けていないので責任の一端は感じている）。SQLの書き方も可視化の作法も統計手法の選び方も、手段の教材は山ほどある。だが、良い分析と悪い分析を何が分けるのか、その基準を示したものにはなかなか出会わない。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資料をあさっていたら、こんなものを見つけた。米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "8ページではあるが、分析成果物が満たすべき基準を明文化している。読んでみると、これがデータ分析の成果物にもほとんどそのまま当てはまる。データから意思決定に資するインテリジェンスを作るという営みの構造が、国家安全保障でも企業でも個人でも同じだからだ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この文書は、二階建ての構造になっている。上の階が、Analytic Standards（分析基準）である。これは理念のレベルだ。分析はそもそもどうあるべきかをまとめている。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この4つは分析がまず満たすべき項目である。正しい分析になるための前提であると言ってもいい。1つでも欠ける分析には価値がない。",
+    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
     "url": "https://note.com/shinu/n/n92a701e0f992",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1346,6 +944,388 @@
    {
     "quote": "UTXO、おつり、TXID:vout、Spentの4語だけで追跡方法を整理",
     "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、これらの手法をまとめて「インテリジェンス」と呼ぶ際には、概念上の緊張関係に注意が必要である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競争インテリジェンスを強化するために元情報機関の職員を雇う企業もあるが、その際には倫理と法の一線を越えないよう注意しなければならない(United Press International [UPI], 2001)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、こうした公開情報からの人物特定の技法は、前述の攻撃者によるソーシャルエンジニアリングと表裏一体である点に注意が必要である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合が不注意でデータを露出させた場合、たとえば保護されていないウェブサイトのディレクトリやWi-Fiの位置情報の公開データベースなどは、合法的に入手できる限り分析が許される",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業は第三者のデータ提供者にも注意を払うべきである",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、こうした間接的な代理指標は誤差や見せかけの相関を含みうるため、複数の情報源で裏づけて初めて信頼できる推論になる点に注意が必要である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意すべきなのは、重要な非公開の財務情報は内部情報にあたりうる点である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意すべきなのは、AIには質の高いデータを与え、適切な問いで導く必要があるという点である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インテリジェンスの世界では、AIを慎重に管理しなければ偏りや誤りを持ち込みうるという認識がある",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAの公刊誌に載った論考は、生成AIが存在しない事実や引用を作り出すこと、質の高いAIを使う人ほど注意を怠りがちになること、利用者がAIの偏りを吸収し、使うのをやめた後もそれを保ち続けることを研究に基づいて指摘し、AIは「本物の知性を補う義肢」として従属的に使うべきだと結論づけている(Brown, 2024)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法的には、たとえ不注意で漏れたものでも、明らかに機密である情報を故意に使うことには危険が伴う",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GMOインターネットグループ. (2025). OSINTとは？活用時の注意点と具体的プロセスを詳しく解説. GMOインターネットグループ サイバーセキュリティ.",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "またこの文章は分析者と意思決定者が別の役割であることが前提に書かれているが、意思決定者が自分で分析する場合でも注意すべき点は全く同じである",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者はバイアスを明らかにし緩和する推論の技法と実務的な仕組みを用いなければならない",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バイアス、利害関係、視野狭窄、自己欺瞞、願望、思い込み、好みなど客観性を失わせる要因は数多い",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この4つのことは、分析を語る上では間違いなく基準となるものだ",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2つのICの分析要素間のような、分析判断における重大な相違は、十分に検討し、顧客の注意を喚起すべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その際、分析成果物は、顧客にとって有用なすべての判断を提示すべきであり、間違いのリスクを最小化するために困難な判断を回避すべきではない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ACHが対抗しようとしている認知バイアスは、OSINT調査者の職業病でもあります",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バイアス 1",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バイアス 2",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バイアス 3",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "直すための更新にも落とし穴がある本体の弱点（CVE-2026-119977）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5つの「Analytic Standards」",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どんなにデータ基盤を充実させて整備したとしても、分析がおかしければすべては無駄になる。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ところが、分析の成果物について、「これはこうあるべきだ」という体系的な基準が見当たらない（自分も書けていないので責任の一端は感じている）。SQLの書き方も可視化の作法も統計手法の選び方も、手段の教材は山ほどある。だが、良い分析と悪い分析を何が分けるのか、その基準を示したものにはなかなか出会わない。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料をあさっていたら、こんなものを見つけた。米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "8ページではあるが、分析成果物が満たすべき基準を明文化している。読んでみると、これがデータ分析の成果物にもほとんどそのまま当てはまる。データから意思決定に資するインテリジェンスを作るという営みの構造が、国家安全保障でも企業でも個人でも同じだからだ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この文書は、二階建ての構造になっている。上の階が、Analytic Standards（分析基準）である。これは理念のレベルだ。分析はそもそもどうあるべきかをまとめている。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この4つは分析がまず満たすべき項目である。正しい分析になるための前提であると言ってもいい。1つでも欠ける分析には価値がない。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -2067,6 +2047,26 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Analytic Standards - DNI .gov — Analytic Standards - DNI .gov DNI.gov PDF https://archive.dni.gov > documents > ICD > ICD-203",
+    "url": "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス — Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Alexandru Marcoci, Ans Vercammen and Mark Burgman] ODNI as an ... — Director of National Intelligence (ODNI) charged with ensuring that intelligence reports from across the IC comply with these standards. ICD203 (in its second, January 2, 2015 iteration) contains four analytic standards: objectivity, political independence, timeliness and good tradecraft. The last is broken down into nine analytic",
+    "url": "https://researchonline.lse.ac.uk/id/eprint/90562/1/Marcoci_ODNI+as+analytic+ombudsman_2018.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -2113,7 +2113,7 @@
     "method": "browser"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=45d11c4114b7136e2cded75b5b4d49aa",
+    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=85ac9cf4261e3a492f1f2aae8660f8b1",
     "status": "ok",
     "method": "http"
    },
@@ -2153,7 +2153,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.waltsu.co.jp/magazine/marketing/ai-market-research/",
+    "url": "https://www.surece.co.jp/column/03/",
     "status": "ok",
     "method": "http"
    },
@@ -2168,19 +2168,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://jdream3.com/research-report/research-trends/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.ipsos.com/ja-jp/social-media-research-insight-services",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.cyber.go.jp/pdf/policy/inquiry/gijutsukenshou_gaiyou_r4.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
@@ -2188,7 +2178,17 @@
     "method": "http"
    },
    {
+    "url": "https://research.impress.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www8.cao.go.jp/cstp/stmain/pdf/20230314thinktank/seikabutsu/shiryou3-1-01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cyber.go.jp/pdf/policy/inquiry/gijutsukenshou_gaiyou_r4.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -2213,7 +2213,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
+    "url": "https://www.dodig.mil/reports.html/article/3480460/evaluation-of-controls-over-the-application-of-analytic-standards-by-the-servic/",
     "status": "http_403",
     "method": "http"
    },
@@ -2278,10 +2278,10 @@
     "https://www.ipsos.com/ja-jp/market-research-in-usa",
     "https://professional.mynavi.jp/magazine/magazine_230",
     "https://www.brainpad.co.jp/brandwatch/blog/5829/",
-    "https://www.waltsu.co.jp/blog/ai-market-research/",
+    "https://www.surece.co.jp/column/03/",
     "https://gmo-research.ai/research-column",
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "https://www.tanabeconsulting.co.jp/vision/column/detail217.html",
+    "https://www.justsystems.com/jp/marketing-research/article/market-research/",
     "https://note.com/everprogress/n/n28fc53b2c5cc"
    ],
    "engines": [
@@ -2295,20 +2295,20 @@
    "results": [
     "https://note.com/everprogress/n/nde8351a93d60",
     "https://www.nids.mod.go.jp/about_us/topic/pdf/240301_1_03.pdf",
-    "https://jdream3.com/research-report/research-trends/",
     "https://gmo-research.ai/research-column",
     "https://www.ipsos.com/ja-jp/social-media-research-insight-services",
-    "https://www.cyber.go.jp/pdf/policy/inquiry/gijutsukenshou_gaiyou_r4.pdf",
     "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "https://research.impress.co.jp/",
     "https://www8.cao.go.jp/cstp/stmain/pdf/20230314thinktank/seikabutsu/shiryou3-1-01.pdf",
-    "https://www.amazon.co.jp/全訳注-米国情報機関の分析技術-CIA・ODNI公開資料に学ぶ仮説検証・出典評価・意思決定の技法-アメリカ中央情報局-国家情報長官室/dp/B0H6TP8KBH"
+    "https://www.cyber.go.jp/pdf/policy/inquiry/gijutsukenshou_gaiyou_r4.pdf",
+    "https://odintw.com/service_research/",
+    "https://note.com/everprogress/n/n28fc53b2c5cc"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "ODNI analytic standards applied business research",
@@ -2317,9 +2317,9 @@
     "https://www.ndu.edu/Portals/59/Documents/NIC%20Documents/Shorts/NIUShort_20240606_DNI_2024_02624.pdf",
     "https://www.intelligence.gov/mission/our-values/objectivity",
     "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1923&context=jss",
-    "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
-    "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2235078",
     "https://www.dodig.mil/reports.html/article/3480460/evaluation-of-controls-over-the-application-of-analytic-standards-by-the-servic/",
+    "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2235078",
+    "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
     "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
     "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
     "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf"
@@ -2345,7 +2345,7 @@
     "https://note.com/agile_peony2814/n/nbf57357a6294"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -2353,13 +2353,13 @@
   {
    "query": "site:x.com 情報機関の分析基準（ODNIの分析基準）を市場調査に使う",
    "results": [
-    "https://x.com/qqOoUmYgbI80868/status/2035218895028855059",
     "https://x.com/RibbonChieko/status/2089975733729083399",
+    "https://x.com/seculligence/status/2062263299614376387",
     "https://x.com/SON_SC/status/2059980313863024644",
     "https://x.com/cdyh5f/status/2118314025650200650",
-    "https://x.com/01ra66it/status/2046033752909021596",
     "https://x.com/i/trending/2034947663532056912",
-    "https://x.com/seculligence/status/2062263299614376387"
+    "https://x.com/01ra66it/status/2046033752909021596",
+    "https://x.com/K_Ichida/status/2072276026097336767"
    ],
    "engines": [
     "ddgs:google"
@@ -2369,11 +2369,11 @@
   {
    "query": "site:linkedin.com 情報機関の分析基準（ODNIの分析基準）を市場調査に使う",
    "results": [
-    "https://www.linkedin.com/company/iarpa-odni",
+    "https://jp.linkedin.com/company/odni",
     "https://www.linkedin.com/posts/odni_ics-206-01pdf-activity-7269818693260349440-zVb5",
-    "https://www.linkedin.com/posts/giangiuseppe-pili-02a22658_analyticstandards-objectivity-politicallyindependent-activity-7355556133010296832-7PMM/",
     "https://www.linkedin.com/posts/odni_ic-data-strategy-activity-7098302402730086401-TYIH",
     "https://jp.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford?tl=ja",
+    "https://www.linkedin.com/posts/giangiuseppe-pili-02a22658_analyticstandards-objectivity-politicallyindependent-activity-7355556133010296832-7PMM/",
     "https://jp.linkedin.com/posts/増田聡-masudasatoshi7-73150b59_速報国家情報局国家情報会議新設など盛り込む法案が閣議決定インテリジェンス-activity-7438325508221751296-Ldua",
     "https://www.linkedin.com/posts/増田聡-masudasatoshi7-73150b59_odni-と-cia-が-2024-年から-2026-年に向けたインテリジェンス-activity-7172736893980278784-aE4_"
    ],
@@ -2386,12 +2386,12 @@
    "query": "site:facebook.com 情報機関の分析基準（ODNIの分析基準）を市場調査に使う",
    "results": [
     "https://www.facebook.com/dni.gov/",
+    "https://www.facebook.com/dni.gov/posts/the-office-of-the-director-of-national-intelligence-today-released-the-2026-annu/1416617887162345/",
     "https://www.facebook.com/dni.gov/videos/in-case-you-missed-it-odni-recently-released-the-intelligence-community-data-str/130646106775469/",
     "https://www.facebook.com/masahide.tsukahara.9/posts/28583545414630628/",
-    "https://www.facebook.com/dni.gov/posts/the-office-of-the-director-of-national-intelligence-today-released-the-2026-annu/1416617887162345/",
     "https://www.facebook.com/100012434656292/posts/ギャバード-国家情報長官dniはなぜ辞任したのか-アメリカインテリジェンスコミュニティにおけるdni-ciadni-nsadni-fbi間の権限関係とdigの役/2428429477581517/",
-    "https://www.facebook.com/kharagucih/videos/odni公式サイトで確認したギャバード文書の検証-httpsstreamyardcomk8tpy325j8cj/4539697196355341/",
-    "https://www.facebook.com/nakata.office/posts/トランプ次期大統領はｃｉａやｎｓａなど肥大化した情報機関が独自の政治的な活動を展開するのに歯止めをかけようとしているのかはたまたこれらの情報組織を完全掌握して活/1404808606210162/"
+    "https://www.facebook.com/yoshimi.kashikura/posts/北海道新聞記者の拘束ロシアの情報機関は何を考えているのかロシア連邦保安局が北海道新聞の今井裕紀記者をスパイ容疑で拘束しましたロシア側の発表をどう読み解くべきでし/28600116116323388/",
+    "https://www.facebook.com/epochtimes.jp/posts/米議会の要請を受け米情報機関を統括する国家情報長官室odniは6月25日未確認飛行物体ufoの目撃情報や分析に関する報告書を公開したこれらの物体の正体は依然とし/4299664850110427/"
    ],
    "engines": [
     "ddgs:google"
@@ -2405,18 +2405,18 @@
     "https://note.com/shinu/n/n92a701e0f992",
     "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
     "https://note.com/everprogress/n/ne12359f56406",
-    "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://note.com/everprogress/n/nc066813442e3",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/everprogress/n/n28fc53b2c5cc",
     "https://manamina.valuesccg.com/articles/5262",
     "https://note.com/everprogress/n/ndfc934686a89",
-    "https://note.com/_takumi_inoue_/n/nb0384594376c"
+    "https://hon-dana.seesaa.net/article/521698239.html"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 13
   },
   {
    "query": "情報機関の分析基準（ODNIの分析基準）を市場調査に使う X 投稿",
@@ -2425,15 +2425,15 @@
     "https://www.nttcoms.com/service/social/column/sns-research-tool/",
     "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
     "https://prtimes.jp/main/html/rd/p/000000094.000026754.html",
-    "https://xn--q6vw15bczbg0p.com/knowhow/u4_x/",
     "https://inods.co.jp/topics/specials/9564/",
     "https://www.nhk.or.jp/bunken/d/research/yoron/BUNA0000010730030005/",
-    "https://www.salesforce.com/jp/analytics/sns-analysis/",
     "https://www.mieruka-engine.com/media/sns",
+    "https://xn--q6vw15bczbg0p.com/knowhow/u4_x/",
+    "https://www.aspicjapan.org/asu/article/48686",
     "https://note.com/everprogress/n/n28fc53b2c5cc"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -2444,13 +2444,13 @@
     "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
     "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze",
     "https://www.linkedin.com/company/iarpa-odni",
-    "https://www.linkedin.com/jobs/view/targeting-analyst-at-office-of-the-director-of-national-intelligence-4488703782?refId=DNq7j%2BVk%2FZByUnFsPOareA%3D%3D&trackingId=elwa2aSbjWufbGcLw5qxxw%3D%3D",
-    "https://www.linkedin.com/jobs/view/mid-target-intel-analyst-at-amentum-4444968791",
     "https://www.linkedin.com/company/odni",
-    "https://www.linkedin.com/jobs/view/all-source-analyst-current-intel-senior-top-secret-sci-with-poly-required-at-aim-point-innovation-llc-4465903668",
+    "https://www.linkedin.com/jobs/view/senior-target-intel-analyst-at-amentum-4485371649",
     "https://www.linkedin.com/in/docfstclair",
+    "https://www.linkedin.com/jobs/view/targeting-analyst-at-office-of-the-director-of-national-intelligence-4488703782?refId=DNq7j%2BVk%2FZByUnFsPOareA%3D%3D&trackingId=elwa2aSbjWufbGcLw5qxxw%3D%3D",
     "https://www.linkedin.com/in/barryzulauf",
-    "https://www.linkedin.com/jobs/view/senior-target-intel-analyst-at-amentum-4485371649"
+    "https://www.linkedin.com/in/brian-holmes-ph-d-287561155",
+    "https://www.linkedin.com/in/william-hickman"
    ],
    "engines": [
     "ddgs:bing",
@@ -2461,6 +2461,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 22,
+ "runs": 23,
  "first_researched_at": "2026-11-05T00:48:39.389212+00:00"
 }

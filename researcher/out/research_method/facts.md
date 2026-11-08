@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・250品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・252品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2380,38 +2380,45 @@
 ## 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）（structured analytic techniques ACH analysis of competing hypotheses generation verification separation）
 - 文脈：分析の型
 - 手順・やり方：
-  - 「本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである」（https://note.com/everprogress/n/nc066813442e3）
-  - 「エージェント型AI：人間が与えた目標に対し、必要な手順を自ら組み立て、外部の道具を呼び出して多段階の作業を進めるAI」（https://note.com/everprogress/n/nc066813442e3）
-  - 「Khalid & Witmer(2025)は、大規模言語モデルを用いた主題分析の手順を四段階に整理した」（https://note.com/everprogress/n/nc066813442e3）
-  - 「一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない」（https://note.com/everprogress/n/nc066813442e3）
-  - 「エージェント型AIはこれをさらに進め、収集、処理、分析の三つの段階を自律的に行き来する(Palmieri et al., 2026)」（https://note.com/everprogress/n/nc066813442e3）
-  - 「：theHarvester、SpiderFoot、OSINT Framework」（https://note.com/everprogress/n/nc066813442e3）
-  - 「エージェント型の例としてOpenOSINTがある」（https://note.com/everprogress/n/nc066813442e3）
-  - 「対話型の実行環境、ウェブ画面、コマンドライン、MCPサーバーの四つの使い方がある(OpenOSINT, 2026)」（https://note.com/everprogress/n/nc066813442e3）
-  - 「2.2.3 「エージェント型OSINT」という質的な転換」（https://note.com/everprogress/n/nc066813442e3）
-  - 「情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である」（https://note.com/everprogress/n/nc066813442e3）
-  - 「CIAの公刊誌に載った近年の論考は、ソーシャルメディアなどの公開データと業務上の記録を大規模言語モデルに読み込ませ、協力者との対話で使うべき言葉や避けるべき話題、相手が示しそうな反論を事前に助言させる使い方を提案している(Mulligan, 2026)」（https://note.com/everprogress/n/nc066813442e3）
-  - 「GCHQ長官のアン・キースト＝バトラーは、2026年5月27日にブレッチリー・パークで行った第1回GCHQ年次講演で、国家サイバーセキュリティセンター(NCSC)がエージェント型AIを組み込んだ国家規模のサイバー防衛能力を開発中であることを明らかにした」（https://note.com/everprogress/n/nc066813442e3）
-  - 「2021年の「拡張知能」から2026年の「エージェント型AIによる機械の速さでの防御」への移行は、後述する導入計画の第一段階から第四段階までを、一つの機関が5年間で歩んだ例といえる」（https://note.com/everprogress/n/nc066813442e3）
-  - 「2.4.2 フランスDGSEの統合型モデル」（https://note.com/everprogress/n/nc066813442e3）
-  - 「GCHQが自らの防御にエージェント型AIを組み込もうとしているように、企業も自社ネットワークの防御に同じ技術を使うことができる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「「AIが自分の調査手順を書き換える」層は、最も魅力的で、最も危うい」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「これらを、手順（プロトコル）として実行可能にしようと試みたのが、先ほど触れた」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「Signal Map（シグナル地図）→ Convergence Analysis（収束分析）→ Contrarian View（逆張りの視点）→ Timing Grid（時機の判断）と進む手順は、実務にも使いやすい」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「ここがポイント：インテリジェンスとは「情報の量」ではなく「問いの質」と「疑う手順」で決まる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「疑い続ける手順を、止まらずに回し続けること」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「AIは、こうした人間の方法論を置き換えるのではなく、」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「EU：毎年の報告書と、方法の透明性への注文」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「日本：NISTEPが書いた、率直な反省」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「科学技術・学術政策研究所（NISTEP）は、1971年からおよそ5年ごとに」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「Firecracker型のmicroVMは」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「手続き記憶：改善され続ける調査手順（Skill）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「（Nous Research、2026年2月公開）は、セッションをまたぐ永続メモリ、SQLiteの全文検索による過去会話の検索、そして経験からSKILL.mdというファイルに手順を保存する仕組みを持つ」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「1つのオープンウェイトモデル（Qwen3.6-27B）が、タスクを解く役、チームの手順を最適化する役、成果を評価する役を兼ね、」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
 - 突き合わせ・推定：
-  - 「競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる」（https://note.com/everprogress/n/nc066813442e3）
-  - 「市場規模や性能に関する推計は情報源によって大きく食い違う」（https://note.com/everprogress/n/nc066813442e3）
-  - 「一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない」（https://note.com/everprogress/n/nc066813442e3）
-  - 「どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている」（https://note.com/everprogress/n/nc066813442e3）
-  - 「画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)」（https://note.com/everprogress/n/nc066813442e3）
-  - 「研究は収集と分析に偏り、検証と報告の段階が手薄である」（https://note.com/everprogress/n/nc066813442e3）
-  - 「同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している」（https://note.com/everprogress/n/nc066813442e3）
-  - 「AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る」（https://note.com/everprogress/n/nc066813442e3）
-  - 「この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる」（https://note.com/everprogress/n/nc066813442e3）
-  - 「第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている」（https://note.com/everprogress/n/nc066813442e3）
-  - 「モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない」（https://note.com/everprogress/n/nc066813442e3）
-  - 「本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する」（https://note.com/everprogress/n/nc066813442e3）
-  - 「大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)」（https://note.com/everprogress/n/nc066813442e3）
-  - 「技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している」（https://note.com/everprogress/n/nc066813442e3）
-  - 「この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「しかし五つを一本の線でつなぐと、「AIの競争軸が、モデルの大きさ競争から、管理下で安全にエージェントを動かす基盤の確保へ移りつつあるのではないか」という仮説が立ち上がる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「インテリジェンスには、「だから何なのか」「違っていたらどうなるのか」という、仮説と検証が入る」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「自分の気に入った仮説を支持する証拠を集めるのではなく、複数の仮説を並べ、「どの仮説と矛盾する証拠か」を表にして、矛盾の多い仮説から消していく」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「であって、検証済みの事実ではない」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「では、冒頭の仮説――「管理下でエージェントを安全に動かす基盤への移行」――に戻ろう」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「つまり、この仮説は「全体として見える」が、五つの柱のうち、少なくとも一つは」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「そこから派生した仮説を連鎖的に無効化（カスケード）できる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「6. 仮説を「更新」する――ベイズ更新は、LLMに任せていいのか」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「この構想の心臓部は、仮説の確信度を、新しい証拠が来るたびに更新する仕組みである」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「そこへ、「この仮説が本当なら、起きやすさが本当でない場合の4倍になる」証拠（尤度比4）が一つ届いた」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「証拠が増えるたび、この掛け算を丁寧に繰り返す」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「この掛け算は、証拠が」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「マーケティング主導の記事を、仮説に引っ張られて集め、自分で自分を補強する」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「検索クエリが仮説に染まっている限り、反証は見つからない」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
 - 一次情報の探し方：
+  - 「：今回の調査では、一次情報で確認できなかった」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「評価用には、決算説明会（アーニングコール）の書き起こしから作ったデータセットECT-QAを新設した」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「モデルに実績の統計を与えるだけで相対15.3%改善した点から、」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「LLMが得意なのは、文章の統計的なつながりだ」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「一次情報で確認できた範囲で、位置づけを整理する」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「Heuer『Psychology of Intelligence Analysis』（CIA、PDF）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「CSET：Opinions on “AI+”（英訳PDF）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
   - 「：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す」（https://note.com/everprogress/n/nc066813442e3）
   - 「この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない」（https://note.com/everprogress/n/nc066813442e3）
   - 「Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)」（https://note.com/everprogress/n/nc066813442e3）
@@ -2420,30 +2427,31 @@
   - 「本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった」（https://note.com/everprogress/n/nc066813442e3）
   - 「https://aclanthology.org/2023.eval4nlp-1.7.pdf」（https://note.com/everprogress/n/nc066813442e3）
   - 「https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf」（https://note.com/everprogress/n/nc066813442e3）
-  - 「https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf」（https://note.com/everprogress/n/nc066813442e3）
-  - 「https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf」（https://note.com/everprogress/n/nc066813442e3）
-  - 「https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf」（https://note.com/everprogress/n/nc066813442e3）
-  - 「https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf」（https://note.com/everprogress/n/nc066813442e3）
-  - 「https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf」（https://note.com/everprogress/n/nc066813442e3）
-  - 「https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf」（https://note.com/everprogress/n/nc066813442e3）
-  - 「https://www.dni.gov/files/documents/ICD/ICD-203.pdf」（https://note.com/everprogress/n/nc066813442e3）
 - 失敗・落とし穴：
+  - 「この"つなぐ"作業を、人間の代わりに、二十四時間、疲れずに、しかも間違いを自分で疑いながら続けるAI」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「』（1999年）は、分析の失敗は情報不足より、人間の思考の癖から起きることが多いと指摘した」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「のちほど述べるが、この「消去法の思想」は、AIの確証バイアス対策にそのまま使える」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「原資料が挙げる「量子ブロックチェーン革命」の失敗シナリオは、まさにこれである」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「更新の誤りではなく、事前確率の較正（キャリブレーション）の悪さ」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「事前確率の甘さは、更新の誤りより効く」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「は、AI Scientistの文献調査が新規性の判定を誤り、実験の42%がコードの誤りで失敗したと報告した」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「自動化には、自動で見抜けない失敗が混ざる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「そして、自己確認ループ、モデルの崩壊、多様性の崩壊といった失敗は、階層の下のほうで信号を使った時に起きやすい」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「：第7章の階層で見たとおり、自己評価だけのループは、失敗が強化されやすい」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
   - 「確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす」（https://note.com/everprogress/n/nc066813442e3）
   - 「構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法」（https://note.com/everprogress/n/nc066813442e3）
   - 「第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない」（https://note.com/everprogress/n/nc066813442e3）
   - 「同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である」（https://note.com/everprogress/n/nc066813442e3）
   - 「Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない」（https://note.com/everprogress/n/nc066813442e3）
-  - 「同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)」（https://note.com/everprogress/n/nc066813442e3）
-  - 「この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している」（https://note.com/everprogress/n/nc066813442e3）
-  - 「信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である」（https://note.com/everprogress/n/nc066813442e3）
-  - 「CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた」（https://note.com/everprogress/n/nc066813442e3）
-  - 「事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した」（https://note.com/everprogress/n/nc066813442e3）
-  - 「構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む」（https://note.com/everprogress/n/nc066813442e3）
-  - 「メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める」（https://note.com/everprogress/n/nc066813442e3）
-  - 「CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)」（https://note.com/everprogress/n/nc066813442e3）
-  - 「報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)」（https://note.com/everprogress/n/nc066813442e3）
-  - 「同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している」（https://note.com/everprogress/n/nc066813442e3）
 - 実例：
+  - 「確率予測の採点にはBrier Score（予測確率と結果の差の二乗の平均」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「観測システムが予測を出すなら、この文化――確率で言い切り、結果で採点する――を、最初から組み込むべきだと私は考える」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「予測を記録し、結果が出たらBrier Scoreで採点し、その成績が悪化した手順だけを書き換える」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「：結果を、人間が「議論できる形」で見せる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「観測システムを実際に作る人は、地味な層から先に固めるほうが、結果として遠くまで行ける、というのが私の見立てである」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「：仮説ごとに、確率、期限、判定基準、結果を書き、期限が来たらBrier Scoreで採点する」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「わずか2サイクルの結果から、長期の安定性は言えない」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
   - 「エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)」（https://note.com/everprogress/n/nc066813442e3）
   - 「同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)」（https://note.com/everprogress/n/nc066813442e3）
   - 「国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)」（https://note.com/everprogress/n/nc066813442e3）
@@ -2451,14 +2459,6 @@
   - 「第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)」（https://note.com/everprogress/n/nc066813442e3）
   - 「GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)」（https://note.com/everprogress/n/nc066813442e3）
   - 「2.3.3 イスラエルの事例と証拠の限界」（https://note.com/everprogress/n/nc066813442e3）
-  - 「イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である」（https://note.com/everprogress/n/nc066813442e3）
-  - 「衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する」（https://note.com/everprogress/n/nc066813442e3）
-  - 「企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある」（https://note.com/everprogress/n/nc066813442e3）
-  - 「Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた」（https://note.com/everprogress/n/nc066813442e3）
-  - 「Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している」（https://note.com/everprogress/n/nc066813442e3）
-  - 「公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる」（https://note.com/everprogress/n/nc066813442e3）
-  - 「データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている」（https://note.com/everprogress/n/nc066813442e3）
-  - 「2.8.2 中国の事例が示す対照的な型」（https://note.com/everprogress/n/nc066813442e3）
 
 ## OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）（OSINT source verification framework reliability grading provenance）
 - 文脈：探し先
@@ -8771,10 +8771,10 @@
   - 「一つの情報源に依存することは、その情報が持つバイアスや限界に気づかず、誤った結論を導くリスクを高めます」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
   - 「本記事では、新規事業の成功と持続的な成長に不可欠な「市場規模の推計」について、その基礎知識から具体的な実践方法、そして注意点に至るまでを網羅的に解説しました」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
   - 「という3つの注意点を常に念頭に置くことが、誤った結論を避けるために不可欠です」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「市場規模の調査を有効活用するためには、いくつか注意すべき点があります」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794025900.1220140457153320312500）
-  - 「コンセプトテストとは？商品開発で失敗しないためのアンケート評価と調査手法を徹底解説」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794025900.1220140457153320312500）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
@@ -8789,8 +8789,8 @@
   - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
   - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
   - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
 
 ## 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）（anchoring bias research question design avoid numeric anchors common-mode bias trust the delta）
 - 文脈：偏り
@@ -10679,11 +10679,11 @@
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例（full-time equivalent conversion denominator per employee comparison pitfalls）
 - 文脈：推定
@@ -13888,6 +13888,15 @@
   - 「⚠️ 注意：複数シグナルの同時発生は要警戒」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「月商法・純資産基準・売掛債権基準・仕入債務基準・平均取引単価基準など、それぞれ計算式・向いている企業規模・注意点が異なり、どれを選ぶかで限度額は数倍から10倍以上変わることもあります」（https://catalog.monex.co.jp/article/?p=49812）
   - 「GRCツールおすすめ26選を徹底比較｜ESG開示基準・委託先管理の動向と失敗しない選び方を解説」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「決済代行の乗り換えを検討すべきサインと失敗しない進め方｜並行運用・カード情報引き継ぎ・解約実務まで」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「また、与信管理を担当できる部署や外部に委託するメリット、注意点も解説します」（https://biz.moneyforward.com/accounting/basic/78596/）
+  - 「与信管理に失敗すると、会社にどんなリスクが発生する？」（https://biz.moneyforward.com/accounting/basic/78596/）
+  - 「負のスパイラルに陥る前に、与信管理を行う際の注意点について理解しておきましょう」（https://biz.moneyforward.com/accounting/basic/78596/）
+  - 「与信管理はどの部署が担当するかによって、メリットや注意点が異なります」（https://biz.moneyforward.com/accounting/basic/78596/）
+  - 「それぞれの部署や業者が担当するメリットと注意点を解説します」（https://biz.moneyforward.com/accounting/basic/78596/）
+  - 「という可能性もあるため、注意が必要です」（https://biz.moneyforward.com/accounting/basic/78596/）
+  - 「それぞれ具体的な手順と注意点について解説します」（https://biz.moneyforward.com/accounting/basic/78596/）
+  - 「それぞれ具体的な手法や取得できる情報、注意点などを解説します」（https://biz.moneyforward.com/accounting/basic/78596/）
 - 実例：
   - 「実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「調査結果を基に、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
@@ -13914,12 +13923,25 @@
   - 「Faul F, Erdfelder E, Lang A-G, Buchner A. G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods. 2007;39(2):175–191. doi: 10.3758/BF03193146.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
   - 「Mellers B, Stone E, Murray T, Minster A, Rohrbaugh N, et al. Identifying and cultivating superforecasters as a method of improving probabilistic predictions. Perspectives on Psychological Science. 2015;10(3):267–281. doi: 10.1177/1745691615577794.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
   - 「Pennycook G, Cheyne JA, Koehler DJ, Fugelsang JA. Is the cognitive reflection test a measure of both reflection and intuition? Behavior Research Methods. 2016;48:341–348. doi: 10.3758/s13428-015-0576-1.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「did not follow all of the steps of ACH. There was mixed evidence for ACH's ability」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「methods, such as Bayesianism, for revising beliefs in the face of uncertain」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「4 | METHOD」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「analysts to apply all of the steps of ACH and arrive at a normatively」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「(ACH). This consists of the steps described below. Please use the」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「process were examined, following the steps of ACH (see Table A1).」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「analysts produced, as instructed, an amended ACH matrix (see Step 4」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「the original (Step 3) matrix based on their diagnosticity. A further nine」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「to use ACH deviated from one or more of the steps prescribed by this」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+- 突き合わせ・推定：
+  - 「failures such as the Iraq weapons of mass destruction mis ‐estimate」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
 - 一次情報の探し方：
   - 「https://www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
   - 「http://www.pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
   - 「Rassin E. Reducing tunnel vision with a pen-and-paper tool for the weighting of criminal evidence. Journal of Investigative Psychology and Offender Profiling. 2018;15:227–233. doi: 10.1002/jip.1504.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
   - 「https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
   - 「PDF (1.3 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「native‐Analysis_FINAL.pdf」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「tions/books‐and‐monographs/Tradecraft%20Primer‐apr09.pdf」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
 - 失敗・落とし穴：
   - 「Effects of task structure and confirmation bias in alternative hypotheses evaluation - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
   - 「Effects of task structure and confirmation bias in alternative hypotheses evaluation」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
@@ -13938,7 +13960,11 @@
   - 「In sum, a psychologically evidence-based approach could lead to more effective policies and practices in intelligence analysis, that could ultimately reduce the likelihood of biases and errors, while also increasing accountability processes (Dhami et al.,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
 - 実例：
   - 「One common example of analytic bias is confirmation bias. According to psychological research (e.g., Klayman,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+  - 「a case they make in identifying the most likely hypothesis. Also say」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「of, for example, the completeness and coverage of their belief search,」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「information explaining the bias along with examples, and provided」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「Jervis, R. (2006). Reports, politics and intelligence failures: The case of Iraq.」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
+  - 「diagnostic, and how compelling a case they make in identifying the most likely hypothesis. Also say why alternative hypotheses were」（https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方（headcount definitions full-time equivalent persons engaged statistics vs payroll employees revenue per employee comparison）
 - 文脈：手法・企業調査
@@ -14264,6 +14290,22 @@
 
 ## 外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108）（how to find foreign-affiliated companies in Japan and Japanese overseas subsidiaries directory research guide library）
 - 文脈：会社
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）（using regulatory inspection and filing records in investigative reporting IRE public records data）
+- 文脈：探し先
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109）（analyst using listed suppliers customers peers disclosures to infer private company industry trends blog）
+- 文脈：探し先
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
