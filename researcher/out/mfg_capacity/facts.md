@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・222品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・227品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -11702,6 +11702,244 @@
   - 「ストレスの高い地域の生産拠点において取水制限 を受けて操業が停止、 機会損失が発生する可能性がありま」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
   - 「る価格高騰、気候変動や自然災害及びパンデミック等による納期遅延や供給停止に陥るリスクがあります」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
 - 事業所数・社数：記載なし（読んだ50頁・検索18回）
+
+## 工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文）（METI Census of Manufactures user notes original value of shipments value added definition by establishment size）
+- 文脈：全体・統計・全国
+- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
+- 事業所数・社数：記載なし（読んだ23頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ23頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ23頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索18回）
+- 生産能力・設備：記載なし（読んだ23頁・検索18回）
+- 10年推移：記載なし（読んだ23頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索18回）
+
+## 受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く）（national Census of Manufactures table by industry detailed classification and employee size class e-Stat）
+- 文脈：全体・規模別・全国
+- 痛み・損（深さの印）：記載なし（読んだ30頁・検索18回）
+- 事業所数・社数：記載なし（読んだ30頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ30頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ30頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ30頁・検索18回）
+- 生産能力・設備：記載なし（読んだ30頁・検索18回）
+- 10年推移：記載なし（読んだ30頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ30頁・検索18回）
+
+## 受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる）（listed Japanese companies whose main business is contract heat treatment plating stamping dies EDINET business description）
+- 文脈：会社・一次
+- 受注金額・加工賃収入：
+  - 「18億8,919万円(2026年2月末)」（https://www.hsk.co.jp/ja/company/about.html）
+- 1人あたり・1社あたり金額：
+  - 「18億8,919万円(2026年2月末)」（https://www.hsk.co.jp/ja/company/about.html）
+- 10年推移：
+  - 「2021.01.24」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「2021.01.25」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「2021.01.23」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「2021.01.22」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「2021.01.21」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「2021.01.20」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「2021.01.19」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「非破壊検査技術特集(2016年8月記事)」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「2021.01.18」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「航空機エンジン部品生産への挑戦（2016年8月記事）」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「2021.01.17」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「MF技術大賞2022-2023受賞」（https://www.hsk.co.jp/ja/company/about.html）
+  - 「小牧事業所 検査係 Ｙ.M さん 2015年入社」（https://www.hsk.co.jp/ja/company/about.html）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 製造業 事業所規模別の年間総実労働時間（毎月勤労統計 5〜29人・30人以上・年次）：1人あたりを1時間あたりに直す分母（4-104）（Japan Monthly Labour Survey manufacturing annual total hours worked by establishment size）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「４）入職（離職）率とは、前月末労働者数に対する月間の入職（離職）者数の割合（％）である」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「（５）入職率、離職率（労働異動率）」（http://www.pref.mie.lg.jp/common/content/000281050.pdf）
+- 事業所数・社数：
+  - 「注４：今回の調査対象事業所数は30,143事業所、回答事業所数は22,115事業所、回収率は73.4％であった」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「「＊」──調査事業所数が少ないため、統計法第４０条に基づき秘匿した箇所」（http://www.pref.mie.lg.jp/common/content/000281050.pdf）
+  - 「⚫ 従業者規模別雇用者数の推移をみると、 500人以上規模の企業の雇用者数が増加傾向にある一方で、 １～29人規」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「1～29人 30～99人 100～499人 500人以上」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「30～99人」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「30～99人 30.6%」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「100～299人 100.0 18.6% 81.4%」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「30～99人 100.0 49.3% 50.7%」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「100～299人」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「100～299人 45.3 5.3 9.7 56.0 54.7 9.3 54.7 0.4 1.3」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「100～299人 47.9 5.3 9.6 54.4 52.1 9.8 56.0 -0.2 -1.6」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「「1,000人以上」「 100～299人」規模の企業割合について前年（令和３年）に比べて減少している」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+  - 「(％) 30～99人 100～299人 300～999人 1,000人以上」（https://www.mhlw.go.jp/content/11201250/001194507.pdf）
+- 社員数・平均社員数：
+  - 「毎月勤労統計調査には、全国的な変動を明らかにする全国調査と都道府県の変動を明らかにする地方調査、全国調査及び地方調査ではカバーされない常用労働者1～4人規模の事業所を調査する特別調査とがある」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「常用労働者30人以上」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「常用労働者5～29人」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「常用労働者1～4人」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「）に属し、常時5人以上の常用労働者を雇用する事業所の中から、産業別、事業所規模別に無作為抽出され、厚生労働大臣によって指定された約1,000事業所について調査を行っている」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「よって、統計表中の「事業所規模5人以上」の数値はすべての調査対象事業所について集計したものである」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「(4)常用労働者」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「なお、「パートタイム労働者」とは,常用労働者のうち、1日の所定労働時間が一般の労働者よりも短い者、あるいは1日の所定労働時間が一般の労働者と同じで1週の所定労働日数が一般の労働者よりも少ない者をいう」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「この調査結果の数値は,調査事業所からの報告を標本として、本県の事業所規模5人以上のすべての事業所に対応する数値を推定したものである」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「この調査は、規模30人以上の事業所においては、おおむね3年ごとに標本事業所の抽出替えを行っており、平成27年1月分調査で抽出替えを実施した」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「法人番号：4000020120006」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「（事業所規模５人以上、令和元年５月速報）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「注１：平成30年11月分確報から、平成24年以降において東京都の「500人以上規模の事業所」についても再集計した値（再集計値）に変更しており、」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「当調査においては、本来「500人以上規模の事業所」については全数調査すべきところ、一部抽出調査を行」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「「500人以上規模の事業所」についても復元して再集計した値（再集計値）に変更しましたのでご注意ください」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+- 10年推移：
+  - 「更新日：令和6(2024)年6月5日」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「そのため、一定時点の水準を100にそろえて指数化し、時間推移の把握を容易にして利用者の便を図ってきた」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「(3)前年比について」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「前年比については、指数により計算している」（https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html）
+  - 「注２：前年比（差）は、単位が％のものは前年同月比、ポイント又は日のものは前年同月差である」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「付表 前年比（％）、前年差（ポイント）の推移（調査産業計、事業所規模５人以上）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「注6：パートタイム労働者比率は、前年差（ポイント）の推移となっている」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「（前年比、前年同月比）％」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「１－３図 名目賃金（現金給与総額）の前年比、前年同月比の要因分解」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「１－４図 実質賃金（現金給与総額）の前年比、前年同月比の要因分解」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「時系列表第１表 賃金指数」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「前年比 前年比 前年比 前年比 前年比 前年比」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「時系列表第２表 労働時間指数」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「時系列表第３表 常用雇用指数」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+  - 「時系列表第５表 労働異動率」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104）（Financial Statements Statistics of Corporations manufacturing value added per employee by capital size annual）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「かねて受注を断ると，受注が舞い戻ってくるとい」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「それは「同業者の廃業が増えており，その受注先」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「ている」とし、「近年、経営者の高齢化が進む中で、休廃業・解散した企業数」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「廃業率を上回る状態にし」との表現が削られることに関し、「中小企業減 容認へ転換」と」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「④ 開業率が廃業率を上回る状態にし、開業率・廃業率が米国・英国レベル」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「あったのに対し、廃業した企業が 83 万者あったことによるものである」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「加えて、従業員のモチベーション低下、優秀な人材の離職、新規採用の困難といった中長期的な経営課題にもつながるでしょう」（https://www.freee.co.jp/kb/kb-accounting/labor-share/）
+  - 「短期的に比率が下がっても、従業員の負担増、離職、品質低下、受注機会の損失を招けば、中長期の付加価値額を損なうおそれがあります」（https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html）
+  - 「労働生産性、賃金水準、離職率、受注・品質」（https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html）
+  - 「economic stagnation that started in the 1990s. For small enterprises facing serious labor shortages, raising wages is an urgent」（https://www.murc.jp/uploads/2017/02/201701_109.pdf）
+  - 「第８節 開業、倒産・休廃業」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+  - 「① 2010年代以降、倒産件数は減少傾向にあったが、コロナ禍以降再び増加に転じ、2024年の倒産件数は10,006件」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+  - 「なお、倒産件数は2022年に増加に転じた一方で、完全失業率は足下でも横ばい傾向が続いている」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+  - 「② 要因別に見ると、人手不足によるものや、人件費・物価の高騰を要因とした倒産の件数も増加している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+  - 「【現状分析３ー①】倒産件数は増加傾向」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+- 事業所数・社数：
+  - 「企業は 2)，企業数で99.5％， 従 業 者 数 で60.5％を占める」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「20～29人 42.2 49.6 45.7 36.0 31.8 30.4」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「20～29人 19.8 29.6 28.9 33.5 32.1 ―」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「表 3 製造業の事業所・企業規模別の事業所数，従業者数，付加価値額（2010 年）」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「4～9人 99,883 44.5 602,847 7.9 3,211,728 3.5 93,957 46.6 94,036 41.9 564,345 7.4 2,782,847 2.8」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「10～19人 54,439 24.3 741,774 9.7 5,011,320 5.5 48,020 23.8 49,177 21.9 652,276 8.5 4,042,318 4.0」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「20～29人 26,453 11.8 647,332 8.4 5,005,148 5.5 22,526 11.2 24,159 10.8 550,522 7.2 3,862,192 3.8」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「表 4 製造業の企業数の推移」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「20～29人 29,604 24,223 34,712 41,235 30,320 -26.5 22,526 -25.7」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「人の企業で3,945社，300人以上で756社 増加 し て い る （ 前」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「20～29人 212.7 167.4 158.0 107.6 99.2 ―」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「20～29人 5.1 3.9 5.9 6.0 4.8 3.8」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「1) 企業数＝会社数＋個人事業所 （単独事業所及び」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「2025年版中小企業白書付属統計資料1表（産業別規模別企業数）では、2021年6月時点の「建設業」、「運輸業、郵便業」の中小企業数は、全体の中小企業数（非一次産業）の約14.6％を占める」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「が指摘されるが、図表５は、我が国の企業規模別の企業数の推移を見たもので」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+- 社員数・平均社員数：
+  - 「1990 年代以降， 中小工業の中でも 50 人以上の上位層と 49 人以下の中下位層で付加価値生産性格差が拡」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「し 1)， そ こ で9,487,059人が 働 い て い る．そのう ち，中小」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「る 中 小 企業 は ， 従 業 者1 人 当 た り の 資 本装 備 額が少 な く，」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「が小 さ くな るため，従業者1 人 当 た りの 付 加 価 値 額 も少」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「1,000 人 以 上 の 企業 に お け る 従 業 者1 人 当 た り の粗 付」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「と 3)， 規 模が 小 さ く な る ほ ど 低 下 し てお り ， 4～19 人規」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「また，1,000人 以 上 の 企 業 にお け る 従 業 者1 人当たりの」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「人では8.4，20～29 人でも19.8にす ぎ な か っ た ．」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「4～19人 33.5 38.2 44.2 30.3 25.6 24.3」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「20～29人 42.2 49.6 45.7 36.0 31.8 30.4」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「30～49人 45.9 49.8 46.0 36.8 34.7 34.8」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「50～299人 53.7 56.6 51.8 43.7 44.0 45.5」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「300～999人 72.0 72.0 72.1 63.4 64.4 65.0」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「1,000人以上 100.0 100.0 100.0 100.0 100.0 100.0」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「（注）従業者 1 人当たりの粗付加価値額について，従業者 1,000 人以上を 100 とする指数．付加価値は粗付加価値ベ」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+- 受注金額・加工賃収入：
+  - 「金 5,000 万円～1 億円未満の中小企業上位層では相対的」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「に堅調」に推移しているのに対して， 「資本金200万円未」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「満層，200～500 万円未満層では業績がよくない傾向」」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「本金 3 億円以下の企業． なお，従業者数は，会社」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「経済産業省「企業活動基本調査」は、従業者50人以上かつ資本金又は出資金3,000万円以上の企業を対象とした全数調査である」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「なお、本算出方法で用いられている「企業活動基本調査」は、従業者数50人以上かつ資本金又は出資金3,000万円以上の企業を対象とした調査であり、比較的規模の小さい中小企業が捕捉できていないことに加え、「建設業」、「運輸業、郵便業」といった業種が調査対象外である点については留意が必要である」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「２．大企業は資本金 10 億円以上、中小企業は資本金 1 億円未満の企業としている」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「中小企業(a) 1,153.6 万円 772.0 万円 16.0 万円」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「大企業(b) 7,705.1 万円 2,750.5 万円 205.6 万円」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「（注）１．大企業は資本金 10 億円以上、中小企業は資本金 1 億円未満の企業としている」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「①製造業・建設業・運輸業、その他の業種：資本金３ 億円以下又は常時雇用する従業員 300」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「②卸売業：資本金１億円以下又は常時雇用する 従業員 100 人以下［うち小規模企業者は、常」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「③サービス業：資本金５千万円以下又は常時雇 用する従業員 100 人以下［うち小規模企業者」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「④卸売業：資本金５千万円以下又は常時雇用する従業 員 50 人以下［うち小規模企業者は、常」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「たとえば、売上高6,000万円、人件費2,000万円、外部購入費用2,000万円の企業の場合、労働分配率は以下のように計算できます」（https://www.freee.co.jp/kb/kb-accounting/labor-share/）
+- 1人あたり・1社あたり金額：
+  - 「1990 年代以降， 中小工業の中でも 50 人以上の上位層と 49 人以下の中下位層で付加価値生産性格差が拡」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「に つ い て，付加価値生産性格差を核とし，図1 のように」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「図1 賃金・付加価値生産性・資本集約度格差」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「加価値額を100とした付加価値生産性指数について，高」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「格差は付加価値生産性指数の格差よりも顕著で，4～19」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「表 1 付加価値生産性指数の推移」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「（注）従業者 1 人当たりの粗付加価値額について，従業者 1,000 人以上を 100 とする指数．付加価値は粗付加価値ベ」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「ースで，1980 年と 1990 年の企業規模 4～19 人の粗付加価値額は，事業所規模 4 人以上の値から企業規模 20 人以上の」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「金 5,000 万円～1 億円未満の中小企業上位層では相対的」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「に堅調」に推移しているのに対して， 「資本金200万円未」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「満層，200～500 万円未満層では業績がよくない傾向」」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「み る な らば ，299 人以下の企業が 生 み出 す粗付加価値額」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「表 3 製造業の事業所・企業規模別の事業所数，従業者数，付加価値額（2010 年）」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「（注）従業者 29 人以下の付加価値額は粗付加価値額．付加価値額，粗付加価値額の右列は構成比．」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「を境にして 49 人以下の各層の粗付加価値額の構成」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+- 生産能力・設備：
+  - 「（注）従業者 1 人当たりの有形固定資産額について，従業者 1,000 人以上を 100 とする指数．」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「（注）有形固定資産額 1 単位当りの従業者 1,000 人以上を 100 とする指数．」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「は、2023年度の中小企業の労働生産性％タイル別に、一社当たり有形固定資産当期取得額を見たものである」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「３． 固定資産には、 有形固定資産、 無形固定資産のほか、 投資その他の資産がある」（https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf）
+  - 「2000年代以降、設備投資が絞り込まれてきたが、成長に必要な人や資本への投資を抑制しているために自」（https://www.murc.jp/uploads/2017/02/201701_109.pdf）
+  - 「1990年代には年平均20兆円のペースで有形固定資産」（https://www.murc.jp/uploads/2017/02/201701_109.pdf）
+  - 「2000年頃からは設備投資が伸び悩む中で、」（https://www.murc.jp/uploads/2017/02/201701_109.pdf）
+  - 「代までは設備投資が活発だったこと、 1990年代は勢い」（https://www.murc.jp/uploads/2017/02/201701_109.pdf）
+  - 「かし、 2000年代に入り、 大企業では設備投資が急速に」（https://www.murc.jp/uploads/2017/02/201701_109.pdf）
+  - 「図表25 有形固定資産回転率」（https://www.murc.jp/uploads/2017/02/201701_109.pdf）
+  - 「（▲0.2兆円）、設備投資は5.3％の減少（▲1.2兆円）」（https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf）
+  - 「円）、経常利益は14.9％の増加（＋1.6兆円）、設備投資は8.3％の増加（＋0.8兆円）、配当は216.6％の増加」（https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf）
+  - 「○ 民間企業の設備投資額（総固定資本形成額）の推移をみると、2000年から2019年にかけて、米国は1.45倍、フ」（https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf）
+  - 「第４節 労働生産性・設備投資」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+  - 「また、2024年度の中小企業の設備投資計画は、前年度」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+- 10年推移：
+  - 「表 1 付加価値生産性指数の推移」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「企業規模 1963年 1970年 1980年 1990年 2000年 2010年」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「表 2 資本装備率指数の推移」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「に堅調」に推移しているのに対して， 「資本金200万円未」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「減少傾向等を整合的に理解することができる」 （p.170）」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「これら2 つの相違点について，2010年における付加価」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「表 4 製造業の企業数の推移」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「人の企業で3,945社，300人以上で756社 増加 し て い る （ 前」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「各 規 模 層に お い て い ず れ も 企 業 数 が 増加 し た ．80 年代に」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「1990年と2010年 を比 べ る と ，1,000人 以上 規 模 層 を100」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「減 少 が 著し い （ 前 掲 表4）．特に，2000～2010年 に お いて」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「も，規模が小さいほど減少率が大きく，50～299 人が」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「表 5 資本生産性の推移」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「表 6 粗付加価値額構成比の推移」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「る銀行からの資金調達が減少し，緩和に向かった」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+- 人手と仕事の差：
+  - 「める一方で，外注については環境や安全に対する」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「受注先の要求の高まりに対応できる外注先に発注」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「かねて受注を断ると，受注が舞い戻ってくるとい」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「及び外注先の集約化が中小企業中下位層にとって」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「本来日本では協力メーカーに外注している工程を，」（https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf）
+  - 「また、労働供給制約社会が到来し、人材の確保が一層困難になる可能性が高い我が国においては、中小企業の人手不足が今後更に深刻化するおそれがある」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「したがって、中小企業がこうした人手不足を乗り越えて、生産力・供給力を維持・強化していくことも、併せて必要といえる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「（AX）を加速させることは、人手不足を乗り越えて、飛躍的成長を実現するチャンスとなる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「第3章では、足下の人手不足が深刻化する中、人材確保に向けて重要と考えられる取組について確認する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「売上や利益の大小だけでは見えにくい「人材への適正な配分」と「企業の成長余力」の両面を測ることができるため、経営分析に欠かせません」（https://www.freee.co.jp/kb/kb-accounting/labor-share/）
+  - 「付加価値とは、売上高から外部に支払った原材料費や外注費などを差し引いて、企業内部に残る価値を指します」（https://www.freee.co.jp/kb/kb-accounting/labor-share/）
+  - 「材料費・外注費・運送費・光熱費など、社外に支払う全コスト」（https://www.freee.co.jp/kb/kb-accounting/labor-share/）
+  - 「一方、付加価値は、企業が内部で生み出した真の価値を示すために、外部への支出全体（外注費・運送費・水道光熱費など）を差し引いて算出します」（https://www.freee.co.jp/kb/kb-accounting/labor-share/）
+  - 「業務量の変動に応じた人員体制と、正社員・派遣・外注の組み合わせにより、効率的な人件費管理を行いましょう」（https://www.freee.co.jp/kb/kb-accounting/labor-share/）
+  - 「人員配置の最適化や、コア業務以外の外注活用、目標値からの乖離を把握できる仕組みなど」（https://www.freee.co.jp/kb/kb-accounting/labor-share/）
+- 検索結果の抜粋：
+  - 「第 1 章 中小 企業 の 労働生産性 の状況 — 第 1 章 中小 企業 の 労働生産性 の状況 中小企業庁 https://www.chusho.meti.go.jp > hakusyo > chusho > b2_1」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
+  - 「労働生産性 — 労働生産性 財務省 PDF https://www.mof.go.jp > ssc > japan > japan02_18」（https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

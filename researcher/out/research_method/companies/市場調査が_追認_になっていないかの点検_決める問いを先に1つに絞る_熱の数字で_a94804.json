@@ -1,0 +1,388 @@
+{
+ "name": "市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）",
+ "en": "market research confirmation bias rubber stamp strategy operator economics consultant essay",
+ "aliases": [
+  "市場調査 追認 仮説検証 失敗",
+  "リサーチ 結論ありき 防ぐ 手順",
+  "operator economics market research validate assumptions"
+ ],
+ "context": "手法・推定",
+ "kind": "market",
+ "researched_at": "2026-11-08T12:01:49.614892+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consul.global/post41672/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bloom-job.com/consulting-industry-market-outlook/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.google.com/jp/think/measurement/essence-of-research05/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikumoto-taxfp.com/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%AA%E3%81%9C2030%E5%B9%B4%E3%81%94%E3%82%8D%E3%83%94%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axc.ne.jp/insights/article/insight/9407/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yuichi_k_/n/nd172d94bf198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/opinion/?srsltid=AYCX9vK7MDl4SLEjzTFLcNVLtqrtNuaNb13ZBWmk_r31BV0c9FRZXFaE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crex-consulting.com/column/research/market-research-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://walkand.co.jp/market-research-method/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sky-company.jp/research/market-research-procedures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstdigital.co.jp/magazine/617/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmra-net.or.jp/activities/trend/transform/20220916.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.spready.co.jp/how-to-do-market-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.justsystems.com/jp/marketing-research/article/market-research/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://smbiz.asahi.com/article/14495744",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monitas.co.jp/data-and-knowledge/column/marketingstudy-strategy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/miraikyoso/n/n71ef349a6d1c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idpublications.org/wp-content/uploads/2024/08/Full-Paper-IRRATIONAL-CHOICES-AND-BUSINESS-STRATEGY-THE-IMPACT-OF-COGNITIVE-BIASES.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://online.hbs.edu/blog/post/confirmation-bias-how-it-affects-your-organization-and-how-to-overcome-it",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alchemer.com/resources/blog/4-ways-to-eliminate-bias-in-market-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glg.com/articles/avoiding-bias-in-market-research-types-of-bias",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/387476306_Confirmation_Bias_in_Decision-making_Implications_in_Finance_Business_and_Digital_Media",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenbook.org/insights/research-methodologies/bias-in-marketing-research-how-to-avoid-and-minimize",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆） site:note.com",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://consul.global/post41672/",
+    "https://bloom-job.com/consulting-industry-market-outlook/",
+    "https://business.google.com/jp/think/measurement/essence-of-research05/",
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://kikumoto-taxfp.com/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%AA%E3%81%9C2030%E5%B9%B4%E3%81%94%E3%82%8D%E3%83%94%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6/",
+    "https://www.firstdigital.co.jp/magazine/617/",
+    "https://www.axc.ne.jp/insights/article/insight/9407/",
+    "https://www.jmra-net.or.jp/activities/trend/transform/20220916.html",
+    "https://note.com/komon_ai/n/n93527e4ab1ea"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆） note",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://consul.global/post41672/",
+    "https://bloom-job.com/consulting-industry-market-outlook/",
+    "https://business.google.com/jp/think/measurement/essence-of-research05/",
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://kikumoto-taxfp.com/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%AA%E3%81%9C2030%E5%B9%B4%E3%81%94%E3%82%8D%E3%83%94%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6/",
+    "https://www.axc.ne.jp/insights/article/insight/9407/",
+    "https://note.com/yuichi_k_/n/nd172d94bf198",
+    "https://www.yano.co.jp/opinion/?srsltid=AYCX9vK7MDl4SLEjzTFLcNVLtqrtNuaNb13ZBWmk_r31BV0c9FRZXFaE",
+    "https://crex-consulting.com/column/research/market-research-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆） やり方",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://consul.global/post41672/",
+    "https://bloom-job.com/consulting-industry-market-outlook/",
+    "https://business.google.com/jp/think/measurement/essence-of-research05/",
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://kikumoto-taxfp.com/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%AA%E3%81%9C2030%E5%B9%B4%E3%81%94%E3%82%8D%E3%83%94%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6/",
+    "https://www.firstdigital.co.jp/magazine/617/",
+    "https://www.axc.ne.jp/insights/article/insight/9407/",
+    "https://www.jmra-net.or.jp/activities/trend/transform/20220916.html",
+    "https://media.spready.co.jp/how-to-do-market-research/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆） 事例",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://consul.global/post41672/",
+    "https://bloom-job.com/consulting-industry-market-outlook/",
+    "https://business.google.com/jp/think/measurement/essence-of-research05/",
+    "https://kikumoto-taxfp.com/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%AA%E3%81%9C2030%E5%B9%B4%E3%81%94%E3%82%8D%E3%83%94%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6/",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
+    "https://www.axc.ne.jp/insights/article/insight/9407/",
+    "https://www.jmra-net.or.jp/activities/trend/transform/20220916.html",
+    "https://www.firstdigital.co.jp/magazine/617/",
+    "https://crex-consulting.com/column/research/market-research-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "market research confirmation bias rubber stamp strategy operator economics consultant essay",
+   "results": [
+    "https://www.idpublications.org/wp-content/uploads/2024/08/Full-Paper-IRRATIONAL-CHOICES-AND-BUSINESS-STRATEGY-THE-IMPACT-OF-COGNITIVE-BIASES.pdf",
+    "https://online.hbs.edu/blog/post/confirmation-bias-how-it-affects-your-organization-and-how-to-overcome-it",
+    "https://www.alchemer.com/resources/blog/4-ways-to-eliminate-bias-in-market-research/",
+    "https://glg.com/articles/avoiding-bias-in-market-research-types-of-bias",
+    "https://www.researchgate.net/publication/387476306_Confirmation_Bias_in_Decision-making_Implications_in_Finance_Business_and_Digital_Media",
+    "https://www.greenbook.org/insights/research-methodologies/bias-in-marketing-research-how-to-avoid-and-minimize",
+    "https://drpress.org/ojs/index.php/HBEM/article/view/27698",
+    "https://www.investopedia.com/terms/c/confirmation-bias.asp",
+    "https://www.renascence.io/journal/confirmation-bias-navigating-its-impact-on-customer-experience",
+    "https://www.researchgate.net/publication/373897084_Research_on_Confirmation_Bias_and_Its_Influences_on_Purchase_Decision-making"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n59dc4e3a033f",
+    "https://note.com/good_dill292/n/n5038833ac1dd",
+    "https://note.com/yasubow202/n/n05ca6eb85b05",
+    "https://note.com/qvb/n/n931062c31482",
+    "https://note.com/normad_adams/n/nc3f14abf2b9d",
+    "https://note.com/ezuremanagement/n/n62ac85c83529",
+    "https://note.com/r_i1356/n/n8ca176449769",
+    "https://note.com/masamasa11_12/n/n2cad04751e95",
+    "https://note.com/miraikyoso/n/n71ef349a6d1c",
+    "https://note.com/mbaai/n/nf6e6717026c4"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）",
+   "results": [
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://x.com/yanchi2023/status/2072018825181331518",
+    "https://x.com/kidkaido/status/2099508935619490160",
+    "https://x.com/chioninmall/status/2037328719677915198",
+    "https://x.com/Sora_CLily/status/2079566437207937377",
+    "https://x.com/colt_root/status/2106576062016561641",
+    "https://x.com/johndoe7shi/status/2056985634515099721"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）",
+   "results": [
+    "https://jp.linkedin.com/pulse/winning-strategies-how-market-research-drives-business-shaheen-lglyf?tl=ja",
+    "https://www.linkedin.com/pulse/現地ニーズを無料で探る海外市場調査に使える神ツール7選2025年版-嘉一-中島-uvolc/",
+    "https://jp.linkedin.com/pulse/ターゲット国を絞り込む海外営業のための市場調査入門-嘉一-中島-peemc",
+    "https://jp.linkedin.com/pulse/海外進出に必須海外市場調査と海外顧客獲得のための基礎知識-嘉一-中島-2uw2c",
+    "https://www.linkedin.com/pulse/収益がどこで漏れているか経営の視点で5分で点検する3つの問い-聖子-山口-oodjc/",
+    "https://jp.linkedin.com/pulse/what-business-research-methods-comprehensive-guide-primary-gxeqf?tl=ja",
+    "https://jp.linkedin.com/pulse/市場調査とは何ですか-概要種類重要性コツとヒント-sdkiresearch"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）",
+   "results": [
+    "https://www.facebook.com/pdreview/videos/新規事業の失敗と成功事例-ja全農の教訓-ja全農全国農業協同組合連合会代表理事専務の尾本英樹氏が2026年10月13日事業構想大学院大学で講演し新規事業の失敗/1099433939589523/",
+    "https://www.facebook.com/shoka.haruyama/posts/解説記事は常に後から追認でもその流れが続くの終わるの/36550729114573831/",
+    "https://www.facebook.com/kawasatofumi/posts/788211250092697/",
+    "https://www.facebook.com/reel/2122663458582366/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/",
+    "https://www.facebook.com/necsolutioninnovators/posts/問いからはじまる未来の価値創造新しい事業やサービスは技術だけから生まれるわけではありません市場や社会の変化を読み解き本質的な課題を見極めること生活者や地域の声に/1531814122323270/",
+    "https://www.facebook.com/JapanFTC/posts/大規模小売業者と納入業者との取引に関する実態調査の開始取引実態の把握のために730から小売業者及び納入業者向けのウェブアンケート調査を行います協力依頼状が届いた/1527528292751173/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆） note 社長",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://consul.global/post41672/",
+    "https://bloom-job.com/consulting-industry-market-outlook/",
+    "https://business.google.com/jp/think/measurement/essence-of-research05/",
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://kikumoto-taxfp.com/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%AA%E3%81%9C2030%E5%B9%B4%E3%81%94%E3%82%8D%E3%83%94%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6/",
+    "https://www.axc.ne.jp/insights/article/insight/9407/",
+    "https://note.com/yuichi_k_/n/nd172d94bf198",
+    "https://www.yano.co.jp/opinion/?srsltid=AYCX9vKrEoFNxIDr5glx1he5B4q7oLe672e9peiyoqmdVDl1EUK7jsS3",
+    "https://crex-consulting.com/column/research/market-research-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆） X 投稿",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://consul.global/post41672/",
+    "https://bloom-job.com/consulting-industry-market-outlook/",
+    "https://business.google.com/jp/think/measurement/essence-of-research05/",
+    "https://www.firstdigital.co.jp/magazine/617/",
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://kikumoto-taxfp.com/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%AA%E3%81%9C2030%E5%B9%B4%E3%81%94%E3%82%8D%E3%83%94%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6/",
+    "https://www.axc.ne.jp/insights/article/insight/9407/",
+    "https://note.com/yuichi_k_/n/nd172d94bf198",
+    "https://crex-consulting.com/column/research/market-research-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "market research confirmation bias rubber stamp strategy operator economics consultant essay site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/vishalrao",
+    "https://www.linkedin.com/in/donald-j-reidy-a0813b10",
+    "https://pt.linkedin.com/in/ruimbarreira",
+    "https://uk.linkedin.com/in/allansimpson",
+    "https://pk.linkedin.com/in/jameeljahanian",
+    "https://www.linkedin.com/advice/0/how-would-you-address-potential-confirmation-bias-kjete",
+    "https://www.linkedin.com/pulse/confirmation-bias-market-research-bozena-sawa",
+    "https://www.linkedin.com/advice/1/youre-conducting-market-research-how-can-you-avoid-2bk3c",
+    "https://www.linkedin.com/advice/0/youre-analyzing-marketing-research-data-how-yizqc",
+    "https://www.linkedin.com/pulse/danger-confirmation-bias-corporate-research-rgyte"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ26頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）",
+  "実例": "記載なし（読んだ26頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T12:01:49.614892+00:00"
+}

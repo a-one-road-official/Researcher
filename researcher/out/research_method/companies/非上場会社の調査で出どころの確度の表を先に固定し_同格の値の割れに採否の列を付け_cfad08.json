@@ -1,0 +1,372 @@
+{
+ "name": "非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）",
+ "en": "private company research source matrix confidence levels conflicting sources adoption judgment",
+ "aliases": [
+  "非上場 企業調査 情報源 信頼度 一覧 事前",
+  "source matrix private company due diligence confidence",
+  "同じ信頼度 食い違い 採用 判断 記録"
+ ],
+ "context": "手法・企業調査",
+ "kind": "market",
+ "researched_at": "2026-11-08T12:04:46.166152+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jsda.or.jp/about/kisoku/1502_analystreport_kiosku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nri.com/jp/knowledge/publication/kinyu_itf_201609/files/itf_201609_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saa.or.jp/learning/ethics/rinri1/e3/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOTG20ADI0Q5A120C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/fic/fintos/notice/investment/analysts-report/?sc_pid=elb_a0400_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/hijojowg_41_siryo.pdf",
+    "status": "http_429",
+    "method": "pdf"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otemachiprep.com/pe-040-fair-value-ipev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bbc-tokyo.com/2026/09/18/hijoujou-kabushiki-hyoka-meisaisho-kakikata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bbc-tokyo.com/2026/09/12/hijoujou-kabushiki-junshisan-kagaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO97383410W6A700C2DTC000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://financetax-l.jp/%E3%80%90%E5%AE%8C%E5%85%A8%E8%A7%A3%E8%AA%AC%E3%80%91%E5%B0%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%A0%AA%E5%BC%8F%E3%81%AE%E8%A9%95%E4%BE%A1%EF%BC%88%E5%8F%96%E5%BC%95%E7%9B%B8%E5%A0%B4%E3%81%AE%E3%81%AA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kmp.or.jp/jishakabu-hyoka-minaoshi-yushikisha-kaigi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hijoujoukabushiki-navi.com/value_calculation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taxjudge.com/2026/06/21/kaisha-kibo-hantei-shinshakuritsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inukai-cpa-tax-media.com/column/unlisted-shares-tax-fair-value/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thirdbridge.com/en-us/about-us/media/perspectives/private-company-research-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ici.org/files/2021/21-ppr-fund-valuation-primer.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0963868724000672",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/299399282_Ownership_of_Corporations_A_Review_Synthesis_and_Research_Agenda",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://repository.upenn.edu/entities/publication/192ac314-b44c-42fc-adc4-5ee9ae727a42",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書） site:note.com",
+   "results": [
+    "https://www.jsda.or.jp/about/kisoku/1502_analystreport_kiosku.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://www.nri.com/jp/knowledge/publication/kinyu_itf_201609/files/itf_201609_3.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.saa.or.jp/learning/ethics/rinri1/e3/index.html",
+    "https://www.nikkei.com/article/DGXZQOTG20ADI0Q5A120C2000000/",
+    "https://www.nomura.co.jp/fic/fintos/notice/investment/analysts-report/?sc_pid=elb_a0400_01",
+    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/hijojowg_41_siryo.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/bloomo_economics/n/ncd864eb73506"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書） note",
+   "results": [
+    "https://www.jsda.or.jp/about/kisoku/1502_analystreport_kiosku.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://www.nri.com/jp/knowledge/publication/kinyu_itf_201609/files/itf_201609_3.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.saa.or.jp/learning/ethics/rinri1/e3/index.html",
+    "https://www.nikkei.com/article/DGXZQOTG20ADI0Q5A120C2000000/",
+    "https://www.nomura.co.jp/fic/fintos/notice/investment/analysts-report/?sc_pid=elb_a0400_01",
+    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/hijojowg_41_siryo.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://otemachiprep.com/pe-040-fair-value-ipev/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書） やり方",
+   "results": [
+    "https://www.jsda.or.jp/about/kisoku/1502_analystreport_kiosku.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://www.nri.com/jp/knowledge/publication/kinyu_itf_201609/files/itf_201609_3.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.saa.or.jp/learning/ethics/rinri1/e3/index.html",
+    "https://www.nikkei.com/article/DGKKZO97383410W6A700C2DTC000/",
+    "https://www.nomura.co.jp/fic/fintos/notice/investment/analysts-report/?sc_pid=elb_a0400_01",
+    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/hijojowg_41_siryo.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書） 事例",
+   "results": [
+    "https://www.jsda.or.jp/about/kisoku/1502_analystreport_kiosku.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://www.nri.com/jp/knowledge/publication/kinyu_itf_201609/files/itf_201609_3.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.saa.or.jp/learning/ethics/rinri1/e3/index.html",
+    "https://www.nikkei.com/article/DGXZQOTG20ADI0Q5A120C2000000/",
+    "https://www.nomura.co.jp/fic/fintos/notice/investment/analysts-report/?sc_pid=elb_a0400_01",
+    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/hijojowg_41_siryo.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://otemachiprep.com/pe-040-fair-value-ipev/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "private company research source matrix confidence levels conflicting sources adoption judgment",
+   "results": [
+    "https://www.thirdbridge.com/en-us/about-us/media/perspectives/private-company-research-guide",
+    "https://www.ici.org/files/2021/21-ppr-fund-valuation-primer.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S0963868724000672",
+    "https://www.researchgate.net/publication/299399282_Ownership_of_Corporations_A_Review_Synthesis_and_Research_Agenda",
+    "https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/",
+    "https://repository.upenn.edu/entities/publication/192ac314-b44c-42fc-adc4-5ee9ae727a42",
+    "https://www.sec.gov/files/rules/final/2020/ic-34128.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7040976/",
+    "https://journals.aom.org/doi/10.5465/amj.2012.0686"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）",
+   "results": [
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
+    "https://note.com/nus_cpa/n/n537f048fe885",
+    "https://note.com/dedokoro_lab/n/n3fe55d85485a",
+    "https://note.com/ngraph/n/ndff4e080a926",
+    "https://note.com/hirokimiyano/n/n8ffcd0df7c53",
+    "https://note.com/kyoki_labo/n/n7a54dbfff94e",
+    "https://note.com/heath_kobe/n/n01188d90e3ca"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）",
+   "results": [
+    "https://x.com/satsukikatayama/status/2107460032245985397",
+    "https://x.com/alyoltudesuyo/status/2098757118371446953",
+    "https://x.com/izumi_kashiwa/status/2090272170329120899",
+    "https://x.com/PwC_Japan/status/2115949357208138036",
+    "https://x.com/souzoku_noter_k/status/2069806527058428057",
+    "https://x.com/nikkei/status/2089903853416202338",
+    "https://x.com/Sokichi_Hoshino/status/2112826221335662699"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）",
+   "results": [
+    "https://www.facebook.com/excel.sozoku/posts/上場株式の評価明細書をエクセルで作成するシステムファイルが完成しました-単純なテンプレートですので無料で公開しております私のhpに無料版をアップしてありますので/2998721613507803/",
+    "https://www.facebook.com/shikihojp/posts/専門家も活用する増益確度の高い企業を探し出す方法-アクルアル比率を使った銘柄選別術①-有料会員限定記事です-会社四季報オンライン/771177714255061/",
+    "https://www.facebook.com/motokokuzei/posts/類似業種比準方式の非経常な利益金額に関する判例固定資産売却益でも該当しない場合がありますあくまでも実態に応じて非経常かどうかを判断しなければなりませんただ問題の/2070546889739605/",
+    "https://www.facebook.com/JAFCO.PR/photos/投資調査レポート公開-コンテンツ業界の起業家が知っておくべき競争環境動画ゲーム音楽書籍を中心に業界動向と直近10年間に上場した企業の特徴等について70ページに渡/952937693510721/",
+    "https://www.facebook.com/reel/1509965053034463/",
+    "https://www.facebook.com/funaisoken/videos/100億企業に導く10の羅針盤-無料ダウンロード/3403579636476773/",
+    "https://www.facebook.com/marketplace/item/37904252392524053/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書） note 社長",
+   "results": [
+    "https://www.jsda.or.jp/about/kisoku/1502_analystreport_kiosku.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://www.nri.com/jp/knowledge/publication/kinyu_itf_201609/files/itf_201609_3.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.saa.or.jp/learning/ethics/rinri1/e3/index.html",
+    "https://www.nikkei.com/article/DGXZQOTG20ADI0Q5A120C2000000/",
+    "https://www.nomura.co.jp/fic/fintos/notice/investment/analysts-report/?sc_pid=elb_a0400_01",
+    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/hijojowg_41_siryo.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://otemachiprep.com/pe-040-fair-value-ipev/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書） X 投稿",
+   "results": [
+    "https://www.jsda.or.jp/about/kisoku/1502_analystreport_kiosku.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://www.nri.com/jp/knowledge/publication/kinyu_itf_201609/files/itf_201609_3.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.saa.or.jp/learning/ethics/rinri1/e3/index.html",
+    "https://www.nikkei.com/article/DGKKZO97383410W6A700C2DTC000/",
+    "https://www.nomura.co.jp/fic/fintos/notice/investment/analysts-report/?sc_pid=elb_a0400_01",
+    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/hijojowg_41_siryo.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://translate.google.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "private company research source matrix confidence levels conflicting sources adoption judgment site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/akshay-pachaar_how-to-build-a-1-person-ai-company-100-activity-7479581740383129600-XLJ2",
+    "https://www.linkedin.com/in/nitish-shrivastava",
+    "https://www.linkedin.com/in/shah-martinez",
+    "https://www.linkedin.com/pulse/ai-news-week-44-anthropic-files-go-public-experts-lukauskas-phd-esnqf",
+    "https://www.linkedin.com/posts/leonid-rivkind_aiagents-softwareengineering-agenticai-activity-7518230607349477377-3YmY",
+    "https://www.linkedin.com/in/timmy-wong",
+    "https://www.linkedin.com/pulse/advanced-ai-investment-banking-transformative-risk-anand-ramachandran-31xee",
+    "https://www.linkedin.com/in/nickgrandy",
+    "https://www.linkedin.com/pulse/intelligence-economy-vs-attention-paradigm-shift-andre-xch9e",
+    "https://www.linkedin.com/in/dralokmehta"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ26頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）",
+  "実例": "記載なし（読んだ26頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T12:04:46.166152+00:00"
+}

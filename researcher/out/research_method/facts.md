@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・240品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・242品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -8277,6 +8277,13 @@
 ## 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型（boilerplate removal main content extraction heuristics link density evaluation trafilatura readability）
 - 文脈：失敗
 - 手順・やり方：
+  - 「If you build data pipelines, the extraction quality predictor lets you run confidence-gated processing at crawl scale. Instead of manually checking outputs, you get a score that flags suspect pages for review or routes them to a heavier extraction method.」（https://webcontentextraction.org/）
+  - 「Boilerplate removal is the step that strips a page's repeated surroundings (navigation, footers, ads, consent notices, related-article panels) and keeps the main content. Every method does this by guessing, so every method has failure modes. Below: what gets removed, how the main approaches decide, what they wrongly discard, and how to test one before it feeds a RAG or LLM pipeline.」（https://blog.gyrence.com/blog/boilerplate-removal）
+  - 「Methods fall into three groups: rule-based cascades, tree and text-density heuristics, and trained block classifiers. None is right on every page.」（https://blog.gyrence.com/blog/boilerplate-removal）
+  - 「How tools tell content from clutter」（https://blog.gyrence.com/blog/boilerplate-removal）
+  - 「How to evaluate and integrate it in a pipeline」（https://blog.gyrence.com/blog/boilerplate-removal）
+  - 「This is the part most guides skip. The IPN study found that the method wrongly discards summaries and quotes, and that Boilerpipe frequently drops tables. It also struggles with forums, mailing lists, blog covers and section pages, where relevant content is spread across distant branches of the tree.」（https://blog.gyrence.com/blog/boilerplate-removal）
+  - 「cover the steps before and after cleaning.」（https://blog.gyrence.com/blog/boilerplate-removal）
   - 「Online order: https://classic.ntis.gov/help/order-methods/」（https://www.osti.gov/servlets/purl/2429881）
   - 「Main content extraction is a method to isolate the relevant content from a webpage and remove」（https://www.osti.gov/servlets/purl/2429881）
   - 「several methods that have been developed to do this, including several Python and Java libraries.」（https://www.osti.gov/servlets/purl/2429881）
@@ -8286,13 +8293,16 @@
   - 「For an external cross-check that isn't this base's own work, trafilatura's」（https://thunderbit.com/blog/trafilatura）
 - 一次情報の探し方：
   - 「https://readability.readthedocs.io/_/downloads/en/latest/pdf/」（https://www.osti.gov/servlets/purl/2429881）
+- 失敗・落とし穴：
+  - 「Top 10 Common AI Agent Scraping Mistakes to Avoid」（https://blog.gyrence.com/blog/boilerplate-removal）
 - 実例：
+  - 「try to get the best of both worlds. A heuristic extractor handles every page first. An ML confidence predictor flags the ones it is unsure about, and those get routed to a neural model for a second pass. You get heuristic speed on the 90%+ of pages where it works well, and neural quality on the hard cases.」（https://webcontentextraction.org/）
+  - 「warns that indiscriminately deleting repeated content in contracts or reports can destroy meaning, such as section identity or page order. UnRAG's rule of thumb is to keep headings, lists, code blocks, warnings, notes, examples, FAQ labels and freshness or scope metadata whenever they change meaning. Do not remove anything whose loss changes usefulness to a reader.」（https://blog.gyrence.com/blog/boilerplate-removal）
   - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
   - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
   - 「summarization-with-examples-jjg.」（https://www.osti.gov/servlets/purl/2429881）
   - 「in this research base — 11 fixtures in the content-fidelity set, 40 article units and 17 boilerplate units. These are synthetic fixtures deliberately weighted toward the adversarial cases, so read them as mechanism, not as a real-corpus ranking.」（https://thunderbit.com/blog/trafilatura）
   - 「trafilatura is aimed at article-oriented main-content extraction. It is a candidate for building text corpora, readable archives, or NLP inputs from static HTML when heuristic cleaning is acceptable. The shared fixture comparison supports lower boilerplate leakage than Readability, while Readability retained more of the short and non-prose cases.」（https://thunderbit.com/blog/trafilatura）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）（reconcile conflicting market data definitions scope period revisions evidence ledger）
 - 文脈：突き合わせ
@@ -9775,7 +9785,7 @@
   - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
   - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
   - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
 
 ## 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）（outcome switching registry publication comparison selective reporting audit method COMPare）
 - 文脈：報告の点検
@@ -9798,9 +9808,9 @@
   - 「All's well literature bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic access bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic suspicion bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き（revenue per employee headcount vs FTE average headcount false trend）
 - 文脈：手順
@@ -11764,21 +11774,22 @@
 - 文脈：手法
 - 手順・やり方：
   - 「Report the approach used to assess certainty of evidence, such as the GRADE framework.」（https://paperguide.ai/blog/prisma-guidelines/）
+  - 「This article sets out what the 16 PRISMA-S items require, which of them must be captured live, and how to build a log that makes the methods section close to automatic.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「A methods section describing the concepts searched, rather than supplying the lines as run, is not reproducible. The reader cannot tell how the concepts were combined, which fields were searched, or which terms were truncated.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「PRISMA-S was developed through a three-stage Delphi process followed by a consensus conference and a public comment period by a group of information specialists and systematic review methodologists and published in」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「Information sources and methods」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「State whether cited or citing references were examined, and describe the methods used, such as reference list browsing, a citation index, or alerts.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「Describe any additional information sources or search methods used」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「Report the methods used to update the searches, including what was re-run and over what period」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「Copying as you go is the only reliable method. A strategy reconstructed after the fact from notes will differ from the one that was run, usually in small ways that change the results, and the researcher will not know which version produced the counts they reported.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「There is an asymmetry worth exploiting here. Because search peer review is uncommon and its reporting is rarer still, a methods section that describes an independent assessment against a named guideline immediately distinguishes a review. What such an assessment involves and how to obtain one when your team has no second information specialist are covered in the guide to」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「requires you to describe the processes and any software used. This item is more consequential than its brevity suggests, because deduplication is not a solved problem, and the practical methods for」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「are what keep the reported counts honest. The default routines in reference management software have documented sensitivity limitations, and structured methods substantially outperform them. What a reader needs is the method, the software and version, the number of duplicates removed, and the number remaining, with source provenance preserved so the per-source counts still reconcile.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「the list of databases, the concepts searched, the eligibility criteria, and broadly, which supplementary methods were used.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「are the alternative the guideline explicitly supports, and depositing the search data and method descriptions in a repository produces a citable, permanent record with its own identifier, which is useful where a journal's supplementary handling is restrictive or where you want the search available independently of the paper.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
   - 「システマティック・レビュー（SR）の報告方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「な作業手順の1 つである」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「成手順のような SR プロセスの追加的要素は，適格」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「様な SR の報告方法のいわばスタンダード版である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「3. エビデンス統合のためのすべての文献検索方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ブ ・レビュー ） ，mixed methods review（混合法レ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「のか，また検索の詳細を報告する最善の方法につい」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「るためにさまざまな方法を用いてきた 11, 17, 19, 20）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「難である可能性が高いことが，検索方法の出版後査」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「情報源や方法を使用した検索を報告方法に関する指」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「文献検索方法の報告が不完全であると疑念が生」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「rapid review: SR の手順を簡略化したアプローチ ; realist review: 複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「雑な政策介入のためにデザインされた新しい SR の方法 ; meta-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
 - 突き合わせ・推定：
+  - 「There is a figure that the developers of PRISMA-S use to explain why the guideline was necessary, and it is worth sitting with. Estimates of search reproducibility in published systematic reviews range from」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
   - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「開発，検証，翻訳について報告している元の論文を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -11793,7 +11804,6 @@
   - 「特に匿名化処理では、3段階検証システム（自動処理・手動確認・第三者チェック）が個人情報漏洩リスクを82%低減します」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
   - 「測定値の不一致が生じた場合、3段階検証フロー（再測定・機器点検・専門家相談）を採用する機関では、データ廃棄率を56%削減しています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
   - 「データ欠損：自動入力検証システムの導入（エラー率72%削減）」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
-  - 「データ統合段階では、3段階検証プロセスが入力エラーを56%抑制します」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
 - 一次情報の探し方：
   - 「善したというエビデンスは統計的に有意でないもの」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「を採用しているため，研究レジストリはますます重」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -11827,6 +11837,7 @@
   - 「と視覚的なフローチャートを活用した結果、研究デザインの明確化からバイアス評価まで、システマティックな作業が可能に」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
   - 「メタ解析実施時のバイアスリスク評価フレームワーク」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
 - 実例：
+  - 「PRISMA-S emerged from health information practice, and its examples are clinical, but its design scope is explicit: the checklist was built」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
   - 「献検索，または情報検索プロセスは， SR の結果に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「追跡した結果，この比は年を追うごとに 1.0 に近づ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「scoping review: 既存の研究結果をマッピングしまとめたレビュー;」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -11841,7 +11852,6 @@
   - 「る結果件数の制限を事前に指定することがよくあ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「レビューチームが限られた結果をレビューする」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「文献 DB には肯定的な結果を報告した英語の出版物」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
 
 ## e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）（e-Stat table preprocessing unit row merged header footnotes missing symbols japanese era year verify totals）
 - 文脈：手法
@@ -13897,11 +13907,11 @@
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方（headcount definitions full-time equivalent persons engaged statistics vs payroll employees revenue per employee comparison）
 - 文脈：手法・企業調査
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合）（prefectural statistical yearbook definitions manufacturing shipments value added size threshold）
 - 文脈：手法・統計
@@ -13913,19 +13923,35 @@
 
 ## 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）（market research confirmation bias rubber stamp strategy operator economics consultant essay）
 - 文脈：手法・推定
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
 - 文脈：手法・企業調査
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
+
+## データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）（journalism foundation guide verifying statistics sources ICFJ Reynolds Center GIJN data quality）
+- 文脈：裏取り
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 中小製造業の生産性を統計から読む実務家の連載（小川真由 MONOist「ファクトから考える中小製造業の生きる道」：資本金区分・時間あたり・為替）（SME manufacturing productivity statistics practitioner column Japan per hour capital size）
+- 文脈：統計の読み方
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

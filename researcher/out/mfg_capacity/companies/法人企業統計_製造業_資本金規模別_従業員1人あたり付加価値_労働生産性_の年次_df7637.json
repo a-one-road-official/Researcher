@@ -1,0 +1,2813 @@
+{
+ "name": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104）",
+ "en": "Financial Statements Statistics of Corporations manufacturing value added per employee by capital size annual",
+ "aliases": [
+  "site:mof.go.jp 法人企業統計 製造業 資本金階級別 付加価値 従業員数",
+  "法人企業統計 年報 製造業 労働生産性 資本金規模別 推移",
+  "中小企業白書 2023 第1-3-15図 労働生産性 企業規模別 製造業"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T12:01:52.363454+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "かねて受注を断ると，受注が舞い戻ってくるとい",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "それは「同業者の廃業が増えており，その受注先",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ている」とし、「近年、経営者の高齢化が進む中で、休廃業・解散した企業数",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "廃業率を上回る状態にし」との表現が削られることに関し、「中小企業減 容認へ転換」と",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ 開業率が廃業率を上回る状態にし、開業率・廃業率が米国・英国レベル",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "あったのに対し、廃業した企業が 83 万者あったことによるものである",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、従業員のモチベーション低下、優秀な人材の離職、新規採用の困難といった中長期的な経営課題にもつながるでしょう",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "短期的に比率が下がっても、従業員の負担増、離職、品質低下、受注機会の損失を招けば、中長期の付加価値額を損なうおそれがあります",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性、賃金水準、離職率、受注・品質",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "economic stagnation that started in the 1990s. For small enterprises facing serious labor shortages, raising wages is an urgent",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８節 開業、倒産・休廃業",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 2010年代以降、倒産件数は減少傾向にあったが、コロナ禍以降再び増加に転じ、2024年の倒産件数は10,006件",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、倒産件数は2022年に増加に転じた一方で、完全失業率は足下でも横ばい傾向が続いている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 要因別に見ると、人手不足によるものや、人件費・物価の高騰を要因とした倒産の件数も増加している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【現状分析３ー①】倒産件数は増加傾向",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費や物価をはじめとしたコスト高騰が原因の倒産が増加",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 倒産件数の推移 図２ 要因別の倒産件数",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）「人手不足」関連倒産",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）「物価高」倒産",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：（株）東京商工リサーチ「全国企業倒産状況」、総務省「労働力調査（基本集計）」",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1.ここでの「倒産」とは、企業が債務の支払不能に陥ることや、経済活動を続けることが困難になった状",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、私的倒産（銀行取引停⽌処分、内整理）も倒産に含まれる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.負債総額1,000万円以上の倒産が集計対象",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：（株）東京商工リサーチ「全国企業倒産状況」",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1.ここでの「倒産」とは、企業が債務の支払不能に陥ることや 、経済活動を続けることが困難に",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円以上の倒産が集計対象",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.ここでの「『物価高』倒産」とは、①仕入コストや資源・原材料価",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "格の上昇、②価格上昇分を価格転嫁できなかった、等による倒産を指す",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時、廃業などの影響により、法人番号が埋まらない企業が存在する",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-1-4 は、存続企業、開業企業、廃業企業の労働生産性の各パーセンタイルの水準を比較",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-1-4 存続企業・開業企業・廃業企業の労働生産性（パーセンタイル）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "存続企業（2015年） 存続企業（2020年） 開業企業 廃業企業",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 倒産・体廃業・事業承継",
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "企業は 2)，企業数で99.5％， 従 業 者 数 で60.5％を占める",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人 42.2 49.6 45.7 36.0 31.8 30.4",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人 19.8 29.6 28.9 33.5 32.1 ―",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 3 製造業の事業所・企業規模別の事業所数，従業者数，付加価値額（2010 年）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4～9人 99,883 44.5 602,847 7.9 3,211,728 3.5 93,957 46.6 94,036 41.9 564,345 7.4 2,782,847 2.8",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10～19人 54,439 24.3 741,774 9.7 5,011,320 5.5 48,020 23.8 49,177 21.9 652,276 8.5 4,042,318 4.0",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人 26,453 11.8 647,332 8.4 5,005,148 5.5 22,526 11.2 24,159 10.8 550,522 7.2 3,862,192 3.8",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 4 製造業の企業数の推移",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人 29,604 24,223 34,712 41,235 30,320 -26.5 22,526 -25.7",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人の企業で3,945社，300人以上で756社 増加 し て い る （ 前",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人 212.7 167.4 158.0 107.6 99.2 ―",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人 5.1 3.9 5.9 6.0 4.8 3.8",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1) 企業数＝会社数＋個人事業所 （単独事業所及び",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版中小企業白書付属統計資料1表（産業別規模別企業数）では、2021年6月時点の「建設業」、「運輸業、郵便業」の中小企業数は、全体の中小企業数（非一次産業）の約14.6％を占める",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "が指摘されるが、図表５は、我が国の企業規模別の企業数の推移を見たもので",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これによると、我が国の企業数は 年々減少傾向にあるが、直近の 2016",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年の企業数は全体で 359 万者、 このうち中小企業は 358 万者で全体の 99.7％を",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表５ 我が国の企業規模別の企業数の推移",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業数合計 421.3 386.4 382.0 358.9 ▲ 27.4",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．企業数＝会社数＋個人事業者数とする",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業数は 27 万者減少しているが、これは、この間に開業した企業が 46 万者で",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 輸出入比率（従業者規模別）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50人～99人 100人～199人 200人～299人 300人以上",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～４人 ５～９人 10～ 19人 20～ 49人 50～299人 300人以上",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２.「全体」については、経営者年齢の情報がない企業も含んだ中小企業数に対する割合を示している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-1-2 は図表 3-1-1 の集計を事業所数で行った図である",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-1-2 事業所数の構成割合（企業規模別、人口増減率四分位別）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-3 は従業者規模別に、輸出比率（売上高に占めるモノの輸出額の割合）と輸入比率",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-3 輸出入比率（従業者規模別）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50人～99人 100人～199人 200人～299人 300人以上",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度と 2022 年度それぞれを売上高区分（スケール）ごとに企業数をカウントした表である",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間存続している企業ということもあり、100 億円以上の企業数が上昇している一方、それ以外は",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-6 売上高規模（スケール）別企業数",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の付加価値経営 #013 中小企業の定義や、企業数、労働者の分布などについて統計データを確認し、整理してみます",
+    "url": "https://newspicks.com/news/10647184/body/",
+    "pass": 3
+   },
+   {
+    "quote": "前回ご紹介した300人以上の大企業で43%でしたので、100～299人規模で14%相当のシェアだという事がわかります",
+    "url": "https://newspicks.com/news/10647184/body/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 日本の中小企業数 「日本は他国よりも中小企業が多いので労働生産性が低い」という認識を持つ人が多いと言われます",
+    "url": "https://newspicks.com/news/10647184/body/",
+    "pass": 3
+   },
+   {
+    "quote": "第3-1表 企業産業(小分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―全国",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "1990 年代以降， 中小工業の中でも 50 人以上の上位層と 49 人以下の中下位層で付加価値生産性格差が拡",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "し 1)， そ こ で9,487,059人が 働 い て い る．そのう ち，中小",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る 中 小 企業 は ， 従 業 者1 人 当 た り の 資 本装 備 額が少 な く，",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が小 さ くな るため，従業者1 人 当 た りの 付 加 価 値 額 も少",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000 人 以 上 の 企業 に お け る 従 業 者1 人 当 た り の粗 付",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と 3)， 規 模が 小 さ く な る ほ ど 低 下 し てお り ， 4～19 人規",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また，1,000人 以 上 の 企 業 にお け る 従 業 者1 人当たりの",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人では8.4，20～29 人でも19.8にす ぎ な か っ た ．",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4～19人 33.5 38.2 44.2 30.3 25.6 24.3",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人 42.2 49.6 45.7 36.0 31.8 30.4",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～49人 45.9 49.8 46.0 36.8 34.7 34.8",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50～299人 53.7 56.6 51.8 43.7 44.0 45.5",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300～999人 72.0 72.0 72.1 63.4 64.4 65.0",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 100.0 100.0 100.0 100.0 100.0",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）従業者 1 人当たりの粗付加価値額について，従業者 1,000 人以上を 100 とする指数．付加価値は粗付加価値ベ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ースで，1980 年と 1990 年の企業規模 4～19 人の粗付加価値額は，事業所規模 4 人以上の値から企業規模 20 人以上の",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4～19人 8.4 12.0 ― ― 12.2 ―",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人 19.8 29.6 28.9 33.5 32.1 ―",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、足下の人手不足が深刻化する中、人材確保に向けて重要と考えられる取組について確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "内閣府「人工知能基本計画（令和7年12月23日閣議決定）」では、AIトランスフォーメーションについて、「AIを活用して、顧客や社会のニーズを基に、製品やサービス、ビジネスモデルを変革するとともに、業務そのものや、組織、プロセス、企業文化・風土を変革し、競争上の優位性を確立すること」と定義している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「企業活動基本調査」は、従業者50人以上かつ資本金又は出資金3,000万円以上の企業を対象とした全数調査である",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、企業規模別、2023年度の労働生産性％タイル別に従業者一人当たり賃金を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、2023年度の中小企業の労働生産性％タイル別に、一社当たり研究開発費、従業者一人当たり能力開発費、一社当たり直接輸出額を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、2023年度の中小企業の労働生産性％タイル別に、一社当たり従業者数を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表１は、 公益財団法人日本生産性本部が公表した 2018 年の就業者１人当",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これによると、日本の就業者１人当たり労働生産性は米国と比較す",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）データは、就業者１人当たりＧＤＰ（購買力平価換算ＵＳドル）である",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２は、財務省「法人企業統計」により、企業規模別（資本金別）の従",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業員１人当たりの付加価値額を示したものであり、これによると、いわゆる",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２ 企業規模別従業員１人当たり付加価値額(労働生産性)の推移",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．原資料は、財務省「法人企業統計調査年報」",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 労働生産性の比較については、厳密には「従業員１人当たり」（付加価値額／従業員数）では",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タの制約によりここでは「従業員１人当たり」で見ている",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、図表３は、財務省「法人企業統計」により、企業規模別のいわゆる",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本装備率（従業員１人当たりの固定資産）を示したものである",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．資本装備率は、固定資産／従業員数",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）財務省「平成 30 年度法人企業統計調査年報」より作成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 中小企業の従業員一人当たりの付加価値額を今後５年間（2025 年まで）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．企業数＝会社数＋個人事業者数とする",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働分配率（%） = 人件費 ÷ 付加価値 × 100",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、売上高6,000万円、人件費2,000万円、外部購入費用2,000万円の企業の場合、労働分配率は以下のように計算できます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "= 人件費 20,000,000円 ÷ 付加価値 40,000,000円 × 100 =",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "＜事業所規模5人以上／毎月更新／1990年～＞",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "＜事業所規模30人以上／毎月更新／1980年～＞",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "また、労働投入量は、いずれの分野においても厚生労働省の毎月勤労統計調査（事業所規模5人以上）による",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "[OCR] 「法人企業統計調査からみる日本企業の特徴」資料 2",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「法人企業統計調査からみる日本企業の特徴」資料 2",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、付加価値が1億円、人件費が6,000万円の場合、労働分配率は60％です",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "人件費、付加価値額、売上高、利益、従業員数、1人当たり付加価値額の動きを分けて確認し、変化の原因を捉えることが重要です",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働分配率＝人件費 ÷ 付加価値額 × 100",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「令和７年版 労働経済の分析」は、財務省「法人企業統計調査」の四半期データを用い、人件費を役員・従業員の給与と賞与、福利厚生費の合計、付加価値額を営業利益、人件費、減価償却費の合計として算出しています",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、1990年代以降の長い経済低迷の中で根づいた人件",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代以降、設備投資が絞り込まれてきたが、成長に必要な人や資本への投資を抑制しているために自",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに、 企業の人件費抑制姿勢の変化を、 １人あた",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "名目ベースで見た１人あた",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最も増加が目立つのが事業所規模500人以上のパート",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２ １人あたり賃金（業種別）",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：事業所規模５人以上",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 賃金および人件費の動向",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１）厚生労働省の2003年以前の集計対象は、原則として、東証又は大証１部上場企業のうち資本金20億円以上かつ従業員数1,000人以上の労働組合がある企",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "金 5,000 万円～1 億円未満の中小企業上位層では相対的",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に堅調」に推移しているのに対して， 「資本金200万円未",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "満層，200～500 万円未満層では業績がよくない傾向」",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 3 億円以下の企業． なお，従業者数は，会社",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「企業活動基本調査」は、従業者50人以上かつ資本金又は出資金3,000万円以上の企業を対象とした全数調査である",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本算出方法で用いられている「企業活動基本調査」は、従業者数50人以上かつ資本金又は出資金3,000万円以上の企業を対象とした調査であり、比較的規模の小さい中小企業が捕捉できていないことに加え、「建設業」、「運輸業、郵便業」といった業種が調査対象外である点については留意が必要である",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "２．大企業は資本金 10 億円以上、中小企業は資本金 1 億円未満の企業としている",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業(a) 1,153.6 万円 772.0 万円 16.0 万円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業(b) 7,705.1 万円 2,750.5 万円 205.6 万円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．大企業は資本金 10 億円以上、中小企業は資本金 1 億円未満の企業としている",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①製造業・建設業・運輸業、その他の業種：資本金３ 億円以下又は常時雇用する従業員 300",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②卸売業：資本金１億円以下又は常時雇用する 従業員 100 人以下［うち小規模企業者は、常",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③サービス業：資本金５千万円以下又は常時雇 用する従業員 100 人以下［うち小規模企業者",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④卸売業：資本金５千万円以下又は常時雇用する従業 員 50 人以下［うち小規模企業者は、常",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、売上高6,000万円、人件費2,000万円、外部購入費用2,000万円の企業の場合、労働分配率は以下のように計算できます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "= 売上高 60,000,000円 − 外部購入費用 20,000,000円 =",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "＝ 人件費 ÷ 売上高 × 100",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、従業員20名、売上1億円、付加価値4,000万円、人件費2,000万円の製造業の企業であれば、それぞれ以下のように求められます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、売上1億円、売上原価6,000万円、人件費2,000万円、外部購入費用2,000万円の企業なら、付加価値4,000万円に対して、労働分配率は50％になります",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "2018 年度の労働生産性 (全産業・全規模) は 730 万円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000 万円未満 1000HAM (9 1 億円10 億円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 485 万円 570A 872 万円 1.367 万円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非製造業 494 万円 566 万円 761 万円 1,394 万円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、付加価値が1億円、人件費が6,000万円の場合、労働分配率は60％です",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "人件費、付加価値額、売上高、利益、従業員数、1人当たり付加価値額の動きを分けて確認し、変化の原因を捉えることが重要です",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "簡略化した例として、売上高1億円から仕入れや外注費などの外部購入費用6,000万円を差し引き、付加価値を4,000万円と仮定します",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "人件費が2,400万円の場合、労働分配率は60.0％となります",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "6,000万円",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,400万円",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金10億円以上",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上10億円未満",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円以上1億円未満",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円以上1億円未満の企業は、ほかの資本金区分と比べて労働分配率が高い水準となっています",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "人件費 ÷ 売上高 × 100",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "崩壊後の売上高の減少を受けて1990年代に大きく上昇",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代半ばには、 売上高の拡大により売上高",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表５ 人件費と売上高人件費率",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表６ 労働分配率 図表７ 売上高人件費率",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表12 上場企業の海外売上高比率",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表13 売上高に対する特別損失の割合",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に対する配当金の割合も大きく上昇し、 2015年",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表17 売上高に対する配当金の割合",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１）厚生労働省の2003年以前の集計対象は、原則として、東証又は大証１部上場企業のうち資本金20億円以上かつ従業員数1,000人以上の労働組合がある企",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業、2004年以降は、原則として、資本金10億円以上かつ従業員1,000人以上の労働組合がある企業（加重平均）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2000年度から2020年度にかけて 、大企業（資本金10 億円以上） の現預金は85.1％の増加（＋41.6兆円）、経常",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の財務の動向（資本金10億円以上の企業）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2000年度から2020年度にかけて、中小企業（資本金1千万円以上1億円未満）の現預金は49.6％の増加（＋40.1兆",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の財務の動向（資本金1千万以上1億円未満の企業）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 我が国の労働分配率を企業規模別に見ると 、2000年度から2019 年度にかけて 、大企業（資本金10 億円以上） は",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "60.9%から54.9%に6.0％減少、中堅企業 （資本金1億円以上10 億円未満 ）は71.2%から67.8%に3.4%減少、",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業 （資本金１千万円以上１億円未満） は79.8%から77.1％に2.7%減少、小企業 （資本金１千万円未満） は",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金1千万円以上",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1億円未満）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金1億円以上",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金10億円以上）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金1千万円未満）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金1億円未満）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ コロナ禍前の2019年4-6月と2021年4-6月の売上高営業利益率を見ると 、宿泊、飲食では、コロナ禍前より利",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "1990 年代以降， 中小工業の中でも 50 人以上の上位層と 49 人以下の中下位層で付加価値生産性格差が拡",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に つ い て，付加価値生産性格差を核とし，図1 のように",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図1 賃金・付加価値生産性・資本集約度格差",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加価値額を100とした付加価値生産性指数について，高",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "格差は付加価値生産性指数の格差よりも顕著で，4～19",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 付加価値生産性指数の推移",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）従業者 1 人当たりの粗付加価値額について，従業者 1,000 人以上を 100 とする指数．付加価値は粗付加価値ベ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ースで，1980 年と 1990 年の企業規模 4～19 人の粗付加価値額は，事業所規模 4 人以上の値から企業規模 20 人以上の",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金 5,000 万円～1 億円未満の中小企業上位層では相対的",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に堅調」に推移しているのに対して， 「資本金200万円未",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "満層，200～500 万円未満層では業績がよくない傾向」",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "み る な らば ，299 人以下の企業が 生 み出 す粗付加価値額",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 3 製造業の事業所・企業規模別の事業所数，従業者数，付加価値額（2010 年）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）従業者 29 人以下の付加価値額は粗付加価値額．付加価値額，粗付加価値額の右列は構成比．",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を境にして 49 人以下の各層の粗付加価値額の構成",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版 中小企業白書（HTML版） 第1章 中小企業の労働生産性の状況 | 中小企業庁",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 中小企業の労働生産性の状況",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記の点を踏まえ、第2部では、中小企業における労働生産性の状況を詳細に確認するとともに、これを高めるために有効と考えられる取組を分析する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、以降、企業の投資行動等に着目するため、第1部において算出したものと異なり、付加価値額に減価償却費を加えて算出しており、詳細な定義は各図表の注釈等に示す",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章では、公的統計を用いて、中小企業の労働生産性の状況について確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、中小企業の労働生産性の向上に向けて、付加価値額の増加（分子）と、労働投入量の最適化（分母）に要因分解し、それぞれに重要と考えられる取組について確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、【コラム2-1-1】では、データ取得の制約を踏まえた上で、中小企業の時間当たり労働生産性（付加価値額÷総労働時間）の算出を試みた",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "前述のとおり付加価値額に減価償却費を含めて算出しているため、第1部で確認した数値より水準が高くなっているが、足下10年間において、「大企業」の労働生産性は上昇傾向にある一方、「中小企業」の労働生産性は若干上昇傾向にあるが、おおむね横ばいで、伸び悩んでいる様子が見て取れる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「企業活動基本調査」は、従業者50人以上かつ資本金又は出資金3,000万円以上の企業を対象とした全数調査である",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）労働生産性",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これによると、日本の就業者１人当たり労働生産性は米国と比較す",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１ OECD 加盟諸国(36 か国)の労働生産性（2018 年）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）日本生産性本部「労働生産性の国際比較 2019」（2019.12.18 公表）より作成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 日本生産性本部では、 「就業１時間当たりの労働生産性」（ＧＤＰ(購買力平価換算ＵＳドル)",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業員１人当たりの付加価値額を示したものであり、これによると、いわゆる",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業と中小企業の間では労働生産性について規模間格差が見られる 7",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２ 企業規模別従業員１人当たり付加価値額(労働生産性)の推移",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．2006 年度(平成 18 年度)調査以前は付加価値額＝営業純益(営業利益－支払利息",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 労働生産性の比較については、厳密には「従業員１人当たり」（付加価値額／従業員数）では",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業(a) 1,153.6 万円 772.0 万円 16.0 万円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業(b) 7,705.1 万円 2,750.5 万円 205.6 万円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025年版 | 第1-1-55図 付加価値額の構成要素（企業規模別）」",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、売上高6,000万円、人件費2,000万円、外部購入費用2,000万円の企業の場合、労働分配率は以下のように計算できます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、従業員20名、売上1億円、付加価値4,000万円、人件費2,000万円の製造業の企業であれば、それぞれ以下のように求められます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、売上1億円、売上原価6,000万円、人件費2,000万円、外部購入費用2,000万円の企業なら、付加価値4,000万円に対して、労働分配率は50％になります",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "日本生産性本部では、鉱工業分野および主要産業分野の労働生産性（物的労働生産性指数）を月次・四半期・年次ベースで計測し、産業・業種別の効率性をはかる指標として1958年から生産性統計を発表しています",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "＜労働生産性統計（2026年8月実績）について＞【2026.11.04】",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性統計（2026年8月実績）を更新しました",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別労働生産性指数 (2026.10.26)",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "業態別労働生産性指数 (2026.10.26)",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "産業別労働生産性指数 (2026.11.04)",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "業態別労働生産性指数 (2026.11.04)",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の労働生産性指数は96.9(2020年＝100)",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性上昇率(前年同月比)は＋1.5%",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス産業の労働生産性指数は101.2",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性上昇率は＋0.7%",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業では、対象21業種のうち、生産用機械(＋22.4%)、電気機械(＋8.0%)、家具工業(＋5.5%)等の8業種で労働生産性上昇率がプラス",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業を除く非製造業では、対象14業種のうち、金融業，保険業(＋13.6%)、生活関連サービス業，娯楽業(＋4.2%)、医療，福祉(＋4.1%)の3業種で労働生産性上昇率がプラス",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "＜労働生産性統計（2026年8月実績）について＞【2026.10.26】",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "＜労働生産性統計（2026年7月実績）について＞【2026.10.02】",
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "pass": 3
+   },
+   {
+    "quote": "2018 年度の労働生産性 (全産業・全規模) は 730 万円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000 万円未満 1000HAM (9 1 億円10 億円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 485 万円 570A 872 万円 1.367 万円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非製造業 494 万円 566 万円 761 万円 1,394 万円",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性(円) = 100",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "（注）従業者 1 人当たりの有形固定資産額について，従業者 1,000 人以上を 100 とする指数．",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）有形固定資産額 1 単位当りの従業者 1,000 人以上を 100 とする指数．",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、2023年度の中小企業の労働生産性％タイル別に、一社当たり有形固定資産当期取得額を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "３． 固定資産には、 有形固定資産、 無形固定資産のほか、 投資その他の資産がある",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代以降、設備投資が絞り込まれてきたが、成長に必要な人や資本への投資を抑制しているために自",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代には年平均20兆円のペースで有形固定資産",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年頃からは設備投資が伸び悩む中で、",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代までは設備投資が活発だったこと、 1990年代は勢い",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かし、 2000年代に入り、 大企業では設備投資が急速に",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表25 有形固定資産回転率",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（▲0.2兆円）、設備投資は5.3％の減少（▲1.2兆円）",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円）、経常利益は14.9％の増加（＋1.6兆円）、設備投資は8.3％の増加（＋0.8兆円）、配当は216.6％の増加",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 民間企業の設備投資額（総固定資本形成額）の推移をみると、2000年から2019年にかけて、米国は1.45倍、フ",
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４節 労働生産性・設備投資",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、2024年度の中小企業の設備投資計画は、前年度",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【現状分析１ー⑦】コスト上昇が続く今こそ、積極的な設備投資により業務効率化を図ることが必要",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 設備投資の動向 図２ 現預金水準、貯蓄投資差額の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.設備投資は、ソフトウェアを除く",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）設備投資額の推移（企業規模別）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）中小企業の設備投資計画",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.ソフトウェア投資比率＝ソフトウェア投資額÷設備投資額×100",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【重要な取組１ー②】適切な価格設定は収益向上・設備投資・賃上げの好循環につながる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ マークアップ率と経常利益率、設備投資額、",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.経常利益率・設備投資額（売上高比）・賃金／限界生産性は、いずれも分位階級ごとの売上高加重平均値",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.資本装備率＝有形固定資産÷本社本店・本社以外・他企業出向者従業者数合計",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-18 は有形固定資産回転率の推移をスケール変動状況別に示している",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-18 有形固定資産回転率の推移（スケール変動状況別）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.有形固定資産回転率＝売上高÷有形固定資産",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(有形固定資産回転率 2013年度=100）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-19 は、2017 年度に設備投資を実施した企業と、2013 年度から 2022 年度の間に一切",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-19 売上高の推移（設備投資の実施有無別）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.ここでいう「設備投資の実施」とは、「有形固定資産当期取得額」が同期の売上高の10％より大きい場合をいう",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資を行った企業について、スケール別に売上高の推移を見て いるのが図表 3-2-20 であ",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-20 設備投資実施企業の売上高の推移（スケール別）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.ここでいう「設備投資の実施」とは、「有形固定資産当期取得額」が同期の売上高の10％より大きい場会をいう",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-36 はスケール変動状況別に有形固定資産の推移を見ている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 3-2-36 有形固定資産の推移（スケール変動状況別）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(有形固定資産 2013年度=100）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.ソフトウェア投資比率＝ソフトウェア投資額÷設備投資額×100",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3-1表 企業産業(小分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―全国",
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 労働生産性・設備投資・デジタル化・DX",
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資(AX・設備投資・リスキリング)を行わなければ",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルツールの導入、設備投資などです",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "具体的にどのような設備投資やIT投資を行い",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "表 1 付加価値生産性指数の推移",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模 1963年 1970年 1980年 1990年 2000年 2010年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2 資本装備率指数の推移",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に堅調」に推移しているのに対して， 「資本金200万円未",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少傾向等を整合的に理解することができる」 （p.170）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これら2 つの相違点について，2010年における付加価",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 4 製造業の企業数の推移",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人の企業で3,945社，300人以上で756社 増加 し て い る （ 前",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各 規 模 層に お い て い ず れ も 企 業 数 が 増加 し た ．80 年代に",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1990年と2010年 を比 べ る と ，1,000人 以上 規 模 層 を100",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減 少 が 著し い （ 前 掲 表4）．特に，2000～2010年 に お いて",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "も，規模が小さいほど減少率が大きく，50～299 人が",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 5 資本生産性の推移",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 6 粗付加価値額構成比の推移",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る銀行からの資金調達が減少し，緩和に向かった",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業務の減少 や，中小企業上位層の内製化の進展，",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の海外生産の拡大と輸入品の増加に伴っ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る中で，堅調に推移している企業がみられるが，",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業においては、春季労使交渉における賃上げ率上昇や最低賃金の引上げが進む中、現金給与額は増加傾向で推移している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「稼ぐ力」とはすなわち、付加価値を生み出す力であり、労働供給制約社会の中で、労働投入量の減少が見込まれる我が国においては、付加価値額を維持・増加させるためには、労働投入量当たりのパフォーマンスを示す「労働生産性」の向上が不可欠である",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、中小企業の労働生産性の向上に向けて、付加価値額の増加（分子）と、労働投入量の最適化（分母）に要因分解し、それぞれに重要と考えられる取組について確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）帝国データバンク「令和7年度中小企業の経営課題と事業活動に関する調査」：（株）帝国データバンクが2025年11月から12月にかけて、以下の事業者を対象に実施したWebアンケート調査",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、企業規模別の労働生産性の推移を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "前述のとおり付加価値額に減価償却費を含めて算出しているため、第1部で確認した数値より水準が高くなっているが、足下10年間において、「大企業」の労働生産性は上昇傾向にある一方、「中小企業」の労働生産性は若干上昇傾向にあるが、おおむね横ばいで、伸び悩んでいる様子が見て取れる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、業種別に中小企業の労働生産性の推移を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "別に、労働生産性の推移を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、企業規模別、2023年度の労働生産性％タイル別に従業者一人当たり賃金を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、業種別に、2015年度～2024年度の10年間における中小企業の労働生産性と賃金の変化率の関係を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、2023年度の労働生産性％タイル別に、投資行動等の特徴を確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、2023年度の中小企業の労働生産性％タイル別に、一社当たり有形固定資産当期取得額を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、業種別に2015年度～2024年度の10年間における中小企業の資本装備率",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、2023年度の中小企業の労働生産性％タイル別に、一社当たり研究開発費、従業者一人当たり能力開発費、一社当たり直接輸出額を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "森川（2018a）、Morikawa（2021）では、経済産業省「企業活動基本調査」の能力開発費を用いた分析を行い、教育訓練投資は、企業の生産性に対して正の寄与をしていることを指摘している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、2023年度の中小企業の労働生産性％タイル別に、一社当たり従業者数を見たものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況を踏まえ、本コラムでは、一定の仮定を置くことを前提としつつ、中小企業の時間当たり労働生産性を可能な限り正確に明らかにすることを目的に、先行研究や様々なデータ取得の制約を確認した上で、複数の公的統計を用いて、中小企業の時間当たり労働生産性の推移の算出を試みた",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "宮川（2018）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済のプリズム No189 2020.8",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国では、将来的に更なる人口減少等が見込まれる中で、中小企業",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年（2020 年）７月に閣",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "将来的に更なる人口減少や高齢化の進展が見込まれる中、近年、我が国の経",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そうした中で、平成 29 年（2017 年）12 月に閣議決定された「新しい経済政",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "景に、2020 年までの３年間を「生産性革命・集中投資期間」 として大胆な税制、",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、令和２年（2020 年）７月に閣議決定された新たな成長戦略1で",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１は、 公益財団法人日本生産性本部が公表した 2018 年の就業者１人当",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１ OECD 加盟諸国(36 か国)の労働生産性（2018 年）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）日本生産性本部「労働生産性の国際比較 2019」（2019.12.18 公表）より作成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 宮川努『生産性とは何か』（筑摩書房 2018.11.10）等を参照",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２ 企業規模別従業員１人当たり付加価値額(労働生産性)の推移",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）中小企業庁「中小企業白書 2020」等より作成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 例えば、デービッド・アトキンソン『日本企業の勝算』（東洋経済新報社 2020.4）等",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表３ 企業規模別の資本装備率（2018 年度）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表４は、経済財政諮問会議が令和２年（2020 年）７月に公表した「選択",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8 全要素生産性は、労働や資本の投入量の量的増加によらない生産（付加価値）の増加（技術",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．第２回選択する未来 2.0（2020 年３月 27 日）星岳雄東京大学大学院経済学研",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025/12/12",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】日本の労働分配率の現状",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の労働分配率は61.5%",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025年版 | 第1-1-55図 付加価値額の構成要素（企業規模別）」",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025年版 | 第1-1-56図 労働分配率の推移（企業規模別）」",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、日本企業の労働分配率は上昇傾向にあります",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "める一方で，外注については環境や安全に対する",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注先の要求の高まりに対応できる外注先に発注",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かねて受注を断ると，受注が舞い戻ってくるとい",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "及び外注先の集約化が中小企業中下位層にとって",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本来日本では協力メーカーに外注している工程を，",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、労働供給制約社会が到来し、人材の確保が一層困難になる可能性が高い我が国においては、中小企業の人手不足が今後更に深刻化するおそれがある",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、中小企業がこうした人手不足を乗り越えて、生産力・供給力を維持・強化していくことも、併せて必要といえる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（AX）を加速させることは、人手不足を乗り越えて、飛躍的成長を実現するチャンスとなる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、足下の人手不足が深刻化する中、人材確保に向けて重要と考えられる取組について確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上や利益の大小だけでは見えにくい「人材への適正な配分」と「企業の成長余力」の両面を測ることができるため、経営分析に欠かせません",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値とは、売上高から外部に支払った原材料費や外注費などを差し引いて、企業内部に残る価値を指します",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "材料費・外注費・運送費・光熱費など、社外に支払う全コスト",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、付加価値は、企業が内部で生み出した真の価値を示すために、外部への支出全体（外注費・運送費・水道光熱費など）を差し引いて算出します",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "業務量の変動に応じた人員体制と、正社員・派遣・外注の組み合わせにより、効率的な人件費管理を行いましょう",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "人員配置の最適化や、コア業務以外の外注活用、目標値からの乖離を把握できる仕組みなど",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "pass": 3
+   },
+   {
+    "quote": "人件費の負担や、従業員への還元と利益・投資余力とのバランスを確認する際に活用されます",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "算出方法は複数あり、売上高から仕入れや外注費などを差し引く方法や、利益や人件費などを積み上げる方法があります",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高などの産出額から、材料費、商品仕入高、外注費といった外部購入価値を差し引く考え方",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "簡略化した例として、売上高1億円から仕入れや外注費などの外部購入費用6,000万円を差し引き、付加価値を4,000万円と仮定します",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "この計算例で控除対象とする仕入れや外注費など",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、外注比率や事業構造などによっても水準は変わるため、数値だけで判断するのは適切ではありません",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額の持続的な増加、適切な従業員還元、必要利益と投資余力の確保を同時に目指し、その結果として労働分配率がどの水準にあるかを確認しましょう",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高には材料費、仕入高、外注費などに充てる部分も含まれるため、人件費率だけでは、自社が新たに生み出した価値に対する人件費の配分を把握できません",
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "pass": 3
+   },
+   {
+    "quote": "リーマンショック直後を除き、 常に人手不足に悩まされ",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業以上に人手不足が深刻な中小・零細企業では、",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業では外注加工費等の負担が大きいため、 付加価値率の",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資余力に限界のある中小・零細企業とは違い、 大企",
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 円安・物価高の継続や「金利のある世界」の到来による生産・投資コスト増、構造的な人手不足など、中小企業・小規模事業者が直面する状",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働分配率は8割近く、更なる賃上げ余力も厳しい状況",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 殆どの業種で深刻な人手不足にあり、業績改善なき賃上げも増えており、コストカット戦略は限界",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 人手不足への対応＝DX等による業務効率化・魅力的な環境作り",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " コロナ禍以降人手不足感が強まり、特に現業職の不足が深刻",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ほとんどの業種において、コロナ禍以降人手不足感が強まっている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【現状分析１－③】現業職を中心に、ほとんどの業種で人手不足が深刻化",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 他方、中小企業の労働分配率（付加価値額に占める人件費の割合、低いほど賃上げ余力が大きい）は既に８割に近い水準",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "賃上げへの意欲を見せる事業者も一定程度存在するが、中小企業の更なる賃上げ余力は、大企業と比較して厳しい状況",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 賃上げ余力を高めるためには、労働生産性（一人当たり付加価値額）を高めることが重要だが、大企業の労働生産性は上",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ないものの、これにより賃上げ余力を創出し、業績改善から賃上げと人材確保の好循環へとつなげていくことが重要",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５日）、「『中小企業の人手不足、賃金・最低賃金に関する調査』集計結果」（2024年２月14日）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【現状分析１－⑥】営業利益向上が賃上げ余力創出の鍵",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 物価・金利・人件費の上昇と構造的な人手不足に直面する今こそ、一人当たりの業務効率化と付加価値向上を加速させる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 要因別に見ると、人手不足によるものや、人件費・物価の高騰を要因とした倒産の件数も増加している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）「人手不足」関連倒産",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "か、日頃から代替となる仕入先・外注先の検討や製造工程の見直",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支援機関においては対応力強化・人手不足解消が課題",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この外部購入費には、「原材料費」「部品費」「外注加工費」「製造経費」が含まれます",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある企業が1つ生産するために原材料費が5,000円、外注加工費用が5,000円かかった製品があるとします",
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、年間売上高2億円、外部購入費用（原材料費・外注費など）1億2,000万円、従業員数10名の製造業企業の場合を考えます",
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ成功企業はオウンドメディア外注を選ぶのか？補助金で実質半額にする方法",
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの外注先おすすめの選び方｜「記事を書くだけ」の会社に要注意",
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "pass": 3
+   },
+   {
+    "quote": "であり、中小企業・小規模事業者の更なる賃上げ余力は、大企業と比較して厳しい状況にあるこ",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足やインフレで生産性低い企業はある程度は淘汰されて行くとは思いますがそれ以外のアプローチも必要だと感じます",
+    "url": "https://newspicks.com/news/10647184/body/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性が高まった後は程よい余力と隙間でビジネスチャンスと品質向上を目指し好循環とする",
+    "url": "https://newspicks.com/news/10647184/body/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、簡便に計算するため、付加価値を、製造業の場合は「加工高（売上高から材料費および外注費を差し引いた額）」、非製造業の場合は「売上総利益」としています",
+    "url": "https://www.keieiryoku.jp/category/guide/detail/?id=7",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性(1人当たり加工高)(円)= (売上高-材料費-外注費)÷従業者数",
+    "url": "https://www.keieiryoku.jp/category/guide/detail/?id=7",
+    "pass": 3
+   },
+   {
+    "quote": "円安・物価高の継続や「金利のある世界」の到来による生産・投資コスト増、構造的な人手不足など、中小企業・小規模事業者が直面する状",
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働分配率は8割近く、更なる賃上げ余力も厳しい状況",
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "殆どの業種で深刻な人手不足にあり、業績改善なき賃上げも増えており、コストカット戦略は限界",
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億超企業は賃上げ実施率・域内取引額共に高水準 ② 人手不足への対応= DX等による業務効率化・魅力的な環境作り",
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の ロ 迅速な意思決定・組織季軟性をいかした独自の付加価値創出 ロ コロナ補以降人手不足感が強まり、特に現業職の不足が深刻",
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "第 1 章 中小 企業 の 労働生産性 の状況 — 第 1 章 中小 企業 の 労働生産性 の状況 中小企業庁 https://www.chusho.meti.go.jp > hakusyo > chusho > b2_1",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性 — 労働生産性 財務省 PDF https://www.mof.go.jp > ssc > japan > japan02_18",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "労働生産性 の向上と賃金変化率の相関  現状維持リスクを ... 労働生産性 の向上と賃金変化率の相関  現状維持リスクを ... note https://note.com > ビジネス > データ・分析",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "121 日本 企業 の 労働生産性 - 企業規模別 の推移｜小川製作所 121 日本 企業 の 労働生産性 - 企業規模別 の推移｜小川製作所 note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "労働生産性の向上と賃金変化率の相関📈現状維持リスクを乗り越える数式とデータ分析🏭：2026年版中小企業白書 No.9｜とある社会人の自己成長記録note📚",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の向上と賃金変化率の相関📈現状維持リスクを乗り越える数式とデータ分析🏭：2026年版中小企業白書 No.9",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "今回のテーマは、これからの構造的な人手不足を",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "生き抜くための重要テーマである「労働生産性」です！",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "前回、2040年に向けて生産年齢人口が大幅に減少し",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "何もしなければ中小企業の雇用者数が大きく落ち込む",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "危険性があるという厳しい予測値を確認しました。",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "これまで通りのやり方を続ける「現状維持」は",
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "pass": 3
+   },
+   {
+    "quote": "121 日本企業の労働生産性 - 企業規模別の推移｜小川製作所 | 製造業x経済統計",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   },
+   {
+    "quote": "121 日本企業の労働生産性 - 企業規模別の推移",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、日本の法人企業の労働生産性について、企業規模別の労働者1人あたり付加価値と、労働時間あたり付加価値を計算してみます。",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   },
+   {
+    "quote": "について、企業規模別に計算し確認してみたいと思います。",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性は一定期間に労働者が生み出す付加価値です。",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   },
+   {
+    "quote": "したがって労働者が稼ぎ出す年間の付加価値も、労働生産性の一つと言えます。",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   },
+   {
+    "quote": "労働者1人あたり付加価値 = 付加価値 ÷ 労働者数",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   },
+   {
+    "quote": "1人の労働者が1時間あたりに生み出す付加価値も労働生産性ですね。",
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計 on X: \"【最新】2025年の労働生産性と... Sep 2, 2026 · 【最新】2025年の労働生産性と平均給与 先日法人企業統計調査が更新されたので、最新の労働生産性(労働者1人あたり付加価値)と平均給与を計算してみました。 2025年の1人あたり付加価値は758万円で、昨年度の726万円から大幅に上昇しています。 平均給与は426万円で、昨年(417万円)より上昇して ...",
+    "url": "https://x.com/OgawaSeisakusho/status/2095258759459459223",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業x経済統計 on X: \"@maker_careerlab 例えば、法人... Sep 26, 2026 · @maker_careerlab 例えば、法人企業統計調査で製造業の業種別に労働生産性(労働者1人あたり付加価値)を計算してみるとこんな感じです。 法人企業統計調査は企業規模(資本金階級)ごとにもデータ取得できますので、頑張ればこれを更に企業規模別でも計算する事ができます。",
+    "url": "https://x.com/OgawaSeisakusho/status/2103809193270825107",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "労働生産性＝付加価値額 ÷ 労働投入量：数字の裏にある本質 Dec 18, 2025 · 労働生産性＝付加価値額 ÷ 労働投入量：数字の裏にある本質 鈴木美徳 製造業の経営を支援します。ー 中期計画達成率の向上、生産性改善、労災 ...",
+    "url": "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "日本生産性本部 - 「労働生産性の国際比較2025」を公表！... | Facebo... Dec 21, 2025 · 📢「労働生産性の国際比較2025」を公表！ ～日本の時間当たり労働生産性は60.1ドル（5,720 円）で OECD加盟38カ国中28位～ OECDデータに基づく2024年の日本の時間当たり労働 生産性は、 60.1ドル（5,720 円）で、OECD加盟38カ国中28位でした。",
+    "url": "https://www.facebook.com/jpc0301/posts/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883787067651/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hyogo-roudoukyoku/content/contents/001924601.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nochuri.co.jp/report/pdf/f1904fo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/10647184/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keieiryoku.jp/category/guide/detail/?id=7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/NV.IND.MANF.ZS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/72nenkan/zenbun/en72/book/pageindices/index230.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ourworldindata.org/grapher/manufacturing-value-added-to-gdp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kens_reading1/n/n6269a71289e8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho/status/2095258759459459223",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho/status/2103809193270825107",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jpc0301/posts/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883787067651/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://jsite.mhlw.go.jp/hyogo-roudoukyoku/content/contents/001924601.pdf",
+    "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://www.rieti.go.jp/jp/publications/dp/10j018.pdf",
+    "https://lfb.mof.go.jp/kantou/content/000105134.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://newspicks.com/news/10647184/body/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf",
+    "https://www.global.toshiba/jp/products-solutions/business-ict/gene/generalist/topics/hrpr26a_025.html",
+    "https://www.murc.jp/uploads/2017/02/201701_109.pdf",
+    "https://www.freee.co.jp/kb/kb-accounting/labor-share/",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104）",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 統計 PDF",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.nochuri.co.jp/report/pdf/f1904fo1.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 従業者規模別",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://newspicks.com/news/10647184/body/",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.freee.co.jp/kb/kb-accounting/labor-share/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://newspicks.com/news/10647184/body/",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "https://www.keieiryoku.jp/category/guide/detail/?id=7"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://newspicks.com/news/10647184/body/",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "https://www.nochuri.co.jp/report/pdf/f1904fo1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Financial Statements Statistics of Corporations manufacturing value added per employee by capital size annual Japan statistics",
+   "results": [
+    "https://www.mof.go.jp/english/pri/reference/ssc/index.htm",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.ZS",
+    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "https://www.stat.go.jp/english/data/nenkan/72nenkan/zenbun/en72/book/pageindices/index230.html",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://ourworldindata.org/grapher/manufacturing-value-added-to-gdp",
+    "https://www.oecd.org/en/data/indicators/value-added-by-activity.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/en/statistics/00350600",
+    "https://www.statista.com/topics/10068/business-enterprises-in-japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104）",
+   "results": [
+    "https://note.com/kens_reading1/n/n6269a71289e8",
+    "https://note.com/epolicy_actvst/n/n43c835f022f3",
+    "https://note.com/hirokimiyano/n/n529d77e1fc8d",
+    "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "https://note.com/tsuchidagyousei/n/n2127745b0ee0",
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/deft_guppy5150/n/nae53c3d8a2e0",
+    "https://note.com/ogawa_tech/n/ndda326808f54",
+    "https://note.com/yozan_project/n/n4a711a4d3f3d",
+    "https://note.com/dataisfunny/n/n92c77dd70dc1"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2053781063978344899",
+    "https://x.com/OgawaSeisakusho/status/2095258759459459223",
+    "https://x.com/OgawaSeisakusho/status/2027490451725684795",
+    "https://x.com/OgawaSeisakusho/status/2103809193270825107",
+    "https://x.com/OgawaSeisakusho/status/1728206901996142594",
+    "https://x.com/OgawaSeisakusho/status/2103780310349701143",
+    "https://x.com/OgawaSeisakusho/status/1772425988259164627",
+    "https://x.com/OgawaSeisakusho/status/2114827307454238733"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104）",
+   "results": [
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の本来の稼ぎとは-企業規模別の純付加価値と減価償却費-activity-7433241835688595456-MK-1",
+    "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/",
+    "https://au.linkedin.com/in/遼馬-小栗-1b2b59291",
+    "https://au.linkedin.com/in/ella-x-zhou",
+    "https://jp.linkedin.com/posts/atamura_統計-経済-労働分配率-activity-7482569554670407680-GXQ1",
+    "https://www.linkedin.com/posts/masayoshi-ogawa1980_314-雇用者の労働時間あたり付加価値-生産性の国際比較-小川製作所-東京都葛飾区-activity-7176692327673991169-72Vi",
+    "https://www.linkedin.com/posts/嗣典-三枝-77878b41_生産性アウトプットインプット付加価値労働者数または労働時間ｇｄｐ-これをみて-activity-7160985390613426177-P2UP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104）",
+   "results": [
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/VUC2021/",
+    "https://www.facebook.com/jpc0301/posts/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883787067651/",
+    "https://www.facebook.com/jpc0301/posts/生産性年次報告2025を公表企業の生産性向上につながる人への投資のあり方についての議論を取りまとめ-日本生産性本部は11月18日生産性に関連する当本部の調査や統/1356225422966821/",
+    "https://www.facebook.com/SalesforceJapan/videos/地方創生20を自社の経営戦略に取り込む/2233380634182600/",
+    "https://www.facebook.com/Deloitte.Japan/posts/1人あたり付加価値の向上が人口減少時代の答えになるデロイト-トーマツ-グループ著の書籍価値循環の成長戦略のポイントを動画で解説執筆を手掛けたデロイト-トーマツ-/888672193280343/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/生産性所得付加価値に関する研究会第１回会合を11月8日に開催し研究会の問題意識等についての説明議論に続き高橋悠太様一橋大学経済研究所講師高山直樹様一橋大学経済研/499167778918126/",
+    "https://www.facebook.com/ITmediaBusinessOnline/posts/2025年5月15日日本生産性本部は付加価値増大を軸とした生産性経営の実践2040年日本を世界の生産性トップリーグへ導く経営変革の道筋と題する提言を発表したこの/1419636440180647/",
+    "https://www.facebook.com/OECD.JP/posts/oecd東京センターのウェブサイトには主要統計の一覧が日本語で掲載されています各指標のリンク先ではデータが一目でわかるようグラフになっていて日本語の定義もご覧い/6213059408766632/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.motivation-cloud.com/hr2048/c489",
+    "https://shokosoken.or.jp/shokokinyuu/2021/01/2021_01_1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 製造業 資本金規模別 従業員1人あたり付加価値（労働生産性）の年次の表（資本金の区分と従業者の区分を混ぜない・4-104） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://newspicks.com/news/10647184/body/",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.youtube.com/watch?v=yEaG6kS7tx8"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Financial Statements Statistics of Corporations manufacturing value added per employee by capital size annual site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
+    "https://www.linkedin.com/posts/nupur-jindal-82763a8b_asisse-economicdata-policyinsights-activity-7462156884804939776-TkaN",
+    "https://www.linkedin.com/posts/neelkanth-mishra-46629b_go-slow-on-rate-hikes-indian-cost-of-capital-activity-7515272878779506689-dOo2",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/pulse/deliver-profits-fools-gold-creating-winning-strategy-mining-starwood",
+    "https://www.linkedin.com/posts/m%C3%A1rta-vangel-bb84895b_sme-productivity-has-two-gaps-hungarian-activity-7511911960079400961-yb5y",
+    "https://www.linkedin.com/pulse/warren-buffett-analysis-any-public-company-claude-jeff-epstein-zbldc",
+    "https://www.linkedin.com/in/benedikt-hornung",
+    "https://www.linkedin.com/pulse/company-registration-bahrain-ukrainian-non-residents-kebnf",
+    "https://www.linkedin.com/pulse/travelers-2020-annual-report-alan-schnitzer"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,740 @@
+{
+ "name": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる）",
+ "en": "listed Japanese companies whose main business is contract heat treatment plating stamping dies EDINET business description",
+ "aliases": [
+  "上場 熱処理 受託 加工 会社 有価証券報告書 事業の内容",
+  "上場 めっき 受託加工 会社 EDINET",
+  "上場 金属プレス 受託 会社 有価証券報告書"
+ ],
+ "context": "会社・一次",
+ "kind": "market",
+ "researched_at": "2026-11-08T12:01:47.612660+00:00",
+ "evidence": {
+  "受注金額・加工賃収入": [
+   {
+    "quote": "18億8,919万円(2026年2月末)",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "18億8,919万円(2026年2月末)",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2021.01.24",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021.01.25",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021.01.23",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021.01.22",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021.01.21",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021.01.20",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021.01.19",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "非破壊検査技術特集(2016年8月記事)",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021.01.18",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン部品生産への挑戦（2016年8月記事）",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021.01.17",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "MF技術大賞2022-2023受賞",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "小牧事業所 検査係 Ｙ.M さん 2015年入社",
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmp.co.jp/library/pdf/finance/2019-ren-2q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.scgr.co.jp/report/column/?_page=11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future-procurement.com/insight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://houmu-pro.com/contract/360/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/104274",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://s-flow.net/column/what-is-backlog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOFL1865DTY5A210C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://next-engine.net/ec-blog/backlog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/product/smilev-sales/column-backlog-order.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casio-human-sys.co.jp/bc-order/column/012.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebisumart.com/blog/backorder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ma-succeed.jp/content/knowledge/post-2616",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/tag/hr.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/discussion-paper/dp182.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E7%B2%89%E4%BD%93%E5%8F%97%E8%A8%97%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/markets/statistics-equities/misc/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jutaku-seizo.net/contents/category/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/categories/8862/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hsk.co.jp/ja/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.powderprocessing-mikata.com/list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/co/tvdivq0000004xgb-att/tvdivq0000017jt9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.phillip.co.jp/corporatefinance/listedCompany.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/405137",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/delisted/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/dstock/ipo_fisco/ipo_report_7781_fisco.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/listing/cg/tvdivq0000008jb0-att/um3qrc000001isbf.pdf?utm_source=tvtokyo_plus&utm_medium=article&utm_campaign=entry-27350",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/02toukatsu01_03000044.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000407.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r08/2606/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250428_archive/faod34/140120250428525504.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-lic.com/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/co-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000870017.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanySearch/j_lflg__1/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0215S/-ar__3/-ha__100%2C0/-preBtn__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jsr.co.jp/news/assets/pdf/837a51aedd61b0673078a595f7c5f7a2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.okasan.co.jp/assets/movie/movie-pdf-544.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.skymark.co.jp/ja/company/investor/120619_press_fares_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jacd.jp/news/iinkaisecchi2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 人手不足 受注 断る",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.cmp.co.jp/ir/news/ir_news/20181031.html",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://www.future-procurement.com/insight/",
+    "https://houmu-pro.com/contract/360/",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/104274",
+    "https://www.lancers.jp/?srsltid=AYCX9vIazN0I46lmNdqPwdyXX18A64T_AJemb7G-E0CY5S-8STJb3wD1",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_18_06_27b.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/shokibo/00sHakusyo_zentai.pdf",
+    "https://www.ipros.com/cg2/受託加工サービス/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 受注残 人手不足",
+   "results": [
+    "https://s-flow.net/column/what-is-backlog/",
+    "https://www.nikkei.com/article/DGXZQOFL1865DTY5A210C2000000/",
+    "https://next-engine.net/ec-blog/backlog/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/product/smilev-sales/column-backlog-order.html",
+    "https://www.casio-human-sys.co.jp/bc-order/column/012.html",
+    "https://ebisumart.com/blog/backorder/",
+    "https://ts-base.jp/blog/15",
+    "https://ecact.jp/backorder/",
+    "https://www.ts-base.net/column/20230829_2"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 人手不足 損失 億円",
+   "results": [
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "https://ma-succeed.jp/content/knowledge/post-2616",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://j-net21.smrj.go.jp/tag/hr.html",
+    "https://www.funaisoken.co.jp/seminar/146269",
+    "https://www5.cao.go.jp/keizai3/discussion-paper/dp182.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=Kpe%2BA1bTYyE%3D&tabid=159&mid=1060&TabModule1202=0",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる）",
+   "results": [
+    "https://mono.ipros.com/cg2/%E7%B2%89%E4%BD%93%E5%8F%97%E8%A8%97%E5%8A%A0%E5%B7%A5/",
+    "https://www.jpx.co.jp/markets/statistics-equities/misc/01.html",
+    "https://jutaku-seizo.net/contents/category/company",
+    "https://metoree.com/categories/8862/",
+    "https://www.hsk.co.jp/ja/company/about.html",
+    "https://www.powderprocessing-mikata.com/list/",
+    "https://www.food-oem.com/g-kongou.html",
+    "https://www.nc-kakouki.co.jp/pr/index_rs2_jutaku-kakou_005.html",
+    "https://www.phillip.co.jp/corporatefinance/listedCompany.php",
+    "https://www.ipros.com/cg2/受託加工サービス/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 推移",
+   "results": [
+    "https://www.jpx.co.jp/listing/co/tvdivq0000004xgb-att/tvdivq0000017jt9.pdf",
+    "https://www.phillip.co.jp/corporatefinance/listedCompany.php",
+    "https://shikiho.toyokeizai.net/news/0/405137",
+    "https://www.jpx.co.jp/listing/stocks/delisted/",
+    "https://search.sbisec.co.jp/v2/popwin/info/dstock/ipo_fisco/ipo_report_7781_fisco.pdf",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://quote.eastmoney.com/newstatic/html/profitchart_new.html?code=920268.BJ",
+    "https://info.monex.co.jp/news/2024/20241008_03.html",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000407.pdf",
+    "https://www.jpx.co.jp/listing/co-search/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 統計 PDF",
+   "results": [
+    "https://www.jpx.co.jp/equities/listing/cg/tvdivq0000008jb0-att/um3qrc000001isbf.pdf?utm_source=tvtokyo_plus&utm_medium=article&utm_campaign=entry-27350",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20e.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/02toukatsu01_03000044.html",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000407.pdf",
+    "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r08/2606/index.htm",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250428_archive/faod34/140120250428525504.pdf",
+    "https://www.fsa.go.jp/common/law/guide/ins.pdf",
+    "https://www.tkc.jp/tkcnf/bast/sample/",
+    "https://sakaicci.or.jp/wp/wp-content/uploads/service_12.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0004029509"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 従業者規模別",
+   "results": [
+    "https://j-lic.com/companies",
+    "https://www.jpx.co.jp/listing/co-search/",
+    "https://shikiho.toyokeizai.net/news/0/405137",
+    "https://www.soumu.go.jp/main_content/000870017.pdf",
+    "https://doda.jp/DodaFront/View/CompanySearch/j_lflg__1/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jsda.or.jp/shiryoshitsu/toukei/",
+    "https://www.tc-nb.co.jp/1735/",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.ipros.com/cg2/受託加工サービス/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 1人当たり 万円",
+   "results": [
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0215S/-ar__3/-ha__100%2C0/-preBtn__2/",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20e.pdf",
+    "https://www.jsr.co.jp/news/assets/pdf/837a51aedd61b0673078a595f7c5f7a2.pdf",
+    "https://media.okasan.co.jp/assets/movie/movie-pdf-544.pdf",
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://www.jpx.co.jp/equities/listing/cg/tvdivq0000008jb0-att/um3qrc000001isbf.pdf?utm_source=tvtokyo_plus&utm_medium=article&utm_campaign=entry-27350",
+    "https://www.skymark.co.jp/ja/company/investor/120619_press_fares_1.pdf",
+    "https://www.mipox.co.jp/dcms_media/other/mipox_securities_report_96.pdf",
+    "https://companydata.tsujigawa.com/human-capital/ranking/productivity/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） 2015 2025",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/delisted/",
+    "https://www.jacd.jp/news/iinkaisecchi2.pdf",
+    "https://www.phillip.co.jp/corporatefinance/listedCompany.php",
+    "https://j-lic.com/stock_exchanges/tse",
+    "https://www.pwc.com/jp/ja/knowledge/ipo-market/ipolist-2025.html",
+    "https://mono.ipros.com/cg1/%E5%8F%97%E8%A8%97%E5%8A%A0%E5%B7%A5/",
+    "https://www.ipokiso.com/company/2015/index.html",
+    "https://www.sbic.co.jp/information/publiccompany/",
+    "http://www.okasan.co.jp/marketinfo/newlisted_stock/",
+    "https://www.jpx.co.jp/listing/co-search/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "listed Japanese companies whose main business is contract heat treatment plating stamping dies EDINET business description Japan statistics",
+   "results": [
+    "https://www.jpx.co.jp/english/listing/co-search/01.html",
+    "https://japan-dev.com/blog/japanese-trading-companies",
+    "https://en.wikipedia.org/wiki/List_of_companies_of_Japan",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.jica.go.jp/english/overseas/india/others/__icsFiles/afieldfile/2025/01/24/list_02.pdf",
+    "https://www.sodick.co.jp/en/company/pdf/profile_en_2021.pdf",
+    "https://www.onk-phnx.co.jp/e/company",
+    "https://www.espec.co.jp/english/ir/event/pdf/presentation2023_2q_ref01.pdf",
+    "https://www.kansai.meti.go.jp/2kokuji/glocal_PT/English/list/catalog_e.pdf",
+    "https://edinetdb.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる）",
+   "results": [
+    "https://note.com/denkikogyo/n/n7bbc8c4688cc",
+    "https://note.com/yui2101_kamata/n/n5f884678a812",
+    "https://note.com/kagawatomo/n/nd51f0232fb3e",
+    "https://note.com/denkikogyo/n/ndb8bffb766ec",
+    "https://note.com/watanabeyuya/n/n438ff81bfbaf",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/tatsuya_sabato/n/n4748a68778ef",
+    "https://note.com/good_dill292/n/n488e6ac33153",
+    "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "https://note.com/good_dill292/n/n44f0916fc653"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる）",
+   "results": [
+    "https://x.com/fox_kabu/status/2105480614531199464",
+    "https://x.com/ai_analyst_ir/status/2111985256916025453",
+    "https://x.com/luigi_jpn/status/2113788303665426873",
+    "https://x.com/luigi_jpn/status/2115560898278592681",
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/KagawaTomo/status/2117769432462446802",
+    "https://x.com/semi_journal_jp",
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://x.com/ma_memo_jp",
+    "https://x.com/Lapis_Growth10X"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる）",
+   "results": [
+    "https://jp.linkedin.com/company/marutto-llc",
+    "https://jp.linkedin.com/in/yuya-ishiwata",
+    "https://jp.linkedin.com/in/nsasaki7",
+    "https://jp.linkedin.com/in/%E4%BD%91%E9%87%8C-%E5%9D%82%E5%85%83-358025224",
+    "https://jp.linkedin.com/in/%E7%BE%A9%E5%89%9B-%E7%95%B6%E9%96%93-86308523a",
+    "https://jp.linkedin.com/in/%E7%BF%94%E4%B9%9F-%E4%B8%AD%E6%9D%91-752876192",
+    "https://jp.linkedin.com/posts/junji-harada-420b4538_%E5%B0%91%E3%81%AA%E3%81%8F%E3%81%A8%E3%82%82%E5%90%8C%E3%81%98%E6%89%8B%E9%A0%86%E6%9B%B8%E3%82%923%E3%83%B6%E6%9C%88%E3%81%AF%E4%BD%BF%E3%81%84%E5%9B%9E%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AA-%E8%A9%B1%E3%81%97%E6%96%B9%E3%81%AF%E4%B8%80%E6%B5%81%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%B9-activity-7305805632903729152-pO-k",
+    "https://jp.linkedin.com/company/twostone-s",
+    "https://jp.linkedin.com/posts/screen-semiconductor-solutions-co-ltd_樹脂加工を手掛けるフェニックス社の全株式の取得に合意-activity-7161165026697826306-FARi",
+    "https://www.linkedin.com/posts/miru-news-report_アムロンちよだ製作所の全株式取得-鋼材の加工販売を行うアムロン香川県高松市-activity-7247025158421446656-6DW2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com 受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる）",
+   "results": [
+    "https://www.facebook.com/iwateyorozu/?locale=ja_JP",
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/yosuke.naganawa/",
+    "https://www.facebook.com/funaisoken/videos/加工請負業からの脱却メーカー化レポート無料ダウンロード/1874533400113930/",
+    "https://www.facebook.com/startuplogcom/posts/カスタムaiシステムの受託開発と研究開発を行う株式会社archaicと印刷技術とictの融合による製品を提供する大日本印刷株式会社が資本業務提携を締結株式会社a/1339046111562541/",
+    "https://www.facebook.com/wti.channel/photos/設計者は設計に時間を充てられているか-お客様の開発設計促進業株式会社wave-technologywtiの社長-石川高英です-近年当社にご依頼いただく仕事の中で/955102951699215/",
+    "https://www.facebook.com/reel/4109733862582574/",
+    "https://www.facebook.com/reel/729494982696904/",
+    "https://www.facebook.com/OfficeGluee/posts/本日は沼津市の鉄鋼加工業東海ウエルド株式会社様のご紹介ですhttpstokaiweld1201cojp東海ウエルドさんは型鋼を主として取り扱いｈ形鋼ｌ形鋼などを/692498736208494/",
+    "https://www.facebook.com/agatanushi/videos/本業は金属加工です/1590174616122369/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） note 社長",
+   "results": [
+    "https://note.com/jfe_tec/n/n654d43856369",
+    "https://note.com/kashiman/n/n082c56c1054a",
+    "https://note.com/catlucy23",
+    "https://mono.ipros.com/cg1/%E5%8F%97%E8%A8%97%E5%8A%A0%E5%B7%A5/",
+    "https://www.nikkei.com/article/DGXMZO60315230S0A610C2LKA000/",
+    "https://jutaku-seizo.net/contents/category/company",
+    "https://note.com/lolll/n/nb4d6357b197b",
+    "https://www.proceo.jp/media/seminar-2025-09-03/",
+    "https://shikiho.toyokeizai.net/news/0/836946",
+    "https://www.ipros.com/cg2/受託加工サービス/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる） X 投稿",
+   "results": [
+    "https://x.com/JPX_official",
+    "https://www.jpx.co.jp/listing/co-search/",
+    "https://mono.ipros.com/cg1/%E5%8F%97%E8%A8%97%E5%8A%A0%E5%B7%A5/",
+    "https://careerforum.net/ja/event/tkw1/companylist_850/1787/44792/",
+    "https://www.resona-gr.co.jp/holdings/about/outline/group/index.html",
+    "https://www.otsuka.com/jp/company/group/",
+    "https://www.youtube.com/watch?v=fs66O10dX8Q",
+    "https://www.kumiai-chem.co.jp/company/profile/",
+    "https://mcrmgt.com/general/jpx_updates/",
+    "https://mono.ipros.com/cg1/受託加工/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "listed Japanese companies whose main business is contract heat treatment plating stamping dies EDINET business description site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/jmplating",
+    "https://www.linkedin.com/company/rhythmvietnamsaigon",
+    "https://www.linkedin.com/company/itd-precision1946",
+    "https://vn.linkedin.com/in/hiroshi-takeuchi-b590b252/en",
+    "https://www.linkedin.com/company/rotation-engineering-&-manufacturing-company",
+    "https://www.linkedin.com/company/aplmanufacturing",
+    "https://www.linkedin.com/company/integralmanufactuing",
+    "https://www.linkedin.com/company/dundee-manufacturing-company",
+    "https://www.linkedin.com/company/am-specialtiesinc-82",
+    "https://www.linkedin.com/in/joshkkurz"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

@@ -8,7 +8,7 @@
  ],
  "context": "照合",
  "kind": "market",
- "researched_at": "2026-11-08T05:22:45.457824+00:00",
+ "researched_at": "2026-11-08T12:08:11.613870+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -568,11 +568,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.rootmetrics.com/ja-JP/methodology",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://ecalpro.com/ja/methodology",
     "status": "ok",
     "method": "http"
@@ -593,12 +588,27 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.rootmetrics.com/ja-JP/methodology",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://claudecodetec.com/blog/B02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://claudecodetec.com/blog/B02/",
+    "url": "https://www.concur.co.jp/products/three-way-match",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datalabs.jp/modely",
     "status": "ok",
     "method": "http"
    },
@@ -608,12 +618,12 @@
     "method": "http"
    },
    {
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "url": "https://arxiv.org/html/2607.26298v1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/html/2607.26298v1",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
     "status": "ok",
     "method": "http"
    },
@@ -639,34 +649,32 @@
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） site:note.com",
    "results": [
     "https://lefixea.jp/articles/tls-cultural-heritage-survey101",
-    "https://www.rootmetrics.com/ja-JP/methodology",
     "https://ecalpro.com/ja/methodology",
     "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
     "https://ai.access-company.com/articles-18/",
     "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
-    "https://aws.amazon.com/jp/what-is/automated-reasoning/",
+    "https://www.rootmetrics.com/ja-JP/methodology",
     "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
     "https://claudecodetec.com/blog/B02/",
-    "https://note.com/scott_net/n/n6489a92eb94a"
+    "https://www.datalabs.jp/modely"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） note",
    "results": [
     "https://lefixea.jp/articles/tls-cultural-heritage-survey101",
-    "https://www.rootmetrics.com/ja-JP/methodology",
+    "https://claudecodetec.com/blog/B02/",
     "https://ecalpro.com/ja/methodology",
-    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
     "https://ai.access-company.com/articles-18/",
+    "https://www.rootmetrics.com/ja-JP/methodology",
     "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
-    "https://aws.amazon.com/jp/what-is/automated-reasoning/",
     "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
-    "https://claudecodetec.com/blog/B02/"
+    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
+    "https://www.concur.co.jp/products/three-way-match"
    ],
    "engines": [
     "yahoo_jp"
@@ -677,14 +685,14 @@
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） やり方",
    "results": [
     "https://lefixea.jp/articles/tls-cultural-heritage-survey101",
-    "https://claudecodetec.com/blog/B02/",
     "https://ecalpro.com/ja/methodology",
+    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
     "https://ai.access-company.com/articles-18/",
-    "https://www.rootmetrics.com/ja-JP/methodology",
-    "https://aws.amazon.com/jp/what-is/automated-reasoning/",
     "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
+    "https://www.rootmetrics.com/ja-JP/methodology",
     "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
-    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf"
+    "https://claudecodetec.com/blog/B02/",
+    "https://www.datalabs.jp/modely"
    ],
    "engines": [
     "yahoo_jp"
@@ -695,14 +703,14 @@
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） 事例",
    "results": [
     "https://lefixea.jp/articles/tls-cultural-heritage-survey101",
-    "https://www.rootmetrics.com/ja-JP/methodology",
+    "https://claudecodetec.com/blog/B02/",
     "https://ecalpro.com/ja/methodology",
-    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
     "https://ai.access-company.com/articles-18/",
+    "https://www.rootmetrics.com/ja-JP/methodology",
     "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
-    "https://aws.amazon.com/jp/what-is/automated-reasoning/",
     "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
-    "https://claudecodetec.com/blog/B02/"
+    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
+    "https://www.concur.co.jp/products/three-way-match"
    ],
    "engines": [
     "yahoo_jp"
@@ -713,18 +721,18 @@
    "query": "entity resolution accept reject threshold human review band cluster-level precision recall evaluation",
    "results": [
     "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
     "https://arxiv.org/html/2607.26298v1",
-    "https://aws.amazon.com/blogs/industries/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
+    "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
     "https://www.reddit.com/r/LanguageTechnology/comments/12h2b5y/evaluation_of_entity_resolution_entity_linking/",
+    "https://aws.amazon.com/blogs/industries/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
     "https://www.rudderstack.com/blog/what-is-entity-resolution/",
     "http://home.cse.ust.hk/~leichen/courses/mscit6000d/notes/entityresolution.pdf",
-    "https://senzing.com/what-is-entity-resolution/",
     "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "https://senzing.com/what-is-entity-resolution/",
     "https://arxiv.org/html/2404.05622"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -734,29 +742,30 @@
    "results": [
     "https://note.com/tasty_dunlin998/n/n48e63a2c2e3a",
     "https://note.com/masa_wunder/n/ne5540ae961f4",
-    "https://note.com/karine_tln/n/n5504114a6081",
-    "https://note.com/satoruhiguchi/n/n3c9284227d45",
-    "https://note.com/sharoshiengineer/n/n213cdf0dafe7",
-    "https://note.com/paguinu/n/n18d688521707",
     "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "https://note.com/modern_flea8708/n/n5f98e07f3fbf",
+    "https://note.com/karine_tln/n/n5504114a6081",
+    "https://note.com/paguinu/n/n18d688521707",
+    "https://note.com/sharoshiengineer/n/n213cdf0dafe7",
     "https://note.com/cute_hebe442/n/n329cc3e5bc91",
-    "https://note.com/reading_monkey/n/n8896c76748c7"
+    "https://note.com/satoruhiguchi/n/n3c9284227d45",
+    "https://note.com/reading_monkey/n/n8896c76748c7",
+    "https://note.com/ideal_slug1407/n/nccfb669ad562"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 18
   },
   {
    "query": "site:x.com 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）",
    "results": [
     "https://x.com/ai_commu_ito/status/2104402904027373806",
-    "https://x.com/toyokumo_/status/2082292528892825957",
     "https://x.com/kaikei_ai/status/2080047307937251726",
-    "https://x.com/shippioinc/status/2087389357552640307",
+    "https://x.com/toyokumo_/status/2082292528892825957",
     "https://x.com/AI_Doboku_Lab/status/2049811209499857206",
+    "https://x.com/shippioinc/status/2087389357552640307",
     "https://x.com/komoriku_ai/status/2101688725034185120",
     "https://x.com/Brushup_jp/status/2067428337035903464"
    ],
@@ -770,45 +779,49 @@
    "results": [
     "https://www.linkedin.com/posts/sapfico_3分で分かる-sap-cash-application-の仕組み-sap-cash-activity-6370590946987507712-0GIU",
     "https://jp.linkedin.com/pulse/how-i-revolutionized-bank-reconciliation-ai-from-30-balasubramanian-zrrhc?tl=ja",
+    "https://jp.linkedin.com/pulse/robotic-process-automation-bank-reconciliation-sap-s4hana-bandara-z2fhc?tl=ja",
+    "https://jp.linkedin.com/pulse/how-reconciliation-automation-saves-time-improves-accuracy-koshai-fclyc?tl=ja",
+    "https://jp.linkedin.com/pulse/end-manual-invoice-matching-ai-enters-ap-arena-sqit-consulting-vu9lc?tl=ja",
     "https://jp.linkedin.com/pulse/bank-reconciliation-automation-explained-from-manual-processes-mtaac?tl=ja",
     "https://jp.linkedin.com/pulse/automated-invoice-matching-solution-3-way-process-akabot-wgnzc?tl=ja",
-    "https://jp.linkedin.com/pulse/how-reconciliation-automation-saves-time-improves-accuracy-koshai-fclyc?tl=ja",
-    "https://jp.linkedin.com/pulse/robotic-process-automation-bank-reconciliation-sap-s4hana-bandara-z2fhc?tl=ja",
-    "https://jp.linkedin.com/pulse/finally-automate-bank-reconciliation-ai-corporate-treasury-101-1e?tl=ja"
+    "https://jp.linkedin.com/posts/rakus-co-ltd-_ラクス楽楽請求に自動照合オプションを提供開始-ニュース-株式会社-activity-7495988611994054656-ZyeG"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:facebook.com 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）",
    "results": [
     "https://www.facebook.com/anlabjp/videos/製造業の図面業務をaiでもっと効率的に図面リーダーではaiが図面から必要な情報を自動で読み取りデータとして整理管理できます図番や部品名材質などから必要な図面をす/1395844352526726/",
     "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
+    "https://www.facebook.com/brushup.net/posts/原稿とpdfの自動照合にaiを搭載ウェビナーのお知らせ人の体力的精神的負担を大幅に減らすexcel原稿とpdfの自動照合本機能にaiを搭載し商品パッケージカタロ/1466474791944983/",
     "https://www.facebook.com/SansanJapan/posts/bill-oneに請求書の照合業務をアシストするai新機能を実装しました請求書と納品検収データに記載された品目をaiが比較し表記ゆれがあっても同一品目を特定照合/1436432445186761/",
     "https://www.facebook.com/ZebraTechnologiesKorea/videos/zebra-rfid-tunnel-solution-showcase/1348981920346653/",
-    "https://www.facebook.com/brushup.net/posts/原稿とpdfの自動照合にaiを搭載ウェビナーのお知らせ人の体力的精神的負担を大幅に減らすexcel原稿とpdfの自動照合本機能にaiを搭載し商品パッケージカタロ/1466474791944983/",
     "https://www.facebook.com/FujifilmJapan/posts/報道発表薬剤を高精度に自動照合する一包化監査支援システムを発売私たちのグループ会社富士フイルムメディカルは調剤薬局や病院などでの薬剤師の監査業務患者に薬剤を渡す/1516413903863797/",
-    "https://www.facebook.com/MitsubishiElectricFA.JP/photos/便利機能紹介gx-works3-照合機能シーケンサ-のプログラムを作成する際の便利機能をご紹介編集していたプログラムやパラメータの変更箇所がわからなくなったru/415578364041658/"
+    "https://www.facebook.com/MitsubishiElectricFA.JP/photos/便利機能紹介gx-works3-照合機能シーケンサ-のプログラムを作成する際の便利機能をご紹介編集していたプログラムやパラメータの変更箇所がわからなくなったru/415578364041658/",
+    "https://www.facebook.com/JapanKomori/videos/印刷機の機能紹介念のためもう一度確認しておこう版キズの見落としによる不正紙の発生を防ぐため何度も確認を重ねるその積み重ねが現場の負担になっていませんか刷版データ/1087052840354007/"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） note 社長",
    "results": [
     "https://lefixea.jp/articles/tls-cultural-heritage-survey101",
-    "https://www.rootmetrics.com/ja-JP/methodology",
+    "https://claudecodetec.com/blog/B02/",
     "https://ecalpro.com/ja/methodology",
-    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
     "https://ai.access-company.com/articles-18/",
+    "https://www.rootmetrics.com/ja-JP/methodology",
     "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
-    "https://aws.amazon.com/jp/what-is/automated-reasoning/",
     "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
-    "https://claudecodetec.com/blog/B02/"
+    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
+    "https://www.concur.co.jp/products/three-way-match"
    ],
    "engines": [
     "yahoo_jp"
@@ -819,14 +832,14 @@
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） X 投稿",
    "results": [
     "https://lefixea.jp/articles/tls-cultural-heritage-survey101",
-    "https://www.rootmetrics.com/ja-JP/methodology",
+    "https://claudecodetec.com/blog/B02/",
     "https://ecalpro.com/ja/methodology",
-    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
     "https://ai.access-company.com/articles-18/",
+    "https://www.rootmetrics.com/ja-JP/methodology",
     "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
-    "https://aws.amazon.com/jp/what-is/automated-reasoning/",
     "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
-    "https://claudecodetec.com/blog/B02/"
+    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
+    "https://www.concur.co.jp/products/three-way-match"
    ],
    "engines": [
     "yahoo_jp"
@@ -839,25 +852,25 @@
     "https://www.linkedin.com/in/tim-flocke",
     "https://www.linkedin.com/in/foyie",
     "https://sg.linkedin.com/in/arshi-saxena",
+    "https://www.linkedin.com/in/davidswanagon",
     "https://content.linkedin.com/content/dam/help/tns/legal/01-LinkedIn-DSA-2025-SRA-Report-August-2025.pdf",
     "https://www.linkedin.com/in/melisasever",
     "https://in.linkedin.com/in/subodhlonkar13",
     "https://uk.linkedin.com/in/domingosjoao",
     "https://in.linkedin.com/in/kundan-sakargayen",
-    "https://in.linkedin.com/in/akhil-anna-678a54183",
-    "https://www.linkedin.com/in/akn-ai"
+    "https://in.linkedin.com/in/akhil-anna-678a54183"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ14頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ16頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T00:53:57.522779+00:00"
 }
