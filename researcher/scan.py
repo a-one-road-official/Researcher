@@ -16,7 +16,7 @@ PRIMARY = re.compile(r"(\.go\.jp|xbrl|kanpo|houjin-bangou|\.lg\.jp|e-stat|edinet
 NEWSHOST = re.compile(r"^(news\.|.*(note\.com|sharelab|nikkei|itmedia|monoist|prtimes|yahoo|newswitch|nikkan|livedoor|ameblo|hatena))", re.I)
 # 2026-11-05 4-24：登記・開示・判決の「写し」を載せたまとめサイトは一次にしない（Altss OSINT 検証基準：
 # 登記の写しは、役所・登記所の仕組みから取り直すまで報道と同じ扱い）。EDINET・法人番号の写しのサイトが URL に edinet・houjin を含んでも一次にしない
-COPYHOST = re.compile(r"(irbank|buffett-code|kabutan|minkabu|ullet|houjin\.info|houjin-info|corporate-number|alarmbox|catr\.jp|kanpoo\.jp|kanpo-kensaku|b2bportal|houjinbangou\.|stockclip|kabuyoho|yahoo)", re.I)
+COPYHOST = re.compile(r"(irbank|buffett-code|kabutan|minkabu|ullet|houjin\.info|houjin-info|corporate-number|alarmbox|catr\.jp|kanpoo\.jp|kanpo-kensaku|b2bportal|houjinbangou\.|stockclip|kabuyoho|yahoo|zukaikeizai)", re.I)
 # 2026-11-05 走査の失敗から：神奈川県・京都府の統計（www.pref.kanagawa.jp・www.pref.kyoto.jp）が「.lg.jp」でないため一次0件と出た（mfg_capacity の工業統計表の品目）。
 # 都道府県・市の公式ドメイン（pref.<名>.jp・city.<名>.<…>.jp・metro.tokyo）は自治体自身の統計なので一次にする
 LOCALGOV = re.compile(r"(^|\.)(pref\.[a-z]+\.jp|city\.[a-z-]+(\.[a-z]+)?\.jp|metro\.tokyo(\.lg)?\.jp)$", re.I)
@@ -2883,6 +2883,54 @@ def scan(topic):
                f"- 「休眠・活動なし」と金額が同じ引用に並ぶもの：{len(_dor)}件。休眠と言いながら大きな資産・取引がある食い違いは、別会社の取り違えか実態の隠れの手がかりとして本文で確かめる",
                *(f"  - {r['品目'][:40]}：{r['引用'][:50]}" for r in _dor[:5]),
                f"- 1人の役員が多数（10社以上）の会社を兼ねる引用：{len(_multi)}件。名義だけの役員の疑いとして、その人の名で同じ会社と束ねない（4-8・4-105）",
+               ""]
+    except Exception: pass
+    # 2026-11-08 4-107（Pew Research Center「How we check numbers and facts」2019：書いた人と別の点検者が、出す文の数字を1つずつ元の表と照らし、
+    # 直しを入れた後にもう一度照らす。GIJN「10 Simple Data Errors」：国ごとの小数点・桁区切りの違い、範囲から外れた値は桁の打ち間違いを疑う。
+    # Visualize Value「Nobody Checks the Math」：大きい数字ほど誰も検算しない。最大の値から順に確かめる）。
+    # ①前回の scan.md（Claude が書いた解釈）の数字のうち、今回の scan_auto.md・cross.csv のどこにも無いもの＝写し違いか古い値の疑い
+    # ②日本語でない引用の欧州式の書き方（1.234.567／12,5 %）＝桁・小数点の読み違いの疑い
+    # ③単位ごとの最大の値が中央値の100倍以上＝大きい数字から本文で確かめる
+    try:
+        _sp = os.path.join(OUT, topic, "scan.md")
+        _NUMU = re.compile(r"(\d[\d,]*(?:\.\d+)?)\s*(億円|万円|百万円|千円|円|万人|人|社|事業所|件|%|％|倍)")
+        _miss, _tot = [], 0
+        if os.path.exists(_sp):
+            _have = set()
+            _auto = "\n".join(md)
+            for m in _NUMU.finditer(_auto): _have.add(m.group(1).replace(",", ""))
+            for r in rows:
+                _have.add(str(r["原文の数字"]).replace(",", ""))
+                for m in re.finditer(r"\d[\d,]*(?:\.\d+)?", str(r["原文の数字"])): _have.add(m.group(0).replace(",", ""))
+                try:
+                    _v = float(r["値"]); _have.add(f"{_v:g}"); _have.add(str(int(_v)) if _v == int(_v) else f"{_v}")
+                except Exception: pass
+            _seen = set()
+            for line in open(_sp, encoding="utf-8").read().splitlines():
+                if line.startswith("#") or "機械" in line[:20]: continue
+                for m in _NUMU.finditer(line):
+                    k = m.group(1).replace(",", "")
+                    if len(k.replace(".", "")) < 2 or (k, m.group(2)) in _seen: continue
+                    _seen.add((k, m.group(2))); _tot += 1
+                    if k not in _have and k.rstrip("0").rstrip(".") not in _have: _miss.append(f"{m.group(1)}{m.group(2)}：{line.strip()[:50]}")
+        _EU = re.compile(r"(?<![\d.,])\d{1,3}(?:\.\d{3}){2,}(?![\d.])|(?<![\d.,])\d+,\d{1,2}\s*(?:%|€|EUR|eur)")
+        _eu = [r for r in rows if not re.search(r"[぀-ヿ]", r["引用"]) and _EU.search(r["引用"])]
+        _big = []
+        _byu = {}
+        for r in rows:
+            try: _byu.setdefault(r["単位"], []).append((float(r["値"]), r))
+            except Exception: pass
+        for u, vs in _byu.items():
+            if len(vs) < 4: continue
+            vs.sort(key=lambda x: x[0]); med = vs[len(vs) // 2][0]
+            if med > 0 and vs[-1][0] >= 100 * med: _big.append((u, vs[-1][1], round(vs[-1][0] / med)))
+        md += ["## 書いた結論の数字の照らし合わせ・欧州式の数字・大きい数字から検算（4-107・機械）",
+               f"- 前回の scan.md の数字（単位つき）{_tot}個のうち、今回の scan_auto.md・cross.csv に見当たらないもの：{len(_miss)}個。写し違い・古い回の値・頭で計算した値の疑いとして、scan.md を書き直すときに scan_auto.md の値に置き換えるか消す",
+               *(f"  - {x}" for x in _miss[:10]),
+               f"- 日本語でない引用で欧州式の数字（1.234.567 の点の桁区切り・12,5 % のカンマの小数点）：{len(_eu)}件。千倍・千分の一の読み違いを疑い、値の読みを本文で確かめるまで採る値にしない",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:50]}" for r in _eu[:5]),
+               f"- 単位ごとの最大の値が中央値の100倍以上：{len(_big)}単位。大きい数字ほど検算されずに残るので、この値から本文・原表で桁を確かめる",
+               *(f"  - {u}：{r['品目'][:40]}（中央値の約{x}倍）：{r['引用'][:50]}" for u, r, x in _big[:8]),
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
