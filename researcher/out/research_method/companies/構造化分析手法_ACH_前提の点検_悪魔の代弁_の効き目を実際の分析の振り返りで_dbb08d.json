@@ -8,17 +8,281 @@
  ],
  "context": "手法・偏り",
  "kind": "market",
- "researched_at": "2026-11-08T06:39:39.665479+00:00",
+ "researched_at": "2026-11-08T13:36:09.080705+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "手順・やり方": [
    {
-    "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
+    "quote": "One primarily qualitative method to evaluate these techniques would be periodic in-depth reviews of intelligence production on a variety of topics to ascertain how frequently structured techniques are used and which ones are most effective.",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In addition, quantitative research could examine the extent to which the use or nonuse of structured techniques correlates with the quality of analytic output as measured by product evaluation staffs, while controlled experiments could test these methods' contribution to intelligence analysis.",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Artner, Stephen, Richard S. Girven, and James B. Bruce,",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Artner, Stephen, Richard S. Girven, and James B. Bruce, Assessing the Value of Structured Analytic Techniques in the U.S. Intelligence Community. Santa Monica, CA: RAND Corporation, 2016. https://www.rand.org/pubs/research_reports/RR1408.html.",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Stephen Artner, Richard S. Girven, and James B. Bruce",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "* One promising method of assessing these techniques",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "One primarily qualitative method of evaluating these",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "their use, and the need for additional analytic methodologies.",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SATs are methods of organizing and stimulating thinking",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "about intelligence problems. These methods aim to make the",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SATs provide analysts with clear, often step-by-step, guid-",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "also provide step-by-step guidance for designing analysis to",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We interviewed analytic managers and analytic methodologists",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "tional analytic methodologies. We also held an analyst focus",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "IC to reinforce analytic methods that challenge long-standing",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "complex problems.\" One critique of the ACH method argues",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "managers, analysts, and methodologists in 2014 indicate that",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEPS TOWARD SYSTEMATIC",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "tion to a single method. The RAND pilot project documented",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Why so? The challenges facing intelligence analysts are especially difficult, so any methods used to address these may be of wider interest. These are spelled out in the Foreword, as follows:",
+    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "One promising method of assessing these techniques would be to initiate qualitative reviews of their contribution in bodies of intelligence production on a variety of topics, in addition to interviews with authors, managers, and consumers.",
+    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Both sound like serious critiques, but compared to what? There are probably plenty of evaluation methods where the same criticism could be applied – no one has subjected them to serious evaluation.",
+    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How To Use These Techniques .................................................................................. 5",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "HOW TO USE THESE TECHNIQUES",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "step process will help analysts:",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "other structured methods explained later",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "possible next steps for further research",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Like other contrarian methods, “What If?”",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "stepping back to consider what alternative",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "to step outside their normal analytic",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A two-phase, twelve-step, structured",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "managers—are reluctant to change. Rather than trying to ft ideas into the framework of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "next steps for analysis.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and contextual framework. By recasting the",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "• It provides a broader analytic framework",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "a more advanced analytic methods course and usually require substantial commitments of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "political causes of some predictable surprises and outlines steps to overcome them.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Integrated Strategic Forecasting: A New Methodology to Enhance Decision Advantage",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The authors describe the combined methodology of integrated strategic forecasting, a new exploratory approach to futures and anticipatory planning that leverages the unique advantages of scenario planning and crowdsourced forecasting.",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In this report, the authors extend a security framework to provide the first systematic roadmap for protecting algorithmic insights, the novel techniques, methods, and design know-how that materially improve artificial intelligence systems.",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Aligning Forecasting Methods to Support Intelligence Community Analytic Tradecraft",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This paper presents the ways in which forecasting methodologies can support the application of existing Intelligence Community analytic standards and methodologies as defined in Intelligence Community Directives.",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This brief presents an assessment of the strengths and vulnerabilities of China's defense industrial base (DIB), using a methodology that could be applied to assess any country's DIB.",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Assessing Systemic Strengths and Vulnerabilities of China's Defense Industrial Base: With a Repeatable Methodology for Other Countries",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Delphi Method 37",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,",
+    "quote": "applying an analytical framework specifically developed for this purpose and using the Data",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -30,105 +294,73 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "coordinating and facilitating collaborative data processes, notably profiling coordinators,",
+    "quote": "Determining the best structure for an issue to be approached is one of the first steps in its",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "be structured and planned as part of a displacement profiling process. The utility of certain",
+    "quote": "Techniques provide a step-by-step process to handle the different parts of an analytical issue.6",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs",
+    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "a profiling exercise or a joint needs assessment.31",
+    "quote": "differences of opinion. Communication is improved as it is guided through a step-by-step",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "analysis processes in profiling or joint needs assessments. A description of each technique is",
+    "quote": "referred to as an art when it comes to knowing how to put these pieces together.45 The",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.",
+    "quote": "How to know which technique to choose when it comes to a joint analysis process? How to",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "cognitive_biases_march_2016.pdf",
+    "quote": "examined how this relates to the different steps in the joint analysis process as outlined in JIPS’",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf",
+    "quote": "and the three key steps of a joint analysis process. Tasks are diverse and range from defining",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "apr09.pdf",
+    "quote": "anticipatory, and prescriptive types of analysis. It also provides an important conceptual framework",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf",
+    "quote": "Figure 2. The three key steps of the joint analysis process",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "3rd%20Edition.pdf",
+    "quote": "of information from a given context, following an agreed-upon methodology. The purpose of",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Availability. Probability estimates are",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Anchoring. Probability estimates are",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "certainty into a probability estimate, people",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "goal-maximizing policy is overestimated.",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
+    "quote": "The Guide describes three key steps in a joint analysis process:",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -600,279 +832,15 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "手順・やり方": [
+  "一次情報の探し方": [
    {
-    "quote": "One primarily qualitative method to evaluate these techniques would be periodic in-depth reviews of intelligence production on a variety of topics to ascertain how frequently structured techniques are used and which ones are most effective.",
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In addition, quantitative research could examine the extent to which the use or nonuse of structured techniques correlates with the quality of analytic output as measured by product evaluation staffs, while controlled experiments could test these methods' contribution to intelligence analysis.",
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Artner, Stephen, Richard S. Girven, and James B. Bruce,",
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Artner, Stephen, Richard S. Girven, and James B. Bruce, Assessing the Value of Structured Analytic Techniques in the U.S. Intelligence Community. Santa Monica, CA: RAND Corporation, 2016. https://www.rand.org/pubs/research_reports/RR1408.html.",
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Stephen Artner, Richard S. Girven, and James B. Bruce",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "* One promising method of assessing these techniques",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "One primarily qualitative method of evaluating these",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "their use, and the need for additional analytic methodologies.",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "SATs are methods of organizing and stimulating thinking",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "about intelligence problems. These methods aim to make the",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "SATs provide analysts with clear, often step-by-step, guid-",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "also provide step-by-step guidance for designing analysis to",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We interviewed analytic managers and analytic methodologists",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "tional analytic methodologies. We also held an analyst focus",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "IC to reinforce analytic methods that challenge long-standing",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "complex problems.\" One critique of the ACH method argues",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "managers, analysts, and methodologists in 2014 indicate that",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEPS TOWARD SYSTEMATIC",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "tion to a single method. The RAND pilot project documented",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Why so? The challenges facing intelligence analysts are especially difficult, so any methods used to address these may be of wider interest. These are spelled out in the Foreword, as follows:",
-    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "One promising method of assessing these techniques would be to initiate qualitative reviews of their contribution in bodies of intelligence production on a variety of topics, in addition to interviews with authors, managers, and consumers.",
-    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Both sound like serious critiques, but compared to what? There are probably plenty of evaluation methods where the same criticism could be applied – no one has subjected them to serious evaluation.",
-    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How To Use These Techniques .................................................................................. 5",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "HOW TO USE THESE TECHNIQUES",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "step process will help analysts:",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "other structured methods explained later",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "possible next steps for further research",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Like other contrarian methods, “What If?”",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "stepping back to consider what alternative",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "to step outside their normal analytic",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A two-phase, twelve-step, structured",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "managers—are reluctant to change. Rather than trying to ft ideas into the framework of",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "next steps for analysis.",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and contextual framework. By recasting the",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "• It provides a broader analytic framework",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "a more advanced analytic methods course and usually require substantial commitments of",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "political causes of some predictable surprises and outlines steps to overcome them.",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Integrated Strategic Forecasting: A New Methodology to Enhance Decision Advantage",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The authors describe the combined methodology of integrated strategic forecasting, a new exploratory approach to futures and anticipatory planning that leverages the unique advantages of scenario planning and crowdsourced forecasting.",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In this report, the authors extend a security framework to provide the first systematic roadmap for protecting algorithmic insights, the novel techniques, methods, and design know-how that materially improve artificial intelligence systems.",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Aligning Forecasting Methods to Support Intelligence Community Analytic Tradecraft",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This paper presents the ways in which forecasting methodologies can support the application of existing Intelligence Community analytic standards and methodologies as defined in Intelligence Community Directives.",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This brief presents an assessment of the strengths and vulnerabilities of China's defense industrial base (DIB), using a methodology that could be applied to assess any country's DIB.",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Assessing Systemic Strengths and Vulnerabilities of China's Defense Industrial Base: With a Repeatable Methodology for Other Countries",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Delphi Method 37",
+    "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "applying an analytical framework specifically developed for this purpose and using the Data",
+    "quote": "In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -884,73 +852,105 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Determining the best structure for an issue to be approached is one of the first steps in its",
+    "quote": "coordinating and facilitating collaborative data processes, notably profiling coordinators,",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Techniques provide a step-by-step process to handle the different parts of an analytical issue.6",
+    "quote": "be structured and planned as part of a displacement profiling process. The utility of certain",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
+    "quote": "techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "differences of opinion. Communication is improved as it is guided through a step-by-step",
+    "quote": "a profiling exercise or a joint needs assessment.31",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "referred to as an art when it comes to knowing how to put these pieces together.45 The",
+    "quote": "analysis processes in profiling or joint needs assessments. A description of each technique is",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "How to know which technique to choose when it comes to a joint analysis process? How to",
+    "quote": "for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "examined how this relates to the different steps in the joint analysis process as outlined in JIPS’",
+    "quote": "cognitive_biases_march_2016.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "and the three key steps of a joint analysis process. Tasks are diverse and range from defining",
+    "quote": "acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "anticipatory, and prescriptive types of analysis. It also provides an important conceptual framework",
+    "quote": "apr09.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Figure 2. The three key steps of the joint analysis process",
+    "quote": "cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "of information from a given context, following an agreed-upon methodology. The purpose of",
+    "quote": "3rd%20Edition.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "The Guide describes three key steps in a joint analysis process:",
+    "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Availability. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Anchoring. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "certainty into a probability estimate, people",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "goal-maximizing policy is overestimated.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -991,7 +991,7 @@
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
+    "url": "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
     "status": "ok",
     "method": "browser"
    },
@@ -1001,17 +1001,7 @@
     "method": "browser"
    },
    {
-    "url": "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://aist.repo.nii.ac.jp/records/2003346",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
     "status": "ok",
     "method": "browser"
    },
@@ -1036,14 +1026,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -1063,7 +1053,7 @@
     "https://note.com/magic_cosmos1054/n/n8d09648ff9fb"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1072,14 +1062,14 @@
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） note",
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492",
+    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://aist.repo.nii.ac.jp/records/2003346"
+    "https://textbook-rc.or.jp/report_data2.pdf",
+    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
+    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
+    "https://aist.repo.nii.ac.jp/records/2003492",
+    "https://aist.repo.nii.ac.jp/records/2003346",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757"
    ],
    "engines": [
     "yahoo_jp"
@@ -1090,14 +1080,14 @@
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） やり方",
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492",
+    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://aist.repo.nii.ac.jp/records/2003346"
+    "https://textbook-rc.or.jp/report_data2.pdf",
+    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
+    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
+    "https://aist.repo.nii.ac.jp/records/2003492",
+    "https://aist.repo.nii.ac.jp/records/2003346",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757"
    ],
    "engines": [
     "yahoo_jp"
@@ -1106,6 +1096,100 @@
   },
   {
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） 事例",
+   "results": [
+    "https://aist.repo.nii.ac.jp/records/2003489",
+    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
+    "https://textbook-rc.or.jp/report_data2.pdf",
+    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
+    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
+    "https://aist.repo.nii.ac.jp/records/2003492",
+    "https://aist.repo.nii.ac.jp/records/2003346",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "structured analytic techniques effectiveness evaluation satisficing intelligence analysis RAND",
+   "results": [
+    "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
+    "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "https://www.rand.org/topics/intelligence-analysis.html",
+    "https://www.hsdl.org/document/20945",
+    "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
+    "https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283",
+    "https://studylib.net/doc/28738744/rand-rr1408"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
+   "results": [
+    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
+    "https://note.com/aisight/n/n61c130b50bcc",
+    "https://note.com/masa_cloud/n/nc55e9b41c850",
+    "https://note.com/tad_shimizu/n/n83beac399f95",
+    "https://note.com/lilygpt/n/n2e409b0d8575",
+    "https://note.com/clean_broom590/n/nd6c45163054a",
+    "https://note.com/chiteki/n/ndb5790f6d156"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
+   "results": [
+    "https://x.com/N5DeuCtRlz41963",
+    "https://x.com/tetumemo/status/2018835524136645080",
+    "https://x.com/t4knwl/status/2104360091805962615",
+    "https://x.com/kajikent/status/2055965760959504502",
+    "https://x.com/manabu_okumura/status/2078319850796265506",
+    "https://x.com/moriakit/status/2067083891136237747",
+    "https://x.com/orca_ai_teacher/status/2058678176855777378",
+    "https://x.com/tetumemo/status/2018694225903362054"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
+   "results": [
+    "https://www.linkedin.com/posts/hiroyukiarai_イノベーターは常に悪魔の代弁者を内包せよpinky-ピンキー-activity-7231270724458438658-YNbW",
+    "https://jp.linkedin.com/pulse/how-raise-army-kill-devils-advocate-innovation-vivek-muralidharan?tl=ja",
+    "https://jp.linkedin.com/posts/南実-河原地-a07aa818b_意思決定-組織-悪魔の代弁者-activity-7424798484215803904-Qq_z",
+    "https://jp.linkedin.com/posts/tetsuo-kan-ba1677297_コンサル調査案件は情報収集から仮説検証へaiを悪魔の代弁者にして検証を仕組-activity-7489599653361950720-iYTT",
+    "https://jp.linkedin.com/pulse/validate-before-you-build-how-stress-test-your-idea-austin-menear-ir2fe?tl=ja",
+    "https://jp.linkedin.com/pulse/beyond-5-whys-building-stronger-root-cause-analysis-ahmed-ms-gsp-2uoge?tl=ja",
+    "https://www.linkedin.com/posts/hiroyuki-kimura-1582b5a5_第二章-注意文-preface-この第二章は木村広幸さん本人の思想や主張-activity-7417400139666845696-8D6R"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） note 社長",
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
     "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
@@ -1123,123 +1207,17 @@
    "n_hits": 9
   },
   {
-   "query": "structured analytic techniques effectiveness evaluation satisficing intelligence analysis RAND",
-   "results": [
-    "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
-    "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "https://www.rand.org/topics/intelligence-analysis.html",
-    "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "https://www.airuniversity.af.edu/AUPress/Book-Reviews/Display/Article/1193867/structured-analytic-techniques-for-intelligence-analysis/",
-    "https://www.hsdl.org/document/20945",
-    "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
-    "https://studylib.net/doc/28738744/rand-rr1408"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 14
-  },
-  {
-   "query": "site:note.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
-   "results": [
-    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
-    "https://note.com/aisight/n/n61c130b50bcc",
-    "https://note.com/masa_cloud/n/nc55e9b41c850",
-    "https://note.com/tad_shimizu/n/n83beac399f95",
-    "https://note.com/lilygpt/n/n2e409b0d8575",
-    "https://note.com/clean_broom590/n/nd6c45163054a",
-    "https://note.com/chiteki/n/ndb5790f6d156",
-    "https://note.com/h_system/n/n6518eb477eb5"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "site:x.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
-   "results": [
-    "https://x.com/N5DeuCtRlz41963",
-    "https://x.com/tetumemo/status/2018835524136645080",
-    "https://x.com/kajikent/status/2055965760959504502",
-    "https://x.com/t4knwl/status/2104360091805962615",
-    "https://x.com/manabu_okumura/status/2078319850796265506",
-    "https://x.com/moriakit/status/2067083891136237747",
-    "https://x.com/orca_ai_teacher/status/2058678176855777378",
-    "https://x.com/yumin_ai/status/2105225931451424796"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "site:linkedin.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
-   "results": [
-    "https://www.linkedin.com/posts/hiroyukiarai_イノベーターは常に悪魔の代弁者を内包せよpinky-ピンキー-activity-7231270724458438658-YNbW",
-    "https://jp.linkedin.com/pulse/ten-faces-innovation-how-defeat-devils-advocate-spark-chintakunta-xpkfc?tl=ja",
-    "https://jp.linkedin.com/pulse/how-raise-army-kill-devils-advocate-innovation-vivek-muralidharan?tl=ja",
-    "https://jp.linkedin.com/posts/tetsuo-kan-ba1677297_コンサル調査案件は情報収集から仮説検証へaiを悪魔の代弁者にして検証を仕組-activity-7489599653361950720-iYTT",
-    "https://jp.linkedin.com/pulse/validate-before-you-build-how-stress-test-your-idea-austin-menear-ir2fe?tl=ja",
-    "https://jp.linkedin.com/pulse/beyond-5-whys-building-stronger-root-cause-analysis-ahmed-ms-gsp-2uoge?tl=ja",
-    "https://www.linkedin.com/posts/hiroyuki-kimura-1582b5a5_第二章-注意文-preface-この第二章は木村広幸さん本人の思想や主張-activity-7417400139666845696-8D6R"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
-   "results": [
-    "https://www.facebook.com/BizMentor.2020/posts/悪魔の代弁者カトリック教会で聖人を選ぶ際にその人物の欠点や問題点を指摘する役割を持つわざと反対する人の事です異論を聞き聞く事で冷静に判断できるという効果があるの/344478410761048/",
-    "https://www.facebook.com/empublic.jp/posts/1069565913105851/",
-    "https://www.facebook.com/logistique001/posts/cbp宣誓書を深掘りする-cape設計概要とach還付要件企業が今すぐ整えるべき受領体制ここでいうcbp宣誓書はatmus-filtration-事件で-cbp/1375748684597648/",
-    "https://www.facebook.com/salondeshacho/photos/イギリスの政治哲学者であり経済思想家でもあるミル1806-1873が語った悪魔の代弁者についてご紹介します-悪魔の代弁者とは多数派に対してあえて批判や反論をする/1178098245695558/",
-    "https://www.facebook.com/mainichishimbun/posts/相談相手は悪魔と天使の代弁者関電が挑むai時代の企業変革関西電力が人工知能aiの活用に本腰を入れています将来的には原子力発電所の点検など人が担うには危険がある分/1471157618379921/",
-    "https://www.facebook.com/masato.tahara/posts/社会システムの代案を作る行為は現在のシステムが考えられた前提を点検することでありそれを考えた人たち以上の視座で考えることであり現在のシステムを正当に評価して総括/5446683035389958/",
-    "https://www.facebook.com/tohru.tominaga/videos/支持率19の中道改革連合が高支持率政権を分析する滑稽さ支持率わずか1台の政党が高い支持を集める高市政権の批判に躍起自分たちがなぜ国民から支持されないのかを顧みず/2109934833274148/"
-   ],
-   "engines": [
-    "ddgs:yahoo"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） note 社長",
-   "results": [
-    "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://aist.repo.nii.ac.jp/records/2003346"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） X 投稿",
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
+    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
     "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
     "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
+    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
     "https://aist.repo.nii.ac.jp/records/2003492",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://aist.repo.nii.ac.jp/records/2003346"
+    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja"
    ],
    "engines": [
     "yahoo_jp"
@@ -1251,16 +1229,16 @@
    "results": [
     "https://www.linkedin.com/in/james-murphy-721151251",
     "https://www.linkedin.com/posts/william-russell-bb05352_marketingstrategy-marketing-marketingchannels-activity-7519060230392020994-CT1w",
-    "https://www.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec",
-    "https://hk.linkedin.com/posts/ole-donner_cti-intelligence-ai-activity-7029002208327168000-bJoJ",
     "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/structured-analytic-techniques-sats",
-    "https://www.linkedin.com/posts/college-of-public-service_structured-analytic-techniques-in-an-intelligence-activity-7303085697375105026-fvHR",
+    "https://hk.linkedin.com/posts/ole-donner_cti-intelligence-ai-activity-7029002208327168000-bJoJ",
+    "https://www.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec",
     "https://www.linkedin.com/pulse/stealing-from-spooks-structured-analytic-techniques-law-poindexter-tzenc",
+    "https://www.linkedin.com/posts/college-of-public-service_structured-analytic-techniques-in-an-intelligence-activity-7303085697375105026-fvHR",
     "https://www.linkedin.com/posts/jdamienscott_intelligenceanalysis-tradecraft-structuredanalytictechniques-activity-7487337848400998400-nWlu",
     "https://pe.linkedin.com/posts/michelle-ziegler-02a498144_rethinking-strategic-readiness-activity-7199803869210501120-V5Tw"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 9
@@ -1268,6 +1246,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T17:46:57.072112+00:00"
 }

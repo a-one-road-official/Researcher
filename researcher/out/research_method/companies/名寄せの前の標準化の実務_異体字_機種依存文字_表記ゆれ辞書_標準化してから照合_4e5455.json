@@ -8,75 +8,25 @@
  ],
  "context": "名寄せ",
  "kind": "market",
- "researched_at": "2026-11-08T06:24:16.856466+00:00",
+ "researched_at": "2026-11-08T13:44:13.184573+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/k2naka/n/n46d8b0b24ecd",
+    "url": "https://www.minimalistinnovation.com/post/unicode-normalization-entity-resolution",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "url": "https://idp-software.com/guides/document-enrichment-entity-resolution/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
+    "url": "https://deepwiki.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/2.3-entity-resolution-matching-and-alignment",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://invox.jp/storage/spelling-adjust",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.itea.or.jp/topics/20250813.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://senzing.com/what-is-entity-resolution/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://flur.ee/solutions/entity-resolution",
-    "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
@@ -84,126 +34,69 @@
     "method": "http"
    },
    {
-    "url": "https://recordlinker.com/entity-resolution-ml-data-standardization/",
+    "url": "https://arxiv.org/html/2404.05622",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/content/pdf/10.1007/s42979-026-05099-x.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
  "search_log": [
   {
    "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 site:note.com",
-   "results": [
-    "https://note.com/k2naka/n/n46d8b0b24ecd",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
-    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://www.itea.or.jp/topics/20250813.pdf",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://invox.jp/storage/spelling-adjust"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 note",
-   "results": [
-    "https://note.com/k2naka/n/n46d8b0b24ecd",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://invox.jp/storage/spelling-adjust",
-    "https://www.itea.or.jp/topics/20250813.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 やり方",
-   "results": [
-    "https://note.com/k2naka/n/n46d8b0b24ecd",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://invox.jp/storage/spelling-adjust",
-    "https://www.itea.or.jp/topics/20250813.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 事例",
-   "results": [
-    "https://note.com/k2naka/n/n46d8b0b24ecd",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
-    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://www.itea.or.jp/topics/20250813.pdf",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://invox.jp/storage/spelling-adjust"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity",
    "results": [
-    "https://senzing.com/what-is-entity-resolution/",
-    "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
-    "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc",
-    "https://flur.ee/solutions/entity-resolution",
+    "https://www.minimalistinnovation.com/post/unicode-normalization-entity-resolution",
+    "https://idp-software.com/guides/document-enrichment-entity-resolution/",
+    "https://deepwiki.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/2.3-entity-resolution-matching-and-alignment",
     "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
-    "https://recordlinker.com/entity-resolution-ml-data-standardization/",
-    "https://www.tamr.com/entity-resolution",
-    "https://medium.com/@adev94/entity-resolution-an-introduction-fb2394d9a04e",
-    "https://nhimg.org/glossary/normalized-entity-resolution/",
-    "https://www.minimalistinnovation.com/post/unicode-normalization-entity-resolution"
+    "https://arxiv.org/html/2404.05622",
+    "https://link.springer.com/content/pdf/10.1007/s42979-026-05099-x.pdf",
+    "https://link.springer.com/article/10.1007/s42979-026-05099-x"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "site:note.com 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活",
-   "results": [
-    "https://note.com/inventor_ricky/n/ncde9a3e2d6f5",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/z9hg4bk/n/n656f7c990510"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 3
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:x.com 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活",
-   "results": [
-    "https://x.com/KagawaTomo/status/2116445181717442741"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 1
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活",
@@ -219,50 +112,26 @@
   },
   {
    "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 note 社長",
-   "results": [
-    "https://note.com/k2naka/n/n46d8b0b24ecd",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
-    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://www.itea.or.jp/topics/20250813.pdf",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://invox.jp/storage/spelling-adjust"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 X 投稿",
-   "results": [
-    "https://note.com/k2naka/n/n46d8b0b24ecd",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
-    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://www.itea.or.jp/topics/20250813.pdf",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://invox.jp/storage/spelling-adjust"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/building-scalable-entity-resolution-pipeline-under-pressure-singhal-kcfrc/",
+    "https://www.linkedin.com/posts/joshikav_github-ashmitha-polamarasettiamazonmlchallenge-activity-7510172940735512576-fPtw",
     "https://www.linkedin.com/feed/update/urn:li:activity:7512438776879554560/",
     "https://pl.linkedin.com/pulse/case-study-entity-name-normalization-sanctions-screening-bykmf",
-    "https://www.linkedin.com/posts/joshikav_github-ashmitha-polamarasettiamazonmlchallenge-activity-7510172940735512576-fPtw",
-    "https://www.linkedin.com/pulse/entity-establishment-l1-layer-ai-processes-before-retrieves-haynes-6jsyc",
-    "https://www.linkedin.com/pulse/entity-resolution-foundation-nobody-wants-build-navdeep-singh-gill-cmuef?tl=en",
-    "https://www.linkedin.com/pulse/when-string-similarity-enough-how-i-solved-company-legal-marques-k4qwf/"
+    "https://www.linkedin.com/pulse/building-scalable-entity-resolution-pipeline-under-pressure-singhal-kcfrc/",
+    "https://www.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac",
+    "https://www.linkedin.com/pulse/when-string-similarity-enough-how-i-solved-company-legal-marques-k4qwf/",
+    "https://www.linkedin.com/posts/collins-nasongo_dataengineering-entityresolution-activity-7404853615816835072-rspO"
    ],
    "engines": [
     "ddgs:google"
@@ -271,13 +140,13 @@
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ15頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ15頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）",
-  "実例": "記載なし（読んだ15頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ6頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ6頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ6頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ6頁・検索12回）",
+  "実例": "記載なし（読んだ6頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T07:57:46.885376+00:00"
 }

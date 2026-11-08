@@ -4,7 +4,7 @@
   "メイテック"
  ],
  "context": "設計・開発技術者の派遣（製造業）",
- "researched_at": "2026-11-08T05:21:07.674766+00:00",
+ "researched_at": "2026-11-08T13:40:35.967046+00:00",
  "official_url": "https://www.meitec.co.jp/",
  "identified_by": "given",
  "profile": {
@@ -216,6 +216,256 @@
   ]
  },
  "evidence": {
+  "創業年度": [
+   {
+    "quote": "そのために、1974 年の創業以来、50年の事業活動を通じて、",
+    "url": "https://www.meitec.co.jp/company/gtmi5c000000832o-att/meitec_companyprofile_20261026.pdf",
+    "pass": 2,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "創業以来50年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来45年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています",
+    "url": "https://www.meitec.co.jp/service/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックは、創業以来延べ4,000社、常時約1,400社の製造業の皆さまとの取引実績を持ち、無期雇用のエンジニアに対して｢プロのエンジニア集団｣として常にキャリアアップを支援しながら、ハイエンド領域の設計・開発支援を行うことで、製造業の皆さまの高度化するニーズに、派遣および受託形態でお応えしています",
+    "url": "https://www.meitec.co.jp/service/solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "※株式会社メイテックは2023年10月1日の持株会社体制への移行にともない、新たに設立となりました(メイテックの沿革は",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックの設立以来目指し続けてきたことであり、現在もグループで掲げる経営理念です",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社名古屋技術センターを設立",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "（1985年に株式会社ジエクスに社名変更）を設立",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1974年の創業以来、",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社名古屋技術センターを設立",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1985年に株式会社ジエクスに社名変更）を設立",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社「メイスタッフ」を設立",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社「ジャパンキャスト」(現「メイテックキャスト」）を設立",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社「メイテックネクスト」設立",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "シニアエンジニア特定派遣会社「メイテックＥＸ（ｲｰｴｯｸｽ）」を設立",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)名古屋技術センター（現「(株)メイテック」）設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(現「(株)メイテックフィルダーズ」)を設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社「(株)メイテックネクスト」を設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シニアエンジニア特定派遣会社「(株)メイテックEX（イーエックス）」を設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メイテックネクストは、エンジニア（技術者）に特化した転職支援会社であり、最上流の設計開発を担う約8000名のエンジニアを抱え、数千社におよぶメーカーへ技術を提供する株式会社メイテック（東証プライム市場上場）のグループ会社として、2006年に設立",
+    "url": "https://biz.daijob.com/casestudy/meitecnext",
+    "pass": 3
+   },
+   {
+    "quote": "1974年創業・正社員エンジニア約8,000名・延べ4,000社の取引実績",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "1974年創業の老舗で、エンジニア派遣事業の先駆企業",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "メイテックは1974年創業の老舗で、研究開発・設計分野のベテラン技術者が強み(平均単価 1時間約5,100円)",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客にご満足いただくパフォーマンスを示しながら、エンジニア自身も成長できるかどうか」を考え、エンジニアを配属していくこのノウハウは、創業以来培ってきたもので、当社ならではの強みだと思っています",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年に株式会社ワークポートを仲間とともに創業し、リーマン・ショックという会社存続の危機を「仕組み化」と「決断」で乗り越えてきた、代表取締役社長COO・林徹...",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年設立",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3
+   },
+   {
+    "quote": "求人情報媒体が読者の職業の選択と安定した職業生活に役立つことなどを目的に、昭和60年2月、労働大臣の許可を得て、公益法人として設立されました",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3
+   },
+   {
+    "quote": "労働者派遣法の趣旨に則り、労働者派遣事業の適正な運営を図るための自主的な取り組みを行うことを通じて、派遣事業の健全な発展を図ることを目的として、設立されました",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本におけるHRMプロフェッショナリズムの確立」を使命に、我が国の人材マネジメントを担う方々のための会員(年会費制)組織として2000年に設立",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社メイテックは1974年の設立から、",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "創業者から長期的な視野で事業継承が進められてきました",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月には創業50周年を迎えたこともあり、",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "その知見をもとに、取締役会など役員会運営を効率化する Governance Cloud を創業・運営している",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "【創立20周年】20年分の「ありがとう」",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は創業50周年記念配当30円を含む年間配当198円という大盤振る舞い",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "・設立：1974年（昭和49年）",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "└ 創業50周年記念配当：30円（一時的・一回限り）",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アルプスリージョナルパートナーズ（2025年5月新潟県南魚沼市に設立、地方創生事業）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "1968年創業（松井設計事務所として創業）の歴史と「Heart to Heart」の経営理念",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "（2023年7月発表、創業55周年時、〜2028年）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "創業60周年（2028年）に向けた中長期戦略",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "最近では2024年1月のたんぽぽ四季の森連結化（高齢者住宅）、2025年5月のアルプスリージョナルパートナーズ設立（地方創生）など、新領域への投資を継続",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "アルプス技研は外部成長型（M&A・新事業設立）を選好",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "たんぽぽ四季の森連結化、パナR&D受託部門承継、アルプスリージョナルパートナーズ設立など、新領域への積極的な進出を継続",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "多角化（グローバル事業大幅成長、新領域開拓）による事業ポートフォリオ拡大、創業60周年（2028年）に向けた第12次5ヵ年計画の進捗",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "アルプス技研は、1968年創業の「Heart to Heart」を経営理念とする技術者派遣会社で、海外子会社（台湾・上海・ミャンマー）でのグローバル事業の大幅成長、農業・介護・地方創生などの新領域進出と多角化を進める",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月に須藤泰志氏が新社長に就任、第12次5ヵ年計画のもとで創業60周年（2028年）に向けた新たな成長戦略を推進中",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株） メイテック | LinkedIn （株） メイテック | LinkedIn LinkedIn https://www.linkedin.com > company > （株）メイテック",
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "（株） メイテック フィルダーズ - LinkedIn （株） メイテック フィルダーズ - LinkedIn LinkedIn https://www.linkedin.com > （株）メイテックフィルダーズ",
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA",
+    "pass": 3
+   }
+  ],
   "料金": [
    {
     "quote": "売 上 高 単体: 956億82百万円 連結 :1.376億86百万円 (2026年3月期)",
@@ -480,31 +730,26 @@
     "pass": 3
    }
   ],
-  "SNS・note（X・検索結果の抜粋）": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "メイテック グループ - X メイテック グループ - X X https://x.com > @meitec_group",
-    "url": "https://x.com/meitec_group/status/2117134611461648775/photo/1",
+    "quote": "メイテック 社から見たチャレナジーは、『熱量高く - note メイテック 社から見たチャレナジーは、『熱量高く - note note https://note.com > キャリア > 職種別キャリア",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "メイテック グループ (@meitec_group) / X メイテック グループ (@meitec_group) / X X https://x.com > meitec_group",
-    "url": "https://x.com/meitec_group",
+    "quote": "メイテック ネクスト - note メイテック ネクスト - note note https://note.com > meitecnext_note",
+    "url": "https://note.com/meitecnext_note",
     "pass": 3
    },
    {
-    "quote": "Reposts by メイテック グループ (@meitec_group) / X Reposts by メイテック グループ (@meitec_group) / X X https://x.com > meitec_group > reposts",
-    "url": "https://x.com/meitec_group/reposts",
+    "quote": "メイテック グループHD（9744）配当利回り約5.5% - note メイテック グループHD（9744）配当利回り約5.5% - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
     "pass": 3
    },
    {
-    "quote": "メイテック グループ - X メイテック グループ - X X https://x.com > @meitec_group",
-    "url": "https://x.com/meitec_group/status/2044974128499970220",
-    "pass": 3
-   },
-   {
-    "quote": "メイテック グループ - X メイテック グループ - X X https://x.com > @meitec_group",
-    "url": "https://x.com/meitec_group/status/2018202725977391376",
+    "quote": "アルプス技研（4641）vs メイテック グループ ... アルプス技研（4641）vs メイテック グループ ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
     "pass": 3
    }
   ],
@@ -1008,238 +1253,191 @@
     "pass": 3
    }
   ],
-  "株主構成": [
+  "検索結果の抜粋": [
    {
-    "quote": "上場企業および優良中堅企業1,300 社※",
-    "url": "https://www.meitec.co.jp/company/gtmi5c000000832o-att/meitec_companyprofile_20261026.pdf",
-    "pass": 2,
+    "quote": "メイテック GHDの 売上高 1,377億円・推移27カ年 - The社史 — メイテック GHDの 売上高 1,377億円・推移27カ年 - The社史 The社史 https://the-shashi.com > tse > financials > sales",
+    "url": "https://the-shashi.com/tse/9744/financials/sales/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "会社概要 | エンジニア派遣の メイテック フィルダーズ — 会社概要 | エンジニア派遣の メイテック フィルダーズ メイテックフィルダーズ https://www.m-fielders.co.jp > company > fact",
+    "url": "https://www.m-fielders.co.jp/company/fact/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "メイテック グループ - X — メイテック グループ - X X https://x.com > @meitec_group",
+    "url": "https://x.com/meitec_group/status/2039221219678113793",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "株式会社 メイテック ／【東京23区/品川】 製造 DX領域における ... — 株式会社 メイテック ／【東京23区/品川】 製造 DX領域における ... リクルートエージェント https://www.r-agent.com > 東京都 > 東京23区 > 品川区",
+    "url": "https://www.r-agent.com/viewjob/jk50d8a22037ba4dbc/",
+    "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AIメカテック(株)【東証スタンダード上場】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "quote": "稼働率 | 業績・財務 | 投資家情報 — 稼働率 | 業績・財務 | 投資家情報 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > finance > rate",
+    "url": "https://www.meitecgroup-holdings.com/ja/ir/finance/rate.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "令和6年度 株式会社 メイテック フィルダーズ 派遣事業運営情報 ... — 令和6年度 株式会社 メイテック フィルダーズ 派遣事業運営情報 ... メイテックフィルダーズ PDF https://www.m-fielders.co.jp > cms > pdf > margin",
+    "url": "https://www.m-fielders.co.jp/cms/pdf/margin/01_utsunomiya_margin.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "メイテック グループ - X — メイテック グループ - X X https://x.com > @meitec_group",
+    "url": "https://x.com/meitec_group/status/2018202725977391376",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "(株)アドテックプラズマテクノロジー【東証スタンダード市場上場】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "quote": "メイテック ～エンジニアリングソリューション 研究開発 ... — メイテック ～エンジニアリングソリューション 研究開発 ... meitec.co.jp https://www.meitec.co.jp",
+    "url": "https://www.meitec.co.jp/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点とした「社員価値」「顧客価値」「株主価値」「社会価値」の5つの価値を持続的に向上させるため、「目指すべき姿」を定め取り組んでいます",
-    "url": "https://www.meitec.co.jp/company/index.html",
-    "pass": 1
+    "quote": "メイテック グループホールディングス - 日本経済新聞 — メイテック グループホールディングス - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "上場企業および優良中堅企業約1,300社",
-    "url": "https://www.meitec.co.jp/company/overview.html",
-    "pass": 1
+    "quote": "メイテック グループの本質 「Engineering Firm at The Core」 — メイテック グループの本質 「Engineering Firm at The Core」 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > group > essence",
+    "url": "https://www.meitecgroup-holdings.com/ja/group/essence.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "メイテックグループは、事業を通じて、経営資源(人・技術・情報)を社会的に共有することにより、エンジニア、社員、顧客、株主、社会と共に生き、共に繁栄していきます",
-    "url": "https://www.meitec.co.jp/company/principal.html",
-    "pass": 1
+    "quote": "【11月トップメッセージを公開】# メイテック 社長 の関口より ... — 【11月トップメッセージを公開】# メイテック 社長 の関口より ... Facebook https://www.facebook.com > meitec.group > posts > 11月...",
+    "url": "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "4) 株主価値",
-    "url": "https://www.meitec.co.jp/company/principal.html",
-    "pass": 1
+    "quote": "株式の状況 | 株式情報 | 投資家情報 — 株式の状況 | 株式情報 | 投資家情報 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > stock > basic",
+    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
+    "pass": 3
    },
    {
-    "quote": "持続的な価値向上に基づく「健全な利益」を創出し、中長期的に株主還元を最大化します",
-    "url": "https://www.meitec.co.jp/company/principal.html",
-    "pass": 1
+    "quote": "メイテック グループホールディングス【9744】の大 株主 情報 — メイテック グループホールディングス【9744】の大 株主 情報 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=9744",
+    "pass": 3
    },
    {
-    "quote": "名古屋証券取引所第2部上場",
-    "url": "https://www.meitec.co.jp/company/overview/history.html",
-    "pass": 1
-   },
-   {
-    "quote": "東京証券取引所 第2部上場",
-    "url": "https://www.meitec.co.jp/company/overview/history.html",
-    "pass": 1
-   },
-   {
-    "quote": "東京証券取引所 第1部に上場",
-    "url": "https://www.meitec.co.jp/company/overview/history.html",
-    "pass": 1
-   },
-   {
-    "quote": "障がい者雇用の特例子会社",
+    "quote": "グループ会社 - メイテック — グループ会社 - メイテック meitec.co.jp https://www.meitec.co.jp > company > group",
     "url": "https://www.meitec.co.jp/company/group.html",
-    "pass": 1
-   },
-   {
-    "quote": "株主還元・配当",
-    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
     "pass": 3
    },
    {
-    "quote": "株主数（自己名義株式を含む） ： 28,478名",
-    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
+    "quote": "株式会社 メイテック グループホールディングス: ホーム — 株式会社 メイテック グループホールディングス: ホーム 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > ...",
+    "url": "https://www.meitecgroup-holdings.com/ja/index.html",
     "pass": 3
    },
    {
-    "quote": "大株主（上位10名）",
-    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
+    "quote": "メイテック - Wikipedia — メイテック - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > メイテック",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
     "pass": 3
    },
    {
-    "quote": "株主セグメント別保有状況",
-    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
+    "quote": "会社概要｜ メイテック ～エンジニアリングソリューション ... — 会社概要｜ メイテック ～エンジニアリングソリューション ... meitec.co.jp https://www.meitec.co.jp > company > overview",
+    "url": "https://www.meitec.co.jp/company/overview.html",
     "pass": 3
    },
    {
-    "quote": "株主、顧客、社員の繁栄を実現していきます",
+    "quote": "沿革 | 会社情報 - 株式会社メイテックグループホールディングス — 沿革 | 会社情報 - 株式会社メイテックグループホールディングス 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > history",
     "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
     "pass": 3
    },
    {
-    "quote": "名古屋証券取引所第2部上場",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "quote": "沿革 - メイテック — 沿革 - メイテック meitec.co.jp https://www.meitec.co.jp > company > overview > history",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
     "pass": 3
    },
    {
-    "quote": "東京証券取引所 第2部上場",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "quote": "(株) メイテック 【技術職コース】の会社概要 | マイナビ2027 — (株) メイテック 【技術職コース】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp72008 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3
    },
    {
-    "quote": "東京証券取引所 第1部に上場",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "親会社株主に帰属する当期純利益(百万円)",
+    "quote": "業績ハイライト | 業績・財務 | 投資家情報 — 業績ハイライト | 業績・財務 | 投資家情報 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > highlight",
     "url": "https://www.meitecgroup-holdings.com/ja/ir/finance/highlight.html",
     "pass": 3
    },
    {
-    "quote": "(株)メイテック 名古屋証券取引所第二部上場",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "quote": "【 メイテック グループホールディングス】[9744]決算発表や ... — 【 メイテック グループホールディングス】[9744]決算発表や ... 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9744",
     "pass": 3
    },
    {
-    "quote": "(株)メイテック 東京証券取引所第二部上場",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "(株)メイテック 東京証券取引所第一部上場",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "東京証券取引所 プライム市場に上場",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社メイテックネクストは、エンジニア（技術者）に特化した転職支援会社であり、最上流の設計開発を担う約8000名のエンジニアを抱え、数千社におよぶメーカーへ技術を提供する株式会社メイテック（東証プライム市場上場）のグループ会社として、2006年に設立",
+    "quote": "株式会社 メイテック ネクスト| 導入事例 - Daijob.com — 株式会社 メイテック ネクスト| 導入事例 - Daijob.com Daijob.com https://biz.daijob.com > casestudy > meitecnext",
     "url": "https://biz.daijob.com/casestudy/meitecnext",
     "pass": 3
    },
    {
-    "quote": "上場市場：東証プライム",
+    "quote": "導入事例 - 株式会社メイテック — 導入事例 - 株式会社メイテック mayteck.co.jp https://www.mayteck.co.jp > case",
+    "url": "https://www.mayteck.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "メイテック の新しい会社説明会動画が公開されました！「会社 ... — メイテック の新しい会社説明会動画が公開されました！「会社 ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/CvtT02eMy1h/",
+    "pass": 3
+   },
+   {
+    "quote": "製品領域からソリューションを探す - メイテック — 製品領域からソリューションを探す - メイテック meitec.co.jp https://www.meitec.co.jp > service > product",
+    "url": "https://www.meitec.co.jp/service/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "転職成功 事例 - メイテックネクスト — 転職成功 事例 - メイテックネクスト メイテックネクスト https://www.m-next.jp > success",
+    "url": "https://www.m-next.jp/success/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣法に基づく情報提供 - メイテック — 派遣法に基づく情報提供 - メイテック meitec.co.jp https://www.meitec.co.jp > outsorcing > margin-rate",
+    "url": "https://www.meitec.co.jp/company/outsorcing/margin-rate.html",
+    "pass": 3
+   },
+   {
+    "quote": "紹介予定派遣 - 株式会社メイテックキャスト — 紹介予定派遣 - 株式会社メイテックキャスト 株式会社メイテックキャスト https://www.meitec-cast.co.jp > clients > service > detail",
+    "url": "https://www.meitec-cast.co.jp/clients/service/detail/id=734",
+    "pass": 3
+   },
+   {
+    "quote": "よくある質問 - メイテック健康保険組合 — よくある質問 - メイテック健康保険組合 メイテック健康保険組合 https://www.meitec-kenpo.jp > inm > faq",
+    "url": "https://www.meitec-kenpo.jp/inm/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【 メイテック 】の転職・求人・中途採用情報  doda（デューダ） — 【 メイテック 】の転職・求人・中途採用情報  doda（デューダ） doda https://doda.jp > View > JobSearchList > メイテック",
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_k__/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "國分秀世さん（株式会社 メイテック 代表取締役 社長 ） - 日本の ... — 國分秀世さん（株式会社 メイテック 代表取締役 社長 ） - 日本の ... 日本の人事部『プロネット』 https://service.jinjibu.jp > article > detl > innovator",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の価値をつくる」 メイテック グループ代表2名が語る、人 ... — 企業の価値をつくる」 メイテック グループ代表2名が語る、人 ... Governance Cloud https://www.governancecloud.jp > Voice > Users (お客様)",
     "url": "https://www.governancecloud.jp/voice/meitecholdings/",
     "pass": 3
    },
    {
-    "quote": "グループ全体としてはエンジニア価値・社員価値・顧客価値・株主価値・社会価値の『5つの価値』を掲げています",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "quote": "トップメッセージ - メイテック — トップメッセージ - メイテック meitec.co.jp https://www.meitec.co.jp > sustainability > greeting",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/index.html",
     "pass": 3
    },
    {
-    "quote": "上場企業で10年コーポレート担当取締役を務め、投資家とのコミュニケーション、取締役会事務局、常勤取締役の立場を経験",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3
-   },
-   {
-    "quote": "さらに現在は別の上場企業で独立社外取締役・指名報酬委員会委員長を務め、取締役会に関わるあらゆる立場を内側から知る",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3
-   },
-   {
-    "quote": "「DOE（株主資本配当率）5%を下限とする配当方針」",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "筆者はメイテックグループHDの「エンジニア数業界首位約6,000名」「ROE 31.31%という極めて高い資本効率」「配当利回り5.45%という高水準の株主還元」に強い関心を持っている",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "親会社株主に帰属する当期純利益37億円（同+0.6%）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "親会社株主に帰属する当期純利益150.51億円（同+18.1%、大幅増益）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "海外子会社：臺灣阿爾卑斯技研、阿邇貝司機電技術（上海）、ミャンマーアルプス技研",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "ROE 19.4%、配当利回り約4.4%という高水準の資本効率と株主還元",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "：2026年12月期に売上高555億円、営業利益57億円、経常利益58億円、親会社株主に帰属する当期純利益38億円、",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "須藤新社長は1988年当社入社、子会社デジタル・スパイス代表取締役社長、DONKEY代表取締役社長を歴任した経歴",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "連結子会社6社で構成",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "ROE 31.31%、PBR 5.77倍、配当利回り5.45%という極めて高水準の資本効率と株主還元",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "海外子会社も台湾・上海・ミャンマーと幅広く展開",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "両社とも増配傾向継続、株主還元拡充",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "2. 配当利回り5.45%という高水準の株主還元",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "1株配当181円（中間90+期末91）の継続的増配と、配当利回り5.45%は、日本の上場企業全体で見ても上位水準",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "アウトソーシング（非上場化、2023年MBO実施）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "：かつての技術者派遣大手、現在は非上場",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "quote": "【11月トップメッセージを公開】# メイテック 社長 の関口より ... — 【11月トップメッセージを公開】# メイテック 社長 の関口より ... Instagram https://www.instagram.com > DfOnQiigWZd",
+    "url": "https://www.instagram.com/p/DfOnQiigWZd/",
     "pass": 3
    }
   ],
@@ -1833,639 +2031,356 @@
     "pass": 3
    }
   ],
-  "発言": [
+  "製造業の顧客": [
    {
-    "quote": "今回メイテック社が運営するエンジニアのキャリアを応援するメディア「fabcross forエンジニア」に、「働き方」や「キャリア形成」の事例紹介したいと、弊社機械設計エンジニアの若手社員インタビューが行われました",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "・主要顧客：デンソー、三菱重工業、ソニーセミコンダクタなど大手製造業",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "今回は、そのインタビューの様子と、インタビュアーのメイテック様に「チャレナジーの印象」について逆質問した際の様子についての記事をお届けします",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
-    "pass": 3,
+    "quote": "製造業のお客さまの「ベストパートナー」 であり続けることと、",
+    "url": "https://www.meitec.co.jp/company/gtmi5c000000832o-att/meitec_companyprofile_20261026.pdf",
+    "pass": 2,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "１．メイテック社による社員インタビューの様子",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
-    "pass": 3,
+    "quote": "ー 業種別売上高 ー 業種別売上構成比 ー 主要取引先売上TOP10 226380",
+    "url": "https://www.meitec.co.jp/company/gtmi5c000000832o-att/meitec_companyprofile_20261026.pdf",
+    "pass": 2,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "今回、解析をメインに担当する機械設計エンジニアと、マイクロ風車の設計をメインに担当する機械設計エンジニアの2名に対する2時間程度のインタビューでした",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "「顧客ニーズ」と「エンジニアの成長」をバランス良く実現する",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "インタビューの詳細は、下記URLよりご覧下さい",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "顧客ニーズ、つまり「こういう知識を持ったエンジニアを派遣してほしい」という要望だけに合わせてマッチングするのは簡単です",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "２． メイテック社への逆インタビュー",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "われわれの場合は、顧客企業に配属すると同時にエンジニアも育てていかなくてはなりません",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "インタビュー終了後、私たちからメイテック社へ逆インタビューさせて頂きました",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "「顧客にご満足いただくパフォーマンスを示しながら、エンジニア自身も成長できるかどうか」を考え、エンジニアを配属していくこのノウハウは、創業以来培ってきたもので、当社ならではの強みだと思っています",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "弊社からも”逆”インタビューさせてください",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "こうしたエンジニアの育成がうまくいっているかどうかは、顧客の声、最終的には契約の継続や対価という形ではっきりと出るものです",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "また、脱炭素革命の中で日本を新たな水素エネルギー大国にしたいという代表 清水さんの記事を読んだことがあり、そういった",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "また、60歳がメイテックの人事規程上の「定年」ではあるのですが、顧客企業から「あの方が定年しても契約継続や新規契約でまた来てほしい」というご要望をいただくケースが多々あります",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "また、さきほどインタビューさせて頂いたお2人とも、もちろん大変な部分もあると思いますが、裁量が大きく、本当に楽しそうに働いている点は、仕事内容や働き方の部分でも面白みがある会社だと感じました",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "退職率は約3～4％ですから、一般のメーカーなどとほぼ変わらない",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "先ほどのインタビューでも簡単そうに答えられていましたが、実際に取り組まれている仕事は深く考えながら幅広く仕事をされていると見受けられました",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "製造業に特化したエンジニア派遣という独自のポジションで業界を牽引してきた",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "今回の取材インタビューでアマテラス社・クリーンタレントハブ社に続いて3社目となります",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "グループ全体としてはエンジニア価値・社員価値・顧客価値・株主価値・社会価値の『5つの価値』を掲げています",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "派遣はメイテック・テクノプロが二強、業務委託マッチングは製造業特化のロボカルと、IT・Web系向けのレバテックフリーランスを用途で使い分け、採用代行はマイナビ・キャスター・まるごと人事が代表です",
+    "quote": "そのためには、社会や顧客企業の技術戦略・製品戦略・サービス戦略に柔軟に対応していく必要がありますし、それを実現するには",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本マガジンでは、製造業・ディープテック専門の転職エージェントの視点から、スタートアップ経営者と挑戦を志す技術者の双方に向けて、採用と転職の「本当のところ」をお届けします",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "元メガバンク法人営業の結城匠が、製造業専門ヘッドハンターとして奔走するビジネス小説シリーズ",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "両社ともに新中期経営計画の実行フェーズにあり、製造業の技術開発投資需要を背景に増収増益を継続している共通点があります",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大手製造業向け技術開発支援サービスの実績40年",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大手製造業の景気サイクル感応度（投資冷え込み時の業績影響）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大手製造業の技術開発投資追風を取り込む方針",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "メイテックグループHDは大手製造業向けに集中",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "技術開発投資の盛んな自動車・電機・精密機器・半導体メーカーをコア顧客とし、エンジニアの質で差別化",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、製造業の景気悪化時の業績影響を直接的に受けるリスクと、エンジニア確保競争激化への耐性が試される",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大手製造業の研究開発・技術開発投資の継続的拡大（自動車のEV・自動運転、半導体、5G/6G、AI関連）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大手製造業の業績堅調、技術開発投資継続",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "世界的景気後退による大手製造業の研究開発投資縮小",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小〜中堅製造業の現場オペレーター・繁忙期対応ならスタッフサービスエンジニアリング・アウトソーシング・フォーラムエンジニアリングを加えます",
     "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "採用代行はマイナビ採用代行・リクルート採用代行・キャスター(CASTER BIZ recruiting)・まるごと人事の4社が代表です",
+    "quote": "製造業エンジニア派遣は「無期雇用派遣(常用型)」を選べば3年ルール対象外で長期戦力化が可能です",
     "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "まるごと人事 ── 成長企業向け採用代行の代表格",
+    "quote": "派遣会社は製造業のアウトソーシングで最も歴史が長く、選択肢も豊富です",
     "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "インタビュー：國分秀世さん（株式会社メイテック 代表取締役社長） - 日本の人事部『プロネット』",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "quote": "エンジニア派遣に特化した5社を、製造業の文脈で比較します",
+    "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "國分秀世さん（株式会社メイテック 代表取締役社長）",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "quote": "メーカー系・技術系企業特化・機械/電気/化学/製造系+IT系もカバー",
+    "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "國分社長が考える人材サービス業界の未来とは？",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "quote": "製造現場系・期間工系にも強い・地方の製造業にも対応",
+    "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "HRソリューション業界TOPインタビューのバックナンバー",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "quote": "エンジニア派遣中堅・中小製造業との取引多数",
+    "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "奥山貴広さん（株式会社ギークリー 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "quote": "派遣法の見直しについて、登録型派遣や製造業派遣の原則禁止などを削除した案で成立",
+    "url": "https://www.meitec.co.jp/company/outsorcing/history.html",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "地方・中小製造業の機械系・電気系エンジニアに強み",
+    "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "quote": "正社員エンジニア約8,000名が全国の製造業で技術サービスを提供しており、特に研究開発・設計分野のベテランの蓄積が業界随一です",
+    "url": "https://robokaru.jp/useful/675/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "中島悠揮さん（HRクラウド株式会社 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用AIエージェント「採用一括かんりくん」を展開する、HRクラウド株式会社 代表取締役社長の中島悠揮さんは、自らの歩みを「圧倒的な量の積み上げ」だったと語ります...",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三坂健さん（株式会社HRインスティテュート 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "林徹郎さん（株式会社ワークポート 代表取締役社長 COO）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2003年に株式会社ワークポートを仲間とともに創業し、リーマン・ショックという会社存続の危機を「仕組み化」と「決断」で乗り越えてきた、代表取締役社長COO・林徹...",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "古田直裕さん（縄文アソシエイツ株式会社 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "縄文アソシエイツ株式会社の代表取締役社長・古田直裕さんのキャリアは、常に「多数派への疑義」と「独自の合理性」に貫かれています",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HRソリューション業界TOPインタビュー バックナンバー",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "岡本祥治さん（株式会社みらいワークス 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HR業界の代表的な業界団体をご紹介いたします",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「エンジニアの成長が、企業の価値をつくる」─メイテックグループ代表2名が語る、人と技術に向き合い続ける50年の軌跡と未来 -役員会DX「Governance Cloud」",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「エンジニアの成長が、企業の価値をつくる」─メイテックグループ代表2名が語る、人と技術に向き合い続ける50年の軌跡と未来",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社メイテック 代表取締役社長・関口晃介氏",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社メイテックフィルダーズ 代表取締役社長・板倉光朋氏",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社メイテック 代表取締役社長 関口 晃介氏",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社メイテックフィルダーズ 代表取締役社長 板倉 光朋氏",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q. 社長は何代目ですか？また、バトンが受け継がれてきた背景についても教えてください",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "グループ会社であるメイテックネクストへ異動し人材紹介事業に携わった後、再びメイテックに戻ってからは、営業のみならず、人事・採用・広報・社長室といった本社部門を経験",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同社の取締役を経験したのち、2025年1月より株式会社メイテックフィルダーズの代表取締役社長を務めています",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "板倉と同じく2025年1月より、株式会社メイテックの代表取締役社長に就任しています",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私で5代目の社長になります",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「人材こそが価値」という言葉を、メイテックグループの両社長は一貫して語っていらっしゃいました",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "50年に渡り競争力を維持する理由は、本質的な価値を追求する姿勢とそれを実現する仕組みにあると実感するインタビューでした",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上村はじめ｜ガバナンスクラウド株式会社 代表取締役・公認会計士",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "両社ともに技術者派遣（エンジニアアウトソーシング）を主力とする日本の代表的な人材サービス企業です",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "両社とも社長交代の影響と新中計の実行力が試されるフェーズで、特にアルプス技研は2025年3月の社長交代直後で新体制の手腕が問われる",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年3月の社長交代後の新体制での中計実行力",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年3月26日付で社長交代",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "須藤泰志氏（新社長、1962年生）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "須藤新社長は1988年当社入社、子会社デジタル・スパイス代表取締役社長、DONKEY代表取締役社長を歴任した経歴",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "関口晃介氏：(株)メイテック代表取締役社長（執行役員）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "板倉光朋氏：(株)メイテックフィルダーズ代表取締役社長（執行役員）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アルプス技研の社長交代（2025年3月）による新体制の手腕次第で、業績モメンタムの加速余地がある",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年3月の社長交代後の新体制での中計実行力（須藤泰志新社長）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年3月に須藤泰志氏が新社長に就任、第12次5ヵ年計画のもとで創業60周年（2028年）に向けた新たな成長戦略を推進中",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上村正人社長兼グループCEO体制で、2026/3期に純利益+18.1%の大幅増益を達成し、配当利回り5.45%、ROE 31.31%、PBR 5.77倍という極めて高い評価を獲得",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アルプス技研「代表取締役の異動（社長交代）に関するお知らせ」（2024年11月12日）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エンジニアインタビュー",
+    "quote": "日経電子版（2025.2.12）の「製造業“ハケン”半導体・宇宙まで 独自の育成で技能向上」に掲載されました",
     "url": "https://www.meitec.co.jp/",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
+    "quote": "製造業と共に生き、共に繁栄する",
     "url": "https://www.meitec.co.jp/",
     "pass": 1
    },
    {
-    "quote": "【重要なお知らせ】当社グループ会社の代表者名を騙った不審なメールについて",
+    "quote": "正社員エンジニア約8,000名が全国の製造業の皆さまのもとで技術サービスを提供しています",
     "url": "https://www.meitec.co.jp/",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー｜メイテック ～エンジニアリングソリューション 研究開発・設計プロのエンジニア～",
+    "quote": "世の中の技術革新スピードはますます速まり、日本の製造業のお客さまの設計・開発現場を取り巻く環境も劇的に変化し、開発プロセスごとに多くの課題やニーズが顕在化しています",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「真の顧客メリット」を追求する",
     "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
-    "pass": 1
-   },
-   {
-    "quote": "「分かりやすい言葉」で語ることから",
-    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
+    "quote": "世の中の技術革新スピードはますます速まり、日本の製造業のお客さまの設計・開発現場を取り巻く環境も、劇的に変化し、開発プロセスごとに多くの課題やニーズが顕在化しています",
     "url": "https://www.meitec.co.jp/service/index.html",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
+    "quote": "メイテックは製造業の技術革新において、「大事な、欠かせない」価値を創り出す存在として、お客さまの課題解決に貢献してまいります",
     "url": "https://www.meitec.co.jp/service/index.html",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー",
+    "quote": "製造業と共に生き、共に繁栄する",
+    "url": "https://www.meitec.co.jp/service/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "TOFセンターの試作機の設計、顧客提案、デモンストレーションを実施",
     "url": "https://www.meitec.co.jp/service/product.html",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
+    "quote": "協力メーカーとの折衝も担当する",
     "url": "https://www.meitec.co.jp/service/product.html",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー",
+    "quote": "国内外スマートフォンの市場調査を行い、現状分析、機能やサービス、顧客ニーズなどの調査結果を設計に反映できるよう仕様決めを行う",
+    "url": "https://www.meitec.co.jp/service/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫管理・受発注管理・顧客管理・各種レポートの出力等をWEB上で行う販売管理統合システムの、要件定義から詳細設計、プログラム開発、デバッグ等を行う",
+    "url": "https://www.meitec.co.jp/service/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "協力メーカーとの折衝も担当する",
     "url": "https://www.meitec.co.jp/service/technology.html",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
+    "quote": "TOFセンターの試作機の設計、顧客提案、デモンストレーションを実施",
     "url": "https://www.meitec.co.jp/service/technology.html",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー",
+    "quote": "国内外スマートフォンの市場調査を行い、現状分析、機能やサービス、顧客ニーズなどの調査結果を設計に反映できるよう仕様決めを行う",
+    "url": "https://www.meitec.co.jp/service/technology.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫管理・受発注管理・顧客管理・各種レポートの出力等をWEB上で行う販売管理統合システムの、要件定義から詳細設計、プログラム開発、デバッグ等を行う",
+    "url": "https://www.meitec.co.jp/service/technology.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックは、創業以来延べ4,000社、常時約1,400社の製造業の皆さまとの取引実績を持ち、無期雇用のエンジニアに対して｢プロのエンジニア集団｣として常にキャリアアップを支援しながら、ハイエンド領域の設計・開発支援を行うことで、製造業の皆さまの高度化するニーズに、派遣および受託形態でお応えしています",
     "url": "https://www.meitec.co.jp/service/solutions.html",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
+    "quote": "長年培ってきた設計開発業務の実績と、多様な技術分野・製品分野に携わってきたエンジニアの技術力を活用し、製造業のお客さまの高度な技術による、設計開発のニーズにお応えします",
     "url": "https://www.meitec.co.jp/service/solutions.html",
     "pass": 1
    },
    {
-    "quote": "車車間、路車間を代表とするV2Xに関わる通信モジュール開発、ソフトウェア開発",
+    "quote": "製造業にとっては、ハイパフォーマンスかつ業務に最適な人員配置こそ、最大の技術戦略であり、同時に最良のコスト戦略となります",
     "url": "https://www.meitec.co.jp/service/solutions.html",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/recruit/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/recruit/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア®インタビュー",
-    "url": "https://www.meitec.co.jp/recruit/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
+    "quote": "製造業と共に生き、製造業と共に繁栄する",
     "url": "https://www.meitec.co.jp/company/index.html",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
+    "quote": "私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点とした「社員価値」「顧客価値」「株主価値」「社会価値」の5つの価値を持続的に向上させるため、「目指すべき姿」を定め取り組んでいます",
     "url": "https://www.meitec.co.jp/company/index.html",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/company/overview.html",
+    "quote": "エンジニア派遣業界は、技術開発志向の強い製造業におけるアウトソーシングニーズの拡大や、当該サービスの認知向上・定着・ユーザー層の拡大を背景に、その基盤が確立してきた業界です",
+    "url": "https://www.meitec.co.jp/company/index.html",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/company/overview.html",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 関口 晃介",
-    "url": "https://www.meitec.co.jp/company/overview.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
+    "quote": "製造業と共に生き、製造業と共に繁栄する",
     "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
+    "quote": "それは、決して最先端というだけではなく、その時代、その顧客、その製品にとって、なくてはならない要となる仕事でもあります",
     "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー",
+    "quote": "製造業の技術革新において、「大事な、欠かせない」価値を創り出す存在であること",
+    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループは、事業を通じて、経営資源(人・技術・情報)を社会的に共有することにより、エンジニア、社員、顧客、株主、社会と共に生き、共に繁栄していきます",
     "url": "https://www.meitec.co.jp/company/principal.html",
     "pass": 1
    },
    {
-    "quote": "生涯プロエンジニア（R）インタビュー",
+    "quote": "3) 顧客価値",
     "url": "https://www.meitec.co.jp/company/principal.html",
     "pass": 1
    },
    {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/company/base.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/company/base.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/company/overview/history.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/company/overview/history.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/company/group.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/company/group.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/news/20261009.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/news/20261009.html",
-    "pass": 1
-   },
-   {
-    "quote": "第1部の式典では、採用通知書授与や内定者代表による決意表明を実施",
-    "url": "https://www.meitec.co.jp/news/20261009.html",
-    "pass": 1
-   },
-   {
-    "quote": "社長の関口から内定者の皆さんへ、「メイテックは『人と技術で時代を拓く』という理念のもと、多くの課題を技術力で突破し、日本のものづくりを支えてきました",
-    "url": "https://www.meitec.co.jp/news/20261009.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/news/20260527_2.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/news/20260527_2.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/261102.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/261102.html",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/261102.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/news/20261026.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/news/20261026.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/261001.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/261001.html",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/261001.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/260901.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/260901.html",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/260901.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/news/261005.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/news/261005.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/news/20250417.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/news/20250417.html",
-    "pass": 1
-   },
-   {
-    "quote": "エンジニアインタビュー",
-    "url": "https://www.meitec.co.jp/contact/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "生涯プロエンジニア（R）インタビュー",
-    "url": "https://www.meitec.co.jp/contact/index.html",
-    "pass": 1
+    "quote": "株主、顧客、社員の繁栄を実現していきます",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
    },
    {
     "quote": "日本を代表する大手メーカーの",
@@ -2473,197 +2388,197 @@
     "pass": 3
    },
    {
-    "quote": "代表取締役社長 関口 晃介",
+    "quote": "１｜豊富な選択肢≪大手・優良メーカーで経験を積める≫",
     "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3
    },
    {
-    "quote": "社長メッセージ",
-    "url": "https://www.meitec-cast.co.jp/clients/service/detail/id=734",
+    "quote": "＼あの有名企業も取引先！／先輩たちが多く配属されてます♪",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■主要取引先TOP10（2026年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メイテックネクスト| 導入事例 | Daijob.com [ 法人様向け ]",
+    "url": "https://biz.daijob.com/casestudy/meitecnext",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メイテックネクストは、エンジニア（技術者）に特化した転職支援会社であり、最上流の設計開発を担う約8000名のエンジニアを抱え、数千社におよぶメーカーへ技術を提供する株式会社メイテック（東証プライム市場上場）のグループ会社として、2006年に設立",
+    "url": "https://biz.daijob.com/casestudy/meitecnext",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業・IT業界の活性化のために人財面で支えている",
+    "url": "https://biz.daijob.com/casestudy/meitecnext",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 « 株式会社メイテック｜株式会社メイテック公式サイト",
+    "url": "https://www.mayteck.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーや精密機器メーカー等の工場の作業環境と製品の浄化、保護のために粉塵やダストを排除する機能製品、省人省力化の製品を開発、提供しています",
+    "url": "https://www.mayteck.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "製品をご活用されている企業様の導入事例をご紹介します",
+    "url": "https://www.mayteck.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車塗装工場・自動車成形工場・建設機械工場 で実績あり",
+    "url": "https://www.mayteck.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "電子器機工場・精密工場・プラスチック工場・印刷工場 で実績あり",
+    "url": "https://www.mayteck.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "缶詰工場・製菓工場・冷凍食品工場・水産工場 で実績あり",
+    "url": "https://www.mayteck.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣・業務委託・採用代行 徹底比較（正社員以外の人材確保方法のすべて）｜製造業向けメイテック・ロボカル等14社【2026年5月更新】 | 半導体業界の即戦力人材ならロボカル",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "工場エンジニア求人のロボカルTOP",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣・業務委託・採用代行 徹底比較（正社員以外の人材確保方法のすべて）｜製造業向けメイテック・ロボカル等14社【2026年5月更新】",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の派遣・業務委託・採用代行は「派遣・業務委託・採用代行」の3カテゴリに分かれます",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣はメイテック・テクノプロが二強、業務委託マッチングは製造業特化のロボカルと、IT・Web系向けのレバテックフリーランスを用途で使い分け、採用代行はマイナビ・キャスター・まるごと人事が代表です",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の採用担当者に向け、派遣・業務委託・採用代行の主要14サービスを徹底比較します",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣会社5社・業務委託マッチング5社・採用代行4社の合計14サービスを、製造業の文脈で横断比較します",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の経営層・人事担当者からのご相談で多いのが、「即戦力エンジニアを早く確保したい",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の標準構成は、派遣1社+業務委託2社+採用代行 1社の合計4社です",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目の「採用代行」は、製造業の人事担当者には馴染みが薄い言葉かもしれません",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "（製造業No.1）",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業エンジニアでは「無期雇用派遣(常用型)」を選べば3年ルール対象外で長期戦力化も可能です",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の機電系エンジニアに特化したロボカルを起点に検討するのが最短ルートです",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技術者の業務委託活用（週2〜3稼働で技術伝承）も製造業で増えています",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の標準構成パターン",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "売上10〜30億円の中堅製造業で、年間の採用ニーズが「現場5〜10名+専門エンジニア2〜3名+正社員採用支援」という想定の場合、標準構成は以下のような組み合わせになります",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化マッチング + レバテックフリーランス",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "合計4サービス前後の併用が、中堅製造業の現実解です",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業エンジニア派遣の二強は",
+    "url": "https://robokaru.jp/useful/675/",
     "pass": 3
    }
   ],
-  "SNS・note（note・本文）": [
+  "SNS・note（Facebook・検索結果の抜粋）": [
    {
-    "quote": "メイテック社から見たチャレナジーは、『熱量高く 、社会課題に挑戦している人たち』 ｜株式会社チャレナジー 採用担当",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "【11月トップメッセージを公開】# メイテック 社長 の関口より ... 【11月トップメッセージを公開】# メイテック 社長 の関口より ... Facebook https://www.facebook.com > meitec.group > posts > 11月...",
+    "url": "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "メイテック社から見たチャレナジーは、『熱量高く 、社会課題に挑戦している人たち』",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "quote": "【 メイテック フィルダーズ/内定式レポート】 10月3日 【 メイテック フィルダーズ/内定式レポート】 10月3日 Facebook https://www.facebook.com > meitec.group > posts > メイ...",
+    "url": "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA%E5%86%85%E5%AE%9A%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%883%E6%97%A5%E6%9D%A5%E6%98%A5%E5%85%A5%E7%A4%BE%E4%BA%88%E5%AE%9A%E3%81%AE%E5%86%85%E5%AE%9A%E8%80%85%E3%82%92%E8%BF%8E%E3%81%88%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%BD%93%E6%97%A5%E3%81%AE%E6%A7%98%E5%AD%90%E3%82%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%82%92%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0/1577585884394817/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "皆さんこんにちは🙋‍株式会社チャレナジーの採用担当です。",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "私たちの採用活動では多くの企業にご協力を頂いています。プロフェッショナルなエンジニアリング人財の集まるメイテック社もその一社です。今回メイテック社が運営するエンジニアのキャリアを応援するメディア「fabcross forエンジニア」に、「働き方」や「キャリア形成」の事例紹介したいと、弊社機械設計エンジニアの若手社員インタビューが行われました。",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "今回は、そのインタビューの様子と、インタビュアーのメイテック様に「チャレナジーの印象」について逆質問した際の様子についての記事をお届けします。",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "１．メイテック社による社員インタビューの様子",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "今回、解析をメインに担当する機械設計エンジニアと、マイクロ風車の設計をメインに担当する機械設計エンジニアの2名に対する2時間程度のインタビューでした。メイテック社からはチャレナジーへの入社理由や入社後のギャップ、企業のカルチャーなど、ざっくばらんな質問がありました。",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "印象的だったのは、2人ともが「普段から質問しやすい雰囲気があり教えてもらえる」「在宅時も、進捗の確認や声をかけえあえている」と回答していました。お互いに教え合える風土を目指していて、それを話してくれているのをとても嬉しく思いました。",
-    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「採りたい。でも現年収は出せない。」 候補者のリアルを見てきた立場から考える、ディープテック採用のオファー設計",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「年収半減でも挑戦したい。」その熱意が、なぜ内定につながらなかったのか？",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「技術統括が採れなかったわけじゃない。会社が、まだその椅子を作れていなかった。」",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なぜ 優秀な開発者 をCTOにしても事業は前進しなかったのか？ ： スタートアップが見落としがちな人材選びの本質",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.m-next.jp/",
-    "url": "https://note.com/meitecnext_note",
+    "quote": "メイテック グループ (@ meitec .group) - Facebook メイテック グループ (@ meitec .group) - Facebook Facebook https://www.facebook.com > ... > Engineering Service",
+    "url": "https://www.facebook.com/meitec.group/",
     "pass": 3
    },
    {
-    "quote": "）は、製造業エンジニアに特化した無料転職・キャリア支援サービスです。累計21万人超の相談実績、10,000社以上の企業支援をもとに、将来を見据えた最適なキャリア選択を専門アドバイザーが支援します。",
-    "url": "https://note.com/meitecnext_note",
+    "quote": "メイテック エンジニアの働き方やものづくりの楽しさを知って ... メイテック エンジニアの働き方やものづくりの楽しさを知って ... Facebook https://www.facebook.com > meitec.group > posts > メイ...",
+    "url": "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%84%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%95%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%865days%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%A7%E3%81%99%E5%AF%BE%E8%B1%A1%E3%81%AF2028%E5%B9%B4%E6%96%B0%E5%8D%92%E3%81%AB%E3%81%82%E3%81%9F%E3%82%8B%E5%AD%A6%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E6%9D%B1%E4%BA%AC%E4%BC%9A%E5%A0%B4%E3%82%92%E7%9A%AE%E5%88%87%E3%82%8A%E3%81%AB/1532808762205863/",
     "pass": 3
    },
    {
-    "quote": "）は、製造業エンジニアに特化した無料転職・…",
-    "url": "https://note.com/meitecnext_note",
+    "quote": "【11月トップメッセージを公開】# メイテック 社長の関口より ... 【11月トップメッセージを公開】# メイテック 社長の関口より ... Facebook https://www.facebook.com > meitec.group > posts > 11月...",
+    "url": "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
     "pass": 3
    },
    {
-    "quote": "【創立20周年】20年分の「ありがとう」。変化の時代に変わらない想いと、未来へ繋ぐバトン",
-    "url": "https://note.com/meitecnext_note",
+    "quote": "【 メイテック /内定式レポート】10月1日、2027年度新卒の ... 【 メイテック /内定式レポート】10月1日、2027年度新卒の ... Facebook https://www.facebook.com > meitec.group > posts > メイ...",
+    "url": "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E5%86%85%E5%AE%9A%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%881%E6%97%A52027%E5%B9%B4%E5%BA%A6%E6%96%B0%E5%8D%92%E3%81%AE%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E5%9F%B7%E3%82%8A%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%81%AF%E5%BD%93%E7%A4%BE%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A292%E5%90%8D%E3%81%8C%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E3%81%8B%E3%82%89%E5%8F%82%E5%8A%A0%E4%BC%9A%E5%A0%B4%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9Fana%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%81%E3%83%8D%E3%83%B3%E3%82%BF/1558877909598948/",
     "pass": 3
    },
    {
-    "quote": "「なぜディープテック企業は50人の壁をなかなか超えられないのか」",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3
-   },
-   {
-    "quote": "「なぜ最後に決まらないのか」 ― 事業拡大フェーズのディープテック企業が直面した採用の壁 ―",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3
-   },
-   {
-    "quote": "メイテックグループHD（9744）配当利回り約5.5%、続くのかをアナリストに聞いてみた｜haito",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "メイテックグループHD（9744）配当利回り約5.5%、続くのかをアナリストに聞いてみた",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "今回の銘柄は、機械設計・ソフト開発エンジニアの派遣・紹介に特化した大手グループ、",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社メイテックグループホールディングス（証券コード：9744）",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "2025年3月期は創業50周年記念配当30円を含む年間配当198円という大盤振る舞い。一時は配当利回りが6%台に達したほどの注目銘柄です。",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "しかし、2026年3月期の予想配当は175円（後に181円へ修正）と大幅に下がっており、「これは一時的な高配当だったのか？」「今後も高い利回りは期待できるのか？」が最大の論点です。",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "当ラボのエキスパートアナリスト・車野蔵人と一緒に、順を追って確認していきましょう。",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "・正式名称：株式会社メイテックグループホールディングス",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "アルプス技研（4641）vs メイテックグループホールディングス（9744）— 事業成長力を徹底比較する｜kabutabi",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "アルプス技研（4641）vs メイテックグループホールディングス（9744）— 事業成長力を徹底比較する",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "【技術者派遣2強対決 ― 多角化型 vs エンジニア派遣特化型】",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "記録日：2026年5月26日。両社ともに技術者派遣（エンジニアアウトソーシング）を主力とする日本の代表的な人材サービス企業です。決算期が異なる点に留意が必要：アルプス技研は",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "で、比較するタイミングが約3ヵ月ずれます。両社ともに新中期経営計画の実行フェーズにあり、製造業の技術開発投資需要を背景に増収増益を継続している共通点があります。",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "注目度：アルプス技研 ★★★☆☆ / メイテックグループHD ★★★★☆（5段階）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "筆者はメイテックグループHDの「エンジニア数業界首位約6,000名」「ROE 31.31%という極めて高い資本効率」「配当利回り5.45%という高水準の株主還元」に強い関心を持っている。一方、アルプス技研は技術者派遣だけでなくグローバル事業・農業・介護事業など多角化を進めており、新しい収益軸の柱を育てる経営方針が魅力的。両社とも社長交代の影響と新中計の実行力が試されるフェーズで、特にアルプス技研は2025年3月の社長交代直後で新体制の手腕が問われる。",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "株価：約2,100円前後（2026年5月時点）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "quote": "メイテック社長 、國分の9月度メッセージを公開 ... - Facebook メイテック社長 、國分の9月度メッセージを公開 ... - Facebook Facebook https://www.facebook.com > meitec.group > posts > メイ...",
+    "url": "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E7%A4%BE%E9%95%B7%E5%9C%8B%E5%88%86%E3%81%AE9%E6%9C%88%E5%BA%A6%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%97%A5%E3%80%85%E3%81%AE%E7%A9%8D%E3%81%BF%E9%87%8D%E3%81%AD%E3%81%AE%E5%A4%A7%E5%88%87%E3%81%95%E3%81%A7%E3%81%99%E5%85%88%E6%9C%88%E3%81%BE%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E5%B9%B3%E5%92%8C%E3%81%AE%E7%A5%AD%E5%85%B8%E3%83%91%E3%83%AA-%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E3%81%AF%E4%B8%80%E6%B5%81%E3%81%AE%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E/938889378264474/",
     "pass": 3
    }
   ],
@@ -3407,628 +3322,214 @@
     "pass": 1
    }
   ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
+  "SNS・note（note・本文）": [
    {
-    "quote": "（株） メイテック | LinkedIn （株） メイテック | LinkedIn LinkedIn https://www.linkedin.com > company > （株）メイテック",
-    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
-    "pass": 3
-   },
-   {
-    "quote": "（株） メイテック フィルダーズ - LinkedIn （株） メイテック フィルダーズ - LinkedIn LinkedIn https://www.linkedin.com > （株）メイテックフィルダーズ",
-    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA",
-    "pass": 3
-   }
-  ],
-  "創業年度": [
-   {
-    "quote": "そのために、1974 年の創業以来、50年の事業活動を通じて、",
-    "url": "https://www.meitec.co.jp/company/gtmi5c000000832o-att/meitec_companyprofile_20261026.pdf",
-    "pass": 2,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "創業以来50年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています",
-    "url": "https://www.meitec.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来45年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています",
-    "url": "https://www.meitec.co.jp/service/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "メイテックは、創業以来延べ4,000社、常時約1,400社の製造業の皆さまとの取引実績を持ち、無期雇用のエンジニアに対して｢プロのエンジニア集団｣として常にキャリアアップを支援しながら、ハイエンド領域の設計・開発支援を行うことで、製造業の皆さまの高度化するニーズに、派遣および受託形態でお応えしています",
-    "url": "https://www.meitec.co.jp/service/solutions.html",
-    "pass": 1
-   },
-   {
-    "quote": "※株式会社メイテックは2023年10月1日の持株会社体制への移行にともない、新たに設立となりました(メイテックの沿革は",
-    "url": "https://www.meitec.co.jp/company/overview.html",
-    "pass": 1
-   },
-   {
-    "quote": "メイテックの設立以来目指し続けてきたことであり、現在もグループで掲げる経営理念です",
-    "url": "https://www.meitec.co.jp/company/principal.html",
-    "pass": 1
-   },
-   {
-    "quote": "株式会社名古屋技術センターを設立",
-    "url": "https://www.meitec.co.jp/company/overview/history.html",
-    "pass": 1
-   },
-   {
-    "quote": "（1985年に株式会社ジエクスに社名変更）を設立",
-    "url": "https://www.meitec.co.jp/company/overview/history.html",
-    "pass": 1
-   },
-   {
-    "quote": "1974年の創業以来、",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社名古屋技術センターを設立",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "（1985年に株式会社ジエクスに社名変更）を設立",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "グループ会社「メイスタッフ」を設立",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "グループ会社「ジャパンキャスト」(現「メイテックキャスト」）を設立",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "グループ会社「メイテックネクスト」設立",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "シニアエンジニア特定派遣会社「メイテックＥＸ（ｲｰｴｯｸｽ）」を設立",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "(株)名古屋技術センター（現「(株)メイテック」）設立",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "(現「(株)メイテックフィルダーズ」)を設立",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "グループ会社「(株)メイテックネクスト」を設立",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "シニアエンジニア特定派遣会社「(株)メイテックEX（イーエックス）」を設立",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社メイテックネクストは、エンジニア（技術者）に特化した転職支援会社であり、最上流の設計開発を担う約8000名のエンジニアを抱え、数千社におよぶメーカーへ技術を提供する株式会社メイテック（東証プライム市場上場）のグループ会社として、2006年に設立",
-    "url": "https://biz.daijob.com/casestudy/meitecnext",
-    "pass": 3
-   },
-   {
-    "quote": "1974年創業・正社員エンジニア約8,000名・延べ4,000社の取引実績",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "1974年創業の老舗で、エンジニア派遣事業の先駆企業",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "メイテックは1974年創業の老舗で、研究開発・設計分野のベテラン技術者が強み(平均単価 1時間約5,100円)",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "「顧客にご満足いただくパフォーマンスを示しながら、エンジニア自身も成長できるかどうか」を考え、エンジニアを配属していくこのノウハウは、創業以来培ってきたもので、当社ならではの強みだと思っています",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3
-   },
-   {
-    "quote": "2003年に株式会社ワークポートを仲間とともに創業し、リーマン・ショックという会社存続の危機を「仕組み化」と「決断」で乗り越えてきた、代表取締役社長COO・林徹...",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3
-   },
-   {
-    "quote": "2007年設立",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3
-   },
-   {
-    "quote": "求人情報媒体が読者の職業の選択と安定した職業生活に役立つことなどを目的に、昭和60年2月、労働大臣の許可を得て、公益法人として設立されました",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3
-   },
-   {
-    "quote": "労働者派遣法の趣旨に則り、労働者派遣事業の適正な運営を図るための自主的な取り組みを行うことを通じて、派遣事業の健全な発展を図ることを目的として、設立されました",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3
-   },
-   {
-    "quote": "「日本におけるHRMプロフェッショナリズムの確立」を使命に、我が国の人材マネジメントを担う方々のための会員(年会費制)組織として2000年に設立",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3
-   },
-   {
-    "quote": "「株式会社メイテックは1974年の設立から、",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3
-   },
-   {
-    "quote": "創業者から長期的な視野で事業継承が進められてきました",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3
-   },
-   {
-    "quote": "2024年7月には創業50周年を迎えたこともあり、",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3
-   },
-   {
-    "quote": "その知見をもとに、取締役会など役員会運営を効率化する Governance Cloud を創業・運営している",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3
-   },
-   {
-    "quote": "【創立20周年】20年分の「ありがとう」",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3
-   },
-   {
-    "quote": "2025年3月期は創業50周年記念配当30円を含む年間配当198円という大盤振る舞い",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "・設立：1974年（昭和49年）",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "└ 創業50周年記念配当：30円（一時的・一回限り）",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社アルプスリージョナルパートナーズ（2025年5月新潟県南魚沼市に設立、地方創生事業）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "1968年創業（松井設計事務所として創業）の歴史と「Heart to Heart」の経営理念",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "（2023年7月発表、創業55周年時、〜2028年）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "創業60周年（2028年）に向けた中長期戦略",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "最近では2024年1月のたんぽぽ四季の森連結化（高齢者住宅）、2025年5月のアルプスリージョナルパートナーズ設立（地方創生）など、新領域への投資を継続",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "アルプス技研は外部成長型（M&A・新事業設立）を選好",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "たんぽぽ四季の森連結化、パナR&D受託部門承継、アルプスリージョナルパートナーズ設立など、新領域への積極的な進出を継続",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "多角化（グローバル事業大幅成長、新領域開拓）による事業ポートフォリオ拡大、創業60周年（2028年）に向けた第12次5ヵ年計画の進捗",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "アルプス技研は、1968年創業の「Heart to Heart」を経営理念とする技術者派遣会社で、海外子会社（台湾・上海・ミャンマー）でのグローバル事業の大幅成長、農業・介護・地方創生などの新領域進出と多角化を進める",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   },
-   {
-    "quote": "2025年3月に須藤泰志氏が新社長に就任、第12次5ヵ年計画のもとで創業60周年（2028年）に向けた新たな成長戦略を推進中",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "メイテック 社から見たチャレナジーは、『熱量高く - note メイテック 社から見たチャレナジーは、『熱量高く - note note https://note.com > キャリア > 職種別キャリア",
+    "quote": "メイテック社から見たチャレナジーは、『熱量高く 、社会課題に挑戦している人たち』 ｜株式会社チャレナジー 採用担当",
     "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "メイテック ネクスト - note メイテック ネクスト - note note https://note.com > meitecnext_note",
+    "quote": "メイテック社から見たチャレナジーは、『熱量高く 、社会課題に挑戦している人たち』",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "皆さんこんにちは🙋‍株式会社チャレナジーの採用担当です。",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "私たちの採用活動では多くの企業にご協力を頂いています。プロフェッショナルなエンジニアリング人財の集まるメイテック社もその一社です。今回メイテック社が運営するエンジニアのキャリアを応援するメディア「fabcross forエンジニア」に、「働き方」や「キャリア形成」の事例紹介したいと、弊社機械設計エンジニアの若手社員インタビューが行われました。",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回は、そのインタビューの様子と、インタビュアーのメイテック様に「チャレナジーの印象」について逆質問した際の様子についての記事をお届けします。",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "１．メイテック社による社員インタビューの様子",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回、解析をメインに担当する機械設計エンジニアと、マイクロ風車の設計をメインに担当する機械設計エンジニアの2名に対する2時間程度のインタビューでした。メイテック社からはチャレナジーへの入社理由や入社後のギャップ、企業のカルチャーなど、ざっくばらんな質問がありました。",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "印象的だったのは、2人ともが「普段から質問しやすい雰囲気があり教えてもらえる」「在宅時も、進捗の確認や声をかけえあえている」と回答していました。お互いに教え合える風土を目指していて、それを話してくれているのをとても嬉しく思いました。",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「採りたい。でも現年収は出せない。」 候補者のリアルを見てきた立場から考える、ディープテック採用のオファー設計",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「年収半減でも挑戦したい。」その熱意が、なぜ内定につながらなかったのか？",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「技術統括が採れなかったわけじゃない。会社が、まだその椅子を作れていなかった。」",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なぜ 優秀な開発者 をCTOにしても事業は前進しなかったのか？ ： スタートアップが見落としがちな人材選びの本質",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.m-next.jp/",
     "url": "https://note.com/meitecnext_note",
     "pass": 3
    },
    {
-    "quote": "メイテック グループHD（9744）配当利回り約5.5% - note メイテック グループHD（9744）配当利回り約5.5% - note note https://note.com > 投資・マネー > 日本株",
+    "quote": "）は、製造業エンジニアに特化した無料転職・キャリア支援サービスです。累計21万人超の相談実績、10,000社以上の企業支援をもとに、将来を見据えた最適なキャリア選択を専門アドバイザーが支援します。",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3
+   },
+   {
+    "quote": "）は、製造業エンジニアに特化した無料転職・…",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3
+   },
+   {
+    "quote": "【創立20周年】20年分の「ありがとう」。変化の時代に変わらない想いと、未来へ繋ぐバトン",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3
+   },
+   {
+    "quote": "「なぜディープテック企業は50人の壁をなかなか超えられないのか」",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3
+   },
+   {
+    "quote": "「なぜ最後に決まらないのか」 ― 事業拡大フェーズのディープテック企業が直面した採用の壁 ―",
+    "url": "https://note.com/meitecnext_note",
+    "pass": 3
+   },
+   {
+    "quote": "メイテックグループHD（9744）配当利回り約5.5%、続くのかをアナリストに聞いてみた｜haito",
     "url": "https://note.com/deft_knot1002/n/n12e071618740",
     "pass": 3
    },
    {
-    "quote": "アルプス技研（4641）vs メイテック グループ ... アルプス技研（4641）vs メイテック グループ ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "quote": "メイテックグループHD（9744）配当利回り約5.5%、続くのかをアナリストに聞いてみた",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "今回の銘柄は、機械設計・ソフト開発エンジニアの派遣・紹介に特化した大手グループ、",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メイテックグループホールディングス（証券コード：9744）",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は創業50周年記念配当30円を含む年間配当198円という大盤振る舞い。一時は配当利回りが6%台に達したほどの注目銘柄です。",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2026年3月期の予想配当は175円（後に181円へ修正）と大幅に下がっており、「これは一時的な高配当だったのか？」「今後も高い利回りは期待できるのか？」が最大の論点です。",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "当ラボのエキスパートアナリスト・車野蔵人と一緒に、順を追って確認していきましょう。",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "・正式名称：株式会社メイテックグループホールディングス",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "アルプス技研（4641）vs メイテックグループホールディングス（9744）— 事業成長力を徹底比較する｜kabutabi",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "アルプス技研（4641）vs メイテックグループホールディングス（9744）— 事業成長力を徹底比較する",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "【技術者派遣2強対決 ― 多角化型 vs エンジニア派遣特化型】",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "記録日：2026年5月26日。両社ともに技術者派遣（エンジニアアウトソーシング）を主力とする日本の代表的な人材サービス企業です。決算期が異なる点に留意が必要：アルプス技研は",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "で、比較するタイミングが約3ヵ月ずれます。両社ともに新中期経営計画の実行フェーズにあり、製造業の技術開発投資需要を背景に増収増益を継続している共通点があります。",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "注目度：アルプス技研 ★★★☆☆ / メイテックグループHD ★★★★☆（5段階）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "筆者はメイテックグループHDの「エンジニア数業界首位約6,000名」「ROE 31.31%という極めて高い資本効率」「配当利回り5.45%という高水準の株主還元」に強い関心を持っている。一方、アルプス技研は技術者派遣だけでなくグローバル事業・農業・介護事業など多角化を進めており、新しい収益軸の柱を育てる経営方針が魅力的。両社とも社長交代の影響と新中計の実行力が試されるフェーズで、特にアルプス技研は2025年3月の社長交代直後で新体制の手腕が問われる。",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "株価：約2,100円前後（2026年5月時点）",
     "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
     "pass": 3
    }
   ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
+  "株主構成": [
    {
-    "quote": "【11月トップメッセージを公開】# メイテック 社長 の関口より ... 【11月トップメッセージを公開】# メイテック 社長 の関口より ... Facebook https://www.facebook.com > meitec.group > posts > 11月...",
-    "url": "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
+    "quote": "サンワテクノス(株) 【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "【 メイテック フィルダーズ/内定式レポート】 10月3日 【 メイテック フィルダーズ/内定式レポート】 10月3日 Facebook https://www.facebook.com > meitec.group > posts > メイ...",
-    "url": "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA%E5%86%85%E5%AE%9A%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%883%E6%97%A5%E6%9D%A5%E6%98%A5%E5%85%A5%E7%A4%BE%E4%BA%88%E5%AE%9A%E3%81%AE%E5%86%85%E5%AE%9A%E8%80%85%E3%82%92%E8%BF%8E%E3%81%88%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%BD%93%E6%97%A5%E3%81%AE%E6%A7%98%E5%AD%90%E3%82%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%82%92%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0/1577585884394817/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "メイテック グループ (@ meitec .group) - Facebook メイテック グループ (@ meitec .group) - Facebook Facebook https://www.facebook.com > ... > Engineering Service",
-    "url": "https://www.facebook.com/meitec.group/",
-    "pass": 3
-   },
-   {
-    "quote": "メイテック エンジニアの働き方やものづくりの楽しさを知って ... メイテック エンジニアの働き方やものづくりの楽しさを知って ... Facebook https://www.facebook.com > meitec.group > posts > メイ...",
-    "url": "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%84%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%95%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%865days%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%A7%E3%81%99%E5%AF%BE%E8%B1%A1%E3%81%AF2028%E5%B9%B4%E6%96%B0%E5%8D%92%E3%81%AB%E3%81%82%E3%81%9F%E3%82%8B%E5%AD%A6%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E6%9D%B1%E4%BA%AC%E4%BC%9A%E5%A0%B4%E3%82%92%E7%9A%AE%E5%88%87%E3%82%8A%E3%81%AB/1532808762205863/",
-    "pass": 3
-   },
-   {
-    "quote": "【11月トップメッセージを公開】# メイテック 社長の関口より ... 【11月トップメッセージを公開】# メイテック 社長の関口より ... Facebook https://www.facebook.com > meitec.group > posts > 11月...",
-    "url": "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
-    "pass": 3
-   },
-   {
-    "quote": "【 メイテック /内定式レポート】10月1日、2027年度新卒の ... 【 メイテック /内定式レポート】10月1日、2027年度新卒の ... Facebook https://www.facebook.com > meitec.group > posts > メイ...",
-    "url": "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E5%86%85%E5%AE%9A%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%881%E6%97%A52027%E5%B9%B4%E5%BA%A6%E6%96%B0%E5%8D%92%E3%81%AE%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E5%9F%B7%E3%82%8A%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%81%AF%E5%BD%93%E7%A4%BE%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A292%E5%90%8D%E3%81%8C%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E3%81%8B%E3%82%89%E5%8F%82%E5%8A%A0%E4%BC%9A%E5%A0%B4%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9Fana%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%81%E3%83%8D%E3%83%B3%E3%82%BF/1558877909598948/",
-    "pass": 3
-   },
-   {
-    "quote": "メイテック社長 、國分の9月度メッセージを公開 ... - Facebook メイテック社長 、國分の9月度メッセージを公開 ... - Facebook Facebook https://www.facebook.com > meitec.group > posts > メイ...",
-    "url": "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E7%A4%BE%E9%95%B7%E5%9C%8B%E5%88%86%E3%81%AE9%E6%9C%88%E5%BA%A6%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%97%A5%E3%80%85%E3%81%AE%E7%A9%8D%E3%81%BF%E9%87%8D%E3%81%AD%E3%81%AE%E5%A4%A7%E5%88%87%E3%81%95%E3%81%A7%E3%81%99%E5%85%88%E6%9C%88%E3%81%BE%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E5%B9%B3%E5%92%8C%E3%81%AE%E7%A5%AD%E5%85%B8%E3%83%91%E3%83%AA-%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E3%81%AF%E4%B8%80%E6%B5%81%E3%81%AE%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E/938889378264474/",
-    "pass": 3
-   }
-  ],
-  "製造業の顧客": [
-   {
-    "quote": "・主要顧客：デンソー、三菱重工業、ソニーセミコンダクタなど大手製造業",
-    "url": "https://note.com/deft_knot1002/n/n12e071618740",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製造業のお客さまの「ベストパートナー」 であり続けることと、",
+    "quote": "上場企業および優良中堅企業1,300 社※",
     "url": "https://www.meitec.co.jp/company/gtmi5c000000832o-att/meitec_companyprofile_20261026.pdf",
     "pass": 2,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ー 業種別売上高 ー 業種別売上構成比 ー 主要取引先売上TOP10 226380",
-    "url": "https://www.meitec.co.jp/company/gtmi5c000000832o-att/meitec_companyprofile_20261026.pdf",
-    "pass": 2,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「顧客ニーズ」と「エンジニアの成長」をバランス良く実現する",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "quote": "AIメカテック(株)【東証スタンダード上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "顧客ニーズ、つまり「こういう知識を持ったエンジニアを派遣してほしい」という要望だけに合わせてマッチングするのは簡単です",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "quote": "(株)アドテックプラズマテクノロジー【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3,
     "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "われわれの場合は、顧客企業に配属すると同時にエンジニアも育てていかなくてはなりません",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「顧客にご満足いただくパフォーマンスを示しながら、エンジニア自身も成長できるかどうか」を考え、エンジニアを配属していくこのノウハウは、創業以来培ってきたもので、当社ならではの強みだと思っています",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "こうしたエンジニアの育成がうまくいっているかどうかは、顧客の声、最終的には契約の継続や対価という形ではっきりと出るものです",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、60歳がメイテックの人事規程上の「定年」ではあるのですが、顧客企業から「あの方が定年しても契約継続や新規契約でまた来てほしい」というご要望をいただくケースが多々あります",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "退職率は約3～4％ですから、一般のメーカーなどとほぼ変わらない",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "製造業に特化したエンジニア派遣という独自のポジションで業界を牽引してきた",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "グループ全体としてはエンジニア価値・社員価値・顧客価値・株主価値・社会価値の『5つの価値』を掲げています",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのためには、社会や顧客企業の技術戦略・製品戦略・サービス戦略に柔軟に対応していく必要がありますし、それを実現するには",
-    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本マガジンでは、製造業・ディープテック専門の転職エージェントの視点から、スタートアップ経営者と挑戦を志す技術者の双方に向けて、採用と転職の「本当のところ」をお届けします",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "元メガバンク法人営業の結城匠が、製造業専門ヘッドハンターとして奔走するビジネス小説シリーズ",
-    "url": "https://note.com/meitecnext_note",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "両社ともに新中期経営計画の実行フェーズにあり、製造業の技術開発投資需要を背景に増収増益を継続している共通点があります",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大手製造業向け技術開発支援サービスの実績40年",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大手製造業の景気サイクル感応度（投資冷え込み時の業績影響）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大手製造業の技術開発投資追風を取り込む方針",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メイテックグループHDは大手製造業向けに集中",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "技術開発投資の盛んな自動車・電機・精密機器・半導体メーカーをコア顧客とし、エンジニアの質で差別化",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方、製造業の景気悪化時の業績影響を直接的に受けるリスクと、エンジニア確保競争激化への耐性が試される",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大手製造業の研究開発・技術開発投資の継続的拡大（自動車のEV・自動運転、半導体、5G/6G、AI関連）",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大手製造業の業績堅調、技術開発投資継続",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "世界的景気後退による大手製造業の研究開発投資縮小",
-    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "中小〜中堅製造業の現場オペレーター・繁忙期対応ならスタッフサービスエンジニアリング・アウトソーシング・フォーラムエンジニアリングを加えます",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造業エンジニア派遣は「無期雇用派遣(常用型)」を選べば3年ルール対象外で長期戦力化が可能です",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "派遣会社は製造業のアウトソーシングで最も歴史が長く、選択肢も豊富です",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エンジニア派遣に特化した5社を、製造業の文脈で比較します",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー系・技術系企業特化・機械/電気/化学/製造系+IT系もカバー",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造現場系・期間工系にも強い・地方の製造業にも対応",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エンジニア派遣中堅・中小製造業との取引多数",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "派遣法の見直しについて、登録型派遣や製造業派遣の原則禁止などを削除した案で成立",
-    "url": "https://www.meitec.co.jp/company/outsorcing/history.html",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "地方・中小製造業の機械系・電気系エンジニアに強み",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "正社員エンジニア約8,000名が全国の製造業で技術サービスを提供しており、特に研究開発・設計分野のベテランの蓄積が業界随一です",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日経電子版（2025.2.12）の「製造業“ハケン”半導体・宇宙まで 独自の育成で技能向上」に掲載されました",
-    "url": "https://www.meitec.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業と共に生き、共に繁栄する",
-    "url": "https://www.meitec.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "正社員エンジニア約8,000名が全国の製造業の皆さまのもとで技術サービスを提供しています",
-    "url": "https://www.meitec.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "世の中の技術革新スピードはますます速まり、日本の製造業のお客さまの設計・開発現場を取り巻く環境も劇的に変化し、開発プロセスごとに多くの課題やニーズが顕在化しています",
-    "url": "https://www.meitec.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "「真の顧客メリット」を追求する",
-    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
-    "pass": 1
-   },
-   {
-    "quote": "世の中の技術革新スピードはますます速まり、日本の製造業のお客さまの設計・開発現場を取り巻く環境も、劇的に変化し、開発プロセスごとに多くの課題やニーズが顕在化しています",
-    "url": "https://www.meitec.co.jp/service/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "メイテックは製造業の技術革新において、「大事な、欠かせない」価値を創り出す存在として、お客さまの課題解決に貢献してまいります",
-    "url": "https://www.meitec.co.jp/service/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "製造業と共に生き、共に繁栄する",
-    "url": "https://www.meitec.co.jp/service/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "TOFセンターの試作機の設計、顧客提案、デモンストレーションを実施",
-    "url": "https://www.meitec.co.jp/service/product.html",
-    "pass": 1
-   },
-   {
-    "quote": "協力メーカーとの折衝も担当する",
-    "url": "https://www.meitec.co.jp/service/product.html",
-    "pass": 1
-   },
-   {
-    "quote": "国内外スマートフォンの市場調査を行い、現状分析、機能やサービス、顧客ニーズなどの調査結果を設計に反映できるよう仕様決めを行う",
-    "url": "https://www.meitec.co.jp/service/product.html",
-    "pass": 1
-   },
-   {
-    "quote": "在庫管理・受発注管理・顧客管理・各種レポートの出力等をWEB上で行う販売管理統合システムの、要件定義から詳細設計、プログラム開発、デバッグ等を行う",
-    "url": "https://www.meitec.co.jp/service/product.html",
-    "pass": 1
-   },
-   {
-    "quote": "協力メーカーとの折衝も担当する",
-    "url": "https://www.meitec.co.jp/service/technology.html",
-    "pass": 1
-   },
-   {
-    "quote": "TOFセンターの試作機の設計、顧客提案、デモンストレーションを実施",
-    "url": "https://www.meitec.co.jp/service/technology.html",
-    "pass": 1
-   },
-   {
-    "quote": "国内外スマートフォンの市場調査を行い、現状分析、機能やサービス、顧客ニーズなどの調査結果を設計に反映できるよう仕様決めを行う",
-    "url": "https://www.meitec.co.jp/service/technology.html",
-    "pass": 1
-   },
-   {
-    "quote": "在庫管理・受発注管理・顧客管理・各種レポートの出力等をWEB上で行う販売管理統合システムの、要件定義から詳細設計、プログラム開発、デバッグ等を行う",
-    "url": "https://www.meitec.co.jp/service/technology.html",
-    "pass": 1
-   },
-   {
-    "quote": "メイテックは、創業以来延べ4,000社、常時約1,400社の製造業の皆さまとの取引実績を持ち、無期雇用のエンジニアに対して｢プロのエンジニア集団｣として常にキャリアアップを支援しながら、ハイエンド領域の設計・開発支援を行うことで、製造業の皆さまの高度化するニーズに、派遣および受託形態でお応えしています",
-    "url": "https://www.meitec.co.jp/service/solutions.html",
-    "pass": 1
-   },
-   {
-    "quote": "長年培ってきた設計開発業務の実績と、多様な技術分野・製品分野に携わってきたエンジニアの技術力を活用し、製造業のお客さまの高度な技術による、設計開発のニーズにお応えします",
-    "url": "https://www.meitec.co.jp/service/solutions.html",
-    "pass": 1
-   },
-   {
-    "quote": "製造業にとっては、ハイパフォーマンスかつ業務に最適な人員配置こそ、最大の技術戦略であり、同時に最良のコスト戦略となります",
-    "url": "https://www.meitec.co.jp/service/solutions.html",
-    "pass": 1
-   },
-   {
-    "quote": "製造業と共に生き、製造業と共に繁栄する",
-    "url": "https://www.meitec.co.jp/company/index.html",
-    "pass": 1
    },
    {
     "quote": "私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点とした「社員価値」「顧客価値」「株主価値」「社会価値」の5つの価値を持続的に向上させるため、「目指すべき姿」を定め取り組んでいます",
@@ -4036,23 +3537,8 @@
     "pass": 1
    },
    {
-    "quote": "エンジニア派遣業界は、技術開発志向の強い製造業におけるアウトソーシングニーズの拡大や、当該サービスの認知向上・定着・ユーザー層の拡大を背景に、その基盤が確立してきた業界です",
-    "url": "https://www.meitec.co.jp/company/index.html",
-    "pass": 1
-   },
-   {
-    "quote": "製造業と共に生き、製造業と共に繁栄する",
-    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
-    "pass": 1
-   },
-   {
-    "quote": "それは、決して最先端というだけではなく、その時代、その顧客、その製品にとって、なくてはならない要となる仕事でもあります",
-    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の技術革新において、「大事な、欠かせない」価値を創り出す存在であること",
-    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
+    "quote": "上場企業および優良中堅企業約1,300社",
+    "url": "https://www.meitec.co.jp/company/overview.html",
     "pass": 1
    },
    {
@@ -4061,9 +3547,54 @@
     "pass": 1
    },
    {
-    "quote": "3) 顧客価値",
+    "quote": "4) 株主価値",
     "url": "https://www.meitec.co.jp/company/principal.html",
     "pass": 1
+   },
+   {
+    "quote": "持続的な価値向上に基づく「健全な利益」を創出し、中長期的に株主還元を最大化します",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋証券取引所第2部上場",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所 第2部上場",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所 第1部に上場",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "障がい者雇用の特例子会社",
+    "url": "https://www.meitec.co.jp/company/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元・配当",
+    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主数（自己名義株式を含む） ： 28,478名",
+    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
+    "pass": 3
+   },
+   {
+    "quote": "大株主（上位10名）",
+    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主セグメント別保有状況",
+    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
+    "pass": 3
    },
    {
     "quote": "株主、顧客、社員の繁栄を実現していきます",
@@ -4071,28 +3602,43 @@
     "pass": 3
    },
    {
-    "quote": "日本を代表する大手メーカーの",
+    "quote": "名古屋証券取引所第2部上場",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所 第2部上場",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所 第1部に上場",
+    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益(百万円)",
+    "url": "https://www.meitecgroup-holdings.com/ja/ir/finance/highlight.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)メイテック 名古屋証券取引所第二部上場",
     "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3
    },
    {
-    "quote": "１｜豊富な選択肢≪大手・優良メーカーで経験を積める≫",
+    "quote": "(株)メイテック 東京証券取引所第二部上場",
     "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3
    },
    {
-    "quote": "＼あの有名企業も取引先！／先輩たちが多く配属されてます♪",
+    "quote": "(株)メイテック 東京証券取引所第一部上場",
     "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3
    },
    {
-    "quote": "■主要取引先TOP10（2026年3月期）",
+    "quote": "東京証券取引所 プライム市場に上場",
     "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社メイテックネクスト| 導入事例 | Daijob.com [ 法人様向け ]",
-    "url": "https://biz.daijob.com/casestudy/meitecnext",
     "pass": 3
    },
    {
@@ -4101,309 +3647,781 @@
     "pass": 3
    },
    {
-    "quote": "日本の製造業・IT業界の活性化のために人財面で支えている",
-    "url": "https://biz.daijob.com/casestudy/meitecnext",
-    "pass": 3
-   },
-   {
-    "quote": "導入事例 « 株式会社メイテック｜株式会社メイテック公式サイト",
-    "url": "https://www.mayteck.co.jp/case/",
-    "pass": 3
-   },
-   {
-    "quote": "自動車メーカーや精密機器メーカー等の工場の作業環境と製品の浄化、保護のために粉塵やダストを排除する機能製品、省人省力化の製品を開発、提供しています",
-    "url": "https://www.mayteck.co.jp/case/",
-    "pass": 3
-   },
-   {
-    "quote": "製品をご活用されている企業様の導入事例をご紹介します",
-    "url": "https://www.mayteck.co.jp/case/",
-    "pass": 3
-   },
-   {
-    "quote": "自動車塗装工場・自動車成形工場・建設機械工場 で実績あり",
-    "url": "https://www.mayteck.co.jp/case/",
-    "pass": 3
-   },
-   {
-    "quote": "電子器機工場・精密工場・プラスチック工場・印刷工場 で実績あり",
-    "url": "https://www.mayteck.co.jp/case/",
-    "pass": 3
-   },
-   {
-    "quote": "缶詰工場・製菓工場・冷凍食品工場・水産工場 で実績あり",
-    "url": "https://www.mayteck.co.jp/case/",
-    "pass": 3
-   },
-   {
-    "quote": "派遣・業務委託・採用代行 徹底比較（正社員以外の人材確保方法のすべて）｜製造業向けメイテック・ロボカル等14社【2026年5月更新】 | 半導体業界の即戦力人材ならロボカル",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "工場エンジニア求人のロボカルTOP",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "派遣・業務委託・採用代行 徹底比較（正社員以外の人材確保方法のすべて）｜製造業向けメイテック・ロボカル等14社【2026年5月更新】",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業の派遣・業務委託・採用代行は「派遣・業務委託・採用代行」の3カテゴリに分かれます",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "派遣はメイテック・テクノプロが二強、業務委託マッチングは製造業特化のロボカルと、IT・Web系向けのレバテックフリーランスを用途で使い分け、採用代行はマイナビ・キャスター・まるごと人事が代表です",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業の採用担当者に向け、派遣・業務委託・採用代行の主要14サービスを徹底比較します",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "派遣会社5社・業務委託マッチング5社・採用代行4社の合計14サービスを、製造業の文脈で横断比較します",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業の経営層・人事担当者からのご相談で多いのが、「即戦力エンジニアを早く確保したい",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業の標準構成は、派遣1社+業務委託2社+採用代行 1社の合計4社です",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "3つ目の「採用代行」は、製造業の人事担当者には馴染みが薄い言葉かもしれません",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "（製造業No.1）",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業エンジニアでは「無期雇用派遣(常用型)」を選べば3年ルール対象外で長期戦力化も可能です",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業の機電系エンジニアに特化したロボカルを起点に検討するのが最短ルートです",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "ベテラン技術者の業務委託活用（週2〜3稼働で技術伝承）も製造業で増えています",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業の標準構成パターン",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "売上10〜30億円の中堅製造業で、年間の採用ニーズが「現場5〜10名+専門エンジニア2〜3名+正社員採用支援」という想定の場合、標準構成は以下のような組み合わせになります",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業特化マッチング + レバテックフリーランス",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "合計4サービス前後の併用が、中堅製造業の現実解です",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業エンジニア派遣の二強は",
-    "url": "https://robokaru.jp/useful/675/",
-    "pass": 3
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "メイテック GHDの 売上高 1,377億円・推移27カ年 - The社史 — メイテック GHDの 売上高 1,377億円・推移27カ年 - The社史 The社史 https://the-shashi.com > tse > financials > sales",
-    "url": "https://the-shashi.com/tse/9744/financials/sales/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "株式会社 メイテック ／【東京23区/品川】 製造 DX領域における ... — 株式会社 メイテック ／【東京23区/品川】 製造 DX領域における ... リクルートエージェント https://www.r-agent.com > 東京都 > 東京23区 > 品川区",
-    "url": "https://www.r-agent.com/viewjob/jk50d8a22037ba4dbc/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "稼働率 | 業績・財務 | 投資家情報 — 稼働率 | 業績・財務 | 投資家情報 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > finance > rate",
-    "url": "https://www.meitecgroup-holdings.com/ja/ir/finance/rate.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "令和6年度 株式会社 メイテック フィルダーズ 派遣事業運営情報 ... — 令和6年度 株式会社 メイテック フィルダーズ 派遣事業運営情報 ... メイテックフィルダーズ PDF https://www.m-fielders.co.jp > cms > pdf > margin",
-    "url": "https://www.m-fielders.co.jp/cms/pdf/margin/01_utsunomiya_margin.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "メイテック グループ - X — メイテック グループ - X X https://x.com > @meitec_group",
-    "url": "https://x.com/meitec_group/status/2018202725977391376",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メイテック ～エンジニアリングソリューション 研究開発 ... — メイテック ～エンジニアリングソリューション 研究開発 ... meitec.co.jp https://www.meitec.co.jp",
-    "url": "https://www.meitec.co.jp/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メイテック グループホールディングス - 日本経済新聞 — メイテック グループホールディングス - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
-    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9744",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メイテック グループの本質 「Engineering Firm at The Core」 — メイテック グループの本質 「Engineering Firm at The Core」 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > group > essence",
-    "url": "https://www.meitecgroup-holdings.com/ja/group/essence.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【11月トップメッセージを公開】# メイテック 社長 の関口より ... — 【11月トップメッセージを公開】# メイテック 社長 の関口より ... Facebook https://www.facebook.com > meitec.group > posts > 11月...",
-    "url": "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式の状況 | 株式情報 | 投資家情報 — 株式の状況 | 株式情報 | 投資家情報 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > stock > basic",
-    "url": "https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html",
-    "pass": 3
-   },
-   {
-    "quote": "メイテック グループホールディングス【9744】の大 株主 情報 — メイテック グループホールディングス【9744】の大 株主 情報 株探 https://kabutan.jp > stock > holder",
-    "url": "https://kabutan.jp/stock/holder?code=9744",
-    "pass": 3
-   },
-   {
-    "quote": "グループ会社 - メイテック — グループ会社 - メイテック meitec.co.jp https://www.meitec.co.jp > company > group",
-    "url": "https://www.meitec.co.jp/company/group.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 メイテック グループホールディングス: ホーム — 株式会社 メイテック グループホールディングス: ホーム 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > ...",
-    "url": "https://www.meitecgroup-holdings.com/ja/index.html",
-    "pass": 3
-   },
-   {
-    "quote": "メイテック - Wikipedia — メイテック - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > メイテック",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
-    "pass": 3
-   },
-   {
-    "quote": "会社概要｜ メイテック ～エンジニアリングソリューション ... — 会社概要｜ メイテック ～エンジニアリングソリューション ... meitec.co.jp https://www.meitec.co.jp > company > overview",
-    "url": "https://www.meitec.co.jp/company/overview.html",
-    "pass": 3
-   },
-   {
-    "quote": "沿革 | 会社情報 - 株式会社メイテックグループホールディングス — 沿革 | 会社情報 - 株式会社メイテックグループホールディングス 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > history",
-    "url": "https://www.meitecgroup-holdings.com/ja/company/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "沿革 - メイテック — 沿革 - メイテック meitec.co.jp https://www.meitec.co.jp > company > overview > history",
-    "url": "https://www.meitec.co.jp/company/overview/history.html",
-    "pass": 3
-   },
-   {
-    "quote": "(株) メイテック 【技術職コース】の会社概要 | マイナビ2027 — (株) メイテック 【技術職コース】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp72008 > outline",
-    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "業績ハイライト | 業績・財務 | 投資家情報 — 業績ハイライト | 業績・財務 | 投資家情報 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > highlight",
-    "url": "https://www.meitecgroup-holdings.com/ja/ir/finance/highlight.html",
-    "pass": 3
-   },
-   {
-    "quote": "【 メイテック グループホールディングス】[9744]決算発表や ... — 【 メイテック グループホールディングス】[9744]決算発表や ... 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
-    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9744",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 メイテック ネクスト| 導入事例 - Daijob.com — 株式会社 メイテック ネクスト| 導入事例 - Daijob.com Daijob.com https://biz.daijob.com > casestudy > meitecnext",
-    "url": "https://biz.daijob.com/casestudy/meitecnext",
-    "pass": 3
-   },
-   {
-    "quote": "導入事例 - 株式会社メイテック — 導入事例 - 株式会社メイテック mayteck.co.jp https://www.mayteck.co.jp > case",
-    "url": "https://www.mayteck.co.jp/case/",
-    "pass": 3
-   },
-   {
-    "quote": "メイテック の新しい会社説明会動画が公開されました！「会社 ... — メイテック の新しい会社説明会動画が公開されました！「会社 ... Instagram https://www.instagram.com > ...",
-    "url": "https://www.instagram.com/p/CvtT02eMy1h/",
-    "pass": 3
-   },
-   {
-    "quote": "製品領域からソリューションを探す - メイテック — 製品領域からソリューションを探す - メイテック meitec.co.jp https://www.meitec.co.jp > service > product",
-    "url": "https://www.meitec.co.jp/service/product.html",
-    "pass": 3
-   },
-   {
-    "quote": "転職成功 事例 - メイテックネクスト — 転職成功 事例 - メイテックネクスト メイテックネクスト https://www.m-next.jp > success",
-    "url": "https://www.m-next.jp/success/",
-    "pass": 3
-   },
-   {
-    "quote": "派遣法に基づく情報提供 - メイテック — 派遣法に基づく情報提供 - メイテック meitec.co.jp https://www.meitec.co.jp > outsorcing > margin-rate",
-    "url": "https://www.meitec.co.jp/company/outsorcing/margin-rate.html",
-    "pass": 3
-   },
-   {
-    "quote": "紹介予定派遣 - 株式会社メイテックキャスト — 紹介予定派遣 - 株式会社メイテックキャスト 株式会社メイテックキャスト https://www.meitec-cast.co.jp > clients > service > detail",
-    "url": "https://www.meitec-cast.co.jp/clients/service/detail/id=734",
-    "pass": 3
-   },
-   {
-    "quote": "よくある質問 - メイテック健康保険組合 — よくある質問 - メイテック健康保険組合 メイテック健康保険組合 https://www.meitec-kenpo.jp > inm > faq",
-    "url": "https://www.meitec-kenpo.jp/inm/faq/",
-    "pass": 3
-   },
-   {
-    "quote": "【 メイテック 】の転職・求人・中途採用情報  doda（デューダ） — 【 メイテック 】の転職・求人・中途採用情報  doda（デューダ） doda https://doda.jp > View > JobSearchList > メイテック",
-    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_k__/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF/",
-    "pass": 3
-   },
-   {
-    "quote": "國分秀世さん（株式会社 メイテック 代表取締役 社長 ） - 日本の ... — 國分秀世さん（株式会社 メイテック 代表取締役 社長 ） - 日本の ... 日本の人事部『プロネット』 https://service.jinjibu.jp > article > detl > innovator",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
-    "pass": 3
-   },
-   {
-    "quote": "企業の価値をつくる」 メイテック グループ代表2名が語る、人 ... — 企業の価値をつくる」 メイテック グループ代表2名が語る、人 ... Governance Cloud https://www.governancecloud.jp > Voice > Users (お客様)",
+    "quote": "上場市場：東証プライム",
     "url": "https://www.governancecloud.jp/voice/meitecholdings/",
     "pass": 3
    },
    {
-    "quote": "トップメッセージ - メイテック — トップメッセージ - メイテック meitec.co.jp https://www.meitec.co.jp > sustainability > greeting",
-    "url": "https://www.meitec.co.jp/sustainability/greeting/index.html",
+    "quote": "グループ全体としてはエンジニア価値・社員価値・顧客価値・株主価値・社会価値の『5つの価値』を掲げています",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
     "pass": 3
    },
    {
-    "quote": "【11月トップメッセージを公開】# メイテック 社長 の関口より ... — 【11月トップメッセージを公開】# メイテック 社長 の関口より ... Instagram https://www.instagram.com > DfOnQiigWZd",
-    "url": "https://www.instagram.com/p/DfOnQiigWZd/",
+    "quote": "上場企業で10年コーポレート担当取締役を務め、投資家とのコミュニケーション、取締役会事務局、常勤取締役の立場を経験",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに現在は別の上場企業で独立社外取締役・指名報酬委員会委員長を務め、取締役会に関わるあらゆる立場を内側から知る",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "「DOE（株主資本配当率）5%を下限とする配当方針」",
+    "url": "https://note.com/deft_knot1002/n/n12e071618740",
+    "pass": 3
+   },
+   {
+    "quote": "筆者はメイテックグループHDの「エンジニア数業界首位約6,000名」「ROE 31.31%という極めて高い資本効率」「配当利回り5.45%という高水準の株主還元」に強い関心を持っている",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益37億円（同+0.6%）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益150.51億円（同+18.1%、大幅増益）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "海外子会社：臺灣阿爾卑斯技研、阿邇貝司機電技術（上海）、ミャンマーアルプス技研",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "ROE 19.4%、配当利回り約4.4%という高水準の資本効率と株主還元",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "：2026年12月期に売上高555億円、営業利益57億円、経常利益58億円、親会社株主に帰属する当期純利益38億円、",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "須藤新社長は1988年当社入社、子会社デジタル・スパイス代表取締役社長、DONKEY代表取締役社長を歴任した経歴",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "連結子会社6社で構成",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "ROE 31.31%、PBR 5.77倍、配当利回り5.45%という極めて高水準の資本効率と株主還元",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "海外子会社も台湾・上海・ミャンマーと幅広く展開",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "両社とも増配傾向継続、株主還元拡充",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "2. 配当利回り5.45%という高水準の株主還元",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "1株配当181円（中間90+期末91）の継続的増配と、配当利回り5.45%は、日本の上場企業全体で見ても上位水準",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "アウトソーシング（非上場化、2023年MBO実施）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   },
+   {
+    "quote": "：かつての技術者派遣大手、現在は非上場",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "メイテック グループ - X メイテック グループ - X X https://x.com > @meitec_group",
+    "url": "https://x.com/meitec_group/status/2117134611461648775/photo/1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "メイテック グループ (@meitec_group) / X メイテック グループ (@meitec_group) / X X https://x.com > meitec_group",
+    "url": "https://x.com/meitec_group",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by メイテック グループ (@meitec_group) / X Reposts by メイテック グループ (@meitec_group) / X X https://x.com > meitec_group > reposts",
+    "url": "https://x.com/meitec_group/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "メイテック グループ - X メイテック グループ - X X https://x.com > @meitec_group",
+    "url": "https://x.com/meitec_group/status/2044974128499970220",
+    "pass": 3
+   },
+   {
+    "quote": "メイテック グループ - X メイテック グループ - X X https://x.com > @meitec_group",
+    "url": "https://x.com/meitec_group/status/2018202725977391376",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "今回メイテック社が運営するエンジニアのキャリアを応援するメディア「fabcross forエンジニア」に、「働き方」や「キャリア形成」の事例紹介したいと、弊社機械設計エンジニアの若手社員インタビューが行われました",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回は、そのインタビューの様子と、インタビュアーのメイテック様に「チャレナジーの印象」について逆質問した際の様子についての記事をお届けします",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "１．メイテック社による社員インタビューの様子",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回、解析をメインに担当する機械設計エンジニアと、マイクロ風車の設計をメインに担当する機械設計エンジニアの2名に対する2時間程度のインタビューでした",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インタビューの詳細は、下記URLよりご覧下さい",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "２． メイテック社への逆インタビュー",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インタビュー終了後、私たちからメイテック社へ逆インタビューさせて頂きました",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "弊社からも”逆”インタビューさせてください",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、脱炭素革命の中で日本を新たな水素エネルギー大国にしたいという代表 清水さんの記事を読んだことがあり、そういった",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、さきほどインタビューさせて頂いたお2人とも、もちろん大変な部分もあると思いますが、裁量が大きく、本当に楽しそうに働いている点は、仕事内容や働き方の部分でも面白みがある会社だと感じました",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "先ほどのインタビューでも簡単そうに答えられていましたが、実際に取り組まれている仕事は深く考えながら幅広く仕事をされていると見受けられました",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回の取材インタビューでアマテラス社・クリーンタレントハブ社に続いて3社目となります",
+    "url": "https://note.com/challenergy/n/ne62e8fd0d8be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "派遣はメイテック・テクノプロが二強、業務委託マッチングは製造業特化のロボカルと、IT・Web系向けのレバテックフリーランスを用途で使い分け、採用代行はマイナビ・キャスター・まるごと人事が代表です",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用代行はマイナビ採用代行・リクルート採用代行・キャスター(CASTER BIZ recruiting)・まるごと人事の4社が代表です",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まるごと人事 ── 成長企業向け採用代行の代表格",
+    "url": "https://robokaru.jp/useful/675/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビュー：國分秀世さん（株式会社メイテック 代表取締役社長） - 日本の人事部『プロネット』",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "國分秀世さん（株式会社メイテック 代表取締役社長）",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "國分社長が考える人材サービス業界の未来とは？",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HRソリューション業界TOPインタビューのバックナンバー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "奥山貴広さん（株式会社ギークリー 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中島悠揮さん（HRクラウド株式会社 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用AIエージェント「採用一括かんりくん」を展開する、HRクラウド株式会社 代表取締役社長の中島悠揮さんは、自らの歩みを「圧倒的な量の積み上げ」だったと語ります...",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三坂健さん（株式会社HRインスティテュート 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "林徹郎さん（株式会社ワークポート 代表取締役社長 COO）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2003年に株式会社ワークポートを仲間とともに創業し、リーマン・ショックという会社存続の危機を「仕組み化」と「決断」で乗り越えてきた、代表取締役社長COO・林徹...",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "古田直裕さん（縄文アソシエイツ株式会社 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "縄文アソシエイツ株式会社の代表取締役社長・古田直裕さんのキャリアは、常に「多数派への疑義」と「独自の合理性」に貫かれています",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HRソリューション業界TOPインタビュー バックナンバー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "岡本祥治さん（株式会社みらいワークス 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HR業界の代表的な業界団体をご紹介いたします",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「エンジニアの成長が、企業の価値をつくる」─メイテックグループ代表2名が語る、人と技術に向き合い続ける50年の軌跡と未来 -役員会DX「Governance Cloud」",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「エンジニアの成長が、企業の価値をつくる」─メイテックグループ代表2名が語る、人と技術に向き合い続ける50年の軌跡と未来",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社メイテック 代表取締役社長・関口晃介氏",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社メイテックフィルダーズ 代表取締役社長・板倉光朋氏",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社メイテック 代表取締役社長 関口 晃介氏",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社メイテックフィルダーズ 代表取締役社長 板倉 光朋氏",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q. 社長は何代目ですか？また、バトンが受け継がれてきた背景についても教えてください",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "グループ会社であるメイテックネクストへ異動し人材紹介事業に携わった後、再びメイテックに戻ってからは、営業のみならず、人事・採用・広報・社長室といった本社部門を経験",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社の取締役を経験したのち、2025年1月より株式会社メイテックフィルダーズの代表取締役社長を務めています",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "板倉と同じく2025年1月より、株式会社メイテックの代表取締役社長に就任しています",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私で5代目の社長になります",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「人材こそが価値」という言葉を、メイテックグループの両社長は一貫して語っていらっしゃいました",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "50年に渡り競争力を維持する理由は、本質的な価値を追求する姿勢とそれを実現する仕組みにあると実感するインタビューでした",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上村はじめ｜ガバナンスクラウド株式会社 代表取締役・公認会計士",
+    "url": "https://www.governancecloud.jp/voice/meitecholdings/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "両社ともに技術者派遣（エンジニアアウトソーシング）を主力とする日本の代表的な人材サービス企業です",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "両社とも社長交代の影響と新中計の実行力が試されるフェーズで、特にアルプス技研は2025年3月の社長交代直後で新体制の手腕が問われる",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年3月の社長交代後の新体制での中計実行力",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年3月26日付で社長交代",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "須藤泰志氏（新社長、1962年生）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "須藤新社長は1988年当社入社、子会社デジタル・スパイス代表取締役社長、DONKEY代表取締役社長を歴任した経歴",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "関口晃介氏：(株)メイテック代表取締役社長（執行役員）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "板倉光朋氏：(株)メイテックフィルダーズ代表取締役社長（執行役員）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アルプス技研の社長交代（2025年3月）による新体制の手腕次第で、業績モメンタムの加速余地がある",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年3月の社長交代後の新体制での中計実行力（須藤泰志新社長）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年3月に須藤泰志氏が新社長に就任、第12次5ヵ年計画のもとで創業60周年（2028年）に向けた新たな成長戦略を推進中",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上村正人社長兼グループCEO体制で、2026/3期に純利益+18.1%の大幅増益を達成し、配当利回り5.45%、ROE 31.31%、PBR 5.77倍という極めて高い評価を獲得",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アルプス技研「代表取締役の異動（社長交代）に関するお知らせ」（2024年11月12日）",
+    "url": "https://note.com/kabutabi2000/n/n05d4c5e87818",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【重要なお知らせ】当社グループ会社の代表者名を騙った不審なメールについて",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー｜メイテック ～エンジニアリングソリューション 研究開発・設計プロのエンジニア～",
+    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
+    "pass": 1
+   },
+   {
+    "quote": "「分かりやすい言葉」で語ることから",
+    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/service/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/service/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/service/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/service/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/service/technology.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/service/technology.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/service/solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/service/solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "車車間、路車間を代表とするV2Xに関わる通信モジュール開発、ソフトウェア開発",
+    "url": "https://www.meitec.co.jp/service/solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア®インタビュー",
+    "url": "https://www.meitec.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 関口 晃介",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/company/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/company/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/news/20261009.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/news/20261009.html",
+    "pass": 1
+   },
+   {
+    "quote": "第1部の式典では、採用通知書授与や内定者代表による決意表明を実施",
+    "url": "https://www.meitec.co.jp/news/20261009.html",
+    "pass": 1
+   },
+   {
+    "quote": "社長の関口から内定者の皆さんへ、「メイテックは『人と技術で時代を拓く』という理念のもと、多くの課題を技術力で突破し、日本のものづくりを支えてきました",
+    "url": "https://www.meitec.co.jp/news/20261009.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/news/20260527_2.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/news/20260527_2.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/261102.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/261102.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/261102.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/news/20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/news/20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/261001.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/261001.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/261001.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/260901.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/260901.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長",
+    "url": "https://www.meitec.co.jp/sustainability/greeting/260901.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/news/261005.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/news/261005.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/news/20250417.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/news/20250417.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアインタビュー",
+    "url": "https://www.meitec.co.jp/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生涯プロエンジニア（R）インタビュー",
+    "url": "https://www.meitec.co.jp/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本を代表する大手メーカーの",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長 関口 晃介",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://www.meitec-cast.co.jp/clients/service/detail/id=734",
     "pass": 3
    }
   ]
@@ -4590,9 +4608,9 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kazuki04231203/n/n1aa787a14c0f",
+    "url": "https://www.meitec-kenpo.jp/inm/faq/",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://service.jinjibu.jp/article/detl/innovator/1539/3/",
@@ -4645,12 +4663,12 @@
     "method": ""
    },
    {
-    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA",
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -4690,7 +4708,7 @@
     "method": ""
    },
    {
-    "url": "https://www.facebook.com/meitec.group/",
+    "url": "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
     "status": "robots_disallowed",
     "method": ""
    }
@@ -4707,12 +4725,12 @@
     "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
     "https://www.buffett-code.com/company/9744/mainshareholder",
     "https://www.nikkei.com/nkd/company/stockholder/?scode=9744",
-    "https://irbank.net/E04804/ac",
     "https://www.m-next.jp/company/",
-    "https://www.kabutore.biz/genzaikabuka/okabunushi9744.html"
+    "https://irbank.net/E04804/ac",
+    "https://ja.wikipedia.org/wiki/メイテック"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -4724,18 +4742,18 @@
     "https://www.meitec.co.jp/company/overview/history.html",
     "https://www.meitecgroup-holdings.com/ja/company/history.html",
     "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
-    "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "https://www.m-fielders.co.jp/company/fact/",
+    "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "https://the-shashi.com/tse/9744/",
     "https://www.m-next.jp/company/",
-    "https://metoree.com/companies/18322/",
-    "https://ja.wikipedia.org/wiki/メイテック"
+    "https://ja.wikipedia.org/wiki/メイテック",
+    "https://www.meitecgroup-holdings.com/ja/company/outline.html"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 12
+   "n_hits": 11
   },
   {
    "query": "メイテック 売上高 OR 年商",
@@ -4744,15 +4762,15 @@
     "https://www.meitecgroup-holdings.com/ja/ir/finance/highlight.html",
     "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "https://www.nikkei.com/nkd/company/kessan/?scode=9744",
-    "https://the-shashi.com/tse/9744/financials/sales/",
     "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
-    "https://www.advance-news.co.jp/news/2026/05/post-5129.html",
+    "https://the-shashi.com/tse/9744/financials/sales/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251030/20251029581711.pdf",
     "https://www.meitecgroup-holdings.com/ja/group/numbers.html",
     "https://catr.jp/companies/fcb88/77060/settlements/a44d8/412747",
     "https://job.mynavi.jp/28/pc/search/corp70580/outline.html"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -4775,27 +4793,28 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "メイテック 料金",
    "results": [
     "https://www.meitec.co.jp/company/outsorcing/margin-rate.html",
     "https://www.meitec-cast.co.jp/clients/service/detail/id=734",
-    "https://note.com/kazuki04231203/n/n1aa787a14c0f",
     "https://www.meitec-kenpo.jp/inm/faq/",
-    "https://www.m-fielders.co.jp/cms/pdf/margin/01_utsunomiya_margin.pdf",
-    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9744",
     "https://www.meitecgroup-holdings.com/ja/ir/finance/rate.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9744",
     "https://haken.en-japan.com/c_573/",
+    "https://job.mynavi.jp/28/pc/search/corp72008/outline.html",
+    "https://www.hatalike.jp/viewjob/c323f63105cc9574/",
     "https://ja.wikipedia.org/wiki/メイテック",
     "https://meetsmore.com/products/meitec"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 15
   },
   {
    "query": "メイテック 社長 インタビュー",
@@ -4804,15 +4823,15 @@
     "https://www.governancecloud.jp/voice/meitecholdings/",
     "https://www.meitec.co.jp/sustainability/greeting/index.html",
     "https://www.instagram.com/p/DfOnQiigWZd/",
-    "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
-    "https://x.com/meitec_group/status/2018202725977391376",
+    "https://x.com/meitec_group/status/2039221219678113793",
     "https://hrbc.porters.jp/magazine/special_detail/id=692",
+    "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
     "https://www.nikkan.co.jp/articles/view/201730",
     "https://the-shashi.com/tse/9744/",
     "https://takuwil.spool.co.jp/column/article/株式会社メイテック-元中国現地法人-取締役社長が/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -4832,10 +4851,10 @@
     "https://note.com/devlife_hacks/n/n17b9cefb9aaf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 17
   },
   {
    "query": "site:x.com メイテック",
@@ -4846,36 +4865,36 @@
     "https://x.com/meitec_group/status/2117134611461648775/photo/1",
     "https://x.com/meitec_group/status/2112740659165618334/photo/1",
     "https://x.com/meitec_group/status/1951115690800292314",
-    "https://x.com/meitec_group/status/2039221219678113793",
     "https://x.com/meitec_group/status/2108029629843796428",
     "https://x.com/meitec_group/status/2105900587820941641",
-    "https://x.com/meitec_group/status/2115689012669399246"
+    "https://x.com/meitec_group/status/2115689012669399246",
+    "https://x.com/meitec_group/status/1876101423966142942"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "site:linkedin.com メイテック",
    "results": [
-    "https://www.linkedin.com/company/meitec-corporation01",
     "https://jp.linkedin.com/company/meitec-corporation01?trk=ppro_cprof",
-    "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
+    "https://www.linkedin.com/company/meitec-corporation01",
     "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA",
+    "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
     "https://www.linkedin.com/company/meitec-inc",
-    "https://jp.linkedin.com/company/meitec-next-corporation",
     "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
+    "https://jp.linkedin.com/company/meitec-next-corporation",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA",
     "https://es.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF",
-    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%BA%BA%E4%BA%8B%E9%83%A8%E9%95%B7%E5%80%99%E8%A3%9C%E3%80%91%E6%9D%B1%E8%A8%BC%E4%B8%8A%E5%A0%B4%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E7%A4%BE%E9%95%B7%E3%83%BB%E5%BD%B9%E5%93%A1%E7%9B%B4%E4%B8%8B%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3-%E7%B5%84%E7%B9%94%E6%88%A6%E7%95%A5%E3%82%84%E5%8A%B4%E4%BD%BF%E4%BA%A4%E6%B8%89%E3%82%92%E3%81%8A%E4%BB%BB%E3%81%9B-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4481230405",
     "https://jp.linkedin.com/company/（株）メイテック"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "site:facebook.com メイテック",
@@ -4884,11 +4903,11 @@
     "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
     "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%84%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%95%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%865days%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%A7%E3%81%99%E5%AF%BE%E8%B1%A1%E3%81%AF2028%E5%B9%B4%E6%96%B0%E5%8D%92%E3%81%AB%E3%81%82%E3%81%9F%E3%82%8B%E5%AD%A6%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E6%9D%B1%E4%BA%AC%E4%BC%9A%E5%A0%B4%E3%82%92%E7%9A%AE%E5%88%87%E3%82%8A%E3%81%AB/1532808762205863/",
     "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E5%86%85%E5%AE%9A%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%881%E6%97%A52027%E5%B9%B4%E5%BA%A6%E6%96%B0%E5%8D%92%E3%81%AE%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E5%9F%B7%E3%82%8A%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%81%AF%E5%BD%93%E7%A4%BE%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A292%E5%90%8D%E3%81%8C%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E3%81%8B%E3%82%89%E5%8F%82%E5%8A%A0%E4%BC%9A%E5%A0%B4%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9Fana%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%81%E3%83%8D%E3%83%B3%E3%82%BF/1558877909598948/",
-    "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA%E5%86%85%E5%AE%9A%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%883%E6%97%A5%E6%9D%A5%E6%98%A5%E5%85%A5%E7%A4%BE%E4%BA%88%E5%AE%9A%E3%81%AE%E5%86%85%E5%AE%9A%E8%80%85%E3%82%92%E8%BF%8E%E3%81%88%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%BD%93%E6%97%A5%E3%81%AE%E6%A7%98%E5%AD%90%E3%82%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%82%92%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0/1577585884394817/",
-    "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%81%AE11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E5%85%B1%E3%81%AB%E6%94%AF%E3%81%88%E5%90%88%E3%81%84%E5%85%B1%E3%81%AB%E9%AB%98%E3%82%81%E5%90%88%E3%81%86%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E9%9B%86%E5%9B%A3%E3%81%B8%E7%A4%BE/1274656731354402/",
-    "https://www.facebook.com/meitec.group/photos/%E3%83%99%E3%83%86%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%92%E7%B4%B9%E4%BB%8Bhttpsrecruitmeiteccojpmfcareerworkyamanaka_nagoyahtml%E5%B1%B1%E4%B8%AD-%E6%94%BF%E5%BE%B3%E3%81%AF%E5%89%8D%E8%81%B7%E5%B7%A5%E4%BD%9C/1042833637870047/",
-    "https://www.facebook.com/meitec.group/photos/1393650662788341/",
     "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E3%81%A7%E3%81%AF%E5%8B%A4%E7%B6%9A20%E5%B9%B425%E5%B9%B430%E5%B9%B435%E5%B9%B440%E5%B9%B445%E5%B9%B4%E3%81%8A%E3%82%88%E3%81%B3%E5%AE%9A%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E7%A4%BE%E5%93%A1%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%AB%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E6%B4%BB%E8%BA%8D%E3%82%84%E7%A4%BE%E6%A5%AD%E7%99%BA%E5%B1%95%E3%81%B8%E3%81%AE%E5%B0%BD%E5%8A%9B%E3%81%A8%E5%8A%9F%E7%B8%BE%E3%82%92%E7%A7%B0%E3%81%88%E3%82%8B%E8%A1%A8%E5%BD%B0%E5%BC%8F%E3%82%92%E6%AF%8E%E5%B9%B4%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9920/1464773949009345/",
+    "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%81%AE11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E5%85%B1%E3%81%AB%E6%94%AF%E3%81%88%E5%90%88%E3%81%84%E5%85%B1%E3%81%AB%E9%AB%98%E3%82%81%E5%90%88%E3%81%86%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E9%9B%86%E5%9B%A3%E3%81%B8%E7%A4%BE/1274656731354402/",
+    "https://www.facebook.com/meitec.group/photos/1393650662788341/",
+    "https://www.facebook.com/meitec.group/posts/%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA%E5%86%85%E5%AE%9A%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%883%E6%97%A5%E6%9D%A5%E6%98%A5%E5%85%A5%E7%A4%BE%E4%BA%88%E5%AE%9A%E3%81%AE%E5%86%85%E5%AE%9A%E8%80%85%E3%82%92%E8%BF%8E%E3%81%88%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%BD%93%E6%97%A5%E3%81%AE%E6%A7%98%E5%AD%90%E3%82%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%82%92%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0/1577585884394817/",
+    "https://www.facebook.com/meitec.group/photos/%E3%83%99%E3%83%86%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%92%E7%B4%B9%E4%BB%8Bhttpsrecruitmeiteccojpmfcareerworkyamanaka_nagoyahtml%E5%B1%B1%E4%B8%AD-%E6%94%BF%E5%BE%B3%E3%81%AF%E5%89%8D%E8%81%B7%E5%B7%A5%E4%BD%9C/1042833637870047/",
     "https://www.facebook.com/maytech/"
    ],
    "engines": [
@@ -4908,28 +4927,28 @@
     "https://x.com/meitec_group/status/2117134611461648775/photo/1",
     "https://www.m-next.jp/knowledge/note/",
     "https://www.meitec-cast.co.jp/service/message/",
-    "https://ja.wikipedia.org/wiki/メイテック",
-    "https://open-keieisha-db.com/executives/sekiguchi-kosuke"
+    "https://open-keieisha-db.com/executives/sekiguchi-kosuke",
+    "https://www.governancecloud.jp/voice/meitecholdings/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "メイテック X 投稿",
    "results": [
     "https://x.com/meitec_group",
     "https://www.instagram.com/p/CPj8ve0DAx0/",
-    "https://www.facebook.com/meitec.group/",
+    "https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/",
     "https://www.meitec.co.jp/news/newsrelease/2026.html",
     "https://www.openwork.jp/company.php?m_id=a0910000000Fs03",
     "https://x.com/meitec_group/status/2044974128499970220",
     "https://www.meitecgroup-holdings.com/ja/news.html",
     "https://www.governancecloud.jp/voice/meitecholdings/",
     "https://syukatsu-kaigi.jp/companies/74484",
-    "https://x.com/platypus2000jp/status/2106722623984193565"
+    "https://finance.yahoo.co.jp/quote/9744.T/forum"
    ],
    "engines": [
     "ddgs:google",
@@ -4945,13 +4964,27 @@
  "new_this_run": {
   "検索結果の抜粋": [
    {
-    "quote": "メイテック GHDの 売上高 1,377億円・推移27カ年 - The社史 — メイテック GHDの 売上高 1,377億円・推移27カ年 - The社史 The社史 https://the-shashi.com > tse > financials > sales",
-    "url": "https://the-shashi.com/tse/9744/financials/sales/",
+    "quote": "会社概要 | エンジニア派遣の メイテック フィルダーズ — 会社概要 | エンジニア派遣の メイテック フィルダーズ メイテックフィルダーズ https://www.m-fielders.co.jp > company > fact",
+    "url": "https://www.m-fielders.co.jp/company/fact/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "メイテック グループ - X — メイテック グループ - X X https://x.com > @meitec_group",
+    "url": "https://x.com/meitec_group/status/2039221219678113793",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "サンワテクノス(株) 【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72008/outline.html",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-04T14:59:36.827287+00:00"
 }
