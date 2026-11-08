@@ -8,100 +8,8 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T00:41:33.485553+00:00",
+ "researched_at": "2026-11-08T07:21:00.582247+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この記事では、初心者でも取り組みやすい7つの検証方法を解説します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIが提示した出典を検証する7つの方法",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "方法3：資料名・著者・発行年を照合する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ3：検証結果を整理する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは、今回紹介する検証方法の中でも特に重要です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "※これは検証方法を説明するための架空の例です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際のアプリや検証実験の結果ではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "必要に応じて第三者による検証記事も参考にします",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "※以下の主張は検証手順を説明するために設定したものです",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検証作業を終えたら、確認できた範囲を記録します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "特に注意したいのは、3つ目の「出典と説明が一致しない」問題です",
@@ -170,9 +78,87 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "公的な認証制度や学術的な評価スコアではありません",
+    "quote": "ステップ3：検証結果を整理する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "出典の確認結果を4段階で判断する方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、AIが次のように回答したとします",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際のアプリや検証実験の結果ではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「最大30％改善」と「平均30％改善」では意味が異なります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、2026年4月に新制度が発表されたとしても、実際の開始日が同年10月である可能性があります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、ある企業の新機能について調べるなら、公式発表、公式マニュアル、更新履歴などを確認します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検索結果が見つからない場合も、すぐに架空の論文と決めつけないようにしましょう",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同じ公式ヘルプでは、検索結果や引用が不完全、古い、または誤っている場合があることも案内されています",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、出典を検索しても見つからなかっただけなら、原則としてCの「未確認」に分類します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日付、数値、料金、制度、研究結果、引用を抽出し、可能な範囲で一次資料と照合してください",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、AIが「あるサービスの月額料金は980円」と説明していた場合、企業のトップページを紹介するだけでは十分ではありません",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -184,25 +170,25 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Document processing begins with text extraction using PyMuPDF",
+    "quote": "Our 4-class taxonomy represents a fundamental contribution to citation verification methodology, providing nuanced assessment beyond traditional binary approaches. The classification scheme follows a logical progression from fully supported to unsupported citations, with an uncertainty class capturing ambiguous cases where clear determination cannot be made. Figure",
     "url": "https://arxiv.org/html/2511.16198v1",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "PyMuPDF Documentation: https://github.com/pymupdf/PyMuPDF",
+    "quote": "Furthermore, the inclusion of an UNCERTAIN category acknowledges inherent limitations in automated analysis, providing transparent handling of ambiguous cases rather than forcing potentially incorrect binary decisions. This approach enhances system trustworthiness by explicitly flagging cases requiring human judgment whilst maintaining high confidence in clear-cut classifications.",
     "url": "https://arxiv.org/html/2511.16198v1",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "for PDF files, followed by recursive text splitting into 512-character chunks with 50-character overlap. The chunking strategy employs hierarchical separators including paragraph breaks, sentences, punctuation, and whitespace to maintain semantic coherence whilst ensuring manageable sizes for retrieval operations.",
+    "quote": "We evaluated three fine-tuned Qwen3 models (1.7B, 4B, 8B parameters) using QLoRA techniques on a stratified test set of 112 examples. Models were assessed across both preprocessing and classification tasks, with preprocessing involving citation text cleaning and standardization, while classification represents the primary citation verification task.",
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The system’s ability to detect subtle citation issues through the PARTIALLY SUPPORTED category addresses a critical gap in existing verification approaches. These cases often require minor corrections that substantially improve citation accuracy without major manuscript revisions.",
     "url": "https://arxiv.org/html/2511.16198v1",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -390,7 +376,37 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "実例": [
+  "突き合わせ・推定": [
+   {
+    "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、初心者でも取り組みやすい7つの検証方法を解説します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIが提示した出典を検証する7つの方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "方法3：資料名・著者・発行年を照合する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "ステップ3：検証結果を整理する",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
@@ -398,25 +414,13 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "出典の確認結果を4段階で判断する方法",
+    "quote": "これは、今回紹介する検証方法の中でも特に重要です",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば、AIが次のように回答したとします",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
+    "quote": "※これは検証方法を説明するための架空の例です",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -428,49 +432,45 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば「最大30％改善」と「平均30％改善」では意味が異なります",
+    "quote": "必要に応じて第三者による検証記事も参考にします",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば、2026年4月に新制度が発表されたとしても、実際の開始日が同年10月である可能性があります",
+    "quote": "論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば、ある企業の新機能について調べるなら、公式発表、公式マニュアル、更新履歴などを確認します",
+    "quote": "ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "検索結果が見つからない場合も、すぐに架空の論文と決めつけないようにしましょう",
+    "quote": "※以下の主張は検証手順を説明するために設定したものです",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "同じ公式ヘルプでは、検索結果や引用が不完全、古い、または誤っている場合があることも案内されています",
+    "quote": "検証作業を終えたら、確認できた範囲を記録します",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば、出典を検索しても見つからなかっただけなら、原則としてCの「未確認」に分類します",
+    "quote": "元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
-   },
+   }
+  ],
+  "一次情報の探し方": [
    {
-    "quote": "日付、数値、料金、制度、研究結果、引用を抽出し、可能な範囲で一次資料と照合してください",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、AIが「あるサービスの月額料金は980円」と説明していた場合、企業のトップページを紹介するだけでは十分ではありません",
+    "quote": "公的な認証制度や学術的な評価スコアではありません",
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -482,25 +482,25 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Our 4-class taxonomy represents a fundamental contribution to citation verification methodology, providing nuanced assessment beyond traditional binary approaches. The classification scheme follows a logical progression from fully supported to unsupported citations, with an uncertainty class capturing ambiguous cases where clear determination cannot be made. Figure",
+    "quote": "AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Document processing begins with text extraction using PyMuPDF",
     "url": "https://arxiv.org/html/2511.16198v1",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Furthermore, the inclusion of an UNCERTAIN category acknowledges inherent limitations in automated analysis, providing transparent handling of ambiguous cases rather than forcing potentially incorrect binary decisions. This approach enhances system trustworthiness by explicitly flagging cases requiring human judgment whilst maintaining high confidence in clear-cut classifications.",
+    "quote": "PyMuPDF Documentation: https://github.com/pymupdf/PyMuPDF",
     "url": "https://arxiv.org/html/2511.16198v1",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "We evaluated three fine-tuned Qwen3 models (1.7B, 4B, 8B parameters) using QLoRA techniques on a stratified test set of 112 examples. Models were assessed across both preprocessing and classification tasks, with preprocessing involving citation text cleaning and standardization, while classification represents the primary citation verification task.",
-    "url": "https://arxiv.org/html/2511.16198v1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The system’s ability to detect subtle citation issues through the PARTIALLY SUPPORTED category addresses a critical gap in existing verification approaches. These cases often require minor corrections that substantially improve citation accuracy without major manuscript revisions.",
+    "quote": "for PDF files, followed by recursive text splitting into 512-character chunks with 50-character overlap. The chunking strategy employs hierarchical separators including paragraph breaks, sentences, punctuation, and whitespace to maintain semantic coherence whilst ensuring manageable sizes for retrieval operations.",
     "url": "https://arxiv.org/html/2511.16198v1",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -511,84 +511,154 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+    "url": "https://note.com/prizma/n/ne560da3ed5b0",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.britannica.com/technology/artificial-intelligence",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "url": "https://note.com/44310_morikawa/n/n94e83d3320b7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
+    "url": "https://note.com/ano_insight/n/n61fe97813b62",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://openai.com/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://gemini.google.com/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://search.google/ways-to-search/ai-mode/",
+    "url": "https://note.com/copymonitor/n/nf53b89ccf753",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://aistudio.google.com/welcome",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "url": "https://note.com/naruhiko_007/n/n5ad8b8d68046",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.perplexity.ai/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://dictionary.cambridge.org/dictionary/english/verifying",
+    "url": "https://note.com/quirky_frog4014/n/nbf645fbec8f6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dictionary.cambridge.org/us/dictionary/english/verifying",
+    "url": "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.merriam-webster.com/thesaurus/verifying",
-    "status": "http_403",
-    "method": "http"
+    "url": "https://www.reddit.com/r/Professors/comments/1mpr20e/checking_citations_and_references_to_counter_ai/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://www.vocabulary.com/dictionary/verifying",
+    "url": "https://note.com/psycholo_studio/n/nffe4c1b6f9b9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ieltslounge.com/verifying-or-verifing/",
+    "url": "https://note.com/gen_ai/n/nfbcbbd6add38",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.thesaurus.com/browse/verifying",
+    "url": "https://note.com/outdoorlifestyle/n/nd5dd4e8dbef3",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://young-bush.com/column/ai-article-citation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pangram.com/ja/blog/did-ai-write-this",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.lib.miyazaki-u.ac.jp/pathfinder/AcademicWriting/GenerativeAI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-kb.is.s.u-tokyo.ac.jp/~koba/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guide.m3dc.co.jp/trend_ai-search-engine-for-thesis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibooks-japan.com/info5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://paperpal.com/ja/tools/ai-for-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kugspro.adm.kanazawa-u.ac.jp/?page_id=2365",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yusukexz777/n/nddf2a3e1ae69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cyber-intelligence.co.jp/blog/post-22173/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://netamemo.com/ai-source-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.consensus.app/use-cases/citation-verification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litsource.net/verify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academy.evalcommunity.com/avoid-fake-citations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gptzero.me/sources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ResearchML/comments/1xccnmy/how_do_you_verify_ai_citations_when_the_sources/",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -596,208 +666,245 @@
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） site:note.com",
    "results": [
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome",
-    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
-    "https://www.perplexity.ai/"
+    "https://note.com/prizma/n/ne560da3ed5b0",
+    "https://note.com/44310_morikawa/n/n94e83d3320b7",
+    "https://note.com/ano_insight/n/n61fe97813b62",
+    "https://note.com/copymonitor/n/nf53b89ccf753",
+    "https://note.com/naruhiko_007/n/n5ad8b8d68046",
+    "https://note.com/quirky_frog4014/n/nbf645fbec8f6",
+    "https://note.com/kazushinakamura/n/n0415c71f886c",
+    "https://note.com/motoharusumi/n/nae69efaebbaa",
+    "https://note.com/ai_remote_worker/n/n67aa12700b60",
+    "https://note.com/pisces2929/n/n58781c7416a9"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） note",
    "results": [
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
-    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
-    "https://www.perplexity.ai/"
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://www.reddit.com/r/Professors/comments/1mpr20e/checking_citations_and_references_to_counter_ai/?tl=ja",
+    "https://note.com/psycholo_studio/n/nffe4c1b6f9b9",
+    "https://note.com/prizma/n/ne560da3ed5b0",
+    "https://note.com/gen_ai/n/nfbcbbd6add38",
+    "https://note.com/outdoorlifestyle/n/nd5dd4e8dbef3",
+    "https://note.com/copymonitor/n/nf53b89ccf753",
+    "https://young-bush.com/column/ai-article-citation/",
+    "https://note.com/noa_notexai/n/n195b6390aa09",
+    "https://note.com/aoao_ai/n/nab3ac1fa7a16"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 15
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） やり方",
    "results": [
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
-    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
-    "https://www.perplexity.ai/"
+    "https://www.reddit.com/r/Professors/comments/1mpr20e/checking_citations_and_references_to_counter_ai/?tl=ja",
+    "https://www.pangram.com/ja/blog/did-ai-write-this",
+    "https://www.youtube.com/watch?v=JC974Wv-vVg",
+    "https://libguides.lib.miyazaki-u.ac.jp/pathfinder/AcademicWriting/GenerativeAI",
+    "https://www-kb.is.s.u-tokyo.ac.jp/~koba/report.html",
+    "https://guide.m3dc.co.jp/trend_ai-search-engine-for-thesis",
+    "https://ibooks-japan.com/info5.html",
+    "https://paperpal.com/ja/tools/ai-for-research",
+    "https://netamemo.com/ai-source-check/",
+    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 15
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） 事例",
    "results": [
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
-    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
-    "https://www.perplexity.ai/"
+    "https://www.reddit.com/r/Professors/comments/1mpr20e/checking_citations_and_references_to_counter_ai/?tl=ja",
+    "https://www.pangram.com/ja/blog/did-ai-write-this",
+    "https://ibooks-japan.com/info5.html",
+    "https://guide.m3dc.co.jp/trend_ai-search-engine-for-thesis",
+    "https://kugspro.adm.kanazawa-u.ac.jp/?page_id=2365",
+    "https://note.com/yusukexz777/n/nddf2a3e1ae69",
+    "https://libguides.lib.miyazaki-u.ac.jp/pathfinder/AcademicWriting/GenerativeAI",
+    "https://cyber-intelligence.co.jp/blog/post-22173/",
+    "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
+    "https://netamemo.com/ai-source-check/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 16
   },
   {
    "query": "verifying cited sources claim support partial support unverified contradicted",
    "results": [
-    "https://dictionary.cambridge.org/dictionary/english/verifying",
-    "https://dictionary.cambridge.org/us/dictionary/english/verifying",
-    "https://www.merriam-webster.com/thesaurus/verifying",
-    "https://www.vocabulary.com/dictionary/verifying",
-    "https://ieltslounge.com/verifying-or-verifing/",
-    "https://www.thesaurus.com/browse/verifying",
-    "https://www.merriam-webster.com/dictionary/verifying",
-    "https://www.thefreedictionary.com/verifying",
-    "https://www.oxfordlearnersdictionaries.com/us/definition/english/verify",
-    "https://www.dictionary.com/browse/verify"
+    "https://docs.consensus.app/use-cases/citation-verification",
+    "https://litsource.net/verify",
+    "https://arxiv.org/html/2511.16198v1",
+    "https://academy.evalcommunity.com/avoid-fake-citations/",
+    "https://gptzero.me/sources",
+    "https://www.reddit.com/r/ResearchML/comments/1xccnmy/how_do_you_verify_ai_citations_when_the_sources/",
+    "https://answerthis.io/blog/how-to-fact-check-ai-answers",
+    "https://jenni.ai/reviews/ai-citation-checker",
+    "https://manusights.com/blog/what-citation-verification-catches",
+    "https://dishaya.com/check/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 16
   },
   {
    "query": "site:note.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
    "results": [
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome",
-    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
-    "https://www.perplexity.ai/"
+    "https://note.com/prizma/n/ne560da3ed5b0",
+    "https://note.com/44310_morikawa/n/n94e83d3320b7",
+    "https://note.com/copymonitor/n/nf53b89ccf753",
+    "https://note.com/ano_insight/n/n61fe97813b62",
+    "https://note.com/pisces2929/n/n58781c7416a9",
+    "https://note.com/naruhiko_007/n/n5ad8b8d68046",
+    "https://note.com/ai_remote_worker/n/n67aa12700b60",
+    "https://note.com/noahconnectjapan/n/naac957cbbd6f",
+    "https://note.com/motoharusumi/n/nae69efaebbaa",
+    "https://note.com/otsukaman2018/n/n5e6832e097dc"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   },
   {
    "query": "site:x.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/motoharusumi/article/2079328966280958200",
+    "https://x.com/inodate1/article/2102200240195645457",
+    "https://x.com/ykidera/status/2118879892108693930",
+    "https://x.com/masahirochaen/status/2101312078627659898",
+    "https://x.com/masahirochaen/status/2114742039074283748",
+    "https://x.com/ai_database/status/2098235742388723930",
+    "https://x.com/ykidera/status/2114178286704353360",
+    "https://x.com/curryNOprince/status/2117597955901579704",
+    "https://x.com/mirai_spark/status/2108899372465598762",
+    "https://x.com/masahirochaen/status/1923866394640449758"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:linkedin.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/pulse/how-get-cited-chatgpt-perplexity-google-ai-overviews-your-raajha-ognec?tl=ja",
+    "https://jp.linkedin.com/pulse/pwc-got-caught-publishing-ai-reports-full-fake-lesson-kotlarczyk-gspee?tl=ja",
+    "https://jp.linkedin.com/pulse/find-sources-verify-citations-ai-tool-dr-rizwana-mustafa-r2exf?tl=ja",
+    "https://jp.linkedin.com/pulse/using-ai-analyze-reports-evidence-based-claims-guide-finkenstadt-8xuve?tl=ja",
+    "https://jp.linkedin.com/pulse/can-ai-actually-read-cite-your-linkedin-posts-what-latest-turner--v00ce?tl=ja",
+    "https://jp.linkedin.com/pulse/ai-visibility-gap-what-every-executive-needs-know-geo-umesiri-phd--g5kjc?tl=ja",
+    "https://jp.linkedin.com/pulse/ais-supply-chain-attack-knowledge-maor-chester-bxz8c?tl=ja",
+    "https://jp.linkedin.com/pulse/attribution-ai-outputs-creative-commons-1ci5c?tl=ja",
+    "https://jp.linkedin.com/pulse/ai-tools-detecting-plagiarism-understanding-types-dr-naureen-aleem-vfubf?tl=ja",
+    "https://jp.linkedin.com/pulse/risk-run-ai-why-chatgpt-cant-check-its-own-work-6rsqf?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
    "results": [
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome",
-    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
-    "https://www.perplexity.ai/"
+    "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AEai%E6%B4%BB%E7%94%A8%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA2026%E5%B9%B410%E6%9C%8831%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%96%E4%B8%96%E7%95%8C%E3%81%AE%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E5%AD%A6%E8%A1%93%E8%AA%8C%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E4%B8%80%E6%AC%A1%E6%83%85%E5%A0%B1%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%ABai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E8%87%AA%E5%B7%B1%E6%88%90%E9%95%B7%E5%BC%B7%E3%81%BF%E3%81%AE%E7%99%BA%E8%A6%8B%E5%88%A4%E6%96%AD%E5%8A%9B%E5%AD%A6%E7%BF%92%E8%83%BD%E5%8A%9B%E8%BF%BD%E5%8A%A0%E8%B3%87%E6%BA%90%E3%81%AE/10164643764804194/",
+    "https://www.facebook.com/ibooks.japan/posts/chatgpt%E3%81%A7%E5%8D%92%E8%AB%96%E3%82%92%E6%9B%B8%E3%81%84%E3%81%A6%E3%83%90%E3%83%AC%E3%81%9F%E4%BA%8B%E4%BE%8B%E3%82%B1%E3%83%BC%E3%82%B91%E6%96%87%E4%BD%93%E7%9F%A5%E8%AD%98%E5%90%8C%E5%AE%9A%E3%81%AE%E4%B8%8D%E4%B8%80%E8%87%B4%E5%8F%A3%E9%A0%AD%E8%A9%A6%E5%95%8F%E3%81%A7%E7%A0%B4%E7%B6%BB-%E6%88%90%E7%B8%BE%E7%84%A1%E5%8A%B9%E5%8D%92%E6%A5%AD%E5%BB%B6%E6%9C%9F%E7%99%BA%E8%A6%9A%E3%81%AE%E7%AB%AF%E7%B7%92%E6%8C%87%E5%B0%8E%E6%95%99%E5%93%A1%E3%81%8C%E5%BD%93%E8%A9%B2%E5%AD%A6%E7%94%9F%E3%81%AE%E9%81%8E%E5%8E%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%A8%E5%8D%92%E8%AB%96%E6%9C%AC%E6%96%87%E3%81%AE%E6%96%87%E4%BD%93%E8%AA%9E%E5%BD%99/1208941307915373/",
+    "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AEai%E6%B4%BB%E7%94%A8%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA2026%E5%B9%B410%E6%9C%8825%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%96%E4%B8%96%E7%95%8C%E3%81%AE%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E5%AD%A6%E8%A1%93%E8%AA%8C%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E4%B8%80%E6%AC%A1%E6%83%85%E5%A0%B1%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%ABai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E8%87%AA%E5%B7%B1%E6%88%90%E9%95%B7%E5%BC%B7%E3%81%BF%E3%81%AE%E7%99%BA%E8%A6%8B%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A%E8%BF%BD%E5%8A%A0%E8%B3%87%E6%BA%90%E3%81%AE%E7%8D%B2%E5%BE%97%E3%82%BB/10164607206529194/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E3%81%AE%E8%91%97%E6%9B%B8%E3%81%AB%E6%9E%B6%E7%A9%BA%E3%81%AE%E5%88%A4%E4%BE%8Bai%E3%81%AE%E5%9B%9E%E7%AD%94%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%9B%E3%81%9A%E6%8E%A1%E7%94%A8%E7%B5%B6%E7%89%88%E5%9B%9E%E5%8F%8E%E3%81%B8%E4%BB%8A%E6%97%A510%E6%9C%8812%E6%97%A5yahoo%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%9F%E6%AF%8E%E6%97%A5%E6%96%B0%E8%81%9E%E3%81%AE%EF%BC%99%E6%97%A5%E4%BB%98%E8%A8%98%E4%BA%8B%E3%82%92%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E3%81%8C%E6%9B%B8%E3%81%84%E3%81%9F%E6%B2%96%E7%B8%84%E6%88%A6/28798782686408558/",
+    "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AEai%E6%B4%BB%E7%94%A8%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA2026%E5%B9%B410%E6%9C%8823%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%96%E4%B8%96%E7%95%8C%E3%81%AE%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E5%AD%A6%E8%A1%93%E8%AA%8C%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E4%B8%80%E6%AC%A1%E6%83%85%E5%A0%B1%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%ABai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E8%87%AA%E5%B7%B1%E6%88%90%E9%95%B7%E8%83%BD%E5%8A%9B%E9%96%8B%E7%99%BA%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A%E5%AD%A6%E7%BF%92%E7%AE%A1%E7%90%86%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B3%E3%83%BC/10164594729164194/",
+    "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AEai%E6%9C%AA%E6%9D%A5%E7%A4%BE%E4%BC%9A%E6%9C%80%E5%89%8D%E7%B7%9A2026%E5%B9%B411%E6%9C%881%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%96%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E3%81%AEai%E3%81%AB%E3%82%88%E3%82%8B%E7%A4%BE%E4%BC%9A%E6%A7%8B%E9%80%A0%E3%81%AE%E5%A4%89%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%94%BF%E5%BA%9C%E6%A9%9F%E9%96%A2%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E4%BC%81%E6%A5%AD%E3%81%AE%E5%85%AC%E5%BC%8F%E7%99%BA%E8%A1%A8%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E5%A0%B1%E9%81%93%E3%82%92%E8%AA%BF%E6%9F%BB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fa/10164648891114194/",
+    "https://www.facebook.com/61584327205705/videos/%E5%87%BA%E5%85%B8%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%82%8B%E5%8C%BB%E5%AD%A6ai/1889959149050002/",
+    "https://www.facebook.com/Medi.LX/posts/ai%E5%80%AB%E7%90%86%E7%94%9F%E6%88%90ai%E3%81%AE%E7%AD%94%E3%81%88%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E6%8E%88%E6%A5%AD%E8%B3%87%E6%96%99%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E7%9C%8B%E8%AD%B7%E6%95%99%E8%82%B2%E3%81%A7ai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82%E5%A4%A7%E5%88%87%E3%81%AA%E3%81%AE%E3%81%AF%E5%87%BA%E5%8A%9B%E3%82%92%E6%A4%9C%E8%A8%BC%E3%81%99%E3%82%8B%E8%B2%AC%E4%BB%BB%E3%81%AF%E6%95%99%E5%93%A1%E3%81%AB%E3%81%82%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%89%8D%E6%8F%90%E3%81%A7%E3%81%99ai%E3%81%AF%E6%99%82%E3%81%AB%E5%AD%98%E5%9C%A8/1632055365600068/",
+    "https://www.facebook.com/npacc.jp/posts/ai%E3%82%92%E7%A7%98%E6%9B%B8%E3%81%A8%E3%81%97%E3%81%A6%E4%BB%98%E3%81%8D%E5%90%88%E3%81%86%E7%A0%94%E7%A9%B6%E8%80%85%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEai%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89ai%E3%82%92%E4%BD%95%E3%81%A7%E3%82%82%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%A8%E3%81%97%E3%81%A6%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%80%8B%E4%BA%BA%E7%A7%98%E6%9B%B8%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%8D%E7%BD%AE%E3%81%A5%E3%81%91%E3%82%8B%E3%81%A8ai%E3%81%A8%E3%81%AE%E4%BB%98%E3%81%8D%E5%90%88%E3%81%84%E6%96%B9%E3%81%8C%E3%81%9A%E3%81%A3%E3%81%A8%E8%A6%8B%E9%80%9A%E3%81%97%E3%82%84/2010289783606311/",
+    "https://www.facebook.com/shota7180/posts/ai%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E4%BC%9A%E8%AD%B0%E8%B3%87%E6%96%99%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%93%E3%81%AE%E6%95%B0%E5%AD%97%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%81%9F%E3%81%AE%E3%81%8B%E3%81%AA%E3%81%9C%E3%81%93%E3%81%AE%E6%96%BD%E7%AD%96%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%A8%E8%81%9E%E3%81%8B%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%8D%E6%A0%B9%E6%8B%A0%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%90%8C%E3%81%983%E3%81%A4%E3%81%AE%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A62%E9%80%9A%E3%82%8A%E3%81%AE%E6%96%B9%E6%B3%95/28919558707705972/"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
    "n_hits": 10
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） note 社長",
    "results": [
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
-    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
-    "https://www.perplexity.ai/"
+    "https://note.com/tabi_lifer/n/nca1e2833744d",
+    "https://note.com/arista_inc/n/nc4e267f08300",
+    "https://note.com/ano_insight/n/n61fe97813b62",
+    "https://note.com/copymonitor/n/nf53b89ccf753",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://note.com/zenkok/n/n9d37a76fd4ad",
+    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
+    "https://0120.co.jp/blog/aio-104/",
+    "https://mmedici.co.jp/mmedici-library/AI_11",
+    "https://note.com/noa_notexai/n/n195b6390aa09"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 16
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） X 投稿",
    "results": [
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
-    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
-    "https://www.perplexity.ai/"
+    "https://www.reddit.com/r/Professors/comments/1mpr20e/checking_citations_and_references_to_counter_ai/?tl=ja",
+    "https://japan.mdpi.com/post/ai-citation",
+    "https://x.com/MDPI_Japan/status/2115255770208153688",
+    "https://www.pangram.com/ja/blog/did-ai-write-this",
+    "https://digirise.ai/chaen-ai-lab/x/",
+    "https://biz.moneyforward.com/ai/basic/378/",
+    "https://www.youtube.com/watch?v=UOXxKI5oxl0",
+    "https://www.editage.jp/blog/ai-disclosures-in-academic-writing/",
+    "https://netamemo.com/ai-source-check/",
+    "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 15
   },
   {
    "query": "verifying cited sources claim support partial support unverified contradicted site:linkedin.com",
    "results": [
-    "https://dictionary.cambridge.org/dictionary/english/verifying",
-    "https://dictionary.cambridge.org/us/dictionary/english/verifying",
-    "https://www.merriam-webster.com/thesaurus/verifying",
-    "https://www.vocabulary.com/dictionary/verifying",
-    "https://ieltslounge.com/verifying-or-verifing/",
-    "https://www.dictionary.com/browse/verify",
-    "https://www.thesaurus.com/browse/verifying",
-    "https://www.merriam-webster.com/dictionary/verifying",
-    "https://www.thefreedictionary.com/verifying",
-    "https://www.oxfordlearnersdictionaries.com/us/definition/english/verify"
+    "https://www.linkedin.com/posts/cmupadhyay_youre-in-a-senior-ai-interview-at-google-activity-7406951319095140352-q16I",
+    "https://www.linkedin.com/pulse/psychology-verification-why-intelligence-resists-what-martin-mehl-uwvqc",
+    "https://www.linkedin.com/posts/iamkhanphd_breaking-claude-can-now-research-like-a-activity-7522053505340178432-w3pU",
+    "https://in.linkedin.com/in/surajit-techie",
+    "https://www.linkedin.com/in/trentwarner",
+    "https://www.linkedin.com/pulse/challenge-ai-hallucinations-understanding-measuring-andre-u3vue",
+    "https://www.linkedin.com/posts/ggospodinov_author-correction-integrating-artificial-activity-7507839040381984768-Nu07",
+    "https://www.linkedin.com/in/daniel-wipert",
+    "https://www.linkedin.com/pulse/sm-100-everyone-claims-serve-farmer-nobody-knows-them-g-v-jbsxc",
+    "https://www.linkedin.com/in/darz-morris-515010184"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T03:50:19.026558+00:00"
 }

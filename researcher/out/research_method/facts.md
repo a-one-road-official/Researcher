@@ -5282,6 +5282,9 @@
 - 失敗・落とし穴：
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「ブランド担当者は自社ブランドに思い入れが強い分、テスト品に対して、知らず知らずのうちにバイアスがかかった評価をしてしまいがちです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=701edc1e4d6b024210357b7546120e1b）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=701edc1e4d6b024210357b7546120e1b）
   - 「本編では、補助金と助成金の違いを踏まえた制度の選び方から、公募要領で読み落としやすい応募資格や事前着手の注意点、審査する側が読む順序に沿った事業計画の作り方へ進みます」（https://note.com/sansan2/n/n038e934f7207）
   - 「続いて、根拠を示せる売上予測と自己負担を乗り切る資金計画、認められない費目を外した経費と見積りの設計、様式の誤りやファイルの不備を防ぐ電子申請、提出前の最終確認と審査への対応、採択後の交付申請から受給と事後の管理までを扱います」（https://note.com/sansan2/n/n038e934f7207）
   - 「2. 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
@@ -5292,9 +5295,6 @@
   - 「第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
   - 「発注済みで対象外になる失敗と、次に回す判断」（https://note.com/sansan2/n/n038e934f7207）
   - 「プロンプト1｜事前着手と応募資格の落とし穴を洗い出す」（https://note.com/sansan2/n/n038e934f7207）
-  - 「典型的な失敗事例――直せば通るのに、放置される2パターン」（https://note.com/sansan2/n/n038e934f7207）
-  - 「失敗1｜弱みを消し、強みを盛る」（https://note.com/sansan2/n/n038e934f7207）
-  - 「失敗2｜課題と設備がつながらず、売上だけが先行する」（https://note.com/sansan2/n/n038e934f7207）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
@@ -5310,7 +5310,7 @@
   - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
   - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
   - 「Real Life Case Appendix」（https://www.futuremarketinsights.com/methodology）
-  - 「6. 特典6｜補助対象経費の可否判定＆相見積比較・ケース別対応表」（https://note.com/sansan2/n/n038e934f7207）
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=701edc1e4d6b024210357b7546120e1b）
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
@@ -10556,8 +10556,8 @@
   - 「The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 実例：
   - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
@@ -12622,7 +12622,7 @@
   - 「end of March, the file labeled ݐ ൌ 2012 , for example, consists of a large amount of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「A part of the KJ FLG file is accompanied by the list of merging firm(s) in the case」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「dynamics of Japanese firms suffer from data truncation. For example, studies using」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
 
 ## 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例（testing unbiasedness and efficiency of first release estimates regional accounts revisions）
 - 文脈：突き合わせ
@@ -13442,8 +13442,8 @@
 
 ## 補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど）（verifying claims that weighting reduced nonresponse bias benchmark comparison desk research guide）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）

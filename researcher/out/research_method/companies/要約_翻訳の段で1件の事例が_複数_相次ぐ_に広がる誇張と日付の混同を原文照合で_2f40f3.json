@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T00:21:53.243606+00:00",
+ "researched_at": "2026-11-08T07:25:50.534685+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,23 +24,23 @@
     "method": "http"
    },
    {
+    "url": "https://strangelyuseful.com/story/verify-ai-summary-against-original",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://link.springer.com/article/10.1007/s11528-025-01127-4",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://strangelyuseful.com/story/verify-ai-summary-against-original",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12042776/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.askdecode.ai/resources/blog-articles/detect-hallucinations-in-ai-research",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model",
-    "status": "http_403",
     "method": "http"
    }
   ]
@@ -75,14 +75,14 @@
    "results": [
     "https://iamvera.ai/blog/ai-summaries-long-documents-verification/",
     "https://convergepanel.com/use-cases/audit-ai-summary-against-original-document",
-    "https://link.springer.com/article/10.1007/s11528-025-01127-4",
     "https://strangelyuseful.com/story/verify-ai-summary-against-original",
+    "https://link.springer.com/article/10.1007/s11528-025-01127-4",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12042776/",
     "https://www.entropik.io/resources/blog-articles/detect-hallucinations-in-ai-research",
-    "https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model",
     "https://arxiv.org/pdf/2504.00025"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -129,9 +129,9 @@
     "https://www.linkedin.com/pulse/always-trap-why-your-ai-ignores-nuance-how-fix-ysquare-technology-odh9c",
     "https://www.linkedin.com/pulse/demystifying-ai-hallucinations-detection-mitigation-strategies-rnoic",
     "https://www.linkedin.com/top-content/artificial-intelligence/ai-limitations-overview/understanding-ai-limitations-in-research/",
-    "https://www.linkedin.com/posts/anujmubayi_generalization-bias-in-large-language-model-activity-7331922425560870912-GJvY",
+    "https://www.linkedin.com/pulse/rouge-score-key-metric-evaluating-text-summarisation-models-qirwc",
     "https://www.linkedin.com/pulse/when-prompt-design-fails-science-closer-look-llm-research-postma-k8vme",
-    "https://www.linkedin.com/pulse/science-llm-hallucinations-what-causes-them-how-mitigate-roman-sipula-zx8vf"
+    "https://www.linkedin.com/posts/anujmubayi_generalization-bias-in-large-language-model-activity-7331922425560870912-GJvY"
    ],
    "engines": [
     "ddgs:google"
@@ -147,6 +147,6 @@
   "実例": "記載なし（読んだ6頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T07:57:45.424481+00:00"
 }

@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-08T00:18:51.558580+00:00",
+ "researched_at": "2026-11-08T07:22:22.634792+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -29,9 +29,19 @@
     "method": "pdf"
    },
    {
+    "url": "https://jpf.repo.nii.ac.jp/records/76",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://www.osint-japan.jp/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://repository.nii.ac.jp/records/2001728",
@@ -54,16 +64,6 @@
     "method": ""
    },
    {
-    "url": "https://www.osint-japan.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchmap.jp/hitomi_yanaka/research_projects/13302209",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.digitaldigging.org/p/how-to-find-experts-and-hidden-documents",
     "status": "ok",
     "method": "http"
@@ -84,14 +84,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.facebook.com/61581643209356/posts/i-tried-a-reverse-image-search-from-an-osint-directory-save-this-for-later/122144698293054773/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/61581643209356/posts/i-tried-a-reverse-image-search-from-an-osint-directory-save-this-for-later/122144698293054773/",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -102,12 +102,12 @@
     "https://jp.linkedin.com/pulse/how-find-country-information-using-osint-arno-reuser-d8xfe?tl=ja",
     "https://www.mediatechnology.jp/entry/AllofOSINT",
     "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
+    "https://jpf.repo.nii.ac.jp/records/76",
     "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
+    "https://www.osint-japan.jp/",
     "https://doi.org/10.20736/0002001728",
     "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
-    "https://repository.ninjal.ac.jp/records/3510",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
-    "https://www.osint-japan.jp/"
+    "https://repository.ninjal.ac.jp/records/3510"
    ],
    "engines": [
     "yahoo_jp"
@@ -158,10 +158,10 @@
     "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
     "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
     "https://doi.org/10.20736/0002001728",
-    "https://researchmap.jp/hitomi_yanaka/research_projects/13302209",
     "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
     "https://repository.ninjal.ac.jp/records/3510",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/"
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
+    "https://www.osint-japan.jp/"
    ],
    "engines": [
     "yahoo_jp"
@@ -175,19 +175,18 @@
     "https://www.facebook.com/gijnAfrica/posts/online-search-expert-henk-van-ess-is-back-with-a-new-guidein-this-guide-the-open/1617134757113419/",
     "https://shadowdragon.io/resources/osint-techniques/",
     "https://www.recordedfuture.com/threat-intelligence-101/tools-and-technologies/osint-tools",
-    "https://www.facebook.com/61581643209356/posts/i-tried-a-reverse-image-search-from-an-osint-directory-save-this-for-later/122144698293054773/",
-    "https://www.youtube.com/watch?v=QFkdmbi2Hv0",
     "https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931",
+    "https://www.youtube.com/watch?v=QFkdmbi2Hv0",
+    "https://www.facebook.com/61581643209356/posts/i-tried-a-reverse-image-search-from-an-osint-directory-save-this-for-later/122144698293054773/",
     "https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf",
-    "https://www.instagram.com/reel/DcweHDCNL5U/",
+    "https://www.debunk.org/osint-investigation-techniques",
     "https://gijn.org/resource/henk-van-ess-international-research-guide-online/"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "site:note.com 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活",
@@ -262,13 +261,13 @@
     "https://www.linkedin.com/posts/margo-smit-55501611_international-research-guide-how-to-find-activity-7516090444032868352-segl",
     "https://www.linkedin.com/posts/searchbistro_osint-research-verification-activity-7508602027946442752-zk_D",
     "https://www.linkedin.com/posts/davidbombal_googledorks-search-filetype-activity-7419800958253219840-hdxA",
-    "https://www.linkedin.com/advice/1/what-best-strategies-finding-hidden-information-stgrc",
-    "https://www.linkedin.com/pulse/osint-techniques-can-reveal-more-than-youthink-nazrul-islam-rana-xogfc",
     "https://www.linkedin.com/pulse/google-dorking-guide-finding-vulnerable-systems-exposed-rere-ayodele-cwigf",
-    "https://www.linkedin.com/pulse/interviews-leading-osint-experts-vijay-gupta--phbfc"
+    "https://www.linkedin.com/pulse/osint-techniques-can-reveal-more-than-youthink-nazrul-islam-rana-xogfc",
+    "https://www.linkedin.com/pulse/interviews-leading-osint-experts-vijay-gupta--phbfc",
+    "https://www.linkedin.com/advice/1/what-best-strategies-finding-hidden-information-stgrc"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   }
@@ -281,6 +280,6 @@
   "実例": "記載なし（読んだ16頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T07:57:40.920719+00:00"
 }
