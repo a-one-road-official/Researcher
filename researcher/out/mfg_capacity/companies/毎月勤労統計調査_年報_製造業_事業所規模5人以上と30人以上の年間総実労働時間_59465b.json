@@ -1,0 +1,975 @@
+{
+ "name": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104）",
+ "en": "Monthly Labour Survey annual report manufacturing total hours worked per year establishments 5+ and 30+ hours value MHLW table",
+ "aliases": [
+  "site:mhlw.go.jp 毎月勤労統計調査 年報 製造業 総実労働時間 時間",
+  "毎月勤労統計 製造業 30人以上 年間総実労働時間 時間 推移 表",
+  "site:e-stat.go.jp 毎月勤労統計 製造業 総実労働時間 年平均"
+ ],
+ "context": "統計・時間",
+ "kind": "market",
+ "researched_at": "2026-11-08T13:55:00.568934+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "表 1－2 東北各県別企業数（民営、非１次産業、2021 年） ・・・・・・・・・・・・・・・・ 3",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－2 事業所数、従業者数、製造品出荷額等の産業３類型別構成比・・・・・・・・・・・ 20",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2－6 事業所数、従業者数、製造品出荷額等、付加価値額の地域別構成・・・・・・・・・ 22",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2－7 従業者規模別付加価値額（令和５年）・・・・・・・・・・・・・・・・・・・・・ 23",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 3－1 事業所数、従業者数、年間商品販売額の推移（昭和 51 年＝100）・・・・・・・・・・ 28",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 3－1 事業所数、従業者数、年間商品販売額の推移（卸売業・小売業別）・・・・・・・・ 28",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 3－2 事業所数、従業者数、年間商品販売額における卸売業、小売業の構成比（令和３年） 29",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 3－7 従業者規模別商店数及び年間商品販売額（小売業） （令和３年）・・・・・・・・・ 34",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 3－8 人口、事業所数、従業者数、",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の公表（2021 年６月時点）によると、山形県の農林漁業、公務を除く民営企業数は",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１－２ 東北各県別企業数（民営、非１次産業、2021 年）",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、民営事業所数では県全体の 48.7％、製造品出荷額等では 41.7％、年間商品販売額では",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済規模では、 製造品出荷額等において県内比 25.7％を占めており、 従業者数、 民営事業所数、",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 民営事業所数については、公務を除く非農林漁業に係る事業所数",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 事業所数 2,700 事業所 222,200 事業所 1.22%",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注） 事業所数及び従業者数は令和 6年6月1日現在、製造品出荷額等及び付加価値額は令和5年1月1日から12月31日までの1年間分の",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "の 10 年増加傾向にあり、１人当たり県民所得は直近の令和４年に東北第１位",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 人 口・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 1",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 外国人旅行者の状況・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 49",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2）外国人宿泊者数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 50",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－1 山形県の人口の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 1",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1－1 地域別人口の動き・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 2",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－2 年齢（３区分）別人口の推移・・・・・・・・・・・・・・・・・・・・・・・・・ 2",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1－3 東北各県別従業者数（民営、非１次産業、2021 年） ・・・・・・・・・・・・・・・ 4",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－3 産業別就業人口構成比の推移・・・・・・・・・・・・・・・・・・・・・・・・・ 4",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－5 一人当たりの県民（国民）所得の推移・・・・・・・・・・・・・・・・・・・・・ 6",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1－5 労働時間の推移（１人平均月間総実労働時間）・・・・・・・・・・・・・・・・・ 7",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－6 産業別常用労働者の１人平均月間給与総額の全国比較（令和６年）・・・・・・・・ 8",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－13 地域別従業者数（令和３年）・・・・・・・・・・・・・・・・・・・・・・・・・ 15",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－2 事業所数、従業者数、製造品出荷額等の産業３類型別構成比・・・・・・・・・・・ 20",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2－6 事業所数、従業者数、製造品出荷額等、付加価値額の地域別構成・・・・・・・・・ 22",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "となったほか、令和５年の製造品出荷額等は３兆 3,500 億円を超えて過去最",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間売上 100 億円以上の企業を現在の２倍以上に増やしていくための各種支援",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－11 地域別製造業年間製造品出荷額等の内訳（令和５年）・・・・・・・・・・・・・ 14",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－1 令和５年東北６県の製造品出荷額等、付加価値額の概要・・・・・・・・・・・・・ 18",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2－4 製造品出荷額等構成比上位５業種・・・・・・・・・・・・・・・・・・・・・・・ 19",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－2 事業所数、従業者数、製造品出荷額等の産業３類型別構成比・・・・・・・・・・・ 20",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－3 産業３類型別製造品出荷額等構成比の推移・・・・・・・・・・・・・・・・・・・ 21",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－4 令和５年東北６県の産業３類型別製造品出荷額等構成比・・・・・・・・・・・・・・ 21",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2－6 事業所数、従業者数、製造品出荷額等、付加価値額の地域別構成・・・・・・・・・ 22",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和５年度の県内総生産は名目で４兆 7,650 億円、経済成長率は名目で 7.6％増加、実質で",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業は、総生産額 1,100 億円で、対前年度比 5.9％増加した",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総生産額は１兆 6,153 億円、対前年度比 0.6％の減少となった",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業などの第３次産業は、総生産額が３兆 79 億円と、対前年度比 15.2％の増加となって",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、民営事業所数では県全体の 48.7％、製造品出荷額等では 41.7％、年間商品販売額では",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この地域の特徴としては、 食料・飲料等がこの地域の製造品出荷額の 17.8％を占めるとともに、",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業所数では 6.9％、製造品出荷額等では 3.0％、年間商品販売額では 4.1％と経済の規模について",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "４ 山形県の工業の付加価値額・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 23",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－5 一人当たりの県民（国民）所得の推移・・・・・・・・・・・・・・・・・・・・・ 6",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－1 令和５年東北６県の製造品出荷額等、付加価値額の概要・・・・・・・・・・・・・ 18",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2－6 事業所数、従業者数、製造品出荷額等、付加価値額の地域別構成・・・・・・・・・ 22",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－5 業種別付加価値額（令和５年） ・・・・・・・・・・・・・・・・・・・・・・・・ 23",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2－7 従業者規模別付加価値額（令和５年）・・・・・・・・・・・・・・・・・・・・・ 23",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和５年度の一人当たりの県民所得は 327 万１千円で、前年度の 303 万０千円と比べ、金額で",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 一人当たり国民所得 352 万１千円 （全国＝100）",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１－５ 一人当たりの県民（国民）所得の推移",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、製造品出荷額等と同様に、令和５年は過去最高の 1 兆 3,440 億円となっている",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ 付加価値額 1 兆 3,440 億円 110 兆 9.034 億円 1.21%",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注） 事業所数及び従業者数は令和 6年6月1日現在、製造品出荷額等及び付加価値額は令和5年1月1日から12月31日までの1年間分の",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注） 事業所数及び従業者数は令和6年6月1日現在、製造品出荷額等及び付加価値額は令和5年1月1日から 12月31日までの1年間分の",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 ２－１ 令和５年 東北６県の製造品出荷額等、付加価値額の概要",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注） 製造品出荷額等及び付加価値額は令和5年1月1日から12月31日までの1年間分の数値である",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "少子高齢化を伴う人口減少の加速や、 あらゆる分野での人手不足、 物価高騰",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の 10 年増加傾向にあり、１人当たり県民所得は直近の令和４年に東北第１位",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－1 山形県の人口の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 1",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－2 年齢（３区分）別人口の推移・・・・・・・・・・・・・・・・・・・・・・・・・ 2",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1－2 東北各県別企業数（民営、非１次産業、2021 年） ・・・・・・・・・・・・・・・・ 3",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1－3 東北各県別従業者数（民営、非１次産業、2021 年） ・・・・・・・・・・・・・・・ 4",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－3 産業別就業人口構成比の推移・・・・・・・・・・・・・・・・・・・・・・・・・ 4",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1－4 経済成長率の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 5",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－4 産業別県内総生産の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・ 6",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－5 一人当たりの県民（国民）所得の推移・・・・・・・・・・・・・・・・・・・・・ 6",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1－5 労働時間の推移（１人平均月間総実労働時間）・・・・・・・・・・・・・・・・・ 7",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1－8 10 大費目別指数（年平均）・前年比の推移（山形市、全国）・・・・・・・・・・・ 10",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－3 産業３類型別製造品出荷額等構成比の推移・・・・・・・・・・・・・・・・・・・ 21",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－6 工場の立地件数、面積の推移（山形県）・・・・・・・・・・・・・・・・・・・・ 24",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2－8 東北各県の工場立地件数の推移・・・・・・・・・・・・・・・・・・・・・・・・ 25",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 3－1 事業所数、従業者数、年間商品販売額の推移（昭和 51 年＝100）・・・・・・・・・・ 28",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 3－1 事業所数、従業者数、年間商品販売額の推移（卸売業・小売業別）・・・・・・・・ 28",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 3－3 １事業所当たりの年間商品販売額の推移（卸売業）・・・・・・・・・・・・・・・ 30",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "少子高齢化を伴う人口減少の加速や、 あらゆる分野での人手不足、 物価高騰",
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-1-3_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.hokkaido.lg.jp/ss/tuk/007mls/guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jri.co.jp/MediaLibrary/file/report/researchfocus/pdf/16102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jinjibu.jp/news/detl/26695/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je17/pdf/p02014.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jisa.or.jp/Portals/0/resource/irodoru/paper/2020/06/dx_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/3004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je25/h02-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0106.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018403.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/bnyaBtKekka.html/B13/B1302/I215",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.gifu.lg.jp/page/1964.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ibaraki.jp/somu/hodo/hodo/pressrelease/hodohappyoushiryou/2203/documents/220329toukei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/ac08_4_000000008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kochi.lg.jp/doc/maikin24/file_contents/2013073000189_www_pref_kochi_lg_jp_uploaded_attachment_100267.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kagawa.lg.jp/tokei/rodo/working/2024maikin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.akita.lg.jp/pages/archive/163",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00450-mhlw-00450071/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.oita.jp/site/toukei/index-mls.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/y_mkinsetumei2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2025/mk25q30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/data/indicators/hours-worked.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/esaikin/2026/e202601.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/HOHWMN03JPQ661S",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 人手不足 受注 断る",
+   "results": [
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-1-3_01.pdf",
+    "https://www.pref.hokkaido.lg.jp/ss/tuk/007mls/guide.html",
+    "https://www.jri.co.jp/file/report/researchfocus/pdf/16102.pdf",
+    "https://jinjibu.jp/news/detl/26695/",
+    "https://www5.cao.go.jp/j-j/wp/wp-je17/pdf/p02014.pdf",
+    "https://www.jisa.or.jp/Portals/0/resource/irodoru/paper/2020/06/dx_1.html",
+    "https://www.asahi.com/articles/ASVB61FG5VB6DIFI014M.html",
+    "https://www.pacola.co.jp/%E5%85%A8%E5%9B%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E5%8A%B4%E5%83%8D%E7%92%B0%E5%A2%83%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E5%89%96%EF%BC%81%E7%B7%8F%E5%AE%9F%E5%8A%B4%E5%83%8D%E6%99%82%E9%96%9316/",
+    "https://www.mhlw.go.jp/toukei/list/dl/30-1e.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 受注残 人手不足",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.jri.co.jp/file/report/researchfocus/pdf/16102.pdf",
+    "https://www.pref.ehime.jp/page/3004.html",
+    "https://www.pacola.co.jp/n2025121315/",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h02-03.html",
+    "https://www.jri.co.jp/file/report/researchfocus/pdf/16102.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0106.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018403.pdf",
+    "https://jinjibu.jp/news/detl/26695/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104）",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/bnyaBtKekka.html/B13/B1302/I215",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.gifu.lg.jp/page/1964.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 推移",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.gifu.lg.jp/page/1964.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.pref.ibaraki.jp/somu/hodo/hodo/pressrelease/hodohappyoushiryou/2203/documents/220329toukei.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html",
+    "https://web.pref.hyogo.lg.jp/kk11/ac08_4_000000008.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 統計 PDF",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.pref.ibaraki.jp/somu/hodo/hodo/pressrelease/hodohappyoushiryou/2203/documents/220329toukei.pdf",
+    "https://www.pref.kochi.lg.jp/doc/maikin24/file_contents/2013073000189_www_pref_kochi_lg_jp_uploaded_attachment_100267.pdf",
+    "https://www.pref.kagawa.lg.jp/tokei/rodo/working/2024maikin.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.akita.lg.jp/pages/archive/163",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://data-seisaku.com/00450-mhlw-00450071/",
+    "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "https://www.pref.oita.jp/site/toukei/index-mls.html",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/339103.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 従業者規模別",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kinrou-chihou/h29-nenpou/h29-nenpou.html",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 1人当たり 万円",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/y_mkinsetumei2.html",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.jri.co.jp/file/report/researchfocus/pdf/16102.pdf",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） 2015 2025",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2025/mk25q30000.htm",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.jri.co.jp/file/report/researchfocus/pdf/16102.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Monthly Labour Survey annual report manufacturing total hours worked per year establishments 5+ and 30+ hours value MHLW table Japan statistics",
+   "results": [
+    "https://www.oecd.org/en/data/indicators/hours-worked.html",
+    "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "https://www.jil.go.jp/english/estatis/esaikin/2026/e202601.html",
+    "https://fred.stlouisfed.org/series/HOHWMN03JPQ661S",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "https://www.bls.gov/opub/mlr/2009/05/art1full.pdf",
+    "https://ourworldindata.org/working-hours",
+    "https://clockify.me/working-hours",
+    "https://www.e-stat.go.jp/en/statistics/00450071"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104）",
+   "results": [
+    "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "https://note.com/kicchann/n/na5635f9a1b55",
+    "https://note.com/jdex/n/n4f5644855c17",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/mycrypto/n/nad403a822542",
+    "https://note.com/fujifujizombi/n/n40d415815eaf",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/kazucallnote/n/n30ac23c20392",
+    "https://note.com/kazucallnote/n/nb7984eef7ac2"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104）",
+   "results": [
+    "https://www.linkedin.com/posts/daijob-com_厚生労働省毎月勤労統計調査2025令和7年10月分結果確報を公開-activity-7412085171136589824-A8Nv",
+    "https://www.linkedin.com/events/7518571187296358402",
+    "https://www.linkedin.com/jobs/毎月勤労統計調査-記入例-8(1)-8(2)-8(3)-8(4)-jobs",
+    "https://www.linkedin.com/company/rakbank",
+    "https://www.linkedin.com/company/mapei_group",
+    "https://jp.linkedin.com/company/chiyoda-air-con-parts-co-ltd",
+    "https://jp.linkedin.com/posts/jetro-japanexternaltradeorganization_海外ビジネスのヒントがここにジェトロ2026年版-主要国地域の貿易投資年報-activity-7503361733315596288-J304"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104）",
+   "results": [
+    "https://www.facebook.com/moea.gov.tw/photos/製造業老闆看過來經濟部來相挺面對國際局勢變化透過強化經濟社會及民生國安韌性特別預算中編列20億元經濟部與勞動部啟動-製造業最低工資補貼支持產業挺員工1️⃣補貼對/1307453988092974/",
+    "https://www.facebook.com/100069011896208/posts/毎月勤労統計調査地方調査月報令和７年９月分を公表しましたhttpswebprefhyogolgjpkk11documentsgeppou09pdf毎月勤労統計調/1180549484255437/",
+    "https://www.facebook.com/permalink.php/?story_fbid=890677699909285&id=100069011896208",
+    "https://www.facebook.com/bravo.Kaohsiung/photos/高雄的製造業是穩紮穩打根據經濟部統計處113年工廠校正及營運調查報告我們有三項指標都是六都第一第一109到113年工廠家數增加395家成長508居六都之首第二營/1457191266329036/",
+    "https://www.facebook.com/lhrb.tycg/photos/115年度製造業工廠工作環境改善暨促進就業實施計畫為降低製造業勞工職業災害發生率及促進國民安心就業輔導事業單位建立化學品及機械設備器具清單進行潛在風險管控本計畫/1405806164924334/",
+    "https://www.facebook.com/rosei.info/photos/労政時報の最新号第4106号-251010をweb労政時報に公開しました-httpswwwroseijpreaders平素より労政時報をご利用いただき誠に有り難/1740794366859520/",
+    "https://www.facebook.com/taipeilabornews/posts/事業單位的同一工作場所依事業之分類及勞工人數的不同需辦理不同頻率的醫護人員臨場健康服務q若事業單位同一作場所人數50-299人危害性質又兼具不同分類那該怎麼辦a/1077723692393867/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/timeseries/html/g0501_02.html",
+    "https://www.pref.ehime.jp/page/3004.html",
+    "https://www.pacola.co.jp/n2025102714/",
+    "https://www.jri.co.jp/file/report/researchfocus/pdf/16102.pdf",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.nissay.co.jp/enjoy/keizai/99.html",
+    "https://www.keidanren.or.jp/policy/2020/081.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://jinjibu.jp/news/detl/26695/",
+    "https://www.pacola.co.jp/%E5%85%A8%E5%9B%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E5%8A%B4%E5%83%8D%E7%92%B0%E5%A2%83%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E5%89%96%EF%BC%81%E7%B7%8F%E5%AE%9F%E5%8A%B4%E5%83%8D%E6%99%82%E9%96%9316/",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://www.jri.co.jp/file/report/researchfocus/pdf/16102.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Monthly Labour Survey annual report manufacturing total hours worked per year establishments 5+ and 30+ hours value MHLW table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/garyschrader_the-value-of-strategic-total-rewards-in-japan-activity-7440158859630985216-XQ_D",
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_japan-jobless-rate-rises-to-25-in-august-activity-7512794093098385409-twAO",
+    "https://www.linkedin.com/posts/stuartbasefsky_korea-labor-institute-kli-korea-h1-activity-7502725390814158848-vpPl",
+    "https://www.linkedin.com/posts/masayuki-nakajima-128219219_japan-activity-7479948095636738048-IMUW",
+    "https://www.linkedin.com/pulse/workplace-stress-japan-data-design-action-gary-schrader-u41nc",
+    "https://www.linkedin.com/pulse/im-foreigner-japan-heres-what-i-think-problem-james-riney-hbpre",
+    "https://www.linkedin.com/pulse/when-desire-becomes-costly-rethinking-japans-society-social-acedillo-sftme",
+    "https://www.linkedin.com/posts/themuchmuch_muchmuchspectrum-goodnews-positivenews-activity-7405856588227497984-Xq5Z",
+    "https://www.linkedin.com/posts/merck-healthcare_merckgroup-yellowsphereproject-wellbeing-activity-7442041777370460160-Qm7z",
+    "https://www.linkedin.com/posts/kk-ntec_ntec-wireharness-controlpanels-activity-7511590910770479104-8Ez5"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ44頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ44頁・検索18回）"
+ }
+}

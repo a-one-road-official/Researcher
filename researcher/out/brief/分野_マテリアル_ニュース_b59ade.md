@@ -18,7 +18,7 @@
   - ［一次］2026-11-06「49 例えば、CO2 を使わずに生産された素材がその脱炭素価値を高価格なものとして反映されて取引されたり、」https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf
   - ［一次］2026-11-06「⚫ ＧＸ２０４０ビジョンやエネルギー基本計画を踏まえ、エネルギー安定供給・経済成長・脱炭素の同」https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf
   - ［一次］2026-11-06「BIS強制認証に直面するインド日系企業（1）製造業の7割に影響」https://www.jetro.go.jp/biz/areareports/special/2026/0101/5229e687b7a111eb.html
-- 顧客の競合（奪いに来る側）（104件）：
+- 顧客の競合（奪いに来る側）（103件）：
   - ［一次］2026-11-07「また、直近の情勢変化による国内外の永久磁石の需要やシェア等への影響についても調査を行います」https://www.nedo.go.jp/koubo/GI2_100001_00026.html
   - ［一次］2026-11-07「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響 | 高まる経済安全保障リスク、各国・地域の自律性向上と不可欠性確保に向けた戦略とは - 特集 - 地域・分析レポート - 海外ビジネス情報 - ジェトロ」https://www.jetro.go.jp/biz/areareports/special/2026/0101/5229e687b7a111eb.html
   - ［一次］2026-11-07「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」https://www.jetro.go.jp/biz/areareports/special/2026/0101/5229e687b7a111eb.html
@@ -47,7 +47,7 @@
   - ［一次］2026-11-06「（９）人材 ............................................................................................................................................................................................ 71」https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf
   - ［一次］2026-11-06「足下の人手不足ＤＩは、バブル期並みの過去最高水準に達している8」https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf
   - ［一次］2026-11-06「8 参考資料 P33「人口減少に伴う構造的人手不足：日本の労働参加率は、世界最高水準」参照」https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf
-- 技術（新しい技術・実証）（112件）：
+- 技術（新しい技術・実証）（111件）：
   - ［一次］2026-11-08「IMTSにみる米製造業の潮流（2）米西海岸3社が探るAIの活用」https://www.jetro.go.jp/biz/areareports/special/2026/0101/5229e687b7a111eb.html
   - ［一次］2026-11-07「様式第一関係 別紙２（設備投資・技術開発合算総括表）（Excel形式：27KB）」https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html
   - ［一次］2026-11-07「NEDOは、「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律」（令和4年法律第43号）に基づき、国民の生存や生活・経済活動に甚大な影響のある物資の安定供給確保を図るため、同法の政令で定められた特定重要物資について、経済産業大臣が認定した供給確保計画に沿った生産基盤の整備、生産技術開発等に対して助成金を交付する事業等を実施しています」https://www.nedo.go.jp/koubo/GI2_100001_00026.html
@@ -96,7 +96,7 @@
   - ［一次］2026-11-07「脱炭素化技術を開発し、「グリーンスチール」を実現することが不可欠となる」https://green-innovation.nedo.go.jp/resources/pdf/development-co2-separation-recovery/item-001-2/vision-nipponsteel-001.pdf
   - ［一次］2026-11-06「鉄鋼業の脱炭素化に向けた世界の取り組み（前編）～「グリーンスチール」とは何か？｜エネこれ｜資源エネルギー庁」https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_01.html
   - ［一次］2026-11-06「鉄鋼業の脱炭素化に向けた世界の取り組み（前編）～「グリーンスチール」とは何か？」https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_01.html
-- 顧客の競合（奪いに来る側）（70件）：
+- 顧客の競合（奪いに来る側）（69件）：
   - ［一次］2026-11-07「本体海外事業 ±0 -420 2023上インド等一過性利益剥落等」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「本体海外事業 -180 23下インド等一過性利益剥落等 +100 インド増益等」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「• 当該分離回収技術により回収された安価なCO2」https://green-innovation.nedo.go.jp/resources/pdf/development-co2-separation-recovery/item-001-2/vision-nipponsteel-001.pdf
@@ -126,7 +126,7 @@
   - ［一次］2026-11-07「その他 -280 人材確保･活躍推進に向けた人的投資 償却費増 等 -200」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「⚫ ＤＸ人材育成施策を開始（FY2021～）」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「このセクターで雇用リスクのある30万人の直接雇用と230万人の間接雇用を維持する」https://www.meti.go.jp/shingikai/mono_info_service/green_steel/follow_up/pdf/001_07_00.pdf
-- 技術（新しい技術・実証）（79件）：
+- 技術（新しい技術・実証）（78件）：
   - ［一次］2026-11-07「▪ 3つの超革新技術」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「技術開発 グリーンイノベーション(GI)基金｢製鉄プロセスにおける水素活用｣1,935億円 ➡ 4,499億円へ増額」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「実施プロジェクト名 革新的分離剤による低濃度CO2分離システムの開発」https://green-innovation.nedo.go.jp/resources/pdf/development-co2-separation-recovery/item-001-2/vision-nipponsteel-001.pdf
@@ -228,7 +228,7 @@
   - ［記事］2026-11-07「再生エネルギーから生まれるグリーンアルミニウム、脱炭素社会へ向けて」https://katokei.co.jp/4tco2_al/
   - ［記事］2026-11-07「LIXIL、循環型低炭素アルミで建築業界の脱炭素化をけん引へ - オルタナ」https://www.alterna.co.jp/161116/
   - ［記事］2026-11-07「LIXIL、循環型低炭素アルミで建築業界の脱炭素化をけん引へ」https://www.alterna.co.jp/161116/
-- 顧客の競合（奪いに来る側）（42件）：
+- 顧客の競合（奪いに来る側）（41件）：
   - ［一次］2026-11-07「世界シェアNo.2」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
   - ［一次］2026-11-04「BMWは2024年から低炭素アルミニウムを調達、米国サウスカロライナ州スパータンバーグ工場（2022年生産台数：41万6,301台）でボンネット製造などに使用する」https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html
   - ［一次］2026-11-04「BMWは2022年11月、米国と中国で生産過程でのCO2排出量が少ない鉄鋼を調達すると発表したほか（」https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html
@@ -251,7 +251,7 @@
 - 社会（人・担い手）（2件）：
   - ［記事］2026-11-05「【多世帯住宅2023】共働きの増加で親との同居に高い関心=少子高齢化での負担軽減も」https://www.housenews.jp/equipment/23613
   - ［記事］2026-11-04「本合意により、環境負荷を抑えたアルミの長期的な安定供給に寄与するとともに、ケベック州の地域経済や安定雇用の創出にも引き続き貢献していきます」https://www.marubeni.com/jp/news/2025/info/00033.html
-- 技術（新しい技術・実証）（69件）：
+- 技術（新しい技術・実証）（68件）：
   - ［一次］2026-11-07「化アルミニウム／アルミナの積極的な開発を進めているほか、水酸化アルミニウム／アルミナに特殊光学特性や高熱伝導性を付与」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
   - ［一次］2026-11-07「アルミ合金をボル ト メーカーと共同開発し、鉄・ステンレス製のボル トからの代替が可能な「高強度アルミボル ト」の商品化により、」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
   - ［記事］2026-11-08「YKKではこれからもお客様やサプライヤーの皆様と協働し、環境に配慮した商品・技術の開発・拡販等を通じて温室効果ガス排出削減の取組みを加速させ、持続可能な社会の実現に貢献してまいります」https://www.ykk.com/newsroom/g_news/2025/20250522.html
@@ -283,7 +283,7 @@
   - ［記事］2026-11-08「ISO14000の更新・拡大の認証書」https://www.raremetal.co.jp/index/information
   - ［記事］2026-11-07「特にハイテク産業に不可欠なレアメタルは、現状、輸入に頼らざるを得ず、ひとたび供給不足が起これば、世界の脱炭素社会の推進に甚大な影響を及ぼします」https://startupclass.co.jp/article/2025/04/21/emulsion-flow-technologies/
   - ［記事］2026-11-07「情報は「委託先」から漏れる サプライチェーン時代の情報漏洩と製造業の守り〜【第６話】制度は「質問票」でやってくる 取引先の要求に備える」https://www.dctainc.com/blog/
-- 顧客の競合（奪いに来る側）（110件）：
+- 顧客の競合（奪いに来る側）（109件）：
   - ［一次］2026-11-08「2024年に国策企業の中国資源循環集団(資本金約2千億円)を設立」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
   - ［一次］2026-11-08「⚫ 日本のシェアが高く、高い技術力（材料設計、形状制御、品質管理等）により不可欠性を有する部素材は以下5分野」https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/020_02_00.pdf
   - ［一次］2026-11-08「属世界シェア5割、半導体回路向け高」https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/020_02_00.pdf
@@ -295,7 +295,7 @@
   - ［記事］2026-11-04「Decommissioning, on-site data destruction, maximum resale value」https://eridirect.com/blog/2026/03/the-rise-of-formal-e-waste-ecosystems-in-2026/
   - ［記事］2026-11-04「European Commission, Waste from Electrical and Electronic Equipment (WEEE). environment.ec.europa.eu」https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market
   - ［記事］2026-11-04「Johnson Matthey remains a major platinum-group-metals refiner, with refinery commissioning activity scheduled by the end of FY2025/26. Its position rests on refining expertise and customer requirements for specification-」https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market
-- 政治（法・予算・規制）（99件）：
+- 政治（法・予算・規制）（98件）：
   - ［一次］2026-11-08「生各国で重要鉱物及びリサイクル資源の輸出管理強化、 国内資源確保、 グローバル企業の再生材利用が進む中、 我が国で」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
   - ［一次］2026-11-08「eEU域外への廃電子機器等の輸出規制を強化 (2024年施行) 質・量・コストの面で安定的に調達できるサプライチェーンが」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
   - ［一次］2026-11-08「e 重要鉱物の輸出管理 (2023年以降) や金属スクラップ (銅.に) 輸入規則」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
@@ -313,7 +313,7 @@
   - ［記事］2026-11-07「ワットが決めるAIの勝敗 電力制約時代の製造業とデータセンター 【第５話】 データセンター誘致と地域 雇用・税収・電力・水の交渉」https://www.dctainc.com/blog/
   - ［記事］2026-11-07「◆前回のおさらいと、今回お話ししたいこと前回の第8話では、人とロボットの役割分担と、技能継承について、現場の本音から、たっぷりとお話ししました」https://www.dctainc.com/blog/
   - ［記事］2026-11-07「フィジカルAIが塗り替える製造業の勢力図 日本はどこで勝てるか 【第８話】人とロボットの役割分担 現場の本音と技能継承」https://www.dctainc.com/blog/
-- 技術（新しい技術・実証）（104件）：
+- 技術（新しい技術・実証）（103件）：
   - ［一次］2026-11-08「で生産される銅 (AAG) OW 3 Me, EAI」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
   - ［一次］2026-11-08「ヶ都市叙山か5のレアメタル、 レアアース等の製錬・分離精製、 解体選別などの技術開発」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
   - ［一次］2026-11-07「4. レアメタルリサイクル技術の開発」https://tenbou.nies.go.jp/science/description/detail.php?id=62
@@ -339,7 +339,7 @@
 - 取得：2026-11-08T04:24・調査5回目・読んだ頁47
 - 痛み・損（深さの印）（1件）：
   - ［記事］2026-11-08「【2026年11月最新】離職票は再発行できる？手続きの流れ・必要書類・期限を社労士事務所の顧問先対応の目線で整理し、離職手続きの事務作業をAIに任せる方法」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/
-- 顧客（金を払う側）（80件）：
+- 顧客（金を払う側）（78件）：
   - ［一次］2026-11-06「3. 素材メーカーにおける今後の取組方向性 16」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 これに対し、MIを活用すれば、開発に必要なリソースが抑えられ、ベンチャー企業等にとって参入余地が広がる可能性があります」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 しかしながら、現段階では、実際のMI導入に際し、①データ基盤の不足、②データ解析技術の向上、③データ人材の不在、等の課題」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
@@ -351,7 +351,7 @@
   - ［一次］2026-11-04「 平成31年度概要40.3億円を要求中」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-04「 中期経営計画(19～21年度)で材料構造･要求特性の機械学習化･評価シミュレーショ」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［記事］2026-11-07「シャープが将来目指すのは、資源制約が小さく、安全性や耐久性にも優れた次世代電池材料の実現を通じ、脱炭素社会とサーキュラーエコノミーに貢献することだ」https://monoist.itmedia.co.jp/mn/articles/2610/30/news029.html
-- 顧客の競合（奪いに来る側）（47件）：
+- 顧客の競合（奪いに来る側）（46件）：
   - ［一次］2026-11-06「2.xD／3D実装における当社製品ラインアップとシェア」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「世界シェア1位」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「世界シェア1位 世界シェア2位」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
@@ -381,7 +381,7 @@
   - ［一次］2026-11-06「 日本のIT人材は、2030年時点で数十万人単位で不足するとされ、経済産業省では義務教育期間も含めた教育環境整備を進める」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 多様なICT人材の登用(高校は1校に1」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「⇒単独での施策にはデータ量、解析技術、人材等の面で限界有 (P.18)」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-- 技術（新しい技術・実証）（62件）：
+- 技術（新しい技術・実証）（61件）：
   - ［一次］2026-11-06「マテリアルズ・インフォマティクスによる材料開発」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 モビリティの進化や5Gの進展など我々を取り巻く環境が大きく変化する中、これらの加速に向けた新材料の開発ニーズが高まりつつ」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 MIは、研究者の経験や勘に基づく従来型の手法に比べ、開発期間の大幅な短縮や開発コストの低減を実現できる他、データベース」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf

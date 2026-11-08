@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・244品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・246品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3151,11 +3151,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -5651,7 +5651,7 @@
   - 「). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「The case for mid- and low-level insiders:」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -9919,9 +9919,9 @@
   - 「A decision log serves a different purpose. It documents the decisions made in response to those risks, assumptions, or issues. For example, a risk entry may identify a potential vendor delay, while the decision log records the final decision to switch vendors or adjust timelines.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
   - 「What is a bug life cycle? Stages, workflow, and examples」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
   - 「Every team, every use case,」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
 
 ## 空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）（diagnosing empty search results retrieval vs extraction failure data journalism data diary）
 - 文脈：手法
@@ -10648,6 +10648,7 @@
   - 「官報公告を利用する際の注意点は、後述する電子公告に比べて費用がかかることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
   - 「新聞公告を利用する際の注意点は、他の公告方法に比べて費用が高額になることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
 - 実例：
+  - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「例えば、北海道新聞の法定広告料金は、2026年7月時点で1段×1cm当たり、全道版が税別43,000円、札幌本社版が税別29,100円、函館版が税別9,800円です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
   - 「例えば、自宅マンションの一室を事務所にしている場合、オートロックの外側に掲示できるか、管理規約や管理者の承諾を確認しなければなりません」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
   - 「例えば、借入先の金融機関、代金をまだ支払っていない仕入先や業務委託先、未払賃金がある従業員などが該当します」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
@@ -12599,14 +12600,15 @@
 ## データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る）（data journalism spreadsheet checks verification handbook OSINT best practices）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「Investigators should verify online findings before treating them as reliable evidence. A single post, photo, or profile may not tell the full story, so investigators should look for supporting information from other sources. The Berkeley Protocol, an international standard for digital open-source investigations, identifies verification as a key step in the investigative process.」（https://ethosrisk.com/blog/osint-best-practices/）
   - 「Familiarize yourself with search and research methods, and new tools.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
 - 実例：
   - 「Journalists, human rights workers and others are constantly making use of open data, user-generated content and other open source information to produce critically important investigations of everything from conflict zones to human rights abuse cases and international corruption.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「It’s all thanks to open source information and user-generated content. As chapters and case studies in this Handbook detail, this same material is being used by investigative journalists in Africa and by groups such as Amnesty International and WITNESS to expose fraud, document war crimes and to help the wrongly accused defend themselves in court.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「This companion to the original Verification Handbook offers detailed guidance and illustrative case studies to help journalists, human rights workers and others verify and use open source information and user-generated content in service of investigative projects.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 
 ## AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）（how to identify AI-generated research reports and handle sources without corrections policy）
 - 文脈：突き合わせ
@@ -14031,11 +14033,108 @@
 
 ## 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）（Statistics Commission Japan consultation report survey change discontinuation sampling frame）
 - 文脈：統計の読み方
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
+
+## 買い手側の一次調査の実務（専門家への聞き取りの選び方・肩書きでなく担当範囲・意見より事実・辞めた経緯の偏り・In Practise の書き起こし）（buy-side primary research expert calls vetting by responsibility facts over opinions In Practise fieldwork）
+- 文脈：聞き取り・評価
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
+
+## 実質の持ち主（UBO）と名義役員・秘匿法域のたどり方（EBU Spotlight・OCCRP の手引き・登記の原本で確かめる・暫定の印）（beneficial ownership tracing nominee directors secrecy jurisdictions OSINT tutorial EBU Spotlight OCCRP）
+- 文脈：同一性・所有
+- 手順・やり方：
+  - 「確認の方法は、顧客の代表者等から申告を受ける方法です（施行規則の定め）」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「犯収法令で定められた確認の方法は、顧客の代表者等から申告を受ける方法です」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「【前提法令：入門①】AMLとは？マネーロンダリングの3ステップと実務の全体像」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「それぞれの業務そのものの進め方は、別の章の記事で扱っています」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「通常の確認と、厳格な顧客管理（EDD）のときの確認方法の違いまで、順番に見ていきます」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「25%超ルールの計算方法と、間接保有を合算するしくみ（支配法人でない会社の保有は含めません）」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「通常の確認とEDDでの確認方法の違い、「UBOが見当たらない」と言われたときの考え方」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「そのうえで、顧客の申告内容の真正性を基礎付ける証跡を求める手順の有効性を確保するため、証跡徴求の基準や方針をあらかじめ文書化しておくことが必要だと述べています」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「AML実務担当者・士業・金融機関コンプライアンス担当者向けの実務完結型ガイドです」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「施行規則が定める方法は、次の2つを足し合わせるものです」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「掛け算で28%と出しても、足し算で110%と出しても、規則の方法とは合いません」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「現地の登録代理人や専門家への照会を検討する方法もありますが、時間と費用がかかります」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「これまで「名義人を立てて実際の出資者を伏せる」というやり方で進出していた場合、今後は当局に対して実質的所有者の情報を正確に提出・管理しなければならず、」（https://note.com/vnhr/n/n62aa660f36ef）
+  - 「UBO（実質的支配者）とは？重要性や確認方法・注意点も解説 | ビジネスコンシェルジュ powered by お名前.com」（https://www.onamae.com/business/article/242733/）
+  - 「UBO（実質的支配者）とは？重要性や確認方法・注意点も解説」（https://www.onamae.com/business/article/242733/）
+- 突き合わせ・推定：
+  - 「間接保有は「掛け算」ではなく「合算」で判定すること（施行規則の定め）」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「図解5：間接保有の例：掛け算ではなく合算」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「図解6：間接保有の判定（掛け算ではなく合算）」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「掛け算では24%ですが、合算では40%になり、25%超に当たります」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「そのうえで、信頼に足る証跡を求める場合は、必要に応じて複数の資料を検証することが必要としています」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「→ 情報の信頼性、本人確認書類の真正性、制裁リストとの照合など」（https://note.com/argentroi/n/n20e6a3206229）
+  - 「実質的支配者を特定する3段階の判定と、間接保有の数え方（掛け算ではなく、施行規則の合算方式）」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「掛け算で28%と出しても、足し算で110%と出しても、規則の方法とは合いません」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「従来の反社会的な勢力との関連性調査は、情報を収集して照合するために多大な時間とリソースを必要としました」（https://www.onamae.com/business/article/242733/）
+  - 「反社チェックツールは自動化された工程を通じて、データベースや情報源から迅速に情報を収集・照合します」（https://www.onamae.com/business/article/242733/）
+  - 「アジア言語におけるビジネスIDデータ検証、言語間のヒューリスティック翻字解析、非構造化データのキュレーション、ビジネスから地理のIDデータ検証など、いくつかの分野における特許の共同保有者でもある」（https://c-datalab.com/ja/blog/idr-matching_20240628）
+  - 「「役職定年」と「定年」の功罪を、運用する側の論拠から検証する」（https://jinjibu.jp/spcl/goglobal/cl/detl/6206/）
+  - 「資本関係を何層も遡ってUBOを特定し、反社・制裁リストと照合し、株主や役員の変化を追い続ける」（https://timewell.jp/columns/kyb-antisocial-check-guide）
+  - 「法域をまたぐUltimate Beneficial Owner（UBO）検証 | Reevol Academy」（https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/）
+  - 「法域をまたぐUBO検証は再現可能なシーケンスに従う」（https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/）
+- 一次情報の探し方：
+  - 「厳格な確認が必要な場合は、株主名簿や有価証券報告書など、議決権の保有状況を示す書類の確認も行います（施行規則の定め）」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「国内では、2022年1月に、商業登記所による実質的支配者情報一覧の保管制度が始まっています」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「金融庁FAQは、申告の真正性を裏付ける資料の例として、株主名簿、有価証券報告書、法人税確定申告書の別表等を挙げ、実質的支配者リスト制度を活用することも考えられるとしています」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「ハイリスク取引にあたる場合は、資本多数決法人なら、株主名簿や有価証券報告書など議決権の保有状況を示す書類も確認し、代表者等からの申告も受けます」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「登記事項証明書（履歴事項全部証明書）をもらう」（https://note.com/argentroi/n/n20e6a3206229）
+  - 「株主名簿や有価証券報告書など、議決権の保有状況を示す書類の確認です」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「基本確認：名称・本店所在地を確認した／事業内容を、定款や登記事項証明書など規則が挙げる書類で確認した／取引目的を確認した／取引担当者（代表者等）の本人特定事項を確認した」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「企業登録内容の変更登記を行う際、実質的支配者に関する情報の追加提出が必要です」（https://note.com/vnhr/n/n62aa660f36ef）
+  - 「→ すでに名義貸しスキームを用いている場合、変更登記の手続き時に当局へ真の所有者情報を開示しなければならず、過去の名義スキームが問題視される可能性があります」（https://note.com/vnhr/n/n62aa660f36ef）
+  - 「UBOの定義は国によって異なるが、多くの場合「25％の閾値」が採用されている」（https://www.onamae.com/business/article/242733/）
+  - 「また、相手企業の商号変更や本店移転といった登記変更があった際は、背後の資本も動いている可能性があるため、定期チェックを待たずに再確認を行う体制を構築すべきでしょう」（https://www.onamae.com/business/article/242733/）
+  - 「つまり、法人の実態を把握するためには、登記上の代表者を確認するだけでなく、「最終的に誰がその法人を所有・支配しているのか」という視点を持つことが大切です」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「※実際の該当性は法人形態や支配関係などによって異なるため、公的機関の最新情報をご確認ください」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「これは、株式会社（特例有限会社を含む）が自ら作成した実質的支配者リストについて法務局へ申出を行い、登記官が所定の添付書面により内容を確認したうえで保管し、認証文付きの写しを交付する制度です」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「欧州では、このそれぞれの持ち分を掛け合わすこの計算方法が採用されています」（https://c-datalab.com/ja/blog/idr-matching_20240628）
+- 失敗・落とし穴：
+  - 「UBO（実質的支配者）とは？重要性や確認方法・注意点も解説 | ビジネスコンシェルジュ powered by お名前.com」（https://www.onamae.com/business/article/242733/）
+  - 「UBO（実質的支配者）とは？重要性や確認方法・注意点も解説」（https://www.onamae.com/business/article/242733/）
+  - 「海外対応おすすめの反社チェックツール10選を徹底比較！海外・国際取引における反社チェックとは？注意点や方法を解説」（https://www.onamae.com/business/article/242733/）
+  - 「ここでは、UBOコンプライアンスにおける注意点を解説します」（https://www.onamae.com/business/article/242733/）
+  - 「実質的支配者（UBO）とは？確認方法と判断基準、取引先調査の注意点を解説 | RISK EYES」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「実質的支配者（UBO）とは？確認方法と判断基準、取引先調査の注意点を解説」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「本記事では、実質的支配者の意味や25％・50％の判断基準、確認方法、取引先調査で注意したいポイントをわかりやすく解説します」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「取引先調査における実質的支配者の確認方法と注意点」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「海外取引では制裁対象者による所有にも注意する」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「ここで注意したいのは、「25％以上」ではなく「25％を超える」という点です」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「ここで注意したいのは、」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「同じ「50％」という数字が出てきますが、制度の目的や判定方法を混同しないよう注意しましょう」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「株主構成や資本関係は変化するため、過去の情報だけで判断せず、情報の最新性にも注意が必要です」（https://www.riskeyes.jp/hansha-check-column/347）
+  - 「資源が豊富な企業であっても、UBOコンプライアンスに取り組む際に同じような罠にはまることがあります」（https://jinjibu.jp/spcl/goglobal/cl/detl/6206/）
+  - 「問題：国ごとに「実質的所有者」の定義が異なるため、誤りが生じやすくなります」（https://jinjibu.jp/spcl/goglobal/cl/detl/6206/）
+- 実例：
+  - 「審査結果を踏まえ、日本は重点フォローアップ国となりました」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「迷いやすい4つのケースと、「見当たらない」と言われたときの考え方」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「→ 代表取締役をUBO扱いするケースが一般的」（https://note.com/argentroi/n/n20e6a3206229）
+  - 「UBOが海外に住んでる／外国籍のケースはさらに慎重に」（https://note.com/argentroi/n/n20e6a3206229）
+  - 「【顧客管理：入門③】本人確認の現場で迷う5つのケースと判断軸」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「ため、判断基準も個別のケースに合わせて変動します」（https://www.onamae.com/business/article/242733/）
+  - 「例えば、一部の株主に対して株主の保有分を超える議決権が付与されている場合や、非公式な手段による実質的支配が認められるケースにおいては、それに準じた判断基準が適用されることがあります」（https://www.onamae.com/business/article/242733/）
+  - 「結果、犯収法違反による逮捕・勾留・口座の凍結、国際的な金融制裁の対象となるリスクなどあります」（https://www.onamae.com/business/article/242733/）
+  - 「なお、企業取引において実質的支配者リストの開示義務はないため、開示拒否されるケースもあります」（https://www.onamae.com/business/article/242733/）
+  - 「例えば、少数株主で経営に影響を与えられない立場の株主はUBOには該当しません」（https://www.onamae.com/business/article/242733/）
+  - 「例えば、米国・EU圏では25％が標準的な閾値ですが、インドでは10％、南アフリカでは金融機関に対して5％を閾値するなど、国によって違いがあります」（https://www.onamae.com/business/article/242733/）
+  - 「ただし、正体不明の投資組合が急激に株を買い占めているようなケースでは、実質的な支配権が不透明な人物に移っている可能性があります」（https://www.onamae.com/business/article/242733/）
+  - 「、その結果も誤っている可能性が高い」（https://www.onamae.com/business/article/242733/）
+  - 「そのため、専門機関の調査を経ることで、複数の情報源をもとにした詳細な調査が行われ、調査結果の正誤を確認できます」（https://www.onamae.com/business/article/242733/）
+  - 「例えば、確認したい取引先の」（https://www.onamae.com/business/article/242733/）
+- 検索結果の抜粋：
+  - 「【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」... — May 26, 2026 · この記事では、実質的支配者（UBO）の考え方と判定の順序を、犯収法と施行規則の定めに沿って、具体的な場面を交えながら整理します。 KYB（法人の確認）の全体像は、【顧客管理：実務①】KYB実務ガイドもあわせてご覧ください。」（https://note.com/amlcftmukudori/n/ne95e558ca244）
+  - 「【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... — May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。本章は同条第3項の間接保有合算と、EDD時に ...」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 — Dec 11, 2025 · → 情報の信頼性、本人確認書類の真正性、制裁リストとの照合など。 ③ 法人KYCの情報とUBO情報を合わせて、リスク評価する ここが“AML担当の腕の見せどころ”。 事業内容が妙に複雑じゃない？ 株主が海外のタックスヘイブン？ UBOが何人も入れ替わってる？」（https://note.com/argentroi/n/n20e6a3206229）
+  - 「【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... — Apr 4, 2026 · 本記事は執筆時点の法令に基づきます。最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。 この ...」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「UBO の複雑な関係 - コンプライアンス・データラボ — UBO の複雑な関係 - コンプライアンス・データラボ コンプライアンス・データラボ https://c-datalab.com > blog > idr-matching_20240628」（https://c-datalab.com/ja/blog/idr-matching_20240628）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

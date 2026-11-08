@@ -11,13 +11,13 @@
   - ［一次］2026-11-08「⚫ シリコン太陽電池では、年間10GW以上の生産能力を有する工場も多く存在している」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-08「⚫ ペロブスカイト太陽電池は、国内において開発が進められ、一部の企業では2025年度から事業」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-08「① 中国：2015年頃からスタートアップ企業が複数設立」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
-- 顧客の顧客（発注元が求めること）（42件）：
+- 顧客の顧客（発注元が求めること）（41件）：
   - ［一次］2026-11-08「・補助率 ：2/3 (避難施設、サプライチェーンの脱炭素化など政策誘導効果の高いものに」https://www.env.go.jp/content/000389653.pdf
   - ［一次］2026-11-08「※2 防衛省施設は、既存施設の更新に係る計画（マスタープラン）を作成しているところであり、上記ポテンシャルには含まれない」https://www.env.go.jp/content/000389653.pdf
   - ［一次］2026-11-06「特に米国では約30年の実績があり、米国市場で要求されるUL規格やNEC規格などの安全基準への対応、米国顧客から要求されるロックウェル社製の制」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「過去には太陽電池の受託生産（OEM生産）にも取り組み、この経験を太陽電池関」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「や防炎性能の認証を受けた遮熱シートを採用しており耐久性も高い（写真 10）」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
-- 顧客の競合（奪いに来る側）（92件）：
+- 顧客の競合（奪いに来る側）（91件）：
   - ［一次］2026-11-08「め、2000年頃には、世界シェアの50%を占めるに至った」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-08「2005年以降、中国等の海外勢に押され、日・」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-08「米・独勢は一斉にシェアを落とし、日本のシェアは直近１％未満となっている」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
@@ -29,7 +29,7 @@
   - ［記事］2026-11-08「Central Electricity Regulatory Commission (Terms and Conditions for Tariff determination from Renewable Energy Sources」https://now.solar/2026/02/18/japan-to-offer-support-for-exports-of-flexible-perovskite-solar-cells-nikkei-asia/
   - ［記事］2026-11-08「Gujarat Electricity Regulatory Commission 2」https://now.solar/2026/02/18/japan-to-offer-support-for-exports-of-flexible-perovskite-solar-cells-nikkei-asia/
   - ［記事］2026-11-06「当面の事業規模として、ショールームおよび販売代理店を都内に新設する費用として3億円を見込む」https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04796/?ST=msb
-- 政治（法・予算・規制）（87件）：
+- 政治（法・予算・規制）（86件）：
   - ［一次］2026-11-08「1994年から、住宅用太陽光発電向け補助金を開始」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-08「間投資がなされず、2005年の住宅用太陽光発電への補助金の終了も相まって、民間の投資」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-08「かった（2005年住宅用太陽光発電への補助金の終了 ）」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
@@ -139,7 +139,7 @@
   - ［一次］2026-11-07「そのときにやはり実感いたしましたのは、私どもは京都府北部でございまして、織物業とか、特殊な伝統産業もあるわけでございますけれども、織物のみならず、建設業や観光業、また運送業など、もうありとあらゆる業界の方々が人手不足で悩んでいるというようなことをおっしゃっておりました」https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm
   - ［一次］2026-11-07「そこで、こういった厳しい人手不足という状況に対してどのように対応したらいいのかということなんですけれども、一つは、人が増えればいいわけですが、人口は急に増えないということでございますので、考えていくと、例えば、女性の就労環境をよりよくしてより働いていただける、活躍していただける場をつくるですとか、障害のある方でもその能力を生かせる職場を用意をして活躍をいただくとか、また、さらには、物理的に、外国の方に働く環境を整えて働いていただくという」https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm
   - ［一次］2026-11-07「このような人手不足に対応いたしますためには、経営者自らが生産性向上や労働時間の短縮等の労働環境改善に向けた取組を進めつつ、自社の魅力を高めることにより、人材を引きつけていくことが重要であります」https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm
-- 技術（新しい技術・実証）（90件）：
+- 技術（新しい技術・実証）（89件）：
   - ［一次］2026-11-07「加えて、将来必要とされる、まさに将来の成長力を左右するような、二ナノと言われるような最先端の次世代半導体についても、しっかりと日本で、国内で供給を確保できるようにということで、二〇年代後半の量産を目指して、北海道でラピダスのプロジェクトを今推進をしているところであります」https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm
   - ［一次］2026-11-07「そうした中、今後の我が国において同時にエネルギーの安定供給も実現しなきゃならないということでございますので、今後、どういったエネルギーミックスがベストなのかですとか、また、どういった新技術に重点的に力を注いでいくのかとかいったことが極めて国の方針として重要になってくると思いますので、この点について経済産業省としての考え方をお聞かせいただきたいと思います」https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm
   - ［一次］2026-11-07「また、原子力につきましても、安全性が確認された原子力発電所の再稼働を進めるとともに、次世代革新炉の開発、建設などの取組を進めてまいりたいと考えております」https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm
@@ -274,7 +274,7 @@
 - 痛み・損（深さの印）（2件）：
   - ［一次］2026-11-06「受注残高 1.１兆円の確実な遂行に」https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf
   - ［一次］2026-11-06「Review of operating period (40 years + 20-year extension + shutdown period such as inspection)」https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf
-- 顧客（金を払う側）（70件）：
+- 顧客（金を払う側）（69件）：
   - ［一次］2026-11-07「すでに官民一体となって研究開発が進む合成燃料（e-fuel）ですが、実はその裏には、JOGMECが民間企業と共同で開発した、「JAPAN-GTLプロセス」という技術が生かされています」https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html
   - ［一次］2026-11-07「合成燃料（e-fuel）は、再生可能エネルギー由来の水素（このような水素を「グリーン水素」といいます）と、発電所や工場から排出される二酸化炭素や大気中の二酸化炭素を使って製造することから、従来の化石燃料と違い、ライフサイクル上で大気中の二酸化炭素を増やすことがない、カーボンニュートラルな燃料と言えます」https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html
   - ［一次］2026-11-07「このプロジェクトの背景には、JOGMECが民間企業と共同で、1998年から2012年にかけて取り組んできた日本独自のGTL技術「JAPAN-GTLプロセス」が生かされています」https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html
@@ -286,7 +286,7 @@
   - ［一次］2026-11-06「【2024年11月】審議会（脱炭素燃料政策小委、資源・燃料分科会）」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf
   - ［一次］2026-11-06「交通部門での効率的な脱炭素化の一部として、2050年ま」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf
   - ［一次］2026-11-06「◆ また、E20の認証制度にかかる議論を速やかに開始し 、車両開発等のリードタイムを十分に確保した上で 、2030年」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf
-- 顧客の競合（奪いに来る側）（69件）：
+- 顧客の競合（奪いに来る側）（68件）：
   - ［一次］2026-11-07「石油由来の燃料との競争では、資源量も多く相対的に安価な天然ガスと資源がタイトになりつつある原油との価格差が拡がればGTLが経済的に有利になる期待がありました」https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html
   - ［一次］2026-11-06「（出典）米国穀物協会（U.S. Grains Council：USGC） <https://safmagazine.com/articles/usgc-publishes-new-ethanol-infographics>」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf
   - ［一次］2026-11-06「• インドは25年までに全土でE20の実現、ブラジルは30年までにE30の実現を目指している」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf
@@ -313,7 +313,7 @@
 - 社会（人・担い手）（2件）：
   - ［一次］2026-11-04「特に石油精製業では、国内の石油需要の減少で設備能力の削減が求められる一方、余剰となったタンク、土地、人材などの資源をどうするかという課題があります」https://www.enecho.meti.go.jp/about/special/johoteikyo/gosei_nenryo.html
   - ［SNS］2026-11-04「物流人材の育成やノウハウの伝承に悩んでいる方、物流に従事する物流企業の方、その他物流に関わる全ての人に向けて、有益な記事を毎日配信中」https://note.com/aominant/n/n12bd1a3ca008
-- 技術（新しい技術・実証）（70件）：
+- 技術（新しい技術・実証）（69件）：
   - ［一次］2026-11-07「すでに官民一体となって研究開発が進む合成燃料（e-fuel）ですが、実はその裏には、JOGMECが民間企業と共同で開発した、「JAPAN-GTLプロセス」という技術が生かされています」https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html
   - ［一次］2026-11-07「現在、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「グリーンイノベーション基金事業／CO2等を用いた燃料製造技術開発プロジェクト」（2022～2028年度）の下、商業化に向け、官民連携による合成燃料（e-fuel）の製造技術の研究開発が進められています」https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html
   - ［一次］2026-11-07「実はこの「CO2等を用いた燃料製造技術開発プロジェクト」は、製造プロセスをすべてゼロから開発するわけではありません」https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html
@@ -402,7 +402,7 @@
   - ［一次］2026-11-07「(7) 組織変革と人材の確保・育成」https://www.pref.toyama.jp/documents/50822/denki4.pdf
   - ［一次］2026-11-06「具体的には、東日本大震災及び原子力災害によって産業が失われた避難指示解除区域等において、雇用の創出及び産業集積を図り、被災者の自立・帰還を加速するため、工場等の新増設の支援を実施するため110億円〔▲12億円〕、災害現場等の過酷環境下や人手不足の産業現場等でも対応可能となるようなロボットの研究開発を実施するとともに、再生可能エネルギーを動力源として利用する水素エネルギーネットワークの構築等の技術開発等を実施するため63億円〔＋2億円〕等」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「原子力規制に必要な知見を有する人材を育成し、審査・検査体制等の充実・強化につなげるため、国内の大学等における原子力規制に係る教育研究プログラム確立に5億円〔＋0.3億円〕を計上しているほか、令和6年能登半島地震において地盤の隆起や変位・変形が生じたことを踏まえ、断層の活動性の評価手法等について新たな知見を取得し、審査ガイドラインの見直し等を実施するために5億円〔＋2億円〕を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-- 技術（新しい技術・実証）（97件）：
+- 技術（新しい技術・実証）（96件）：
   - ［一次］2026-11-08「【インタビュー】「地熱開発を進めていくためには、地域との共生が何より大切」—小椋 伸幸氏（後編）｜エネこれ｜資源エネルギー庁」https://www.enecho.meti.go.jp/about/special/johoteikyo/interview13ogura02.html
   - ［一次］2026-11-08「世界第3位のポテンシャルを持ち、高い技術を有する日本の地熱開発」https://www.enecho.meti.go.jp/about/special/johoteikyo/interview13ogura02.html
   - ［一次］2026-11-08「」では、海外ではかなり大型の地熱発電の開発があるとのお話をうかがいました」https://www.enecho.meti.go.jp/about/special/johoteikyo/interview13ogura02.html
@@ -414,7 +414,7 @@
   - ［SNS］2026-11-06「橘 龍馬 on X : " 地熱発電 【関連株・銘柄まとめ 】 自民×維新 ... 橘 龍馬 on X : " 地熱発電 【関連株・銘柄まとめ 】 自民×維新 ... X https://x.com > @t_ryoma1985」https://x.com/t_ryoma1985/status/1982288576948613486
   - ［SNS］2026-11-05「橘 龍馬 on X: " 地熱発電 【関連株・銘柄まとめ 】 自民×維新 ... 橘 龍馬 on X: " 地熱発電 【関連株・銘柄まとめ 】 自民×維新 ... X https://x.com > @t_ryoma1985」https://x.com/t_ryoma1985/status/1982288576948613486
   - ［SNS］2026-11-05「"これまでの 地熱発電 のように地下の熱水溜まりのお湯を使う ... "これまでの 地熱発電 のように地下の熱水溜まりのお湯を使う ... X https://x.com > @nishy03」https://x.com/nishy03/status/1870107920387780876
-- SNS・note（note・本文）（61件）：
+- SNS・note（note・本文）（60件）：
   - ［SNS］2026-11-08「初心者でも5分でわかる地熱発電の仕組み：世界3位の資源量とシェア0.2%のギャップ｜にしぴー＠エネルギー業界×転職エージェント」https://note.com/geoagent0107/n/n1e2ae327c189
   - ［SNS］2026-11-08「初心者でも5分でわかる地熱発電の仕組み：世界3位の資源量とシェア0.2%のギャップ」https://note.com/geoagent0107/n/n1e2ae327c189
   - ［SNS］2026-11-08「「地熱発電って、温泉の蒸気で発電してるんでしょ？」——この質問、実は半分正解で半分誤解です。」https://note.com/geoagent0107/n/n1e2ae327c189
@@ -682,12 +682,12 @@
   - ［一次］2026-11-08「我が国においては、製造業あるいはロボティクス、非常に強みを持って、日本がまさに力を発揮する可能性のある分野でございますので、この分野のＡＩについては例えば集中的な支援が必要ではないか、こういった観点も含めて、ＡＩ開発において今後我が国が世界をリードしていくための戦略について今経産省どのように考えているのか、大臣からお伺いをしたいと思います」https://gclip1.grips.ac.jp/video/video/14352
 - SNS・note（note・検索結果の抜粋）（1件）：
   - ［SNS］2026-11-05「バイオ プラスチック普及の切り札？マスバランス方式とは？ バイオ プラスチック普及の切り札？マスバランス方式とは？ note https://note.com > 科学・テクノロジー > 化学」https://note.com/chemical_cbs/n/n43dbc9ade274
-- SNS・note（note・本文）（9件）：
+- SNS・note（note・本文）（8件）：
   - ［SNS］2026-11-06「マスバランス方式の考え方を採用すると、原料の20%がバイオ由来なので、出来上がったプラスチックの20％をバイオ比率100％のプラスチックとしてみなすことができる。 残りの80%は100%石油由来のプラスチックとしてカウントされる。」https://note.com/chemical_cbs/n/n43dbc9ade274
   - ［SNS］2026-11-05「バイオプラスチック普及の切り札？マスバランス方式とは？｜とるえん@化学メーカー分析」https://note.com/chemical_cbs/n/n43dbc9ade274
-  - ［SNS］2026-11-05「バイオプラスチック普及の切り札？マスバランス方式とは？」https://note.com/chemical_cbs/n/n43dbc9ade274
   - ［SNS］2026-11-05「バイオプラスチックへの移行期間の手法としてマスバランス方式というのが数年前から注目を集めている 。日本の化学メーカーも取り組んでおり、今後マスバランス方式によってバイオマス由来特性を割り当てたプラスチックが増えると予想される。」https://note.com/chemical_cbs/n/n43dbc9ade274
   - ［SNS］2026-11-05「再生可能原料と従来の化石由来原料が混ざり合う製造プロセスにおいて、環境価値をどのように割り当てるのか。」https://note.com/chemical_cbs/n/n43dbc9ade274
+  - ［SNS］2026-11-05「本記事では、マスバランス方式の仕組みやメリットを分かりやすく解説する。」https://note.com/chemical_cbs/n/n43dbc9ade274
 - SNS・note（LinkedIn・検索結果の抜粋）（5件）：
   - ［SNS］2026-11-05「Bio - based Chemicals : Paving the Way for a Sustainable ... Bio - based Chemicals : Paving the Way for a Sustainable ... LinkedIn https://www.linkedin.com > pulse > bi...」https://www.linkedin.com/pulse/bio-based-chemicals-paving-way-sustainable-1xghe
   - ［SNS］2026-11-05「Upscaling bio - based chemicals and plastics in the EU | Agata ... Upscaling bio - based chemicals and plastics in the EU | Agata ... LinkedIn https://www.linkedin.com > posts > a...」https://www.linkedin.com/posts/agata-kotkowska_upscaling-bio-based-chemicals-and-plastics-activity-7515795735158755328-nMtR

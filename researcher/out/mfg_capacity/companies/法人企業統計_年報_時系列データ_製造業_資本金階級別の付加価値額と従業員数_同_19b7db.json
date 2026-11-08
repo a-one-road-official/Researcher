@@ -1,0 +1,569 @@
+{
+ "name": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104）",
+ "en": "Financial Statements Statistics of Corporations annual time series manufacturing value added employees by capital size Excel MOF PRI",
+ "aliases": [
+  "site:mof.go.jp 法人企業統計 時系列データ 製造業 付加価値額 従業員数 資本金階級別",
+  "site:mof.go.jp/pri 法人企業統計 年次別調査 製造業 労働生産性",
+  "法人企業統計調査 年報 製造業 資本金1千万円以上1億円未満 付加価値 従業員 -freee"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T13:55:06.043814+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/130.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003454817",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/57-2-305.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/55/4/55_273/_html/-char/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/todobuono/n/nc6e8c7e71199",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/hojin/doko/doko-time-menu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rosei.jp/readers/article/55347",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001232565&lid=000001128869&result_page=1&statdisp_id=0004055501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/3_data/kikan/kigyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/15153492/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/blog/ogawa2/35112/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/NV.IND.MANF.ZS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/72nenkan/zenbun/en72/book/pageindices/index230.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imf.org/external/pubs/ft/scr/2006/cr06115.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/130.pdf",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://www.future-procurement.com/insight/",
+    "https://www.scbri.jp/publication/.assets/geppo_2022-3.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_18_06_27b.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 受注残 人手不足",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.rosei.jp/readers/article/55347"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 人手不足 損失 億円",
+   "results": [
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003454817",
+    "https://www.indb.co.jp/insight/",
+    "https://newspicks.com/news/15153492/body/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104）",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/57-2-305.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.jstage.jst.go.jp/article/johokanri/55/4/55_273/_html/-char/en",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://www.esri.cao.go.jp/jp/stat/hojin/doko/doko-time-menu.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 推移",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.jstage.jst.go.jp/article/johokanri/55/4/55_273/_html/-char/en",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.rosei.jp/readers/article/55347"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 統計 PDF",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/57-2-305.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://www.esri.cao.go.jp/jp/stat/hojin/doko/doko-time-menu.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jstage.jst.go.jp/article/johokanri/55/4/55_273/_html/-char/en",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001232565&lid=000001128869&result_page=1&statdisp_id=0004055501",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 従業者規模別",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/57-2-305.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.jstage.jst.go.jp/article/johokanri/55/4/55_273/_html/-char/en",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://note.com/todobuono/n/nc6e8c7e71199"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 1人当たり 万円",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/kigyou.html",
+    "https://newspicks.com/news/15153492/body/",
+    "https://jp.meviy.misumi-ec.com/info/ja/blog/ogawa2/35112/",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） 2015 2025",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.rosei.jp/readers/article/55347",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Financial Statements Statistics of Corporations annual time series manufacturing value added employees by capital size Excel MOF PRI Japan statistics",
+   "results": [
+    "https://www.mof.go.jp/english/pri/reference/ssc/index.htm",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.ZS",
+    "https://www.stat.go.jp/english/data/nenkan/72nenkan/zenbun/en72/book/pageindices/index230.html",
+    "https://www.imf.org/external/pubs/ft/scr/2006/cr06115.pdf",
+    "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+    "https://fred.stlouisfed.org/tags/series?t=employment%3Bjapan%3Bmanufacturing",
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://www.dbj.jp/ricf/en/databank/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104）",
+   "results": [
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "https://note.com/arukuwa/n/n465f6ccdb4a5",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/africanist/n/n3b0bb74f982d",
+    "https://note.com/seikei_platform/n/ne8d955b1d59b",
+    "https://note.com/loyal_ivy9071/n/na07c4d1646dd",
+    "https://note.com/office_22art/n/n3c54cc0af89f",
+    "https://note.com/ezuremanagement/n/n3e69d2b40cb9",
+    "https://note.com/mb_cho/n/n4e71ba6cb33b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104）",
+   "results": [
+    "https://x.com/OgawaSeisakusho/status/2114828517833875700",
+    "https://x.com/OgawaSeisakusho/status/2104323258464248229",
+    "https://x.com/OgawaSeisakusho/status/2059745207231635618",
+    "https://x.com/OgawaSeisakusho/status/2103809193270825107",
+    "https://x.com/PRI_MOF_Japan/status/2028618857745879221",
+    "https://x.com/OgawaSeisakusho/status/2114826491607560531",
+    "https://x.com/OgawaSeisakusho/status/2069195909179785695"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104）",
+   "results": [
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の投資は本当に少ないのか-付加価値と総固定資本形成の関係-activity-7405339762611482624-gktE",
+    "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/",
+    "https://jp.linkedin.com/posts/dmaeda-2147ba11a_人的資本の解像度が価値創造のレバーの見える化へ繋がる-necソリューションイノベータ-activity-7416764539242770432-41QH",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7487718535285133312/",
+    "https://tw.linkedin.com/pulse/財報分析001-怎麼從財報精準找出年度資本支出capital-expenditure-珮毅-chu-pei-yi-朱",
+    "https://jp.linkedin.com/posts/jetro-japanexternaltradeorganization_海外ビジネスのヒントがここにジェトロ2026年版-主要国地域の貿易投資年報-activity-7503361733315596288-J304",
+    "https://jp.linkedin.com/posts/kpmg-jp_cfo-資本コスト経営-企業価値向上-activity-7452899086032326657-pVg7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104）",
+   "results": [
+    "https://www.facebook.com/incorp100/posts/製造業勢邁向全面升級下智能工廠的全球產值由現時到二二年時將達2700億美元/2046358342257822/",
+    "https://www.facebook.com/bochiuansu/photos/自寫商業實務個案-全球製造業正經歷工業40帶來的全面數位轉型2025年最新發展顯示智慧工廠建設已進入實質整合階段雲端運算邊緣運算工業物聯網人工智慧與5g6g通訊/1143405501132684/",
+    "https://www.facebook.com/mitsuiandco/posts/人的資本レポート2025を発刊しました三井物産の多様な人が生み出す持続的な価値創造のプロセスを本レポートで紹介しています詳細はこちら/805148028715899/",
+    "https://www.facebook.com/baudit.japan/posts/会計検査のあらまし令和７年会計検査院年報を発行しました詳細はこちらをご覧ください/1229695616012924/",
+    "https://www.facebook.com/HKPC.1967/videos/hkpc-阿tec-同-biz好介紹睇年報只需一分鐘生產力局201314年報以價值為主題回顧本局去年度善用本身的資本協助企業及各行業創造經濟環境和c價值的工作年/10152922766234631/",
+    "https://www.facebook.com/bump.drama/videos/この会社終わってる権力の花園はショートドラマアプリbumpで全話配信開始アプリのdlはこちらhttpsemolebumpgolinkdrolcストーリー家柄財力/723429520854174/",
+    "https://www.facebook.com/masahide.hasumi/videos/移民問題を軽視してはいけない理由かつては一億総中流階級と謳われた日本ですが現在の相対的貧困率は約154157であり国民の約67人に1人が直面しています米国でジャ/1514828337109415/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） note 社長",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=8&year=20211&month=0&toukei=00350600&tstat=000001047744&tclass1=000001047749&result_back=1&tclass2val=0&stat_infid=000040090173",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://note.com/yukionoguchi/n/n7692a77ce05e",
+    "https://newspicks.com/news/15153492/body/",
+    "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104） X 投稿",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.rosei.jp/readers/article/55347",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.soumu.go.jp/main_content/000666127.pdf",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://newspicks.com/news/14990936/body/",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Financial Statements Statistics of Corporations annual time series manufacturing value added employees by capital size Excel MOF PRI site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/asadsiddiqui01_most-people-learn-financial-ratios-the-wrong-activity-7467424768691081216-_Zeh",
+    "https://www.linkedin.com/posts/shaha-nur-gause-chowdhury_finance-investment-valuation-activity-7393260176276914177-5BUg",
+    "https://www.linkedin.com/posts/financial-modeling-world-cup_10-excel-functions-you-should-know-1-activity-7435731045997694976-Bfgv",
+    "https://www.linkedin.com/posts/dr-ryan-ahmed_watch-claude-build-a-mckinsey-level-financial-activity-7432093493206024192-LmoX",
+    "https://www.linkedin.com/posts/sytaylor_just-in-nine-global-banks-now-own-a-piece-activity-7503832687195951105-TUly",
+    "https://www.linkedin.com/in/gleno9",
+    "https://www.linkedin.com/in/robertmdelucia",
+    "https://www.linkedin.com/posts/financial-modeling-world-cup_100-excel-functions-download-a-free-high-resolution-activity-7391254050064900096-yoms",
+    "https://www.linkedin.com/posts/anuradhapandya1998_finance-corporatefinance-investmentanalysis-activity-7396758287569973248-Oiy3",
+    "https://www.linkedin.com/in/garrettlong1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ43頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ43頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ43頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ43頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ43頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ43頁・検索18回）",
+  "10年推移": "記載なし（読んだ43頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ43頁・検索18回）"
+ }
+}

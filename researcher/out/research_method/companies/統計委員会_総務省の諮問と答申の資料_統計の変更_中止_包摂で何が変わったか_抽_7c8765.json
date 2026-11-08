@@ -1,0 +1,382 @@
+{
+ "name": "統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）",
+ "en": "Statistics Commission Japan consultation report survey change discontinuation sampling frame",
+ "aliases": [
+  "site:soumu.go.jp 諮問 答申 工業統計調査 経済構造実態調査 変更",
+  "site:soumu.go.jp 統計委員会 答申 中間年 経済構造統計",
+  "統計 母集団 名簿 変更 時系列 断層 解説"
+ ],
+ "context": "統計の読み方",
+ "kind": "market",
+ "researched_at": "2026-11-08T13:54:54.359227+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/tommy_tomo/n/n83e6cf9cb47b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazucallnote/n/n01dcdf1770c4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hide_sekihara/n/nc406738de242",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jisyutore/n/n93542a6fb4eb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/koyagi_village/n/nc58fc376ee99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hinachan_04/n/n2ecf2ad8ccff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/simon/02shingi05_02000077.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/iin_bukai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kokusei/2025/iinkai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/02toukatsu01_000006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/kaigi/02shingi05_02000669.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/simon/simon_42.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2020pdf/20201001082.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000886776.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/kagaku/r3/pdf/1sanko2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/statcom/decisions-ref/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://devinit.org/files/unsd/hhsurveys/pdf/household_surveys.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://documents1.worldbank.org/curated/en/742581588695955271/pdf/Guidelines-on-Sampling-Design.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchgate.net/post/Tracking_establishment_survey_frame_changes",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/en/stat/shouhi/shouhi_kaisetsu-e.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目） site:note.com",
+   "results": [
+    "https://note.com/tommy_tomo/n/n83e6cf9cb47b",
+    "https://note.com/kazucallnote/n/n01dcdf1770c4",
+    "https://note.com/hide_sekihara/n/nc406738de242",
+    "https://note.com/jisyutore/n/n93542a6fb4eb",
+    "https://note.com/koyagi_village/n/nc58fc376ee99",
+    "https://note.com/hinachan_04/n/n2ecf2ad8ccff",
+    "https://note.com/taituna/n/n34c2cf397fdb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目） note",
+   "results": [
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/simon/02shingi05_02000077.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/iin_bukai.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/inquiry.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/report/index.html",
+    "https://www.stat.go.jp/data/kokusei/2025/iinkai.html",
+    "https://www.soumu.go.jp/menu_news/s-news/02toukatsu01_000006.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2020pdf/20201001082.pdf",
+    "https://www.soumu.go.jp/main_content/000886776.pdf",
+    "https://www.mext.go.jp/b_menu/shingi/chousa/shougai/052/gijiroku/mext_00002.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目） やり方",
+   "results": [
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/simon/02shingi05_02000077.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/kaigi/02shingi05_02000669.html",
+    "https://www.stat.go.jp/",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/simon/simon_42.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/report/index.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2020pdf/20201001082.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
+    "https://150.31.180.200/main_sosiki/singi/toukei/report/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目） 事例",
+   "results": [
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/simon/02shingi05_02000077.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/report/index.html",
+    "https://www.soumu.go.jp/main_content/000886776.pdf",
+    "https://www.soumu.go.jp/menu_news/s-news/02toukatsu01_000006.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2020pdf/20201001082.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/iin_bukai.html",
+    "https://www.stat.go.jp/info/kenkyu/kagaku/r3/pdf/1sanko2.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Statistics Commission Japan consultation report survey change discontinuation sampling frame",
+   "results": [
+    "https://unstats.un.org/unsd/statcom/decisions-ref/",
+    "https://www.stat.go.jp/english/",
+    "https://devinit.org/files/unsd/hhsurveys/pdf/household_surveys.pdf",
+    "https://documents1.worldbank.org/curated/en/742581588695955271/pdf/Guidelines-on-Sampling-Design.pdf",
+    "https://www.researchgate.net/post/Tracking_establishment_survey_frame_changes",
+    "https://www.esri.cao.go.jp/en/stat/shouhi/shouhi_kaisetsu-e.html",
+    "https://research.rug.nl/files/93751314/smy016_1_.pdf",
+    "https://data.unwomen.org/sites/default/files/documents/Publications/2023/AP-sampling-guidelines.pdf",
+    "https://www.fao.org/statistics/events/events-detail/57th-session-of-the-united-nations-statistical-commission/en",
+    "https://www.soumu.go.jp/english/dgpp_ss/seido/masterplan.htm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）",
+   "results": [
+    "https://note.com/ya_w/n/naa94edfdfae0",
+    "https://note.com/tommy_tomo/n/n83e6cf9cb47b",
+    "https://note.com/ya_w/n/n7c32418f0d0b",
+    "https://note.com/koginbearstyle/n/nac1772bd451d",
+    "https://note.com/uranus_xii_jp/n/n474076cbba77",
+    "https://note.com/kazucallnote/n/n01dcdf1770c4",
+    "https://note.com/taituna/n/n34c2cf397fdb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）",
+   "results": [
+    "https://x.com/hashtag/統計委員会",
+    "https://x.com/isashinichi/status/2064535690948571426",
+    "https://x.com/hiroaki_skm/status/2062729397459910881",
+    "https://x.com/DPFPnews/status/1099969779249471488",
+    "https://x.com/HiromitsuTakagi/status/2068617564205518893",
+    "https://x.com/autumn_good_35/status/2062007621553701251",
+    "https://x.com/high190/status/2062751303210807766"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）",
+   "results": [
+    "https://jp.linkedin.com/pulse/role-advisory-board-member-guiding-growth-promising-hameed-qazi-xvfbf?tl=ja",
+    "https://jp.linkedin.com/posts/sango-kana-7915681aa_総務省報道資料ネットワーク環境の変化を踏まえた接続政策等の在り方の情報通信審議会-activity-7386578048218849280-NAOa",
+    "https://jp.linkedin.com/posts/弘和-吉井-492b80b_人事院が開催している人事行政諮問会議の中間報告が公表されました一部の構成員の先生方-activity-7194255621246894081-0axo",
+    "https://jp.linkedin.com/pulse/what-you-need-know-advisory-boards-advisoryboardcentre-wfq3c?tl=ja",
+    "https://www.linkedin.com/jobs/summer-classics-jobs",
+    "https://www.linkedin.com/posts/kenji-sarukura-56416b66_2025年土壌汚染対策法改正の議論とその方向性-牛島総合法律事務所ushijima-activity-7308347896146378753-ohAX"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:facebook.com 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）",
+   "results": [
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/KiyoharaKeikoMitaka/posts/総務省第190回統計委員会第39回企画部会に総務省会議室で出席しました公的統計の整備に関する基本的な計画の変更について寄せられたパブリックコメント等及び答申案に/604750008332564/",
+    "https://www.facebook.com/MICJAPAN.gov/",
+    "https://www.facebook.com/KiyoharaKeikoMitaka/posts/総務省-統計委員会-新旧委員及び各府省の統計幹事等関係者による意見交換会に第6期に続く現在の第7期の委員として出席しました会議の冒頭長屋聡-総務審議官-は政府を/471822326768491/",
+    "https://www.facebook.com/AsakoOmi.jp/posts/統計委員会にてご挨拶をするとともに令和５年度からの新たな公的統計の整備に関する基本的な計画の諮問書を手交しました新たな計画が時代の変化に応えまた日本の統計行政が/615831697035585/",
+    "https://www.facebook.com/KiyoharaKeikoMitaka/posts/総務省統計委員会第7回デジタル部会に参加し再確認するデジタル化と統計の関係の重要性９月１２日に総務省統計委員会デジタル部会が会議室とオンラインによるハイブリッド/1236291408511751/",
+    "https://www.facebook.com/KiyoharaKeikoMitaka/posts/私は三鷹市長在任中から総務省統計委員会委員を務めており昨年10月に再任されました統計委員会は統計に関する基本的事項基本計画の案基幹統計調査の変更など統計法に定め/1008302876453764/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目） note 社長",
+   "results": [
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/inquiry.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/iin_bukai.html",
+    "https://www.soumu.go.jp/menu_news/s-news/02toukatsu01_000006.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/report/index.html",
+    "https://www.stat.go.jp/data/kokusei/2025/iinkai.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/02shingi05_02000189.html",
+    "https://www.kiyohara-keiko.org/view/823",
+    "https://www.soumu.go.jp/main_content/000576503.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目） X 投稿",
+   "results": [
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/02toukatsu01_000006.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/inquiry/inquiry.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/iin_bukai.html",
+    "https://www.soumu.go.jp/menu_news/s-news/02shingi05_02000189.html",
+    "https://www.stat.go.jp/info/kenkyu/kagaku/r3/pdf/1sanko2.pdf",
+    "https://www.kiyohara-keiko.org/view/927",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/snews_back.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Statistics Commission Japan consultation report survey change discontinuation sampling frame site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/haoyi-chen-47b62528",
+    "https://www.linkedin.com/in/yongyi-min-5552428",
+    "https://www.linkedin.com/in/dale-rhoda-a01747a",
+    "https://www.linkedin.com/posts/alain-labrique-a678a7_last-week-who-successfully-launched-the-activity-7513292557293092866-OlW6",
+    "https://www.linkedin.com/in/bethjarosz",
+    "https://www.linkedin.com/in/christinaknudson",
+    "https://www.linkedin.com/in/julia-maddalena-8739693a",
+    "https://www.linkedin.com/in/dmatekenya",
+    "https://www.linkedin.com/in/jonilricks",
+    "https://www.linkedin.com/in/cassandrathiel"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ27頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ27頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ27頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ27頁・検索12回）",
+  "実例": "記載なし（読んだ27頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T13:54:54.359227+00:00"
+}

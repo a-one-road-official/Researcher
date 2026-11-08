@@ -1,0 +1,629 @@
+{
+ "name": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105）",
+ "en": "listed companies contract heat treatment plating stamping die making Japan TSE metal products association member list",
+ "aliases": [
+  "日本熱処理工業会 会員名簿 上場",
+  "全国鍍金工業組合連合会 上場 会社 めっき加工 有価証券報告書",
+  "東証 金属製品 プレス加工 受託 上場 企業 事業の内容 有価証券報告書 -求人"
+ ],
+ "context": "会社・一次",
+ "kind": "market",
+ "researched_at": "2026-11-08T13:55:06.906911+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.cmp.co.jp/library/pdf/public/2018/20180913-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/104274",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jencorp.net/jp/net/model/report_unsold.html?id=687001",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://waza.mhlw.go.jp/sasshi/pdf/H25_ginoushi_jireisyuu.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.punch.co.jp/ir/upload/20231113_shared%20research_JP_min.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.muro.co.jp/file/PageContents-433",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jencorp.net/jp/net/bid/condition_report.html?id=657473",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hd.dowa.co.jp/ja/ir/library/annual/main/01112/teaserItems2/0/linkList/0/link/dowareport2026_j_a3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-high-tec.com/ir/files/1dfc527b1c363282657c5b52ab44a3882d2015d1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.parker.co.jp/ja/_pdf/topics/CorporateReport2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/special/vibrant/20231019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openjicareport.jica.go.jp/pdf/11617362_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kabutore.biz/rensyu/kanrenmeigara695.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%9E%8B%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teikuro.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/4080401014315",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maedauni.co.jp/plating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.platinumpartners.jp/kaite-kinzoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5687/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cmp.co.jp/ir/news/ir_news/IR/2022/20220131-2.pdf",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsui.co.jp/parts/pdf-view/web/viewer.html?file=/market/stock/ipo/2020/pdf/IPOreport_73570.pdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/themes/?theme=%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5&market=",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabutan.jp/themes/?theme=%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabutan.jp/themes/?theme=%E9%87%91%E5%9E%8B",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://minkabu.jp/theme/%E9%87%91%E5%9E%8B",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/all/hyoumen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E3%82%81%E3%81%A3%E3%81%8D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanagawa-model.com/common/pdf/part2-2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-fma.or.jp/7joh/data/kaihou17_200601.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.punch.co.jp/news/upload/20251202_shared_research_JP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kkj-st.go.jp/download/data/seizo_class.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://next.rikunabi.com/session/destroy/?type=webSso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_201710_04b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/02toukatsu01_03000044.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tohkenthermo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E7%86%B1%E5%87%A6%E7%90%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmp.co.jp/ir/news/ir_news/IR/2019/20191204.pdf",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://careerforum.net/ja/event/tkw1/companylist_850/1787/44792/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skymark.co.jp/ja/company/investor/120110_press.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_oc__044102S/-op__48/-ha__80%2C0/-preBtn__3/-page__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/top/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.platinumpartners.jp/kaite-kinzoku-2025.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 人手不足 受注 断る",
+   "results": [
+    "https://www.cmp.co.jp/ir/news/ir_news/20180913_2.html",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/104274",
+    "https://www.jencorp.net/jp/net/model/report_unsold.html?id=687001",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://waza.mhlw.go.jp/sasshi/pdf/H25_ginoushi_jireisyuu.pdf",
+    "https://www.city.arakawa.tokyo.jp/documents/1438/kigyou_h.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.hai.or.jp/aboutus/information/file/1712/r7%E3%80%80jigyouhoukoku.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 受注残 人手不足",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://www.punch.co.jp/ir/upload/20231113_shared%20research_JP_min.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.muro.co.jp/file/PageContents-433",
+    "https://www.jencorp.net/jp/net/bid/condition_report.html?id=657473",
+    "https://www.nipponsteel.com/ir/pdf/nipponsteel_jp_br_2022_all.pdf",
+    "https://www.mitsui-high-tec.com/ir/files/1dfc527b1c363282657c5b52ab44a3882d2015d1.pdf",
+    "https://www.skymark.co.jp/ja/company/investor/120330_press.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 人手不足 損失 億円",
+   "results": [
+    "https://www.punch.co.jp/ir/upload/20231113_shared%20research_JP_min.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://hd.dowa.co.jp/ja/ir/library/annual/main/01112/teaserItems2/0/linkList/0/link/dowareport2026_j_a3.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.mitsui-high-tec.com/ir/files/1dfc527b1c363282657c5b52ab44a3882d2015d1.pdf",
+    "https://www.muro.co.jp/file/PageContents-433",
+    "https://www.parker.co.jp/ja/_pdf/topics/CorporateReport2025.pdf",
+    "https://j-net21.smrj.go.jp/special/vibrant/20231019.html",
+    "https://openjicareport.jica.go.jp/pdf/11617362_01.pdf",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105）",
+   "results": [
+    "https://mono.ipros.com/cg2/%E9%87%91%E5%9E%8B%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86/",
+    "https://www.teikuro.co.jp/company/",
+    "https://compalyze.co.jp/company/4080401014315",
+    "https://www.maedauni.co.jp/plating/",
+    "https://www.platinumpartners.jp/kaite-kinzoku.html",
+    "https://metoree.com/categories/5687/",
+    "https://www.shintoku-kogyo.co.jp/about/",
+    "https://emanak.co.jp/ja/strong-point/",
+    "https://jp-dkk.com/manufacturing/",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 推移",
+   "results": [
+    "https://www.platinumpartners.jp/kaite-kinzoku.html",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.cmp.co.jp/ir/news/ir_news/20220131_2.html",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://www.punch.co.jp/ir/upload/20231113_shared%20research_JP_min.pdf",
+    "https://www.matsui.co.jp/parts/pdf-view/web/viewer.html?file=/market/stock/ipo/2020/pdf/IPOreport_73570.pdf",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.muro.co.jp/file/PageContents-433",
+    "https://kabutan.jp/themes/?theme=%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5&market=",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 統計 PDF",
+   "results": [
+    "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/all/hyoumen.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.teikuro.co.jp/company/",
+    "https://mono.ipros.com/cg1/%E3%82%81%E3%81%A3%E3%81%8D/",
+    "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "https://kanagawa-model.com/common/pdf/part2-2023.pdf",
+    "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://j-fma.or.jp/7joh/data/kaihou17_200601.pdf",
+    "http://www.monozukuri.org/techno/technote025.pdf",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://batonz.jp/learn/expert_articles/7444",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.punch.co.jp/news/upload/20251202_shared_research_JP.pdf",
+    "https://www.kkj-st.go.jp/download/data/seizo_class.pdf",
+    "https://www.keidanren.or.jp/pri/storage/pdf/thesis/120706.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://compalyze.co.jp/company/4080401014315",
+    "https://www.punch.co.jp/ir/upload/20231113_shared%20research_JP_min.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://next.rikunabi.com/job_search/kw/%E9%87%91%E5%B1%9E%20%E7%86%B1%E5%87%A6%E7%90%86/",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_201710_04b.pdf",
+    "https://openjicareport.jica.go.jp/pdf/11617362_01.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/02toukatsu01_03000044.html",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 1人当たり 万円",
+   "results": [
+    "https://www.punch.co.jp/ir/upload/20231113_shared%20research_JP_min.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.cmp.co.jp/ir/news/ir_news/20191204.html",
+    "https://careerforum.net/ja/event/tkw1/companylist_850/1787/44792/",
+    "https://www.skymark.co.jp/ja/company/investor/120110_press.pdf",
+    "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_oc__044102S/-op__48/-ha__80%2C0/-preBtn__3/-page__2/",
+    "https://zentoren.or.jp/top/news.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） 2015 2025",
+   "results": [
+    "https://www.platinumpartners.jp/kaite-kinzoku-2025.html",
+    "https://www.teikuro.co.jp/company/",
+    "https://mono.ipros.com/cg2/%E3%82%81%E3%81%A3%E3%81%8D%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.punch.co.jp/ir/upload/20231113_shared%20research_JP_min.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.cmp.co.jp/ir/news/ir_news/20191204.html",
+    "https://www.sanno.co.jp/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/03899-00.pdf",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "listed companies contract heat treatment plating stamping die making Japan TSE metal products association member list Japan statistics",
+   "results": [
+    "https://www.jpx.co.jp/english/listing/co-search/",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.sfj.or.jp/en/association.html",
+    "https://www.kenresearch.com/japan-metal-finishing-chemicals-market",
+    "https://www.prairiecap.com/newsletters/prairie-industry-perspective-metal-forming-industry-november-2024",
+    "https://www.intermold.jp/2024/nagoya/english/outline/exhibition_list/",
+    "https://www.grandviewresearch.com/industry-analysis/metal-stamping-market",
+    "https://www.jx-nmm.com/english/company/network/internal/",
+    "https://www.jpma.gr.jp/en/about/",
+    "https://www.jpx.co.jp/english/listing/co-search/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105）",
+   "results": [
+    "https://note.com/hot_nerine617/n/n95d8a135022d",
+    "https://note.com/3n7no_tech_pr/n/nff92d019d9ea",
+    "https://note.com/manav_/n/ndae2cdc06cfe",
+    "https://note.com/tatsuya_sabato/n/n0b1ed500336c",
+    "https://note.com/kaisyakachitrend/n/nb7d30b87e575",
+    "https://note.com/3n7no_tech_pr/n/n15f422e38172",
+    "https://note.com/3n7no_tech_pr/n/n3ea2e6b3cdf7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105）",
+   "results": [
+    "https://jp.linkedin.com/company/nikkin-nagano",
+    "https://jp.linkedin.com/company/shinkosya",
+    "https://www.linkedin.com/posts/today-is-the-end-of-an-era-for-polyarc-share-7504247060351758337-zaR2/",
+    "https://hu.linkedin.com/showcase/hungarianfoodbusinessprogram/",
+    "https://jp.linkedin.com/pulse/ホットプレス炉システムの日本メーカー一覧-noted-insights-2e2oe",
+    "https://www.linkedin.com/posts/真-高田-80b6611b5_積層造形-金属3dプリンター-j3d-activity-6712253493492662274-T0d-",
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_この度金属技研では造形受託事業の強化を目的として日本国内初導入となる電子ビーム-activity-7447932924039102465-QDXa"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105）",
+   "results": [
+    "https://www.facebook.com/nkkmold/",
+    "https://www.facebook.com/nekken8910/",
+    "https://www.facebook.com/wako.kinzoku/",
+    "https://www.facebook.com/kunokinzoku/posts/金型しんぶんにai活用の取り組みが掲載されました5月10日発行の業界紙金型しんぶんに当社のai活用の取り組みが掲載されました当社では2024年にai活用チームを/1743043973585862/",
+    "https://www.facebook.com/大橋金型工業株式会社-100076074313664/",
+    "https://www.facebook.com/iwakin.jp/",
+    "https://www.facebook.com/reel/710287568619433/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） note 社長",
+   "results": [
+    "https://smepprd-kansai-meti-gov.note.jp/n/n3563903e6e87",
+    "https://www.nikkei.com/article/DGXZQOCC0693H0W6A700C2000000/",
+    "https://kojomag.nikkan.co.jp/press/kishu/234",
+    "https://www.tkc.jp/cc/senkei/201203_system03",
+    "https://www.teikuro.co.jp/company/",
+    "https://www.machinist.co.jp/2017/12/7513/",
+    "https://mono-sozo.com/archives/2473",
+    "https://www.nttd-es.co.jp/magazine/backnumber/no60/no60-special.html",
+    "https://kojosankanbi.jp/webmagazine/5546",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105） X 投稿",
+   "results": [
+    "https://mono.ipros.com/cg2/%E9%87%91%E5%9E%8B%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86/",
+    "https://nippon-itf.co.jp/coating/mold/index.html",
+    "https://metoree.com/categories/5687/",
+    "https://jac-corporation.net/aboutus/",
+    "https://www.cmp.co.jp/ir/news/ir_news/20191204.html",
+    "https://www.youtube.com/watch?v=lSlYuHrtI6s",
+    "https://www.teikuro.co.jp/",
+    "https://kanagata-shimbun.com/221010technology-assabjapan/",
+    "https://emanak.co.jp/ja/company/history/",
+    "https://www.kabutore.biz/rensyu/kanrenmeigara695.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "listed companies contract heat treatment plating stamping die making Japan TSE metal products association member list site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/metal-heat-treatment-market-share-leading-companies-2026-japanexus-sat6f",
+    "https://www.linkedin.com/company/nikkin-nagano/",
+    "https://pe.linkedin.com/pulse/japan-automobile-metal-stamping-market-trends-overview-key-pxsfc",
+    "https://www.linkedin.com/pulse/japan-motor-vehicle-body-metal-stamping-other-parts-market-gholap-66mwc",
+    "https://www.linkedin.com/pulse/japan-automobile-metal-stamping-market-us-korea-europe-m47gf",
+    "https://www.linkedin.com/pulse/top-metal-stamping-die-companies-how-compare-them-7ji2c",
+    "https://www.linkedin.com/pulse/japan-automotive-stamping-die-market-growth-vorkf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

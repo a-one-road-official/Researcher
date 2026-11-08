@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・231品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・235品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -11969,25 +11969,25 @@
 
 ## 毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104）（Monthly Labour Survey long-term time series manufacturing total hours worked annual average by establishment size 5-29 30+）
 - 文脈：全体・統計
-- 痛み・損（深さの印）：記載なし（読んだ44頁・検索18回）
-- 事業所数・社数：記載なし（読んだ44頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ44頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ44頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ44頁・検索18回）
-- 生産能力・設備：記載なし（読んだ44頁・検索18回）
-- 10年推移：記載なし（読んだ44頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ44頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ43頁・検索18回）
+- 事業所数・社数：記載なし（読んだ43頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ43頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ43頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ43頁・検索18回）
+- 生産能力・設備：記載なし（読んだ43頁・検索18回）
+- 10年推移：記載なし（読んだ43頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ43頁・検索18回）
 
 ## 法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104）（Financial Statements Statistics of Corporations annual time series manufacturing value added employees by capital size Excel MOF PRI）
 - 文脈：全体・統計
-- 痛み・損（深さの印）：記載なし（読んだ41頁・検索18回）
-- 事業所数・社数：記載なし（読んだ41頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ41頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ41頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ41頁・検索18回）
-- 生産能力・設備：記載なし（読んだ41頁・検索18回）
-- 10年推移：記載なし（読んだ41頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ41頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ43頁・検索18回）
+- 事業所数・社数：記載なし（読んだ43頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ43頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ43頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ43頁・検索18回）
+- 生産能力・設備：記載なし（読んだ43頁・検索18回）
+- 10年推移：記載なし（読んだ43頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ43頁・検索18回）
 
 ## 受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105）（listed companies contract heat treatment plating stamping die making Japan TSE metal products association member list）
 - 文脈：会社・一次
@@ -11999,6 +11999,126 @@
 - 生産能力・設備：記載なし（読んだ55頁・検索18回）
 - 10年推移：記載なし（読んだ55頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 熱処理・めっき・金属プレス・金型の受託加工を本業とする上場企業の有価証券報告書（EDINET の事業の内容に受託加工と書かれた会社・2回空だったので言い方を変えて・4-104・4-106）（listed Japanese companies whose main business is contract heat treatment plating metal stamping die making annual securities report EDINET business description）
+- 文脈：会社・開示
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105）（Economic Structure Survey manufacturing establishments standard error rate table by industry and size sample 4-29 persons METI）
+- 文脈：統計・定義
+- 痛み・損（深さの印）：記載なし（読んだ32頁・検索18回）
+- 事業所数・社数：記載なし（読んだ32頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ32頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ32頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索18回）
+- 生産能力・設備：記載なし（読んだ32頁・検索18回）
+- 10年推移：記載なし（読んだ32頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ32頁・検索18回）
+
+## 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104）（Monthly Labour Survey annual report manufacturing total hours worked per year establishments 5+ and 30+ hours value MHLW table）
+- 文脈：統計・時間
+- 事業所数・社数：
+  - 「表 1－2 東北各県別企業数（民営、非１次産業、2021 年） ・・・・・・・・・・・・・・・・ 3」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－2 事業所数、従業者数、製造品出荷額等の産業３類型別構成比・・・・・・・・・・・ 20」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 2－6 事業所数、従業者数、製造品出荷額等、付加価値額の地域別構成・・・・・・・・・ 22」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 2－7 従業者規模別付加価値額（令和５年）・・・・・・・・・・・・・・・・・・・・・ 23」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 3－1 事業所数、従業者数、年間商品販売額の推移（昭和 51 年＝100）・・・・・・・・・・ 28」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 3－1 事業所数、従業者数、年間商品販売額の推移（卸売業・小売業別）・・・・・・・・ 28」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 3－2 事業所数、従業者数、年間商品販売額における卸売業、小売業の構成比（令和３年） 29」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 3－7 従業者規模別商店数及び年間商品販売額（小売業） （令和３年）・・・・・・・・・ 34」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 3－8 人口、事業所数、従業者数、」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「中小企業庁の公表（2021 年６月時点）によると、山形県の農林漁業、公務を除く民営企業数は」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表１－２ 東北各県別企業数（民営、非１次産業、2021 年）」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「また、民営事業所数では県全体の 48.7％、製造品出荷額等では 41.7％、年間商品販売額では」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「経済規模では、 製造品出荷額等において県内比 25.7％を占めており、 従業者数、 民営事業所数、」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「２ 民営事業所数については、公務を除く非農林漁業に係る事業所数」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「① 事業所数 2,700 事業所 222,200 事業所 1.22%」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+- 社員数・平均社員数：
+  - 「の 10 年増加傾向にあり、１人当たり県民所得は直近の令和４年に東北第１位」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「１ 人 口・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 1」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「５ 外国人旅行者の状況・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 49」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「（2）外国人宿泊者数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 50」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－1 山形県の人口の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 1」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 1－1 地域別人口の動き・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 2」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－2 年齢（３区分）別人口の推移・・・・・・・・・・・・・・・・・・・・・・・・・ 2」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 1－3 東北各県別従業者数（民営、非１次産業、2021 年） ・・・・・・・・・・・・・・・ 4」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－3 産業別就業人口構成比の推移・・・・・・・・・・・・・・・・・・・・・・・・・ 4」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－5 一人当たりの県民（国民）所得の推移・・・・・・・・・・・・・・・・・・・・・ 6」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 1－5 労働時間の推移（１人平均月間総実労働時間）・・・・・・・・・・・・・・・・・ 7」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－6 産業別常用労働者の１人平均月間給与総額の全国比較（令和６年）・・・・・・・・ 8」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－13 地域別従業者数（令和３年）・・・・・・・・・・・・・・・・・・・・・・・・・ 15」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－2 事業所数、従業者数、製造品出荷額等の産業３類型別構成比・・・・・・・・・・・ 20」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 2－6 事業所数、従業者数、製造品出荷額等、付加価値額の地域別構成・・・・・・・・・ 22」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+- 受注金額・加工賃収入：
+  - 「となったほか、令和５年の製造品出荷額等は３兆 3,500 億円を超えて過去最」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「間売上 100 億円以上の企業を現在の２倍以上に増やしていくための各種支援」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－11 地域別製造業年間製造品出荷額等の内訳（令和５年）・・・・・・・・・・・・・ 14」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－1 令和５年東北６県の製造品出荷額等、付加価値額の概要・・・・・・・・・・・・・ 18」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 2－4 製造品出荷額等構成比上位５業種・・・・・・・・・・・・・・・・・・・・・・・ 19」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－2 事業所数、従業者数、製造品出荷額等の産業３類型別構成比・・・・・・・・・・・ 20」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－3 産業３類型別製造品出荷額等構成比の推移・・・・・・・・・・・・・・・・・・・ 21」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－4 令和５年東北６県の産業３類型別製造品出荷額等構成比・・・・・・・・・・・・・・ 21」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 2－6 事業所数、従業者数、製造品出荷額等、付加価値額の地域別構成・・・・・・・・・ 22」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「令和５年度の県内総生産は名目で４兆 7,650 億円、経済成長率は名目で 7.6％増加、実質で」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「業は、総生産額 1,100 億円で、対前年度比 5.9％増加した」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「総生産額は１兆 6,153 億円、対前年度比 0.6％の減少となった」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「サービス業などの第３次産業は、総生産額が３兆 79 億円と、対前年度比 15.2％の増加となって」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「また、民営事業所数では県全体の 48.7％、製造品出荷額等では 41.7％、年間商品販売額では」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「この地域の特徴としては、 食料・飲料等がこの地域の製造品出荷額の 17.8％を占めるとともに、」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+- 1人あたり・1社あたり金額：
+  - 「４ 山形県の工業の付加価値額・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 23」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－5 一人当たりの県民（国民）所得の推移・・・・・・・・・・・・・・・・・・・・・ 6」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－1 令和５年東北６県の製造品出荷額等、付加価値額の概要・・・・・・・・・・・・・ 18」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 2－6 事業所数、従業者数、製造品出荷額等、付加価値額の地域別構成・・・・・・・・・ 22」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－5 業種別付加価値額（令和５年） ・・・・・・・・・・・・・・・・・・・・・・・・ 23」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 2－7 従業者規模別付加価値額（令和５年）・・・・・・・・・・・・・・・・・・・・・ 23」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「令和５年度の一人当たりの県民所得は 327 万１千円で、前年度の 303 万０千円と比べ、金額で」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「また、 一人当たり国民所得 352 万１千円 （全国＝100）」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図１－５ 一人当たりの県民（国民）所得の推移」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「付加価値額は、製造品出荷額等と同様に、令和５年は過去最高の 1 兆 3,440 億円となっている」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「④ 付加価値額 1 兆 3,440 億円 110 兆 9.034 億円 1.21%」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「（注） 事業所数及び従業者数は令和 6年6月1日現在、製造品出荷額等及び付加価値額は令和5年1月1日から12月31日までの1年間分の」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「（注） 事業所数及び従業者数は令和6年6月1日現在、製造品出荷額等及び付加価値額は令和5年1月1日から 12月31日までの1年間分の」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 ２－１ 令和５年 東北６県の製造品出荷額等、付加価値額の概要」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「（注） 製造品出荷額等及び付加価値額は令和5年1月1日から12月31日までの1年間分の数値である」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+- 10年推移：
+  - 「少子高齢化を伴う人口減少の加速や、 あらゆる分野での人手不足、 物価高騰」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「の 10 年増加傾向にあり、１人当たり県民所得は直近の令和４年に東北第１位」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－1 山形県の人口の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 1」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－2 年齢（３区分）別人口の推移・・・・・・・・・・・・・・・・・・・・・・・・・ 2」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 1－2 東北各県別企業数（民営、非１次産業、2021 年） ・・・・・・・・・・・・・・・・ 3」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 1－3 東北各県別従業者数（民営、非１次産業、2021 年） ・・・・・・・・・・・・・・・ 4」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－3 産業別就業人口構成比の推移・・・・・・・・・・・・・・・・・・・・・・・・・ 4」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 1－4 経済成長率の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 5」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－4 産業別県内総生産の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・ 6」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 1－5 一人当たりの県民（国民）所得の推移・・・・・・・・・・・・・・・・・・・・・ 6」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 1－5 労働時間の推移（１人平均月間総実労働時間）・・・・・・・・・・・・・・・・・ 7」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 1－8 10 大費目別指数（年平均）・前年比の推移（山形市、全国）・・・・・・・・・・・ 10」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－3 産業３類型別製造品出荷額等構成比の推移・・・・・・・・・・・・・・・・・・・ 21」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「図 2－6 工場の立地件数、面積の推移（山形県）・・・・・・・・・・・・・・・・・・・・ 24」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+  - 「表 2－8 東北各県の工場立地件数の推移・・・・・・・・・・・・・・・・・・・・・・・・ 25」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+- 人手と仕事の差：
+  - 「少子高齢化を伴う人口減少の加速や、 あらゆる分野での人手不足、 物価高騰」（https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ44頁・検索18回）
+- 生産能力・設備：記載なし（読んだ44頁・検索18回）
+
+## 受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106）（contract machining job shop owner interview what happened orders unit price headcount trade press Japan facts not opinions）
+- 文脈：現場の声
+- 痛み・損（深さの印）：記載なし（読んだ54頁・検索18回）
+- 事業所数・社数：記載なし（読んだ54頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ54頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ54頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ54頁・検索18回）
+- 生産能力・設備：記載なし（読んだ54頁・検索18回）
+- 10年推移：記載なし（読んだ54頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ54頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

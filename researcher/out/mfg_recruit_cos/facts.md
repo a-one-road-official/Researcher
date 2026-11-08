@@ -770,6 +770,8 @@
   - 「また、他部署と協力して進める仕事も多く、営業にいながら番組の制作に関わるなど、幅広い仕事に取り組むことができます」（https://www.itv6.jp/recruit/・1回目）
   - 「営業の仕事は大変な時もありますが、自分の活躍を褒めてくれる人や一緒に頑張ってくれる人に励まされつつ、仕事をしています」（https://www.itv6.jp/recruit/・1回目）
 - 採用・人数：
+  - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIqMa4N9OkCXApqNwE2rl4PLX9Lx74sTBf5St5nl-2Mtl-48MzL・3回目）
+  - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIqMa4N9OkCXApqNwE2rl4PLX9Lx74sTBf5St5nl-2Mtl-48MzL・3回目）
   - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vINmUDUMyaf7YqfetLvjykl08raHEEWPfkMXqIA0rOydqbvzeyE・3回目）
   - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vINmUDUMyaf7YqfetLvjykl08raHEEWPfkMXqIA0rOydqbvzeyE・3回目）
   - 「(株)マーブル【エリア採用】【marble】」（https://job.mynavi.jp/27/pc/search/corp101256/outline.html・3回目）
@@ -780,8 +782,6 @@
   - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKQxyyQWflaglmcc4cJffoT-gwfrsZ2P7Y62km-guHh6iRRXpZr・3回目）
   - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
   - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
-  - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
-  - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
 - 発言：
   - 「ラジオ業界の常識を打ち破る！人気パーソナリティ江本一真さんにインタビュー」（https://note.com/tag/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「第5回 My SWITCHインタビュー！【前編】」（https://note.com/tag/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
@@ -797,6 +797,8 @@
   - 「先輩インタビュー」（https://navi.himeboss.jp/company_detail/208・3回目）
 - 検索結果の抜粋：
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKeTax-sLUUhy9voqYXHRhjuj3SYau3foLYbjl308Dop_cXo_YW・3回目）
+  - 「あいテレビ と寺小屋グループが新会社 放送×教育で「探究学習 ... — あいテレビ と寺小屋グループが新会社 放送×教育で「探究学習 ... TBS NEWS DIG https://newsdig.tbs.co.jp > articles > itv」（https://newsdig.tbs.co.jp/articles/itv/2884267?display=1・3回目）
+  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIqMa4N9OkCXApqNwE2rl4PLX9Lx74sTBf5St5nl-2Mtl-48MzL・3回目）
   - 「あいテレビ （ITV）の広告概要と料金 - テレビCMドットコム — あいテレビ （ITV）の広告概要と料金 - テレビCMドットコム テレビCMドットコム https://www.television-ad.com > ... > 中国・四国エリア」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vINmUDUMyaf7YqfetLvjykl08raHEEWPfkMXqIA0rOydqbvzeyE・3回目）
   - 「あいテレビ のCM 料金 - フリーザロックエージェント株式会社 — あいテレビ のCM 料金 - フリーザロックエージェント株式会社 フリーザロックエージェント株式会社 https://freetherock.com > service > tvcm > station > itv」（https://freetherock.com/service/tvcm/station/itv/・3回目）
@@ -806,8 +808,6 @@
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
   - 「株式会社 あいテレビ - 四国転職ネット — 株式会社 あいテレビ - 四国転職ネット 四国転職ネット https://tenshoku.abi.co.jp > company > itv」（https://tenshoku.abi.co.jp/yuryokigyo-channel/company/itv.html・3回目）
-  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vK8t_-8F_nTveQVFps2zBPyF6ZI8JAixMjiO3q1GwI9POCDEd5a・3回目）
-  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKcmWhdJAJgdro4-Pa8F34wTyQriQ5XMZ3fyDJsQLm9XumUwu20・3回目）
 - 許認可：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）
 
 ## 株式会社アウトソーシング
@@ -2104,15 +2104,15 @@
   - 「中国新聞社は、警備会社のセコムが提供する救急時対応サービス「セコムみまもりホン2」を紹介するサービスを実施中です」（https://www.chugoku-np.co.jp/articles/-/497859・1回目）
   - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/497859・1回目）
   - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/497859・1回目）
+  - 「備後庄原駅に「二地域居住」相談窓口 官民連携で開設 空き家や求人紹介」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「備後庄原駅に「二地域居住」相談窓口 官民連携で開設 空き家や求人紹介」（https://www.chugoku-np.co.jp/articles/-/887542・1回目）
+  - 「備後庄原駅に「二地域居住」相談窓口 官民連携で開設 空き家や求人紹介」（https://www.chugoku-np.co.jp/articles/-/887878・1回目）
+  - 「備後庄原駅に「二地域居住」相談窓口 官民連携で開設 空き家や求人紹介」（https://www.chugoku-np.co.jp/articles/-/912354・1回目）
+  - 「備後庄原駅に「二地域居住」相談窓口 官民連携で開設 空き家や求人紹介」（https://www.chugoku-np.co.jp/articles/-/880757・1回目）
+  - 「備後庄原駅に「二地域居住」相談窓口 官民連携で開設 空き家や求人紹介」（https://www.chugoku-np.co.jp/articles/-/854640・1回目）
+  - 「備後庄原駅に「二地域居住」相談窓口 官民連携で開設 空き家や求人紹介」（https://www.chugoku-np.co.jp/articles/-/909252・1回目）
+  - 「備後庄原駅に「二地域居住」相談窓口 官民連携で開設 空き家や求人紹介」（https://www.chugoku-np.co.jp/articles/-/909307・1回目）
   - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
-  - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
-  - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/903992・1回目）
-  - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/903992・1回目）
-  - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/920584・1回目）
-  - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/920584・1回目）
-  - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
-  - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
-  - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/921045・1回目）
 - 採用・人数：
   - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/articles/-/479971・1回目）
   - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
@@ -2128,6 +2128,7 @@
   - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
 - 発言：
   - 「サンフレのイエンギ、オーストラリア代表に選出」（https://www.chugoku-np.co.jp/・1回目）
+  - 「野球日本代表、練習試合でカープに快勝」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
   - 「吉田拓郎を起点に日本のロック史を語る 田家秀樹さんとスージー鈴木さんの対談本が刊行」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
   - 「大阪維新、吉村代表の３選承認」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
   - 「【新社長】カイハラ社長・貝原祥之氏（41）広島県福山市 海外販路拡大と生産体制の省力化が課題」（https://www.chugoku-np.co.jp/・1回目）
@@ -2138,7 +2139,6 @@
   - 「平和を祈る広島の皆さんの思いが、世界へ届くように心を込めて歌いたい」と語る」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
   - 「吉田拓郎を起点に日本のロック史を語る 田家秀樹さんとスージー鈴木さんの対談本が刊行」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
   - 「【新社長】カイハラ社長・貝原祥之氏（41）広島県福山市 海外販路拡大と生産体制の省力化が課題」（https://www.chugoku-np.co.jp/articles/-/917516・1回目）
-  - 「全東信社長が１０月に死去」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
 - 検索結果の抜粋：
   - 「『 中国新聞 LEADERS倶楽部』に糸賀 社長 の インタビュー 記事 ... — 『 中国新聞 LEADERS倶楽部』に糸賀 社長 の インタビュー 記事 ... マイライフ株式会社 https://www.my-life.jp > スタッフブログ > お知らせ」（https://www.my-life.jp/blog/490/・3回目）
   - 「中国新聞社 の 新卒 採用 ・就職・企業情報 - 就活会議 — 中国新聞社 の 新卒 採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 新聞業界の企業一覧」（https://syukatsu-kaigi.jp/companies/18431・3回目）
@@ -2152,13 +2152,13 @@
   - 「新卒 採用 | 中国新聞社 コーポレートサイト — 新卒 採用 | 中国新聞社 コーポレートサイト chugoku-np.com https://chugoku-np.com > 採用情報」（https://chugoku-np.com/saiyou/newgraduate/・3回目）
   - 「(株) 中国新聞 サービスセンターの新卒 採用 ・会社概要 - マイナビ — (株) 中国新聞 サービスセンターの新卒 採用 ・会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp229982 > outline」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
   - 「中国新聞社 の新卒 採用 ・就職・会社概要とクチコミ — 中国新聞社 の新卒 採用 ・就職・会社概要とクチコミ ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/7139・3回目）
-- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
-- 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
-- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
-- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
-- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部24頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部24頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部24頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部24頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部24頁・検索12回）
 
 ## 株式会社山陽新聞社
 - 公式URL：https://www.sanyonews.jp/（given）

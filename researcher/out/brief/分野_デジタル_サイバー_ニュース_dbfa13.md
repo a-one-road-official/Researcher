@@ -19,7 +19,7 @@
   - ［一次］2026-11-08「世界的な脱炭素化の流れが加速する中、再生可能エネルギー（再エネ）の拡大やモビリティーの電動化、水素エネルギーなどの活用が重要な課題となっている」https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html
   - ［一次］2026-11-08「蓄電池は電気を貯蔵し、必要なときに利用できる技術であり、脱炭素化を支える基盤技術の1つだ」https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html
   - ［一次］2026-11-08「そのため、各国で脱炭素化に向けた規制強化や電動化政策が進む中、BEVの普及拡大は車載用蓄電池需要を大きく押し上げており、蓄電池市場全体の成長を牽引する最大の要因の1つとなっている」https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html
-- 顧客の競合（奪いに来る側）（69件）：
+- 顧客の競合（奪いに来る側）（68件）：
   - ［一次］2026-11-08「⚫ 補助金を活用した案件の蓄電システム価格は、 2022 年度、２０２４年度、２０２３年度の順で安価であり、炭酸リ」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［一次］2026-11-06「 家庭用蓄電システムは、日本、ドイツ、豪州、米国CA州において比較的導入が拡大している」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「＜市場シェア＞2018年時点で家庭用市場の約20%を占める」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
@@ -31,7 +31,7 @@
   - ［一次］2026-11-06「うち、「卸・商社」及び「OEM/ODM」流通がそれぞれ約30%」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「※2次卸・商社へ販売する事例もある」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［記事］2026-11-06「設備と必要工事の総額を150万円、別途の手数料を2万円、条件を満たして受け取る補助を20万円と仮定します」https://www.enegaeru.com/smartintroductionofhomeenergystoragesystems-zeh
-- 政治（法・予算・規制）（86件）：
+- 政治（法・予算・規制）（85件）：
   - ［一次］2026-11-06「1. 定置用蓄電システムの普及拡大に関する政府の取組」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「費補助金」の申請データに基づき、工事費を含む蓄電システム価格の相場を推計したところ、18.7万円」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「出所）SII「災害時に活用可能な家庭用蓄電システム導入促進事業費補助金」等データより三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
@@ -49,7 +49,7 @@
   - ［一次］2026-11-06「◼ 関西近辺においては、蓄電池関連の企業で、今後5年間で合計約1万人の雇用が見込まれており、産学官」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「が連携して、 2024年度よりバッテリー人材育成・確保の取組を本格的に実施していく」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「「バッテリー人材育成の方向性」(2023年3月)に関する主な進捗等」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
-- 技術（新しい技術・実証）（76件）：
+- 技術（新しい技術・実証）（75件）：
   - ［一次］2026-11-08「※1） 令和5年度経産省ZEH事業、令和5年度環境省ZEH事業、令和5年度環境省ZEH-M事業、分散型エネルギーリソースの更なる活用に向けた実証事業（DER等導入事業・C事業）等のデータを基に推計」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［一次］2026-11-06「https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_003_04_00.pdf より三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 本回を含む計４回の検討会の結果は、2月開催予定の再生可能エネルギー大量導入・次世代電力ネット」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf

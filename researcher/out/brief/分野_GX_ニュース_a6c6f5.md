@@ -16,7 +16,7 @@
   - ［一次］2026-11-08「日本がペロブスカイト太陽電池で技術的な優位性を産業競争力につなげるためには、技術開発だけでなく、量産体制の構築、国内市場の形成、施工・認証制度の整備などを一体的かつ迅速に進めることが重要になります」https://www.nef.or.jp/keyword/20260930.html
   - ［一次］2026-11-06「特に米国では約30年の実績があり、米国市場で要求されるUL規格やNEC規格などの安全基準への対応、米国顧客から要求されるロックウェル社製の制」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「過去には太陽電池の受託生産（OEM生産）にも取り組み、この経験を太陽電池関」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-- 顧客の競合（奪いに来る側）（93件）：
+- 顧客の競合（奪いに来る側）（92件）：
   - ［一次］2026-11-06「して使用され、主に中国・韓国の太陽電」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「顧客となる企業は主に米国や日本の太陽電池メーカー」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「その中でも最も主要な顧客は米国のFirst Solar社（NASDAQ上場）であり、同社とは20年近い取引実績が」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
@@ -46,7 +46,7 @@
   - ［一次］2026-11-04「② 人材や製造装置を通じた技術流出によって競争力を失った過去の反省を踏まえ、フィルム型ペロブスカイト太陽電池においては材料」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-04「⚫ ペロブスカイト太陽電池を含めた再エネ電源の普及を担う人材育成のために今年度に調査事業を実施し、」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-04「ペロブスカイト太陽電池導入拡大に向けて必要なスキルや課題を整理し、人材育成策を検討する」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
-- 技術（新しい技術・実証）（98件）：
+- 技術（新しい技術・実証）（96件）：
   - ［一次］2026-11-06「株式会社エヌ・ピー・シー 営業、購買、開発、設計、製造、保守サービス 164名」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「・現状はファーストソーラー社への偏重が大きいが、同社との取引は維持したまま、p. 8において成長性が高いと認識しているペロブスカイトなどの次世代向」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「ペロブスカイトなどの次世代型太陽電池も対象としている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
@@ -105,7 +105,7 @@
   - ［記事］2026-11-04「当出版物によって、出版者はそれが明示されているか示唆されているかにかかわらず、有価証券あるいは商品取引の注文を発注、手配、助言、仲介、奨励する意図はない」https://media.rakuten-sec.net/articles/-/51220
   - ［記事］2026-11-04「半導体商社の日本株5選：事業構造に強み、今期増益予想」https://media.rakuten-sec.net/articles/-/51220
   - ［記事］2026-11-04「The electrolyzer commissioning was first suspended in the fourth quarter of 2024. Following a comprehensive review of the incremental investment and ongoing operating costs required to complete and operate the facility, 」https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy
-- 政治（法・予算・規制）（83件）：
+- 政治（法・予算・規制）（82件）：
   - ［一次］2026-11-08「• カルナタカ州政府との間で5,200億ル」https://journal.jogmec.go.jp/content/300515399.pdf
   - ［一次］2026-11-07「本調査では、水電解装置に関する法規制等の現状を調査し、そ」https://www.nedo.go.jp/content/100980790.pdf
   - ［一次］2026-11-07「水電解装置に関連する法規制等の課題整理に係る調査」https://www.nedo.go.jp/content/100980790.pdf
@@ -348,7 +348,7 @@
   - ［一次］2026-11-06「具体的には、東日本大震災及び原子力災害によって産業が失われた避難指示解除区域等において、雇用の創出及び産業集積を図り、被災者の自立・帰還を加速するため、工場等の新増設の支援を実施するため110億円〔▲12億円〕、災害現場等の過酷環境下や人手不足の産業現場等でも対応可能となるようなロボットの研究開発を実施するとともに、再生可能エネルギーを動力源として利用する水素エネルギーネットワークの構築等の技術開発等を実施するため63億円〔＋2億円〕等」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「原子力規制に必要な知見を有する人材を育成し、審査・検査体制等の充実・強化につなげるため、国内の大学等における原子力規制に係る教育研究プログラム確立に5億円〔＋0.3億円〕を計上しているほか、令和6年能登半島地震において地盤の隆起や変位・変形が生じたことを踏まえ、断層の活動性の評価手法等について新たな知見を取得し、審査ガイドラインの見直し等を実施するために5億円〔＋2億円〕を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「また、育成就労制度の創設を始めとする出入国管理及び難民認定法等の改正への対応を含め、円滑かつ厳格な出入国管理体制や外国人材の受入れ体制の整備及び共生社会の実現に向けた取組の強化として253億円〔＋10億円〕を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-- 技術（新しい技術・実証）（86件）：
+- 技術（新しい技術・実証）（85件）：
   - ［一次］2026-11-08「【インタビュー】「地熱開発を進めていくためには、地域との共生が何より大切」—小椋 伸幸氏（後編）｜エネこれ｜資源エネルギー庁」https://www.enecho.meti.go.jp/about/special/johoteikyo/interview13ogura02.html
   - ［一次］2026-11-08「世界第3位のポテンシャルを持ち、高い技術を有する日本の地熱開発」https://www.enecho.meti.go.jp/about/special/johoteikyo/interview13ogura02.html
   - ［一次］2026-11-08「」では、海外ではかなり大型の地熱発電の開発があるとのお話をうかがいました」https://www.enecho.meti.go.jp/about/special/johoteikyo/interview13ogura02.html
@@ -476,7 +476,7 @@
   - ［一次］2026-11-07「「OPG社、小型モジュール炉の最初の燃料契約サプライヤーを選定」」https://www.jaea.go.jp/04/sefard/situation/2023/202311.html
   - ［一次］2026-11-05「PEJは10月8日、WE社に対し、EJ1初号機について長納期品の調達開始を指示した」https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375
   - ［一次］2026-11-05「原子力施設向け品質保証規格NQA-1への適合認証の取得や試作モジュールの製造などで、原子力安全関連の製造に必要な各社の能力が確認され次第、正式な発注に進む方針」https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375
-- 顧客の競合（奪いに来る側）（65件）：
+- 顧客の競合（奪いに来る側）（64件）：
   - ［一次］2026-11-05「米国務省は7月7日、トルコのアンカラで開催されるNATOサミットに合わせ、日本、韓国ともに、小型モジュール炉（SMR）の第三国での展開に向けた」https://www.jetro.go.jp/biznews/2026/07/6aa54d781384bf8a.html
   - ［一次］2026-11-05「同覚書は、インド太平洋地域を当面の重点地域とし、安全で信頼性の高い原子力エネルギーの導入を支援するため、3カ国の政府および産業界の協力強化を目的としている」https://www.jetro.go.jp/biznews/2026/07/6aa54d781384bf8a.html
   - ［一次］2026-11-04「）、両国の新規原子力発電所建設の迅速化、SMRの技術開発を行う米国のX-エナジー（X-Energy）やエネルギー大手セントリカ（Centrica）によるイングランド北東部ハートルプール市での先進モジュール炉（AMR）最大12基の建設計画を後押しするなど、米国企業による投資も進展している」https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html
@@ -506,7 +506,7 @@
   - ［一次］2026-11-05「SMRの導入には、知識の蓄積、専門人材の育成、組織能力の強化が不可欠であるとし、本ワークショップを通じて、国際的なベストプラクティスを学び、将来の意思決定に必要な能力向上が図られることに期待を示した」https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375
   - ［一次］2026-11-05「SMRや軍施設への導入計画についても、雇用を創出し、送電網や国家安全保障を強化する先進原子力技術で全米をリードし、先進原子力分野での州の地位向上につながると期待を寄せている」https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375
   - ［一次］2026-11-05「同発電所は地域の送電網およびAmazonのデータセンターに電力を供給し、建設時に1,000人超、運転段階で100人超の雇用が見込まれている」https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375
-- 技術（新しい技術・実証）（63件）：
+- 技術（新しい技術・実証）（60件）：
   - ［一次］2026-11-06「79.アジア開発銀行（ADB）は原子力エネルギー」https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf
   - ［一次］2026-11-05「３．主要国のSMR開発状況」https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf
   - ［一次］2026-11-05「2-1 世界のSMR開発状況」https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf

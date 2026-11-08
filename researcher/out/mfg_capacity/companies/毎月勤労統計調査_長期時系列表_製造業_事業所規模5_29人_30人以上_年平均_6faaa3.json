@@ -1,0 +1,563 @@
+{
+ "name": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104）",
+ "en": "Monthly Labour Survey long-term time series manufacturing total hours worked annual average by establishment size 5-29 30+",
+ "aliases": [
+  "site:e-stat.go.jp 毎月勤労統計調査 全国調査 長期時系列表 製造業 総実労働時間",
+  "site:mhlw.go.jp 毎月勤労統計 時系列 製造業 総実労働時間 年平均 規模5〜29人",
+  "毎月勤労統計 製造業 年間総実労働時間 規模別 推移 -求人"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T13:54:54.878851+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/27/2701p/dl/maikin-setumei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003140393",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/chingin/kinrotokei/documents/109670_20231110100737-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/349980.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/keizaihan/data/12-040/documents/202607zenkoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jri.co.jp/MediaLibrary/file/report/researchfocus/pdf/16102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/personnel_costs/p7281/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/3004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%82%8D/%E5%8A%B4%E5%83%8D%E6%99%82%E9%96%93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin-tyouki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/2021nenpousyousai-gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/jikeiretu2015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/press-release/toukei20260330maikin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamaguchi-opendata.jp/ckan/dataset/yamaguchi-iiip/resource/0a090e17-4a38-48bf-a3e8-59dff2e729f8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.tokushima.lg.jp/statistics/month/5013275/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/2017nenpou-gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00450-mhlw-00450071/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/maikin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=1&kikan=00450&toukei=00450071&tstat=000001011791&tclass1=000001012432&result_page=1&tclass2val=0&statdisp_id=0003138572",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/chingin/kinrotokei/documents/57970_20170309095347-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.pref.mie.lg.jp/common/content/000281050.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/15/15-2fr/mk15r.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/opub/mlr/2009/05/art1full.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/data/indicators/hours-worked.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/HOHWMN03JPQ661S",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0889158321000113",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ourworldindata.org/grapher/annual-working-hours-per-worker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://swopec.hhs.se/hastef/papers/hastef0624.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 人手不足 受注 断る",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/27/2701p/dl/maikin-setumei.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003140393",
+    "http://www.pref.kagoshima.jp/ac09/tokei/bunya/chingin/kinrotokei/documents/109670_20231110100737-1.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/349980.pdf",
+    "https://opendata.pref.chiba.lg.jp/resource_download/48728",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/workshops/stateng/statpaper2021/stat0507.pdf",
+    "https://www.pref.fukuoka.lg.jp/uploaded/attachment/27093.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/chingin/kinrotokei/documents/57970_20170309095347-1.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://toukei.pref.shizuoka.jp/keizaihan/data/12-040/documents/202607zenkoku.pdf",
+    "https://www.jri.co.jp/file/report/researchfocus/pdf/16102.pdf",
+    "https://www.transtructure.com/hr-data-analysys/personnel_costs/p7281/",
+    "https://www.pref.ehime.jp/page/3004.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%82%8D/%E5%8A%B4%E5%83%8D%E6%99%82%E9%96%93",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin-tyouki.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2021nenpousyousai-gaiyou.html",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/jikeiretu2015.html",
+    "https://www.pref.aichi.jp/press-release/toukei20260330maikin.html",
+    "https://yamaguchi-opendata.jp/ckan/dataset/yamaguchi-iiip/resource/0a090e17-4a38-48bf-a3e8-59dff2e729f8",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.pref.tokushima.lg.jp/sp/statistics/month/5013275/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 統計 PDF",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.tokushima.lg.jp/sp/statistics/month/5013275/",
+    "https://www.pref.aichi.jp/press-release/toukei20260330maikin.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2017nenpou-gaiyou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://data-seisaku.com/00450-mhlw-00450071/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/maikin.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=1&kikan=00450&toukei=00450071&tstat=000001011791&tclass1=000001012432&result_page=1&tclass2val=0&statdisp_id=0003138572",
+    "https://www.pref.ehime.jp/page/3004.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 従業者規模別",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "https://yamaguchi-opendata.jp/ckan/dataset/yamaguchi-iiip/resource/0a090e17-4a38-48bf-a3e8-59dff2e729f8",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/chingin/kinrotokei/documents/57970_20170309095347-1.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.ehime.jp/page/3004.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "http://www.pref.mie.lg.jp/common/content/000281050.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/15/15-2fr/mk15r.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://yamaguchi-opendata.jp/ckan/dataset/yamaguchi-iiip/resource/0a090e17-4a38-48bf-a3e8-59dff2e729f8",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Monthly Labour Survey long-term time series manufacturing total hours worked annual average by establishment size 5-29 30+ Japan statistics",
+   "results": [
+    "https://www.bls.gov/opub/mlr/2009/05/art1full.pdf",
+    "https://www.oecd.org/en/data/indicators/hours-worked.html",
+    "https://fred.stlouisfed.org/series/HOHWMN03JPQ661S",
+    "https://www.sciencedirect.com/science/article/pii/S0889158321000113",
+    "https://ourworldindata.org/grapher/annual-working-hours-per-worker",
+    "https://swopec.hhs.se/hastef/papers/hastef0624.pdf",
+    "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "https://clockify.me/working-hours",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.e-stat.go.jp/en/statistics/00450071"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104）",
+   "results": [
+    "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
+    "https://note.com/nekota_toure/n/n6e99ae1423cb",
+    "https://note.com/hirokimiyano/n/n5ab6953aa674",
+    "https://note.com/good_elk973/n/ne9bfa2ead939",
+    "https://note.com/fruor_saiyou/n/n31184645615f",
+    "https://note.com/ai_nigekiri/n/n56ac54ec654d",
+    "https://note.com/good_elk973/n/naeb44901dff4",
+    "https://note.com/2025onkochishin/n/n191ed460e0fa?sub_rt=share_pw",
+    "https://note.com/kazucallnote/n/n30ac23c20392"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104）",
+   "results": [
+    "https://x.com/SumitaHayato"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:linkedin.com 毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104）",
+   "results": [
+    "https://www.linkedin.com/posts/daijob-com_厚生労働省毎月勤労統計調査2025令和7年10月分結果確報を公開-activity-7412085171136589824-A8Nv",
+    "https://www.linkedin.com/login?fromSignIn=true",
+    "https://jp.linkedin.com/in/taksuz",
+    "https://jp.linkedin.com/in/shinya-suda-582b9330",
+    "https://economicgraph.linkedin.com/",
+    "https://www.linkedin.com/home?originalSubdomain=in",
+    "https://cn.linkedin.com/posts/pimq_勞動部-9-月-30-日發布的職位空缺調查以-6-月底為基準工業及服務業職缺-activity-7515968307234013185-hC6f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104）",
+   "results": [
+    "https://www.facebook.com/clubhousetechjob/photos/電子製造業平均薪水超過十萬主計部又來提醒我們薪水了113年12月全體受僱員工含本國籍外國籍之全時員工及部分工時員工經常性薪資平均數為4萬6948元月增053年增/953743120229200/",
+    "https://www.facebook.com/huaxiajingwei/photos/台灣近四成勞工去年有加班經歷-製造業月均時長最長據港媒報道台當局勞動主管部門22日公佈勞工生活及就業情況調查報告去年近37勞工有加班經歷平均每月加班147小時台/1169049481894948/",
+    "https://www.facebook.com/100069011896208/posts/毎月勤労統計調査地方調査月報令和７年９月分を公表しましたhttpswebprefhyogolgjpkk11documentsgeppou09pdf毎月勤労統計調/1180549484255437/",
+    "https://www.facebook.com/Hsinchu.Info/photos/ai-真的太兇猛電子業加班時數直接炸裂-連續-29-個月狂飆創下-1980-年以來最猛紀錄-這數據太驚人各位工程師的肝還在嗎這波-ai-浪潮真的不是開玩笑的大家/1382083780377181/",
+    "https://www.facebook.com/photo.php/?fbid=906158745308813",
+    "https://www.facebook.com/HakkaNews.tw/photos/勞動部公布勞工生活及就業狀況調查發現去年加班者占3成7-平均每月加班147小時其中-製造業-加班時數最高-平均204小時️/600317052742073/",
+    "https://www.facebook.com/university.tw/posts/全台將近30萬個職缺竟然找不到人來補製造業一口氣缺了111萬人穩坐缺工冠軍點開-ptt-一看鄉民神回覆直接讓全網破防-勞動部最新這份調查指出截至2026年6月底/1633898028389301/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r01/0105p/dl/pdf0105p.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/chingin/kinrotokei/documents/57970_20170309095347-1.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://note.com/todobuono/n/n74c5a63bfea5"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2019/mk19q1fkuni.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/chingin/kinrotokei/documents/57970_20170309095347-1.pdf",
+    "https://www.pref.ehime.jp/page/3004.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Monthly Labour Survey long-term time series manufacturing total hours worked annual average by establishment size 5-29 30+ site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/cbt-news_volkswagen-workers-slam-boards-communication-activity-7497646393893867520-AxbP",
+    "https://www.linkedin.com/posts/timothyflacke_530a-trump-accounts-partner-toolkit-activity-7506473099299827712-IF0f",
+    "https://www.linkedin.com/in/jeanchatzky",
+    "https://www.linkedin.com/in/david-lam-48106710",
+    "https://www.linkedin.com/in/nancy-vandycke",
+    "https://www.linkedin.com/in/nery-arcos-94684116",
+    "https://www.linkedin.com/in/deandra-khan-325bb169",
+    "https://www.linkedin.com/in/ronnellrichards",
+    "https://www.linkedin.com/in/hazel-king-shrm-scp-33137712",
+    "https://www.linkedin.com/in/isak-swem-a88731368"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ43頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ43頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ43頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ43頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ43頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ43頁・検索18回）",
+  "10年推移": "記載なし（読んだ43頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ43頁・検索18回）"
+ }
+}
