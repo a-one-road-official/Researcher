@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・262品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・264品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4549,6 +4549,7 @@
 ## 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）（data cleaning plan checklist consistency checks Crystal Lewis data management education research）
 - 文脈：清掃
 - 手順・やり方：
+  - 「The final step of your cleaning process will be to export or save your clean data. You can save your files in one or more file types depending on your needs. It can be helpful to save your data in more than one format to meet various analysis, long-term storage, or data sharing needs (e.g., an interoperable format like CSV, and a format that contains embedded metadata such as SPSS).」（https://datamgmtinedresearch.com/clean）
   - 「データクリーニングの具体的なやり方とは？処理別の手法・操作手順・判断基準を実践解説 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/how-to-data-cleaning）
   - 「データクリーニングの具体的なやり方とは？処理別の手法・操作手順・判断基準を実践解説」（https://data-viz-lab.com/how-to-data-cleaning）
   - 「本記事では、処理の種類ごとに具体的なやり方と操作手順を整理し、実務でそのまま使えるレベルまで落とし込んで解説していきます」（https://data-viz-lab.com/how-to-data-cleaning）
@@ -4563,7 +4564,6 @@
   - 「データ統合とは？統合の目的や初心者向けの進め方を解説」（https://data-viz-lab.com/how-to-data-cleaning）
   - 「そのため補完を行う際は、どの列をどの方法で埋めたかをログとして残し、元の欠損状態を復元できるようにしておくことを推奨します」（https://data-viz-lab.com/how-to-data-cleaning）
   - 「検出には四分位範囲を使った箱ひげ図や、平均から標準偏差の何倍離れているかを見る方法が広く使われています」（https://data-viz-lab.com/how-to-data-cleaning）
-  - 「箱ひげ図とは？外れ値の見方やExcelでの作成方法まで徹底解説」（https://data-viz-lab.com/how-to-data-cleaning）
 - 突き合わせ・推定：
   - 「条件分岐や外部データとの照合など、ExcelやSQLでは表現しづらい込み入った処理も柔軟に書ける点が魅力です」（https://data-viz-lab.com/how-to-data-cleaning）
   - 「同一性の基準は、データを何に使うかという目的から逆算して決めるのが原則です」（https://data-viz-lab.com/how-to-data-cleaning）
@@ -10709,8 +10709,8 @@
   - 「The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 実例：
   - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
@@ -14758,11 +14758,11 @@
 
 ## 会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114）（independent study accuracy of company industry classification and employee counts databases small firms coverage）
 - 文脈：探し先
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
@@ -14771,3 +14771,124 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115）（apparent consumption production plus imports minus exports market sizing method trade statistics）
+- 文脈：推定
+- 手順・やり方：
+  - 「市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介 - 【公式】| 市場調査・マーケティングリサーチ会社のアスマーク」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「3つの算出方法」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「もう1つの方法は、消費者調査を専門とする調査会社に依頼する方法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この数値は、対象とする製品や地域といった「市場の範囲」のほか、「集計方法（出荷ベースか販売ベースか、あるいはメーカー売上か小売売上か）」や「期間の設定」によって大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この記事では、マーケティングにおける商品開発とは何かについて、その進め方や活用できるフレームワーク、さらには成功に導くための重要ポイントなどを解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「短期間で実施しやすく、同じ方法で再検証しやすい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「調査データやレポートを活用する際は、製品範囲や地域などの定義、回答の集計方法、輸出入の扱いを必ずチェックしましょう」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「＜関連コラム＞ 市場調査の依頼方法は？相場（費用感）や成功させるためのポイントなど紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+- 突き合わせ・推定：
+  - 「ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「ネットリサーチ（Webアンケート）を実施し、そのデータを必要に応じて拡大推計する形で推計します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「市場規模を把握することは、市場の成長性や参入余地の見極め、売上目標や投資額の妥当性の検証など、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「短期間で実施しやすく、同じ方法で再検証しやすい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「まずは信頼できるデータを集め、定義や対象範囲を整理しながら、複数の情報源を突き合わせて検証するのが基本です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「資料内には出荷量や生産量、事業所数、売上高など、市場規模の推計に直結する指標が数多く掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「これらの公開データを土台にして前提条件を整理すれば、推計の客観的な根拠を明確に示せるようになります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「し、他の情報源と突き合わせることでデータの信頼性をさらに高めることができます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「産業調査を専門とする調査会社の調査データや民間データベースの強みは、市場規模の推計だけでなく、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「どの企業やチャネルを対象にしているのか、どのような推計ロジックを用いているのか、単なる二次引用が重なったデータではないか、といった点を確認しなければ、見た目は精密でも「根拠の薄い引用」になってしまいます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「市場規模の算出方法（専門調査会社に依頼して推計する）」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「自社の課題や目的に合わせた「オーダーメイドの市場規模推計」が可能」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「ネットリサーチ（Webアンケート）を用いた市場規模の推計」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この調査手法を用いた市場規模の推計では、主に需要側（消費者・ユーザー起点）のアプローチを活用し、以下のような計算式で市場規模を拡大推計」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+- 一次情報の探し方：
+  - 「しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「一次情報に近いデータから順にアプローチし、整理済みのレポートで補完する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「具体的には、官公庁の公的統計や業界団体のデータで市場の「全体像（総量）」を把握します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「各府省等が公表する統計データ、公表予定、新着情報、調査票項目情報などの各種統計情報を閲覧することが可能です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「総務省統計局、統計研究研修所の共同運営」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「対象とする市場がBtoB分野なのか、モノ（製造業）中心なのか、あるいはサービス産業なのかによって最適な統計は異なります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「自社の調査目的に合致した統計を選択すること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「たとえ統計データそのものが正確であっても、解釈や読み替えを誤ると、全く別の市場を測定してしまうことになりかねません」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「これらは官公庁の統計とは異なる独自の製品カテゴリや用途区分で集計されていることが多いため、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「代表的な業界団体・協会の調査データを下表にまとめました」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「生産統計（数字でわかる！見て学ぶ！2026」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+- 失敗・落とし穴：
+  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この手法で最も注意すべきは、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「もう一つの落とし穴は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「● 設問設計による回答バイアスを最小限に抑えたい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「「フェルミ推定」という言葉は聞いたことがあっても、具体的に何を問われ、面接官は何を見ているのかがわかっていない状態では、対策の方向を誤りがちです」（https://akagiconsulting.com/blog/fermi-estimate/3502/）
+  - 「市場規模のフェルミ推定では、同じような失敗パターンが繰り返し見られます」（https://akagiconsulting.com/blog/fermi-estimate/3502/）
+  - 「代表的な失敗を型として押さえておくと、本番での減点を避けやすくなります」（https://akagiconsulting.com/blog/fermi-estimate/3502/）
+  - 「まず押さえておきたいのは、「市場規模」というお題を受け取った直後、対象範囲を面接官とすり合わせないまま計算に入ってしまう失敗です」（https://akagiconsulting.com/blog/fermi-estimate/3502/）
+  - 「需要側と供給側のどちらか一方だけで計算し、突き合わせをせずに結論としてしまう失敗もあります」（https://akagiconsulting.com/blog/fermi-estimate/3502/）
+  - 「仮定の数値に根拠を示さず、勢いだけで数字を当てはめてしまう失敗も見られます」（https://akagiconsulting.com/blog/fermi-estimate/3502/）
+  - 「これら4つの失敗に共通するのは、分解の根拠を面接官に説明できていない点です」（https://akagiconsulting.com/blog/fermi-estimate/3502/）
+- 実例：
+  - 「これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「人材紹介大手3社転職実績集計結果」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「前提条件の置き方によって結果が大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「結果を左右する重要なパラメータを見極めること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+
+## 日本の行政の処分・届出の公表記録で非上場の会社の状態を見る実務（労基法違反の公表事案・下請法の勧告・国交省ネガティブ情報・PRTR・動産譲渡登記・届出の不在を証明にしない・4-115）（using regulatory enforcement and filing records to investigate private companies Japan）
+- 文脈：探し先
+- 手順・やり方：
+  - 「2 Outline the legal framework for corporate liability in your country.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「However, the AI Promotion Act and the various guidelines issued by the relevant ministries and agencies are principally framework and policy-promoting instruments. They do not prescribe specific regulations or procedures governing the use of AI, particularly in criminal investigations conducted by investigative authorities or internal investigations conducted by corporations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「There are various challenges in conducting cross-border investigations in Japan, primarily due to differences in legal frameworks and geographical factors.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「Legal framework challenges」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「Although Japan does not have a comprehensive legislative framework governing sanctions comparable to those in the United States and certain other jurisdictions, the Foreign Exchange and Foreign Trade Act primarily regulates foreign exchange, foreign trade and other international transactions, and provides the rules for economic, financial and trade sanctions.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「30 Describe the whistleblowing framework in your country. What financial incentive schemes, if any, exist for whistleblowers? What legal protections are in place for whistleblowers?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「32 Do employees’ rights under local employment law differ if a person is deemed to have engaged in misconduct? Are there disciplinary or other steps that a company must or should take when an employee is implicated in or suspected of misconduct, such as suspension or in relation to compensation?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「the extent to which the company has taken appropriate steps (due process), including giving the employee an opportunity to explain their conduct and, where relevant, a proper warning in respect of similar but less serious misconduct in the past.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「35 If an issue comes to light prior to the authorities in your country becoming aware or engaged, what internal steps should a company take? Are there internal steps that a company is legally required to take or should consider taking?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「36 What internal steps should a company in your country take if it receives a notice or subpoena from a law enforcement authority seeking the production or preservation of documents or data?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「39 Can the attorney–client privilege be claimed over any aspects of internal investigations in your country? What steps should a company take in your country to protect the privilege or confidentiality of an internal investigation?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「43 To what extent is waiver of the attorney­–client privilege regarded as a cooperative step in your country? Are there any contexts where privilege waiver is mandatory or required?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「54 What are the practical steps needed to self-report to law enforcement in your country?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「59 Does law enforcement in your country routinely share information or investigative materials with law enforcement in other countries? What framework is in place in your country for cooperation with foreign authorities?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「73 What steps do you take to manage corporate communications in your country? Is it common for companies to use a public relations firm to manage a corporate crisis in your country?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+- 一次情報の探し方：
+  - 「There is no avenue for this, other than the filing of a motion to dismiss a warrant authorising search and seizure, arrest or detention. Because of the secrecy of investigations, it is difficult to file a motion to challenge ongoing investigations before the courts.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+- 実例：
+  - 「For these exceptional cases, which often involve corporate liability, the special investigation departments of the public prosecutors’ offices in major cities take the initiative to investigate corporations in cooperation with the aforementioned specialised government authorities.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「While the prosecutor’s offices do not have formal policies or protocols guiding prosecutorial decisions in any type of case or violation, including those involving corporate misconduct, the JFTC has publicly released certain standards and guidelines for enforcing antimonopoly law violations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「To date, there have only been six reported cases on the use of the plea bargaining system.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「8 To what extent do law enforcement authorities in your jurisdiction place importance on a corporation having an effective compliance programme? What guidance exists (in the form of official guidance, speeches or case law) on what constitutes an effective compliance programme?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「9 What impact is AI having on investigations? Describe any relevant guidance, regulatory expectations and case law concerning the use of AI in investigations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「The TBA provides rules regarding the secrecy of communications. For example, with respect to communications that are handled by telecommunications carriers, this law provides that the secrecy of these communications must not be violated, and any person who is engaged in a telecommunications business must not disclose secrets learned while in office.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「18 What is your country’s approach to sanctions enforcement? Has there been an increase in sanctions enforcement activity in recent years, for example?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「There have not been many significant sanctions enforcement cases in Japan in recent years. However, given that the Japanese government has actively and repeatedly issued additional sanctions against Russia following its invasion of Ukraine, enforcement actions could potentially become more prevalent in the near future.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「In a notable case reported on 10 July 2024, the CEO of a trading company was arrested on suspicion of illegally exporting goods to Russia via South Korea without authorisation. The goods – under an export ban – allegedly included items that could be converted for military use, in violation of sanctions imposed following Russia’s invasion of Ukraine.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「In addition, in civil procedures, a witness cannot be forced to testify in cases where certain professional secrets obtained by public officials in the performance of their duties or certain technical or professional secrets are involved.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「the proportionality of the disciplinary action in light of the nature, type and degree of the misconduct, the employee’s motives, the damage or disruption caused, and the disciplinary action imposed in previous similar cases at the company; and」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「Furthermore, to receive any benefit from self-reporting (eg, immunity from fines), applicants should cooperate with the authority throughout the course of the investigation by making their officers and employees available for interview, responding to various requests for documents and data, and answering the authority’s questions on the facts and circumstances of the case.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「For example, if the JFTC has taken action against a company for cartel or bid-rigging practices, the company may be restricted from participating in certain public procurement processes. It is therefore important to identify the types of public procurement in which the company is, or may need to be, involved and to understand the applicable or expected eligibility requirements.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「In addition, penalties are determined within the ranges prescribed by law and by reference to comparable cases. Although no clear general trend is apparent in the penalties imposed in individual cases, legislative amendments have generally made penalties for violations harsher rather than lighter.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「To date, there have only been six reported cases on the use of the plea bargaining system. In one instance, officers and employees were convicted of bribing a foreign public official. The company utilised the plea bargaining system to provide information on the bribery committed by its officers and employees, thereby avoiding prosecution.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）

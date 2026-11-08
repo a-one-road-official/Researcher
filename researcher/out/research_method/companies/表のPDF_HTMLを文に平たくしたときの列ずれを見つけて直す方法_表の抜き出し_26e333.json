@@ -8,31 +8,11 @@
  ],
  "context": "method",
  "kind": "market",
- "researched_at": "2026-11-08T14:32:03.879345+00:00",
+ "researched_at": "2026-11-08T22:51:41.574991+00:00",
  "evidence": {
   "実例": [
    {
     "quote": "To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "How to Extract Tables from PDF: Scale Structured Data Extraction",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rather than an isolated conversion step.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Income Verification API: How to Automate Document-Based Income Checks at Scale",
     "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -75,68 +55,43 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How to Extract Tables from PDF: Scale Structured Data Extraction",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "rather than an isolated conversion step.",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Income Verification API: How to Automate Document-Based Income Checks at Scale",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "url": "https://www.gentables.com/tools/validate-ocr-results",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
+    "url": "https://dev.to/renev3408/the-table-you-pulled-from-a-pdf-has-shifted-columns-and-empty-rows-here-is-a-20-line-python-check-5a5k",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/camcam/items/ae9ac4860968389804bd",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://tech.gunosy.io/entry/llm-pdf-rag-citation-ocr-highlight",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.docswell.com/s/7728748047/K4432Q-2025-07-31-120558",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.softbank.jp/biz/blog/cloud-technology/articles/202407/vertex-ai-search-rag-tips2/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "url": "https://www.stackai.com/insights/how-to-extract-tables-from-pdfs-best-strategies-for-accurate-pdf-table-parsing",
     "status": "ok",
     "method": "http"
    },
@@ -146,22 +101,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/Rag/comments/1sk0reu/highprecision_table_extraction_from_complex_pdfs/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.stackai.com/insights/how-to-extract-tables-from-pdfs-best-strategies-for-accurate-pdf-table-parsing",
+    "url": "https://dev.thedrive.ai/blog/extract-tables-from-pdf-2026",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://stackoverflow.com/questions/17591426/how-can-i-extract-tables-as-structured-data-from-pdf-documents",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.olostep.com/blog/how-to-extract-tables-from-pdf",
+    "url": "https://note.com/corenica_lab/n/ncb380e1fba4b?hl=en",
     "status": "ok",
     "method": "http"
    }
@@ -170,233 +115,102 @@
  "search_log": [
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 site:note.com",
-   "results": [
-    "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
-    "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
-    "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
-    "https://qiita.com/camcam/items/ae9ac4860968389804bd",
-    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
-    "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://tech.gunosy.io/entry/llm-pdf-rag-citation-ocr-highlight",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 note",
-   "results": [
-    "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
-    "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
-    "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
-    "https://qiita.com/camcam/items/ae9ac4860968389804bd",
-    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
-    "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://tech.gunosy.io/entry/llm-pdf-rag-citation-ocr-highlight",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 やり方",
-   "results": [
-    "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
-    "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
-    "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
-    "https://qiita.com/camcam/items/ae9ac4860968389804bd",
-    "https://www.docswell.com/s/7728748047/K4432Q-2025-07-31-120558",
-    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
-    "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://www.softbank.jp/biz/blog/cloud-technology/articles/202407/vertex-ai-search-rag-tips2/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 事例",
-   "results": [
-    "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
-    "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
-    "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
-    "https://qiita.com/camcam/items/ae9ac4860968389804bd",
-    "https://www.docswell.com/s/7728748047/K4432Q-2025-07-31-120558",
-    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
-    "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://www.softbank.jp/biz/blog/cloud-technology/articles/202407/vertex-ai-search-rag-tips2/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "detect column misalignment when flattening tables from PDF HTML table extraction validation",
    "results": [
-    "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "https://github.com/docling-project/docling/issues/2756",
-    "https://www.reddit.com/r/Rag/comments/1sk0reu/highprecision_table_extraction_from_complex_pdfs/",
-    "https://www.youtube.com/watch?v=enfc8J2azn4",
+    "https://www.gentables.com/tools/validate-ocr-results",
+    "https://dev.to/renev3408/the-table-you-pulled-from-a-pdf-has-shifted-columns-and-empty-rows-here-is-a-20-line-python-check-5a5k",
     "https://www.stackai.com/insights/how-to-extract-tables-from-pdfs-best-strategies-for-accurate-pdf-table-parsing",
-    "https://stackoverflow.com/questions/17591426/how-can-i-extract-tables-as-structured-data-from-pdf-documents",
-    "https://www.olostep.com/blog/how-to-extract-tables-from-pdf",
-    "https://medium.com/@kramermark/i-tested-12-best-in-class-pdf-table-extraction-tools-and-the-results-were-appalling-f8a9991d972e",
-    "https://arxiv.org/html/2506.07015v1",
-    "https://artifex.com/blog/solving-common-issues-with-table-detection-and-extraction"
+    "https://github.com/docling-project/docling/issues/2756",
+    "https://dev.thedrive.ai/blog/extract-tables-from-pdf-2026",
+    "https://note.com/corenica_lab/n/ncb380e1fba4b?hl=en",
+    "https://document-data-automation.com/automating-pdf-extraction-generation/extracting-tables-from-pdfs/fix-pdf-text-extraction-alignment-issues/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
-   "results": [
-    "https://note.com/itso_/n/n020a3413f04c",
-    "https://note.com/selvanakayama/n/nb98248d3483a",
-    "https://note.com/ennodes/n/n60450941902d",
-    "https://note.com/furucrm/n/nb1cc6c2f1e64",
-    "https://note.com/honda_crosscom/n/n65f076b18e76",
-    "https://note.com/snake_dragon/n/n5229c48e9a57",
-    "https://note.com/ilujapan/n/nabff7a5a4710",
-    "https://note.com/ryosi_sec_dog/n/n5906d6929908",
-    "https://note.com/gtminami/n/nac7ff90798ca",
-    "https://note.com/snake_dragon/n/n526b5557773f"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:x.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
-   "results": [
-    "https://x.com/hiro_gamo/status/1860376810384687617",
-    "https://x.com/akshay_pachaar/status/2068317780064276917",
-    "https://x.com/nicbstme/status/2015174818497437834",
-    "https://x.com/karpathy/status/2039805659525644595",
-    "https://x.com/karpathy",
-    "https://x.com/mikuhirano/status/1775055130188288125",
-    "https://x.com/cv_usk/status/2116714085886878125",
-    "https://x.com/bcherny/status/2007179832300581177",
-    "https://x.com/sniffout_inc",
-    "https://x.com/CherryStudioHQ"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
-   "results": [
-    "https://jp.linkedin.com/pulse/unlocking-future-intelligent-search-comprehensive-guide-rao-vrhdf?tl=ja",
-    "https://www.linkedin.com/in/aravind-srinivas-16051987",
-    "https://tw.linkedin.com/in/yefthajoshua",
-    "https://jp.linkedin.com/pulse/text-document-splitting-rag-why-matters-when-you-need-rajveer-gangwar-qrylc?tl=ja",
-    "https://jp.linkedin.com/pulse/unlocking-secrets-pdf-parsing-comparative-analysis-python-tarnaras-gvmjf?tl=ja",
-    "https://tw.linkedin.com/in/daivalentineno-janitra-salim",
-    "https://www.linkedin.com/in/wei-quan-lai-46b0781b9",
-    "https://tw.linkedin.com/in/maryam-mahmoudi-data-scientist",
-    "https://jp.linkedin.com/pulse/from-raw-data-ai-ready-why-rag-ingestion-pipelines-matter-la-vigne-4cnte?tl=ja",
-    "https://www.linkedin.com/in/-danieltseng"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
-   "results": [
-    "https://www.facebook.com/DollShowUSA/posts/jackson-mi-doll-show-sale-jackson-mi-saturday-october-9th-2027-1000-am-300-pm-am/1772260874906051/",
-    "https://www.facebook.com/groups/hacking101/posts/2690278371372064/",
-    "https://www.facebook.com/groups/aigctw/posts/3257157387801484/",
-    "https://www.facebook.com/thanhhm/videos/introducing-context7-skills-search-across-24k-skills-install-skills-with-single-/737973489090387/",
-    "https://m.facebook.com/DoctorMixDotCom/videos/7-most-famous-piano-riffs-in-the-world/365276847563903/?locale=zh_CN&_rdr",
-    "https://www.facebook.com/groups/1243250902386508/posts/24272952078989731/",
-    "https://www.facebook.com/pythonclcoding/posts/50-ml-projects-to-understand-llms-investigate-transformer-mechanisms-through-dat/1391301589690722/",
-    "https://www.facebook.com/kake.yang/",
-    "https://www.facebook.com/groups/1085571392718504/posts/1784534826155487/",
-    "https://www.facebook.com/61588107756334/posts/-pdf-%E4%B8%9F%E7%B5%A6-ai%E5%8D%81%E6%AC%A1%E6%9C%89%E5%85%AB%E6%AC%A1%E8%AE%80%E6%88%90%E4%B8%80%E5%9C%98%E4%BA%82%E9%80%99%E5%80%8B%E9%96%8B%E6%BA%90%E5%B7%A5%E5%85%B7%E5%9C%A8%E8%A7%A3%E6%9E%90%E5%9F%BA%E6%BA%96%E6%B8%AC%E8%A9%A6%E6%8B%BF%E4%BA%86%E7%AC%AC%E4%B8%80%E5%90%8D%E5%81%9A-rag%E5%81%9A-ai-%E5%AE%A2%E6%9C%8D%E5%81%9A%E7%9F%A5%E8%AD%98%E5%BA%AB%E7%9A%84%E4%BA%BA%E9%83%BD%E6%87%82%E9%80%99%E5%80%8B%E7%97%9Bpdf-%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%A5%BD%E5%A5%BD%E7%9A%84%E4%B8%80%E9%A4%B5%E7%B5%A6-ai-%E5%B0%B1%E5%AE%8C/122124675339270258/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 note 社長",
-   "results": [
-    "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
-    "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
-    "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
-    "https://qiita.com/camcam/items/ae9ac4860968389804bd",
-    "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "https://www.youtube.com/watch?v=6cUITZxZtw8"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 X 投稿",
-   "results": [
-    "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
-    "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
-    "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
-    "https://qiita.com/camcam/items/ae9ac4860968389804bd",
-    "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "https://www.youtube.com/watch?v=6cUITZxZtw8"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "detect column misalignment when flattening tables from PDF HTML table extraction validation site:linkedin.com",
    "results": [
-    "https://my.linkedin.com/in/ts-siti-nur-nazhifah-jais-meah-860984135",
-    "https://id.linkedin.com/in/ebbryl",
     "https://www.linkedin.com/posts/pdftopia_finance-audit-compliance-activity-7465364976195694592-3ZbO",
     "https://www.linkedin.com/posts/landing-ai_parsing-complex-tables-in-messy-pdfs-has-activity-7379952982731382784-hO7u",
     "https://pe.linkedin.com/pulse/challenge-6-post-extraction-validation-muhammad-azeem-rosli-3m8vc",
+    "https://www.linkedin.com/pulse/automate-table-data-extraction-from-pdf-reports-2026-guide-lidoapp-htdhc/",
     "https://www.linkedin.com/pulse/extract-pdf-tables-perfect-spreadsheets-ai-3-proven-prompts-sareen-d2jrc",
     "https://www.linkedin.com/pulse/pdf-table-extraction-comprehensive-guide-2026-lidoapp-wbvmc/",
-    "https://www.linkedin.com/pulse/automate-table-data-extraction-from-pdf-reports-2026-guide-lidoapp-htdhc/",
-    "https://www.linkedin.com/pulse/table-extraction-production-what-nobody-tells-you-sáez-ibáñez-e0gne"
+    "https://www.linkedin.com/posts/bhavneetsingh025_documentai-pdfextraction-tableextraction-activity-7456048780023427072-qJsb"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 9
+   "n_hits": 7
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ17頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ17頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ6頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ6頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T07:59:38.807295+00:00"
 }
