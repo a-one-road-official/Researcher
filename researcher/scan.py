@@ -2898,7 +2898,8 @@ def scan(topic):
         if os.path.exists(_sp):
             _have = set()
             _auto = "\n".join(md)
-            for m in _NUMU.finditer(_auto): _have.add(m.group(1).replace(",", ""))
+            # 83回目：単位が数字の直後に無い書き方（「734.2→792.5（年率」）を拾えず、scan_auto.md にある値を「見当たらない」と誤って並べた。単位なしの数字も全部持つ
+            for m in re.finditer(r"\d[\d,]*(?:\.\d+)?", _auto): _have.add(m.group(0).replace(",", "")); _have.add(m.group(0).replace(",", "").rstrip("0").rstrip("."))
             for r in rows:
                 _have.add(str(r["原文の数字"]).replace(",", ""))
                 for m in re.finditer(r"\d[\d,]*(?:\.\d+)?", str(r["原文の数字"])): _have.add(m.group(0).replace(",", ""))
@@ -2931,6 +2932,39 @@ def scan(topic):
                *(f"  - {r['品目'][:40]}：{r['引用'][:50]}" for r in _eu[:5]),
                f"- 単位ごとの最大の値が中央値の100倍以上：{len(_big)}単位。大きい数字ほど検算されずに残るので、この値から本文・原表で桁を確かめる",
                *(f"  - {u}：{r['品目'][:40]}（中央値の約{x}倍）：{r['引用'][:50]}" for u, r, x in _big[:8]),
+               ""]
+    except Exception: pass
+    # 2026-11-08 4-108（Miguel Paz「Checklist to work with data and avoid mistakes」2017：既定の日付（1900・1904・1970年1月1日）は空欄・0の読み違い、
+    # 先頭のゼロが落ちたコード、表の合計を公表の総数と照らす。OpenNews「SRCCON: How Not to Skew Data with Statistics」2014：最小・最大で外れを見て、
+    # 平均と中央値が近いかで片寄りを見る。立命館大学図書館「企業情報の調べ方」2026-03：帝国データバンク会社年鑑・全国企業あれこれランキングは2025年で刊行終了。
+    # CIA「A Tradecraft Primer」2009 の情報の質の点検：前に捨てた情報を新しい事実に照らして見直す）。
+    # ①既定の日付の疑い ②品目×単位で平均が中央値の2倍以上・半分以下（片寄り） ③刊行終了の名簿・年鑑を2026年以降の値の出典にした引用 ④捨てた理由の内訳（見直しの入口）
+    try:
+        _DEF = re.compile(r"(1900|1904|1970)\s*[年/.\-]\s*0?1\s*[月/.\-]\s*0?1(?!\d)")
+        _def = [r for r in rows if _DEF.search(r["引用"])]
+        _skew = []
+        _bi = {}
+        for r in rows:
+            if r.get("予測"): continue
+            try: _bi.setdefault((r["品目"], r["単位"]), []).append(float(r["値"]))
+            except Exception: pass
+        for (n, u), vs in _bi.items():
+            if len(vs) < 4: continue
+            vs.sort(); med = vs[len(vs) // 2]; mean = sum(vs) / len(vs)
+            if med > 0 and (mean >= 2 * med or mean <= med / 2): _skew.append((n, u, len(vs), round(mean / med, 1), vs[0], vs[-1]))
+        _DISC = re.compile(r"(帝国データバンク会社年鑑|全国企業あれこれランキング|日本スーパー名鑑|世界自動車統計年報)")
+        _disc = [r for r in rows if _DISC.search(r["引用"])]
+        _disc_new = [r for r in _disc if str(r["年"]).isdigit() and int(r["年"]) >= 2026]
+        _dr = DROPS.get(topic, {})
+        md += ["## 既定の日付・平均と中央値の片寄り・刊行終了の出典・捨てた情報の見直し（4-108・機械）",
+               f"- 既定の日付（1900/1904/1970年1月1日）が出る引用：{len(_def)}件。空欄・0が日付として読まれた疑いとして、その日付を創業・設立・時点にしない",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:50]}" for r in _def[:5]),
+               f"- 品目×単位で値が4つ以上あり、平均が中央値の2倍以上か半分以下の組：{len(_skew)}組。片寄りの組は中央値を採り、最小・最大の引用から本文で桁と対象を確かめる（4-21・4-107）",
+               *(f"  - {n[:40]}（{u}・{k}件・平均÷中央値 {x}・最小 {lo:g}・最大 {hi:g}）" for n, u, k, x, lo, hi in sorted(_skew, key=lambda t: -abs(t[3] - 1))[:8]),
+               f"- 刊行終了の年鑑・名簿（帝国データバンク会社年鑑・全国企業あれこれランキングは2025年で終了ほか）を出典にした引用：{len(_disc)}件、うち2026年以降の値：{len(_disc_new)}件。最新版として扱わず、2026年以降の値はどこからの写しかを先に疑う",
+               *(f"  - {r['品目'][:40]}（{r['年']}）：{r['引用'][:50]}" for r in _disc_new[:5]),
+               f"- 今回捨てた引用の理由の内訳：{sum(_dr.values())}件・{len(_dr)}種。捨てた情報は新しい事実が出たら見直す（多い理由から、正しい数字まで捨てていないかを正解例で点検・4-38・4-47）",
+               *(f"  - {w[:40]}：{c}件" for w, c in sorted(_dr.items(), key=lambda x: -x[1])[:6]),
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
