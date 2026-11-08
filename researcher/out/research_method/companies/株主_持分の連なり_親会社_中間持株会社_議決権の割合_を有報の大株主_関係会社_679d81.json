@@ -8,7 +8,7 @@
  ],
  "context": "会社・一次",
  "kind": "market",
- "researched_at": "2026-11-07T19:49:24.889079+00:00",
+ "researched_at": "2026-11-08T01:47:17.770007+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -39,23 +39,23 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.businesslawyers.jp/articles/274",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
     "status": "http_403",
     "method": "pdf"
    },
    {
-    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm",
+    "url": "https://www.businesslawyers.jp/articles/274",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/ipo/basic/4349/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -69,9 +69,14 @@
     "method": "http"
    },
    {
-    "url": "https://taxjustice.net/2020/07/06/exploring-uk-companies-legal-ownership-chains-to-detect-red-flags-and-verify-beneficial-ownership-information/",
+    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.taxjustice.net/wp-content/uploads/2019/01/Beneficial-ownership-verification_Tax-Justice-Network_Jan-2019.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://kyc-chain.com/ubo-discovery-explained/",
@@ -80,11 +85,6 @@
    },
    {
     "url": "https://legal.thomsonreuters.com/blog/beneficial-ownership-information-boi-an-overview/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.aliasintelligence.com/blogs/preventing-fraud-beneficial-owner-aml",
     "status": "ok",
     "method": "http"
    }
@@ -99,18 +99,17 @@
     "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
     "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
     "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
-    "https://www.businesslawyers.jp/articles/274",
     "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
-    "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm",
+    "https://www.businesslawyers.jp/articles/274",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/dimatrix_jp/n/nee7748307d89"
+    "https://biz.moneyforward.com/ipo/basic/4349/",
+    "https://note.com/kensetsu_keiri/n/n88a09986a214"
    ],
    "engines": [
-    "ddgs:duckduckgo",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 16
   },
   {
    "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） note",
@@ -120,10 +119,10 @@
     "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
     "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
     "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
-    "https://www.businesslawyers.jp/articles/274",
     "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
-    "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+    "https://www.businesslawyers.jp/articles/274",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://biz.moneyforward.com/ipo/basic/4349/"
    ],
    "engines": [
     "yahoo_jp"
@@ -138,10 +137,10 @@
     "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
     "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
     "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
-    "https://www.businesslawyers.jp/articles/274",
     "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
-    "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+    "https://www.businesslawyers.jp/articles/274",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://biz.moneyforward.com/ipo/basic/4349/"
    ],
    "engines": [
     "yahoo_jp"
@@ -156,10 +155,10 @@
     "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
     "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
     "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
-    "https://www.businesslawyers.jp/articles/274",
     "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
-    "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+    "https://www.businesslawyers.jp/articles/274",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://biz.moneyforward.com/ipo/basic/4349/"
    ],
    "engines": [
     "yahoo_jp"
@@ -171,59 +170,60 @@
    "results": [
     "https://www.fincen.gov/boi-faqs",
     "https://www.moodys.com/web/en/us/kyc/solutions/ultimate-beneficial-owners.html",
-    "https://taxjustice.net/2020/07/06/exploring-uk-companies-legal-ownership-chains-to-detect-red-flags-and-verify-beneficial-ownership-information/",
+    "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "https://www.taxjustice.net/wp-content/uploads/2019/01/Beneficial-ownership-verification_Tax-Justice-Network_Jan-2019.pdf",
     "https://kyc-chain.com/ubo-discovery-explained/",
     "https://legal.thomsonreuters.com/blog/beneficial-ownership-information-boi-an-overview/",
     "https://www.aliasintelligence.com/blogs/preventing-fraud-beneficial-owner-aml",
     "https://www.diligent.com/resources/blog/beneficial-ownership",
     "https://www.fatf-gafi.org/content/dam/fatf/documents/Best-Practices-Beneficial-Ownership-Legal-Persons.pdf",
-    "https://www.lseg.com/en/risk-intelligence/glossary/risk-management/beneficial-ownership",
     "https://osintbench.com/guides/financial-osint/"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "site:note.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
-   "results": [
-    "https://note.com/dimatrix_jp/n/nee7748307d89",
-    "https://note.com/kensetsu_keiri/n/n88a09986a214",
-    "https://note.com/biznote_shun/n/n3df6dbe49205",
-    "https://note.com/charm_snipe1364/n/nad7f45320186",
-    "https://note.com/nk_advisory/n/n6285b2c8f315",
-    "https://note.com/kaiken_ob/n/n9c02a9d78f7c",
-    "https://note.com/oca2/n/n539c03ccae1a"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:x.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
    "results": [
-    "https://x.com/rmc_lab/status/2056201104002552196",
+    "https://x.com/TOB_MBO_MA/status/2086226637172203741",
     "https://x.com/haru_2006ppe/status/2111605442057244755",
+    "https://x.com/rmc_lab/status/2056201104002552196",
     "https://x.com/mnt_cpa/status/2104818480449257656",
     "https://x.com/RyomaIR/status/2072838413087375647",
     "https://x.com/mnt_cpa/status/2110610435380826319",
     "https://x.com/pygmy_hem/status/2097415008397488224",
-    "https://x.com/RyomaIR/status/2074052840738189794"
+    "https://x.com/RyomaIR/status/2074070507679613184"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/pulse/ultimate-guide-company-structure-charts-mark-little?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-your-share-ownership-percentage-available-samali-4akrf?tl=ja",
+    "https://www.linkedin.com/posts/takuya-tak-shiratori-66a6841a_雑誌資料版-商事法務2025年3月号に共著2025年における機関投資家の議決権行使基準等-activity-7311385413779079171-_UCG",
+    "https://www.linkedin.com/posts/apex-k.k._公認会計士が解説会計初心者が知りたい非支配株主持分-activity-7158591027031822336-c-5a",
+    "https://jp.linkedin.com/pulse/中小企業の経営権争いはなぜ起きる株主間トラブルを防ぐために知っておきたいこと-伸一-湯原-4ikrc",
+    "https://jp.linkedin.com/posts/chiemitsui_実質株主把握しやすく企業に開示請求権会社法改正へ同意なき買収に備え-activity-7290509172255666176-oE_Z",
+    "https://jp.linkedin.com/pulse/日本会社法460条株主の権利の制限についての理解-liu-yi-nnmsc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
@@ -234,10 +234,10 @@
     "https://www.facebook.com/story.php/?story_fbid=1030239835573233&id=100057616772920",
     "https://www.facebook.com/ApexKKRecruitment/posts/会計やファイナンスで大事な項目である非支配株主持分少数株主持ち分について会計初心者のために公認会計士が解説します財務転職-ファイナンス転職httpshubsla/403706775093132/",
     "https://www.facebook.com/mochikabug/posts/持株グループ本部は分会三役を対象に中央本部総対話と持株グループ本部総対話を６月６日に開き第27回定期全国大会議案等について全体で理解を深めました持株グループ本部/859973636171084/",
-    "https://www.facebook.com/PwCTW/photos/日文版台灣租稅與投資法令要聞2月號上線本期重點受控外國企業cfc制度將自112年1月1日施行及房地合稅-20特定股權之持股認定標準發布歡迎在台日商參考下方日語摘/10160295766672474/"
+    "https://www.facebook.com/mochikabug/photos/持株グループ本部-第13回定期大会-開催持株グループ本部は8月20日第13回定期大会を開催し構成員傍聴者など約250人が参加20252026年度中期活動方針等を/1189323926569385/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -249,8 +249,8 @@
     "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
     "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
     "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
-    "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
     "https://www.businesslawyers.jp/articles/274",
+    "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
     "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm",
     "https://www.morihamada.com/ja/insights/newsletters/o66093"
    ],
@@ -267,10 +267,10 @@
     "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
     "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
     "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
-    "https://www.businesslawyers.jp/articles/274",
     "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
-    "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+    "https://www.businesslawyers.jp/articles/274",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://biz.moneyforward.com/ipo/basic/4349/"
    ],
    "engines": [
     "yahoo_jp"
@@ -281,13 +281,13 @@
    "query": "ownership chain verification beneficial ownership filings subsidiaries OSINT site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/kartheek-sana-532234111_ubo-ultimate-beneficial-owner-when-onboarding-activity-7428768519367847936-yG9g",
-    "https://www.linkedin.com/pulse/how-find-beneficial-owner-offshore-company-robert-socha-rt5ef",
     "https://www.linkedin.com/pulse/whether-subsidiary-wos-needs-file-ben-2-fcs-divesh-goyal-pvjwc",
+    "https://www.linkedin.com/pulse/how-find-beneficial-owner-offshore-company-robert-socha-rt5ef",
     "https://www.linkedin.com/pulse/osint-powerful-tool-aml-fraud-investigations-mikael-gustafsson-7mqbc",
-    "https://www.linkedin.com/pulse/revolutionizing-aml-forensic-accounting-latest-tools-trends-prabhu-xeuif",
     "https://www.linkedin.com/pulse/navigating-economic-crime-corporate-transparency-act-zwgmf",
-    "https://ch.linkedin.com/in/bowlerderek",
+    "https://www.linkedin.com/pulse/revolutionizing-aml-forensic-accounting-latest-tools-trends-prabhu-xeuif",
     "https://uk.linkedin.com/in/lorenzo-de-benedetto",
+    "https://ch.linkedin.com/in/bowlerderek",
     "https://www.linkedin.com/pulse/verifying-your-identity-companies-house-10-tips-help-you-4j97e",
     "https://www.linkedin.com/posts/bowlerderek_osint-financialintelligence-corporateinvestigations-activity-7523655438060474368-LHbW"
    ],
@@ -306,6 +306,6 @@
   "実例": "記載なし（読んだ15頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-07T19:49:24.889079+00:00"
 }

@@ -8,8 +8,100 @@
  ],
  "context": "分析の型",
  "kind": "market",
- "researched_at": "2026-11-07T19:37:31.215713+00:00",
+ "researched_at": "2026-11-08T01:50:14.756505+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や性能に関する推計は情報源によって大きく食い違う",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究は収集と分析に偏り、検証と報告の段階が手薄である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである",
@@ -189,98 +281,6 @@
    },
    {
     "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や性能に関する推計は情報源によって大きく食い違う",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究は収集と分析に偏り、検証と報告の段階が手薄である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -490,12 +490,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
+    "url": "https://note.com/tsunobuchi/n/n037e5cd3ee54",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "url": "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
     "status": "ok",
     "method": "http"
    },
@@ -510,7 +510,7 @@
     "method": "http"
    },
    {
-    "url": "https://ximix.niandc.co.jp/column/how-will-generative-ai-change-data-analysis",
+    "url": "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
     "status": "ok",
     "method": "http"
    },
@@ -520,17 +520,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/valuesharing/n/n1097f4e9f8ea",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.j-techno.co.jp/seminar/seminar-76117/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://yellowfin.co.jp/blog/jpblog-generative-ai-data-analysis/",
+    "url": "https://gen-ai-media.guga.or.jp/keyperson/ukyo-ogasawara/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/valuesharing/n/n1097f4e9f8ea",
     "status": "ok",
     "method": "http"
    },
@@ -540,17 +540,12 @@
     "method": "http"
    },
    {
-    "url": "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.gijutu.co.jp/doc/b_2374.htm",
+    "url": "https://www.gijutu.co.jp/doc/b_2353.htm",
     "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
-    "url": "https://data-viz-lab.com/data-structuring-for-generative-ai",
+    "url": "https://www.ai-alright.com/articles/2112/",
     "status": "ok",
     "method": "http"
    },
@@ -560,13 +555,23 @@
     "method": "http"
    },
    {
-    "url": "https://www.ai-alright.com/articles/2112/",
+    "url": "https://www.nri.com/jp/service/solution/solution_ai_ai_structureddata_semantic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archetype.co.jp/knowledge/how-to-implement-ai-in-business-development",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.snowflake.com/ja/artificial-intelligence/industries/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gijutu.co.jp/doc/b_2374.htm",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
@@ -580,9 +585,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_jinzai/pdf/022_03_00.pdf",
+    "url": "https://www.salesforce.com/jp/blog/artificial-intelligence/?bc=OTH",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
@@ -590,22 +595,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/aieconlab/n/n464fb20118a9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.foi.se/download/18.7fd35d7f166c56ebe0bffd5/1542623691441/A-tool-for-generating_FOI-S--4390--SE.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -620,9 +610,19 @@
     "method": "browser"
    },
    {
+    "url": "https://www.foi.se/download/18.7fd35d7f166c56ebe0bffd5/1542623691441/A-tool-for-generating_FOI-S--4390--SE.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.semanticscholar.org/paper/The-%E2%80%9Canalysis-of-competing-hypotheses%E2%80%9D-in-analysis-Dhami-Belton/7259921c0524f064138c8d971cec2bab687ab6b6",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -633,13 +633,13 @@
     "https://note.com/everprogress/n/nc066813442e3",
     "https://note.com/tsunobuchi/n/n344cda1840c5",
     "https://note.com/anozaki/n/nd51ffc6dffe8",
-    "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
     "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
     "https://note.com/matomechannel/n/n2165d41341d8",
     "https://note.com/phonet_dx/n/n24552e241ef1",
     "https://note.com/vijay_singh1970/n/n6ccb374af90f",
     "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
-    "https://note.com/vast_cosmos500/n/n046d2953d0de"
+    "https://note.com/tsunobuchi/n/n7b192013ed4c"
    ],
    "engines": [
     "ddgs:google",
@@ -651,34 +651,14 @@
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） note",
    "results": [
     "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/tsunobuchi/n/n344cda1840c5",
     "https://note.com/brave_quince241/n/n90eb278dbec7",
-    "https://ximix.niandc.co.jp/column/how-will-generative-ai-change-data-analysis",
-    "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "https://note.com/valuesharing/n/n1097f4e9f8ea",
-    "https://www.j-techno.co.jp/seminar/seminar-76117/",
-    "https://yellowfin.co.jp/blog/jpblog-generative-ai-data-analysis/",
-    "https://note.com/okodukai_prompt/n/n36089dd52177",
-    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
-    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） やり方",
-   "results": [
-    "https://www.ninesigma.com/jp/service/akceli/article/ai-research/",
-    "https://note.com/everprogress/n/nc066813442e3",
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "https://www.gijutu.co.jp/doc/b_2374.htm",
-    "https://data-viz-lab.com/data-structuring-for-generative-ai",
-    "https://www.abeam.com/jp/ja/insights/294/",
-    "https://www.ai-alright.com/articles/2112/",
-    "https://www.nri.com/jp/service/solution/solution_ai_ai_structureddata_semantic.html",
-    "https://johokiko.co.jp/publishing/BC260303.php",
+    "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "https://www.j-techno.co.jp/seminar/seminar-76117/",
+    "https://gen-ai-media.guga.or.jp/keyperson/ukyo-ogasawara/",
+    "https://note.com/valuesharing/n/n1097f4e9f8ea",
+    "https://yellowfin.co.jp/blog/jpblog-generative-ai-data-analysis/",
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
    ],
    "engines": [
@@ -686,6 +666,27 @@
     "yahoo_jp"
    ],
    "n_hits": 15
+  },
+  {
+   "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） やり方",
+   "results": [
+    "https://www.ninesigma.com/jp/service/akceli/article/ai-research/",
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://www.gijutu.co.jp/doc/b_2353.htm",
+    "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
+    "https://www.ai-alright.com/articles/2112/",
+    "https://www.abeam.com/jp/ja/insights/294/",
+    "https://www.nri.com/jp/service/solution/solution_ai_ai_structureddata_semantic.html",
+    "https://archetype.co.jp/knowledge/how-to-implement-ai-in-business-development",
+    "https://johokiko.co.jp/seminar_chemical/AD261221.php",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） 事例",
@@ -695,34 +696,35 @@
     "https://www.gijutu.co.jp/doc/b_2374.htm",
     "https://note.com/everprogress/n/nc066813442e3",
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "https://www.abeam.com/jp/ja/insights/294/",
     "https://johokiko.co.jp/publishing/BC260303.php",
+    "https://www.abeam.com/jp/ja/insights/294/",
     "https://jp.dotdata.com/blog/genai-text-analysis-and-use-cases/",
-    "https://www.meti.go.jp/shingikai/mono_info_service/digital_jinzai/pdf/022_03_00.pdf",
+    "https://www.salesforce.com/jp/blog/artificial-intelligence/",
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "structured analytic techniques ACH analysis of competing hypotheses generation verification separation",
    "results": [
     "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "https://www.foi.se/download/18.7fd35d7f166c56ebe0bffd5/1542623691441/A-tool-for-generating_FOI-S--4390--SE.pdf",
     "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
     "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
+    "https://www.foi.se/download/18.7fd35d7f166c56ebe0bffd5/1542623691441/A-tool-for-generating_FOI-S--4390--SE.pdf",
     "https://www.semanticscholar.org/paper/The-%E2%80%9Canalysis-of-competing-hypotheses%E2%80%9D-in-analysis-Dhami-Belton/7259921c0524f064138c8d971cec2bab687ab6b6",
+    "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "https://blog.eclecticiq.com/how-to-structure-analysis-of-competing-hypotheses-ach",
     "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
     "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
     "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -731,15 +733,15 @@
    "query": "site:note.com 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）",
    "results": [
     "https://note.com/everprogress/n/nc066813442e3",
-    "https://note.com/tsunobuchi/n/n344cda1840c5",
     "https://note.com/anozaki/n/nd51ffc6dffe8",
+    "https://note.com/tsunobuchi/n/n344cda1840c5",
     "https://note.com/tsunobuchi/n/n037e5cd3ee54",
-    "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
-    "https://note.com/matomechannel/n/n2165d41341d8",
     "https://note.com/phonet_dx/n/n24552e241ef1",
+    "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
     "https://note.com/vijay_singh1970/n/n6ccb374af90f",
-    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
-    "https://note.com/vast_cosmos500/n/n046d2953d0de"
+    "https://note.com/matomechannel/n/n2165d41341d8",
+    "https://note.com/vast_cosmos500/n/n046d2953d0de",
+    "https://note.com/tsunobuchi/n/n7b192013ed4c"
    ],
    "engines": [
     "ddgs:google",
@@ -774,12 +776,12 @@
     "https://jp.linkedin.com/pulse/building-agent-cmo-what-ai-native-software-engineering-jae-w-lee-c1v1f?tl=ja",
     "https://jp.linkedin.com/pulse/transmission-06-cognos-dusty-lynn-brown-msolq-3mnxc?tl=ja",
     "https://jp.linkedin.com/pulse/brief-already-out-date-sebastian-vedsted-jespersen-912ee?tl=ja",
-    "https://jp.linkedin.com/in/seiko-yamaguchi/en",
     "https://jp.linkedin.com/in/kazutaka-takarabe-a4815634",
-    "https://jp.linkedin.com/pulse/whats-key-factor-keep-mind-when-investing-web-design-2026-ibn-sayeed-vdszc?tl=ja",
-    "https://jp.linkedin.com/pulse/neither-fish-nor-fowl-hybrid-operating-model-satisfies-divesh-singla-y0eyc?tl=ja",
+    "https://jp.linkedin.com/in/seiko-yamaguchi/en",
+    "https://jp.linkedin.com/pulse/most-companies-measure-efficiency-why-adaptability-better-thakker-11hwc?tl=ja",
     "https://jp.linkedin.com/pulse/who-qualified-overrule-ai-christian-steidle-95kkf?tl=ja",
-    "https://jp.linkedin.com/in/%E6%99%83%E4%B8%80-%E6%9C%89%E6%9D%91-237690145/en"
+    "https://jp.linkedin.com/pulse/neither-fish-nor-fowl-hybrid-operating-model-satisfies-divesh-singla-y0eyc?tl=ja",
+    "https://jp.linkedin.com/pulse/quiet-quitting-building-our-changing-relationship-ambition-brewton-nleje?tl=ja"
    ],
    "engines": [
     "ddgs:google",
@@ -802,7 +804,7 @@
     "https://www.facebook.com/seminarbase/videos/新規事業で失敗する会社の共通点/2196483481132725/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -811,14 +813,35 @@
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） note 社長",
    "results": [
     "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/tsunobuchi/n/n344cda1840c5",
     "https://note.com/brave_quince241/n/n90eb278dbec7",
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "https://note.com/tsunobuchi/n/n14a67db1074a",
     "https://note.com/zenkok/n/n9d37a76fd4ad",
-    "https://note.com/tsunobuchi/n/n344cda1840c5",
+    "https://note.com/tsunobuchi/n/n14a67db1074a",
     "https://www.jri.co.jp/file/advanced/advanced-technology/pdf/16353.pdf",
     "https://www.j-techno.co.jp/seminar/seminar-76117/",
     "https://gen-ai-media.guga.or.jp/keyperson/ukyo-ogasawara/",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） X 投稿",
+   "results": [
+    "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
+    "https://note.com/brave_quince241/n/n90eb278dbec7",
+    "https://www.msiism.jp/article/genai-and-textmining.html",
+    "https://www.alteryx.com/ja/blog/generative-ai-use-cases",
+    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
+    "https://techblog.zozo.com/entry/ai-ready-data-analysis-flow",
+    "https://www.youtube.com/watch?v=4NxTXIfQzh0",
+    "https://www.gijutu.co.jp/doc/b_2355.htm",
+    "https://www.soumu.go.jp/main_content/001006039.pdf",
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
    ],
    "engines": [
@@ -828,29 +851,10 @@
    "n_hits": 15
   },
   {
-   "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） X 投稿",
-   "results": [
-    "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "https://note.com/brave_quince241/n/n90eb278dbec7",
-    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://www.msiism.jp/article/genai-and-textmining.html",
-    "https://www.youtube.com/watch?v=4NxTXIfQzh0",
-    "https://www.alteryx.com/ja/blog/generative-ai-use-cases",
-    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
-    "https://techblog.zozo.com/entry/ai-ready-data-analysis-flow",
-    "https://www.soumu.go.jp/main_content/001006039.pdf",
-    "https://qiita.com/s_horikoshi/items/0a11f6bb0a5c264b735e"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 14
-  },
-  {
    "query": "structured analytic techniques ACH analysis of competing hypotheses generation verification separation site:linkedin.com",
    "results": [
     "https://pl.linkedin.com/in/thanke",
+    "https://www.linkedin.com/in/prasanthnandanuru",
     "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
     "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-damián",
     "https://in.linkedin.com/posts/ole-donner_analysis-of-competing-hypotheses-for-digital-activity-7025432512029970433-Zwcj",
@@ -860,14 +864,14 @@
     "https://dk.linkedin.com/posts/ole-donner_ach-sach-activity-7024680138243993603-RJRa"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 9
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 19,
+ "runs": 20,
  "first_researched_at": "2026-11-05T04:36:16.255544+00:00"
 }

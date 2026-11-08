@@ -8,41 +8,263 @@
  ],
  "context": "偏り",
  "kind": "market",
- "researched_at": "2026-11-07T20:18:42.567746+00:00",
+ "researched_at": "2026-11-08T01:50:41.342286+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、",
+    "quote": "面談の初回印象や普段の発言トーンなど、初期の印象がアンカーとなり、実際の業績よりも印象面が強く影響するケースがあります",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この“思考の省略”が、結果としてバイアスを生み出します",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、評価フォームに前年のスコアを記載していたり、評価面談の冒頭で前年の結果を振り返る構成にしていると、それがアンカーとして機能します",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結果として、改善や成長が十分に反映されず、「頑張っても評価が変わらない」という不満につながります",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これが評価への不信や、離職のトリガーになるケースも少なくありません",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このような歪みを放置すると、結果的に",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「結果」「プロセス」「行動」を分けて評価することも、主観を減らす有効な方法です",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "面談の流れそのものがアンカリングを誘発しているケースもあります",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "トレーニングでは、実際の評価シートを使い、複数の評価者で同一ケースを採点・比較してみると効果的です",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、評価結果をフィードバックする際に、「自分がどの情報をもとに結論を出したか」を明確に説明できる状態を目指すことが理想です",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "評価項目は「結果」「プロセス」「行動」の3軸で整理すると、判断がブレにくくなります",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "評価者研修で事例を用いたすり合わせを行うと、評価の方向性が統一されやすくなります",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "評価結果の分布を分析し、部門間・評価者間で偏りがないかを確認します",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Create a Customer Feedback Form (with Examples)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Customer Feedback Questions: 60+ Examples by Lifecycle Stage",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Sampling Bias: Types, Examples, and How to Avoid It",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Negative Case Analysis: How to Use the Participants Who Don't Fit",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Nominal Group Technique: Steps, Examples and When to Use It",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Focus Group Questions: 50+ Examples and How to Write Them",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The Case Definition: The Decision That Fixes or Breaks Every Issue Count (2026)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Write Usability Test Tasks and Scenarios (With Examples)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "User Persona Template: 7 Free Templates and Examples for Product Teams (2026)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survey Question Types: The Complete Guide to 14 Question Types with Examples (2026)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "What Is Qualitative Research? Methods, Examples, and How AI Changes It",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Case Study Research: The Complete Methodology Guide for UX and Product Teams (2026)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "System Usability Scale (SUS): Complete Guide with Calculator, Benchmarks & Examples",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "User Research Goals and Objectives: A Complete Guide with Examples",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Primary vs. Secondary Research: Differences, Examples, and When to Use Each",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "調査対象の切り方や集計・報告のプロセスはもちろんのこと、質問文のわずかな表現の違いといった設問設計そのものによっても、結果に偏りや歪みが生じます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "6) 統計学・実験計画",
+    "quote": "各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "マーケティングリサーチの文脈でのバイアスは、心理学、統計学、HCIといった複数の学問領域に由来するバイアスが関わります",
+    "quote": "このやり取りでは、質問がテキストで回答者に伝えられ、答えは選ばれた選択肢の合計として定量化されて結果に反映されます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "回答者は記憶の曖昧さや社会的望ましさに影響される「心理的側面」を持ち、調査自体はサンプリングや変数制御といった「統計的側面」の制約を受けます",
+    "quote": "このアンケート特有のコミュニケーションの制約に加え、定量化する際の枠組みや集計する際のルール決めによって集計結果が変わってきます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう",
+    "quote": "調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る",
+    "quote": "読み終えていただくと、調査の途中で起きがちな「結果のゆがみ」を事前に察知し、データの品質を担保するための“実務の勘所”が掴めるようになります",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社会・組織の文脈では、制度や権力、情報の流れが生む構造的な不均衡として語られ、HCI（Human-Computer Interaction：人機相互作用）/UXや機械学習の領域では、表示設計やシステムが行動や結果を一定方向に動かしてしまう問題として議論されます",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つまり、アンケートの偏りは「回答者の心理」「調査手法」「設問設計」が複雑に絡み合った結果です",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査設計の段階で生じるバイアスは、調査対象をどのように切り出すか、調査の目的に沿った調査対象を正しく設定できるかどうかによって結果の妥当性そのものが決定づけられます",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その結果、「想定通りのストーリー」には見える一方で、意思決定に必要なリスク情報（離脱理由、代替選択、条件付き評価など）が欠落しやすくなります",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "テキストで表示される質問の文章表現のわずかな差が解釈の余地を生み、結果の歪み（バイアス）を招きやすくなるからです",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設問設計の欠陥がもたらす結果は、大きく次の2系統に整理できます",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分析者の判断が入りやすく、結果を大きく左右しやすい6つのバイアスを取り上げます",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -720,261 +942,39 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "面談の初回印象や普段の発言トーンなど、初期の印象がアンカーとなり、実際の業績よりも印象面が強く影響するケースがあります",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この“思考の省略”が、結果としてバイアスを生み出します",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、評価フォームに前年のスコアを記載していたり、評価面談の冒頭で前年の結果を振り返る構成にしていると、それがアンカーとして機能します",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果として、改善や成長が十分に反映されず、「頑張っても評価が変わらない」という不満につながります",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これが評価への不信や、離職のトリガーになるケースも少なくありません",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このような歪みを放置すると、結果的に",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「結果」「プロセス」「行動」を分けて評価することも、主観を減らす有効な方法です",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "面談の流れそのものがアンカリングを誘発しているケースもあります",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "トレーニングでは、実際の評価シートを使い、複数の評価者で同一ケースを採点・比較してみると効果的です",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、評価結果をフィードバックする際に、「自分がどの情報をもとに結論を出したか」を明確に説明できる状態を目指すことが理想です",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価項目は「結果」「プロセス」「行動」の3軸で整理すると、判断がブレにくくなります",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価者研修で事例を用いたすり合わせを行うと、評価の方向性が統一されやすくなります",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価結果の分布を分析し、部門間・評価者間で偏りがないかを確認します",
-    "url": "https://www.cbase.co.jp/column/article717/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How to Create a Customer Feedback Form (with Examples)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Customer Feedback Questions: 60+ Examples by Lifecycle Stage",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sampling Bias: Types, Examples, and How to Avoid It",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Negative Case Analysis: How to Use the Participants Who Don't Fit",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Nominal Group Technique: Steps, Examples and When to Use It",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Focus Group Questions: 50+ Examples and How to Write Them",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The Case Definition: The Decision That Fixes or Breaks Every Issue Count (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How to Write Usability Test Tasks and Scenarios (With Examples)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "User Persona Template: 7 Free Templates and Examples for Product Teams (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survey Question Types: The Complete Guide to 14 Question Types with Examples (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What Is Qualitative Research? Methods, Examples, and How AI Changes It",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Case Study Research: The Complete Methodology Guide for UX and Product Teams (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "System Usability Scale (SUS): Complete Guide with Calculator, Benchmarks & Examples",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "User Research Goals and Objectives: A Complete Guide with Examples",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Primary vs. Secondary Research: Differences, Examples, and When to Use Each",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "調査対象の切り方や集計・報告のプロセスはもちろんのこと、質問文のわずかな表現の違いといった設問設計そのものによっても、結果に偏りや歪みが生じます",
+    "quote": "認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります",
+    "quote": "6) 統計学・実験計画",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "このやり取りでは、質問がテキストで回答者に伝えられ、答えは選ばれた選択肢の合計として定量化されて結果に反映されます",
+    "quote": "マーケティングリサーチの文脈でのバイアスは、心理学、統計学、HCIといった複数の学問領域に由来するバイアスが関わります",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "このアンケート特有のコミュニケーションの制約に加え、定量化する際の枠組みや集計する際のルール決めによって集計結果が変わってきます",
+    "quote": "回答者は記憶の曖昧さや社会的望ましさに影響される「心理的側面」を持ち、調査自体はサンプリングや変数制御といった「統計的側面」の制約を受けます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます",
+    "quote": "p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "読み終えていただくと、調査の途中で起きがちな「結果のゆがみ」を事前に察知し、データの品質を担保するための“実務の勘所”が掴めるようになります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "社会・組織の文脈では、制度や権力、情報の流れが生む構造的な不均衡として語られ、HCI（Human-Computer Interaction：人機相互作用）/UXや機械学習の領域では、表示設計やシステムが行動や結果を一定方向に動かしてしまう問題として議論されます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "つまり、アンケートの偏りは「回答者の心理」「調査手法」「設問設計」が複雑に絡み合った結果です",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査設計の段階で生じるバイアスは、調査対象をどのように切り出すか、調査の目的に沿った調査対象を正しく設定できるかどうかによって結果の妥当性そのものが決定づけられます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その結果、「想定通りのストーリー」には見える一方で、意思決定に必要なリスク情報（離脱理由、代替選択、条件付き評価など）が欠落しやすくなります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "テキストで表示される質問の文章表現のわずかな差が解釈の余地を生み、結果の歪み（バイアス）を招きやすくなるからです",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "設問設計の欠陥がもたらす結果は、大きく次の2系統に整理できます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分析者の判断が入りやすく、結果を大きく左右しやすい6つのバイアスを取り上げます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます",
+    "quote": "セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -985,42 +985,117 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/lifeoraclejp/n/n2fe8cce3a546",
+    "url": "https://note.com/_yoke/n/n9f356b713154",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sekamoto_home615/n/n0020396a4d9e",
+    "url": "https://note.com/ready_honest8301/n/n671b4836d4a5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shinri_2025/n/n8dc8e76de352",
+    "url": "https://note.com/timetime/n/ncd10c05221aa",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tad_shimizu/n/n36afd517589f",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/t2x/n/n915f927d2009",
+    "url": "https://note.com/kitecareplan/n/ne7639d44eb0c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/corporatelawer/n/nd8ad2eacb3c7",
+    "url": "https://note.com/aritaweb_book/n/n01abedb45541",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/freelife_creator/n/n261e0b2bfd65",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/5458/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://1-byte.com/blog/psychology-anchoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dime.jp/genre/1998588/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hr-compass.mri.co.jp/glossary/anchoring-effect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/support_office/n/nae3685bb1c4f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haradaeigo.com/majika/life-anchoring-effect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1390001205676631808",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://shinji.design/anchoring-effect-negotiation/",
+    "url": "https://mbp-japan.com/tokyo/vcc-yasa/column/5222314/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://policy-note.jp/anchoring-effect/",
+    "url": "https://www.cbase.co.jp/column/article717/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lifehacker.jp/article/2302_book_to_read-1170/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theories.co.jp/terms-anchoring-effect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jumonji-u.ac.jp/sscs/ikeda/cognitive_bias/cate_d/d_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iyo-h.esnet.ed.jp/plugin/blogs/show/56/111/5720",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinji.design/anchoring-effect-negotiation/",
     "status": "ok",
     "method": "http"
    },
@@ -1030,52 +1105,32 @@
     "method": "http"
    },
    {
-    "url": "https://psychology-laws.com/anchoring-effect/",
+    "url": "https://thedecisionlab.com/biases/anchoring-bias",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://software-skills-wiki.vercel.app/business/anchoring-effect",
+    "url": "https://arxiv.org/html/2412.06593v2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://yosooi.jp/anchoring-effect/",
+    "url": "https://www.coglode.com/research/anchoring-bias",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://eikaiwagakushu.com/lab/anchoring-effect/",
+    "url": "https://medium.com/illumination/anchoring-bias-how-your-mind-tricks-you-into-wrong-decisions-c60b1ef8728e",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.researchgate.net/publication/370701063_A_literature_review_of_a_cognitive_heuristic_The_anchoring_effect",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sciencedirect.com/science/article/pii/S0167268125004214",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/variations-on-anchoring-sequential-anchoring-revisited/981D59B3AF9FEA3708AC63107B57557F",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://link.springer.com/article/10.1007/s42001-021-00158-0",
+    "url": "https://www.reddit.com/r/todayilearned/comments/7vofeg/til_about_the_anchoring_bias_the_tendency_to_use/",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://citegenie.app/blog/anchoring-bias",
+    "url": "https://www.lesswrong.com/posts/eXwpbnSeRHTahvJAx/is-anchoring-a-reliable-cognitive-bias",
     "status": "ok",
     "method": "http"
    }
@@ -1085,114 +1140,138 @@
   {
    "query": "聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む） site:note.com",
    "results": [
-    "https://note.com/lifeoraclejp/n/n2fe8cce3a546",
-    "https://note.com/sekamoto_home615/n/n0020396a4d9e",
-    "https://note.com/shinri_2025/n/n8dc8e76de352",
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://note.com/t2x/n/n915f927d2009",
-    "https://note.com/corporatelawer/n/nd8ad2eacb3c7",
-    "https://note.com/magic_cosmos1054/n/n0534080bcddb"
+    "https://note.com/_yoke/n/n9f356b713154",
+    "https://note.com/ready_honest8301/n/n671b4836d4a5",
+    "https://note.com/timetime/n/ncd10c05221aa",
+    "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "https://note.com/kitecareplan/n/ne7639d44eb0c",
+    "https://note.com/aritaweb_book/n/n01abedb45541",
+    "https://note.com/kitecareplan/n/nd351b4bf47be",
+    "https://note.com/tasty_dunlin998/n/n6f6e4baeeb44",
+    "https://note.com/light_business/n/nd10ddfe19ca9",
+    "https://note.com/satoshihirose/n/n5436945e164c"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む） note",
    "results": [
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://note.com/lifeoraclejp/n/n2fe8cce3a546",
-    "https://policy-note.jp/anchoring-effect/",
-    "https://senkohome.com/cognitive-bias-anchoring/",
-    "https://psychology-laws.com/anchoring-effect/",
-    "https://software-skills-wiki.vercel.app/business/anchoring-effect"
+    "https://note.com/freelife_creator/n/n261e0b2bfd65",
+    "https://www.issoh.co.jp/column/details/5458/",
+    "https://1-byte.com/blog/psychology-anchoring",
+    "https://dime.jp/genre/1998588/",
+    "https://hr-compass.mri.co.jp/glossary/anchoring-effect/",
+    "https://note.com/support_office/n/nae3685bb1c4f",
+    "https://iyo-h.esnet.ed.jp/plugin/blogs/show/56/111/5720",
+    "https://qiqumo.jp/contents/knowhow/7500",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://note.com/tad_shimizu/n/n36afd517589f"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む） やり方",
    "results": [
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://psychology-laws.com/anchoring-effect/",
-    "https://senkohome.com/cognitive-bias-anchoring/",
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://software-skills-wiki.vercel.app/business/anchoring-effect",
-    "https://policy-note.jp/anchoring-effect/",
-    "https://yosooi.jp/anchoring-effect/"
+    "https://www.issoh.co.jp/column/details/5458/",
+    "https://www.haradaeigo.com/majika/life-anchoring-effect/",
+    "https://1-byte.com/blog/psychology-anchoring",
+    "https://cir.nii.ac.jp/crid/1390001205676631808",
+    "https://hr-compass.mri.co.jp/glossary/anchoring-effect/",
+    "https://mbp-japan.com/tokyo/vcc-yasa/column/5222314/",
+    "https://www.cbase.co.jp/column/article717/",
+    "https://www.lifehacker.jp/article/2302_book_to_read-1170/",
+    "https://theories.co.jp/terms-anchoring-effect/",
+    "https://shinji.design/anchoring-effect-negotiation/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む） 事例",
    "results": [
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://senkohome.com/cognitive-bias-anchoring/",
-    "https://psychology-laws.com/anchoring-effect/",
-    "https://software-skills-wiki.vercel.app/business/anchoring-effect",
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://yosooi.jp/anchoring-effect/",
-    "https://eikaiwagakushu.com/lab/anchoring-effect/"
+    "https://1-byte.com/blog/psychology-anchoring",
+    "https://www.issoh.co.jp/column/details/5458/",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://hr-compass.mri.co.jp/glossary/anchoring-effect/",
+    "https://www.jumonji-u.ac.jp/sscs/ikeda/cognitive_bias/cate_d/d_03.html",
+    "https://iyo-h.esnet.ed.jp/plugin/blogs/show/56/111/5720",
+    "https://theories.co.jp/terms-anchoring-effect/",
+    "https://www.lifehacker.jp/article/2302_book_to_read-1170/",
+    "https://qiqumo.jp/contents/knowhow/7500",
+    "https://shinji.design/anchoring-effect-negotiation/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "anchoring bias research question design avoid numeric anchors common-mode bias trust the delta",
    "results": [
-    "https://www.koji.so/docs/anchoring-bias-research",
-    "https://www.researchgate.net/publication/370701063_A_literature_review_of_a_cognitive_heuristic_The_anchoring_effect",
-    "https://www.sciencedirect.com/science/article/pii/S0167268125004214",
-    "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/variations-on-anchoring-sequential-anchoring-revisited/981D59B3AF9FEA3708AC63107B57557F",
-    "https://link.springer.com/article/10.1007/s42001-021-00158-0",
-    "https://citegenie.app/blog/anchoring-bias",
-    "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2023.03238"
+    "https://thedecisionlab.com/biases/anchoring-bias",
+    "https://arxiv.org/html/2412.06593v2",
+    "https://www.coglode.com/research/anchoring-bias",
+    "https://medium.com/illumination/anchoring-bias-how-your-mind-tricks-you-into-wrong-decisions-c60b1ef8728e",
+    "https://www.reddit.com/r/todayilearned/comments/7vofeg/til_about_the_anchoring_bias_the_tendency_to_use/",
+    "https://www.lesswrong.com/posts/eXwpbnSeRHTahvJAx/is-anchoring-a-reliable-cognitive-bias",
+    "https://barnumfinancialgroup.com/5-practical-tips-to-mitigate-the-effects-of-anchoring-bias/",
+    "https://insidebe.com/articles/12-examples-of-anchoring-bias/",
+    "https://ale.com/anchoring-bias/",
+    "https://link.springer.com/article/10.1007/s42001-021-00158-0"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:note.com 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）",
    "results": [
+    "https://note.com/40dai_machi_hon/n/n4555275119ee",
     "https://note.com/lifeoraclejp/n/n2fe8cce3a546",
     "https://note.com/takoyaki_kamo3/n/n7dfca02b8bd1",
     "https://note.com/sekamoto_home615/n/n0020396a4d9e",
     "https://note.com/tad_shimizu/n/n36afd517589f",
     "https://note.com/t2x/n/n915f927d2009",
-    "https://note.com/shinri_2025/n/n8dc8e76de352",
-    "https://note.com/corporatelawer/n/nd8ad2eacb3c7"
+    "https://note.com/corporatelawer/n/nd8ad2eacb3c7",
+    "https://note.com/shinri_2025/n/n8dc8e76de352"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:x.com 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）",
    "results": [
-    "https://x.com/takua_scientist/status/2048158268036669469",
+    "https://x.com/CMLAB_NSPC",
+    "https://x.com/sasaki_sanshiro",
+    "https://x.com/urazatsugaku/status/2061397820981272652",
     "https://x.com/h_nakatsugawa/status/2065020008544325726",
+    "https://x.com/takua_scientist/status/2048158268036669469",
+    "https://x.com/akashi0106/status/2060969691485749699",
     "https://x.com/PDA2b/status/2102545141483626686",
     "https://x.com/kaiaikaiaikai/status/2048386604360937776",
-    "https://x.com/NpoJinkenyougo/status/2026285163907584193",
-    "https://x.com/akashi0106/status/2060969691485749699",
-    "https://x.com/urazatsugaku/status/2061397820981272652"
+    "https://x.com/MakeAI_CEO/status/2054517040711626798"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "site:linkedin.com 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）",
@@ -1202,24 +1281,24 @@
     "https://jp.linkedin.com/pulse/mastering-decision-making-overcoming-anchoring-bias-ann-srivastava--y2hmf?tl=ja",
     "https://www.linkedin.com/feed/update/urn:li:activity:7469358340771434496/",
     "https://jp.linkedin.com/pulse/thinking-traps-explained-part-3-anchoring-bias-andrew-de-bruyn-pdbbc?tl=ja",
-    "https://jp.linkedin.com/pulse/how-overcome-anchoring-bias-cognitive-abhi-garg?tl=ja",
-    "https://jp.linkedin.com/pulse/psychology-behind-anchoring-b2b-pricing-why-its-steve-wilkins-v6zyc?tl=ja"
+    "https://jp.linkedin.com/pulse/psychology-behind-anchoring-b2b-pricing-why-its-steve-wilkins-v6zyc?tl=ja",
+    "https://jp.linkedin.com/pulse/how-overcome-anchoring-bias-cognitive-abhi-garg?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）",
    "results": [
-    "https://www.facebook.com/news.it.it/posts/aiの回答ってつまらないよねと言う人が知らない意外な答えを引き出す頭のいい聞き方ベスト1aiの回答ってつまらないよね-頭のいい聞き方-itニュース/1385656909673333/",
     "https://www.facebook.com/reel/565565396632457/",
     "https://www.facebook.com/sho.yokota2/videos/店舗集客の方法無料チケットやサンプリング施策を成功に導くアンカリング効果と返報性の原理を解説していますマーケティング-行動経済学-アンカリング-返報性の原理-横/1793223132040280/",
     "https://www.facebook.com/kaoruozawa.icingcookies/videos/マーケティングや行動経済学でいうフレーミング効果見せ方によって印象が変わるアンカリング効果比較対象によって価値の感じ方が変わるっていうんだって絶対覚えらんないわ/1597650841715807/",
     "https://www.facebook.com/188634327823098/posts/アンカリング効果例えば大特価️️5000円️500円10分の1の値段になんて言われたら安と思いますよねその前になぜそんな値下がりしたのかという疑問が来る気はする/3499167410103090/",
-    "https://www.facebook.com/yui.sugano.101/posts/暗算ですぐ分かりそうですが数字のつながりをもう一度確認最初に浮かんだ答えは何でしたか/1410887567800622/",
-    "https://www.facebook.com/61551468804787/videos/1560130302166924/"
+    "https://www.facebook.com/SuKattoHell/posts/先生うちの子の答え本当に間違っているんですか小学2年生の息子が持ち帰った算数のテストに私は思わず目を疑った問題は1階から5階まで20秒かかるエレベーターの話では/1453421383631531/",
+    "https://www.facebook.com/kiyonori.sasai/posts/経営判断に迷ったとき数字だけでは答えが出ないことがあります法律を調べても答えが見つからないことがありますそんなときはこの判断は人として正しいだろうかと問いかけて/28470273902622631/",
+    "https://www.facebook.com/yui.sugano.101/posts/暗算ですぐ分かりそうですが数字のつながりをもう一度確認最初に浮かんだ答えは何でしたか/1410887567800622/"
    ],
    "engines": [
     "ddgs:google"
@@ -1229,381 +1308,64 @@
   {
    "query": "聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む） note 社長",
    "results": [
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://policy-note.jp/anchoring-effect/",
-    "https://note.com/lifeoraclejp/n/n2fe8cce3a546",
-    "https://software-skills-wiki.vercel.app/business/anchoring-effect",
-    "https://kotoba-note.net/framework/anchoring-effect-framework/",
-    "https://psychology-laws.com/anchoring-effect/"
+    "https://note.com/peejutenpoi/n/n489eddc0000c",
+    "https://cir.nii.ac.jp/crid/1390001205676631808",
+    "https://note.com/rina_nomura/n/n321891c8bbac",
+    "https://note.com/freelife_creator/n/n261e0b2bfd65",
+    "https://dime.jp/genre/1998588/",
+    "https://www.lifehacker.jp/article/2302_book_to_read-1170/",
+    "https://iyo-h.esnet.ed.jp/plugin/blogs/show/56/111/5720",
+    "https://theories.co.jp/terms-anchoring-effect/",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
+    "https://shinji.design/anchoring-effect-negotiation/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む） X 投稿",
    "results": [
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://senkohome.com/cognitive-bias-anchoring/",
-    "https://psychology-laws.com/anchoring-effect/",
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4Xin242/_article/-char/ja",
-    "https://eikaiwagakushu.com/lab/anchoring-effect/",
-    "https://policy-note.jp/anchoring-effect/"
+    "https://www.issoh.co.jp/column/details/5458/",
+    "https://www.haradaeigo.com/majika/life-anchoring-effect/",
+    "https://cir.nii.ac.jp/crid/1390001205676631808",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://dime.jp/genre/1998588/",
+    "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
+    "https://theories.co.jp/terms-anchoring-effect/",
+    "https://www.youtube.com/watch?v=0A_hOPoVZ2s"
    ],
    "engines": [
-    "ddgs:bing"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "anchoring bias research question design avoid numeric anchors common-mode bias trust the delta site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/top-content/negotiation/strategies-for-international-negotiation/anchoring-techniques-in-negotiation/",
+    "https://www.linkedin.com/in/joshua-clingo",
+    "https://www.linkedin.com/in/ashkan-nasr-d-o-mph-1111bb69",
+    "https://id.linkedin.com/in/reyhanauzan",
+    "https://hr.linkedin.com/in/nicola-ceccaroli",
+    "https://www.linkedin.com/directory/posts/g-6",
+    "https://de.linkedin.com/in/stefan-xhunga-m356",
     "https://www.linkedin.com/advice/0/how-can-you-design-surveys-use-anchoring-effect-zn0ef",
     "https://www.linkedin.com/posts/market-dynamics-research-group-inc-_marketresearch-behavioralscience-activity-7491509507949346816-ZGBm",
-    "https://www.linkedin.com/posts/grad-coach-intl_beware-the-anchors-the-first-study-you-activity-7363163081394302976--aPq",
-    "https://www.linkedin.com/pulse/bias-5-anchoring-miguel-martínez-carballal-ovnsc",
-    "https://www.linkedin.com/pulse/anchoring-bias-arvind-saraswat-adisf",
-    "https://www.linkedin.com/advice/0/what-anchoring-effect-how-can-you-prevent-from-lvxcc",
-    "https://www.linkedin.com/advice/1/what-anchoring-bias-how-can-you-avoid-skills-decision-making-7olze"
+    "https://www.linkedin.com/posts/grad-coach-intl_beware-the-anchors-the-first-study-you-activity-7363163081394302976--aPq"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   }
  ],
  "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "Anchoring Bias in Research: How the First Number Skews Answers",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Interviewer Bias: How Moderators Distort Research (and How AI Removes the Variance)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Proxy Response Bias: Why the Question, Not the Person, Decides How Wrong a Proxy Is (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Research Bias: The Complete Guide to Cognitive Biases That Corrupt User Research",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Trust the Delta, Not the Level: Common-Mode Bias in Research (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Slips vs Mistakes: How to Classify User Errors in Usability Testing (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sampling Bias: Types, Examples, and How to Avoid It",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship Bias in Customer Research: Why You're Only Hearing Half the Story",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Courtesy Bias: Why Respondents Tell You What You Want to Hear",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Self-Selection Bias: Why the People Who Answer Aren't the People You Need",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sponsorship Bias: When Knowing Who Is Asking Changes the Answers",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Central Tendency Bias: Why Respondents Cluster on the Middle (and How to Fix It)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Acquiescence Bias: Why Respondents Say Yes (and How to Stop It)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Anchoring Bias in Research and Surveys: How the First Number Skews Every Answer",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Nonresponse Bias: How Missing Respondents Skew Your Data",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Triangulation in Research: Combining Methods for Stronger, More Credible Insights (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Propensity Score Matching and the Pruning Paradox: When Better Balance Makes Your Estimate Worse (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". In the classic experiment, participants spun a wheel of fortune that landed on a number between 0 and 100, then estimated the percentage of African nations in the United Nations. The wheel was rigged. Participants who saw 10 gave a median estimate of 25%; those who saw 65 gave a median estimate of 45% (",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The number was visibly random and had nothing to do with Africa or the UN — yet it pulled estimates toward it. We anchor on whatever number is in front of us and adjust insufficiently from there.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Asking \"How many hours per week do you spend on this — more or less than 20?\" anchors the estimate near 20.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Drop \"more or less than X\" framings; ask for the estimate cold.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "reference point that pulls quantitative estimates toward it.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Order bias is about how earlier questions reshape the context for later ones; anchoring is about a specific value becoming the starting point a respondent adjusts from. A price shown in question two can anchor an estimate in question five.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Lean User Research: How to Run Meaningful Research with No Time or Budget",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Switch Interviews: The JTBD Method for Understanding Why Customers Buy (and Leave)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Smoke Tests and Fake Door Tests: How to Validate Demand Before You Build",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Customer Needs Analysis: How to Uncover What Customers Actually Want",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Stratified Sampling: How to Get Precise, Representative Results (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How to Create a Customer Feedback Form (with Examples)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How to Conduct User Interviews: The Complete Step-by-Step Guide",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Power User Interviews: How to Learn from Your Best Customers to Drive Growth",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Perceptual Mapping: How to Visualize Brand Positioning",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "MVP Validation: 9 Proven Methods to Test Your Minimum Viable Product (2026 Guide)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Concept Testing: The Complete Methodology Guide",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "UX Research Methods: The Complete Toolkit for Researchers and Product Teams",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Logo Testing: How to Test a Logo With Real People Before You Commit",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Qualitative Data Collection Methods: The Complete Guide",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Good-Better-Best Pricing: How to Research Your Tiers Before You Launch Them",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "How to Create a Customer Feedback Form (with Examples)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Customer Feedback Questions: 60+ Examples by Lifecycle Stage",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sampling Bias: Types, Examples, and How to Avoid It",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Negative Case Analysis: How to Use the Participants Who Don't Fit",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Nominal Group Technique: Steps, Examples and When to Use It",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Focus Group Questions: 50+ Examples and How to Write Them",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The Case Definition: The Decision That Fixes or Breaks Every Issue Count (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How to Write Usability Test Tasks and Scenarios (With Examples)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "User Persona Template: 7 Free Templates and Examples for Product Teams (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survey Question Types: The Complete Guide to 14 Question Types with Examples (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What Is Qualitative Research? Methods, Examples, and How AI Changes It",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Case Study Research: The Complete Methodology Guide for UX and Product Teams (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "System Usability Scale (SUS): Complete Guide with Calculator, Benchmarks & Examples",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "User Research Goals and Objectives: A Complete Guide with Examples",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Primary vs. Secondary Research: Differences, Examples, and When to Use Each",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 6,
+ "new_this_run": {},
+ "runs": 7,
  "first_researched_at": "2026-11-06T18:53:56.820753+00:00"
 }

@@ -8,9 +8,329 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-07T19:41:35.313157+00:00",
+ "researched_at": "2026-11-08T01:55:33.186390+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "checked PolitiFact fact-checks 77.4% of the time (22.6% selection disagreement). Moderate agreement was observed for deceptiveness scaling. Nearly complete agreement was observed for bottom-line attributed veracity. Additional cross-checking with other sources (Snopes,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ") compared in their assessment of statements fact-checked. We therefore evaluated the extent to which fact-checkers are checking the same statements and if cross-validation is possible. The ability to cross-check and, by implication, the ability of fact-check readers to trust results across multiple fact-checking organizations leads to our second research question:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We took a layered approach to evaluate how often statements fact-checked by other popular sources were cross-checked with PolitiFact. First, we evaluated only statements from",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "= 513 statements during Trump’s presidency). We could not cross-check",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cross-checking PolitiFact and",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "for more details). Coders resolved cross-checking discrepancies after discussion and re-performing the fact-checks together to ensure the right cross-check occurred. Please see the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "for examples of five representative and successful cross-checks across",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and PolitiFact. Note, since this coding procedure was a simple cross-checking task and did not involve thematic interpretation akin to qualitative coding, special coding software was not required. Please see the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cross-checking PolitiFact with Snopes and",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cross-checking selection agreement",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Our cross-checking revealed 22.6% of statements fact-checked by PolitiFact did not appear in",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Table 1. Summary of cross-checking results across analyses for President Trump data.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cross-check selection agreement (%)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The U.S. newsroom workforce has declined roughly 60% since its 2008 peak, but digital-native outlets have added an estimated 15,000+ positions since 2020.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freelance journalists now account for an estimated 30-35% of all bylined content in major U.S. publications.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The U.S. Bureau of Labor Statistics estimates approximately",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When editors, photojournalists, producers, and digital content roles are included, the broader newsroom workforce in the U.S. sits at an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digital-native news organizations have created an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The average tenure of a journalist at a single outlet has dropped to an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Despite enrollment growth, only an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hispanic and Latino journalists remain the most underrepresented group relative to population share, comprising an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "U.S. newspaper print advertising revenue has fallen to an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digital news subscriptions across all U.S. outlets are estimated at",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in the U.S. earn at least a portion of their income from freelance journalism, including contributing writers, photojournalists, and video producers. (Freelancers Union estimates)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freelancers produce an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Platforms connecting freelancers with editors (including JournalistDB, Contently, and nDash) have grown their user bases by an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "International freelance journalism has expanded significantly, with an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", collectively reaching an estimated 30-40 million subscribers.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimated Unemployment",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Large counts are usually estimates, which differ from the true value by some amount.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "But is it really “extremely improbable?” Nate Silver has estimated the odds:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimated reading time: 6 minutes",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cross-check with independent sources.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Fact-checking is a discipline built on curiosity, patience, and clear method: define the claim, find the source, cross-check, consider context, and document your work. Whether you aspire to be a reporter or simply a more informed reader, these habits matter. To keep building your skills, explore the journalism and communication courses available on Cursa.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "general population, and so there will be uncertainty in our estimate of what the population thinks about a particular issue. We",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Uncertainty can be communicated in a range of ways.10 It could be wording about a lack of data (‘this estimate is based on a small",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(‘the figure is estimated to be between 190 and 210’ instead of just ‘ 200’) or providing a range of possible scenarios that could",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "an estimated rise of 38,000 people out of work over three months. However, this figure was provided with uncertainty of ± 87,000.",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This uncertainty is over twice the size of the estimate itself, telling us to treat the estimate with caution. The range provided",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "The Art of the Follow-Up: How to Re-engage Journalists Without Being Annoying",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
@@ -556,320 +876,6 @@
    {
     "quote": "We provide links to primary sources for all factual assertions wherever possible and aim to provide at least two sources to verify the central claim of a check unless there is only one relevant source. We prefer to link to data tables, legal documents, or other primary sources rather than press releases or executive summaries of statistical releases.",
     "url": "https://fullfact.org/how-we-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements - PMC",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "checked PolitiFact fact-checks 77.4% of the time (22.6% selection disagreement). Moderate agreement was observed for deceptiveness scaling. Nearly complete agreement was observed for bottom-line attributed veracity. Additional cross-checking with other sources (Snopes,",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ") compared in their assessment of statements fact-checked. We therefore evaluated the extent to which fact-checkers are checking the same statements and if cross-validation is possible. The ability to cross-check and, by implication, the ability of fact-check readers to trust results across multiple fact-checking organizations leads to our second research question:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We took a layered approach to evaluate how often statements fact-checked by other popular sources were cross-checked with PolitiFact. First, we evaluated only statements from",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "= 513 statements during Trump’s presidency). We could not cross-check",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Cross-checking PolitiFact and",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for more details). Coders resolved cross-checking discrepancies after discussion and re-performing the fact-checks together to ensure the right cross-check occurred. Please see the",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for examples of five representative and successful cross-checks across",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and PolitiFact. Note, since this coding procedure was a simple cross-checking task and did not involve thematic interpretation akin to qualitative coding, special coding software was not required. Please see the",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Cross-checking PolitiFact with Snopes and",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Cross-checking selection agreement",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Our cross-checking revealed 22.6% of statements fact-checked by PolitiFact did not appear in",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Table 1. Summary of cross-checking results across analyses for President Trump data.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Cross-check selection agreement (%)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The U.S. newsroom workforce has declined roughly 60% since its 2008 peak, but digital-native outlets have added an estimated 15,000+ positions since 2020.",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Freelance journalists now account for an estimated 30-35% of all bylined content in major U.S. publications.",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The U.S. Bureau of Labor Statistics estimates approximately",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "When editors, photojournalists, producers, and digital content roles are included, the broader newsroom workforce in the U.S. sits at an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Digital-native news organizations have created an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The average tenure of a journalist at a single outlet has dropped to an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Despite enrollment growth, only an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Hispanic and Latino journalists remain the most underrepresented group relative to population share, comprising an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "U.S. newspaper print advertising revenue has fallen to an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Digital news subscriptions across all U.S. outlets are estimated at",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "in the U.S. earn at least a portion of their income from freelance journalism, including contributing writers, photojournalists, and video producers. (Freelancers Union estimates)",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Freelancers produce an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Platforms connecting freelancers with editors (including JournalistDB, Contently, and nDash) have grown their user bases by an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "International freelance journalism has expanded significantly, with an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", collectively reaching an estimated 30-40 million subscribers.",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimated Unemployment",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Large counts are usually estimates, which differ from the true value by some amount.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But is it really “extremely improbable?” Nate Silver has estimated the odds:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimated reading time: 6 minutes",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cross-check with independent sources.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fact-checking is a discipline built on curiosity, patience, and clear method: define the claim, find the source, cross-check, consider context, and document your work. Whether you aspire to be a reporter or simply a more informed reader, these habits matter. To keep building your skills, explore the journalism and communication courses available on Cursa.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "general population, and so there will be uncertainty in our estimate of what the population thinks about a particular issue. We",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Uncertainty can be communicated in a range of ways.10 It could be wording about a lack of data (‘this estimate is based on a small",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(‘the figure is estimated to be between 190 and 210’ instead of just ‘ 200’) or providing a range of possible scenarios that could",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "an estimated rise of 38,000 people out of work over three months. However, this figure was provided with uncertainty of ± 87,000.",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This uncertainty is over twice the size of the estimate itself, telling us to treat the estimate with caution. The range provided",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1440,7 +1446,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.reportingwithnumbers.com/",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
     "status": "ok",
     "method": "http"
    },
@@ -1450,12 +1456,12 @@
     "method": "http"
    },
    {
-    "url": "https://uploads-cdn.omnicalculator.com/images/JournalistGuide/Journalist+Guide+to+Numbers.pdf",
-    "status": "http_404",
-    "method": "pdf"
+    "url": "https://www.reportingwithnumbers.com/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "url": "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
     "status": "ok",
     "method": "http"
    },
@@ -1505,35 +1511,23 @@
    "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS",
    "results": [
     "https://journaliststoolbox.ai/writing-with-numbers/",
-    "https://www.reportingwithnumbers.com/",
-    "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "https://uploads-cdn.omnicalculator.com/images/JournalistGuide/Journalist+Guide+to+Numbers.pdf",
     "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "https://www.reportingwithnumbers.com/",
+    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
     "https://datainteractivej.com/data/numeracy-for-journalists/",
-    "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
-    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work"
+    "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:note.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
-   "results": [
-    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
-    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
-    "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
-    "https://note.com/aimediaoperator/n/n54ea9e09e10c",
-    "https://note.com/kimatta_kotae/n/n2cdb8416843a",
-    "https://note.com/kind_rail6975/n/n2233faa496ec",
-    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:x.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
@@ -1544,12 +1538,15 @@
     "https://x.com/zg1300z/status/2105924511195598926",
     "https://x.com/bg_takken/status/2100179516509638748",
     "https://x.com/nuribaon/status/2056225194776400163",
-    "https://x.com/shiho_toushi/status/2091714724794945737"
+    "https://x.com/shiho_toushi/status/2091714724794945737",
+    "https://x.com/randa_dev/status/2116434110675931368",
+    "https://x.com/yakumobooks_nmd/status/2109463360559604086"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "site:linkedin.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
@@ -1563,7 +1560,7 @@
     "https://jp.linkedin.com/pulse/statistical-revolution-how-numbers-changed-everything-jeff-kortis-vn9he?tl=ja"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1591,9 +1588,19 @@
   },
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/",
+    "https://shohyoubookreview.com/archives/16502",
+    "https://www.google.com/",
+    "https://wakara.co.jp/mathlog/20260630",
+    "https://itkisyakaiessay.hatenablog.jp/entry/2022/09/19/統計数字をどう読むか？_／千葉_利宏の“目”",
+    "https://www.jsme.or.jp/kaisi/1214-50/",
+    "https://www.amazon.co.jp/ニュースの数字をどう読むか-――統計にだまされないための22章-ちくま新書-トム・チヴァース/dp/4480074546"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS site:linkedin.com",
@@ -1607,7 +1614,7 @@
     "https://www.linkedin.com/posts/ereleases_prtips-datastorytelling-journalismbasics-activity-7434694381917507585-LvzJ"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   }
@@ -1616,151 +1623,13 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "Methodology and Sources",
+    "quote": "The Art of the Follow-Up: How to Re-engage Journalists Without Being Annoying",
     "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
     "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "19-step pre-pitch checklist",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Priya Anand edits the JournalistDB blog, covering media lists, press outreach and how to pitch reporters without wasting their time.",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How to Build a Media List That Actually Gets Responses",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How to Pitch Journalists at Top Publications (Without Getting Ignored)",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "(including bundled access), with the New York Times alone accounting for over 10 million. (Press Gazette, company filings)",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The statistics in this article are compiled from publicly available reports, government data, and industry surveys. Primary sources include:",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "The U.S. newsroom workforce has declined roughly 60% since its 2008 peak, but digital-native outlets have added an estimated 15,000+ positions since 2020.",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Freelance journalists now account for an estimated 30-35% of all bylined content in major U.S. publications.",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The U.S. Bureau of Labor Statistics estimates approximately",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "When editors, photojournalists, producers, and digital content roles are included, the broader newsroom workforce in the U.S. sits at an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Digital-native news organizations have created an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The average tenure of a journalist at a single outlet has dropped to an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Despite enrollment growth, only an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Hispanic and Latino journalists remain the most underrepresented group relative to population share, comprising an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "U.S. newspaper print advertising revenue has fallen to an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Digital news subscriptions across all U.S. outlets are estimated at",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "in the U.S. earn at least a portion of their income from freelance journalism, including contributing writers, photojournalists, and video producers. (Freelancers Union estimates)",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Freelancers produce an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Platforms connecting freelancers with editors (including JournalistDB, Contently, and nDash) have grown their user bases by an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "International freelance journalism has expanded significantly, with an estimated",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", collectively reaching an estimated 30-40 million subscribers.",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "actively avoid the news at least some of the time, citing emotional fatigue and perceived bias as the top reasons. This is up from 38% in 2017. (Reuters Institute)",
-    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-05T13:07:35.513856+00:00"
 }

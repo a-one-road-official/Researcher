@@ -7,8 +7,46 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-07T19:31:33.199106+00:00",
+ "researched_at": "2026-11-08T01:43:55.578131+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "学術調査（アカデミックリサーチ）は、理論の検証、新しい知見の発見、既存の知識の体系化などを目的とした、特定の学問分野における研究や調査活動のことを指します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "客観的なデータに基づいて社会の「現在」を検証すること",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本調査の前に、簡単なスクリーニング調査を実施し、調査対象となる条件を満たす人が母集団全体の中でどれくらいの割合で存在するのかを推定するプロセス",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ChatGPTを調査設計・レポートに活用する検証セミナー",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "確かに、代表性の確保は調査の基本であり、市場規模の推計などを行う際には不可欠です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "近年、手軽なセルフ型調査ツールが普及しており、仮説生成など多くの場面で活用されているケースも多いのではないでしょうか",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "また近年は、プライバシー意識の高まりや生活スタイルの多様化などを背景に、従来の方法だけでは回収率を維持しにくくなっているという実情もあります",
@@ -193,44 +231,6 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "学術調査（アカデミックリサーチ）は、理論の検証、新しい知見の発見、既存の知識の体系化などを目的とした、特定の学問分野における研究や調査活動のことを指します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "客観的なデータに基づいて社会の「現在」を検証すること",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本調査の前に、簡単なスクリーニング調査を実施し、調査対象となる条件を満たす人が母集団全体の中でどれくらいの割合で存在するのかを推定するプロセス",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ChatGPTを調査設計・レポートに活用する検証セミナー",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "確かに、代表性の確保は調査の基本であり、市場規模の推計などを行う際には不可欠です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "近年、手軽なセルフ型調査ツールが普及しており、仮説生成など多くの場面で活用されているケースも多いのではないでしょうか",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "社会調査とは、社会における様々な現象や問題について、客観的なデータを集め、その分析結果から社会実態への理解を深める活動です",
@@ -352,12 +352,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/arsenal_best/n/n2d55b0237b7d",
+    "url": "https://note.com/ikedon0505/n/n3d4e402301e3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "url": "https://note.com/arsenal_best/n/n2d55b0237b7d",
     "status": "ok",
     "method": "http"
    },
@@ -372,12 +372,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000949200.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000833618.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
+    "url": "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -387,27 +387,32 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.issoh.co.jp/column/details/6772/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
+    "url": "https://www.ipaj.org/bulletin/pdfs/JIPAJ17-1PDF/17-1_p023-030.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://unii-research.com/business/media/survey-responserate/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000949200.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
     "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unii-research.com/business/media/survey-responserate/",
     "status": "ok",
     "method": "http"
    },
@@ -422,27 +427,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.macromill.com/service/column/entry-080/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://ai-government-portal.com/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000900563.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000833618.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.macromill.com/service/column/entry-080/",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/quantitative_qualitative_social_research/",
     "status": "ok",
     "method": "http"
    },
@@ -458,6 +453,11 @@
    },
    {
     "url": "https://www.jmra-net.or.jp/Portals/0/event/2023/20231208_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -482,13 +482,13 @@
     "method": "http"
    },
    {
-    "url": "https://cepr.org/voxeu/columns/when-trust-official-statistics-declines",
-    "status": "ok",
-    "method": "browser"
+    "url": "https://www.reuters.com/business/us-economic-data-quality-worry-authorities-not-acting-urgently-enough-experts-2025-07-25/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://www.nature.com/articles/d41586-026-00838-9",
-    "status": "ok",
+    "url": "https://cepr.org/voxeu/columns/when-trust-official-statistics-declines",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -499,54 +499,54 @@
    "results": [
     "https://note.com/humble_crane7701/n/n917c11401561",
     "https://note.com/kagawatomo/n/n5cbaf70a8af2",
-    "https://note.com/arsenal_best/n/n2d55b0237b7d",
     "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://note.com/arsenal_best/n/n2d55b0237b7d",
     "https://note.com/taituna/n/nd3a899d46302",
     "https://note.com/hidetoshi_h_/n/n3b1198a8bd6b",
     "https://note.com/ai_insight_lab/n/n49e0cfc12015",
     "https://note.com/hidetoshi_h_/n/n330a7e5ef040",
-    "https://note.com/hidetoshi_h_/n/nb026af33eb58",
-    "https://note.com/loyal_ivy9071/n/n2a4e10b590ba"
+    "https://note.com/loyal_ivy9071/n/n2a4e10b590ba",
+    "https://note.com/hidetoshi_h_/n/nb026af33eb58"
    ],
    "engines": [
     "ddgs:google",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 21
+   "n_hits": 17
   },
   {
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） note",
    "results": [
-    "https://www.soumu.go.jp/main_content/000949200.pdf",
-    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
-    "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
-    "https://unii-research.com/business/media/survey-responserate/",
-    "https://www.ipaj.org/bulletin/pdfs/JIPAJ17-1PDF/17-1_p023-030.pdf",
-    "https://www.soumu.go.jp/main_content/000846331.pdf",
     "https://www.soumu.go.jp/main_content/000833618.pdf",
-    "https://www.ipss.go.jp/syoushika/bunken/DATA/pdf/25810103.pdf"
+    "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
+    "https://www.issoh.co.jp/column/details/6772/",
+    "https://www.ipaj.org/bulletin/pdfs/JIPAJ17-1PDF/17-1_p023-030.pdf",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
+    "https://www.soumu.go.jp/main_content/000846331.pdf",
+    "https://www.ipss.go.jp/syoushika/bunken/DATA/pdf/25810103.pdf",
+    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 12
+   "n_hits": 14
   },
   {
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） やり方",
    "results": [
     "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
     "https://www.soumu.go.jp/main_content/000949200.pdf",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
     "https://unii-research.com/business/media/survey-responserate/",
     "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
     "https://www.city.iwakura.aichi.jp/cmsfiles/contents/0000000/381/enquete.pdf",
     "https://kotsutorisetsu.com/20250605-1/",
-    "https://ai-government-portal.com/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB/",
+    "https://www.macromill.com/service/column/entry-080/",
     "https://www.soumu.go.jp/main_content/000900563.pdf"
    ],
    "engines": [
@@ -558,18 +558,19 @@
   {
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） 事例",
    "results": [
-    "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
     "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
     "https://www.soumu.go.jp/main_content/000833618.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
     "https://ai-government-portal.com/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB/",
-    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
     "https://www.city.iwakura.aichi.jp/cmsfiles/contents/0000000/381/enquete.pdf",
+    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
     "https://unii-research.com/business/media/survey-responserate/",
-    "https://www.macromill.com/service/column/entry-080/",
-    "https://www.soumu.go.jp/main_content/000644846.pdf"
+    "https://www.asmarq.co.jp/column/column-cat/how_to/quantitative_qualitative_social_research/",
+    "https://www.soumu.go.jp/main_content/000644846.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:yahoo",
     "yahoo_jp"
    ],
@@ -582,15 +583,15 @@
     "https://www.epi.org/blog/consequences-of-austerity-how-reductions-in-bls-funding-threaten-the-credibility-of-our-statistics/",
     "https://www.bls.gov/blog/2023/what-is-bls-doing-to-maintain-data-quality-as-response-rates-decline.htm",
     "https://hdsr.mitpress.mit.edu/pub/vb6hwxez",
+    "https://www.reuters.com/business/us-economic-data-quality-worry-authorities-not-acting-urgently-enough-experts-2025-07-25/",
     "https://cepr.org/voxeu/columns/when-trust-official-statistics-declines",
-    "https://www.nature.com/articles/d41586-026-00838-9",
     "https://www.brookings.edu/articles/understanding-the-risks-to-economic-statistics/",
     "https://aspe.hhs.gov/sites/default/files/private/pdf/255531/Decliningresponserates.pdf",
-    "https://www.reuters.com/business/us-economic-data-quality-worry-authorities-not-acting-urgently-enough-experts-2025-07-25/",
+    "https://www.nature.com/articles/d41586-026-00838-9",
     "https://unece.org/statistics/documents/2026/05/survey-cost-effectiveness-and-nonresponse-treatment"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -599,18 +600,18 @@
    "query": "site:note.com 公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止）",
    "results": [
     "https://note.com/hidetoshi_h_/n/n330a7e5ef040",
+    "https://note.com/good_dill292/n/n1b837c6be69d",
+    "https://note.com/atom_/n/nd0275e85a343",
     "https://note.com/loyal_ivy9071/n/nf5227f7a4b5c",
     "https://note.com/modern_flea8708/n/ne6121df5b053",
-    "https://note.com/loyal_ivy9071/n/n1b4a4b6fcd01",
     "https://note.com/nobuto545/n/n16c9db27456e",
-    "https://note.com/zenkok/n/n7a1dabfd8585",
-    "https://note.com/good_dill292/n/n1b837c6be69d",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
     "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "https://note.com/atom_/n/nd0275e85a343",
-    "https://note.com/automationjp/n/nedc6c5889a1e"
+    "https://note.com/zenkok/n/n7a1dabfd8585",
+    "https://note.com/loyal_ivy9071/n/n1b4a4b6fcd01"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -644,7 +645,7 @@
     "https://jp.linkedin.com/pulse/spotting-outliers-essential-reliable-statistics-vinit-dedhia-csm-pcq3f?tl=ja"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -673,17 +674,18 @@
    "results": [
     "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
     "https://www.soumu.go.jp/main_content/000949200.pdf",
-    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
     "https://www.mext.go.jp/b_menu/shingi/chousa/shougai/052/gijiroku/mext_00002.html",
     "https://www.issoh.co.jp/column/details/6772/",
-    "https://researto.com/column/survey-free-response-limitations/",
+    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
     "https://www.ipaj.org/bulletin/pdfs/JIPAJ17-1PDF/17-1_p023-030.pdf",
+    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
     "https://www.soumu.go.jp/main_content/000644846.pdf",
     "https://www.soumu.go.jp/main_content/000833618.pdf"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -692,18 +694,18 @@
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） X 投稿",
    "results": [
     "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
-    "https://researto.com/column/survey-free-response-limitations/",
     "https://ai-government-portal.com/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB/",
     "https://survey.gov-online.go.jp/about/caution/",
-    "https://jp.surveymonkey.com/curiosity/how-many-people-do-i-need-to-take-my-survey/",
     "https://www.chisou.go.jp/tiiki/rinjikoufukin/pdf/r6_kaitou_kouhyou.pdf",
     "https://webtan.impress.co.jp/e/2008/05/16/3080",
     "https://www.webcas.jp/formulator/knowhow/valid-respondents/",
+    "https://researto.com/column/survey-free-response-limitations/",
     "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
     "https://www.soumu.go.jp/main_content/000900563.pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -714,9 +716,9 @@
     "https://www.linkedin.com/top-content/finance/analyzing-economic-indicators/challenges-with-principal-federal-economic-indicators/",
     "https://www.linkedin.com/pulse/five-situations-watch-ensure-trusted-quality-federal-steve-pierson-xoabe",
     "https://uk.linkedin.com/in/tom-wickersham-05687a78",
-    "https://www.linkedin.com/posts/katie-vosper-a512668_data-quality-in-market-research-lessons-activity-7404456169572020225-pC1u",
     "https://www.linkedin.com/posts/nedopil_china-australia-china-activity-7510129523145834497-W8BU",
     "https://www.linkedin.com/posts/imrose-muhit_a-humble-request-to-those-using-ai-to-review-activity-7515530193705390080-XBrA",
+    "https://www.linkedin.com/posts/katie-vosper-a512668_data-quality-in-market-research-lessons-activity-7404456169572020225-pC1u",
     "https://www.linkedin.com/top-content/hospitality-tourism/hotel-guest-feedback-systems/hotel-operations-impact-on-online-reviews/",
     "https://www.linkedin.com/in/muhammad-yaseen-247800b4",
     "https://www.linkedin.com/in/adam-safir-86599a3",
@@ -730,16 +732,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "スクリーニング調査とは？注意点や設問例、メリット・デメリットを解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 2,
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-07T14:02:10.039536+00:00"
 }

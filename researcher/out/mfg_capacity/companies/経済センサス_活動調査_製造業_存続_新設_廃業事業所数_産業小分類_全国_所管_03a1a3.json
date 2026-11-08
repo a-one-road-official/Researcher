@@ -1,0 +1,584 @@
+{
+ "name": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93）",
+ "en": "Economic Census for Business Activity manufacturing continuing new closed establishments by industry national e-Stat table",
+ "aliases": [
+  "経済センサス 活動調査 存続事業所 新設事業所 廃業事業所 製造業 産業小分類 site:e-stat.go.jp",
+  "経済センサス 事業所の新設 廃業 製造業 金属製品 全国 表",
+  "Economic Census establishments opened closed manufacturing Japan e-Stat"
+ ],
+ "context": "統計・全国",
+ "kind": "market",
+ "researched_at": "2026-11-08T01:44:05.825951+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/qa1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=28&category=2085&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/shokibo/00sHakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zei-komon.com/?p=28846",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?alpha=5&layout=dataset&page=1&statdisp_id=0004005687&toukei=00200553&tstat=000001145590",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k1_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003218707",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=%E6%B4%BB%E5%8B%95%E3%82%92%E8%A1%8C%E3%81%86&statdisp_id=0004005657",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/toshikeikaku/page/0000621924.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.fukui.lg.jp/sisei/tokei/tyousa/e-census.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/2013renewwg/wg1/wg1_2/siryou_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&stat_infid=000023620457",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/24result/h24index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kawaguchi.lg.jp/soshiki/01020/010/toukei/3/43066.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/0000016768.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000875161.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ikoma.lg.jp/0000028251.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003909.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106275&tclass3=000001114495&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/dbview?sid=0004005668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2026/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&statdisp_id=0004005647&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/statistics/00200553",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.stat.go.jp/data/e-census/2026/qa1.html",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=28&category=2085&page=1000",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/shokibo/00sHakusyo_zentai.pdf",
+    "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "https://zei-komon.com/?p=28846",
+    "https://www.kanaloco.jp/news/economy/article-1316985.html",
+    "https://newsgraph.jp/articles/025/",
+    "https://news.infoseek.co.jp/article/shueisha_258652/?tpgnr=busi-econ"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?alpha=5&layout=dataset&page=1&statdisp_id=0004005687&toukei=00200553&tstat=000001145590",
+    "https://www.e-census-st.go.jp/",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k1_summary.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.soumu.go.jp/main_content/001007791.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.e-stat.go.jp/dbview?sid=0004005668",
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003218707",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?alpha=5&layout=dataset&page=1&statdisp_id=0004005687&toukei=00200553&tstat=000001145590",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=活動を行う&statdisp_id=0004005657"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.city.osaka.lg.jp/toshikeikaku/page/0000621924.html",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003218707",
+    "https://www.city.fukui.lg.jp/sisei/tokei/tyousa/e-census.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/2013renewwg/wg1/wg1_2/siryou_3.pdf",
+    "https://www.e-census-st.go.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&stat_infid=000023620457",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "https://www.meti.go.jp/statistics/tyo/census/24result/h24index.html",
+    "https://www.city.kawaguchi.lg.jp/soshiki/01020/010/toukei/3/43066.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.city.okayama.jp/shisei/0000016768.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-census-st.go.jp/",
+    "https://www.soumu.go.jp/main_content/000875161.pdf",
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&stat_infid=000023620457",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.city.ikoma.lg.jp/0000028251.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003909.html",
+    "https://www.city.kawaguchi.lg.jp/soshiki/01020/010/toukei/3/43066.html",
+    "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106275&tclass3=000001114495&tclass4val=0",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003909.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.city.fukui.lg.jp/sisei/tokei/tyousa/e-census.html",
+    "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "https://www.e-census-st.go.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&stat_infid=000023620457",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003218707",
+    "https://www.e-census-st.go.jp/",
+    "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity manufacturing continuing new closed establishments by industry national e-Stat table Japan statistics",
+   "results": [
+    "https://www.e-stat.go.jp/en/dbview?sid=0004005668",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://www.stat.go.jp/english/data/e-census/2026/index.html",
+    "https://www.e-stat.go.jp/en/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&statdisp_id=0004005647&tclass4val=0",
+    "https://www.stat.go.jp/english/data/e-census/",
+    "https://www.e-stat.go.jp/en/statistics/00200553",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&collect_area=200&result_page=1&tclass4val=0&statdisp_id=0004005665",
+    "https://www.e-stat.go.jp/en/stat-search",
+    "https://www.stat.go.jp/english/data/e-census.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93）",
+   "results": [
+    "https://note.com/yamakono/n/n5bb9c1ce2ea1",
+    "https://note.com/hashtag/経済センサス",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://note.com/at_consulting18/n/nf47674263cb5",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://note.com/at_consulting18/n/nb1bfe4b1b017",
+    "https://note.com/stats47/n/n816c665cb671"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93）",
+   "results": [
+    "https://x.com/ecensus2026",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921",
+    "https://x.com/city_ota/status/2058744870928568728",
+    "https://x.com/otafull/status/2046031097151004745",
+    "https://x.com/shinjuku_news_j/status/2041077298305360364",
+    "https://x.com/meti_NIPPON/status/2039316080091697577",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93）",
+   "results": [
+    "https://jp.linkedin.com/posts/n-yamashita_製造業における情報収集購買プロセスの生成ai利用実態調査-activity-7459072858216935426-9O7n",
+    "https://www.linkedin.com/posts/hirokazu-takahashi-5b7574238_アクセンチュアの最新調査製造業におけるレジリエンスよるとレジリエンス危機から-activity-7140994081136037888-ND57",
+    "https://www.linkedin.com/pulse/小資源国日本が製造業において先端技術を獲得し維持するためには-総一郎-川上-7tc4c/",
+    "https://www.linkedin.com/posts/narumiyk_金型シン時代調査から4廃業危機救ったma身近な縁信頼関係が決め手-activity-7444896585861398528-3P-q",
+    "https://jp.linkedin.com/posts/takekazu-okamoto-86457a18_東芝が-azure-openai-ベースの-ai-マルチエージェントによる製造ライン-activity-7394975811168079872-gKc_",
+    "https://www.linkedin.com/posts/atsukunimunetomo_気になる情報が入って来た以前話したビジネスモデルではスーパーと組んでと考えていたが-activity-7291569872944144385-4H_5",
+    "https://www.linkedin.com/jobs/chief-underwriting-officer-jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93）",
+   "results": [
+    "https://www.facebook.com/ecensus2026/",
+    "https://www.facebook.com/ecensus2026/photos/データで見るニッポンの産業図鑑日本の産業のすがたをデータでひもとくニッポンの産業図鑑を公開しました経済センサス活動調査のデータをもとに都道府県ごとの従業者数ラン/122133293493121431/",
+    "https://www.facebook.com/EKigyo/posts/令和8年経済センサス-活動調査総務省経済産業省宮城県及び仙台市では全国のすべての事業所及び企業を対象とした令和８年経済センサス活動調査を令和８年６月１日現在で実/1244581497658795/",
+    "https://www.facebook.com/pref.wakayama/posts/経済センサス-活動調査総務省経済産業省和歌山県及び市町村は令和8年6月1日現在で経済センサス-活動調査を実施します本調査は全国すべての事業所企業を対象とする5年/1512921037510877/",
+    "https://www.facebook.com/tochokoho/posts/始まります令和8年経済センサス活動調査総務省と経済産業省は令和8年6月1日を期日として全国のすべての事業所及び企業を対象に令和8年経済センサス活動調査を実施しま/1281149700865058/",
+    "https://www.facebook.com/ecensus2026/photos/データで見るニッポンの産業図鑑日本の産業のすがたをデータでひもとくニッポンの産業図鑑本日は九州沖縄エリアをご紹介しますあなたの住む都道府県の従業者数ランキングぜ/122134769025121431/",
+    "https://www.facebook.com/AomoriPref.koho/photos/令和8年経済センサス活動調査がはじまります統計分析課昨年は国勢調査にご協力いただきありがとうございましたところで経済の国勢調査とも呼ばれている経済センサス活動調/1233720345615013/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://note.com/tag/%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145666&tclass2=000001145669&tclass3=000001145673&tclass4val=0&layout=datalist&stat_infid=000040067973",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "https://www.stat.go.jp/data/e-census/2026/index.html",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005669",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://x.com/ecensus2026",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000261.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.e-census-st.go.jp/",
+    "https://www.stat.go.jp/data/e-census/2026/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity manufacturing continuing new closed establishments by industry national e-Stat table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/development-authority-of-bulloch-county_bullochcounty-georgia-economicdevelopment-activity-7510761572466831360-Bes-",
+    "https://www.linkedin.com/pulse/phases-change-how-strategic-reforms-innovation-propel-dr--yi5sc",
+    "https://www.linkedin.com/in/yingyan-zhao-06567361",
+    "https://in.linkedin.com/in/abhishek-agarwal-49135154",
+    "https://www.linkedin.com/in/roland-kushner-915207122",
+    "https://www.linkedin.com/in/darsei",
+    "https://ca.linkedin.com/in/conor-mc-kenna",
+    "https://be.linkedin.com/in/joeri-minnen-30613b6",
+    "https://fi.linkedin.com/in/iansacs",
+    "https://et.linkedin.com/in/jodahip"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ46頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ46頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ46頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ46頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ46頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ46頁・検索18回）",
+  "10年推移": "記載なし（読んだ46頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ46頁・検索18回）"
+ }
+}

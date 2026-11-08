@@ -3896,6 +3896,7 @@
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
 - 手順・やり方：
+  - 「The Art of the Follow-Up: How to Re-engage Journalists Without Being Annoying」（https://journalistdb.com/journalism-industry-statistics-2026/）
   - 「Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Conceptualization, Methodology, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
@@ -3910,7 +3911,6 @@
   - 「Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Methodology and Sources」（https://journalistdb.com/journalism-industry-statistics-2026/）
   - 「19-step pre-pitch checklist」（https://journalistdb.com/journalism-industry-statistics-2026/）
-  - 「Priya Anand edits the JournalistDB blog, covering media lists, press outreach and how to pitch reporters without wasting their time.」（https://journalistdb.com/journalism-industry-statistics-2026/）
 - 突き合わせ・推定：
   - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
@@ -5741,6 +5741,11 @@
 ## 官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社）（how to search official gazette financial statement notices Japan）
 - 文脈：同一性
 - 手順・やり方：
+  - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
+  - 「株式会社の決算公告に掲載される内容と、官報から会社ごとの公告記録を探す手順を解説します」（https://kanpou.ai/guide）
+  - 「限定承認の催告、相続人捜索の公告、帰化の告示など、相続・国籍に関する官報公告の種類と確認方法をまとめます」（https://kanpou.ai/guide）
+  - 「で日付・号種別・号数を指定して探す方法があります」（https://kanpou.ai/guide）
+  - 「提供範囲・閲覧方法の詳細は、」（https://kanpou.ai/guide）
   - 「過去の公告を会社名などの言葉で探したいときは、有料の官報情報検索サービスを使う方法があります」（https://note.com/joshima_s/n/n04cab9927719）
   - 「公告の方法が官報か日刊新聞の会社は、貸借対照表の「要旨」を載せれば足ります」（https://note.com/joshima_s/n/n04cab9927719）
   - 「この公告は、別の公告方法を併用する場合でも官報への掲載が前提です」（https://note.com/joshima_s/n/n04cab9927719）
@@ -5751,12 +5756,8 @@
   - 「登記や裁判の情報など、無料で使える情報源を組み合わせて取引先を確かめる手順をまとめた解説です」（https://note.com/joshima_s/n/n04cab9927719）
   - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/n04cab9927719）
   - 「官報で決算公告を探す方法｜無料3サービス+有料データベースを比較 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「官報で決算公告を探す方法｜無料3サービス+有料データベースを比較」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「この記事では、官報で決算公告を探す具体的な手順を、無料・有料サービス別にわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「2. 官報で決算公告を探す基本ステップ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「4. 有料データベースを使う方法（効率的な調査向け）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「原因2：公告方法として官報を選択していない」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
 - 突き合わせ・推定：
+  - 「13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します」（https://kanpou.ai/guide）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「評価には使わず、所在地などで同じ会社かを照合してから読む」（https://note.com/joshima_s/n/n04cab9927719）
   - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/n04cab9927719）
@@ -5765,22 +5766,23 @@
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「国税庁の法人番号と照合済みの企業は法人番号も併記されます」（https://kanpou.ai/guide/kessan-kokoku）
 - 一次情報の探し方：
-  - 「官報の公告欄から見える会社の動き｜公開情報の読み方②｜城島誠一郎」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「官報の公告欄から見える会社の動き｜公開情報の読み方②」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「こうした手続きをとるとき、法律で「官報」への公告が求められる場面があります」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「官報を読めると、会社のこうした動きを、本人の発表やうわさではなく、国の公報に載った記録で確かめられるようになります」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「第2回は、官報の公告欄から会社のどんな動きが見えるのか、そして読むときに何に気をつけるべきかを整理します」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「この記事の内容は、2026年10月23日に、内閣府の官報に関するページ、官報発行サイト、会社法の条文を確認して書いています」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「官報は、国の法令や公示事項を掲載して国民に知らせるための「国の公報」です」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「2025年4月1日からは「官報の発行に関する法律」の施行により電子化され、官報発行サイトに掲載された電子データが官報の正本になりました」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「官報には、毎日発行される「本紙」、本紙に載せきれないときに出る「号外」、国会の会議録を載せる「号外国会会議録」、政府の調達を載せる「号外政府調達公告」、緊急時の「特別号外」の5種類があります」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「官報発行サイトでは、直近90日分の官報が無料で全部読めます」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「日付ごとに本紙・号外・政府調達がPDFで並んでいて、「全体目次」から掲載項目を探せます」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「2025年3月31日以前に国立印刷局が公開していた「インターネット版官報」の情報も、同じサイトの過去の官報のページで提供されています」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「官報には、特定の個人を対象とした処分など、プライバシーへの配慮が必要な記事も載ります」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「過去の公告を会社名などの言葉で探したいときは、有料の官報情報検索サービスを使う方法があります」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「インターネットを使えない人のために、都道府県の図書館などに官報発行サイトを見られる端末も置かれています」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
+  - 「株式会社の決算公告に掲載される内容と、官報から会社ごとの公告記録を探す手順を解説します」（https://kanpou.ai/guide）
+  - 「13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します」（https://kanpou.ai/guide）
+  - 「官報に掲載される情報、発行日、号種、原文PDFで確認するときの基本をまとめています」（https://kanpou.ai/guide）
+  - 「破産手続開始決定の意味、同時廃止と管財事件の違い、決定後の流れと官報公告のタイミングを解説します」（https://kanpou.ai/guide）
+  - 「破産との違い、協定の仕組み、官報公告の種類を解説します」（https://kanpou.ai/guide）
+  - 「限定承認の催告、相続人捜索の公告、帰化の告示など、相続・国籍に関する官報公告の種類と確認方法をまとめます」（https://kanpou.ai/guide）
+  - 「記事の「官報掲載」にある掲載日・号種別（本紙・号外など）・号数・ページを控えて、次の順に確認してください」（https://kanpou.ai/guide）
+  - 「直近90日間は官報全体を無料で閲覧できます」（https://kanpou.ai/guide）
+  - 「2025年4月1日以降の官報は、一部の記事を除き90日経過後も閲覧できます」（https://kanpou.ai/guide）
+  - 「それ以前の官報は、法律・政令等や政府調達など、提供範囲が異なります」（https://kanpou.ai/guide）
+  - 「官報情報検索サービス（国立印刷局・会員制有料）」（https://kanpou.ai/guide）
+  - 「紙の官報を所蔵する図書館や、同サービスを来館者に開放する図書館もあります」（https://kanpou.ai/guide）
+  - 「原文PDFへのリンクが表示されないことは、公式原本が存在しないことを意味しません」（https://kanpou.ai/guide）
+  - 「官報AIの本文・原本画像は検索と対照のための非公式な整理です」（https://kanpou.ai/guide）
 - 失敗・落とし穴：
+  - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -5795,8 +5797,8 @@
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
+  - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -5811,7 +5813,6 @@
   - 「ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 
 ## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
 - 文脈：突き合わせ
@@ -5866,6 +5867,7 @@
   - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
 - 検索結果の抜粋：
+  - 「Structured Analytic Techniques Primer | PDF | Intelligence ...Treadstone 71 - Structured Analytic TechniquesA Guide to Structured Analytic Techniques (SATs) for IntelligenceA Tradecraft Primer: Structured Analytic Techniques for ...A Tradecraft Primer: Basic Structured Analytic Techniques — This primer highlights structured analytic techniques that can help intelligence analysts improve their anal」（https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf）
   - 「Structured Analytic Techniques Primer | PDF | Intelligence ...A Guide to Structured Analytic Techniques (SATs) for IntelligenceA Tradecraft Primer: Structured Analytic Techniques for ...A Tradecraft Primer: Basic Structured Analytic Techniques — This primer highlights structured analytic techniques that can help intelligence analysts improve their analysis. It introduces techniques to challenge as」（https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
