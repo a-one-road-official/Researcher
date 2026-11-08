@@ -8,8 +8,228 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T05:44:35.468413+00:00",
+ "researched_at": "2026-11-08T12:40:02.102567+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "(e.g., \"according to ... \") or a specific aspect of analysis (i.e., judgment, assessment, estimate,",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimates), applicable source information shall be retained for the period of the time horizon or",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimate, compilation, database, graphic, or interactive publication, created by the analytic",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "observed, derived and estimated data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation (Source Triangulation)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Observed, Derived and Estimated Data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "describes the analyst's actual probability estimate for the event or claim in question. These are independent: an analyst can be highly confident in a low-likelihood judgment (strong evidence supporting an assessment that something is unlikely to happen) just as easily as low-confidence in a high-likelihood judgment (weak, contested evidence pointing toward something probably being true).",
+    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "map to increasingly narrow bands of estimated probability, rather than being left to each writer's individual sense of the word.",
+    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No — confidence describes how well-supported the analysis itself is (sourcing, reporting volume, reliability); likelihood is the actual probability estimate for the event or claim. An analyst can hold either combination: high confidence in a low-likelihood judgment, or low confidence in a high-likelihood one.",
+    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "checked against the cited primary sources on",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.2 What common US filings do and do not show.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A copy of a filing hosted by an aggregator.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OECD 公的監査における人工知能の現状 2026.05.07)",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(公認会計士試験ガイド★講座 対策 受験 求人 事務所 問題集 合格 資格 学校)",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、COVID-19パンデミックの際、NGIC、MCIA、ONI、USCYBERCOMで新たに採用されたアナリストや軍事アナリストは、さまざまな理由から、ICD203分析トレードクラフト標準の訓練を受けていなかった",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・2015.01.02 [PDF]",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・2007.06.21 [PDF]",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: a report of a filing.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
@@ -364,98 +584,6 @@
    {
     "quote": "Cognitive biases in OSINT; key assumptions check, ACH, indicators, devil's advocacy, premortem; deception",
     "url": "https://github.com/SOsintOps/intelligence-field-notes",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "(e.g., \"according to ... \") or a specific aspect of analysis (i.e., judgment, assessment, estimate,",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimates), applicable source information shall be retained for the period of the time horizon or",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimate, compilation, database, graphic, or interactive publication, created by the analytic",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "observed, derived and estimated data",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation (Source Triangulation)",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Observed, Derived and Estimated Data",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "describes the analyst's actual probability estimate for the event or claim in question. These are independent: an analyst can be highly confident in a low-likelihood judgment (strong evidence supporting an assessment that something is unlikely to happen) just as easily as low-confidence in a high-likelihood judgment (weak, contested evidence pointing toward something probably being true).",
-    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "map to increasingly narrow bands of estimated probability, rather than being left to each writer's individual sense of the word.",
-    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "No — confidence describes how well-supported the analysis itself is (sourcing, reporting volume, reliability); likelihood is the actual probability estimate for the event or claim. An analyst can hold either combination: high confidence in a low-likelihood judgment, or low confidence in a high-likelihood one.",
-    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -869,134 +997,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "checked against the cited primary sources on",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4.2 What common US filings do and do not show.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A copy of a filing hosted by an aggregator.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OECD 公的監査における人工知能の現状 2026.05.07)",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(公認会計士試験ガイド★講座 対策 受験 求人 事務所 問題集 合格 資格 学校)",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、COVID-19パンデミックの際、NGIC、MCIA、ONI、USCYBERCOMで新たに採用されたアナリストや軍事アナリストは、さまざまな理由から、ICD203分析トレードクラフト標準の訓練を受けていなかった",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・2015.01.02 [PDF]",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・2007.06.21 [PDF]",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 2: a report of a filing.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1008,7 +1008,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "url": "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
     "status": "ok",
     "method": "http"
    },
@@ -1018,12 +1018,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/pki_security/n/nce36f5f39488",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/aiconsulting/n/nf74a657a69bd",
+    "url": "https://note.com/pki_security/n/nce36f5f39488",
     "status": "ok",
     "method": "http"
    },
@@ -1054,7 +1054,7 @@
    },
    {
     "url": "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "status": "ok",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
@@ -1064,7 +1064,7 @@
    },
    {
     "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-38610",
-    "status": "ok",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
@@ -1098,11 +1098,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
     "status": "robots_disallowed",
     "method": ""
@@ -1113,13 +1108,18 @@
     "method": "browser"
    },
    {
-    "url": "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
-    "status": "http_403",
+    "url": "https://www.ey.com/ja_jp/insights/forensic-integrity-services/overview-of-ediscovery-and-edrm",
+    "status": "ok",
     "method": "http"
    },
    {
     "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -1149,15 +1149,15 @@
    "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） site:note.com",
    "results": [
     "https://note.com/tantei_note/n/n50655677d2da",
-    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
     "https://note.com/zen_ai_lab/n/n1514d7e7c104",
+    "https://note.com/itta_usa/n/nd300923856e1",
     "https://note.com/pki_security/n/nce36f5f39488",
-    "https://note.com/aiconsulting/n/nf74a657a69bd",
     "https://note.com/nobuworks/n/nc370238f3d2c",
     "https://note.com/stii_timestamp/n/n9f064af6024d"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1184,9 +1184,9 @@
    "results": [
     "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
     "https://www.intelligence.gov/mission/our-values/objectivity",
-    "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-38610",
     "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
     "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
     "https://psu.pb.unizin.org/hls476/chapter/intelligence-community-directive-203/",
     "https://www.worldoftest.com/ja/print/pdf/node/6174",
@@ -1204,11 +1204,11 @@
     "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "https://hybrid-analysis.com/sample/519c21e52dbbece7b42ec7d494b63a053a01bf52e2220a40e1e04c2a0563444c/5ba8617c7ca3e175f94e90f5",
     "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://www.ey.com/ja_jp/insights/forensic-integrity-services/overview-of-ediscovery-and-edrm",
-    "https://researchmap.jp/blogs/blog_entries/view/76514/32b49befac676a3bdf469036fbd7a896?page_id=1621&lang=en"
+    "https://researchmap.jp/blogs/blog_entries/view/76514/32b49befac676a3bdf469036fbd7a896?page_id=1621&lang=en",
+    "https://iso10646hk.net/jp/learning/exercise_05_02.jsp"
    ],
    "engines": [
     "yahoo_jp"
@@ -1219,15 +1219,15 @@
    "query": "OSINT evidence provenance origin vs collection method ICD 203 likelihood language",
    "results": [
     "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
     "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
     "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
+    "https://www.intelligence.gov/mission/our-values/objectivity",
     "https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3400/PEA3490-2/RAND_PEA3490-2.pdf",
     "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "https://www.intelligence.gov/mission/our-values/objectivity",
     "https://www.cisecurity.org/ms-isac/services/words-of-estimative-probability-analytic-confidences-and-structured-analytic-techniques",
     "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "https://intelligencenotes.com/02-Concepts--and--Tactics/22-Intelligence--and--OSINT/ICD-203"
+    "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained"
    ],
    "engines": [
     "ddgs:google",
@@ -1239,12 +1239,12 @@
    "query": "site:note.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
    "results": [
     "https://note.com/tantei_note/n/n50655677d2da",
+    "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
     "https://note.com/zen_ai_lab/n/n1514d7e7c104",
     "https://note.com/pki_security/n/nce36f5f39488",
-    "https://note.com/aiconsulting/n/nf74a657a69bd",
-    "https://note.com/stii_timestamp/n/n9f064af6024d",
     "https://note.com/nobuworks/n/nc370238f3d2c",
-    "https://note.com/clever_lion8821/n/n4ae097074c54"
+    "https://note.com/stii_timestamp/n/n9f064af6024d",
+    "https://note.com/aiconsulting/n/nf74a657a69bd"
    ],
    "engines": [
     "ddgs:google"
@@ -1255,12 +1255,12 @@
    "query": "site:x.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
    "results": [
     "https://x.com/chisaidehissori",
-    "https://x.com/chisaidehissori/status/2094050470071607429",
-    "https://x.com/chisaidehissori/status/2100453854668374166",
-    "https://x.com/chisaidehissori/status/1800528837463388558",
-    "https://x.com/saveourtre/status/2103038081893011548",
-    "https://x.com/AandS_KSB1983/status/2038539828237844502",
-    "https://x.com/NagisamaFuushiP/status/2088566248632442945"
+    "https://x.com/chisaidehissori/status/2049326830386344377",
+    "https://x.com/chisaidehissori/status/2083008449617784982",
+    "https://x.com/hikarine3/status/2116912534150410458",
+    "https://x.com/AandS_KSB1983/status/2033918089558200496",
+    "https://x.com/NagisamaFuushiP/status/2088566248632442945",
+    "https://x.com/superdoccimo/article/2098464948250616223"
    ],
    "engines": [
     "ddgs:bing"
@@ -1272,11 +1272,11 @@
    "results": [
     "https://www.linkedin.com/company/altss",
     "https://jp.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford?tl=ja",
-    "https://jp.linkedin.com/pulse/best-practices-conducting-osint-research-vijay-gupta--mmiac?tl=ja",
-    "https://www.linkedin.com/pulse/osint-isnt-problem-undisciplined-analysis-joshua-gobin-zopbe",
     "https://jp.linkedin.com/pulse/methodology-helped-me-learn-osint-miguel-morello-f4egf?tl=ja",
-    "https://jp.linkedin.com/pulse/osint-framework-unlocking-power-open-source-intelligence-hacktifycs-aerif?tl=ja",
-    "https://jp.linkedin.com/pulse/build-modern-osint-program-security-teams-liferaftlabs-fyu0e?tl=ja"
+    "https://www.linkedin.com/pulse/osint-isnt-problem-undisciplined-analysis-joshua-gobin-zopbe",
+    "https://jp.linkedin.com/pulse/best-practices-conducting-osint-research-vijay-gupta--mmiac?tl=ja",
+    "https://jp.linkedin.com/pulse/build-modern-osint-program-security-teams-liferaftlabs-fyu0e?tl=ja",
+    "https://jp.linkedin.com/pulse/osint-unlocked-building-transparent-defensible-toby-langston-a2yde?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -1285,9 +1285,19 @@
   },
   {
    "query": "site:facebook.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.facebook.com/newspark.yokohama/posts/ワークショップosintをやってみようを開催しましたosintに取り組むと世界の見え方が変わると講師の兼松雄一郎氏日経は話しました多様な公開データを使い多角的な/1452172130032474/",
+    "https://www.facebook.com/altss.data/",
+    "https://graph.facebook.com/v2.8/1667250550074420/picture/",
+    "https://www.facebook.com/AsahiGlobeMedia/posts/754874736647389/",
+    "https://www.facebook.com/InteropTokyo/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/1532652158197756/",
+    "https://www.facebook.com/Securitydays13/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/122176936220783877/",
+    "https://www.facebook.com/balimoto.transcriber/videos/録音データは言った言わないが争われる裁判で重要な証拠になることがあります未払い残業代金銭トラブル不動産問題などでは相手の発言を客観的に示す資料として評価される場/1437498261613567/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） note 社長",
@@ -1295,12 +1305,12 @@
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-38610",
     "https://www.worldoftest.com/ja/print/pdf/node/6174",
     "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://note.com/red_structure/n/na2c79b00d217",
-    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
     "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
+    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
+    "https://note.com/red_structure/n/na2c79b00d217",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/76514/32b49befac676a3bdf469036fbd7a896?page_id=1621&lang=en",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5"
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=12"
    ],
    "engines": [
     "yahoo_jp"
@@ -1333,12 +1343,12 @@
     "https://www.linkedin.com/posts/jessicastutzman_osint-intelligenceanalysis-intelligencetradecraft-activity-7423762491249266688-lDNb",
     "https://ie.linkedin.com/in/matteo-poleo",
     "https://pe.linkedin.com/pulse/planning-osint-collection-basics-leo-andrei-bujaki",
-    "https://tr.linkedin.com/posts/ole-donner_nnfc-analytic-tradecraft-checklist-activity-7057202033828777984-QXcy",
+    "https://www.linkedin.com/posts/jessicastutzman_intelligencefundamentalsproject-icd203-analyticstandards-activity-7426662561531449344-BS8A",
     "https://www.linkedin.com/top-content/networking/cybersecurity-best-practices/best-practices-for-osint-source-validation/",
-    "https://www.linkedin.com/posts/jessicastutzman_intelligencefundamentalsproject-icd203-analyticstandards-activity-7426662561531449344-BS8A"
+    "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-uncertainty-activity-7424445658461364224-vrE7"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -1346,6 +1356,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 20,
+ "runs": 21,
  "first_researched_at": "2026-11-05T06:06:05.724082+00:00"
 }

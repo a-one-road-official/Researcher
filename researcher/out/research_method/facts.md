@@ -3476,6 +3476,8 @@
 - 手順・やり方：
   - 「官報で非上場会社の決算公告を調べる方法｜電子官報・DBの活用法まで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報に掲載された非上場会社の決算公告を調べる方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「電子公告への移行手続き完全ガイド｜官報から切り替える4ステップと費用・期間」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「電子公告への移行手続きを4ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「貸借対照表の要旨を正しく作成する手順がわかります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3487,8 +3489,6 @@
   - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算公告はどこで見れる？無料・有料の閲覧方法6選を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3523,6 +3523,7 @@
   - 「第三者のためにする契約（いわゆる三為契約、新中間省略）の契約実務・取引実務・登記実務」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 失敗・落とし穴：
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3536,8 +3537,8 @@
   - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
+  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3552,7 +3553,6 @@
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（前編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（後編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「スポットでも使える「補助＋代理権付与」【事例紹介】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -6035,22 +6035,26 @@
 ## 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事（analytic tradecraft key assumptions check indicators alternative hypotheses blog）
 - 文脈：分析の技法
 - 手順・やり方：
-  - 「How To Use These Techniques .................................................................................. 5」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「HOW TO USE THESE TECHNIQUES」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「step process will help analysts:」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「other structured methods explained later」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「possible next steps for further research」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Like other contrarian methods, “What If?”」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「stepping back to consider what alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「to step outside their normal analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「A two-phase, twelve-step, structured」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「managers—are reluctant to change. Rather than trying to ft ideas into the framework of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「next steps for analysis.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「and contextual framework. By recasting the」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「• It provides a broader analytic framework」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「a more advanced analytic methods course and usually require substantial commitments of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「political causes of some predictable surprises and outlines steps to overcome them.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「How To Use These Techniques .................................................................................. 5」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「HOW TO USE THESE TECHNIQUES」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「step process will help analysts:」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「other structured methods explained later」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「possible next steps for further research」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Like other contrarian methods, “What If?”」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「stepping back to consider what alternative」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「to step outside their normal analytic」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「A two-phase, twelve-step, structured」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「managers—are reluctant to change. Rather than trying to fit ideas into the framework of」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「next steps for analysis.」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「and contextual framework. By recasting the」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「• It provides a broader analytic framework」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「a more advanced analytic methods course and usually require substantial commitments of」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Have Seen Coming and How To Prevent Them. Examines the cognitive, organizational and」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
 - 突き合わせ・推定：
+  - 「Availability. Probability estimates are」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Anchoring. Probability estimates are」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「certainty into a probability estimate, people」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「goal-maximizing policy is overestimated.」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
   - 「Availability. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Anchoring. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「certainty into a probability estimate, people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
@@ -6059,6 +6063,9 @@
   - 「You overestimate high-profile events.」（https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques）
   - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
 - 一次情報の探し方：
+  - 「PDF for newsletter subscribers · free to read online」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Every section, table and checklist in one PDF, with links to the sources and related guides. Subscribe to our weekly NHI & AI Identity Journal and we’ll email you a download link.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「PDF Downloads for Newsletter Subscribers」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
@@ -6071,41 +6078,38 @@
   - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「apr09.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 失敗・落とし穴：
+  - 「Cognitive and perceptual biases in」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「treatment of cognitive bias found in the Sherman」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Common Perceptual and Cognitive Biases」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Biases in Evaluating Evidence」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Biases in Estimating Probabilities」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Biases in Perceiving Causality」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「bias, “analysis can be improved.”3」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「common mistakes that can lead to」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「free of his or her cognitive biases without」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「to good analysis and provides techniques for overcoming mind-sets and cognitive biases.」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Structured Analytic Techniques for CTI Guide: Reducing Bias in Threat Assessments」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「logs are missing, retention is short and telemetry is biased towards what the organisation already monitors.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「The biases that show up most often in cyber assessments, and the technique that counters each:」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「treatment of cognitive bias found in the Sherman」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Cognitive and perceptual biases in」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Common Perceptual and Cognitive Biases」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Biases in Evaluating Evidence」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Biases in Estimating Probabilities」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Biases in Perceiving Causality」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「bias, “analysis can be improved.”3」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「common mistakes that can lead to」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「free of his or her cognitive biases without」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「to good analysis and provides techniques for overcoming mind-sets and cognitive biases.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「increased objectivity and reduced bias.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 実例：
-  - 「example, the extent to which other people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「or example, military analysis may focus」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「these forces actually fght?). In this case,」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「might fuctuate. All of these examples」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「a good example of how this technique could have been applied. After the initial furry of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「accurately. In the case of HUMINT , this will」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「builds a more concrete case for the analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「when it is important to make a case that a」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「hypotheses—in some cases, analysts」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「hypotheses. In the latter case, the evidence can」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「case, explore what could account for」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「best possible case for an alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「In some cases, the analyst or a team」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「merits of each case, pose questions back」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「example, the extent to which other people」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「For example, military analysis may focus」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「these forces actually fight?). In this case,」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「might fluctuate. All of these examples」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「a good example of how this technique could have been applied. After the initial flurry of」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「accurately. In the case of HUMINT , this will」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「builds a more concrete case for the analytic」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「when it is important to make a case that a」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「case, explore what could account for」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「hypotheses—in some cases, analysts」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「hypotheses. In the latter case, the evidence can」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「best possible case for an alternative」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「In some cases, the analyst or a team」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「merits of each case, pose questions back」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
 
 ## 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務（company entity resolution registry identifiers name changes branches dissolved）
 - 文脈：同一性
@@ -6175,12 +6179,19 @@
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
 - 手順・やり方：
+  - 「, who teaches data visualization and research methods at the University of California, Berkeley’s Graduate School of Journalism, and」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
+  - 「Use a simple method to calculate “one out of” risk probabilities.」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
   - 「<p>Sorting in Google Sheets is <a href="https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「How to interrogate AI regulations」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「How to make a donation to The Journalist’s Resource」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 突き合わせ・推定：
+  - 「, plus the New Year’s Day suicide bombing incident in Las Vegas, and also underestimated the number of controversial vehicles sold.)」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
 - 失敗・落とし穴：
+  - 「Notorious mistakes that investigative reporters make with numbers include trying to calculate percentages by adding or subtracting from other percentage values. (A drop in successful prosecutions from 12% to 7%, for example, is」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
+  - 「10 Common Mistakes in Data Journalism」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
+  - 「Cohen compares this common newsroom mistake to “overcooking a vegetable medley,” and writes: “Sometimes, reporters take a bunch of percent changes, say, in a budget, and compute an average for the “average percent change.” This treats the 140% increase in a new, small department the same as the 2% increase for education.”」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
   - 「<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「<p>In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data <em>not</em> tell you?</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「<p>Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
@@ -6193,14 +6204,13 @@
   - 「In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「This simple mistake is nevertheless a perennial problem — and can end up accidentally misleading audiences. “If something jumps from 20 to 30%, that’s actually a 50% increase, not a 10% increase — that can be tricky, and important to pay attention to,” explains Sunne. Data experts stress that」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 実例：
+  - 「Notorious mistakes that investigative reporters make with numbers include trying to calculate percentages by adding or subtracting from other percentage values. (A drop in successful prosecutions from 12% to 7%, for example, is」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
+  - 「Experts note that numbers in the billions are used so commonly in the media that both reporters and readers can lose the sense of how vast these figures are. Some perspective: one million seconds represent just 11 days, but one billion seconds equals almost 32 years. It is also surprisingly easy to confuse millions and billions in financial statements. Dowdell cited a recent case in which」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
+  - 「In a fun case from 2021, National Public Radio」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
 - 検索結果の抜粋：
   - 「Lessons Learned: 10 Common Mistakes in Data Journalism — Lessons Learned: 10 Common Mistakes in Data Journalism Global Investigative Journalism Network (GIJN) https://gijn.org > stories > 10-commo...」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -10997,22 +11007,25 @@
 ## スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）（verify numbers OCR scanned PDF tables journalism totals check digits errors）
 - 文脈：統計
 - 手順・やり方：
+  - 「主な処理ステップは3つあります：」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「多くの従来型OCRはテキストのみ抽出し、他アプリケーションへの連携が難しいケースがあります」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「従来型OCRの限界を克服するため、ゾーンOCRやAI OCRなどの高度なOCR技術が登場しています」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「はもっと広義の概念で、OCR・パース・スクレイピング・コピー&ペーストなど、何らかの方法でPDFからデータを取り出す手法すべてを含みます」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「AI OCR（人工知能による光学式文字認識）は、従来型の文字認識技術に機械学習やディープラーニングを組み合わせて、文書からテキストを自動的に抽出・分類・構造化します」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「2026年にPDFファイルからデータを抽出する方法」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「この記事では、Parseurを使って数秒でPDFから自動的にデータを抽出する方法を解説します」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「文字認識（OCR）で働き方が激変！?目視チェック＆手入力を今すぐやめる方法｜ものづくりの現場トピックス | キーエンス」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「文字認識（OCR）で働き方が激変！?目視チェック＆手入力を今すぐやめる方法」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「概要からその選び方や活用方法まで詳しく解説します」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「バーコードや2次元コードがない場合の作業の手間や時間、ポカミスをなくす方法はたった1つ、目視チェックと手入力を今すぐやめるしかありません」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「ハンディターミナルでの文字認識（OCR）機能の活用・運用方法を詳しくまとめた資料を以下のボタンよりダウンロードいただけます」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「ここまで説明した文字認識（OCR）機能の導入事例の詳細や、業務改善の方法をわかりやすくまとめた資料を以下のボタンよりダウンロードいただけます」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
   - 「AIでPDFの表が読めない・数字が違う？OCRと照合の手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「原本の確認、抽出結果の照合、集計を分ける編集部の確認手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「足し算が合うことと、集計方法が正しいことを別々に確認してください」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「元のExcelやCSVを受け取れるなら、PDFを経由しない方法を検討できます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「この文章は記録方法の例で、実際に検証した資料を示すものではありません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「本文の表・文例・計算例は編集部による確認方法の提案で、特定AIの実機試験や精度保証ではありません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「AI-OCRの使い方｜読み取り精度を上げる準備から確認・データ連携まで | ITトレンド」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「AI-OCRの使い方｜読み取り精度を上げる準備から確認・データ連携まで」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「読み取りの精度は、ツールの性能だけでなく、取り込む画像の状態や設定の仕方、確認作業の進め方にも左右されます」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「この記事では、AI-OCRを使い始める担当者に向けて、準備から設定、確認、データ連携までの手順と注意点を解説します」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「AI-OCRの使い方は、読み取る帳票が定型か非定型かで変わります」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「定型帳票とは、申込書や社内の申請書のように、項目の位置が決まっている帳票です」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「非定型帳票とは、取引先ごとに様式が異なる請求書や納品書のように、項目の位置がばらばらな帳票です」（https://it-trend.jp/ai_ocr/article/813-10534）
 - 突き合わせ・推定：
+  - 「入庫時に消費期限と商品データを紐づけたり、現品と在庫データを照合したりといった作業が目視チェックと手入力の場合、日々の業務において大きな負担となります」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「現品票の2次元コードと現品のコンテナなどに表示された文字列を素早く照合できます」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「指示書との照合や、工程の記録を素早く正確に実行することができます」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
   - 「AIでPDFの表が読めない・数字が違う？OCRと照合の手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「抽出と計算を一度に任せず、出典ページ付きの表を作り、原本と照合してから集計に進むのが基本です」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「小さい表から読み取りを試し、行・列を照合」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
@@ -11025,26 +11038,24 @@
   - 「例えば「採用した12行の値と単位を原本で照合済み」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「この文章は記録方法の例で、実際に検証した資料を示すものではありません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「画像だけにすると原本の注記や別ページの条件を失う場合もあるため、表全体と必要な条件を含めて照合します」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「帳票全体や切り出した画像と読み取り結果を照合しながら確認・訂正でき、明細行は1行ずつ確認が可能です」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「発注データと納品書を自動突合・照合するAIエージェント機能」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「発注データと納品書の突合や自社マスタとの照合までを自動化でき、API連携で基幹システムにデータを渡せます」（https://it-trend.jp/ai_ocr/article/813-10534）
 - 一次情報の探し方：
-  - 「AIでPDFの表が読めない・数字が違う？OCRと照合の手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「AIにPDFの表を読み取らせて数字や項目がずれるときは、まず元のPDFで文字を選択できるか、表の見出し・単位・注記を確認してください」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「「PDFを開ける」と「表を正しく読める」は違う」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「PDFは、文章のほかに写真、画像として保存された文字、図形、注釈などを含みます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「Microsoftは、PDFをWordで開く際、表や脚注などが元の形どおりに変換されない場合があると説明しています」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「これはWordの変換についての資料ですが、PDFから取り出した文字を、そのまま表の構造とみなさず確認する必要を理解する手掛かりになります」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「Microsoft「WordでPDFファイルを開く」」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「では、PDFが文字の位置を保存していても、段落や表などの関係を同じように保持しているとは限らないことも説明されています」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「スキャンPDFは、OCRの結果も原本と照合する」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「元のPDFを上書きせず、作業用コピーで認識・抽出を進めます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「Adobe「PDFでのAIアシスタントを使用した回答の取得」」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「資料内に印刷されたページ番号と、PDFビューアのページ順がずれることがあります」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「「PDFの7枚目、紙面の5ページ」のように両方を記録すると、あとで原本を探しやすくなります」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「料金や契約条件に使う値は、抜き取りで数か所だけを見るのではなく、実際の判断に採用するセルと条件をすべて確認してください」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み | Parseur®」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「PDF OCR（光学式文字認識）は、スキャンされたPDFや画像ベースのファイルを、機械で読み取れる検索可能なテキストに変換する技術です」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「PDF OCRツールはスキャンページの画像を処理し、文字を識別し、検索・コピー・構造化データ化できる編集可能なテキストを出力します」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「が1993年にPortable Document Format (PDF) を初めて導入し、その後、国際標準化機構（ISO）32000標準も登場しました」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「2.5兆本以上のPDF」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「PDFは長年の進化を経て、多機能で高性能なさまざまなバージョンが生まれています」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「PDFから手作業でテキストを抽出する際の課題」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「PDFは多くの業種で利用されていますが、今なお多くの企業では手作業でのデータ入力が行われています」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「OCRは画像やスキャンPDF、手書き文字を機械で読み取れるテキストに変換します」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「PDF OCRは、データを検索・編集可能なデータに変換します」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「PDF OCR vs PDFパーサー vs PDFデータ抽出」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「**PDFパーシング（PDF parsing）**はさらに一歩進んで、文書構造を分析し、意味のあるフィールドを特定して構造化データとして整理します」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「既存（非スキャン）PDFの場合、パースではOCRは不要です」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「スキャンPDFの場合はまずOCRが動作し、その後パースで構造化されます」（https://parseur.com/ja/burogu/pdf-ocr）
 - 失敗・落とし穴：
+  - 「文字や数字の読み違い、入力時の書き間違いやタイピング入力時のミスといったポカミスを100％防止することは困難です」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
   - 「原本と加工後を同じ名前で保存すると、誤りが見つかった際にどの段階で変わったか追えません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「数字の誤りを探すときは、合計だけでなく桁と記号を見ます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「OCRを使えばAIの読み間違いはなくなりますか？」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
@@ -11059,8 +11070,13 @@
   - 「AI-OCRの読み取り結果には、誤りが含まれる可能性があります」（https://it-trend.jp/ai_ocr/article/813-10534）
   - 「金額や口座番号など、誤りの影響が大きい項目は、自信度にかかわらず元の画像と見比べて確認するルールにしておくと安心です」（https://it-trend.jp/ai_ocr/article/813-10534）
   - 「製品によっては、修正の履歴や担当者を記録できるため、誤りが起きた際に原因をたどる材料として使えます」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「出力の形式や連携の方法を決めておくと、手入力の作業を減らせるだけでなく、転記の誤りも防ぎやすくなります」（https://it-trend.jp/ai_ocr/article/813-10534）
 - 実例：
+  - 「多くの従来型OCRはテキストのみ抽出し、他アプリケーションへの連携が難しいケースがあります」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「で、注文処理速度・効率が高まり、結果として注文処理の迅速化・顧客満足度の向上につながります」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「OCR機能を活用した業務改善＆ポカよけ事例」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「ここでは、OCR機能を活用した具体的な業務改善事例を紹介します」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「ここまで説明した文字認識（OCR）機能の導入事例の詳細や、業務改善の方法をわかりやすくまとめた資料を以下のボタンよりダウンロードいただけます」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
+  - 「文字認識（OCR）の詳しい説明やハンディターミナルの基礎、業界ごとの導入事例を多数掲載！」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
   - 「対象は、送信が認められた資料を使い、料金表、調査表、社内資料などの読み取り結果を確認したい人です」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「文字は選べるが、選択結果が違う」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「OCRの認識結果、文字化け、コピー順を確認」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
@@ -11070,12 +11086,6 @@
   - 「例えば「採用した12行の値と単位を原本で照合済み」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です」（https://it-trend.jp/ai_ocr/article/813-10534）
   - 「AI-OCRとは？OCRとの違いや導入事例、種類も徹底解説」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「AI-OCRの読み取り結果は、取り込む画像の状態によって変わります」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「印鑑や色付きの罫線が文字に重なる帳票は、カラーで取り込むか、白黒で取り込むかによって結果が変わることもあるため、実際の帳票で試して決めるのが確実です」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「例えば、1文字ずつ枠を区切った記入欄にする、数字は枠からはみ出さないよう案内する、といった方法です」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「例えば、金額の欄を数字のみと指定しておくと、数字の「0」とアルファベットの「O」といった、形の似た文字の取り違えを減らせます」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「AI-OCRの読み取り結果には、誤りが含まれる可能性があります」（https://it-trend.jp/ai_ocr/article/813-10534）
 
 ## 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）（private company revenue estimate lower bound payroll upper bound proxy Japan SME labor cost ratio）
 - 文脈：推定
@@ -12492,22 +12502,23 @@
 ## 調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方）（language bias search limits grey literature government websites search reporting PRISMA-S）
 - 文脈：失敗・落とし穴
 - 手順・やり方：
-  - 「システマティック・レビュー（SR）の報告方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「な作業手順の1 つである」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「成手順のような SR プロセスの追加的要素は，適格」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「様な SR の報告方法のいわばスタンダード版である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「3. エビデンス統合のためのすべての文献検索方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ブ ・レビュー ） ，mixed methods review（混合法レ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「のか，また検索の詳細を報告する最善の方法につい」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「るためにさまざまな方法を用いてきた 11, 17, 19, 20）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「難である可能性が高いことが，検索方法の出版後査」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「情報源や方法を使用した検索を報告方法に関する指」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「文献検索方法の報告が不完全であると疑念が生」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「rapid review: SR の手順を簡略化したアプローチ ; realist review: 複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「雑な政策介入のためにデザインされた新しい SR の方法 ; meta-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「意 図 的 に 検 索 ，閲 覧 し た オ ン ラ イ ン ま た は 印 刷 物 の 情 報 源（例 ：目次， 学会抄録， Web サイ ト） と， その方法を記述する」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「: Here, an overall term for the entire information retrieval process as part of a systematic review. This includes the full range of searching methods and information sources, including databases, study registries, regulatory datasets, web searches, government documents, unpublished data, and much more.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Additional content for a study that does not fit in the main manuscript text. For a systematic review, supplementary materials should include full search strategies for all information sources and more complete search methods description. Supplementary materials are generally submitted with the manuscript for peer review.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: For the purposes of PRISMA-S, systematic review is used for the entire family of methods-based reviews. This includes rapid reviews, scoping reviews, meta-narrative reviews, realist reviews, meta-ethnography, and more.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「A larger issue may be that, even amongst librarians and information specialists, debate exists as to what constitutes a reproducible search and how best to report the details of the search. Researchers assessing the reproducibility of the search have used varying methods to determine what constitutes a reproducible search [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. Post-publication peer review of search methods, even amongst Cochrane reviews, which generally have superior reporting compared to non-Cochrane reviews [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. Furthermore, little guidance on how to report searches using information sources or methods other than literature databases, such as searching web sites or study registries, exists [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「To develop an interdisciplinary checklist applicable to all method-driven literature searches for evidence synthesis.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. This includes, but is not limited to, scoping reviews, rapid reviews, realist reviews, metanarrative reviews, mixed methods reviews, umbrella reviews, and evidence maps [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. We use the term “literature search” or “search” throughout to encompass the full range of possible search methods and information sources.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「] according to the steps outlined in the “Guidance for Developers of Health Research Reporting Guidelines [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「To narrow the list into a usable checklist, we then used a three-step Delphi survey process [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. All participants in the Delphi process and/or consensus conference were contacted via email with instructions on how to provide feedback on the draft checklist items and/or elaboration and explanation document by commenting directly on the explanation and elaboration draft using a private commenting system, Hypothesis [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「) and the other, guidance on depositing search data and method descriptions in online repositories (see Table」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「Open Science Framework」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「): The Open Science Framework (OSF) platform enables the storage of any documentation associated with a research study. It is possible to create DOIs for individual files or groups of files. OSF is openly and freely available.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 - 突き合わせ・推定：
+  - 「McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses? Lancet. 2000;356(9237):1228–1231. doi: 10.1016/S0140-6736(00)02786-0.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
   - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「開発，検証，翻訳について報告している元の論文を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -12515,22 +12526,29 @@
   - 「of grey literature influence estimates of intervention」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「]. For reviews of intervention studies, failure to include grey literature may artificially amplify estimates of treatment effects, given the effects of publication bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/）
 - 一次情報の探し方：
+  - 「The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「(142.2KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「PDF (720.0 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
   - 「善したというエビデンスは統計的に有意でないもの」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「を採用しているため，研究レジストリはますます重」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「Cochrane Reviews 119, 120）で採用された介入（実施戦」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「を採用する 135-138）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「crd/Systematic_Reviews.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Retrieval_v2-0.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「情報源が採用されると，著者は新しいプロセスに対」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Webサイトから Wordおよび PDF 形式でダウンロー」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「普及させ，雑誌による採用を促進する予定である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「2018/08/27/401554.full.pdf.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「of%20Cochrane%20Intervention%20Reviews.PDF. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「books/NBK44099/pdf/TOC.pdf. Accessed 1 Feb, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「PDF (2.3 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/）
 - 失敗・落とし穴：
+  - 「Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed towards English-language publications with positive results [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「Song F, Parekh-Bhurke S, Hooper L, et al. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009;9:79. doi: 10.1186/1471-2288-9-79.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997;350(9074):326–329. doi: 10.1016/S0140-6736(97)02419-7.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010;340:c365. doi: 10.1136/bmj.c365.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
   - 「バイアスを最小限に抑えるよう，頑健かつ再現性が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「いことを理由として，そのレビューにはバイアスが」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「使用した場合，著者特有の検索状況によるバイアス」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -12539,29 +12557,22 @@
   - 「が偏って収録されており，バイアスの削減を達成す」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「索方法にバイアスがかかる可能性がある 67, 68） が，」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「DB の絞り込み機能の使用で検索にバイアスがか」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「込み機能は，その誤りの可能性があるため， SR で」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「は公開された検索の誤り 23）または DB の大きな変」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「outcome reporting bias in randomised controlled trials on a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「publication bias in different categories of research cohorts: a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Lengeler C, Antes G. Language bias in randomised controlled」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「]. For reviews of intervention studies, failure to include grey literature may artificially amplify estimates of treatment effects, given the effects of publication bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/）
-  - 「]. Applying systematic methods to grey literature searches should improve the quality of review syntheses that include grey literature by providing a more comprehensive and less biassed set of reports to examine.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/）
 - 実例：
-  - 「献検索，または情報検索プロセスは， SR の結果に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「追跡した結果，この比は年を追うごとに 1.0 に近づ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「scoping review: 既存の研究結果をマッピングしまとめたレビュー;」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ナリシスや SR のデータを統合的に分析して結果をまとめたレ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「研究の完了後に投稿された研究結果も含まれる場合がある」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「デルファイ調査の結果は，Medical Library Associa-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ファイル検索として同時に行い，結果は Ovid 重複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「のWeb サイトを検索すると管理できない数の結果が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「自体が表示できる結果件数に限りがある（たとえば」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Googleは1,000 件の結果しか表示しない） ，あるいは」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「る結果件数の制限を事前に指定することがよくあ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「レビューチームが限られた結果をレビューする」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「文献 DB には肯定的な結果を報告した英語の出版物」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「: A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycINFO.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Many database platforms offer more than one database on the same platform. Some platforms allow users to search these multiple databases at one time, for example using the Ovid platform to simultaneously search MEDLINE, Embase, and the Cochrane Database of Systematic Reviews.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Many databases are available on multiple different systems, each of which have their own specifications for how a search strategy can be constructed. The location or host system of the database is the platform. Platform is sometimes referred to as the interface or vendor. Common examples include Ovid, EBSCOhost, ProQuest, and Web of Science.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Many institutions or their affiliated libraries host online repository systems for their faculty, staff, and students. An example is the University of Michigan’s Deep Blue Data system (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「For an example of supplementary materials related to a systematic review search, see:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「In this example, the materials shared include a Read Me file to explain the files, EndNote (.enlx) files of screened references, the original files imported into EndNote, and the complete, reproducible search strategies for all information sources.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「). For example, the MEDLINE database is available through at least 10 different platforms, including Ovid, EBSCOhost, Web of Science, and PubMed. Each platform offers different ways of searching the databases, such as platform-specific」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]). In these cases, authors may choose to include the web address of the database in the text or the bibliography to provide clarity for their readers.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. Government, non-profit organization, and pharmaceutical company websites, for example, contain a wealth of information not published elsewhere [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「)), by citing the websites in the bibliography, or by listing the website with corresponding web address in supplementary material, as shown in the examples above.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「). If the same database is used for both a topical search as well as citation searching, describe each use separately. For manually checking the reference lists for included articles, a simple statement as in the first example is sufficient.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「A thorough systematic review may utilize many additional methods of locating studies beyond database searching, many of which may not be reproducible methods. A key example is searching personal files. Another is using databases’ built in tools, such as PubMed’s Related Articles feature [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「. “Excluded publication types were comments, editorials, patient education handouts, newspaper articles, biographies, autobiographies, and case reports. All languages were included in the search result; non-English results were removed during the review process…. To improve specificity, the updated search was limited to human participants.” [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「) or inclusion criteria for the systematic review. For example, systematic review teams may choose to only include English-language randomized controlled trials. This can be done using limits, a combination of a filter (see Item 10) and screening, or screening alone. It should be clear to the reader which approach is used. For instance, in the “」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 
 ## 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）（charts copyright citing statistics redraw figure data journalism）
 - 文脈：失敗・落とし穴
