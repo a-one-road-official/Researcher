@@ -8,128 +8,88 @@
  ],
  "context": "会社・一次",
  "kind": "market",
- "researched_at": "2026-11-08T08:55:16.055605+00:00",
+ "researched_at": "2026-11-08T16:20:56.120496+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.xvideos.com/",
+    "url": "https://www.moj.go.jp/content/001350641.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.xvideos.com/home/en",
+    "url": "https://www.jpx.co.jp/equities/improvements/study-group/nlsgeu000004acah-att/t13vrt000000h2uq.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://mobile-xvideos.com/tags/newest",
+    "url": "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://jp.pornhub.com/video/search?search=xvideos",
+    "url": "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://jp.pornhub.com/video/search?search=x+v+i+d+e+o+s",
+    "url": "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.xnxx.com/search/xvideos",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d997297-Reviews-Arc_Iris_Restaurant_Vegetaria-Barcelona_Catalonia.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://es.restaurantguru.com/Arc-Iris-Barcelona-2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.facebook.com/arc.iris.vegetaria/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.tripadvisor.es/Restaurant_Review-g187497-d997297-Reviews-Arc_Iris_Restaurant_Vegetaria-Barcelona_Catalonia.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://veganista.es/restaurante-arc-iris-barcelona/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g187497-d997297-Reviews-Arc_Iris_Restaurant_Vegetaria-Barcelona_Catalonia.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.studocu.com/en-us/document/chamberlain-university/primary-care-of-the-childbearing/nr602-week-6-ihuman-angela-cortez-behavioral-health/64988414",
+    "url": "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
     "status": "http_403",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.coursehero.com/file/230129217/NR602-Week-6-iHUMAN-Angela-Cortez-Depression-Case-Study-docx/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.coursehero.com/file/255439708/NR602-Week-6-Pediatric-Behavioral-Health-iHuman-Case-Study-Kennedy-Poole-pdf/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.studocu.com/en-us/document/chamberlain-university/primary-care-of-the-childbearing/nr-602-wk-6-ihuman-reflection/79751941",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.scribd.com/document/879935819/NR602-I-HUMAN-CASE-WEEK-6-SARAH-JAMIESON-WHO-PRESENTS-FOR-MOOD-ASSIGNMENT-CHAMBERLAIN-UNIVERSITY-2025-1",
+    "url": "https://www.businesslawyers.jp/articles/274",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ihumassignments.com/nr-602-week-6-ihuman/",
+    "url": "https://jicpa.or.jp/specialized_field/5-99-0-0-20260522-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://en.wikipedia.org/wiki/Ownership",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://simple.wikipedia.org/wiki/Ownership",
+    "url": "https://www.fincen.gov/boi-faqs",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.merriam-webster.com/dictionary/ownership",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://dictionary.cambridge.org/dictionary/english/ownership",
+    "url": "https://www.moodys.com/web/en/us/kyc/solutions/ultimate-beneficial-owners.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.vocabulary.com/dictionary/ownership",
+    "url": "https://taxjustice.net/2020/07/06/exploring-uk-companies-legal-ownership-chains-to-detect-red-flags-and-verify-beneficial-ownership-information/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.dictionary.com/browse/ownership",
+    "url": "https://kyc-chain.com/ubo-discovery-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legal.thomsonreuters.com/blog/beneficial-ownership-information-boi-an-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliasintelligence.com/blogs/preventing-fraud-beneficial-owner-aml",
     "status": "ok",
     "method": "http"
    }
@@ -139,227 +99,231 @@
   {
    "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） site:note.com",
    "results": [
-    "https://www.xvideos.com/",
-    "https://www.xvideos.com/home/en",
-    "https://mobile-xvideos.com/tags/newest",
-    "https://www.pornhub.com/video/search?search=xvideos",
-    "https://www.pornhub.com/video/search?search=x+v+i+d+e+o+s",
-    "https://www.xnxx.com/search/xvideos",
-    "https://de-xvideos.com/home",
-    "https://www.xvideos.com/new/1",
-    "https://www.xvideos.com/tags",
-    "https://www.xvideos.com/new/3"
+    "https://www.moj.go.jp/content/001350641.pdf",
+    "https://www.jpx.co.jp/equities/improvements/study-group/nlsgeu000004acah-att/t13vrt000000h2uq.pdf",
+    "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
+    "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
+    "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
+    "https://www.businesslawyers.jp/articles/274",
+    "https://jicpa.or.jp/specialized_field/5-99-0-0-20260522-2.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/kensetsu_keiri/n/n88a09986a214"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 16
   },
   {
    "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.moj.go.jp/content/001350641.pdf",
+    "https://www.jpx.co.jp/equities/improvements/study-group/nlsgeu000004acah-att/t13vrt000000h2uq.pdf",
+    "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
+    "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
+    "https://www.businesslawyers.jp/articles/274",
+    "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
+    "https://jicpa.or.jp/specialized_field/5-99-0-0-20260522-2.pdf",
+    "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/touh/t217015.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） やり方",
    "results": [
-    "https://www.tripadvisor.com/Restaurant_Review-g187497-d997297-Reviews-Arc_Iris_Restaurant_Vegetaria-Barcelona_Catalonia.html",
-    "https://es.restaurantguru.com/Arc-Iris-Barcelona-2",
-    "https://www.facebook.com/arc.iris.vegetaria/",
-    "https://www.tripadvisor.es/Restaurant_Review-g187497-d997297-Reviews-Arc_Iris_Restaurant_Vegetaria-Barcelona_Catalonia.html",
-    "https://veganista.es/restaurante-arc-iris-barcelona/",
-    "https://www.tripadvisor.co.uk/Restaurant_Review-g187497-d997297-Reviews-Arc_Iris_Restaurant_Vegetaria-Barcelona_Catalonia.html",
-    "https://www.instagram.com/arciris_veggie/",
-    "https://www.barcelona-metropolitan.com/locations/arc-iris/",
-    "https://findit.city/en/spain/barcelona/places/restaurants/arc-iris-6188922858",
-    "https://wanderlog.com/place/details/1484225/arc-iris"
+    "https://www.moj.go.jp/content/001350641.pdf",
+    "https://www.jpx.co.jp/equities/improvements/study-group/nlsgeu000004acah-att/t13vrt000000h2uq.pdf",
+    "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
+    "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
+    "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
+    "https://www.businesslawyers.jp/articles/274",
+    "https://jicpa.or.jp/specialized_field/5-99-0-0-20260522-2.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 9
   },
   {
    "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） 事例",
    "results": [
-    "https://www.studocu.com/en-us/document/chamberlain-university/primary-care-of-the-childbearing/nr602-week-6-ihuman-angela-cortez-behavioral-health/64988414",
-    "https://www.coursehero.com/file/230129217/NR602-Week-6-iHUMAN-Angela-Cortez-Depression-Case-Study-docx/",
-    "https://www.coursehero.com/file/255439708/NR602-Week-6-Pediatric-Behavioral-Health-iHuman-Case-Study-Kennedy-Poole-pdf/",
-    "https://www.studocu.com/en-us/document/chamberlain-university/primary-care-of-the-childbearing/nr-602-wk-6-ihuman-reflection/79751941",
-    "https://www.scribd.com/document/879935819/NR602-I-HUMAN-CASE-WEEK-6-SARAH-JAMIESON-WHO-PRESENTS-FOR-MOOD-ASSIGNMENT-CHAMBERLAIN-UNIVERSITY-2025-1",
-    "https://ihumassignments.com/nr-602-week-6-ihuman/",
-    "https://docmerit.com/doc/show/nr602-week-6-ihuman-angela-cortez-behavioral-health-2026",
-    "https://docmerit.com/doc/show/nr602-week-6-i-human-angela-cortez-behavioral-health-case-guide",
-    "https://www.youtube.com/watch?v=3IvGRizYDRQ",
-    "https://nursingschooltutors.com/blog/nr602-week-6-ihuman-angela-cortez-behavioral-health"
+    "https://www.moj.go.jp/content/001350641.pdf",
+    "https://www.jpx.co.jp/equities/improvements/study-group/nlsgeu000004acah-att/t13vrt000000h2uq.pdf",
+    "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
+    "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
+    "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
+    "https://www.businesslawyers.jp/articles/274",
+    "https://jicpa.or.jp/specialized_field/5-99-0-0-20260522-2.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 9
   },
   {
    "query": "ownership chain verification beneficial ownership filings subsidiaries OSINT",
    "results": [
-    "https://en.wikipedia.org/wiki/Ownership",
-    "https://simple.wikipedia.org/wiki/Ownership",
-    "https://www.merriam-webster.com/dictionary/ownership",
-    "https://dictionary.cambridge.org/dictionary/english/ownership",
-    "https://www.vocabulary.com/dictionary/ownership",
-    "https://www.dictionary.com/browse/ownership",
-    "https://geoffdeweaver.com/what-is-ownership/",
-    "https://dictionary.cambridge.org/us/dictionary/english/ownership",
-    "https://www.definitions.net/definition/ownership",
-    "https://www.dictionary.net/dictionary/ownership"
+    "https://www.fincen.gov/boi-faqs",
+    "https://www.moodys.com/web/en/us/kyc/solutions/ultimate-beneficial-owners.html",
+    "https://taxjustice.net/2020/07/06/exploring-uk-companies-legal-ownership-chains-to-detect-red-flags-and-verify-beneficial-ownership-information/",
+    "https://kyc-chain.com/ubo-discovery-explained/",
+    "https://legal.thomsonreuters.com/blog/beneficial-ownership-information-boi-an-overview/",
+    "https://www.aliasintelligence.com/blogs/preventing-fraud-beneficial-owner-aml",
+    "https://www.diligent.com/resources/blog/beneficial-ownership",
+    "https://www.fatf-gafi.org/content/dam/fatf/documents/Best-Practices-Beneficial-Ownership-Legal-Persons.pdf",
+    "https://www.lseg.com/en/risk-intelligence/glossary/risk-management/beneficial-ownership",
+    "https://osintbench.com/guides/financial-osint/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 16
   },
   {
    "query": "site:note.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
    "results": [
-    "https://citrinecapitaladvisors.com/resources",
-    "https://citrinecapitaladvisors.com/cash-flow-analysis",
-    "https://citrinecapitaladvisors.com/blog/elections-impact-on-markets",
-    "https://citrinecapitaladvisors.com/blog/2018/7/10/wheres-the-value",
-    "https://citrinecapitaladvisors.com/blog/2019/8/2/ipos-profiles-are-high-what-about-returns",
-    "https://citrinecapitaladvisors.com/blog/2018/5/8/tuning-out-the-noise",
-    "https://citrinecapitaladvisors.com/blog/2019/11/13/what-happens-when-you-fail-at-market-timing",
-    "https://vistasocial.com/insights/how-to-create-a-poll-on-facebook/",
-    "https://www.adweek.com/performance-marketing/facebook-heres-how-to-create-a-poll-in-stories/",
-    "https://www.youtube.com/watch?v=EpgB7wbEU18"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "ddgs:yahoo"
-   ],
-   "n_hits": 27
-  },
-  {
-   "query": "site:x.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
-   "results": [
-    "https://studyabroad.uark.edu/",
-    "https://www.abbreviations.com/UNIV+ARKANSAS+MADAGASCAR+PROGRAM",
-    "https://www.linkedin.com/jobs/univ-arkansas-madagascar-program-jobs",
-    "https://walton.uark.edu/advising/study-abroad.php",
-    "https://www.uark.edu/",
-    "https://shop.arkansasrazorbacks.com/search/keyword/univ+arkansas+madagascar+program/hats-men",
-    "https://astate.uloop.com/study-abroad/index.php/madagascar",
-    "https://lewisandclarkjournals.unl.edu/search?qfield=text&qtext=univ+arkansas+madagascar+program&source=Lewis+and+Clark+on+the+Great+Plains",
-    "https://mymemory.translated.net/en/Spanish/English/univ-arkansas-madagascar-program",
-    "https://studyabroad.uark.edu/fund/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
-   ],
-   "n_hits": 20
-  },
-  {
-   "query": "site:linkedin.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
-   "results": [
-    "https://www.weatherworld.com/14dayweather/wv/clarksburg.html",
-    "https://weather.com/us/west-virginia/city/clarksburg/tenday",
-    "https://weather.com/en-NA/us/west-virginia/city/clarksburg/tenday",
-    "https://www.accuweather.com/en/us/clarksburg/26301/10-day-weather-forecast/336435",
-    "https://www.accuweather.com/en/us/clarksburg/26301/weather-forecast/336435",
-    "https://www.accuweather.com/en/us/clarksburg/26301/hourly-weather-forecast/336435",
-    "https://www.wunderground.com/forecast/us/wv/clarksburg",
-    "https://forecast.weather.gov/zipcity.php?inputstring=CLARKSBURG,WV",
-    "https://www.wboy.com/weather/",
-    "https://www.foxweather.com/local-weather/west-virginia/clarksburg"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "ddgs:yahoo"
-   ],
-   "n_hits": 23
-  },
-  {
-   "query": "site:facebook.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
-   "results": [
-    "https://en.wikipedia.org/wiki/Flipkart",
-    "https://corporate.flipkart.net/",
-    "https://www.flipkart.com/",
-    "https://www.flipkart.com/mobile-phones-store",
-    "https://www.flipkart.com/account/login?ret=/",
-    "https://www.flipkart.com/all-categories/pr?sid=0hx=",
-    "https://www.seller.flipkart.com/index.html",
-    "https://www.reddit.com/r/amazonprime/comments/128otcb/scary_mail_from_ofmamazoncom/",
-    "https://www.reddit.com/r/FASCAmazon/",
-    "https://www.reddit.com/r/amazon/about/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） note 社長",
-   "results": [
-    "https://spinsinsights.com/exploring-xx88-xx88-cheap-a-comprehensive-comparison/"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 1
-  },
-  {
-   "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） X 投稿",
-   "results": [
-    "https://en.wikipedia.org/wiki/Microsoft",
-    "https://www.microsoft.com/en-us",
-    "https://account.microsoft.com/account",
-    "https://myaccount.microsoft.com/login",
-    "https://myaccount.microsoft.com/ ->",
-    "https://www.microsoft.com/en-us/windows/",
-    "https://account.microsoft.com/account-checkup",
-    "https://m365.cloud.microsoft/?origindomain=Office",
-    "https://apps.microsoft.com/",
-    "https://security.microsoft.com/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "ddgs:yahoo"
-   ],
-   "n_hits": 29
-  },
-  {
-   "query": "ownership chain verification beneficial ownership filings subsidiaries OSINT site:linkedin.com",
-   "results": [
-    "https://en.wikipedia.org/wiki/Ownership",
-    "https://simple.wikipedia.org/wiki/Ownership",
-    "https://www.merriam-webster.com/dictionary/ownership",
-    "https://dictionary.cambridge.org/dictionary/english/ownership",
-    "https://www.vocabulary.com/dictionary/ownership",
-    "https://www.dictionary.com/browse/ownership",
-    "https://geoffdeweaver.com/what-is-ownership/",
-    "https://dictionary.cambridge.org/us/dictionary/english/ownership",
-    "https://www.definitions.net/definition/ownership",
-    "https://www.dictionary.net/dictionary/ownership"
+    "https://note.com/dimatrix_jp/n/nee7748307d89",
+    "https://note.com/kensetsu_keiri/n/n88a09986a214",
+    "https://note.com/biznote_shun/n/n3df6dbe49205",
+    "https://note.com/charm_snipe1364/n/nad7f45320186",
+    "https://note.com/nk_advisory/n/n6285b2c8f315",
+    "https://note.com/kaiken_ob/n/n9c02a9d78f7c",
+    "https://note.com/kens_reading1/n/ndca401ec7e8a"
    ],
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
+   "results": [
+    "https://x.com/haru_2006ppe/status/2111605442057244755",
+    "https://x.com/rmc_lab/status/2056201104002552196",
+    "https://x.com/mnt_cpa/status/2104818480449257656",
+    "https://x.com/mnt_cpa/status/2110610435380826319",
+    "https://x.com/RyomaIR/status/2072838413087375647",
+    "https://x.com/pygmy_hem/status/2097415008397488224",
+    "https://x.com/RyomaIR/status/2074070507679613184",
+    "https://x.com/hiroaki_kosaki/status/1975749884184826334",
+    "https://x.com/TOB_MBO_MA/status/2086226637172203741",
+    "https://x.com/RyomaIR/status/2074052840738189794"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
+   "results": [
+    "https://jp.linkedin.com/pulse/ultimate-guide-company-structure-charts-mark-little?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-your-share-ownership-percentage-available-samali-4akrf?tl=ja",
+    "https://www.linkedin.com/posts/takuya-tak-shiratori-66a6841a_雑誌資料版-商事法務2025年3月号に共著2025年における機関投資家の議決権行使基準等-activity-7311385413779079171-_UCG",
+    "https://www.linkedin.com/posts/apex-k.k._公認会計士が解説会計初心者が知りたい非支配株主持分-activity-7158591027031822336-c-5a",
+    "https://jp.linkedin.com/posts/chiemitsui_実質株主把握しやすく企業に開示請求権会社法改正へ同意なき買収に備え-activity-7290509172255666176-oE_Z",
+    "https://jp.linkedin.com/pulse/中小企業の経営権争いはなぜ起きる株主間トラブルを防ぐために知っておきたいこと-伸一-湯原-4ikrc",
+    "https://jp.linkedin.com/pulse/日本会社法460条株主の権利の制限についての理解-liu-yi-nnmsc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）",
+   "results": [
+    "https://www.facebook.com/Deloitte.Japan/posts/ウェブ更新情報ma会計-実践編-第9回-非支配株主との取引持分の追加取得事例企業結合後の子会社持分追加取得の会計処理連結財務表への影響連載ma会計の解説の続編と/1621249407958130/",
+    "https://www.facebook.com/itochu.corp/posts/株式会社セブン銀行の持分法適用会社化について伊藤忠商事は2025年9月26日付けの当社プレスリリースのとおりセブン銀行の株式を議決権ベースで2000取得し同社を/1367669265153467/",
+    "https://www.facebook.com/mizuhofg/posts/第24期中間-株主の皆さまへを掲載しましたこの度みずほフィナンシャルグループのウェブサイトへ第24期中間-株主の皆さまへを掲載しました2025年度中間期決算配当/1305784201352127/",
+    "https://www.facebook.com/story.php/?story_fbid=1030239835573233&id=100057616772920",
+    "https://www.facebook.com/ApexKKRecruitment/posts/会計やファイナンスで大事な項目である非支配株主持分少数株主持ち分について会計初心者のために公認会計士が解説します財務転職-ファイナンス転職httpshubsla/403706775093132/",
+    "https://www.facebook.com/mochikabug/posts/持株グループ本部は分会三役を対象に中央本部総対話と持株グループ本部総対話を６月６日に開き第27回定期全国大会議案等について全体で理解を深めました持株グループ本部/859973636171084/",
+    "https://www.facebook.com/mochikabug/photos/持株グループ本部-第13回定期大会-開催持株グループ本部は8月20日第13回定期大会を開催し構成員傍聴者など約250人が参加20252026年度中期活動方針等を/1189323926569385/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） note 社長",
+   "results": [
+    "https://www.moj.go.jp/content/001350641.pdf",
+    "https://www.jpx.co.jp/equities/improvements/study-group/nlsgeu000004acah-att/t13vrt000000h2uq.pdf",
+    "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
+    "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
+    "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
+    "https://www.businesslawyers.jp/articles/274",
+    "https://jicpa.or.jp/specialized_field/5-99-0-0-20260522-2.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手） X 投稿",
+   "results": [
+    "https://www.moj.go.jp/content/001350641.pdf",
+    "https://www.jpx.co.jp/equities/improvements/study-group/nlsgeu000004acah-att/t13vrt000000h2uq.pdf",
+    "https://www.fsa.go.jp/frtc/kikou/20180319_keieizaimu.pdf",
+    "http://www.keidanren.or.jp/policy/2026/027_honbun.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/10040101securities.pdf",
+    "https://www.jsri.or.jp/publish/record/pdf/070.pdf",
+    "https://www.businesslawyers.jp/articles/274",
+    "https://jicpa.or.jp/specialized_field/5-99-0-0-20260522-2.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ownership chain verification beneficial ownership filings subsidiaries OSINT site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/kartheek-sana-532234111_ubo-ultimate-beneficial-owner-when-onboarding-activity-7428768519367847936-yG9g",
+    "https://www.linkedin.com/pulse/whether-subsidiary-wos-needs-file-ben-2-fcs-divesh-goyal-pvjwc",
+    "https://www.linkedin.com/pulse/how-find-beneficial-owner-offshore-company-robert-socha-rt5ef",
+    "https://www.linkedin.com/pulse/osint-powerful-tool-aml-fraud-investigations-mikael-gustafsson-7mqbc",
+    "https://www.linkedin.com/posts/ted-datta_the-new-cdd-standards-are-a-big-deal-a-common-activity-7518661891255218176-O_Kc",
+    "https://www.linkedin.com/pulse/navigating-economic-crime-corporate-transparency-act-zwgmf",
+    "https://www.linkedin.com/pulse/revolutionizing-aml-forensic-accounting-latest-tools-trends-prabhu-xeuif",
+    "https://uk.linkedin.com/in/lorenzo-de-benedetto",
+    "https://www.linkedin.com/posts/bowlerderek_osint-financialintelligence-corporateinvestigations-activity-7523655438060474368-LHbW",
+    "https://uk.linkedin.com/in/max-wyatt"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ24頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ24頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）",
-  "実例": "記載なし（読んだ24頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ16頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ16頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ16頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ16頁・検索12回）",
+  "実例": "記載なし（読んだ16頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T19:49:24.889079+00:00"
 }

@@ -8,7 +8,7 @@
  ],
  "context": "手法・統計",
  "kind": "market",
- "researched_at": "2026-11-08T09:06:51.749606+00:00",
+ "researched_at": "2026-11-08T16:23:39.740894+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -272,320 +272,6 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "手順・やり方": [
-   {
-    "quote": "3．統計の作成方法",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "※新たな「外れ値」処理手法を反映した詳細な算出方法(PDF形式：111KB)",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、季節調整方法は、年1回見直しを行う(注)",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "i. X-12-ARIMAのスペックファイルの設定方法",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2曜日型曜日調整・・・毎月の月曜日から日曜日までの各曜日の数が月によって違うことにより原数値に与えている影響を、毎月の平日（月曜日～金曜日）の数の合計と休日（土曜日と日曜日）の数の合計の2つを説明変数として取り除くもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "日本型曜日調整1・・・日本の国民の祝日を考慮したもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "日本型曜日調整2・・・日本の国民の祝日及びお盆休みや年末年始などの慣例的な休日を考慮したもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（3）作成方法",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "神奈川CIの作成方法は、内閣府のCI作成方法に準じています",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "神奈川CIの作成方法を簡潔に述べると、個別指標における前月比変化率を、過去の平均的な変動と比較することによって基準化し、それらの平均を求めて合成し、指数化します",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計調査等によって集計された値には、毎年繰り返される規則的な増減（季節変動）が含まれることが多く、景気変動を把握するため、公表される統計の値から季節変動を除去することを季節調整といい、その方法として、米センサス局法X-12-ARIMAや前年同月比を用いています",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "定められた作成方法に基づき、これらの指標の動きを統合したCIとDI（先行指数、一致指数、遅行指数）が算出されています",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2 ＣＩ(コンポジット・インデックス)計算方法と見方",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(1) 計算方法",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "作成方法については、内閣府経済社会総合研究所の方法（第10次改訂）に準拠しています",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（詳しい計算方法については、内閣府経済社会総合研究所のホームページ「統計の作成方法」http://www.esri.cao.go.jp/jp/stat/di/di3.html#2 を参照してください",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3 ＤＩ(ディフュージョン・インデックス)計算方法と見方",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(3) 累積ＤＩの計算方法",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "季節調整法には、アメリカ・センサス局で開発されたX11やX12-ARIMA、前年同月比をとるなどの方法がある",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "経済構造や景気変動パターンの変化に対応して、景気動向指数の採用系列や計算方法を見直すこと",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "おおよそ内閣府の景気動向指数作成方法に準拠しながら、採用系列は独自に選択している",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "注文方法におけるリスク管理術：OCO注文 注文方法について",
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "注文方法におけるリスク管理術：逆指値注文 注文方法について",
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ダイワ365FXの口座開設のパソコン操作方法",
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「お知らせBOX」登録通知のお申込み方法について",
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "成方法の詳細については、",
-    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Methodology & Technical Notes",
-    "url": "https://www.conference-board.org/topics/us-leading-indicators/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Identifies what methodologies exist to identify economic turning points in real time and what indicators leading international statistical and economic institutions publish. This is an economic review article.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Turning point methodologies",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "What is striking from the results of this survey is that the rapid expansion of data sources and improvement in forecasting methodology has not made predicting turning points in real time much easier. A stylised fact in the business cycle literature is that it is more difficult to predict peaks than troughs of business cycles. In a study of 10 US economic analysts between 1948 and 1961,",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The European Commission developed climate indicators that similarly extract a trend from a variety of component indicators. Mixed-frequency models provide an analytical framework to forecast GDP, inflation and employment, but quantitative studies have found that simpler models based on averaging higher-frequency data sometimes gave as good results.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "One of the most challenging features of predicting turning points is how to deal with data revisions. As most",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Notes for: Turning point methodologies",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "If such composite indicators were to be revived by the ONS, it would have to make use of the latest methodological advances and therefore would probably be different from the one published previously.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Recessions were computed with the Bry–Boschan (1971) methodology.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The methodology is based on Markov switching dynamic model and is explained in",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Other methodologies identified in this review are factor analysis and regime-switching models. As there is a lot of uncertainty in the measurements in real time, probabilistic inference should play a central role. New methodologies related to big data and machine learning are expected to contribute to the development of more timely and accurate turning point indicators.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "does not refute the method. Rather, such a failure merely impairs and, if re­",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "10. Diebold and Rudebusch 1990b follow a method analogous to that described in the text",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "13. These are rough estimates, based on simple methods applicable to large volumes of data at",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "11.2.3 Index Construction Methods and Revisions",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "There are six basic steps in the calculation of a composite index in the",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tained in step 1 are divided by their long-run average without regard to sign.",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "more detailed narrative and algebraic explanation of the methodology, see U.S. Department of",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Revised in 1989 to improve the methodology and date consistency (H-B).",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tained in step 2 are averaged. 16 (4) The resulting changes are then adjusted for",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "1969, methods of combining series in terms of deviations from trend or rates",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "mon than business cycles. These methods share the several basic elements of",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the early 1970s). A useful comparison of these methods is provided in Bos­",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "widely, along with other methods and information. In predicting the course of",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "about policy and other external changes. The GNP accounting framework and",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "single method; combinations prevail heavily. Many of the surveyed forecasters",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "1．統計の目的",
@@ -944,6 +630,326 @@
    {
     "quote": "景気動向指数は、多くの経済指標の中から景気に敏感な指標を選定し、採用系列の変化方向を合成することにより、景気の局面（上昇局面、下降局面）を把握することを目的に作成しています",
     "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "experts, and reputable primary sources. You can learn more about our efforts to",
+    "url": "https://adviceonly.com/glossary/leading-economic-indicators",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "3．統計の作成方法",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "※新たな「外れ値」処理手法を反映した詳細な算出方法(PDF形式：111KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお、季節調整方法は、年1回見直しを行う(注)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "i. X-12-ARIMAのスペックファイルの設定方法",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2曜日型曜日調整・・・毎月の月曜日から日曜日までの各曜日の数が月によって違うことにより原数値に与えている影響を、毎月の平日（月曜日～金曜日）の数の合計と休日（土曜日と日曜日）の数の合計の2つを説明変数として取り除くもの",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "日本型曜日調整1・・・日本の国民の祝日を考慮したもの",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "日本型曜日調整2・・・日本の国民の祝日及びお盆休みや年末年始などの慣例的な休日を考慮したもの",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（3）作成方法",
+    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "神奈川CIの作成方法は、内閣府のCI作成方法に準じています",
+    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "神奈川CIの作成方法を簡潔に述べると、個別指標における前月比変化率を、過去の平均的な変動と比較することによって基準化し、それらの平均を求めて合成し、指数化します",
+    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計調査等によって集計された値には、毎年繰り返される規則的な増減（季節変動）が含まれることが多く、景気変動を把握するため、公表される統計の値から季節変動を除去することを季節調整といい、その方法として、米センサス局法X-12-ARIMAや前年同月比を用いています",
+    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "定められた作成方法に基づき、これらの指標の動きを統合したCIとDI（先行指数、一致指数、遅行指数）が算出されています",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2 ＣＩ(コンポジット・インデックス)計算方法と見方",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(1) 計算方法",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "作成方法については、内閣府経済社会総合研究所の方法（第10次改訂）に準拠しています",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（詳しい計算方法については、内閣府経済社会総合研究所のホームページ「統計の作成方法」http://www.esri.cao.go.jp/jp/stat/di/di3.html#2 を参照してください",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3 ＤＩ(ディフュージョン・インデックス)計算方法と見方",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(3) 累積ＤＩの計算方法",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "季節調整法には、アメリカ・センサス局で開発されたX11やX12-ARIMA、前年同月比をとるなどの方法がある",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "経済構造や景気変動パターンの変化に対応して、景気動向指数の採用系列や計算方法を見直すこと",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "おおよそ内閣府の景気動向指数作成方法に準拠しながら、採用系列は独自に選択している",
+    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "注文方法におけるリスク管理術：OCO注文 注文方法について",
+    "url": "https://www.daiwa.jp/glossary/YST0468.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "注文方法におけるリスク管理術：逆指値注文 注文方法について",
+    "url": "https://www.daiwa.jp/glossary/YST0468.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ダイワ365FXの口座開設のパソコン操作方法",
+    "url": "https://www.daiwa.jp/glossary/YST0468.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「お知らせBOX」登録通知のお申込み方法について",
+    "url": "https://www.daiwa.jp/glossary/YST0468.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "成方法の詳細については、",
+    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Methodology & Technical Notes",
+    "url": "https://www.conference-board.org/topics/us-leading-indicators/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Identifies what methodologies exist to identify economic turning points in real time and what indicators leading international statistical and economic institutions publish. This is an economic review article.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Turning point methodologies",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "What is striking from the results of this survey is that the rapid expansion of data sources and improvement in forecasting methodology has not made predicting turning points in real time much easier. A stylised fact in the business cycle literature is that it is more difficult to predict peaks than troughs of business cycles. In a study of 10 US economic analysts between 1948 and 1961,",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The European Commission developed climate indicators that similarly extract a trend from a variety of component indicators. Mixed-frequency models provide an analytical framework to forecast GDP, inflation and employment, but quantitative studies have found that simpler models based on averaging higher-frequency data sometimes gave as good results.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "One of the most challenging features of predicting turning points is how to deal with data revisions. As most",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Notes for: Turning point methodologies",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "If such composite indicators were to be revived by the ONS, it would have to make use of the latest methodological advances and therefore would probably be different from the one published previously.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Recessions were computed with the Bry–Boschan (1971) methodology.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The methodology is based on Markov switching dynamic model and is explained in",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Other methodologies identified in this review are factor analysis and regime-switching models. As there is a lot of uncertainty in the measurements in real time, probabilistic inference should play a central role. New methodologies related to big data and machine learning are expected to contribute to the development of more timely and accurate turning point indicators.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "does not refute the method. Rather, such a failure merely impairs and, if re­",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "10. Diebold and Rudebusch 1990b follow a method analogous to that described in the text",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "13. These are rough estimates, based on simple methods applicable to large volumes of data at",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "11.2.3 Index Construction Methods and Revisions",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "There are six basic steps in the calculation of a composite index in the",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "tained in step 1 are divided by their long-run average without regard to sign.",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "more detailed narrative and algebraic explanation of the methodology, see U.S. Department of",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Revised in 1989 to improve the methodology and date consistency (H-B).",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "tained in step 2 are averaged. 16 (4) The resulting changes are then adjusted for",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1969, methods of combining series in terms of deviations from trend or rates",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "mon than business cycles. These methods share the several basic elements of",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the early 1970s). A useful comparison of these methods is provided in Bos­",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "widely, along with other methods and information. In predicting the course of",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "about policy and other external changes. The GNP accounting framework and",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "single method; combinations prevail heavily. Many of the surveyed forecasters",
+    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -1035,16 +1041,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/composite-index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/business-trend-index.html",
     "status": "ok",
     "method": "http"
@@ -1060,12 +1056,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
+    "url": "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
+    "url": "https://www.daiwa.jp/glossary/YST0468.html",
     "status": "ok",
     "method": "http"
    },
@@ -1080,14 +1076,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.escoe.ac.uk/turning-point-indicators/",
@@ -1109,11 +1105,11 @@
     "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
     "https://www.esri.cao.go.jp/jp/stat/di/200730shiryou1.pdf",
     "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
-    "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/composite-index.html",
-    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
-    "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
+    "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/business-trend-index.html",
     "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
+    "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
+    "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
+    "https://www.daiwa.jp/glossary/YST0468.html",
     "https://note.com/yajirushi_works/n/nfadc215c8c8c"
    ],
    "engines": [
@@ -1147,11 +1143,11 @@
     "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
     "https://www.esri.cao.go.jp/jp/stat/di/200730shiryou1.pdf",
     "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
-    "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/composite-index.html",
-    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
+    "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/business-trend-index.html",
     "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html"
+    "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
+    "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
+    "https://www.daiwa.jp/glossary/YST0468.html"
    ],
    "engines": [
     "yahoo_jp"
@@ -1162,11 +1158,11 @@
    "query": "景気指標の先行・一致・遅行の読み方と転換点の判定（内閣府 景気動向指数の利用の手引き・複数の分野で同じ向きの重なり・単月で断定しない） 事例",
    "results": [
     "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
     "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
     "https://www.esri.cao.go.jp/jp/stat/di/200730shiryou1.pdf",
     "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
     "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/business-trend-index.html",
-    "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
     "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
     "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
     "https://www.daiwa.jp/glossary/YST0468.html"
@@ -1181,17 +1177,17 @@
    "results": [
     "https://www.conference-board.org/topics/us-leading-indicators/",
     "https://adviceonly.com/glossary/leading-economic-indicators",
-    "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
     "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
     "https://www.escoe.ac.uk/turning-point-indicators/",
     "https://libguides.ithaca.edu/c.php?g=867167&p=6221950",
-    "https://www.fe.training/free-resources/financial-markets/leading-lagging-coincident-economic-indicators/",
     "https://socialsci.libretexts.org/Bookshelves/Economics/Macroeconomics/Macroeconomics_1e_(Medeiros)/08%3A_Business_Cycle/8.05%3A_Leading_Coincident_and_Lagging_Economic_Indicators",
+    "https://didattica.unibocconi.it/mypage/dwload.php?nomefile=leading_indicators20131002121300.pdf",
     "https://www.conference-board.org/data/bci/index.cfm?id=2160",
     "https://ryanoconnellfinance.com/business-cycle-indicators/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1205,39 +1201,43 @@
     "https://note.com/beebird/n/n6f53cbf44730",
     "https://note.com/namake_smec/n/n4f2ecf8e8b78",
     "https://note.com/good_poppy696/n/n0dbe443e173a",
-    "https://note.com/hirokimiyano/n/nd59c76298f07"
+    "https://note.com/eur_usd/n/n182805f13c85"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:x.com 景気指標の先行・一致・遅行の読み方と転換点の判定（内閣府 景気動向指数の利用の手引き・複数の分野で同じ向きの重なり・単月で断定しない）",
    "results": [
-    "https://x.com/sharoushininsho/status/2029482058393792985",
+    "https://x.com/indbgraphreport/status/1996829732944728423",
+    "https://x.com/Yoshihiko_ICKW/status/2043830405762298081",
+    "https://x.com/kuromitsu_ka/status/2001154981408465214?lang=da",
+    "https://x.com/KagawaTomo/status/2110523688902873223",
+    "https://x.com/OANDAjp/status/1864904170798829797",
+    "https://x.com/stock_unknown/status/2118846834571706560",
     "https://x.com/WAYU0565942653/status/2113477668612248063",
+    "https://x.com/sharoushininsho/status/2029482058393792985",
     "https://x.com/cao_keizai/status/2097189260478861652",
-    "https://x.com/Nextview_jp/status/2097096832103154107",
-    "https://x.com/fp_camp/status/2043071590230036777",
-    "https://x.com/cao_keizai/status/2086616772946616782",
-    "https://x.com/indbgraphreport/status/2062784099593703707"
+    "https://x.com/Nextview_jp/status/2097096832103154107"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "site:linkedin.com 景気指標の先行・一致・遅行の読み方と転換点の判定（内閣府 景気動向指数の利用の手引き・複数の分野で同じ向きの重なり・単月で断定しない）",
    "results": [
-    "https://jp.linkedin.com/pulse/science-behind-consumer-tipping-points-smit-patel-77fpf?tl=ja",
     "https://jp.linkedin.com/pulse/getting-inflection-point-shannon-morgan-uxgnc?tl=ja",
     "https://jp.linkedin.com/posts/圭弘-岩田-059b53250_kpi一覧を見てよくある混乱があります-先行指標と遅行指標が同じ表に並んでいる-activity-7485106271298363392-Lv1Q",
     "https://jp.linkedin.com/pulse/business-strategy-sustainability-understanding-curve-ashish-agarwal-yt5ae?tl=ja",
+    "https://www.linkedin.com/posts/bijapan_vc直伝読みやすいピッチデックの作り方景気後退期でも資金調達の成功確率を高める-activity-7041911339677544448-k3sK",
     "https://jp.linkedin.com/pulse/igniting-startup-success-power-leading-lagging-growth-adamidis?tl=ja",
-    "https://jp.linkedin.com/posts/友貴-黒澤-30320a47_2020年予測では新設住宅着工戸数の読み解き方が参考になりました先行指標は新設住宅着工戸数-activity-6880304405388898304-JPe3",
-    "https://jp.linkedin.com/pulse/top-6-metrics-measure-during-economic-downturn-shwetha-pai?tl=ja"
+    "https://jp.linkedin.com/pulse/top-6-metrics-measure-during-economic-downturn-shwetha-pai?tl=ja",
+    "https://jp.linkedin.com/posts/友貴-黒澤-30320a47_2020年予測では新設住宅着工戸数の読み解き方が参考になりました先行指標は新設住宅着工戸数-activity-6880304405388898304-JPe3"
    ],
    "engines": [
     "ddgs:google"
@@ -1252,11 +1252,11 @@
     "https://www.facebook.com/cao.keizaizaisei/posts/景気を把握する新しい指数一致指数参考指標令和７年１月分を公表しましたhttpswwwesricaogojpjpstatdidi_refhtml/998715069022023/",
     "https://www.facebook.com/ibaraki.tokei/posts/茨城県景気動向指数令和８年2026年６月分先行1196-一致-1097-遅行1064-基調判断上方への局面変化当月分は管内輸出入額や百貨店スーパー販売額等が低下/1522423369930350/",
     "https://www.facebook.com/ibaraki.tokei/posts/茨城県景気動向指数令和８年2026年２月分先行1202-一致-1094-遅行1119-基調判断下げ止まり当月分は日銀業況判断di等が上昇した一方で管内輸出入額や/1419009810271707/",
-    "https://www.facebook.com/ibaraki.tokei/posts/茨城県景気動向指数令和７年2025年11月分先行1158-一致-1047-遅行1196-基調判断悪化当月の基調判断は７か月後方移動平均値が23か月ぶりに上昇し３/1339413778231311/",
-    "https://www.facebook.com/ibaraki.tokei/posts/茨城県景気動向指数令和７年2025年12月分先行1150-一致-1057-遅行1225-基調判断下げ止まり当月分は百貨店スーパー販売額や投資財出荷指数が低下した/1363762472463108/"
+    "https://www.facebook.com/ibaraki.tokei/posts/茨城県景気動向指数令和７年2025年12月分先行1150-一致-1057-遅行1225-基調判断下げ止まり当月分は百貨店スーパー販売額や投資財出荷指数が低下した/1363762472463108/",
+    "https://www.facebook.com/ibaraki.tokei/posts/茨城県景気動向指数令和７年2025年11月分先行1158-一致-1047-遅行1196-基調判断悪化当月の基調判断は７か月後方移動平均値が23か月ぶりに上昇し３/1339413778231311/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1282,14 +1282,14 @@
    "query": "景気指標の先行・一致・遅行の読み方と転換点の判定（内閣府 景気動向指数の利用の手引き・複数の分野で同じ向きの重なり・単月で断定しない） X 投稿",
    "results": [
     "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
     "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
     "https://www.esri.cao.go.jp/jp/stat/di/200730shiryou1.pdf",
     "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
-    "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/composite-index.html",
-    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
+    "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/business-trend-index.html",
     "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html"
+    "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples",
+    "https://www.daiwa.jp/glossary/YST0468.html"
    ],
    "engines": [
     "yahoo_jp"
@@ -1303,15 +1303,15 @@
     "https://www.linkedin.com/posts/economic-cycle-research-institute-ecri_a-paycheck-that-lags-inflation-is-still-a-activity-7517857160584695808-2d3m",
     "https://au.linkedin.com/in/rajan-shankar",
     "https://www.linkedin.com/in/khaiqnguyen",
-    "https://www.linkedin.com/pulse/how-use-indices-leadinglagging-coincident-indicators-tita-aristode",
-    "https://www.linkedin.com/advice/0/what-leading-lagging-indicators-business-cycle-hxxkf",
     "https://www.linkedin.com/advice/0/how-do-you-use-leading-lagging-indicators-skills-technical-analysis",
-    "https://www.linkedin.com/advice/3/how-can-you-use-leading-lagging-economic-indicators-c2lvf",
+    "https://www.linkedin.com/advice/0/what-leading-lagging-indicators-business-cycle-hxxkf",
+    "https://www.linkedin.com/pulse/how-use-indices-leadinglagging-coincident-indicators-tita-aristode",
+    "https://www.linkedin.com/pulse/state-economy-leading-lagging-coincident-indicators-piegza-ph-d-",
     "https://www.linkedin.com/advice/1/what-differences-between-leading-lagging-economic-vkdfe",
-    "https://www.linkedin.com/pulse/leading-vs-lagging-indicators-whats-difference-redouane-itq9e"
+    "https://www.linkedin.com/advice/3/how-can-you-use-leading-lagging-economic-indicators-c2lvf"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 11
@@ -1319,1007 +1319,15 @@
  ],
  "missing": {},
  "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "X-12-ARIMAのoutlierコマンドを用いて検証し、対象期間にレベルシフト、異常値が検出された場合は、それを調整する",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "曜日調整及びうるう年調整に係る各種設定に際しては、推定パラメタのt値等を参考に総合的に判断する",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次に、候補の中から、調整の統計的な妥当性を検証の上、AICが一番小さい候補を採用する",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "神奈川県景気基準日付は、神奈川県景気動向指数の一致指数の個別指標のうち過半がピーク（ボトム）をつけたことを景気の山（谷）の判定の根拠とし、検証した上で設定しています",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "availability of estimates of sampling and reporting errors; the length of the",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimates of the contributions of the missing components were made, so that",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "of good and timely estimates for the missing components, this problem is a",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "offer no substitute for the quantitative estimates of error available from the",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "increase, rather than reduce, the discrepancy between the prior and the final estimate.",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "smoothed with a minimum loss of timeliness and provide monthly estimates",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "adding these lags for each series, one can obtain a rough estimate of the total",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Table 11.3 Estimated Information Lags for 110 Cyclical Indicator Series",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ment, prices, costs, profits, money, and credit. The estimates are conservative",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "13. These are rough estimates, based on simple methods applicable to large volumes of data at",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "these variables only after the initial estimate of the index had been published",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimates of the index for any month less variable and therefore easier to inter­",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tably a conflict between the promptness and accuracy of estimates and fore­",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "portion are not available in time to be included in the initial estimate of the index. Covers all durable",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the uses of preliminary estimates and the revised index data. Evaluations of",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "ただし、例えば景気の拡張局面においても、CI一致指数が単月で低下するなど、不規則な動きも含まれていることから、移動平均値をとることにより、ある程度の期間の月々の動きをならしてみることが望ましい",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（注1）対称変化率では、例えば、ある指標が110から100に低下した時（9.5%下降）と、100から110に上昇した時（9.5%上昇）で、変化率の絶対値が同じになる",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "X11パートの設定項目のうち2.及び3.はX11コマンドによる選定結果を用いている",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "6．利活用事例、研究論文など",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ただし、例えば景気の拡張局面においても、CI一致指数が単月で低下するなど、不規則な動きも含まれていることから、移動平均値をとることにより、ある程度の期間の月々の動きをならして、その基調的な動きを読み取ります",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "景気動向指数の見方を理解するために、令和6年11月8日に公表された「令和6年9月分速報の結果の概要」を確認してみましょう",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「景気動向指数（令和6（2024）年9月分速報）結果の概要」",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「結果の概要」の1ページ目には、令和2年を基準年（100）としたときのCIの数値と、前月比・3ヵ月移動平均・7ヵ月移動平均の動きについての説明があります",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「結果の概要」の2ページ目に掲載されている個別系列の推移では、CIを合成する個別系列の一致指数への寄与度を確認できます",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "We built this glossary to help you make better decisions about your money and your life. When a definition and an example aren't enough, one of our advice-only financial planners can tell you what it means for your situation. The only thing you pay for is the advice: a flat fee you agree to up front, with no commissions and no percentage of your investments.",
-    "url": "https://adviceonly.com/glossary/leading-economic-indicators",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "An example of turning point indicators",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "According to a survey of leading statistical and economic institutions, business and consumer surveys are the most popular source of data for leading indicators (for example, surveys asking business managers about their order books and production plans have proved very useful leading indicators).",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example,",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "all kinds, for example, major strikes and foreign wars. This is particularly",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "extent. For example, the leaders as a group rank well below the coinciders",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "currency but much larger yet for smoothness, especially in the case of the",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "stood. For example, consider tests of the predictive value of the leading index",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "case except one (index of consumer expectations). At troughs, the leads were",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "in each particular case.",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "they were errors of efficient forecasts. This was not the case in 1979-81, when",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "phases. However, this was not the case; instead, the best fit to the data sepa­",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "where the differences are mostly zero; in a few cases, ± 1 quarter.",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "timing tendencies. For example, consider the ordinary regression of dqt on",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "case, of course, the past LI values would be available to the \"real-time\" fore­",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "3．統計の作成方法",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "※新たな「外れ値」処理手法を反映した詳細な算出方法(PDF形式：111KB)",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、季節調整方法は、年1回見直しを行う(注)",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "i. X-12-ARIMAのスペックファイルの設定方法",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2曜日型曜日調整・・・毎月の月曜日から日曜日までの各曜日の数が月によって違うことにより原数値に与えている影響を、毎月の平日（月曜日～金曜日）の数の合計と休日（土曜日と日曜日）の数の合計の2つを説明変数として取り除くもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "日本型曜日調整1・・・日本の国民の祝日を考慮したもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "日本型曜日調整2・・・日本の国民の祝日及びお盆休みや年末年始などの慣例的な休日を考慮したもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（3）作成方法",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "神奈川CIの作成方法は、内閣府のCI作成方法に準じています",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "神奈川CIの作成方法を簡潔に述べると、個別指標における前月比変化率を、過去の平均的な変動と比較することによって基準化し、それらの平均を求めて合成し、指数化します",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計調査等によって集計された値には、毎年繰り返される規則的な増減（季節変動）が含まれることが多く、景気変動を把握するため、公表される統計の値から季節変動を除去することを季節調整といい、その方法として、米センサス局法X-12-ARIMAや前年同月比を用いています",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "定められた作成方法に基づき、これらの指標の動きを統合したCIとDI（先行指数、一致指数、遅行指数）が算出されています",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2 ＣＩ(コンポジット・インデックス)計算方法と見方",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(1) 計算方法",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "作成方法については、内閣府経済社会総合研究所の方法（第10次改訂）に準拠しています",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（詳しい計算方法については、内閣府経済社会総合研究所のホームページ「統計の作成方法」http://www.esri.cao.go.jp/jp/stat/di/di3.html#2 を参照してください",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3 ＤＩ(ディフュージョン・インデックス)計算方法と見方",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(3) 累積ＤＩの計算方法",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "季節調整法には、アメリカ・センサス局で開発されたX11やX12-ARIMA、前年同月比をとるなどの方法がある",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "経済構造や景気変動パターンの変化に対応して、景気動向指数の採用系列や計算方法を見直すこと",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "おおよそ内閣府の景気動向指数作成方法に準拠しながら、採用系列は独自に選択している",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "注文方法におけるリスク管理術：OCO注文 注文方法について",
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "注文方法におけるリスク管理術：逆指値注文 注文方法について",
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ダイワ365FXの口座開設のパソコン操作方法",
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「お知らせBOX」登録通知のお申込み方法について",
-    "url": "https://www.daiwa.jp/glossary/YST0468.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "成方法の詳細については、",
-    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Methodology & Technical Notes",
-    "url": "https://www.conference-board.org/topics/us-leading-indicators/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Identifies what methodologies exist to identify economic turning points in real time and what indicators leading international statistical and economic institutions publish. This is an economic review article.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Turning point methodologies",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "What is striking from the results of this survey is that the rapid expansion of data sources and improvement in forecasting methodology has not made predicting turning points in real time much easier. A stylised fact in the business cycle literature is that it is more difficult to predict peaks than troughs of business cycles. In a study of 10 US economic analysts between 1948 and 1961,",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The European Commission developed climate indicators that similarly extract a trend from a variety of component indicators. Mixed-frequency models provide an analytical framework to forecast GDP, inflation and employment, but quantitative studies have found that simpler models based on averaging higher-frequency data sometimes gave as good results.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "One of the most challenging features of predicting turning points is how to deal with data revisions. As most",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Notes for: Turning point methodologies",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "If such composite indicators were to be revived by the ONS, it would have to make use of the latest methodological advances and therefore would probably be different from the one published previously.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Recessions were computed with the Bry–Boschan (1971) methodology.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The methodology is based on Markov switching dynamic model and is explained in",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Other methodologies identified in this review are factor analysis and regime-switching models. As there is a lot of uncertainty in the measurements in real time, probabilistic inference should play a central role. New methodologies related to big data and machine learning are expected to contribute to the development of more timely and accurate turning point indicators.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "does not refute the method. Rather, such a failure merely impairs and, if re­",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "10. Diebold and Rudebusch 1990b follow a method analogous to that described in the text",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "13. These are rough estimates, based on simple methods applicable to large volumes of data at",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "11.2.3 Index Construction Methods and Revisions",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "There are six basic steps in the calculation of a composite index in the",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tained in step 1 are divided by their long-run average without regard to sign.",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "more detailed narrative and algebraic explanation of the methodology, see U.S. Department of",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Revised in 1989 to improve the methodology and date consistency (H-B).",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tained in step 2 are averaged. 16 (4) The resulting changes are then adjusted for",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "1969, methods of combining series in terms of deviations from trend or rates",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "mon than business cycles. These methods share the several basic elements of",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the early 1970s). A useful comparison of these methods is provided in Bos­",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "widely, along with other methods and information. In predicting the course of",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "about policy and other external changes. The GNP accounting framework and",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "single method; combinations prevail heavily. Many of the surveyed forecasters",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "一次情報の探し方": [
    {
-    "quote": "1．統計の目的",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "CIとDIは共通の指標を採用しており、採用系列数は、先行指数11、一致指数10、遅行指数9の30系列である",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（2017年1月分以降、「規模別製造工業生産指数」（中小企業庁）公表休止のため、一致指数において「中小企業出荷指数（製造業）」を採用系列から除外）",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列は概ねひとつの山もしくは谷が経過するごとに見直しを行っており、現行系列は、第16循環の景気の山の暫定設定時（2020年7月）に選定され、2021年１月分から採用された",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "毎月の統計表には、足下の基調の変化をつかみやすい3か月後方移動平均と、足下の基調の変化が定着しつつあることを確認する7か月後方移動平均をあわせて掲載している",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "DIは採用系列のうち改善している指標の割合のことで、景気の各経済部門への波及の度合いを表す",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "DIは景気の各経済部門への波及の度合いを表す指標であり、各採用系列が大幅に拡張しようと、小幅に拡張しようと、拡張系列数の割合が同じならば同じDIが計測される",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "CIは景気の強弱を定量的に計測する指標であり、DIが同じ数値で計測されたとしても、各採用系列が大幅に拡張していればCIも大幅に上昇し、各採用系列が小幅に拡張しているならばCIも小幅に上昇する",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このように、CIの変化幅そのものからは各経済部門への波及度合いの相違を把握することが難しいため、CIの変化幅に対する各採用系列の寄与度やDIをあわせて利用するのが望ましい",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3．統計の作成方法",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "1.採用系列を選択する",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(2)統計の継続性・信頼性",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(6)統計の速報性",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2.各採用系列の前月と比べた変量を算出する",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "各採用系列について、対称変化率（注1）を求める",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "毎月の統計表には、足下の基調の変化をつかみやすい3か月後方移動平均と、足下の基調の変化が定着しつつあることを確認する7か月後方移動平均をあわせて掲載しています",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "DIは採用系列のうち改善している指標の割合のことで、景気の各経済部門への波及の度合いを表します",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列の各月の値を、不規則変動の影響を緩和させるため、3か月前の値と比較して、増加を＋、減少を-、変化がない保合い（もちあい）の時には0とします",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その上で、先行、一致、遅行の系列ごとに、採用系列数に占める拡張系列数（＋の数）の割合（％）をDIとします",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "DI＝拡張系列数／採用系列数×100(％)",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "DIは景気の各経済部門への波及の度合いを表す指標ですので、各採用系列が大幅に拡張しても、小幅に拡張しても、拡張系列の割合が同じならば同じDIが計測されます",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "CIは景気の強弱を定量的に計測する指標ですので、DIが同じ数値で計測されたとしても、各採用系列が大幅に拡張していればCIは大幅に上昇し、各採用系列が小幅に拡張しているならばCIは小幅に上昇します",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このように、CIの変化幅そのものからは経済部門の相違を把握することが難しいため、CIの変化幅に対する各採用系列の寄与度やDIをあわせて利用します",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（1）採用系列の入替え",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "複数の指標の動きを統合した指標である景気動向指数は、その採用系列が現在の景気の動きを十分反映しているかどうか必要に応じて点検を行い、入替えを行っています",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "神奈川県では、2021年3月に採用系列の入替えを実施しました",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "一致指数は、県生産財出荷指数を除外し、県業況判断DI（全産業）を新たに採用、遅行指数は、県内銀行貸出約定平均金利を除外することとしました",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その後、2013年3月に実施した採用系列の入替えにより神奈川CIのパフォーマンスが向上したことから、2013年3月にKDIから神奈川CI中心の公表形態へ移行するとともに、CI先行指数及びCI遅行指数の公表を開始しました",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計調査等によって集計された値には、毎年繰り返される規則的な増減（季節変動）が含まれることが多く、景気変動を把握するため、公表される統計の値から季節変動を除去することを季節調整といい、その方法として、米センサス局法X-12-ARIMAや前年同月比を用いています",
-    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "景気動向指数のCIとDIには、それぞれ共通の指標が採用されています",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列数は先行指数11、一致指数10、遅行指数9の計30系列で、詳細は以下のとおりです",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "速報とは、景気動向指数の採用系列のうち、速報性が高いものを用いて算出したものです",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "改訂とは、各採用系列の確報値や速報段階では公表されなかった採用系列を用いて再計算したものになります",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "内閣府経済社会総合研究所景気統計部が、平成20年6月9日(平成20年4月分速報)の公表より、ＣＩを中心とした公表形態に移行したことに伴い、本県も従来の公表形態の見直しを行いました",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ＤＩとは景気の波及・浸透度合いや、景気の局面の判定を把握するための指数であり、採用系列の中で、上昇(拡張)を示している系列の割合を計算することにより求められます",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ＣＩとは、景気変動の勢いや大きさといった、景気の強弱を定量的に計測するための指数であり、各採用系列の変化率を合成して作成されます",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "各採用系列の前月と比較した変化率について、各採用系列のトレンドと振幅を考慮しながら、いくつかの操作を行い、その後、先行・一致・遅行指数ごとに１つの値に合成・指数化してＣＩは作成されます",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（詳しい計算方法については、内閣府経済社会総合研究所のホームページ「統計の作成方法」http://www.esri.cao.go.jp/jp/stat/di/di3.html#2 を参照してください",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列の各月の値を3か月前の値と比較して、増加したときには＋を、保合いのときには0を、減少したときには－をつけて、変化方向表を作成します",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その上で、先行指数・一致指数・遅行指数ごとに、採用系列数に占める拡張系列数(＋の数)の割合(％)を計算した指数がＤＩです",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ＤＩ ＝(拡張系列数＋保合い系列数×0.5)／採用系列数×100(％)",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "※ ヒストリカルＤＩとは、個々の採用系列ごとに山と谷を設定し、山から谷にいたる期間はすべて下降(マイナス)、谷から山にいたる期間はすべて上昇(プラス)としてＤＩを作成したものです",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本統計表から抜粋または新たに資料を作成して利用する場合は、「福島県企画調整部統計課編 福島県景気動向指数から抜粋(または作成)」と御記入願います",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本統計表についてのお問い合わせは下記へお願いします",
-    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/15926.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列の前月と比べた変化の大きさを合成して作成した指数",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列には、多くの経済指標の中でも景気に敏感に反応する系列が選ばれる",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "各採用系列の対称変化率を合成したものが、CIの変化率の基礎となる",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "標準偏差と似た統計量で、同偏差よりも、「外れ値」の影響を受けにくい",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列はそれぞれ変化の振幅が異なり、対称変化率をそのままでは比較・合成できないため、基準化している",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計に表れた異常値のことであり、不規則変動などが要因の一つ",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列の各月の値を3ヶ月前と比べた変化方向を合成して作成した指数",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "景気動向指数の速報は、採用系列のうち速報性が高い系列を用いて算出したもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "景気動向指数の改訂は、各採用系列の確報値や、速報段階では公表されなかった採用系列を用いて、再計算したもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列が四半期データである場合、月次のCIを計算するため、四半期に該当している3か月のそれぞれの変化量を等しいものとして、線形補間する",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "採用系列が、景気の動きに対し反対の方向に動くこと",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "個々の採用系列に山と谷を設定し(これを特殊循環日付という)、谷から山にいたる期間はすべて上昇(プラス)、山から谷にいたる期間はすべて下降(マイナス)として、DIを算出したもの",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "全米経済研究所(NBER)で開発された分析手法で、個々の採用系列に山と谷を設定する",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "経済構造や景気変動パターンの変化に対応して、景気動向指数の採用系列や計算方法を見直すこと",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "おおよそ内閣府の景気動向指数作成方法に準拠しながら、採用系列は独自に選択している",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "景気動向指数は、多くの経済指標の中から景気に敏感な指標を選定し、採用系列の変化方向を合成することにより、景気の局面（上昇局面、下降局面）を把握することを目的に作成しています",
-    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "DIは、景気の拡張が経済活動のより多くの分野に浸透していったことを示す指標であり、景気拡張が加速していることを示すものではないことに注意が必要である",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5．利用上の注意",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本コラム執筆時点における情報に基づいて作成しておりますので、最新情報との乖離にご注意ください",
-    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "※分りやすい説明を目的としたものであり、正確な定義ではありませんので、利用する際にはご注意ください",
-    "url": "https://www.esri.cao.go.jp/jp/stat/di/yogo.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（注意）景気の山谷を判定するにはブライボッシャン法によるヒストリカルDIの算定を行います",
-    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Figure 2: Forecasters have bias in predicting declines in US GDP",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "time forecaster. In sum, tests of this type could be severely biased against",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tional or unbiased (cf. Keane and Runkle 1990). However, the errors in the",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias, GSB = 2(p - f)2, where p and f are means of Pt and rt , respectively.",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "are well-calibrated or unbiased (i.e., have GSB ~ 0 for all horizons). The",
-    "url": "https://www.nber.org/system/files/chapters/c10382/c10382.pdf",
+    "quote": "experts, and reputable primary sources. You can learn more about our efforts to",
+    "url": "https://adviceonly.com/glossary/leading-economic-indicators",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-08T09:06:51.749606+00:00"
 }

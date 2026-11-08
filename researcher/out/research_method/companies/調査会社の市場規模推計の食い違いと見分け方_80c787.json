@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T08:38:09.256166+00:00",
+ "researched_at": "2026-11-08T16:25:21.853819+00:00",
  "evidence": {
   "実例": [
    {
@@ -657,314 +657,6 @@
    },
    {
     "quote": "Meta-analytical estimates for the proportion of studies that contain various types of non-outcome discrepancies",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "企業が見落としがちな“データの落とし穴”と解決策",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In much the same way that some meals are great while others are inedible, some data files are great and some are unusable. The quality of a data file is perhaps the biggest cause of problems experienced by people when learning how to analyze surveys, as a common mistake is to put insufficient effort into obtaining ‘good’ data which results in the analysis being much harder than it needs to be.",
-    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "questions. This is generally caused by the data collection software exporting the data incorrectly (unfortunately, most data collection programs make this mistake). Some programs, such as Q and Displayr, attempt to automatically correct this problem by looking for patterns in the data (e.g., if there are 10 variables, each of which has the same prefix of",
-    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The data needs to be weighted or otherwise any analyses will be misleading (as they will be biased by the misrepresentation of gender).",
-    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PSM分析とは？具体的な方法やメリット・注意点などを紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "定点調査とは？基本からメリット・デメリットや活用事例、注意点をご紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "セグメンテーションとは？重要なポイントや失敗事例を紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "BtoCでは、利用者が個人でも支出主体が世帯である商品に注意が必要です",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Identifying Bias in Market Research Reports",
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "? Identifying Bias in Market Research Reports",
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation involves comparing multiple data sources or methods to validate findings, helping to identify consistent patterns and reduce bias.",
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Engaging stakeholders can provide diverse perspectives and insights, helping to contextualize the data and identify potential biases or gaps in the research.",
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これは、数字を誤りと断ずるものではない",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "では、総説の予測は誤りだったのか",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注記がないことと、誤りであることは、別の話である",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ある人気ブランドのラベルには、発酵のために微量のアルコールを含むことがあり、その量は0.5%未満、という注意書きがあった",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もう一つ、注意がある",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年をまたぐ比較には、もう一つ落とし穴がある",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意したいのは、数えた範囲である",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方で、CBDそのものの売上を知りたい場合には数字が過大に見える点に注意が必要だ",
-    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "重要なのは、ひとつの数字を「市場規模の真実」として鵜呑みにしないことだ",
-    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この手法で最も注意すべきは、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もう一つの落とし穴は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ブランドリフトとは？質問テンプレートやメリット、注意点について解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インタビューフローの作り方｜基礎からグループ/デプスインタビューの注意点まで解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ホームユーステスト（HUT）とは？メリットとデメリット、注意点を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定量調査の事例紹介！企業が抱える課題や調査結果、失敗例とその留意点とは？",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オンラインインタビューに向いている調査とは？注意点やメリットなど紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学術調査におけるアンケート調査の注意点5選｜マーケティングリサーチとの違いや回答負担軽減など解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In 2000, ClinicalTrials.gov and the ISRCTN Registry were launched with several aims, including aiding participant recruitment, facilitating knowledge synthesis and reducing duplication, publication bias and selective reporting.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We coded 10 types of outcome discrepancies and 10 types of non-outcome discrepancies. The degree to which the information in a registration is discrepant with the information in a publication can range widely. The associated concern about risk of bias can also range widely and often requires domain expertise to assess. We present two examples verbatim from the study by Calméjane",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Whereas we did not perform a formal risk of bias assessment—because our review differed substantially from the purpose these tools were built for—we shed light on a few potential sources of bias with additional analyses that consider the funding source, statistical significance and the timing of registration of included",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Dwan K, Gamble C, Williamson PR, et al. Systematic review of the empirical evidence of study publication bias and outcome reporting bias an updated review. PLOS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Howard B, Scott JT, Blubaugh M, et al. Systematic review: outcome reporting bias is a problem in high impact factor neurology journals. PLoS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Huić M, Marušić M, Marušić A. Completeness and changes in registered data and reporting bias of randomized controlled trials in ICMJE journals after trial registration policy. PLoS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Nankervis H, Baibergenova A, Williams HC, et al. Prospective registration and outcome-reporting bias in randomized controlled trials of Eczema treatments: a systematic review. J Invest Dermatol",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Chan A-W, Krleza-Jerić K, Schmid I, et al. Outcome reporting bias in randomized trials funded by the Canadian institutes of health research. CMAJ",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Su C-X, Han M, Ren J, et al. Empirical evidence for outcome reporting bias in randomized clinical trials of Acupuncture: comparison of registered records and subsequent publications. TRIALS",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Krsticevic M, Saric D, Saric F, et al. Selective reporting bias due to discrepancies between registered and published outcomes in osteoarthritis trials. J Comp Eff Res",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Rising K, Bacchetti P, Bero L. Reporting bias in drug trials submitted to the food and drug administration: review of publication and presentation. PLoS Med",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Wayant C, Scheckel C, Hicks C, et al. Evidence of selective reporting bias in hematology journals: a systematic review. PLOS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Wiebe J, Detten G, Scheckel C, et al. The heart of the matter: outcome reporting bias and registration status in Cardio-Thoracic surgery. Int J Cardiol",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Won J, Kim S, Bae I, et al. Trial registration as a safeguard against outcome reporting bias and spin? A case study of randomized controlled trials of Acupuncture. PLoS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Vera-Badillo FE, Shapiro R, Ocana A, et al. Bias in reporting of end points of efficacy and toxicity in randomized, clinical trials for women with breast cancer. Ann Oncol",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1771,6 +1463,314 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "企業が見落としがちな“データの落とし穴”と解決策",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In much the same way that some meals are great while others are inedible, some data files are great and some are unusable. The quality of a data file is perhaps the biggest cause of problems experienced by people when learning how to analyze surveys, as a common mistake is to put insufficient effort into obtaining ‘good’ data which results in the analysis being much harder than it needs to be.",
+    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "questions. This is generally caused by the data collection software exporting the data incorrectly (unfortunately, most data collection programs make this mistake). Some programs, such as Q and Displayr, attempt to automatically correct this problem by looking for patterns in the data (e.g., if there are 10 variables, each of which has the same prefix of",
+    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The data needs to be weighted or otherwise any analyses will be misleading (as they will be biased by the misrepresentation of gender).",
+    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PSM分析とは？具体的な方法やメリット・注意点などを紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定点調査とは？基本からメリット・デメリットや活用事例、注意点をご紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "セグメンテーションとは？重要なポイントや失敗事例を紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "BtoCでは、利用者が個人でも支出主体が世帯である商品に注意が必要です",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Identifying Bias in Market Research Reports",
+    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "? Identifying Bias in Market Research Reports",
+    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation involves comparing multiple data sources or methods to validate findings, helping to identify consistent patterns and reduce bias.",
+    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Engaging stakeholders can provide diverse perspectives and insights, helping to contextualize the data and identify potential biases or gaps in the research.",
+    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは、数字を誤りと断ずるものではない",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "では、総説の予測は誤りだったのか",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注記がないことと、誤りであることは、別の話である",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ある人気ブランドのラベルには、発酵のために微量のアルコールを含むことがあり、その量は0.5%未満、という注意書きがあった",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もう一つ、注意がある",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年をまたぐ比較には、もう一つ落とし穴がある",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意したいのは、数えた範囲である",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方で、CBDそのものの売上を知りたい場合には数字が過大に見える点に注意が必要だ",
+    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重要なのは、ひとつの数字を「市場規模の真実」として鵜呑みにしないことだ",
+    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この手法で最も注意すべきは、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もう一つの落とし穴は、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ブランドリフトとは？質問テンプレートやメリット、注意点について解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビューフローの作り方｜基礎からグループ/デプスインタビューの注意点まで解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ホームユーステスト（HUT）とは？メリットとデメリット、注意点を解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定量調査の事例紹介！企業が抱える課題や調査結果、失敗例とその留意点とは？",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オンラインインタビューに向いている調査とは？注意点やメリットなど紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学術調査におけるアンケート調査の注意点5選｜マーケティングリサーチとの違いや回答負担軽減など解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In 2000, ClinicalTrials.gov and the ISRCTN Registry were launched with several aims, including aiding participant recruitment, facilitating knowledge synthesis and reducing duplication, publication bias and selective reporting.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We coded 10 types of outcome discrepancies and 10 types of non-outcome discrepancies. The degree to which the information in a registration is discrepant with the information in a publication can range widely. The associated concern about risk of bias can also range widely and often requires domain expertise to assess. We present two examples verbatim from the study by Calméjane",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Whereas we did not perform a formal risk of bias assessment—because our review differed substantially from the purpose these tools were built for—we shed light on a few potential sources of bias with additional analyses that consider the funding source, statistical significance and the timing of registration of included",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Dwan K, Gamble C, Williamson PR, et al. Systematic review of the empirical evidence of study publication bias and outcome reporting bias an updated review. PLOS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Howard B, Scott JT, Blubaugh M, et al. Systematic review: outcome reporting bias is a problem in high impact factor neurology journals. PLoS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Huić M, Marušić M, Marušić A. Completeness and changes in registered data and reporting bias of randomized controlled trials in ICMJE journals after trial registration policy. PLoS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Nankervis H, Baibergenova A, Williams HC, et al. Prospective registration and outcome-reporting bias in randomized controlled trials of Eczema treatments: a systematic review. J Invest Dermatol",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Chan A-W, Krleza-Jerić K, Schmid I, et al. Outcome reporting bias in randomized trials funded by the Canadian institutes of health research. CMAJ",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Su C-X, Han M, Ren J, et al. Empirical evidence for outcome reporting bias in randomized clinical trials of Acupuncture: comparison of registered records and subsequent publications. TRIALS",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Krsticevic M, Saric D, Saric F, et al. Selective reporting bias due to discrepancies between registered and published outcomes in osteoarthritis trials. J Comp Eff Res",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rising K, Bacchetti P, Bero L. Reporting bias in drug trials submitted to the food and drug administration: review of publication and presentation. PLoS Med",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Wayant C, Scheckel C, Hicks C, et al. Evidence of selective reporting bias in hematology journals: a systematic review. PLOS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Wiebe J, Detten G, Scheckel C, et al. The heart of the matter: outcome reporting bias and registration status in Cardio-Thoracic surgery. Int J Cardiol",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Won J, Kim S, Bae I, et al. Trial registration as a safeguard against outcome reporting bias and spin? A case study of randomized controlled trials of Acupuncture. PLoS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Vera-Badillo FE, Shapiro R, Ocana A, et al. Bias in reporting of end points of efficacy and toxicity in randomized, clinical trials for women with breast cancer. Ann Oncol",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -1797,22 +1797,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_datamimi/n/ndb66cfb9d566",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/oh1ta/n/nbe59fdb76e4f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=f32d807b39db27897bb0d9955fd5a2d8",
+    "url": "https://note.com/ai_datamimi/n/ndb66cfb9d566",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.dm-insight.jp/column/market-size/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e1c76795cafab51204722ee563f5098c",
     "status": "ok",
     "method": "http"
    },
@@ -1847,11 +1847,6 @@
     "method": "http"
    },
    {
-    "url": "https://crex-consulting.com/column/research/major-market-research-firms-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://timewell.jp/columns/market-sizing-tam-sam-som",
     "status": "ok",
     "method": "http"
@@ -1859,11 +1854,21 @@
    {
     "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.kentleyinsights.com/how-to-evaluate-market-research-reports-2026/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fastercapital.com/content/Discrepancy-in-data--Bridging-the-Gap-in-Reporting-Accuracy.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0165176524006360",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -1872,19 +1877,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.trackingplan.com/blog/what-is-data-discrepancy-a-guide-for-analysts-en",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/advice/0/youre-facing-data-discrepancies-your-market-research-azhkf",
+    "url": "https://www.linkedin.com/advice/3/your-primary-research-contradicts-industry-reports-csucf",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://www.sellersprite.com/en/help/data-differences-of-market-research",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -1896,12 +1891,12 @@
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "https://note.com/shijochosa_labo/n/n7648b1cfab60",
     "https://note.com/shijochosa_labo/n/n8cac054490c1",
-    "https://note.com/ai_datamimi/n/ndb66cfb9d566",
     "https://note.com/oh1ta/n/nbe59fdb76e4f",
+    "https://note.com/ai_datamimi/n/ndb66cfb9d566",
     "https://note.com/ote_walk/n/n84135dbb9b34"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -1911,8 +1906,8 @@
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "https://note.com/jpreportocean/n/n9ad285aab3dc",
     "https://insight.rakuten.co.jp/knowledge/column/column034/",
-    "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://www.dm-insight.jp/column/market-size/",
+    "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
     "https://www.crex-data.com/column/market-research-company-comparison"
    ],
@@ -1945,35 +1940,29 @@
     "https://insight.rakuten.co.jp/knowledge/column/column034/",
     "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
     "https://www.crex-data.com/column/market-research-company-comparison",
-    "https://www.rjc.co.jp/column/262",
-    "https://crex-consulting.com/column/research/major-market-research-firms-guide/",
-    "https://timewell.jp/columns/market-sizing-tam-sam-som"
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://www.rjc.co.jp/column/262"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "market research report estimates discrepancy how to evaluate",
    "results": [
     "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
     "https://www.kentleyinsights.com/how-to-evaluate-market-research-reports-2026/",
-    "https://tier2systems.com/en/blog/data-discrepancy-reports-guide/",
-    "https://www.trackingplan.com/blog/resolve-analytics-discrepancies-marketing-data-en",
-    "https://www.linkedin.com/advice/0/youre-facing-data-discrepancies-your-market-research-azhkf",
-    "https://www.sellersprite.com/en/help/data-differences-of-market-research",
-    "https://www.sciencedirect.com/science/article/pii/S0165176524006360",
     "https://fastercapital.com/content/Discrepancy-in-data--Bridging-the-Gap-in-Reporting-Accuracy.html",
+    "https://www.sciencedirect.com/science/article/pii/S0165176524006360",
+    "https://tier2systems.com/en/blog/data-discrepancy-reports-guide/",
     "https://www.linkedin.com/advice/3/your-primary-research-contradicts-industry-reports-csucf",
     "https://research-rebels.com/blogs/rebelsblog/facing-the-unexpected-dealing-with-data-that-contradicts-your-hypothesis"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:bing"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "site:note.com 調査会社の市場規模推計の食い違いと見分け方",
@@ -1987,7 +1976,7 @@
     "https://note.com/ote_walk/n/n84135dbb9b34"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -2000,7 +1989,25 @@
     "https://x.com/research98492/status/2091056461296336943",
     "https://x.com/jitasoku_ai/status/2114711043599659486",
     "https://x.com/kate_sekkei/status/2110687130943156228",
-    "https://x.com/kate_sekkei/status/2112861464360882368"
+    "https://x.com/kate_sekkei/status/2112861464360882368",
+    "https://x.com/kogagami17/status/2097303941839196530"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 調査会社の市場規模推計の食い違いと見分け方",
+   "results": [
+    "https://www.linkedin.com/news/story/食い違いの解消にはまず傾聴-5538530/",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "https://jp.linkedin.com/posts/祐太-惠良-恵良祐太331b_市場規模の数字を作るたびに推計の但し書きが増えていませんか-調査会社のレポート-activity-7522492645907193856-B69A",
+    "https://jp.linkedin.com/posts/woo-seop-shin-0b23251a0_新規事業におけるtamsamsom推定audit-modeが不可欠な理由-activity-7373892778302488576-N3ug",
+    "https://www.linkedin.com/posts/taito-sugishima-b0b8652b_imd-世界デジタル競争力ランキング2022-発表に合わせて日本のデジタル競争力-activity-6985778512313933824-KpyS",
+    "https://uk.linkedin.com/in/hallymk1",
+    "https://de.linkedin.com/in/beatrix-becker"
    ],
    "engines": [
     "ddgs:google"
@@ -2008,24 +2015,18 @@
    "n_hits": 7
   },
   {
-   "query": "site:linkedin.com 調査会社の市場規模推計の食い違いと見分け方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
    "query": "site:facebook.com 調査会社の市場規模推計の食い違いと見分け方",
    "results": [
-    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー惣菜中食米飯市場に関する調査を実施2026年2025年度の日配惣菜米飯市場は前年度比1026の10兆5218億円加工惣菜米飯市場は前年度比1/1592051452936948/",
+    "https://www.facebook.com/office.mikata/posts/働き方改革のしわ寄せは管理職へ現場の管理職と人事の間で起こっている課題の食い違いhttpsofficenomikatajpnews10793/1298177150362569/",
     "https://www.facebook.com/KankyoJpn.gov/posts/環境省は環境産業の市場規模雇用規模等の推計結果をまとめた環境産業の市場規模雇用規模等に関する報告書を毎年公表していますこの度令和７年度報告書2024年調査結果を/1348211457402361/",
     "https://www.facebook.com/adic.corporation/posts/食違い仕口ずれの計測器最新版katohゲージ-ミニを販売開始しました使いやすい手頃なサイズです/886861173134791/",
-    "https://www.facebook.com/euromonitor.japan/posts/市場調査会社ユーロモニターの推計では来年は米国だけでモバイル電子商取引市場の規模が４００億ドルに達するという/673114026033716/",
-    "https://www.facebook.com/tokushimashimbun/posts/那賀町地籍調査に不備-完了の一部実は未測量-町と業者の言い分が食い違いhttpswwwtopicsorjparticles-490115-那賀町が201314年/3707870479308705/",
+    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー靴履物市場に関する調査を実施2026年2024年度の国内靴履物小売市場規模は前年度比1008の1兆2367億円と推計スポーツスニーカー需要の/1301459578662805/",
+    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー惣菜中食米飯市場に関する調査を実施2026年2025年度の日配惣菜米飯市場は前年度比1026の10兆5218億円加工惣菜米飯市場は前年度比1/1592051452936948/",
     "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリーインターネット広告市場に関する調査を実施2025年2024年度の国内インターネット広告市場規模は3兆5834億円2029年度には5兆6768/1301249212017175/",
-    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー靴履物市場に関する調査を実施2026年2024年度の国内靴履物小売市場規模は前年度比1008の1兆2367億円と推計スポーツスニーカー需要の/1301459578662805/"
+    "https://www.facebook.com/euromonitor.japan/posts/市場調査会社ユーロモニターの推計では来年は米国だけでモバイル電子商取引市場の規模が４００億ドルに達するという/673114026033716/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -2038,12 +2039,12 @@
     "https://www.dm-insight.jp/column/market-size/",
     "https://insight.rakuten.co.jp/knowledge/column/column034/",
     "https://www.rjc.co.jp/column/262",
-    "https://timewell.jp/columns/market-sizing-tam-sam-som",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/"
+    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 8
   },
@@ -2051,12 +2052,12 @@
    "query": "調査会社の市場規模推計の食い違いと見分け方 X 投稿",
    "results": [
     "https://www.crex-data.com/column/market-research-company-comparison",
-    "https://www.dm-insight.jp/column/market-size/",
     "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
-    "https://insight.rakuten.co.jp/knowledge/column/column034/",
+    "https://www.dm-insight.jp/column/market-size/",
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "https://insight.rakuten.co.jp/knowledge/column/column034/",
     "https://crexgroup.com/ja/data/column/research-bpo/market-size-research-companies-comparison/",
-    "https://next-sfa.jp/journal/market-research/market-research-comparison/"
+    "https://crex-consulting.com/column/research/market-research-firms-japan-ranking/"
    ],
    "engines": [
     "ddgs:bing"
@@ -2066,22 +2067,22 @@
   {
    "query": "market research report estimates discrepancy how to evaluate site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/3/your-primary-research-contradicts-industry-reports-csucf",
     "https://www.linkedin.com/advice/0/how-do-you-address-discrepancies-between-qualitative-dy73e",
-    "https://ca.linkedin.com/in/tricia-g-6a12b2126",
+    "https://www.linkedin.com/advice/3/your-primary-research-contradicts-industry-reports-csucf",
     "https://business.linkedin.com/content/dam/lem/business/en/advertise/resources/b2b-institute/b2b-research/LIN_B2B-Marketing-Report-Digital-v02.pdf",
-    "https://kg.linkedin.com/in/shairbek",
+    "https://in.linkedin.com/in/abhinav-yadav-b5725017",
     "https://uk.linkedin.com/in/gioedid",
+    "https://br.linkedin.com/in/tamiressduarte/en",
     "https://in.linkedin.com/in/arijeet-kumar"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 21,
+ "runs": 22,
  "first_researched_at": "2026-11-05T00:49:22.795751+00:00"
 }
