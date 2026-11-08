@@ -8,8 +8,64 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-08T13:39:24.389274+00:00",
+ "researched_at": "2026-11-08T21:33:56.810236+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "Training a Technographic Inference Engine from Job Postings and Public Filings",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A rigorous approach to transforming noisy job postings and public filings into a high-precision technographic inference engine, designed to give enterprise sales teams a decisive competitive advantage.",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Off-the-shelf technographic data is a commodity, often stale and inaccurate. We train a custom classification engine by constructing a labeled dataset from millions of job postings and SEC filings, using a",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Fine-tune a DeBERTa-v3-large encoder on a curated dataset of job postings and filings, each tagged with a multi-hot vector from your technology taxonomy. This approach excels at capturing context-dependent technology mentions (e.g., 'deployed on AWS' vs. 'migrating from AWS') and provides well-calibrated confidence scores via sigmoid outputs. Training leverages PyTorch and Hugging Face",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", using a combination of few-shot prompting for rapid category expansion and supervised training on a human-labeled corpus of job postings and 10-K filings. The core challenge is not just extraction, but",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Comparative delivery options for training a custom technographic inference engine from job postings and public filings, scoped by data strategy, model complexity, deployment boundary, and business integration depth.",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deploying a technographic inference engine trained on job postings and SEC filings demands an MLOps pipeline that tightly couples batch inference with active evaluation. We deploy the fine-tuned classification model—typically a",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDF, DOC, or DOCX",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.",
@@ -85,62 +141,6 @@
    },
    {
     "quote": "Add at least one quantified soft‑skill example.",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Training a Technographic Inference Engine from Job Postings and Public Filings",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A rigorous approach to transforming noisy job postings and public filings into a high-precision technographic inference engine, designed to give enterprise sales teams a decisive competitive advantage.",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Off-the-shelf technographic data is a commodity, often stale and inaccurate. We train a custom classification engine by constructing a labeled dataset from millions of job postings and SEC filings, using a",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fine-tune a DeBERTa-v3-large encoder on a curated dataset of job postings and filings, each tagged with a multi-hot vector from your technology taxonomy. This approach excels at capturing context-dependent technology mentions (e.g., 'deployed on AWS' vs. 'migrating from AWS') and provides well-calibrated confidence scores via sigmoid outputs. Training leverages PyTorch and Hugging Face",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", using a combination of few-shot prompting for rapid category expansion and supervised training on a human-labeled corpus of job postings and 10-K filings. The core challenge is not just extraction, but",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Comparative delivery options for training a custom technographic inference engine from job postings and public filings, scoped by data strategy, model complexity, deployment boundary, and business integration depth.",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deploying a technographic inference engine trained on job postings and SEC filings demands an MLOps pipeline that tightly couples batch inference with active evaluation. We deploy the fine-tuned classification model—typically a",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDF, DOC, or DOCX",
     "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -300,17 +300,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/robinson_0822/n/n57139c8a158f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/yutaro_ishii/n/n657611c8a7c4",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/lucky_zebra337/n/na8522c36ffae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/robinson_0822/n/n57139c8a158f",
     "status": "ok",
     "method": "http"
    },
@@ -330,7 +330,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.jp/n/na66380adc503?gs=ed7c891ba2719f00e17c6f086b84b02b",
+    "url": "https://note.jp/n/na66380adc503?gs=5b1b55a2ea10b229f96fb4277ea84619",
     "status": "ok",
     "method": "http"
    },
@@ -370,8 +370,8 @@
     "method": "http"
    },
    {
-    "url": "https://kizuna-group.jp/nestlab/topic-recruit-jobsearch.html",
-    "status": "network_error:ConnectTimeout",
+    "url": "https://n-works.link/blog/marketing/report-questionnaire-16",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -425,12 +425,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/company/infer-solutions",
+    "url": "https://www.linkedin.com/posts/bonnie-dilber_20-of-job-postings-are-fake-at-least-according-activity-7285015169435385857-2nEv",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.linkedin.com/posts/bonnie-dilber_20-of-job-postings-are-fake-at-least-according-activity-7285015169435385857-2nEv",
+    "url": "https://www.linkedin.com/posts/meganlieu_psa-companies-are-posting-jobs-they-never-activity-7396196693823877121-cMAP",
     "status": "robots_disallowed",
     "method": ""
    }
@@ -443,19 +443,21 @@
     "https://note.com/lucky_daphne262/n/n0aedd82619a8",
     "https://note.com/ready_prawn3804/n/n5ee232f6341e",
     "https://note.com/sota_career/n/n93ea578f39e8",
-    "https://note.com/robinson_0822/n/n57139c8a158f",
     "https://note.com/yutaro_ishii/n/n657611c8a7c4",
     "https://note.com/lucky_zebra337/n/na8522c36ffae",
-    "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "https://note.com/robinson_0822/n/n57139c8a158f",
     "https://note.com/35masataka/n/na7c4ce36e2b1",
+    "https://note.com/fond_phlox8789/n/nb7e02d008b33",
     "https://note.com/try_note_1026/n/n87f70ef36581",
-    "https://note.com/jinzaikakuho/n/n9d76f814cbbe"
+    "https://note.com/jolly_lynx2984/n/ndabde89cbd8d"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 39
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 note",
@@ -485,8 +487,8 @@
     "https://jinjibu.jp/news/detl/24336/",
     "https://baigie.me/recruit-blog/2024/10/09/midcareer-survey-2024/",
     "https://jp.indeed.com/career-advice/finding-a-job/the-complete-guide-to-researching-a-company",
-    "https://kizuna-group.jp/nestlab/topic-recruit-jobsearch.html",
     "https://n-works.link/blog/marketing/report-questionnaire-16",
+    "https://kizuna-group.jp/nestlab/topic-recruit-jobsearch.html",
     "https://prtimes.jp/main/html/rd/p/000000280.000140336.html",
     "https://nalevi.mynavi.jp/seeker-trends/21704/",
     "https://job.rikunabi.com/contents/company/21862/"
@@ -508,11 +510,11 @@
     "https://local-saiyo.jp/blog/recruitment-site/design/p5229/",
     "https://goworkship.com/magazine/hr-recruitment-site-examples-guide/",
     "https://one-group.jp/humanresource/use/recruit_message.html",
-    "https://www.tracom.co.jp/tralog/job-idea/",
+    "https://mizusaki-inc.com/knowledge/article103",
     "https://shinsotu.com/就活で企業のホームページを徹底分析！見るべき/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -524,10 +526,10 @@
     "https://www.infersol.com/career-at-infer-solutions/",
     "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
     "https://www.ycombinator.com/companies/infer/jobs",
-    "https://www.linkedin.com/company/infer-solutions",
     "https://www.linkedin.com/posts/bonnie-dilber_20-of-job-postings-are-fake-at-least-according-activity-7285015169435385857-2nEv",
-    "https://hiringcafe.com/",
     "https://www.linkedin.com/posts/meganlieu_psa-companies-are-posting-jobs-they-never-activity-7396196693823877121-cMAP",
+    "https://builtin.com/",
+    "https://www.facebook.com/Indeed/videos/did-you-know-almost-35-million-employers-use-indeed-thats-a-lot-of-job-listings-/1006084177848676/",
     "https://vurzel.com/tools/jd-analyzer",
     "https://www.wrk.com/blog/automate-extraction-company-info-job-postings"
    ],
@@ -552,10 +554,10 @@
     "https://note.com/chusho_yosuke/n/n3a7962a1e9b8"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:x.com 求人情報・採用ページから会社の実態を読む方法",
@@ -572,10 +574,9 @@
     "https://x.com/dossun_jack"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "site:linkedin.com 求人情報・採用ページから会社の実態を読む方法",
@@ -588,14 +589,14 @@
     "https://jp.linkedin.com/company/oneper-inc",
     "https://jp.linkedin.com/company/shljapan",
     "https://jp.linkedin.com/in/mkuroda/ja",
-    "https://jp.linkedin.com/company/purosi",
-    "https://jp.linkedin.com/in/yusuke-ninomiya-964a85185"
+    "https://jp.linkedin.com/in/yusuke-ninomiya-964a85185",
+    "https://jp.linkedin.com/in/masaya-nagamine"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:facebook.com 求人情報・採用ページから会社の実態を読む方法",
@@ -613,9 +614,10 @@
    ],
    "engines": [
     "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 30
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 note 社長",
@@ -629,21 +631,21 @@
     "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
     "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
     "https://biz.note.com/n/ne042982856d1",
-    "https://note.com/trex_ai/n/na01d10327073"
+    "https://hatarakutte-sugoi.com/2025/05/15/post-5237/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 X 投稿",
    "results": [
     "https://nanairoinc.co.jp/column/x-recruitment-activities/",
-    "https://www.wantedly.com/hiringeek/recruit/twitter/",
-    "https://whom-hr.co.jp/uncategorized/recruitment-sns/",
     "https://sharefull.com/content/business/20188/",
+    "https://whom-hr.co.jp/uncategorized/recruitment-sns/",
+    "https://www.wantedly.com/hiringeek/recruit/twitter/",
     "https://ats.atcompany.jp/recruiting/2589/",
     "https://seisyunkouken.com/threads-recruitment-effects/",
     "https://hypex.jp/articles/twitter-saiyo",
@@ -666,16 +668,16 @@
     "https://www.linkedin.com/company/infer-inc-",
     "https://www.linkedin.com/pulse/how-get-job-alerts-from-any-companys-careers-page-before-everyone-z1lcc",
     "https://www.linkedin.com/posts/jordanmazer_most-jobs-arent-posted-on-linkedin-heres-activity-7381330182722408448-FfLp",
-    "https://www.linkedin.com/top-content/career/job-search-strategies/how-to-find-tech-jobs-on-linkedin/",
     "https://www.linkedin.com/posts/jordancarver_most-people-filter-linkedin-jobs-to-past-activity-7457430699713929216-pKmv",
     "https://www.linkedin.com/top-content/recruitment-hr/job-posting-optimization/",
-    "https://www.linkedin.com/posts/debashish-ghatak_ai-inference-engineer-is-the-hottest-title-activity-7519939792273534976-LHtW"
+    "https://www.linkedin.com/posts/debashish-ghatak_ai-inference-engineer-is-the-hottest-title-activity-7519939792273534976-LHtW",
+    "https://www.linkedin.com/top-content/career/job-search-strategies/how-to-find-tech-jobs-on-linkedin/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   }
  ],
  "missing": {
@@ -683,6 +685,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 22,
+ "runs": 23,
  "first_researched_at": "2026-11-05T04:38:24.140781+00:00"
 }

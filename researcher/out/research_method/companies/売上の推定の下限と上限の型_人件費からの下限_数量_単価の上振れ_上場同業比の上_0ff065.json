@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T13:40:44.920899+00:00",
+ "researched_at": "2026-11-08T21:38:37.248483+00:00",
  "evidence": {
   "実例": [
    {
@@ -97,6 +97,98 @@
    },
    {
     "quote": "強気・基準・弱気など複数の前提の組み合わせで結果を比較検討する分析手法",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "権利行使可能なタイミングにより分類される、いつでも行使可能なアメリカン型、満期のみのヨーロピアン型、複数指定日のバミューダン型",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アモチゼーティング・スワップ（元本減少型スワップ）",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "想定元本がローンの返済スケジュールに合わせて逓減していく金利スワップで、アモチ型ローンの金利ヘッジに用いられる",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アーンアウトの測定指標を売上かEBITDAか選び、算定方法や独立会計士による紛争解決条項をあらかじめ設計する実務",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "寄付・引け等で注文を集めて一斉に約定させる板寄せ方式と、取引時間中に逐次約定させるザラ場方式の2つの売買値段決定方法",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "過去案件の知見を基に、機能別の統合タスク・意思決定事項・スケジュールを標準化した実行手順書",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "With-and-Without Method／WWM",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "始点から終点までの増減要因を積み上げ形式で可視化するブリッジ型の棒グラフ",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Percent-of-Sales Method",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "エキゾチックオプション（バリア・デジタル型）",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "標準的なプレーンバニラオプションに対し、特定価格到達で発生・消滅するバリア型、離散的な支払を行うデジタル型等の派生商品",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excelで作る手作りモデルと、クラウド型の経営管理・予算管理専用ソフトを比較し、それぞれの向き不向きを整理する論点",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "#REF!は参照切れ、#VALUE!は型不一致、#DIV/0!はゼロ除算など、原因ごとに対処法が異なる",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "10年前後で償還する伝統的クローズドエンド型と異なり、存続期間を定めず運用を継続するファンド形態",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数十秒で自分の強み・志望動機を簡潔に伝える自己紹介の型",
     "url": "https://otemachiprep.com/glossary/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -377,160 +469,38 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "権利行使可能なタイミングにより分類される、いつでも行使可能なアメリカン型、満期のみのヨーロピアン型、複数指定日のバミューダン型",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アモチゼーティング・スワップ（元本減少型スワップ）",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "想定元本がローンの返済スケジュールに合わせて逓減していく金利スワップで、アモチ型ローンの金利ヘッジに用いられる",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アーンアウトの測定指標を売上かEBITDAか選び、算定方法や独立会計士による紛争解決条項をあらかじめ設計する実務",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "寄付・引け等で注文を集めて一斉に約定させる板寄せ方式と、取引時間中に逐次約定させるザラ場方式の2つの売買値段決定方法",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "過去案件の知見を基に、機能別の統合タスク・意思決定事項・スケジュールを標準化した実行手順書",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "With-and-Without Method／WWM",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "始点から終点までの増減要因を積み上げ形式で可視化するブリッジ型の棒グラフ",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Percent-of-Sales Method",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "エキゾチックオプション（バリア・デジタル型）",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "標準的なプレーンバニラオプションに対し、特定価格到達で発生・消滅するバリア型、離散的な支払を行うデジタル型等の派生商品",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Excelで作る手作りモデルと、クラウド型の経営管理・予算管理専用ソフトを比較し、それぞれの向き不向きを整理する論点",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "#REF!は参照切れ、#VALUE!は型不一致、#DIV/0!はゼロ除算など、原因ごとに対処法が異なる",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "10年前後で償還する伝統的クローズドエンド型と異なり、存続期間を定めず運用を継続するファンド形態",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "数十秒で自分の強み・志望動機を簡潔に伝える自己紹介の型",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "url": "https://note.com/hasegawa_shohey/n/nbdc76f751fa9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://otemachiprep.com/glossary/",
+    "url": "https://note.com/miraikyoso/n/n71f274a532d8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "status": "http_403",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2026/08/12/ja_107yuho.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.nhl.com/redwings/standings",
+    "url": "https://note.com/s_toyama/n/ne555ba0831ee",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.espn.com/nhl/team/_/name/det/detroit-red-wings",
+    "url": "https://note.com/koemusubi/n/n2f52db8e57d1",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.nhl.com/redwings/",
+    "url": "https://note.com/nb_biztech/n/n6d337e027299",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/numera_flow/n/ndeff15a4f335",
     "status": "ok",
     "method": "http"
    },
@@ -560,69 +530,49 @@
     "method": "http"
    },
    {
-    "url": "https://otemachiprep.com/fp-009-price-volume-mix/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jsri.or.jp/publish/market/pdf/market_33/33_all.pdf",
-    "status": "http_403",
-    "method": "pdf"
-   },
-   {
-    "url": "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.issoh.co.jp/column/details/17955/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://timewell.jp/columns/market-sizing-tam-sam-som",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "url": "https://otemachiprep.com/fp-009-price-volume-mix/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://24-proactive.com/blog/sales-target-setting/",
+    "url": "https://book.st-hakky.com/industry/sales-forecast-calculation-method",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.rippling.com/blog/payroll-as-a-percentage-of-revenue-by-industry",
+    "url": "https://www.jfc.go.jp/n/english/institute/survey.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.metrichq.org/finance/payroll-to-revenue-ratio/",
+    "url": "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.klipfolio.com/kpis/financial/payroll-to-revenue-ratio",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
-    "status": "http_403",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e05.pdf",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    }
   ]
  },
@@ -630,243 +580,198 @@
   {
    "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） site:note.com",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "https://otemachiprep.com/glossary/",
-    "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
-    "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2026/08/12/ja_107yuho.pdf",
-    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "https://en.m.wikipedia.org/wiki/Lamington"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 29
-  },
-  {
-   "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） note",
-   "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "https://otemachiprep.com/glossary/",
-    "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
-    "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2026/08/12/ja_107yuho.pdf",
-    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "https://www.nhl.com/redwings/standings"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 19
-  },
-  {
-   "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） やり方",
-   "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "https://otemachiprep.com/glossary/",
-    "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
-    "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2026/08/12/ja_107yuho.pdf",
-    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） 事例",
-   "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "https://otemachiprep.com/glossary/",
-    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
-    "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "https://www.jsri.or.jp/publish/market/pdf/market_33/33_all.pdf",
-    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
-    "https://www.issoh.co.jp/column/details/17955/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 19
-  },
-  {
-   "query": "private company revenue estimate lower bound payroll upper bound proxy Japan SME labor cost ratio",
-   "results": [
-    "https://www.rippling.com/blog/payroll-as-a-percentage-of-revenue-by-industry",
-    "https://www.metrichq.org/finance/payroll-to-revenue-ratio/",
-    "https://www.klipfolio.com/kpis/financial/payroll-to-revenue-ratio",
-    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
-    "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
-    "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e05.pdf",
-    "https://www.galaxyapac.com/managing-payroll-in-japan/",
-    "https://www.esri.cao.go.jp/jp/esri/content/e_dis389.pdf",
-    "https://easychair.org/publications/paper/d7kB/open",
-    "https://www.private.com/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 19
-  },
-  {
-   "query": "site:note.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
-   "results": [
-    "https://note.com/kokonoe_cluture/n/nd43e2bfaa2b7",
-    "https://note.com/ib_pe_hf/n/nb25b94945c37",
-    "https://note.com/ib_pe_hf/n/nda4809c79b91",
-    "https://note.com/ib_pe_hf/n/n91f16945e33e",
-    "https://note.com/amane_bombaye/n/n2495afd69a74",
-    "https://note.com/marukiyo/n/n14d5084cb896",
-    "https://answers.microsoft.com/en-us/msoffice/forum/all/hello-my-onedrive-app-suddenly-wont-open-mac/b8614817-05ae-4129-8d15-7f2cd71658d6",
-    "https://answers.microsoft.com/en-us/windows/forum/all/task-manager-and-command-prompt-as-administrator/c75bc8c7-0303-41bb-bd9d-97b31164efa5",
-    "https://www.answers.microsoft.com/zh-hans/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¹Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾windows/8eb998f5-ed69-4658-a8b1-263570e1650c",
-    "https://answers.microsoft.com/?dg=microsoft.public.office.developer.com.add_ins&tid=a2b03383-8be8-40b8-98b2-192a3192f888&cat=en_US_fd2c131b-df16-48e2-99f7-c5bc7172f2d7&lang=en&cr=US"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "site:x.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
-   "results": [
-    "https://apnews.com/article/israel-elections-75934bfce1f2f2e43e1823de3761b12d",
-    "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-    "https://www.theweek.in/news/middle-east/2026/11/01/why-gadi-eisenkots-bid-to-form-a-new-israeli-government-faces-severe-deadlock.html",
-    "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
-    "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
-    "https://www.telegraph.co.uk/world-news/2026/11/07/eisenkot-asked-form-government-israel/",
-    "https://www.smh.com.au/world/middle-east/israeli-president-asks-netanyahu-rival-s-gadi-eisenkot-to-try-to-form-government-20261108-p61cbe.html",
-    "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
-    "https://www.middleeastmonitor.com/20261106-israeli-opposition-leader-eisenkot-reports-progress-in-talks-to-form-emergency-government/",
-    "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "site:linkedin.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
-   "results": [
-    "https://mail.yahoo.com/;_ylt=A2RRIs5QfPBq4CEG5LdXNyoA;_ylu=Y29sbwN1cy1lYXN0LTEEcG9zAzEEdnRpZAMEc2VjA3Ny",
-    "https://www.reddit.com/r/privacy/comments/x9zbno/yahoo_mail_alternatives/",
-    "https://www.answers.com/telecommunications/How_can_you_find_out_the_correct_URL_of_Yahoo_Mail",
-    "https://www.reddit.com/r/thehatedone/comments/gpacf8/is_yahoo_mail_okay_for_privacy/",
-    "https://www.reddit.com/r/techsupport/comments/1d9cmta/how_to_stop_yahoo_login_from_redirecting_to_att/",
-    "https://www.reddit.com/r/GMail/comments/1ch746m/yahoo_blocking/",
-    "https://www.reddit.com/r/declutter/comments/190tfu8/i_deleted_nine_years_of_emails/",
-    "https://www.answers.com/computers/Where_is_the_address_list_in_Yahoo_Mail",
-    "https://www.reddit.com/r/yahoo/comments/15lto55/yahoo_locked_me_out_of_my_account_for_no_reason/",
-    "https://www.reddit.com/r/Thunderbird/comments/v4ydu0/10000_email_limit_via_imap_in_yahoo_email/"
-   ],
-   "engines": [
-    "ddgs:yahoo"
-   ],
-   "n_hits": 10
-  },
-  {
-   "query": "site:facebook.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
-   "results": [
-    "https://www.facebook.com/georgia.nicols/",
-    "https://chicago.suntimes.com/authors/georgia-nicols",
-    "https://georgianicols.com/about.html",
-    "https://georgianicols.com/",
-    "https://georgianicols.com/weekly/",
-    "https://chicago.suntimes.com/horoscopes",
-    "https://nationalpost.com/author/georgianicolsnp/",
-    "https://www.youtube.com/GeorgiaNicols/videos",
-    "https://www.ctinsider.com/author/georgia-nicols/",
-    "https://www.denverpost.com/author/georgia-nicols/"
+    "https://note.com/hasegawa_shohey/n/nbdc76f751fa9",
+    "https://note.com/miraikyoso/n/n71f274a532d8",
+    "https://note.com/s_toyama/n/ne555ba0831ee",
+    "https://note.com/koemusubi/n/n2f52db8e57d1",
+    "https://note.com/nb_biztech/n/n6d337e027299",
+    "https://note.com/numera_flow/n/ndeff15a4f335",
+    "https://note.com/alpha_career_jp/n/n9fd031099fd6"
    ],
    "engines": [
     "ddgs:bing"
    ],
-   "n_hits": 10
+   "n_hits": 7
+  },
+  {
+   "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） note",
+   "results": [
+    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures",
+    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://bulkup.co.jp/bp/business-plan-sales-forecast-3-scenarios/",
+    "https://renue.co.jp/posts/net-income-labor-cost-ratio-management-guide",
+    "https://www.rosei.jp/readers/article/84370",
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://otemachiprep.com/fp-009-price-volume-mix/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） やり方",
+   "results": [
+    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures",
+    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://bulkup.co.jp/bp/business-plan-sales-forecast-3-scenarios/",
+    "https://renue.co.jp/posts/net-income-labor-cost-ratio-management-guide",
+    "https://www.rosei.jp/readers/article/84370",
+    "https://otemachiprep.com/fp-009-price-volume-mix/",
+    "https://book.st-hakky.com/industry/sales-forecast-calculation-method"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） 事例",
+   "results": [
+    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures",
+    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://bulkup.co.jp/bp/business-plan-sales-forecast-3-scenarios/",
+    "https://renue.co.jp/posts/net-income-labor-cost-ratio-management-guide",
+    "https://www.rosei.jp/readers/article/84370",
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://otemachiprep.com/fp-009-price-volume-mix/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "private company revenue estimate lower bound payroll upper bound proxy Japan SME labor cost ratio",
+   "results": [
+    "https://www.jfc.go.jp/n/english/institute/survey.html",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html",
+    "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "https://www.meti.go.jp/english/press/2026/0424_003.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
+   "results": [
+    "https://note.com/jinjiman2/n/ndabfab2fc5ee",
+    "https://note.com/koemusubi/n/n2f52db8e57d1",
+    "https://note.com/miraikyoso/n/n71f274a532d8",
+    "https://note.com/hasegawa_shohey/n/nbdc76f751fa9",
+    "https://note.com/s_toyama/n/ne555ba0831ee",
+    "https://note.com/problem_solution/n/n522912a9780d",
+    "https://note.com/nb_biztech/n/n6d337e027299"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
+   "results": [
+    "https://x.com/AShinotada/status/2031694123720225218",
+    "https://x.com/orangewhite1991/status/1595702601387233280",
+    "https://x.com/alpstax/status/2110330095785406503",
+    "https://x.com/i/status/2058898368320192744",
+    "https://x.com/nocodetaiga/status/2101808746137829865",
+    "https://x.com/blogucci/status/2053830763351781785",
+    "https://x.com/su_kigyoshindan/status/2108201134888546664"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
+   "results": [
+    "https://jp.linkedin.com/posts/雄也-山田-75870b286_規模拡大と利益率のジレンマをどう超えるか-年商1億円から10億円へと成長していく-activity-7501056598275133440-lZgn",
+    "https://www.linkedin.com/posts/青山恒夫経営管理会計の伝道師_モンテカルロシミュレーション-activity-6973802435827961856-vUKR",
+    "https://jp.linkedin.com/posts/幸治-古谷-476521133_プロジェクト型ビジネスのための予算作成の極意年度予算の仕組みと作り方事業別部署別-activity-7522972665729441794-tNx5",
+    "https://www.linkedin.com/posts/真二-山内-b5288844_計数計画の策定5計数計画の作成手順とは-事業再生シリーズno76-計数計画-activity-7245556425823846401--AnG",
+    "https://jp.linkedin.com/posts/弦-田中-6261_人的資本roiの複数事業での指標化を再考する-1かそうでないかから始まる-activity-7475137316345503744-v7xH",
+    "https://jp.linkedin.com/pulse/スーパーマーケットの人件費予算のつくりかた-光博-山口-juoyc",
+    "https://jp.linkedin.com/posts/takahiro-sawada-99a598261_利益率を伸ばしながら売上を伸ばす方法-利益率を最大化するために不可欠な変動費と固定費-activity-7394158251002691584-Aupi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
+   "results": [
+    "https://www.facebook.com/shogo.takeya.0711/videos/月商原価人件費家賃ここから逆算すると席数客単価営業時間必要なスタッフの人数は自動で決まります食を通じて社会課題の解決をという想いで実務に即したノウハウや再現性あ/941958405558898/",
+    "https://www.facebook.com/hidetaka.imai.3/videos/売上目標いくらにしようかなここを感覚で決めてる人けっこう多いと思います僕がまず出してほしいのは頑張る売上目標よりも月にいくら売れば赤字にならないかです計算は固定/1083602687946037/",
+    "https://www.facebook.com/promanagercoach/videos/人件費で損する店の特徴3選店長ほど見落とすシフトの落とし穴人件費が高いからシフト減らさなあかんそう考えてる店長ちょっと待ってやその削り方人件費だけやなくてお客さ/1036988835382709/",
+    "https://www.facebook.com/keigo.nakajima/videos/売上が伸びているのになぜかお金が足りないそんな経験はありませんか実は会社が成長すると広告費人件費仕入れなどの支払いが先に増えるため増加運転資金が必要になります利/2298874314182108/",
+    "https://www.facebook.com/reel/1008566541125718/",
+    "https://www.facebook.com/kajimaya.asako/posts/物価高売上減少人件費増と重なる金利上昇リスクに注意-資金繰りに不安が募るも借入金利上昇に4割が無対策大同生命サーベイ-2026年6月度レポート当社は中小企業の景/1542340647905268/",
+    "https://www.facebook.com/freee.co.jp/videos/今手元にいくら現金があるか即答できますか/1764788208151652/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） note 社長",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "https://otemachiprep.com/glossary/",
-    "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
-    "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2026/08/12/ja_107yuho.pdf",
-    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "https://www.foxnews.com/"
+    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures",
+    "https://bulkup.co.jp/bp/business-plan-sales-forecast-3-scenarios/",
+    "https://renue.co.jp/posts/net-income-labor-cost-ratio-management-guide",
+    "https://www.rosei.jp/readers/article/84370",
+    "https://otemachiprep.com/fp-009-price-volume-mix/",
+    "https://note.com/miraikyoso/n/n71f274a532d8"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 19
+   "n_hits": 7
   },
   {
    "query": "売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査） X 投稿",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "https://otemachiprep.com/glossary/",
-    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
-    "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "https://www.jsri.or.jp/publish/market/pdf/market_33/33_all.pdf",
-    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf"
+    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures",
+    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://bulkup.co.jp/bp/business-plan-sales-forecast-3-scenarios/",
+    "https://renue.co.jp/posts/net-income-labor-cost-ratio-management-guide",
+    "https://www.rosei.jp/readers/article/84370",
+    "https://otemachiprep.com/fp-009-price-volume-mix/",
+    "https://book.st-hakky.com/industry/sales-forecast-calculation-method"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "private company revenue estimate lower bound payroll upper bound proxy Japan SME labor cost ratio site:linkedin.com",
    "results": [
-    "https://uk.linkedin.com/company/boundrates",
-    "https://www.linkedin.com/company/ifclinkedin",
-    "https://www.linkedin.com/company/dun-&-bradstreet",
-    "https://www.linkedin.com/in/scottwellscfa",
-    "https://uk.linkedin.com/company/standardchartered",
-    "https://www.linkedin.com/in/gregory-mark-hill-46bb165",
-    "https://www.linkedin.com/in/thefpandaguy",
-    "https://www.linkedin.com/company/eu-japan-centre-for-industrial-cooperation/",
-    "https://www.linkedin.com/company/citi",
-    "https://in.linkedin.com/in/devlikesbizness"
+    "https://www.linkedin.com/posts/ryo1989_the-shift-in-sme-productivity-from-back-office-activity-7442573780780216320-l-wg",
+    "https://www.linkedin.com/pulse/driving-profit-margins-labor-costs-per-revenue-dollar-ratios-ntlqc",
+    "https://pulse.linkedin.com/",
+    "https://pe.linkedin.com/pulse/business-valuation-methods-private-small-midsized-sme-joshua-himan--vkjrf",
+    "https://www.linkedin.com/pulse/japan-faces-looming-crisis-quiet-collapse-its-small-businesses-sok-1xotc",
+    "https://www.linkedin.com/top-content/business-strategy/understanding-cost-analysis/analyzing-employee-compensation-and-labor-costs/",
+    "https://www.linkedin.com/pulse/payroll-benchmarking-how-does-your-qgegc"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 20
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T12:08:48.004615+00:00"
 }

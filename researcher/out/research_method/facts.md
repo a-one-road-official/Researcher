@@ -10593,11 +10593,11 @@
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
-- 手順・やり方：記載なし（読んだ6頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
-- 実例：記載なし（読んだ6頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
@@ -10618,43 +10618,46 @@
 ## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
 - 文脈：method
 - 手順・やり方：
-  - 「一般社団法人の公告方法｜官報・日刊新聞紙・電子公告・掲示の選び方と定款・登記 | じぶんでできる公益法人」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「一般社団法人の公告方法｜官報・日刊新聞紙・電子公告・掲示の選び方と定款・登記」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「一般社団法人を設立・運営するにあたり、避けて通れないのが「公告方法」の決定です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「一般社団法人及び一般財団法人に関する法律（以下、一般法人法）では、すべての一般社団法人に対して決算公告を義務付けており、どの方法で公告を行うかを定款で定める必要があります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「公告方法の選択は、設立時に定款で一度決めれば済むように見えて、費用の多寡と決算公告の開示範囲、事務所の掲示環境が絡み合う、判断の難しい論点です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「一般法人法が定める4つの公告方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「一般社団法人が採用できる公告方法は、一般法人法第331条第1項において次の4つが規定されています」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「電子公告を選ぶ場合に限り、事故その他やむを得ない事由によって電子公告ができないときの方法として、官報または日刊新聞紙を定めることができます（同条第2項）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「1. 官報に掲載する方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「国の機関紙である「官報」に公告を掲載する方法です（一般法人法第331条第1項第1号）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「国が発行する媒体に掲載され、掲載後の記録を確認しやすい方法です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「2. 日刊新聞紙に掲載する方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「時事に関する事項を掲載する日刊新聞紙（全国紙や地方紙など）に掲載する方法です（一般法人法第331条第1項第2号）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「法人のウェブサイト（ホームページ）や、専用の電子公告掲載サービス上に公告用のデータをアップロードし、インターネットを通じて閲覧できるようにする方法です（一般法人法第331条第1項第3号）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「4. 主たる事務所の公衆の見やすい場所に掲示する方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「電子公告の公告期間の4類型」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「電子公告とは、会社法上、電磁的方法により不特定多数の者が公告すべき内容の情報の提供を受けることができる状態に置く措置であって、インターネットに接続された自動公衆送信装置を使用するものをいいます」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「電子公告を採用するかどうかは、公告方法を定める会社法939条の問題です」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「電子公告を公告方法として採用するかは939条、電子公告調査を受ける必要があるかは941条以下を合わせて確認します」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「会社法940条1項は、電子公告の公告期間を4類型に分けています」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「前3類型に当たらない公告の原則的な受け皿です」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「この類型では、「公告開始日から何日」ではなく、条文上予定されている特定の日が終期になります」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「法務省も、決算公告については電子公告調査を受ける必要がない一方、電子公告を公告方法とする会社等が決算公告をする場合には要旨の公告ではなく全文公告が必要になると案内しています」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「典型的には、債権者保護手続で、債権者が一定期間内に異議を述べることができる旨を公告する場面が問題になります」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「追加公告の文面、掲載時刻、掲載方法、調査機関への連絡を確認します」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「官報・日刊新聞紙・電子公告のどれを公告方法とするか、定款・登記をどう整えるか」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「公告が940条1項のどの類型に該当するか整理しているか」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「中断時の連絡先、対応責任者、追加公告文面の作成手順を決めているか」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「会社法940条1項は、特定の日まで継続する公告、決算公告、異議申述期間付き公告、その他の公告の4類型に分けています」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「電子公告を公告方法とするための定款・登記は939条、電子公告調査の要否や調査機関の制度は941条以下、決算公告や債権者保護公告の具体的な内容は個別手続条文を確認する必要があります」（https://corporate-a-lawoffice.com/companiesact940/）
 - 突き合わせ・推定：
+  - 「特に、効力発生日が決まっている手続では、公告開始日、公告終了日、異議申述期間、登記申請予定日を逆算して管理します」（https://corporate-a-lawoffice.com/companiesact940/）
   - 「合併や解散の手続きに入る前に、総勘定元帳、買掛金・未払金の補助簿、借入金一覧、契約台帳、係争案件などを照合し、債権者名、住所、債権の内容および金額を一覧にしておく必要があります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
 - 一次情報の探し方：
-  - 「一般社団法人の公告方法｜官報・日刊新聞紙・電子公告・掲示の選び方と定款・登記 | じぶんでできる公益法人」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「一般社団法人の公告方法｜官報・日刊新聞紙・電子公告・掲示の選び方と定款・登記」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「公告とは、法人の決算状況や合併・解散といった重要事項を、会員（社員）や取引先、債権者などの不特定多数に向けて広く知らせる手続きを指します」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「一般社団法人及び一般財団法人に関する法律（以下、一般法人法）では、すべての一般社団法人に対して決算公告を義務付けており、どの方法で公告を行うかを定款で定める必要があります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「公告方法の選択は、設立時に定款で一度決めれば済むように見えて、費用の多寡と決算公告の開示範囲、事務所の掲示環境が絡み合う、判断の難しい論点です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「一般社団法人が採用できる公告方法は、一般法人法第331条第1項において次の4つが規定されています」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「電子公告を選ぶ場合に限り、事故その他やむを得ない事由によって電子公告ができないときの方法として、官報または日刊新聞紙を定めることができます（同条第2項）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「1. 官報に掲載する方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「国の機関紙である「官報」に公告を掲載する方法です（一般法人法第331条第1項第1号）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「決算公告を行う場合、貸借対照表（大規模一般社団法人では貸借対照表および損益計算書）の「要旨」のみを掲載すれば足ります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「2026年7月時点の枠付公告の料金は、普通1枠が税込40,882円、一般社団法人の決算公告で示されている2枠の掲載例が税込81,765円です（」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「東京都・官報サービスセンター「官報の掲載料金」」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「申込み前に官報サービスセンターまたは官報公告等取次店へ原稿を示し、枠数と料金の見積りを確認するのが確実です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「官報と同様に決算公告は「要旨」の掲載で足りますが、掲載料は新聞社、掲載する版、原稿サイズによって異なります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
-  - 「地方紙の地域版では、原稿が小さく収まれば官報より安くなる場合もあります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「電子公告は、官報や新聞公告と異なり、1回掲載して終わりではありません」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「決算公告は、定時株主総会の終結の日後5年を経過する日まで継続掲載する必要があります」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「電子公告を採用するかどうかは、公告方法を定める会社法939条の問題です」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「電子公告を公告方法として採用するかは939条、電子公告調査を受ける必要があるかは941条以下を合わせて確認します」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「会社法が「一定期間前までに公告」としている公告、決算公告、異議申述期間を定める公告、その他の公告で、それぞれ終期が異なります」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「外国会社の日本における登記や公告は、国内会社と同じように扱えない部分があります」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「外国会社の登記前取引禁止や公告・代表者退任は、」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「【会社法818条・819条・820条】外国会社の登記前取引禁止・公告・代表者退任｜条文の要点と実務ポイント」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「会社法440条1項の決算公告」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「公告期間を誤ると、公告の効力や登記申請、手続スケジュールに影響するおそれがあります」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「特に、効力発生日が決まっている手続では、公告開始日、公告終了日、異議申述期間、登記申請予定日を逆算して管理します」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「決算公告は5年間継続する」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「決算公告を電子公告で行う場合、電子公告調査機関の調査を受ける必要はありません」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「法務省も、決算公告については電子公告調査を受ける必要がない一方、電子公告を公告方法とする会社等が決算公告をする場合には要旨の公告ではなく全文公告が必要になると案内しています」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「決算公告は調査不要という点だけに注目すると、5年間掲載の管理を見落としがちです」（https://corporate-a-lawoffice.com/companiesact940/）
 - 失敗・落とし穴：
   - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「しかし、5年間の継続掲載が求められるため、ウェブサイトの更新、ドメイン変更、CMS移行、過年度公告ページの削除などに注意が必要です」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「外国会社の登記とは｜日本進出（継続取引）に必要な手続と注意点」（https://corporate-a-lawoffice.com/companiesact940/）
   - 「掲載の中断防止と財務情報の開示範囲に注意する」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
@@ -10665,10 +10668,11 @@
   - 「実際にこの制度を利用している企業の担当者からは「サーバーのメンテナンスや移転の際にURLが変わらないよう注意が必要」「年度ごとにページが増えていくので整理が大変」といった声が聞かれます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「注意点は「全文掲載」「5年間継続」「URL登記（3万円）」の3つ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「中小企業基盤整備機構 J-Net21「ホームページで決算公告を行いたいのですが、注意点があったら教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
-  - 「官報公告を利用する際の注意点は、後述する電子公告に比べて費用がかかることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「新聞公告を利用する際の注意点は、他の公告方法に比べて費用が高額になることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
 - 実例：
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「電子公告調査が必要か、調査機関に何を依頼するか、調査結果をどう使うか」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「また、電子公告調査機関の調査結果通知は、商業・法人登記の申請書に「公告をしたことを証する書面」として添付できるとされています」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「サーバログ、監視ログ、スクリーンショット、調査結果通知を保存しているか」（https://corporate-a-lawoffice.com/companiesact940/）
   - 「例えば、北海道新聞の法定広告料金は、2026年7月時点で1段×1cm当たり、全道版が税別43,000円、札幌本社版が税別29,100円、函館版が税別9,800円です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
   - 「例えば、自宅マンションの一室を事務所にしている場合、オートロックの外側に掲示できるか、管理規約や管理者の承諾を確認しなければなりません」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
   - 「例えば、借入先の金融機関、代金をまだ支払っていない仕入先や業務委託先、未払賃金がある従業員などが該当します」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
@@ -12712,11 +12716,11 @@
 
 ## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る）（data journalism spreadsheet checks verification handbook OSINT best practices）
 - 文脈：突き合わせ
@@ -12727,9 +12731,9 @@
   - 「Journalists, human rights workers and others are constantly making use of open data, user-generated content and other open source information to produce critically important investigations of everything from conflict zones to human rights abuse cases and international corruption.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「It’s all thanks to open source information and user-generated content. As chapters and case studies in this Handbook detail, this same material is being used by investigative journalists in Africa and by groups such as Amnesty International and WITNESS to expose fraud, document war crimes and to help the wrongly accused defend themselves in court.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「This companion to the original Verification Handbook offers detailed guidance and illustrative case studies to help journalists, human rights workers and others verify and use open source information and user-generated content in service of investigative projects.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
 
 ## AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）（how to identify AI-generated research reports and handle sources without corrections policy）
 - 文脈：突き合わせ
@@ -13512,6 +13516,10 @@
   - 「and covariance estimates used in analysis must account for the complex survey design, if」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 - 一次情報の探し方：
   - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.pdf.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.census.gov/indicator/qss/qsstechdoc.pdf.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.whitehouse.gov/omb/assets/omb/inforeg/pmc_survey_guidance_2006.pdf」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
 - 失敗・落とし穴：
   - 「Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「collection, data review), or of the potential level of nonresponse bias (Peytcheva and」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
@@ -13524,6 +13532,10 @@
   - 「Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Conducting Nonresponse Bias Analysis for Business」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「bias analysis when response rates fail to m eet target values. The literature focuses」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「largely on nonresponse bias analysis methods for demographic surveys. Such surveys」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「designs with highly skewed populations. This paper examines nonresponse bias analysis」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
 - 実例：
   - 「perspective for monitoring them. We illustrate this approach with examples from ongoing」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「that is unusual and in many cases unexpected. Moreover, control charts are useful because」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）

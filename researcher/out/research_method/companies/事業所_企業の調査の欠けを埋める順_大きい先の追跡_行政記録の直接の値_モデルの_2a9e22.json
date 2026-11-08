@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T13:37:55.305378+00:00",
+ "researched_at": "2026-11-08T21:35:40.073923+00:00",
  "evidence": {
   "実例": [
    {
@@ -100,172 +100,94 @@
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
+   },
    {
-    "quote": "key estimate reported by responding units or obtained from equivalent quality sources",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "method with examples from ongoing economic programs conducted by the U.S. Census",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "key estimates reported by responding units or obtained from equivalent quality sources",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "world of business surveys. Section 4 provides illustrative examples of the methods",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "presented in Section 3, with selected anal yses from three cases studies conducted at the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "53 percent of the total estimate (value). The remaining four units, which are selected with",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "collecting survey data. A tabulation unit is one used for estimation. For example,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "certainty, account for 47 percent of the total estimate.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "2 For example, consider the grocery store industry, where the majority of business is conducted by",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "payroll, capital expenditures) to account for the unit’s relative importance in the estimates",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "nonrespondents that do not improve the URR. For example, a program might require",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all key",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "Because business data tend to be highly skewed, sampled cases with large design weights",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "expected to contribute substantially to the estimate, followed by intensive analyst research",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "such small cases in computation, URRs are computed without using design weights.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": ". Ry is the weighted estimate obtained by summing reported data for item y in the",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "The TQRR for a given item can be very different than the program’s URR. For example,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": ". Ay is the weighted estimate obtained by summing equivalent source data (auxiliary",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "accomplished by nonresponse follow-up of large cases expected to contribute",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": ". Y is the estimated (weighted) total of the item in the statistical period. It includes all",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "cases comprised of more phone calls (targeted questions) and searches for auxiliary data",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "data used to develop the publication estimate, including imputed data and",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "the case. Like household surveys, busin ess surveys often use one of the following",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "measures at that point in time of the proportion of the estimate that was not imputed. In this",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "for certainty or large noncertainty units. Fo r example, a monthly survey may restrict",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "ratio of correlated random variables and that the point estimates in the time series are not",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "follow-up exclusively to large cases, whereas an annual survey may perform most of its",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "and covariance estimates used in analysis must account for the complex survey design, if",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "collection, data review), or of the potential level of nonresponse bias (Peytcheva and",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Both numerator and denominator cases are weighted by “unbiased” weights, which",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "extracted from a larger cited nonresponse bias analysis study. Both studies were mandated",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "context of a nonresponse bias analysis study.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Many programs will also conduct nonresponse bias analyses, which at a minimum",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "gov/indicator/qss/qsstecdoc.pdf.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "quote": "follow-up on large cases, but may follow-up on smaller cases later in the processing",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -360,6 +282,468 @@
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Office of Statistical Methods and Research for Economic Programs",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "largely on nonresponse bias analysis methods for demographic surveys. Such surveys",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods for business surveys, including respon se rate analysis, the use of frame data,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "method with examples from ongoing economic programs conducted by the U.S. Census",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods of assessing nonresponse bias, focusing on methods particularly helpful in the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "views expressed on statistical, methodological, technical, or operational issues are those of the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "world of business surveys. Section 4 provides illustrative examples of the methods",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2.4 Methods of Handling Nonresponse",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods to account for nonresponse: follow-up, imputation, or weighting adjustments.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "key items, direct substitution is generally preferred to model imputation: this method is",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "commonly used imputation methods in the Ce nsus Bureau’s Economic Directorate are",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "All three adjustment methods make assumpti ons about the data’s response mechanism.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "assumptions that justify the nonresponse adjust ment method. Otherwise, these methods",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "can add bias, creating the need to reevaluate imputation and weighting methods.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3. Methods for Investigating Nonresponse Bias",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "key estimate reported by responding units or obtained from equivalent quality sources",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "key estimates reported by responding units or obtained from equivalent quality sources",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "53 percent of the total estimate (value). The remaining four units, which are selected with",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "certainty, account for 47 percent of the total estimate.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "payroll, capital expenditures) to account for the unit’s relative importance in the estimates",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all key",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "expected to contribute substantially to the estimate, followed by intensive analyst research",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Ry is the weighted estimate obtained by summing reported data for item y in the",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Ay is the weighted estimate obtained by summing equivalent source data (auxiliary",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Y is the estimated (weighted) total of the item in the statistical period. It includes all",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "data used to develop the publication estimate, including imputed data and",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "measures at that point in time of the proportion of the estimate that was not imputed. In this",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ratio of correlated random variables and that the point estimates in the time series are not",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and covariance estimates used in analysis must account for the complex survey design, if",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "missingness is the potential for nonresponse bias. Bias in survey estimates could lead to",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "30% of estimate",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "70% of estimate",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "importance in the estimates (Tucker et al., 2007). At the U.S. Census Bureau, economic",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "substantially to the estimate, followed by intensive analyst research for “large impute”",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "data to test the null hypothesis that ther e is no difference between estimates for",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "It might be useful to compare early and late respondents on key estimates. In essence this",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3.3.2 Compare Respondent Estimates to Estimates from Administrative Data",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Estimates of monthly sales and end-of-mont h inventories are then derived from the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Sampling units expected to have a large effect on the precision of the estimates are",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The QSS provides estimates of total and change in quarterly receipts (published about 75",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "days after the end of the reference quarter) and early estimates of calendar year receipts",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and ACE-2 samples are selected every year so that ACES estimates are based on",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the capital expenditures estimate in a given industry is usually obtained from the certainty",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "collection, data review), or of the potential level of nonresponse bias (Peytcheva and",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Both numerator and denominator cases are weighted by “unbiased” weights, which",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "extracted from a larger cited nonresponse bias analysis study. Both studies were mandated",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "context of a nonresponse bias analysis study.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Many programs will also conduct nonresponse bias analyses, which at a minimum",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Conducting Nonresponse Bias Analysis for Business",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias analysis when response rates fail to m eet target values. The literature focuses",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "largely on nonresponse bias analysis methods for demographic surveys. Such surveys",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "designs with highly skewed populations. This paper examines nonresponse bias analysis",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Key Words: nonresponse bias analysis, response rate, business survey, response model,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "missingness is the potential for nonresponse bias. Bias in survey estimates could lead to",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "not necessarily indicate nonresponse bias (Groves et al., 2008), they are often used as a",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "evaluate nonresponse bias when expected unit response rates are less than 80% (Graham,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "nonresponse bias. Much of the research in this area focuses on conducting nonresponse",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias studies for household surveys. We need additional tools for analyzing business",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias studies for business or establishment surveys. It is also meant to generate discussion",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods of assessing nonresponse bias, focusing on methods particularly helpful in the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "U.S. Census Bureau. The conclusion provid es nonresponse bias questions to consider for",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For evaluating a business program’s nonresponse bias potential, the above rate computed",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "these “important” units, any nonresponse causes nonr esponse bias. It is unlikely that this",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "gov/indicator/qss/qsstecdoc.pdf.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.pdf.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.census.gov/indicator/qss/qsstechdoc.pdf.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.whitehouse.gov/omb/assets/omb/inforeg/pmc_survey_guidance_2006.pdf",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
    }
   ]
  },
@@ -387,22 +771,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?Y0rGXKiypHNoxg%2B74Oaf%2F2fWeJz2PXC4DCvyoFLXGgNYq8PjP6e87LCoPIui%2BLbyEFJzn7BfXSSR%0D%0AsFUky%2Fq1HUgx5BHDH4Ogg7vOkp8csmA%3D",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mdb-biz.jmar.co.jp/column/34",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ideatech.jp/column/tact_95724/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
+    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?6k2kI%2Fe9tQLCDCNEcsyLOki7safmqf6wFShPbb9psllm5dzqnq1TY8udYdf8RbYf6NSNzqd2nn7L%0D%0AvqHBmspumBToPvG3LFPTJWBzcflKgU4%3D",
     "status": "ok",
     "method": "http"
    },
@@ -412,64 +781,59 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.mext.go.jp/content/000365818.pdf",
+    "url": "https://mdb-biz.jmar.co.jp/column/34",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ideatech.jp/column/tact_95724/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200551&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000551985.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/a/a5-9.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.microsoft.com/en-us",
+    "url": "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/jigyou/gaiyou/1.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://account.microsoft.com/account",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200551",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://myaccount.microsoft.com/",
+    "url": "https://www.soumu.go.jp/main_content/000875164.pdf",
     "status": "ok",
-    "method": "browser"
+    "method": "pdf"
    },
    {
-    "url": "https://myaccount.microsoft.com/%C2%A0-%3E",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/evaluation_wg/pdf/001_04_00.pdf",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.costco.com/w/-/locations",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.costco.com/w/-/az/prescott/466",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.costco.com/w/-/WA/tumwater/64",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.costco.com/w/-/fl/melbourne/1450",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.costco.com/w/-/az/mesa/1028",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.costco.com/w/-/pa/mechanicsburg/1719",
-    "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://academic.oup.com/jrsssa/article/185/Supplement_2/S310/7069524",
@@ -492,14 +856,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.aeaweb.org/conference/2022/preliminary/paper/H3e9AQh9",
+    "url": "https://harris.uchicago.edu/files/jsm2015_bgm_unit_non-response_in_cps.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://trcmarketresearch.com/whitepaper/non-response-bias-in-survey-sampling-complete/",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    }
   ]
  },
@@ -512,18 +876,17 @@
     "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
     "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://mdb-biz.jmar.co.jp/column/34",
-    "https://ideatech.jp/column/tact_95724/",
-    "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
     "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/202602_DX_report.pdf",
-    "https://en.wikipedia.org/wiki/Facebook"
+    "https://mdb-biz.jmar.co.jp/column/34",
+    "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
+    "https://ideatech.jp/column/tact_95724/",
+    "https://note.com/s_o_0517/n/n127e12eaff87"
    ],
    "engines": [
     "ddgs:google",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 29
+   "n_hits": 16
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） note",
@@ -533,15 +896,17 @@
     "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
     "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/202602_DX_report.pdf",
     "https://mdb-biz.jmar.co.jp/column/34",
-    "https://ideatech.jp/column/tact_95724/",
     "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
-    "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/202602_DX_report.pdf"
+    "https://ideatech.jp/column/tact_95724/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200551&result_page=1"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） やり方",
@@ -551,18 +916,17 @@
     "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
     "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://mdb-biz.jmar.co.jp/column/34",
     "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/202602_DX_report.pdf",
-    "https://www.mext.go.jp/content/000365818.pdf",
+    "https://mdb-biz.jmar.co.jp/column/34",
     "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
-    "https://en.wikipedia.org/wiki/Microsoft"
+    "https://ideatech.jp/column/tact_95724/",
+    "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 29
+   "n_hits": 16
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） 事例",
@@ -572,17 +936,17 @@
     "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
     "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://mdb-biz.jmar.co.jp/column/34",
-    "https://ideatech.jp/column/tact_95724/",
-    "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
     "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/202602_DX_report.pdf",
-    "https://www.costco.com/w/-/locations"
+    "https://mdb-biz.jmar.co.jp/column/34",
+    "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
+    "https://ideatech.jp/column/tact_95724/",
+    "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 16
   },
   {
    "query": "business survey nonresponse follow-up large units administrative data substitution early late respondents comparison",
@@ -591,101 +955,66 @@
     "https://aspe.hhs.gov/sites/default/files/private/pdf/255531/Decliningresponserates.pdf",
     "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "https://harris.uchicago.edu/files/jsm2015_bgm_unit_non-response_in_cps.pdf",
+    "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "https://www.nationalacademies.org/read/27150/chapter/10",
     "https://www.aeaweb.org/conference/2022/preliminary/paper/H3e9AQh9",
-    "https://trcmarketresearch.com/whitepaper/non-response-bias-in-survey-sampling-complete/",
-    "https://madoc.bib.uni-mannheim.de/67384/1/Dissertation_Publication.pdf",
     "https://www.greenbook.org/marketing-research/non-response-bias",
-    "https://ukdataservice.ac.uk/app/uploads/sakshaug2025-10-14.pdf",
-    "https://en.m.wikipedia.org/wiki/Business"
+    "https://www150.statcan.gc.ca/n1/pub/12-001-x/2022001/article/00006-eng.htm"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 15
   },
   {
    "query": "site:note.com 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）",
    "results": [
     "https://note.com/jack4manastalk/n/ne356da0a34cb",
-    "https://note.com/nekota_toure/n/n0255c5773eee",
     "https://note.com/loyal_ivy9071/n/n25de3448f0a8",
+    "https://note.com/nekota_toure/n/n0255c5773eee",
     "https://note.com/loyal_ivy9071/n/n95be3510a3b2",
     "https://note.com/2025onkochishin/n/na2e2b56595f8",
     "https://note.com/ocaml/n/na588eab9a296",
     "https://note.com/studiopetit_note/n/n8d9a8537272c",
-    "https://support.google.com/youtube/answer/57407?hl=de&co=GENIE.Platform=Desktop",
-    "https://support.google.com/youtube/answer/57407/",
-    "https://support.google.com/youtube/answer/57407?hl=fr&co=GENIE.Platform=Android"
+    "https://note.com/s_o_0517/n/n127e12eaff87",
+    "https://note.com/nabexus/n/n035387c5ab2b",
+    "https://note.com/massets/n/n18bbdd7128ff"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 37
+   "n_hits": 14
   },
   {
    "query": "site:x.com 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）",
-   "results": [
-    "https://www.clrn.org/why-do-my-deleted-emails-keep-coming-back-in-gmail/",
-    "https://clean.email/how-to-delete-all-emails/fix-gmail-not-deleting-emails",
-    "https://grokipedia.com/page/Emails_Reappearing_in_Inbox_After_Deletion",
-    "https://learn.microsoft.com/en-us/answers/questions/4638046/when-i-delete-a-message-in-my-gmail-inbox-it-doesn",
-    "https://www.getinboxzero.com/blog/post/gmail-wont-let-me-delete-emails-frozen-inbox-fix",
-    "https://support.google.com/mail/thread/204057170/gmail-deleted-emails-not-going-to-trash-folder?hl=en",
-    "https://support.google.com/mail/thread/281064636/if-i-delete-updates-and-all-mail-will-those-emails-also-be-deleted-from-other-labels-folders-i?hl=en",
-    "https://learn.microsoft.com/en-us/answers/questions/4653567/why-dont-emails-i-delete-in-gmail-go-to-the-delete",
-    "https://webapps.stackexchange.com/questions/149970/when-i-delete-an-email-it-is-still-in-my-all-mail-folder",
-    "https://www.linkedin.com/pulse/why-have-my-emails-disappeared-from-gmail-inbox-alora-eve-3encc"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
-   ],
-   "n_hits": 20
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）",
    "results": [
-    "https://www.hammockbayfl.com/blog/utility-providers-for-hammock-bay/",
-    "https://www.powerwizard.com/tools/electricity-bill-calculator/",
-    "https://www.facebook.com/InfinityHammockBay/",
-    "https://www.yelp.com/biz/infinity-hammock-bay-freeport",
-    "https://infinityhammockbay.com/faqs/",
-    "https://utilitycheck.co/utility-cost-calculator",
-    "https://infinityhammockbay.com/p/transparency/",
-    "https://www.apartmentlist.com/renter-life/estimating-apartment-utilities-cost",
-    "https://www.apartments.com/infinity-hammock-bay-freeport-fl/x4h8nsn/",
-    "https://www.youtube.com/@Infinityhammockbay"
+    "https://in.linkedin.com/jobs/qualcomm-jobs",
+    "https://jp.linkedin.com/pulse/2026年版ストルム-追跡-アプス市場の新たな事業機会と市場の方向性競争戦略用途別分析成長課題-p6acf",
+    "https://jp.linkedin.com/pulse/how-enterprise-architecture-bridges-gap-outdated-jaafar-mohammad-ynzwf?tl=ja",
+    "https://www.linkedin.com/posts/walkme-japan_ai導入の理想と現実のギャップを埋める方法グローバルの最新ai調査から読-activity-7458032857547010048-WWaK",
+    "https://www.linkedin.com/posts/thefilamentjp_新規事業の社内広報戦略社内における情報の透明性確保新規事業お悩み相談室-ｰ第-activity-7176049832753582080-_133",
+    "https://cn.linkedin.com/posts/hideki-nozawa-ab9906201_日本コングロマリット企業の未来へ向けて第八章インターナルカーボンプライシング-activity-6987929852129550338-cUzH",
+    "https://sr.linkedin.com/posts/manlio_攻撃で大慌てになる企業に欠けていたサイバーレジリエンスの視点-activity-7004706995295424512-Nm7l"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 20
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）",
-   "results": [
-    "https://texags.com/aggie-softball/staff",
-    "https://texags.com/basketball-recruiting/recruits",
-    "https://texags.com/forums/11",
-    "https://texags.com/t/179/billy-liucci",
-    "http://mobile.texags.com/",
-    "https://texags.com/live",
-    "https://texags.com/forums/51",
-    "https://texags.com/aggie-soccer/staff",
-    "https://texags.com/media",
-    "https://texags.com/forums/58"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "ddgs:yahoo"
-   ],
-   "n_hits": 30
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） note 社長",
@@ -695,14 +1024,14 @@
     "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
     "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://mdb-biz.jmar.co.jp/column/34",
-    "https://ideatech.jp/column/tact_95724/",
-    "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
     "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/202602_DX_report.pdf",
-    "https://en.wikipedia.org/wiki/George_Sanders"
+    "https://mdb-biz.jmar.co.jp/column/34",
+    "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
+    "https://ideatech.jp/column/tact_95724/",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200551"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -715,41 +1044,436 @@
     "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
     "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://mdb-biz.jmar.co.jp/column/34",
     "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/202602_DX_report.pdf",
-    "https://www.mext.go.jp/content/000365818.pdf",
+    "https://mdb-biz.jmar.co.jp/column/34",
     "https://nkbb.nikkei.co.jp/km/usage/column-202309-023/",
-    "https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 19
-  },
-  {
-   "query": "business survey nonresponse follow-up large units administrative data substitution early late respondents comparison site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/in/ninateng",
-    "https://es.linkedin.com/in/rahulbroy",
-    "https://www.linkedin.com/in/johnwhalen",
-    "https://www.linkedin.com/in/maureenwclough",
-    "https://www.linkedin.com/in/roberto-rigobon-35210637",
-    "https://www.linkedin.com/in/toddgsimpson",
-    "https://www.linkedin.com/in/caleb-kwon-ba9230229",
-    "https://www.linkedin.com/in/dadascientist",
-    "https://www.linkedin.com/in/jason-a-moss",
-    "https://www.linkedin.com/in/andrewpole"
+    "https://ideatech.jp/column/tact_95724/",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200551"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 16
+  },
+  {
+   "query": "business survey nonresponse follow-up large units administrative data substitution early late respondents comparison site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/ninateng",
+    "https://www.linkedin.com/in/johnwhalen",
+    "https://es.linkedin.com/in/rahulbroy",
+    "https://www.linkedin.com/in/roberto-rigobon-35210637",
+    "https://www.linkedin.com/in/paulrios",
+    "https://www.linkedin.com/in/dadascientist",
+    "https://www.linkedin.com/in/amangovil",
+    "https://www.linkedin.com/in/jason-a-moss",
+    "https://www.linkedin.com/in/maureenwclough",
+    "https://www.linkedin.com/in/neilgomes"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 2,
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "method with examples from ongoing economic programs conducted by the U.S. Census",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "world of business surveys. Section 4 provides illustrative examples of the methods",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "presented in Section 3, with selected anal yses from three cases studies conducted at the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "collecting survey data. A tabulation unit is one used for estimation. For example,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2 For example, consider the grocery store industry, where the majority of business is conducted by",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "nonrespondents that do not improve the URR. For example, a program might require",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Because business data tend to be highly skewed, sampled cases with large design weights",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "such small cases in computation, URRs are computed without using design weights.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The TQRR for a given item can be very different than the program’s URR. For example,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "accomplished by nonresponse follow-up of large cases expected to contribute",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "cases comprised of more phone calls (targeted questions) and searches for auxiliary data",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the case. Like household surveys, busin ess surveys often use one of the following",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "for certainty or large noncertainty units. Fo r example, a monthly survey may restrict",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "follow-up exclusively to large cases, whereas an annual survey may perform most of its",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "follow-up on large cases, but may follow-up on smaller cases later in the processing",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Office of Statistical Methods and Research for Economic Programs",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "largely on nonresponse bias analysis methods for demographic surveys. Such surveys",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods for business surveys, including respon se rate analysis, the use of frame data,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "method with examples from ongoing economic programs conducted by the U.S. Census",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods of assessing nonresponse bias, focusing on methods particularly helpful in the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "views expressed on statistical, methodological, technical, or operational issues are those of the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "world of business surveys. Section 4 provides illustrative examples of the methods",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2.4 Methods of Handling Nonresponse",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods to account for nonresponse: follow-up, imputation, or weighting adjustments.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "key items, direct substitution is generally preferred to model imputation: this method is",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "commonly used imputation methods in the Ce nsus Bureau’s Economic Directorate are",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "All three adjustment methods make assumpti ons about the data’s response mechanism.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "assumptions that justify the nonresponse adjust ment method. Otherwise, these methods",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "can add bias, creating the need to reevaluate imputation and weighting methods.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3. Methods for Investigating Nonresponse Bias",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "missingness is the potential for nonresponse bias. Bias in survey estimates could lead to",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "30% of estimate",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "70% of estimate",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "importance in the estimates (Tucker et al., 2007). At the U.S. Census Bureau, economic",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "substantially to the estimate, followed by intensive analyst research for “large impute”",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "data to test the null hypothesis that ther e is no difference between estimates for",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "It might be useful to compare early and late respondents on key estimates. In essence this",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3.3.2 Compare Respondent Estimates to Estimates from Administrative Data",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Estimates of monthly sales and end-of-mont h inventories are then derived from the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Sampling units expected to have a large effect on the precision of the estimates are",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The QSS provides estimates of total and change in quarterly receipts (published about 75",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "days after the end of the reference quarter) and early estimates of calendar year receipts",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and ACE-2 samples are selected every year so that ACES estimates are based on",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the capital expenditures estimate in a given industry is usually obtained from the certainty",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Conducting Nonresponse Bias Analysis for Business",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias analysis when response rates fail to m eet target values. The literature focuses",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "largely on nonresponse bias analysis methods for demographic surveys. Such surveys",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "designs with highly skewed populations. This paper examines nonresponse bias analysis",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Key Words: nonresponse bias analysis, response rate, business survey, response model,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "missingness is the potential for nonresponse bias. Bias in survey estimates could lead to",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "not necessarily indicate nonresponse bias (Groves et al., 2008), they are often used as a",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "evaluate nonresponse bias when expected unit response rates are less than 80% (Graham,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "nonresponse bias. Much of the research in this area focuses on conducting nonresponse",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias studies for household surveys. We need additional tools for analyzing business",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias studies for business or establishment surveys. It is also meant to generate discussion",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods of assessing nonresponse bias, focusing on methods particularly helpful in the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "U.S. Census Bureau. The conclusion provid es nonresponse bias questions to consider for",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For evaluating a business program’s nonresponse bias potential, the above rate computed",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "these “important” units, any nonresponse causes nonr esponse bias. It is unlikely that this",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.pdf.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.census.gov/indicator/qss/qsstechdoc.pdf.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.whitehouse.gov/omb/assets/omb/inforeg/pmc_survey_guidance_2006.pdf",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 3,
  "first_researched_at": "2026-11-08T06:39:43.664701+00:00"
 }
