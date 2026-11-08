@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・234品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・236品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4324,7 +4324,7 @@
   - 「This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.」（https://datamgmtinedresearch.com/clean）
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -8876,6 +8876,10 @@
   - 「経営の透明性をアピールすることで、採用活動にプラスの効果がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 失敗・落とし穴：
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「計算書類を作成した直後に株主総会へ提出できるとは限らないことに注意が必要です」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
+  - 「会計帳簿そのものに誤りや不正が存在する可能性があるためです」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
+  - 「具体的な事情に応じて、必要な注意を払って監査を行うことが求められます」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
+  - 「増資と第三者割当の基本――新株発行で注意すべき会社法のルール」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意 | 千代田区の司法書士事務所「司法書士法人永田町事務所」-商業登記特化-」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説」（https://asanagi.co.jp/2023/03/07/5096/）
@@ -8886,13 +8890,13 @@
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告を怠ると罰則が課せられるため、注意が必要です」（https://biz.moneyforward.com/erp/basic/2193/）
   - 「本書では、はじめてERPを導入する企業向けに、ERPの基本とその失敗しない選び方を解説します」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「3. 【要注意】公告義務がない会社もある？」（https://secure.kakaro.jp/kessan-koukoku-law-guide/）
-  - 「【注意点】 5年間掲載し続ける義務？電子公告の期間とサーバー選びの注意点」（https://secure.kakaro.jp/kessan-koukoku-law-guide/）
-  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
-  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
 - 実例：
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「例えば、仕訳帳や総勘定元帳などが該当します」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
+  - 「例えば、会社の事業の経過や成果、重要な経営上の事項などが記載対象になります」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
+  - 「例えば、法人税法では、帳簿書類の保存について別途の規定が設けられています」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
+  - 「例えば、会計監査人の監査意見や監査役などの監査結果について、法令上の条件を確認する必要があります」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
   - 「これは、決算公告を怠ったことを理由に実際に過料が科されるケースが多くないためです」（https://sw-kaikei.com/archives/1874）
   - 「試算表や決算書の数字は、あくまで「過去の結果」を表すものです」（https://sw-kaikei.com/archives/1874）
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -8902,10 +8906,6 @@
   - 「ただし、損益計算書の要旨を公告しないケースでは、貸借対照表の要旨に当期純損益金額を付記します（会社計算規則第142条）」（https://biz.moneyforward.com/erp/basic/2193/）
   - 「決算公告の義務や例外的に不要となるケースについて説明します」（https://biz.moneyforward.com/erp/basic/2193/）
   - 「例外的に、以下のケースに該当する会社は決算公告が不要です（会社法第440条3項・4項、会社法の施行に伴う関係法律の整備等に関する法律第28条）」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「定款の規定がないケースでは、官報による公告を行います（同法第939条4項）」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「【罰則】 決算公告を怠るとどうなる？過料（100万円以下）のリスクと実例」（https://secure.kakaro.jp/kessan-koukoku-law-guide/）
-  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 検索結果の抜粋：
   - 「決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab — Oct 17, 2026 · 決算公告とは、株式会社が定時株主総会のあと、貸借対照表（大会社は損益計算書も）を公告する会社法上の義務です。 官報や日刊新聞紙なら要旨で足り、ホームページに5年間掲載する方法も選べます。」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告はいつまでに｜方法の選択と電子公告決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
@@ -10188,6 +10188,8 @@
 ## 悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検（bad data guide journalism spotting suspicious values spreadsheet limits leading zeros）
 - 文脈：失敗
 - 手順・やり方：
+  - 「An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「It’s very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it’s important that methods used be transparent. It’s rare that you’ll know exactly how a dataset was gathered, but indications of a problem can include numbers that」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「Comparison of two measurement methods (triple scan method and silicone replica technique) for assessing the internal and marginal fit of zirconia copings fabricated with different convergence angles: an in vitro study」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「How to Change Your Valorant Region in 2026」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「BBC iPlayer in New Zealand: How to Watch Live TV and Catch-Up in 2026」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
@@ -10201,9 +10203,10 @@
   - 「英国型なら一回的だから緩くてよい、という比較法の整理は検証されないまま議論の骨格を支え、提言ではその痕跡だけが消えた、ということになります」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「第１章 芸術家になること──マクルーハンの理論と方法 033」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「steps to phantasien t」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「帰りながら、勉強方法について少しやり方を変えなくてはと思いました」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「問題集を何周もするという話をよく聞いていたので、私も対策本を3周やったんですが、一向に間違いが減らず、これは流石に復習のやり方に問題があると思い始めました」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
 - 突き合わせ・推定：
+  - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Beware any data that purports to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「》 borg でバックアップとリストア検証 (qiita, 2024.08.26)」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「将棋雑記 旧パラを検証する246」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「まず、エレクトロニック・フロンティア財団（EFF）から提供された基地局の位置や種類に関するデータをもとに、そのデータの検証を行い、基地局の建設経緯を時系列で整理しました」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
@@ -10216,10 +10219,10 @@
   - 「それは確認するべきことだが、ここは仮説が正しいとして何が重要か考えてみよう」といったニュアンスのことを言うのです」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「一方で、こちらのラボで感じるのは、みんな新しい発見をすると、それをどんどん発展させる実験を重視する一方、別の手法で検証する実験にはあまり関心をもたない（やらないというのではなく）」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「リンク確認 02/23/2004大いなる仮説―DNAからのメッセージ／大野 乾 (著)」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「[ ☆青汁シェイカーセット☆ ] [ 沖縄最新イベント情報満載 ] [ 【検証】え？食べヤセ体験 ] [ ♪☆広告のない掲示板☆♪ ]」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「ただし、その植物が果物であると立証された場合にはこの推定はくつがえり、果物と扱われることになります」（https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/）
-  - 「ただし、夫の子でないことが証明された場合には、推定がくつがえり、夫の子でないと扱われます」（https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/）
 - 一次情報の探し方：
+  - 「A tremendous amount of data—especially government data—is only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting it. (If you’ve got」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「EDレンズ6枚、高屈折レンズ5枚を採用」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「（最新の開票結果や公式発表については公的機関や報道各社の速報を参照）」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「》 GMOインターネットの情報漏えい事案で総務省が業界団体に「ブロッキング要請」との報道 NTTは動いた？ (ITmedia, 11/5)」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
@@ -10232,10 +10235,11 @@
   - 「（①楽譜を写真に撮って「写真」アプリで補正、②Pagesに取り込みPDFで出力、③MuseScore でPDFをMIDI化）」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「前回も無駄に大きいプレゼンファイルの動画などを削除したはずなんだけど、今回は過去の卒論や中間発表のプレゼン資料をすべてPDF化して、さらにファイルサイズを縮小したPDFとして保存しなおす」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「えー、そんなメール来ていたっけなーと思いながら、去年の春に受講した書類をPDFファイルで提出」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「最近は、QuartoのBlogで統計ネタをかいたり、Blueskyで身辺雑事をつぶやいたりしています」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「この方法は完全に統計的に動いており, 内部的には1000次元のニューラル文書ベクトルをSVDで効率的に計算し, 基本的な線形代数を用いて最適解を返すものになっています」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「これは元々は私がTACLのEditorとして査読者を見付けるのに, 何か自動化が必要だと感じて開発したものなので, キーワードを入れるだけでなく, 論文のPDFを指定すると, 内部でそれをアップロードしてテキストに直して解析し, その統計量から最も近い研究者を表示するシステムも含めました」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
 - 失敗・落とし穴：
+  - 「You can not possibly review every dataset you encounter with for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「is one very common mistake.) If you find those, you can be pretty sure the data was compiled or edited by hand and that is always a reason to be skeptical of it. Data that has been edited by hand is the most likely to have mistakes. This doesn’t mean you shouldn’t use it but you may need to manually correct those mistakes or otherwise account for them in your reporting.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「This problem tends to crop up in subjects where people have a strong confirmation bias. (“Just as I thought, crime is up!”) Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「Steven Levy が好きなら間違いなく楽しめると思います」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「問題集を何周もするという話をよく聞いていたので、私も対策本を3周やったんですが、一向に間違いが減らず、これは流石に復習のやり方に問題があると思い始めました」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「まだ少しぼんやりですが、こうやってみようかなという方法があるので、今のやり方だとダメだというのは分かるので、試行錯誤しながらやってみようと思います」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
@@ -10247,26 +10251,25 @@
   - 「3月19日は移動でドタバタしていたのは間違いないけど、メールが来ていなさそう」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「試合はジャイアンツにTDを許さなかったサンフランシスコ優位ですすみ（ジャイアンツはハーフバックオプションパス失敗などTDにあわやというシーンはあったが）、TV中継は解説もサンフランシスコ勝利が前提のような話しっぷりだった」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「ここから、４Dギャンブルを交えすれすれで攻撃をつなぎ、最後にマット・バーのFGでジャイアンツが15-13で勝った（マット・バーはこの試合でたしか一本失敗している）」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「ジャイアンツはスーパーボウルでも（相手であるビルズのサヨナラFG失敗で）勝った」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「このパッチの適用が無い場合、一部の文字が壊れ、チャネルへのログインやメッセージの送信に失敗します」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「Objective-C ブリッジ経由で取得した値はそのままだと JavaScript の値としては扱えないため ObjC.unwrap() や ObjC.deepUnwrap() などを使う必要があることに注意する」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「なお取得可能な属性は要素の種類によって異なるので注意が必要」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
 - 実例：
+  - 「, but really isn’t. This is often the case with surveys where」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「You’ve got states and you need counties. You’ve got employers and you need employees. They gave you years, but you want months. In many cases we get data that has been aggregated too much for our purposes.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「you’re using Excel on a Mac, in which case it’s」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「In the vast majority of cases your text editor or spreadsheet application will figure out the correct encoding, however, if it screws it up you could publishing somebody’s name with a weird character in the middle. Your source should be able to tell you what encoding your data are in. In the event they can’t there are ways of guessing that are about fairly reliable. Ask a programmer.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「. In this case you’ve got counties, but you want states or you’ve got months but you want years. Fortunately this is usually pretty straightforward.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「, where 2004 = 100). In either of these cases, 2004 may or may not be an appropriate year for comparison. It could have been an unusually high crime year.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「seconds. This is a major red flag that something has gone wrong in the production of the data. In this particular case an error in the code I wrote caused some failures to continue counting while all other messages were being sent and received.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「For example, the United Nations」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「羽田新ルートに関連しそうな26度契約情報につき、3つの段階（発注予定、入札公告、入札結果）に分けて整理しておいた」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「■ 「冷水のシャワー」を浴びる人は病欠が少なくなるとの研究結果」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「スイス・バーゼル大学の研究チームが被験者719人を対象に12週間の実験を行った結果、冷水シャワーを浴び続けた人はそうでない人と比べて体調不良の日数が26%減少し、病気による欠勤日数が31%少なくなったと報告」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「2026年米中間選挙の結果を受け、米共和党内でヘグセス国防長官に対する責任論や反発が急速に強まっている情勢を伝えるCNNの報道」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「（最新の開票結果や公式発表については公的機関や報道各社の速報を参照）」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「その結果、既存のすべての基地局の視界内に住む人々の数は、我々の調査結果よりも実際には多い可能性が高いことがわかりました」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「結果は、順に」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「独立事業主の方などで、住所も大事というケースは少なくありません（限らず一般の方もよく出歩く先の近隣なら居室はコンパクトでもいいってあると思います《外出する事が多いのですから》）、今回は「最寄り駅が代官山であることを最優先としている」と考えていいと思います」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「個人情報保護委員会を「例えば」の例示にとどめるかどうかで、意見が分かれました」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「2号3号ポルノの事実記載が足りない事例（某地裁 実刑）」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「情報削除・発信者情報開示関連事例 (289)」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「-v- Non-matching lines only -i- Ignore case」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「先入観から苦手意識を持ってしまっているケースも多いので、まずは以下の誤解を解くところから始めましょう」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「そうするとツールチェーンも、例えば「Vite」と聞いてそれが何であるか？を答えられる人はフロントエンドやってる人の方が多いだろう」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
-  - 「コードの一部を選択すると、それに対する編集を予測して、それを実行した結果を絵として提示する」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
+- 検索結果の抜粋：
+  - 「The Quartz guide to bad dataGitHub - Quartz/bad-data-guide: An exhaustive reference to ...The Quartz Guide to Bad Data | Data Journalism ResourcesRecognize Bad Data | Hands-On Data VisualizationThe Quartz Guide to Bad Data – Global Investigative ...bad-data-guide/README.md at master · Quartz/bad-data-guideSpreadsheets for Investigative Journalists – Global ... — Jul 21, 2022 · Excel and other spre」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · Suspicious values are present Data are too coarse Totals differ from published aggregates Spreadsheet has 65536 rows Spreadsheet has dates in 1900, 1904, 1969, or 1970 Text has been converted to numbers Issues That you Should Solve Text is garbled Line endings are garbled Data are in a PDF Data are too granular Data were ente」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
 
 ## 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き（triangulation four types Denzin reporting how sources compared）
 - 文脈：突き合わせ
@@ -10781,11 +10784,11 @@
 
 ## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）（calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls）
 - 文脈：推定
@@ -12103,11 +12106,11 @@
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）（intelligence grading 3x5x2 handling code dissemination OSINT）
 - 文脈：検証
@@ -12905,11 +12908,11 @@
 
 ## 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方（data provenance checklist period resolution units missing values processing）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事（survivorship bias correction backfill dead firms pessimistic bounds double selection）
 - 文脈：失敗・落とし穴
@@ -13795,3 +13798,46 @@
   - 「取引先の業績が右肩上がりで、取引額の増加が事業拡大の反映であるケースです」（https://catalog.monex.co.jp/article/?p=49812）
   - 「数年前に設定した限度額を放置しており、現状と乖離していたケースです」（https://catalog.monex.co.jp/article/?p=49812）
   - 「月商法（月商 × 回収サイト）や売掛債権基準など、資金繰りリスクや自社の許容損失から逆算する手法と結果を突き合わせ、桁がずれていないかを相互チェックする補助的な用途に留めるのが安全です」（https://catalog.monex.co.jp/article/?p=49812）
+
+## 競合仮説分析の実証研究と改善（Dhami・Belton・Mandel の分析官の実験・基準率を捨てる問題・一貫した規則・Arg-ACH・ベイズ）（analysis of competing hypotheses empirical study base rates Dhami Mandel intelligence analysts）
+- 文脈：手法・情報分析
+- 手順・やり方：
+  - 「= 3.53, min = 17, max = 42), 90.1% were female, and 85.1% said the highest level of education they had reached to-date was ‘A level’ (i.e., educated up to 18 years). Twenty-three percent said they had been trained to use the scientific method of experimental design, and this knowledge was not associated with condition,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「, p. 93) argues that ‘ACH is also an excellent framework for collaboration between analysts. The cross-fertilization of ideas helps analysts generate more and better ideas. The matrix can combine inputs from analysts with different specialties. When analysts disagree, the matrix can be used to highlight the precise area of disagreement.’」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「The datasets generated and/or analyzed during the present research are available in the Open Science Framework repository at」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「Faul F, Erdfelder E, Lang A-G, Buchner A. G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods. 2007;39(2):175–191. doi: 10.3758/BF03193146.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「Mellers B, Stone E, Murray T, Minster A, Rohrbaugh N, et al. Identifying and cultivating superforecasters as a method of improving probabilistic predictions. Perspectives on Psychological Science. 2015;10(3):267–281. doi: 10.1177/1745691615577794.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「Pennycook G, Cheyne JA, Koehler DJ, Fugelsang JA. Is the cognitive reflection test a measure of both reflection and intuition? Behavior Research Methods. 2016;48:341–348. doi: 10.3758/s13428-015-0576-1.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+- 一次情報の探し方：
+  - 「https://www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「http://www.pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「Rassin E. Reducing tunnel vision with a pen-and-paper tool for the weighting of criminal evidence. Journal of Investigative Psychology and Offender Profiling. 2018;15:227–233. doi: 10.1002/jip.1504.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「PDF (1.3 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+- 失敗・落とし穴：
+  - 「Effects of task structure and confirmation bias in alternative hypotheses evaluation - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「Effects of task structure and confirmation bias in alternative hypotheses evaluation」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「We empirically examined the effectiveness of how the Analysis of Competing Hypotheses (ACH) technique structures task information to help reduce confirmation bias (Study 1) and the portrayal of intelligence analysts as suffering from such bias (Study 2). Study 1 (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「Hypothesis evaluation, Confirmation bias, Intelligence analysis, Cognitive reflection, Additivity」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「One common example of analytic bias is confirmation bias. According to psychological research (e.g., Klayman,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「) argued that techniques teaching deliberative (critical) thinking skills and boosting this mode of cognition can help analysts overcome bias (see also Heuer & Pherson,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「More broadly, critics of SATs such as ACH point out that these ‘debiasing’ interventions are not informed by the relevant psychological evidence base and that their effectiveness is rarely rigorously tested (e.g., Belton & Dhami,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「) further note that SATs could potentially lead analysts to over-compensate for a bias thereby resulting in an opposing bias (e.g., over v. under-confidence). In addition, some have argued that the prevalence of cognitive bias in intelligence analysis is overstated (e.g., Dhami & Careless,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「Relevant past research on analyst thinking, bias and ACH」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「There is as yet only a small body of research on analytic thinking, bias and SATs such as ACH. Much of the extant research is based on extremely small samples of analysts and/or non-analysts (e.g., Chin et al.,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「Thus, the findings of Study 1 do not support the belief that an ACH-style matrix would improve analytic judgment by eliminating confirmation bias (e.g., Davies & Gustafson,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「) analyses of experimental data on ACH showed little evidence of confirmation bias in UK analysts. Rather, these studies demonstrated that analysts may apply a deliberative or more cognitively sophisticated strategy than that dictated by ACH. In addition, research has demonstrated that analysts are relatively good at other sorts of analytic tasks such as strategic forecasting (Mandel & Barnes,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「). The primary aim of Study 2 was therefore to reassess the assumption that analysts (untrained in ACH) will demonstrate confirmation bias when evaluating alternative hypotheses. We also determined if analysts are sensitive to evidence credibility. Study 2 builds on previous research by involving analysts from a different population to that studied previously (i.e., Dutch military).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「), and there is particular enthusiasm for ACH, which aims to help analysts overcome confirmation bias when evaluating alternative hypotheses (UK Ministry of Defence,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+  - 「In sum, a psychologically evidence-based approach could lead to more effective policies and practices in intelligence analysis, that could ultimately reduce the likelihood of biases and errors, while also increasing accountability processes (Dhami et al.,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+- 実例：
+  - 「One common example of analytic bias is confirmation bias. According to psychological research (e.g., Klayman,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+
+## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
+- 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

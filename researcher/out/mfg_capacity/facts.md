@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・216品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・219品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -11214,6 +11214,224 @@
 - 生産能力・設備：記載なし（読んだ55頁・検索18回）
 - 10年推移：記載なし（読んだ55頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102）（Japan Census of Manufactures definition of persons engaged notes on use METI）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「本調査を実施する前に準備調査を行い、廃業・休業、新設等の確認をし、対象の最新情報の把握に努めている」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「平成14年途中まで操業していても、調査日時点ですでに廃業となった事業所については集計されていない」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+- 事業所数・社数：
+  - 「事業所数、従業者数、製造品出荷額等の3項目」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「1) 事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「全国の従業者4～9人事業所の産業細分類別（4桁分類）1事業所あたりの対前年比（※）を都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）1事業所あたりの数値（前年値）に乗じたものに、当年の都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）の事業所数を乗じて算出し、産業小分類（3桁分類）、産業中分類別（2桁分類）に積み上げた値を各都道府県の推計値とし、これを積み上げて全国の数値としている」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(1)事業所数 一般に工場、製作所あるいは加工所などと呼ばれているような一区画を占めて主として製造または加工を行っているもので」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「平成12年以前の従業者規模10〜29人規模の付加価値額も、この算式により粗付加価値額として算出し直している」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「従業者 300人以上」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「従業者規模が1〜3人の事業所については集計対象に含めていない」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「（9）統計表のうち I 産業編の「8 品目別統計表」の算出事業所数には、ひとつの事業所でも複数の品目を生産した場合、各品目に重複して計上される」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+- 社員数・平均社員数：
+  - 「号）に掲げる「大分類Ｅ−製造業」に属する事業所（国に属する事業所及び従業者３人以下の事業所を除く）である」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「ウ 臨時雇用者とは、常用労働者以外の雇用者で、１ヵ月以内の期間を定めて雇用されている者や日々雇用されている者をいう」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「年１年間に常用労働者のうち雇用者（「正社員、正職員等」及び「パート・アルバイト等」をいう）に対して支給された基本給、諸手当及び特別に支払われた給与（期末賞与等）の額とその他の給与額との合計である」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「・従業者４人以上の製造事業所であること」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「1年間（1～12月）に常用雇用者及び有給役員のうちこの事業所に従事している人に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額とその他の給与額との合計である」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(1) 従業者30人以上」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(2) 従業者29人以下」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「【従業者3人以下の事業所】」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「工業統計調査は、従業者4人以上の事業所が調査対象であるため、従業者3人以下の事業所の数値について、平成29年調査以降については、以下の推計を行い「産業別統計表 5．参考表」に掲載している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「事業所数、従業者数、製造品出荷額等の3項目」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「1) 事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「全国の従業者4～9人事業所の産業細分類別（4桁分類）1事業所あたりの対前年比（※）を都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）1事業所あたりの数値（前年値）に乗じたものに、当年の都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）の事業所数を乗じて算出し、産業小分類（3桁分類）、産業中分類別（2桁分類）に積み上げた値を各都道府県の推計値とし、これを積み上げて全国の数値としている」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「西暦末尾が0、3、5、8年以外の年は「裾切り調査」として簡素化され、一部特定業種を除いて、従業者3人以下の事業所は調査対象外となっている」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「（1）従業者30人以上の事業所 ――「工業調査票甲」（巻末参照）」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+- 受注金額・加工賃収入：
+  - 「年１年間における製造品出荷額、加工賃収入額、くず廃物の出荷額及びその他収入額」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「製造品又は賃加工品が単品の事業所については、６桁の製造品及び賃加工品番号（以下「品目番号」という」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「製造品又は賃加工品が複数の事業所については、まず、品目番号上２桁 （産業中分類）が同一の品目ごとに、製造品出荷額又は加工賃収入」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「万円 ２９４」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「万円 ２９４１」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「万円 産業格付＝２９４１」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「1年間（1～12月）における製造品出荷額、加工賃収入額、その他収入額及び製造工程からでたくず及び廃物の出荷額の合計である」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「事業所数、従業者数、製造品出荷額等の3項目」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「2) 製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(6)製造品出荷額等 平成14年中における製造品出荷額」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「加工賃収入額とは、他の所有する原材料又は製品に加工を加え平成13年中に引き渡したものに対して、受け取った加工賃又は受け取るべき加工賃である」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「[4] 船舶、車両、運搬具、耐用年数1年以上で一件10万円以上の工具、器具、備品等」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「(11)生産額 次の算式により計算した額（従業者30人以上）」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「【｛製造品出荷額計×（1−輸出割合）＋（加工賃収入額計＋修理料収入額）」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+- 1人あたり・1社あたり金額：
+  - 「万円 ２９４」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「万円 ２９４１」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「万円 産業格付＝２９４１」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「[4] 船舶、車両、運搬具、耐用年数1年以上で一件10万円以上の工具、器具、備品等」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「(12)付加価値額 次の算式により計算した額」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「平成12年以前の従業者規模10〜29人規模の付加価値額も、この算式により粗付加価値額として算出し直している」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「（4）比率計算している箇所や百万円単位で表示している箇所は、四捨五入しているので内訳と合計が一致しないことがある」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「算式：粗付加価値額＝生産額（）－（消費税を除く内国消費税額（）＋推計消費税額（）－原材料使用額等*1*2*3 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf）
+- 生産能力・設備：
+  - 「(1) 有形固定資産の取得額等には、次の区分がある」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(3) 有形固定資産の除却・売却による減少額とは、有形固定資産の売却、撤去、滅失及び同一企業に属する他の事業所への引き渡しなどの額をいう」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(4) 有形固定資産の投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(7)有形固定資産 事業所の所有する次に掲げるもの」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「(8)有形固定資産 次の算式により計算した額」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「[1]従業者30人以上で、有形固定資産と在庫の帳簿額が消費税込みの事業所」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「[2]従業者30人以上で、有形固定資産と在庫の帳簿額が消費税抜きの事業所」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「()有形固定資産の額(従業者人以上の事業所又は企業)は、平成年年間における数値であり、帳簿価額に630131」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf）
+- 10年推移：
+  - 「イ 建設仮勘定の増加額とは、この勘定の借方に加えられた額であり、減少額とはこの勘」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「統計表中で、前年比又は構成比等については、小数点以下第２位を四捨五入しており、また、内訳積み上げ計と合計値が一致しない場合が」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「時系列表中の平成23年（2011年）における数値は、「平成24年経済センサス‐活動調査 製造業（総務省・経済産業省）」の調査結果のうち、工業統計調査の調査範囲に合わせるため、以下の全てに該当する製造事業所について集計したものであり、斜体で表章してある」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「年調査において、調査対象事業所の捕捉率を高めたため、「事業所数」、「従業者数」等の対前年比については、時系列を考慮し、新たに捕捉した事業所を除いて計算している」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「(2) 建設仮勘定の増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に振り替えられた額をいう」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(3) 有形固定資産の除却・売却による減少額とは、有形固定資産の売却、撤去、滅失及び同一企業に属する他の事業所への引き渡しなどの額をいう」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「投資総額＝取得額＋建設仮勘定の年間増減（増加額－減少額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「全国の従業者4～9人事業所の産業細分類別（4桁分類）1事業所あたりの対前年比（※）を都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）1事業所あたりの数値（前年値）に乗じたものに、当年の都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）の事業所数を乗じて算出し、産業小分類（3桁分類）、産業中分類別（2桁分類）に積み上げた値を各都道府県の推計値とし、これを積み上げて全国の数値としている」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「2020年商品分類表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「2019年商品分類表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「最終更新日：2020.05.22」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「なお、新聞業及び出版業に関しては平成13年調査までは製造業であったことから、調査結果の概要及び統計表で表示する平成13年以前の時系列の数値は変更していない」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「②建設仮勘定の増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に振」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf）
+  - 「ア有形固定資産の建設仮勘定の年間増減＝増加額－減少額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf）
+- 人手と仕事の差：
+  - 「年１年間における原材料使用額、燃料使用額、電力使用額、委託生産費、製造等に関連する外注費」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費用をい」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「連する外注費」、「転売した商品の仕入額」を調査項目として追加している」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「使用額等に「製造等に関連する外注費」、「転売した商品の仕入額」を追加）したことにより、｢製造品出荷額等｣、｢付加価値額｣等については、平成」（https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm）
+  - 「1年間（1～12月）における原材料使用額、燃料使用額、電力使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額である」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(5)原材料使用額等 平成14年中における原材料使用額、燃料使用額、電力使用額及び委託生産費（外注加工費）」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「委託生産費（外注加工費）とは、原材料又は製品を他企業の事業所に支給して、製造加工を委託した場合、これに支払った加工賃又は支払うべき加工賃であり、加工の外注先や構内で加工を請け負わせている下請け事業所に対して支払う額である」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「製造ラインの一部をあてがい、生産工程の一部を請け負わせている人材派遣会社への支払いは、出向派遣受入者に係る現金給与ではなく、委託生産費（外注加工費）となる」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「（支払う側からは「委託生産費（外注加工費）」であるが、受け取る側は「加工賃収入額」となる）このため自ら加工を行う場合と、他に加工を外注する場合とでは「製造品出荷額等」は異なることになる」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+  - 「なお、原材料を他に支給して製造させた委託生産品（外注先にある在庫）も含まれる」（https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html）
+
+## 国土交通省 造船造機統計 新造船の竣工量（建造量）の年次（総トン数・隻数・一致の系列・受注残と人員不足の3分野の重なりの確かめ・4-101）（Japan shipbuilding statistics annual completions gross tonnage MLIT）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「他方で、職人不足や高齢化で技能継承が進まないほか、協力会社の廃業なども重なり、増産要請に人的・設備面で余力に乏しく、受注は堅調でも売上計上が進まない例もみられた」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「また、ティア2における倒産（経営破綻）のリスクが高まる「債務超過（自己資本がマイナス）」の割合は、サプライチェーン全体で2024年度に12.82％となった」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「※１ 2015年の建造量は速報値、2016、2017年の受注残については、民間調査機関の2016年と2017年の受注残の平均とした」（https://www.mlit.go.jp/common/001118265.pdf）
+  - 「承継の場面では、受注残が多いことがそのまま価値になるわけではなく、」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「造船は受注から引き渡しまで年単位で、受注残の内容が数年先の収益を決めます」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「承継の検討では、全国の傾向ではなく、その事業者が抱える受注残の中身と納期、設備の更新時期、技能者の年齢構成をご確認ください」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「受注残と技能者から、確かめませんか」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「貴社の受注残・技能者・取引先が譲渡の場面でどう見られるかは、決算書と体制を拝見してからお話しします」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「造船所が丸ごと倒産する事態は大手では起きなかったため、「危機」として政策議題に上がりにくかった」（https://note.com/toyama_tetsuo/n/ne3dfa7c52063）
+- 事業所数・社数：
+  - 「社数ではサプライチェーン全体の3割前後にとどまるものの、取引額ベースでは全体の9割を占めた」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「「ティア2」は1万1400社と社数が最も多かったものの、取引額は3051億円・1社あたり年間2000万円前後にとどまった」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「「ティア3以降」は社数1550社・取引額146億円と、全取引階層（ティア）のなかで最小規模だった」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「業種別に社数をみると最も多いのは「製造業」の8094社で、取引額は1兆8338億円を占めた」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「サプライチェーンに占める社数は4割超、取引額は5割超を占めた」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「兵庫県内を中心に、貨物船、タンカー、コンテナ船などを建造する造船所や船舶用工業製品プラント、修繕修理などの重要拠点が多く、社数では大阪府が全国トップ（2464社、兵庫県：3位・2046社）、従業員数では大阪府が2位（15万3015人、兵庫県：3位・10万4961人）と、いずれも上位を占めた」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+- 社員数・平均社員数：
+  - 「中国・韓国と比べ、１つの造船所当たりの規模が小さく、手動・人海戦術を要する工程において自動化等が進んでいない部分が多い」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「外航 日本人 ０.２万人（2023年10月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「外国人 ５.４万人（2023年7月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「4.67.0従 業 員 （ 万 人 ）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「人民元安90.00」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「造船業に従事する就労者等は、約７～８万人で推移」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「（１号特定技能外国人：8,182人、２号特定技能外国人：12人（令和６年３月末時点速報値））」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「また、技能実習制度については、令和９年から人材確保及び人材育成を目的とする新たな制度（育成就労制」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国が掲げる2035年の建造量倍増の前に立ちはだかる人手不足の壁を、国土交通省の統計と各社の動きから深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「2. 深読み①：造船で働く人は9年で約1.4万人減った」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「3. 深読み②：現場の5人に1人は外国人材に」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「4. 深読み③：国の「建造能力倍増」計画と人の計算」（https://zosenblog.com/zosen-hitode-fukayomi/）
+- 受注金額・加工賃収入：
+  - 「（官:3,800億円規模）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「（官民:2,800億円規模）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「（民:3,500億円規模）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「1,200億円」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「120億円：～2030」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「約410億円の内数：2025～2030 （官民約270億円）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「150億円※１：～2026」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「生産設備整備支援 約960億円※２：2025～2029」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「（官民約2,510億円）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「国庫債務負担行為）として151億円を措置」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「坂出工場に10年で約1,000億円を投資」（https://zosenblog.com/zosen-hitode-fukayomi/）
+- 1人あたり・1社あたり金額：
+  - 「「ティア2」は1万1400社と社数が最も多かったものの、取引額は3051億円・1社あたり年間2000万円前後にとどまった」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「9000万円」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「つまり、3.9％の生産性向上とは、従業員1人当たりの売上高を3.9％向上させなければならない、ということです」（https://www.ichiyoshi.co.jp/topic/kabuto496）
+  - 「これらの取組を通じ、2025年において、我が国の造船業の生産性を2割向上（従業員一人当たり新造船建造量、2019年比）させるとともに、1,800万総トンの船舶を建造することを目標としております」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「[3]我が国造船業等の付加価値生産性： 2025年までに10％向上（2019年比）」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「5．技能者数と一人当たり付加価値」（https://note.com/s_shindan/n/nc2017629c6da）
+- 生産能力・設備：
+  - 「次世代燃料船などの技術開発や、設備投資、人材育成を重点的に支援する方針で、官民で1兆円規模の投資を行う計画も判明している」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「帝国データバンクが毎年実施する「設備投資に関する企業の意識調査」を基に、造船サプライチェーン企業のうち回答のあった約400社について分析を行った」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「その結果、2025年度計画で「（設備投資を）予定している」割合が34.5％となり、全項目で最も高かったものの、前年（38.7％）からは4.2pt低下し、過去5年間で最も少なかった」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「2025年度に設備投資の予定（計画）が「ある」造船サプライチェーン企業の動向をみると、最も多い計画内容は、入れ替えや交換、更新など「設備の代替」で70.4％だった」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「他方で、「設備投資をしない」造船サプライチェーン企業では、「先行きが見通せない」（37.5％）が最も高いものの、全国水準（47.9.％）より低かった」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「しかし、直近で設備投資を行ったなど「現状で設備は適正水準である」とした企業の割合が26.8％と全体（25.2％）を上回るほか、「投資に見合う収益を確保できない」（19.6％、全体：15.4％）、「人件費の高騰による利益率の低下」（15.2％、同：11.2％）など、コスト高による収益性の悪化から設備投資を見送るケースもみられた」（https://prtimes.jp/main/html/rd/p/000001290.000043465.html）
+  - 「1 日本の人造船業界は、第一次石油ショック後 78年)、プラザ合意の翌年 (86 年)、韓国の大型設備投資による船価下落 (99 年)」（https://files.microcms-assets.io/assets/fa7ebd3c9a484c6197223084f64eb8d7/4fd5460637ce4ffca5be5b973e5c1854/%E9%80%A0%E8%88%B9%E6%A5%AD%E7%95%8C.pdf）
+  - 「3 設備投資に慎重だった大手に対し、 専業メーカーは意欲的に事業を拡大、存在感を強めた」（https://files.microcms-assets.io/assets/fa7ebd3c9a484c6197223084f64eb8d7/4fd5460637ce4ffca5be5b973e5c1854/%E9%80%A0%E8%88%B9%E6%A5%AD%E7%95%8C.pdf）
+  - 「90 年代に入ってから設備投資を本格化させた韓」（https://files.microcms-assets.io/assets/fa7ebd3c9a484c6197223084f64eb8d7/4fd5460637ce4ffca5be5b973e5c1854/%E9%80%A0%E8%88%B9%E6%A5%AD%E7%95%8C.pdf）
+  - 「市況の回復局面に乗り切れず、受注はまた日韓に流れ、稼働率がさらに落ちる悪循環は2020年代に入っても止まらなかった」（https://note.com/toyama_tetsuo/n/ne3dfa7c52063）
+  - 「3．平均工期とドック稼働率」（https://note.com/s_shindan/n/nc2017629c6da）
+  - 「稼働率が上がらなければ、減価償却費と借入返済が重くなります」（https://note.com/s_shindan/n/nc2017629c6da）
+  - 「設備投資では、補助率よりも、受注の確度、年間稼働日数、営業キャッシュフロー、投資回収年数を確認する必要があります」（https://note.com/s_shindan/n/nc2017629c6da）
+  - 「設備投資の意思決定が早く、受注環境も比較的良い会社に資金が寄る」（https://note.com/toyama_tetsuo/n/n98075f560717）
+  - 「その安心感が、設備投資や受注競争を支えてきた」（https://note.com/toyama_tetsuo/n/n98075f560717）
+- 10年推移：
+  - 「近年、我が国造船業の建造量は減少傾向が継続（2019年1,600万総トン→2024年900万総トン）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「的に、海上輸送量の増加による建造需要が拡大」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「技術者（受注・設計等を担う者）の人数は横ばいで推移しているが、今後、新規需要船に対応した高度な技術にも対応する必要」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「技能者 (造船所内での作業を担う者)の人数は減少傾向であり、人材確保が急務」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「【参考：2024年時点】」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「203520272026 20282025」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「約410億円の内数：2025～2030 （官民約270億円）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「生産設備整備支援 約960億円※２：2025～2029」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「2025年6月19日」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「外航 日本人 ０.２万人（2023年10月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「外国人 ５.４万人（2023年7月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「（2021年）暦年」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「※2023年竣工船（隻数ベース）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「（2024年12月）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+- 人手と仕事の差：
+  - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「9月も17隻の輸出船を受注し、納期は2030年度まで埋まり始めました」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「理由は、人手不足で船を造るペースが上がらないこと」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国が掲げる2035年の建造量倍増の前に立ちはだかる人手不足の壁を、国土交通省の統計と各社の動きから深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「（各年4月1日時点）を見ると、人手不足の実態がはっきりします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「人手不足は、このうち」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ここ数週間のニュースを並べると、造船・舶用各社の人手不足への対応は、大きく3つに分けられます」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「をつくることが、人手不足への中長期の答えになりそうです（後段は筆者の見立てです）」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「働く側から見れば、人手不足は」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「──人件費や外注費の増加、寮・社宅などへの投資がどう表れるか」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「人手不足の分野で、一定の技能と日本語能力を持つ外国人が働けるようにする在留資格」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「──理由は人手不足で建造ペースが上がらないこと」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「今週の必修ニュース｜9月の輸出船受注17隻・造船向け鋼材は人手不足で1割減」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第3週｜9月の輸出船受注17隻・造船向け鋼材は人手不足で1割減・国産初のCTV誕生──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+- 検索結果の抜粋：
+  - 「第496話 ” 造船 大国”日本再生へ「 建造量 2倍」実現に必要な ... — 第496話 ” 造船 大国”日本再生へ「 建造量 2倍」実現に必要な ... いちよし証券 https://www.ichiyoshi.co.jp > topic > kabuto496」（https://www.ichiyoshi.co.jp/topic/kabuto496）
+  - 「1 新造船建造量 — 1 新造船建造量 国土交通省 https://www.mlit.go.jp > transport > shouwa42 > ind090101」（https://www.mlit.go.jp/hakusyo/transport/shouwa42/ind090101/001.html）
+  - 「1 新造船建造量 — 1 新造船建造量 国土交通省 https://www.mlit.go.jp > transport > shouwa43 > ind090101」（https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090101/001.html）
+
+## 人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101）（Japan SMEs refused orders labor shortage survey vs processing fee revenue same year）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ46頁・検索18回）
+- 事業所数・社数：記載なし（読んだ46頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ46頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ46頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ46頁・検索18回）
+- 生産能力・設備：記載なし（読んだ46頁・検索18回）
+- 10年推移：記載なし（読んだ46頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ46頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

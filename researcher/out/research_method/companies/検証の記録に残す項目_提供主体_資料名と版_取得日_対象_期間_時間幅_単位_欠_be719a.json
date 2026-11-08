@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T03:12:37.371205+00:00",
+ "researched_at": "2026-11-08T09:53:01.421795+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -34,16 +34,6 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.icrweb.jp/pluginfile.php/230424/mod_resource/content/9/%E3%80%88PDF%E3%80%89NCC%E6%B1%A0%E7%94%B0%E5%85%88%E7%94%9F%EF%BC%9A%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%9F%A5%E3%82%8D%E3%81%86.pdf?forcedownload=1",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.amed.go.jp/content/000048621.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.j-sctr.org/tools/files/datamanagement_plan.docx",
     "status": "network_error:ConnectTimeout",
     "method": "http"
@@ -54,14 +44,19 @@
     "method": "http"
    },
    {
-    "url": "http://www.biostar.co.jp/doc0001.pdf",
+    "url": "https://www.icrweb.jp/pluginfile.php/230424/mod_resource/content/9/%E3%80%88PDF%E3%80%89NCC%E6%B1%A0%E7%94%B0%E5%85%88%E7%94%9F%EF%BC%9A%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%9F%A5%E3%82%8D%E3%81%86.pdf?forcedownload=1",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://note.com/tabeteco_lab/n/nc8d8f466480c",
+    "url": "https://www.amed.go.jp/content/000048621.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.biostar.co.jp/doc0001.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://ptaorg.com/evidence-checklist.html",
@@ -70,6 +65,11 @@
    },
    {
     "url": "https://ez-hygiene.com/article/haccp-procedure-11-12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tabeteco_lab/n/nc8d8f466480c",
     "status": "ok",
     "method": "http"
    },
@@ -84,6 +84,11 @@
     "method": "http"
    },
    {
+    "url": "https://shift.env.go.jp/files/info/verification/youryou_rev3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.mhlw.go.jp/content/10600000/000757280.pdf",
     "status": "ok",
     "method": "pdf"
@@ -94,12 +99,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.acceldata.io/blog/data-provenance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.ibm.com/think/topics/data-provenance",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.acceldata.io/blog/data-provenance",
+    "url": "https://truescreen.io/articles/data-provenance-definition-source-authenticity/",
     "status": "ok",
     "method": "http"
    },
@@ -107,11 +117,6 @@
     "url": "https://www.vldb.org/pvldb/vol15/p3614-torlone.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://truescreen.io/articles/data-provenance-definition-source-authenticity/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11931605/",
@@ -128,11 +133,11 @@
     "https://www.jpma.or.jp/basis/guide/lofurc0000001zre-att/20080114guidance.pdf",
     "https://www.mlit.go.jp/tec/constplan/content/001880735.pdf",
     "https://www.gsi.go.jp/common/000186712.pdf",
+    "https://www.j-sctr.org/tools/files/datamanagement_plan.docx",
+    "https://service.valtes.co.jp/t-dash/blog/test-evidence_vol_80/",
     "https://www.icrweb.jp/mod/resource/view.php?id=11036",
     "https://www.amed.go.jp/content/000048621.pdf",
     "http://www.biostar.co.jp/doc0001.pdf",
-    "https://www.ipa.go.jp/digital/software-survey/metrics/hjuojm000000c6it-att/000102171.pdf",
-    "https://www.bunka.go.jp/seisaku/bunkazai/shokai/pdf/94197801_03.pdf",
     "https://note.com/tabeteco_lab/n/nc8d8f466480c"
    ],
    "engines": [
@@ -150,16 +155,14 @@
     "https://www.gsi.go.jp/common/000186712.pdf",
     "https://www.j-sctr.org/tools/files/datamanagement_plan.docx",
     "https://service.valtes.co.jp/t-dash/blog/test-evidence_vol_80/",
-    "https://www.amed.go.jp/content/000048621.pdf",
     "https://www.icrweb.jp/mod/resource/view.php?id=11036",
-    "http://www.biostar.co.jp/doc0001.pdf",
-    "https://note.com/tabeteco_lab/n/nc8d8f466480c"
+    "https://www.amed.go.jp/content/000048621.pdf",
+    "http://www.biostar.co.jp/doc0001.pdf"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 9
   },
   {
    "query": "検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方 やり方",
@@ -205,15 +208,15 @@
    "query": "data provenance checklist period resolution units missing values processing",
    "results": [
     "https://cohere.com/blog/data-provenance",
-    "https://www.ibm.com/think/topics/data-provenance",
     "https://www.acceldata.io/blog/data-provenance",
-    "https://www.vldb.org/pvldb/vol15/p3614-torlone.pdf",
+    "https://www.ibm.com/think/topics/data-provenance",
     "https://truescreen.io/articles/data-provenance-definition-source-authenticity/",
+    "https://www.vldb.org/pvldb/vol15/p3614-torlone.pdf",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC11931605/",
     "https://www.puppygraph.com/learn/data-provenance",
     "https://elevateconsult.com/insights/finalizing-the-data-provenance-strategy-for-ai-data-governance/",
-    "https://nhimg.org/glossary/data-provenance-record/",
-    "https://datastatpro.com/blog/data-cleaning-checklist.html"
+    "https://www.sentinelone.com/cybersecurity-101/data-and-ai/data-provenance/",
+    "https://tairc.substack.com/p/a-data-provenance-checklist-for-public"
    ],
    "engines": [
     "ddgs:google",
@@ -245,28 +248,28 @@
    "query": "site:x.com 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方",
    "results": [
     "https://x.com/amor_tizacion/status/2101449273745498173",
-    "https://x.com/ea_kenshoshitsu/status/2114306476734890418",
-    "https://x.com/ea_kenshoshitsu/status/2112836485275685148",
-    "https://x.com/pmarknews/status/2115353797098950890",
     "https://x.com/kznakamichi/status/2115695426896806083",
+    "https://x.com/ea_kenshoshitsu/status/2114306476734890418",
+    "https://x.com/pmarknews/status/2115353797098950890",
+    "https://x.com/ea_kenshoshitsu/status/2112836485275685148",
     "https://x.com/ELLLYRR/status/2112135166697361652",
-    "https://x.com/cu30rry_/status/2097622792220922319"
+    "https://x.com/kabunamirei/status/2117156110503399744"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方",
    "results": [
-    "https://jp.linkedin.com/pulse/工場内工程の記録を残す方法について-yukihito-hara",
+    "https://jp.linkedin.com/learning/1-minute-learning-negotiation-techniques-for-business/3986272",
     "https://jp.linkedin.com/learning/business-analysis-foundations/2890206",
     "https://jp.linkedin.com/posts/哲也-木谷-b063253b3_品質の壁④記録の質が安定しない理由-記録は知識を未来に残す仕組みである-activity-7505098367681851392-gJhM",
     "https://jp.linkedin.com/pulse/understanding-verification-validation-key-pillars-quality-ttcyc?tl=ja",
     "https://jp.linkedin.com/pulse/verification-vs-validation-differences-usage-software-tnbdf?tl=ja",
-    "https://jp.linkedin.com/pulse/how-perform-effective-vendor-verification-guide-prem-kumar?tl=ja",
-    "https://jp.linkedin.com/pulse/verification-vs-validation-software-testing-why-both-matter-zq1kc?tl=ja"
+    "https://jp.linkedin.com/pulse/工場内工程の記録を残す方法について-yukihito-hara",
+    "https://jp.linkedin.com/pulse/how-perform-effective-vendor-verification-guide-prem-kumar?tl=ja"
    ],
    "engines": [
     "ddgs:bing"
@@ -277,8 +280,8 @@
    "query": "site:facebook.com 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方",
    "results": [
     "https://www.facebook.com/chiseishin.caspa/photos/運輸支局等窓口での継続検査等における自動車検査証記録事項帳票出力の終了に係る対応等について自動車検査証の電子化以降運輸支局等窓口にて電子車検証の交付時と更新時に/122207308022098761/",
-    "https://www.facebook.com/nissoken.osaka/photos/セミナーピックアップ根拠に基づいたソーシャルワーク記録の書き方生かし方只今好評配信中-指導講師髙石麗理湖氏国際医療福祉大学-医療福祉学部医療福祉マネジメント学科/1153572326777961/",
     "https://www.facebook.com/ImmigrationServicesAgency.MOJ/posts/開示請求手続のご案内外国人登録原票や出入帰国記録に係る開示請求手続についてはこちらのウェブページでご案内しています請求書等の必要書類についてもウェブページからダ/1446376200823266/",
+    "https://www.facebook.com/nissoken.osaka/photos/セミナーピックアップ根拠に基づいたソーシャルワーク記録の書き方生かし方只今好評配信中-指導講師髙石麗理湖氏国際医療福祉大学-医療福祉学部医療福祉マネジメント学科/1153572326777961/",
     "https://www.facebook.com/nisshinkyo/photos/日本語教育機関のための自己点検評価項目2025年版を公開しました日振協では日振協第三者評価を行うに当たり日本語教育機関が自己点検評価を行う際の参考としてこのたび/1075115247746320/",
     "https://www.facebook.com/100057237588265/posts/檢驗項目-108項慢性食物過敏原-檢測報告時效7-10日食物不耐受食物過敏是對食物或食物添加劑的免疫反應免疫反應是由於小腸的滲透性增加而產生的這使得食物成分通過/331414121597068/",
     "https://www.facebook.com/taipeilabornews/posts/q健檢報告有我的隱私我一定要交給雇主嗎a健檢報告需要交給雇主但非法定項目則須經過勞工個人同意才可以留存-職業安全衛生法第20條規定雇主僱用勞工時應施行體格檢查對/1177516229081279/",
@@ -315,10 +318,10 @@
     "https://www.mlit.go.jp/tec/constplan/content/001880735.pdf",
     "https://www.gsi.go.jp/common/000186712.pdf",
     "https://www.j-sctr.org/tools/files/datamanagement_plan.docx",
-    "https://www.amed.go.jp/content/000048621.pdf",
-    "https://www.icrweb.jp/mod/resource/view.php?id=11036",
     "https://service.valtes.co.jp/t-dash/blog/test-evidence_vol_80/",
-    "https://www.ipa.go.jp/digital/software-survey/metrics/hjuojm000000c6it-att/000102171.pdf"
+    "https://www.icrweb.jp/mod/resource/view.php?id=11036",
+    "https://www.amed.go.jp/content/000048621.pdf",
+    "http://www.biostar.co.jp/doc0001.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -333,10 +336,10 @@
     "https://www.linkedin.com/in/billyost",
     "https://www.linkedin.com/posts/dr-moya-hill-912837179_most-people-use-metadata-every-single-day-activity-7497268246711078912-mM_9",
     "https://www.linkedin.com/in/neel-bhattacharyya",
+    "https://www.linkedin.com/in/shirleyxywu",
     "https://www.linkedin.com/in/davekale",
     "https://www.linkedin.com/in/ramkumar-karuppiah-4458414",
     "https://www.linkedin.com/in/scott-burns-8562bb",
-    "https://uk.linkedin.com/company/environmental-data-science",
     "https://www.linkedin.com/pulse/pinnacle-21-validation-fda-submissions-architecture-integration-iacme"
    ],
    "engines": [
@@ -347,13 +350,13 @@
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ21頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）",
-  "実例": "記載なし（読んだ21頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ22頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ22頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ22頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）",
+  "実例": "記載なし（読んだ22頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-08T03:12:37.371205+00:00"
 }

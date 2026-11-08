@@ -1,0 +1,1242 @@
+{
+ "name": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102）",
+ "en": "Japan Census of Manufactures definition of persons engaged notes on use METI",
+ "aliases": [
+  "工業統計調査 用語の解説 従業者",
+  "工業統計 利用上の注意 従業者 臨時雇用者",
+  "経済構造実態調査 製造業事業所調査 用語 従業者 定義"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T09:46:35.847723+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "号）に掲げる「大分類Ｅ−製造業」に属する事業所（国に属する事業所及び従業者３人以下の事業所を除く）である",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "ウ 臨時雇用者とは、常用労働者以外の雇用者で、１ヵ月以内の期間を定めて雇用されている者や日々雇用されている者をいう",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "年１年間に常用労働者のうち雇用者（「正社員、正職員等」及び「パート・アルバイト等」をいう）に対して支給された基本給、諸手当及び特別に支払われた給与（期末賞与等）の額とその他の給与額との合計である",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者４人以上の製造事業所であること",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1年間（1～12月）に常用雇用者及び有給役員のうちこの事業所に従事している人に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額とその他の給与額との合計である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 従業者30人以上",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者29人以下",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "【従業者3人以下の事業所】",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業者4人以上の事業所が調査対象であるため、従業者3人以下の事業所の数値について、平成29年調査以降については、以下の推計を行い「産業別統計表 5．参考表」に掲載している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、製造品出荷額等の3項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "1) 事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の従業者4～9人事業所の産業細分類別（4桁分類）1事業所あたりの対前年比（※）を都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）1事業所あたりの数値（前年値）に乗じたものに、当年の都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）の事業所数を乗じて算出し、産業小分類（3桁分類）、産業中分類別（2桁分類）に積み上げた値を各都道府県の推計値とし、これを積み上げて全国の数値としている",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "西暦末尾が0、3、5、8年以外の年は「裾切り調査」として簡素化され、一部特定業種を除いて、従業者3人以下の事業所は調査対象外となっている",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）従業者30人以上の事業所 ――「工業調査票甲」（巻末参照）",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）従業者29人以下の事業所―― 「工業調査票乙」（巻末参照）",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者数",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "[1] 個人事業主及び無給家族従業者",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「常用労働者」とは[2]〜[4]に属し、次のいずれかに該当する者をいう",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "日々又は1カ月以内の期間を限って雇われている者のうち、その月とその前月に、それぞれ18日以上雇われた者（人材派遣会社からの派遣従業者",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣業を営んでいる会社から派遣された従業者であっても、製造ラインの一部を借用し、請負契約を結んで生産工程の一部を担っていれば、それだけで別事業所となるため派遣先の「[4]出向・派遣受入者」には含まれない",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3)常用労働者年間月平均数 平成14年毎月末日現在の月別常用労働者数の平均である",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者30人以上）",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "(4)現金給与総額 平成14年中における、常用労働者",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "（法人税法施行令 第28〜33条）",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "(11)生産額 次の算式により計算した額（従業者30人以上）",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者30人以上",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "実施し、それ以外の年は従業者人以上の事業所、従業者人以下の事業所のうち特定業種に該当する事業所を調43",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業者人以上の事業所（製造、加工又は修理を行っていない本社又は本店を除く）につい30",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ては「工業調査票甲、従業者人以下の事業所（製造、加工又は修理を行っていない本社又は本店を除く）につ」 29",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「企業統計編」は、従業者４人以上の事業所について、事業所単位の調査結果を企業単位に組み替えて集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「」、、いて主要な調査項目を市区町村別に集計したものである工業地区編は従業者人以上の事業所について4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4人以上の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者30人以上の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4～29人の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "年１年間における製造品出荷額、加工賃収入額、くず廃物の出荷額及びその他収入額",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "製造品又は賃加工品が単品の事業所については、６桁の製造品及び賃加工品番号（以下「品目番号」という",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "製造品又は賃加工品が複数の事業所については、まず、品目番号上２桁 （産業中分類）が同一の品目ごとに、製造品出荷額又は加工賃収入",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "万円 ２９４",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "万円 ２９４１",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "万円 産業格付＝２９４１",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1年間（1～12月）における製造品出荷額、加工賃収入額、その他収入額及び製造工程からでたくず及び廃物の出荷額の合計である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、製造品出荷額等の3項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "2) 製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(6)製造品出荷額等 平成14年中における製造品出荷額",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "加工賃収入額とは、他の所有する原材料又は製品に加工を加え平成13年中に引き渡したものに対して、受け取った加工賃又は受け取るべき加工賃である",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "[4] 船舶、車両、運搬具、耐用年数1年以上で一件10万円以上の工具、器具、備品等",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "(11)生産額 次の算式により計算した額（従業者30人以上）",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "【｛製造品出荷額計×（1−輸出割合）＋（加工賃収入額計＋修理料収入額）",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "【｛製造品出荷額計×（1−輸出割合）＋（加工賃収入額計＋修理料収入額）−原材料使用額等｝÷1．05",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "推計消費税額＝【｛製造品出荷額計×（1−輸出割合）＋（加工賃収入額計＋修理料収入額）｝−原材料使用額等】",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "①「社事業所を保有する企業」は、当該事業所（＝企業）の製造品出荷額等により産業格付けを行ってい11",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②「社事業所以上を保有する企業」は、傘下の各事業所の産業細分類ごとの製造品出荷額等を集計し、企12",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11()製造業でない企業に属する事業所は当該事業所の製造品出荷額等によって産業格付けを行い当該事業所を、、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "()製造品出荷額等は、平成年年間における製造品出荷額、加工賃収入額、修理料収入額、製造工程からで5131",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③加工賃収入額とは、平成年中に他の所有に属する主要原材料によって製造し、あるいは他の所有に属す13",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "算式：粗付加価値額＝生産額（）－（消費税を除く内国消費税額（）＋推計消費税額（）－原材料使用額等*1*2*3 ）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "：生産額＝製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）＋（半製品及び仕掛品年末価額*1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "万円 ２９４",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "万円 ２９４１",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "万円 産業格付＝２９４１",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "[4] 船舶、車両、運搬具、耐用年数1年以上で一件10万円以上の工具、器具、備品等",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "(12)付加価値額 次の算式により計算した額",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成12年以前の従業者規模10〜29人規模の付加価値額も、この算式により粗付加価値額として算出し直している",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "（4）比率計算している箇所や百万円単位で表示している箇所は、四捨五入しているので内訳と合計が一致しないことがある",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "算式：粗付加価値額＝生産額（）－（消費税を除く内国消費税額（）＋推計消費税額（）－原材料使用額等*1*2*3 ）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "イ 建設仮勘定の増加額とは、この勘定の借方に加えられた額であり、減少額とはこの勘",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "統計表中で、前年比又は構成比等については、小数点以下第２位を四捨五入しており、また、内訳積み上げ計と合計値が一致しない場合が",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表中の平成23年（2011年）における数値は、「平成24年経済センサス‐活動調査 製造業（総務省・経済産業省）」の調査結果のうち、工業統計調査の調査範囲に合わせるため、以下の全てに該当する製造事業所について集計したものであり、斜体で表章してある",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "年調査において、調査対象事業所の捕捉率を高めたため、「事業所数」、「従業者数」等の対前年比については、時系列を考慮し、新たに捕捉した事業所を除いて計算している",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 建設仮勘定の増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に振り替えられた額をいう",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額とは、有形固定資産の売却、撤去、滅失及び同一企業に属する他の事業所への引き渡しなどの額をいう",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資総額＝取得額＋建設仮勘定の年間増減（増加額－減少額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の従業者4～9人事業所の産業細分類別（4桁分類）1事業所あたりの対前年比（※）を都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）1事業所あたりの数値（前年値）に乗じたものに、当年の都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）の事業所数を乗じて算出し、産業小分類（3桁分類）、産業中分類別（2桁分類）に積み上げた値を各都道府県の推計値とし、これを積み上げて全国の数値としている",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年商品分類表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年商品分類表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2020.05.22",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、新聞業及び出版業に関しては平成13年調査までは製造業であったことから、調査結果の概要及び統計表で表示する平成13年以前の時系列の数値は変更していない",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "②建設仮勘定の増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に振",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア有形固定資産の建設仮勘定の年間増減＝増加額－減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成年調査において事業所の捕そくを行っており、数値を時系列で使用する際には留意されたい",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "更新日：2025年1月14日",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査（製造業事業所調査）に関する統計表は、従来の「工業統計調査」と時系列比較を行うため、兵庫県独自で集計し取りまとめたものです",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（速報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "年１年間における原材料使用額、燃料使用額、電力使用額、委託生産費、製造等に関連する外注費",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費用をい",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "連する外注費」、「転売した商品の仕入額」を調査項目として追加している",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等に「製造等に関連する外注費」、「転売した商品の仕入額」を追加）したことにより、｢製造品出荷額等｣、｢付加価値額｣等については、平成",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1年間（1～12月）における原材料使用額、燃料使用額、電力使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(5)原材料使用額等 平成14年中における原材料使用額、燃料使用額、電力使用額及び委託生産費（外注加工費）",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "委託生産費（外注加工費）とは、原材料又は製品を他企業の事業所に支給して、製造加工を委託した場合、これに支払った加工賃又は支払うべき加工賃であり、加工の外注先や構内で加工を請け負わせている下請け事業所に対して支払う額である",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造ラインの一部をあてがい、生産工程の一部を請け負わせている人材派遣会社への支払いは、出向派遣受入者に係る現金給与ではなく、委託生産費（外注加工費）となる",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "（支払う側からは「委託生産費（外注加工費）」であるが、受け取る側は「加工賃収入額」となる）このため自ら加工を行う場合と、他に加工を外注する場合とでは「製造品出荷額等」は異なることになる",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、原材料を他に支給して製造させた委託生産品（外注先にある在庫）も含まれる",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "本調査を実施する前に準備調査を行い、廃業・休業、新設等の確認をし、対象の最新情報の把握に努めている",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成14年途中まで操業していても、調査日時点ですでに廃業となった事業所については集計されていない",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "事業所数、従業者数、製造品出荷額等の3項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "1) 事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の従業者4～9人事業所の産業細分類別（4桁分類）1事業所あたりの対前年比（※）を都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）1事業所あたりの数値（前年値）に乗じたものに、当年の都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）の事業所数を乗じて算出し、産業小分類（3桁分類）、産業中分類別（2桁分類）に積み上げた値を各都道府県の推計値とし、これを積み上げて全国の数値としている",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数 一般に工場、製作所あるいは加工所などと呼ばれているような一区画を占めて主として製造または加工を行っているもので",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成12年以前の従業者規模10〜29人規模の付加価値額も、この算式により粗付加価値額として算出し直している",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 300人以上",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模が1〜3人の事業所については集計対象に含めていない",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "（9）統計表のうち I 産業編の「8 品目別統計表」の算出事業所数には、ひとつの事業所でも複数の品目を生産した場合、各品目に重複して計上される",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "(1) 有形固定資産の取得額等には、次の区分がある",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額とは、有形固定資産の売却、撤去、滅失及び同一企業に属する他の事業所への引き渡しなどの額をいう",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 有形固定資産の投資総額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "(7)有形固定資産 事業所の所有する次に掲げるもの",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "(8)有形固定資産 次の算式により計算した額",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "[1]従業者30人以上で、有形固定資産と在庫の帳簿額が消費税込みの事業所",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "[2]従業者30人以上で、有形固定資産と在庫の帳簿額が消費税抜きの事業所",
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "pass": 3
+   },
+   {
+    "quote": "()有形固定資産の額(従業者人以上の事業所又は企業)は、平成年年間における数値であり、帳簿価額に630131",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/kadai/pdf/kadai_report_3rdPeriod26.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/326M50000400081/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/pdp/05p001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kumamoto.jp/kiji0033002/3_3002_472658_up_zkjb5j07.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/cmsfiles/contents/0000016/16521/000371389.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kumamoto.jp/kiji0033002/5_3002_199926_up_KNEHNYLX.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/9452.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2020/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000002224801&fileKind=2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.aomori.aomori.jp/shisei/toukei/1006138/1006141.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/contents/01700059_00005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kobe.lg.jp/a47946/shise/toke/toukei/kougyou/2020.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n79684d75a109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/cmsfiles/contents/0000020/20689/000399408.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003127854",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.fukuyama.hiroshima.jp/uploaded/attachment/127619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.shibata.lg.jp/machidukuri/about/toukei/kougyo/1001789.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000928642.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003448112",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 人手不足 受注 断る",
+   "results": [
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jil.go.jp/institute/kadai/pdf/kadai_report_3rdPeriod26.pdf",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://ats-entry.hito-link.jp/sites/persol-hrpartners/matter/matters/102327"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 受注残 人手不足",
+   "results": [
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://laws.e-gov.go.jp/law/326M50000400081/",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_gaiyo.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 人手不足 損失 億円",
+   "results": [
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.jcer.or.jp/j-column/column-saito/2025023.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "https://www.rieti.go.jp/jp/publications/pdp/05p001.pdf",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo4.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "https://www.city.kumamoto.jp/kiji0033002/3_3002_472658_up_zkjb5j07.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.city.okayama.jp/shisei/cmsfiles/contents/0000016/16521/000371389.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.city.kumamoto.jp/kiji0033002/5_3002_199926_up_KNEHNYLX.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/9452.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2020/01.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/kigyo/pdf/h13riyou.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.city.aomori.aomori.jp/shisei/toukei/1006138/1006141.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.city.kitakyushu.lg.jp/contents/01700059_00005.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.city.kobe.lg.jp/a47946/shise/toke/toukei/kougyou/2020.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b005.html",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.city.okayama.jp/shisei/cmsfiles/contents/0000020/20689/000399408.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2020/01.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003127854",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.city.fukuyama.hiroshima.jp/uploaded/attachment/127619.pdf",
+    "https://www.city.shibata.lg.jp/machidukuri/about/toukei/kougyo/1001789.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.e-stat.go.jp/dbview?sid=0003448112",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2014/01.pdf",
+    "https://www.city.fukuyama.hiroshima.jp/uploaded/attachment/127619.pdf",
+    "https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo4.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Japan Census of Manufactures definition of persons engaged notes on use METI Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/nenkan/1431-09e.htm",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.soumu.go.jp/main_content/000327471.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102）",
+   "results": [
+    "https://note.com/deep_think_ai/n/n746bd6a8eb21",
+    "https://note.com/routexstartups/n/n27e466f6a8f2",
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/reading_monkey/n/n1ec94596a997",
+    "https://note.com/iceman_23/n/n1f8086e0d482",
+    "https://note.com/tsunobuchi/n/nacac6c295472",
+    "https://note.com/lopra_lab/n/nf227ff5e7540",
+    "https://note.com/hirokimiyano/n/nc7316aa044cb",
+    "https://note.com/jack4manastalk/n/ncf970b24dd2b",
+    "https://note.com/aibusinesshunter/n/n08760c71e52f"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 24
+  },
+  {
+   "query": "site:x.com 工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102）",
+   "results": [
+    "https://x.com/ka_ka_xyz",
+    "https://jf.x.com/images/media-preview/2106380537472356561",
+    "https://jf.x.com/images/media-preview/2106581744245707050",
+    "https://x.com/classygyosei/status/2030775317628137672",
+    "https://x.com/ishiwatahiroshi/status/2040684349394502027",
+    "https://help.x.com/ja/rules-and-policies",
+    "https://x.com/kinoshita_ke/status/2111845899135820184",
+    "https://x.com/HiromitsuTakagi/status/2057661929397887114"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102）",
+   "results": [
+    "https://jp.linkedin.com/in/satorutateishi",
+    "https://jp.linkedin.com/in/yutaro-okamoto-otori0702",
+    "https://px.ads.linkedin.com/collect/?pid=1717796&fmt=gif",
+    "https://www.linkedin.com/company/elder-logistics-inc",
+    "https://jp.linkedin.com/posts/株式会社hrマネジメント_36協定-労務管理-従業員数数え方-activity-7396093957618769920--HkI",
+    "https://jp.linkedin.com/pulse/hrs-role-ensuring-ethical-use-employee-data-manali-shelke-ynldf?tl=ja",
+    "https://www.linkedin.com/posts/寛泰-大畑-b50498164_有給休暇の使い方は原則その従業員の自由です-これついて最高裁は-年次有給休暇-activity-7078203548965998592-aP_e",
+    "https://jp.linkedin.com/posts/kiyoka-yoshimatsu-b2695129a_原文のコラム調のままだと文化論と品質論と国際標準化が混ざっていてロジック-activity-7476479310590025728-8r_b",
+    "https://jp.linkedin.com/pulse/how-address-safety-concerns-employees-working-field-gideon-kati?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102）",
+   "results": [
+    "https://www.facebook.com/groups/368972756282/",
+    "https://www.facebook.com/groups/1176671326743489/",
+    "https://www.facebook.com/groups/353224831758336/",
+    "https://www.facebook.com/groups/taiwanexam/",
+    "https://graph.facebook.com/v17.0/1767954653653145/picture/",
+    "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/",
+    "https://www.facebook.com/hr.kaizen/photos/創意とくふう2026年1月号出ましたㅤ-特集1は改善3つの定義改善活動で大事なのは共通認識改善とはこういうことという定義が人によってバラバラだと指導や評価に一貫/1615417329584500/",
+    "https://www.facebook.com/fukuoka.takken/posts/宅建業法改正に伴う従業者名簿の新様式について本年４月１日より一部施行となる改正宅建業法では第４８条により備付が義務付けられております従業者名簿への記載事項のうち/1391075797604203/",
+    "https://www.facebook.com/100063817849525/posts/改正個人情報保護法上の匿名加工情報の定義とその利用方法個人情報保護法について井上愛美弁護士が解説します-我が社では様々な年代や性別の人達の趣向について調査を行い/164910137481836/",
+    "https://www.facebook.com/100064864117467/posts/労働組合の専従者とは会社の従業員としての身分を持ちながら仕事は一切せず労働組合の業務にのみ専念する人のことですこれに関する法律規定は日本と韓国では扱いが異なりま/1390549046450553/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） note 社長",
+   "results": [
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h24/kakuho/kogyochiku/pdf/h24-k7-riyou-j.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.rieti.go.jp/jp/publications/pdp/05p001.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2014/01.pdf",
+    "https://www.e-stat.go.jp/surveyitems/definitions/44690",
+    "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b005.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 利用上の注意の従業者の定義の原文（経産省・全国・個人業主・無給家族従業者・有給役員・常用雇用者・臨時雇用者・出向者の扱いと年による変更・1人あたりの分母の定義・4-102） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://kaseikyo.jp/wp/wp-content/uploads/20200325_Public_relations_request.pdf",
+    "https://www.soumu.go.jp/main_content/001046712.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/gaiyo/pdf/2020-k1-riyou.pdf",
+    "https://x.com/meti_NIPPON",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "http://sentence.co.jp/2019/03/06/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E3%81%8C%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%8C%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E3%80%8D%E3%81%AE%E8%AA%BF/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan Census of Manufactures definition of persons engaged notes on use METI site:linkedin.com",
+   "results": [
+    "https://ca.linkedin.com/in/yong-kang-ma",
+    "https://www.linkedin.com/pulse/meti-white-paper-manufacturing-2026-sets-new-course-japan-kkoyf",
+    "https://www.linkedin.com/posts/noriyuki-yokota-8a196b29b_regarding-the-contract-for-the-implementation-activity-7433149361464856576-1Iw1",
+    "https://www.linkedin.com/posts/itbusinesstoday_the-meti-white-paper-on-manufacturing-2026-activity-7516505807992020992-g_lX",
+    "https://www.linkedin.com/pulse/optimized-linkedin-article-ministry-economy-trade-industry-bf5sc/",
+    "https://jp.linkedin.com/in/katsuro-igari-31344051",
+    "https://in.linkedin.com/posts/argus-media_news-story-meti-sees-japans-medium-term-activity-7039044763865485313-TvVX",
+    "https://jp.linkedin.com/in/masahiko-uchino-657250180"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {}
+}
