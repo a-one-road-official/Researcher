@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-07T23:55:56.211871+00:00",
+ "researched_at": "2026-11-08T06:30:40.358043+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -43,12 +43,17 @@
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/kazukio/n/nf178e4d3f085",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/tsubasatada/n/n78f386a76b0f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kazukio/n/nf178e4d3f085",
+    "url": "https://note.com/domonjo01/n/n7b6775deeeca",
     "status": "ok",
     "method": "http"
    },
@@ -63,123 +68,38 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/domonjo01/n/n7b6775deeeca",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/studio_ichizen/n/n5f1a010b0e45",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
-    "status": "http_403",
+    "url": "https://verificationhandbook.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datajournalism.com/read/handbook/verification-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datajournalism.com/read/handbook/verification-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://verificationhandbook.com/downloads/verification.handbook.2.pdf",
+    "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.meti.go.jp/policy/netsecurity/wg3/kensyou_tebiki_r6kaitei.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/4989er/n/n40c8fd7dc601",
+    "url": "https://theosintvault.io/osint-handbook",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "url": "https://osintverse.com/resources/ebooks/verification-handbook",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ibm.com/docs/ja/icos/22.1.2?topic=methods-setlength-method",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://support.site24x7.com/portal/ja/community/tag/severity",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://product.sct.co.jp/blog/security/what-is-osint",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nii-auth.atlassian.net/wiki/spaces/meatmailniiacjp/pages/36274344",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://scientia-security.github.io/translation/2019-OSINT-Guide.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sans.org/webcasts/nextstep-osint-practical-image-video-verification-techniques-ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/031100251/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mediahelpingmedia.org/advanced/open-source-intelligence-osint-in-journalism/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchguides.journalism.cuny.edu/factchecking-verification/UGC-verification",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.osint.industries/post/osint-journalism-our-guide-to-osint-for-journalists",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ituonline.com/blogs/open-source-intelligence-osint/",
-    "status": "network_error:ReadTimeout",
     "method": "http"
    }
   ]
@@ -188,13 +108,47 @@
   {
    "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） site:note.com",
    "results": [
-    "https://note.com/tsubasatada/n/n78f386a76b0f",
     "https://note.com/kazukio/n/nf178e4d3f085",
+    "https://note.com/tsubasatada/n/n78f386a76b0f",
+    "https://note.com/domonjo01/n/n7b6775deeeca",
     "https://note.com/clean_broom590/n/n49ea7629e4c4",
     "https://note.com/arima_planning/n/n0ab5b6e24474",
-    "https://note.com/domonjo01/n/n7b6775deeeca",
     "https://note.com/studio_ichizen/n/n5f1a010b0e45",
     "https://note.com/yosatonet/n/ne02cbf66600a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） note",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） やり方",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） 事例",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "data journalism spreadsheet checks verification handbook OSINT best practices",
+   "results": [
+    "https://verificationhandbook.com/",
+    "https://datajournalism.com/read/handbook/verification-1",
+    "https://datajournalism.com/read/handbook/verification-3",
+    "http://verificationhandbook.com/downloads/verification.handbook.2.pdf",
+    "https://theosintvault.io/osint-handbook",
+    "https://osintverse.com/resources/ebooks/verification-handbook",
+    "https://github.com/osintshifu/osint-tradecraft"
    ],
    "engines": [
     "ddgs:google"
@@ -202,92 +156,18 @@
    "n_hits": 7
   },
   {
-   "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） note",
-   "results": [
-    "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
-    "https://www.meti.go.jp/policy/netsecurity/wg3/kensyou_tebiki_r6kaitei.pdf",
-    "https://note.com/4989er/n/n40c8fd7dc601",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://scientia-security.github.io/translation/2019-OSINT-Guide.html",
-    "https://www.ibm.com/jp-ja/think/topics/osint",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） やり方",
-   "results": [
-    "https://www.ibm.com/docs/ja/icos/22.1.2?topic=methods-setlength-method",
-    "https://support.site24x7.com/portal/ja/community/tag/severity",
-    "https://www.meti.go.jp/policy/netsecurity/wg3/kensyou_tebiki_r6kaitei.pdf",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://product.sct.co.jp/blog/security/what-is-osint",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://nii-auth.atlassian.net/wiki/spaces/meatmailniiacjp/pages/36274344",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
-    "https://scientia-security.github.io/translation/2019-OSINT-Guide.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） 事例",
-   "results": [
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
-    "https://product.sct.co.jp/blog/security/what-is-osint",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://www.youtube.com/watch?v=RcpXi3gnS84",
-    "https://www.sans.org/webcasts/nextstep-osint-practical-image-video-verification-techniques-ja",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/031100251/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "data journalism spreadsheet checks verification handbook OSINT best practices",
-   "results": [
-    "https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work",
-    "https://mediahelpingmedia.org/advanced/open-source-intelligence-osint-in-journalism/",
-    "https://researchguides.journalism.cuny.edu/factchecking-verification/UGC-verification",
-    "https://www.osint.industries/post/osint-journalism-our-guide-to-osint-for-journalists",
-    "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "https://www.ituonline.com/blogs/open-source-intelligence-osint/",
-    "https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf",
-    "http://verificationhandbook.com/",
-    "https://libguides.csun.edu/journalism/verification-and-digital-reporting",
-    "https://datajournalism.com/read/handbook/verification-1"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
    "query": "site:note.com データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る）",
    "results": [
     "https://note.com/domonjo01/n/n7b6775deeeca",
-    "https://note.com/yosatonet/n/ne02cbf66600a",
     "https://note.com/kazukio/n/nf178e4d3f085",
     "https://note.com/studio_ichizen/n/n5f1a010b0e45",
+    "https://note.com/yosatonet/n/ne02cbf66600a",
     "https://note.com/arima_planning/n/n0ab5b6e24474",
-    "https://note.com/tsubasatada/n/n78f386a76b0f",
-    "https://note.com/hkinami/n/na4fa35cc22d2"
+    "https://note.com/clean_broom590/n/n49ea7629e4c4",
+    "https://note.com/tsubasatada/n/n78f386a76b0f"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -296,11 +176,11 @@
    "results": [
     "https://x.com/datajournalism",
     "https://x.com/nkinvestigation",
-    "https://x.com/keikakukeizai/status/2109460537486794901",
     "https://x.com/hiruandon_0/status/2070427565588922757",
+    "https://x.com/sugoi_kaizen/status/2062359673173631025",
     "https://x.com/saito_kentaro_/status/2036827288227217737",
-    "https://x.com/Charlie_no_site/status/2108666105434870084",
-    "https://x.com/shioshio38/status/2050266589065556318"
+    "https://x.com/kobesyakai/status/2061575772511584561",
+    "https://x.com/keikakukeizai/status/2109460537486794901"
    ],
    "engines": [
     "ddgs:google"
@@ -313,9 +193,9 @@
     "https://jp.linkedin.com/pulse/your-summer-recap-gijns-must-read-resources-hxqte?tl=ja",
     "https://www.linkedin.com/company/global-investigative-journalism-network",
     "https://nl.linkedin.com/posts/winnydejong_the-data-journalism-handbook-activity-6783831018890653696-IIoU",
-    "https://www.linkedin.com/pulse/essential-strategies-verifying-data-accuracy-nokuthaba-h-z-mathema-btwvf",
+    "https://jp.linkedin.com/pulse/gijns-substack-how-investigated-global-investigative-journalism-ne-hinae?tl=ja",
     "https://jp.linkedin.com/pulse/from-chaos-confidence-power-data-validation-migration-muraleedhara-luirc?tl=ja",
-    "https://jp.linkedin.com/pulse/how-verify-data-cleaning-process-checklist-sheik-shahul-m-iktic?tl=ja",
+    "https://www.linkedin.com/pulse/essential-strategies-verifying-data-accuracy-nokuthaba-h-z-mathema-btwvf",
     "https://jp.linkedin.com/pulse/data-quality-monitoring-vs-technical-validations-key-khatkhedkar-lbmse?tl=ja"
    ],
    "engines": [
@@ -326,13 +206,13 @@
   {
    "query": "site:facebook.com データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る）",
    "results": [
-    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/",
     "https://www.facebook.com/WatchdogAccuracyNewsJapan/",
-    "https://www.facebook.com/groups/498284983562174/",
+    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-new-gijn-reporting-guide-detecting-ai-generated-contentjournalists-face-growing/1168760971959669/",
+    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/events/",
     "https://www.facebook.com/data.driven.journalism/",
     "https://www.facebook.com/ffwpu.spokesperson/posts/upf-japan-official-20260526検証インタビュー客観的データが浮き彫りにする暴走報道の真実-著述家加藤文宏氏eng-sub2022年の安倍/957840017062866/",
     "https://www.facebook.com/WatchdogAccuracyNewsJapan/posts/お知らせファクトチェック-イニシアティブｆｉｊがnpo法人になりましたこのたび日本報道検証機構はｆｉｊの会員となり日本で初めてファクトチェックを実施してきた実績/1871285862943536/",
-    "https://www.facebook.com/jima.media/posts/ona-japan主催によるコロナとデータ報道ニュースメディアは何を伝えられなかったかと題したウェビナーが99水1800に開催されます詳細は以下のリンクからご覧/1646209885537645/"
+    "https://www.facebook.com/ONAJapan/posts/本日ですイベント概要メディア関係者向けona-japanウェビナーコロナとデータ報道ニュースメディアは何を伝えられなかったか新型コロナウイルスに関する報道をめぐ/854955051576136/"
    ],
    "engines": [
     "ddgs:google"
@@ -341,93 +221,39 @@
   },
   {
    "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） note 社長",
-   "results": [
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://note.com/4989er/n/n40c8fd7dc601",
-    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
-    "https://product.sct.co.jp/blog/security/what-is-osint",
-    "https://www.youtube.com/watch?v=RcpXi3gnS84",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.ibm.com/jp-ja/think/topics/osint"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る） X 投稿",
-   "results": [
-    "https://ethosrisk.com/blog/osint-best-practices/",
-    "https://support.site24x7.com/portal/ja/community/tag/severity",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://nii-auth.atlassian.net/wiki/spaces/meatmailniiacjp/pages/36274344",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://product.sct.co.jp/blog/security/what-is-osint",
-    "https://reportcontent.google.com/forms/ncii?hl=ja&visit_id=639167478280733324-3170710406&rd=1",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "data journalism spreadsheet checks verification handbook OSINT best practices site:linkedin.com",
    "results": [
-    "https://fr.linkedin.com/in/mariannebouchart",
-    "https://www.linkedin.com/posts/ayushmeshram22_cybersecurity-osint-threatintelligence-activity-7393891310157516800-U8wx",
-    "https://www.linkedin.com/pulse/ai-assisted-investigative-journalism-pakistan-practical-aleem-vpv4f",
-    "https://www.linkedin.com/posts/gisela-perez-de-acha_i-wasnt-supposed-to-be-an-osint-journalist-activity-7517230486025388032-BMhI",
-    "https://www.linkedin.com/top-content/recruitment-hr/reference-checking-techniques/how-to-verify-engineering-information-sources/",
-    "https://www.linkedin.com/top-content/technology/ethical-hacking-techniques/open-source-intelligence-osint/",
-    "https://ke.linkedin.com/in/linda-ngari",
-    "https://www.linkedin.com/pulse/amateur-osint-beginners-guide-open-source-vijay-gupta--dyzyc"
+    "https://www.linkedin.com/posts/osint-jobs_osint-verification-datajournalism-activity-7135553036583604224-139A",
+    "https://www.linkedin.com/pulse/introducing-osint-handbook-comprehensive-guide-odi4c",
+    "https://pe.linkedin.com/pulse/understanding-osint-in-depth-guide-muhammad-naimatullah-khan-htpec",
+    "https://www.linkedin.com/pulse/reference-aid-osint-best-practices-2000-2024-dark-watch-bhg9c",
+    "https://www.linkedin.com/top-content/networking/cybersecurity-best-practices/best-practices-for-osint-source-validation/",
+    "https://www.linkedin.com/pulse/best-practices-conducting-osint-research-vijay-gupta--mmiac",
+    "https://www.linkedin.com/pulse/curated-osint-best-practices-2024-dark-watch-oid1e"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ28頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ28頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）"
  },
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "Familiarize yourself with search and research methods, and new tools.",
-    "url": "https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Journalists, human rights workers and others are constantly making use of open data, user-generated content and other open source information to produce critically important investigations of everything from conflict zones to human rights abuse cases and international corruption.",
-    "url": "https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It’s all thanks to open source information and user-generated content. As chapters and case studies in this Handbook detail, this same material is being used by investigative journalists in Africa and by groups such as Amnesty International and WITNESS to expose fraud, document war crimes and to help the wrongly accused defend themselves in court.",
-    "url": "https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This companion to the original Verification Handbook offers detailed guidance and illustrative case studies to help journalists, human rights workers and others verify and use open source information and user-generated content in service of investigative projects.",
-    "url": "https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-07T23:55:56.211871+00:00"
 }

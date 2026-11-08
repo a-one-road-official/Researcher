@@ -8,7 +8,7 @@
  ],
  "context": "名寄せ",
  "kind": "market",
- "researched_at": "2026-11-07T23:39:58.592250+00:00",
+ "researched_at": "2026-11-08T06:24:16.856466+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -49,22 +49,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.itea.or.jp/topics/20250813.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://invox.jp/storage/spelling-adjust",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://senzing.com/what-is-entity-resolution/",
+    "url": "https://www.itea.or.jp/topics/20250813.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://cdp.com/glossary/entity-resolution/",
+    "url": "https://senzing.com/what-is-entity-resolution/",
     "status": "ok",
     "method": "http"
    },
@@ -80,6 +75,11 @@
    },
    {
     "url": "https://flur.ee/solutions/entity-resolution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
     "status": "ok",
     "method": "http"
    },
@@ -100,8 +100,8 @@
     "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
     "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
     "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
     "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
     "https://invox.jp/storage/spelling-adjust"
    ],
    "engines": [
@@ -114,13 +114,13 @@
    "results": [
     "https://note.com/k2naka/n/n46d8b0b24ecd",
     "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
-    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
     "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://www.itea.or.jp/topics/20250813.pdf",
-    "https://invox.jp/storage/spelling-adjust"
+    "https://invox.jp/storage/spelling-adjust",
+    "https://www.itea.or.jp/topics/20250813.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -132,13 +132,13 @@
    "results": [
     "https://note.com/k2naka/n/n46d8b0b24ecd",
     "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
-    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
     "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://www.itea.or.jp/topics/20250813.pdf",
-    "https://invox.jp/storage/spelling-adjust"
+    "https://invox.jp/storage/spelling-adjust",
+    "https://www.itea.or.jp/topics/20250813.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -154,8 +154,8 @@
     "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
     "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
     "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
     "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
     "https://invox.jp/storage/spelling-adjust"
    ],
    "engines": [
@@ -167,18 +167,18 @@
    "query": "entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity",
    "results": [
     "https://senzing.com/what-is-entity-resolution/",
-    "https://cdp.com/glossary/entity-resolution/",
     "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
     "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc",
     "https://flur.ee/solutions/entity-resolution",
-    "https://recordlinker.com/entity-resolution-ml-data-standardization/",
-    "https://www.youtube.com/watch?v=nN91HuSWOJA&vl=ja",
-    "https://www.tamr.com/entity-resolution",
     "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
+    "https://recordlinker.com/entity-resolution-ml-data-standardization/",
+    "https://www.tamr.com/entity-resolution",
+    "https://medium.com/@adev94/entity-resolution-an-introduction-fb2394d9a04e",
+    "https://nhimg.org/glossary/normalized-entity-resolution/",
     "https://www.minimalistinnovation.com/post/unicode-normalization-entity-resolution"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -222,13 +222,13 @@
    "results": [
     "https://note.com/k2naka/n/n46d8b0b24ecd",
     "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
     "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
-    "https://invox.jp/storage/spelling-adjust",
     "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://www.itea.or.jp/topics/20250813.pdf"
+    "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
+    "https://invox.jp/storage/spelling-adjust"
    ],
    "engines": [
     "yahoo_jp"
@@ -244,8 +244,8 @@
     "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
     "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
     "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
     "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
     "https://invox.jp/storage/spelling-adjust"
    ],
    "engines": [
@@ -262,7 +262,7 @@
     "https://www.linkedin.com/posts/joshikav_github-ashmitha-polamarasettiamazonmlchallenge-activity-7510172940735512576-fPtw",
     "https://www.linkedin.com/pulse/entity-establishment-l1-layer-ai-processes-before-retrieves-haynes-6jsyc",
     "https://www.linkedin.com/pulse/entity-resolution-foundation-nobody-wants-build-navdeep-singh-gill-cmuef?tl=en",
-    "https://www.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac"
+    "https://www.linkedin.com/pulse/when-string-similarity-enough-how-i-solved-company-legal-marques-k4qwf/"
    ],
    "engines": [
     "ddgs:google"
@@ -278,6 +278,6 @@
   "実例": "記載なし（読んだ15頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T07:57:46.885376+00:00"
 }

@@ -2214,6 +2214,8 @@
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
 - 手順・やり方：
+  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告を官報で閲覧する5つの方法を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告を電子公告に変更する登記手続き｜費用3万円・5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2227,8 +2229,6 @@
   - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「株式会社保険会社との違い、公告方法、罰則、現存する生保5社を一次資料で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -10449,11 +10449,11 @@
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
@@ -10516,6 +10516,9 @@
   - 「官報と同様に決算公告は「要旨」の掲載で足りますが、掲載料は新聞社、掲載する版、原稿サイズによって異なります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
   - 「地方紙の地域版では、原稿が小さく収まれば官報より安くなる場合もあります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
 - 失敗・落とし穴：
+  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「掲載の中断防止と財務情報の開示範囲に注意する」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
@@ -10528,9 +10531,6 @@
   - 「中小企業基盤整備機構 J-Net21「ホームページで決算公告を行いたいのですが、注意点があったら教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「官報公告を利用する際の注意点は、後述する電子公告に比べて費用がかかることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
   - 「新聞公告を利用する際の注意点は、他の公告方法に比べて費用が高額になることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「なお、決算公告以外の法定公告は電子公告調査を受ける必要がありますが、この調査にかかる費用は10万～20万円かかり、それも含めると官報に掲載する費用の3万～20万円より多くなる場合もあるため、注意が必要です」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「電子公告を利用する場合にも注意点があります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「定款の書き方は？記載事項ごとの書き方のポイントや注意点も解説」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
 - 実例：
   - 「例えば、北海道新聞の法定広告料金は、2026年7月時点で1段×1cm当たり、全道版が税別43,000円、札幌本社版が税別29,100円、函館版が税別9,800円です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
   - 「例えば、自宅マンションの一室を事務所にしている場合、オートロックの外側に掲示できるか、管理規約や管理者の承諾を確認しなければなりません」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
@@ -11104,7 +11104,7 @@
   - 「The guide warns that cases can disappear without notice .」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
   - 「Following the Waste Back to Italy: An OSINT Case Study from Croatia」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
   - 「AI-Designed Viral Genomes: What the First Functional Phage Case Changes」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
 
 ## 統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説）（how to read statistical survey methodology notes before using numbers sampling estimation suppression tax inclusive）
 - 文脈：裏取り
@@ -11750,11 +11750,64 @@
 
 ## e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）（e-Stat table preprocessing unit row merged header footnotes missing symbols japanese era year verify totals）
 - 文脈：手法
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：
+  - 「「上 3 行はタイトル、4 行目は単位表記、列ヘッダは 5-6 行目に渡って結合セル、データ本体に注釈テキスト混入」——人間が見やすい配置のために機械可読性が犠牲になった典型例です」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「本記事では「初めて統計データを扱う公務員」を想定し、Python の知識がゼロでも結果が出せる手順を、e-Stat 実データを例にコピペで動く実装付きで解説します」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Python の知識がなくても、データ前処理を自然言語で任せる方法を知りたい方」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「e-Stat 実データを例に、クリーニング・整形・集計・検証を Claude Code に任せる手順」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「頼み方そのものの型は #31 Claude Code への頼み方、うまくいった頼み方を再利用する仕組みは #32 .claude/skills 入門 にまとめています」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Step 1: 「目的」を 1 行で言語化する」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Step 2: 元データを観察させる」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Step 3: 整形コードを生成 — Tidy データ化」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Claude Code が生成するスクリプトの典型:」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Step 4: 集計と「必ず検証」」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Step 5: 統計データの「単位の罠」 — 人間の責務」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「単位ミスの典型ヒヤリ事例として、首長レクで「県内市町村の財政力指数比較」を提示した際に、人口列を「千人」と気付かずに「人」のまま比較表に載せてしまい、」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「別事例では、議会答弁原稿で「歳出予算 1,200 億円」のはずが「1,200 万円」と単位を取り違えて起案が回ってしまい、上司の最終チェックで止まったという例も典型的です」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「— Hallucination の典型です」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「決算書類の前年比較分析を 5 分で出す手順」（https://note.com/stats47/n/naf04e81afb7b）
+- 突き合わせ・推定：
+  - 「Claude Code を使えば、データ前処理 (クリーニング・整形・集計・検証) の大部分を自然言語で指示できます」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「e-Stat 実データを例に、クリーニング・整形・集計・検証を Claude Code に任せる手順」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「単位・年度・地域コードの罠を人間が検証すべき勘所」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「1. ファイルの文字コード (chardet で推定)」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Step 4: 集計と「必ず検証」」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「最重要は 「集計結果が原典と一致するか」の検証 です」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「# === 検証: 全国合計が原典の値と一致するか ===」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「必ず原典との突合検証コードを最後に置きます」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Claude Code への指示にも「検証コードを付けてください」と明記します」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「原典との突合検証コードを必ず最後に置きます」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Claude Code を使えば「目的を 1 行言語化 → 構造把握 → Tidy 化 → 集計 → 検証 → 可視化」のサイクルを高速で回せます」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「単位確認・合計突合・原典との照合は人間の責任です」（https://note.com/stats47/n/naf04e81afb7b）
+- 一次情報の探し方：
+  - 「統計データ加工: 公務員のための Claude Code × データ前処理入門｜統計で見る都道府県」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「統計データ加工: 公務員のための Claude Code × データ前処理入門」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「書類に『類似団体との財政力指数比較』を載せたい」——統計担当・企画担当・政策担当の日常です」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「データ自体は e-Stat や自治体オープンデータポータルから無料で取れます」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「本記事では「初めて統計データを扱う公務員」を想定し、Python の知識がゼロでも結果が出せる手順を、e-Stat 実データを例にコピペで動く実装付きで解説します」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「自治体の統計担当が頻用する代表データには e-Stat の「社会・人口統計体系」「国勢調査」「地方財政状況調査」、各自治体の「住基ネット集計」「税務統計年報」「学校基本調査」などがあります」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「同じ統計でも年度ごとに項目構成や CSV ヘッダが変わります」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「答弁資料やレク資料のために e-Stat の CSV / Excel を整形している統計・企画・政策担当」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「ヘッダ複数行・セル結合・注釈混入で「そのまま読めない」統計ファイルに手を焼いている方」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「e-Stat 実データを例に、クリーニング・整形・集計・検証を Claude Code に任せる手順」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「現在は Claude Code を使い、47 都道府県の統計サイト」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「stats47 が毎日行っている処理は、まさに本記事のテーマである「公開統計の生データを、集計・可視化に使える形へ整える前処理」そのものです」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「統計データは公務員にとって最も信頼できる定量根拠ですが、」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「たとえば e-Stat の国勢調査ファイルをダウンロードすると以下のような構造になっています」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「最終行 + 数行: 「注 1) 〜は秘匿」「資料: 総務省統計局」(注釈)」（https://note.com/stats47/n/naf04e81afb7b）
+- 失敗・落とし穴：
+  - 「単位・年度・地域コードの罠を人間が検証すべき勘所」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「6. 注意すべき欠損値表現 ("-" "***" "X" "秘匿" 等)」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「Step 5: 統計データの「単位の罠」 — 人間の責務」（https://note.com/stats47/n/naf04e81afb7b）
+- 実例：
+  - 「本記事では「初めて統計データを扱う公務員」を想定し、Python の知識がゼロでも結果が出せる手順を、e-Stat 実データを例にコピペで動く実装付きで解説します」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「基幹系システム (住基・税・福祉) からのエクスポートが固定長テキストや独自 CSV で出力され、列定義書が紙のみという事例」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「議会答弁用に紙資料を OCR した PDF データで、表構造が崩れて数値が文字化けする事例」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「複数年度の月報を Excel ブックの別シートに保管しており、シート名が「2025_04」「H25.4」と表記揺れする事例」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「部署間で共有される集計表がメール添付の Excel で、保存版数が複数並走して原典特定ができない事例」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「最重要は 「集計結果が原典と一致するか」の検証 です」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「単位ミスの典型ヒヤリ事例として、首長レクで「県内市町村の財政力指数比較」を提示した際に、人口列を「千人」と気付かずに「人」のまま比較表に載せてしまい、」（https://note.com/stats47/n/naf04e81afb7b）
+  - 「別事例では、議会答弁原稿で「歳出予算 1,200 億円」のはずが「1,200 万円」と単位を取り違えて起案が回ってしまい、上司の最終チェックで止まったという例も典型的です」（https://note.com/stats47/n/naf04e81afb7b）
 
 ## 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）（structured analytic techniques effectiveness evaluation satisficing intelligence analysis RAND）
 - 文脈：手法・偏り
@@ -12420,9 +12473,9 @@
   - 「Journalists, human rights workers and others are constantly making use of open data, user-generated content and other open source information to produce critically important investigations of everything from conflict zones to human rights abuse cases and international corruption.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「It’s all thanks to open source information and user-generated content. As chapters and case studies in this Handbook detail, this same material is being used by investigative journalists in Africa and by groups such as Amnesty International and WITNESS to expose fraud, document war crimes and to help the wrongly accused defend themselves in court.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「This companion to the original Verification Handbook offers detailed guidance and illustrative case studies to help journalists, human rights workers and others verify and use open source information and user-generated content in service of investigative projects.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
 
 ## AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）（how to identify AI-generated research reports and handle sources without corrections policy）
 - 文脈：突き合わせ
@@ -13090,11 +13143,11 @@
 
 ## 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）（business survey nonresponse follow-up large units administrative data substitution early late respondents comparison）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）（reproducibility of derived statistics deflator base year linking real series pitfalls）
 - 文脈：検証

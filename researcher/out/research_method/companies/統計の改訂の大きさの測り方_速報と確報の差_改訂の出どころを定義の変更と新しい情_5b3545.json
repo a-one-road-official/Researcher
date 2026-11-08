@@ -8,822 +8,8 @@
  ],
  "context": "改訂",
  "kind": "market",
- "researched_at": "2026-11-07T23:08:35.662014+00:00",
+ "researched_at": "2026-11-08T06:26:25.833682+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In those studies where the potential pitfalls of relying on current-vintage data have been",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to Equation 3 yields an unbiased and consistent estimate of \". Less obviously, var(T(t)) # var(w(t)),",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "government at time t, applying least squares to Equation 3' will yield an unbiased estimate of \".",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "inconsistent estimate of \" and a biased forecast of y(T).",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "y(t) = x(t)\" + w(t), although both strategies yield unbiased estimates of \".",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimate the forecasting model of interest yield unbiased parameter estimates (West and",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In those studies where the pitfalls of relying on current-",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "unbiased estimates of the parameters linking true GDP",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IV . Strategy-3 Bias",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "stances. The exact formula for its bias depends on the nature",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "coef/bullet5 cient bias when right-side variables are subject to",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1) will yield an unbiased estimate of the coef /bullet5 cient vector",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "an unbiased estimate of a provided that x(t)t and y(t) 2",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "guarantee the unbiasedness of strategy-1 estimation.",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "x(t)a 1 w(t), although both strategies yield unbiased estimates of a.",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "on the right. Strategy 1 yields unbiased coef /bullet5 cient estimates",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimation methodology yield unbiased parameter estimates. The unbi-",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "casters Biased? Agency versus Behavioral Explanations, ” Quar-",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Laster, David, Paul Bennett, and In Sun Geoum, “Rational Bias in",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "be of limited use (also called “average bias”).",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "statistically significant positive bias to revisions for GDP growth.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "however, is whether this apparent bias is statistically significant",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "the missing values are estimated. Since it is gener ally the case that the estimated values do not",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "• Estimates that are not subject to revision could wr ongly be considered more accurate and",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "• If estimates are affected by sampling or non sampli ng errors, revision analysis can not",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "definitively demonstrate the accuracy of initial estimates.",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "process (e.g. estimated values for missing response s are replaced by reported figures). Normally,",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Hence, missing values have to be estimated. Since t he estimated values normally do not",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "assess the new time series. The documentation shall detail the reasons for the revisions, estimate",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimated it is important to include information of these methods changes as it has direct impact",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "impact of revisions on their estimates and models ( e.g. business cycle analysis and forecasts).",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "between the first release (a flash estimate) and th e second release (a first estimate). This",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "quality of provisional estimates or flash estimates has to be assessed",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Official estimates of economic growth are regularly revised and therefore forecasts for GDP growth are done",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Statistical Agencies (SAs) to revise their estimates beyond the timeliness of their data collection. We show that",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates too much, while they are much more open to revise GDP expenditure components over time. More",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "availability of data sources. For instance, the flash estimate for the euro area GDP is available as soon as 30",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We postulate that SAs consider the initial GDP growth estimates to be accurate enough and they internalise the",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "initial GDP estimates, but it changes other GDP sub -components on the expenditure side which then cancel each",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- (2012): “Improving real-time estimates of output gaps and inflation trends with multiple -vintage VAR models,”",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Mork, K. A. (1987): “Ain’t Behavin’: Forecast Errors and Measurement Errors in Early GNP Estimates, ” Journal of",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "There is a mean revision between the first estimate and the final estimate of positive 0.1 percentage points over the period Quarter 1 (Jan to Mar) 1961 to Quarter 4 (Oct to Dec) 2023; for the period Quarter 1 2020 to Quarter 4 2023, there is a mean revision of positive 0.3 percentage points, which includes the impact of the uncertainty around the coronavirus (COVID-19) pandemic.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "When we look at the sign of quarterly GDP growth, of the 175 times where the growth in the first estimate was positive, 168 of these (96%) have remained positive in the final estimate, while 42 of the 64 (66%) instances where the growth in the first estimate was negative have remained negative.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For the period between May 2018 and December 2023, the mean revision to the first estimate of the three-month change in GDP is positive 0.26 percentage points.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In the UK, the value of the economy in 2025 is estimated to be £3.0 trillion; this estimate is compiled from over",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "in the annual production round, with a time series that goes back to 1948 annually and 1955 quarterly. In the UK, we produce a first estimate of quarterly GDP six weeks after that quarter ends, alongside our higher-frequency monthly GDP estimates, which are also available around 40 days after the month ends.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "There is a trade-off between the timeliness and accuracy of estimates of GDP. As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle for the national accounts estimates, which includes these data revisions and is explained in the",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", can take up to three years and naturally leads to revisions in our estimates of GDP.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Managing the trade-off between timeliness and accuracy in producing our best estimates of GDP blog",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP are in Table 1",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This article analyses the revisions to our quarterly GDP estimates that were published in our",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and revisions of our short-term GDP estimates in our regular statistical bulletins and articles, and seek opportunities to improve this on an ongoing basis.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We are exploring how we can further assist users to interpret movements in our main economic statistics by developing a smoothed seasonally adjusted measure of monthly GDP, which is planned to be published before the end of 2026. An example of the application of smoothed estimates is available from the",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We distinguish between three different ways of using real-time data to estimate forecasting",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to predict real GDP growth. When the model is estimated using our preferred method, its out-of-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We further argue that first-available official estimates should be used for the left-hand-side variable",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "when estimating the forecasting equation. First-available estimates ought to be used on the",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "growth and early estimates of (say) employment growth will typically be different from that",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "between GDP growth and estimates of employment growth available several years after the fact. It",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "release is an efficient estimate of subsequent releases, meaning that revisions to the initial release",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "this additional information is extraneous noise. Even if the government’s initial estimates are not",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimated using either of our two alternative methods, its out-of-sample",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimated is extended, the vintage of the data used to",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimate the equation is updated. Thus, rather than forecast,",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "sions all estimated with current-vintage data, one uses the",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "prediction of an equation estimated with 1990:Q1-vintage",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "an equation estimated with 1990:Q2-vintage data to forecast",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Rather than use end-of-sample-vintage data to estimate",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "up-to-date estimates available at that time. We call these",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of/bullet5 cial estimates should be used for the left-side variable",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimates ought to be used even if one is ultimately inter-",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "that between GDP growth and estimates of employment",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ef/bullet5 cient estimate of subsequent releases, meaning that",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "unbiased estimates of the parameters linking true GDP",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "hand side of the estimated equation. Less obviously, the",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "parameter estimates obtained using initial-release left-side",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revision interval for say first published estimates of third quarter and fourth quarter data).",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Lt: later estimate for reference period t",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Pt: preliminary (earlier) estimate for reference period t",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3.6 What is the average size of revision relative to the estimate itself?",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that on average earlier releases have been under -estimated (negative sign means over -",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "exists in the earlier estimates. Four possible outcomes have been chosen to describe",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "variable that follows a normal distribution with variance estimate as above, the t -critic",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimate and the sign of earlier estimate are the same.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "later estimate also signifies this.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the size of the earlier estimates. Aside from the above issue, it is useful as a measure",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "time, the CSO can calculate a more accurate estimate of that",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "questions spring to mind. How reliable are the initial estimates",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In most countries, the first estimate of GDP for a given quarter",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, the United States releases initial estimates of GDP",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "after which initial GDP estimates are released. Since QNA have",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "been released, the preliminary estimate of GDP has been",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that the initial GDP estimate is usually released sometime around",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the initial estimate of GDP in Ireland compares favourably with",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "reconcile with the new annual estimates in the NIE publication.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "improve the quarterly estimates.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for the first quarter of 1997 was initially underestimated by",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "underestimated by \\265m or 1·8%.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "be thought of as a crude estimate of the probability of a revision at",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "systematically underestimated in the initial release over the period",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimate amounts to 2·2% on average. The Mean Absolute Final",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "the missing values are estimated. Since it is gener ally the case that the estimated values do not",
@@ -1699,38 +885,927 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In those studies where the potential pitfalls of relying on current-vintage data have been",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to Equation 3 yields an unbiased and consistent estimate of \". Less obviously, var(T(t)) # var(w(t)),",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "government at time t, applying least squares to Equation 3' will yield an unbiased estimate of \".",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "inconsistent estimate of \" and a biased forecast of y(T).",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "y(t) = x(t)\" + w(t), although both strategies yield unbiased estimates of \".",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimate the forecasting model of interest yield unbiased parameter estimates (West and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In those studies where the pitfalls of relying on current-",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "unbiased estimates of the parameters linking true GDP",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IV . Strategy-3 Bias",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "stances. The exact formula for its bias depends on the nature",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "coef/bullet5 cient bias when right-side variables are subject to",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1) will yield an unbiased estimate of the coef /bullet5 cient vector",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "an unbiased estimate of a provided that x(t)t and y(t) 2",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "guarantee the unbiasedness of strategy-1 estimation.",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "x(t)a 1 w(t), although both strategies yield unbiased estimates of a.",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "on the right. Strategy 1 yields unbiased coef /bullet5 cient estimates",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimation methodology yield unbiased parameter estimates. The unbi-",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "casters Biased? Agency versus Behavioral Explanations, ” Quar-",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Laster, David, Paul Bennett, and In Sun Geoum, “Rational Bias in",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be of limited use (also called “average bias”).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "statistically significant positive bias to revisions for GDP growth.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "however, is whether this apparent bias is statistically significant",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "the missing values are estimated. Since it is gener ally the case that the estimated values do not",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "• Estimates that are not subject to revision could wr ongly be considered more accurate and",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "• If estimates are affected by sampling or non sampli ng errors, revision analysis can not",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "definitively demonstrate the accuracy of initial estimates.",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "process (e.g. estimated values for missing response s are replaced by reported figures). Normally,",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hence, missing values have to be estimated. Since t he estimated values normally do not",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "assess the new time series. The documentation shall detail the reasons for the revisions, estimate",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimated it is important to include information of these methods changes as it has direct impact",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "impact of revisions on their estimates and models ( e.g. business cycle analysis and forecasts).",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "between the first release (a flash estimate) and th e second release (a first estimate). This",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "quality of provisional estimates or flash estimates has to be assessed",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Official estimates of economic growth are regularly revised and therefore forecasts for GDP growth are done",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Statistical Agencies (SAs) to revise their estimates beyond the timeliness of their data collection. We show that",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimates too much, while they are much more open to revise GDP expenditure components over time. More",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "availability of data sources. For instance, the flash estimate for the euro area GDP is available as soon as 30",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We postulate that SAs consider the initial GDP growth estimates to be accurate enough and they internalise the",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "initial GDP estimates, but it changes other GDP sub -components on the expenditure side which then cancel each",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- (2012): “Improving real-time estimates of output gaps and inflation trends with multiple -vintage VAR models,”",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Mork, K. A. (1987): “Ain’t Behavin’: Forecast Errors and Measurement Errors in Early GNP Estimates, ” Journal of",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There is a mean revision between the first estimate and the final estimate of positive 0.1 percentage points over the period Quarter 1 (Jan to Mar) 1961 to Quarter 4 (Oct to Dec) 2023; for the period Quarter 1 2020 to Quarter 4 2023, there is a mean revision of positive 0.3 percentage points, which includes the impact of the uncertainty around the coronavirus (COVID-19) pandemic.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When we look at the sign of quarterly GDP growth, of the 175 times where the growth in the first estimate was positive, 168 of these (96%) have remained positive in the final estimate, while 42 of the 64 (66%) instances where the growth in the first estimate was negative have remained negative.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For the period between May 2018 and December 2023, the mean revision to the first estimate of the three-month change in GDP is positive 0.26 percentage points.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the UK, the value of the economy in 2025 is estimated to be £3.0 trillion; this estimate is compiled from over",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in the annual production round, with a time series that goes back to 1948 annually and 1955 quarterly. In the UK, we produce a first estimate of quarterly GDP six weeks after that quarter ends, alongside our higher-frequency monthly GDP estimates, which are also available around 40 days after the month ends.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There is a trade-off between the timeliness and accuracy of estimates of GDP. As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle for the national accounts estimates, which includes these data revisions and is explained in the",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", can take up to three years and naturally leads to revisions in our estimates of GDP.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Managing the trade-off between timeliness and accuracy in producing our best estimates of GDP blog",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP are in Table 1",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This article analyses the revisions to our quarterly GDP estimates that were published in our",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and revisions of our short-term GDP estimates in our regular statistical bulletins and articles, and seek opportunities to improve this on an ongoing basis.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We are exploring how we can further assist users to interpret movements in our main economic statistics by developing a smoothed seasonally adjusted measure of monthly GDP, which is planned to be published before the end of 2026. An example of the application of smoothed estimates is available from the",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We distinguish between three different ways of using real-time data to estimate forecasting",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to predict real GDP growth. When the model is estimated using our preferred method, its out-of-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We further argue that first-available official estimates should be used for the left-hand-side variable",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "when estimating the forecasting equation. First-available estimates ought to be used on the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "growth and early estimates of (say) employment growth will typically be different from that",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "between GDP growth and estimates of employment growth available several years after the fact. It",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "release is an efficient estimate of subsequent releases, meaning that revisions to the initial release",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "this additional information is extraneous noise. Even if the government’s initial estimates are not",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimated using either of our two alternative methods, its out-of-sample",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimated is extended, the vintage of the data used to",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimate the equation is updated. Thus, rather than forecast,",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "sions all estimated with current-vintage data, one uses the",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "prediction of an equation estimated with 1990:Q1-vintage",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "an equation estimated with 1990:Q2-vintage data to forecast",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Rather than use end-of-sample-vintage data to estimate",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "up-to-date estimates available at that time. We call these",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of/bullet5 cial estimates should be used for the left-side variable",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimates ought to be used even if one is ultimately inter-",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "that between GDP growth and estimates of employment",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ef/bullet5 cient estimate of subsequent releases, meaning that",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "unbiased estimates of the parameters linking true GDP",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "hand side of the estimated equation. Less obviously, the",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "parameter estimates obtained using initial-release left-side",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revision interval for say first published estimates of third quarter and fourth quarter data).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Lt: later estimate for reference period t",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Pt: preliminary (earlier) estimate for reference period t",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3.6 What is the average size of revision relative to the estimate itself?",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "that on average earlier releases have been under -estimated (negative sign means over -",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "exists in the earlier estimates. Four possible outcomes have been chosen to describe",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "variable that follows a normal distribution with variance estimate as above, the t -critic",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimate and the sign of earlier estimate are the same.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "later estimate also signifies this.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the size of the earlier estimates. Aside from the above issue, it is useful as a measure",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "time, the CSO can calculate a more accurate estimate of that",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "questions spring to mind. How reliable are the initial estimates",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In most countries, the first estimate of GDP for a given quarter",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, the United States releases initial estimates of GDP",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "after which initial GDP estimates are released. Since QNA have",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "been released, the preliminary estimate of GDP has been",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "that the initial GDP estimate is usually released sometime around",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the initial estimate of GDP in Ireland compares favourably with",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "reconcile with the new annual estimates in the NIE publication.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "improve the quarterly estimates.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for the first quarter of 1997 was initially underestimated by",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "underestimated by \\265m or 1·8%.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be thought of as a crude estimate of the probability of a revision at",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "systematically underestimated in the initial release over the period",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimate amounts to 2·2% on average. The Mean Absolute Final",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/todobuono/n/n5a514ba6467a",
+    "url": "https://note.com/kagawatomo/n/n5cbaf70a8af2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "url": "https://note.com/lsic/n/n1fea64e472f0",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/mitarashi_info/n/n226acbc9d3cc",
+    "url": "https://note.com/kouzoukaikaku/n/n61492d0a1a63",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/brave_yucca4780/n/n32aae27aad78",
+    "url": "https://note.com/mmiya/n/nbc20f5e66490",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/atlasstudio/n/nd337c8737bf9",
+    "url": "https://note.com/zenkok/n/n7a1dabfd8585",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vast_cosmos500/n/n18123aba930e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO06754130R00C16A9KE8000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/good_poppy696/n/n51c7e41d15ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000808714.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mi.u-tokyo.ac.jp/consortium/pdf/2-1-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cuc.ac.jp/om_miraitimes/column/mnlquk0000000j9y.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
    },
@@ -1740,29 +1815,29 @@
     "method": "http"
    },
    {
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://rdrr.io/cran/reviser/man/get_revision_analysis.html",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://docs.ropensci.org/reviser/",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
+   },
+   {
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -1770,68 +1845,117 @@
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） site:note.com",
    "results": [
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "https://note.com/todobuono/n/n5a514ba6467a",
-    "https://note.com/good_poppy696/n/n5a548ce40e91",
-    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
-    "https://note.com/brave_yucca4780/n/n32aae27aad78",
-    "https://note.com/atlasstudio/n/nd337c8737bf9",
-    "https://note.com/statistics_ai/n/n5c3557fcb50a"
+    "https://note.com/kagawatomo/n/n5cbaf70a8af2",
+    "https://note.com/lsic/n/n1fea64e472f0",
+    "https://note.com/kouzoukaikaku/n/n61492d0a1a63",
+    "https://note.com/mmiya/n/nbc20f5e66490",
+    "https://note.com/zenkok/n/n7a1dabfd8585",
+    "https://note.com/vast_cosmos500/n/n18123aba930e",
+    "https://note.com/jdex/n/n944c34672656",
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/deep_think_ai/n/n9be5052b1abf",
+    "https://note.com/jack4manastalk/n/n1b775b1daaa5"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.nikkei.com/article/DGKKZO06754130R00C16A9KE8000/",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://note.com/good_poppy696/n/n51c7e41d15ce",
+    "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf",
+    "https://www.reuters.com/article/opinion/198600-idUSKCN11L0UL/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.soumu.go.jp/main_content/000808714.pdf",
+    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/",
+    "https://www.mi.u-tokyo.ac.jp/consortium/pdf/2-1-4.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "https://www.cuc.ac.jp/om_miraitimes/column/mnlquk0000000j9y.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） 事例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf",
+    "https://www.cuc.ac.jp/om_miraitimes/column/mnlquk0000000j9y.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "statistical data revisions analysis real-time vintages revision size bias preliminary final",
    "results": [
     "https://ropensci.org/blog/2026/04/13/reviser/",
-    "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
     "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01",
-    "https://rdrr.io/cran/reviser/man/get_revision_analysis.html",
-    "https://docs.ropensci.org/reviser/",
-    "https://stockalpha.ai/alpha-learning/real-time-macro-vintages-avoiding-revision-bias-with-vintage-data"
+    "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1000&context=economics-faculty-publications",
+    "https://link.springer.com/article/10.1007/s00181-021-02065-9",
+    "https://www.kansascityfed.org/Research%20Working%20Papers/documents/5281/pdf-rwp98-05.pdf",
+    "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）",
    "results": [
+    "https://note.com/t_kawa_awak/n/n2029f55d09bc",
+    "https://note.com/umaki11/n/n2fbaf94d111f",
+    "https://note.com/black_knight999/n/n54e8ff533543",
+    "https://note.com/loyal_ivy9071/n/n0b50824d612c",
     "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
     "https://note.com/mitarashi_info/n/n226acbc9d3cc",
     "https://note.com/todobuono/n/n5a514ba6467a",
-    "https://note.com/good_poppy696/n/n5a548ce40e91",
-    "https://note.com/atlasstudio/n/nd337c8737bf9",
     "https://note.com/brave_yucca4780/n/n32aae27aad78",
-    "https://note.com/data_pn/n/n3a33a9120a47"
+    "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "https://note.com/atlasstudio/n/nd337c8737bf9"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 11
   },
   {
    "query": "site:x.com 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）",
@@ -1839,29 +1963,31 @@
     "https://x.com/wlbcoltd1214/status/2092253564533911971",
     "https://x.com/genkuroki/status/1260402105841410050",
     "https://x.com/yuyawatase/status/2081070485648101771",
-    "https://x.com/iwaoshumpei/status/2070672331379540140",
     "https://x.com/sugimoto_kei/status/2043196796550463952",
+    "https://x.com/iwaoshumpei/status/2070672331379540140",
+    "https://x.com/genkuroki/status/1754421797343428629",
     "https://x.com/genkuroki/status/1838792403240837475",
-    "https://x.com/genkuroki/status/1754421797343428629"
+    "https://x.com/YatsukilaboQdai/status/2060455700535685316"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）",
    "results": [
-    "https://www.linkedin.com/news/story/実力の差は努力の差-6203434/",
+    "https://www.linkedin.com/posts/daniela-amodei-790bb22a_im-very-excited-for-everyone-to-try-claude-share-7508557241298403328-oWgw",
+    "https://jp.linkedin.com/pulse/穴と穴のピッチを測ろう-篤樹-徳永",
     "https://jp.linkedin.com/learning/g-certificate-cert-prep-overview-and-structural-map-of-the-test/28688046",
-    "https://jp.linkedin.com/pulse/statistical-significance-tests-way-compare-data-populations?tl=ja",
-    "https://www.linkedin.com/posts/karahhurst_were-in-a-time-of-big-change-and-that-brings-share-7511712909954076674-srKS",
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3372084",
-    "https://jp.linkedin.com/posts/glg_効果的な定量調査を行うための完全ガイド-activity-6995604115120635904-5ca4",
-    "https://jp.linkedin.com/pulse/understanding-iqr-interquartile-range-data-science-guide-beekhani-icvnf?tl=ja"
+    "https://www.linkedin.com/posts/karahhurst_were-in-a-time-of-big-change-and-that-brings-share-7511712909954076674-srKS",
+    "https://jp.linkedin.com/pulse/statistical-significance-tests-way-compare-data-populations?tl=ja",
+    "https://jp.linkedin.com/posts/glg_効果的な定量調査を行うための完全ガイド-activity-6995604115120635904-5ca4"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -1869,53 +1995,78 @@
    "query": "site:facebook.com 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）",
    "results": [
     "https://www.facebook.com/jati.jp/photos/オンラインセミナーのご案内だれにでもできる実践報告のための最新統計処理p値を使わずにトレーニング効果の大きさを正しく推量するための効果量とその信頼区間の意義と求/1522197867988371/",
-    "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
     "https://www.facebook.com/physicaltherapydiagnosis/photos/a.999684880213272/1816862251828860/",
-    "https://www.facebook.com/naganokentokei/posts/長野市の消費者物価指数2020年基準2026年令和８年１月分確報値公表のお知らせこんにちは統計第二係ですいつも各種統計調査にご理解ご協力またご回答をいただきあり/885514694382218/",
+    "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
     "https://www.facebook.com/koichiro.nishikawa.16/photos/静岡産業大学で岩本武範先生のデータの読み解き方がわかるはじめての統計思考と調査設計を受講しました①なぜ今データなのか②調査とは現実の要約である③実例で学ぶ心の測/25158718173788758/",
+    "https://www.facebook.com/naganokentokei/posts/長野市の消費者物価指数2020年基準2026年令和８年１月分確報値公表のお知らせこんにちは統計第二係ですいつも各種統計調査にご理解ご協力またご回答をいただきあり/885514694382218/",
+    "https://www.facebook.com/office.oshima/posts/人口動態統計速報令和７年７月分-速報全体版を見たい場合は印刷用資料のpdfファイルをご覧ください-httpswwwmhlwgojptoukeisaikinhwj/1209752114526797/",
     "https://www.facebook.com/medicalnote.jp/posts/2016年膵臓がんのステージ分類が改訂されより細かく腫瘤の大きさから進行度を評価できるようになりました今回は膵臓がんのステージ分類から早期膵臓がんの診断のポイン/1951196555141853/",
-    "https://www.facebook.com/office.oshima/posts/人口動態統計速報令和７年７月分-速報全体版を見たい場合は印刷用資料のpdfファイルをご覧ください-httpswwwmhlwgojptoukeisaikinhwj/1209752114526797/"
+    "https://www.facebook.com/toukei.kentei/posts/東京図書株式会社より統計調査士に対応したテキストの改訂版が2024年4月に刊行されます改訂版では公的統計および統計調査に関する変更を反映し公的統計に関する記述を/928510505734997/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.reuters.com/jp/article/business/3-idUSKCN0XL0ZV/",
+    "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.nikkei.com/article/DGXZQOFL309BG0Q4A730C2000000/",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/good_poppy696/n/n51c7e41d15ce",
+    "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.reuters.com/jp/article/business/3-idUSKCN0XL0ZV/",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.nikkei.com/article/DGKKZO06754130R00C16A9KE8000/",
+    "https://www.stat.go.jp/dstart/point/seminar/02/3-3-1.html",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "statistical data revisions analysis real-time vintages revision size bias preliminary final site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/in/domenico-giannone-55755b45",
+    "https://ca.linkedin.com/in/simon-van-norden",
+    "https://de.linkedin.com/in/patrickdoupe",
+    "https://de.linkedin.com/in/s-provenzano",
+    "https://dk.linkedin.com/in/fredericverhelst",
+    "https://it.linkedin.com/in/emanuelecolacchi",
     "https://www.linkedin.com/posts/philipp-wegmueller_reviser-analyzing-revisions-in-real-time-activity-7444298545873997824-JzXd",
-    "https://www.linkedin.com/advice/0/youre-faced-real-time-data-analysis-decisions-how-can-3lvnc",
-    "https://www.linkedin.com/advice/0/how-do-you-prevent-bias-your-data-models-skills-data-analysis",
-    "https://www.linkedin.com/posts/volascope_reasons-for-major-revisions-in-government-activity-7377009307021705216-bZiD",
-    "https://www.linkedin.com/advice/0/youre-striving-data-accuracy-client-revisions-ujwvc",
-    "https://www.linkedin.com/advice/1/how-can-you-effectively-manage-feedback-revisions",
-    "https://www.linkedin.com/advice/3/your-statistical-methodology-faces-major-revision-demands-xorrc",
-    "https://www.linkedin.com/pulse/why-economic-data-revisions-hurt-us-alland-how-stop-them-jim-kaffen-rtbzc",
     "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/how-benchmark-revisions-impact-job-growth-data/",
-    "https://pe.linkedin.com/pulse/major-revision-vs-minor-understanding-differences-nvurc"
+    "https://www.linkedin.com/pulse/why-economic-data-revisions-hurt-us-alland-how-stop-them-jim-kaffen-rtbzc",
+    "https://www.linkedin.com/posts/volascope_reasons-for-major-revisions-in-government-activity-7377009307021705216-bZiD"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 13
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-05T17:50:43.722749+00:00"
 }

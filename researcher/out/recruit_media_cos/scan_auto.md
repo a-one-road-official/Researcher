@@ -511,7 +511,7 @@
   - tenshoku.mynavi.jp と www.r-agent.com：品目の重なり 1/3（33%）
   - www.nikkei.com と www.r-agent.com：品目の重なり 1/4（25%）
   - www.nikkei.com と tenshoku.mynavi.jp：品目の重なり 1/4（25%）
-  - www.r-agent.com と service-johokan.com：品目の重なり 0/3（0%）
+  - www.r-agent.com と 調査会社：品目の重なり 0/3（0%）
   - www.r-agent.com と cresai.nashplan.jp：品目の重なり 0/3（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
