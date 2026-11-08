@@ -425,16 +425,19 @@
   - 「Step 1: Define Your Industry Using NAICS Codes」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「Why This Step Cannot Be Skipped」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「(Other Services to Buildings). Document every relevant code before you start pulling data — it will save significant rework later. An industry research guide that skips this step isn't a guide; it's a liability.」（https://vantainsights.com/insights/how-to-research-an-industry）
-  - 「1.以下の手順で該当企業を検索して、noteにあるか調べる」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「▼ご依頼方法の詳細については以下noteから」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「このnoteでは、NotebookLMを使って企業研究を引用付きで整理し、面接深掘りに耐える材料を作る手順をプロンプト付きで解説しています」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「【6】ウォーターフォール型開発 — SIer特有の開発手法」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「: 「要件定義→設計→開発→テスト→運用という工程を、上から順に一気に進める方法」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「対比としてWeb系企業は「アジャイル型」（短期間で試行錯誤）を採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「【10】SES（客先常駐型ビジネス）— 下層業者のモデル」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「: SIer業界は「垂直統合型」の重層的下請構造で支えられています」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「効率的なやり方って、結局どうすればいいの？」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「それは、従来のやり方があまりにも時代遅れで、非効率の塊だからです」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「次章からは、いよいよ具体的な「やり方」に入っていきます」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「第2章: もう迷わない！「業界研究の地図」を手に入れる最初の3ステップ【準備編】」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「たった3つのステップを踏むだけで、あなたの業界研究は驚くほどスムーズに進み始めます」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「ステップ1: 「ざっくり自己分析」を全ての始まりのコンパスにする」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「ステップ2: 壮大な業界地図を「5つの切り口」でざっくり掴む」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「まずはこの5分類を頭に入れて、自分がステップ1で見つけた価値観キーワードと照らし合わせてみましょう」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
 - 突き合わせ・推定：
   - 「Federal data sources give you the defensible foundation that proprietary research estimates cannot — and they're publicly available at no cost.」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「「（自分の分析や仮説）を踏まえた上で、（企業の未来や戦略に関する）質問をする」」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「最低でも3つは、このような「自分なりの仮説に基づいた未来への質問」を準備して、面接に臨みましょう」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「これまであなたがデスクリサーチで築き上げてきた仮説を、現場の社員さんにぶつけ、」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
   - 「【3】テスト・品質保証（QA）— 検証担当」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「その後、『納期を守れ』と言われる矛盾」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「確認できた事実、自分の仮説、まだ分からないことを分け、次に確かめる問いを1つ残す」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
@@ -446,57 +449,54 @@
   - 「Don't spend $15K on a customer survey to learn your industry's market size — that data exists for free in Census SUSB. Don't commission focus groups to estimate industry growth rates — Census CBP historical data calculates that directly. Primary research earns its ROI only when it answers questions that existing data can't.」（https://vantainsights.com/insights/primary-vs-secondary-research）
   - 「この2つの目的から逆算すると、調べるべき情報はある程度絞れます」（https://note.com/4kodai_student/n/n298d2518aad8）
   - 「全体を俯瞰する業界地図、企業のデータを突き合わせる就職四季報、志望業界を掘り下げる業界別の専門書、そして業界の稼ぎ方そのものを読み解くビジネスモデル本まで、就活のフェーズに合わせて選べるように並べました」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「業界と職種を「掛け算」で考えさせる構成」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「採用サイトの美しい言葉と、四季報の数字を突き合わせる作業が、企業研究の核心になります」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります」（https://note.com/tasuto11/n/n3d32991f6192）
 - 一次情報の探し方：
   - 「's County Business Patterns (CBP) program is your first data pull. CBP reports annual data on the number of establishments, paid employees, and total annual payroll — broken down by industry, state, county, and metro area. It is sourced directly from IRS tax records and employer filings, making it among the most reliable structural datasets available (Census CBP, 2022).」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「Step 4: Identify Competitors via SEC EDGAR Filings」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「To find competitors systematically, use EDGAR's company search by SIC code (EDGAR classifies filers by SIC, not NAICS). Pull 10-K filings for the three to five largest players by revenue, then cross-reference their segment disclosures. Many conglomerates report revenue by business unit, giving you implied market share data that doesn't exist in any federal statistical release.」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「SEC EDGAR turns public filings into competitive intelligence — management's own words on market dynamics, risk exposure, and strategic positioning, at zero cost.」（https://vantainsights.com/insights/how-to-research-an-industry）
-  - 「今回のような業界分析noteは今後も出していく予定ですが、その都度このnoteには業界分析のPDFを追記するため、それをそのままNotebookLMに入れると、このnote自体をソースとして活用できます」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「対比としてWeb系企業は「アジャイル型」（短期間で試行錯誤）を採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「: SIerの中でも特に下請け企業や小規模企業が採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「【ニュース4】大手SIer各社の営業利益率が改善（2024年度決算）」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「新卒採用は継続されるが、キャリア形成の難度が上昇」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「新卒採用後の配置先が「レガシーシステム改修」に偏る可能性がある」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「4.1 新卒採用における「募集職種」の完全解説」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「大手企業の決算期（3月）に合わせたシステム更新案件が増加 → 前年12月-2月が激務」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「有価証券報告書、新聞の経営ニュース、業界レポート等で、企業の経営状況を確認」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「https://www.meti.go.jp/meti_lib/report/H28FY/000804.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「https://dspace.jaist.ac.jp/dspace/bitstream/10119/19147/1/kouen38_141.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「そんな、採用サイトからコピペしたような言葉では、百戦錬磨の面接官の心には響きません」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「企業の公式ウェブサイト（特に採用ページ、IR情報）」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「業界団体が発表している統計データやレポート」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「あくまで、一次情報や二次情報で得た知識を補完するための「参考情報」として捉えましょう」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「特に注目すべきは「決算説明会資料」や「中期経営計画」といったドキュメントです」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「最初は、業界のリーディングカンパニー（1位～3位くらい）の決算説明会資料をいくつか見てみるのがおすすめです」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「一次情報で企業の「公式見解」をインプットしたら、次は二次情報で、より客観的・俯瞰的な視点を取り入れます」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「公的なデータやレポートを見つけたい時に非常に便利です」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「それは、決算説明会資料の無機質な数字の羅列からは決して感じることのできない、リアルな「手触り感」のある情報です」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「企業の採用ページにある「社員紹介」のコーナーも、宝の山です」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「そうしたら、今度は業界団体のレポートや、新聞記事で、業界全体のサステナビリティに関する動向を調べてみるのです」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
 - 失敗・落とし穴：
-  - 「「プロジェクト成功時のボーナスはほぼなく、失敗時のみ給与が下がる」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「: Ensuring the reliability and validity of the data collected can be challenging. Poorly designed research methods can lead to biased or inaccurate data.」（https://www.verifiedmarketresearch.com/marketresearchglossary/primary-research/）
-  - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1404）
-  - 「この記事でわかることインターンシップの全体像インターンシップとはインターンシップの準備▼目次クリックで展開本記事の構成インターンシップの全体像インターンシップとは企業がインターンシップを開催する目的・メリット就活生がインターンシップに参加する目的・メリットインターンシップの概要募集はいつから？季節ごとのインターンシップ開催時期インターンシップを探す前の準備インターンシップの探し方・選び方インターンシップのエントリー方法インターンシップの選考対策インターンシップ参加時の注意点インターンシップ参加後にやるべきことインターンシップのよくある質問まとめインターンシップの全体像インターンシップESの作り方・書き方インターンシップにおけるエントリーシート(ES)の作り方についてポイントを解説しています」（https://unistyleinc.com/techniques/1404）
-  - 「オンラインインターンシップの対策オンラインのインターンシップへの参加にあたっての対策や注意点を紹介しています」（https://unistyleinc.com/techniques/1404）
-  - 「会社自体の魅力を書きすぎてしまうと入れるべき項目が入らなくなってしまうので注意しましょう」（https://unistyleinc.com/techniques/1404）
-  - 「インターンシップ参加時の注意点主な注意点は以下です」（https://unistyleinc.com/techniques/1404）
-  - 「カンペを見ながら話している前提としてカンペを作ること、見ることがダメということはありません」（https://unistyleinc.com/techniques/1404）
-  - 「その結果、不確実な状況にも柔軟に対応でき、失敗を恐れずに挑戦することで変化をチャンスに変える力が養われます」（https://unistyleinc.com/techniques/1404）
-  - 「企業側の意図■課題や困難に対する乗り越え方を見たい社会人になると、失敗や挫折など乗り越えるべき壁が出てきます」（https://unistyleinc.com/techniques/1404）
-  - 「具体的な数字やエピソードがない具体的な数字やエピソードがなければ、あなたの成果を正しく伝えられない可能性が高いので注意しましょう」（https://unistyleinc.com/techniques/1404）
-  - 「​​また、よくある志望動機の作成パターンとして、(6)の同業比較から考え始めてしまうことが挙げられますが、狭い視点から1社1社考えることは難しく、また論理性に欠けるケースも多いため注意しましょう」（https://unistyleinc.com/techniques/1404）
-  - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1404）
-  - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1404）
-  - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1404）
+  - 「しかし、中には個人の主観や憶測、古い情報、あるいは誤った情報も多く含まれているため、鵜呑みにするのは非常に危険です」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「→本当に？電子書籍じゃダメなの？オーディオブックは？そもそも、なぜ「書店」という場所が必要なんだろう？」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「→本当に？一生賃貸じゃダメ？サブスクリプション（定額制）で、いろんな家に住み替えられるサービスがあったら？」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「多くの就活生が陥る罠が、「業界研究」と「企業研究」を完全に分断して考えてしまうことです」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「しかし、最後に、あなたがこの長い冒険の途中で道を踏み外さないよう、いくつかの注意点をお伝えしておきたいと思います」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「第7章: 陥りがちな罠と対策！非効率な業界研究から卒業する【注意点編】」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「しかし、どんな熟練の冒険者でも、思わぬ罠に足を取られることがあります」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「この最終章では、多くの就活生が陥りがちな「業界研究の罠」と、その具体的な対策について解説します」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「罠1: 完璧主義の罠 -「100点」を目指さない勇気-」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「真面目で優秀なあなたほど、この罠にハマりやすい傾向があります」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「罠2: 木を見て森を見ずの罠 -「企業研究」が目的になっていないか？-」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「これも、よくある罠の一つです」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「罠3: 情報収集だけで満足する罠 -「インプット過多」になっていないか？-」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「罠4: 手段の目的化の罠 -「なぜ」やっているのかを忘れない-」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「罠5: モチベーションが続かない時の罠 - 完璧な人間なんていない-」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
 - 実例：
   - 「One practical note: some industries span multiple NAICS codes. A commercial cleaning franchise, for example, might compete across NAICS」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「BLS wage and PPI data transforms a static industry snapshot into a dynamic cost and pricing picture — essential context for any forward-looking business case.」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「Analyze any industry with Porter's Five Forces, PESTEL, and the industry life cycle, paired with verified federal data and a worked example.」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「例えば、以下のようなものです」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「例えば、「成長」と「挑戦」を重視するなら、IT業界のベンチャー企業や、変化の激しいコンサルティング業界が候補に挙がるかもしれません」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「例えば、トヨタ自動車は「メーカー」」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「例えば、IT業界にとっての「追い風」はDX（デジタルトランスフォーメーション）の加速かもしれません」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「例えば、興味のある業界の企業の公式アカウントや、そこで働く著名な人のアカウントをフォローしてみましょう」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「例えば、牛丼業界で考えてみましょう」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「例えば、「ゲーム業界」を考えてみましょう」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
+  - 「例えば、「1時間リサーチ（インプット）したら、次の30分は必ずノートにまとめる（アウトプット）」といったルールを自分に課すのです」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
   - 「記事の内容やAIの分析結果・推論に対するご意見・ご指摘・ご要望はお受けしておりません」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「面接日程の調整術・ES締切後の対処法・X就活垢の活用法・時短の志望動機作成術など、時間がない中で納得のいく結果を出すための実践集です」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「：テストケース作成→ テスト実施→ バグ報告・追跡」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「：SIer初年度は「開発・テストフェーズで初めて激務を経験する」ケースが多く、メンタルヘルス不調の報告例が少なくありません」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「：1年～1.5年ごとに異なる客先に配置替えされるケースが多い」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「結果として「食べられるが、成長できない」という停滞状況に」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「残高の増減から、資金の出入りの内訳へ進む実例です」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「無料記事の読み方が合いそうなら、DDCをフォローして次の事例をお受け取りください」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「読み方が合いそうならフォローして、次の事例でも一緒に確かめていきましょう」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「例えば、自動車業界であれば「自動車業界」という広い括りではなく、「自動車部品メーカー」「完成車メーカー」「自動車販売会社」などと、業界の中でも細かく分類してノートを作成するというものが挙げられます」（https://unistyleinc.com/techniques/1404）
-  - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1404）
-  - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかという、」（https://unistyleinc.com/techniques/1404）
 - 検索結果の抜粋：
   - 「業界研究のやり方｜業界の絞り方と企業研究との違い | 就活Pass — この記事でわかること 1 業界研究と企業研究は、見ている距離が違う 2 何のために業界研究をするのか 3 業界研究の手順 — 俯瞰してから、一つに潜る 4 業界研究ノートの項目 早見表 5 情報源の選び方 — 一次情報から確かめる 6 調べたことを、比較できる ...」（https://www.shupass.jp/guides/gyokai-kenkyu-yarikata）
   - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · 市場調査をAIで効率化する具体的な方法を、中小企業診断士が解説します。ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある ...」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
@@ -678,21 +678,21 @@
 ## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
 - 文脈：探し方
 - 手順・やり方：
+  - 「OSINT調査の基本的なやり方3選｜初心者でも今日から実践できる公開情報収集の手順 - 総合調査コンシェルジュ」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「OSINT調査の基本的なやり方3選｜初心者でも今日から実践できる公開情報収集の手順」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「この記事では、初心者でも今日から実践できるOSINT調査の基本的な手順を3つ紹介します」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「やり方1：Google検索演算子を使った情報収集」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「やり方2：SNSの公開情報を体系的に収集する」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「やり方3：公的記録・データベースを活用する」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「OSINT基本手順は「Google検索演算子」「SNS公開情報収集」「公的記録データベース活用」の3つ」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「OSINTのメリット5つ｜HUMINTとの違いと今すぐ始められる入門ステップ」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「MaltegoでOSINT調査｜人物・企業・ネットワークの関係性を可視化する使い方入門」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「Collection methodologies」（https://en.wikipedia.org/wiki/Open-source_intelligence）
+  - 「Ethical Frameworks in Open Source Intelligence」（https://en.wikipedia.org/wiki/Open-source_intelligence）
   - 「PHP2Shell：今知っておくべきことと、次に備える方法」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「ただし、より広範な収集と脅威インテリジェンスのフレームワークのコンテキスト内でこのアクティビティを見ることで、アクティビティを既知の攻撃者グループに帰属させることができるため、この特定の脅威アクターから組織を防御するために使用できるプロファイルに詳細性と具体性を与えることができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「例えば、公開されているインテリジェンスを確認することで、脅威アクターは組織が防御ラインを張る可能性のある場所を把握し、別の攻撃方法を探すことができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「能動的データ収集は、受動的データツールで識別されたサイバー脅威プロファイルを補完したり、その他の方法で特定の調査をサポートしたりするために、アドホックで使用できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「OSINTフレームワークとは、セキュリティチームが攻撃者またはそのアクションに関する情報を迅速かつ正確に特定できるように、データ、プロセス、方法、ツール、および手法を統合する方法論です」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「OSINTフレームワークは次の目的に使用できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「ソース、ツール、方法、または目標でデータを分類する」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「さらに、OSINTは近年、パブリックドメイン内の情報を安全かつ確実に使用する方法について議論を巻き起こしています」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「OSINT Methodology: How Open Source Intelligence Works」（https://aofirs.org/articles/osint-open-source-intelligence）
-  - 「OSINTによるセキュリティ情報調査方法まとめ #Security - Qiita」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「OSINTによるセキュリティ情報調査方法まとめ」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「最近（2016年頃）、サイバー攻撃の脅威を調べる方法として、公開情報を活用したOSINT（Open Source INTelligence／オシント）に注目が集まっています」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「但し、フレームワークに定義できないものもあることを認識しておきましょう」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「そうしないと、無理やりフレームワークに収めて結論を誤ったり、情報を落とす可能性があります」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
 - 突き合わせ・推定：
   - 「（侵入テスト、セキュリティ検証、脅威対象領域評価、」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「) used NLP to analyze WhatsApp chats for a remarkable investigation, which estimates the large-scale vandalism of South Africa. Some researchers observed the use of OSINT in criminal investigations that involve coordinated misbehavior and cybercrime (Kao et al.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
@@ -710,6 +710,14 @@
   - 「本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 一次情報の探し方：
+  - 「やり方3：公的記録・データベースを活用する」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「SNS・ウェブサイト・公的記録・地図・画像など、あらゆる公開情報がOSINTの対象になります」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「日本では、多くの公的情報がオンラインで確認できます」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「OSINT基本手順は「Google検索演算子」「SNS公開情報収集」「公的記録データベース活用」の3つ」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「3) By Public Government Data: Public Records, Government Reports And Publications, Regulatory Filings, Census Data」（https://www.thebusinessresearchcompany.com/report/open-source-intelligence-global-market-report）
+  - 「Open sources have existed for many years, but the explosion of the Internet and the World Wide Web (WWW) motivates several cyber security professionals and researchers to publish journals and articles on cyber threats, cyber-criminal profiling, and information gathering (Amaro et al.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「PDF (1.7 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「Accessing public records is a reliable way to collect verified data for OSINT research. Buried in filing cabinets and digital archives are records that can tell a story: business licenses, property records, court papers, and more.」（https://salesfuel.com/open-source-intelligence-tools/）
   - 「ソーシャルメディアプロファイル、オンラインアクティビティ、公的記録、その他のソースからの情報をつなぎ合わせるときに、ある人の習慣、関心、振る舞いの詳細なプロファイルを作成することが可能です」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「： 競合他社が使用しているサーバーインフラ、保有ドメインの履歴、SNS上の発信パターン、求人情報や社員の投稿から覗く組織構造など、公開情報をつなぎ合わせることで、相手の戦略や弱点が浮き彫りになります」（https://note.com/terueda/n/n5707498651c3）
   - 「～公開情報を武器に変える、守りのDX入門～｜solo@転職族公務員（IT採用、非IT部門勤務）」（https://note.com/solo_style/n/n985b3c636ab6）
@@ -717,14 +725,6 @@
   - 「ICT事務職として採用された市役所の職員の solo です」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「国税庁やe-Govなど、担当業務に関係する省庁の公開PDFやQ&Aを2〜3件ダウンロードします」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「Googleアカウントがあれば無料で使える「NotebookLM」にそのPDFをアップロードします」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「新しい通達が届くたびにPDFを追加すれば、ナレッジベースは常に最新の状態に保たれます」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「In some registries, you may come across a field called “authorized person.” This usually refers to the director or accountant, but it could also be someone with a power of attorney to act on behalf of the company—for example, for filing tax reports.」（https://hackers-arise.com/osint-getting-started-with-business-intelligence/）
-  - 「– The official website of the Federal Institute of Industrial Property. It provides access to patent filings, trademarks, and utility models registered in Russia.」（https://hackers-arise.com/osint-getting-started-with-business-intelligence/）
-  - 「とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「検索エンジンの検索結果・SNSの投稿・企業のWebサイト・ドメイン登録情報（WHOIS）・求人票・政府機関の公開データベース・学術論文・ニュース記事——これらすべてが対象になりうる」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「法人登記情報・組織図・使用している技術スタック（求人票から判明することが多い）・パートナー企業・オフィスの所在地などが対象になる」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「従業員のSNS・GitHubのパブリックリポジトリ・求人票の記述内容を定期的に見直す」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「site:自社ドメイン filetype:pdf や site:自社ドメイン inurl:admin といった検索で、意図せず公開されているドキュメントや管理画面へのアクセス経路がないかを確認できる」（https://note.com/red_structure/n/na2c79b00d217）
 - 失敗・落とし穴：
   - 「また、多くの場合、情報の各オープンソースから活用できる膨大な二次データが存在することに注意することにも留意してください」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
@@ -742,21 +742,21 @@
   - 「特に２については、収集先のサービスの運営元の国の法律に則った処罰を場合によっては受けますので、細心の注意が必要となります」（https://note.com/subland_/n/nd946aa4f734d）
   - 「法律違反には注意しましょう」（https://note.com/subland_/n/nd946aa4f734d）
 - 実例：
-  - 「GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of tools, scripts, and projects for open-source intelligence (OSINT). This repository includes automation scripts, data collection tools, visualization dashboards, and practical examples for OSINT research and analysis. · GitHub」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
-  - 「- Help find real world examples of functions, API's and libraries across 10+ sources.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
-  - 「- Free. Nationwide search of 400 million+ United States court cases.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
-  - 「脅威アクターがGitHubを不正な目的で悪用するケースが増加」（https://codebook.machinarecord.com/cyber-intelligence/osint/15117/）
-  - 「ここからは、企業でOSINTの手法を効果的に活用するための活用事例を6パターン紹介します」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
-  - 「調査結果は、日本語で分かりやすくまとめたレポートとして提供されます」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
-  - 「VPN機器の脆弱性はなぜ狙われる？2026年の不正アクセス事例とSCS評価制度★3で求められる対策」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
-  - 「例えば、ソーシャルメディアアカウントをマイニングして、ユーザーの名前、生年月日、家族構成、居住地などの個人情報を得ることができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「サイバーセキュリティにおけるOSINTのユースケース」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「サイバーセキュリティにおけるOSINTの一般的なユースケースとして、次の2つがあります」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「例えば、公開掲示板への投稿はそれ自体では、サイバーセキュリティチームにとって有用な情報をもたらさない可能性があります」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「例えば、公開されているインテリジェンスを確認することで、脅威アクターは組織が防御ラインを張る可能性のある場所を把握し、別の攻撃方法を探すことができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「例えば、サイバー犯罪者は、「機密だが未分類の情報」というフレーズを含むドキュメントのファイル検索を実行できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「site:example.gov “company name” filetype: pdf」（https://aofirs.org/articles/osint-open-source-intelligence）
-  - 「For example, a web archive is appropriate when the research question concerns an older version of a webpage. A mapping platform is appropriate when you need to examine geographic context. A metadata tool may be useful when an original media file is lawfully available.」（https://aofirs.org/articles/osint-open-source-intelligence）
+  - 「site:example.com キーワード」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
+  - 「Actual Intelligence Case Studies Leveraging Open Source Intelligence (OSINT)」（https://en.wikipedia.org/wiki/Open-source_intelligence）
+  - 「). OSINT is becoming a more important discipline in current criminal investigations as a technique for resolving several types of cases. LEAs and investigation agencies rely primarily on open data for information verification, evidence gathering, and intel generation for various investigations, including money laundering, fraud detection, human and arms trafficking, etc.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「We have seen a reduction in HUMINT (Human Intelligence), for example, inspectors marching the streets and knocking on people’s doors. OSINT use massively increased due to individuals spending so much of their lives online. This is especially helpful for criminal investigations such as cases of human trafficking to money laundering.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「) proposed a model in which they analysed more than 18 million tweets. All tweets are associated with the novel coronavirus. Tweets have been analyzed to see a relationship between the number of coronavirus infections and public mood. Due to this the number of cases is increasing or decreasing. The author of the paper (Abdul-Mageed and Diab」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「In the case of surveillance (Miller et al.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「The technologies which are used for national security surveillance (like location monitoring, facial recognition, and social media intelligence) are deployed to combat the covid-19 pandemic. For example, The United States, developed technology using social media intelligence (like blogs, news, social networks, and government sources) to counter the spread of the Covid-19 pandemic (Berman et al.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「Aslan ÇB, Sağlam RB, Li S (2018) Automatic detection of cyber security related accounts on online social networks: Twitter as an example. In: Proceedings of the 9th international conference on social media and society. pp 236–240」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「Celestini A, Me G, Mignone M (2017) Tor marketplaces exploratory data analysis: the drugs case. In: International conference on global security, safety, and sustainability. Springer, pp 218–229」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「Sinha T, Chowdhury T, Shaw RN et al (2022) Analysis and prediction of covid-19 confirmed cases using deep learning models: a comparative study. In: Advanced computing and intelligent technologies. Springer, pp 207–218」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「Soomro ZT, Ilyas SHW, Yaqub U (2020) Sentiment, count and cases: analysis of twitter discussions during covid-19 pandemic. In: 2020 7th international conference on behavioural and social computing (BESC), IEEE. pp 1–4」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「- Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
+  - 「Caselaw Access Project」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
+  - 「- Collection of full text of historical (not up-to-date) cases from United States state appellate courts.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
+  - 「A collection of tools, scripts, and projects for open-source intelligence (OSINT). This repository includes automation scripts, data collection tools, visualization dashboards, and practical examples for OSINT research and analysis.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
 - 検索結果の抜粋：
   - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧 — ユーザー名調査 Username 19件 公開されているユーザー名情報を調べるためのOSINTツールをまとめています。 Webでユーザー名を横断検索。 ユーザー名を複数サイトで横断検索（要ローカル導入）。 ユーザー名を複数サイトで横断検索（要ローカル導入）。」（https://mikiya-webdesign.com/osint-tools/）
   - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (OSINT) - Global Strategic Business ...GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of ...OSINT Methodology: How Open Source Intelligence WorksTop 15 OSINT Tools for Business Intelligence - salesfuel.com — Open-Source Intelligence (OSINT) Type Insights B」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
@@ -3763,11 +3763,11 @@
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
@@ -6166,11 +6166,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -11710,6 +11710,8 @@
 - 文脈：手法
 - 手順・やり方：
   - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「作成手順（5ステップ）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「3つの公告方法別｜費用・手間・掲載期間を比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「Q7. 官報での決算公告の申込み手順を教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11722,8 +11724,8 @@
   - 「ステップ5: 資産合計と負債純資産合計の一致を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「ここでは、典型的な中小企業（非大会社・非公開会社）を想定した記入済みサンプルを掲載します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「貸借対照表の要旨を実際に公告する方法は3つあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「それぞれの特徴を比較して、自社に最適な方法を選びましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「まだ決算公告の方法を決めていない方は、「」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+- 突き合わせ・推定：
+  - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 一次情報の探し方：
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11768,7 +11770,6 @@
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
 
 ## 検索の記録を再現できる形で残す実務（PRISMA-S：データベースと入口のプラットフォームを分ける・絞り込みと件数・灰色文献・検索エンジンの個人化の偏り）（PRISMA-S reporting literature search platform database limits grey literature personalization bias reproducible）
 - 文脈：手法
@@ -13304,6 +13305,18 @@
 - 失敗・落とし穴：
   - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「計算結果が直感に反するほど小さい（または大きい）場合、前提の設定に誤りがある可能性が高いものです」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
+  - 「型を覚えるだけでなく、本番で陥りやすい落とし穴を先に知っておきましょう」（https://akagiconsulting.com/blog/fermi-estimate/934/）
+  - 「Master bottom-up and top-down market sizing for consulting case interviews. Includes Fermi estimation techniques, worked examples, decision framework for choosing your approach, common mistakes, and practice exercises at increasing difficulty.」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「This guide covers both core approaches in depth — top-down market sizing and bottom-up market sizing — with multiple worked examples, a decision framework for choosing between them, sanity-check benchmarks, speed hacks for time-pressured interviews, common mistakes, and practice exercises at increasing difficulty levels.」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Common Market Sizing Mistakes (and How to Fix Them)」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Mistake 1: Forgetting Major Segments」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Mistake 2: False Precision」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Mistake 3: No Sanity Check」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Mistake 4: Assumption Stacking Without Intermediate Checks」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Mistake 5: Confusing Stock vs. Flow」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Mistake 6: Ignoring the Time Dimension」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Mistake 7: Applying National Averages to Local Markets」（https://casescoach.com/en/guides/market-sizing-techniques/）
+  - 「Avoid the seven common mistakes — especially missing segments, false precision, and failing to sanity-check」（https://casescoach.com/en/guides/market-sizing-techniques/）
 - 実例：
   - 「手順5．計算結果が現実的か検証する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「Q1.フェルミ推定とケース面接の違いは何ですか？」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
@@ -13947,11 +13960,34 @@
 
 ## 中小製造業の生産性を統計から読む実務家の連載（小川真由 MONOist「ファクトから考える中小製造業の生きる道」：資本金区分・時間あたり・為替）（SME manufacturing productivity statistics practitioner column Japan per hour capital size）
 - 文脈：統計の読み方
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：
+  - 「経済統計データを参照しながら、中小企業が付加価値を重視する付加価値経営を実践していく考え方や方法について共有していきます」（https://newspicks.com/topics/ogawa-tech/）
+  - 「先達のやり方は、正解ではない」（https://newspicks.com/topics/ogawa-tech/）
+- 突き合わせ・推定：
+  - 「この記事では、私たちの経済活動を体系的・網羅的に集計した経済統計であるSNAと、企業会計の類似性について、統計データで検証した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
+- 一次情報の探し方：
+  - 「経済統計データを参照しながら、中小企業が付加価値を重視する付加価値経営を実践していく考え方や方法について共有していきます」（https://newspicks.com/topics/ogawa-tech/）
+  - 「本トピックス「中小企業の付加価値経営」は、経済の構造(SNA)や統計データに実務から見た視点を加え、日本経済の現在地と課題を抽出した上で、私たち「働く当事者」がこれから持つべきマインドセットとは何かを考えるという試みです」（https://newspicks.com/topics/ogawa-tech/）
+  - 「私たちの経済活動を網羅的に整理・集計している経済統計であるSNA(System of National Accounts)では、金融バランスシート(Financial Balance Sheets)の中で、現金・預金、貸出・借入、株式、年金・保険などの金融資産と負債の残高(ストック)が集計されています」（https://newspicks.com/topics/ogawa-tech/）
+  - 「この記事では、企業規模別の平均給与について、最新の統計データをご紹介します」（https://newspicks.com/topics/ogawa-tech/）
+  - 「先日、日本の民間企業における労働者数(給与所得者数)や平均給与を集計した民間給与実態統計調査が更新され、2025年の最新値が公開されました」（https://newspicks.com/topics/ogawa-tech/）
+  - 「先日(9/29)、民間給与実態統計調査が更新され、2025年の最新データが公開されました」（https://newspicks.com/topics/ogawa-tech/）
+  - 「この記事では、経済統計(SNA: System of National Accounts)の体系について、家計・企業・政府の関係性を中心に図解した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
+  - 「GDP統計としても知られる国民経済計算(SNA: System of National Accounts)では、GDPを集計するだけでなく、その後に続く再分配や消費、投資、貯蓄といった私たちの経済活動が網羅的に整理・体系化され、統計データとして集計されています」（https://newspicks.com/topics/ogawa-tech/）
+  - 「【最新】 日本企業の資産はどれだけ増えた？ 2025年 法人企業統計調査 ストック面」（https://newspicks.com/topics/ogawa-tech/）
+  - 「この記事では、法人企業統計調査のストック面における最新値をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
+  - 「先日法人企業統計調査が更新され、2025年の最新値が公開されました」（https://newspicks.com/topics/ogawa-tech/）
+  - 「【最新】 日本企業の利益は増えたのか？ 2025年 法人企業統計調査 フロー面」（https://newspicks.com/topics/ogawa-tech/）
+  - 「この記事では先日公開された法人企業統計調査の最新値を共有します」（https://newspicks.com/topics/ogawa-tech/）
+  - 「先日、法人企業統計調査が更新され、2025年度の最新値が公開されました」（https://newspicks.com/topics/ogawa-tech/）
+  - 「法人企業統計調査では、企業会計における損益計算書と同じ流れでフロー面の項目が整理・集計されています」（https://newspicks.com/topics/ogawa-tech/）
+- 実例：
+  - 「この記事では、私たち中小企業が持続的に成長していくための取り組み事例として、東京都の城東地区4社が連携して挑戦する「ものづくり人材・技能継承プラットフォーム」について、そのねらいと概要についてご紹介します」（https://newspicks.com/topics/ogawa-tech/）
+  - 「今回は、企業規模別に見た給与水準について可視化した結果をご紹介したいと思います」（https://newspicks.com/topics/ogawa-tech/）
+  - 「この記事では、経済統計(SNA: System of National Accounts)の体系について、家計・企業・政府の関係性を中心に図解した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
+  - 「この記事では、中小製造業の技術を自社製品として昇華し、その販路開拓を伴走する合同会社メイクスアンドシングスと町工場プロダクツの取り組み事例をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
+  - 「この記事では、私たちの経済活動を体系的・網羅的に集計した経済統計であるSNAと、企業会計の類似性について、統計データで検証した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
