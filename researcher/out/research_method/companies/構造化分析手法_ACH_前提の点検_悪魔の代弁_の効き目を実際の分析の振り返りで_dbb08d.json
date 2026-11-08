@@ -8,8 +8,392 @@
  ],
  "context": "手法・偏り",
  "kind": "market",
- "researched_at": "2026-11-07T23:41:26.000214+00:00",
+ "researched_at": "2026-11-08T06:39:39.665479+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "analysed and related to the joint analysis steps in the profiling process.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "coordinating and facilitating collaborative data processes, notably profiling coordinators,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "be structured and planned as part of a displacement profiling process. The utility of certain",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "a profiling exercise or a joint needs assessment.31",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "analysis processes in profiling or joint needs assessments. A description of each technique is",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "cognitive_biases_march_2016.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "apr09.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3rd%20Edition.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Availability. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Anchoring. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "certainty into a probability estimate, people",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "goal-maximizing policy is overestimated.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "employing SATs and compile lessons learned on best practices and pitfalls of their use in intelligence",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the probability of errors caused by numerous cognitive biases",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "tive bias and reducing it. Chief among such biases often seen in",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "* confirmation bias—a tendency to search for or interpret",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In addition to their significant debiasing capabilities, SATs",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ficult problems and, in the process, help reduce potential biasing",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "larity in part because they specifically address cognitive pitfalls",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, various SATs address mindset bias; “satisficing”",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "most important SATs—reduced confirmation bias only",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "mitigating the cognitive pitfalls they are designed to address,",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "・ What are the most important best practices and pitfalls in",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "・ To what extent do SATs help overcome mindset bias, satis-",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ficing, and other cognitive pitfalls that plague analysis?",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In some cases, an individual might have a bias—current intel-",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". For an interesting in-depth analysis of bias risks and how the are managed and possibly mismanaged. Here is the abstract:",
+    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "treatment of cognitive bias found in the Sherman",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cognitive and perceptual biases in",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Common Perceptual and Cognitive Biases",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Biases in Evaluating Evidence",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Biases in Estimating Probabilities",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Biases in Perceiving Causality",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "bias, “analysis can be improved.”3",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "common mistakes that can lead to",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "free of his or her cognitive biases without",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "to good analysis and provides techniques for overcoming mind-sets and cognitive biases.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Exploring Artificial Intelligence Use to Mitigate Potential Human Bias Within U.S. Army Intelligence Preparation of the Battlefield Processes",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The authors of this report explore how artificial intelligence might be used to mitigate cognitive biases in U.S. Army intelligence preparation of the battlefield processes.",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "increased objectivity and reduced bias.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "distances intuitive reasoning and its accompanying pitfalls.46",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4. Lastly, mental models or cognitive biases must be identified and addressed early on.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "pitfalls later on in the process.63 In addition, the indicated time and training required will decrease",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "assumptions and biases, as well as to generate new ideas to adapt plans with new information",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Structured Analytic Techniques to Mitigate Cognitive Bias.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "through_the_Use_of_Structured_Analytic_Techniques_to_Mitigate_Cognitive_Bias",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACAPS. (2016). Cognitive Biases. Assessment Capacities Project.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "実例": [
    {
     "quote": "In some cases, however, key assumptions and the logic behind specific techniques were not transparent.",
@@ -211,98 +595,6 @@
    },
    {
     "quote": "Miller Beebe, S. (2020). Teaching Structured Analytic Techniques with Cases. Ascendant",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "analysed and related to the joint analysis steps in the profiling process.",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "coordinating and facilitating collaborative data processes, notably profiling coordinators,",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "be structured and planned as part of a displacement profiling process. The utility of certain",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "a profiling exercise or a joint needs assessment.31",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "analysis processes in profiling or joint needs assessments. A description of each technique is",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "cognitive_biases_march_2016.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "apr09.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3rd%20Edition.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -663,298 +955,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.",
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "employing SATs and compile lessons learned on best practices and pitfalls of their use in intelligence",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the probability of errors caused by numerous cognitive biases",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "tive bias and reducing it. Chief among such biases often seen in",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "* confirmation bias—a tendency to search for or interpret",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In addition to their significant debiasing capabilities, SATs",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ficult problems and, in the process, help reduce potential biasing",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "larity in part because they specifically address cognitive pitfalls",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, various SATs address mindset bias; “satisficing”",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "most important SATs—reduced confirmation bias only",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "mitigating the cognitive pitfalls they are designed to address,",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・ What are the most important best practices and pitfalls in",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・ To what extent do SATs help overcome mindset bias, satis-",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ficing, and other cognitive pitfalls that plague analysis?",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In some cases, an individual might have a bias—current intel-",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". For an interesting in-depth analysis of bias risks and how the are managed and possibly mismanaged. Here is the abstract:",
-    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "treatment of cognitive bias found in the Sherman",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Cognitive and perceptual biases in",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Common Perceptual and Cognitive Biases",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Biases in Evaluating Evidence",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Biases in Estimating Probabilities",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Biases in Perceiving Causality",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "bias, “analysis can be improved.”3",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "common mistakes that can lead to",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "free of his or her cognitive biases without",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "to good analysis and provides techniques for overcoming mind-sets and cognitive biases.",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Exploring Artificial Intelligence Use to Mitigate Potential Human Bias Within U.S. Army Intelligence Preparation of the Battlefield Processes",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The authors of this report explore how artificial intelligence might be used to mitigate cognitive biases in U.S. Army intelligence preparation of the battlefield processes.",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "increased objectivity and reduced bias.",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "distances intuitive reasoning and its accompanying pitfalls.46",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "4. Lastly, mental models or cognitive biases must be identified and addressed early on.",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "pitfalls later on in the process.63 In addition, the indicated time and training required will decrease",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "assumptions and biases, as well as to generate new ideas to adapt plans with new information",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Structured Analytic Techniques to Mitigate Cognitive Bias.",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "through_the_Use_of_Structured_Analytic_Techniques_to_Mitigate_Cognitive_Bias",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ACAPS. (2016). Cognitive Biases. Assessment Capacities Project.",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Availability. Probability estimates are",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Anchoring. Probability estimates are",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "certainty into a probability estimate, people",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "goal-maximizing policy is overestimated.",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -966,9 +966,9 @@
     "method": "browser"
    },
    {
-    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ec36d2ac-9f3f-4b80-8018-489c7c2032f1/",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://textbook-rc.or.jp/report_data2.pdf",
@@ -981,14 +981,19 @@
     "method": "browser"
    },
    {
+    "url": "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
     "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
-    "url": "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
+    "url": "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    },
    {
     "url": "https://aist.repo.nii.ac.jp/records/2003492",
@@ -1001,19 +1006,14 @@
     "method": "browser"
    },
    {
+    "url": "https://aist.repo.nii.ac.jp/records/2003346",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.aomoricgu.ac.jp/news/2428?topic=%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C&cpID=292",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
@@ -1052,11 +1052,11 @@
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） site:note.com",
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ec36d2ac-9f3f-4b80-8018-489c7c2032f1/",
+    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
     "https://textbook-rc.or.jp/report_data2.pdf",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
     "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
+    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
     "https://aist.repo.nii.ac.jp/records/2003492",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
     "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
@@ -1072,14 +1072,14 @@
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） note",
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ec36d2ac-9f3f-4b80-8018-489c7c2032f1/",
-    "https://textbook-rc.or.jp/report_data2.pdf",
+    "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
+    "https://textbook-rc.or.jp/report_data2.pdf",
     "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
     "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
     "https://aist.repo.nii.ac.jp/records/2003492",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja"
+    "https://aist.repo.nii.ac.jp/records/2003346"
    ],
    "engines": [
     "yahoo_jp"
@@ -1091,13 +1091,13 @@
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
     "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ec36d2ac-9f3f-4b80-8018-489c7c2032f1/",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
     "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
     "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://www.aomoricgu.ac.jp/news/2428?topic=%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C&cpID=292",
     "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492"
+    "https://aist.repo.nii.ac.jp/records/2003492",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
+    "https://aist.repo.nii.ac.jp/records/2003346"
    ],
    "engines": [
     "yahoo_jp"
@@ -1108,11 +1108,11 @@
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） 事例",
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ec36d2ac-9f3f-4b80-8018-489c7c2032f1/",
+    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
     "https://textbook-rc.or.jp/report_data2.pdf",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
     "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
+    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
     "https://aist.repo.nii.ac.jp/records/2003492",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
     "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja"
@@ -1131,13 +1131,13 @@
     "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "https://www.rand.org/topics/intelligence-analysis.html",
     "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "https://www.airuniversity.af.edu/AUPress/Book-Reviews/Display/Article/1193867/structured-analytic-techniques-for-intelligence-analysis/",
     "https://www.hsdl.org/document/20945",
     "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
-    "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
     "https://studylib.net/doc/28738744/rand-rr1408"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1147,31 +1147,33 @@
    "results": [
     "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
     "https://note.com/aisight/n/n61c130b50bcc",
+    "https://note.com/masa_cloud/n/nc55e9b41c850",
     "https://note.com/tad_shimizu/n/n83beac399f95",
+    "https://note.com/lilygpt/n/n2e409b0d8575",
     "https://note.com/clean_broom590/n/nd6c45163054a",
-    "https://note.com/h_system/n/nd18ef30aaa61",
     "https://note.com/chiteki/n/ndb5790f6d156",
-    "https://note.com/grand_wren2289/n/ne55ace23a5ac"
+    "https://note.com/h_system/n/n6518eb477eb5"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:x.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
    "results": [
     "https://x.com/N5DeuCtRlz41963",
     "https://x.com/tetumemo/status/2018835524136645080",
-    "https://x.com/tetumemo/status/2018694225903362054",
+    "https://x.com/kajikent/status/2055965760959504502",
+    "https://x.com/t4knwl/status/2104360091805962615",
     "https://x.com/manabu_okumura/status/2078319850796265506",
     "https://x.com/moriakit/status/2067083891136237747",
-    "https://x.com/yumin_ai/status/2105225931451424796",
-    "https://x.com/kajikent/status/2055965760959504502",
-    "https://x.com/findurtalents/status/2078740537935540731"
+    "https://x.com/orca_ai_teacher/status/2058678176855777378",
+    "https://x.com/yumin_ai/status/2105225931451424796"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -1185,28 +1187,26 @@
     "https://jp.linkedin.com/posts/tetsuo-kan-ba1677297_コンサル調査案件は情報収集から仮説検証へaiを悪魔の代弁者にして検証を仕組-activity-7489599653361950720-iYTT",
     "https://jp.linkedin.com/pulse/validate-before-you-build-how-stress-test-your-idea-austin-menear-ir2fe?tl=ja",
     "https://jp.linkedin.com/pulse/beyond-5-whys-building-stronger-root-cause-analysis-ahmed-ms-gsp-2uoge?tl=ja",
-    "https://www.linkedin.com/posts/hiroyuki-kimura-1582b5a5_第二章-注意文-preface-この第二章は木村広幸さん本人の思想や主張-activity-7417400139666845696-8D6R",
-    "https://www.linkedin.com/posts/around50_集団思考-アート鑑賞-activity-7111132743345864704-fSjm"
+    "https://www.linkedin.com/posts/hiroyuki-kimura-1582b5a5_第二章-注意文-preface-この第二章は木村広幸さん本人の思想や主張-activity-7417400139666845696-8D6R"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
    "results": [
-    "https://www.facebook.com/tms.japan/posts/空気交換回数achが示す安全の待ち時間とは-汚染除去99への道筋-概要医療施設内での空気感染対策において最も重要な指標の一つが空気交換回数ach-air-cha/26357552877204569/",
-    "https://www.facebook.com/tms.japan/posts/空気交換回数achが示す安全の待ち時間とは-汚染除去99への道筋-概要医療施設内での空気感染対策において最も重要な指標の一つが空気交換回数ach-air-cha/26404079445885245/",
-    "https://www.facebook.com/tms.japan/photos/空気交換回数achが示す安全の待ち時間とは-汚染除去99への道筋-概要医療施設内での空気感染対策において最も重要な指標の一つが空気交換回数ach-air-cha/26404078969218626/",
     "https://www.facebook.com/BizMentor.2020/posts/悪魔の代弁者カトリック教会で聖人を選ぶ際にその人物の欠点や問題点を指摘する役割を持つわざと反対する人の事です異論を聞き聞く事で冷静に判断できるという効果があるの/344478410761048/",
     "https://www.facebook.com/empublic.jp/posts/1069565913105851/",
+    "https://www.facebook.com/logistique001/posts/cbp宣誓書を深掘りする-cape設計概要とach還付要件企業が今すぐ整えるべき受領体制ここでいうcbp宣誓書はatmus-filtration-事件で-cbp/1375748684597648/",
     "https://www.facebook.com/salondeshacho/photos/イギリスの政治哲学者であり経済思想家でもあるミル1806-1873が語った悪魔の代弁者についてご紹介します-悪魔の代弁者とは多数派に対してあえて批判や反論をする/1178098245695558/",
-    "https://www.facebook.com/mainichishimbun/posts/相談相手は悪魔と天使の代弁者関電が挑むai時代の企業変革関西電力が人工知能aiの活用に本腰を入れています将来的には原子力発電所の点検など人が担うには危険がある分/1471157618379921/"
+    "https://www.facebook.com/mainichishimbun/posts/相談相手は悪魔と天使の代弁者関電が挑むai時代の企業変革関西電力が人工知能aiの活用に本腰を入れています将来的には原子力発電所の点検など人が担うには危険がある分/1471157618379921/",
+    "https://www.facebook.com/masato.tahara/posts/社会システムの代案を作る行為は現在のシステムが考えられた前提を点検することでありそれを考えた人たち以上の視座で考えることであり現在のシステムを正当に評価して総括/5446683035389958/",
+    "https://www.facebook.com/tohru.tominaga/videos/支持率19の中道改革連合が高支持率政権を分析する滑稽さ支持率わずか1台の政党が高い支持を集める高市政権の批判に躍起自分たちがなぜ国民から支持されないのかを顧みず/2109934833274148/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -1215,13 +1215,13 @@
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
     "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ec36d2ac-9f3f-4b80-8018-489c7c2032f1/",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
     "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2003678",
     "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://www.aomoricgu.ac.jp/news/2428?topic=%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C&cpID=292",
     "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492"
+    "https://aist.repo.nii.ac.jp/records/2003492",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
+    "https://aist.repo.nii.ac.jp/records/2003346"
    ],
    "engines": [
     "yahoo_jp"
@@ -1233,13 +1233,13 @@
    "results": [
     "https://aist.repo.nii.ac.jp/records/2003489",
     "https://researchmap.jp/takashi_ishihara/published_papers/35760856?lang=en",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ec36d2ac-9f3f-4b80-8018-489c7c2032f1/",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
     "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
     "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://www.aomoricgu.ac.jp/news/2428?topic=%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C&cpID=292",
     "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492"
+    "https://aist.repo.nii.ac.jp/records/2003492",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
+    "https://aist.repo.nii.ac.jp/records/2003346"
    ],
    "engines": [
     "yahoo_jp"
@@ -1251,12 +1251,12 @@
    "results": [
     "https://www.linkedin.com/in/james-murphy-721151251",
     "https://www.linkedin.com/posts/william-russell-bb05352_marketingstrategy-marketing-marketingchannels-activity-7519060230392020994-CT1w",
-    "https://www.linkedin.com/posts/jdamienscott_intelligenceanalysis-tradecraft-structuredanalytictechniques-activity-7487337848400998400-nWlu",
     "https://www.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec",
     "https://hk.linkedin.com/posts/ole-donner_cti-intelligence-ai-activity-7029002208327168000-bJoJ",
     "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/structured-analytic-techniques-sats",
-    "https://www.linkedin.com/pulse/stealing-from-spooks-structured-analytic-techniques-law-poindexter-tzenc",
     "https://www.linkedin.com/posts/college-of-public-service_structured-analytic-techniques-in-an-intelligence-activity-7303085697375105026-fvHR",
+    "https://www.linkedin.com/pulse/stealing-from-spooks-structured-analytic-techniques-law-poindexter-tzenc",
+    "https://www.linkedin.com/posts/jdamienscott_intelligenceanalysis-tradecraft-structuredanalytictechniques-activity-7487337848400998400-nWlu",
     "https://pe.linkedin.com/posts/michelle-ziegler-02a498144_rethinking-strategic-readiness-activity-7199803869210501120-V5Tw"
    ],
    "engines": [
@@ -1268,6 +1268,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T17:46:57.072112+00:00"
 }

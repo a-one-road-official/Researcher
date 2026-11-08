@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T23:55:56.685424+00:00",
+ "researched_at": "2026-11-08T06:46:05.718035+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -29,7 +29,7 @@
     "method": "http"
    },
    {
-    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?1nnaX6cOUO0P7dhV6FFH65SR9uxw6QFXCYyfrx5R%2BF1AKLg4ufUFJWFauK5q3bREV8%2FttxGNLc2X%0D%0AL%2Ffc0AwRoFNT8lkYe6D3v8Ifw7EyO%2Bg%3D",
+    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?SaDL2M6KKreg93haA8gwjYvebqNl7%2BrlxCJkRjr1B23nvKBpdcx%2BcraF%2FFdCGmwmi5Mw8m4i3Mp2%0D%0AbD07TiHJ%2F%2BBvck8jACHUNUtRlEBLtK8%3D",
     "status": "ok",
     "method": "http"
    },
@@ -39,14 +39,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.jla.or.jp/osusumebon/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://www.jla.or.jp/osusumebon/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://repository.upenn.edu/bitstreams/f67f9ae1-ad87-4160-ae2c-00c39fbce059/download",
@@ -69,14 +69,9 @@
     "method": "http"
    },
    {
-    "url": "https://japan.editverse.com/hypothesis-testing-framework/",
+    "url": "https://www.thinka.ai/ja/%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88/%E6%AD%B4%E5%8F%B2%E7%B7%8F%E5%90%88%E3%83%BB%E4%B8%96%E7%95%8C%E5%8F%B2%E6%8E%A2%E7%A9%B6/%E4%BB%AE%E8%AA%AC%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%A0%B9%E6%8B%A0%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E6%A4%9C%E8%A8%BC",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?c7LUBEpY0wCw9o%2BujgjeOCvzLyvilxfN9lf0BF24C0P183D8ggGsEY1B1ZBzoQtlf9VNzKvVXJOF%0D%0ArQYfP2tjngvtOWjQjjiTfDiDzQhzXAg%3D",
-    "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://compass.readable.jp/2026/01/31/how-to-write-discussion/",
@@ -84,24 +79,39 @@
     "method": "http"
    },
    {
-    "url": "https://www.thinka.ai/ja/%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88/%E6%AD%B4%E5%8F%B2%E7%B7%8F%E5%90%88%E3%83%BB%E4%B8%96%E7%95%8C%E5%8F%B2%E6%8E%A2%E7%A9%B6/%E4%BB%AE%E8%AA%AC%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%A0%B9%E6%8B%A0%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E6%A4%9C%E8%A8%BC",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://coteam.jp/note/organizational-climate/hypothesis-verification/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.pmda.go.jp/files/000198053.pdf",
+    "url": "https://www.labz-inc.com/post/%E4%BB%AE%E8%AA%AC%E6%80%9D%E8%80%83%E3%81%A8%E3%81%AF%EF%BC%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%E4%BB%AE%E8%AA%AC%E3%81%AE%E7%AB%8B%E3%81%A6%E6%96%B9%E3%83%BB%E6%A4%9C%E8%A8%BC%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3%E8%AA%AC/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://bcl.sci.yamaguchi-u.ac.jp/~jun/download/texts/argument.pdf",
+    "url": "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://freeasy24.research-plus.net/blog/c264",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idea-soken.com/kasetsu-kensho",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constep.jp/column/2819",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.editverse.com/hypothesis-testing-framework/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://constep.jp/column/3773",
@@ -109,7 +119,12 @@
     "method": "http"
    },
    {
-    "url": "https://constep.jp/column/2819",
+    "url": "https://scholarcompass.net/columns/112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiraberu.net/ronbun/report-kousatsu/",
     "status": "ok",
     "method": "http"
    },
@@ -144,7 +159,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf",
+    "url": "https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf",
     "status": "ok",
     "method": "pdf"
    }
@@ -157,13 +172,13 @@
     "https://digital.kyodonews.jp/static/feature_daihonei/index.html",
     "https://www.wis-jma.go.jp/sataid/fd/GS261019.Z00",
     "https://diamond.jp/articles/-/336739?page=2",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://president.jp/articles/-/99540?page=1",
-    "https://www.jla.or.jp/osusumebon/",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "https://www.jla.or.jp/osusumebon/",
     "https://repository.upenn.edu/bitstreams/f67f9ae1-ad87-4160-ae2c-00c39fbce059/download",
     "https://note.com/pt_reasoning/n/n8d27ef514ce3",
-    "https://note.com/saito_lab/n/n93cb492f7ba4"
+    "https://note.com/i_partners/n/n2c85d514ef39"
    ],
    "engines": [
     "ddgs:google",
@@ -177,19 +192,20 @@
     "https://digital.kyodonews.jp/static/feature_daihonei/index.html",
     "https://www.wis-jma.go.jp/sataid/fd/GS261019.Z00",
     "https://diamond.jp/articles/-/336739?page=2",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://president.jp/articles/-/99540?page=1",
-    "https://www.jla.or.jp/osusumebon/",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "https://www.jla.or.jp/osusumebon/",
     "https://repository.upenn.edu/bitstreams/f67f9ae1-ad87-4160-ae2c-00c39fbce059/download",
     "https://matsumura-lawoffice.jp/column/detail/20251215000003/",
     "https://note.com/toru09/n/nc47e439fbd5c"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較） やり方",
@@ -199,17 +215,18 @@
     "https://diamond.jp/articles/-/336739?page=2",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://president.jp/articles/-/99540?page=1",
-    "https://www.jla.or.jp/osusumebon/",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "https://www.jla.or.jp/osusumebon/",
     "https://repository.upenn.edu/bitstreams/f67f9ae1-ad87-4160-ae2c-00c39fbce059/download",
     "https://matsumura-lawoffice.jp/column/detail/20251215000003/",
     "https://compass.readable.jp/2026/01/31/how-to-write-discussion/"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 18
   },
   {
    "query": "仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較） 事例",
@@ -217,19 +234,20 @@
     "https://digital.kyodonews.jp/static/feature_daihonei/index.html",
     "https://www.wis-jma.go.jp/sataid/fd/GS261019.Z00",
     "https://diamond.jp/articles/-/336739?page=2",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://president.jp/articles/-/99540?page=1",
-    "https://www.jla.or.jp/osusumebon/",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "https://www.jla.or.jp/osusumebon/",
     "https://repository.upenn.edu/bitstreams/f67f9ae1-ad87-4160-ae2c-00c39fbce059/download",
     "https://matsumura-lawoffice.jp/column/detail/20251215000003/",
-    "https://constep.jp/column/3773"
+    "https://constep.jp/column/2819"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 18
   },
   {
    "query": "follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors",
@@ -239,10 +257,10 @@
     "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
     "https://zatonski.substack.com/p/analysis-of-competing-hypotheses",
     "https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis",
-    "https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf",
     "https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf",
     "https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf",
     "https://www.semanticscholar.org/paper/The-%E2%80%9Canalysis-of-competing-hypotheses%E2%80%9D-in-analysis-Dhami-Belton/7259921c0524f064138c8d971cec2bab687ab6b6",
+    "https://nhimg.org/glossary/competing-hypotheses-analysis/",
     "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses"
    ],
    "engines": [
@@ -257,16 +275,16 @@
     "https://note.com/sohtanagasaka/n/n4e209489f0aa",
     "https://note.com/huge_kamaitachi/n/n46bb65cbcd50",
     "https://note.com/reading_monkey/n/n0cb75e5d4d1d",
-    "https://note.com/huge_kamaitachi/n/nd1cbddd62a3d",
     "https://note.com/kobachou/n/nc3e9e05227d5",
-    "https://note.com/huge_kamaitachi/n/n3f7bf8e2ca28",
+    "https://note.com/kiribu50mekki/n/nf81b8fb793d5",
+    "https://note.com/hirokimiyano/n/n80db88842145",
+    "https://note.com/thecardgame/n/n40b31377ae85",
+    "https://note.com/mohi3/n/n06e0b9ad5164",
     "https://note.com/fire_2026/n/n86b62982a764",
-    "https://note.com/huge_kamaitachi/n/n707dbabbdbb9",
-    "https://note.com/hys2go/n/n3f57058282d0",
-    "https://note.com/mohi3/n/n06e0b9ad5164"
+    "https://note.com/huge_kamaitachi/n/nd1cbddd62a3d"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -275,23 +293,35 @@
    "query": "site:x.com 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）",
    "results": [
     "https://x.com/tommy_love123/status/2086609364669120847",
-    "https://x.com/divergent_codex/status/2115560268759703905",
     "https://x.com/Philomagi/status/2109129608025284731",
     "https://x.com/tucan/status/2104420152192414174",
-    "https://x.com/itarutomy/status/2100479870815928620",
+    "https://x.com/divergent_codex/status/2115560268759703905",
+    "https://x.com/nerikeshi_k/status/2068329737412612593",
+    "https://x.com/AM09_21/status/2105301068137869320",
     "https://x.com/y__fixer/status/2109260272640909625",
-    "https://x.com/nerikeshi_k/status/2068329737412612593"
+    "https://x.com/itarutomy/status/2100479870815928620"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/posts/yohei-koyama-b38a708b_経営学-研究-openscience-activity-7500710048159936512-UEVF",
+    "https://jp.linkedin.com/learning/getting-your-ideas-approved-2/778819",
+    "https://jp.linkedin.com/pulse/学びの窓-64-仮説と想定-誠一郎-眞部-blw1c",
+    "https://jp.linkedin.com/posts/takeshi-kiribuchi-ph-d-a08a73187_実験には仮説に取り込めていない事実がある-仮説は更新できない-仮説を立てる-activity-7449942110033678336-vvMG",
+    "https://www.linkedin.com/pulse/仮説を当てた瞬間が最高に楽しいヤフー小澤隆生cooの問いを立てる原動力-satoshi-ebitani",
+    "https://www.linkedin.com/posts/tojodojo_結果を出し続ける人が-毎日ひそかに回している仮説の立て方-結論から-activity-7425808510002688001-O-ov",
+    "https://jp.linkedin.com/pulse/integrative-reviews-research-interface-grounded-theory-sven-kunisch-qrlve?tl=ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）",
@@ -301,17 +331,18 @@
     "https://www.facebook.com/kaoru.morishita.1291/",
     "https://www.facebook.com/Language.School.ANC/posts/二兎を追い失った証拠と容疑者-当局が隠した失態-朝日新聞デジタル-httpstcoviulgurxlu/4408947042451913/",
     "https://www.facebook.com/sayamajiken/photos/6月14日の徳島新聞論説委員の目これほど無実を示す証拠がそろっている事件は他にはないのになぜ再審は開かれないのか狭山を追い続けるトクシン加治記者の記事です/770309781922453/",
-    "https://www.facebook.com/nobuko.takeda.5/posts/エビデンスは根拠とも訳せます問いの立て方に問題のある研究による証拠-と-優れた実践家の経験値による根拠では私は優れた実践家自己申告でなくですがの根拠に軍配を上げ/7083911351671193/",
     "https://www.facebook.com/yoshikazu.kanadani/posts/主訴から指導仮説を立て根拠に基づいた療育を実践する療育において大切なのは子どものできないことに対してすぐに指導を始めるのではなくなぜ難しいのかを系統的に考えるこ/4289877211157018/",
+    "https://www.facebook.com/takayuki.nakatsukasa.1/videos/突撃施術失敗最初の仮説と検証で全く変わらない柔道部キャプテン靱帯損傷のあとから残った後遺症正座で痛み踏み込むと怖い力が入らない無意識にかばってしまう原因はまだ治/1929349307676928/",
     "https://www.facebook.com/susumu.hasegawa76/videos/20260805-todays-summary-evening-今日は答えを急がず根拠を積み重ねることの大切さを改めて感じました思いつきではなくデータを見て仮説/1958332378473632/",
     "https://www.facebook.com/YUMEO.YUMEOOIKAKERUHITO/posts/笑えるのは楽しんでいる証拠怒っているのは真剣な証拠喧嘩するのは一緒だった証拠つまずくのは進んでいる証拠裏切られるのは信じていた証拠失恋は愛していた証拠疲れたは頑/2389607907837668/",
-    "https://www.facebook.com/upsoclenigma.jp/videos/突然すべてが説明できないほど静かになった/1453439442399212/"
+    "https://www.facebook.com/nobuko.takeda.5/posts/エビデンスは根拠とも訳せます問いの立て方に問題のある研究による証拠-と-優れた実践家の経験値による根拠では私は優れた実践家自己申告でなくですがの根拠に軍配を上げ/7083911351671193/"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 12
   },
   {
    "query": "仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較） note 社長",
@@ -319,19 +350,20 @@
     "https://digital.kyodonews.jp/static/feature_daihonei/index.html",
     "https://www.wis-jma.go.jp/sataid/fd/GS261019.Z00",
     "https://diamond.jp/articles/-/336739?page=2",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://president.jp/articles/-/99540?page=1",
-    "https://www.jla.or.jp/osusumebon/",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "https://www.jla.or.jp/osusumebon/",
     "https://repository.upenn.edu/bitstreams/f67f9ae1-ad87-4160-ae2c-00c39fbce059/download",
     "https://matsumura-lawoffice.jp/column/detail/20251215000003/",
     "https://japan.editverse.com/hypothesis-testing-framework/"
    ],
    "engines": [
     "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 17
   },
   {
    "query": "仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較） X 投稿",
@@ -341,17 +373,18 @@
     "https://diamond.jp/articles/-/336739?page=2",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://president.jp/articles/-/99540?page=1",
-    "https://www.jla.or.jp/osusumebon/",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "https://www.jla.or.jp/osusumebon/",
     "https://repository.upenn.edu/bitstreams/f67f9ae1-ad87-4160-ae2c-00c39fbce059/download",
     "https://matsumura-lawoffice.jp/column/detail/20251215000003/",
     "https://compass.readable.jp/2026/01/31/how-to-write-discussion/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors site:linkedin.com",
@@ -360,28 +393,29 @@
     "https://www.linkedin.com/top-content/training-development/critical-thinking-applications/how-to-use-critical-thinking-skills-for-improved-judgments/",
     "https://www.linkedin.com/in/brian-blase-8518317a",
     "https://www.linkedin.com/in/andrewyng",
-    "https://ca.linkedin.com/in/fangyiyu",
     "https://ca.linkedin.com/in/even-oldridge",
     "https://www.linkedin.com/in/benwinokur",
-    "https://uk.linkedin.com/in/zhenfei-yin",
     "https://www.linkedin.com/in/carey-nachenberg-14bbb03",
-    "https://www.linkedin.com/in/joseph-chiarenzelli"
+    "https://uk.linkedin.com/in/zhenfei-yin",
+    "https://uk.linkedin.com/in/simon-mylius",
+    "https://www.linkedin.com/in/archana-prasad-3573358"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 18
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ27頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ27頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ27頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ27頁・検索12回）",
-  "実例": "記載なし（読んだ27頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-07T23:55:56.685424+00:00"
 }

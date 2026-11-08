@@ -8,100 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T23:20:49.606495+00:00",
+ "researched_at": "2026-11-08T06:42:38.201926+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "ウィナーズカース（勝者の呪い）とオークション評価バイアス",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Winner&#x27;s Curse and Valuation Bias in Auctions",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "監査の失敗により生じた損害について監査人が負う民事・行政上の責任の範囲と、その限定を巡る制度的論点",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "共同編集やクラウド保存に強い一方、関数・ショートカットの互換性に注意が必要",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "倒産手続で管財人等が旧経営陣の善管注意義務違反を調査し、簡易な裁判所手続で賠償責任を確定する制度",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "数式の誤りによる桁違いの誤答を素早く発見できる",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上限内に収めても、長い文脈の中ほどの情報は結果に反映されにくく、「入れれば安心」ではない点が実務上の注意点であること",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上場廃止・統合・清算で途中で消えた対象がデータから抜け落ち、残った対象だけを見るため成績が過大に見える誤り",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "監査人が経営者の説明や証憑を鵜呑みにせず、虚偽表示の可能性を常に問い直しながら監査証拠を評価すべきとする、監査業務の基本姿勢を定めた概念",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "単位が混在すると計算自体は動くため発見が遅れやすい重大な誤りにつながる",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価額を引き下げて新株を発行するダウンラウンドを取締役会が承認するにあたり、算定根拠の合理性や既存株主との公平性について求められる善管注意義務",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "次に来る語を確率的に選ぶ仕組みに由来し、財務数値では連鎖的な誤りにつながること",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦略評価やVaRの超過回数の検定に用い、過剰適合に注意する",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どの位置に挟むかによって、誤りの検出率と作業工数が大きく変わること",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "成功・現状維持・失敗など複数シナリオごとに評価額を算定し、それぞれの実現確率で加重平均して企業価値を求める評価手法",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "権利行使可能なタイミングにより分類される、いつでも行使可能なアメリカン型、満期のみのヨーロピアン型、複数指定日のバミューダン型",
@@ -189,98 +97,6 @@
    },
    {
     "quote": "数十秒で自分の強み・志望動機を簡潔に伝える自己紹介の型",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "CAPMのベータで説明できない超過収益として回帰分析で推計するものをジェンセンのアルファと呼ぶ",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "途中で式が変わるモデルは壊れやすく検証も難しくなる",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "配当割引モデル（DDM）の式を変形し、現在の株価・配当利回り・要求利回りから逆算した、市場が織り込んでいる配当成長率",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "オプション価格から逆算する将来の予想変動率と、過去の値動きから計算する実績変動率で、オプション取引の割高・割安判断に使われる",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "LBO Analysis as a Valuation Cross-Check",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "目標IRR・MOICを満たす価格を借入前提から逆算し、財務的買い手が支払える価格の上限をDCF・Compsと並べて示す手法",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "最終的な数値検証は引き続き人が行う必要がある",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製造拠点の設備状況・生産能力・サプライチェーンを技術専門家が検証する事業運営面のDD",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "説明変数と被説明変数の関係を数式で推定する統計手法",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ベータの推定、売上やコストのドライバー分析、予測モデルの構築などに用いられる",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Changes in Accounting Policies and Accounting Estimates",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "竣工後の想定価値から工事費と利益を差し引いて土地取得可能額を逆算する投資",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "試行回数に対してデータが少ないときに起きやすく、訓練と検証の分離で検出すること",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "LOI締結・独占交渉権付与の後に実施される、価格前提を検証するための本格的なDD",
-    "url": "https://otemachiprep.com/glossary/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "CAPMで株主資本コストを推計する主要パラメータとなる",
     "url": "https://otemachiprep.com/glossary/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -378,6 +194,98 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "CAPMのベータで説明できない超過収益として回帰分析で推計するものをジェンセンのアルファと呼ぶ",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "途中で式が変わるモデルは壊れやすく検証も難しくなる",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "配当割引モデル（DDM）の式を変形し、現在の株価・配当利回り・要求利回りから逆算した、市場が織り込んでいる配当成長率",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "オプション価格から逆算する将来の予想変動率と、過去の値動きから計算する実績変動率で、オプション取引の割高・割安判断に使われる",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LBO Analysis as a Valuation Cross-Check",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "目標IRR・MOICを満たす価格を借入前提から逆算し、財務的買い手が支払える価格の上限をDCF・Compsと並べて示す手法",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最終的な数値検証は引き続き人が行う必要がある",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製造拠点の設備状況・生産能力・サプライチェーンを技術専門家が検証する事業運営面のDD",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "説明変数と被説明変数の関係を数式で推定する統計手法",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ベータの推定、売上やコストのドライバー分析、予測モデルの構築などに用いられる",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Changes in Accounting Policies and Accounting Estimates",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "竣工後の想定価値から工事費と利益を差し引いて土地取得可能額を逆算する投資",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "試行回数に対してデータが少ないときに起きやすく、訓練と検証の分離で検出すること",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LOI締結・独占交渉権付与の後に実施される、価格前提を検証するための本格的なDD",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "CAPMで株主資本コストを推計する主要パラメータとなる",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "営業循環過程にある売掛金・棚卸資産等は正常営業循環基準で流動、それ以外は決算日の翌日から1年以内に期限が来るかで分ける",
@@ -469,6 +377,98 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ウィナーズカース（勝者の呪い）とオークション評価バイアス",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Winner&#x27;s Curse and Valuation Bias in Auctions",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "監査の失敗により生じた損害について監査人が負う民事・行政上の責任の範囲と、その限定を巡る制度的論点",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "共同編集やクラウド保存に強い一方、関数・ショートカットの互換性に注意が必要",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "倒産手続で管財人等が旧経営陣の善管注意義務違反を調査し、簡易な裁判所手続で賠償責任を確定する制度",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数式の誤りによる桁違いの誤答を素早く発見できる",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上限内に収めても、長い文脈の中ほどの情報は結果に反映されにくく、「入れれば安心」ではない点が実務上の注意点であること",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上場廃止・統合・清算で途中で消えた対象がデータから抜け落ち、残った対象だけを見るため成績が過大に見える誤り",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "監査人が経営者の説明や証憑を鵜呑みにせず、虚偽表示の可能性を常に問い直しながら監査証拠を評価すべきとする、監査業務の基本姿勢を定めた概念",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "単位が混在すると計算自体は動くため発見が遅れやすい重大な誤りにつながる",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "評価額を引き下げて新株を発行するダウンラウンドを取締役会が承認するにあたり、算定根拠の合理性や既存株主との公平性について求められる善管注意義務",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次に来る語を確率的に選ぶ仕組みに由来し、財務数値では連鎖的な誤りにつながること",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦略評価やVaRの超過回数の検定に用い、過剰適合に注意する",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どの位置に挟むかによって、誤りの検出率と作業工数が大きく変わること",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "成功・現状維持・失敗など複数シナリオごとに評価額を算定し、それぞれの実現確率で加重平均して企業価値を求める評価手法",
+    "url": "https://otemachiprep.com/glossary/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
@@ -510,19 +510,14 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.jsri.or.jp/publish/market/pdf/market_33/33_all.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
     "url": "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.issoh.co.jp/column/details/17955/",
-    "status": "http_403",
-    "method": "http"
    },
    {
     "url": "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures",
@@ -540,12 +535,17 @@
     "method": "http"
    },
    {
-    "url": "https://renue.co.jp/posts/net-income-labor-cost-ratio-management-guide",
+    "url": "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://otemachiprep.com/fp-009-price-volume-mix/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://otemachiprep.com/fp-009-price-volume-mix/",
+    "url": "https://renue.co.jp/posts/net-income-labor-cost-ratio-management-guide",
     "status": "ok",
     "method": "http"
    },
@@ -555,13 +555,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.jsri.or.jp/publish/market/pdf/market_33/33_all.pdf",
-    "status": "http_403",
-    "method": "pdf"
-   },
-   {
     "url": "https://timewell.jp/columns/market-sizing-tam-sam-som",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/17955/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -590,9 +590,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.galaxyapac.com/managing-payroll-in-japan/",
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e05.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    }
   ]
  },
@@ -620,14 +620,14 @@
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "https://otemachiprep.com/glossary/",
     "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
+    "https://otemachiprep.com/glossary/",
     "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
+    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
     "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
+    "https://www.jsri.or.jp/publish/market/pdf/market_33/33_all.pdf",
     "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
-    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "https://www.issoh.co.jp/column/details/17955/"
+    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures"
    ],
    "engines": [
     "ddgs:bing",
@@ -647,7 +647,7 @@
     "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
     "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
     "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "https://www.issoh.co.jp/column/details/17955/"
+    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures"
    ],
    "engines": [
     "ddgs:google",
@@ -667,7 +667,7 @@
     "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
     "https://www.jsri.or.jp/publish/market/pdf/market_33/33_all.pdf",
     "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
-    "https://m-assets.com/lp/clinic-opening/blog/business-plan-key-figures"
+    "https://www.issoh.co.jp/column/details/17955/"
    ],
    "engines": [
     "ddgs:google",
@@ -683,31 +683,31 @@
     "https://www.klipfolio.com/kpis/financial/payroll-to-revenue-ratio",
     "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
     "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e05.pdf",
     "https://www.galaxyapac.com/managing-payroll-in-japan/",
     "https://www.esri.cao.go.jp/jp/esri/content/e_dis389.pdf",
-    "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e05.pdf",
     "https://easychair.org/publications/paper/d7kB/open",
-    "https://www.jfc.go.jp/n/english/institute/survey.html"
+    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
    "results": [
-    "https://note.com/kokonoe_cluture/n/nd43e2bfaa2b7",
     "https://note.com/ib_pe_hf/n/nb25b94945c37",
+    "https://note.com/kokonoe_cluture/n/nd43e2bfaa2b7",
     "https://note.com/ib_pe_hf/n/nda4809c79b91",
     "https://note.com/ib_pe_hf/n/n91f16945e33e",
     "https://note.com/amane_bombaye/n/n2495afd69a74",
     "https://note.com/marukiyo/n/n14d5084cb896",
-    "https://note.com/hasegawa_shohey/n/nbdc76f751fa9",
     "https://note.com/jinjiman2/n/ndabfab2fc5ee",
+    "https://note.com/koemusubi/n/n2f52db8e57d1",
     "https://note.com/miraikyoso/n/n71f274a532d8",
-    "https://note.com/koemusubi/n/n2f52db8e57d1"
+    "https://note.com/hasegawa_shohey/n/nbdc76f751fa9"
    ],
    "engines": [
     "ddgs:google",
@@ -717,20 +717,30 @@
   },
   {
    "query": "site:x.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/AShinotada/status/2031694123720225218",
+    "https://x.com/alpstax/status/2110330095785406503",
+    "https://x.com/orangewhite1991/status/1595702601387233280",
+    "https://x.com/i/status/2058898368320192744",
+    "https://x.com/nocodetaiga/status/2101808746137829865",
+    "https://x.com/datamkting/status/2112304031288930663",
+    "https://x.com/su_kigyoshindan/status/2108201134888546664"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）",
    "results": [
-    "https://jp.linkedin.com/posts/幸治-古谷-476521133_プロジェクト型ビジネスのための予算作成の極意年度予算の仕組みと作り方事業別部署別-activity-7522972665729441794-tNx5",
-    "https://www.linkedin.com/posts/青山恒夫経営管理会計の伝道師_モンテカルロシミュレーション-activity-6973802435827961856-vUKR",
     "https://jp.linkedin.com/pulse/スーパーマーケットの人件費予算のつくりかた-光博-山口-juoyc",
+    "https://www.linkedin.com/posts/青山恒夫経営管理会計の伝道師_モンテカルロシミュレーション-activity-6973802435827961856-vUKR",
+    "https://jp.linkedin.com/posts/幸治-古谷-476521133_プロジェクト型ビジネスのための予算作成の極意年度予算の仕組みと作り方事業別部署別-activity-7522972665729441794-tNx5",
     "https://www.linkedin.com/posts/真二-山内-b5288844_計数計画の策定5計数計画の作成手順とは-事業再生シリーズno76-計数計画-activity-7245556425823846401--AnG",
     "https://jp.linkedin.com/posts/雄也-山田-75870b286_規模拡大と利益率のジレンマをどう超えるか-年商1億円から10億円へと成長していく-activity-7501056598275133440-lZgn",
     "https://jp.linkedin.com/posts/弦-田中-6261_人的資本roiの複数事業での指標化を再考する-1かそうでないかから始まる-activity-7475137316345503744-v7xH",
-    "https://jp.linkedin.com/posts/takahiro-sawada-99a598261_利益率を伸ばしながら売上を伸ばす方法-利益率を最大化するために不可欠な変動費と固定費-activity-7394158251002691584-Aupi"
+    "https://jp.linkedin.com/pulse/ビッグマック500円から考える人件費と生産性-信輔-望月-ebufc"
    ],
    "engines": [
     "ddgs:google"
@@ -742,14 +752,14 @@
    "results": [
     "https://www.facebook.com/shogo.takeya.0711/videos/月商原価人件費家賃ここから逆算すると席数客単価営業時間必要なスタッフの人数は自動で決まります食を通じて社会課題の解決をという想いで実務に即したノウハウや再現性あ/941958405558898/",
     "https://www.facebook.com/kajimaya.asako/posts/物価高売上減少人件費増と重なる金利上昇リスクに注意-資金繰りに不安が募るも借入金利上昇に4割が無対策大同生命サーベイ-2026年6月度レポート当社は中小企業の景/1542340647905268/",
+    "https://www.facebook.com/reel/1008566541125718/",
     "https://www.facebook.com/hidetaka.imai.3/videos/売上目標いくらにしようかなここを感覚で決めてる人けっこう多いと思います僕がまず出してほしいのは頑張る売上目標よりも月にいくら売れば赤字にならないかです計算は固定/1083602687946037/",
     "https://www.facebook.com/keigo.nakajima/videos/売上が伸びているのになぜかお金が足りないそんな経験はありませんか実は会社が成長すると広告費人件費仕入れなどの支払いが先に増えるため増加運転資金が必要になります利/2298874314182108/",
-    "https://www.facebook.com/reel/1008566541125718/",
     "https://www.facebook.com/promanagercoach/videos/人件費で損する店の特徴3選店長ほど見落とすシフトの落とし穴人件費が高いからシフト減らさなあかんそう考えてる店長ちょっと待ってやその削り方人件費だけやなくてお客さ/1036988835382709/",
     "https://www.facebook.com/strainerjp/photos/国内アパレル主要企業の売上原価率ランキング原価率の違いから各社の戦略が垣間見えるspa製造小売り型のユニクロは原価率が低く人件費や家賃の高い都市部への出店しやす/4256029867782906/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -758,13 +768,13 @@
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
-    "https://otemachiprep.com/glossary/",
     "https://www.fsa.go.jp/frtc/nenpou/2009/05-1.pdf",
-    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
+    "https://otemachiprep.com/glossary/",
     "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
+    "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
     "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
-    "https://www.inpex.com/ir/library/upload/securities20250331.pdf"
+    "https://www.jsri.or.jp/publish/market/pdf/market_33/33_all.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -781,15 +791,13 @@
     "https://www.gpif.go.jp/operation/32821257gpif/2024_4Q_0704_jp.pdf",
     "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
     "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
-    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
-    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
-    "https://www.issoh.co.jp/column/details/17955/"
+    "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2026/08/12/ja_107yuho.pdf",
+    "https://www.inpex.com/ir/library/upload/securities20250331.pdf"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "private company revenue estimate lower bound payroll upper bound proxy Japan SME labor cost ratio site:linkedin.com",
@@ -798,9 +806,9 @@
     "https://www.linkedin.com/company/ifclinkedin",
     "https://www.linkedin.com/company/dun-&-bradstreet",
     "https://uk.linkedin.com/company/standardchartered",
-    "https://www.linkedin.com/company/eu-japan-centre-for-industrial-cooperation/",
-    "https://www.linkedin.com/in/gregory-mark-hill-46bb165",
     "https://www.linkedin.com/in/scottwellscfa",
+    "https://www.linkedin.com/in/gregory-mark-hill-46bb165",
+    "https://www.linkedin.com/company/eu-japan-centre-for-industrial-cooperation/",
     "https://in.linkedin.com/in/devlikesbizness",
     "https://www.linkedin.com/in/thefpandaguy",
     "https://uk.linkedin.com/company/vestd"
@@ -814,6 +822,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T12:08:48.004615+00:00"
 }

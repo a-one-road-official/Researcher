@@ -329,8 +329,8 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -9873,6 +9873,9 @@
   - 「製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
 - 突き合わせ・推定：
   - 「本記事では具体的な使い方・料金プラン・つまずきやすいポイントと対処法を実際に検証した視点でまとめました」（https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/）
+  - 「ローカルLLMで社内PDFを検索できる環境を作り、ここ数回はRAGの精度を検証しています」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「前回までの検証で、少し困った状態になっていました」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「今回の検証では、検索前のクエリ書き換えと、その後のThinkingという、別々の場所に不安定さの原因があることが分かりました」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
   - 「引用先を開けず、検証できない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「答えがない、矛盾している、正式版が不明なら、根拠層の問題です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「複数の文書が矛盾する場合は、結論を断定せず、文書名と相違点を示してください」（https://note.com/ai__worker/n/n139e4f11e738）
@@ -9884,10 +9887,10 @@
   - 「まず5〜8件に増やして回答の変化を見るのが手早い検証です」（https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/）
   - 「その RAG、社内規程に「忠実」に答えていますか？ ― 回答を遅くする後追い検証に頼らず、構造で正す」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
   - 「重い検証ステップを足すのではなく、そもそも出典からはみ出せない構造に組み替えた」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
-  - 「後追いの検証はやめた ― 遅くなるし、結局こぼれる」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
-  - 「2. 後追いの検証はやめた ― 遅くなるし、結局こぼれる」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
-  - 「素直に思いつく対処は、検証（verification）を足すことです」（https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/）
 - 一次情報の探し方：
+  - 「ローカルLLMで社内PDFを検索できる環境を作り、ここ数回はRAGの精度を検証しています」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「人間がPDFを見れば、迷うような質問ではありません」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「最初に就業規則を読ませたときは、PDFに書いてある始業時刻すらまともに答えてくれませんでした」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
   - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「よくあるのは、共有フォルダの一部だけを取り込んだ、PDFは入っているが社内Wikiは対象外、添付資料を取得していない、といった状態です」（https://note.com/ai__worker/n/n139e4f11e738）
   - 「PDFの見た目では隣にある表や注記が、抽出後のテキストでは離れていることもあります」（https://note.com/ai__worker/n/n139e4f11e738）
@@ -9900,11 +9903,10 @@
   - 「PDFから抽出したテキストには、ゴミが混じっていることが多い」（https://note.com/rally_ai/n/n91367ab099aa）
   - 「PDFからのテキスト抽出には、精度の高いライブラリ（pymupdf、pdfplumber）を使う」（https://note.com/rally_ai/n/n91367ab099aa）
   - 「XR-200_manual.pdf」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「スキャンした画像だけのPDF、図版に文字が埋め込まれた資料、複雑な結合セルを含む表は、取り込めてもチャンクの中身が空に近くなります」（https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/）
-  - 「文書分割・PDF読み取り・鮮度・検索方式・権限・リランキング・評価を」（https://catorce.jp/st/knowledge-rag-accuracy）
-  - 「RAGでは、PDFやWord、社内マニュアルなどを、そのまま検索するわけではありません」（https://catorce.jp/st/knowledge-rag-accuracy）
 - 失敗・落とし穴：
   - 「プロンプトのコツ・無料プランの制限（50クレジット/日・商用不可）・Proプラン料金比較・よくある失敗まで、実際に試してわかったことをまとめた」（https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/）
+  - 「すると、失敗したケースでは肝心の第11条第2項がSourceに入っていません」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「この一連の処理の中で、どこが失敗しているのかを切り分けないと、本当の原因にはなかなかたどり着けません」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
   - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「RAGの失敗は、少なくとも次の5層へ分けて確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
@@ -9917,24 +9919,22 @@
   - 「一度の精度テストではなく、改定・失敗・製品変更後に再試験する仕組みが必要です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「RAG導入でよくある失敗7選」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「失敗1：答えが文書にないのに、AIへ答えさせる」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「最も基本的ですが、見落とされやすい失敗です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「失敗2：旧版・草案・重複文書を同時に検索する」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
 - 実例：
+  - 「結果から言うと、原因の一つは意外なところにありました」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「そして、その機能をOFFにすると検索結果が安定しました」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「すると、失敗したケースでは肝心の第11条第2項がSourceに入っていません」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「そこでTop Kを増やしてみましたが、それでも正解が入らないケースがありました」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「ただ、今回のケースでは逆効果になっていました」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「ChromaDBを直接検索したときに正解チャンクが3位だった結果ともつながります」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「それなのに必要以上にThinkingさせると、今回の環境では30秒前後考えた末に、最終回答まで到達しないケースがありました」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「それぞれを切り分けて設定を変えた結果、同じ質問を3回繰り返したテストでは、3回とも正しい最終回答まで返るようになりました」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
+  - 「今回確認できたのは、この就業規則と同じ質問を使った範囲での結果です」（https://note.com/naoyuki_fujita/n/ne74a9fe6682b）
   - 「検索結果として取得された文書名と該当箇所を確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「失敗3：正しい文書があるのに、検索結果へ出ない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「検索結果には正しい条件と例外が含まれているのに、回答で一部が抜ける場合です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「Amazon Bedrock Knowledge Basesの公式資料では、関連する文書断片を返す処理と、検索結果から自然文を生成する処理を分けて利用できることが説明されています［3］」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「元文書の更新日時、検索対象への反映日時、同期結果、旧版の削除状態を確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「検索結果を見ずに、回答だけを何度も採点しません」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「Q. 検索結果を確認できない製品では、どうすればよいですか？」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「検索結果が悪いのか、回答が根拠から外れているのか、必要な情報が足りないのかを分けます」（https://note.com/ai__worker/n/n139e4f11e738）
-  - 「同じ規程の旧版と新版が並んでいると、検索結果の意味は近いため、古い文書が上位に出ることがあります」（https://note.com/ai__worker/n/n139e4f11e738）
-  - 「分割前の抽出結果を人が確認する工程が必要です」（https://note.com/ai__worker/n/n139e4f11e738）
-  - 「原因6｜回答指示が検索結果の使い方を定めていない」（https://note.com/ai__worker/n/n139e4f11e738）
-  - 「検索結果、出典表示、回答後の検証、人の承認を組み合わせます」（https://note.com/ai__worker/n/n139e4f11e738）
-  - 「質問を変えるたびに結果が変わるため、設定Aと設定Bの比較もできなくなります」（https://note.com/ai__worker/n/n139e4f11e738）
 
 ## 法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）（corporate number master key entity resolution Japan check digit gBizINFO）
 - 文脈：手法
@@ -11188,6 +11188,9 @@
   - 「分類の結果は符号ごとの件数として集計し、全体に占める割合を把握してから方針を決めてください」（https://data-viz-lab.com/census-data）
   - 「記録の粒度は、担当者以外が同じ結果を再現できるかどうかを基準に決めてください」（https://data-viz-lab.com/census-data）
   - 「再現できない加工は分析結果の信頼性を担保できないため、成果物としては未完成の状態です」（https://data-viz-lab.com/census-data）
+- 検索結果の抜粋：
+  - 「統計局ホームページ/日本の統計－利用上の注意統計データの利用上の注意 | 政府統計の総合窓口令和3年経済センサス-活動調査 統計表利用上の注意統計表の利用上の注意 - 総務省e-Statや公的統計を使う前に:調査の定義・対象・時期を確認する読み方...統計表を見る上での注意 - 政府統計の総合窓口 — 表番号 統計表の表番号は、各章ごとの通し番号とし「章番号-統計表番号」となっています。 年次 注記のない限り、年次は暦年、年度は会計年度を示しています。 説明・注釈 統計表に関する説明及び注釈については、数字又はアルファベットを付して脚注に示しています。 See full list on stat.go.jp 数値 原則として単位未満で四捨五入しています。このため、合計と内訳の計は必ずしも一致しません。 統計表の記号 - 皆無又は定義上該当数値がないもの … 数値が得られないもの x 数値が」（https://www.stat.go.jp/data/nihon/index2-1.html）
+  - 「統計局ホームページ/日本の統計－利用上の注意統計データの利用上の注意 | 政府統計の総合窓口令和3年経済センサス-活動調査 統計表利用上の注意e-Statや公的統計を使う前に:調査の定義・対象・時期を確認する読み方...統計表の利用上の注意 - 総務省統計表を見る上での注意 - 政府統計の総合窓口 — 表番号 統計表の表番号は、各章ごとの通し番号とし「章番号-統計表番号」となっています。 年次 注記のない限り、年次は暦年、年度は会計年度を示しています。 説明・注釈 統計表に関する説明及び注釈については、数字又はアルファベットを付して脚注に示しています。 See full list on stat.go.jp 数値 原則として単位未満で四捨五入しています。このため、合計と内訳の計は必ずしも一致しません。 統計表の記号 - 皆無又は定義上該当数値がないもの … 数値が得られないもの x 数値が」（https://www.stat.go.jp/data/nihon/index2-1.html）
 
 ## 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）（analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate）
 - 文脈：裏取り
@@ -12459,11 +12462,11 @@
 
 ## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る）（data journalism spreadsheet checks verification handbook OSINT best practices）
 - 文脈：突き合わせ
@@ -13143,11 +13146,68 @@
 
 ## 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）（business survey nonresponse follow-up large units administrative data substitution early late respondents comparison）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：
+  - 「implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「rates within the statistical process control framework. Current procedures typically」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「adequate framework for analyzing the response process. Instead, we propose using control」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Directorate, which motivates the proposed control chart framework also introduced in」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「StEPS database. The retrospective analysis examples provided in Section 5.1 are presented」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「computed using the delete-a-group jackknife method. The ACES uses weight adjustment」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「More details concerning the ACES survey design, methodology, and data limitations are」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「receipts for selected service sectors. Standard errors are computed using the method of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「than-expected value. Thus, a logical next step is to compute response rates by selected」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Assembling S is more involved. For example, programs can use replication methods or」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Taylor linearization methods to obtain point estimates of the variance and autocovariance」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 突き合わせ・推定：
+  - 「key estimate reported by responding units or obtained from equivalent quality sources」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「key estimates reported by responding units or obtained from equivalent quality sources」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「estimated totals originating from a small set of cases. Consequently, the majority of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「53 percent of the total estimate (value). The remaining four units, which are selected with」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「certainty, account for 47 percent of the total estimate.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「payroll, capital expenditures) to account for the unit’s relative importance in the estimates」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「improve the quality of the estimates. Analysts strive to reduce imputation rates for all key」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「expected to contribute substantially to the estimate, followed by intensive analyst research」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「. Ry is the weighted estimate obtained by summing reported data for item y in the」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「. Ay is the weighted estimate obtained by summing equivalent source data (auxiliary」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「. Y is the estimated (weighted) total of the item in the statistical period. It includes all」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「data used to develop the publication estimate, including imputed data and」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「measures at that point in time of the proportion of the estimate that was not imputed. In this」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「ratio of correlated random variables and that the point estimates in the time series are not」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「and covariance estimates used in analysis must account for the complex survey design, if」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 一次情報の探し方：
+  - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 失敗・落とし穴：
+  - 「Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「collection, data review), or of the potential level of nonresponse bias (Peytcheva and」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Both numerator and denominator cases are weighted by “unbiased” weights, which」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「extracted from a larger cited nonresponse bias analysis study. Both studies were mandated」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「context of a nonresponse bias analysis study.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Many programs will also conduct nonresponse bias analyses, which at a minimum」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 実例：
+  - 「perspective for monitoring them. We illustrate this approach with examples from ongoing」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「that is unusual and in many cases unexpected. Moreover, control charts are useful because」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「they show what a process is capable of – for example, providing evidence that a given」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「target value. In the latter case, some form of modiﬁcation of the process would be required」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Bureau. Section 4 provides background on our two case studies. In Section 5, we discuss」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「estimated totals originating from a small set of cases. Consequently, the majority of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「(1) include “large” cases with certainty; (2) may sample “medium sized” cases with high」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「sampling rates; and (3) sample the remaining cases with very low sampling rates (usually」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「less than 0.01). As a result, sampled cases with large design weights often contribute very」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「To avoid overrepresentation of such small cases in computation, the URR is computed」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「the certainty or large noncertainty cases, making URR an inconsistent indicator of data」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「quality. Consider the ﬁctional business survey example presented below in Figures 1 and 2.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「four certainty cases. The URR is approximately 87% (26/30), but the TQRR value is」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「nonresponding cases contribute very little to the total tabulation so that the TQRR value」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「is approximately 93%. These examples demonstrate how the more consistent measures」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 
 ## 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）（reproducibility of derived statistics deflator base year linking real series pitfalls）
 - 文脈：検証
