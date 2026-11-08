@@ -775,6 +775,12 @@ EXAMPLEFIG = re.compile(r"(例えば|たとえば|例として|一例として|�
 # 2026-11-09 4-110（Reynolds Center「What first dates teach about investigating a business」：監査人の辞任・訴訟の提起・当局の調査開始は外から見える危機の印。
 # 在庫が売上より速く増えるのは負担の兆し）。継続企業の注記と同じく品目に印す
 AUDITCHG = re.compile(r"(監査人の(異動|交代|辞任)|会計監査人(の)?(異動|交代|辞任)|監査法人(の)?(異動|交代|辞任)|auditor (resign|change))", re.I)
+# 2026-11-09 4-112（中小企業白書2024 凡例）：企業活動基本調査は従業者50人以上かつ資本金3,000万円以上だけ、法人企業統計の小さい階級は参考値、
+# 四半期別は資本金1,000万円未満を含まない。「再編加工」は所管が個票を独自に集計し直した値で、公表の表からは再現できない
+KIGYOKATSU = re.compile(r"企業活動基本調査")
+SMALLSCOPE = re.compile(r"(小規模|零細|従業者?(数)?\s*(1|4|5|10|20)\s*[〜～~\-－]\s*(9|19|29|49)\s*人|(9|19|29|49)\s*人以下|中小)")
+HOJINQ = re.compile(r"法人企業統計[^。]{0,15}(四半期|季報)")
+SAIHEN = re.compile(r"再編加工")
 REBASE = re.compile(r"((19|20)\d\d\s*年\s*[=＝]\s*100|基準年(の)?(改定|変更|改訂)|基準改定|指数の基準|遡って(作り直|再計算|改定)|遡及(推計|系列))")
 def chance_band(series):
     # 4-44：件数（事業所・社・件）の最初と最後の年の差が、偶然のばらつき（ポアソンの目安：差が2×√(a+b) 以内）に収まるか。
@@ -1007,6 +1013,35 @@ def kougyo_callband(by, fld="従業者1人あたり製造品出荷額等", unit=
             "この幅は平均の不確かさの幅で、業種1つ1つの散らばりの幅ではない（業種の多くが幅の外に出るのは普通）",
             "  - 幅より上：" + ("、".join(hi[:8]) or "なし"), "  - 幅より下：" + ("、".join(lo[:8]) or "なし")]
 
+# 2026-11-09 4-112（Mauboussin の基準率・縮み推定）：1年だけ高い・低い業種の値は翌年に平均へ寄る。寄る強さは「同じ業種の値の
+# 年をまたいだ相関 r」で測る（技能で決まる値は r が1に近く、運で決まる値は0に近い）。段差をまたがない実績2016〜2019年の隣どうしの年で、
+# 注目の細分類の1人あたりの相関 r を出し、最新の年の値を「平均＋r×（値−平均）」に縮めた見込みと並べる。縮めた値は【推定】で事実ではない
+def kougyo_shrink(by, fld="従業者1人あたり付加価値額_万円", unit="万円"):
+    pts = {}
+    for (code, name), rs in sorted(by.items()):
+        if not _kfocus(name) or len(str(code)) != 4 or str(code)[-1:] == "0": continue
+        for y, r in rs:
+            v = _kf(r.get(fld))
+            if v is not None and v > 0 and 2016 <= y <= 2019: pts.setdefault((code, name), {})[y] = v
+    out, rr = [], []
+    for y in (2016, 2017, 2018):
+        ks = [k for k in pts if y in pts[k] and y + 1 in pts[k]]
+        if len(ks) < 5: continue
+        try: r = statistics.correlation([pts[k][y] for k in ks], [pts[k][y + 1] for k in ks])
+        except statistics.StatisticsError: continue
+        rr.append(r); out.append(f"{y}→{y + 1}年 r={r:.2f}（{len(ks)}業種）")
+    if not rr: return []
+    r = max(0.0, min(1.0, statistics.median(rr)))
+    ly = max(y for k in pts for y in pts[k]); last = {k: v[ly] for k, v in pts.items() if ly in v}
+    if len(last) < 5: return []
+    m = statistics.mean(last.values()); med = statistics.median(last.values())
+    ex = sorted(last.items(), key=lambda kv: -abs(kv[1] - m))[:6]
+    md = [f"- 年をまたいだ持続の相関（4-112・{fld}・注目の細分類・実績2016〜2019年・段差をまたがない）：" + "、".join(out) + f"。中央値 r={r:.2f}",
+          f"  - 最新の{ly}年の平均 {m:,.1f}{unit}・中央値 {med:,.1f}{unit}（平均÷中央値 {m / med:.2f}。1.2を超えれば上の裾が重い・4-108）。"
+          "縮めた見込み＝平均＋r×（値−平均）は【推定】で、翌年に平均へどれだけ寄りそうかの目安。r が0.8未満なら1年の高い・低いを業種の力と書かない",
+          "  - 平均から遠い業種（値→縮めた見込み）：" + "、".join(f"{c} {nm} {v:,.1f}→{m + r * (v - m):,.1f}" for (c, nm), v in ex)]
+    return md
+
 def kougyo_section(topic):
     f = os.path.join(OUT, topic, "kougyo_series.csv")
     if not os.path.exists(f): return []
@@ -1061,6 +1096,8 @@ def kougyo_section(topic):
     md += kougyo_callband(by, "従業者1人あたり付加価値額_万円", "万円")
     md += kougyo_decompose(by)
     md += kougyo_jump_exit(by)
+    md += kougyo_shrink(by)
+    md += kougyo_shrink(by, "従業者1人あたり製造品出荷額等", "百万円")
     return md + [""]
 
 # 2026-11-07 4-70（hrbench「Revenue per employee」：1人あたりが動いた理由は分子と分母のどちらが動いたかで別物。
@@ -1703,6 +1740,14 @@ def scan(topic):
         if _pro: md.append(f"- ⚠ 広告・成果報酬の表示の語が{len(_pro)}件・{len({r['出典'] for r in _pro})}か所：そのページの数字は宣伝の言明。事実の裏付けに数えない（4-110）")
         _exf = sum(1 for r in rs if EXAMPLEFIG.search(r["引用"]))
         if _exf: md.append(f"- ⚠ 「例えば・例として」で置いた数字が{_exf}件：説明用の仮の例の疑い。出典の付いた値か本文で確かめるまで採らない（4-110・4-56）")
+        # 2026-11-09 4-112：統計の対象の裾切りと小さい規模の品目のずれ、再編加工の値
+        _kk = [r for r in rs if KIGYOKATSU.search(r["引用"])]
+        if _kk and SMALLSCOPE.search(item + " " + " ".join(r["引用"] for r in _kk)):
+            md.append(f"- ⚠ 企業活動基本調査の引用{len(_kk)}件が小規模・中小の文脈に出た：この調査は従業者50人以上かつ資本金3,000万円以上だけが対象。49人以下の受託の事実にしない（4-112）")
+        _hq = sum(1 for r in rs if HOJINQ.search(r["引用"]))
+        if _hq: md.append(f"- 法人企業統計の四半期の引用{_hq}件：資本金1,000万円未満を含まず、小さい階級は標本と回答率から参考値。年次の全規模と同じ欄で並べない（4-112）")
+        _sh = sum(1 for r in rs if SAIHEN.search(r["引用"]))
+        if _sh: md.append(f"- 「再編加工」の値{_sh}件：所管が個票を集計し直した値で公表の表では再現できない。表の値と食い違っても誤りと決めず、別の品目として並べる（4-112）")
         _au = [r for r in rs if AUDITCHG.search(r["引用"])]
         if _au: md.append(f"- ⚠ 監査人の異動・辞任の語が{len(_au)}件（{'・'.join(sorted({r['出典'] for r in _au})[:3])}）：外から見える危機の印。継続企業の注記・訴訟・当局の処分と並べて見る（4-110）")
         if nreb: md.append(f"- ⚠ 指数の基準年・遡及の作り直しの語が{nreb}件：基準年の違う指数、遡って作り直した系列と当時の公表値を同じ欄でつながない。同じ版の系列どうしで向きを見る（4-51）")

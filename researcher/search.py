@@ -84,12 +84,28 @@ def clean_query(query: str) -> str:
     return q or query
 
 
+# 2026-11-09 METHOD.md 4-112（走査で見つかった失敗）：ddgs:bing の結果に、ホストが生のIPアドレスの成人向けページや、
+# 偽ブランド品のページ（emken2012 の chloe-handbags）が混ざり、research_method の未読URLに並んだ。
+# ホストが数字だけのIP・ブランド品の偽物・成人向けの語を含むURLは結果に入れない
+_SPAM_HOST = _re.compile(r"^\d{1,3}(\.\d{1,3}){3}(:\d+)?$")
+_SPAM_PATH = _re.compile(r"(bokep|porn|xxx|ngentot|toket|memek|hentai|jav-|chloe-(handbags|purses)|replica-|cheap-(louis|gucci|chanel)|casino|togel|slot-gacor)", _re.I)
+
+
+def is_spam(url: str) -> bool:
+    try:
+        from urllib.parse import urlparse
+        u = urlparse(url)
+    except Exception:
+        return True
+    return bool(_SPAM_HOST.match(u.netloc or "")) or bool(_SPAM_PATH.search(url or ""))
+
+
 def search(query: str, n: int = 10) -> list[dict]:
     seen, merged = set(), []
     sent = clean_query(query)
     for r in yahoo_japan(sent, n) + ddgs_search(sent, n):
         key = r["url"].split("#")[0].rstrip("/")
-        if key in seen:
+        if key in seen or is_spam(r.get("url", "")):
             continue
         seen.add(key)
         r["query"] = query
