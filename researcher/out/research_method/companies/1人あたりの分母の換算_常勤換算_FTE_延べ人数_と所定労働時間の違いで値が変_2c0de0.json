@@ -8,8 +8,28 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T14:59:26.507163+00:00",
+ "researched_at": "2026-11-08T23:04:42.560609+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "常勤換算では、対象業務や休暇の扱いをそろえたうえで、シフトの予定時間と勤怠実績を照合します",
+    "url": "https://shiftta.com/blog/jokin-kanzan-calculation/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
@@ -324,416 +344,6 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "実例": [
-   {
-    "quote": "常勤換算でよくある計算ミスと運営指導での指摘事例",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、常勤職員が1人、常勤職員の半分の時間だけ働く非常勤職員が2人いる事業所の場合、直感的には3人の職員がいるように見えます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、訪問介護の特定事業所加算では、サービス提供責任者の常勤換算人数や体制が要件に含まれています",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、就業規則で「週40時間」が常勤の勤務時間と定められている事業所の場合、",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、就業規則で「週35時間」と定めている事業所であれば、月の常勤勤務時間は35時間×4週＝140時間となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この基準時間が異なれば、同じ勤務時間の非常勤職員でも常勤換算の結果が変わってきます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "計算結果に小数点以下の端数が出た場合、",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、計算結果が「3.75人」となった場合、常勤換算人数は「3.7人」として扱います",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "人員配置基準ギリギリの事業所では、この端数処理によって基準を下回ってしまうケースもあるため、常に余裕を持った人員配置を心がけることが大切です",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、常勤換算の計算結果は、職種ごとに算出します",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、「介護職員」「看護職員」「生活相談員」など、人員配置基準で定められた職種ごとに別々に計算し、それぞれの基準を満たしているかを確認します",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このように、施設サービスでは必要な人員数が多いため、常勤換算の計算結果が基準をわずかに下回るだけでも大きな問題となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "相談を受けていて多いのは、書類上の常勤換算値は基準を満たしているのに、実際の勤務実態やシフトの組み方を確認すると\"ギリギリ\"だったり、そもそもの数え方を勘違いしていたりするケースです",
-    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「うちのケースにも当てはまるはず」と早合点せず、対象となる職員の勤務形態や利用している制度が要件に合致しているかを、個別に確認する姿勢が実務では欠かせません",
-    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "特に近年は短時間勤務制度に関する取扱いの見直しも行われており、制度の数値・要件は自治体により異なる場合がありますので、自事業所の勤務実態に照らして一つひとつ確認していくことが、結果として運営の安定につながります",
-    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このケースに該当する従業員も常勤として扱われます",
-    "url": "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "介護職員が複数の施設や業種で働いているケースは珍しくありません",
-    "url": "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スケジュール管理の負担を減らし業務の偏りを可視化した事例",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "計算結果に端数が出た場合の扱いは、指定権者に確認しておきましょう",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、計算時に迷いやすいケースの扱いを、介護保険と医療保険の違いとあわせて解説します",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば常勤の看護師が育児休業に入った月でも、非常勤の看護師2人の勤務時間を合わせて常勤1人分の時間に達していれば、常勤の要件を満たしたものとして扱えます",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、当社の訪問スケジュール・訪問ルートの自動作成クラウド『ZEST』を導入いただいた訪問看護事業者の事例をご紹介します",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "株式会社SORUKKAは、和歌山市・海南市・有田市の3拠点で訪問看護を展開し、スタッフ40名でご利用者様270〜280名を支えています（事例公開時点）",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "月間の訪問件数が500件ほどになった時期に『ZEST』を導入した結果、スケジュール管理にかかる時間は",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "※掲載している導入効果（業務時間の削減等）は、特定の事業者様における実際の運用に基づく事例であり、すべての事業所様での効果を保証するものではありません",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "求め、休暇や時短勤務、兼務の扱いによって結果が変わります",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このページでは、放課後等デイサービス・就労継続支援B型・生活介護など、各サービス種別の事例を交えながら、行政書士が常勤換算の計算方法を分かりやすく解説します",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "非常にシンプルな式ですが、実務では「誰の時間を分子に含めるか」「分母を何時間にするか」で迷うケースが多くあります",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「うちは週30時間を常勤にしているから…」というケース",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ため、結果として常勤換算の分母が大きくなり、人員不足と判定されるリスクがあります",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "管理者と児発管を兼務する職員の勤務時間を、両方の業務にそれぞれ計上してしまうケース",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "事務作業や送迎時間など、サービス提供時間外の時間まで含めて計算しているケース",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "常勤職員の有給休暇取得日を「勤務時間ゼロ」として扱ってしまうケース",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "就労継続支援と同じ感覚で月間の常勤換算だけ確認しているケース",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "兼務自体は認められるケースが多いですが、それぞれの業務時間を按分して計算する必要があります",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分母が変わるため、結果として常勤換算の数字が変わります",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、放デイで月間の常勤換算は満たしていても、ある日の配置が基準を下回っていれば、その日について減算対象となります",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "月末になって「今月、基準割れしていた…」と気付くケースが後を絶ちません",
-    "url": "https://gura-office.com/joukin/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、フルタイム労働者の労働時間が週40時間と設定されている場合、全従業員の合計労働時間を40で割ることで常勤換算の人数が得られます",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、介護保険法による人員配置基準では、職種ごとに最低勤務人数が厳格に定められています",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、医療業界ではシフト制や交代勤務が一般的であり、週の労働時間が一定ではない場合もあります",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "こうしたケースでは、平均的な週あたりの労働時間を算出することが必要です",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、法定の休憩時間や昼食休憩、残業時間なども計算に含めなければいけません",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、非常勤職員の総労働時間が週に80時間であれば、80時間を40時間で割り、非常勤職員の常勤換算人数は2.0となります",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、常勤従業員が10人で非常勤職員の常勤換算人数が2.5であれば、組織全体の常勤換算人数は12.5です",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "特殊な状況を含めた4つのケース、兼任している場合、時短勤務の場合、有給や出張の場合、産休・育休・介護休業の場合に分けて解説します",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、職員Aが管理職として週に20時間、一般職として週に20時間働いている場合、それぞれの職種に対する労働時間を明確に区分します",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この計算結果を組織全体の常勤換算人数に反映します",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、常勤職員が週40時間勤務している場合、有給休暇や出張中の時間も含めて計算されます",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "適切な人数のスタッフが配置されていることで、業務の効率化や安全性の確保が図られ、結果的に利用者満足度の向上につながります",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、定期的に訪問する医師や看護師が健康チェックを行ったり、必要な医療サービスを提供したりします",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "人員基準を満たさなかった場合には、指定の取り消しや営業停止などの処分が科されるケースもあります",
-    "url": "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "介護職員は併設している施設で業務を兼務するケースや、系列グループの複数の業種を兼務しているケースが少なくありません",
-    "url": "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本セミナーでは、過去ご登壇の施設様事例や外部講師の方のお話おさらいし、要点をぎゅぎゅっとまとめてお伝えします！",
-    "url": "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "常勤換算方法という計算式自体は難しくないのですが、「そもそも常勤とは何を指すのか」「兼務したときにどこまでカウントしてよいのか」という前提部分でつまずくケースが少なくありません",
-    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "サービス管理責任者などが本来の職務の合間に他業務を手伝っているケースで、形式上は一の職種の常勤専従として働いているが、実際はその間の空き時間等を使って、他の職種の手伝いをする形態の場合、手伝った職種の常勤換算に、当該職員を算入することはできません",
-    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "私が実際に図面や勤務表を確認していて多いのは、就業規則上の所定労働時間と、勤務シフト表に書かれている実働時間が食い違っているケースです",
-    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば生活介護の人員配置体制加算は基本配置より手厚い条件を評価します",
-    "url": "https://shiftta.com/blog/jokin-kanzan-calculation/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、ある施設が週40時間を所定労働時間と定めている場合、週40時間以上働く職員は「常勤」、それ以外の時間で働く人は「非常勤」となります",
-    "url": "https://www.co-medical.com/knowledge/article704/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複数の事業所を兼務したり、併設・系列内で複数の職種を兼務したりするケースも少なくありません",
-    "url": "https://www.co-medical.com/knowledge/article704/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "各スタッフの計算結果を合算し、小数点第2位以下を切り捨て",
-    "url": "https://osaka-kaigo.com/column/column-5120/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "④各スタッフの計算結果を合算し、小数点第2位以下を切り捨てる",
-    "url": "https://osaka-kaigo.com/column/column-5120/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "非常勤の勤務時間を対応する一覧表に記入すると、自動的に常勤換算の結果がページ下部に表示されます",
-    "url": "https://osaka-kaigo.com/column/column-5120/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "運営上、訪問介護員とサービス提供責任者を兼務するケースもあるでしょう",
-    "url": "https://osaka-kaigo.com/column/column-5120/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "訪問介護員とサービス提供責任者の兼務については、一部の自治体では、次のように兼務が認められているケースもあります",
-    "url": "https://osaka-kaigo.com/column/column-5120/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
@@ -908,6 +518,30 @@
    {
     "quote": "また、常勤換算方法の計算に当たり、職員が「治療と仕事の両立ガイドライン」に沿って事業者が設ける短時間勤務制度等を利用する場合、週30時間以上の勤務で常勤換算での計算上も1(常勤)と扱うことを認める取扱いも示されています",
     "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特に多機能型事業所や複数事業所を運営している場合、兼務・按分の考え方を誤ると、書類上の数字と実態が知らないうちに乖離していきます",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "多機能型事業所や、同一法人内で複数の事業所を運営している場合、一人の職員が複数の職種・複数の事業所を兼務することがあります",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この按分の考え方は自治体により運用の確認方法が異なる場合があるため、事前に指定権者へ確認しておくことをおすすめします",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「常勤」の計算に当たり、職員が育児・介護休業法等による育児・介護等の短時間勤務制度を利用する場合に加えて、「治療と仕事の両立ガイドライン」に沿って事業者が設ける短時間勤務制度等を利用する場合にも、週30時間以上の勤務で「常勤」として扱うことを認めるとされ、あわせて「常勤換算方法」の計算に当たり、職員が「治療と仕事の両立ガイドライン」に沿って事業者が設ける短時間勤務制度等を利用する場合、週30時間以上の勤務で常勤換算での計算上も1（常勤）と扱うことを認めるという見直しが行われました(令和6年2月時点で公表されている資料に基づく内容です)",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
@@ -1332,22 +966,430 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "突き合わせ・推定": [
+  "実例": [
    {
-    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
+    "quote": "常勤換算でよくある計算ミスと運営指導での指摘事例",
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
+    "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "常勤換算では、対象業務や休暇の扱いをそろえたうえで、シフトの予定時間と勤怠実績を照合します",
+    "quote": "例えば、常勤職員が1人、常勤職員の半分の時間だけ働く非常勤職員が2人いる事業所の場合、直感的には3人の職員がいるように見えます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、訪問介護の特定事業所加算では、サービス提供責任者の常勤換算人数や体制が要件に含まれています",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、就業規則で「週40時間」が常勤の勤務時間と定められている事業所の場合、",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、就業規則で「週35時間」と定めている事業所であれば、月の常勤勤務時間は35時間×4週＝140時間となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この基準時間が異なれば、同じ勤務時間の非常勤職員でも常勤換算の結果が変わってきます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "計算結果に小数点以下の端数が出た場合、",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、計算結果が「3.75人」となった場合、常勤換算人数は「3.7人」として扱います",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人員配置基準ギリギリの事業所では、この端数処理によって基準を下回ってしまうケースもあるため、常に余裕を持った人員配置を心がけることが大切です",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお、常勤換算の計算結果は、職種ごとに算出します",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、「介護職員」「看護職員」「生活相談員」など、人員配置基準で定められた職種ごとに別々に計算し、それぞれの基準を満たしているかを確認します",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このように、施設サービスでは必要な人員数が多いため、常勤換算の計算結果が基準をわずかに下回るだけでも大きな問題となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "相談を受けていて多いのは、書類上の常勤換算値は基準を満たしているのに、実際の勤務実態やシフトの組み方を確認すると\"ギリギリ\"だったり、そもそもの数え方を勘違いしていたりするケースです",
+    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「うちのケースにも当てはまるはず」と早合点せず、対象となる職員の勤務形態や利用している制度が要件に合致しているかを、個別に確認する姿勢が実務では欠かせません",
+    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特に近年は短時間勤務制度に関する取扱いの見直しも行われており、制度の数値・要件は自治体により異なる場合がありますので、自事業所の勤務実態に照らして一つひとつ確認していくことが、結果として運営の安定につながります",
+    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここで実務上まず誤解が生まれやすいのは、「常勤」という言葉を雇用形態(正社員かどうか)だと思い込んでしまうケースです",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "したがって、雇用契約上は正社員であっても時短勤務であれば常勤とは扱われないケースがある一方、非常勤の契約であっても事業所の定める常勤時間数をフルに勤務していれば常勤として扱われることになります",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人事異動や退職に伴って勤務シフトを変更したにもかかわらず、勤務形態一覧表の更新が後回しになっているケースは実務上少なくありません",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このケースに該当する従業員も常勤として扱われます",
+    "url": "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "介護職員が複数の施設や業種で働いているケースは珍しくありません",
+    "url": "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スケジュール管理の負担を減らし業務の偏りを可視化した事例",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "計算結果に端数が出た場合の扱いは、指定権者に確認しておきましょう",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでは、計算時に迷いやすいケースの扱いを、介護保険と医療保険の違いとあわせて解説します",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば常勤の看護師が育児休業に入った月でも、非常勤の看護師2人の勤務時間を合わせて常勤1人分の時間に達していれば、常勤の要件を満たしたものとして扱えます",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでは、当社の訪問スケジュール・訪問ルートの自動作成クラウド『ZEST』を導入いただいた訪問看護事業者の事例をご紹介します",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "株式会社SORUKKAは、和歌山市・海南市・有田市の3拠点で訪問看護を展開し、スタッフ40名でご利用者様270〜280名を支えています（事例公開時点）",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "月間の訪問件数が500件ほどになった時期に『ZEST』を導入した結果、スケジュール管理にかかる時間は",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "※掲載している導入効果（業務時間の削減等）は、特定の事業者様における実際の運用に基づく事例であり、すべての事業所様での効果を保証するものではありません",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "求め、休暇や時短勤務、兼務の扱いによって結果が変わります",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このページでは、放課後等デイサービス・就労継続支援B型・生活介護など、各サービス種別の事例を交えながら、行政書士が常勤換算の計算方法を分かりやすく解説します",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "非常にシンプルな式ですが、実務では「誰の時間を分子に含めるか」「分母を何時間にするか」で迷うケースが多くあります",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「うちは週30時間を常勤にしているから…」というケース",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ため、結果として常勤換算の分母が大きくなり、人員不足と判定されるリスクがあります",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "管理者と児発管を兼務する職員の勤務時間を、両方の業務にそれぞれ計上してしまうケース",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "事務作業や送迎時間など、サービス提供時間外の時間まで含めて計算しているケース",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "常勤職員の有給休暇取得日を「勤務時間ゼロ」として扱ってしまうケース",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "就労継続支援と同じ感覚で月間の常勤換算だけ確認しているケース",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "兼務自体は認められるケースが多いですが、それぞれの業務時間を按分して計算する必要があります",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分母が変わるため、結果として常勤換算の数字が変わります",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、放デイで月間の常勤換算は満たしていても、ある日の配置が基準を下回っていれば、その日について減算対象となります",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "月末になって「今月、基準割れしていた…」と気付くケースが後を絶ちません",
+    "url": "https://gura-office.com/joukin/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、フルタイム労働者の労働時間が週40時間と設定されている場合、全従業員の合計労働時間を40で割ることで常勤換算の人数が得られます",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、介護保険法による人員配置基準では、職種ごとに最低勤務人数が厳格に定められています",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、医療業界ではシフト制や交代勤務が一般的であり、週の労働時間が一定ではない場合もあります",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "こうしたケースでは、平均的な週あたりの労働時間を算出することが必要です",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、法定の休憩時間や昼食休憩、残業時間なども計算に含めなければいけません",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、非常勤職員の総労働時間が週に80時間であれば、80時間を40時間で割り、非常勤職員の常勤換算人数は2.0となります",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、常勤従業員が10人で非常勤職員の常勤換算人数が2.5であれば、組織全体の常勤換算人数は12.5です",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特殊な状況を含めた4つのケース、兼任している場合、時短勤務の場合、有給や出張の場合、産休・育休・介護休業の場合に分けて解説します",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、職員Aが管理職として週に20時間、一般職として週に20時間働いている場合、それぞれの職種に対する労働時間を明確に区分します",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この計算結果を組織全体の常勤換算人数に反映します",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、常勤職員が週40時間勤務している場合、有給休暇や出張中の時間も含めて計算されます",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "適切な人数のスタッフが配置されていることで、業務の効率化や安全性の確保が図られ、結果的に利用者満足度の向上につながります",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、定期的に訪問する医師や看護師が健康チェックを行ったり、必要な医療サービスを提供したりします",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "人員基準を満たさなかった場合には、指定の取り消しや営業停止などの処分が科されるケースもあります",
+    "url": "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "介護職員は併設している施設で業務を兼務するケースや、系列グループの複数の業種を兼務しているケースが少なくありません",
+    "url": "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本セミナーでは、過去ご登壇の施設様事例や外部講師の方のお話おさらいし、要点をぎゅぎゅっとまとめてお伝えします！",
+    "url": "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "常勤換算方法という計算式自体は難しくないのですが、「そもそも常勤とは何を指すのか」「兼務したときにどこまでカウントしてよいのか」という前提部分でつまずくケースが少なくありません",
+    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "サービス管理責任者などが本来の職務の合間に他業務を手伝っているケースで、形式上は一の職種の常勤専従として働いているが、実際はその間の空き時間等を使って、他の職種の手伝いをする形態の場合、手伝った職種の常勤換算に、当該職員を算入することはできません",
+    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "私が実際に図面や勤務表を確認していて多いのは、就業規則上の所定労働時間と、勤務シフト表に書かれている実働時間が食い違っているケースです",
+    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば生活介護の人員配置体制加算は基本配置より手厚い条件を評価します",
     "url": "https://shiftta.com/blog/jokin-kanzan-calculation/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、ある施設が週40時間を所定労働時間と定めている場合、週40時間以上働く職員は「常勤」、それ以外の時間で働く人は「非常勤」となります",
+    "url": "https://www.co-medical.com/knowledge/article704/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の事業所を兼務したり、併設・系列内で複数の職種を兼務したりするケースも少なくありません",
+    "url": "https://www.co-medical.com/knowledge/article704/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "各スタッフの計算結果を合算し、小数点第2位以下を切り捨て",
+    "url": "https://osaka-kaigo.com/column/column-5120/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "④各スタッフの計算結果を合算し、小数点第2位以下を切り捨てる",
+    "url": "https://osaka-kaigo.com/column/column-5120/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "非常勤の勤務時間を対応する一覧表に記入すると、自動的に常勤換算の結果がページ下部に表示されます",
+    "url": "https://osaka-kaigo.com/column/column-5120/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "運営上、訪問介護員とサービス提供責任者を兼務するケースもあるでしょう",
+    "url": "https://osaka-kaigo.com/column/column-5120/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "訪問介護員とサービス提供責任者の兼務については、一部の自治体では、次のように兼務が認められているケースもあります",
+    "url": "https://osaka-kaigo.com/column/column-5120/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
@@ -1357,22 +1399,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/yudai_ops/n/nb01da119aaf4",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/clean_canna4042/n/n0213ec93cbb5",
+    "url": "https://note.com/gram14/n/n95a07a13a116",
     "status": "ok",
     "method": "http"
    },
@@ -1387,17 +1414,77 @@
     "method": "http"
    },
    {
-    "url": "https://fukushi.ai/docs/staffing-user-count-fte-rules",
+    "url": "https://note.com/yudai_ops/n/nb01da119aaf4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://shiftta.com/blog/jokin-kanzan-calculation/",
+    "url": "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kaigo-staffing-guide.com/articles/fte-calculation",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalization-partners.com/jp/blog/what-is-full-time-equivalent-fte/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zest.jp/column/personnel-standards",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/good_fairy858/n/nb5af8d85d3df",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/payroll/basic/112603/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://lashic-care.jp/blog/jokin-calculation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gura-office.com/joukin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.co-medical.com/knowledge/article704/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totec-mlife.jp/blog/kaigohousyuu/20251021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://snabi-biz.jp/articles/15",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.co-medical.com/knowledge/article543/",
     "status": "ok",
     "method": "http"
    },
@@ -1417,32 +1504,37 @@
     "method": "browser"
    },
    {
-    "url": "https://note.com/hakumaigenki/n/n3108b78d86c0?hl=en",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://startupfortune.com/your-revenue-per-employee-benchmark-for-startups-before-investors-ask/",
+    "url": "https://fukushi.ai/docs/staffing-user-count-fte-rules",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://peopleforce.io/hr-glossary/full-time-equivalent",
+    "url": "https://www.paychex.com/glossary/what-is-fte",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://best-calculators.com/finance/revenue-per-employee-calculator/",
+    "url": "https://www.wallstreetprep.com/knowledge/fte-full-time-equivalent/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.metrichq.org/human-resources/full-time-equivalents/",
+    "url": "https://www.irs.gov/newsroom/small-business-health-care-tax-credit-questions-and-answers-determining-ftes-and-average-annual-wages",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.bea.gov/help/faq/368",
+    "url": "https://www.indeed.com/hire/c/info/full-time-equivalent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hr.nmsu.edu/documents/FTE-Full-Time-Equivelant-2.10.21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hrcloud.com/resources/glossary/fte-vs-headcount",
     "status": "ok",
     "method": "http"
    }
@@ -1452,89 +1544,125 @@
   {
    "query": "1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例 site:note.com",
    "results": [
-    "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
-    "https://note.com/yudai_ops/n/nb01da119aaf4",
-    "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
-    "https://note.com/clean_canna4042/n/n0213ec93cbb5",
+    "https://note.com/gram14/n/n95a07a13a116",
     "https://note.com/hide95097103/n/n7d8b1546ebc1",
     "https://note.com/oboreru_tanuki/n/ned31fcca76b6",
-    "https://note.com/hide95097103/n/n875e702f04de"
+    "https://note.com/yudai_ops/n/nb01da119aaf4",
+    "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
+    "https://note.com/yuwa_office/n/n6e51e9503644",
+    "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
+    "https://note.com/yuwa_office/n/ndd4f1677286a"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例 note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.globalization-partners.com/jp/blog/what-is-full-time-equivalent-fte/",
+    "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
+    "https://zest.jp/column/personnel-standards",
+    "https://note.com/good_fairy858/n/nb5af8d85d3df",
+    "https://biz.moneyforward.com/payroll/basic/112603/",
+    "https://lashic-care.jp/blog/jokin-calculation",
+    "https://gura-office.com/joukin/",
+    "https://www.co-medical.com/knowledge/article704/",
+    "https://note.com/yudai_ops/n/nb01da119aaf4"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例 やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.globalization-partners.com/jp/blog/what-is-full-time-equivalent-fte/",
+    "https://zest.jp/column/personnel-standards",
+    "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
+    "https://gura-office.com/joukin/",
+    "https://lashic-care.jp/blog/jokin-calculation",
+    "https://www.co-medical.com/knowledge/article704/",
+    "https://biz.moneyforward.com/payroll/basic/112603/",
+    "https://www.totec-mlife.jp/blog/kaigohousyuu/20251021",
+    "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例 事例",
    "results": [
-    "https://fukushi.ai/docs/staffing-user-count-fte-rules",
-    "https://shiftta.com/blog/jokin-kanzan-calculation/",
-    "https://kaigo-staffing-guide.com/articles/fte-calculation",
-    "https://wazabako.com/column/jokin-kansan",
-    "https://knowbe.jp/media/i906ihl5m8h-jokinkansan-keisan",
-    "https://comimi.jp/archives/column/fte-kaigo",
-    "https://fukushi-kaizen.com/shogai-fukushi-jokin-kansan/"
+    "https://zest.jp/column/personnel-standards",
+    "https://snabi-biz.jp/articles/15",
+    "https://gura-office.com/joukin/",
+    "https://www.totec-mlife.jp/blog/kaigohousyuu/20251021",
+    "https://lashic-care.jp/blog/jokin-calculation",
+    "https://qol.konicaminolta.jp/hitomeq/column/2203-02",
+    "https://biz.moneyforward.com/payroll/basic/112603/",
+    "https://www.co-medical.com/knowledge/article543/",
+    "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
+    "https://wazabako.com/column/jokin-kansan"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "full-time equivalent conversion denominator per employee comparison pitfalls",
    "results": [
-    "https://note.com/hakumaigenki/n/n3108b78d86c0?hl=en",
-    "https://startupfortune.com/your-revenue-per-employee-benchmark-for-startups-before-investors-ask/",
-    "https://peopleforce.io/hr-glossary/full-time-equivalent",
-    "https://best-calculators.com/finance/revenue-per-employee-calculator/",
-    "https://www.metrichq.org/human-resources/full-time-equivalents/",
-    "https://www.bea.gov/help/faq/368",
-    "https://www.thehumancapitalhub.com/articles/the-definitive-guide-to-fte-calculation-formula"
+    "https://www.paychex.com/glossary/what-is-fte",
+    "https://www.wallstreetprep.com/knowledge/fte-full-time-equivalent/",
+    "https://www.irs.gov/newsroom/small-business-health-care-tax-credit-questions-and-answers-determining-ftes-and-average-annual-wages",
+    "https://www.indeed.com/hire/c/info/full-time-equivalent",
+    "https://hr.nmsu.edu/documents/FTE-Full-Time-Equivelant-2.10.21.pdf",
+    "https://www.hrcloud.com/resources/glossary/fte-vs-headcount",
+    "https://www.youtube.com/watch?v=SgqyWxt9Xpg",
+    "https://www.attendancebot.com/blog/full-time-equivalent/",
+    "https://boomtax.com/tax-forms/aca-fte-calculation",
+    "https://en.wikipedia.org/wiki/Full-time_equivalent"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "site:note.com 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例",
    "results": [
-    "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
-    "https://note.com/yudai_ops/n/nb01da119aaf4",
-    "https://note.com/clean_canna4042/n/n0213ec93cbb5",
-    "https://note.com/grgrdds/n/n79f3958b9d93",
-    "https://note.com/yuwa_office/n/n6e51e9503644",
+    "https://note.com/gram14/n/n95a07a13a116",
     "https://note.com/hide95097103/n/n7d8b1546ebc1",
-    "https://note.com/oboreru_tanuki/n/ned31fcca76b6"
+    "https://note.com/yudai_ops/n/nb01da119aaf4",
+    "https://note.com/oboreru_tanuki/n/ned31fcca76b6",
+    "https://note.com/clean_canna4042/n/n0213ec93cbb5",
+    "https://note.com/alz_20250611/n/nf03961b6fb75",
+    "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
+    "https://note.com/yuwa_office/n/ndd4f1677286a"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:x.com 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例",
    "results": [
     "https://x.com/hashtag/常勤換算",
-    "https://x.com/sr_nishiyama/status/1906517204658786533",
-    "https://x.com/kame_hm/status/2096965533765869698",
-    "https://x.com/yosuke_araki/status/2046758645929828535",
-    "https://x.com/fm_suisinkyo/status/2039220716113993898",
     "https://x.com/mextjapan/status/1143819912646807552",
-    "https://x.com/kanrisyacare1/status/2076977505110466609"
+    "https://x.com/yosuke_araki/status/2046758645929828535",
+    "https://x.com/kanrisyacare1/status/2076977505110466609",
+    "https://x.com/kame_hm/status/2096965533765869698",
+    "https://x.com/DrsHUB0408/status/2101571891861549411",
+    "https://x.com/fm_suisinkyo/status/2039220716113993898"
    ],
    "engines": [
     "ddgs:google"
@@ -1543,20 +1671,30 @@
   },
   {
    "query": "site:linkedin.com 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/pulse/full-time-equivalent-fte-strategic-tool-resource-goal-villalobos-axbfc?tl=ja",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7344320718936887300/",
+    "https://www.linkedin.com/pulse/full-time-equivalent-fte-strategic-tool-resource-goal-villalobos-axbfc",
+    "https://jp.linkedin.com/pulse/new-engine-labor-why-ai-ftes-horsepower-agentic-era-ba9me?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-fte-maintenance-why-matters-gabriel-fagade-cmrp-mnse-ssi3f?tl=ja",
+    "https://jp.linkedin.com/pulse/intelligent-automation-basics-how-measure-savings-ramnath-natarajan-pktuc?tl=ja",
+    "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系ヘッドカウントの仕組み-外資系企業におけるヘッドカウントheadcount-activity-7371348779007934464-xLls"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例",
    "results": [
-    "https://www.facebook.com/groups/627324771859424/posts/1328749891716905/",
     "https://www.facebook.com/mugiwarahoukan/videos/介護事業所の常勤換算常勤換算計算法訪問介護訪問看護介護事業所看護師ヘルパー介護福祉士理学療法士作業療法士リハビリケアマネ/7046201942134016/",
-    "https://www.facebook.com/nistep.japan/photos/研究専従換算係数を考慮した日本の大学の研究開発費及び研究者数の詳細分析調査資料-297の公表-nistepでは日本の大学の研究開発費及び研究者数について研究専従/3139054472871665/",
+    "https://www.facebook.com/groups/627324771859424/posts/1328749891716905/",
     "https://www.facebook.com/groups/627324771859424/posts/1101008754491021/",
     "https://www.facebook.com/groups/627324771859424/posts/649701889621712/",
-    "https://www.facebook.com/autosubsidy/photos/16回持続化補助金の公募が始まりましたので今回は事業者様から多く質問をいただく常時使用する従業員とはについてまとめ解説しますまず持続化補助金は常時使用する従業員/457547603451913/",
-    "https://www.facebook.com/rc.persol/photos/新刊これからの人手不足にどう立ち向かえばよいのか労働市場の未来推計-2035で見えてきた課題阿部-正浩パーソル総合研究所-編働き手は375万人増加するが労働力は/1221545446632063/"
+    "https://www.facebook.com/nistep.japan/photos/研究専従換算係数を考慮した日本の大学の研究開発費及び研究者数の詳細分析調査資料-297の公表-nistepでは日本の大学の研究開発費及び研究者数について研究専従/3139054472871665/",
+    "https://www.facebook.com/minnanokaigo/videos/ケアマネの担当件数に上限はある2024年度介護報酬改定による影響を解説/957712149334697/",
+    "https://www.facebook.com/autosubsidy/photos/16回持続化補助金の公募が始まりましたので今回は事業者様から多く質問をいただく常時使用する従業員とはについてまとめ解説しますまず持続化補助金は常時使用する従業員/457547603451913/"
    ],
    "engines": [
     "ddgs:google"
@@ -1565,25 +1703,110 @@
   },
   {
    "query": "1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例 note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.globalization-partners.com/jp/blog/what-is-full-time-equivalent-fte/",
+    "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
+    "https://biz.moneyforward.com/payroll/basic/112603/",
+    "https://note.com/yudai_ops/n/nb01da119aaf4",
+    "https://lashic-care.jp/blog/jokin-calculation",
+    "https://gura-office.com/joukin/",
+    "https://shiftlife.jp/joukinkansan/",
+    "https://www.co-medical.com/knowledge/article543/",
+    "https://saitomasayuki.net/kaigopedia/full-time-conversion-calculation-method/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例 X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.globalization-partners.com/jp/blog/what-is-full-time-equivalent-fte/",
+    "https://gura-office.com/joukin/",
+    "https://www.co-medical.com/knowledge/article543/",
+    "https://biz.moneyforward.com/payroll/basic/112603/",
+    "https://zest.jp/column/personnel-standards",
+    "https://lashic-care.jp/blog/jokin-calculation",
+    "https://www.solution.bell24.co.jp/ja/useful/column/00232_issue/",
+    "https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/",
+    "https://syoshikawa.com/joukinnkannsan/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "full-time equivalent conversion denominator per employee comparison pitfalls site:linkedin.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.linkedin.com/posts/akerele-oluwasogo-glmp-mr-excel-11066710b_5-hr-metrics-you-should-be-tracking-in-your-activity-7377003543498674176-XcHA",
+    "https://www.linkedin.com/in/yun-zhang3384",
+    "https://www.linkedin.com/in/joshuahameier",
+    "https://www.linkedin.com/in/somanshshah",
+    "https://www.linkedin.com/in/andy-atwal-6159302",
+    "https://www.linkedin.com/in/clintons",
+    "https://www.linkedin.com/pulse/strategic-frameworks-sales-opportunity-sizing-guide-don-frank-pmp-6xipe",
+    "https://www.linkedin.com/posts/sunnysharmaut_reddit-activity-7518692074276372480-SK5T",
+    "https://www.linkedin.com/in/keegan-sabo",
+    "https://www.linkedin.com/in/aniljainmd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 6,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "特に多機能型事業所や複数事業所を運営している場合、兼務・按分の考え方を誤ると、書類上の数字と実態が知らないうちに乖離していきます",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "多機能型事業所や、同一法人内で複数の事業所を運営している場合、一人の職員が複数の職種・複数の事業所を兼務することがあります",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この按分の考え方は自治体により運用の確認方法が異なる場合があるため、事前に指定権者へ確認しておくことをおすすめします",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「常勤」の計算に当たり、職員が育児・介護休業法等による育児・介護等の短時間勤務制度を利用する場合に加えて、「治療と仕事の両立ガイドライン」に沿って事業者が設ける短時間勤務制度等を利用する場合にも、週30時間以上の勤務で「常勤」として扱うことを認めるとされ、あわせて「常勤換算方法」の計算に当たり、職員が「治療と仕事の両立ガイドライン」に沿って事業者が設ける短時間勤務制度等を利用する場合、週30時間以上の勤務で常勤換算での計算上も1（常勤）と扱うことを認めるという見直しが行われました(令和6年2月時点で公表されている資料に基づく内容です)",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "ここで実務上まず誤解が生まれやすいのは、「常勤」という言葉を雇用形態(正社員かどうか)だと思い込んでしまうケースです",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "したがって、雇用契約上は正社員であっても時短勤務であれば常勤とは扱われないケースがある一方、非常勤の契約であっても事業所の定める常勤時間数をフルに勤務していれば常勤として扱われることになります",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人事異動や退職に伴って勤務シフトを変更したにもかかわらず、勤務形態一覧表の更新が後回しになっているケースは実務上少なくありません",
+    "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 7,
  "first_researched_at": "2026-11-07T08:57:44.501954+00:00"
 }

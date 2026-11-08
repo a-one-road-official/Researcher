@@ -2841,8 +2841,8 @@
 - 一次情報の探し方：
   - 「follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -4632,6 +4632,10 @@
 ## 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）（revenue per employee benchmark by company size median quartile）
 - 文脈：推定
 - 手順・やり方：
+  - 「Data in this article draws from SaaS Capital's annual private SaaS survey, KeyBanc Capital Markets' Private SaaS Company Survey, Bessemer Venture Partners State of the Cloud, OpenView SaaS Benchmarks, ICONIQ Growth's SaaS benchmarks research, Scale Venture Partners capital efficiency frameworks, and Carta's startup compensation and headcount data.」（https://stealthagents.com/research/startup-arr-per-employee-benchmarks-2026）
+  - 「Sources: ICONIQ Growth SaaS Benchmarks 2024; Bessemer Venture Partners State of the Cloud 2024; Scale Venture Partners Capital Efficiency Framework 2024」（https://stealthagents.com/research/startup-arr-per-employee-benchmarks-2026）
+  - 「OpenView's 2024 data shows that private SaaS companies with Rule of 40 scores above 40 commanded median revenue multiples 1.9x higher than peers below 30, holding ARR band constant. For operators, the chain runs: leaner headcount relative to ARR, better EBITDA margin, higher Rule of 40 score, higher revenue multiple. Each step is measurable.」（https://stealthagents.com/research/startup-arr-per-employee-benchmarks-2026）
+  - 「7. How to improve a weak ARR per employee metric」（https://stealthagents.com/research/startup-arr-per-employee-benchmarks-2026）
   - 「Common Size Analysis: Formulas, Examples and How to Read Results」（https://bizminer.com/revenue-per-employee-benchmarks/）
   - 「SaaS CAC Ratio | How to Calculate and Why It Matters」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「How to Calculate Your Renewal and Upsell Rate」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
@@ -4643,10 +4647,6 @@
   - 「How to Prepare for Preliminary SaaS Due Diligence」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「How to Prepare for M&A Management Presentations」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「How to Forecast Your Sales Team Headcount While Scaling Bookings」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「Five Pillar SaaS Metrics Framework」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Move Your Number」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「Want ARR per employee alongside the rest of the Efficiency pillar and the full Five Pillar Framework?」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Calculate the Burn Multiple」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
 - 突き合わせ・推定：
   - 「The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.」（https://peppereffect.com/blog/revenue-per-employee-benchmarks）
@@ -4659,8 +4659,8 @@
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
 - 検索結果の抜粋：
   - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
@@ -7783,11 +7783,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -7955,12 +7955,12 @@
   - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「決算公告で売上高を確認する方法｜大会社と中小企業の違いを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「官報で決算公告を探す方法｜無料3サービス+有料データベースを比較」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「貸借対照表の見方、大会社基準、自己資本比率の目安、検索手順を就活生向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「決算公告を官報に掲載するやり方【全7ステップで完全解説】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「決算公告を官報に掲載するやり方を7ステップで完全解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「貸借対照表の要旨を正しく作成する手順がわかります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 突き合わせ・推定：
   - 「重要な意思決定に用いる場合は、複数のデータベースで照合することをおすすめします」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -7989,6 +7989,7 @@
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -7996,10 +7997,10 @@
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「ただし一点、注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「また、上場廃止になった場合は有報提出義務がなくなる可能性があり、その際は決算公告義務が復活する点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 実例：
   - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -8012,7 +8013,6 @@
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「株式会社は基本的に決算公告を行う義務がありますが、一部不要のケースもあります」（https://www.keihi.com/column/45390/）
   - 「掲載費用は非常に高く、数百万ほどかかるケースもあります」（https://www.keihi.com/column/45390/）
-  - 「決算公告が不要となるケースは、以下の通りです」（https://www.keihi.com/column/45390/）
 - 検索結果の抜粋：
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...多くの中小企業において、官報で行う決算公告には何を記載するか | RS...大会社の決算公告【記載例】貸借対照表・損益計算書の要旨と電子公告 ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小」（https://www.kigyou-houmu.com/secret-4/）
 
@@ -10735,9 +10735,9 @@
   - 「Step1. 「常勤職員が勤務すべき時間」を確定する」（https://comimi.jp/archives/column/fte-kaigo）
   - 「常勤換算とは、非常勤職員の勤務時間を、その事業所が定める常勤の従業者が勤務すべき時間数で割り、常勤の従業者数に換算する方法です」（https://note.com/yuwa_office/n/ndd4f1677286a）
   - 「また、常勤換算方法の計算に当たり、職員が「治療と仕事の両立ガイドライン」に沿って事業者が設ける短時間勤務制度等を利用する場合、週30時間以上の勤務で常勤換算での計算上も1(常勤)と扱うことを認める取扱いも示されています」（https://note.com/yuwa_office/n/ndd4f1677286a）
-  - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「常勤換算とは、医療・介護・福祉施設や事業所において、実際に勤務している職員の労働時間を基に、常勤職員の人数に換算する方法です」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「特に多機能型事業所や複数事業所を運営している場合、兼務・按分の考え方を誤ると、書類上の数字と実態が知らないうちに乖離していきます」（https://note.com/yuwa_office/n/n6e51e9503644）
+  - 「多機能型事業所や、同一法人内で複数の事業所を運営している場合、一人の職員が複数の職種・複数の事業所を兼務することがあります」（https://note.com/yuwa_office/n/n6e51e9503644）
+  - 「この按分の考え方は自治体により運用の確認方法が異なる場合があるため、事前に指定権者へ確認しておくことをおすすめします」（https://note.com/yuwa_office/n/n6e51e9503644）
 - 突き合わせ・推定：
   - 「計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります」（https://comimi.jp/archives/column/fte-kaigo）
   - 「認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、」（https://comimi.jp/archives/column/fte-kaigo）
@@ -11488,19 +11488,23 @@
 ## 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）（cross-checking fact-checkers selection agreement rating agreement study）
 - 文脈：手法
 - 手順・やり方：
-  - 「Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Conceptualization, Methodology, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「. Extensive research has been devoted to this problem, yet it remains unresolved. There has been considerable recent progress in methods, especially leveraging LLMs」（https://arxiv.org/html/2411.05060v1）
+  - 「. There are many surveys of the method landscape」（https://arxiv.org/html/2411.05060v1）
+  - 「provided an early framework, defining fake news, detailing its characteristics, and summarizing detection techniques from a data mining perspective. Subsequent surveys, such as」（https://arxiv.org/html/2411.05060v1）
+  - 「, have explored alternative methodologies, focusing respectively on natural language processing (NLP) methods and interdisciplinary perspectives. However, while these surveys and others」（https://arxiv.org/html/2411.05060v1）
+  - 「highlight the limitations of 20 articles using publicly available datasets. While this approach provides a good overview of literature trends, a grey area remains regarding whether the errors in these 20 articles stem primarily from methodology or dataset issues. We also find the work of」（https://arxiv.org/html/2411.05060v1）
+  - 「(T) indicates the method used to establish true claims」（https://arxiv.org/html/2411.05060v1）
+  - 「(F) indicates the method used to determine false claims」（https://arxiv.org/html/2411.05060v1）
+  - 「. The strength of this approach lies in its rigorous review process, ensuring each piece of information is thoroughly evaluated, which leads to consistent reviews across fact-checkers. However, this method is not scalable and is costly」（https://arxiv.org/html/2411.05060v1）
+  - 「. Additionally, this method has been shown to be effective in reducing the spread of misinformation and to produce veracity ratings similar to those of professional fact-checkers」（https://arxiv.org/html/2411.05060v1）
+  - 「Finally, algorithmic methods can also be used to evaluate the veracity of content using NLP or other ML techniques」（https://arxiv.org/html/2411.05060v1）
+  - 「, or just generically poor performance (e.g., even state-of-the-art methods often have below 70% accuracy compared to human labels」（https://arxiv.org/html/2411.05060v1）
+  - 「Thus, we provide two baselines for future use. We follow the recent method of」（https://arxiv.org/html/2411.05060v1）
+  - 「As an initial step towards higher-fidelity evaluation, we constructed an evaluator based on contradictions between the explanation generated by a predictive system, and a fact-checking article. In particular, we provide GPT-4-0409 both」（https://arxiv.org/html/2411.05060v1）
+  - 「Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing」（https://arxiv.org/html/2411.05060v1）
+  - 「Empirical Methods in Natural Language Processing 2023」（https://arxiv.org/html/2411.05060v1）
 - 突き合わせ・推定：
+  - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements.」（https://arxiv.org/html/2411.05060v1）
   - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「checked PolitiFact fact-checks 77.4% of the time (22.6% selection disagreement). Moderate agreement was observed for deceptiveness scaling. Nearly complete agreement was observed for bottom-line attributed veracity. Additional cross-checking with other sources (Snopes,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
@@ -11515,11 +11519,15 @@
   - 「Cross-checking selection agreement」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Our cross-checking revealed 22.6% of statements fact-checked by PolitiFact did not appear in」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Table 1. Summary of cross-checking results across analyses for President Trump data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Cross-check selection agreement (%)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
 - 一次情報の探し方：
   - 「http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「PDF (816.3 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
 - 失敗・落とし穴：
+  - 「examines 10 datasets to identify some of these weaknesses and strengths. However, a broad approach is used to outline biases, which fails to detail the specifics of each dataset, leaving researchers uncertain about their individual quality. Another example,」（https://arxiv.org/html/2411.05060v1）
+  - 「expands the analysis of the spurious correlations issue to those induced by event-based collection, dataset merges, and labeling bias, using the Twitter15, Twitter16, and PHEME datasets. However, in both of these studies, the limited number of datasets analyzed fails to provide a comprehensive view of the diverse landscape of available datasets in this field. Similarly,」（https://arxiv.org/html/2411.05060v1）
+  - 「. As a result, experts must selectively choose the information they evaluate, which leads to many pieces of information going unchecked and potential biases in the selection of news and information that is evaluated」（https://arxiv.org/html/2411.05060v1）
+  - 「Verite: a robust benchmark for multimodal misinformation detection accounting for unimodal bias.」（https://arxiv.org/html/2411.05060v1）
+  - 「. Finally, we note that statements that are not explicitly related to politics tend to be more true on average (57.51% vs. 48.28%). This suggests a potential bias on models trained with these data, where political statements may be assumed to be more likely false.」（https://arxiv.org/html/2411.05060v1）
   - 「]. People, however, may question the credibility of fact-checkers for different reasons, including the perception that fact-checkers are biased, concerns around disinformation, or a general distrust in the media or institutions. A crucial question is: How do we know the fact-checkers are accurate? The answer is to check and compare the fact-checkers [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「) was low and the total number of reviewed statements was small as well, which would bias reliability calculations. Discrepancies were resolved after discussion and coders re-performing the fact-checks together.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「One concern with our analysis relates to the perceived liberal political bias that fact-checking organizations might have against a Republican president such as Donald Trump. To address this issue, all available fact-checks during President Biden’s first 100 days were extracted from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
@@ -11527,15 +11535,21 @@
   - 「because of a person’s unique Google history and what Google assumes the searcher would be interested in. Algorithmic bias in fact-checking and citizens’ experiences should be acknowledged.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
 - 実例：
+  - 「This gap has thus spurred the emergence of additional surveys dedicated to addressing these dataset-centric nuances, which can be categorized into two types. The first one focuses on categorizing existing datasets to guide the research community in their selection. For example,」（https://arxiv.org/html/2411.05060v1）
+  - 「surveyed 27 datasets based on eleven characteristics (e.g., application purpose, type of disinformation, language, size, news content type, etc.) and compared these quantitatively. Another example,」（https://arxiv.org/html/2411.05060v1）
+  - 「summarized the characteristic features of 23 existing datasets, providing a clearer picture of those available to the public. However, these surveys have an important drawback; they often lack in-depth analysis. In fact, only descriptive characteristics are listed, thus neglecting key characteristics of their quality and effectiveness for future research. This is also the case for」（https://arxiv.org/html/2411.05060v1）
+  - 「examines 10 datasets to identify some of these weaknesses and strengths. However, a broad approach is used to outline biases, which fails to detail the specifics of each dataset, leaving researchers uncertain about their individual quality. Another example,」（https://arxiv.org/html/2411.05060v1）
+  - 「We particularly flag four datasets for spurious correlations between certain words and labels: IFND, MM-COVID, Twitter16, and TruthSeeker2023. For example, consider the latest, Truthseeker2023. Nearly all tweets here mentioning politicians are labeled as “false”, with only those containing “Trump” showing more variation (see also Appendix」（https://arxiv.org/html/2411.05060v1）
+  - 「We also observe that there is a large amount of ambiguity and room for interpretation in the examples that are being marked wrong by categorical label in these three datasets.」（https://arxiv.org/html/2411.05060v1）
+  - 「. We chose a score-based approach to avoid forcing a potentially misleading binary in cases where there is a partial contradiction. With this approach, good predictions should have low contradiction against a high quality, professional fact-checking article. We also tested binary and trinary versions of this prompt, described in the Appendix, which yielded nearly identical results.」（https://arxiv.org/html/2411.05060v1）
+  - 「We also note that our unified label schema simplifies some labels that might have meaningful information, for example, gradations of veracity instead of binary true/false. Some granularity has been traded for the ability to establish a unified schema across all the claims datasets. When using these datasets, we advise careful consideration of the optimal labels to apply.」（https://arxiv.org/html/2411.05060v1）
+  - 「The role of the crowd in countering misinformation: A case study of the covid-19 infodemic.」（https://arxiv.org/html/2411.05060v1）
+  - 「) and the dataset also contains other labels covering, for example, its harmfulness, its interest for the general public and its need to be fact-checked by experts.」（https://arxiv.org/html/2411.05060v1）
+  - 「, we show some examples of keywords that could lead to bad classifications. The number under the keywords is the number of times the word appears in claims based on its labels of veracity. We can thus see that there is an absence of true statements referring to Harris or Biden, but many that refer to Trump in the Truthseeker2023 dataset.」（https://arxiv.org/html/2411.05060v1）
+  - 「The two annotators also manually labeled 100 examples that were originally marked correct. They agreed 76 were not wrong, 2 were uncertain, and 1 was wrong. There were only 5 additional examples that were marked wrong by one but not both annotators.」（https://arxiv.org/html/2411.05060v1）
+  - 「Again, the annotators labeled examples that the categorical labels marked incorrect. These were from the GPT-4 (with web search) version of the baseline system. There were only 70 of these total, so the annotators labeled all 70. They had 44% agreement, and agreed that 39 examples were not wrong while agreeing only a mere 3 were wrong. An additional 25 were marked not wrong by one annotator.」（https://arxiv.org/html/2411.05060v1）
+  - 「Then the annotators labeled 100 examples that were correct according to the categorical labels. They agreed that 89 examples were not wrong, and there were 0 that they agreed were wrong. There were another 5 examples that were marked wrong by one but not both annotators.」（https://arxiv.org/html/2411.05060v1）
   - 「Relatedly, some fact-checkers scale the nature of false and misleading statements by providing a “grade” for their deceptiveness. PolitiFact, for example, rates false statements on their Truth-O-Meter from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「for examples of five representative and successful cross-checks across」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「. The denominator in each cross-check agreement calculation is the PolitiFact value. For example, 64.7% of PolitiFact」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「considered egregious and PolitiFact believed they had some validity. For example, three examples in the top left corner of」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「’s Fact Checker casts a wider net on the statements to fact-check. This was especially the case for President Trump as they set out to do a comprehensive review of his statements over time. These differences are noticeable and appear to affect the data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「]). For example, during his final year as president and as the 2020 U.S. presidential election approached, President Trump’s lying rate increased dramatically compared to other years [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「We learned that political fact-checking is difficult, and fact-checkers face nontrivial challenges as they try to evaluate the truth. In some cases, as our analysis involving Snopes and」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Rahmawan D, Hartanto R, Garnesia I. Multi case analysis on the development of fact-checking organizations in Indonesia. Jurnal Kajian Komunikasi. 2022;10: 14–28. doi: 10.24198/jkk.v10i1.38752」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
 
 ## 公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止）（official statistics quality decline response rates budget cuts how to judge reliability）
 - 文脈：手法
@@ -12889,7 +12903,7 @@
   - 「end of March, the file labeled ݐ ൌ 2012 , for example, consists of a large amount of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「A part of the KJ FLG file is accompanied by the list of merging firm(s) in the case」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「dynamics of Japanese firms suffer from data truncation. For example, studies using」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
 
 ## 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例（testing unbiasedness and efficiency of first release estimates regional accounts revisions）
 - 文脈：突き合わせ
@@ -14764,13 +14778,44 @@
 - 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 - 実例：記載なし（読んだ28頁・検索12回）
 
-## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
-- 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
+## 日本の行政の処分・届出の公表記録で非上場の会社の状態を見る実務（労基法違反の公表事案・下請法の勧告・国交省ネガティブ情報・PRTR・動産譲渡登記・届出の不在を証明にしない・4-115）（using regulatory enforcement and filing records to investigate private companies Japan）
+- 文脈：探し先
+- 手順・やり方：
+  - 「2 Outline the legal framework for corporate liability in your country.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「However, the AI Promotion Act and the various guidelines issued by the relevant ministries and agencies are principally framework and policy-promoting instruments. They do not prescribe specific regulations or procedures governing the use of AI, particularly in criminal investigations conducted by investigative authorities or internal investigations conducted by corporations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「There are various challenges in conducting cross-border investigations in Japan, primarily due to differences in legal frameworks and geographical factors.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「Legal framework challenges」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「Although Japan does not have a comprehensive legislative framework governing sanctions comparable to those in the United States and certain other jurisdictions, the Foreign Exchange and Foreign Trade Act primarily regulates foreign exchange, foreign trade and other international transactions, and provides the rules for economic, financial and trade sanctions.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「30 Describe the whistleblowing framework in your country. What financial incentive schemes, if any, exist for whistleblowers? What legal protections are in place for whistleblowers?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「32 Do employees’ rights under local employment law differ if a person is deemed to have engaged in misconduct? Are there disciplinary or other steps that a company must or should take when an employee is implicated in or suspected of misconduct, such as suspension or in relation to compensation?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「the extent to which the company has taken appropriate steps (due process), including giving the employee an opportunity to explain their conduct and, where relevant, a proper warning in respect of similar but less serious misconduct in the past.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「35 If an issue comes to light prior to the authorities in your country becoming aware or engaged, what internal steps should a company take? Are there internal steps that a company is legally required to take or should consider taking?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「36 What internal steps should a company in your country take if it receives a notice or subpoena from a law enforcement authority seeking the production or preservation of documents or data?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「39 Can the attorney–client privilege be claimed over any aspects of internal investigations in your country? What steps should a company take in your country to protect the privilege or confidentiality of an internal investigation?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「43 To what extent is waiver of the attorney­–client privilege regarded as a cooperative step in your country? Are there any contexts where privilege waiver is mandatory or required?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「54 What are the practical steps needed to self-report to law enforcement in your country?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「59 Does law enforcement in your country routinely share information or investigative materials with law enforcement in other countries? What framework is in place in your country for cooperation with foreign authorities?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「73 What steps do you take to manage corporate communications in your country? Is it common for companies to use a public relations firm to manage a corporate crisis in your country?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+- 一次情報の探し方：
+  - 「There is no avenue for this, other than the filing of a motion to dismiss a warrant authorising search and seizure, arrest or detention. Because of the secrecy of investigations, it is difficult to file a motion to challenge ongoing investigations before the courts.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+- 実例：
+  - 「For these exceptional cases, which often involve corporate liability, the special investigation departments of the public prosecutors’ offices in major cities take the initiative to investigate corporations in cooperation with the aforementioned specialised government authorities.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「While the prosecutor’s offices do not have formal policies or protocols guiding prosecutorial decisions in any type of case or violation, including those involving corporate misconduct, the JFTC has publicly released certain standards and guidelines for enforcing antimonopoly law violations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「To date, there have only been six reported cases on the use of the plea bargaining system.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「8 To what extent do law enforcement authorities in your jurisdiction place importance on a corporation having an effective compliance programme? What guidance exists (in the form of official guidance, speeches or case law) on what constitutes an effective compliance programme?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「9 What impact is AI having on investigations? Describe any relevant guidance, regulatory expectations and case law concerning the use of AI in investigations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「The TBA provides rules regarding the secrecy of communications. For example, with respect to communications that are handled by telecommunications carriers, this law provides that the secrecy of these communications must not be violated, and any person who is engaged in a telecommunications business must not disclose secrets learned while in office.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「18 What is your country’s approach to sanctions enforcement? Has there been an increase in sanctions enforcement activity in recent years, for example?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「There have not been many significant sanctions enforcement cases in Japan in recent years. However, given that the Japanese government has actively and repeatedly issued additional sanctions against Russia following its invasion of Ukraine, enforcement actions could potentially become more prevalent in the near future.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「In a notable case reported on 10 July 2024, the CEO of a trading company was arrested on suspicion of illegally exporting goods to Russia via South Korea without authorisation. The goods – under an export ban – allegedly included items that could be converted for military use, in violation of sanctions imposed following Russia’s invasion of Ukraine.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「In addition, in civil procedures, a witness cannot be forced to testify in cases where certain professional secrets obtained by public officials in the performance of their duties or certain technical or professional secrets are involved.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「the proportionality of the disciplinary action in light of the nature, type and degree of the misconduct, the employee’s motives, the damage or disruption caused, and the disciplinary action imposed in previous similar cases at the company; and」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「Furthermore, to receive any benefit from self-reporting (eg, immunity from fines), applicants should cooperate with the authority throughout the course of the investigation by making their officers and employees available for interview, responding to various requests for documents and data, and answering the authority’s questions on the facts and circumstances of the case.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「For example, if the JFTC has taken action against a company for cartel or bid-rigging practices, the company may be restricted from participating in certain public procurement processes. It is therefore important to identify the types of public procurement in which the company is, or may need to be, involved and to understand the applicable or expected eligibility requirements.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「In addition, penalties are determined within the ranges prescribed by law and by reference to comparable cases. Although no clear general trend is apparent in the penalties imposed in individual cases, legislative amendments have generally made penalties for violations harsher rather than lighter.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「To date, there have only been six reported cases on the use of the plea bargaining system. In one instance, officers and employees were convicted of bribing a foreign public official. The company utilised the plea bargaining system to provide information on the bribery committed by its officers and employees, thereby avoiding prosecution.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115）（apparent consumption production plus imports minus exports market sizing method trade statistics）
 - 文脈：推定
@@ -14854,41 +14899,10 @@
   - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
 
-## 日本の行政の処分・届出の公表記録で非上場の会社の状態を見る実務（労基法違反の公表事案・下請法の勧告・国交省ネガティブ情報・PRTR・動産譲渡登記・届出の不在を証明にしない・4-115）（using regulatory enforcement and filing records to investigate private companies Japan）
-- 文脈：探し先
-- 手順・やり方：
-  - 「2 Outline the legal framework for corporate liability in your country.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「However, the AI Promotion Act and the various guidelines issued by the relevant ministries and agencies are principally framework and policy-promoting instruments. They do not prescribe specific regulations or procedures governing the use of AI, particularly in criminal investigations conducted by investigative authorities or internal investigations conducted by corporations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「There are various challenges in conducting cross-border investigations in Japan, primarily due to differences in legal frameworks and geographical factors.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「Legal framework challenges」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「Although Japan does not have a comprehensive legislative framework governing sanctions comparable to those in the United States and certain other jurisdictions, the Foreign Exchange and Foreign Trade Act primarily regulates foreign exchange, foreign trade and other international transactions, and provides the rules for economic, financial and trade sanctions.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「30 Describe the whistleblowing framework in your country. What financial incentive schemes, if any, exist for whistleblowers? What legal protections are in place for whistleblowers?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「32 Do employees’ rights under local employment law differ if a person is deemed to have engaged in misconduct? Are there disciplinary or other steps that a company must or should take when an employee is implicated in or suspected of misconduct, such as suspension or in relation to compensation?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「the extent to which the company has taken appropriate steps (due process), including giving the employee an opportunity to explain their conduct and, where relevant, a proper warning in respect of similar but less serious misconduct in the past.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「35 If an issue comes to light prior to the authorities in your country becoming aware or engaged, what internal steps should a company take? Are there internal steps that a company is legally required to take or should consider taking?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「36 What internal steps should a company in your country take if it receives a notice or subpoena from a law enforcement authority seeking the production or preservation of documents or data?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「39 Can the attorney–client privilege be claimed over any aspects of internal investigations in your country? What steps should a company take in your country to protect the privilege or confidentiality of an internal investigation?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「43 To what extent is waiver of the attorney­–client privilege regarded as a cooperative step in your country? Are there any contexts where privilege waiver is mandatory or required?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「54 What are the practical steps needed to self-report to law enforcement in your country?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「59 Does law enforcement in your country routinely share information or investigative materials with law enforcement in other countries? What framework is in place in your country for cooperation with foreign authorities?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「73 What steps do you take to manage corporate communications in your country? Is it common for companies to use a public relations firm to manage a corporate crisis in your country?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-- 一次情報の探し方：
-  - 「There is no avenue for this, other than the filing of a motion to dismiss a warrant authorising search and seizure, arrest or detention. Because of the secrecy of investigations, it is difficult to file a motion to challenge ongoing investigations before the courts.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-- 実例：
-  - 「For these exceptional cases, which often involve corporate liability, the special investigation departments of the public prosecutors’ offices in major cities take the initiative to investigate corporations in cooperation with the aforementioned specialised government authorities.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「While the prosecutor’s offices do not have formal policies or protocols guiding prosecutorial decisions in any type of case or violation, including those involving corporate misconduct, the JFTC has publicly released certain standards and guidelines for enforcing antimonopoly law violations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「To date, there have only been six reported cases on the use of the plea bargaining system.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「8 To what extent do law enforcement authorities in your jurisdiction place importance on a corporation having an effective compliance programme? What guidance exists (in the form of official guidance, speeches or case law) on what constitutes an effective compliance programme?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「9 What impact is AI having on investigations? Describe any relevant guidance, regulatory expectations and case law concerning the use of AI in investigations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「The TBA provides rules regarding the secrecy of communications. For example, with respect to communications that are handled by telecommunications carriers, this law provides that the secrecy of these communications must not be violated, and any person who is engaged in a telecommunications business must not disclose secrets learned while in office.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「18 What is your country’s approach to sanctions enforcement? Has there been an increase in sanctions enforcement activity in recent years, for example?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「There have not been many significant sanctions enforcement cases in Japan in recent years. However, given that the Japanese government has actively and repeatedly issued additional sanctions against Russia following its invasion of Ukraine, enforcement actions could potentially become more prevalent in the near future.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「In a notable case reported on 10 July 2024, the CEO of a trading company was arrested on suspicion of illegally exporting goods to Russia via South Korea without authorisation. The goods – under an export ban – allegedly included items that could be converted for military use, in violation of sanctions imposed following Russia’s invasion of Ukraine.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「In addition, in civil procedures, a witness cannot be forced to testify in cases where certain professional secrets obtained by public officials in the performance of their duties or certain technical or professional secrets are involved.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「the proportionality of the disciplinary action in light of the nature, type and degree of the misconduct, the employee’s motives, the damage or disruption caused, and the disciplinary action imposed in previous similar cases at the company; and」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「Furthermore, to receive any benefit from self-reporting (eg, immunity from fines), applicants should cooperate with the authority throughout the course of the investigation by making their officers and employees available for interview, responding to various requests for documents and data, and answering the authority’s questions on the facts and circumstances of the case.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「For example, if the JFTC has taken action against a company for cartel or bid-rigging practices, the company may be restricted from participating in certain public procurement processes. It is therefore important to identify the types of public procurement in which the company is, or may need to be, involved and to understand the applicable or expected eligibility requirements.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「In addition, penalties are determined within the ranges prescribed by law and by reference to comparable cases. Although no clear general trend is apparent in the penalties imposed in individual cases, legislative amendments have generally made penalties for violations harsher rather than lighter.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「To date, there have only been six reported cases on the use of the plea bargaining system. In one instance, officers and employees were convicted of bribing a foreign public official. The company utilised the plea bargaining system to provide information on the bribery committed by its officers and employees, thereby avoiding prosecution.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
+- 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

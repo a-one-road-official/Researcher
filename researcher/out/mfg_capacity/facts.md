@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・252品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・255品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -12860,6 +12860,137 @@
   - 「2025年9月」（https://www.henmi-adm.jp/news/3775.html）
 - 痛み・損（深さの印）：記載なし（読んだ36頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ36頁・検索18回）
+
+## PRTR 届出事業所数 全国の業種別・年次の集計（電気めっき業・金属製品製造業・環境省の集計結果の表・都道府県の表でなく全国・4-83・4-115）（PRTR notified facilities by industry nationwide Japan electroplating metal products annual）
+- 文脈：統計
+- 痛み・損（深さの印）：記載なし（読んだ53頁・検索18回）
+- 事業所数・社数：記載なし（読んだ53頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ53頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ53頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ53頁・検索18回）
+- 生産能力・設備：記載なし（読んだ53頁・検索18回）
+- 10年推移：記載なし（読んだ53頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ53頁・検索18回）
+
+## 財務省 貿易統計 金型（HS8480）・めっき関連の輸出入額の年次（見かけの国内需要＝生産＋輸入−輸出の需要側・4-115）（Japan trade statistics molds HS 8480 import export annual value）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「国内では、高い技能を持ちながら後継者がいない工場の廃業が続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+- 事業所数・社数：
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会の資料によれば、事業所数のピークは1991年で約13,000でした」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+  - 「国内でも、事業所数は1991年の約13,000から2024年の約4,000へ減りました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人でした」（https://forwit.jp/column/die-and-mold/）
+- 社員数・平均社員数：
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「3次元CADで型の形を決め、マシニングセンタで削り、焼き入れで硬くし、放電加工で細部をつくり、最後は人の手で鏡のように磨きます」（https://forwit.jp/column/die-and-mold/）
+  - 「こうした形は、職人が1個ずつ削り出しているわけではありません」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「米国の専門誌MoldMaking Technologyが2018年12月に伝えた記事では、マリーニャグランデとオリベイラ・デ・アゼメイシュの2地域に500社を超える金型企業が集まり、約10,500人を雇用し、2017年の輸出額は6億7,500万ユーロでした」（https://forwit.jp/column/die-and-mold/）
+  - 「一般財団法人機械振興協会経済研究所が2026年1月に公表した小論文では、土地や建物の費用、固定資産税などの公租公課、運送費、錆取りや磨きのメンテナンス費、パレットや棚の設備費、備品費、保管や移動の労務費という7項目が示されています」（https://forwit.jp/column/die-and-mold/）
+- 受注金額・加工賃収入：
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の機械統計をもとにした日本金型工業会の集計では、2026年1月から7月までの金型生産額は1,866億円で、前年同期比は105.15%でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「それでも、日本から出ていく金型は年間2,000億円を超え、入ってくる金型を上回り続けています」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「国別の順位も入れ替わり、日本金型工業会がISTMAの統計をもとに整理した比較で、日本の生産額シェアは7.4%の3位になりました」（https://forwit.jp/column/die-and-mold/）
+- 1人あたり・1社あたり金額：
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした」（https://forwit.jp/column/die-and-mold/）
+- 生産能力・設備：
+  - 「日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました」（https://forwit.jp/column/die-and-mold/）
+- 10年推移：
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「日本政策金融公庫総合研究所が2019年11月に公表したレポートでは、金型製造業の販売先として自動車用が76.6%、電機用が3.1%となり、2012年時点の64%と10%から自動車への集中が進んだことが示されています」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2010年には、自動車ボディ用大型プレス金型を手がけてきたオギハラの館林工場が中国のBYDグループに買収され、技術の海外流出として広く報じられました」（https://forwit.jp/column/die-and-mold/）
+  - 「生産額は日本金型工業会がISTMAの統計集2025年版に基づいて示した国別比較を使います」（https://forwit.jp/column/die-and-mold/）
+- 人手と仕事の差：
+  - 「納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります」（https://forwit.jp/column/die-and-mold/）
+  - 「内製と外注の線引きも産業の形を決めています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本｜精度と納期で勝ち、量と価格で押される」（https://forwit.jp/column/die-and-mold/）
+  - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
+  - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
+  - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
+
+## 鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70）（Japan steel castings industry 2018 value added increase reason raw material price pass-through）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「d) 倒産、転業、廃業、休業調査」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+- 社員数・平均社員数：
+  - 「別委員会」を設置して、20 社 21 人の委員で 6 回の委員会を行い、 鋳造業界のIoT」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「４． 人手不足・人材確保の厳しい現状や働き方改革への対応として、 鋳造業界労務」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「５． 新たな外国人材受入れに際し、外国人材受入れ検討会を立ち上げ、 鋳造業界の」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「８． 人材育成では、 将来の鋳物工場の経営者や工場長の育成を目指した鋳造カレッ」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「９． 新入社員を対象とした新人教育研修プログラム「鋳造入門講座（鋳鉄・アルミ」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「講演会：機械振興会館 地下２階ホール 参加人数 118 名」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「講演会：石川県地場産業振興センター 参加人数 92 名」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「参加人数約 40 名」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「参加人数 48 名」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「参加人数約 28 名」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「市） 参加人数 106 名」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「参加人数 125 名」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+- 受注金額・加工賃収入：
+  - 「（１）鋳造業の 2018 年の生産金額（ダイカストを除く）は、1 兆 4,257 億円で対前」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「代表業種である銑鉄鋳物の生産金額は、8,303 億円、同 5.9%増と 2 年連続し」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「て増加し、3 年ぶりにて 8 千億円台を回復した」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「産金額が 1,390 億円、同 4.4%増と 2 年連続して増加し、生産量は 185 千ト」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「非鉄金属鋳物（ダイカストを除く）は、銅合金鋳物の生産金額が 947 億円、」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「一方、 アルミニウム鋳物は3,128 億円、」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「表１．鋳造品の生産額推移 単位：億円、％」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+- 10年推移：
+  - 「政府発表によれば、2018（平成 30）年度の我が国経済は、緩やかな回復が続」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「記録する中で設備投資が増加するとともに、雇用・所得環境の改善により個人」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「政府は、一連の自然災害の被災地の復旧・復興を全力で進めるため、2018」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「的な財政需要に適切に対処するため、2018 年 12 月 21 日に 2018（平成 30）年」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「この結果、2018（平成 30）年度の実質国内総生産（実質ＧＤＰ）成長率は」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「（出典： 『平成31 年度経済見通しと経済財政運営の基本的態度』 、2019 年 1 月 28 日閣議決定）」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「（１）鋳造業の 2018 年の生産金額（ダイカストを除く）は、1 兆 4,257 億円で対前」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「年比 5.6%増と 2 年連続の増加となった」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「1.8%増と 2 年連続の増加となった」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「て増加し、3 年ぶりにて 8 千億円台を回復した」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「2.6%増と 2 年連続して増加し、6 年ぶりに 350 万トンを回復した」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「産金額が 1,390 億円、同 4.4%増と 2 年連続して増加し、生産量は 185 千ト」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「ン、同 0.5％増と 2 年連続して増加した」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「同 6.2％増と 3 年ぶりに増加するも、生産量は 74,559 トン、同 1.1％減とな」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「同 5.4%増と 2 年連続して増加し、 生産量は454 千トン、 同2.8％増と 5 年連」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+- 人手と仕事の差：
+  - 「４． 人手不足・人材確保の厳しい現状や働き方改革への対応として、 鋳造業界労務」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+  - 「③ 人手不足・人材確保の厳しい現状や働き方改革への対応ならびに労務費上」（https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

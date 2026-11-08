@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T14:54:36.466797+00:00",
+ "researched_at": "2026-11-08T23:08:04.906334+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -102,6 +102,38 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "PDFs and printed copies of this report are available on the",
@@ -141,38 +173,6 @@
    },
    {
     "quote": "Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -361,7 +361,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/yu_epiphany/n/n80f78e5600d0",
+    "url": "https://note.com/platypus2000jp/n/nd95b71edbb3d",
     "status": "ok",
     "method": "http"
    },
@@ -386,7 +386,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/platypus2000jp/n/nd95b71edbb3d",
+    "url": "https://note.com/openwave/n/n86c4590c143a",
     "status": "ok",
     "method": "http"
    },
@@ -401,12 +401,12 @@
     "method": "http"
    },
    {
-    "url": "https://wakara.co.jp/mathlog/20260104",
+    "url": "https://note.com/m3dag/n/n3db1f5090e0e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/m3dag/n/n3db1f5090e0e",
+    "url": "https://wakara.co.jp/mathlog/20260104",
     "status": "ok",
     "method": "http"
    },
@@ -416,7 +416,7 @@
     "method": "browser"
    },
    {
-    "url": "https://note.com/globis_engineers/n/n3f45bc222df8",
+    "url": "https://note.com/pocketstudio/n/n8f1ddd5c09b4",
     "status": "ok",
     "method": "http"
    },
@@ -436,17 +436,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.krsk-phs.com/entry/counterfactual_assumptions",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://qiqumo.jp/contents/knowhow/3241",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.salesanalytics.co.jp/column/no00450/",
+    "url": "https://www.krsk-phs.com/entry/counterfactual_assumptions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acceluniverse.com/blog/developers/2019/12/post-32.html",
     "status": "ok",
     "method": "http"
    },
@@ -461,9 +461,9 @@
     "method": ""
    },
    {
-    "url": "https://elsur.jpn.org/mt/cat13/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20201013-00000180-impress-sci&lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
@@ -471,9 +471,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20201013-00000180-impress-sci&lang=ja",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://elsur.jpn.org/mt/cat13/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://webview.isho.jp/journal/detail/pdf/10.11477/mf.091444120390111087",
@@ -496,17 +496,17 @@
     "method": "http"
    },
    {
-    "url": "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.qualtrics.com/articles/strategy-research/margin-of-error/",
+    "url": "https://sciencemediacentre.es/en/short-guide-statistics-journalists-how-open-black-box-scientific-study",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://knology.org/article/numbers-in-the-news-margin-of-error/",
+    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualtrics.com/articles/strategy-research/margin-of-error/",
     "status": "ok",
     "method": "http"
    }
@@ -516,41 +516,38 @@
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 site:note.com",
    "results": [
-    "https://note.com/yu_epiphany/n/n80f78e5600d0",
+    "https://note.com/platypus2000jp/n/nd95b71edbb3d",
     "https://note.com/platypus2000jp/n/n19c141ec868d",
     "https://note.com/momoen_de/n/ndb1acc01b83e",
     "https://note.com/biostat_lab/n/naa6165d6ff13",
     "https://note.com/genial_robin6007/n/n4ffb76b4cea3",
-    "https://note.com/platypus2000jp/n/nd95b71edbb3d",
     "https://note.com/openwave/n/n86c4590c143a",
     "https://note.com/kuro_hakos/n/n843b073e5863"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 note",
    "results": [
     "https://note.com/repkuririn7/n/n5b9d7572d30d",
     "https://note.com/macromill/n/n73fa02c20ec3",
-    "https://wakara.co.jp/mathlog/20260104",
     "https://note.com/m3dag/n/n3db1f5090e0e",
+    "https://wakara.co.jp/mathlog/20260104",
     "https://researchmap.jp/ryotatakaoka/misc/31299098",
-    "https://note.com/globis_engineers/n/n3f45bc222df8",
-    "https://www.reddit.com/r/AskSocialScience/comments/24t440/all_since_correlation_doesnt_imply_causation_how/?tl=ja",
     "https://note.com/pocketstudio/n/n8f1ddd5c09b4",
-    "https://www.zentsuken.net/journal/file/166_2.html",
+    "https://www.reddit.com/r/AskSocialScience/comments/24t440/all_since_correlation_doesnt_imply_causation_how/?tl=ja",
+    "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
+    "https://note.com/globis_engineers/n/n3f45bc222df8",
     "https://bigdata-analytics.jp/analytics/causal-counterfactual/"
    ],
    "engines": [
     "ddgs:google",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 18
+   "n_hits": 16
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 やり方",
@@ -558,37 +555,36 @@
     "https://www.intage.co.jp/gallery/statistical-dataunderstanding/",
     "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
     "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
-    "https://www.krsk-phs.com/entry/counterfactual_assumptions",
     "https://qiqumo.jp/contents/knowhow/3241",
+    "https://www.krsk-phs.com/entry/counterfactual_assumptions",
     "https://wakara.co.jp/mathlog/20260104",
-    "https://www.salesanalytics.co.jp/column/no00450/",
     "https://www.acceluniverse.com/blog/developers/2019/12/post-32.html",
+    "https://www.salesanalytics.co.jp/column/no00450/",
     "https://www.skillupai.com/blog/tech/causal-inference/",
-    "https://bigdata-analytics.jp/analytics/causal-counterfactual/"
+    "https://x.com/mMEDICI_Inc/article/2065374280419004739"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 事例",
    "results": [
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
-    "https://elsur.jpn.org/mt/cat13/",
-    "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
     "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20201013-00000180-impress-sci&lang=ja",
+    "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
+    "https://elsur.jpn.org/mt/cat13/",
     "https://webview.isho.jp/journal/detail/pdf/10.11477/mf.091444120390111087",
     "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
     "https://hgpi.org/wp-content/uploads/advocacy-college.pdf",
     "https://www.jabes1993.org/%E7%B5%8C%E5%96%B6%E5%80%AB%E7%90%86%E5%AD%A6%E4%BC%9A%E8%AA%8C_%E7%AC%AC31%E5%8F%B7.pdf",
-    "https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c"
+    "https://ja.wikipedia.org/wiki/統計的因果推論"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -599,34 +595,33 @@
     "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
     "https://journalistsresource.org/media/margin-error-journalists-surveys-polls/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
-    "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
-    "https://www.qualtrics.com/articles/strategy-research/margin-of-error/",
-    "https://knology.org/article/numbers-in-the-news-margin-of-error/",
-    "https://www.youtube.com/watch?v=W2ifrvrRrxc",
-    "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
     "https://sciencemediacentre.es/en/short-guide-statistics-journalists-how-open-black-box-scientific-study",
-    "https://marginaleffects.com/chapters/comparisons.html"
+    "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "https://www.qualtrics.com/articles/strategy-research/margin-of-error/",
+    "https://www.youtube.com/watch?v=W2ifrvrRrxc",
+    "https://knology.org/article/numbers-in-the-news-margin-of-error/",
+    "https://datajournalism.com/read/longreads/why-understanding-margins-of-error-matters-in-journalism",
+    "https://en.wikipedia.org/wiki/Impact_evaluation"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 15
   },
   {
    "query": "site:note.com データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務",
    "results": [
     "https://note.com/yu_epiphany/n/n80f78e5600d0",
     "https://note.com/cy_larm/n/n9251890dec5b",
+    "https://note.com/platypus2000jp/n/nd95b71edbb3d",
+    "https://note.com/relearningsquare/n/nbd56ec2bd65d",
     "https://note.com/momoen_de/n/ndb1acc01b83e",
     "https://note.com/biostat_lab/n/naa6165d6ff13",
-    "https://note.com/platypus2000jp/n/nd95b71edbb3d",
-    "https://note.com/genial_robin6007/n/n4ffb76b4cea3",
-    "https://note.com/relearningsquare/n/nbd56ec2bd65d"
+    "https://note.com/genial_robin6007/n/n4ffb76b4cea3"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -636,8 +631,8 @@
     "https://x.com/Dataibridge_01/status/2064351334690910597",
     "https://x.com/mMEDICI_Inc/article/2065374280419004739",
     "https://x.com/mMEDICI_Inc/article/2067552926709731407",
-    "https://x.com/Dataibridge_01/status/2086322900991434933",
     "https://x.com/Dataibridge_01/status/2065635290732249118",
+    "https://x.com/Dataibridge_01/status/2086322900991434933",
     "https://x.com/smo_yutohisano/status/2074054537707663494",
     "https://x.com/Dataibridge_01/status/2061427268958974350"
    ],
@@ -649,20 +644,18 @@
   {
    "query": "site:linkedin.com データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務",
    "results": [
+    "https://jp.linkedin.com/pulse/causality-counterfactuals-role-iot-digital-twin-dr-pg-madhavan?tl=ja",
     "https://jp.linkedin.com/pulse/what-counterfactuals-why-do-matter-peter-walker-yjaxf?tl=ja",
     "https://www.linkedin.com/posts/仮想的な反事実の分析-activity-7153855128507191296-N6JU",
     "https://www.linkedin.com/posts/ku2t_本の紹介反事実と因果推論武田邦敬kunihiro-takeda-activity-7186335641662558209-WlLn",
     "https://jp.linkedin.com/pulse/counterfactuals-causal-inference-peter-walker-hns2e?tl=ja",
-    "https://jp.linkedin.com/pulse/causality-counterfactuals-role-iot-digital-twin-dr-pg-madhavan?tl=ja",
     "https://jp.linkedin.com/pulse/potential-outcomes-challenge-counterfactuals-athulya-ganapathi-kandy-isjwc?tl=ja",
-    "https://jp.linkedin.com/pulse/unlocking-causal-inference-comprehensive-guide-back-door-bowen-li-7jwdc?tl=ja",
     "https://jp.linkedin.com/pulse/平均で結論を出す統計から異質性と因果経路で説明する意思決定への転換-michio-okazaki-9i5hc"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務",
@@ -670,7 +663,7 @@
     "https://www.facebook.com/groups/datajournalism.jp/",
     "https://www.facebook.com/SocialCompany/posts/掲載されました最新のメディア手法データジャーナリズムの無料オンライン公開講座がスタート-市川裕康デジタルキュレーション-現代ビジネス-講談社-興味ある方一緒に受/10151839905303623/",
     "https://www.facebook.com/groups/datavizjapan/",
-    "https://www.facebook.com/groups/datajournalism.jp/about/",
+    "https://www.facebook.com/business.research.lab/photos/コラム公開失敗から学ぶ思考法意思決定と行動変容に対する反事実的思考の影響と題したコラムを公開しましたhttpswwwbusiness-research-labc/1144153721049042/",
     "https://www.facebook.com/naoya.wada.16/posts/-９１１から四半世紀そして解決型報道の可能性-260911-fri-２５年前の今日はどこで何をしていたかとの問いかけから始まった今回の金曜懇話会エネルギーを主題/10247978299137297/",
     "https://www.facebook.com/groups/datajounalism/about/",
     "https://www.facebook.com/groups/datavizjapan/posts/2617428761779345/"
@@ -684,22 +677,21 @@
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 note 社長",
    "results": [
     "https://note.com/repkuririn7/n/n5b9d7572d30d",
-    "https://note.com/ku2t/n/nbdad7229f4c4",
-    "https://wakara.co.jp/mathlog/20260104",
-    "https://www.krsk-phs.com/entry/counterfactual_assumptions",
-    "https://www.acceluniverse.com/blog/developers/2019/12/post-32.html",
-    "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
-    "https://news.rease.co.jp/n/n3ef06df59a7b",
     "https://note.com/m3dag/n/n3db1f5090e0e",
+    "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
+    "https://wakara.co.jp/mathlog/20260104",
+    "https://www.acceluniverse.com/blog/developers/2019/12/post-32.html",
+    "https://news.rease.co.jp/n/n3ef06df59a7b",
+    "https://note.com/macromill/n/n73fa02c20ec3",
     "https://researchmap.jp/ryotatakaoka/misc/31299098",
-    "https://bigdata-analytics.jp/analytics/causal-counterfactual/"
+    "https://tjo.hatenablog.com/entry/2024/02/28/174811",
+    "https://x.com/mMEDICI_Inc/article/2065374280419004739"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 16
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 X 投稿",
@@ -716,11 +708,10 @@
     "https://x.com/mMEDICI_Inc/article/2065374280419004739"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "data journalism counterfactual comparison confounding chance small counts margin of error guide site:linkedin.com",
@@ -730,14 +721,14 @@
     "https://ch.linkedin.com/in/robin-j-hofmeister-a74029b6",
     "https://my.linkedin.com/in/lim-zi-xiang-datascience",
     "https://www.linkedin.com/pulse/causal-inference-ii-counterfactuals-randomization-confounder-medin",
-    "https://www.linkedin.com/posts/handy-research_episode-11-counterfactual-framework-practical-activity-7439697916736229376-BenY",
     "https://www.linkedin.com/pulse/causal-inference-scenario-illustration-ajay-taneja-ejzsf",
+    "https://www.linkedin.com/posts/handy-research_episode-11-counterfactual-framework-practical-activity-7439697916736229376-BenY",
     "https://www.linkedin.com/advice/1/what-best-practices-addressing-confounding-variables-jkejf",
     "https://www.linkedin.com/pulse/potential-outcomes-challenge-counterfactuals-athulya-ganapathi-kandy-isjwc",
-    "https://www.linkedin.com/advice/0/how-can-you-address-bias-confounding-variables"
+    "https://www.linkedin.com/top-content/productivity/improving-research-outcomes/how-to-manage-confounding-variables-in-research/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 11
@@ -745,6 +736,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-05T20:04:55.850292+00:00"
 }

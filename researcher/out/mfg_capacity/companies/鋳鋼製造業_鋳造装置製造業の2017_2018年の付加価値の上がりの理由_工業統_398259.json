@@ -1,0 +1,843 @@
+{
+ "name": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70）",
+ "en": "Japan steel castings industry 2018 value added increase reason raw material price pass-through",
+ "aliases": [
+  "工業統計 2018年 鋳鋼製造業 原材料使用額 付加価値額",
+  "日本鋳造協会 鋳鋼 生産量 2018年 前年比",
+  "鋳鋼 2018年 値上げ 転嫁 生産 増加"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T23:01:27.768218+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "d) 倒産、転業、廃業、休業調査",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "別委員会」を設置して、20 社 21 人の委員で 6 回の委員会を行い、 鋳造業界のIoT",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４． 人手不足・人材確保の厳しい現状や働き方改革への対応として、 鋳造業界労務",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５． 新たな外国人材受入れに際し、外国人材受入れ検討会を立ち上げ、 鋳造業界の",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８． 人材育成では、 将来の鋳物工場の経営者や工場長の育成を目指した鋳造カレッ",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９． 新入社員を対象とした新人教育研修プログラム「鋳造入門講座（鋳鉄・アルミ",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "講演会：機械振興会館 地下２階ホール 参加人数 118 名",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "講演会：石川県地場産業振興センター 参加人数 92 名",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参加人数約 40 名",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参加人数 48 名",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参加人数約 28 名",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市） 参加人数 106 名",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参加人数 125 名",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "（１）鋳造業の 2018 年の生産金額（ダイカストを除く）は、1 兆 4,257 億円で対前",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代表業種である銑鉄鋳物の生産金額は、8,303 億円、同 5.9%増と 2 年連続し",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て増加し、3 年ぶりにて 8 千億円台を回復した",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産金額が 1,390 億円、同 4.4%増と 2 年連続して増加し、生産量は 185 千ト",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属鋳物（ダイカストを除く）は、銅合金鋳物の生産金額が 947 億円、",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 アルミニウム鋳物は3,128 億円、",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１．鋳造品の生産額推移 単位：億円、％",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "政府発表によれば、2018（平成 30）年度の我が国経済は、緩やかな回復が続",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "記録する中で設備投資が増加するとともに、雇用・所得環境の改善により個人",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "政府は、一連の自然災害の被災地の復旧・復興を全力で進めるため、2018",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "的な財政需要に適切に対処するため、2018 年 12 月 21 日に 2018（平成 30）年",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、2018（平成 30）年度の実質国内総生産（実質ＧＤＰ）成長率は",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出典： 『平成31 年度経済見通しと経済財政運営の基本的態度』 、2019 年 1 月 28 日閣議決定）",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）鋳造業の 2018 年の生産金額（ダイカストを除く）は、1 兆 4,257 億円で対前",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年比 5.6%増と 2 年連続の増加となった",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.8%増と 2 年連続の増加となった",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て増加し、3 年ぶりにて 8 千億円台を回復した",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.6%増と 2 年連続して増加し、6 年ぶりに 350 万トンを回復した",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産金額が 1,390 億円、同 4.4%増と 2 年連続して増加し、生産量は 185 千ト",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ン、同 0.5％増と 2 年連続して増加した",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同 6.2％増と 3 年ぶりに増加するも、生産量は 74,559 トン、同 1.1％減とな",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同 5.4%増と 2 年連続して増加し、 生産量は454 千トン、 同2.8％増と 5 年連",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続増加し、過去最高の生産量となった",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、2018 年の全生産金額（ダ",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１．鋳造品の生産額推移 単位：億円、％",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "４． 人手不足・人材確保の厳しい現状や働き方改革への対応として、 鋳造業界労務",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 人手不足・人材確保の厳しい現状や働き方改革への対応ならびに労務費上",
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/products/foundry_solution/solution_detail/research_research04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-casting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail53",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_07_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boring-processing.com/knowledge/casting-processing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.willtecgroup-ems.jp/column/manufacturing-issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5486517",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfca-net.or.jp/data_files/view/4609",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2019/magazine1901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.buffett-code.com/articles/industry-report-2351401",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www2.ngu.ac.jp/uri/syakai/pdf/syakai_vol5403_12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://foundry.jp/foundry2025/img/chuzovision2006.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jfs.or.jp/cs-shibu/zuisou-001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/cont1/34512",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cast-rev.com/column/casting-production-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundry.jp/about-jfs_inc/casting-industry-vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfs-web.co.jp/foundry-solutions/cast-steel-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4759261",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikai-news.net/2018/04/20/%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0%E3%80%812017%E5%B9%B4%E5%BA%A6%E5%A3%B2%E4%B8%8A%E3%81%AF38-7%EF%BC%85%E5%A2%97%E3%81%AE133-3%E5%84%84%E5%86%86%E3%80%81%E9%8B%B3%E9%8B%BC%E5%93%81%E3%81%AE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundry.jp/foundry2018/kaiin/data/doukou201806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://foundry.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundry.jp/foundry2025/wp-content/uploads/2024/06/2023houkoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/metal-casting-market/5133",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E9%8B%B3%E9%80%A0%E5%B8%82%E5%A0%B4-116167",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/faq/faq08/faq08b02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kagawa.lg.jp/documents/63741/2025gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.automation-news.jp/2026/08/107130/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.smd-am.co.jp/market/daily/focus/2019/focus191224jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/news/marketnews/?b=n202610280350",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newscast.jp/news/0099933",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://orbray.com/magazine/archives/12338",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundry.jp/foundry2018/wp-content/uploads/2019/06/c2354f69ccfa39668819dc9d41bfcffb.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/document1-05-1.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000007797092&layout=dataset&statdisp_id=0003036273",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ccsi.csitestst.cc.columbia.edu/sites/ccsi.csitestst.cc.columbia.edu/files/content/Japan_Downstream-Beneficiation-FINAL.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2025/data/wp25e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.fujielectric.co.jp/products/foundry_solution/solution_detail/research_research04.html",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-casting/",
+    "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail53",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_07_00.pdf",
+    "https://www.boring-processing.com/knowledge/casting-processing.html",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://openjicareport.jica.go.jp/pdf/12285888.pdf",
+    "https://www.jfca-net.or.jp/data_files/view/4609"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 受注残 人手不足",
+   "results": [
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.fujielectric.co.jp/products/foundry_solution/solution_detail/research_research04.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.fujielectric.co.jp/products/foundry_solution/solution_detail/research_research04.html",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "https://www.willtecgroup-ems.jp/column/manufacturing-issues/",
+    "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "https://www.atpress.ne.jp/news/5486517",
+    "https://www.jfca-net.or.jp/data_files/view/4609",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2019/magazine1901.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_07_00.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70）",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://www2.ngu.ac.jp/uri/syakai/pdf/syakai_vol5403_12.pdf",
+    "https://foundry.jp/foundry2025/img/chuzovision2006.pdf",
+    "https://jfs.or.jp/cs-shibu/zuisou-001/",
+    "https://www.sbbit.jp/article/cont1/34512",
+    "https://cast-rev.com/column/casting-production-cost/",
+    "https://www.csn.co.jp/imginfo/nikkankogyo_20201125.pdf",
+    "https://orbray.com/magazine/archives/12338",
+    "https://kikai-news.net/2018/04/20/日本鋳造、2017年度売上は38-7％増の133-3億円、鋳鋼品の/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 推移",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://www.sbbit.jp/article/cont1/34512",
+    "https://cast-rev.com/column/casting-production-cost/",
+    "https://foundry.jp/about-jfs_inc/casting-industry-vision/",
+    "https://www.jfs-web.co.jp/foundry-solutions/cast-steel-solution/",
+    "https://www2.ngu.ac.jp/uri/syakai/pdf/syakai_vol5403_12.pdf",
+    "https://www.atpress.ne.jp/news/5486517",
+    "https://newscast.jp/smart/news/4759261",
+    "https://kikai-news.net/2018/04/20/日本鋳造、2017年度売上は38-7％増の133-3億円、鋳鋼品の/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www2.ngu.ac.jp/uri/syakai/pdf/syakai_vol5403_12.pdf",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://foundry.jp/foundry2025/wp-content/uploads/2024/06/2023houkoku.pdf",
+    "https://www.sokeizai.or.jp/pages/58/",
+    "https://www.researchnester.com/ja/reports/metal-casting-market/5133",
+    "https://www.fujielectric.co.jp/products/foundry_solution/solution_detail/research_research04.html",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E9%8B%B3%E9%80%A0%E5%B8%82%E5%A0%B4-116167",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://foundry.jp/foundry2018/kaiin/data/doukou201806.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.stat.go.jp/library/faq/faq08/faq08b02.html",
+    "https://www.sokeizai.or.jp/pages/58/",
+    "https://www.pref.kagawa.lg.jp/documents/63741/2025gaiyo.pdf",
+    "https://www.automation-news.jp/2026/08/107130/",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://www2.ngu.ac.jp/uri/syakai/pdf/syakai_vol5403_12.pdf",
+    "https://www.sbbit.jp/article/cont1/34512",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://foundry.jp/foundry2025/img/chuzovision2006.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E9%8B%B3%E9%80%A0%E5%B8%82%E5%A0%B4-116167",
+    "https://jfs.or.jp/cs-shibu/zuisou-001/",
+    "https://www.fujielectric.co.jp/products/foundry_solution/solution_detail/research_research04.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://www.atpress.ne.jp/news/5486517",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.smd-am.co.jp/market/daily/focus/2019/focus191224jp/",
+    "https://kabutan.jp/news/marketnews/?b=n202610280350",
+    "https://newscast.jp/news/0099933",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://foundry.jp/about-jfs_inc/casting-industry-vision/",
+    "https://cast-rev.com/column/casting-production-cost/",
+    "https://www.sbbit.jp/article/cont1/34512",
+    "https://www2.ngu.ac.jp/uri/syakai/pdf/syakai_vol5403_12.pdf",
+    "https://jfs.or.jp/cs-shibu/zuisou-001/",
+    "https://orbray.com/magazine/archives/12338",
+    "https://www.jfs-web.co.jp/foundry-solutions/cast-steel-solution/",
+    "https://foundry.jp/foundry2018/kaiin/data/doukou201806.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Japan steel castings industry 2018 value added increase reason raw material price pass-through Japan statistics",
+   "results": [
+    "https://ccsi.csitestst.cc.columbia.edu/sites/default/files/content/Japan_Downstream-Beneficiation-FINAL.pdf",
+    "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-japan.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2025/data/wp25e10.pdf",
+    "https://www.globaldata.com/data-insights/mining/market-value-of-steel-industry-in-japan-1090751/",
+    "https://www.nipponsteel.com/en/ir/library/pdf/nsc_en_ir_2024_all.pdf",
+    "https://www.cia.gov/readingroom/docs/CIA-RDP85T00875R001700050025-8.pdf",
+    "https://www.sphericalinsights.com/reports/japan-metal-casting-market",
+    "https://www.mreport.co.th/en/news/industry-movement/118-steel-cost-increase-oil-price-impact",
+    "https://www.steelonthenet.com/insights/japan-virgin-steelmaking-strategy.html",
+    "https://www.jisf.or.jp/en/statistics/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70）",
+   "results": [
+    "https://note.com/qy_research/n/nc59e0918a0cd",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/at_consulting18/n/nf47674263cb5",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/ogawa_tech/n/ne51fccd38962",
+    "https://note.com/brave_avocet318/n/n7b6db2a929fd",
+    "https://note.com/cd350476/n/n72a413a9180e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2116377226006692157",
+    "https://jf.x.com/images/media-preview/2095553014715093022",
+    "https://x.com/OgawaSeisakusho/status/1730697514901488005",
+    "https://x.com/OgawaSeisakusho/status/2114827523226054913",
+    "https://x.com/OgawaSeisakusho/status/1510706617956069378",
+    "https://x.com/OgawaSeisakusho/status/2114828517833875700",
+    "https://x.com/OgawaSeisakusho/status/2114826491607560531"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70）",
+   "results": [
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の投資は本当に少ないのか-付加価値と総固定資本形成の関係-activity-7405339762611482624-gktE",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の本来の稼ぎとは-企業規模別の純付加価値と減価償却費-activity-7433241835688595456-MK-1",
+    "https://www.linkedin.com/posts/kenichi-fujisaku_統計データによると日本の製造業では2015年から2018年の間にずっと販売価格-activity-7044807418614059008-_9vc",
+    "https://www.linkedin.com/pulse/鋳鋼の世界市場タイプ別プロセス別製法別用途別地域別-予測2029年-global-information-inc-joafc",
+    "https://cn.linkedin.com/in/miya-zheng-castings/ja",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本の製造業の投資しても稼げない実態-付加価値を生まない構造の正体-monoist-activity-7474961796831817728-STMi",
+    "https://jp.linkedin.com/posts/masaaki-koresawa-3219b874_自動車部品以外の鋳造業におけるウラノスエコシステムの統合と展望-ウラノスエコシステム-activity-7447204306740559872-KBeH"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70）",
+   "results": [
+    "https://www.facebook.com/keizaikaiseki/videos/２０１８年7月生産予測調査の結果/304315750342186/",
+    "https://www.facebook.com/fukakachi/posts/経済産業省中小企業庁が2018年2月中に公募開始予定の補助金を知っていますか-2017年度補正予算で中小企業小規模事業者を対象としたものづくり商業サービス経営力/2085679361660455/",
+    "https://www.facebook.com/tsutomu.mori.338/photos/製造業付加価値額mva兆ドル-日本-約-087-兆ドル-約2530-減少アメリカ約284-兆ドル-約-2倍中国-約約466-兆ドル-約8倍日本は川上鋳造金型制御/25076921941973186/",
+    "https://www.facebook.com/ask.chemicals.jp/photos/2020年あけましておめでとうございます毎度のことながら2019年もあっという間に過ぎてしましました2019年を振り返りますと前半と後半では景気の勢いの差が大き/1060755177604423/",
+    "https://www.facebook.com/chubumarketingassociation/posts/付加価値の高いモノづくり技術の研究開発拠点２０１７年度-ビジネストレンド研究部会-第３例会ビジネストレンド研究部会第３例会は豊田市にある知の拠点あいちを視察しあ/772793122894129/",
+    "https://www.facebook.com/photo.php/?fbid=2372480002810344",
+    "https://www.facebook.com/valuatesjapanese/posts/世界の鋳鋼市場は2023年に71億4900万米ドルと評価され2024年から2030年の予測期間中に33のcagrを記録し2030年までに90億8000万米ドルに/122128299134153624/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） note 社長",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://note.com/mobio_osaka/n/ndf27d8663533",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://cast-rev.com/column/casting-production-cost/",
+    "https://www2.ngu.ac.jp/uri/syakai/pdf/syakai_vol5403_12.pdf",
+    "https://note.com/lucid_lotus6287/n/n3aa574b1b055",
+    "https://www.csn.co.jp/imginfo/nikkankogyo_20201125.pdf",
+    "https://www.sbbit.jp/article/cont1/34512",
+    "https://note.com/keitafukui/n/nc45ac53ebee4",
+    "https://kikai-news.net/2018/04/20/日本鋳造、2017年度売上は38-7％増の133-3億円、鋳鋼品の/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "鋳鋼製造業・鋳造装置製造業の2017→2018年の付加価値の上がりの理由（工業統計の原材料使用額・製造品出荷額と並べる・材料の値上げの転嫁か量か・代わりの仮説・4-32・4-70） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.buffett-code.com/articles/industry-report-2351401",
+    "https://factoryadvance.jp/blog/565/",
+    "https://www.sbbit.jp/article/cont1/34512",
+    "https://www.jfs-web.co.jp/foundry-solutions/cast-steel-solution/",
+    "https://www.csn.co.jp/imginfo/nikkankogyo_20201125.pdf",
+    "https://foundry.jp/foundry2025/img/chuzovision2006.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://metoree.com/categories/5997/",
+    "https://kikai-news.net/2018/04/20/日本鋳造、2017年度売上は38-7％増の133-3億円、鋳鋼品の/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Japan steel castings industry 2018 value added increase reason raw material price pass-through site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/stuti-thumpasery-54616123",
+    "https://www.linkedin.com/pulse/materials-automotive-body-chassis-structure-pooyan-nayyeri",
+    "https://www.linkedin.com/posts/hasan-akbulut-a5338827_australias-green-iron-gamble-needs-more-activity-7520510675115208704-nUFn",
+    "https://in.linkedin.com/in/r-k-goyal-803a0a29",
+    "https://in.linkedin.com/in/drgoutam2020",
+    "https://www.linkedin.com/in/michael-barnett",
+    "https://in.linkedin.com/in/kumargaurav89",
+    "https://in.linkedin.com/in/akarshhebbar",
+    "https://in.linkedin.com/in/peeyushgupta21",
+    "https://www.linkedin.com/pulse/how-calculate-total-manufacturing-cost-sheet-metal-products-dallan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）"
+ }
+}

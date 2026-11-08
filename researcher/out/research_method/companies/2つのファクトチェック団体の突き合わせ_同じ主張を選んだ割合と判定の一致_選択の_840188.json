@@ -7,153 +7,15 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T15:19:42.366086+00:00",
+ "researched_at": "2026-11-08T23:07:24.839403+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDF (816.3 KB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conceptualization, Methodology, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Relatedly, some fact-checkers scale the nature of false and misleading statements by providing a “grade” for their deceptiveness. PolitiFact, for example, rates false statements on their Truth-O-Meter from",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for examples of five representative and successful cross-checks across",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". The denominator in each cross-check agreement calculation is the PolitiFact value. For example, 64.7% of PolitiFact",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "considered egregious and PolitiFact believed they had some validity. For example, three examples in the top left corner of",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "’s Fact Checker casts a wider net on the statements to fact-check. This was especially the case for President Trump as they set out to do a comprehensive review of his statements over time. These differences are noticeable and appear to affect the data.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]). For example, during his final year as president and as the 2020 U.S. presidential election approached, President Trump’s lying rate increased dramatically compared to other years [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We learned that political fact-checking is difficult, and fact-checkers face nontrivial challenges as they try to evaluate the truth. In some cases, as our analysis involving Snopes and",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Rahmawan D, Hartanto R, Garnesia I. Multi case analysis on the development of fact-checking organizations in Indonesia. Jurnal Kajian Komunikasi. 2022;10: 14–28. doi: 10.24198/jkk.v10i1.38752",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "突き合わせ・推定": [
+   {
+    "quote": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements - PMC",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
@@ -247,6 +109,36 @@
   ],
   "失敗・落とし穴": [
    {
+    "quote": "examines 10 datasets to identify some of these weaknesses and strengths. However, a broad approach is used to outline biases, which fails to detail the specifics of each dataset, leaving researchers uncertain about their individual quality. Another example,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "expands the analysis of the spurious correlations issue to those induced by event-based collection, dataset merges, and labeling bias, using the Twitter15, Twitter16, and PHEME datasets. However, in both of these studies, the limited number of datasets analyzed fails to provide a comprehensive view of the diverse landscape of available datasets in this field. Similarly,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". As a result, experts must selectively choose the information they evaluate, which leads to many pieces of information going unchecked and potential biases in the selection of news and information that is evaluated",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Verite: a robust benchmark for multimodal misinformation detection accounting for unimodal bias.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Finally, we note that statements that are not explicitly related to politics tend to be more true on average (57.51% vs. 48.28%). This suggests a potential bias on models trained with these data, where political statements may be assumed to be more likely false.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
     "quote": "]. People, however, may question the credibility of fact-checkers for different reasons, including the perception that fact-checkers are biased, concerns around disinformation, or a general distrust in the media or institutions. A crucial question is: How do we know the fact-checkers are accurate? The answer is to check and compare the fact-checkers [",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
@@ -278,6 +170,324 @@
    },
    {
     "quote": "Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (816.3 KB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": ". Extensive research has been devoted to this problem, yet it remains unresolved. There has been considerable recent progress in methods, especially leveraging LLMs",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". There are many surveys of the method landscape",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "provided an early framework, defining fake news, detailing its characteristics, and summarizing detection techniques from a data mining perspective. Subsequent surveys, such as",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", have explored alternative methodologies, focusing respectively on natural language processing (NLP) methods and interdisciplinary perspectives. However, while these surveys and others",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "highlight the limitations of 20 articles using publicly available datasets. While this approach provides a good overview of literature trends, a grey area remains regarding whether the errors in these 20 articles stem primarily from methodology or dataset issues. We also find the work of",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(T) indicates the method used to establish true claims",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(F) indicates the method used to determine false claims",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". The strength of this approach lies in its rigorous review process, ensuring each piece of information is thoroughly evaluated, which leads to consistent reviews across fact-checkers. However, this method is not scalable and is costly",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Additionally, this method has been shown to be effective in reducing the spread of misinformation and to produce veracity ratings similar to those of professional fact-checkers",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Finally, algorithmic methods can also be used to evaluate the veracity of content using NLP or other ML techniques",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", or just generically poor performance (e.g., even state-of-the-art methods often have below 70% accuracy compared to human labels",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Thus, we provide two baselines for future use. We follow the recent method of",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "As an initial step towards higher-fidelity evaluation, we constructed an evaluator based on contradictions between the explanation generated by a predictive system, and a fact-checking article. In particular, we provide GPT-4-0409 both",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Empirical Methods in Natural Language Processing 2023",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Conceptualization, Methodology, Writing – original draft, Writing – review & editing",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "This gap has thus spurred the emergence of additional surveys dedicated to addressing these dataset-centric nuances, which can be categorized into two types. The first one focuses on categorizing existing datasets to guide the research community in their selection. For example,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "surveyed 27 datasets based on eleven characteristics (e.g., application purpose, type of disinformation, language, size, news content type, etc.) and compared these quantitatively. Another example,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "summarized the characteristic features of 23 existing datasets, providing a clearer picture of those available to the public. However, these surveys have an important drawback; they often lack in-depth analysis. In fact, only descriptive characteristics are listed, thus neglecting key characteristics of their quality and effectiveness for future research. This is also the case for",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "examines 10 datasets to identify some of these weaknesses and strengths. However, a broad approach is used to outline biases, which fails to detail the specifics of each dataset, leaving researchers uncertain about their individual quality. Another example,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We particularly flag four datasets for spurious correlations between certain words and labels: IFND, MM-COVID, Twitter16, and TruthSeeker2023. For example, consider the latest, Truthseeker2023. Nearly all tweets here mentioning politicians are labeled as “false”, with only those containing “Trump” showing more variation (see also Appendix",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We also observe that there is a large amount of ambiguity and room for interpretation in the examples that are being marked wrong by categorical label in these three datasets.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". We chose a score-based approach to avoid forcing a potentially misleading binary in cases where there is a partial contradiction. With this approach, good predictions should have low contradiction against a high quality, professional fact-checking article. We also tested binary and trinary versions of this prompt, described in the Appendix, which yielded nearly identical results.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We also note that our unified label schema simplifies some labels that might have meaningful information, for example, gradations of veracity instead of binary true/false. Some granularity has been traded for the ability to establish a unified schema across all the claims datasets. When using these datasets, we advise careful consideration of the optimal labels to apply.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The role of the crowd in countering misinformation: A case study of the covid-19 infodemic.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ") and the dataset also contains other labels covering, for example, its harmfulness, its interest for the general public and its need to be fact-checked by experts.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", we show some examples of keywords that could lead to bad classifications. The number under the keywords is the number of times the word appears in claims based on its labels of veracity. We can thus see that there is an absence of true statements referring to Harris or Biden, but many that refer to Trump in the Truthseeker2023 dataset.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The two annotators also manually labeled 100 examples that were originally marked correct. They agreed 76 were not wrong, 2 were uncertain, and 1 was wrong. There were only 5 additional examples that were marked wrong by one but not both annotators.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Again, the annotators labeled examples that the categorical labels marked incorrect. These were from the GPT-4 (with web search) version of the baseline system. There were only 70 of these total, so the annotators labeled all 70. They had 44% agreement, and agreed that 39 examples were not wrong while agreeing only a mere 3 were wrong. An additional 25 were marked not wrong by one annotator.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Then the annotators labeled 100 examples that were correct according to the categorical labels. They agreed that 89 examples were not wrong, and there were 0 that they agreed were wrong. There were another 5 examples that were marked wrong by one but not both annotators.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Relatedly, some fact-checkers scale the nature of false and misleading statements by providing a “grade” for their deceptiveness. PolitiFact, for example, rates false statements on their Truth-O-Meter from",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "for examples of five representative and successful cross-checks across",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". The denominator in each cross-check agreement calculation is the PolitiFact value. For example, 64.7% of PolitiFact",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "considered egregious and PolitiFact believed they had some validity. For example, three examples in the top left corner of",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "’s Fact Checker casts a wider net on the statements to fact-check. This was especially the case for President Trump as they set out to do a comprehensive review of his statements over time. These differences are noticeable and appear to affect the data.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]). For example, during his final year as president and as the 2020 U.S. presidential election approached, President Trump’s lying rate increased dramatically compared to other years [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We learned that political fact-checking is difficult, and fact-checkers face nontrivial challenges as they try to evaluate the truth. In some cases, as our analysis involving Snopes and",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Rahmawan D, Hartanto R, Garnesia I. Multi case analysis on the development of fact-checking organizations in Indonesia. Jurnal Kajian Komunikasi. 2022;10: 14–28. doi: 10.24198/jkk.v10i1.38752",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -343,7 +553,7 @@
     "method": "http"
    },
    {
-    "url": "https://gigazine.net/news/20221220-twitter-community-notes-blind-spot/",
+    "url": "https://flagout.co.jp/ai-article-fact-check/",
     "status": "ok",
     "method": "http"
    },
@@ -358,19 +568,19 @@
     "method": "http"
    },
    {
-    "url": "https://coddy.tech/docs/ja/excel/compare-two-columns",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.cloudsign.jp/journal/excel-duplicate-check/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://fij.info/introduction/basic",
+    "url": "https://coddy.tech/docs/ja/excel/compare-two-columns",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://nana-document.com/excel-comparison/",
@@ -383,14 +593,14 @@
     "method": "pdf"
    },
    {
+    "url": "https://fij.info/introduction/basic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.ssi.or.jp/journal/pdf/Vol8No3_2.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2018.43.2.e25",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
@@ -398,9 +608,9 @@
     "method": "http"
    },
    {
-    "url": "https://spectee.co.jp/report/war_narrative_disinformation_ai_part1/",
+    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2018.43.2.e25",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
@@ -423,7 +633,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.psu.edu/news/information-sciences-and-technology/story/true-fact-checkers-tend-agree-validity-news-claims",
+    "url": "https://ssri.psu.edu/news/true-fact-checkers-tend-agree-validity-news-claims-researchers-say",
     "status": "ok",
     "method": "http"
    },
@@ -433,9 +643,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.poynter.org/fact-checking/2023/who-fact-checks-the-fact-checkers-research/",
+    "url": "https://arxiv.org/html/2411.05060v1",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    }
   ]
  },
@@ -449,13 +659,13 @@
     "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/tata_15/n/n11ebe7d5b8be",
     "https://note.com/tai_tek/n/nd5987e6074d8",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/352_shokando/n/n6e6b30daa953"
+    "https://note.com/tata_15/n/n11ebe7d5b8be",
+    "https://note.com/352_shokando/n/n6e6b30daa953",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -468,9 +678,9 @@
     "https://note.com/tag/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF",
     "https://www.netattest.com/fact-checking-2024_mkt_tst",
     "https://note.com/rami_engineer/n/nc1038887d1b3",
-    "https://gigazine.net/news/20221220-twitter-community-notes-blind-spot/",
     "https://flagout.co.jp/ai-article-fact-check/",
     "https://www.reddit.com/r/AI_Agents/comments/1remtwv/best_practices_for_fact_checking_output_and/?tl=ja",
+    "https://gigazine.net/news/20221220-twitter-community-notes-blind-spot/",
     "https://note.com/shiny_broom7788/n/n6975a56b36e5",
     "https://note.com/fact_check_1/n/nbdf0e49569c3"
    ],
@@ -486,16 +696,16 @@
     "https://www.youtube.com/watch?v=AS0cYUqa31I",
     "https://data-viz-lab.com/excel",
     "https://biz.moneyforward.com/accounting/basic/77802/",
-    "https://coddy.tech/docs/ja/excel/compare-two-columns",
     "https://www.cloudsign.jp/journal/excel-duplicate-check/",
-    "https://fij.info/introduction/basic",
-    "https://nana-document.com/excel-comparison/",
+    "https://coddy.tech/docs/ja/excel/compare-two-columns",
     "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
+    "https://nana-document.com/excel-comparison/",
+    "https://learn.microsoft.com/ja-jp/answers/questions/4782600/2-excel-sheet",
     "https://wwstd.jp/media/fact-check/",
-    "https://www.itscom.co.jp/forbiz/column/office-environment/17399/"
+    "https://dank.jp/blog/factcheck/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -506,13 +716,13 @@
     "https://www.soumu.go.jp/main_content/000948334.pdf",
     "https://fij.info/introduction/basic",
     "https://www.ssi.or.jp/journal/pdf/Vol8No3_2.pdf",
-    "https://rde.ac/DOIx.php?id=10.5395/rde.2018.43.2.e25",
     "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "https://www.youtube.com/watch?v=2kj5RZfY3Pk",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2018.43.2.e25",
     "https://argumentree.ai/ja/blog/fact-checking-with-multiple-ai-models/",
-    "https://spectee.co.jp/report/war_narrative_disinformation_ai_part1/",
     "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "https://www.factcheckcenter.jp/jfc-guidlines/"
+    "https://classroom-adventure.com/ja/schools/media-literacy",
+    "https://www.mext.go.jp/content/20231212-mxt_jogai02-000032039_005.pdf",
+    "https://www.jstage.jst.go.jp/article/ssiproceedings/2024/0/2024_95/_pdf/-char/ja"
    ],
    "engines": [
     "ddgs:google",
@@ -526,19 +736,19 @@
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "https://pubmed.ncbi.nlm.nih.gov/37490489/",
     "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
-    "https://www.psu.edu/news/information-sciences-and-technology/story/true-fact-checkers-tend-agree-validity-news-claims",
+    "https://ssri.psu.edu/news/true-fact-checkers-tend-agree-validity-news-claims-researchers-say",
     "https://pdfs.semanticscholar.org/0ce8/e536b63e2bba6ad231e3d8f579f815e9ea47.pdf",
+    "https://arxiv.org/html/2411.05060v1",
     "https://www.poynter.org/fact-checking/2023/who-fact-checks-the-fact-checkers-research/",
     "https://journals.sagepub.com/doi/full/10.1177/14648849251371952",
-    "https://www.tandfonline.com/doi/full/10.1080/1461670X.2021.1873818",
     "https://www.pnas.org/doi/10.1073/pnas.2104235118",
-    "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0289004&type=printable"
+    "https://factguard.org/blog/do-fact-checkers-disagree/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "site:note.com 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）",
@@ -549,8 +759,8 @@
     "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "https://note.com/tai_tek/n/nd5987e6074d8",
-    "https://note.com/352_shokando/n/n6e6b30daa953",
     "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/352_shokando/n/n6e6b30daa953",
     "https://note.com/ichi_twnovel/n/nc49098104ba2",
     "https://note.com/thinking2a/n/nc33f1f679aec"
    ],
@@ -566,8 +776,8 @@
     "https://x.com/HayakawaYukio/status/2096783790396096938",
     "https://x.com/tokyofactkyokai",
     "https://x.com/GooGaaGuuGeeGii/status/2104431300941951174",
-    "https://x.com/azabu_food/status/2099699685397332040",
     "https://x.com/fact_check_jp",
+    "https://x.com/azabu_food/status/2099699685397332040",
     "https://x.com/tokyo_factcheck",
     "https://x.com/slugger1002/status/2062096516324692253"
    ],
@@ -578,23 +788,33 @@
   },
   {
    "query": "site:linkedin.com 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/company/factcheckinitiativejapan",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7358846468096450561/",
+    "https://jp.linkedin.com/posts/daisuke-oda-25766941_チェックは通ったでも1本足りなかった-検証は作った意図と突き合わせて終わる-activity-7517021123612590080-aHln",
+    "https://jp.linkedin.com/posts/daisukefuruta_世界のファクトチェック団体の苦境と成長jfc記事動画や関連記事今週のファクトチェック-activity-7454001605835685888-2075",
+    "https://www.linkedin.com/posts/daisukefuruta_日本ファクトチェックセンターの設立から2年半の活動をまとめた報告書を作りましたぜひご-activity-7313015541676314624-DfZa",
+    "https://jp.linkedin.com/posts/daisukefuruta_ファクトチェックの世界大会で日本チームが優勝jfc検証5本など今週のファクトチェック-activity-7405727192762085376-uKuV",
+    "https://jp.linkedin.com/posts/daisukefuruta_総選挙ファクトチェックまとめ-偽誤情報は何がどう広がった-解説-activity-7259388339114422272-6Xew"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）",
    "results": [
     "https://www.facebook.com/japanfactcheckcenter/",
-    "https://www.facebook.com/FactCheckInitiativeJapan/",
     "https://www.facebook.com/groups/factcheck.community/",
+    "https://www.facebook.com/FactCheckInitiativeJapan/",
     "https://bs-ba.facebook.com/FactCheckInitiativeJapan/posts/協力事例fijが台湾のファクトチェック団体の調査に協力した案件のご紹介です誤りネット情報チャーター機で武漢から帰国した日本人が1人1台の救急車に乗車は事実かta/919912411843807/",
     "https://www.facebook.com/journalismXfund/posts/イベント参加報告ファクトチェックの仕組みと国内外の現状5月31日東京中央区の公共施設協働ステーション中央にて誤情報に惑わされない社会を構築する-真偽検証のプラッ/552217049630075/",
     "https://www.facebook.com/NHKonline/posts/ｂｓスペシャル-真実をめぐる攻防-アメリカ-ファクトチェックの最前線httpswwwwebnhktvanbsspplseries-tep-6nmmpmnk5ke/1426444802177726/",
     "https://www.facebook.com/ryukyushimpo/posts/動画で見る沖縄知事選ファクトチェック18の言説を検証-琉球新報ほか２紙連携分析沖縄県知事選/1738452091620792/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -603,17 +823,17 @@
    "results": [
     "https://transparency.meta.com/ja-jp/features/how-fact-checking-works/",
     "https://www.netattest.com/fact-checking-2024_mkt_tst",
-    "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
     "https://note.com/fact_check_1/n/n541df643cbef",
+    "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
     "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "https://note.com/tag/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF",
     "https://flagout.co.jp/ai-article-fact-check/",
     "https://prtimes.jp/main/html/rd/p/000000003.000190920.html",
-    "https://note.com/fact_check_1/n/nbdf0e49569c3",
-    "https://note.com/shiny_broom7788/n/n6975a56b36e5"
+    "https://note.com/shiny_broom7788/n/n6975a56b36e5",
+    "https://note.com/fact_check_1/n/nbdf0e49569c3"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -623,17 +843,17 @@
    "results": [
     "https://www.reuters.com/article/opinion/-idUSKCN1UC09H/",
     "https://transparency.meta.com/ja-jp/features/how-fact-checking-works/",
-    "https://www.factcheckcenter.jp/",
     "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd123400.html",
     "https://note.com/munou_ac/n/n8b618ca9a443",
     "https://www.pref.miyagi.jp/documents/64857/1-3-1urushida.pdf",
+    "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
+    "https://www.factcheckcenter.jp/jfc-factcheck-course-practice8/",
     "https://www.nikkei.com/article/DGXZQOCD0740Y0X00C25A2000000/",
     "https://www.asahi.com/articles/DA3S16234162.html",
-    "https://fij.info/archives/13377",
-    "https://www.jstage.jst.go.jp/article/ssiproceedings/2024/0/2024_95/_pdf/-char/ja"
+    "https://www.factcheckcenter.jp/jfc-guidlines/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -641,26 +861,245 @@
   {
    "query": "cross-checking fact-checkers selection agreement rating agreement study site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/enocknyariki",
     "https://uk.linkedin.com/in/kalina-bontcheva-940156",
-    "https://www.linkedin.com/pulse/overseeing-ai-generated-code-scott-thurlow-zkddc",
-    "https://www.linkedin.com/in/michelle-amazeen-49b39210",
+    "https://www.linkedin.com/in/enocknyariki",
     "https://www.linkedin.com/in/fmenczer",
-    "https://www.linkedin.com/in/msavener",
+    "https://uk.linkedin.com/in/dianamaynard",
+    "https://www.linkedin.com/top-content/education/reading-and-learning-skills/how-to-conduct-a-literature-review/",
+    "https://www.linkedin.com/pulse/overseeing-ai-generated-code-scott-thurlow-zkddc",
     "https://www.linkedin.com/in/james-caverlee-7b548770",
+    "https://sg.linkedin.com/in/edson-tandoc-86b89261",
     "https://www.linkedin.com/in/conrad-borchers-9a8786169/en",
-    "https://hr.linkedin.com/in/mato-brautovic-92b1b91a",
-    "https://cm.linkedin.com/in/enoh-tanjong-b9987166"
+    "https://hr.linkedin.com/in/mato-brautovic-92b1b91a"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 5,
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "examines 10 datasets to identify some of these weaknesses and strengths. However, a broad approach is used to outline biases, which fails to detail the specifics of each dataset, leaving researchers uncertain about their individual quality. Another example,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "expands the analysis of the spurious correlations issue to those induced by event-based collection, dataset merges, and labeling bias, using the Twitter15, Twitter16, and PHEME datasets. However, in both of these studies, the limited number of datasets analyzed fails to provide a comprehensive view of the diverse landscape of available datasets in this field. Similarly,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". As a result, experts must selectively choose the information they evaluate, which leads to many pieces of information going unchecked and potential biases in the selection of news and information that is evaluated",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Verite: a robust benchmark for multimodal misinformation detection accounting for unimodal bias.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Finally, we note that statements that are not explicitly related to politics tend to be more true on average (57.51% vs. 48.28%). This suggests a potential bias on models trained with these data, where political statements may be assumed to be more likely false.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": ". Extensive research has been devoted to this problem, yet it remains unresolved. There has been considerable recent progress in methods, especially leveraging LLMs",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". There are many surveys of the method landscape",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "provided an early framework, defining fake news, detailing its characteristics, and summarizing detection techniques from a data mining perspective. Subsequent surveys, such as",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", have explored alternative methodologies, focusing respectively on natural language processing (NLP) methods and interdisciplinary perspectives. However, while these surveys and others",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "highlight the limitations of 20 articles using publicly available datasets. While this approach provides a good overview of literature trends, a grey area remains regarding whether the errors in these 20 articles stem primarily from methodology or dataset issues. We also find the work of",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(T) indicates the method used to establish true claims",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(F) indicates the method used to determine false claims",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". The strength of this approach lies in its rigorous review process, ensuring each piece of information is thoroughly evaluated, which leads to consistent reviews across fact-checkers. However, this method is not scalable and is costly",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Additionally, this method has been shown to be effective in reducing the spread of misinformation and to produce veracity ratings similar to those of professional fact-checkers",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Finally, algorithmic methods can also be used to evaluate the veracity of content using NLP or other ML techniques",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", or just generically poor performance (e.g., even state-of-the-art methods often have below 70% accuracy compared to human labels",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Thus, we provide two baselines for future use. We follow the recent method of",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "As an initial step towards higher-fidelity evaluation, we constructed an evaluator based on contradictions between the explanation generated by a predictive system, and a fact-checking article. In particular, we provide GPT-4-0409 both",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Empirical Methods in Natural Language Processing 2023",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "This gap has thus spurred the emergence of additional surveys dedicated to addressing these dataset-centric nuances, which can be categorized into two types. The first one focuses on categorizing existing datasets to guide the research community in their selection. For example,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "surveyed 27 datasets based on eleven characteristics (e.g., application purpose, type of disinformation, language, size, news content type, etc.) and compared these quantitatively. Another example,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "summarized the characteristic features of 23 existing datasets, providing a clearer picture of those available to the public. However, these surveys have an important drawback; they often lack in-depth analysis. In fact, only descriptive characteristics are listed, thus neglecting key characteristics of their quality and effectiveness for future research. This is also the case for",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "examines 10 datasets to identify some of these weaknesses and strengths. However, a broad approach is used to outline biases, which fails to detail the specifics of each dataset, leaving researchers uncertain about their individual quality. Another example,",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We particularly flag four datasets for spurious correlations between certain words and labels: IFND, MM-COVID, Twitter16, and TruthSeeker2023. For example, consider the latest, Truthseeker2023. Nearly all tweets here mentioning politicians are labeled as “false”, with only those containing “Trump” showing more variation (see also Appendix",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We also observe that there is a large amount of ambiguity and room for interpretation in the examples that are being marked wrong by categorical label in these three datasets.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". We chose a score-based approach to avoid forcing a potentially misleading binary in cases where there is a partial contradiction. With this approach, good predictions should have low contradiction against a high quality, professional fact-checking article. We also tested binary and trinary versions of this prompt, described in the Appendix, which yielded nearly identical results.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We also note that our unified label schema simplifies some labels that might have meaningful information, for example, gradations of veracity instead of binary true/false. Some granularity has been traded for the ability to establish a unified schema across all the claims datasets. When using these datasets, we advise careful consideration of the optimal labels to apply.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The role of the crowd in countering misinformation: A case study of the covid-19 infodemic.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ") and the dataset also contains other labels covering, for example, its harmfulness, its interest for the general public and its need to be fact-checked by experts.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", we show some examples of keywords that could lead to bad classifications. The number under the keywords is the number of times the word appears in claims based on its labels of veracity. We can thus see that there is an absence of true statements referring to Harris or Biden, but many that refer to Trump in the Truthseeker2023 dataset.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The two annotators also manually labeled 100 examples that were originally marked correct. They agreed 76 were not wrong, 2 were uncertain, and 1 was wrong. There were only 5 additional examples that were marked wrong by one but not both annotators.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Again, the annotators labeled examples that the categorical labels marked incorrect. These were from the GPT-4 (with web search) version of the baseline system. There were only 70 of these total, so the annotators labeled all 70. They had 44% agreement, and agreed that 39 examples were not wrong while agreeing only a mere 3 were wrong. An additional 25 were marked not wrong by one annotator.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Then the annotators labeled 100 examples that were correct according to the categorical labels. They agreed that 89 examples were not wrong, and there were 0 that they agreed were wrong. There were another 5 examples that were marked wrong by one but not both annotators.",
+    "url": "https://arxiv.org/html/2411.05060v1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 6,
  "first_researched_at": "2026-11-07T13:58:12.901656+00:00"
 }

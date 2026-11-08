@@ -8,23 +8,63 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-08T15:30:00.274378+00:00",
+ "researched_at": "2026-11-08T23:04:59.624171+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
+    "url": "https://contents.nii.ac.jp/catill/manuals/ill/mannual/law",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mimasaka.jp/library/news/119-131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nul.nagoya-u.ac.jp/inq/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.library.tohoku.ac.jp/tohokuchiku/fresh_manual03.1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dokkyo.ac.jp/library/guidance/use_require/sougo-riyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ul.hirosaki-u.ac.jp/about/regulations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "http://www.yamanouchi-yri.com/yrihp/techwrt-2-3s/t-2-3s05f.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://daigakusei.spring-online.jp/column/37/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13254010008",
     "status": "ok",
     "method": "http"
    },
@@ -34,29 +74,24 @@
     "method": "http"
    },
    {
-    "url": "https://tyosakuken.com/citation-complete-guide/",
+    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13254010008",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jaspul.org/pre/e-kenkyu/early_p_book/abc-for-earlybooks/contents2/identification.html",
+    "url": "https://daigakusei.spring-online.jp/column/37/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/jjsme/105/2/105_17/_pdf/-char/en",
+    "url": "https://svyelun.com/first-edition-printing-explained/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.sme.or.jp/wp-content/uploads/2021/11/jsme_reference_style_20211031.pdf",
+    "url": "https://www.kwire.co.jp/blog/faq/a65",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.sme.or.jp/wp-content/uploads/2025/06/jsme_reference_style.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.chuo-u.ac.jp/uploads/2019/04/library_search_find_doc_guide_guide_17.pdf",
@@ -64,22 +99,32 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.soubun.com/journal/%E5%AD%A6%E8%A1%93%E8%AA%8C%E3%82%84%E5%AD%A6%E4%BC%9A%E8%AA%8C%E3%81%AE%E3%80%8C%E5%BC%95%E7%94%A8%E3%80%8D%E3%80%8C%E8%BB%A2%E8%BC%89%E3%80%8D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%A8%E6%84%8F/",
+    "url": "https://www.ipa.go.jp/publish/faq.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://daigakukan-renkei.jp/lab/paper-citation-guide",
+    "url": "https://jp.indeed.com/career-advice/career-development/how-to-write-source-example-sentences-a-simple",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://manuelgarcia.info/guides/research/guide/preprint-published-version-double-counting",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://casrai.org/guides/preprint-prior-publication-conflict",
+    "url": "https://guides.augusta.edu/APA/InformallyPublishedArticles",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://casrai.org/guides/preprint-version-numbering-citation-tracking",
+    "url": "https://guides.lib.unc.edu/evidence-synthesis/citations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libraries.apu.edu/deduplicate",
     "status": "ok",
     "method": "http"
    },
@@ -89,17 +134,7 @@
     "method": "http"
    },
    {
-    "url": "https://apastyle.apa.org/style-grammar-guidelines/references/examples/preprint-article-references",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arxiv.org/pdf/2609.17696v1",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://editfast.com/faq/journals/preprints-and-versions/",
+    "url": "https://guides.lib.byu.edu/c.php?g=1534497&p=11501186",
     "status": "ok",
     "method": "http"
    }
@@ -108,26 +143,128 @@
  "search_log": [
   {
    "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://contents.nii.ac.jp/catill/manuals/ill/mannual/law",
+    "https://mimasaka.jp/library/news/119-131",
+    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
+    "https://www.nul.nagoya-u.ac.jp/inq/faq/",
+    "https://www.library.tohoku.ac.jp/tohokuchiku/fresh_manual03.1.pdf",
+    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/",
+    "https://ul.hirosaki-u.ac.jp/about/regulations/",
+    "https://note.com/sasamin88371007/n/nf2fcaa434944"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://contents.nii.ac.jp/catill/manuals/ill/mannual/law",
+    "https://mimasaka.jp/library/news/119-131",
+    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
+    "https://www.nul.nagoya-u.ac.jp/inq/faq/",
+    "https://www.library.tohoku.ac.jp/tohokuchiku/fresh_manual03.1.pdf",
+    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/",
+    "https://www.dokkyo.ac.jp/library/guidance/use_require/sougo-riyou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き やり方",
    "results": [
-    "http://www.yamanouchi-yri.com/yrihp/techwrt-2-3s/t-2-3s05f.htm",
-    "https://daigakusei.spring-online.jp/column/37/",
-    "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13254010008",
-    "https://reiwasyuppan.jp/edition-labels-pod/",
-    "https://tyosakuken.com/citation-complete-guide/",
-    "https://www.jaspul.org/pre/e-kenkyu/early_p_book/abc-for-earlybooks/contents2/identification.html",
-    "https://jp.indeed.com/career-advice/career-development/how-to-write-source-example-sentences-a-simple"
+    "https://contents.nii.ac.jp/catill/manuals/ill/mannual/law",
+    "https://mimasaka.jp/library/news/119-131",
+    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
+    "https://www.nul.nagoya-u.ac.jp/inq/faq/",
+    "https://www.library.tohoku.ac.jp/tohokuchiku/fresh_manual03.1.pdf",
+    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/",
+    "https://ul.hirosaki-u.ac.jp/about/regulations/",
+    "http://www.yamanouchi-yri.com/yrihp/techwrt-2-3s/t-2-3s05f.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き 事例",
+   "results": [
+    "https://contents.nii.ac.jp/catill/manuals/ill/mannual/law",
+    "https://mimasaka.jp/library/news/119-131",
+    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
+    "https://www.nul.nagoya-u.ac.jp/inq/faq/",
+    "https://www.library.tohoku.ac.jp/tohokuchiku/fresh_manual03.1.pdf",
+    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/",
+    "https://www.dokkyo.ac.jp/library/guidance/use_require/sougo-riyou.html",
+    "https://daigakusei.spring-online.jp/column/37/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "document version deduplication preprint published version citation independence library guide",
+   "results": [
+    "https://manuelgarcia.info/guides/research/guide/preprint-published-version-double-counting",
+    "https://guides.augusta.edu/APA/InformallyPublishedArticles",
+    "https://guides.lib.unc.edu/evidence-synthesis/citations",
+    "https://libraries.apu.edu/deduplicate",
+    "https://scispace.com/resources/mind-the-updates-converting-preprint-citations-when-papers-get-published/",
+    "https://guides.lib.byu.edu/c.php?g=1534497&p=11501186",
+    "https://guides.lib.utexas.edu/systematicreviews/deduplication",
+    "https://guides.library.duke.edu/c.php?g=633433&p=4429292",
+    "https://uvu.libguides.com/systematic-review/deduplication",
+    "https://casrai.org/guides/preprint-prior-publication-conflict"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
+   "results": [
+    "https://note.com/shin_yoshimura/n/nfde1abb74fe9",
+    "https://note.com/sasamin88371007/n/nf2fcaa434944",
+    "https://note.com/moritomokyan/n/n194bac433163",
+    "https://note.com/snake_dragon/n/n0a0634d79b9e",
+    "https://note.com/manual_meister/n/n07666e532168",
+    "https://note.com/fukuidharu/n/nca0390441108",
+    "https://note.com/akachan_dn/n/ndc1c9714c189"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
+   "results": [
+    "https://x.com/SuguruKun_ai/status/2081243132923179021",
+    "https://x.com/Cristoforou/status/2108004013761552558",
+    "https://help.x.com/ja/rules-and-policies/copyright-policy",
+    "https://x.com/kamonnanami/status/2109541760146002081",
+    "https://x.com/kensumi_ai/status/2101364465468121424",
+    "https://x.com/signbonbon/status/2102242835932258478",
+    "https://x.com/sevenedges/status/2110970292579496225"
    ],
    "engines": [
     "ddgs:bing"
@@ -135,71 +272,31 @@
    "n_hits": 7
   },
   {
-   "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き 事例",
+   "query": "site:linkedin.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
    "results": [
-    "http://www.yamanouchi-yri.com/yrihp/techwrt-2-3s/t-2-3s05f.htm",
-    "https://daigakusei.spring-online.jp/column/37/",
-    "https://www.jstage.jst.go.jp/article/jjsme/105/2/105_17/_pdf/-char/en",
-    "https://reiwasyuppan.jp/edition-labels-pod/",
-    "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13254010008",
-    "https://www.jaspul.org/pre/e-kenkyu/early_p_book/abc-for-earlybooks/contents2/identification.html",
-    "https://www.sme.or.jp/wp-content/uploads/2021/11/jsme_reference_style_20211031.pdf",
-    "https://www.sme.or.jp/wp-content/uploads/2025/06/jsme_reference_style.pdf",
-    "https://www.chuo-u.ac.jp/uploads/2019/04/library_search_find_doc_guide_guide_17.pdf",
-    "https://www.soubun.com/journal/学術誌や学会誌の「引用」「転載」に関する注意/"
+    "https://jp.linkedin.com/",
+    "https://www.linkedin.com/company/invisible-technologies-inc-",
+    "https://jp.linkedin.com/learning/google-sheets-essential-traning/5018644",
+    "https://www.linkedin.com/posts/利明-和泉-331756322_同じ物件情報を扱っていても相談したい相手は分かれる差がつくのは情報の量ではなく-activity-7507831166876483584-YF7I",
+    "https://jp.linkedin.com/pulse/リリースのページビュー訪問者数転載サイト数が過去最高になった裏でpr未経験者がやったこと-優希-加賀谷",
+    "https://jp.linkedin.com/pulse/notebooklmにアップロードした資料の内容を確認する-憲孝-田村-6nvxc",
+    "https://jp.linkedin.com/posts/teradanaofumi_aiで自動化する前にその仕事自体を消した方がいい-最近かなりそう思っています-activity-7498180479892791296-YyXj"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:yahoo"
    ],
-   "n_hits": 11
+   "n_hits": 7
   },
   {
-   "query": "document version deduplication preprint published version citation independence library guide",
+   "query": "site:facebook.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
    "results": [
-    "https://casrai.org/guides/preprint-prior-publication-conflict",
-    "https://casrai.org/guides/preprint-version-numbering-citation-tracking",
-    "https://scispace.com/guides/mind-the-updates-converting-preprint-citations-when-papers-get-published",
-    "https://apastyle.apa.org/style-grammar-guidelines/references/examples/preprint-article-references",
-    "https://arxiv.org/pdf/2609.17696v1",
-    "https://editfast.com/faq/journals/preprints-and-versions/",
-    "https://communities.springernature.com/posts/citing-a-preprint-a-guide-researchers",
-    "https://ucsd.libguides.com/acs/preprints"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "site:note.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
-   "results": [
-    "https://note.com/moritomokyan/n/n194bac433163",
-    "https://note.com/shin_yoshimura/n/nfde1abb74fe9",
-    "https://note.com/sasamin88371007/n/nf2fcaa434944",
-    "https://note.com/manual_meister/n/n07666e532168",
-    "https://note.com/snake_dragon/n/n0a0634d79b9e",
-    "https://note.com/fukuidharu/n/nca0390441108",
-    "https://note.com/akachan_dn/n/ndc1c9714c189",
-    "https://note.com/lithe_macaw336/n/nb1551ee73c2a"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "site:x.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
-   "results": [
-    "https://x.com/Sokichi_Hoshino/article/2070310116839297091",
-    "https://x.com/SuguruKun_ai/status/2081243132923179021",
-    "https://x.com/Cristoforou/status/2108004013761552558",
-    "https://x.com/kamonnanami/status/2109541760146002081",
-    "https://x.com/AI_Illust_000/status/1744316320496452043",
-    "https://x.com/kensumi_ai/status/2101364465468121424",
-    "https://x.com/Nonamed_A/status/2083109830752190855"
+    "https://www.facebook.com/kenji.shibata.54/photos/前作の制作時と同じ資料写真をベースに作業しておりますがそのまま同じように描くのもつまらないので微妙に仕様を変えて/24837631269246183/",
+    "https://www.facebook.com/adachi.hanga/posts/浮世絵の初版しょはんと後版あとはんとは-アダチの初版へのこだわり-先日ご紹介した広重の猿若町夜の景この作品の満月にかかるあてなしぼかしで摺られた一筋の黒い雲は初/1709043655914249/",
+    "https://www.facebook.com/igcc.jp/posts/研究員からのレポート初版とか二版とか-こんにちはキバンゲリオンです今回は基板のお話しをします初版とか二版とか最初に言い出したのは誰なのかしら-駆け抜けてゆく消費/331961793906514/",
+    "https://www.facebook.com/mituaki.matoba/posts/私と同じ資料を読んでここまで簡潔にしかも要点をはずさずまとめてくれたmasato-jin-さんに感謝/28259333363729419/",
+    "https://www.facebook.com/elsevierjapan/posts/エルゼビアジャパンで出版している書籍オンライン商品などで使用している図版などの転載をご希望の方は以下のサイトにアクセスしてフォームにご記入をお願いいたしますht/2062316100452256/",
+    "https://www.facebook.com/keiohistory/posts/学問のすゝめ初編初版本は激レア本こちらの学問のすゝめは明治5年今から150年前に印刷された最初の版ですわずか20ページあまりでまだ珍しい金属活字を用いており日本/463442642440388/",
+    "https://www.facebook.com/concrew.jp/videos/建設業の名前のない現象図鑑-no26今回の現象は資料の二重管理現象同じ資料を複数の場所で管理してしまいどれが本物なのか分からなくなる現象です社内サーバークラウド/2268614480619084/"
    ],
    "engines": [
     "ddgs:google"
@@ -207,80 +304,70 @@
    "n_hits": 7
   },
   {
-   "query": "site:linkedin.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
+   "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き note 社長",
    "results": [
-    "https://jp.linkedin.com/",
-    "https://www.linkedin.com/help/linkedin/answer/a6282984",
-    "https://jp.linkedin.com/learning/google-sheets-essential-traning/5018644",
-    "https://www.linkedin.com/posts/利明-和泉-331756322_同じ物件情報を扱っていても相談したい相手は分かれる差がつくのは情報の量ではなく-activity-7507831166876483584-YF7I",
-    "https://jp.linkedin.com/posts/teradanaofumi_aiで自動化する前にその仕事自体を消した方がいい-最近かなりそう思っています-activity-7498180479892791296-YyXj",
-    "https://jp.linkedin.com/pulse/丁寧に整理する人ほど伝わらない-並べることは構造化ではない-hiroaki-mori-81mkc",
-    "https://jp.linkedin.com/learning/solidworks-2021-essential-training-assemblies-and-sketches/3032099",
-    "https://www.linkedin.com/company/invisible-technologies-inc-",
-    "https://jp.linkedin.com/pulse/リリースのページビュー訪問者数転載サイト数が過去最高になった裏でpr未経験者がやったこと-優希-加賀谷",
-    "https://jp.linkedin.com/pulse/notebooklmにアップロードした資料の内容を確認する-憲孝-田村-6nvxc"
+    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
+    "https://contents.nii.ac.jp/catill/manuals/ill/mannual/law",
+    "https://mimasaka.jp/library/news/119-131",
+    "https://www.nul.nagoya-u.ac.jp/tokai/kensyu/kiso/2011/ILL_2011.pdf",
+    "https://www.library.tohoku.ac.jp/tohokuchiku/fresh_manual03.1.pdf",
+    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "https://www.dokkyo.ac.jp/library/guidance/use_require/sougo-riyou.html",
+    "https://jmla1927.org/doc/ill/ill_manual.pdf",
+    "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 10
-  },
-  {
-   "query": "site:facebook.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
-   "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "n_hits": 9
   },
   {
    "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き X 投稿",
    "results": [
-    "https://daigakusei.spring-online.jp/column/37/",
-    "https://www.jstage.jst.go.jp/article/jjsme/105/2/105_17/_pdf/-char/en",
-    "https://www.sme.or.jp/wp-content/uploads/2025/06/jsme_reference_style.pdf",
-    "http://www.yamanouchi-yri.com/yrihp/techwrt-2-3s/t-2-3s05f.htm",
-    "https://www.sme.or.jp/wp-content/uploads/2021/11/jsme_reference_style_20211031.pdf",
-    "https://www.soubun.com/journal/学術誌や学会誌の「引用」「転載」に関する注意/",
-    "https://www.chuo-u.ac.jp/uploads/2019/04/library_search_find_doc_guide_guide_17.pdf"
+    "https://contents.nii.ac.jp/catill/manuals/ill/mannual/law",
+    "https://mimasaka.jp/library/news/119-131",
+    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
+    "https://www.library.tohoku.ac.jp/tohokuchiku/fresh_manual03.1.pdf",
+    "https://www.nul.nagoya-u.ac.jp/tokai/kensyu/kiso/2011/ILL_2011.pdf",
+    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/",
+    "https://ul.hirosaki-u.ac.jp/about/regulations/"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "document version deduplication preprint published version citation independence library guide site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/why-deduplication-matters-literature-processing-drugvigil-zvlbc",
-    "https://pe.linkedin.com/posts/manish-kumar-20b5a710_clarivate-adds-preprint-citation-index-to-activity-7113369701153443840-j4oQ",
-    "https://www.linkedin.com/pulse/can-we-should-cite-preprint-preprints-1tuvc",
-    "https://www.linkedin.com/pulse/what-deduplication-its-role-ediscovery-find-out-goldfynch-goldfynch-cazbc",
-    "https://www.linkedin.com/advice/1/how-can-machine-learning-identify-duplicate-records-gzuzf",
-    "https://www.linkedin.com/pulse/how-properly-disclose-preprint-information-during-journal-submission-moqec",
-    "https://www.linkedin.com/pulse/understanding-different-types-duplicates-ediscovery-how-handle-fpnof",
-    "https://ch.linkedin.com/showcase/scilit/"
+    "https://www.linkedin.com/company/sagepublishing",
+    "https://www.linkedin.com/company/independence-point-advisors",
+    "https://www.linkedin.com/company/vital-strategies",
+    "https://ci.linkedin.com/in/rabah-arezki-40b14a66",
+    "https://www.linkedin.com/in/sairam-sundaresan",
+    "https://uk.linkedin.com/company/office-of-health-economics",
+    "https://www.linkedin.com/company/guide-labs",
+    "https://be.linkedin.com/in/giovannicircella",
+    "https://uk.linkedin.com/in/niektax",
+    "https://www.linkedin.com/in/aprilrinne"
    ],
    "engines": [
     "ddgs:google",
-    "ddgs:yahoo"
+    "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ18頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ18頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ18頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ18頁・検索12回）",
-  "実例": "記載なし（読んだ18頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ25頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ25頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ25頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ25頁・検索12回）",
+  "実例": "記載なし（読んだ25頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-06T13:56:44.264451+00:00"
 }
