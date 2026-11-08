@@ -8,8 +8,70 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T10:53:30.454406+00:00",
+ "researched_at": "2026-11-08T19:02:30.280353+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "たとえば、「株式会社」と「(株)」のような表記間違いや入力ミスを防ぐためには、",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重複データを生み出す原因となるため注意が必要",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、顧客数の過大評価やセグメンテーションの誤りが発生する可能性があります",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、次のようなケースにおいて違いが生じやすいので注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データクレンジングのプロセスでは、項目ごとに表記ルールを統一させて、誤りのあるデータがあれば正しい表記に修正します",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "操作ミスによりファイルの破損・紛失などが発生するリスクもあり、取り扱いには注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せを実施する際は、個人情報の取り扱いに細心の注意を払わなければなりません",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せに失敗し、統合すべき情報が統合されなかった場合には、個人情報の漏えいなど大きなトラブルに発展するリスクがあるからです",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報の入力時だけでなく、データクレンジングやマッチングの各段階において誤りがないことを確認する",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "実例": [
    {
     "quote": "行政においては、同一人に対する情報が複数存在した結果、データを正しく判別できず適切な対応ができない、といった事例がありました",
@@ -103,6 +165,32 @@
    },
    {
     "quote": "法人番号・ドメインなどの確定キーがなく、正規化後の法人名だけで判定しなければならないケースがあります",
+    "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "営業部門とマーケティング部門で別々のデータベースを使用する場合、顧客対応に食い違いが生じる可能性があります",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この場合、既存の顧客データをあらかじめ用意した標準化された顧客名リストと照合し、一致度を測定します",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "明らかな入力ミスや論理的に矛盾するデータを特定し、修正します",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "── LLMに「業種カテゴリ」「推定規模」を推定させます",
     "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -223,94 +311,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "営業部門とマーケティング部門で別々のデータベースを使用する場合、顧客対応に食い違いが生じる可能性があります",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この場合、既存の顧客データをあらかじめ用意した標準化された顧客名リストと照合し、一致度を測定します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "明らかな入力ミスや論理的に矛盾するデータを特定し、修正します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "── LLMに「業種カテゴリ」「推定規模」を推定させます",
-    "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "たとえば、「株式会社」と「(株)」のような表記間違いや入力ミスを防ぐためには、",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "重複データを生み出す原因となるため注意が必要",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、顧客数の過大評価やセグメンテーションの誤りが発生する可能性があります",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、次のようなケースにおいて違いが生じやすいので注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データクレンジングのプロセスでは、項目ごとに表記ルールを統一させて、誤りのあるデータがあれば正しい表記に修正します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "操作ミスによりファイルの破損・紛失などが発生するリスクもあり、取り扱いには注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せを実施する際は、個人情報の取り扱いに細心の注意を払わなければなりません",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せに失敗し、統合すべき情報が統合されなかった場合には、個人情報の漏えいなど大きなトラブルに発展するリスクがあるからです",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "情報の入力時だけでなく、データクレンジングやマッチングの各段階において誤りがないことを確認する",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -391,7 +391,7 @@
     "https://note.com/sakaimisato/n/nf27719c00e5e"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -425,15 +425,25 @@
     "https://www.dataiku.com/blog/accelerating-entity-resolution"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:note.com 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/egao_it/n/ndfe59f03492f",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/tanakaminoru_/n/n7b5a04d7b858",
+    "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "https://note.com/ai_scout_jp/n/n91cff96707e1",
+    "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "https://note.com/moridaisukepub/n/nbdb21894e731"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）",
@@ -446,9 +456,9 @@
    "results": [
     "https://jp.linkedin.com/pulse/inconsistencies-ai-chris-bare-soflc?tl=ja",
     "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
+    "https://jp.linkedin.com/pulse/mastering-logic-ai-converting-natural-language-elvin-baghele-hgitc?tl=ja",
     "https://jp.linkedin.com/posts/manjumoto-daishi-a63256219_aiに長文を任せると矛盾だらけになる全体像から組み立てる構成術-aiに長文-activity-7434727256406650880-cUvv",
     "https://jp.linkedin.com/pulse/ai-contradictions-wild-when-language-models-say-yes-singh-xfydf?tl=ja",
-    "https://jp.linkedin.com/pulse/mastering-logic-ai-converting-natural-language-elvin-baghele-hgitc?tl=ja",
     "https://jp.linkedin.com/pulse/when-ai-gets-mixed-signals-what-happens-prompts-conflict-deweese-vsuoe?tl=ja",
     "https://jp.linkedin.com/learning/ai-essential-training-logical-thinking/4257043"
    ],
@@ -469,7 +479,7 @@
     "https://www.facebook.com/100007770257072/videos/748255204490755/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -506,6 +516,6 @@
   "一次情報の探し方": "記載なし（読んだ12頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T15:58:40.692820+00:00"
 }

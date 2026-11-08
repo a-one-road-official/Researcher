@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・254品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・256品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -7504,6 +7504,7 @@
   - 「【オンライン商談の進め方】ツール比較から資料作成のコツまでを徹底解説！」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「Grok（グロック）の使い方を徹底解説！ChatGPTとの違いや料金プラン、活用事例まで網羅」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「マーケティング戦略のコンセプトは「コンテンツとコードへの集中投資」小さなチームが勝てる方法を徹底して実践する」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「BtoBでメールマーケティングを成功させるコツ！目的別に最適な配信コンテンツも紹介」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「歯科ホームページでの差別化方法とは？制作事例からポイントを解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「X（旧Twitter）の企業アカウント運用のコツ！導入フローや成功事例も紹介」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「Felo（フェロー）とは？日本発AI検索エンジンの使い方や料金、Perplexityとの違いを徹底解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7515,7 +7516,6 @@
   - 「【ウェビナー採録】オウンドメディア構築とコンテンツ企画で成果を出す方法」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「AI時代に「選ばれる」ホワイトペーパーの条件とは？BtoBマーケティングの勝機は“提案型×二刀流”にあり！｜FUNGRY Planner’s FILE #01」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「集客とマーケティングは違う？成果を出す戦略と目的ごとに有効な集客方法を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
 - 突き合わせ・推定：
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -11622,11 +11622,60 @@
 
 ## 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）（labor productivity SME comparison denominator hours value added definition Japan RIETI）
 - 文脈：手法
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「We begin with a brief review of the industry-of-origin method, which」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「study are based on the industry-of-origin method, which involves com-」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「an extensive discussion of the alternative methods and procedures and an overview of」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「This method is fundamentally different from the specification pricing」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「ing, a method was required to fill the holes for the 75 to 80 percent of」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「structure differs greatly between countries. Our method in using output」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「use of multilateralization methods for our ICOP comparisons.」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「single indicator" method and, in general, can be accepted as sufficiently」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「parisons should be made within the framework of an input-output table that shows all」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「on the basis of the perpetual inventory method by cumulating annual」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「Sources and method: See data appendix. Capital stock estimates are based on the perpetual inventory method, using」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「The level accounting method applied in this section needs to be」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「be assessed more carefully than was possible in the framework of this」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「Following are the sources and methods the authors used in their」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「on the basis of the perpetual inventory method (PIM), as pioneered by」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+- 突き合わせ・推定：
+  - 「since 1950.1 The productivity level estimates are based on the industry-」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「technological areas during the past decade. Nevertheless, recent estimates」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「were derived from the ICP estimates.」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「based on sectoral estimates. See Mulder and Maddison (1993) for a detailed account of」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「bis 1988, Wiesbaden). It should be emphasized that our estimates for Germany are based」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「many, and 2,161 in Japan. These estimates refer to "actual hours,"」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「Source: See table I and tables A-3 and A-4. All estimates are based on the geometric average of the UVRs at own country」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「uted part of the estimated gain of U.S. manufacturing output compared」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「benchmark estimates of relative productivity levels for 1987 to obtain」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「Source: See table 4 for manufacturing estimates. For total economy, GDP (in national currencies) and employment 1960」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「our manufacturing estimates, the total economy figures are converted to U.S. dollars with Fisher PPPs for 1985 (provided」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「Estimates of labor productivity can be referred to as "single factor」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「parative measures of per capita income. Sectoral estimates of labor」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「comparability of the official estimates for the various countries is very」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「weak. We then converted these capital stock estimates into U. S. dollars,」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+- 一次情報の探し方：
+  - 「primary source. For manufacturing the best source is the national census」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+- 失敗・落とし穴：
+  - 「to considerable biases. First, expenditure-based PPPs include prices of」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「high distribution margins in Japan and therefore to a substantial bias in」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「systematic bias in our UVRs across industries. 1 In branches that in-」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+- 実例：
+  - 「tivity levels have a vast array of applications in, for example, the study」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「2. See, for example, Abramovitz (1986); Baumol (1986); and De Long (1988).」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「Comparisons Project (ICP) since 1967 (for example, Kravis, Heston, and Summers,」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「6. See, for example, Rostas (1948) on a comparison of manufacturing output and」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「erlands, Spain, the United Kingdom, and the United States. See, for example, Maddison」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「to both demand and supply. For example, the price of factor inputs may」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「example, the inefficient Japanese distribution system leads to relatively」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「the production censuses often differed. For example, the production of」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「the other country. In some cases, expert information from industry」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「other (for example, supertankers in Japan and space aircraft in the」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「tries (for example, textiles, paper and wood products, nonmetallic min-」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「15. McKinsey Global Institute (1993). For example, in the comparison between」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「In some cases, the percentage of total sales covered within the in-」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「17. For example, in contrast to the Paasche and Laspeyres indexes, the Fisher index」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「intermediate inputs were available (which is rarely the case), double de-」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
 
 ## 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）（analysis of competing hypotheses team workflow iterate add hypotheses OSINT report most likely）
 - 文脈：手法
@@ -11645,24 +11694,27 @@
   - 「The OSINT Vault emphasizes a workflow-first approach. Tools are not the work; they support it. Every investigation begins with a defined question, a set of hypotheses, and a plan for validating or disproving those hypotheses. The steps in this handbook align with the workflow tooling on the platform, including the」（https://theosintvault.io/osint-handbook）
   - 「Throughout this handbook, "identifier" refers to any handle, email, phone number, domain, or image that can be used as a pivot. "Pivot" refers to any new lead derived from that identifier. "Validation" means cross-referencing multiple independent sources to confirm a relationship. These terms are not optional; they define how to avoid false attribution.」（https://theosintvault.io/osint-handbook）
   - 「Precision search is the next step. Instead of ad-hoc queries, analysts create repeatable search strings that can be run later for verification. The」（https://theosintvault.io/osint-handbook）
-  - 「加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「ログ解析、マルウェア痕跡の検出、IOC抽出、KAPEとの連携など、中級〜上級者向けに実務で役立つRegex活用方法を紹介します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 突き合わせ・推定：
+  - 「また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法についても紹介します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「認知バイアスを取り除くための手法：競合仮説分析」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「自分の仮説に合致する情報だけを集めてしまうバイアスのこと」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「本節では、競合仮説分析の概要とその手法について説明します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「競合仮説分析は諜報機関で使われていた手法であり、アメリカ国防総省の情報機関CIAの情報分析官リチャーズ・J・ホイヤーによって広く啓蒙されました」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「単一の結論に急いで飛びつくのではなくあらゆる可能性を慎重に検討することで、認知バイアスを除去し特定の仮説へ偏った結論に至るリスクを軽減します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「分析官は自身の直感や先入観に頼るのではなく、証拠に基づいて各仮説を公平に評価することが求められます」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
   - 「【イギリスの元スパイが説く】すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」とは？ | イギリス諜報機関の元スパイが教える 最強の知的武装術――残酷な時代を乗り切る10のレッスン | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/290369）
   - 「説明を検証し、仮説を選択する」（https://diamond.jp/articles/-/290369）
   - 「アメリカとイギリスの刑事司法制度は、当事者対抗手続きにおいて検察側と弁護側、それぞれが示す事実に関する別の説明がないかを法廷で検証する」（https://diamond.jp/articles/-/290369）
   - 「仮説が正しいと認められるには、そうしたすべての仮定を満たさなければならないからだ」（https://diamond.jp/articles/-/290369）
   - 「すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」」（https://diamond.jp/articles/-/290369）
   - 「進行中の事態について考えるときには、ほかの仮説が正しいという相対的な確率を意識することが重要だ」（https://diamond.jp/articles/-/290369）
-  - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
-  - 「6が多く出るようサイコロに細工がされていると疑うなら、サイコロを何度も振ってみれば検証できる」（https://diamond.jp/articles/-/290369）
-  - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
-  - 「でも触れるベイズ推定の手法を用いて考えるといい」（https://diamond.jp/articles/-/290369）
-  - 「これは「競合仮説分析」（ACH）と呼ばれる手法だ」（https://diamond.jp/articles/-/290369）
-  - 「ACHでは、仮説（対立仮説）をすべて挙げ、どれを選択するかについてすべての証拠・推論・仮定の重要性を検証し（これは「情報報告の識別」という不快な名で呼ばれている）、反証が最も少ない説明を有力とする」（https://diamond.jp/articles/-/290369）
-  - 「残念ながら、日々出合う状況の多くは、繰り返し試して検証することができない」（https://diamond.jp/articles/-/290369）
-  - 「それでも仮説を立てれば、観察する行動と照らし合わせて、上司の偏見を合理的に立証できる」（https://diamond.jp/articles/-/290369）
-  - 「関係する人たちの動機を評価し、証拠に対して別の説明がないかを検証によって判断し、仮説を識別する」（https://diamond.jp/articles/-/290369）
 - 一次情報の探し方：
+  - 「統計データ活用では、経済産業省「商業動態統計」やIPAの各種調査を仮説の裏取りに使うと、経営層への提言の説得力が増します」（https://constep.jp/column/3773）
+  - 「10件中7件以上で同一パターンが観察されて初めて反証データとして採用します」（https://constep.jp/column/3773）
+  - 「経済産業省「商業動態統計」（2025年）」（https://constep.jp/column/3773）
   - 「http://www.mofa.go.jp/mofaj/press/release/17/pdfs/rls_0913a.pdf、2013年 2月 11日ア」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「の方針』内閣官房、2008年、http://www.kantei.go.jp/jp/singi/zyouhou/080214kettei.pdf、」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -11675,13 +11727,15 @@
   - 「ICD 203: Analytic Standards（米国家情報長官室・確度表現の原典PDF・英語）」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 失敗・落とし穴：
   - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「Cognitive Biases in CTI: Structured Techniques for Sharper Analysis」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
   - 「Next: Cognitive Biases in CTI →」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
+  - 「よくある失敗3パターンと回避策」（https://constep.jp/column/3773）
+  - 「事実と解釈と打ち手を混同する誤りをこの型で防げます」（https://constep.jp/column/3773）
+  - 「この反証条件を書かない検証計画は、確証バイアスの温床になります」（https://constep.jp/column/3773）
+  - 「ピボットは失敗ではなく学習の結果であるという文化的合意が、上流人材が育つ土壌になります」（https://constep.jp/column/3773）
+  - 「仮説思考の失敗は「①仮説を立てずに調べ始める②反証を無視する③検証計画がない」の3つに集約されます」（https://constep.jp/column/3773）
   - 「競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系的な分析手法である」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
   - 「単一の仮説を支持する情報ばかりを集める「確証バイアス」を防ぎ、情報分析の客観性と精度を高めるために、特に諜報活動や戦略策定などで用いられている」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
   - 「インテリジェンスの歴史は、失敗の歴史ともいわれている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
@@ -11689,27 +11743,22 @@
   - 「そして、こうした「情報の失敗」の原因と」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「2 「情報の失敗」とその対策については多くの先行研究があるが、主要なものとしては以」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「合致する証拠を重視する傾向（確証バイアス）21を持っている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「こうした傾向を持つことから、人間は、あいまい、あるいは誤りと思われる」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「この特徴により、確証バイアスを避けることができる」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「までも仮説にとどまり、一度反証されれば、誤りとされるという反証主義を唱えた」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「また、確証バイアス」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「また、敵の欺瞞が行われること49や、味方の報告に誤りが」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 実例：
+  - 「マッキンゼー・BCGの仮説運用事例とBallista支援事例」（https://constep.jp/column/3773）
+  - 「生成AIによって「調べる」「まとめる」の限界コストがゼロに近づいた結果、人間側に残るのは「何を問い、どの仮説を検証するか」という上流の判断です」（https://constep.jp/column/3773）
+  - 「反証を怖がって決めない状態が最悪であり、間違った仮説を24〜48時間で更新できる規律のほうが、結果として正解に近づきます」（https://constep.jp/column/3773）
+  - 「ピボットを許さない組織は「一度決めた方向は変えない」文化が固定化し、結果として炎上プロジェクトを量産します」（https://constep.jp/column/3773）
+  - 「ピボットは失敗ではなく学習の結果であるという文化的合意が、上流人材が育つ土壌になります」（https://constep.jp/column/3773）
+  - 「マッキンゼーの事例：グローバル自動車部品メーカーの新興国展開」（https://constep.jp/column/3773）
+  - 「BCGの事例：日系メガバンクの法人融資審査プロセス改革」（https://constep.jp/column/3773）
+  - 「Ballista支援事例：中堅IT企業の営業BPOのFDE型転換」（https://constep.jp/column/3773）
+  - 「ConStepでは金融・製造・小売・医療の4業界別に業務ケースを組み込んだ演習を提供しています」（https://constep.jp/column/3773）
   - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
   - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
   - 「1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる」（https://diamond.jp/articles/-/290369）
   - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
   - 「また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない」（https://diamond.jp/articles/-/290369）
   - 「4. ACH結果」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
-  - 「今回は身近な題材を使ってCopilotによるACHの結果を観察してみた」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
-  - 「ACHの分析内容も、概ね意図したとおりの結果だった」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
-  - 「鮮戦争時の対中情報を事例として」『戦略研究』第5号、2007年 11月、145-159頁」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「例えば、北岡元は、前述の」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「7 例えば以下を参照のこと」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「事例に」『情報史研究』第3号、2011年 6月、39-76頁；楠公一「情報見積り手法の形」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「整合するかどうかを確認、マトリックスに結果を記入する」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「討の結果、全ての仮説に整合・不整合であった証拠については、仮説ごとの確」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「以上の結果を踏まえ、第5段階では、各仮説の相対的な確からしさについて」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 検索結果の抜粋：
   - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -11729,11 +11778,11 @@
 
 ## 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界（estimate private company revenue physical footprint square footage locations equipment funding valuation limits）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ13頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
-- 実例：記載なし（読んだ13頁・検索12回）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）（record linkage data cleansing impossible values renamed companies former names matching）
 - 文脈：手法
@@ -14437,11 +14486,27 @@
 
 ## 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）（investigative journalism company network analysis shared addresses directors red flags auditor resignation）
 - 文脈：探し先
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
+
+## 非公開の会社を記録で調べる調査報道の手順（IRE・Investigative Reporters and Editors のティップシート・裁判記録・登記の全件データの一括取得・規制当局の処分の頻度を同業と比べる・不動産の記録・4-111）（IRE tipsheet investigating private companies records court filings business registry bulk data regulatory violations）
+- 文脈：探し先
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111）（employee count definitions Japan tax valuation pension insured statistics comparison）
+- 文脈：推定
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

@@ -8,41 +8,65 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-08T11:08:28.060020+00:00",
+ "researched_at": "2026-11-08T19:01:35.827276+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "手順・やり方": [
    {
-    "quote": "クレンジングでは、こうした公的統計特有の形式を分析可能な状態へ整えていきます",
+    "quote": "国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応 - DATA VIZ LAB｜データビズラボ",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "少人数の地域で値が「X」と秘匿されていたり、市区町村合併で地域コードが年次ごとに変わっていたりと、統計制度そのものに由来する落とし穴が随所にあります",
+    "quote": "国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "手元にダウンロード済みのファイルがある方は、実際の統計表と照らし合わせながら読み進めてください",
+    "quote": "本記事では、国勢調査データを分析可能な状態へ整える6つのSTEPを実務目線で解説します",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "国勢調査データのクレンジングとは：公的統計特有の前処理",
+    "quote": "国勢調査データのクレンジングを進める6つのSTEP",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "統計GIS境界データと結合する際のキー設計",
+    "quote": "STEP1 利用目的と必要な集計単位の確定",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "国勢調査の集計結果は、総務省統計局が",
+    "quote": "STEP2 元データの構造把握とヘッダー・階層の整形",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP3 表記の標準化：全角半角・数値型・文字コード",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP4 欠測・秘匿値・不詳の処理方針の決定",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP5 地域コードによる名寄せと他データとの結合",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP6 総数との突合による検証と加工履歴の記録",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -54,73 +78,31 @@
     "first_seen": "2026-11-07"
    },
    {
+    "quote": "更新のたびに取り込む仕組みを作るならAPI、一度きりの分析ならCSVというように、運用の継続期間を基準に選ぶ方法が確実です",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "APIを使う場合は、e-Statの利用登録を済ませてアプリケーションIDを発行する手順が入ります",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "配布される統計表は、印刷して人が読むことを前提に設計されています",
+    "quote": "補完する場合は、補完した旨と方法を必ず記録し、補完前の値を別列で保持してください",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "業務データであれば平均値や中央値で埋める判断も許容されますが、公的統計では原データに存在しない値を分析者が作り出す行為そのものが、結果の解釈を難しくします",
+    "quote": "Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方の統計表は、年齢階級や男女が列方向に展開された横持ちの形をとっているため、そのまま接続すると列数だけが増えて集計軸を作れません",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この4列さえ決めておけば、統計表が変わっても同じ処理を流用できます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "工数の目安は統計表1枚あたり30分から2時間程度で、10枚を扱う案件なら1人日から2人日を見込んでください",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2015年と2020年で同じ名称の統計表を使っていても、集計の定義が更新されている場合があるのです",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計データ加工: 公務員のための Claude Code × データ前処理入門｜統計で見る都道府県",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計データ加工: 公務員のための Claude Code × データ前処理入門",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "書類に『類似団体との財政力指数比較』を載せたい」——統計担当・企画担当・政策担当の日常です",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データ自体は e-Stat や自治体オープンデータポータルから無料で取れます",
+    "quote": "「上 3 行はタイトル、4 行目は単位表記、列ヘッダは 5-6 行目に渡って結合セル、データ本体に注釈テキスト混入」——人間が見やすい配置のために機械可読性が犠牲になった典型例です",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -132,25 +114,7 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "自治体の統計担当が頻用する代表データには e-Stat の「社会・人口統計体系」「国勢調査」「地方財政状況調査」、各自治体の「住基ネット集計」「税務統計年報」「学校基本調査」などがあります",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同じ統計でも年度ごとに項目構成や CSV ヘッダが変わります",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "答弁資料やレク資料のために e-Stat の CSV / Excel を整形している統計・企画・政策担当",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ヘッダ複数行・セル結合・注釈混入で「そのまま読めない」統計ファイルに手を焼いている方",
+    "quote": "Python の知識がなくても、データ前処理を自然言語で任せる方法を知りたい方",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -162,31 +126,67 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "現在は Claude Code を使い、47 都道府県の統計サイト",
+    "quote": "頼み方そのものの型は #31 Claude Code への頼み方、うまくいった頼み方を再利用する仕組みは #32 .claude/skills 入門 にまとめています",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "stats47 が毎日行っている処理は、まさに本記事のテーマである「公開統計の生データを、集計・可視化に使える形へ整える前処理」そのものです",
+    "quote": "Step 1: 「目的」を 1 行で言語化する",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "統計データは公務員にとって最も信頼できる定量根拠ですが、",
+    "quote": "Step 2: 元データを観察させる",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "たとえば e-Stat の国勢調査ファイルをダウンロードすると以下のような構造になっています",
+    "quote": "Step 3: 整形コードを生成 — Tidy データ化",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "最終行 + 数行: 「注 1) 〜は秘匿」「資料: 総務省統計局」(注釈)",
+    "quote": "Claude Code が生成するスクリプトの典型:",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 4: 集計と「必ず検証」",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 5: 統計データの「単位の罠」 — 人間の責務",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "単位ミスの典型ヒヤリ事例として、首長レクで「県内市町村の財政力指数比較」を提示した際に、人口列を「千人」と気付かずに「人」のまま比較表に載せてしまい、",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "別事例では、議会答弁原稿で「歳出予算 1,200 億円」のはずが「1,200 万円」と単位を取り違えて起案が回ってしまい、上司の最終チェックで止まったという例も典型的です",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "— Hallucination の典型です",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算書類の前年比較分析を 5 分で出す手順",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -496,63 +496,39 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "手順・やり方": [
+  "一次情報の探し方": [
    {
-    "quote": "国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応 - DATA VIZ LAB｜データビズラボ",
+    "quote": "クレンジングでは、こうした公的統計特有の形式を分析可能な状態へ整えていきます",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応",
+    "quote": "少人数の地域で値が「X」と秘匿されていたり、市区町村合併で地域コードが年次ごとに変わっていたりと、統計制度そのものに由来する落とし穴が随所にあります",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "本記事では、国勢調査データを分析可能な状態へ整える6つのSTEPを実務目線で解説します",
+    "quote": "手元にダウンロード済みのファイルがある方は、実際の統計表と照らし合わせながら読み進めてください",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "国勢調査データのクレンジングを進める6つのSTEP",
+    "quote": "国勢調査データのクレンジングとは：公的統計特有の前処理",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "STEP1 利用目的と必要な集計単位の確定",
+    "quote": "統計GIS境界データと結合する際のキー設計",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "STEP2 元データの構造把握とヘッダー・階層の整形",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP3 表記の標準化：全角半角・数値型・文字コード",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP4 欠測・秘匿値・不詳の処理方針の決定",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP5 地域コードによる名寄せと他データとの結合",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP6 総数との突合による検証と加工履歴の記録",
+    "quote": "国勢調査の集計結果は、総務省統計局が",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -564,31 +540,73 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "更新のたびに取り込む仕組みを作るならAPI、一度きりの分析ならCSVというように、運用の継続期間を基準に選ぶ方法が確実です",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
     "quote": "APIを使う場合は、e-Statの利用登録を済ませてアプリケーションIDを発行する手順が入ります",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "補完する場合は、補完した旨と方法を必ず記録し、補完前の値を別列で保持してください",
+    "quote": "配布される統計表は、印刷して人が読むことを前提に設計されています",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます",
+    "quote": "業務データであれば平均値や中央値で埋める判断も許容されますが、公的統計では原データに存在しない値を分析者が作り出す行為そのものが、結果の解釈を難しくします",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「上 3 行はタイトル、4 行目は単位表記、列ヘッダは 5-6 行目に渡って結合セル、データ本体に注釈テキスト混入」——人間が見やすい配置のために機械可読性が犠牲になった典型例です",
+    "quote": "分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方の統計表は、年齢階級や男女が列方向に展開された横持ちの形をとっているため、そのまま接続すると列数だけが増えて集計軸を作れません",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この4列さえ決めておけば、統計表が変わっても同じ処理を流用できます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "工数の目安は統計表1枚あたり30分から2時間程度で、10枚を扱う案件なら1人日から2人日を見込んでください",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2015年と2020年で同じ名称の統計表を使っていても、集計の定義が更新されている場合があるのです",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計データ加工: 公務員のための Claude Code × データ前処理入門｜統計で見る都道府県",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計データ加工: 公務員のための Claude Code × データ前処理入門",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "書類に『類似団体との財政力指数比較』を載せたい」——統計担当・企画担当・政策担当の日常です",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データ自体は e-Stat や自治体オープンデータポータルから無料で取れます",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -600,7 +618,25 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Python の知識がなくても、データ前処理を自然言語で任せる方法を知りたい方",
+    "quote": "自治体の統計担当が頻用する代表データには e-Stat の「社会・人口統計体系」「国勢調査」「地方財政状況調査」、各自治体の「住基ネット集計」「税務統計年報」「学校基本調査」などがあります",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同じ統計でも年度ごとに項目構成や CSV ヘッダが変わります",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "答弁資料やレク資料のために e-Stat の CSV / Excel を整形している統計・企画・政策担当",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ヘッダ複数行・セル結合・注釈混入で「そのまま読めない」統計ファイルに手を焼いている方",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -612,67 +648,31 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "頼み方そのものの型は #31 Claude Code への頼み方、うまくいった頼み方を再利用する仕組みは #32 .claude/skills 入門 にまとめています",
+    "quote": "現在は Claude Code を使い、47 都道府県の統計サイト",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Step 1: 「目的」を 1 行で言語化する",
+    "quote": "stats47 が毎日行っている処理は、まさに本記事のテーマである「公開統計の生データを、集計・可視化に使える形へ整える前処理」そのものです",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Step 2: 元データを観察させる",
+    "quote": "統計データは公務員にとって最も信頼できる定量根拠ですが、",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Step 3: 整形コードを生成 — Tidy データ化",
+    "quote": "たとえば e-Stat の国勢調査ファイルをダウンロードすると以下のような構造になっています",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Claude Code が生成するスクリプトの典型:",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 4: 集計と「必ず検証」",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 5: 統計データの「単位の罠」 — 人間の責務",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "単位ミスの典型ヒヤリ事例として、首長レクで「県内市町村の財政力指数比較」を提示した際に、人口列を「千人」と気付かずに「人」のまま比較表に載せてしまい、",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "別事例では、議会答弁原稿で「歳出予算 1,200 億円」のはずが「1,200 万円」と単位を取り違えて起案が回ってしまい、上司の最終チェックで止まったという例も典型的です",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "— Hallucination の典型です",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算書類の前年比較分析を 5 分で出す手順",
+    "quote": "最終行 + 数行: 「注 1) 〜は秘匿」「資料: 総務省統計局」(注釈)",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -793,49 +793,34 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/76/pdf/2-2-768.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000338829.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.nstac.go.jp/use/archives/anonymity/kokucho/",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.city.matsue.lg.jp/material/files/group/6/R2fushouhokanchi.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/microdata/order",
+    "url": "https://note.com/jitsumu_drill/n/necb36dfd9438",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
+    "url": "https://note.com/shikaku_tokyo/n/nd412ab070dfe",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "http://www.xfcrb2020.com/CN/matrix/matrix.do?articleId=866&type=DownloadCountryDistribution",
+    "url": "https://note.com/study_room358/n/n63aeb2cdb96b",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/training/meetings/anonymization/pdf/181214_4.pdf",
+    "url": "https://note.com/saitangoukakulab/n/n34a56a1da7a0",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000339465.pdf",
+    "url": "https://note.com/jitsumu_drill/n/n5d49798ff5fe",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://data-viz-lab.com/census-data",
@@ -843,12 +828,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/info/kenkyu/kokusei/yusiki07/pdf/ki01_01.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000339465.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000339470.pdf",
+    "url": "https://www.stat.go.jp/info/kenkyu/kokusei/yusiki07/pdf/ki01_01.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -858,12 +843,22 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/82/pdf/2-2-823.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/help/data-definition-information/shuroku/T000878.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.stat.go.jp/info/tokumei/index.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/help/data-definition-information/shuroku/T000878.pdf",
+    "url": "https://www.nli-research.co.jp/files/topics/42591_ext_18_0.pdf?site=nli",
     "status": "ok",
     "method": "pdf"
    },
@@ -873,44 +868,34 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/82/pdf/2-2-823.pdf",
+    "url": "https://www.norc.org/content/dam/norc-org/documents/standard-projects-pdf/308748_79154.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.nli-research.co.jp/files/topics/42591_ext_18_0.pdf?site=nli",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://analysisfunction.civilservice.gov.uk/policy-store/sdc-for-tables-produced-from-administrative-data/",
+    "url": "https://kajodata.com/en/work/data-cleaning-in-data-analysis/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.census.gov/programs-surveys/economic-census/year/2012/technical-documentation/methodology/disclosure.html",
+    "url": "https://brendanjodowd.github.io/sdc_guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.resdac.org/articles/cms-cell-size-suppression-policy",
+    "url": "https://www.cdc.gov/united-states-cancer-statistics/technical-notes/suppression.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gemini-medicine.github.io/Rgemini/articles/cell_suppression_and_table1.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "http://www.asasrms.org/Proceedings/y2023/files/Overview_of_Cell%20Suppression_Methods.pdf",
+    "url": "https://www.exceldemy.com/data-cleaning-in-excel-a-comprehensive-guide-for-analysts/",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://healthapps.dhss.mo.gov/MoPhims/Docs/Confidentiality%20and%20Suppression%20in%20the%20MOPHIMS%20System_DCPH.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.dhs.nv.gov/siteassets/content/programs/office-of-analytics/images/Suppression_Criteria_-_DHHS_Office_of_Analytics_10.2019_1.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "method": "http"
    }
   ]
  },
@@ -918,110 +903,90 @@
   {
    "query": "公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体 site:note.com",
    "results": [
-    "https://www.stat.go.jp/training/2kenkyu/ihou/76/pdf/2-2-768.pdf",
-    "https://www.soumu.go.jp/main_content/000338829.pdf",
-    "https://www.nstac.go.jp/use/archives/anonymity/kokucho/",
-    "https://www.city.matsue.lg.jp/material/files/group/6/R2fushouhokanchi.pdf",
-    "https://www.e-stat.go.jp/microdata/order",
-    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
-    "http://www.xfcrb2020.com/CN/matrix/matrix.do?articleId=866&type=DownloadCountryDistribution",
-    "https://www.stat.go.jp/training/meetings/anonymization/pdf/181214_4.pdf",
-    "https://www.soumu.go.jp/main_content/000339465.pdf",
-    "https://note.com/stats47/n/naf04e81afb7b"
+    "https://note.com/stats47/n/naf04e81afb7b",
+    "https://note.com/jitsumu_drill/n/necb36dfd9438",
+    "https://note.com/shikaku_tokyo/n/nd412ab070dfe",
+    "https://note.com/study_room358/n/n63aeb2cdb96b",
+    "https://note.com/saitangoukakulab/n/n34a56a1da7a0",
+    "https://note.com/jitsumu_drill/n/n5d49798ff5fe",
+    "https://note.com/jitsumu_drill/n/na0b830f325c1"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体 note",
    "results": [
-    "https://www.stat.go.jp/training/2kenkyu/ihou/76/pdf/2-2-768.pdf",
-    "https://www.soumu.go.jp/main_content/000338829.pdf",
-    "https://www.nstac.go.jp/use/archives/anonymity/kokucho/",
-    "https://www.city.matsue.lg.jp/material/files/group/6/R2fushouhokanchi.pdf",
-    "https://www.e-stat.go.jp/microdata/order",
-    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
-    "http://www.xfcrb2020.com/CN/matrix/matrix.do?articleId=866&type=DownloadCountryDistribution",
-    "https://www.stat.go.jp/training/meetings/anonymization/pdf/181214_4.pdf",
+    "https://data-viz-lab.com/census-data",
     "https://www.soumu.go.jp/main_content/000339465.pdf",
-    "https://data-viz-lab.com/census-data"
+    "https://www.stat.go.jp/info/kenkyu/kokusei/yusiki07/pdf/ki01_01.pdf",
+    "https://www.soumu.go.jp/main_content/000973032.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/ihou/82/pdf/2-2-823.pdf",
+    "https://www.e-stat.go.jp/help/data-definition-information/shuroku/T000878.pdf",
+    "https://www.nli-research.co.jp/files/topics/42591_ext_18_0.pdf?site=nli"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体 やり方",
    "results": [
-    "https://www.stat.go.jp/training/2kenkyu/ihou/76/pdf/2-2-768.pdf",
-    "https://www.soumu.go.jp/main_content/000338829.pdf",
-    "https://www.nstac.go.jp/use/archives/anonymity/kokucho/",
-    "https://www.city.matsue.lg.jp/material/files/group/6/R2fushouhokanchi.pdf",
-    "https://www.e-stat.go.jp/microdata/order",
-    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
-    "http://www.xfcrb2020.com/CN/matrix/matrix.do?articleId=866&type=DownloadCountryDistribution",
-    "https://www.stat.go.jp/training/meetings/anonymization/pdf/181214_4.pdf",
+    "https://data-viz-lab.com/census-data",
     "https://www.soumu.go.jp/main_content/000339465.pdf",
-    "https://data-viz-lab.com/census-data"
+    "https://www.stat.go.jp/info/kenkyu/kokusei/yusiki07/pdf/ki01_01.pdf",
+    "https://www.soumu.go.jp/main_content/000973032.pdf",
+    "https://www.stat.go.jp/info/tokumei/index.html",
+    "https://www.e-stat.go.jp/help/data-definition-information/shuroku/T000878.pdf",
+    "https://www.nli-research.co.jp/files/topics/42591_ext_18_0.pdf?site=nli"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体 事例",
    "results": [
-    "https://www.stat.go.jp/training/2kenkyu/ihou/76/pdf/2-2-768.pdf",
-    "https://www.soumu.go.jp/main_content/000338829.pdf",
-    "https://www.nstac.go.jp/use/archives/anonymity/kokucho/",
-    "https://www.city.matsue.lg.jp/material/files/group/6/R2fushouhokanchi.pdf",
-    "https://www.e-stat.go.jp/microdata/order",
-    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
-    "http://www.xfcrb2020.com/CN/matrix/matrix.do?articleId=866&type=DownloadCountryDistribution",
-    "https://www.stat.go.jp/training/meetings/anonymization/pdf/181214_4.pdf",
+    "https://data-viz-lab.com/census-data",
     "https://www.soumu.go.jp/main_content/000339465.pdf",
-    "https://data-viz-lab.com/census-data"
+    "https://www.stat.go.jp/info/kenkyu/kokusei/yusiki07/pdf/ki01_01.pdf",
+    "https://www.soumu.go.jp/main_content/000973032.pdf",
+    "https://www.stat.go.jp/info/tokumei/index.html",
+    "https://www.e-stat.go.jp/help/data-definition-information/shuroku/T000878.pdf",
+    "https://www.pref.mie.lg.jp/common/content/001013962.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "official statistics data cleaning suppressed cells classification change concordance table reconciliation to totals",
    "results": [
-    "https://analysisfunction.civilservice.gov.uk/policy-store/sdc-for-tables-produced-from-administrative-data/",
-    "https://www.census.gov/programs-surveys/economic-census/year/2012/technical-documentation/methodology/disclosure.html",
-    "https://www.resdac.org/articles/cms-cell-size-suppression-policy",
-    "http://www.asasrms.org/Proceedings/y2023/files/Overview_of_Cell%20Suppression_Methods.pdf",
-    "https://healthapps.dhss.mo.gov/MoPhims/Docs/Confidentiality%20and%20Suppression%20in%20the%20MOPHIMS%20System_DCPH.pdf",
-    "https://www.dhs.nv.gov/siteassets/content/programs/office-of-analytics/images/Suppression_Criteria_-_DHHS_Office_of_Analytics_10.2019_1.pdf",
-    "https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1016&context=math_facpubs",
-    "https://unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.46/2013/Topic_4_France.pdf",
-    "https://nces.ed.gov/FCSM/pdf/2005FCSM_Dandekar_IXA.pdf",
-    "https://www.norc.org/content/dam/norc-org/documents/standard-projects-pdf/308748_79154.pdf"
+    "https://www.norc.org/content/dam/norc-org/documents/standard-projects-pdf/308748_79154.pdf",
+    "https://kajodata.com/en/work/data-cleaning-in-data-analysis/",
+    "https://brendanjodowd.github.io/sdc_guide/",
+    "https://www.cdc.gov/united-states-cancer-statistics/technical-notes/suppression.html",
+    "https://gemini-medicine.github.io/Rgemini/articles/cell_suppression_and_table1.html",
+    "https://www.exceldemy.com/data-cleaning-in-excel-a-comprehensive-guide-for-analysts/",
+    "https://www.census.gov/programs-surveys/economic-census/year/2012/technical-documentation/methodology/disclosure.html"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com 公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体",
    "results": [
     "https://note.com/stats47/n/naf04e81afb7b",
     "https://note.com/jitsumu_drill/n/necb36dfd9438",
-    "https://note.com/dbks_lab/n/n990087afe1df",
     "https://note.com/study_room358/n/n63aeb2cdb96b",
+    "https://note.com/dbks_lab/n/n990087afe1df",
     "https://note.com/re_birth_ai/n/n0a63c9ddde05",
     "https://note.com/jitsumu_drill/n/na0b830f325c1",
     "https://note.com/note_bookman/n/n61f88389aa30"
@@ -1036,11 +1001,11 @@
    "results": [
     "https://x.com/docomo/status/1646649469738287106",
     "https://x.com/3kdE6HdnAFWy6J5/status/2086196723882549429",
-    "https://help.x.com/ja/rules-and-policies/x-law-enforcement-support",
     "https://x.com/tokei389950/status/2073693693991879136",
     "https://x.com/keibirijp",
     "https://x.com/kspub_kodansha/status/2048968462689792249",
-    "https://x.com/mabeymshk/status/2041064802999824631"
+    "https://x.com/tousuuken",
+    "https://x.com/yu_miri_0622/status/2073676186970972232"
    ],
    "engines": [
     "ddgs:google"
@@ -1050,13 +1015,13 @@
   {
    "query": "site:linkedin.com 公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体",
    "results": [
-    "https://jp.linkedin.com/learning/cert-prep-information-processing-for-fundamental-information-technology-engineer-examination/3013661",
+    "https://www.linkedin.com/posts/奥輝之-414042325_統計検定-統計調査士-activity-7276792632461144064-grgh",
+    "https://www.linkedin.com/pulse/linkedin-top-colleges-2026-50-best-long-term-career-success-6gyze",
     "https://jp.linkedin.com/pulse/data-preprocessing-foundation-science-solution-khadar-valli?tl=ja",
     "https://jp.linkedin.com/posts/ドコモr-d_安全な異業種間データ連携を実現する秘匿クロス統計技術が2025年度scat表彰-activity-7422835954555539458-3SEL",
-    "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
     "https://www.linkedin.com/posts/mayunak_エビデンス不全4国勢調査不詳最大4割も綻ぶ統計国の輪郭かすむ-日本経済新聞-activity-7221131055267766272-r0iq",
-    "https://jp.linkedin.com/posts/美徳-鈴木-376180160_データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践-activity-7501379087546912768-iyRw",
-    "https://www.linkedin.com/posts/奥輝之-414042325_統計検定-データサイエンス基礎ds基礎-activity-7238143463546839042-YtEy"
+    "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
+    "https://jp.linkedin.com/posts/美徳-鈴木-376180160_データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践-activity-7501379087546912768-iyRw"
    ],
    "engines": [
     "ddgs:google"
@@ -1069,9 +1034,9 @@
     "https://www.facebook.com/stat.japan/",
     "https://www.facebook.com/100064621122412/posts/1308781351285890/",
     "https://www.facebook.com/keidanren/posts/経団連タイムス99発行公的統計における行政記録情報活用の現状と課題経済財政委員会統計部会httpwwwkeidanrenorjpjournaltimes2021/5108713332490844/",
-    "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/posts/受講料無料シンフォニカ寄付講座公的統計の統計情報を実践的に利活用するための基礎から応用までを体系的に学びますオンライン対面各講座全5回19002030第一弾-人/1576289674434698/",
     "https://www.facebook.com/story.php/?story_fbid=1075248637967712&id=100064477580950",
     "https://www.facebook.com/keidanren/posts/経団連タイムス1021発行公的統計の改善に向けた提言を公表httpswwwkeidanrenorjpjournaltimes20211021_05html/5245593462136163/",
+    "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/posts/受講料無料シンフォニカ寄付講座公的統計の統計情報を実践的に利活用するための基礎から応用までを体系的に学びますオンライン対面各講座全5回19002030第一弾-人/1576289674434698/",
     "https://www.facebook.com/Japan.RIETI/posts/2320489804709531/"
    ],
    "engines": [
@@ -1082,66 +1047,54 @@
   {
    "query": "公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体 note 社長",
    "results": [
-    "https://www.stat.go.jp/training/2kenkyu/ihou/76/pdf/2-2-768.pdf",
-    "https://www.soumu.go.jp/main_content/000338829.pdf",
-    "https://www.nstac.go.jp/use/archives/anonymity/kokucho/",
-    "https://www.city.matsue.lg.jp/material/files/group/6/R2fushouhokanchi.pdf",
-    "https://www.e-stat.go.jp/microdata/order",
-    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
-    "http://www.xfcrb2020.com/CN/matrix/matrix.do?articleId=866&type=DownloadCountryDistribution",
-    "https://www.stat.go.jp/training/meetings/anonymization/pdf/181214_4.pdf",
+    "https://data-viz-lab.com/census-data",
     "https://www.soumu.go.jp/main_content/000339465.pdf",
-    "https://data-viz-lab.com/census-data"
+    "https://www.stat.go.jp/info/kenkyu/kokusei/yusiki07/pdf/ki01_01.pdf",
+    "https://www.soumu.go.jp/main_content/000973032.pdf",
+    "https://www.stat.go.jp/info/tokumei/index.html",
+    "https://www.e-stat.go.jp/help/data-definition-information/shuroku/T000878.pdf",
+    "https://www.nli-research.co.jp/files/topics/42591_ext_18_0.pdf?site=nli"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体 X 投稿",
    "results": [
-    "https://www.stat.go.jp/training/2kenkyu/ihou/76/pdf/2-2-768.pdf",
-    "https://www.soumu.go.jp/main_content/000338829.pdf",
-    "https://www.nstac.go.jp/use/archives/anonymity/kokucho/",
-    "https://www.city.matsue.lg.jp/material/files/group/6/R2fushouhokanchi.pdf",
-    "https://www.e-stat.go.jp/microdata/order",
-    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
-    "http://www.xfcrb2020.com/CN/matrix/matrix.do?articleId=866&type=DownloadCountryDistribution",
-    "https://www.stat.go.jp/training/meetings/anonymization/pdf/181214_4.pdf",
+    "https://data-viz-lab.com/census-data",
     "https://www.soumu.go.jp/main_content/000339465.pdf",
-    "https://data-viz-lab.com/census-data"
+    "https://www.stat.go.jp/info/kenkyu/kokusei/yusiki07/pdf/ki01_01.pdf",
+    "https://www.soumu.go.jp/main_content/000973032.pdf",
+    "https://www.stat.go.jp/info/tokumei/index.html",
+    "https://www.e-stat.go.jp/help/data-definition-information/shuroku/T000878.pdf",
+    "https://www.pref.mie.lg.jp/common/content/001013962.pdf"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "official statistics data cleaning suppressed cells classification change concordance table reconciliation to totals site:linkedin.com",
    "results": [
-    "https://de.linkedin.com/in/stefanogaburro/en",
-    "https://au.linkedin.com/in/kristin-hatherley-b769538",
-    "https://in.linkedin.com/in/adesh-kumar-m-943271a4",
-    "https://th.linkedin.com/in/apisit-promsuwan-1626b32a0",
     "https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/data-reconciliation-before-dashboard-creation/",
     "https://www.linkedin.com/pulse/10-day-data-cleaning-challenge-healthcare-dataset-morris-musyoki-innaf",
     "https://www.linkedin.com/pulse/mastering-reconciliation-reports-etl-data-warehousing-oruganti-w4anf/",
-    "https://www.linkedin.com/pulse/data-cleaning-science-comprehensive-guide-mohamed-chizari-krxbe",
     "https://www.linkedin.com/pulse/from-noise-clarity-comprehensive-data-cleaning-guide-pooja-h-p-klbyc",
-    "https://www.linkedin.com/pulse/mastering-art-data-cleaning-transformation-comprehensive-tmmwc"
+    "https://www.linkedin.com/pulse/data-cleaning-science-comprehensive-guide-mohamed-chizari-krxbe",
+    "https://www.linkedin.com/pulse/understanding-data-cleaning-importance-practical-examples-umer-saeed-9h8ff",
+    "https://www.linkedin.com/advice/1/how-do-you-test-data-quality-after-cleaning-skills-data-analytics"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 11
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T10:53:32.305739+00:00"
 }

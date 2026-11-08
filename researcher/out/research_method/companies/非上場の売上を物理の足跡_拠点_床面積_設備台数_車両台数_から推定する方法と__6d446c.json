@@ -8,11 +8,41 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T11:50:50.894722+00:00",
+ "researched_at": "2026-11-08T19:04:33.273302+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/nagi_cpa_tax/n/n7f6edb10137f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jsuccession/n/n121cd8650c54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bloomo_economics/n/ncd864eb73506",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sk_kasou/n/n5f399867efe8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunagu_family/n/ne228b9df9ebe",
+    "status": "ok",
+    "method": "http"
+   },
    {
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "status": "ok",
@@ -21,11 +51,6 @@
    {
     "url": "https://ma-la.co.jp/m-and-a/company-value-calculation/",
     "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/sk_kasou/n/n5f399867efe8",
-    "status": "ok",
     "method": "http"
    },
    {
@@ -39,64 +64,54 @@
     "method": "http"
    },
    {
+    "url": "https://www.tdb.co.jp/services/lineup/cosmos1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://service.g-search.jp/2024/12/20/01062.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "url": "https://biz.toyokeizai.net/data/service/detail/id=359",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/japan/japan_all.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.privco.com/insights/Complete-Guide-to-Private-Company-Valuation-Methods-Formulas-and-Practical-Insights",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ctacquisitions.com/business-valuation-calculator-2026/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.businessvaluationcalculator.net/",
-    "status": "ok",
-    "method": "browser"
+    "method": "pdf"
    }
   ]
  },
  "search_log": [
   {
    "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/nagi_cpa_tax/n/n7f6edb10137f",
+    "https://note.com/jsuccession/n/n121cd8650c54",
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
+    "https://note.com/bloomo_economics/n/ncd864eb73506",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://note.com/tsunagu_family/n/ne228b9df9ebe",
+    "https://note.com/high_growth/n/n4a6a9be72fed"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 note",
    "results": [
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://ma-la.co.jp/m-and-a/company-value-calculation/",
-    "https://note.com/sk_kasou/n/n5f399867efe8",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://finance-design.net/2023/12/03/【実務担当者必見】dcf法による非上場企業の企業/",
+    "https://www.tdb.co.jp/services/lineup/cosmos1/",
     "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://note.com/irshukatsu/n/n9fd752118742"
+    "https://note.com/sk_kasou/n/n5f399867efe8"
    ],
    "engines": [
     "ddgs:bing"
@@ -106,13 +121,13 @@
   {
    "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 やり方",
    "results": [
+    "https://service.g-search.jp/2024/12/20/01062.html",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://ma-la.co.jp/m-and-a/company-value-calculation/",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://finance-design.net/2023/12/03/【実務担当者必見】dcf法による非上場企業の企業/",
-    "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "https://note.com/sk_kasou/n/n5f399867efe8"
+    "https://www.tdb.co.jp/services/lineup/cosmos1/",
+    "https://biz.toyokeizai.net/data/service/detail/id=359"
    ],
    "engines": [
     "ddgs:google"
@@ -124,42 +139,32 @@
    "results": [
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://ma-la.co.jp/m-and-a/company-value-calculation/",
-    "https://finance-design.net/2023/12/03/【実務担当者必見】dcf法による非上場企業の企業/",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://finance-design.net/2023/12/03/【実務担当者必見】dcf法による非上場企業の企業/",
+    "https://www.tdb.co.jp/services/lineup/cosmos1/",
     "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/"
+    "https://www.mof.go.jp/pri/reference/ssc/japan/japan_all.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "estimate private company revenue physical footprint square footage locations equipment funding valuation limits",
-   "results": [
-    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
-    "https://www.privco.com/insights/Complete-Guide-to-Private-Company-Valuation-Methods-Formulas-and-Practical-Insights",
-    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "https://ctacquisitions.com/business-valuation-calculator-2026/",
-    "https://www.businessvaluationcalculator.net/",
-    "https://pitchbook.com/private-company-valuations"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:note.com 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界",
    "results": [
-    "https://note.com/exepro_partner/n/n4a67c00c02d9",
     "https://note.com/dkoni/n/n15104ce67ce1",
     "https://note.com/value_stock_lab/n/ne66e3df843e7",
     "https://note.com/sk_kasou/n/n5f399867efe8",
     "https://note.com/hasegawa_shohey/n/nc8a7f10f9e66",
-    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/high_growth/n/n4a6a9be72fed",
+    "https://note.com/exepro_partner/n/n4a67c00c02d9",
     "https://note.com/diggle/n/n0f1329b1c03d"
    ],
    "engines": [
@@ -172,11 +177,11 @@
    "results": [
     "https://x.com/zenmizo/status/2067530235437072458",
     "https://x.com/nikkeinagoya/status/2076864183162044495",
-    "https://x.com/biz_arts1/status/2066007720831156440",
     "https://x.com/LOCAMA_AT/status/2061942316475240670",
+    "https://x.com/biz_arts1/status/2066007720831156440",
     "https://x.com/nyx2308/status/2076799043733422442",
-    "https://x.com/zenmizo/status/2048906876252020800",
-    "https://x.com/centurion_engnr/status/2092907732995076418"
+    "https://x.com/toushi_kenshou/status/2017895539497710007",
+    "https://x.com/heatdesuyo/status/2086265167751569906"
    ],
    "engines": [
     "ddgs:google"
@@ -186,32 +191,32 @@
   {
    "query": "site:linkedin.com 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界",
    "results": [
+    "https://in.linkedin.com/company/fractal-analytics",
     "https://jp.linkedin.com/pulse/data-storytelling-unstructured-use-case-closer-pjkrf?tl=ja",
-    "https://jp.linkedin.com/posts/career-liaison_弊社代表の投稿の紹介です-売上1400億円拠点30以上年間15以上の新規事業-activity-7454831794765451264-yXfs",
-    "https://www.linkedin.com/posts/ping-jui-ho-870a6815b_安定性の価格と実践監査auditの物理と論理の深層を解析する-現代-activity-7426391886145282048-FJzp",
-    "https://www.linkedin.com/pulse/shien-売上6兆円毎日2700新製品but-廃棄率業界15sdgs対策も上場申請資料を読み解く-kazuhiro-obara-ap95c/",
     "https://jp.linkedin.com/pulse/非上場企業の中期経営計画-100億宣言という制度が思った以上に面白い-貴文-村上-y1szc",
-    "https://jp.linkedin.com/posts/teru4454_aiが現実を動かす時代の新たな競争力とは-生成aiによる業務効率化から一歩進-activity-7505370877660794880-qd3U",
+    "https://www.linkedin.com/pulse/shien-売上6兆円毎日2700新製品but-廃棄率業界15sdgs対策も上場申請資料を読み解く-kazuhiro-obara-ap95c/",
+    "https://www.linkedin.com/posts/ping-jui-ho-870a6815b_安定性の価格と実践監査auditの物理と論理の深層を解析する-現代-activity-7426391886145282048-FJzp",
+    "https://jp.linkedin.com/posts/career-liaison_弊社代表の投稿の紹介です-売上1400億円拠点30以上年間15以上の新規事業-activity-7454831794765451264-yXfs",
     "https://jp.linkedin.com/posts/邦彦-阿部-195665235_家電量販店ポイントデータ2023をリリースしました-株式会社ゼンリンマーケティングソリューションズ-activity-7111965806644641792-Hqf9"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界",
    "results": [
-    "https://www.facebook.com/groups/hiroba/posts/7856857311024166/",
     "https://www.facebook.com/takesi.morisita/videos/軽貨物の管理まだバラバラ点呼は紙報告はline売上や経費は別で管理現場も管理者も確認するだけで時間がかかるだからofaは自社で使う仕組みをつくりましたofa-d/1809450847155938/",
-    "https://www.facebook.com/ToyokeizaiOnline/posts/上場を直近20年以上続けている日本の完成車メーカー9社を対象に売上高ランキングを作成売上高の増減を視覚化できるアニメーションを用いてレースを繰り広げているような/4059036037541539/",
     "https://www.facebook.com/reformonline/posts/主要な設備建材メーカー81社の最新決算をまとめ売上高順にランキング化しました売上高1位は昨年同様lixil東京都品川区でしたメーカーの76が増収だったが収益面で/1374521241349935/",
-    "https://www.facebook.com/nikkei/posts/国産半導体の売上高目標2040年に40兆円-政府最先端研究へ拠点httpswwwnikkeicomarticledgxzqoua06cbf0w6a300c200/1456987189106012/",
+    "https://www.facebook.com/reformonline/photos/建材設備流通会社売上高ランキング2026渡辺パイプ9増収で1位本誌が実施した主要建材卸販売会社の売上高調査で渡辺パイプ東京都千代田区が昨年に続き首位を獲得しまし/1549344207200970/",
+    "https://www.facebook.com/ToyokeizaiOnline/posts/上場を直近20年以上続けている日本の完成車メーカー9社を対象に売上高ランキングを作成売上高の増減を視覚化できるアニメーションを用いてレースを繰り広げているような/4059036037541539/",
+    "https://www.facebook.com/reformonline/posts/建材設備流通会社売上高ランキング2025本紙は住宅設備や建材の卸販売事業を手掛ける会社を調査し売上高順にランキング化したところ1位は渡辺パイプ東京都千代田区とな/1203505571784837/",
     "https://www.facebook.com/NewBalanceJapan/posts/ニューバランス-ウォーキングシューズ-日本国内販売足数金額-13年連続no1を獲得ニューバランスジャパンはウォーキングシューズのカテゴリーにて2013年から13/1407741091392640/",
-    "https://www.facebook.com/junichi.kanamori.9/videos/売上は約135倍でも純損失は10億ドル超aiクラウド企業nscaleが米国で上場を申請しましたnscaleはgpuデータセンター電力などaiを動かすインフラを提/2278064669647201/"
+    "https://www.facebook.com/bochiuansu/photos/自寫商業實務個案2025年研究證實全球算力需求呈指數級增長致使傳統集中式電網瀕臨崩潰邊緣conflow-power所推展ilamp方案不僅為單純照明設備實則將分/1333855455421020/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -222,9 +227,9 @@
     "https://ma-la.co.jp/m-and-a/company-value-calculation/",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://finance-design.net/2023/12/03/【実務担当者必見】dcf法による非上場企業の企業/",
-    "https://note.com/sk_kasou/n/n5f399867efe8",
     "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/"
+    "https://www.tdb.co.jp/services/lineup/cosmos1/",
+    "https://note.com/sk_kasou/n/n5f399867efe8"
    ],
    "engines": [
     "ddgs:google"
@@ -238,12 +243,12 @@
     "https://ma-la.co.jp/m-and-a/company-value-calculation/",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://finance-design.net/2023/12/03/【実務担当者必見】dcf法による非上場企業の企業/",
+    "https://www.tdb.co.jp/services/lineup/cosmos1/",
     "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://www.tdb.co.jp/services/lineup/cosmos1/"
+    "https://www.spglobal.com/market-intelligence/jp/solutions/products/private-company-data"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -252,26 +257,26 @@
    "results": [
     "https://www.linkedin.com/posts/christinemoenepicaf_the-real-manufacturing-growth-indicator-is-activity-7428834228089368576-joiR",
     "https://www.linkedin.com/top-content/finance/business-valuation-approaches/how-private-company-valuations-work/",
-    "https://www.linkedin.com/top-content/finance/private-equity-basics/private-equity-valuation-methods/",
     "https://www.linkedin.com/pulse/valuation-calculator-how-estimate-what-your-business-worth-ibgrid-xhbbf",
     "https://www.linkedin.com/pulse/manufacturing-footprint-strategic-framework-long-term-corporate-roqvf",
-    "https://www.linkedin.com/pulse/angel-investors-valuation-tactics-exposed-inside-scoop-pre-revenue",
-    "https://www.linkedin.com/pulse/business-valuation-methods-private-small-midsized-sme-joshua-himan--vr8ge"
+    "https://www.linkedin.com/top-content/finance/private-equity-basics/private-equity-valuation-methods/",
+    "https://www.linkedin.com/pulse/revenues-role-valuation-navigating-path-accurate-business-appraisal-wcmkc",
+    "https://www.linkedin.com/pulse/dcf-valuation-explained-how-finance-professionals-estimate-sehgal-0ajdc"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ13頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ13頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ13頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ13頁・検索12回）",
-  "実例": "記載なし（読んだ13頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ14頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ14頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ14頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ14頁・検索12回）",
+  "実例": "記載なし（読んだ14頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T16:51:57.314012+00:00"
 }

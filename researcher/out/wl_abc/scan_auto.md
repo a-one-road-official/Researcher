@@ -100,10 +100,10 @@
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：2件／数字のある品目 3件（67%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.machinedesign.com と www.thefabricator.com：品目の重なり 1/1（100%）
+  - www.machinedesign.com と 3dprint.com：品目の重なり 1/1（100%）
   - 3dprint.com と www.thefabricator.com：品目の重なり 1/1（100%）
-  - 3dprint.com と www.machinedesign.com：品目の重なり 1/1（100%）
-  - www.thefabricator.com と 3dprintingindustry.com：品目の重なり 0/2（0%）
-  - www.machinedesign.com と 3dprintingindustry.com：品目の重なり 0/2（0%）
+  - www.thefabricator.com と startup.genisisiq.com：品目の重なり 0/2（0%）
+  - www.machinedesign.com と startup.genisisiq.com：品目の重なり 0/2（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - wl-A DfAM（AM適性判定・工法材料提案・費用概算）｜売上［市場規模］
