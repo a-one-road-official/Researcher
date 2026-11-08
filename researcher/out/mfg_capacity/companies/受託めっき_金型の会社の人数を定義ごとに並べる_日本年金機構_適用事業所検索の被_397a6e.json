@@ -1,0 +1,639 @@
+{
+ "name": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111）",
+ "en": "Japan contract plating die mold companies headcount definitions pension insured persons vs employees vs establishment workers",
+ "aliases": [
+  "日本年金機構 厚生年金保険 適用事業所検索 被保険者数 めっき",
+  "有価証券報告書 従業員数 役員を除く 臨時従業員 めっき 金型",
+  "工業統計 従業者 定義 個人業主 有給役員 常用労働者"
+ ],
+ "context": "会社・人数",
+ "kind": "market",
+ "researched_at": "2026-11-08T19:49:44.437055+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrpro.co.jp/bc.php?id=21503",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tokutei-ginou-teleapo-senmon.com/apo-kibo-betsu-shodan/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100099",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/iceman_23/n/n536201254ff2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93337/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hillsform.com:443/contents/WORKERSBOARD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shoryokuka.smrj.go.jp/assets/data/category.csv",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://www.snanso.co.jp/recruit/information/files/snanso_0146.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metal-ma-center.jp/metal-ma-owner-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tok.co.jp/application/files/9917/3631/0531/integrated_report_all_a4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://holdings.panasonic/jp/corporate/investors/pdf/Report2023.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.resonac.com/sites/default/files/2024-07/pdf-sustainability-report-integratedreport-RESONAC24J_spread.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nittoseiko.co.jp/dcms_media/other/nittoseiko_integrated_report_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ar__3/-oc__044002S/-preBtn__1/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kenchiku-bosai.or.jp/Jimukyoku/Oukyu/yoko/man24.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shoryokuka.smrj.go.jp/catalog/product_catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura-machine.co.jp/documents/jp/technology/engineering_review/vol.28jp_hp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career.nikkei.com/career/ENMD406/ENMD40601.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001026673.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/sekai/0116.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(footsal)20261104.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sukimagroup.jp/seizou-hyoumen-shori-tokutei-ginou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/dl/detail-05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jicpa.or.jp/specialized_field/files/4-2-0a-2-20160729.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://researchmap.jp/masakimjs/misc/48770777/attachment_file.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinbay.co.jp/templates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_oc__044002S/-ha__70%2C0/-preBtn__3/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/zenkokukakei/2024/pdf/yougo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_oc__044102S/-op__48/-ha__80%2C0/-preBtn__3/-page__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/sanren/dl/h121723_12346s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.robo-navi.com/document/hb26new.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/2026/260622001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_all_interactive.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kawaguchi.lg.jp/material/files/group/103/20260731kawaguchi_kigyoguide2026_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://olive-dc.com/wp-content/uploads/2025/06/job_offer2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_youyaku2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 人手不足 受注 断る",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://tokutei-ginou-teleapo-senmon.com/apo-kibo-betsu-shodan/",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100099",
+    "https://note.com/iceman_23/n/n536201254ff2",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://waza.mhlw.go.jp/sasshi/pdf/H25_ginoushi_jireisyuu.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 受注残 人手不足",
+   "results": [
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://shoryokuka.smrj.go.jp/assets/data/category.csv",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://www.snanso.co.jp/recruit/information/files/snanso_0146.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "https://metal-ma-center.jp/metal-ma-owner-guide/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://tokutei-ginou-teleapo-senmon.com/closing-kyujinhyo-mae-kakunin/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "https://www.tok.co.jp/application/files/9917/3631/0531/integrated_report_all_a4.pdf",
+    "https://holdings.panasonic/jp/corporate/investors/pdf/Report2023.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf",
+    "https://www.resonac.com/sites/default/files/2024-07/pdf-sustainability-report-integratedreport-RESONAC24J_spread.pdf",
+    "https://m.nittoseiko.co.jp/dcms_media/other/nittoseiko_integrated_report_2025.pdf",
+    "https://www.npr-riken.co.jp/sdgs/pdf/report_2025.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111）",
+   "results": [
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ar__3/-oc__044002S/-preBtn__1/",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "http://www.kenchiku-bosai.or.jp/Jimukyoku/Oukyu/yoko/man24.pdf",
+    "https://shoryokuka.smrj.go.jp/catalog/product_catalog/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://www.shibaura-machine.co.jp/documents/jp/technology/engineering_review/vol.28jp_hp.pdf",
+    "https://www.snanso.co.jp/recruit/information/files/snanso_0146.pdf",
+    "https://career.nikkei.com/career/ENMD406/ENMD40601.htm",
+    "https://www.mhlw.go.jp/toukei/list/sanren/dl/h121723_12346s.pdf",
+    "https://ueno.law/topics/toritekihou_jyugyouin/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://www.soumu.go.jp/main_content/001026673.pdf",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://www.stat.go.jp/data/sekai/0116.html",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 統計 PDF",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(footsal)20261104.pdf",
+    "https://sukimagroup.jp/seizou-hyoumen-shori-tokutei-ginou/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/dl/detail-05.pdf",
+    "https://jicpa.or.jp/specialized_field/files/4-2-0a-2-20160729.pdf",
+    "https://www.shibaura-machine.co.jp/documents/jp/technology/engineering_review/vol.28jp_hp.pdf",
+    "https://researchmap.jp/masakimjs/misc/48770777/attachment_file.pdf",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.city.okaya.lg.jp/soshikikarasagasu/kikakuka/66/652/55/6941.html",
+    "https://www.jagat.or.jp/archives/99010"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 従業者規模別",
+   "results": [
+    "https://tokutei-ginou-teleapo-senmon.com/apo-kibo-betsu-shodan/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "https://jinbay.co.jp/templates",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/dl/detail-05.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_oc__044002S/-ha__70%2C0/-preBtn__3/",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://www.stat.go.jp/data/zenkokukakei/2024/pdf/yougo2024.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 1人当たり 万円",
+   "results": [
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_oc__044102S/-op__48/-ha__80%2C0/-preBtn__3/-page__2/",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.mhlw.go.jp/toukei/list/sanren/dl/h121723_12346s.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.robo-navi.com/document/hb26new.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） 2015 2025",
+   "results": [
+    "https://doda.jp/DodaFront/View/JobSearchList/j_oc__044002S/-ha__70%2C0/-preBtn__3/",
+    "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_all_interactive.pdf",
+    "https://www.city.kawaguchi.lg.jp/material/files/group/103/20260731kawaguchi_kigyoguide2026_web.pdf",
+    "https://m.nittoseiko.co.jp/dcms_media/other/nittoseiko_integrated_report_2025.pdf",
+    "https://olive-dc.com/wp-content/uploads/2025/06/job_offer2506.pdf",
+    "https://www.stat.go.jp/data/sekai/0116.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_youyaku2025.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Japan contract plating die mold companies headcount definitions pension insured persons vs employees vs establishment workers Japan statistics",
+   "results": [
+    "https://www.ici.org/system/files/2021-12/21_bro_japanese_retirement.pdf",
+    "https://cri.georgetown.edu/countries/japan/",
+    "https://iuslaboris.com/insights/japans-pension-system-what-employers-need-to-know/",
+    "https://globallawexperts.com/news/employee-vs-independent-contractor-japan",
+    "https://www.jil.go.jp/profile/documents/ktaka/250425takahashi.pdf",
+    "https://slasify.com/en/blog/employer-contribution-in-japan",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/10/pensions-at-a-glance-2023-country-notes_2e11a061/japan_b752f047/6198231e-en.pdf",
+    "https://www.papayaglobal.com/blog/workforce-country-guide-japan/",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111）",
+   "results": [
+    "https://note.com/hirokimiyano/n/n156f5c5ae907",
+    "https://note.com/tkgshn/n/naba3aaebd80c",
+    "https://note.com/bunkichi_kujo/n/n39624ca51bc1",
+    "https://note.com/makabe_takashi/n/n10bd363c59a6",
+    "https://note.com/platypus2000jp/n/nba85794a9039",
+    "https://note.com/daisy1982/n/n4bb190f54c83",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/decay/n/n569a5cc2cebc",
+    "https://note.com/nakagawasann/n/n534f168f4335",
+    "https://note.com/yamanaka_kan/n/n9a1220eccf9b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111）",
+   "results": [
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/Matsuno_Mold/status/2102546579232280721",
+    "https://x.com/jftc/status/2067903984204214477",
+    "https://x.com/uchida016/status/2066659121852789143",
+    "https://x.com/Matsuno_Mold/status/2101806905681461500",
+    "https://x.com/kis/status/1812507022258258246",
+    "https://x.com/aohiroshi/status/2090634763686301773"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111）",
+   "results": [
+    "https://about.linkedin.com/transparency",
+    "https://jp.linkedin.com/pulse/difference-internal-tooling-makes-eileen-wang-hcbre?tl=ja",
+    "https://www.linkedin.com/posts/hideyuki-matsuoka_エンジニア派遣受託開発企業なら-営業よりも採用の人数の方が多くても良い実際にそういった-activity-7214057263282409472-sqTF",
+    "https://www.linkedin.com/posts/gaichibm_1人から100人超まで人数別にみる成長戦略-伊藤です-2016年に-activity-7176721742185340928-lGZ4",
+    "https://jp.linkedin.com/posts/satsuki-hatanaka-59a507145_受託開発をなぜ今事業化するのかグラファーが再定義する開発の本質株式会社-activity-7472899286804951040-z_ft",
+    "https://www.linkedin.com/posts/kyomori-ka_当社ではプレス金型から樹脂金型まで幅広い金型製作を行っています-半導体モールド金型-activity-7109849441024557056-zXn9",
+    "https://jp.linkedin.com/learning/mos-cert-prep-excel-2019-associate/3868041"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111）",
+   "results": [
+    "https://www.facebook.com/photo/?fbid=122113042269182377",
+    "https://www.facebook.com/ishiiseikou/videos/工具管理って意外とコストかかっていませんか人数の多い会社であれば専任の担当者を配置することもできますが少人数で運営する町工場ではそう簡単にはいきません-設計や製/2494138514449031/",
+    "https://www.facebook.com/kounkt/videos/私の会社の名簿には21の担当が並んでいます全員aiです受注の担当発信の担当youtubeの担当line配信の担当サイトの担当点検の担当調査の担当経理の下書きの担/1743989983364703/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/JapanFTC/photos/中小受託事業者に印版を無償で保管させることも取適法違反です公正取引委員会と中小企業庁は委託事業者が発注を長期間行わないにもかかわらず中小受託事業者に対し金型や印/1400451872125483/",
+    "https://www.facebook.com/binrepo/posts/この人に聞く-ワールド工業-代表取締役社長-梅本-恭宏氏大型品対応や厚付けめっき耐久性に優れた筆めっきに強み-福山市にある１９９２年設立のワールド工業備後圏域や/1485536253413623/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） note 社長",
+   "results": [
+    "https://note.com/iceman_23/n/n536201254ff2",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronnsyu14.pdf",
+    "https://note.com/hirokimiyano/n/n156f5c5ae907",
+    "https://mhaze.hatenablog.com/entry/2024/11/23/205443",
+    "https://www.city.kawaguchi.lg.jp/material/files/group/103/20260731kawaguchi_kigyoguide2026_web.pdf",
+    "https://www.chusho.meti.go.jp/keiei/koyou/hitodebusoku/guideline/jirei.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1503.pdf",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_oc__044002S/-op__17/-ha__40%2C0/-preBtn__3/-page__3/",
+    "https://note.com/kagawatomo/n/n25d015846a4d",
+    "https://kojomag.nikkan.co.jp/kata/690"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託めっき・金型の会社の人数を定義ごとに並べる（日本年金機構 適用事業所検索の被保険者数＝役員を含む・有報の従業員数＝役員を除く・統計の従業者＝個人業主と役員を含む・小数の人数は換算値・4-111） X 投稿",
+   "results": [
+    "https://colet-lab.jp/column/sns/x-corporate-account-post-format-thread-guide/",
+    "https://x.com/i/trending/2011754972078358664",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://public-connect.jp/employer/news/4208",
+    "https://lefixea.jp/mfg/articles/batch-processing-order51",
+    "https://workersboard.mori.co.jp/mypage/topics/3296",
+    "https://robse.jp/manufacturing-website-numbers/",
+    "https://www.coinex.com/ja/information/news/6aa0e6935e1f0e08b87daa9b",
+    "https://prtimes.jp/main/html/rd/p/000000112.000080381.html",
+    "https://takumi-senpai.com/blog/mold-industry-2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Japan contract plating die mold companies headcount definitions pension insured persons vs employees vs establishment workers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/seunghoim_𝗝𝗮𝗽𝗮𝗻𝘀-𝗽𝗹𝗮𝘀𝘁𝗶𝗰-𝗺𝗼𝗹𝗱-activity-7363145524478148609-kZSc",
+    "https://www.linkedin.com/pulse/japanese-employment-law-guide-2025-critical-requirements-pu2he",
+    "https://www.linkedin.com/pulse/japans-pension-system-how-works-japanese-person-verses-naman-jaloria-e9o1f",
+    "https://www.linkedin.com/pulse/hiring-employees-japan-costs-compliance-practical-ziv-nakajima-magen-i0auc",
+    "https://www.linkedin.com/posts/moustafa-elmasri-mba-pmp®-74b76138_hranalytics-datagovernance-aireadiness-activity-7510926771093934080-JyCa",
+    "https://www.linkedin.com/pulse/japan-industrial-plating-sector-surge-126-growth-roadmap-uuvre",
+    "https://www.linkedin.com/pulse/employment-contracts-japan-quick-guide-access-financial-qcd4f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

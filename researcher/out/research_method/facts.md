@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・256品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・258品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5345,11 +5345,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -6188,11 +6188,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -9840,9 +9840,9 @@
   - 「All's well literature bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic access bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic suspicion bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き（revenue per employee headcount vs FTE average headcount false trend）
 - 文脈：手順
@@ -14153,7 +14153,7 @@
   - 「この記事では、経済統計(SNA: System of National Accounts)の体系について、家計・企業・政府の関係性を中心に図解した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
   - 「この記事では、中小製造業の技術を自社製品として昇華し、その販路開拓を伴走する合同会社メイクスアンドシングスと町工場プロダクツの取り組み事例をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
   - 「この記事では、私たちの経済活動を体系的・網羅的に集計した経済統計であるSNAと、企業会計の類似性について、統計データで検証した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
 
 ## 登記簿をまたいで会社のつながり（親会社・役員・株主）をたどる実務（OpenCorporates・GIJN の企業記録の手引き・登記番号・届出の日付・住所の共有は根拠にしない）（tracing companies across corporate registries officers shareholders filing dates methodology OpenCorporates GIJN）
 - 文脈：裏取り
@@ -14510,6 +14510,78 @@
 - 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
 - 実例：記載なし（読んだ20頁・検索12回）
+
+## 基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112）（Mauboussin base rate book PDF sales growth distribution reference class forecasting Flyvbjerg shrinkage）
+- 文脈：推定
+- 手順・やり方：
+  - 「This paper proposes a general method to handle forecasts exposed to behavioural」（https://arxiv.org/pdf/2107.11133）
+  - 「integral transformations and by comparing the predicted quantiles. The method is」（https://arxiv.org/pdf/2107.11133）
+  - 「is a lack of studies which investigate how to construct optimal reference classes for the」（https://arxiv.org/pdf/2107.11133）
+  - 「a method to ﬁnd appropriate outside views for sales forecasts of analysts. Hence, we」（https://arxiv.org/pdf/2107.11133）
+  - 「amount of data is required. Thus, the proposed method is well suited for practical」（https://arxiv.org/pdf/2107.11133）
+  - 「which involves ﬁve steps. First, the forecaster has to identify a set of similar cases which」（https://arxiv.org/pdf/2107.11133）
+  - 「distribution has either to be assessed directly or to be estimated within the next step. At」（https://arxiv.org/pdf/2107.11133）
+  - 「In the fourth step the expert needs to assess the predictability of their forecasts. In」（https://arxiv.org/pdf/2107.11133）
+  - 「While each of the ﬁve steps has its own pitfalls in practice, we focus on the ﬁrst one and」（https://arxiv.org/pdf/2107.11133）
+  - 「provide guidance how to select an appropriate reference class. This is of major importance」（https://arxiv.org/pdf/2107.11133）
+  - 「as Kahneman and Tversky(1979) gave no guideline how to build reference classes apart」（https://arxiv.org/pdf/2107.11133）
+  - 「In order to overcome this drawback we will present an alternative method which does」（https://arxiv.org/pdf/2107.11133）
+  - 「2.1. Theoretical Framework」（https://arxiv.org/pdf/2107.11133）
+  - 「We aim to forecastYi,t+h, i.e. anh-step ahead forecast of the random variable{Yi,t} for」（https://arxiv.org/pdf/2107.11133）
+  - 「in the backtest where all methods depend on the number of past years to use for reference」（https://arxiv.org/pdf/2107.11133）
+- 突き合わせ・推定：
+  - 「quality is measured by applying goodness-of-ﬁt tests on the estimated probability」（https://arxiv.org/pdf/2107.11133）
+  - 「providing the analysts’ estimates and valuable advice. This research did not receive any speciﬁc grant」（https://arxiv.org/pdf/2107.11133）
+  - 「actual analysts’ estimates in order to show the practical usefulness and demonstrate how」（https://arxiv.org/pdf/2107.11133）
+  - 「distribution has either to be assessed directly or to be estimated within the next step. At」（https://arxiv.org/pdf/2107.11133）
+  - 「from theFactSet (2021) estimates database9, whereby for both estimates 2018 is the」（https://arxiv.org/pdf/2107.11133）
+  - 「FactSet. Core company data - estimates data. FactSet, 2021. URLhttp://factset.com/.」（https://arxiv.org/pdf/2107.11133）
+  - 「Evidence from analyst earnings estimates and price targets.Journal of Behavioral」（https://arxiv.org/pdf/2107.11133）
+  - 「Figure 5:Estimated densities of compound annual sales growth for horizons one, three,」（https://arxiv.org/pdf/2107.11133）
+  - 「(vertical: min/mean/max of expert estimates)」（https://arxiv.org/pdf/2107.11133）
+  - 「and size = 0.025 compared to experts’ estimates. For density estimation on」（https://arxiv.org/pdf/2107.11133）
+  - 「window = 30 and size = 0.025 compared to experts’ estimates. For density」（https://arxiv.org/pdf/2107.11133）
+- 失敗・落とし穴：
+  - 「bias by ﬁnding appropriate outside views, in our case corporate sales forecasts of」（https://arxiv.org/pdf/2107.11133）
+  - 「Keywords: Distributional Forecast, Goodness of Fit, Outside View, Prediction, Bias」（https://arxiv.org/pdf/2107.11133）
+  - 「and forecasts are often based on heuristics and were empirically shown to be biased as well」（https://arxiv.org/pdf/2107.11133）
+  - 「(17%), availability (15%) and loss aversion (13%) are the behavioral biases that aﬀect」（https://arxiv.org/pdf/2107.11133）
+  - 「investment decisions the most.Lim (2001) reviews analysts’ bias,Jones and Johnstone」（https://arxiv.org/pdf/2107.11133）
+  - 「source of bias.Ashton and Cianci(2007) discuss diﬀerences between buy-side and sell-」（https://arxiv.org/pdf/2107.11133）
+  - 「mentioned biases (Tetlock and Gardner, 2016). The basic idea of the outside view is」（https://arxiv.org/pdf/2107.11133）
+  - 「attention to the biases than to debiasing (Chang et al., 2016). Green and Armstrong」（https://arxiv.org/pdf/2107.11133）
+  - 「classes are prone to the availability bias described byTversky and Kahneman(1973).」（https://arxiv.org/pdf/2107.11133）
+  - 「consist of only six elements elevating the probability of bias again. Surprisingly there」（https://arxiv.org/pdf/2107.11133）
+  - 「fact that forecasts are often based on heuristics and were empirically shown to be biased」（https://arxiv.org/pdf/2107.11133）
+  - 「Kahneman and Tversky(1979) introduced a corrective procedure for biases of predictions」（https://arxiv.org/pdf/2107.11133）
+  - 「While each of the ﬁve steps has its own pitfalls in practice, we focus on the ﬁrst one and」（https://arxiv.org/pdf/2107.11133）
+  - 「In this case the probability of a biased forecast is again elevated. Based on this fact」（https://arxiv.org/pdf/2107.11133）
+  - 「cloud and highlights the pitfall that an element on the border of one cluster may be closer」（https://arxiv.org/pdf/2107.11133）
+- 実例：
+  - 「bias by ﬁnding appropriate outside views, in our case corporate sales forecasts of」（https://arxiv.org/pdf/2107.11133）
+  - 「A case study compares the outside view of our distributional forecasts with actual」（https://arxiv.org/pdf/2107.11133）
+  - 「distribution of future sales. Moreover, in a case study we compare our forecasts with」（https://arxiv.org/pdf/2107.11133）
+  - 「the inside view, i.e. information on the speciﬁc case at hand, with the outside view,」（https://arxiv.org/pdf/2107.11133）
+  - 「i.e. information on a class of similar cases. This may include for example statistical or」（https://arxiv.org/pdf/2107.11133）
+  - 「which involves ﬁve steps. First, the forecaster has to identify a set of similar cases which」（https://arxiv.org/pdf/2107.11133）
+  - 「this point the expert uses their available information on the case for an inside prediction.」（https://arxiv.org/pdf/2107.11133）
+  - 「case of linear prediction, this may be the correlation between their predictions and the」（https://arxiv.org/pdf/2107.11133）
+  - 「from the general rule to use similar cases. Moreover, there is a fundamental conﬂict」（https://arxiv.org/pdf/2107.11133）
+  - 「take as many cases into account as possible. However, it is crucial that heterogeneity」（https://arxiv.org/pdf/2107.11133）
+  - 「In this case the probability of a biased forecast is again elevated. Based on this fact」（https://arxiv.org/pdf/2107.11133）
+  - 「In literature, there are several studies dealing with reference class building. For example,」（https://arxiv.org/pdf/2107.11133）
+  - 「Lovallo et al.(2012) report two case studies with respect to private-equity investment deci-」（https://arxiv.org/pdf/2107.11133）
+  - 「as they used clustered data which has a substantial problem in general. As an example,」（https://arxiv.org/pdf/2107.11133）
+  - 「example, we could use all companies which had an operating margin±1 percentage」（https://arxiv.org/pdf/2107.11133）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 統計の対象範囲と裾切りの一覧（企業活動基本調査・法人企業統計・経済センサス・工業統計・中小企業実態基本調査の対象規模と抽出の違い・白書の凡例と各調査の利用上の注意・4-112）（Japan official statistics coverage thresholds SME survey comparison）
+- 文脈：探し先
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

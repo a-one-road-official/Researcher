@@ -1,0 +1,583 @@
+{
+ "name": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105）",
+ "en": "Economic Census for Business Activity 2016 2021 electroplating metal mold establishments employees by size e-Stat table",
+ "aliases": [
+  "経済センサス 活動調査 平成28年 産業細分類 電気めっき業 事業所数 従業者数 規模別 site:e-stat.go.jp",
+  "経済センサス 活動調査 令和3年 金属用金型 従業者規模別 site:e-stat.go.jp",
+  "経済センサス 製造業 細分類 2464 2491 表番号"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T19:49:40.739880+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://kanagata-shimbun.com/220910special-haikei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/service/remote-field/column/article-manufacturing-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfca-net.or.jp/data_files/view/4609",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00270/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVBZ2PGHVBZOXIE03RM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/jutaku-12579",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://s.japan.zdnet.com/membership/login/?next=2f61727469636c652f33353235333030372f702f322f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003238714",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20201116_02_04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_04a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2021/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/database?page=1&query=manufacture&layout=dataset&toukei=00200553&tstat=000001145590&open_date=202205&collect_area=000&statdisp_id=0003449740&metadata=1&data=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/dbview?sid=0004005686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/data/datasets/2021/econ/susb/2021-susb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/dbview?sid=0004005689",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 人手不足 受注 断る",
+   "results": [
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.ricoh.co.jp/service/remote-field/column/article-manufacturing-industry",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "https://www.jfca-net.or.jp/data_files/view/4609",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00270/",
+    "https://www.asahi.com/sp/articles/photo/AS20261030003321.html",
+    "https://japan.zdnet.com/article/35253007/2/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.asahi.com/articles/ASVBZ2PGHVBZOXIE03RM.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "https://www.jfca-net.or.jp/data_files/view/4609",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/jutaku-12579",
+    "https://japan.zdnet.com/article/35253007/2/",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105）",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003238714",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003238714",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.neji-bane.jp/news/20201116_02_04/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 統計 PDF",
+   "results": [
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_04a.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://takumi-senpai.com/blog/mold-industry-2026/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 従業者規模別",
+   "results": [
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/dbview?sid=0003238714",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_04a.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_04a.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.e-stat.go.jp/dbview?sid=0003238714",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity 2016 2021 electroplating metal mold establishments employees by size e-Stat table Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/en/stat-search/database?page=1&query=manufacture&layout=dataset&toukei=00200553&tstat=000001145590&open_date=202205&collect_area=000&statdisp_id=0003449740&metadata=1&data=1",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004005686",
+    "https://www.census.gov/data/datasets/2021/econ/susb/2021-susb.html",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004005689",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/12/oecd-economic-surveys-japan-2021_1579e783/6b749602-en.pdf",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001137226&tclass1=000001137228&tclass2=000001137230&tclass3=000001147807&tclass4=000001147835&statdisp_id=0003422243",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539?hl=en",
+    "https://www.e-stat.go.jp/en/stat-search/files?tstat=000001145590"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105）",
+   "results": [
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/kens_reading1/n/n213b18c76ea1",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/e_p/n/n875dde87d7c8",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/nakagawasann/n/n534f168f4335"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105）",
+   "results": [
+    "https://x.com/koyo_spring/status/2081250661778469284",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/OgawaSeisakusho/status/2101838401943323059",
+    "https://x.com/OgawaSeisakusho/status/2030446148042002722",
+    "https://x.com/i/trending/2069702449208627603",
+    "https://x.com/OgawaSeisakusho/status/2100329360326811983",
+    "https://x.com/HK48077554/status/2062070229388468261"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105）",
+   "results": [
+    "https://jp.linkedin.com/in/泰雄-二宮-0342631b0",
+    "https://jp.linkedin.com/in/元-日方-2a011421a",
+    "https://jp.linkedin.com/in/katsumiszk",
+    "https://jp.linkedin.com/posts/悠暉-大島-a0a302a0_山形市めっき老舗のスズキハイテック売上高100億円へ3本の矢-日本経済新聞-activity-7373997027627765760-4vPr",
+    "https://jp.linkedin.com/pulse/金属加工機械製造市場の収益分析と成長予測cagr-73-2026年から2033年まで-horizon-insightz-group-cxd8f",
+    "https://jp.linkedin.com/pulse/boost-profits-circular-electroplating-how-economy-lowers-venkat-raja-rh2ce?tl=ja",
+    "https://jp.linkedin.com/in/数世-白川-11b3a4227"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105）",
+   "results": [
+    "https://www.facebook.com/sankoseisaku/",
+    "https://www.facebook.com/kangyoukinzoku/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/nikkankogyo.zasshi/photos/型技術12月特別増大号11月16日発売特集-型技術ワークショップ2025inにいがた講演論文集特別企画-実録中小金属加工業の事業承継特集は全国の産学官の関係者が/1382049737267152/",
+    "https://www.facebook.com/kangyoukinzoku/posts/平素より大変お世話になっております弊社は1953年昭和28年にダイカスト鋳造を開始して以来70年以上にわたりダイカスト製品の製造に携わってまいりましたこれもひと/1507716597533990/",
+    "https://www.facebook.com/seiwa.nishio/videos/愛知県西尾市にある社員約70人の金属加工の会社です主に作っているのは自動車部品産業用ロボット部品試作品の金属部品など量産工場とは少し違い試作品を作ることが多い会/802205379101458/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） note 社長",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://note.com/dear_hyssop6712/n/n33ce8b7198a7",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.buffett-code.com/industries/2340802"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "電気めっき業・金属用金型製造業の事業所数と従業者数の2本目の出どころ（経済センサス‐活動調査 2016年・2021年の産業細分類×従業者規模の表・e-Stat の表番号で・工業統計の2010〜2015年の穴を埋める・4-30・4-105） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.youtube.com/watch?v=Np0RVbppIVU",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.buffett-code.com/industries/2340802"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Economic Census for Business Activity 2016 2021 electroplating metal mold establishments employees by size e-Stat table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/us-census-bureau-economic-census",
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-january-2021",
+    "https://www.linkedin.com/company/electro-spec-inc-",
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-december-2021",
+    "https://ca.linkedin.com/company/kuntz",
+    "https://pk.linkedin.com/company/franke-plating-works",
+    "https://ca.linkedin.com/company/advanced-plating"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ48頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ48頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ48頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ48頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ48頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ48頁・検索18回）",
+  "10年推移": "記載なし（読んだ48頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ48頁・検索18回）"
+ }
+}

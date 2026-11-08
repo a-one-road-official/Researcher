@@ -8,7 +8,7 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-08T11:53:33.178972+00:00",
+ "researched_at": "2026-11-08T19:59:29.823872+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,12 +19,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/shokumukiso_best/n/naf131f3b99f1",
+    "url": "https://note.com/yri_healthtech/n/n4f15ac549754",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/qiqumo/n/n1c61def6c306",
+    "url": "https://note.com/shokumukiso_best/n/naf131f3b99f1",
     "status": "ok",
     "method": "http"
    },
@@ -34,7 +34,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yri_healthtech/n/n4f15ac549754",
+    "url": "https://note.com/qiqumo/n/n1c61def6c306",
     "status": "ok",
     "method": "http"
    },
@@ -54,27 +54,22 @@
     "method": "http"
    },
    {
-    "url": "https://stat-agent.com/blog/15.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://data.wingarc.com/statistical-terms-31007",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://wakara.co.jp/mathlog/20260304",
+    "url": "https://stat-agent.com/blog/15.html",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.nihon-marketing.com/blank-1/data-bunseki-shippai-5",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://sukyojuku.com/joho1-cross-shukei/",
+    "url": "https://wakara.co.jp/mathlog/20260304",
     "status": "ok",
     "method": "http"
    },
@@ -99,17 +94,17 @@
     "method": "http"
    },
    {
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6785265/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://statisticsfundamentals.com/blog/study-tips/common-statistics-mistakes/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "status": "ok",
     "method": "http"
    }
@@ -120,10 +115,10 @@
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 site:note.com",
    "results": [
     "https://note.com/rich_mango631/n/n5eb9b8d4629e",
-    "https://note.com/shokumukiso_best/n/naf131f3b99f1",
-    "https://note.com/qiqumo/n/n1c61def6c306",
-    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
     "https://note.com/yri_healthtech/n/n4f15ac549754",
+    "https://note.com/shokumukiso_best/n/naf131f3b99f1",
+    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
+    "https://note.com/qiqumo/n/n1c61def6c306",
     "https://note.com/datadrivenjapan/n/na1c6bca05da1",
     "https://note.com/momoen_de/n/n5cf5f4bcf9fd"
    ],
@@ -134,19 +129,9 @@
   },
   {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 note",
-   "results": [
-    "https://note.com/rich_mango631/n/n5eb9b8d4629e",
-    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
-    "https://blog.truestar.co.jp/exploratory/20210827/47128/",
-    "https://www.software-plaza.com/column/誤用されがちな統計用語/",
-    "https://stat-agent.com/blog/15.html",
-    "https://data.wingarc.com/statistical-terms-31007",
-    "https://wakara.co.jp/mathlog/20260304"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 やり方",
@@ -170,13 +155,13 @@
     "https://blog.truestar.co.jp/exploratory/20210827/47128/",
     "https://www.software-plaza.com/column/誤用されがちな統計用語/",
     "https://data.wingarc.com/statistical-terms-31007",
-    "https://www.nihon-marketing.com/blank-1/data-bunseki-shippai-5",
     "https://stat-agent.com/blog/15.html",
+    "https://www.nihon-marketing.com/blank-1/data-bunseki-shippai-5",
     "https://wakara.co.jp/mathlog/20260304",
     "https://www.eternalstudent.jp/entry/2025/11/29/120736"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -186,9 +171,9 @@
     "https://gijn.org/stories/10-common-mistakes-data-journalism/",
     "https://openpress.universityofgalway.ie/dataliteracy/chapter/2-1-10-simple-data-errors-that-can-ruin-an-investigation/",
     "https://senseofstudy.com/statistics/mistakes",
+    "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC6785265/",
     "https://statisticsfundamentals.com/blog/study-tips/common-statistics-mistakes/",
-    "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "https://empirestats.net/2026/03/16/misleading-statistics-examples/"
    ],
    "engines": [
@@ -200,12 +185,12 @@
    "query": "site:note.com データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説",
    "results": [
     "https://note.com/shokumukiso_best/n/naf131f3b99f1",
+    "https://note.com/rich_mango631/n/n5eb9b8d4629e",
     "https://note.com/yri_healthtech/n/n4f15ac549754",
     "https://note.com/datadrivenjapan/n/na1c6bca05da1",
-    "https://note.com/rich_mango631/n/n5eb9b8d4629e",
     "https://note.com/qiqumo/n/n1c61def6c306",
-    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
-    "https://note.com/momoen_de/n/n5cf5f4bcf9fd"
+    "https://note.com/momoen_de/n/n5cf5f4bcf9fd",
+    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5"
    ],
    "engines": [
     "ddgs:google"
@@ -218,10 +203,10 @@
     "https://x.com/takumi_deveblog/status/2111343954419417174",
     "https://x.com/takashi_hatai/status/2090066374265831904",
     "https://x.com/tmaita77/status/1134384826960605185",
-    "https://x.com/tak_ru_mon55/status/2109854628510880179",
     "https://x.com/TORicky_JPN/status/2062739825392758992",
+    "https://x.com/tak_ru_mon55/status/2109854628510880179",
     "https://x.com/cractyo/status/2109762250424885269",
-    "https://x.com/indexaxial_taka/status/2106922260019945776"
+    "https://x.com/CoKI_______/status/2107850886982811892"
    ],
    "engines": [
     "ddgs:google"
@@ -230,20 +215,14 @@
   },
   {
    "query": "site:linkedin.com データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
-   "query": "site:facebook.com データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説",
    "results": [
-    "https://www.facebook.com/imakarasuugaku/videos/この動画では代表値①-平均と中央値統計学をやさしく解説の内容を-notebooklm-を使ってわかりやすくダイジェストでご紹介しますaiはたまに日本語を間違える/1391052656003206/",
-    "https://www.facebook.com/uenotakashi.plaza/posts/平均値の使い方の誤りの典型例金融庁がこんな事でいいのかマスコミもマスコミだ年金制度とは無関係いい記事発見/2560536127563567/",
-    "https://www.facebook.com/yumehome/posts/よくニュースなどで出てくる数字基本的に分母と比較が無い数字って何の意味もない見てる人をある一定の方向に誘導したい場合分母や比較は絶対にしませんバレるから笑新型コ/4795976150415724/",
-    "https://www.facebook.com/ONAJapan/posts/本日ですイベント概要メディア関係者向けona-japanウェビナーコロナとデータ報道ニュースメディアは何を伝えられなかったか新型コロナウイルスに関する報道をめぐ/854955051576136/",
-    "https://www.facebook.com/AYMDS.JP/posts/第25報の投稿において一部集計値の誤りが御座いましたお詫びして訂正させて頂きます今回の調査では医師のメンタルヘルスの状態について日本版精神健康調査票genera/697342731061348/",
-    "https://www.facebook.com/NewsweekJAPAN/posts/現代的なデータ報道のニュース体験は読むから体験するに変わっていく-by-荻原和樹google-news-lab-ティーチングフェロー-新型コロナ禍で普及したデー/930843602377647/",
-    "https://www.facebook.com/best.biostatistics/posts/論文でよく見る最小二乗平均-lsmeanこれただの平均値と何が違うか説明できますか-実はこれ交絡因子の影響を消し去りグループ間の真の差を暴く魔法の指標なんですそ/1369404434643192/"
+    "https://jp.linkedin.com/pulse/quest-denominators-peter-worthington-eyre-dmymc?tl=ja",
+    "https://jp.linkedin.com/posts/dhbr_データの読解力を高めるたった一つの方法-分母に注目するだけで意思決定の質が変-activity-7361139755545190401-yCAa",
+    "https://www.linkedin.com/posts/toshiyuki-shimono-17a90323_一昨日東京都庁展望台で集団接種を受けたときにもらった紙書いてある割合のパーセント-activity-6956535054000947200-prUk",
+    "https://www.linkedin.com/posts/thibault-fondere_平均値は真実を語るのか-平均するとです-データ分析ではよく聞くフレーズ-activity-7313387269292232704-ByG_",
+    "https://jp.linkedin.com/posts/宏徳-高木-69a109108_分析してだけでは平均と件数しか返ってこない-売上やアンケートのデータを-activity-7503604175545577472-ZRpn",
+    "https://jp.linkedin.com/pulse/分布データが示す平均値という幻想-michio-okazaki-k3w2c",
+    "https://jp.linkedin.com/posts/michio-okazaki-911495153_要約統計量が揃っていても分布構造が同じとは限らない-データ分析では平均中央値-activity-7451721288794161153-CSAY"
    ],
    "engines": [
     "ddgs:google"
@@ -251,10 +230,16 @@
    "n_hits": 7
   },
   {
+   "query": "site:facebook.com データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 note 社長",
    "results": [
     "https://note.com/rich_mango631/n/n5eb9b8d4629e",
-    "https://note.com/qiqumo/n/n1c61def6c306",
+    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
     "https://blog.truestar.co.jp/exploratory/20210827/47128/",
     "https://wakara.co.jp/mathlog/20260304",
     "https://www.software-plaza.com/column/誤用されがちな統計用語/",
@@ -278,7 +263,7 @@
     "https://wakara.co.jp/mathlog/20160710"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -286,11 +271,11 @@
    "query": "common data journalism mistakes averages totals denominators site:linkedin.com",
    "results": [
     "https://www.linkedin.com/advice/3/what-most-common-data-journalism-pitfalls-avoid-skills-journalism-vmswc",
-    "https://www.linkedin.com/pulse/hidden-complexity-averages-cautionary-tale-data-arjun-prasanna-aqklc",
     "https://hr.linkedin.com/posts/bbarnier_data-journalism-8trustindicators-activity-7008587462948048896-ajiN",
-    "https://www.linkedin.com/pulse/mistakes-avoid-assuming-averages-tell-full-story-arno-wakfer-mct-qpa3c",
+    "https://www.linkedin.com/pulse/hidden-complexity-averages-cautionary-tale-data-arjun-prasanna-aqklc",
+    "https://www.linkedin.com/posts/global-investigative-journalism-network_lessons-learned-10-common-mistakes-in-data-activity-7188844481549393920-wpb9",
     "https://www.linkedin.com/posts/oluwadamilola-ojetunde-a55767ba_lessons-learned-10-common-mistakes-in-data-activity-7189230689601404928-1yC3",
-    "https://www.linkedin.com/posts/ellenclegg_lessons-learned-10-common-mistakes-in-data-activity-7192541676035264513-yMuV",
+    "https://www.linkedin.com/pulse/mistakes-avoid-assuming-averages-tell-full-story-arno-wakfer-mct-qpa3c",
     "https://www.linkedin.com/top-content/supply-chain-management/mastering-statistical-analysis/avoiding-average-of-averages-in-data-reports/"
    ],
    "engines": [
@@ -300,13 +285,13 @@
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ20頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ20頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ20頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ20頁・検索12回）",
-  "実例": "記載なし（読んだ20頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ19頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ19頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ19頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ19頁・検索12回）",
+  "実例": "記載なし（読んだ19頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-05T21:41:56.514499+00:00"
 }
