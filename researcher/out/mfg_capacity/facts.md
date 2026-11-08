@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・227品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・231品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -11705,25 +11705,25 @@
 
 ## 工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文）（METI Census of Manufactures user notes original value of shipments value added definition by establishment size）
 - 文脈：全体・統計・全国
-- 痛み・損（深さの印）：記載なし（読んだ25頁・検索18回）
-- 事業所数・社数：記載なし（読んだ25頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ25頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ25頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ25頁・検索18回）
-- 生産能力・設備：記載なし（読んだ25頁・検索18回）
-- 10年推移：記載なし（読んだ25頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ25頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ24頁・検索18回）
+- 事業所数・社数：記載なし（読んだ24頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ24頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ24頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ24頁・検索18回）
+- 生産能力・設備：記載なし（読んだ24頁・検索18回）
+- 10年推移：記載なし（読んだ24頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ24頁・検索18回）
 
 ## 受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く）（national Census of Manufactures table by industry detailed classification and employee size class e-Stat）
 - 文脈：全体・規模別・全国
-- 痛み・損（深さの印）：記載なし（読んだ29頁・検索18回）
-- 事業所数・社数：記載なし（読んだ29頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ29頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ29頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ29頁・検索18回）
-- 生産能力・設備：記載なし（読んだ29頁・検索18回）
-- 10年推移：記載なし（読んだ29頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ29頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
+- 事業所数・社数：記載なし（読んだ23頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ23頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ23頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索18回）
+- 生産能力・設備：記載なし（読んだ23頁・検索18回）
+- 10年推移：記載なし（読んだ23頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索18回）
 
 ## 受託加工を本業とする上場会社の一覧（事業の内容が熱処理・めっき・プレス・金型の受託の会社だけ・飲料や食品など他業種の会社を除く・EDINET の業種と事業の内容で確かめる）（listed Japanese companies whose main business is contract heat treatment plating stamping dies EDINET business description）
 - 文脈：会社・一次
@@ -11940,6 +11940,65 @@
 - 検索結果の抜粋：
   - 「第 1 章 中小 企業 の 労働生産性 の状況 — 第 1 章 中小 企業 の 労働生産性 の状況 中小企業庁 https://www.chusho.meti.go.jp > hakusyo > chusho > b2_1」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html）
   - 「労働生産性 — 労働生産性 財務省 PDF https://www.mof.go.jp > ssc > japan > japan02_18」（https://www.mof.go.jp/pri/reference/ssc/japan/japan02_18.pdf）
+
+## 経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105）（Economic Construction Survey manufacturing establishments 2022 large establishments census small establishments sample standard error）
+- 文脈：全体・統計
+- 10年推移：
+  - 「2022 Economic Census Methodology」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「Within 2022 Economic Census Technical Documentation」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「are in operation for at least some part of 2022」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「are classified in one of nineteen in-scope sectors defined by the 2022 North American Industry Classification System (NAICS)」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「The 2022 Economic Census covers the following NAICS sectors of the U.S. economy:」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「11 – Agriculture, Forestry, Fishing and Hunting (new for 2022)」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「The following industries (NAICS) are not covered by the 2022 Economic Census:」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「it must be classified into an in-scope NAICS industry according to the 2017 NAICS definitions,」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「it must be an active establishment of a multi-establishment firm, or it must be a single-establishment firm with at least one quarter of 2022 administrative payroll or 2021Q4 administrative payroll, and」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「The sample component of the 2022 Economic Census consists of four parts:」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「Any single-establishment firms that started business operations so late in 2022 (mostly in the 4th quarter) that their 2022 administrative payroll was not received by the Census Bureau until after the 2022 sample was selected – roughly 110,000 firms.」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「Single-Establishment Firms with 2022 Payroll」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「The reference period is the calendar year 2022. Information for businesses selected into the Economic Census can be found at」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「. The 2022 Economic Census questionnaires are available at」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+  - 「2022 Economic Census Survey Repository」（https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html）
+- 痛み・損（深さの印）：記載なし（読んだ15頁・検索18回）
+- 事業所数・社数：記載なし（読んだ15頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ15頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ15頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ15頁・検索18回）
+- 生産能力・設備：記載なし（読んだ15頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ15頁・検索18回）
+
+## 毎月勤労統計調査 長期時系列表 製造業 事業所規模5〜29人・30人以上 年平均の総実労働時間（時間の値の行・事業所数でなく・前回は事業所数だけ取れた・4-104）（Monthly Labour Survey long-term time series manufacturing total hours worked annual average by establishment size 5-29 30+）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ43頁・検索18回）
+- 事業所数・社数：記載なし（読んだ43頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ43頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ43頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ43頁・検索18回）
+- 生産能力・設備：記載なし（読んだ43頁・検索18回）
+- 10年推移：記載なし（読んだ43頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ43頁・検索18回）
+
+## 法人企業統計 年報 時系列データ 製造業 資本金階級別の付加価値額と従業員数（同じ表の分子と分母の組・財務総研のExcel・freee など解説サイトを除く・4-104）（Financial Statements Statistics of Corporations annual time series manufacturing value added employees by capital size Excel MOF PRI）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ42頁・検索18回）
+- 事業所数・社数：記載なし（読んだ42頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ42頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ42頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ42頁・検索18回）
+- 生産能力・設備：記載なし（読んだ42頁・検索18回）
+- 10年推移：記載なし（読んだ42頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ42頁・検索18回）
+
+## 受託の熱処理・めっき・金属プレス・金型を本業とする上場会社の名前（業界団体の会員名簿と東証の業種「金属製品」を突き合わせる・自称の最大手でなく一覧で・4-105）（listed companies contract heat treatment plating stamping die making Japan TSE metal products association member list）
+- 文脈：会社・一次
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

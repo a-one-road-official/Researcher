@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・242品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・244品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2542,6 +2542,7 @@
   - 「情シスが遅い会社と進む会社の分岐点｜大企業でAIを回した6社の共通型」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「情シスが律速段階になる4つの構造と、パナソニックコネクト・DeNA・MUFG・SMBC・みずほ・旭化成の共通型を、一次データで解剖する業界オピニオン」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「本記事では、汎用型から専門型まで7つのAI製品を取り上げ、公開情報を用いて市場調」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「同じ入力でPoCを行い、単独採用か併用かを決める手順も示します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI Skillが増えすぎたらどう整理する？使われるSkillだけを残す棚卸し方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「架空の経費精算ヒアリングを例に、出所と適用条件を残し、同じ課題の出力を原典と照合して採否を決める方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2553,7 +2554,6 @@
   - 「Claude Fable 5とffmpeg、Piper/Coqui XTTS v2のローカルナレーションを組み合わせてYouTube動画編集を自動化する実装手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ClaudeとSnorbeを調査目的、情報源、根拠、履歴、定期実行、成果物、権限の7軸で比較し、30日競合調査のPoC手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「Hermes Agentの使い方とユースケース6選を実機で解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2571,6 +2571,7 @@
   - 「ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
+  - 「同じ入力でPoCを行い、単独採用か併用かを決める手順も示します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Patentfieldとは？特許検索・分析とAI査読の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「論文サーベイAIとZotero、EndNote、Mendeleyの違いを、探索、要約、引用管理、PDF整理など9つの役割で比較します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2585,7 +2586,6 @@
   - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「化学特許AIツール6選｜構造式・マーカッシュ対応の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 失敗・落とし穴：
   - 「2025年時点におけるAIエージェントとAGI（汎用人工知能）の違いとは？OpenAIやDeepMindなど専門家が描くAGIへの進化ロードマップや定義、経営者が知るべき投資判断、先駆者企業の成功と失敗事例まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2604,6 +2604,7 @@
   - 「そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 実例：
   - 「2026年7月24日にリリースされたClaude Opus 5と、Anthropic公式が公開した「Claude 5世代向けコンテキストエンジニアリング新ルール」を、Claude Codeシステムプロンプト80％削減の実例、残す3要素と削る4要素の判断基準、CLAUDE.mdを半分に減らす書き換え辞書7例、Fable 5との使い分けまで一気に整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Anthropic・VS Code・GitHub Copilotの公式ドキュメントで確認できる条件付き許可の設定と、許可リストが破られた実例、そして今の判断の賞味期限までを扱います」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ロボティクスと自動運転の実装事例から、製造業・物流業界に50兆ドル規模の変革をもたらす可能性まで詳しく分析」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIエージェントの強化学習とは？注目の手法、事例、論文から学ぶ自律的最適化の最新トレンド」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIエージェントと強化学習の現状とは？注目の手法から、ノーコード開発、実用の事例、注目の論文や研究開発のトレンドから強化学習とAIエージェントのトレンドを学びましょう」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2617,7 +2618,6 @@
   - 「Claude CodeとAPIの始め方、公開事例、受入テストを解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「Microsoft、Google、Metaの2024-2025年事例から読み解く6つの買収パターンと、統合後の「空洞化」を防ぐ実務的な管理手法」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「2024年の中国生成AIの事例・規制・スタートアップの覇権競争とは？2025年予測も解説！」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「5Forces分析とは？AI自動化の事例と月曜から使う手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -9262,22 +9262,23 @@
 ## 会社の公告方法を登記簿で確かめてから決算公告を探す方法（電子公告のURL・持分会社の公告不要）（company public notice method commercial register electronic public notice Japan）
 - 文脈：会社の数字
 - 手順・やり方：
-  - 「１－１．困ったら経団連のひな型を読む」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「会社法施行規則及び会社計算規則による株式会社の各種書類のひな型（改訂版） - 2022年11月1日 より抜粋」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「上記は経団連ひな型の計算書類の項から、個別注記表を抜粋したものです」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「１－２．決算公告の方法」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「公告の方法には下記3つがあります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「公告の方法は、会社の定款に定めることができます」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、定款に定めが無い場合は官報で掲載する方法とみなされます」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「官報および日刊新聞紙に掲載する方法のメリットは、貸借対照表の要旨（大会社にあたっては、貸借対照表および損益計算書の要旨）だけ掲載すればよく（会社法第440条2項）、公告すべき情報量が電子公告に比べて圧倒的に少なく済む点でしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「このような所謂、債権者異議申述公告は、定款に定められている公告方法に関係なく」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、官報と定款で定めた方法で二重に公告することで、」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「ベリーベスト法律事務所 新潟オフィス. “決算公告とは？ 具体的な方法や怠った場合の罰則などについて“, 2022.」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「公告とは？意味や公告方法の種類、変更手続きを解説 - 起業・開業お役立ち情報 - 弥生株式会社【公式】」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「公告とは？意味や公告方法の種類、変更手続きを解説」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「会社を設立するときに決める事の1つが、公告の方法です」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「一般的には、会社は決めた公告方法を定款で定めているため、定款の作成にあたって、「そもそも公告とは何だろう」「公告方法にはどんな種類があるのだろう」などと戸惑う方もいるかもしれません」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「公告には、官報への掲載などの他に電子公告などの方法もあり、それぞれの公告方法の違いを知っておく必要があります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「本記事では、公告の意味や公告方法の種類の他、定款で公告方法を定める際の記載例を解説します」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「会社設立後に公告方法を変更する場合に必要な手続きも紹介しますので、確認しておきましょう」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「官報公告は官報に特定の事項を掲載し周知させる公告方法」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「電子公告はオンラインで情報を公開する公告方法」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「公告方法の違いを知ったうえで定款に定めよう」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「公告の方法は3種類ある」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「公告には、「官報公告」「新聞公告」「電子公告」という3つの方法があります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「会社は公告方法として、この3つのいずれかを定款で定めることができます」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「公告方法は登記事項であり、登記簿にも記載されます」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「ただ、公告方法は、定款に必ず記載しなければならない絶対的記載事項ではないため、定款で公告方法を定めなくても法的に問題があるわけではありません」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
 - 突き合わせ・推定：
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「制度の要件と自社の運用体制を突き合わせたうえで、内製と外注の切り分けを検討することが実務的だといえるでしょう」（https://lassic.co.jp/media/column/electronic-public-notice/）
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-yarikata/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -9303,21 +9304,22 @@
   - 「「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 失敗・落とし穴：
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「官報公告を利用する際の注意点は、後述する電子公告に比べて費用がかかることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「新聞公告を利用する際の注意点は、他の公告方法に比べて費用が高額になることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「なお、決算公告以外の法定公告は電子公告調査を受ける必要がありますが、この調査にかかる費用は10万～20万円かかり、それも含めると官報に掲載する費用の3万～20万円より多くなる場合もあるため、注意が必要です」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「電子公告を利用する場合にも注意点があります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「定款の書き方は？記載事項ごとの書き方のポイントや注意点も解説」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「定款変更にかかる費用は？手続きの流れや注意点を解説」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「また、決算公告以外では調査機関の費用がかかる点に注意が必要です」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「Jira移行の5ステップ｜課題管理のデータを移す進め方と注意点」（https://lassic.co.jp/media/column/electronic-public-notice/）
   - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「実務上、非常に間違いやすいのが「電子公告」の登記との違いです」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
-  - 「ここを混同すると、前述した「減資の個別催告の省略（ダブル公告）」の手続きで失敗する原因になります」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
-  - 「つまり、期間の算定においては初日算入となりますので注意が必要です（民法第140条）」（https://llliii.jp/commercial-registration/3511/）
-  - 「・「5年の継続開示義務が残っている間は抹消できない（してはいけない）」という理解は誤り」（https://asanagi.co.jp/2025/10/11/25611/）
-  - 「：今年から官報に決算公告を再開（または移行）したのに、URL登記だけ残存しているケースに注意」（https://asanagi.co.jp/2025/10/11/25611/）
-  - 「・「継続開示5年が経ってから抹消する」が誤り」（https://asanagi.co.jp/2025/10/11/25611/）
-  - 「新規受任時 → 「間違い探し」としてURL登記の残存と実際の公告媒体」（https://asanagi.co.jp/2025/10/11/25611/）
-  - 「まず全体像を確認したうえで、具体的な手順、必要書類、費用の内訳、そして失敗しがちなポイントまで順番にお伝えします」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
-  - 「URLを決める際の注意点として、登記するURLは「トップページURL」ではなく「公告が実際に掲載されるページのURL」です」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
-  - 「公告方法の変更登記では、いくつかの落とし穴があります」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
 - 実例：
+  - 「掲載内容によって料金は異なりますが、例えば決算公告の場合、一般的には7万円程度の費用がかかります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
   - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「「決算公告だけはホームページで行う」として、この②の登記だけを単独で入れておくケース」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
@@ -9332,7 +9334,6 @@
   - 「を、提示ケースの範囲で整理します」（https://asanagi.co.jp/2025/10/11/25611/）
   - 「：今年から官報に決算公告を再開（または移行）したのに、URL登記だけ残存しているケースに注意」（https://asanagi.co.jp/2025/10/11/25611/）
   - 「・ケース1：公告方法を官報へ変更したが、URL抹消を失念」（https://asanagi.co.jp/2025/10/11/25611/）
-  - 「・ケース2：「継続開示5年が終わってから抹消」と誤解し、抹消を先送り」（https://asanagi.co.jp/2025/10/11/25611/）
 
 ## 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）（statistical revision policy guidelines error correction magnitude routine methodological revisions ESS handbook）
 - 文脈：推定
@@ -13999,6 +14000,37 @@
   - 「この記事では、中小製造業の技術を自社製品として昇華し、その販路開拓を伴走する合同会社メイクスアンドシングスと町工場プロダクツの取り組み事例をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
   - 「この記事では、私たちの経済活動を体系的・網羅的に集計した経済統計であるSNAと、企業会計の類似性について、統計データで検証した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
 - 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+
+## 登記簿をまたいで会社のつながり（親会社・役員・株主）をたどる実務（OpenCorporates・GIJN の企業記録の手引き・登記番号・届出の日付・住所の共有は根拠にしない）（tracing companies across corporate registries officers shareholders filing dates methodology OpenCorporates GIJN）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「Start with your countries, required fields and delivery method. Then test the same companies across your shortlist. A large headline database or a low API price tells you little about whether a record is usable in your actual KYB process.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「. This guide covers the wider shortlist and how to choose between different product categories.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Dataset scope, access method and licensing」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Make the next step a coverage test」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Tell us which companies, fields and delivery method matter to your workflow. Evaluate Zephira on usable records and documented evidence before deciding how to integrate it.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+- 突き合わせ・推定：
+  - 「Estimated automatically usable companies」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Estimated manual review workload」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Check whether your quote includes the required attempts, endpoints and consumption. This model does not predict that manual review will resolve every exception, and it does not estimate one-time integration cost.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+- 一次情報の探し方：
+  - 「Prepare a representative sample, ideally 50–100 companies across your actual countries and entity types. This is a practical starting point, not a statistically conclusive benchmark. Include difficult cases as well as easy ones: similar names, branches, inactive companies, holding structures and businesses with limited public filings.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Capture source, retrieval date, filing date and financial period separately. A recently fetched record can contain an older filing. Measure complete records against your own mandatory-field list.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Several listed products offer financial information, but countries, entity types, filing obligations and financial periods differ. Verify whether you receive structured filed statements, derived measures or a credit report, and check currency, units and source dates.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+- 実例：
+  - 「Provider shortlist by use case」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「The defaults below are editable examples, not vendor prices or measured performance. “Usable” means a company was matched and all fields required by your workflow were present. No input is sent to a server by this calculator.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Example monthly model:」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+  - 「Prepare a representative sample, ideally 50–100 companies across your actual countries and entity types. This is a practical starting point, not a statistically conclusive benchmark. Include difficult cases as well as easy ones: similar names, branches, inactive companies, holding structures and businesses with limited public filings.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+
+## 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）（Statistics Commission Japan consultation report survey change discontinuation sampling frame）
+- 文脈：統計の読み方
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

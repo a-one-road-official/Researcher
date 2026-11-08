@@ -1,0 +1,468 @@
+{
+ "name": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文）",
+ "en": "METI Census of Manufactures user notes original value of shipments value added definition by establishment size",
+ "aliases": [
+  "site:meti.go.jp 工業統計 利用上の注意 製造品出荷額等",
+  "site:meti.go.jp 工業統計 用語の解説 付加価値額 粗付加価値額",
+  "site:e-stat.go.jp 工業統計調査 利用上の注意 製造品出荷額等"
+ ],
+ "context": "全体・統計・全国",
+ "kind": "market",
+ "researched_at": "2026-11-08T12:59:28.929066+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/20681",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/sokuho.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000002165116&fileKind=2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_riyou_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep15/tyuui.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/NV.IND.MANF.CD",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.meti.go.jp/statistics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.meti.go.jp/statistics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/sokuho.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.jagat.or.jp/archives/20681"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/sokuho.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.meti.go.jp/statistics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/sokuho.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.jagat.or.jp/archives/20681"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.meti.go.jp/statistics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/sokuho.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.jagat.or.jp/archives/20681"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/sokuho.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.meti.go.jp/statistics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "METI Census of Manufactures user notes original value of shipments value added definition by establishment size Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.CD",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "https://tradingeconomics.com/japan/manufacturing-value-added-annual-percent-growth-wb-data.html",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文）",
+   "results": [
+    "https://note.com/dakudhigura/n/n3ff4d9959d60",
+    "https://note.com/powerpoint_jp/n/n5fe611924a90",
+    "https://note.com/trading_security/n/nf25162e8a33a",
+    "https://note.com/bellem/n/n0f5ed277c6f7",
+    "https://note.com/seisakushien/n/n94609f1b3f1c",
+    "https://note.com/fuji_kururi/n/ncb83ef65a7dc",
+    "https://note.com/andyfp_2025/n/n8642117c54b2",
+    "https://note.com/exportcontrol/n/n40e050e578a5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文）",
+   "results": [
+    "https://jp.linkedin.com/company/経済産業省",
+    "https://www.linkedin.com/jobs/?skipRedirect=true&''=true",
+    "https://jp.linkedin.com/in/航-高濱-a72baa379",
+    "https://www.linkedin.com/help/linkedin/answer/a8059228",
+    "https://jp.linkedin.com/posts/tuvsud_義務化まで約半年英国psti法のキーポイント-activity-7127563305824518144-CZap",
+    "https://jp.linkedin.com/posts/legalkaizen_日系メーカーが直面する1500億円の法的リスク警告表示という落とし穴-activity-7415033696908570624-weCh",
+    "https://www.linkedin.com/jobs/view/製造スペシャリスト-at-michael-page-3501517908"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文）",
+   "results": [
+    "https://www.facebook.com/meti4students/",
+    "https://www.facebook.com/groups/meti.tent/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/horei.gis/posts/ハイヤー運送における運送引受書等の作成保存について改正案旅客自動車運送事業運輸規則及び国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通/1703948274935291/",
+    "https://www.facebook.com/FoEJapan/videos/署名にご協力ください戦闘機やミサイルなど軍事装備にも使われるレアアースオーストラリアのライナス社はアメリカの国防総省戦争省とレアアースの供給契約を結びました加工/933391229287421/",
+    "https://www.facebook.com/hekotarehenkiyomi/videos/昨日のgx電源法審査日本以外の原発をもつ国は全て規制機関が運転期間を決めているのではと問うと西村経産大臣日本も規制委員会が運転期間を決めると驚きの発言規制委員長/797292412007083/",
+    "https://www.facebook.com/ecompl/posts/fdafood-and-drug-administrationアメリカ食品医薬品局とはアメリカ合衆国保健福祉省department-of-health-and-/1544685745594525/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/sokuho.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.jagat.or.jp/archives/20681"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 利用上の注意の原文（経産省の所管ページ・製造品出荷額等と付加価値額の規模の境目・自治体の写しでなく全国の原文） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "METI Census of Manufactures user notes original value of shipments value added definition by establishment size site:linkedin.com",
+   "results": [
+    "https://id.linkedin.com/in/kenneth-tjoeng-92281377",
+    "https://www.linkedin.com/in/lavanya-malakalapalli",
+    "https://ca.linkedin.com/in/mike-dowling-19650226",
+    "https://et.linkedin.com/in/ermias-teferi-3b105051",
+    "https://www.linkedin.com/posts/sprint-robotics_sprintrobotics-industrialrobotics-industrialinspection-activity-7519020305873346560-icUV",
+    "https://in.linkedin.com/in/jasmeet-singh-minocha-912627140",
+    "https://ca.linkedin.com/in/yong-kang-ma",
+    "https://ae.linkedin.com/in/alan24",
+    "https://ca.linkedin.com/in/sean-mcdade-7193393a",
+    "https://in.linkedin.com/in/abhishek-agarwal-49135154"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ24頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ24頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ24頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ24頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ24頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ24頁・検索18回）",
+  "10年推移": "記載なし（読んだ24頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ24頁・検索18回）"
+ }
+}

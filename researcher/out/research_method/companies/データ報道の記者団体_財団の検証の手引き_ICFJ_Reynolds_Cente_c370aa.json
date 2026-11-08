@@ -1,0 +1,406 @@
+{
+ "name": "データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）",
+ "en": "journalism foundation guide verifying statistics sources ICFJ Reynolds Center GIJN data quality",
+ "aliases": [
+  "site:icfj.org verify data numbers",
+  "site:businessjournalism.org statistics check",
+  "site:gijn.org verifying data quality databases"
+ ],
+ "context": "裏取り",
+ "kind": "market",
+ "researched_at": "2026-11-08T12:59:05.778504+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/masurakusuo/n/n9a7d3b11a395",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/reading_monkey/n/n944c3dd88609",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jsce/n/nb6ba4c9fbf3a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_takumi_inoue_/n/nb1a6c688a16c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazukio/n/n6d006d6486c3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asahi_ictrad/n/n47f391a81015",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.wingarc.com/open-data-handbook-50136",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-forum.org/resource14-for-female-journalists/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12300000/000943590.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chosakai.gr.jp/oshirase/%E3%80%8E%E8%A8%98%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-3/%E8%A8%98%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-foundation.or.jp/what/projects/media-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jams.media/20221111-koubunshokennshougatashuzai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000620312.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pressnet.or.jp/statement/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mhlw-grants.niph.go.jp/project/172133",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/ssiproceedings/2024/0/2024_95/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000621622.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hbf.or.jp/grants/event/3220/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inods.co.jp/topics/experts/8947/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/stories/investigating-with-databases-verifying-data-quality/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.library.unlv.edu/c.php?g=332881&p=5025339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icfj.org/news/essential-data-journalism-tips-and-resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datajournalism.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.csun.edu/journalism/verification-and-digital-reporting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thetijproject.ca/guide/introduction/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検） site:note.com",
+   "results": [
+    "https://note.com/masurakusuo/n/n9a7d3b11a395",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/reading_monkey/n/n944c3dd88609",
+    "https://note.com/jsce/n/nb6ba4c9fbf3a",
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/_takumi_inoue_/n/nb1a6c688a16c",
+    "https://note.com/dubooks/store",
+    "https://note.com/hiroron838861/n/n8cddd3dcc874",
+    "https://note.com/ssumisin/n/ncfd8f25bd2aa",
+    "https://note.com/akikito/n/n4158dfbc8ec0"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検） note",
+   "results": [
+    "https://note.com/kazukio/n/n6d006d6486c3",
+    "https://note.com/asahi_ictrad/n/n47f391a81015",
+    "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "https://data.wingarc.com/open-data-handbook-50136",
+    "https://j-forum.org/resource14-for-female-journalists/",
+    "https://www.mhlw.go.jp/content/12300000/000943590.pdf",
+    "https://note.com/kazukio/n/nd4f0e127fd31",
+    "https://github.com/arcatdmz/blog/blob/main/src/ja/2022-07-27-data-journalism.md",
+    "http://jcej.info/lib/?doc=handbook",
+    "https://www.jstage.jst.go.jp/article/ssiproceedings/2024/0/2024_95/_article/-char/ja/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検） やり方",
+   "results": [
+    "https://www.chosakai.gr.jp/oshirase/%E3%80%8E%E8%A8%98%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-3/%E8%A8%98%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF/",
+    "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
+    "https://www.nippon-foundation.or.jp/what/projects/media-solution",
+    "https://www.jams.media/20221111-koubunshokennshougatashuzai/",
+    "https://data.wingarc.com/open-data-handbook-50136",
+    "https://www.soumu.go.jp/main_content/000620312.pdf",
+    "https://j-forum.org/resource14-for-female-journalists/",
+    "https://www.pressnet.or.jp/statement/report/",
+    "https://www.trio-japan.jp/pr/improvement.html",
+    "https://www.jstage.jst.go.jp/article/ssiproceedings/2024/0/2024_95/_pdf/-char/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検） 事例",
+   "results": [
+    "https://www.mhlw.go.jp/content/12300000/000943590.pdf",
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://www.nippon-foundation.or.jp/what/projects/media-solution",
+    "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
+    "https://www.jams.media/20221111-koubunshokennshougatashuzai/",
+    "https://www.chosakai.gr.jp/oshirase/%E3%80%8E%E8%A8%98%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-3/%E8%A8%98%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF/",
+    "https://www.soumu.go.jp/main_content/000620312.pdf",
+    "https://mhlw-grants.niph.go.jp/project/172133",
+    "https://data.wingarc.com/open-data-handbook-50136",
+    "https://www.jstage.jst.go.jp/article/ssiproceedings/2024/0/2024_95/_pdf/-char/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "journalism foundation guide verifying statistics sources ICFJ Reynolds Center GIJN data quality",
+   "results": [
+    "https://gijn.org/stories/investigating-with-databases-verifying-data-quality/",
+    "https://guides.library.unlv.edu/c.php?g=332881&p=5025339",
+    "https://www.icfj.org/news/essential-data-journalism-tips-and-resources",
+    "https://www.youtube.com/watch?v=Zo00y1gK_QQ",
+    "https://datajournalism.com/",
+    "https://libguides.csun.edu/journalism/verification-and-digital-reporting",
+    "https://thetijproject.ca/guide/introduction/",
+    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
+    "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "https://www.icfj.org/news/working-data-heres-how-verify-your-sources-and-numbers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）",
+   "results": [
+    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "https://note.com/hankshih_/n/n6fb9b86014dd",
+    "https://note.com/lyco_pene/n/nd1230e17e3e3",
+    "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "https://note.com/kunugiyama123/n/n207653cb77df",
+    "https://note.com/haradaiko1/n/nee30d9a777cc",
+    "https://note.com/roumulabo/n/n72f5646f2ae9",
+    "https://note.com/inaka_ai_bocchi/n/n22d811ae50bf",
+    "https://note.com/loyal_ivy9071/n/n9f8ac4bd7d24",
+    "https://note.com/ichi_twnovel/n/nc49098104ba2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）",
+   "results": [
+    "https://x.com/minamibiwako/status/1240382885468598272",
+    "https://x.com/upfjapan/status/2059257864250925248",
+    "https://x.com/fujisiro/status/2098066117566828589",
+    "https://x.com/kobesyakai/status/2061575772511584561",
+    "https://x.com/senkyo_kensyo",
+    "https://x.com/hiruandon_0/status/2070427565588922757",
+    "https://x.com/t_nihonmatsu/status/2050200376008495466",
+    "https://x.com/kobesyakai/status/1943192667082674503"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）",
+   "results": [
+    "https://www.linkedin.com/help/linkedin/answer/a547077?lang=ja",
+    "https://de.linkedin.com/in/peter-huber-64293714",
+    "https://jp.linkedin.com/pulse/smarter-standards-stronger-missions-how-common-cy4ne?tl=ja",
+    "https://jp.linkedin.com/posts/誠之-鈴木-6229041a5_地域ジャーナリズムデータ報道osintオープンソースインテリジェンス推進-activity-7482955138614087680-th58",
+    "https://www.linkedin.com/posts/kenjiasada_17日土曜日日本記者クラブ土曜記者ゼミ調査報道でジャーナリスト記者向けに-activity-7012433755495694336-Pzqj",
+    "https://jp.linkedin.com/pulse/how-data-shaping-future-foundations-ontnf?tl=ja",
+    "https://jp.linkedin.com/pulse/foundation-building-trust-quality-data-tim-farmer-bhree?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）",
+   "results": [
+    "https://www.facebook.com/WatchdogAccuracyNewsJapan/",
+    "https://www.facebook.com/NipponZaidan/posts/1013火開催第5回社会課題解決のための報道手法研究会参加者募集-日本財団では報道を通じて社会課題の解決を目指す課題解決型報道プロジェクトの一環として連続研究会/1565723395581184/",
+    "https://www.facebook.com/ipaprjp/posts/プレスリリースデータ連携の仕組みに関するガイドラインの手引き-サプライチェーン共通編を改訂し20-版を公開しました本書はサプライチェーンにおける企業間データ連携/1788709496592590/",
+    "https://www.facebook.com/ipaprjp/posts/プレスリリースデータ連携の仕組みに関するガイドラインの手引き-サプライチェーン共通編-10版を公開しましたサプライチェーンにおける企業間のデータ連携を推進し安全/1553688816761327/",
+    "https://www.facebook.com/reel/1776096570006381/",
+    "https://www.facebook.com/NipponZaidan/posts/914月開催第4回社会課題解決のための報道手法研究会のご案内長期連載8がけ社会がめざす課題解決型報道をテーマに第4回社会課題解決のための報道手法研究会を開催いた/1531898622296995/",
+    "https://www.facebook.com/WatchdogAccuracyNewsJapan/posts/お知らせ日本報道検証機構は諸般の事情から事業継続が困難となり2019年8月29日をもって解散することが決まりました皆様からいただきました多大なるご支援に心から御/3087986984606745/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検） note 社長",
+   "results": [
+    "https://note.com/kazukio/n/n6d006d6486c3",
+    "https://note.com/asahi_ictrad/n/n47f391a81015",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
+    "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "https://note.com/yomi_tokyo_saiyo/n/nc665acccdcd7",
+    "https://data.wingarc.com/open-data-handbook-50136",
+    "https://www.jiyujyutaku-navi.com/en-us/column/tag/report",
+    "https://www.asahi.com/articles/ASS7T11CNS7TUPQJ002M.html",
+    "http://jcej.info/lib/?doc=handbook",
+    "https://ja.wikipedia.org/wiki/角川歴彦"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検） X 投稿",
+   "results": [
+    "https://www.pressnet.or.jp/news/headline/250612_15910.html",
+    "https://www.soumu.go.jp/menu_kyotsuu/policy/snspolicy.html",
+    "http://jcej.info/lib/?doc=handbook",
+    "https://www.pref.miyagi.jp/documents/64857/1-3-1urushida.pdf",
+    "https://help.x.com/ja/rules-and-policies/twitter-rules",
+    "https://jp.weforum.org/stories/industries-in-depth/social-media-incentive-structures-combat-misinformation",
+    "https://www.jams.media/20221111-koubunshokennshougatashuzai/",
+    "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
+    "https://news.web.nhk/newsweb/na/na-k10015023391000",
+    "https://www.jstage.jst.go.jp/article/ssiproceedings/2024/0/2024_95/_pdf/-char/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "journalism foundation guide verifying statistics sources ICFJ Reynolds Center GIJN data quality site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/advice/0/what-best-ways-verify-statistics-skills-journalism-sortf",
+    "https://www.linkedin.com/posts/global-investigative-journalism-network_10-practical-tips-for-verifying-scientific-activity-7495135581409140736-fFHn",
+    "https://pe.linkedin.com/advice/3/how-can-you-edit-statistics-accuracy-skills-journalism-b0yic",
+    "https://ng.linkedin.com/company/reynoldscenter",
+    "https://uk.linkedin.com/posts/global-investigative-journalism-network_top-10-guides-and-tipsheets-from-gijns-resource-activity-7011412226850873345-Lg_2",
+    "https://www.linkedin.com/top-content/science/science-journalism-insights/evaluating-sources-in-science-reporting/",
+    "https://www.linkedin.com/advice/3/what-best-practices-data-research-journalism-skills-data-research"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T12:59:05.778504+00:00"
+}

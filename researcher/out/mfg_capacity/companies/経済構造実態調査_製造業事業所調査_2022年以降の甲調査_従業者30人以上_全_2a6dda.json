@@ -1,0 +1,600 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105）",
+ "en": "Economic Construction Survey manufacturing establishments 2022 large establishments census small establishments sample standard error",
+ "aliases": [
+  "site:meti.go.jp 経済構造実態調査 製造業事業所調査 乙調査 推計 標準誤差率",
+  "site:e-stat.go.jp 経済構造実態調査 製造業事業所調査 産業細分類 従業者規模別",
+  "経済構造実態調査 製造業事業所調査 利用上の注意 30人以上 4人以上29人以下"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T12:59:16.169787+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "2022 Economic Census Methodology",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Within 2022 Economic Census Technical Documentation",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "are in operation for at least some part of 2022",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "are classified in one of nineteen in-scope sectors defined by the 2022 North American Industry Classification System (NAICS)",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "The 2022 Economic Census covers the following NAICS sectors of the U.S. economy:",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "11 – Agriculture, Forestry, Fishing and Hunting (new for 2022)",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "The following industries (NAICS) are not covered by the 2022 Economic Census:",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "it must be classified into an in-scope NAICS industry according to the 2017 NAICS definitions,",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "it must be an active establishment of a multi-establishment firm, or it must be a single-establishment firm with at least one quarter of 2022 administrative payroll or 2021Q4 administrative payroll, and",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "The sample component of the 2022 Economic Census consists of four parts:",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Any single-establishment firms that started business operations so late in 2022 (mostly in the 4th quarter) that their 2022 administrative payroll was not received by the Census Bureau until after the 2022 sample was selected – roughly 110,000 firms.",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Single-Establishment Firms with 2022 Payroll",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "The reference period is the calendar year 2022. Information for businesses selected into the Economic Census can be found at",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": ". The 2022 Economic Census questionnaires are available at",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022 Economic Census Survey Repository",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "The 2022 Economic Census was collected entirely online. Paper questionnaires were made available for establishments located in the island areas. See the",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "deriving the missing data item using 2017 Economic Census data",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Suppressions using ‘Q’ and ‘N’ flags remain in place in the 2022 Economic Census for estimates of number of establishments with activity in specific products defined by NAPCS-based collection codes. Firm-level responses make it impossible to estimate the number of establishments with specific product activity.",
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "pass": 3
+   },
+   {
+    "quote": "April 2025, Revised September 2026",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "approximately 13 cents in 2002 and 20 cents by 2017. Using a gravity framework, we find that",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025). When foreign inputs are embedded in a country’s exports, import tariﬀs act as a tax",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "on production that can decrease employment (e.g., Flaaen and Pierce, 2024) and exports",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(e.g., Handley, Kamal and Monarch, 2025). Our ﬁndings extend this logic to bilateral trade",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the-envelope quantiﬁcation based on the 2025 tariﬀ episode, we show that our Census-based",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1Examples of multi-country IO tables include OECD (2024); WIOD (2023); Casella, Bolwijn, Moran and",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Kanemoto (2019) that enable industry-country GVC analysis at scale.",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and 2017.2 To construct our measure, we employ two administrative Census data sets: the",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Kamal and Ouyang, 2020), and the Census of Manufactures (CMF), which contains detailed",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022c). A distinctive feature of our methodology is to use supplementary establishment-level",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "constructed from the World Input-Output Database (WIOD, 2023) maintaining the same",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, using a back-of-the-envelope quantiﬁcation exercise based on the 2025 tariﬀ",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Census-based value, and thus overstate the deﬁcit reduction from the 2025 tariﬀs by $12",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Johnson and Noguera, 2017; Borin and Mancini, 2023); see Antr` as and Chor (2022) for a",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and Noguera (2017); Laget, Osnago, Rocha and Ruta (2020)). Our contribution is to con-",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "level linkages between production and trade, Kee and Tang (2016) and Bems and Kikkawa",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2021) show that national IO tables aggregate out ﬁrm heterogeneity in export and import",
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&iroha=10&toukei=00200552&tstat=000001155746&result_page=1&statdisp_id=0004003120",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Construction Survey manufacturing establishments 2022 large establishments census small establishments sample standard error Japan statistics",
+   "results": [
+    "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html",
+    "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.nber.org/system/files/working_papers/w33724/w33724.pdf",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&iroha=10&toukei=00200552&tstat=000001155746&result_page=1&statdisp_id=0004003120",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://fass.nus.edu.sg/ecs/wp-content/uploads/sites/4/2022/05/Firm-Growth-through-New-Establishments-Professor-Toshihiko-Mukoyama.pdf",
+    "https://www.imes.boj.or.jp/research/papers/english/me27-5.pdf",
+    "https://www.census.gov/programs-surveys/economic-census/year/2022/news-updates/ecdata-releases.html",
+    "https://www.e-stat.go.jp/en/stat-search/database?page=1&toukei=00200552&tstat=000001155746&cycle=0&tclass1=000001155747&tclass2=000001155748&layout=datalist&tclass3val=0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105）",
+   "results": [
+    "https://note.com/jack4manastalk/n/nae2210dd64f8",
+    "https://note.com/dakudhigura/n/nb5338bced6f1",
+    "https://note.com/kens_reading1/n/n3a82d8634512",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://note.com/asagaya106/n/n7857b8a4fdf1",
+    "https://note.com/ogawa_tech/n/nb0d05b22a981",
+    "https://note.com/sghr_tkn/n/n3fdd6b4b0a55",
+    "https://note.com/hitorikaisha/n/n42e0d148e277"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105）",
+   "results": [
+    "https://pulse.linkedin.com/",
+    "https://www.linkedin.com/in/hayetegallot",
+    "https://be.linkedin.com/company/ecs-intermodal-supply-chain",
+    "https://jp.linkedin.com/pulse/setting-up-culture-employee-retention-2022-beyond-manas-bhatnagar?tl=ja",
+    "https://jp.linkedin.com/posts/narumi-maruyama-33690022a_パーソル総合研究所世界18カ国地域の主要都市における-就業実態成長意識に関する-activity-6996031751693238272-Xk6k",
+    "https://www.linkedin.com/posts/pwc-japan-グループ_ex従業員エクスペリエンスサーベイ2022-23-従業員エンゲージメント向上-activity-7117705423176024065-kOn6",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105）",
+   "results": [
+    "https://www.facebook.com/yanepro2015/photos/遅くないですかね屋根ガイドラインではもうかなり前から弊社の標準も10年以上前から全数ステン釘留めで行ってます/2775289512714732/",
+    "https://www.facebook.com/ecensus2026/photos/データで見るニッポンの産業図鑑日本の産業のすがたをデータでひもとくニッポンの産業図鑑を公開しました経済センサス活動調査のデータをもとに都道府県ごとの従業者数ラン/122133293493121431/",
+    "https://www.facebook.com/PwCJapan/posts/ex従業員エクスペリエンスサーベイ2022-23pwcコンサルティングが実施した調査の結果をもとにex向上に向けた国内企業の取り組み状況を明らかにするとともにe/711876940968652/",
+    "https://www.facebook.com/rinyajapan/posts/山林素地及び山元立木価格調2022年3月末の調査結果が公表されました-一般財団法人日本不動産研究所は毎年全国の林業事情を最もよく反映していると認められる市町村を/8185252108215148/",
+    "https://www.facebook.com/prizef355/photos/355チャレンジのエンジンが内燃機関加工から戻るぼちぼち組み立て開始しないとん組付用の部品も全数揃えたf129用に作ったメタルガスケットがあったはずなのに部品庫/1550394103210075/",
+    "https://www.facebook.com/yumesoso.jp/posts/全数把握見直し対策の全体像を示せ福島民報-2022825-論説httpswwwminpojpnewsmoredetail2022082599988/5878688985488176/",
+    "https://www.facebook.com/berd.benesse.jp/posts/725367696048595/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降の甲調査（従業者30人以上・全数）と乙調査（4〜29人・抽出）の別の結果表と標準誤差率（受託の細分類・抽出の推計を全数の系列とつながない・4-105） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003953.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Construction Survey manufacturing establishments 2022 large establishments census small establishments sample standard error site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/andrew-foote-ab2b8911",
+    "https://www.linkedin.com/in/jodibeggs",
+    "https://uk.linkedin.com/in/ziscenko",
+    "https://www.linkedin.com/in/filipjolevski",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/in/damon-runberg",
+    "https://www.linkedin.com/in/jennschoeneck",
+    "https://www.linkedin.com/in/matthewnestlerphd",
+    "https://www.linkedin.com/in/jan-j-j-groen-654b0815",
+    "https://www.linkedin.com/in/michaelsdorman"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ15頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ15頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ15頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ15頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ15頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ15頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ15頁・検索18回）"
+ }
+}

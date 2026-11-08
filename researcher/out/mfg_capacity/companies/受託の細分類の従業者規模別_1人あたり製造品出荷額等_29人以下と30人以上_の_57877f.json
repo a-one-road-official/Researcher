@@ -1,0 +1,459 @@
+{
+ "name": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く）",
+ "en": "national Census of Manufactures table by industry detailed classification and employee size class e-Stat",
+ "aliases": [
+  "site:e-stat.go.jp 工業統計調査 産業細分類別 従業者規模別 電気めっき業",
+  "site:e-stat.go.jp 工業統計調査 産業細分類別 従業者規模別 金属熱処理業",
+  "site:e-stat.go.jp 工業統計調査 産業細分類別 従業者規模別 金属プレス製品製造業"
+ ],
+ "context": "全体・規模別・全国",
+ "kind": "market",
+ "researched_at": "2026-11-08T12:59:17.854295+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325902",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&stat_infid=000040197150",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_outline_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://resas.go.jp/industry-manufactured-goods/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/asm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106256&tclass2=000001107036&tclass3=000001114545&stat_infid=000031721990&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/SBS_SC_OVW/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/info/news/20220630.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325902"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "national Census of Manufactures table by industry detailed classification and employee size class e-Stat Japan statistics",
+   "results": [
+    "https://www.e-stat.go.jp/en/stat-search",
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106256&tclass2=000001107036&tclass3=000001114545&stat_infid=000031721990&tclass4val=0",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://ec.europa.eu/eurostat/databrowser/view/SBS_SC_OVW/",
+    "https://www.stat.go.jp/english/info/news/20220630.html",
+    "https://www.statista.com/statistics/640247/japan-manufacturing-employee-number-by-industry/?srsltid=AYCX9vJ9KkrXfDwALiiwxfj8KItI2pZpDEEYCySrTh4UD3Ot5NXrewKL",
+    "https://www.e-stat.go.jp/en",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539?hl=en",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く）",
+   "results": [
+    "https://note.com/yamanaka_kan/n/n461633293411",
+    "https://note.com/yamanaka_kan/n/n9a1220eccf9b",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/kens_reading1/n/n213b18c76ea1",
+    "https://note.com/yamanaka_kan/n/nfbfe45515232",
+    "https://note.com/nagatacho_5/n/ncb80486483f4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く）",
+   "results": [
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/RealBizInvestor/status/2079899005606310100",
+    "https://x.com/gov_online/status/2004379136534757866",
+    "https://x.com/jftc/status/2067903984204214477",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/meti_chusho/status/2103404215829971276",
+    "https://x.com/OgawaSeisakusho/status/2107272375482175630"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く）",
+   "results": [
+    "https://www.facebook.com/maffjapan/posts/統計情報令和７年産みかんりんご等の栽培面積結果樹面積収穫量及び出荷量を公表しましたので概要を紹介します-１-みかん栽培面積は３万5600ha結果樹面積は３万38/1447262004106674/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/",
+    "https://www.facebook.com/100088886342216/posts/舞台技術サービス事業日本標準産業分類承認の件第14回日本標準産業分類改正令和6年4月1日施行において舞台技術スタッフを指す産業分類番号として大分類n-生活関連サ/224951593811051/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類の従業者規模別 1人あたり製造品出荷額等（29人以下と30人以上）の全国の表（e-Stat の工業統計調査 産業別統計表・市町村の写しを除く） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001176883&result_page=1&statdisp_id=0004035173",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000031861744&layout=datalist&statdisp_id=0003389976",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325902",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "national Census of Manufactures table by industry detailed classification and employee size class e-Stat site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/kirk-white-17b42a285",
+    "https://www.linkedin.com/in/jeffreyrwinter",
+    "https://my.linkedin.com/in/mohd-yusof-bin-muhamad-12929a299",
+    "https://in.linkedin.com/in/ritu-sundrani-a65b081b1",
+    "https://www.linkedin.com/pulse/who-actually-losing-factory-jobs-china-richard-baldwin-mwztf",
+    "https://www.linkedin.com/in/kavita-mathur-60a9461a",
+    "https://www.linkedin.com/pulse/us-dental-laboratory-market-comprehensive-analysis-industry-vzgmc",
+    "https://www.linkedin.com/in/prathmeshtare",
+    "https://www.linkedin.com/in/bleditaska",
+    "https://www.linkedin.com/in/yingyan-zhao-06567361"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ23頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ23頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ23頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ23頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ23頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ23頁・検索18回）",
+  "10年推移": "記載なし（読んだ23頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ23頁・検索18回）"
+ }
+}
