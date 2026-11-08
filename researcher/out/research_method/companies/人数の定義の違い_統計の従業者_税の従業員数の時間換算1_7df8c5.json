@@ -1,0 +1,416 @@
+{
+ "name": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1",
+ "en": "800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方",
+ "aliases": [
+  "headcount definitions full-time equivalent persons engaged statistics vs payroll employees revenue per employee comparison"
+ ],
+ "context": "従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意",
+ "kind": "market",
+ "researched_at": "2026-11-08T10:44:04.380005+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/epolicy_actvst/n/nfe616fc0d062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kanrisya_note/n/n21ec9ccea6e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nae9df1cf865b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n687dbc5ad6ad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n5769888c462c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nfb5df29ab5d5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.kyoto.lg.jp/gyozai/page/0000173244.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/watarutomita/n/na7bb0ed85e6c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/consolidate/webcolumn/023727/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.shimane.lg.jp/life/zei/ken/tokei/index.data/201803-01bunkatu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pendel.jp/topics/column/45791/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sigma-tax.or.jp/blog/2987/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/427525.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.toyohashi.lg.jp/secure/8333/hojin_q_a_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyitems/definitions/28923",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/zeimu/type/houjin_d/fil/bunnkatukijyunnayamarijir.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/documents/195635/r4_bunkatu-kijun-guidebook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000928642.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyitems/definitions/26160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000495533.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gov-online.go.jp/article/202209/entry-10068.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.adp.com/resources/adp-articles-and-insights/articles/w/what-are-the-conditions-for-joining-social-insurance.aspx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nenkin.go.jp/section/faq/kounen/hihokensha/20140902-07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/payroll/basic/57460/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukidan.jp/navi/column/insurance/6052/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1 site:note.com",
+   "results": [
+    "https://note.com/epolicy_actvst/n/nfe616fc0d062",
+    "https://note.com/kanrisya_note/n/n21ec9ccea6e0",
+    "https://note.com/hirokimiyano/n/nae9df1cf865b",
+    "https://note.com/hirokimiyano/n/n687dbc5ad6ad",
+    "https://note.com/hirokimiyano/n/n5769888c462c",
+    "https://note.com/hirokimiyano/n/nfb5df29ab5d5",
+    "https://note.com/sasaki_nobukazu/n/na009632e3b97",
+    "https://note.com/hirokimiyano/n/nc696577af0cb",
+    "https://note.com/nekota_toure/n/n5b85379a997e",
+    "https://note.com/kabuberry_/n/n8e5c05db35e3"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1 note",
+   "results": [
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
+    "https://www.city.kyoto.lg.jp/gyozai/page/0000173244.html",
+    "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://note.com/watarutomita/n/na7bb0ed85e6c",
+    "https://www.tkc.jp/consolidate/webcolumn/023727",
+    "https://www.pref.shimane.lg.jp/life/zei/ken/tokei/index.data/201803-01bunkatu.pdf",
+    "https://www.city.okayama.jp/faq/faq_detail.php?frmId=343",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
+    "https://www.globalization-partners.com/jp/blog/what-is-full-time-equivalent-fte/",
+    "https://www.e-stat.go.jp/surveyitems/definitions/28923"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1 やり方",
+   "results": [
+    "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
+    "https://www.city.kyoto.lg.jp/gyozai/page/0000173244.html",
+    "https://www.tkc.jp/consolidate/webcolumn/023727",
+    "https://www.pendel.jp/topics/column/45791/",
+    "http://sigma-tax.or.jp/blog/2987/",
+    "https://www.pref.shimane.lg.jp/life/zei/ken/tokei/index.data/201803-01bunkatu.pdf",
+    "https://www.pref.aichi.jp/uploaded/attachment/427525.pdf",
+    "https://www.city.toyohashi.lg.jp/secure/8333/hojin_q_a_2.pdf",
+    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1 事例",
+   "results": [
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
+    "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://www.city.kyoto.lg.jp/gyozai/page/0000173244.html",
+    "https://www.tkc.jp/consolidate/webcolumn/023727",
+    "https://www.pref.fukui.lg.jp/doc/zeimu/type/houjin_d/fil/bunnkatukijyunnayamarijir.pdf",
+    "https://www.pref.shimane.lg.jp/life/zei/ken/tokei/index.data/201803-01bunkatu.pdf",
+    "https://www.pendel.jp/topics/column/45791/",
+    "http://sigma-tax.or.jp/blog/2987/",
+    "https://www.pref.saitama.lg.jp/documents/195635/r4_bunkatu-kijun-guidebook.pdf",
+    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方",
+   "results": [
+    "https://www.gov-online.go.jp/article/202209/entry-10068.html",
+    "https://jp.adp.com/resources/adp-articles-and-insights/articles/w/what-are-the-conditions-for-joining-social-insurance.aspx",
+    "https://www.nenkin.go.jp/section/faq/kounen/hihokensha/20140902-07.html",
+    "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
+    "https://biz.moneyforward.com/payroll/basic/57460/",
+    "https://www.chukidan.jp/navi/column/insurance/6052/",
+    "https://ogiu-sr.com/jinjiroumuyougo/3700/",
+    "https://aspit.jp/column/post_70/",
+    "https://bowgl.com/workstyle-innovation/social-insurance-participation-conditions/",
+    "https://www.jil.go.jp/institute/research/2026/documents/268_01.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 人数の定義の違い（統計の従業者・税の従業員数の時間換算1",
+   "results": [
+    "https://note.com/epolicy_actvst/n/nfe616fc0d062",
+    "https://note.com/kanrisya_note/n/n21ec9ccea6e0",
+    "https://note.com/hirokimiyano/n/nae9df1cf865b",
+    "https://note.com/sasaki_nobukazu/n/na009632e3b97",
+    "https://note.com/hirokimiyano/n/nc696577af0cb",
+    "https://note.com/kabuberry_/n/n8e5c05db35e3",
+    "https://note.com/myconsulting/n/n64c5354737fa",
+    "https://note.com/hirokimiyano/n/n51559a018236",
+    "https://note.com/hirotsuchida/n/n6be05553e791",
+    "https://note.com/grand_holly7207/n/n09bab85046f8"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 人数の定義の違い（統計の従業者・税の従業員数の時間換算1",
+   "results": [
+    "https://x.com/luigi_jpn/article/2094562625690755302",
+    "https://x.com/jpcpr0301",
+    "https://x.com/mirai_ai_growth",
+    "https://x.com/take4_fire",
+    "https://x.com/yashiroHighness",
+    "https://x.com/sheba37689131",
+    "https://x.com/eimei0080",
+    "https://x.com/Jut2334",
+    "https://x.com/surfrider883",
+    "https://x.com/maekaz0701"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 人数の定義の違い（統計の従業者・税の従業員数の時間換算1",
+   "results": [
+    "https://jp.linkedin.com/in/takeru-kusumoto-5ba69aa7",
+    "https://jp.linkedin.com/in/shuichi-hirono-467655256",
+    "https://jp.linkedin.com/in/kazuya-matsuda-924186246",
+    "https://jp.linkedin.com/in/chiyono-tanabe-6669541aa",
+    "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
+    "https://jp.linkedin.com/in/kosuke-arai-5a0a661b3",
+    "https://jp.linkedin.com/in/shinobu-hatomi-526ba5311",
+    "https://jp.linkedin.com/in/%E8%99%8E%E5%A4%AA%E9%83%8E-%E5%B2%A1%E6%9D%91-945b49285",
+    "https://www.linkedin.com/posts/tatsuhiko-higashiki-81898139_httpslnkdingbumg7sj-推測統計学においてサンプル数-activity-6954177759879340032-6GVN",
+    "https://jp.linkedin.com/posts/航-中山-660b26304_従業員数の開示についてご相談を受けることがあります-開示済みの有価証券報告書-activity-7488367763875602435-vwYc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 人数の定義の違い（統計の従業者・税の従業員数の時間換算1",
+   "results": [
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/p/%E4%B8%B8%E4%B8%80%E9%87%91%E5%B1%9E%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100046665287100/",
+    "https://www.facebook.com/loophole.news/",
+    "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/",
+    "https://www.facebook.com/QingMuGongRenHuiJiShishuiLiShiShiWuSuo/posts/経営者と従業員の数字に対する考え方の違い経営者は時間単価で考え従業員はコストの額そのもので考える例えば2時間の作業時間削減コスト1万円増の提案売上の時間単価が2/1511068780626950/",
+    "https://www.facebook.com/kayano55/videos/独立起業した人の年商売上と年収所得利益は個人事業主のままでいるか会社を設立して法人化しているかによって数字の定義や実態が大きく異なります公的な統計データに基づく/980333678470506/",
+    "https://www.facebook.com/Growing.Machida/posts/コラム法人税所得税の税務調査統計法人の方が入られるイメージ-税務調査とは法人個人が行った申告に対して申告内容が正しいかどうかを税務署が調査することです何となく法/5649206178516059/",
+    "https://www.facebook.com/JSDA.PR/posts/2025年6月末における協会員の従業員数登録外務員数をとりまとめましたので是非ご覧ください証券-従業員数-登録外務員/1071559741779124/",
+    "https://www.facebook.com/EYJapanOfficial/posts/税務速報-国際税務-に関する情報をピックアップしてお届けしますoecd国別報告書を含む法人税統計第6版を公表httpsgoeycom3xjpyag法人税統計-多/982122727259048/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1 note 社長",
+   "results": [
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
+    "https://www.city.kyoto.lg.jp/gyozai/page/0000173244.html",
+    "https://note.com/watarutomita/n/na7bb0ed85e6c",
+    "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://www.tkc.jp/consolidate/webcolumn/023727",
+    "https://chukyo-kaikei.com/column/column-29985/",
+    "https://www.pref.shimane.lg.jp/life/zei/ken/tokei/index.data/201803-01bunkatu.pdf",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
+    "https://files.microcms-assets.io/assets/193e1e39fe204768ae8f1376b16c1aca/1e259e084a9842b1bb2df8e9a4be150f/News_Letter_Tax-Vol.67.pdf",
+    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1 X 投稿",
+   "results": [
+    "https://www.city.kyoto.lg.jp/gyozai/page/0000173244.html",
+    "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
+    "https://www.tkc.jp/consolidate/webcolumn/023727",
+    "https://www.city.okayama.jp/faq/faq_detail.php?frmId=343",
+    "https://www.pendel.jp/topics/column/45791/",
+    "https://www.city.toyohashi.lg.jp/secure/8333/hojin_q_a_2.pdf",
+    "https://www.pref.shimane.lg.jp/life/zei/ken/tokei/index.data/201803-01bunkatu.pdf",
+    "http://sigma-tax.or.jp/blog/2987/",
+    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方 site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/shinya-tadamatsu-609722161",
+    "https://economicgraph.linkedin.com/",
+    "https://www.linkedin.com/company/siemens",
+    "https://jp.linkedin.com/posts/fumitakaitoh_コンサルティングファームの在籍者数はどう変化している2025年7月時点の最新データ-activity-7351902261842804736-bPZH",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://www.linkedin.com/pulse/社員100人を目指す経営はもう古いのか-鉉道-李-eitcc/",
+    "https://jp.linkedin.com/posts/剛-野村-58844a20b_ベイカレント社の勢い凄い約800人採用か大手sierと同等の採用数週刊東洋経済-activity-7377478855810490369-wQYr",
+    "https://jp.linkedin.com/posts/codawari_グローバルのコンサルファームの社員数一覧big4アクセンチュアα-2025-activity-7389968245237129216--L31"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T10:44:04.380005+00:00"
+}

@@ -3854,11 +3854,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -7466,6 +7466,7 @@
 - 手順・やり方：
   - 「【オンライン商談の進め方】ツール比較から資料作成のコツまでを徹底解説！」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「Grok（グロック）の使い方を徹底解説！ChatGPTとの違いや料金プラン、活用事例まで網羅」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「マーケティング戦略のコンセプトは「コンテンツとコードへの集中投資」小さなチームが勝てる方法を徹底して実践する」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「歯科ホームページでの差別化方法とは？制作事例からポイントを解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「X（旧Twitter）の企業アカウント運用のコツ！導入フローや成功事例も紹介」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「Felo（フェロー）とは？日本発AI検索エンジンの使い方や料金、Perplexityとの違いを徹底解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7478,7 +7479,6 @@
   - 「AI時代に「選ばれる」ホワイトペーパーの条件とは？BtoBマーケティングの勝機は“提案型×二刀流”にあり！｜FUNGRY Planner’s FILE #01」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「集客とマーケティングは違う？成果を出す戦略と目的ごとに有効な集客方法を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「／ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
 - 突き合わせ・推定：
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -9691,11 +9691,11 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
 - 文脈：照合
@@ -11489,13 +11489,13 @@
   - 「UTXO、おつり、TXID:vout、Spentの4語だけで追跡方法を整理」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「ACH surfaces disagreements within analytical teams. Bureaucratic pressure to produce unified assessments can push analysts to abandon methodological rigor in favor of consensus」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
   - 「— adversarial countermeasures against analytical methodology」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「タスクマネージャの使い方・便利な使い方・解析利用方法と分析ポイントを初心者向けに完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「基本の使い方から、サイバーセキュリティのプロが実践する解析手法まで初心者向けに完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Foundational methodology, investigative pivots, and operational security for digital investigations. This is how investigators structure their work to produce defensible findings · not a list of tools, but a framework for thinking about and executing OSINT systematically.」（https://theosintvault.io/osint-handbook）
+  - 「The OSINT Vault emphasizes a workflow-first approach. Tools are not the work; they support it. Every investigation begins with a defined question, a set of hypotheses, and a plan for validating or disproving those hypotheses. The steps in this handbook align with the workflow tooling on the platform, including the」（https://theosintvault.io/osint-handbook）
+  - 「Throughout this handbook, "identifier" refers to any handle, email, phone number, domain, or image that can be used as a pivot. "Pivot" refers to any new lead derived from that identifier. "Validation" means cross-referencing multiple independent sources to confirm a relationship. These terms are not optional; they define how to avoid false attribution.」（https://theosintvault.io/osint-handbook）
+  - 「Precision search is the next step. Instead of ad-hoc queries, analysts create repeatable search strings that can be run later for verification. The」（https://theosintvault.io/osint-handbook）
   - 「加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「要性に余り理解を示さなかったのは、軍の教育機関において情報の分析方法が」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「した「合理的敵情判断ノ方法」及び「敵情補充ノ原則」である14」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「このほか、情報分析方法について論じたものとしては以下を参照のこ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「「合理的敵情判断ノ方法」及び「敵情補充ノ法則」に示されている井上の情」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 突き合わせ・推定：
   - 「【イギリスの元スパイが説く】すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」とは？ | イギリス諜報機関の元スパイが教える 最強の知的武装術――残酷な時代を乗り切る10のレッスン | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/290369）
   - 「説明を検証し、仮説を選択する」（https://diamond.jp/articles/-/290369）
@@ -12916,19 +12916,19 @@
 
 ## 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事（survivorship bias correction backfill dead firms pessimistic bounds double selection）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）（hypothesis forms moderation mediation business research segment analysis）
 - 文脈：手順

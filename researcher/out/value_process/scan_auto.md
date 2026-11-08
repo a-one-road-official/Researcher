@@ -563,9 +563,9 @@
 - 注記の記号（※・注・＊）の直後に数字がある引用のある品目：0件（注記の番号が値にくっついて桁が変わる疑い。原表で値と注記を分けてから使う）
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：10件／数字のある品目 10件（100%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
-  - note.com と business.nikkei.com：品目の重なり 2/2（100%）
-  - note.com と bookplus.nikkei.com：品目の重なり 2/2（100%）
-  - business.nikkei.com と bookplus.nikkei.com：品目の重なり 2/2（100%）
+  - business.nikkei.com と note.com：品目の重なり 2/2（100%）
+  - bookplus.nikkei.com と note.com：品目の重なり 2/2（100%）
+  - bookplus.nikkei.com と business.nikkei.com：品目の重なり 2/2（100%）
   - note.com と service.grandcentral.jp：品目の重なり 1/3（33%）
   - business.nikkei.com と service.grandcentral.jp：品目の重なり 1/3（33%）
 

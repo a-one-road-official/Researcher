@@ -8,7 +8,7 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T04:09:35.572208+00:00",
+ "researched_at": "2026-11-08T10:55:37.960569+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -146,6 +146,104 @@
    {
     "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
     "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アメリカの情報機関CIAで開発されたACHは、国家レベルの判断ミスを防ぐために編み出された分析手法です。そして驚くべきことに、戦前の日本海軍にもこれに匹敵する分析思想が存在していました。教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報分析に限らず、職場や家庭、SNSなど日常生活にも応用できる内容です。認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "あなたは、こんな場面に出くわしたことはないでしょうか。たとえば職場の会議で、誰もが「それはおかしいのでは？」と内心思っているのに、なぜかそのまま進んでしまうプロジェクト。あるいは、自分でも「少し違うかもしれない」と感じつつ、周囲の空気に押されて決断してしまった経験。こうした判断のズレは、決して特別な人にだけ起こるものではありません。むしろ、知的で経験豊富な人ほど、自分の判断が正しいと信じやすくなるという傾向もあるのです。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つ",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "によって1970年代に開発されたといわれています。ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。これにより、アナリストは達成することが非常に難しい高度な情報分析を実現する認知上の制限を克服したり、少なくとも最小化したりすることができます。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした。不確実なデータから最良の情報を見出すことは、産業界や学会、政府における研究者や開発者、アナリストの目的でした。その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ちなみにアブダクティブな推論というのは、ACHに類似した早期の概念です。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ホイヤーは『情報分析の心理学』の中でACHプロセスについてかなり詳しく説明しています。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "というものです。より具体的に見ていきましょう。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです。できれば、異なる視点を持つアナリストのグループを使って、可能性についてブレインストーミングを行います。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
@@ -688,6 +786,1318 @@
    {
     "quote": "For a deeper exploration of these techniques and the cognitive biases they address, see:",
     "url": "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4. ACH結果",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回は身近な題材を使ってCopilotによるACHの結果を観察してみた",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHの分析内容も、概ね意図したとおりの結果だった",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "鮮戦争時の対中情報を事例として」『戦略研究』第5号、2007年 11月、145-159頁",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、北岡元は、前述の",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "7 例えば以下を参照のこと",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "事例に」『情報史研究』第3号、2011年 6月、39-76頁；楠公一「情報見積り手法の形",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "整合するかどうかを確認、マトリックスに結果を記入する",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "討の結果、全ての仮説に整合・不整合であった証拠については、仮説ごとの確",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以上の結果を踏まえ、第5段階では、各仮説の相対的な確からしさについて",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上記の手順を経て得られた結果を報告するのが、第7 段階である",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "に基づき、思惟考案してこれに技巧をめぐらし、質の良き結果を導かんとする",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一案を立て、これについてその結果を検討する",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結果が得られない場合には、他の案について同様の手順を繰り返す",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、判断の完結前に心理に描かれる結果の予想である",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、選言的推理や複",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、工夫の方法として、「工夫",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ノ方法ハ、…先ヅ一案ヲ立テ之ニヨリテソノ結果ヲ検シ、如何ナル結末ニ成ル",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは感度分析を使用して結果をテストします",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、本来であれば、個々の手法は事例とともに説明する必要があります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の事例にあてはめながら、「どのように使うのか」を中心に説明していきます",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINTは分析した結果をもとに次のアクションに繋げるためのものなので、誤解にもとづく意思決定をするということは意思決定者にとって喜ばしくない結果を引き起こすことになります",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "精査の結果、新しい仮説や証拠があれば追加",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最終的に意思決定者にこれらの分析結果を報告する必要があるので、レポーティングをする必要があります",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "を用いて報告することです（あくまでもこの分析結果はfactではなく、一番確からしい仮説なため）",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そうした混乱は、防御側の判断を誤らせ、リスクの優先順位付けを歪め、結果として不適切な対応行動を引き起こしかねません",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果として得られるのは、一貫性があり、透明性が高く、後から説明可能なワークフローです",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TrendAI™は、観測結果を同時に4つの領域に固定するための構造化された手段として、ダイアモンドモデルを用いています",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "十分な文脈があり、質を評価できる場合には、検証済みの研究者による調査結果や他ベンダーのインテリジェンスも活用できます",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結果として、案件をまたいでも評価の一貫性を保てます",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果、A2がD4より重い理由をその都度議論し直すことなく、同じスコアリングロジックを一貫して適用できます",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の独立した証拠によって支えられた、構造化された分析の結果として導かれるものです",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果、バイアスは抑制され、判断はより体系的なものになります",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実例：自社を騙るフィッシングサイト、設置者は誰か（架空シナリオ）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検索結果・SNS投稿・リークデータ・ベンダーレポート——これらは評価（格付け）と分析を経てはじめて、意思決定に使える「インテリジェンス」になります",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "vendor-blog.example/report-2026",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "osint-log.example/records/2026-0142",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "vendor-blog.example（初出＝同ベンダー）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します",
+    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません",
+    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは感度分析を使用して結果をテストします",
+    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ous foresight examples would be in monitoring",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Let’s imagine an unstable country as an example. When asked, analysts might come up with",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "of the competing hypotheses. Should this be the case, the analyst would either need to collect",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "regarding the analysis. For example, if this analysis indicates that the economy has not stabi-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "main question. For example, the original question “Which industries and tribal groups are",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "example, given that the assumption check revealed that the evidence did, indeed, support the",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, imagine there are three main industries in country x, automotive, textile and min-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "enough information to answer a question. In the above example, it is entirely possible that data",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "専門的な知識がなくても理解できるように、実例や具体的な理論を交えて丁寧に解説していきますので、どうぞ最後までお付き合いください",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらはすべて、国家レベルでの情報分析が重大な判断ミスを犯した事例として知られています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が長いほど成績が良くなる」という関係を調べることができます",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間と成績の関係は、睡眠時間の長さによって変わる」という場合です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が増えると自信がつき、その自信が成績を上げる」といった関係です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が自信を高め、成績に影響するが、その効果は性別によって異なる」という場合です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば，MがX→Yの関連を媒介する効果が，少年には見出されるが少女には見出されないというケースも考えられる",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example (2014 Crimea):",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, in investigating a suspicious online account, hypotheses might include: (1) the account belongs to the person it claims to represent, (2) the account is a deliberate impersonation, (3) the account is a compromised legitimate account, or (4) the account is a bot or automated system.",
+    "url": "https://osintblog.com/blog/how-to-build-test-competing-hypotheses-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Practical Case Study Example",
+    "url": "https://osintblog.com/blog/how-to-build-test-competing-hypotheses-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". For applied examples, review the investigative articles in the",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "username tracing case studies",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Each pivot should be logged, validated, and tied to source URLs with timestamps. This reduces the risk of contamination and helps keep the case defensible.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Search logs should be stored in the case file. If a result is challenged, the investigator can reproduce the search and show that the evidence was accessible. This is a critical credibility step, especially when findings are used in legal or corporate environments.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Investigators should build a validation matrix: a table that lists each claim and the independent sources that support it. For example, a username match might be supported by a shared email address and a matching profile photo. A phone number match might be supported by a public listing and a domain registration. The matrix prevents over-claiming and highlights where evidence is thin.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "They require multiple independent signals and document conflicts in the case file before making any final determination.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A practical tip: involve more than one analyst in hypothesis generation. Different people bring different mental models. In multi-national analytical teams, the best hypotheses often come from the person who knows least about the specific case; they aren't anchored to the evidence yet.",
+    "url": "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Analysis of competing hypotheses (ACH) - LinkedIn By the end of this video, you'll be able to apply ACH to threat intelligence scenarios, compare and contrast competing explanations, design matrix-based hypothesis assessments, select likely ...",
+    "url": "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How Using Analysis of Competing Hypotheses Shows What’s ... Jun 5, 2026 · What is ACH (And Why Most Companies Get It Wrong) Analysis of Competing Hypotheses is a methodical process for evaluating evidence and lessening bias in your analysis.",
+    "url": "https://www.linkedin.com/pulse/how-using-analysis-competing-hypotheses-shows-whats-ppiwe",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Analysis of competing hypotheses (ACH): A Powerful Tool for ... Jul 10, 2023 · The Competitive Hypothesis Analysis (ACH) is an analytical technique the intelligence community uses to systematically evaluate various possible scenarios and establish the most likely one based ...",
+    "url": "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-damián",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Analysis of competing hypotheses (ACH) - LinkedIn In this video, we'll cover the Analysis of Competing Hypotheses, ACH, methodology through the following key areas.",
+    "url": "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Analysis of competing hypotheses (ACH): A Powerful Tool for ... Jul 10, 2023 · Case Summary: A brief overview of our investigation, the reason for the investigation, the hypotheses formulated, the evidence collected, and our conclusion based on the evidence.",
+    "url": "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-damián",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "マルウェア解析と仮想環境とInetsimの活用方法",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "メモリの中を読む無料ツールの使い方と6つの虫めがね",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Splunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を解説",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事ではSplunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を、専門用語をかみ砕きながら丁寧に解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "UTXO、おつり、TXID:vout、Spentの4語だけで追跡方法を整理",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ACH surfaces disagreements within analytical teams. Bureaucratic pressure to produce unified assessments can push analysts to abandon methodological rigor in favor of consensus",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— adversarial countermeasures against analytical methodology",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "タスクマネージャの使い方・便利な使い方・解析利用方法と分析ポイントを初心者向けに完全解説",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "基本の使い方から、サイバーセキュリティのプロが実践する解析手法まで初心者向けに完全解説",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Foundational methodology, investigative pivots, and operational security for digital investigations. This is how investigators structure their work to produce defensible findings · not a list of tools, but a framework for thinking about and executing OSINT systematically.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The OSINT Vault emphasizes a workflow-first approach. Tools are not the work; they support it. Every investigation begins with a defined question, a set of hypotheses, and a plan for validating or disproving those hypotheses. The steps in this handbook align with the workflow tooling on the platform, including the",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Throughout this handbook, \"identifier\" refers to any handle, email, phone number, domain, or image that can be used as a pivot. \"Pivot\" refers to any new lead derived from that identifier. \"Validation\" means cross-referencing multiple independent sources to confirm a relationship. These terms are not optional; they define how to avoid false attribution.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Precision search is the next step. Instead of ad-hoc queries, analysts create repeatable search strings that can be run later for verification. The",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "要性に余り理解を示さなかったのは、軍の教育機関において情報の分析方法が",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "した「合理的敵情判断ノ方法」及び「敵情補充ノ原則」である14",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このほか、情報分析方法について論じたものとしては以下を参照のこ",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的敵情判断ノ方法」及び「敵情補充ノ法則」に示されている井上の情",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "報分析の方法論（以下「井上の情報論」という）について、これまで情報分析",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なお、教案とは、「教師が授業の目的、方法、時間配当、参考資料などにつ",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "拠の追加を行った場合、新要素について、第3段階の手順を実施する",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上記の手順を経て得られた結果を報告するのが、第7 段階である",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(1) 合理的敵情判断ノ方法",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的敵情判断ノ方法」では、敵情判断の方法について、三つの方面25に",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これら三つの方面があいまって「合理的敵情判断ノ方法」は作動するも",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "判断ノ方法」の概要を、図1のようにまとめている",
+    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ホイヤーによるとこのステップが最も重要になります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以上が情報分析の一つの方法である競合する仮説の分析ACHです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この方法は、一人でも使えますが、6〜8人で実施すると効果が高まります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここまで、インテリジェンス思考術として、分析の進め方を順に見てきました",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回のシリーズでは、その基本的な考え方と手順を示しました",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、脅威インテリジェンス業務のみならず使えるOSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それ自体は喜ばしい一方で、OSINTにおける分析プロセスやマインドセットが触れられず具体的な方法論ばかりが注目されがちだと感じます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それ故に、この記事内で具体的な情報取得のHow toは触れません",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "前回の記事では、Operational Threat IntelligenceとStrategic Threat Intelligenceの定義について取り上げた後、Threat Intelligenceの共有方法についても触れました",
+    "url": "https://www.scientia-security.org/entry/2018/02/07/215235",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "反論の技術―その意義と訓練方法 (オピニオン叢書)",
+    "url": "https://www.scientia-security.org/entry/2018/02/07/215235",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "具体的には、様々な仮説を分析し、最もらしい仮説を選ぶのにつかわれる方法です",
+    "url": "https://www.scientia-security.org/entry/2018/02/07/215235",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Methods for attributing APT personnel often involve the synthesis of many small pieces of information into a singular comprehensive picture. Often this unified viewpoint reveals not only the group attribution, but coherent pockets of behavior within the group which we perceive to be either small teams or individual actors. We refer to these as “personas.”",
+    "url": "https://www.scientia-security.org/entry/2018/02/07/215235",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スレットアトリビューション・フレームワーク：TrendAI™はいかにして憶測ではなく構造で向き合うか | トレンドマイクロ (JP)",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スレットアトリビューション・フレームワーク：TrendAI™はいかにして憶測ではなく構造で向き合うか",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析者には証拠を優先順位付けする方法が必要",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TrendAI™がデフォルト証拠スコアを導き出す方法",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の調査では、現場で機能する実践的な方法を採用しています",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは、攻撃者を特定し、その戦術・技術・手順（TTPs）を分析し、進行中のサイバーインシデントへの対応を構造化するために確立されたサイバーセキュリティのフレームワークです",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このフレームワークにより、活動クラスターを早い段階で捉え、証拠の蓄積に応じて精緻化し、データが本当にそれを支えられる段階に至って初めて最終的な名称を付与します",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このプロセスを通じて、TrendAI™は日々観測されるアクティブなキャンペーンを分析し、特定の攻撃者へと結び付ける帰属を行い、戦術・技術・手順や侵害指標（IoCs）といった実践的なインテリジェンスを、",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "攻撃のペイロードや表層的な細部が変わったとしても、特定の行動パターンやツールの使い方、インフラの選び方、標的の論理には、キャンペーンをまたいで繰り返される傾向が見られます",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ダイアモンドモデルは、侵入事案をアドバーサリー、能力、インフラ、被害者という各ノードにまたがって一貫した形で整理する方法を提供します",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析者には、関連する活動のクラスターを整理しつつも、早い段階で最終的な侵入セット名に確定させないための方法が必要です",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このフレームワークを公開したのは、アトリビューションの判断がどのように行われているのかをより明確にし、業界内で名称がなぜ異なるのかを説明し、ラベルよりも証拠のほうが重要であることを示すためです",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここで示した内容は、より広範な内部フレームワークを凝縮したものであり、外部との議論において最も重要となる原則と意思決定ロジックに焦点を当てています",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "学びに応じてフレームワークは適応していきますが、その構造はTrendAI™が調査においてアトリビューションを実施する際の拠り所であり続けます",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以下の文献は、TrendAI™の脅威アトリビューション・フレームワークの構築にあたり参照したものです",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "評価の手順化は、調査の属人化を防ぎ、チームへの引き継ぎとレビューを可能にします",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "H2：自社を狙う標的型",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結論の書き方はこうなります——「設置者は無差別型のフィッシング業者である可能性が高い（likely）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "対策＝ACHの手順4「矛盾に注目する」を機械的に実行する",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "IOC（侵害の痕跡）の集め方・使い方と、MITRE ATT&CK・STIX・OpenCTIとの関係が分かる",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "攻撃者の手口を地図にするMITRE ATT&CKの3階層と14の戦術、防御での使い方が分かる",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "C2サーバの追跡方法：SSL証明やJARM使用",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Magnet Forensics / FTKの使い方、応用方法",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "デバッグからセキュリティ診断まで、5つのパネルの使い方を一気に解説",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【初心者OK】ペネトレーションテストとは？自分のサーバを安全に攻撃する全手順",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ペネトレーションテストとは何か？初心者でもわかるように仕組み・合法的な手順・使用ツールを完全解説",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自分のサーバを攻撃して脆弱性を発見する方法をステップ別に紹介",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インフラ調査、人物特定、SNS分析、ダークウェブ情報収集まで、公開情報から高度なインテリジェンスを得る方法を具体例とツールとともに紹介します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦前の日本海軍において、極めて先駆的な情報分析の方法論が存在していました",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦略教官として海軍大学校で教鞭をとった彼は、情報をいかにして戦略判断に結びつけるかについて、自らの方法論を「合理的敵情判断ノ方法」として体系化しました",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "髙橋(2013)によると、井上の方法論は三つの側面から成り立っています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合仮説分析（ACH）と井上成美の「合理的敵情判断ノ方法」は、一見するとまったく異なる時代と文化の産物です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "いわば、ACHが「バイアスを排除する道具」だとすれば、井上の方法は「バイアスを含んだまま、それを飼い慣らす知恵」とも言えるかもしれません",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは「代表性ヒューリスティック」や「アンカリング」の典型例です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これほど網羅的に、仮説の形式や型を体系化した資料はあまり見たことがありません",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "林洋一郎, & 内藤知加恵. (2023). 仮説検証型研究における仮説の形式―主効果, 調整, 媒介, 調整媒介についてのチュートリアル―. 産業・組織心理学研究, 36(2), 189-211.",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、仮説検証型研究におけるパターンを、4つの仮説の形式に分けてそれぞれ解説した展望論文です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証型研究とは、ある仮説を立てて、その仮説が正しいかどうかをデータを使って確認する研究方法です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "多くの研究者が「経験的に」理解している仮説の形式や型を体系化することで，仮説の導出とその妥当性の検証が理にかなったものになるだけでなく， 仮説と分析方法に間に齟齬が生じるといった弊害が無くなることが期待される",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "良い研究を構築するためには，分析方法までを見通しながら研究を計画・ 実施することが求められると思われる",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【完全無料】Let’s EncryptでHTTPS化する全手順｜初心者でもわかるSSL/TLS証明書の設定",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【解析】urlscan.io 完全ガイド 使い方とOSINT活用法",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "コメントデータの処理方法の詳細はこちらをご覧ください",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【ストーカー対策・AirTag】勝手にAirTagなど位置追跡デバイスが付けられていないか調べる方法",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています",
+    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした",
+    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ホイヤーによるとこのステップが最も重要になります",
+    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以上が情報分析の一つの方法である競合する仮説の分析ACHです",
+    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is the structured analytical methodology developed by",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The Eight Steps of ACH",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 1: Identify All Plausible Hypotheses",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 2: List the Evidence",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 3: Build the Matrix",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 4: Refine the Matrix",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 5: Identify the Hypothesis with the Fewest Inconsistencies",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 6: Examine Critical Assumptions",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the step where",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 7: Report Conclusions with Confidence and Sensitivity",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 8: Identify Indicators for Future Observation",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If the hypothesis set is incomplete, or evidence is misinterpreted, the method produces wrong answers with high confidence",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A sophisticated adversary who knows ACH is being used can craft deception that is consistent with their preferred false hypothesis — exploiting the analyst’s methodology against them",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — Dec 19, 2024 · この記事は、 NTT Communications Advent Calendar 2024 の記事です。 この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます。 また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法につい ...",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "インテリジェンス思考術（第24回-完） – インテリジェンスの匠 — Apr 14, 2026 · 競合仮説分析（ACH）を使う 仮説競合分析とは 仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります。 この手法は、CIAの分析官リチャード・ホイヤーが、認知心理学をもとに整理したものです。背景には、KGBの二重 ...",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · 集めた情報を「評価」する技術 Admiralty Code・循環報道・ACH・確度表現の実務ガイド OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes. The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most ",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合する仮説の分析｜幻想の近現代 — May 8, 2021 · アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。 ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — この記事は、 NTT Communications Advent Calendar 2024 の記事です。 この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます。 また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法につい ...",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インテリジェンス思考術（第24回-完） - インテリジェンスの匠 — 競合仮説分析（ACH）を使う 仮説競合分析とは 仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります。 この手法は、CIAの分析官リチャード・ホイヤーが、認知心理学をもとに整理したものです。背景には、KGBの二重 ...",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合する仮説の分析 | 幻想の近現代（情報局815） — 「競合する仮説の分析」（以下 ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。 アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。",
+    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Copilotで競合仮説分析(ACH)をやってみる - Qiita — Jan 10, 2026 · はじめに 競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系...",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。 NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Analysis of Competing Hypotheses (ACH) - liberty91.com — Apr 28, 2026 · A step-by-step guide to Analysis of Competing Hypotheses (ACH) for cyber threat intelligence, with a step-by-step example and matrix template.",
+    "url": "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACH Template - SANS Institute — Jun 4, 2025 · Download ACH Template, built by SANS Instructor Pasquale Stirparo, an excel sheet that implements the scoring and weighting methodology of the Analysis of Competing Hypotheses, more specifically the Weighted Inconsistency Counting algorithm.",
+    "url": "https://www.sans.org/tools/ach-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学 Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合する仮説の分析｜幻想の近現代 May 8, 2021 · アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。 ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
@@ -1287,1380 +2697,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "マルウェア解析と仮想環境とInetsimの活用方法",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "メモリの中を読む無料ツールの使い方と6つの虫めがね",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Splunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を解説",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事ではSplunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を、専門用語をかみ砕きながら丁寧に解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "UTXO、おつり、TXID:vout、Spentの4語だけで追跡方法を整理",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ACH surfaces disagreements within analytical teams. Bureaucratic pressure to produce unified assessments can push analysts to abandon methodological rigor in favor of consensus",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "— adversarial countermeasures against analytical methodology",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "要性に余り理解を示さなかったのは、軍の教育機関において情報の分析方法が",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "した「合理的敵情判断ノ方法」及び「敵情補充ノ原則」である14",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このほか、情報分析方法について論じたものとしては以下を参照のこ",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「合理的敵情判断ノ方法」及び「敵情補充ノ法則」に示されている井上の情",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "報分析の方法論（以下「井上の情報論」という）について、これまで情報分析",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "なお、教案とは、「教師が授業の目的、方法、時間配当、参考資料などにつ",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "拠の追加を行った場合、新要素について、第3段階の手順を実施する",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上記の手順を経て得られた結果を報告するのが、第7 段階である",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(1) 合理的敵情判断ノ方法",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「合理的敵情判断ノ方法」では、敵情判断の方法について、三つの方面25に",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これら三つの方面があいまって「合理的敵情判断ノ方法」は作動するも",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "判断ノ方法」の概要を、図1のようにまとめている",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ホイヤーによるとこのステップが最も重要になります",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "以上が情報分析の一つの方法である競合する仮説の分析ACHです",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この方法は、一人でも使えますが、6〜8人で実施すると効果が高まります",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここまで、インテリジェンス思考術として、分析の進め方を順に見てきました",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "今回のシリーズでは、その基本的な考え方と手順を示しました",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この記事では、脅威インテリジェンス業務のみならず使えるOSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それ自体は喜ばしい一方で、OSINTにおける分析プロセスやマインドセットが触れられず具体的な方法論ばかりが注目されがちだと感じます",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それ故に、この記事内で具体的な情報取得のHow toは触れません",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "前回の記事では、Operational Threat IntelligenceとStrategic Threat Intelligenceの定義について取り上げた後、Threat Intelligenceの共有方法についても触れました",
-    "url": "https://www.scientia-security.org/entry/2018/02/07/215235",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "反論の技術―その意義と訓練方法 (オピニオン叢書)",
-    "url": "https://www.scientia-security.org/entry/2018/02/07/215235",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "具体的には、様々な仮説を分析し、最もらしい仮説を選ぶのにつかわれる方法です",
-    "url": "https://www.scientia-security.org/entry/2018/02/07/215235",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Methods for attributing APT personnel often involve the synthesis of many small pieces of information into a singular comprehensive picture. Often this unified viewpoint reveals not only the group attribution, but coherent pockets of behavior within the group which we perceive to be either small teams or individual actors. We refer to these as “personas.”",
-    "url": "https://www.scientia-security.org/entry/2018/02/07/215235",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スレットアトリビューション・フレームワーク：TrendAI™はいかにして憶測ではなく構造で向き合うか | トレンドマイクロ (JP)",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スレットアトリビューション・フレームワーク：TrendAI™はいかにして憶測ではなく構造で向き合うか",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分析者には証拠を優先順位付けする方法が必要",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "TrendAI™がデフォルト証拠スコアを導き出す方法",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際の調査では、現場で機能する実践的な方法を採用しています",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは、攻撃者を特定し、その戦術・技術・手順（TTPs）を分析し、進行中のサイバーインシデントへの対応を構造化するために確立されたサイバーセキュリティのフレームワークです",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このフレームワークにより、活動クラスターを早い段階で捉え、証拠の蓄積に応じて精緻化し、データが本当にそれを支えられる段階に至って初めて最終的な名称を付与します",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このプロセスを通じて、TrendAI™は日々観測されるアクティブなキャンペーンを分析し、特定の攻撃者へと結び付ける帰属を行い、戦術・技術・手順や侵害指標（IoCs）といった実践的なインテリジェンスを、",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "攻撃のペイロードや表層的な細部が変わったとしても、特定の行動パターンやツールの使い方、インフラの選び方、標的の論理には、キャンペーンをまたいで繰り返される傾向が見られます",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ダイアモンドモデルは、侵入事案をアドバーサリー、能力、インフラ、被害者という各ノードにまたがって一貫した形で整理する方法を提供します",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分析者には、関連する活動のクラスターを整理しつつも、早い段階で最終的な侵入セット名に確定させないための方法が必要です",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このフレームワークを公開したのは、アトリビューションの判断がどのように行われているのかをより明確にし、業界内で名称がなぜ異なるのかを説明し、ラベルよりも証拠のほうが重要であることを示すためです",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここで示した内容は、より広範な内部フレームワークを凝縮したものであり、外部との議論において最も重要となる原則と意思決定ロジックに焦点を当てています",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "学びに応じてフレームワークは適応していきますが、その構造はTrendAI™が調査においてアトリビューションを実施する際の拠り所であり続けます",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "以下の文献は、TrendAI™の脅威アトリビューション・フレームワークの構築にあたり参照したものです",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価の手順化は、調査の属人化を防ぎ、チームへの引き継ぎとレビューを可能にします",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "H2：自社を狙う標的型",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結論の書き方はこうなります——「設置者は無差別型のフィッシング業者である可能性が高い（likely）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "対策＝ACHの手順4「矛盾に注目する」を機械的に実行する",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "IOC（侵害の痕跡）の集め方・使い方と、MITRE ATT&CK・STIX・OpenCTIとの関係が分かる",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "攻撃者の手口を地図にするMITRE ATT&CKの3階層と14の戦術、防御での使い方が分かる",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "C2サーバの追跡方法：SSL証明やJARM使用",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Magnet Forensics / FTKの使い方、応用方法",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "デバッグからセキュリティ診断まで、5つのパネルの使い方を一気に解説",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【初心者OK】ペネトレーションテストとは？自分のサーバを安全に攻撃する全手順",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ペネトレーションテストとは何か？初心者でもわかるように仕組み・合法的な手順・使用ツールを完全解説",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "自分のサーバを攻撃して脆弱性を発見する方法をステップ別に紹介",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "インフラ調査、人物特定、SNS分析、ダークウェブ情報収集まで、公開情報から高度なインテリジェンスを得る方法を具体例とツールとともに紹介します",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦前の日本海軍において、極めて先駆的な情報分析の方法論が存在していました",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦略教官として海軍大学校で教鞭をとった彼は、情報をいかにして戦略判断に結びつけるかについて、自らの方法論を「合理的敵情判断ノ方法」として体系化しました",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "髙橋(2013)によると、井上の方法論は三つの側面から成り立っています",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "競合仮説分析（ACH）と井上成美の「合理的敵情判断ノ方法」は、一見するとまったく異なる時代と文化の産物です",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "いわば、ACHが「バイアスを排除する道具」だとすれば、井上の方法は「バイアスを含んだまま、それを飼い慣らす知恵」とも言えるかもしれません",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは「代表性ヒューリスティック」や「アンカリング」の典型例です",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これほど網羅的に、仮説の形式や型を体系化した資料はあまり見たことがありません",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "林洋一郎, & 内藤知加恵. (2023). 仮説検証型研究における仮説の形式―主効果, 調整, 媒介, 調整媒介についてのチュートリアル―. 産業・組織心理学研究, 36(2), 189-211.",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この論文では、仮説検証型研究におけるパターンを、4つの仮説の形式に分けてそれぞれ解説した展望論文です",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "仮説検証型研究とは、ある仮説を立てて、その仮説が正しいかどうかをデータを使って確認する研究方法です",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "多くの研究者が「経験的に」理解している仮説の形式や型を体系化することで，仮説の導出とその妥当性の検証が理にかなったものになるだけでなく， 仮説と分析方法に間に齟齬が生じるといった弊害が無くなることが期待される",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "良い研究を構築するためには，分析方法までを見通しながら研究を計画・ 実施することが求められると思われる",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【完全無料】Let’s EncryptでHTTPS化する全手順｜初心者でもわかるSSL/TLS証明書の設定",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【解析】urlscan.io 完全ガイド 使い方とOSINT活用法",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "コメントデータの処理方法の詳細はこちらをご覧ください",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【ストーカー対策・AirTag】勝手にAirTagなど位置追跡デバイスが付けられていないか調べる方法",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています",
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした",
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ホイヤーによるとこのステップが最も重要になります",
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "以上が情報分析の一つの方法である競合する仮説の分析ACHです",
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "is the structured analytical methodology developed by",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The Eight Steps of ACH",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 1: Identify All Plausible Hypotheses",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 2: List the Evidence",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 3: Build the Matrix",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 4: Refine the Matrix",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 5: Identify the Hypothesis with the Fewest Inconsistencies",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 6: Examine Critical Assumptions",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This is the step where",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 7: Report Conclusions with Confidence and Sensitivity",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 8: Identify Indicators for Future Observation",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "If the hypothesis set is incomplete, or evidence is misinterpreted, the method produces wrong answers with high confidence",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A sophisticated adversary who knows ACH is being used can craft deception that is consistent with their preferred false hypothesis — exploiting the analyst’s methodology against them",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学 Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "競合する仮説の分析｜幻想の近現代 May 8, 2021 · アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。 ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Analysis of competing hypotheses (ACH) - LinkedIn By the end of this video, you'll be able to apply ACH to threat intelligence scenarios, compare and contrast competing explanations, design matrix-based hypothesis assessments, select likely ...",
-    "url": "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "How Using Analysis of Competing Hypotheses Shows What’s ... Jun 5, 2026 · What is ACH (And Why Most Companies Get It Wrong) Analysis of Competing Hypotheses is a methodical process for evaluating evidence and lessening bias in your analysis.",
-    "url": "https://www.linkedin.com/pulse/how-using-analysis-competing-hypotheses-shows-whats-ppiwe",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Analysis of competing hypotheses (ACH): A Powerful Tool for ... Jul 10, 2023 · The Competitive Hypothesis Analysis (ACH) is an analytical technique the intelligence community uses to systematically evaluate various possible scenarios and establish the most likely one based ...",
-    "url": "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-damián",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Analysis of competing hypotheses (ACH) - LinkedIn In this video, we'll cover the Analysis of Competing Hypotheses, ACH, methodology through the following key areas.",
-    "url": "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Analysis of competing hypotheses (ACH): A Powerful Tool for ... Jul 10, 2023 · Case Summary: A brief overview of our investigation, the reason for the investigation, the hypotheses formulated, the evidence collected, and our conclusion based on the evidence.",
-    "url": "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-damián",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している",
-    "url": "https://diamond.jp/articles/-/290369",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない",
-    "url": "https://diamond.jp/articles/-/290369",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる",
-    "url": "https://diamond.jp/articles/-/290369",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている",
-    "url": "https://diamond.jp/articles/-/290369",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない",
-    "url": "https://diamond.jp/articles/-/290369",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "4. ACH結果",
-    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "今回は身近な題材を使ってCopilotによるACHの結果を観察してみた",
-    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ACHの分析内容も、概ね意図したとおりの結果だった",
-    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "鮮戦争時の対中情報を事例として」『戦略研究』第5号、2007年 11月、145-159頁",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、北岡元は、前述の",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "7 例えば以下を参照のこと",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "事例に」『情報史研究』第3号、2011年 6月、39-76頁；楠公一「情報見積り手法の形",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "整合するかどうかを確認、マトリックスに結果を記入する",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "討の結果、全ての仮説に整合・不整合であった証拠については、仮説ごとの確",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "以上の結果を踏まえ、第5段階では、各仮説の相対的な確からしさについて",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上記の手順を経て得られた結果を報告するのが、第7 段階である",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "に基づき、思惟考案してこれに技巧をめぐらし、質の良き結果を導かんとする",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一案を立て、これについてその結果を検討する",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果が得られない場合には、他の案について同様の手順を繰り返す",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "は、判断の完結前に心理に描かれる結果の予想である",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、選言的推理や複",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、工夫の方法として、「工夫",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ノ方法ハ、…先ヅ一案ヲ立テ之ニヨリテソノ結果ヲ検シ、如何ナル結末ニ成ル",
-    "url": "https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アナリストは感度分析を使用して結果をテストします",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、本来であれば、個々の手法は事例とともに説明する必要があります",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際の事例にあてはめながら、「どのように使うのか」を中心に説明していきます",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "OSINTは分析した結果をもとに次のアクションに繋げるためのものなので、誤解にもとづく意思決定をするということは意思決定者にとって喜ばしくない結果を引き起こすことになります",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "精査の結果、新しい仮説や証拠があれば追加",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "最終的に意思決定者にこれらの分析結果を報告する必要があるので、レポーティングをする必要があります",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "を用いて報告することです（あくまでもこの分析結果はfactではなく、一番確からしい仮説なため）",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "そうした混乱は、防御側の判断を誤らせ、リスクの優先順位付けを歪め、結果として不適切な対応行動を引き起こしかねません",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果として得られるのは、一貫性があり、透明性が高く、後から説明可能なワークフローです",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "TrendAI™は、観測結果を同時に4つの領域に固定するための構造化された手段として、ダイアモンドモデルを用いています",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "十分な文脈があり、質を評価できる場合には、検証済みの研究者による調査結果や他ベンダーのインテリジェンスも活用できます",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果として、案件をまたいでも評価の一貫性を保てます",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果、A2がD4より重い理由をその都度議論し直すことなく、同じスコアリングロジックを一貫して適用できます",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複数の独立した証拠によって支えられた、構造化された分析の結果として導かれるものです",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果、バイアスは抑制され、判断はより体系的なものになります",
-    "url": "https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実例：自社を騙るフィッシングサイト、設置者は誰か（架空シナリオ）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検索結果・SNS投稿・リークデータ・ベンダーレポート——これらは評価（格付け）と分析を経てはじめて、意思決定に使える「インテリジェンス」になります",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "vendor-blog.example/report-2026",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "osint-log.example/records/2026-0142",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "vendor-blog.example（初出＝同ベンダー）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します",
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません",
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アナリストは感度分析を使用して結果をテストします",
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ous foresight examples would be in monitoring",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Let’s imagine an unstable country as an example. When asked, analysts might come up with",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "of the competing hypotheses. Should this be the case, the analyst would either need to collect",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "regarding the analysis. For example, if this analysis indicates that the economy has not stabi-",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "main question. For example, the original question “Which industries and tribal groups are",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "example, given that the assumption check revealed that the evidence did, indeed, support the",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, imagine there are three main industries in country x, automotive, textile and min-",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "enough information to answer a question. In the above example, it is entirely possible that data",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "専門的な知識がなくても理解できるように、実例や具体的な理論を交えて丁寧に解説していきますので、どうぞ最後までお付き合いください",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらはすべて、国家レベルでの情報分析が重大な判断ミスを犯した事例として知られています",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、「勉強時間が長いほど成績が良くなる」という関係を調べることができます",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、「勉強時間と成績の関係は、睡眠時間の長さによって変わる」という場合です",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、「勉強時間が増えると自信がつき、その自信が成績を上げる」といった関係です",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、「勉強時間が自信を高め、成績に影響するが、その効果は性別によって異なる」という場合です",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば，MがX→Yの関連を媒介する効果が，少年には見出されるが少女には見出されないというケースも考えられる",
-    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example (2014 Crimea):",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, in investigating a suspicious online account, hypotheses might include: (1) the account belongs to the person it claims to represent, (2) the account is a deliberate impersonation, (3) the account is a compromised legitimate account, or (4) the account is a bot or automated system.",
-    "url": "https://osintblog.com/blog/how-to-build-test-competing-hypotheses-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Practical Case Study Example",
-    "url": "https://osintblog.com/blog/how-to-build-test-competing-hypotheses-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". For applied examples, review the investigative articles in the",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "username tracing case studies",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Each pivot should be logged, validated, and tied to source URLs with timestamps. This reduces the risk of contamination and helps keep the case defensible.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Search logs should be stored in the case file. If a result is challenged, the investigator can reproduce the search and show that the evidence was accessible. This is a critical credibility step, especially when findings are used in legal or corporate environments.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Investigators should build a validation matrix: a table that lists each claim and the independent sources that support it. For example, a username match might be supported by a shared email address and a matching profile photo. A phone number match might be supported by a public listing and a domain registration. The matrix prevents over-claiming and highlights where evidence is thin.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "They require multiple independent signals and document conflicts in the case file before making any final determination.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A practical tip: involve more than one analyst in hypothesis generation. Different people bring different mental models. In multi-national analytical teams, the best hypotheses often come from the person who knows least about the specific case; they aren't anchored to the evidence yet.",
-    "url": "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — Dec 19, 2024 · この記事は、 NTT Communications Advent Calendar 2024 の記事です。 この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます。 また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法につい ...",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "インテリジェンス思考術（第24回-完） – インテリジェンスの匠 — Apr 14, 2026 · 競合仮説分析（ACH）を使う 仮説競合分析とは 仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります。 この手法は、CIAの分析官リチャード・ホイヤーが、認知心理学をもとに整理したものです。背景には、KGBの二重 ...",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · 集めた情報を「評価」する技術 Admiralty Code・循環報道・ACH・確度表現の実務ガイド OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes. The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most ",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary",
-    "url": "https://isc.sans.edu/diary/22460",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "競合する仮説の分析｜幻想の近現代 — May 8, 2021 · アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。 ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — この記事は、 NTT Communications Advent Calendar 2024 の記事です。 この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます。 また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法につい ...",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "インテリジェンス思考術（第24回-完） - インテリジェンスの匠 — 競合仮説分析（ACH）を使う 仮説競合分析とは 仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります。 この手法は、CIAの分析官リチャード・ホイヤーが、認知心理学をもとに整理したものです。背景には、KGBの二重 ...",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "競合する仮説の分析 | 幻想の近現代（情報局815） — 「競合する仮説の分析」（以下 ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。 アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。",
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Copilotで競合仮説分析(ACH)をやってみる - Qiita — Jan 10, 2026 · はじめに 競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系...",
-    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。 NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes.",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Analysis of Competing Hypotheses (ACH) - liberty91.com — Apr 28, 2026 · A step-by-step guide to Analysis of Competing Hypotheses (ACH) for cyber threat intelligence, with a step-by-step example and matrix template.",
-    "url": "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ACH Template - SANS Institute — Jun 4, 2025 · Download ACH Template, built by SANS Instructor Pasquale Stirparo, an excel sheet that implements the scoring and weighting methodology of the Analysis of Competing Hypotheses, more specifically the Weighted Inconsistency Counting algorithm.",
-    "url": "https://www.sans.org/tools/ach-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アメリカの情報機関CIAで開発されたACHは、国家レベルの判断ミスを防ぐために編み出された分析手法です。そして驚くべきことに、戦前の日本海軍にもこれに匹敵する分析思想が存在していました。教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです。",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します。",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "情報分析に限らず、職場や家庭、SNSなど日常生活にも応用できる内容です。認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています。",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "あなたは、こんな場面に出くわしたことはないでしょうか。たとえば職場の会議で、誰もが「それはおかしいのでは？」と内心思っているのに、なぜかそのまま進んでしまうプロジェクト。あるいは、自分でも「少し違うかもしれない」と感じつつ、周囲の空気に押されて決断してしまった経験。こうした判断のズレは、決して特別な人にだけ起こるものではありません。むしろ、知的で経験豊富な人ほど、自分の判断が正しいと信じやすくなるという傾向もあるのです。",
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つ",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "によって1970年代に開発されたといわれています。ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。これにより、アナリストは達成することが非常に難しい高度な情報分析を実現する認知上の制限を克服したり、少なくとも最小化したりすることができます。",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした。不確実なデータから最良の情報を見出すことは、産業界や学会、政府における研究者や開発者、アナリストの目的でした。その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます。",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ちなみにアブダクティブな推論というのは、ACHに類似した早期の概念です。",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ホイヤーは『情報分析の心理学』の中でACHプロセスについてかなり詳しく説明しています。",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "というものです。より具体的に見ていきましょう。",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです。できれば、異なる視点を持つアナリストのグループを使って、可能性についてブレインストーミングを行います。",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -2677,11 +2713,6 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/aisight/n/n1de54bb74fa5",
     "status": "ok",
     "method": "http"
@@ -2693,6 +2724,11 @@
    },
    {
     "url": "https://note.com/cons_ai_x/n/n4295d080b821",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
     "status": "ok",
     "method": "http"
    },
@@ -2737,7 +2773,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.scribd.com/document/834214891/Open-Source-Intelligence-OSINT-Reporting-Template-2",
+    "url": "https://osintblog.com/blog/how-to-build-test-competing-hypotheses-osint",
     "status": "ok",
     "method": "http"
    },
@@ -2747,7 +2783,7 @@
     "method": "http"
    },
    {
-    "url": "https://osintblog.com/blog/how-to-build-test-competing-hypotheses-osint",
+    "url": "https://www.scribd.com/document/834214891/Open-Source-Intelligence-OSINT-Reporting-Template-2",
     "status": "ok",
     "method": "http"
    },
@@ -2757,12 +2793,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/pulse/how-using-analysis-competing-hypotheses-shows-whats-ppiwe",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -2779,11 +2820,11 @@
    "results": [
     "https://note.com/haurix/n/ncc5a33f069f9",
     "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://note.com/masakikono/n/n21d47d81468f",
     "https://note.com/aisight/n/n1de54bb74fa5",
     "https://note.com/takahitosasaki83/n/n46a21dced431",
     "https://note.com/cons_ai_x/n/n4295d080b821",
-    "https://note.com/agentai/n/n5551ce81f881"
+    "https://note.com/masakikono/n/n21d47d81468f",
+    "https://note.com/chiteki/n/n1a3eb8adc070"
    ],
    "engines": [
     "ddgs:google"
@@ -2814,41 +2855,41 @@
   },
   {
    "query": "競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告） 事例",
-   "results": [
-    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "https://atsumori.shop/archives/2346",
-    "https://note.com/cons_ai_x/n/n4295d080b821",
-    "https://hondana1.jp/複数仮説の同時検証と管理法/",
-    "https://github.com/Ryoji822/I-am-S-2/blob/main/prompts/phase2-analyze.md"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "analysis of competing hypotheses team workflow iterate add hypotheses OSINT report most likely",
    "results": [
     "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
     "https://theosintvault.io/osint-handbook",
-    "https://www.scribd.com/document/834214891/Open-Source-Intelligence-OSINT-Reporting-Template-2",
-    "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
     "https://osintblog.com/blog/how-to-build-test-competing-hypotheses-osint",
+    "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
+    "https://www.scribd.com/document/834214891/Open-Source-Intelligence-OSINT-Reporting-Template-2",
     "https://www.sans.org/tools/ach-template",
     "https://www.sans.org/posters/intelligence-analysts-playbook"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:note.com 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/haurix/n/ncc5a33f069f9",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://note.com/aisight/n/n1de54bb74fa5",
+    "https://note.com/chiteki/n/n1a3eb8adc070",
+    "https://note.com/cons_ai_x/n/n4295d080b821",
+    "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "https://note.com/mizukami_cpa/n/n8e682c739261"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）",
@@ -2857,12 +2898,12 @@
     "https://x.com/ai_hacks_jp/status/2071718859942563972",
     "https://x.com/gura105/status/2039583581375467872",
     "https://x.com/the_ai_monster/status/2088402072559612319",
-    "https://x.com/HIXAI_Japan/status/2110268367131037708",
-    "https://x.com/landseagull/status/2078321395365531730",
-    "https://x.com/aiagent_camp_ja/status/2052690131078066304"
+    "https://x.com/aiagent_camp_ja/status/2052690131078066304",
+    "https://x.com/Cash_Make_Power/status/2050507840029106505",
+    "https://x.com/HIXAI_Japan/status/2110268367131037708"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -2870,12 +2911,12 @@
    "query": "site:linkedin.com 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）",
    "results": [
     "https://jp.linkedin.com/posts/dayime812_10社の顧客ヒアリング結果を分析するのに3時間かかっていました-それがai-activity-7392011884155162624-bhAg",
-    "https://jp.linkedin.com/posts/manabu-tsunori-500107107_海外調査を自分で回す時代へ-仮説検証を加速する新しいアプローチ-kantar-activity-7477978313827860480-KwFl",
+    "https://jp.linkedin.com/posts/tetsuo-kan-ba1677297_コンサル調査案件は情報収集から仮説検証へaiを悪魔の代弁者にして検証を仕組-activity-7489599653361950720-iYTT",
     "https://www.linkedin.com/feed/update/urn:li:activity:7415897737927249920/",
     "https://www.linkedin.com/posts/yohack_仮説思考入門限られた情報から最善の答えを導く方法-activity-7442178393946828800-ksQX",
-    "https://jp.linkedin.com/posts/周平-橋本-a13878217_新規開拓の手順-コアバリューの設定-パターン別のペルソナの作成-ターゲットアカウント-activity-7366989424234065920-H8XD",
-    "https://jp.linkedin.com/posts/tetsuo-kan-ba1677297_コンサル調査案件は情報収集から仮説検証へaiを悪魔の代弁者にして検証を仕組-activity-7489599653361950720-iYTT",
-    "https://jp.linkedin.com/posts/sayaka-furutomo-875407208_リサーチの際に複数ツールを行き来してaiのハルシネーションや誤情報に悩まされたことがある-activity-7360988675335184386-oZ-0"
+    "https://jp.linkedin.com/posts/sayaka-furutomo-875407208_リサーチの際に複数ツールを行き来してaiのハルシネーションや誤情報に悩まされたことがある-activity-7360988675335184386-oZ-0",
+    "https://jp.linkedin.com/posts/真弥-北岡-5b17281a6_新規事業検討の一環で複数プロジェクトのリスク把握介入判断に関する課題仮説の検証を-activity-7465302030010486785-3l9-",
+    "https://jp.linkedin.com/posts/manabu-tsunori-500107107_海外調査を自分で回す時代へ-仮説検証を加速する新しいアプローチ-kantar-activity-7477978313827860480-KwFl"
    ],
    "engines": [
     "ddgs:google"
@@ -2886,15 +2927,15 @@
    "query": "site:facebook.com 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）",
    "results": [
     "https://www.facebook.com/groups/247816822664827/",
+    "https://www.facebook.com/kasetu.fes/",
     "https://www.facebook.com/groups/247816822664827/posts/1558427394937090/",
     "https://www.facebook.com/groups/247816822664827/posts/1369289617184203/",
-    "https://www.facebook.com/INPIT.jp/photos/大学大学発suのための企業連携提案マニュアル-本マニュアルでは随所で生成ai活用のヒントを掲載連携提案活動の効率化をサポートします例えば-研究シーズの概要を企業/1804811417582431/",
+    "https://www.facebook.com/4DINLtd/videos/参加登録受付中4din-webinar/1010616821729682/",
     "https://www.facebook.com/groups/247816822664827/posts/1924208388358987/",
-    "https://www.facebook.com/kasetu.fes/",
-    "https://www.facebook.com/4DINLtd/videos/参加登録受付中4din-webinar/1010616821729682/"
+    "https://www.facebook.com/INPIT.jp/photos/大学大学発suのための企業連携提案マニュアル-本マニュアルでは随所で生成ai活用のヒントを掲載連携提案活動の効率化をサポートします例えば-研究シーズの概要を企業/1804811417582431/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -2916,7 +2957,7 @@
     "https://github.com/Ryoji822/I-am-S-2/blob/main/prompts/phase2-analyze.md"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -2929,7 +2970,7 @@
     "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-damián",
     "https://www.linkedin.com/posts/veritrace-intelligence_ethics-osint-compliance-activity-7491018289293320192-odjW",
     "https://www.linkedin.com/posts/nielsgroeneveld_decoding-cyber-threats-applying-analysis-activity-7241012199312302082-uDRs",
-    "https://www.linkedin.com/top-content/project-management/optimizing-workflow-processes/osint-workflow-for-intelligence-analysis/"
+    "https://www.linkedin.com/posts/augustjackson_chatgpt-ach-analysis-assistant-activity-7322997734783770624-9uNp"
    ],
    "engines": [
     "ddgs:google"
@@ -2939,135 +2980,45 @@
  ],
  "missing": {},
  "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Cognitive Biases in CTI: Structured Techniques for Sharper Analysis",
-    "url": "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Next: Cognitive Biases in CTI →",
-    "url": "https://liberty91.com/blog/cti-trenches-analyst-tradecraft",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "手順・やり方": [
    {
-    "quote": "マルウェア解析と仮想環境とInetsimの活用方法",
+    "quote": "タスクマネージャの使い方・便利な使い方・解析利用方法と分析ポイントを初心者向けに完全解説",
     "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
+    "quote": "基本の使い方から、サイバーセキュリティのプロが実践する解析手法まで初心者向けに完全解説",
     "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "メモリの中を読む無料ツールの使い方と6つの虫めがね",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "quote": "Foundational methodology, investigative pivots, and operational security for digital investigations. This is how investigators structure their work to produce defensible findings · not a list of tools, but a framework for thinking about and executing OSINT systematically.",
+    "url": "https://theosintvault.io/osint-handbook",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Splunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を解説",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "quote": "The OSINT Vault emphasizes a workflow-first approach. Tools are not the work; they support it. Every investigation begins with a defined question, a set of hypotheses, and a plan for validating or disproving those hypotheses. The steps in this handbook align with the workflow tooling on the platform, including the",
+    "url": "https://theosintvault.io/osint-handbook",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "この記事ではSplunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を、専門用語をかみ砕きながら丁寧に解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "quote": "Throughout this handbook, \"identifier\" refers to any handle, email, phone number, domain, or image that can be used as a pivot. \"Pivot\" refers to any new lead derived from that identifier. \"Validation\" means cross-referencing multiple independent sources to confirm a relationship. These terms are not optional; they define how to avoid false attribution.",
+    "url": "https://theosintvault.io/osint-handbook",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "UTXO、おつり、TXID:vout、Spentの4語だけで追跡方法を整理",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ACH surfaces disagreements within analytical teams. Bureaucratic pressure to produce unified assessments can push analysts to abandon methodological rigor in favor of consensus",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "— adversarial countermeasures against analytical methodology",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Analysis of competing hypotheses (ACH) - LinkedIn By the end of this video, you'll be able to apply ACH to threat intelligence scenarios, compare and contrast competing explanations, design matrix-based hypothesis assessments, select likely ...",
-    "url": "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "How Using Analysis of Competing Hypotheses Shows What’s ... Jun 5, 2026 · What is ACH (And Why Most Companies Get It Wrong) Analysis of Competing Hypotheses is a methodical process for evaluating evidence and lessening bias in your analysis.",
-    "url": "https://www.linkedin.com/pulse/how-using-analysis-competing-hypotheses-shows-whats-ppiwe",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Analysis of competing hypotheses (ACH): A Powerful Tool for ... Jul 10, 2023 · The Competitive Hypothesis Analysis (ACH) is an analytical technique the intelligence community uses to systematically evaluate various possible scenarios and establish the most likely one based ...",
-    "url": "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-damián",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...",
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — Dec 19, 2024 · この記事は、 NTT Communications Advent Calendar 2024 の記事です。 この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます。 また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法につい ...",
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "インテリジェンス思考術（第24回-完） – インテリジェンスの匠 — Apr 14, 2026 · 競合仮説分析（ACH）を使う 仮説競合分析とは 仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります。 この手法は、CIAの分析官リチャード・ホイヤーが、認知心理学をもとに整理したものです。背景には、KGBの二重 ...",
-    "url": "https://atsumori.shop/archives/2346",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · 集めた情報を「評価」する技術 Admiralty Code・循環報道・ACH・確度表現の実務ガイド OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes. The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most ",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "quote": "Precision search is the next step. Instead of ad-hoc queries, analysts create repeatable search strings that can be run later for verification. The",
+    "url": "https://theosintvault.io/osint-handbook",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T15:59:14.942635+00:00"
 }

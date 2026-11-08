@@ -1,0 +1,581 @@
+{
+ "name": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101）",
+ "en": "Japan SMEs refused orders labor shortage survey vs processing fee revenue same year",
+ "aliases": [
+  "日本商工会議所 人手不足 受注 断った 2023 2024",
+  "中小企業 人手不足 受注機会 損失 調査 製造業",
+  "加工賃収入額 2023年 経済構造実態調査"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T10:44:07.848240+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psrn.jp/topics/detail.php?id=42691",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/press/2026/qsktgp000000b76c-att/20260930_press01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000056.000058841.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jice.or.jp/cms/kokudo/pdf/review/assistances/results/h25-16g.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/mynavi_3236879/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_250217.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001170975.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/93940",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/002/s001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shokosoken.or.jp/paper/theme/2017/201706.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seikohd.com/research-construction-labor-shortage-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1204012",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/402451",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/20250319_2023research.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_231128.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260319/004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://masaa0523.hatenablog.com/entry/2026/10/31/%E3%80%8C%E5%BB%BA%E8%A8%AD%E5%B7%A5%E4%BA%8B%E3%81%AE%E5%8F%97%E6%B3%A8%E3%81%8C14.6%EF%BC%85%E6%B8%9B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%AB%E3%80%81%E4%BA%BA%E6%89%8B%E3%81%AF%E3%81%BE%E3%81%A0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kenchikuma.com/hitodebusoku/kensetsu-juchu-eikyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_18_06_27b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/17538",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://virtusinterpress.org/Strategic-insights-into-the-challenges-facing-Japan-s-small-and-medium-sized-enterprises.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kizuna-x.com/article/why-most-smes-fail-in-japan-and-how-to-succeed-with-the-right-strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 人手不足 受注 断る",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://www.psrn.jp/topics/detail.php?id=42691",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://shokosoken.or.jp/paper/theme/2017/201706.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail002.html",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 受注残 人手不足",
+   "results": [
+    "https://www.smrj.go.jp/press/2026/qsktgp000000b76c-att/20260930_press01.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000056.000058841.html",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jice.or.jp/cms/kokudo/pdf/review/assistances/results/h25-16g.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 人手不足 損失 億円",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/003.pdf",
+    "https://news.infoseek.co.jp/article/mynavi_3236879/",
+    "https://www.psrn.jp/topics/detail.php?id=42691",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101）",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/003.pdf",
+    "https://www.smrj.go.jp/press/2026/qsktgp000000b76c-att/20260930_press01.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_250217.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.mlit.go.jp/common/001170975.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 推移",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/002/s001.pdf",
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://shokosoken.or.jp/paper/theme/2017/201706.html",
+    "https://www.smrj.go.jp/press/2026/qsktgp000000b76c-att/20260930_press01.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 統計 PDF",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/002/s001.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/002/s001.pdf",
+    "https://shokosoken.or.jp/paper/theme/2017/201706.html",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 従業者規模別",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_231128.pdf",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260319/004.pdf",
+    "https://www.psrn.jp/topics/detail.php?id=42691",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.smrj.go.jp/press/2026/qsktgp000000b76c-att/20260930_press01.pdf",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 1人当たり 万円",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/002/s001.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_250217.pdf",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://news.infoseek.co.jp/article/mynavi_3236879/",
+    "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） 2015 2025",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.smrj.go.jp/press/2026/qsktgp000000b76c-att/20260930_press01.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/002/s001.pdf",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://news.infoseek.co.jp/article/mynavi_3236879/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_18_06_27b.pdf",
+    "https://www.mlit.go.jp/common/001170975.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Japan SMEs refused orders labor shortage survey vs processing fee revenue same year Japan statistics",
+   "results": [
+    "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "https://www.nippon.com/en/articles/-/17538",
+    "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "https://virtusinterpress.org/Strategic-insights-into-the-challenges-facing-Japan-s-small-and-medium-sized-enterprises.html",
+    "https://kizuna-x.com/article/why-most-smes-fail-in-japan-and-how-to-succeed-with-the-right-strategy/",
+    "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.tamago-db.com/japan-labor-shortage-sme-transformation/",
+    "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "https://www.stat.go.jp/english/data/roudou/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101）",
+   "results": [
+    "https://note.com/mino11293/n/n2d01366b20c6",
+    "https://note.com/mino11293/n/n49b3f3d5c4f4",
+    "https://note.com/goodassist_niage/n/n1b37d6de37c7",
+    "https://note.com/chic_deer1160/n/n90f503955cf1",
+    "https://note.com/minamisouken01/n/n72c295c2d074",
+    "https://note.com/legacy_gtalent/n/nb26e3b73d37e",
+    "https://note.com/rich_quokka6298/n/n0ae840fa5c5c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101）",
+   "results": [
+    "https://x.com/akionionio/status/2056263677725094240",
+    "https://x.com/i/trending/2036945766753948135",
+    "https://x.com/i/status/2012091055274168728",
+    "https://x.com/Stoneman_ISHIO/status/2035853014142230604",
+    "https://x.com/hatano_keiei/status/2063365524135031065",
+    "https://x.com/asahi/status/1831635898653442183",
+    "https://x.com/SORAMON_INC/status/2104330239811756302"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101）",
+   "results": [
+    "https://www.facebook.com/smrjpr/posts/中小機構news人手不足特集を公開しました-情報紙中小機構newsでは中小企業小規模事業者や支援機関の皆様に耳寄りなお役立ち情報を発信中です-人手不足特集では中/822418926590725/",
+    "https://www.facebook.com/mokutaikyo/photos/業界動向レポート建設業界の8割が人手不足により受注を断念httpsforbesjapancomarticlesdetail93940現在私たちの足元で起きている/1333662825528120/",
+    "https://www.facebook.com/mokutaikyo/posts/業界動向レポート建設業界の8割が人手不足により受注を断念httpsforbesjapancomarticlesdetail93940現在私たちの足元で起きている/1333662895528113/",
+    "https://www.facebook.com/forbesjapan/posts/建設業界で8割が人手不足により受注を見送るという調査結果-dx-採用-都市開発-サプライチェーン-人手不足-物流物流産業-働き方-建設建築-インフラストラクチャ/1477469841056751/",
+    "https://www.facebook.com/nikkei/posts/大型工事2026年度受注できず建設会社の7割-4割弱は契約済みの工事で工期が遅れる可能性があると回答しました東京都の中野サンプラザの再開発が白紙になるなど全国で/1415684729902925/",
+    "https://www.facebook.com/futoshi.kawano.1/posts/中小企業の6割が人手不足小規模企業では廃業の懸念も-日商が調査人手不足への対策では採用活動の強化が757で最も多くデジタル機械ai等による省力化が402で続いた/28742404922075460/",
+    "https://www.facebook.com/shiba.total.planning/posts/建設会社の7割が大型工事受注できない工事費の高騰は続く大手中堅の建設会社の約7割が2026年度内は大型工事を新規受注できないとみていることが日本経済新聞の調査で/1395700319022086/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） note 社長",
+   "results": [
+    "https://note.com/maoulogic/n/nb1443eb4d8fc",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://prtimes.jp/main/html/rd/p/000000005.000185200.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_16_03_18.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "人手不足で受注を断った割合（日商・中小機構の調査年）と同じ年の受託の細分類の加工賃収入額の組（先行の声と一致の統計を同じ年で並べる・4-101） X 投稿",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://news.infoseek.co.jp/article/mynavi_3236879/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2026/260622001.html",
+    "https://www.tsr-net.co.jp/data/detail/1198074_1527.html",
+    "https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260610.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan SMEs refused orders labor shortage survey vs processing fee revenue same year site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/soul-corporation-todd-cort-3lanc",
+    "https://www.linkedin.com/in/briantaylor7",
+    "https://uk.linkedin.com/in/a-leone",
+    "https://www.linkedin.com/in/mary-hamman",
+    "https://www.linkedin.com/in/linda-williams-b119713b",
+    "https://www.linkedin.com/in/paulhuynh",
+    "https://www.linkedin.com/in/gabelevin",
+    "https://www.linkedin.com/in/william-wang-menusifu",
+    "https://www.linkedin.com/in/christiescourtes",
+    "https://www.linkedin.com/posts/spiveymatt_making-a-difference-that-matters-if-you-activity-7450885577484349441-fNT0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ45頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ45頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ45頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ45頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ45頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ45頁・検索18回）",
+  "10年推移": "記載なし（読んだ45頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ45頁・検索18回）"
+ }
+}

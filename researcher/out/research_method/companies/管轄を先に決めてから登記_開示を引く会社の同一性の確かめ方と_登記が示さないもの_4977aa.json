@@ -8,83 +8,68 @@
  ],
  "context": "一次情報",
  "kind": "market",
- "researched_at": "2026-11-08T04:05:20.845751+00:00",
+ "researched_at": "2026-11-08T10:53:47.330244+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.moj.go.jp/MINJI/minji06_00116.html",
+    "url": "https://note.com/alarmbox/n/n55386ece0536",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000810740.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.miyake.gr.jp/notice/%E3%80%902022%E5%B9%B4%EF%BC%91%E6%9C%8831%E6%97%A5%E6%96%BD%E8%A1%8C%E3%80%91%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%EF%BC%88%E5%AE%9F%E8%B3%AA/",
+    "url": "https://note.com/oboreru_tanuki/n/n58c09b318ff5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88-%EF%BD%82%EF%BD%8F%E3%83%AA%E3%82%B9%E3%83%88/",
+    "url": "https://note.com/just_letbe/n/n254b448929a4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sakura-kokusai.com/case/497/",
+    "url": "https://note.com/koshimizu_haruka/n/n829b9910bbf1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://corporate.ai-con.lawyer/articles/company-basic/25",
+    "url": "https://note.com/real_ram9758/n/n127a46101cb4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nakasaki-law.com/wp-content/211209_bo.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.y-itax.com/kangaeru/26893/%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AE%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E5%88%B6%E5%BA%A6%E3%81%A8%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%AE%E6%B3%95",
+    "url": "https://note.com/jimurecipe/n/na18cad2bd065",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://yasuda-jimusho.com/2025/03/05/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%8F%96%E5%BE%97%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/",
+    "url": "https://legalexecutiveassistant.com/research/legal-entity-records-research-controls",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.fincen.gov/resources/statutes-and-regulations/cdd-rule-faqs",
+    "url": "https://www.largitdata.com/en/knowledge/china-company-due-diligence/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.federalregister.gov/documents/2016/05/11/2016-10567/customer-due-diligence-requirements-for-financial-institutions",
+    "url": "https://cnbizinsight.com/chinas-2026-aml-rules-and-beneficial-ownership-filing-a-compliance-guide-for-foreign-business-partners/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mofo.com/resources/insights/221026-beneficial-ownership-information-a-final-rule",
+    "url": "https://www.businessdataguide.com/blog/pillar/global-business-due-diligence-guide",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.firstharrison.com/assets/files/7UWp5Alc",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.barclaydamon.com/alerts/Examining-Beneficial-Ownership-and-Risk-Based-Customer-Due-Diligence-08-08-2018",
+    "url": "https://seer1.com/insights/beneficial-ownership-due-diligence-us-uk-2026/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.moneylaunderingnews.com/2018/04/fincens-beneficial-ownership-rule-more-practical-tips-and-answers-to-frequently-asked-questions/",
+    "url": "https://www.hpt.group/insights/beneficial-ownership-registers-worldwide",
     "status": "ok",
     "method": "http"
    }
@@ -94,107 +79,47 @@
   {
    "query": "管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト） site:note.com",
    "results": [
-    "https://www.moj.go.jp/MINJI/minji06_00116.html",
-    "https://www.soumu.go.jp/main_content/000810740.pdf",
-    "https://www.miyake.gr.jp/notice/%E3%80%902022%E5%B9%B4%EF%BC%91%E6%9C%8831%E6%97%A5%E6%96%BD%E8%A1%8C%E3%80%91%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%EF%BC%88%E5%AE%9F%E8%B3%AA/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88-%EF%BD%82%EF%BD%8F%E3%83%AA%E3%82%B9%E3%83%88/",
-    "https://www.sakura-kokusai.com/case/497/",
-    "https://corporate.ai-con.lawyer/articles/company-basic/25",
-    "https://www.nakasaki-law.com/wp-content/211209_bo.pdf",
-    "https://www.y-itax.com/kangaeru/26893/%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AE%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E5%88%B6%E5%BA%A6%E3%81%A8%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%AE%E6%B3%95",
-    "https://yasuda-jimusho.com/2025/03/05/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%8F%96%E5%BE%97%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/",
-    "https://note.com/oboreru_tanuki/n/n58c09b318ff5"
+    "https://note.com/alarmbox/n/n55386ece0536",
+    "https://note.com/oboreru_tanuki/n/n58c09b318ff5",
+    "https://note.com/just_letbe/n/n254b448929a4",
+    "https://note.com/koshimizu_haruka/n/n829b9910bbf1",
+    "https://note.com/real_ram9758/n/n127a46101cb4",
+    "https://note.com/jimurecipe/n/na18cad2bd065",
+    "https://note.com/fujita_legal_ai/n/n033d43dbb9b0"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト） note",
-   "results": [
-    "https://www.moj.go.jp/MINJI/minji06_00116.html",
-    "https://www.soumu.go.jp/main_content/000810740.pdf",
-    "https://www.miyake.gr.jp/notice/%E3%80%902022%E5%B9%B4%EF%BC%91%E6%9C%8831%E6%97%A5%E6%96%BD%E8%A1%8C%E3%80%91%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%EF%BC%88%E5%AE%9F%E8%B3%AA/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88-%EF%BD%82%EF%BD%8F%E3%83%AA%E3%82%B9%E3%83%88/",
-    "https://www.sakura-kokusai.com/case/497/",
-    "https://corporate.ai-con.lawyer/articles/company-basic/25",
-    "https://www.nakasaki-law.com/wp-content/211209_bo.pdf",
-    "https://www.y-itax.com/kangaeru/26893/%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AE%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E5%88%B6%E5%BA%A6%E3%81%A8%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%AE%E6%B3%95",
-    "https://yasuda-jimusho.com/2025/03/05/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%8F%96%E5%BE%97%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト） やり方",
-   "results": [
-    "https://www.moj.go.jp/MINJI/minji06_00116.html",
-    "https://www.miyake.gr.jp/notice/%E3%80%902022%E5%B9%B4%EF%BC%91%E6%9C%8831%E6%97%A5%E6%96%BD%E8%A1%8C%E3%80%91%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%EF%BC%88%E5%AE%9F%E8%B3%AA/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88-%EF%BD%82%EF%BD%8F%E3%83%AA%E3%82%B9%E3%83%88/",
-    "https://www.sakura-kokusai.com/case/497/",
-    "https://www.soumu.go.jp/main_content/000810740.pdf",
-    "https://corporate.ai-con.lawyer/articles/company-basic/25",
-    "https://www.y-itax.com/kangaeru/26893/%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AE%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E5%88%B6%E5%BA%A6%E3%81%A8%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%AE%E6%B3%95",
-    "https://yasuda-jimusho.com/2025/03/05/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%8F%96%E5%BE%97%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/",
-    "https://www.nakasaki-law.com/wp-content/211209_bo.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト） 事例",
-   "results": [
-    "https://www.moj.go.jp/MINJI/minji06_00116.html",
-    "https://www.miyake.gr.jp/notice/%E3%80%902022%E5%B9%B4%EF%BC%91%E6%9C%8831%E6%97%A5%E6%96%BD%E8%A1%8C%E3%80%91%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%EF%BC%88%E5%AE%9F%E8%B3%AA/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88-%EF%BD%82%EF%BD%8F%E3%83%AA%E3%82%B9%E3%83%88/",
-    "https://www.sakura-kokusai.com/case/497/",
-    "https://www.soumu.go.jp/main_content/000810740.pdf",
-    "https://corporate.ai-con.lawyer/articles/company-basic/25",
-    "https://www.y-itax.com/kangaeru/26893/%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AE%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E5%88%B6%E5%BA%A6%E3%81%A8%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%AE%E6%B3%95",
-    "https://yasuda-jimusho.com/2025/03/05/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%8F%96%E5%BE%97%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/",
-    "https://www.nakasaki-law.com/wp-content/211209_bo.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency",
    "results": [
-    "https://www.fincen.gov/resources/statutes-and-regulations/cdd-rule-faqs",
-    "https://www.federalregister.gov/documents/2016/05/11/2016-10567/customer-due-diligence-requirements-for-financial-institutions",
-    "https://www.mofo.com/resources/insights/221026-beneficial-ownership-information-a-final-rule",
-    "https://www.firstharrison.com/assets/files/7UWp5Alc",
-    "https://www.barclaydamon.com/alerts/Examining-Beneficial-Ownership-and-Risk-Based-Customer-Due-Diligence-08-08-2018",
-    "https://www.moneylaunderingnews.com/2018/04/fincens-beneficial-ownership-rule-more-practical-tips-and-answers-to-frequently-asked-questions/",
-    "https://bsaaml.ffiec.gov/manual/AssessingComplianceWithBSARegulatoryRequirements/03",
-    "https://www.clearygottlieb.com/news-and-insights/publication-listing/fincen-issues-exceptive-relief-to-streamline-beneficial-ownership-requirements",
-    "https://www.abrigo.com/blog/beneficial-ownership-due-diligence-amla-changes/",
-    "https://www.diligent.com/resources/blog/beneficial-ownership"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "site:note.com 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）",
-   "results": [
-    "https://note.com/just_letbe/n/n254b448929a4",
-    "https://note.com/koshimizu_haruka/n/n829b9910bbf1",
-    "https://note.com/oboreru_tanuki/n/n58c09b318ff5",
-    "https://note.com/jimurecipe/n/na18cad2bd065",
-    "https://note.com/real_ram9758/n/n127a46101cb4",
-    "https://note.com/notaspopeye/n/n7f13493a37e1",
-    "https://note.com/alarmbox/n/n55386ece0536"
+    "https://legalexecutiveassistant.com/research/legal-entity-records-research-controls",
+    "https://www.largitdata.com/en/knowledge/china-company-due-diligence/",
+    "https://cnbizinsight.com/chinas-2026-aml-rules-and-beneficial-ownership-filing-a-compliance-guide-for-foreign-business-partners/",
+    "https://www.businessdataguide.com/blog/pillar/global-business-due-diligence-guide",
+    "https://seer1.com/insights/beneficial-ownership-due-diligence-us-uk-2026/",
+    "https://www.hpt.group/insights/beneficial-ownership-registers-worldwide",
+    "https://zavia.ai/ubo-regulations-by-country-ownership-thresholds-registries-and-laws-in-2026/"
    ],
    "engines": [
     "ddgs:yahoo"
@@ -202,108 +127,106 @@
    "n_hits": 7
   },
   {
+   "query": "site:note.com 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）",
+   "results": [
+    "https://note.com/alarmbox/n/n55386ece0536",
+    "https://note.com/just_letbe/n/n254b448929a4",
+    "https://note.com/jimurecipe/n/na18cad2bd065",
+    "https://note.com/koshimizu_haruka/n/n829b9910bbf1",
+    "https://note.com/oboreru_tanuki/n/n58c09b318ff5",
+    "https://note.com/real_ram9758/n/n127a46101cb4",
+    "https://note.com/notaspopeye/n/n7f13493a37e1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
    "query": "site:x.com 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/i/status/2096926111917834270",
+    "https://x.com/yoshida5755/status/2096926316776010231",
+    "https://x.com/hiroaki_kosaki/status/2089181452206502312",
+    "https://x.com/KandaTomohiro/status/1560396821188341761",
+    "https://x.com/peko409/status/2102759633945596227",
+    "https://x.com/hiroaki_kosaki/status/2024309838512345305",
+    "https://x.com/kwillliii/status/1917420382946222401"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）",
    "results": [
-    "https://www.linkedin.com/company/login/",
     "https://www.linkedin.com/company/elevanceskills",
-    "https://jp.linkedin.com/pulse/why-compliance-challenge-aggregation-often-underestimated-fundapps-ryooe?tl=ja",
-    "https://www.linkedin.com/pulse/aiで書いた応募書類をaiが読む時代採用のやり方を変える前に会社が決めておく4つのこと-駿介-原-rkigc/",
     "https://jp.linkedin.com/posts/yuko-sasaki-61734bb4_人的資本の開示拡充政府指針経営戦略と連動義務に指標のみ重視から転換-日本経済新聞-activity-7442344597592363008-gQld",
+    "https://www.linkedin.com/pulse/aiで書いた応募書類をaiが読む時代採用のやり方を変える前に会社が決めておく4つのこと-駿介-原-rkigc/",
+    "https://jp.linkedin.com/posts/asobiari_会社はあなたを守ってくれない-人事時代に思い知らされたことでした-だからなのですが-activity-7320234906096136193-QyDa",
     "https://cn.linkedin.com/pulse/跨國知識產權訴訟的策略導航美國和英國法律體系的複雜性解析-ping-wang-bmiec",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7194296006149087232/"
+    "https://www.linkedin.com/feed/update/urn:li:activity:7194296006149087232/",
+    "https://jp.linkedin.com/posts/忠旨-若林-14479220a_発達障害と障害者雇用開示できない職場が示す構造的課題-毎日新聞が報じた-activity-7439060369094004736-lt-x"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）",
    "results": [
-    "https://www.facebook.com/chuogodooffice/posts/管轄外への本店移転登記手続きが簡略にhttpchuogodo-hamamatsuinfouncategorizede7aea1e8bd84e5a496e381b/1364334300361164/",
+    "https://www.facebook.com/4430.info/posts/不動産登記申請に添付する利益相反に関する議事録関係の質疑応答単なる羅列-取締役会の議事録の添付の要否登記研究６３２号-要旨-代表取締役を同じくする甲乙両会社が共/1873999412679386/",
     "https://www.facebook.com/4430.info/posts/管轄外への本店移転の登記申請があった場合における登記すべき事項の取扱いについて-法務省民商第１１１号-平成２９年７月６日-法務局民事行政部長-殿-除く大阪-地方/1609297859149544/",
-    "https://www.facebook.com/tokyoshihoushoshikai/posts/不動産登記受付帳の記録事項や開示手続の在り方の見直しを求める会長声明１不動産登記受付帳を利用した不動産売却等の勧誘-昨今不動産登記受付帳の開示請求で得られた情報/1484143639601971/",
-    "https://www.facebook.com/beidouland/posts/轉知以不屬同一登記機關管轄之土地或建物權利為共同擔保向同一登記機關申請抵押權設定登記其登記費之計收簡化作法因應申請抵押權設定登記案件之受理機關已不限於土地或建物/666789055492341/",
     "https://www.facebook.com/ShinnipponHoki/posts/新刊情報不動産登記の落とし穴法令先判例から読み解く実務のポイント-編集代表済田秀治-編集沼田知之田中博幸を829金に入荷いたしましたまぎらわしい意外と知らないを/1385071816958642/",
-    "https://www.facebook.com/gvacorporate/posts/株式会社設立時の本店所在場所の決め方と設立後の本店移転についてという記事を掲載しました自宅開業のメリットデメリット事務所賃貸のメリットデメリットなどを解説してい/1132110410919607/",
-    "https://www.facebook.com/tokyoshihoushoshikai/photos/不動産登記受付帳の記録事項や開示手続の在り方の見直しを求める会長声明１不動産登記受付帳を利用した不動産売却等の勧誘-昨今不動産登記受付帳の開示請求で得られた情報/1484143586268643/"
+    "https://www.facebook.com/nisshiren.official/posts/会員向けeラーニング令和７年度業務研修会商業法人登記実務の現場からを日司連研修総合ポータルに掲載いたしました是非ご活用ください-日司連研修-司法書士会員研修/1341610754676276/",
+    "https://www.facebook.com/tokyoshihoushoshikai/photos/不動産登記受付帳の記録事項や開示手続の在り方の見直しを求める会長声明１不動産登記受付帳を利用した不動産売却等の勧誘-昨今不動産登記受付帳の開示請求で得られた情報/1484143586268643/",
+    "https://www.facebook.com/beidouland/posts/轉知以不屬同一登記機關管轄之土地或建物權利為共同擔保向同一登記機關申請抵押權設定登記其登記費之計收簡化作法因應申請抵押權設定登記案件之受理機關已不限於土地或建物/666789055492341/",
+    "https://www.facebook.com/zeiri4com/posts/商号とはいわば会社名のことです商号の決め方には6つのルールがあり遵守しなければ登記が認められないなどのリスクが生じます法人を設立する前にルールを正しく理解してお/1839923474082277/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト） note 社長",
-   "results": [
-    "https://www.moj.go.jp/MINJI/minji06_00116.html",
-    "https://www.miyake.gr.jp/notice/%E3%80%902022%E5%B9%B4%EF%BC%91%E6%9C%8831%E6%97%A5%E6%96%BD%E8%A1%8C%E3%80%91%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%EF%BC%88%E5%AE%9F%E8%B3%AA/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88-%EF%BD%82%EF%BD%8F%E3%83%AA%E3%82%B9%E3%83%88/",
-    "https://www.sakura-kokusai.com/case/497/",
-    "https://www.soumu.go.jp/main_content/000810740.pdf",
-    "https://corporate.ai-con.lawyer/articles/company-basic/25",
-    "https://www.y-itax.com/kangaeru/26893/%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AE%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E5%88%B6%E5%BA%A6%E3%81%A8%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%AE%E6%B3%95",
-    "https://yasuda-jimusho.com/2025/03/05/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%8F%96%E5%BE%97%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/",
-    "https://www.nakasaki-law.com/wp-content/211209_bo.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト） X 投稿",
-   "results": [
-    "https://www.moj.go.jp/MINJI/minji06_00116.html",
-    "https://www.miyake.gr.jp/notice/%E3%80%902022%E5%B9%B4%EF%BC%91%E6%9C%8831%E6%97%A5%E6%96%BD%E8%A1%8C%E3%80%91%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%EF%BC%88%E5%AE%9F%E8%B3%AA/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88-%EF%BD%82%EF%BD%8F%E3%83%AA%E3%82%B9%E3%83%88/",
-    "https://www.sakura-kokusai.com/case/497/",
-    "https://www.soumu.go.jp/main_content/000810740.pdf",
-    "https://corporate.ai-con.lawyer/articles/company-basic/25",
-    "https://www.y-itax.com/kangaeru/26893/%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AE%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E5%88%B6%E5%BA%A6%E3%81%A8%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%AE%E6%B3%95",
-    "https://yasuda-jimusho.com/2025/03/05/%E5%AE%9F%E8%B3%AA%E7%9A%84%E6%94%AF%E9%85%8D%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%8F%96%E5%BE%97%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/",
-    "https://www.nakasaki-law.com/wp-content/211209_bo.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/introductory-letter-complianceworld-rto1f",
-    "https://www.linkedin.com/posts/temple-chambers_%F0%9D%97%98%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%B2-%F0%9D%98%83-%F0%9D%97%A3%F0%9D%98%84%F0%9D%97%96-%F0%9D%97%9B%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5-activity-7503707425028579328-0JKZ",
-    "https://uk.linkedin.com/in/dev-agrawal-821646228",
-    "https://pk.linkedin.com/in/arsalan-khan-559562137",
-    "https://be.linkedin.com/in/kristinaloguinova",
-    "https://hk.linkedin.com/in/flora-liu-kit-wah",
-    "https://in.linkedin.com/in/sureshtv",
-    "https://sg.linkedin.com/in/akinwunmi-ajiboye-454565146",
-    "https://in.linkedin.com/in/cssakshimittal",
-    "https://www.linkedin.com/pulse/company-formation-czech-republic-step-by-step-guide-sheyla-shamilli-mikge"
+    "https://www.linkedin.com/pulse/due-diligence-cross-border-acquisitions-practical-qa-guide-semanie-zsuve",
+    "https://www.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte/",
+    "https://pe.linkedin.com/pulse/beneficial-ownership-spotlight-elevating-due-across-finance-enneking-eufcc",
+    "https://pe.linkedin.com/pulse/customer-due-diligence-cdd-challenges-performing-cdd-suveer-khanna/",
+    "https://www.linkedin.com/pulse/beneficial-ownership-2026-why-same-direction-still-means-5hjze/",
+    "https://www.linkedin.com/posts/m-kim-91b928189_a-transparent-jurisdiction-simplifies-due-activity-7444418550309609472-Rvx3",
+    "https://www.linkedin.com/pulse/fincen-ends-us-beneficial-ownership-reporting-iagrf"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ15頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ15頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）",
-  "実例": "記載なし（読んだ15頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ12頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）",
+  "実例": "記載なし（読んだ12頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T01:06:35.135687+00:00"
 }
