@@ -261,15 +261,15 @@
   - 「と対応させた場合、例えば、4つの要素はこうなります」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「結果として、」（https://cheercareer.jp/ip_blogs/552）
   - 「結果として、面接時の受け答えの質が上がり、面接官から高い評価を受けやすくなるでしょう」（https://cheercareer.jp/ip_blogs/552）
+  - 「企業HPの採用情報・ケーススタディ、外国会社報告書（EDINETで検索可能な場合あり）、業界レポート、就職四季報の掲載データ、そしてクライアント企業の有報に現れるコンサル関連費用などが情報源になります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
+  - 「Examples include WhatsApp, Instagram, and Tumblr before they were acquired.」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「small businesses fall into this category. Examples include Ikea, SAS, Cargill, and Koch Industries.」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「apply to private companies: one example is the」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「For example, if buyers have paid a 30% share-price premium for public sellers over the past five years, and your company’s share price is currently $10.00, then you might conclude that it’s worth $13.00 to a buyer.」（https://mergersandinquisitions.com/private-company-valuation/）
   - 「有報の読み方 有報ガイド 有報が使えない非上場人気企業の調べ方を体系化し、サイトの構造的弱点を解消する 親子上場の有報活用テクニックなど、他の就活メディアにはない実践的な調査手法を提供 就活人気企業の中には非上場企業が多数あり、有報が使えないケースが実際に存在する 非上場でも決算公告・信用調査・上場子会社の有報など代替情報源は複数ある サントリーHDのように非上場でも上場子会社の有報から事業内容を読み取れるケースがある 情報源ごとに信頼性と入手しやすさが異なるため、複数を組み合わせるのが基本」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「従業員の多様性データや環境関連の投資額など、面接での差別化に使える情報が見つかるケースもあります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「: ケーススタディ、採用情報、プレスリリースが主な情報源」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「大学によってはオンラインで企業情報データベースにアクセスできるケースもあります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
-  - 「「インターンシップで学びたいこと」の答え方例文｜選考突破者の実例」（https://careerpark-agent.jp/column/67587）
-  - 「事業内容とは｜企業研究や選考対策への活用方法を事例付きで解説」（https://careerpark-agent.jp/column/67587）
-  - 「例えば、お金の資金繰りがうまくいっていない企業の場合、損益計算書上では利益が出ているように見えても、回収や支払のタイミングによっては営業のキャッシュフローが赤字になっているケースもあります」（https://note.com/billye/n/n1b91b3c986af）
-  - 「course, and there’s a more detailed “small business valuation” example in the」（https://mergersandinquisitions.com/private-company-valuation/）
-  - 「Complete 9 case studies」（https://mergersandinquisitions.com/private-company-valuation/）
 - 検索結果の抜粋：
   - 「【28卒】企業分析のやり方とは？4ステップで就活生に向けて解説 - 選... — Dec 27, 2025 · 企業分析の目的から具体的なやり方、比較ポイントまでを徹底解説。市場動向や競合比較など、分析を成功させる4つのステップと情報収集のコツを紹介します。自分に合う企業を見極め、選考を有利に進めるためのノウハウが満載です。」（https://cheercareer.jp/ip_blogs/552）
   - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない｜... — Jun 26, 2026 · 面接で深掘りされると言葉が出てこない。 それは準備量の問題ではなく、分析の設計が間違っているサインです。 この記事では、企業分析で本当に答えるべき2つの問いを整理し、正しい分析の入り口をお伝えします。」（https://note.com/restart_notes25/n/nf64264f912f9）
@@ -3084,25 +3084,40 @@
 ## 競合仮説分析と確率の言葉（ACH・推定の言い方）（analysis of competing hypotheses diagnosticity matrix estimative language）
 - 文脈：分析の型
 - 手順・やり方：
-  - 「Analysis of Competing Hypotheses (ACH) is an intelligence analysis method based on」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「ACH is an eight-step method based on cognitive」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「cal scientific method. The rigor inherently re-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「quired means this method is appropriate to use」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Time frame: The method is appropriate for any」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「in the method can com-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「intelligence circles, where this method is」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「How to Adapt ACH Tools to Foresight」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「scientific framework would help reduce cogni-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「process, validating intelligence methods and practices, the use of games in teaching」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Analytic Methods ❙ Richards Heuer」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「(SACH) are methodologies designed to reduce the level of uncertainty among decision-makers」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「ticularly appropriate for intelligence problems. There are other methods analogous to ACH,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「e.g., the broadly used medical methodology, Differential Diagnosis (DD). SACH is less used」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「makes the analyst’s reasoning more transparent. Both methods are conceptually straightfor-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「要性に余り理解を示さなかったのは、軍の教育機関において情報の分析方法が」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「した「合理的敵情判断ノ方法」及び「敵情補充ノ原則」である14」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「このほか、情報分析方法について論じたものとしては以下を参照のこ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「「合理的敵情判断ノ方法」及び「敵情補充ノ法則」に示されている井上の情」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「報分析の方法論（以下「井上の情報論」という）について、これまで情報分析」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「なお、教案とは、「教師が授業の目的、方法、時間配当、参考資料などにつ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「拠の追加を行った場合、新要素について、第3段階の手順を実施する」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「上記の手順を経て得られた結果を報告するのが、第7 段階である」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「(1) 合理的敵情判断ノ方法」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「「合理的敵情判断ノ方法」では、敵情判断の方法について、三つの方面25に」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「これら三つの方面があいまって「合理的敵情判断ノ方法」は作動するも」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「判断ノ方法」の概要を、図1のようにまとめている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 突き合わせ・推定：
-  - 「and retrieve the best possible estimate. ACH resembles Differential Diagnosis (DD) in」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「of confidence in their own estimate.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「― 競合仮説分析(Analysis of Competing Hypotheses)との比較から ―」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「そうした情報分析手法の一つが、競合仮説分析（Analysis of Competing」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「これは、解答となりうる仮説を複数設定した上」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「競合仮説分析を含め、様々な分析手法について詳細に検討している8」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「本経済新聞社、2006年；拙稿「競合仮説分析（Analysis of Competing Hypotheses）は」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「べき行動、特にわが方策に重大な影響を及ぼすべき行動を攻究し推定すること」」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「そこで本稿では、競合仮説分析との」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「情報分析のプロセスについて概観するとともに、競合仮説分析の概要について」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「第 3 節では、競合仮説分析と井上の情報論と競合仮説分析とを比較し、」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「1 情報分析のプロセスと競合仮説分析」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「さらに自分がもっている仮説を確かめるときに、」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「インフォメーションであっても、既に持っている期待や仮説に同化しがちであ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「①仮説設定段階、②仮説検証・選択段階、③フォローアップ段階の3段階から」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「まず、情報分析に制約要因があるため、最初から正しい仮説を打ち立てるこ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「このため、第1の仮説設定段階において、複数立てる必要があ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 一次情報の探し方：
+  - 「http://www.mofa.go.jp/mofaj/press/release/17/pdfs/rls_0913a.pdf、2013年 2月 11日ア」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「の方針』内閣官房、2008年、http://www.kantei.go.jp/jp/singi/zyouhou/080214kettei.pdf、」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
@@ -3116,39 +3131,38 @@
   - 「tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「Competitor Analysis and Profiling」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
-  - 「Competitor Profiling Framework」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
 - 失敗・落とし穴：
+  - 「インテリジェンスの歴史は、失敗の歴史ともいわれている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「戦争開戦前の大量破壊兵器に関する見積もりの失敗など、多くの「情報の失敗」」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「そして、こうした「情報の失敗」の原因と」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「2 「情報の失敗」とその対策については多くの先行研究があるが、主要なものとしては以」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「合致する証拠を重視する傾向（確証バイアス）21を持っている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「こうした傾向を持つことから、人間は、あいまい、あるいは誤りと思われる」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「この特徴により、確証バイアスを避けることができる」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「までも仮説にとどまり、一度反証されれば、誤りとされるという反証主義を唱えた」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「また、確証バイアス」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「また、敵の欺瞞が行われること49や、味方の報告に誤りが」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「これに注意することにより、情況の思わぬ変化や敵の欺瞞に対応できる60」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「合、認知能力の限界から彼は確証バイアスの影響を受け、Ａを裏付けるインフ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「notably confirmation bias which compels people to seek evidence confirming their」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「biases when dealing with complex issues. The」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「tive biases in the intuitive analysis that occurs」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「eses (ACH) to help analysts overcome cognitive biases. While experimental evidence on the」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「an optical illusion, no matter how much an analyst consciously tries to see past these biases,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「the unconscious part of the brain continues to assert itself. Indeed, confirmation bias, which」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「to conspiracy theories. Other cognitive biases can have similar negative effects when forecast-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「A common pitfall in this step is to see a large amount of evidence (relative to the total amount」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「remember, unless you find an obvious error or stupid mistake, your first answer is probably」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Brasfield Andrew, Forecasting Accuracy and Cognitive Bias in the Analysis of Competing」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「document/35793494/Forecasting-Accuracy-and-Cognitive-Bias-in-the-Analysis-of-Competing-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Cheikes Brant, et alii, “Confirmation Bias in Complex Analyses”, Technical Report No. MTR」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 実例：
-  - 「ous foresight examples would be in monitoring」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Let’s imagine an unstable country as an example. When asked, analysts might come up with」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「of the competing hypotheses. Should this be the case, the analyst would either need to collect」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「regarding the analysis. For example, if this analysis indicates that the economy has not stabi-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「main question. For example, the original question “Which industries and tribal groups are」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「example, given that the assumption check revealed that the evidence did, indeed, support the」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「For example, imagine there are three main industries in country x, automotive, textile and min-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「enough information to answer a question. In the above example, it is entirely possible that data」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「SACH Case Study: Ghana Telecommunications」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Note: The following case study conducted for a private client using SACH has been modified」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「ment based on the limited evidence available. For purposes of this case study, the analysts」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Tools, Tutorials, Critiques and Case Studies」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「鮮戦争時の対中情報を事例として」『戦略研究』第5号、2007年 11月、145-159頁」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「例えば、北岡元は、前述の」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「7 例えば以下を参照のこと」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「事例に」『情報史研究』第3号、2011年 6月、39-76頁；楠公一「情報見積り手法の形」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「整合するかどうかを確認、マトリックスに結果を記入する」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「討の結果、全ての仮説に整合・不整合であった証拠については、仮説ごとの確」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「以上の結果を踏まえ、第5段階では、各仮説の相対的な確からしさについて」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「上記の手順を経て得られた結果を報告するのが、第7 段階である」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「に基づき、思惟考案してこれに技巧をめぐらし、質の良き結果を導かんとする」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「一案を立て、これについてその結果を検討する」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「結果が得られない場合には、他の案について同様の手順を繰り返す」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「は、判断の完結前に心理に描かれる結果の予想である」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「例えば、選言的推理や複」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「例えば、工夫の方法として、「工夫」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「ノ方法ハ、…先ヅ一案ヲ立テ之ニヨリテソノ結果ヲ検シ、如何ナル結末ニ成ル」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
@@ -3858,11 +3872,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -4367,85 +4381,85 @@
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
 - 手順・やり方：
-  - 「生成AIの高度化・自律型AIエージェントの台頭に伴う採用選考の変容分析」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「2022年末の対話型生成AI（ChatGPT）の登場以降、2024年頃からの」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「「単発プロンプト支援」から「自律型AIエージェント（AI対AI）」への移行」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「2023年〜2024年前半のAI活用は人間が都度指示を出す「アシスタント型」であったが、2024年後半〜2026年にかけて、応募検知からレジュメ構造化解析、マッチ度判定、24時間対話型AI面接でのリアルタイム深掘り質問、評価レポート原案生成までを連続実行する」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「一次選考に24時間受験可能な対話型AI面接を導入した企業の」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 「ガクチカ（学生時代に力を入れたこと）」の形骸化に伴い、①初期対面対話への転換（ロート製薬「Entry Meet」等 [SRC-022]）、②ES廃止・緩和×対話型AI面接による全員面接化（ローソン、イトーヨーカ堂、シミックHD等 [SRC-008, SRC-042, SRC-043]）、③課題解決プレゼン選考（日立製作所等 [SRC-014]）へ分岐」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「また定型事務のAI代替を見据えた一部大手の採用厳選化（三菱電機、ENEOS、クボタ等 [SRC-045]）が始まっている」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「採用領域におけるAI技術は、2023年以前から2026年現在にかけて「識別系機械学習」→「対話型生成AI」→「自律型AIエージェント」へと質的な飛躍を遂げた」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「比較軸【第1世代】〜2022年頃<br>識別系AI・機械学習（NLP/画像解析）【第2世代】2023年〜2024年前半<br>初期・プロンプト応答型生成AI【第3世代】2024年後半〜2026年<br>マルチモーダル生成AI＋自律型AIエージェント中核技術」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「（1）2023年以前：過去データ学習型AIによる省力化とガバナンスの教訓」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「（2）2024年〜2026年：自律型スクリーニングエージェントの普及と「ES均質化」の逆説」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「2024年後半以降、LLMとATS（採用管理システム）を連携させた採用特化型AIエージェントが相次いで実用化された」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「2020年の新型コロナウイルス感染拡大を機にZoom等によるオンライン面接が急速に定着し、初期選考では候補者がスマートフォンで設問への回答動画を撮影・提出する「非同期型（録画型）動画選考」が広がった（2020年5月のソフトバンク×エクサウィザーズ共同開発AIシステム導入で動画選考作業を約70%削減 [SRC-003]、JCBのHireVue導入で約900時間の現場社員面接工数を削減 [SRC-030]）」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「また、国内対話型AI面接のパイオニアであるタレントアンドアセスメントの『SHaiN』（2017年10月提供開始）も、提供開始から約7年間は「AIが行うのは質問と音声認識までで、文字起こしデータを読んで採点・評価するのは人間の専門スタッフ」という体制であった」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「（2）2024年〜2026年：対話型AI面接官の急拡大と「ハイブリッド判定」の確立」（https://note.com/jack4manastalk/n/n880406135053）
+  - 「こうした動きを理論的にどのように捉えるかが学問上のフロンティアであるが、現在のところ数理モデルで表現する方法はないため、まず実際の動きをよく観察して、それから適切なモデルを考えるということになろう」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「近年は、複雑系の研究が進んでおり、現実のデータの動きからその裏にある非線形の運動方程式を考えるというのも一つの方法であろう」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「まず、潜在ＧＤＰの推計方法を整理すると、時系列モデルに基づく手法とマクロ生産関数に基づく手法に大別できる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「そこで、本論文では、マクロ生産関数に基づいて推計された「従来型ＧＤＰギャップ」、「修正型ＧＤＰギャップ」を、分析の対象とする（定式化や推計の詳細は、『金融研究』2001年４月号の鎌田・増田論文を参照）」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「本論文では、こうした方法で推計されたＧＤＰギャップを「従来型ＧＤＰギャップ」と呼ぶ」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「この方法を用いる場合には、ソロー残差にどのようなトレンドを当てはめるかという点が重要になる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「一方、鎌田・増田［2001］は、電力原単位（使用電力量／契約電力量）や設備判断ＢＳＩを用いて非製造業の資本稼働率を推計し、それを利用して計算したソロー残差をＴＦＰとみなすことで、潜在ＧＤＰを計算する方法を提唱した」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「この方法により推計されたＧＤＰギャップを「修正型ＧＤＰギャップ」（正確には「非製造業稼働率修正型ＧＤＰギャップ」）と呼ぶ」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「因みに、鎌田・増田や筆者の別の分析では、両者をインフレ率との関係の安定性やインフレ予測のパフォーマンスの観点から比較した結果、「修正型」の方が優位であるとの結論を得ている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「まず、1988年第１四半期に利用可能であった1987年第４四半期までのデータを用いてＧＤＰギャップを推計すると、「従来型」、「修正型」ともに、サンプル期間を通じたＧＤＰギャップの平均値を約１％上回っている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「次に、「従来型」における屈折トレンドと固定トレンドの違いを考える」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「しかしながら、当時、特に1988年後半以降のソロー残差の急上昇の中に、過度に行き過ぎた成長期待があったとすれば、「修正型」や屈折トレンドを用いた「従来型」の推計では、生産性の上昇が過大に評価されていた可能性もある」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「将来のインフレ率を予測するためには、ＧＤＰギャップを推計し、それをフィリップス曲線に当てはめるというオーソドックスな方法と、特定の理論に依拠しない方法がある」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「そう考えると、「従来型」については、固定トレンドで議論を進めた方が良いような気がする」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「ソロー残差のトレンドが屈折したとみられる時点から２、３年分のデータを追加しただけで、屈折トレンドを引くのは難しいのではないかとのご指摘があったが、こうした場合でも、もし実際に生産性の上昇が正当化できるときには、ソロー残差にトレンドを当てはめない「修正型ＧＤＰギャップ」を判断材料として用いることが、一つの方法なのでないかと考えている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
 - 突き合わせ・推定：
-  - 「and bends the estimated trend backward by」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「the initial trend estimate far too low. With」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「not drift upward to correct an inflated initial under-estimate.」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「# revises the 2019 Q4 trend estimate — precisely the instability we want」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「basis columns shift, and the estimated trend from vintage」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「space, so differences between consecutive trend estimates are」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「Each semi-transparent line below is one vintage estimate. A」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「"Each line = one vintage estimate (2018–2022 overlap window). Dashed = observed."」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「filter revises its trend estimate substantially as new post-COVID data」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「vintages produce nearly identical estimates.」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「how a past estimate gets」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「how does each filter’s trend estimate at」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「the outlier, so earlier trend estimates barely move.」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「# MBH used df = 10 (correct endpoint estimate), knots = 50, and」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「"How does each filter re-estimate the pre-COVID trend as COVID data are published?"」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「バブル期の金融政策については、これまでも様々な検証や事後点検が行われてきたが、未だ十分議論の尽くされていない論点の１つに、「何故、日本銀行は1988年後半に利上げを行わなかったのか」という点がある」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「本報告では、こうした２つの見方についてその妥当性を検証していく」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「具体的には、まず、最近のＧＤＰギャップ推計に関する議論を踏まえて、いくつかのＧＤＰギャップを推計する」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「まず、潜在ＧＤＰの推計方法を整理すると、時系列モデルに基づく手法とマクロ生産関数に基づく手法に大別できる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「（ＨＰ）フィルターで処理して計算されるため、推計が簡便である一方で、経済理論的裏付けに乏しいという欠点がある」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「そこで、本論文では、マクロ生産関数に基づいて推計された「従来型ＧＤＰギャップ」、「修正型ＧＤＰギャップ」を、分析の対象とする（定式化や推計の詳細は、『金融研究』2001年４月号の鎌田・増田論文を参照）」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「マクロ生産関数に基づいて潜在ＧＤＰを推計する場合、ソロー残差とＴＦＰ（全要素生産性）の関係が問題となる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「従来は、この問題を解決すべく、ソロー残差に線形トレンドを当てはめ、これを真のＴＦＰとみなして、潜在ＧＤＰを推計してきた」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「本論文では、こうした方法で推計されたＧＤＰギャップを「従来型ＧＤＰギャップ」と呼ぶ」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「一方、鎌田・増田［2001］は、電力原単位（使用電力量／契約電力量）や設備判断ＢＳＩを用いて非製造業の資本稼働率を推計し、それを利用して計算したソロー残差をＴＦＰとみなすことで、潜在ＧＤＰを計算する方法を提唱した」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「この方法により推計されたＧＤＰギャップを「修正型ＧＤＰギャップ」（正確には「非製造業稼働率修正型ＧＤＰギャップ」）と呼ぶ」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「以降、当時利用可能であったデータ（ただし確報値）を用いて推計を行い、リアルタイムに近い形での評価を試みる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「まず、1988年第１四半期に利用可能であった1987年第４四半期までのデータを用いてＧＤＰギャップを推計すると、「従来型」、「修正型」ともに、サンプル期間を通じたＧＤＰギャップの平均値を約１％上回っている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「第一に、いずれの推計値をみても、1988年後半には、ＧＤＰギャップが過去の平均値を２％程度上回っており、金融引き締めに転ずるべきタイミングであったことが示唆されている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「これは、固定トレンドが生産性のトレンドの上振れを容認していない分、潜在ＧＤＰの推計値が小さくなり、ＧＤＰギャップが嵩上げされるためである」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
 - 一次情報の探し方：
+  - 「講演録 (PDFファイル、55KB)」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「物価と実体経済の関係をみるために、超長期の時系列統計を使い、横軸に経済成長率を、縦軸にインフレ率をとった散布図をプロットしてみた」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「報告論文には、技術革新は好況時に生じるのか、不況時に生じるのか、という問題について記述がみられるが、不況トリガー説は産業レベルについてみるとどうか、歴史統計から何か分かるか」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「統計学の観点からは、信頼性に確証を持てない超長期のデータを扱うのは勇気がいることだが、物価を過去に溯ると殆ど農作物になるため、直感的な印象よりもかなり正確であると思われる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「世界時間という観点では、19世紀後半に多くの国で採用された金本位制の影響が大きい」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「とりわけ、名目成長率については、ＧＤＰデフレーターの遡及改訂の影響を大きく受ける実質成長率に比べると、統計として安定性が高いと考えられる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「とくに昨今の金融政策でコミットメント型が採用されている背景には、そうした効果が念頭に置かれているのではないだろうか」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「ＧＤＰ統計の速確乖離に関する議論があったが、内閣府は、速報値に、需要サイドの情報だけでなく、供給サイドの情報もできるだけ幅広く使う方向で検討している」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「また、ＧＤＰデフレーターの遡及改訂幅の背景には、(1)確確報までに２～３年のラグがあり、その間、基礎統計が基準改訂等により改訂されること、(2)パーシェ型指数なので、数量ウェートが遡及改訂される度にデフレーターも改訂されること、などが挙げられる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「岡本 政人：総務省統計局統計調査部消費統計課長」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
   - 「（メモ）AI面接とAIエージェントの普及による、新卒採用・転職市場の変化（日・米・欧・中）｜jack4andMana'sTalk」（https://note.com/jack4manastalk/n/n880406135053）
   - 「（メモ）AI面接とAIエージェントの普及による、新卒採用・転職市場の変化（日・米・欧・中）」（https://note.com/jack4manastalk/n/n880406135053）
   - 「生成AIの高度化・自律型AIエージェントの台頭に伴う採用選考の変容分析」（https://note.com/jack4manastalk/n/n880406135053）
   - 「: collected_sources.jsonl（全50件の一次調査・公的報告書・報道・プレスリリースを収録）」（https://note.com/jack4manastalk/n/n880406135053）
   - 「（トリガー発火から複数工程を自律実行するAIリクルーター／求職者側AIキャリアエージェント）は、採用市場の前提条件を根底から覆した」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「2023年以前（機械学習によるパターン分類・非同期録画面接・初期生成AIへの「様子見」の時代）と、2024年〜2026年現在を対比したとき、日本の採用市場には以下の」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「同時に求職者側でもAIによる企業比較・応募前スクリーニングや自動応募エージェントが台頭し、採用広報においては検索エンジン最適化（SEO）に代わり**「採用AIO（AI Optimization：AIから正しく推薦・引用されるための構造化データ整備）」**が新たな競争軸となった [SRC-035, SRC-037]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「一方で、合否判定では6割超の企業が人間の目で最終確認する「ハイブリッド判定」を採用しており、オンライン面接でのAIカンニングやディープフェイクなりすまし問題 [SRC-025, SRC-027] や候補者の対話ニーズ（新卒最終面接では85.0%が対面希望 [SRC-016]）を背景に、後半工程ほど対面面接・個別リクルーター対応への回帰」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「また定型事務のAI代替を見据えた一部大手の採用厳選化（三菱電機、ENEOS、クボタ等 [SRC-045]）が始まっている」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「中途採用比率が2026年度計画で50.3%と史上初めて過半数を突破」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「また、在職中求職者（約75〜79%）の日程調整負荷を解消する一次AI面接は新卒よりも肯定的に受容されており [SRC-038]、求人要件における「AI活用スキル」明記率は」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「第1章：技術基盤と採用AI導入実態の変遷（2023年以前 vs 2024〜2026年）」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「採用領域におけるAI技術は、2023年以前から2026年現在にかけて「識別系機械学習」→「対話型生成AI」→「自律型AIエージェント」へと質的な飛躍を遂げた」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「バッチ処理・単一タスク判定（過去データの統計的パターン照合）人間主導（担当者が都度テキストを貼り付けて要約・文案生成を指示）」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「企業側は個別要約に試用各社固有の採用要件・行動特性と照合し構造化スコアリング」（https://note.com/jack4manastalk/n/n880406135053）
 - 失敗・落とし穴：
-  - 「# numerically comparable and the baseline trend is unbiased.」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「# numerically comparable and the baseline trend is unbiased.」（https://rdrr.io/cran/MacroFilters/f/vignettes/real_time_revisions.Rmd）
-  - 「過去の採用バイアス（性別・学歴等）の再生産、同意なきデータ利用（2019年リクナビ問題）ハルシネーション、プロンプト依存による出力の画一化（「優等生的で個性がないES」）求職者AIと企業AIの「AI対AI」化、Web面接でのリアルタイムAIカンニング・ディープフェイクなりすまし、サイレント辞退」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 自動雇用決定ツール（AEDT）に対する年1回の独立第三者バイアス監査・結果公表・10営業日前の事前通知を義務化（ただし2025年12月のNY州会計監査官報告で行政側の執行体制の不備も指摘され、実効性強化が議論されている）」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「<br>・代わりにAI面接・対人面接での**「なぜそう判断したか」「失敗時にどう動いたか」という多段階の深掘り質問と設問間の一貫性チェック**へ移行」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「Metaが2025年10月から導入した「AI-enabled coding interview」のように、選考中にGPTやClaude等の利用を公式に認めたうえで、「AIに何を任せ、AIが出した誤りや浅い出力にどう気づいて修正し、最終品質を担保できるか」という」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「は例年約2万件のエントリーと職種別12コース化に伴う面接官バイアスを解消するため、一次面接をAI面接に完全移行（工数97%削減、選考対象者最大20%拡大） [SRC-076]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「）で「失敗を恐れず挑戦（34.3%）」「丁寧な指導（50.1%）」が過去最高、「厳しい指導を求める（24.0%）」も3年連続上昇する一方、」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「自ら転職市場をくぐり抜け、他社比較の視点を持つ外部人材をマネジメント層に注入することで、生え抜き組織の認知バイアスを打破しようとしているのである」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「「AIよりも精度が低くバイアスだらけの昭和・平成初期面接」と「早期離職（入社半年で転職意向6割）」**を再生産してしまう」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「「AI書類の罠」の回避と構造化深掘り面接対策」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: AIで整えた職務経歴書・ESは面接官（およびAI面接官）から「なぜその行動をとったのか」「失敗したときどう修正したか」と徹底的に深掘りされるため、借り物の言葉を排し、自分の言葉と一次エピソードに落とし込む対話訓練」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「エージェントが長い手順を維持し、ツールを使い、誤りから復帰する改善は、採用業務の連結に技術的な背景を与える」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「改訂値の注意：13% → 16% → 19%を一本の連続系列にしない」（https://note.com/jack4manastalk/n/n880406135053）
+  - 「19世紀以降のハイパーインフレは戦争、革命、クーデターで起きていることは間違いない」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「超長期に物価をみるのは一概に無駄とは言えず、個別価格についていえば十分に注意していけば利用する価値のあるデータだと思う」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「利上げをしなかったのは誤りである」というものである」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「その結果は必ずしも明確ではないが、全体としては生産性の変化に注意すべきことが主張されている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「本論文の評価すべき点としては、潜在ＧＤＰの推計に関する最近の研究を利用している点や、実際の金融政策運営を行う立場から、リアルタイムの計測に注意が払われている点が挙げられる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「ＧＤＰギャップからみて経済が過熱していたという推計結果が正しいとしても、80年代後半に利上げが遅れたのが間違いであったかについては、はっきりとした答えが出せないのではないか」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「それでも、80年代後半の金融政策が間違いであったとの議論をするためには、バブルの生成・崩壊が金融システムの安定性、その後の実体経済の混乱に影響を及ぼしたことを議論する必要があろう」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「成長率のトレンドが上方屈折したと想定すれば、当時の資産価格の上昇はバブルではなく、ファンダメンタルズを反映したものということになる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「なお、ＧＤＰデフレーターについては、輸入品を控除項目としているため、原油価格が急騰・急落した場合、ＧＤＰデフレーターが短期的に石油価格と逆方向に振れることがある点には、注意しなければならない」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「ただし、資産価格から実体経済に波及する影響には、すぐに生じるものとラグを伴うものがあり、分析をする際には注意が必要であろう」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「そうした場合には、ショックの識別の困難さや不確実性を前提としたうえで、大きな誤りだけは最大限回避するという「頑健」な金融政策運営を心がけておくことが重要である」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「そうした状況で大きな誤りを回避する一つの考え方は、ＧＤＰギャップという経済活動の水準ではなく、経済成長率という変化率に注目することであると思われる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「このほか、価格の粘着性に関する議論に関しては、粘着性の度合いが時間を通して一定であるとは限らないことに注意が必要である」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「また、目標インフレ率はゼロが望ましいという議論に関しては、物価指数のバイアスやゼロ金利制約を考えた場合に、どの程度プラスの糊代を考えたらよいのか示して欲しい」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「こうした考えは誤りであって、ショックの経済に及ぼす影響と正しい政策対応のあり方について、より認識を深めていくことが重要であると思う」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
 - 実例：
-  - 「# the 28 vintages contributes data — this eliminates the staircase / accordion」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
-  - 「# the 28 vintages contributes data — this eliminates the staircase / accordion」（https://rdrr.io/cran/MacroFilters/f/vignettes/real_time_revisions.Rmd）
-  - 「その結果、エントリーシート（ES）や職務経歴書は「誰が書いても一定水準に整った均質な文書」へと変質した」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「象徴的な事例が2017年5月に新卒ES選考へ「IBM Watson」を導入したソフトバンクであり、合格基準を満たすESをAIが判定し、不合格判定分のみ人事が再確認する運用によってES選考時間を約75%（680時間→170時間）削減した [SRC-001]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: ところが、求職者側の生成AI利用が飽和した結果、提出される応募書類が極めて高い水準で均質化した」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「しかし2024年〜2026年にかけて生成AIによるスカウト文面自動生成・大量一括配信ツールが乱立した結果、**「一見パーソナライズされているが実態は的外れなスカウト」**が市場に溢れ返った」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 本人確認の厳格化および純粋な思考力・問題解決力の見極めのため、重要面接やコーディング・ケース面接に対面プロセスを再導入する」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 自動雇用決定ツール（AEDT）に対する年1回の独立第三者バイアス監査・結果公表・10営業日前の事前通知を義務化（ただし2025年12月のNY州会計監査官報告で行政側の執行体制の不備も指摘され、実効性強化が議論されている）」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 米国Greenhouse調査（2026年5月）では、AI面接を理由に38%の求職者が選考を途中辞退しており、その背景には「AIが評価することを事前に明確に告知されなかった（70%）」「選考結果の連絡が一切ない（51%）」という不誠実な運用があった」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「「履歴書を読む」「日程を調整する」「定型質問をして議事録を書く」といった業務がAIエージェントに完全移行した結果、人間の採用担当者・現場面接官に残されるのは、」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「HR総研（2024-08-01）「2024年＆2025年新卒採用動向調査（6月）結果報告」」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「労働政策研究・研修機構 JILPT（2025-12-03）『ビジネス・レーバー・トレンド 2026年1・2月号』対話型AI面接サービス「SHaiN」事例取材」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 現場で急増しているのは「本人が画面に映りつつ、裏でリアルタイムAIから2秒で回答指示を受けるケース」（」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「これは「自動化」ではなく「信頼の崩壊（Trust Collapse）」を引き起こし、結果としてGoogleやAmazon、国内企業による**「本人確認の厳格化・対面面接の復活」**という逆方向の動きを加速させている [SRC-057, SRC-058]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: Harvard Business Review（2026年6月）が指摘する通り、「完璧に整った履歴書・自己PR・志望動機」を作るコストが実質ゼロになった結果、文章の完成度やデスクトップ上の企業研究は能力や熱意の証明（シグナル）として機能しなくなった [SRC-056]」（https://note.com/jack4manastalk/n/n880406135053）
+  - 「また、敗戦国ドイツでは過酷な賠償金を要求された結果、ハイパーインフレが起きた」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「例えば、現在、わが国は、デフレ状態を脱するため、為替相場を切り下げるべきだという主張がある」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「例えば小麦価格の超長期データについて、スペクトル分析をすると11年周期が検出され、これは太陽黒点のサイクルと見事に一致する」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「ナチス政権以前のドイツは極端なデフレ的政策により、失業者が増加しており、結果としてナチス政権の出現を招き、戦争に結び付いてしまったといえる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「因みに、鎌田・増田や筆者の別の分析では、両者をインフレ率との関係の安定性やインフレ予測のパフォーマンスの観点から比較した結果、「修正型」の方が優位であるとの結論を得ている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「これらの結果をまとめると、次のとおりとなろう」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「こうした事例をみると、日本銀行はインフレ指標として、ＧＤＰデフレーターをもう少し重視してもよいのではないかと思う」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「その結果は必ずしも明確ではないが、全体としては生産性の変化に注意すべきことが主張されている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「例えば、稼働率の問題は、本論文で指摘されている非製造業だけでなく、製造業にも存在している」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「ＧＤＰギャップからみて経済が過熱していたという推計結果が正しいとしても、80年代後半に利上げが遅れたのが間違いであったかについては、はっきりとした答えが出せないのではないか」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「例えば、88年の成長率は、確報値では６％台であるが、速報値の段階では５％台前半であった」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「結果的には1989年まで利上げは行なわれなかったが、これはブラックマンデーにより、インフレ心理が一時的にせよ鎮静化したのではないかとみられたことが大きい」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「例えば、景気の拡大が続いている状況の下で雇用の逼迫度合いをみる場合、時短によってＧＤＰギャップの推計に誤差が生じるからといって、雇用判断ＤＩのみをみていればいいかと言うと、それだけではどこに供給の天井があるのかが掴めない」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「資産価格と実体経済との関係については、例えば、資産価格の上昇は実物投資の増加を促すといったパスも考えられるので、両者の間に相関関係があるとの立場から、検証を行いたいと考えている」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
+  - 「しかし、例えば生産性の上昇を議論する時に、何らかの判断材料として使うことには意味があると思われる」（https://www.boj.or.jp/mopo/mpmdeci/transparency/spri02c.htm）
 
 ## 議会図書館・統計機関のファクトチェックの手引き（要約でなく表を引く・比べる相手・確かめられない主張の扱い）（House of Commons Library how to check facts statistics primary source data tables）
 - 文脈：検証
@@ -9734,11 +9748,11 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
 - 文脈：照合
@@ -11583,7 +11597,7 @@
   - 「- Request data in machine-readable format (CSV, JSON, XML) rather than PDF」（https://journalismauthority.com/data-journalism/）
 - 実例：
   - 「translates findings into charts, maps, tables, or interactive graphics. The Reuters Graphics team and the New York Times's The Upshot are documented examples of in-house units that have published methodologies alongside their data stories, allowing readers to inspect source datasets directly.」（https://journalismauthority.com/data-journalism/）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
 
 ## 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例（admiralty code source grading practical OSINT analysts mistakes）
 - 文脈：手法
@@ -12341,39 +12355,40 @@
   - 「システム間のデータ突合の方法｜運用中のずれを早く見つける仕組み｜ASTERIA Warp」（https://www.asteria.com/jp/warp/blog/166270.html）
   - 「システム間のデータ突合の方法｜運用中のずれを早く見つける仕組...」（https://www.asteria.com/jp/warp/blog/166270.html）
   - 「システム間のデータ突合の方法｜運用中のずれを早く見つける仕組み」（https://www.asteria.com/jp/warp/blog/166270.html）
-  - 「：上記を踏まえて、筆者がバーチャルタレントの現場で有効だと考える運用方法」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「自分で目標を決め、自分を鼓舞し、自分の出来を振り返り、自分で練習方法を探し、問題が起きれば自分で解決する」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「タレントは、その目標を目指す意味と達成までの方法を説明できるか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「責任だけを渡し、情報も方法も渡さない状態です（第三章）」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「状況対応型リーダーシップ（SL理論）の考え方が役に立ちます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「方法は渡されず、届かなかったときの説明責任だけがタレントにある」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「どうやるかはタレントに任せます、という言い方で、方法の設計責任が移されます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「自分がマネジメントされた経験がない人は、見聞きした方法や、かつて自分が受けたマネジメントを、見よう見まねで再現しがちです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「この先の章では、ひとりで活動している方にも使える四つの方法を扱います」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「目標を起案する自分と検証する自分を分ける手順、疲れる前に稼働の上限を決める方法、うまくいかなかったときに自分の努力より先に工程を疑う手順、そして外注先や相談相手という「手段」をどう設計するかです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「売上に責任を持つ → 価格・販売方法・予算を決める権限はあるか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「なお、リリース前の検証手順は」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「目的に応じて粒度を選び、軽い方法から段階的に精度を上げるのが実務的です」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「代表的な4つの方法を整理します」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「やり方が決まったら、運用に載せるための設計をします」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「対応の型を3つに分けて決めておきましょう」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「最後に、実際に自動化する手順を示します」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「影響の大きい経路から、軽い方法で始めて広げるのが定石です」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「2つのステップに分けて進めます」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「2本目以降は同じ型を流用できるため、構築の負担は大きく下がります」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「データ連携のテスト（検証）の方法（関連記事）」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「How to build effective matching algorithms and weight attributes like a scientist」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
+  - 「Practical reconciliation protocol — checklist and runnable steps」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
 - 突き合わせ・推定：
-  - 「契約内容の理解に食い違いが生じたとき、意図せず炎上したとき、タレントから「事務所を辞めたい」と言われたとき」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「ただし、目標に届かなかったとき、その責任をタレントの努力不足だけに求めず、目標設定、予算、情報、支援体制、工程そのものに問題がなかったかを検証します」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「目標に届かなかったとき、タレントの努力より先に工程を検証しているか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「目標を起案する自分と検証する自分を分ける手順、疲れる前に稼働の上限を決める方法、うまくいかなかったときに自分の努力より先に工程を疑う手順、そして外注先や相談相手という「手段」をどう設計するかです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「この行動をこれだけやれば、この結果に届くはずだ」という仮説です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「そうすることで、目標に届かなかったときに疑うべき対象は、「タレントの頑張り」から「仮説」へと変わります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「結果指標を仮説として扱い、タレントが直接コントロールできる行動指標と分ける」という方法は、そうした知見をバーチャルタレントのマネジメントに合わせて私なりに翻訳した実務上の提案です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「結果指標は仮説、合意対象は行動指標」とする二段構え自体は、本稿の実務上の整理です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「COVER株式会社も、2026年のタレントマネジメント本部長インタビューで、登録者数や同時接続数を伸ばしたいタレントに対して市場動向を一緒に確認し、具体的なステップへ落とし込んだ事例や、ソロライブという夢から逆算して楽曲・MV制作のロードマップを組んだ事例を紹介しています」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「タレントは約束した行動を実行できたか」、次に「仮説は正しかったか」」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「その後、えのぐが大きな炎上を幸いにも回避できている理由のひとつは、メンバーが仮説や予測を立ててさまざまな視点から考え抜くことの重要性を理解していることにあると思います」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「こうしたことまで伝えて、はじめて数字が、何かを判断したり、仮説を立てたりするための材料になります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「- 推定した値には「推定」と付け、根拠にした資料の箇所を示してください」（https://note.com/harunakamura41/n/n7cfa7307c806）
-  - 「責任者は、手引き9の仮説のつながりを、今ある候補の審査に使う方向に切り替えるかを決めます（第4章の4.7）」（https://note.com/harunakamura41/n/n7cfa7307c806）
-  - 「AIで集計する場合はプロンプト4-2を使い、ひな形で照合する」（https://note.com/harunakamura41/n/n7cfa7307c806）
+  - 「そうなる前に気づくための仕組みが、データの突合（照合）です」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「なお、リリース前の検証手順は」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「まず1経路の件数照合を自動化する」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「もっとも手軽で効果が大きいのが件数の照合です」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「金額や数量のように積み上げて意味を持つ項目は、合計値を突き合わせます」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「会計や在庫のように数字の正確さが要求される領域では、この照合が欠かせません」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「影響の大きい1つの連携経路を選び、件数の照合と通知だけを自動化します」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「件数照合が回り始めたら、金額の合計、さらに差異明細の抽出へ広げます」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「まずは1経路の件数照合から試してみてください」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「データ連携のテスト（検証）の方法（関連記事）」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「エラーなく完了しても中身が正しいとは限らないため、数字の突き合わせが要ります」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「金額や数量のように積み上げて意味を持つ項目は合計値でも照合し、ずれが出たらキー単位で欠けた明細を特定します」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「まず件数の照合から始め、金額は合計値で、原因特定はキー単位で」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「▼ 件数照合と差異通知を、まず1経路で試す」（https://www.asteria.com/jp/warp/blog/166270.html）
 - 一次情報の探し方：
   - 「Before running checks, profile both data sets and understand their volumes, distributions, and known quirks. Reconciling unquestioningly generates noise. Profiling first makes your checks meaningful and your results actionable.」（https://www.tricentis.com/learn/data-reconciliation）
   - 「The profiling step above makes this stage a lot easier. Compare row counts between source and target for given time windows or business keys. Mismatches here typically mean ingestion or filtering failures: something didn’t make it through right.」（https://www.tricentis.com/learn/data-reconciliation）
   - 「Think anti-money laundering filings, capital adequacy reports, HIPAA, or GDPR audits.」（https://www.tricentis.com/learn/data-reconciliation）
   - 「Profiling and business-rule tests」（https://www.tricentis.com/learn/data-reconciliation）
+  - 「These frameworks shine for declarative expectations, profiling, and unit-like tests in your pipelines. They integrate well with warehouses and orchestrators, and they help teams standardize rules for completeness, uniqueness, and freshness.」（https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/）
   - 「本稿は、VTuberやVSinger、バーチャルタレントのマネジメントについて、筆者自身の実務経験と、一般的なマネジメント論・組織論・公的資料を照らし合わせながら整理したものです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「一部のVTuber事務所が公表している採用情報やインタビューでも、タレントマネージャーの役割はスケジュール管理だけに限定されていません」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「本章の法制度に関する記述は、総務省・法務省などの公的資料を優先し、最新情報を確認してください」（https://note.com/enogu_llc/n/ncd8acbdc4199）
@@ -12384,7 +12399,6 @@
   - 「たとえば、一件あたりの改善幅が4ポイントで、すべての案件にAIを使えるなら、「推奨が採用される割合 × 採用された推奨が判定基準に合う割合」が約65%以上必要になる（2.6ポイント÷4ポイント）」（https://note.com/harunakamura41/n/n7cfa7307c806）
   - 「推奨が採用されなければ効果はないが、採用率だけを上げても、一件あたりの改善幅が小さければ目標に届かない」（https://note.com/harunakamura41/n/n7cfa7307c806）
   - 「AIの推奨の採用率を、高いほど良いものとして目標にしてしまう：上限の目安を置き、採用率と一件あたりの改善幅を合わせて見る」（https://note.com/harunakamura41/n/n7cfa7307c806）
-  - 「公的なデータを使っていることは、出どころを確認するうえで重要です」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
 - 失敗・落とし穴：
   - 「運用が続くほど、相手システムの仕様変更や例外的なデータ、処理の一部失敗によって、ずれは静かに忍び込みます」（https://www.asteria.com/jp/warp/blog/166270.html）
   - 「相手システムがバージョンアップして項目が増える、これまで来なかった値が来る、夜間の処理が一部だけ失敗する——こうした変化は日常的に起こります」（https://www.asteria.com/jp/warp/blog/166270.html）
@@ -12402,21 +12416,21 @@
   - 「うまくいったこと、失敗したことが事務所に蓄積され、ノウハウを共有できます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「判断に必要な情報を開示し、失敗しても戻れる範囲を決めたうえで、決定をタレントに委ねる」（https://note.com/enogu_llc/n/ncd8acbdc4199）
 - 実例：
+  - 「この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「Practical pattern: run deterministic rules to auto‑match the low‑risk portion, run probabilistic matching for the medium‑risk bulk, and route heuristic or ambiguous cases to a」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
+  - 「Attribute-weight example for a physical server (weights as」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
+  - 「A compact Python example implementing a Fellegi–Sunter style scoring function with Jaro–Winkler similarity for strings:」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
+  - 「Merge example (practical scenario):」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
+  - 「Sample SQL to find obvious duplicates (hostname example):」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
+  - 「Example Splink workflow (high-level) for probabilistic linkage:」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
+  - 「For example, a typical setup might reconcile Customer and Order facts across ERP and CRM nightly. The platform can alert you if order counts by day diverge, if SHA-256 fingerprints differ, or if order status transitions violate business rules. For broader industry patterns on reconciliation, see this practical」（https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/）
+  - 「Perform row-level diffs by key and verify business logic coherence with cross-field rules. Examples include uniqueness on order_id, referential integrity from invoice to customer, non-negative inventory, and valid timestamp ranges. A reliable sequence: count group count table hash row hash by key direct field comparison. Avoid engine-specific」（https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/）
+  - 「Use day, account, and product groupings for early signals, then set acceptable variance policies for late data. For example, many teams allow a tiny variance in the most recent hour (e.g., within a small percentage or count), then require exact agreement for prior days once freshness SLAs elapse.」（https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/）
   - 「結果として、多くのマネージャーが手探りでマネジメントと向き合うことになります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「：VTuber事務所、行政機関などが公表している資料や事例」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「目標を定め、工程を設計し、結果を振り返る」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「自分で決め、結果を受け止める経験を積むことで、活動を自分で組み立てる力が身につきます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「結果として、トラブルのきっかけになることもあります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「人手が足りず、結果として手が回っていない状態」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「数字は結果の指標であって、行動の指示ではありません」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「その負担は、結果や数字には表れません」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「10,000人という結果指標だけがあり、どうやって10,000人に届かせるかという行動が設計されていなかったことが、批判の対象でした」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「タレントと一緒に設定する目標は、結果と行動の二段階で設計します」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「この行動をこれだけやれば、この結果に届くはずだ」という仮説です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「結果指標を仮説として扱い、タレントが直接コントロールできる行動指標と分ける」という方法は、そうした知見をバーチャルタレントのマネジメントに合わせて私なりに翻訳した実務上の提案です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「結果指標は仮説、合意対象は行動指標」とする二段構え自体は、本稿の実務上の整理です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「2023年に行われた「TIFアイドル総選挙」では予備選挙一位、本選挙三位という結果を残し、最終日のグランドフィナーレでHOT STAGEに立つという目標も実現しました」（https://note.com/enogu_llc/n/ncd8acbdc4199）
 
 ## 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）（business survey unit response rate vs quantity response rate imputation share large units）
 - 文脈：失敗・落とし穴
@@ -13059,11 +13073,11 @@
 
 ## 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事（survivorship bias correction backfill dead firms pessimistic bounds double selection）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
