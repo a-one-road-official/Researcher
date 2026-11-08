@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・210品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・213品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4636,8 +4636,8 @@
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
 - 検索結果の抜粋：
   - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
@@ -6484,6 +6484,7 @@
   - 「一方、プライバシー配慮記事以外の組織変更や合併、解散、決算公告、会社更生などは検索可能で、1947年以降の過去分含めて検索ができる」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
   - 「官報で破産などの与信情報を自社で得るには、紙面や電子版を目視する必要があり、過去の破産などは官報情報検索サービスでは検索できなくなる点は注意が必要だ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
 - 失敗・落とし穴：
+  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「官報で破産などの与信情報を自社で得るには、紙面や電子版を目視する必要があり、過去の破産などは官報情報検索サービスでは検索できなくなる点は注意が必要だ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
@@ -6498,7 +6499,6 @@
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
   - 「ここでは決算公告や電子公告との違い、非公式サイトを使うときの落とし穴、そして本紙と号外の違いという3つの実務ポイントを整理します」（https://blog.roborobo.co.jp/compliance/kanpo-where）
-  - 「このうち電子公告には見落としやすい落とし穴があります」（https://blog.roborobo.co.jp/compliance/kanpo-where）
 - 実例：
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -10552,24 +10552,31 @@
 ## 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例（full-time equivalent conversion denominator per employee comparison pitfalls）
 - 文脈：推定
 - 手順・やり方：
+  - 「この計算方法により、常勤の従業者の必要数を算出できます」（https://osaka-kaigo.com/column/column-5120/）
+  - 「・ 「常勤換算方法」の計算に当たり、職員が育児・介護休業法による短時間勤務制度等を利用する場合、週30時間以上の勤務で常勤換算での計算上も１（常勤）と扱うことを認める」（https://osaka-kaigo.com/column/column-5120/）
+  - 「訪問介護・訪問看護の労務管理とは？効率化する方法も紹介」（https://osaka-kaigo.com/column/column-5120/）
+  - 「【2026年最新】常勤換算とは？計算方法を具体例付きでわかりやすく解説｜介護事業所の人員配置基準 | 介護のコミミ」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「【2026年最新】常勤換算とは？計算方法を具体例付きでわかりやすく解説｜介護事業所の人員配置基準」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「介護事業所の管理者やサービス提供責任者にとって、この計算方法を正しく理解し、適切に運用することは最も基本的かつ重要なスキルと言えるでしょう」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「常勤換算方法とは、非常勤の従業者について「事業所の従業者の勤務延時間数を当該事業所において常勤の従業者が勤務すべき時間数で除することにより、常勤の従業者の員数に換算する方法」である」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「それでは、具体的な計算方法を見ていきましょう」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「実際の計算は、以下の3ステップで進めると分かりやすいです」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「Step1. 「常勤職員が勤務すべき時間」を確定する」（https://comimi.jp/archives/column/fte-kaigo）
   - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「常勤換算とは、医療・介護・福祉施設や事業所において、実際に勤務している職員の労働時間を基に、常勤職員の人数に換算する方法です」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「給与計算や給与明細発行をカンタンに行う方法」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「常勤換算とは、医療・介護・福祉施設および事業所において、実際に勤務している職員の労働時間を基に、常勤職員の人数に換算する方法のことです」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「わかりやすいように、以下の手順で常勤換算の計算を進めていきましょう」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「具体的な換算方法は、各事業所の規定や状況によります」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「そのため、正確な人員配置や法的な基準を満たすには効率的な常勤換算の方法を採らなければなりません」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「常勤換算は、施設で働く全職員の勤務時間をフルタイム換算で表す方法で、介護保険法に基づく人員配置基準を遵守するために不可欠です」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「処遇改善加算って何？刷新後の制度で介護職員がもらえる金額の計算方法や取得方法について解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「常勤換算とは？計算方法と具体例｜訪問看護の人員基準2.5人 ｜ZEST」（https://zest.jp/column/personnel-standards）
-  - 「常勤換算とは？計算方法と具体例｜訪問看護の人員基準2.5人」（https://zest.jp/column/personnel-standards）
-  - 「訪問看護ステーションでは、この方法で看護職員を2.5人以上配置し、そのうち1人以上を常勤とすることが人員基準として定められています」（https://zest.jp/column/personnel-standards）
-  - 「本記事では、2.5人という基準を自事業所で正しく数えられるよう、常勤換算の計算方法を計算例とともに解説します」（https://zest.jp/column/personnel-standards）
-  - 「ここでは、常勤の定義から計算式と具体例、自事業所で計算する手順までを解説します」（https://zest.jp/column/personnel-standards）
 - 突き合わせ・推定：
+  - 「計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、」（https://comimi.jp/archives/column/fte-kaigo）
   - 「常勤換算では、対象業務や休暇の扱いをそろえたうえで、シフトの予定時間と勤怠実績を照合します」（https://shiftta.com/blog/jokin-kanzan-calculation/）
 - 一次情報の探し方：
+  - 「例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします」（https://comimi.jp/archives/column/fte-kaigo）
   - 「「常勤の看護師が辞めてしまったけど、代わりの職員の採用がうまくいっていない」など、常勤の看護師が退職することがわかり、人員基準を満たせない状態になった場合は、なるべく早い段階で指定権者（都道府県・市の介護保険課等）に報告・相談をしましょう」（https://zest.jp/column/personnel-standards）
   - 「また、採用活動を継続して新たに人員を確保できた際の報告が必要かどうかについても、あらかじめ確認しておきましょう」（https://zest.jp/column/personnel-standards）
   - 「基準を下回らないよう、日ごろから看護職員の採用や定着に取り組んでおくことも大切です」（https://zest.jp/column/personnel-standards）
@@ -10580,39 +10587,38 @@
   - 「https://www.mhlw.go.jp/bunya/shougaihoken/service/dl/qa08.pdf」（https://note.com/yuwa_office/n/n2b5ac9c7e2be）
   - 「希望に合った求人”だけ”を厳選してお届け！」（https://www.co-medical.com/knowledge/article704/）
   - 「コメディカルドットコムで介護福祉士求人を探してみる」（https://www.co-medical.com/knowledge/article704/）
-  - 「コメディカルドットコムで介護職求人を探してみる」（https://www.co-medical.com/knowledge/article704/）
 - 失敗・落とし穴：
+  - 「有休・産休・兼務など、間違いやすいケースの扱い」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「労働基準法で定められた法定労働時間（週40時間）とは異なる場合がありますので注意してください」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「ここで注意したいのは、Gさんのように看護職員と介護職員を兼務している場合の扱いです」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「ここでは、特に間違いやすいポイントを解説します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「同様に、訪問介護事業所でヘルパーが移動に費やした時間についても注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「ここでは、主要なサービスの人員配置基準と、常勤換算における特有の注意点を解説します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「なお、この基準はサービス提供時間帯を通じて満たす必要があるため、利用者の送迎時間帯や入浴介助の時間帯など、業務量が集中する時間帯には特に注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「一度指定を取り消されると、その後5年間は再指定を受けることができないため、事業所にとっては致命的なダメージとなります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「今回は、介護事業所の運営に不可欠な「常勤換算」について、基本的な計算方法から、サービス別の注意点、運営指導対策、効率化の方法までを網羅的に解説しました」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「有休・産休・兼務・残業など、間違いやすいケースのルールを正確に理解することが重要」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「【2025年義務化】介護BCP研修は何から始める？効率的な進め方と失敗しない方法」（https://comimi.jp/archives/column/fte-kaigo）
   - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「常勤換算する際の3つの注意点もまとめているので、参考にしてください」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「常勤換算するときの3つの注意点」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「常勤換算を計算するときは、以下3つの注意点を考慮しなければなりません」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「さらに、常勤社員でも1ヶ月以上の長期出張や休暇がある場合、その期間は勤務時間の計算から除かれるので注意が必要です」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「社会保険料とは？改定のタイミングや注意点などをわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「育児や介護で時短勤務を行っている常勤職員がいる場合、常勤換算数の計算に注意が必要です」（https://zest.jp/column/personnel-standards）
-  - 「計算の際、リハビリ専門職は換算できないため、誤って含めてしまわないよう注意をしましょう」（https://zest.jp/column/personnel-standards）
-  - 「が行われる可能性がありますので注意が必要です」（https://zest.jp/column/personnel-standards）
-  - 「5. 常勤換算でよくある間違い・注意点」（https://gura-office.com/joukin/）
-  - 「間違い①：就業規則の常勤時間を低く設定しすぎている」（https://gura-office.com/joukin/）
-  - 「間違い②：兼務職員の勤務時間を二重カウント」（https://gura-office.com/joukin/）
-  - 「間違い⑤：放デイで「月間トータル」だけ見ている」（https://gura-office.com/joukin/）
-  - 「月間トータルの常勤換算だけ満たしていても、「ある日の午後は1人しか配置していなかった」では基準違反となるため要注意です」（https://gura-office.com/joukin/）
 - 実例：
-  - 「このケースに該当する従業員も常勤として扱われます」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「介護職員が複数の施設や業種で働いているケースは珍しくありません」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「スケジュール管理の負担を減らし業務の偏りを可視化した事例」（https://zest.jp/column/personnel-standards）
-  - 「計算結果に端数が出た場合の扱いは、指定権者に確認しておきましょう」（https://zest.jp/column/personnel-standards）
-  - 「ここでは、計算時に迷いやすいケースの扱いを、介護保険と医療保険の違いとあわせて解説します」（https://zest.jp/column/personnel-standards）
-  - 「例えば常勤の看護師が育児休業に入った月でも、非常勤の看護師2人の勤務時間を合わせて常勤1人分の時間に達していれば、常勤の要件を満たしたものとして扱えます」（https://zest.jp/column/personnel-standards）
-  - 「ここでは、当社の訪問スケジュール・訪問ルートの自動作成クラウド『ZEST』を導入いただいた訪問看護事業者の事例をご紹介します」（https://zest.jp/column/personnel-standards）
-  - 「株式会社SORUKKAは、和歌山市・海南市・有田市の3拠点で訪問看護を展開し、スタッフ40名でご利用者様270〜280名を支えています（事例公開時点）」（https://zest.jp/column/personnel-standards）
-  - 「月間の訪問件数が500件ほどになった時期に『ZEST』を導入した結果、スケジュール管理にかかる時間は」（https://zest.jp/column/personnel-standards）
-  - 「※掲載している導入効果（業務時間の削減等）は、特定の事業者様における実際の運用に基づく事例であり、すべての事業所様での効果を保証するものではありません」（https://zest.jp/column/personnel-standards）
-  - 「求め、休暇や時短勤務、兼務の扱いによって結果が変わります」（https://zest.jp/column/personnel-standards）
-  - 「このページでは、放課後等デイサービス・就労継続支援B型・生活介護など、各サービス種別の事例を交えながら、行政書士が常勤換算の計算方法を分かりやすく解説します」（https://gura-office.com/joukin/）
-  - 「非常にシンプルな式ですが、実務では「誰の時間を分子に含めるか」「分母を何時間にするか」で迷うケースが多くあります」（https://gura-office.com/joukin/）
-  - 「「うちは週30時間を常勤にしているから…」というケース」（https://gura-office.com/joukin/）
-  - 「ため、結果として常勤換算の分母が大きくなり、人員不足と判定されるリスクがあります」（https://gura-office.com/joukin/）
+  - 「常勤換算でよくある計算ミスと運営指導での指摘事例」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「有休・産休・兼務など、間違いやすいケースの扱い」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、常勤職員が1人、常勤職員の半分の時間だけ働く非常勤職員が2人いる事業所の場合、直感的には3人の職員がいるように見えます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、訪問介護の特定事業所加算では、サービス提供責任者の常勤換算人数や体制が要件に含まれています」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、就業規則で「週40時間」が常勤の勤務時間と定められている事業所の場合、」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、就業規則で「週35時間」と定めている事業所であれば、月の常勤勤務時間は35時間×4週＝140時間となります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「この基準時間が異なれば、同じ勤務時間の非常勤職員でも常勤換算の結果が変わってきます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「計算結果に小数点以下の端数が出た場合、」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、計算結果が「3.75人」となった場合、常勤換算人数は「3.7人」として扱います」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「人員配置基準ギリギリの事業所では、この端数処理によって基準を下回ってしまうケースもあるため、常に余裕を持った人員配置を心がけることが大切です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「なお、常勤換算の計算結果は、職種ごとに算出します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、「介護職員」「看護職員」「生活相談員」など、人員配置基準で定められた職種ごとに別々に計算し、それぞれの基準を満たしているかを確認します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「このように、施設サービスでは必要な人員数が多いため、常勤換算の計算結果が基準をわずかに下回るだけでも大きな問題となります」（https://comimi.jp/archives/column/fte-kaigo）
 
 ## 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ（analysis of competing hypotheses limitations hypothesis mapping empirical evidence）
 - 文脈：突き合わせ
@@ -12379,3 +12385,222 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査）（nonresponse bias analysis business survey frame variables response rate by industry）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「Dhanapati Khatiwoda, Sandra Peterson, and Stephen Hardy」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Cross Sector Surveys Statistical Methods Branch (CSSSMB)」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Economic Statistical Methods Division (ESMD)」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「about the survey, look at the survey methodology report available at ABS Methodology.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「requirement to report. The survey letter included instructions on how to access the survey and submit」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「the methodology report is about 69%. This falls below the Census Bureau quality standards available at」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「The estimated variance of the weighted unit response rate uses a delete-a-group jackknife method with」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「using delete-a-group jackknife method as mentioned in section 2.2 above.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Bureau, US Census. “Annual Business Survey Methodology.” Census.Gov, 24 Oct. 2023, ABS」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Office of Statistical Methods and Research for Economic Programs」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「largely on nonresponse bias analysis methods for demographic surveys. Such surveys」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「methods for business surveys, including respon se rate analysis, the use of frame data,」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「method with examples from ongoing economic programs conducted by the U.S. Census」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「methods of assessing nonresponse bias, focusing on methods particularly helpful in the」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+- 突き合わせ・推定：
+  - 「The Census Bureau produces two separate sets of ABS estimates: firm and owner characteristics」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「demographic characteristics estimates are referenced as Demographic Characteristics for Businesses」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「(DCB), and the economic characteristics estimates are referenced as Research and Development,」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Published DCB estimates can be found at ABS Company Summary, and RDIT published estimates can be」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「estimates, if the characteristics being measured for nonresponding units differ from the characteristics」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「The analysis for this section involves unweighted estimates because the goal is to determine differences」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「sections, we will consider weighted estimates when investigating if non-response bias is impacting our」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「American Community Survey Estimates, these five states are also the only states where less than 40」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「ownership are AZ, CA, FL, NM, NV, and TX, and the 2022 American Community Survey Estimates show」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「2022 American Community Survey Estimates. The states with at least 50% minority population」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「All RDIT analysis is limited to only firms that were eligible for RDIT estimates, which excludes the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「estimates, and, conversely, some firms within R&D industries may not see the R&D section because they」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「$50,000. Not all firms that report R&D expenses are tabulated in final R&D estimates because analyst」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+- 一次情報の探し方：
+  - 「surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「standards-apr2022.pdf. Accessed 17 Sept. 2024.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.pdf.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.census.gov/indicator/qss/qsstechdoc.pdf.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.whitehouse.gov/omb/assets/omb/inforeg/pmc_survey_guidance_2006.pdf」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「https://aapor.org/wp-content/uploads/2023/05/Standards -Definitions-10th-edition.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.bls.gov/osmr/research -papers/2016/pdf/st160020.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/DataQualityAssessmentTool.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.whitehouse.gov/wp-content/uploads/2021/04/standards_stat_surveys.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/Transparent_Reporting_FCSM_19_01_092719.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://nces.ed.gov/FCSM/pdf/2009WorkshopProgram.pdf.」（https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf）
+  - 「whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.」（https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf）
+- 失敗・落とし穴：
+  - 「2.4 Relative Bias ................................................................................................................................ 19」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Statistical Quality Standards (census.gov) and is the motivation for this nonresponse bias analysis.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「According to the Census Bureau quality standard sub-requirement D3-3.6, nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「and nonrespondents. The study also researches the potential biases due to nonresponse in the survey.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「being measured for responding units. Nonresponse bias for a sample mean is the product of」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「suggests that a high rate of nonresponse does not necessarily imply a large bias, nor does a low rate of」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「nonresponse necessarily imply a small bias. The nonresponse rate is easy to calculate, while its impact is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「rate may only decrease the risk of nonresponse bias, investigating or estimating bias must be done in an」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「concludes by looking at the relative bias based on the mean differences between the respondents and」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「RDIT are R&D activity and innovation. We cannot directly measure nonresponse bias for these key items」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「and a frame variable, we can analyze the nonresponse bias of the frame variable as a proxy for the key」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「sections, we will consider weighted estimates when investigating if non-response bias is impacting our」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+- 実例：
+  - 「survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「smaller relative bias and vice versa. For example, the response rate of the industry sector 31 is 70.17%」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「method with examples from ongoing economic programs conducted by the U.S. Census」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「world of business surveys. Section 4 provides illustrative examples of the methods」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「presented in Section 3, with selected anal yses from three cases studies conducted at the」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「collecting survey data. A tabulation unit is one used for estimation. For example,」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「2 For example, consider the grocery store industry, where the majority of business is conducted by」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「nonrespondents that do not improve the URR. For example, a program might require」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「Because business data tend to be highly skewed, sampled cases with large design weights」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「such small cases in computation, URRs are computed without using design weights.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「The TQRR for a given item can be very different than the program’s URR. For example,」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「accomplished by nonresponse follow-up of large cases expected to contribute」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「cases comprised of more phone calls (targeted questions) and searches for auxiliary data」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「the case. Like household surveys, busin ess surveys often use one of the following」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「for certainty or large noncertainty units. Fo r example, a monthly survey may restrict」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+
+## 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）（productivity decomposition entry exit merger effects firm level Japan）
+- 文脈：推定
+- 手順・やり方：
+  - 「about how to correct material in RePEc.」（https://ideas.repec.org/p/ime/imedps/22-e-07.html）
+  - 「method developed by Foster et al. (2001) to Japanese micro data and have」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「productivity dynamics. Section 3 presents the standard method o f decomposing」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Foster et al. (2001) have developed a standard method (FHK deco mposition) to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「3 As a brief history of the methods for decomposing aggregate productivity, the first method was」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「“cleansing effects” proposed by Foster et al. (2014). Although the method is not」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「apply the method proposed in Foster et al. (2001) to data from Japanese」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「This section first presents the standard method in Foster et al . (2001) (FHK) that」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「associated with various dimensions of firm dynamics. Then, we e xplain how to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「the benchmark. As demonstrated above, the FHK method used in th is study」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「12 For the calculation of the TFP, we estimate the production fun ction using the method of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Ackerberg et al. (2016), which is currently considered the stan dard method, and measure it as the」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「14 See Appendix for details on how to estimate the merging effect.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「we use the IPW method to estimate the ATT for the merger events. Given it might」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+- 突き合わせ・推定：
+  - 「closures for each year, which may cause our coverage to be underestimated.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「12 For the calculation of the TFP, we estimate the production fun ction using the method of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Against this background discussion, we estimate the causal effect that runs from」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「based on the propensity score to estimate the causal effect of mergers on」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「14 See Appendix for details on how to estimate the merging effect.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「we use the IPW method to estimate the ATT for the merger events. Given it might」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「take time for merging firms to experience the causal effect of mergers, we estimate」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Figure 6 depicts the estimated ATTs for the merger events for m ultiple-year」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「windows. We confirm that the estimates of ATTs are positive and statistically away」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「of those estimates, the net merger effect gets larger as time p asses. This is partly」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「propensity score, in this case, is an estimate of the propensity to become a merging」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「ability of the model, as well as the significance of variables. Second, we estimate」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「the estimated ATT to equation (10) and (11) in Section 5 and take the sum of them」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+- 失敗・落とし穴：
+  - 「Sample Bias in Decompositions of Economic Dynamics」（https://ideas.repec.org/p/ime/imedps/22-e-07.html）
+  - 「decompositions have still suffered from the biases as business dynamics that are associated with」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+- 実例：
+  - 「For example, a series of studies like Fukao and Kwon (2006) hav e applied the」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Many other studies have confirmed this “positive” exit effect. For example, Alon」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「effect will be higher, for example, when firms with a larger share as of period ݐെ1」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「previous period, this share effect will be higher, for example, when firms with」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「effect will be high, for example , when firms with relatively hi gher productivity」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「productivity as of period ݐെ1 . Thus, this exit effect will be high, for example,」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「5 As discussed, Crane et al. (2020), for example, it is not necessarily clear how we should define」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「case contains a typical merger as well as some sort of reorganization of companies」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「decompose it into two subcomponents, that is, ݄ݏ݈ܾ݅ܽݐݏ݁ and ݊݅݀݊݅ .The first case」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「accounts for pure entry into the economy, while the second case accounts for the」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「For example, the number of digits in sales for a limited number of firms」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「end of March, the file labeled ݐ ൌ 2012 , for example, consists of a large amount of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「A part of the KJ FLG file is accompanied by the list of merging firm(s) in the case」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「dynamics of Japanese firms suffer from data truncation. For example, studies using」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+
+## 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例（testing unbiasedness and efficiency of first release estimates regional accounts revisions）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「この中では、学問の探究が対象に応じてどのような方法論をとるか、ということを論じていました」（https://note.com/wattson496/n/n853a10f28714）
+  - 「これは人類の探究活動の最極致にある学術研究においてどのようなやり方が使われるか、という部分を扱ったものですが、社会の大多数を占める人々は専門家ではありません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「専門家に関する研究の中では、科学技術社会論（Science and technology studies, または science, technology, and society, STS）の中で、ハリー・コリンズとロバート・エヴァンズによって論じられた専門知の類型論が注目に値します」（https://note.com/wattson496/n/n853a10f28714）
+  - 「コリンズ＆エヴァンズ（2007、邦訳 2020）『専門知を再考する』では、"専門知の周期表"として専門知の類型が論じられています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「これは「ビアマット知識」「通俗的理解」「一次資料知識」「対話型専門知」「貢献型専門知」の5つの類型に分けられます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「「貢献型専門知」は、一般に"専門家"という言葉から連想されるような、特定の分野において実践的にことを為すことができるような能力をもたらす専門知のことです」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一方「対話型専門知」は、その分野において実践的な貢献は行わないが、分野のコミュニティに関わり、その特定分野に固有の暗黙知を身に付けた状態で、専門的なトピックに関して流暢なコミュニケーションを行うことを可能にするような専門知を指します」（https://note.com/wattson496/n/n853a10f28714）
+  - 「対話型専門知はコリンズとエヴァンズが新たに着想した概念で、『専門知を再考する』の中ではかなり詳しく論じられています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「対話型専門知および貢献型専門知には特定分野のコミュニティにおける社会的な暗黙知が必要となります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「また、特にその分野の実践を伴う貢献型専門知においては、物真似単形性のような技能の身体化が見られるようになります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「コリンズとエヴァンズの議論では、貢献型専門知を持った人々は、少なくとも潜在的には対話型専門知をも身に付けている、と論じられています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「学術コミュニティの場合は学会などでのやりとりとして言語によるコミュニケーションが行われるので、多くの場合対話型専門知が顕在化していることが多いと思います」（https://note.com/wattson496/n/n853a10f28714）
+  - 「なお、芸術評論家は貢献型専門知を持たず対話型専門知のみを持っているような例になっています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「これは、他の言葉で言えば批判的思考（クリティカル・シンキング）のようなものを行えるような資質のことを意味していて、特に学術分野における貢献型専門知の実践に深く関与しています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「これらの「対話能力」「熟慮能力」は特定の分野に限った能力ではないためこの行とは別に立てられていて、対話型専門知や貢献型専門知を顕在化させたり習熟させるのに役立つような資質として位置づけられています」（https://note.com/wattson496/n/n853a10f28714）
+- 突き合わせ・推定：
+  - 「近代歴史学では、バルトホルト・ゲオルク・ニーブールやレオポルト・フォン・ランケに始まる史料批判の伝統により、史料を様々に吟味して歴史上の事実などを推定する技術を高度な体系へと作り上げてきました」（https://note.com/wattson496/n/n853a10f28714）
+  - 「奥付などにそれらが記載されている近現代の史料では分かりやすいですが、記載がない場合や、あったとしてもその信頼性に問題がある場合は、他の証拠からいつ・どこで・誰が作った史料なのかを推定する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「史料の形態や考古学的な特徴を分析したり、関連する複数の史料を比較して内容の類似や矛盾を調べたりするなど、複数の観点からの分析を組み合わせて、総合的に判断されることになります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一方で、複数の史料の指し示す内容に矛盾がある場合、可信性を慎重に吟味して史実を推定する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「歴史的聯関の構成と歴史的意義の把握は、単なる事実についての推定から、相互の因果関係などのより高次の結論を導き出すものです」（https://note.com/wattson496/n/n853a10f28714）
+  - 「Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう」（https://note.com/wattson496/n/n853a10f28714）
+  - 「対照的に、研究最前線の成果や新しい理論を紹介することを主眼とした書籍では、まだ通説とは言えない仮説や少数説が大きな比重を占めることもあり、その場合には、その立場が専門家コミュニティの中でどの程度共有されているのかを読者自身が補って考える余地が大きくなります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「前者では本原性や出典の検討がある程度可能ですが、その場合でも引用されている先行研究を追っていくには相応の時間と労力が必要であり、「読みやすさ」と「検証のしやすさ」がトレードオフの関係に置かれがちな媒体です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「そのため、個々の記述がどの制度文書や研究に依拠しているのかを教材単体からさかのぼるのは難しく、本原性の高い情報源との対応関係を検討しようとすれば、別途、法令集や専門書、実務家向けの解説書などとの照合が必要になります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「査読によって一定の水準は担保されますが、査読の厳格さは雑誌や分野によって差があり、論文の内容を細部まで検証したり追試したりするには、高度な専門知識と時間・資源が必要になります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「論文は、個々の研究結果や新しい仮説を提示することを目的とした媒体であり、その主張がそのまま通説を表しているわけではありません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「Wikipediaでは編集方針として「検証可能性」「中立的な観点」「独自研究の不掲載」などが掲げられ、一次資料や査読付き論文、専門書、信頼できるニュースソースなどに依拠することが求められています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「研究者のブログでは、学術誌に掲載される前の予備的な結果や学会発表の内容が紹介されることがあり、学界の動向を早く知る手がかりになりますが、その時点では通説とは言えない仮説も含まれます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「制作者の専門性や通説との関係を判断する手がかりは、動画の説明欄やプロフィール、外部サイトへのリンクなどに限られることが多く、所属や業績がどの程度裏付けのあるものかを視聴者側から検証するのは容易ではありません」（https://note.com/wattson496/n/n853a10f28714）
+- 一次情報の探し方：
+  - 「通説との関係で見ると、教科書は「十分確実とみなされた内容」を優先して採用するため、専門家コミュニティでの議論の最前線や、通説が更新されつつある部分が反映されるまでには時間的なラグが生じます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「制作主体は試験を実施する公的機関や業界団体、民間出版社など多様であり、執筆者もその分野の専門家から予備校講師・実務家まで幅があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一方で、専門書が大学の教科書としてどの程度採用されているか、専門誌の書評でどのように評価されているかといった外在的な情報は、その専門書がコミュニティ内でどの位置づけにあるのかを推測する手がかりを与えます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「専門分野の基礎理論や統計手法、実験技法などについて十分な前提知識がない場合、論文の主張の強さや位置づけを適切に評価することは難しくなります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「政府機関や独立行政法人、地方公共団体などが発行する白書・統計書・調査報告・審議会答申は、公的な立場からの現状認識や政策判断を示す文献です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「法制度や行政運営に関する情報では、これらが「公式見解」や「公的統計」として事実上の基準になることも多く、行政がどのような問題設定と前提に立っているかを知る手がかりになります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「統計や報告書は年次で作成され、速報値・確報値の区別や後年の改定が行われます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「同じ名称の統計でも、調査方法や分類が途中で変わることがあり、時系列比較を行う際には、版・掲載年・調査方法を確認する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「統計や調査では、指標の選定にあたって専門家の助言が得られることが多く、学問的知見や広く共有された枠組みに沿った設計が行われますが、どの指標やグラフを強調するかといった編集方針には、政策課題や組織の関心が反映されます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「統計書は調査対象・抽出方法・集計手順などを明示するのが通例であり、本原性の高い情報源です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「統計表や図表が多数掲載されていても、それが学界のどの議論と対応しているか、どの程度通説に近い位置づけなのかは、本文だけでは分かりにくく、必要に応じて専門書や学術論文と組み合わせて読むことが求められます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一次資料や学術論文、公的統計へのリンクを丁寧に示すサイトでは、記述の根拠をたどりやすい一方で、出典をほとんど示さないまま断定的に語るサイトや、二次情報の重ね書きで元の出典が不明瞭になっているサイトもあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「非専門家にとって、個人サイトは多くの場合無料で利用でき、検索エンジンやSNS経由で到達しやすいという意味でアクセスコストは低いものの、運営者の専門性や立場、参照されている情報源の質を自分で見極める必要があり、複数サイトや公的資料・専門書と照らし合わせる評価コストは小さくありません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「研究者や公的機関・報道機関の公式アカウントの発信は、その組織の対外的な責任がかかる分だけ一定の慎重さが期待できますが、匿名個人やパロディアカウント、なりすましなども混在します」（https://note.com/wattson496/n/n853a10f28714）
+- 失敗・落とし穴：
+  - 「これには、「軽信によって起こったもの、不注意から来たもの、独断によって誤られたもの、批判的誤りから生じたもの等」のような種類があることが言及されています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「作者がその主張を強く印象づけるために行う工夫が、現代の読者にはダイレクトに刺さりやすい構図になっているため、より注意して客観的な判断を行う必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「専門家コミュニティにおける共通認識としての"通説"は、事実のような単一性をもったものではないことにも注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「その一方で、質問文の設計や非回答の扱いなどによって系統的な偏りが生じる余地は残り、本文で取り上げられる数字と付録に置かれる数字のあいだに編集上のバイアスが入り込むこともあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「事実報道と社説・コラム・ワイドショー的なコメントが連続して並ぶことで、事実と意見の境界が曖昧になりやすい点にも注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「オンライン版は公開後に更新・修正されることがあり、また紙面・放送・初期ウェブ版・改訂版で細部が異なることもあるので、外的批判を行う上では注意が必要な場合があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「辞書・事典同士が互いを参照しあった結果として、実質的には限られた原資料に依拠しているケースもあり、版や更新時期によって内容が細かく変化する点にも注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「誤りに気づけば素早く訂正できる反面、過去の版が十分に記録されないまま書き換えられることもあり、更新状況や来歴を追うのは容易ではありません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「会話内容がモデル改善や機能向上のために利用される場合でも、それがどのような形で学習に反映されるかは利用者には分かりにくく、その過程でどの方向にバイアスが強まるかも外側からは評価しにくい構造があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「完全にモデル内部からの生成によるものよりはいくぶん評価コスト上の利点があるとはいえ、やはり注意して扱うべき情報源と言えるでしょう」（https://note.com/wattson496/n/n853a10f28714）
+  - 「講義・講演という形式には、話の構成やレトリックによるバイアスも入り込みます」（https://note.com/wattson496/n/n853a10f28714）
+- 実例：
+  - 「ビアマット知識のような断片的な情報ではなく、推論によって具体的な事例に適用したりできるような、ある程度まとまった観念を指しています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「前者の場合は、非常に複雑ではあるがそれ単体で習得可能で、例えば村田製作所の"ムラタセイサク君"のような形で機械にも模倣可能です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一方で、例えば芸術家のような専門家の場合、素晴らしい芸術作品を作ることはできるが、それについて流暢に言語化することは難しい、という場合があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「このような場合も、例えば芸術評論家が持つような言語化能力を身に付けることができれば、その芸術作品について対話をすることが可能でしょう」（https://note.com/wattson496/n/n853a10f28714）
+  - 「「専門的目利き」は、例えばワインのソムリエがワインの良し悪しについて判断できるような鑑定能力のことを指しています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「ここでは、例えば自然科学では対応説、人文科学では整合説、みたいな形で、ドメインごとに別々の説による真理が成り立つ、ということが考えられます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「非専門家にとっては、例えば対応説的な真理を直接得ることはできず、専門家によって見出されたもの、という媒介を通してしか真理を見ることができません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「真純性に問題があるケースとしては、一つは史料が偽作である場合、またもう一つとして錯誤もしくは誤認に基づいている場合があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「このような錯誤や虚偽の吟味は、外的批判の結果とも組み合わせて検討されます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「ただし、そのような信頼性の高い複製プロセスを経ていないものを対象としている場合や、版の違いによる改訂の差などが重要になってくる場合などでは、真純性の吟味が重要なケースは残ります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう」（https://note.com/wattson496/n/n853a10f28714）
+  - 「また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます」（https://note.com/wattson496/n/n853a10f28714）

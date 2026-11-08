@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・197品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・200品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -10252,6 +10252,122 @@
 - 生産能力・設備：記載なし（読んだ30頁・検索18回）
 - 10年推移：記載なし（読んだ30頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ30頁・検索18回）
+
+## 経済センサス‐活動調査 製造業 存続・新設・廃業事業所数 産業小分類 全国（所管の表・論文や記事の写しを除く・合併と廃業を分ける・4-93）（Economic Census for Business Activity manufacturing continuing new closed establishments by industry national e-Stat table）
+- 文脈：統計・全国
+- 痛み・損（深さの印）：記載なし（読んだ53頁・検索18回）
+- 事業所数・社数：記載なし（読んだ53頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ53頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ53頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ53頁・検索18回）
+- 生産能力・設備：記載なし（読んだ53頁・検索18回）
+- 10年推移：記載なし（読んだ53頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ53頁・検索18回）
+
+## 中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93）（Basic Survey of Small and Medium Enterprises response rate by industry and size Japan）
+- 文脈：統計・方法
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 工業統計表 金属製品製造業 金属用金型 事業所数の減少と合併・統合の区別（日本金型工業会の自身の公表・site:jdmia.or.jp・4-93）（Japan Die and Mold Industry Association members mergers closures annual）
+- 文脈：団体・一次
+- 痛み・損（深さの印）：
+  - 「（2013 ～ 2018 年の 5 年間で約 40％の上昇） ，高い離職率といった課題に直面して」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「従業員の平均年齢は 30 ～ 34 歳，平均勤続年数 5 ～ 9 年で，離職率（2018 年度）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「アンケートでは， 許容可能な離職率は，事」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「務系 10％，技術系 15％と回答されているので，現状の離職率はやや高い」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「また，8 社で立ち上がった協同組合は，廃業したところもあり，現在のメンバーは，」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「国内ではめっき仕上げ・研磨の人手不足，業者の廃業」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「で育っているものの，一方で勤続年数が短い職員も多く，離職率の高さが課題と」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+- 事業所数・社数：
+  - 「1996 年から 2018 年の間に，事業所数は 706 から」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「2009 年のリーマンショック前後を契機として，事業所数が減少傾向にあるが，」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -1 高崎市製造業の事業所数， 製造品出荷額等の推移 （従業者 4 人以上の事業所）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -3 群馬県の市町村別事業所数 （カ所， 従業者 4 人以上の事業所） （2018 年）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「事業所数 では，金属製品 16.1％」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「半面，化学は事業所数が 2.4％（15 カ所）である」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「アジア地域では，企業数で中国 161（全体の」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「ムの企業数は 3 か国で 274，全体の 53.0％も達している（表序 -4）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「表序 -3 高崎市製造業の企業規模別事業所数， 従業者数， 製造品出荷額等 （2018 年）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「300人以上 15 8129 32943709 300人以上 2.4% 29.0% 37.3%」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+- 社員数・平均社員数：
+  - 「同期間に従業員数は，2 万 2430 人から 2 万 8001 人へと 1.2 倍に増加し」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -1 高崎市製造業の事業所数， 製造品出荷額等の推移 （従業者 4 人以上の事業所）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「従業者数 は，太田市 4 万 5374 人（21.3％） ，伊勢崎市 2 万 8623 人（13.4％） ，高」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「崎市 2 万 8001 人（13.1％）の順である」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -2 高崎市製造業の従業者数の推移 （従業者 4 人以上の事業所）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -3 群馬県の市町村別事業所数 （カ所， 従業者 4 人以上の事業所） （2018 年）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「従業者数では，食料品 24.1％（6741 人） ，金属製品 12.1％（3398 人） ，はん」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「用機械 10.3％（2886 人）の順である」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -4 群馬県の市町村別従業者数 （人， 従業者 4 人以上の事業所） （2018 年）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -5 群馬県の市町村別製造品出荷額等 （億円， 従業者 4 人以上の事業所） （2018 年）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「2018 年の高崎市の製造業は 633 カ所あるが，そのうち 4 ～ 29 人規模」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「また 4 ～ 299 人規模の中小企業は，」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「従業員数 2 万 8001 人のうち，4 ～ 299 人規模」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+- 受注金額・加工賃収入：
+  - 「第1章 スターテング工業株式会社 1950年12月設立 1億円 リコイルスターターの製造 中国（東莞，香港， 上海） ， タイ，米国」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第2章 株式会社ヌカベ 1945年4月設立 7000万円 自動車部品の製造，販売 中国（香港，珠海）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第3章 株式会社環境浄化研究所 1999年7月設立 8800万円」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第4章 八木工業株式会社 1914年創業 8888万円 鍛造品の製造，加工 中国（張家港：合弁解消） ，ポーランド」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第5章 株式会社荻野製作所 1946年5月創業 3000万円 精密切削加工 中国（天津）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第6章 オリヒロ株式会社 1972年12月設立 3276万円 食品包装機械の製造，販売 中 国（ 蘇 州 ） ，米国」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第7章 東邦工業株式会社 1960年4月創業 5000万円 プラスチック製品の設計，金型設計・製作 ベトナム（ハノイ） ，フィリピン，香港」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「また製造品出荷額等 も 7088.5 億円から 8821.4 億円へと 1.2 倍に増加してい」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第8章 株式会社馬場家具 1929年設立 7300万円 家具製品の製造，販売 ベトナム（ハイフォン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「1935年設立 2000万円 ダイカスト製品の製造，販売 ベトナム（ホーチミン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第10章 株式会社一千乃 1989年設立 2200万円 張り子の製作，企画，製造，販売 ベトナム（ホーチミン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第11章 斉藤プレス工業株式会社 1965年開業 2000万円 ワイヤーケーブルクランプ部品等の製造 タイ（ラヨーン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第12章 群栄化学工業株式会社 1946年1月設立 50億円 工業用フェノール樹脂等の製造・販売 タイ（ラヨーン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -1 高崎市製造業の事業所数， 製造品出荷額等の推移 （従業者 4 人以上の事業所）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「また，製造品出荷額等 は，太田市 2 兆」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+- 1人あたり・1社あたり金額：
+  - 「第2章 株式会社ヌカベ 1945年4月設立 7000万円 自動車部品の製造，販売 中国（香港，珠海）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第3章 株式会社環境浄化研究所 1999年7月設立 8800万円」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第4章 八木工業株式会社 1914年創業 8888万円 鍛造品の製造，加工 中国（張家港：合弁解消） ，ポーランド」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第5章 株式会社荻野製作所 1946年5月創業 3000万円 精密切削加工 中国（天津）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第6章 オリヒロ株式会社 1972年12月設立 3276万円 食品包装機械の製造，販売 中 国（ 蘇 州 ） ，米国」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第7章 東邦工業株式会社 1960年4月創業 5000万円 プラスチック製品の設計，金型設計・製作 ベトナム（ハノイ） ，フィリピン，香港」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第8章 株式会社馬場家具 1929年設立 7300万円 家具製品の製造，販売 ベトナム（ハイフォン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「1935年設立 2000万円 ダイカスト製品の製造，販売 ベトナム（ホーチミン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第10章 株式会社一千乃 1989年設立 2200万円 張り子の製作，企画，製造，販売 ベトナム（ホーチミン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「第11章 斉藤プレス工業株式会社 1965年開業 2000万円 ワイヤーケーブルクランプ部品等の製造 タイ（ラヨーン）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「資本金は 7,000 万円，売上高は国内が 101 億円（2021 年 7 月期） ，海外を含めた」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「資本金 7,000 万円」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「である（資本金 8,800 万円，従業員 9 名）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「資本金 は 8888 万円 で，売上高」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「資 本 金8888 万円」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+- 生産能力・設備：
+  - 「1990 年代以降 は，強力な設備投資 と生産性向上 を実現す」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「6,000 トンの生産能力まで拡大した」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+- 10年推移：
+  - 「本ブックレットは， 高崎経済大学地域科学研究所編（2022） 『地方製造業の躍」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「1996 年から 2018 年の間に，事業所数は 706 から」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「633 に減少した」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「2011 年には 800 を数えるも，その後減少し，1996 年比で 0.9 倍」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「同期間に従業員数は，2 万 2430 人から 2 万 8001 人へと 1.2 倍に増加し」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「また製造品出荷額等 も 7088.5 億円から 8821.4 億円へと 1.2 倍に増加してい」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「2009 年のリーマンショック前後を契機として，事業所数が減少傾向にあるが，」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「出所 ： 各社ウェブサイト， 高崎経済大学地域科学研究所編 （2022） 『地方製造業の躍進－高」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -1 高崎市製造業の事業所数， 製造品出荷額等の推移 （従業者 4 人以上の事業所）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -2 高崎市製造業の従業者数の推移 （従業者 4 人以上の事業所）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -3 群馬県の市町村別事業所数 （カ所， 従業者 4 人以上の事業所） （2018 年）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「2018 年の高崎市製造業 の産業別分布 をみる」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「（2038 億円） ，食料品 22.9％（2023 億円） ，金属製品 10.1％（887 億円）などの比」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -4 群馬県の市町村別従業者数 （人， 従業者 4 人以上の事業所） （2018 年）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「図序 -5 群馬県の市町村別製造品出荷額等 （億円， 従業者 4 人以上の事業所） （2018 年）」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+- 人手と仕事の差：
+  - 「外注先は品質や納期の点から台湾系企業が多い」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「境を乗り越え，今日のオリヒロの 姿が形成され，繁忙期 700 人の雇用を実現し，」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「こうして，東邦工業は，金型の各工程の難易度に応じて，内製と外注を使い分」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「との製造コストの差や人手不足などから，1999 年頃から海外進出の検討が始まっ」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「国内ではめっき仕上げ・研磨の人手不足，業者の廃業」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+  - 「うになってから， 納期」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

@@ -1,0 +1,932 @@
+{
+ "name": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
+ "en": "productivity decomposition entry exit merger effects firm level Japan",
+ "aliases": [
+  "生産性 分解 参入 退出 合併 効果 ミクロデータ",
+  "FHK decomposition exit effect positive merger",
+  "日本銀行 金融研究所 生産性 参入 退出 合併"
+ ],
+ "context": "推定",
+ "kind": "market",
+ "researched_at": "2026-11-08T00:52:26.821694+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "For example, a series of studies like Fukao and Kwon (2006) hav e applied the",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Many other studies have confirmed this “positive” exit effect. For example, Alon",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "effect will be higher, for example, when firms with a larger share as of period ݐെ1",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "previous period, this share effect will be higher, for example, when firms with",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "effect will be high, for example , when firms with relatively hi gher productivity",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "productivity as of period ݐെ1 . Thus, this exit effect will be high, for example,",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "5 As discussed, Crane et al. (2020), for example, it is not necessarily clear how we should define",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "case contains a typical merger as well as some sort of reorganization of companies",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "decompose it into two subcomponents, that is, ݄ݏ݈ܾ݅ܽݐݏ݁ and ݊݅݀݊݅ .The first case",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "accounts for pure entry into the economy, while the second case accounts for the",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, the number of digits in sales for a limited number of firms",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "end of March, the file labeled ݐ ൌ 2012 , for example, consists of a large amount of",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A part of the KJ FLG file is accompanied by the list of merging firm(s) in the case",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "dynamics of Japanese firms suffer from data truncation. For example, studies using",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "about how to correct material in RePEc.",
+    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "method developed by Foster et al. (2001) to Japanese micro data and have",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "productivity dynamics. Section 3 presents the standard method o f decomposing",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Foster et al. (2001) have developed a standard method (FHK deco mposition) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3 As a brief history of the methods for decomposing aggregate productivity, the first method was",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "“cleansing effects” proposed by Foster et al. (2014). Although the method is not",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "apply the method proposed in Foster et al. (2001) to data from Japanese",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This section first presents the standard method in Foster et al . (2001) (FHK) that",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "associated with various dimensions of firm dynamics. Then, we e xplain how to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the benchmark. As demonstrated above, the FHK method used in th is study",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "12 For the calculation of the TFP, we estimate the production fun ction using the method of",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Ackerberg et al. (2016), which is currently considered the stan dard method, and measure it as the",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14 See Appendix for details on how to estimate the merging effect.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "we use the IPW method to estimate the ATT for the merger events. Given it might",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "with the bootstrap method.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "closures for each year, which may cause our coverage to be underestimated.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "12 For the calculation of the TFP, we estimate the production fun ction using the method of",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Against this background discussion, we estimate the causal effect that runs from",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "based on the propensity score to estimate the causal effect of mergers on",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14 See Appendix for details on how to estimate the merging effect.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "we use the IPW method to estimate the ATT for the merger events. Given it might",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "take time for merging firms to experience the causal effect of mergers, we estimate",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 6 depicts the estimated ATTs for the merger events for m ultiple-year",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "windows. We confirm that the estimates of ATTs are positive and statistically away",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of those estimates, the net merger effect gets larger as time p asses. This is partly",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "propensity score, in this case, is an estimate of the propensity to become a merging",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ability of the model, as well as the significance of variables. Second, we estimate",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the estimated ATT to equation (10) and (11) in Section 5 and take the sum of them",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Sample Bias in Decompositions of Economic Dynamics",
+    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "decompositions have still suffered from the biases as business dynamics that are associated with",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/syousuukabu_koho/n/n5a165b8cc748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/naoki0921/n/ne96d462af680",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rikei_okka/n/ncdfcef1fdfda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/syousuukabu_koho/n/n40551dbbfba1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chic_deer1160/n/na955cf3457e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rmc-oden.com/blog/archives/93188",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOFL271FA0X21C24A0000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.pactera.com/seminar/1606",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-business-administration/productivity_analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiriplus.jp/tips/seisanseibunseki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mmcea.com/business-analysis/productivity-analysis/va1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikakutorunara.tokyo/2023/08/31/post-1076/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studying.jp/shindanshi/studyqa/id/19872.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aas-clover.com/tokyoblog/1999",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://academic.oup.com/icc/article/35/3/543/8257621",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://waseda.elsevierpure.com/en/publications/the-impact-of-mergers-on-aggregate-productivity-an-empirical-anal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/en/columns/a01_0189.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） site:note.com",
+   "results": [
+    "https://note.com/syousuukabu_koho/n/n5a165b8cc748",
+    "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "https://note.com/naoki0921/n/ne96d462af680",
+    "https://note.com/rikei_okka/n/ncdfcef1fdfda",
+    "https://note.com/syousuukabu_koho/n/n40551dbbfba1",
+    "https://note.com/chic_deer1160/n/na955cf3457e1",
+    "https://note.com/yappyy/n/n7dc8d09e5adb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） note",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://www.youtube.com/watch?v=BPelOtM9zok",
+    "https://www.nikkei.com/article/DGXZQOFL271FA0X21C24A0000000/",
+    "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
+    "https://mmcea.com/business-analysis/productivity-analysis/va1/",
+    "https://shikakutorunara.tokyo/2023/08/18/post-1063/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） やり方",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://jp.pactera.com/seminar/1606",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://www.youtube.com/watch?v=REfl7jgnQjM&vl=ja",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://www.freee.co.jp/kb/kb-business-administration/productivity_analysis/",
+    "https://keiriplus.jp/tips/seisanseibunseki/",
+    "https://mmcea.com/business-analysis/productivity-analysis/va1/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） 事例",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://www.youtube.com/watch?v=REfl7jgnQjM&vl=ja",
+    "https://shikakutorunara.tokyo/2023/08/31/post-1076/",
+    "https://jp.pactera.com/seminar/1606",
+    "https://studying.jp/shindanshi/studyqa/id/19872.html",
+    "https://www.aas-clover.com/tokyoblog/1999"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "productivity decomposition entry exit merger effects firm level Japan",
+   "results": [
+    "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
+    "https://academic.oup.com/icc/article/35/3/543/8257621",
+    "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "https://waseda.elsevierpure.com/en/publications/the-impact-of-mergers-on-aggregate-productivity-an-empirical-anal/",
+    "https://www.rieti.go.jp/en/columns/a01_0189.html",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/reigniting-productivity-growth_67b7a182.html",
+    "https://www.iwh-halle.de/fileadmin/_compnet/user_upload/Session_2_-_Presentation_2_-_Yojiro_Ito_new.pdf",
+    "https://spfusa.org/wp-content/uploads/2015/01/World-KLEMS-Conference-Fukao-et-al-20140519-final-pdf.pdf",
+    "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
+   "results": [
+    "https://note.com/syousuukabu_koho/n/n5a165b8cc748",
+    "https://note.com/naoki0921/n/ne96d462af680",
+    "https://note.com/rikei_okka/n/ncdfcef1fdfda",
+    "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "https://note.com/syousuukabu_koho/n/n40551dbbfba1",
+    "https://note.com/chic_deer1160/n/na955cf3457e1",
+    "https://note.com/yappyy/n/n7dc8d09e5adb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
+   "results": [
+    "https://x.com/keizaireport/status/2104777532168110480",
+    "https://x.com/grok/status/2065796287157371212",
+    "https://x.com/nwakamo",
+    "https://x.com/takasaburo3/status/2112740154779861246",
+    "https://x.com/cao_keizai/status/2021825724433543433",
+    "https://x.com/tokuyobi/status/2084202621397557673",
+    "https://x.com/ZuoMu21043/status/2113937072159641668"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
+   "results": [
+    "https://www.linkedin.com/pub/dir/igor/polanec",
+    "https://in.linkedin.com/in/fhk-industrial-96039755",
+    "https://si.linkedin.com/in/emil-polanec-b1b75820",
+    "https://business.linkedin.com/",
+    "https://jp.linkedin.com/posts/大地-川上-2247a7354_経営の成否を分ける仮説検証の技術なぜ優秀な経営者はmaでもスモールスタート-activity-7472430099049492480-R3tx",
+    "https://jp.linkedin.com/posts/涼太-本田-066a05b6_生産計画において人システムaiの役割をどう分けるか-判断の質を上げるための-activity-7467349279368687616-tYnB",
+    "https://www.linkedin.com/posts/秀一-新田-9b6b19324_ai時代の企業経営では人間の労働とaiを含むデジタル資本を組み合わせて生産性-share-7504695334909128704-mZir"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
+   "results": [
+    "https://www.facebook.com/jpc0301/",
+    "https://www.facebook.com/BankofJapan/photos/2915738498726157/",
+    "https://www.facebook.com/MAfolova/photos/-ma買収後売上規模5倍に成長した好事例-合併後譲り受けた会社をどのように運営していくのか将来の投資の成否を分ける重要な意思決定ポイントです-自社のno1no2/1047929588689598/",
+    "https://www.facebook.com/Japan.RIETI/posts/865192006905992/",
+    "https://www.facebook.com/FPhime/posts/Ⅴ企業の参入退出の円滑化とスタートアップ育成五ヶ年計画の推進httpswwwfphimecomposte4bc81e6a5ade381aee58f82e585a/645055384327113/",
+    "https://www.facebook.com/nikkeibusiness/posts/1349490128432598/",
+    "https://business.facebook.com/latest/home/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.youtube.com/watch?v=SP-2WCVBwIo",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
+    "https://www.youtube.com/watch?v=aKdj9nbmk4s",
+    "https://shikakutorunara.tokyo/2023/08/18/post-1063/",
+    "https://slack.com/intl/ja-jp/blog/productivity/how-to-analyze-productivity"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） X 投稿",
+   "results": [
+    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.youtube.com/watch?v=SP-2WCVBwIo",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://www.rieti.go.jp/jp/columns/a01_0820.html",
+    "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
+    "https://www.youtube.com/watch?v=aKdj9nbmk4s"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "productivity decomposition entry exit merger effects firm level Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/filipjolevski",
+    "https://de.linkedin.com/in/davidsondermann/en",
+    "https://in.linkedin.com/in/nkumar5",
+    "https://uk.linkedin.com/in/jiajia-zhan",
+    "https://cn.linkedin.com/in/rodrigo-zeidan-a6b2958",
+    "https://www.linkedin.com/in/dingding-lucas-li",
+    "https://de.linkedin.com/in/marcus-roesch",
+    "https://www.linkedin.com/in/sebastian-krantz-phd-91a08aa9",
+    "https://ca.linkedin.com/in/girishsharma184",
+    "https://hr.linkedin.com/in/nstojcic"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "一次情報の探し方": "記載なし（読んだ25頁・検索12回）"
+ },
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "For example, a series of studies like Fukao and Kwon (2006) hav e applied the",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Many other studies have confirmed this “positive” exit effect. For example, Alon",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "effect will be higher, for example, when firms with a larger share as of period ݐെ1",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "previous period, this share effect will be higher, for example, when firms with",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "effect will be high, for example , when firms with relatively hi gher productivity",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "productivity as of period ݐെ1 . Thus, this exit effect will be high, for example,",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "5 As discussed, Crane et al. (2020), for example, it is not necessarily clear how we should define",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "case contains a typical merger as well as some sort of reorganization of companies",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "decompose it into two subcomponents, that is, ݄ݏ݈ܾ݅ܽݐݏ݁ and ݊݅݀݊݅ .The first case",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "accounts for pure entry into the economy, while the second case accounts for the",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, the number of digits in sales for a limited number of firms",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "end of March, the file labeled ݐ ൌ 2012 , for example, consists of a large amount of",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A part of the KJ FLG file is accompanied by the list of merging firm(s) in the case",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "dynamics of Japanese firms suffer from data truncation. For example, studies using",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "about how to correct material in RePEc.",
+    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "method developed by Foster et al. (2001) to Japanese micro data and have",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "productivity dynamics. Section 3 presents the standard method o f decomposing",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Foster et al. (2001) have developed a standard method (FHK deco mposition) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3 As a brief history of the methods for decomposing aggregate productivity, the first method was",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "“cleansing effects” proposed by Foster et al. (2014). Although the method is not",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "apply the method proposed in Foster et al. (2001) to data from Japanese",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This section first presents the standard method in Foster et al . (2001) (FHK) that",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "associated with various dimensions of firm dynamics. Then, we e xplain how to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the benchmark. As demonstrated above, the FHK method used in th is study",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "12 For the calculation of the TFP, we estimate the production fun ction using the method of",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Ackerberg et al. (2016), which is currently considered the stan dard method, and measure it as the",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14 See Appendix for details on how to estimate the merging effect.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "we use the IPW method to estimate the ATT for the merger events. Given it might",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "with the bootstrap method.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "closures for each year, which may cause our coverage to be underestimated.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "12 For the calculation of the TFP, we estimate the production fun ction using the method of",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Against this background discussion, we estimate the causal effect that runs from",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "based on the propensity score to estimate the causal effect of mergers on",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14 See Appendix for details on how to estimate the merging effect.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "we use the IPW method to estimate the ATT for the merger events. Given it might",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "take time for merging firms to experience the causal effect of mergers, we estimate",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 6 depicts the estimated ATTs for the merger events for m ultiple-year",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "windows. We confirm that the estimates of ATTs are positive and statistically away",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of those estimates, the net merger effect gets larger as time p asses. This is partly",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "propensity score, in this case, is an estimate of the propensity to become a merging",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ability of the model, as well as the significance of variables. Second, we estimate",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the estimated ATT to equation (10) and (11) in Section 5 and take the sum of them",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Sample Bias in Decompositions of Economic Dynamics",
+    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "decompositions have still suffered from the biases as business dynamics that are associated with",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-08T00:52:26.821694+00:00"
+}

@@ -8,31 +8,11 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T18:49:06.153588+00:00",
+ "researched_at": "2026-11-08T01:00:59.154097+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
     "quote": "If every positive item strengthens your thesis but every negative item is dismissed as temporary, the process is probably biased. My recommendation is to…",
-    "url": "https://equityresearchbase.com/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Explore a modern research process built around primary sources and transparent methods.",
-    "url": "https://equityresearchbase.com/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Read primary filings and make valuation assumptions explicit.",
-    "url": "https://equityresearchbase.com/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Read a filing. Check a definition. Write down what would change your view. Good research makes its limits visible.",
     "url": "https://equityresearchbase.com/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -59,6 +39,26 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Explore a modern research process built around primary sources and transparent methods.",
+    "url": "https://equityresearchbase.com/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Read primary filings and make valuation assumptions explicit.",
+    "url": "https://equityresearchbase.com/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Read a filing. Check a definition. Write down what would change your view. Good research makes its limits visible.",
+    "url": "https://equityresearchbase.com/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
@@ -80,17 +80,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/margin_journal/n/nb0efc02fd55b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/investorbird/n/nb99adfbfb37e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/onbit_jp/n/nfe81649f737e",
+    "url": "https://note.com/margin_journal/n/nb0efc02fd55b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alert_acacia4933/n/nbf93523330b5",
     "status": "ok",
     "method": "http"
    },
@@ -100,12 +100,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hiro_investor/n/n36ac9eb06d81",
+    "url": "https://note.com/mainichi_ai_new/n/ndbf1b0e423f0",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kabuken.club/investment-record-note-template-free/",
+    "url": "https://note.com/hiro_investor/n/n36ac9eb06d81",
     "status": "ok",
     "method": "http"
    },
@@ -115,7 +115,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/mydayai/n/na86f04240f78",
+    "url": "https://kabuken.club/investment-record-note-template-free/",
     "status": "ok",
     "method": "http"
    },
@@ -140,12 +140,12 @@
     "method": "http"
    },
    {
-    "url": "https://shiraberu-note.com/edinet-securities-report-guide/",
+    "url": "https://www.jasdec.com/procedure/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jasdec.com/procedure/",
+    "url": "https://shiraberu-note.com/edinet-securities-report-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -155,24 +155,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.jpx.co.jp/rules-participants/rules/doc/domestic-stock/tvdivq000000u2hg-att/bunpu_202512.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://kabusyo.com/buy/trade-exel.html",
+    "url": "https://www.fsa.go.jp/news/r7/singi/20260327.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/news/r7/singi/20260327/08.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.finmonkeys.com/blog/source-linked-stock-research-workflow",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.scribd.com/document/1058037556/Equity-Research-Workflow-Template",
@@ -185,12 +180,17 @@
     "method": "browser"
    },
    {
+    "url": "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://github.com/UnitedDiagram/Doxa",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://skillsmp.com/creators/yangheng95/opencorvus/expert-squads-builtin-equity-research-skills-workflow",
+    "url": "https://tryaltys.ai/blog/the-equity-research-process/",
     "status": "ok",
     "method": "http"
    }
@@ -203,13 +203,13 @@
     "https://note.com/midnight_wisdom/n/n901a5b7978cf",
     "https://note.com/startai/n/ndb06480c210c",
     "https://note.com/basb/n/nfb7f34f1a847",
-    "https://note.com/margin_journal/n/nb0efc02fd55b",
     "https://note.com/investorbird/n/nb99adfbfb37e",
-    "https://note.com/onbit_jp/n/nfe81649f737e",
-    "https://note.com/alert_acacia4933/n/nbf93523330b5"
+    "https://note.com/margin_journal/n/nb0efc02fd55b",
+    "https://note.com/alert_acacia4933/n/nbf93523330b5",
+    "https://note.com/koreyama/n/ne04a638a8283"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -217,15 +217,15 @@
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） note",
    "results": [
     "https://inuiwan.com/archives/3299",
+    "https://note.com/mainichi_ai_new/n/ndbf1b0e423f0",
     "https://note.com/hiro_investor/n/n36ac9eb06d81",
-    "https://kabuken.club/investment-record-note-template-free/",
     "https://www.wikiprompt.org/ja/senior-equity-research-analyst-prompt-for-stock-analysis",
-    "https://note.com/mydayai/n/na86f04240f78",
+    "https://kabuken.club/investment-record-note-template-free/",
     "https://www.bitget.com/ja/wiki/1203666",
-    "https://crexgroup.com/ja/sec/asset-management/stock-study-note-guide/"
+    "https://portfolio-journal.com/guides/investment-note-howto"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -236,12 +236,12 @@
     "https://www.bitget.com/ja/wiki/1203666",
     "https://tokyo-souzoku.or.jp/souzoku-tyousa-qa/qa39-3/",
     "https://luxury-digest-japan.com/2747/",
-    "https://shiraberu-note.com/edinet-securities-report-guide/",
     "https://www.jasdec.com/procedure/",
+    "https://shiraberu-note.com/edinet-securities-report-guide/",
     "https://www.clauder-navi.com/claude-f66264d24b/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -250,14 +250,14 @@
    "results": [
     "https://www.bitget.com/ja/wiki/1203666",
     "https://note.com/midnight_wisdom/n/n901a5b7978cf",
-    "https://www.jpx.co.jp/rules-participants/rules/doc/domestic-stock/tvdivq000000u2hg-att/bunpu_202512.pdf",
     "https://inuiwan.com/archives/3299",
     "https://luxury-digest-japan.com/2747/",
     "https://tokyo-souzoku.or.jp/souzoku-tyousa-qa/qa39-3/",
-    "https://kabusyo.com/buy/trade-exel.html"
+    "https://www.fsa.go.jp/news/r7/singi/20260327.html",
+    "https://www.fsa.go.jp/news/r7/singi/20260327/08.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -265,12 +265,12 @@
    "query": "equity research workflow source tracking stale inputs checklist",
    "results": [
     "https://www.finmonkeys.com/blog/source-linked-stock-research-workflow",
-    "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
     "https://www.scribd.com/document/1058037556/Equity-Research-Workflow-Template",
     "https://www.finmonkeys.com/guides/stock-research-workflow",
+    "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
     "https://github.com/UnitedDiagram/Doxa",
-    "https://skillsmp.com/creators/yangheng95/opencorvus/expert-squads-builtin-equity-research-skills-workflow",
-    "https://github.com/GeniusTrader-Harry/equity-research-skill"
+    "https://tryaltys.ai/blog/the-equity-research-process/",
+    "https://skillsmp.com/creators/yangheng95/opencorvus/expert-squads-builtin-equity-research-skills-workflow"
    ],
    "engines": [
     "ddgs:google"
@@ -289,7 +289,7 @@
     "https://note.com/lovely_gerbil487/n/nefcdfc4d566a"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -300,8 +300,8 @@
     "https://x.com/timeismoney55/status/2033099057220989351",
     "https://x.com/timeismoney55/status/2032592067503985085",
     "https://x.com/keitaro_aigc/status/2084020068107874340",
-    "https://x.com/2okutameo/status/2051852980727828951",
     "https://x.com/AIjitan_sokuhou/status/2117746169128288407",
+    "https://x.com/2okutameo/status/2051852980727828951",
     "https://x.com/i/status/2080538500945109405"
    ],
    "engines": [
@@ -314,14 +314,14 @@
    "results": [
     "https://jp.linkedin.com/pulse/equity-research-in-depth-guide-aditi-singh-tharran-y1p7c?tl=ja",
     "https://jp.linkedin.com/pulse/equity-research-basics-bhavya-singhare?tl=ja",
-    "https://jp.linkedin.com/pulse/10-steps-becoming-equity-research-analyst-hemangi-bhuva-asqlf?tl=ja",
     "https://jp.linkedin.com/pulse/top-5-equity-research-techniques-smarter-investments-2025-dwivedi-7fshf?tl=ja",
+    "https://jp.linkedin.com/pulse/10-steps-becoming-equity-research-analyst-hemangi-bhuva-asqlf?tl=ja",
     "https://jp.linkedin.com/pulse/art-science-financial-statement-analysis-equity-hemangi-bhuva--vifaf?tl=ja",
     "https://jp.linkedin.com/pulse/equity-research-from-traditional-valuation-0kwtf?tl=ja",
     "https://jp.linkedin.com/posts/schroders_50年目の日本株式運用シュローダーがボトムアップの日本株式調査をはじめて50年-activity-7195951529550360577-t2HP"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -333,33 +333,43 @@
     "https://www.facebook.com/61592550818380/videos/1671362803952117/",
     "https://www.facebook.com/61592502610814/videos/1747484576599738/",
     "https://www.facebook.com/ndagijimana.jacques.609347/videos/動画内の株式情報はすでに準備ができています必要な方はフォローいいねそしてコメントをお願いします318と入力していただければその情報を送信いたします高配当株投資初/1371103171849716/",
-    "https://www.facebook.com/SonyFinancialGroupInc.research/",
-    "https://www.facebook.com/daiwaconnect/videos/投資の極意証券会社社長が実践する銘柄選びの秘訣コロナ禍で仕込んだ株が今証券会社社長の実体験から学ぶ投資術を大公開これから大和コネクト証券の口座開設をされる方へ口/1432047674667264/"
+    "https://www.facebook.com/daiwaconnect/videos/投資の極意証券会社社長が実践する銘柄選びの秘訣コロナ禍で仕込んだ株が今証券会社社長の実体験から学ぶ投資術を大公開これから大和コネクト証券の口座開設をされる方へ口/1432047674667264/",
+    "https://www.facebook.com/takafumi.eguro/posts/ブログを更新しました今日は東証より公表された株式分布調査のご紹介です個人株主数は過去最高へ/27668657872755282/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://inuiwan.com/archives/3299",
+    "https://note.com/mainichi_ai_new/n/ndbf1b0e423f0",
+    "https://note.com/hiro_investor/n/n36ac9eb06d81",
+    "https://www.wikiprompt.org/ja/senior-equity-research-analyst-prompt-for-stock-analysis",
+    "https://kabuken.club/investment-record-note-template-free/",
+    "https://www.bitget.com/ja/wiki/1203666",
+    "https://ithy.com/article/notion-stock-trading-templates-f4i3809t"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） X 投稿",
    "results": [
     "https://www.wikiprompt.org/ja/senior-equity-research-analyst-prompt-for-stock-analysis",
     "https://www.bitget.com/ja/wiki/1203666",
+    "https://2slides.com/ja/blog/how-to-create-equity-research-investment-decks-with-ai",
     "https://inuiwan.com/archives/3299",
     "https://manabinoba.blog/grok-x-research-report/",
     "https://luxury-digest-japan.com/2747/",
-    "https://sisanunyou.org/stock/start_joho_record.html",
-    "https://kabusyo.com/buy/trade-exel.html"
+    "https://sisanunyou.org/stock/start_joho_record.html"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -368,10 +378,10 @@
    "results": [
     "https://www.linkedin.com/posts/vinayak-thakur-finance_4-the-complete-7-step-equity-research-workflow-activity-7508348127544979456-CEK2",
     "https://www.linkedin.com/pulse/complete-guide-equity-research-md-razzaque-khan-ievef",
-    "https://br.linkedin.com/pulse/agentic-ai-boundary-testing-himanshu-agarwal-9euwc?tl=pt",
-    "https://in.linkedin.com/in/karinapais",
-    "https://ro.linkedin.com/pulse/essential-skills-strategic-competencies-ai-augmented-legal-jana-saad-vujyf?tl=ro",
+    "https://ro.linkedin.com/pulse/how-use-competitor-sitemaps-build-better-seo-systems-martinez-lira-q0ogc?tl=ro",
     "https://ro.linkedin.com/pulse/complete-guide-chatbots-2026-how-work-what-can-do-best-platforms-vijrf?tl=ro",
+    "https://kr.linkedin.com/pulse/how-cross-domain-checkout-journeys-create-fake-direct-mehbub-alam-vp2fc?tl=ko",
+    "https://in.linkedin.com/in/karinapais",
     "https://no.linkedin.com/pulse/2025-ld-technology-stack-strategic-playbook-sheldon-kumar-fonnc?tl=no"
    ],
    "engines": [
@@ -384,6 +394,6 @@
   "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T03:19:43.919757+00:00"
 }

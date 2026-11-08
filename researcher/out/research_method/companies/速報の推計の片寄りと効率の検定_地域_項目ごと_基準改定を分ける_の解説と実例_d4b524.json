@@ -1,0 +1,1294 @@
+{
+ "name": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
+ "en": "testing unbiasedness and efficiency of first release estimates regional accounts revisions",
+ "aliases": [
+  "速報 改定 バイアス 検定 地域 統計",
+  "first estimates unbiased efficient revisions regional accounts",
+  "統計 改定幅 分析 方法 速報値"
+ ],
+ "context": "突き合わせ",
+ "kind": "market",
+ "researched_at": "2026-11-08T00:54:59.780076+00:00",
+ "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "近代歴史学では、バルトホルト・ゲオルク・ニーブールやレオポルト・フォン・ランケに始まる史料批判の伝統により、史料を様々に吟味して歴史上の事実などを推定する技術を高度な体系へと作り上げてきました",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "奥付などにそれらが記載されている近現代の史料では分かりやすいですが、記載がない場合や、あったとしてもその信頼性に問題がある場合は、他の証拠からいつ・どこで・誰が作った史料なのかを推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "史料の形態や考古学的な特徴を分析したり、関連する複数の史料を比較して内容の類似や矛盾を調べたりするなど、複数の観点からの分析を組み合わせて、総合的に判断されることになります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方で、複数の史料の指し示す内容に矛盾がある場合、可信性を慎重に吟味して史実を推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "歴史的聯関の構成と歴史的意義の把握は、単なる事実についての推定から、相互の因果関係などのより高次の結論を導き出すものです",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対照的に、研究最前線の成果や新しい理論を紹介することを主眼とした書籍では、まだ通説とは言えない仮説や少数説が大きな比重を占めることもあり、その場合には、その立場が専門家コミュニティの中でどの程度共有されているのかを読者自身が補って考える余地が大きくなります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "前者では本原性や出典の検討がある程度可能ですが、その場合でも引用されている先行研究を追っていくには相応の時間と労力が必要であり、「読みやすさ」と「検証のしやすさ」がトレードオフの関係に置かれがちな媒体です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そのため、個々の記述がどの制度文書や研究に依拠しているのかを教材単体からさかのぼるのは難しく、本原性の高い情報源との対応関係を検討しようとすれば、別途、法令集や専門書、実務家向けの解説書などとの照合が必要になります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "査読によって一定の水準は担保されますが、査読の厳格さは雑誌や分野によって差があり、論文の内容を細部まで検証したり追試したりするには、高度な専門知識と時間・資源が必要になります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "論文は、個々の研究結果や新しい仮説を提示することを目的とした媒体であり、その主張がそのまま通説を表しているわけではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Wikipediaでは編集方針として「検証可能性」「中立的な観点」「独自研究の不掲載」などが掲げられ、一次資料や査読付き論文、専門書、信頼できるニュースソースなどに依拠することが求められています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "研究者のブログでは、学術誌に掲載される前の予備的な結果や学会発表の内容が紹介されることがあり、学界の動向を早く知る手がかりになりますが、その時点では通説とは言えない仮説も含まれます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "制作者の専門性や通説との関係を判断する手がかりは、動画の説明欄やプロフィール、外部サイトへのリンクなどに限られることが多く、所属や業績がどの程度裏付けのあるものかを視聴者側から検証するのは容易ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "これには、「軽信によって起こったもの、不注意から来たもの、独断によって誤られたもの、批判的誤りから生じたもの等」のような種類があることが言及されています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "作者がその主張を強く印象づけるために行う工夫が、現代の読者にはダイレクトに刺さりやすい構図になっているため、より注意して客観的な判断を行う必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門家コミュニティにおける共通認識としての\"通説\"は、事実のような単一性をもったものではないことにも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その一方で、質問文の設計や非回答の扱いなどによって系統的な偏りが生じる余地は残り、本文で取り上げられる数字と付録に置かれる数字のあいだに編集上のバイアスが入り込むこともあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事実報道と社説・コラム・ワイドショー的なコメントが連続して並ぶことで、事実と意見の境界が曖昧になりやすい点にも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "オンライン版は公開後に更新・修正されることがあり、また紙面・放送・初期ウェブ版・改訂版で細部が異なることもあるので、外的批判を行う上では注意が必要な場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "辞書・事典同士が互いを参照しあった結果として、実質的には限られた原資料に依拠しているケースもあり、版や更新時期によって内容が細かく変化する点にも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "誤りに気づけば素早く訂正できる反面、過去の版が十分に記録されないまま書き換えられることもあり、更新状況や来歴を追うのは容易ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "会話内容がモデル改善や機能向上のために利用される場合でも、それがどのような形で学習に反映されるかは利用者には分かりにくく、その過程でどの方向にバイアスが強まるかも外側からは評価しにくい構造があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "完全にモデル内部からの生成によるものよりはいくぶん評価コスト上の利点があるとはいえ、やはり注意して扱うべき情報源と言えるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "講義・講演という形式には、話の構成やレトリックによるバイアスも入り込みます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "この中では、学問の探究が対象に応じてどのような方法論をとるか、ということを論じていました",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは人類の探究活動の最極致にある学術研究においてどのようなやり方が使われるか、という部分を扱ったものですが、社会の大多数を占める人々は専門家ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門家に関する研究の中では、科学技術社会論（Science and technology studies, または science, technology, and society, STS）の中で、ハリー・コリンズとロバート・エヴァンズによって論じられた専門知の類型論が注目に値します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "コリンズ＆エヴァンズ（2007、邦訳 2020）『専門知を再考する』では、\"専門知の周期表\"として専門知の類型が論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは「ビアマット知識」「通俗的理解」「一次資料知識」「対話型専門知」「貢献型専門知」の5つの類型に分けられます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「貢献型専門知」は、一般に\"専門家\"という言葉から連想されるような、特定の分野において実践的にことを為すことができるような能力をもたらす専門知のことです",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方「対話型専門知」は、その分野において実践的な貢献は行わないが、分野のコミュニティに関わり、その特定分野に固有の暗黙知を身に付けた状態で、専門的なトピックに関して流暢なコミュニケーションを行うことを可能にするような専門知を指します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対話型専門知はコリンズとエヴァンズが新たに着想した概念で、『専門知を再考する』の中ではかなり詳しく論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対話型専門知および貢献型専門知には特定分野のコミュニティにおける社会的な暗黙知が必要となります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、特にその分野の実践を伴う貢献型専門知においては、物真似単形性のような技能の身体化が見られるようになります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "コリンズとエヴァンズの議論では、貢献型専門知を持った人々は、少なくとも潜在的には対話型専門知をも身に付けている、と論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "学術コミュニティの場合は学会などでのやりとりとして言語によるコミュニケーションが行われるので、多くの場合対話型専門知が顕在化していることが多いと思います",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお、芸術評論家は貢献型専門知を持たず対話型専門知のみを持っているような例になっています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは、他の言葉で言えば批判的思考（クリティカル・シンキング）のようなものを行えるような資質のことを意味していて、特に学術分野における貢献型専門知の実践に深く関与しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらの「対話能力」「熟慮能力」は特定の分野に限った能力ではないためこの行とは別に立てられていて、対話型専門知や貢献型専門知を顕在化させたり習熟させるのに役立つような資質として位置づけられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "ビアマット知識のような断片的な情報ではなく、推論によって具体的な事例に適用したりできるような、ある程度まとまった観念を指しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "前者の場合は、非常に複雑ではあるがそれ単体で習得可能で、例えば村田製作所の\"ムラタセイサク君\"のような形で機械にも模倣可能です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方で、例えば芸術家のような専門家の場合、素晴らしい芸術作品を作ることはできるが、それについて流暢に言語化することは難しい、という場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このような場合も、例えば芸術評論家が持つような言語化能力を身に付けることができれば、その芸術作品について対話をすることが可能でしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「専門的目利き」は、例えばワインのソムリエがワインの良し悪しについて判断できるような鑑定能力のことを指しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここでは、例えば自然科学では対応説、人文科学では整合説、みたいな形で、ドメインごとに別々の説による真理が成り立つ、ということが考えられます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "非専門家にとっては、例えば対応説的な真理を直接得ることはできず、専門家によって見出されたもの、という媒介を通してしか真理を見ることができません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "真純性に問題があるケースとしては、一つは史料が偽作である場合、またもう一つとして錯誤もしくは誤認に基づいている場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このような錯誤や虚偽の吟味は、外的批判の結果とも組み合わせて検討されます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、そのような信頼性の高い複製プロセスを経ていないものを対象としている場合や、版の違いによる改訂の差などが重要になってくる場合などでは、真純性の吟味が重要なケースは残ります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "通説との関係で見ると、教科書は「十分確実とみなされた内容」を優先して採用するため、専門家コミュニティでの議論の最前線や、通説が更新されつつある部分が反映されるまでには時間的なラグが生じます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "制作主体は試験を実施する公的機関や業界団体、民間出版社など多様であり、執筆者もその分野の専門家から予備校講師・実務家まで幅があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方で、専門書が大学の教科書としてどの程度採用されているか、専門誌の書評でどのように評価されているかといった外在的な情報は、その専門書がコミュニティ内でどの位置づけにあるのかを推測する手がかりを与えます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門分野の基礎理論や統計手法、実験技法などについて十分な前提知識がない場合、論文の主張の強さや位置づけを適切に評価することは難しくなります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "政府機関や独立行政法人、地方公共団体などが発行する白書・統計書・調査報告・審議会答申は、公的な立場からの現状認識や政策判断を示す文献です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法制度や行政運営に関する情報では、これらが「公式見解」や「公的統計」として事実上の基準になることも多く、行政がどのような問題設定と前提に立っているかを知る手がかりになります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計や報告書は年次で作成され、速報値・確報値の区別や後年の改定が行われます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ名称の統計でも、調査方法や分類が途中で変わることがあり、時系列比較を行う際には、版・掲載年・調査方法を確認する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計や調査では、指標の選定にあたって専門家の助言が得られることが多く、学問的知見や広く共有された枠組みに沿った設計が行われますが、どの指標やグラフを強調するかといった編集方針には、政策課題や組織の関心が反映されます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計書は調査対象・抽出方法・集計手順などを明示するのが通例であり、本原性の高い情報源です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計表や図表が多数掲載されていても、それが学界のどの議論と対応しているか、どの程度通説に近い位置づけなのかは、本文だけでは分かりにくく、必要に応じて専門書や学術論文と組み合わせて読むことが求められます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一次資料や学術論文、公的統計へのリンクを丁寧に示すサイトでは、記述の根拠をたどりやすい一方で、出典をほとんど示さないまま断定的に語るサイトや、二次情報の重ね書きで元の出典が不明瞭になっているサイトもあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "非専門家にとって、個人サイトは多くの場合無料で利用でき、検索エンジンやSNS経由で到達しやすいという意味でアクセスコストは低いものの、運営者の専門性や立場、参照されている情報源の質を自分で見極める必要があり、複数サイトや公的資料・専門書と照らし合わせる評価コストは小さくありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "研究者や公的機関・報道機関の公式アカウントの発信は、その組織の対外的な責任がかかる分だけ一定の慎重さが期待できますが、匿名個人やパロディアカウント、なりすましなども混在します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_flea8708/n/neea3d06a2a7b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_flea8708/n/n9facd4c88203",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moppynote/n/nf5ba6d6b0150",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2_validate_ai/n/n63b49320e166",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_flea8708/n/neb3d5f197abc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/kaisetsu_q_20251126.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000729293.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1407-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/faq/faq03/faq03a01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sucra.repo.nii.ac.jp/record/2001355/files/KY-AA11950211-23-01.pdf",
+    "status": "http_406",
+    "method": "pdf"
+   },
+   {
+    "url": "https://warp.ndl.go.jp/web/20210703201216/www.data.jma.go.jp/suishin/oshirase/pdf/20190107.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://warp.da.ndl.go.jp/collections/https://www.nier.go.jp/13chousakekkahoukoku/data/primary-national/04_research_report/rpt-m-32.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/undertaking-revisions-and-real-time-data-analysis-using-the-oecd-main-economic-indicators-original-release-data-and-revisions-database_146528313656.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://svannorden.org/wp-content/uploads/2016/10/REStat-Croushore-and-van-Norden-Appendix.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bea.gov/news/glance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ideas.repec.org/a/bla/manch2/v58y1990i2p120-27.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.econstor.eu/bitstream/10419/280675/1/aei-ewp2023-14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://jmlr.org/papers/volume26/24-1962/24-1962.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 site:note.com",
+   "results": [
+    "https://note.com/wattson496/n/n853a10f28714",
+    "https://note.com/modern_flea8708/n/neea3d06a2a7b",
+    "https://note.com/modern_flea8708/n/n9facd4c88203",
+    "https://note.com/moppynote/n/nf5ba6d6b0150",
+    "https://note.com/2_validate_ai/n/n63b49320e166",
+    "https://note.com/modern_flea8708/n/neb3d5f197abc",
+    "https://note.com/loyal_ivy9071/n/n1b4a4b6fcd01",
+    "https://note.com/jack4manastalk/n/n2aedeb050627",
+    "https://note.com/ocaml/n/n393684ed2010",
+    "https://note.com/ocaml/n/n7d712123cbea"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 note",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/kaisetsu_q_20251126.pdf",
+    "https://www.soumu.go.jp/main_content/000729293.pdf",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1407-2.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
+    "https://sucra.repo.nii.ac.jp/record/2001355/files/KY-AA11950211-23-01.pdf",
+    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130207_006780.pdf",
+    "https://baike.baidu.com/ja/item/%E5%9C%B0%E5%9F%9F%E7%B7%8F%E7%94%9F%E7%94%A3%E6%8E%A8%E8%A8%88%E6%96%B9%E6%B3%95/6267872",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 やり方",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/kaisetsu_q_20251126.pdf",
+    "https://www.soumu.go.jp/main_content/000729293.pdf",
+    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.stat.go.jp/library/faq/faq03/faq03a01.html",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
+    "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1407-2.pdf",
+    "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 事例",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/kaisetsu_q_20251126.pdf",
+    "https://www.soumu.go.jp/main_content/000729293.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://sucra.repo.nii.ac.jp/record/2001355/files/KY-AA11950211-23-01.pdf",
+    "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/",
+    "https://warp.ndl.go.jp/web/20210703201216/www.data.jma.go.jp/suishin/oshirase/pdf/20190107.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://www.nier.go.jp/13chousakekkahoukoku/data/primary-national/04_research_report/rpt-m-32.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "testing unbiasedness and efficiency of first release estimates regional accounts revisions",
+   "results": [
+    "https://www.oecd.org/en/publications/undertaking-revisions-and-real-time-data-analysis-using-the-oecd-main-economic-indicators-original-release-data-and-revisions-database_146528313656.html",
+    "https://svannorden.org/wp-content/uploads/2016/10/REStat-Croushore-and-van-Norden-Appendix.pdf",
+    "https://www.bea.gov/news/glance",
+    "https://ideas.repec.org/a/bla/manch2/v58y1990i2p120-27.html",
+    "https://www.econstor.eu/bitstream/10419/280675/1/aei-ewp2023-14.pdf",
+    "http://jmlr.org/papers/volume26/24-1962/24-1962.pdf",
+    "https://www.nber.org/system/files/working_papers/w30638/w30638.pdf",
+    "https://rady.ucsd.edu/_files/faculty-research/timmermann/forecast-optimality.pdf",
+    "https://accounting.wharton.upenn.edu/wp-content/uploads/2015/04/IPV-11_9_17.pdf",
+    "https://packages.ropensci.org/articles/reviser/efficient-release.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
+   "results": [
+    "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/aerotanz/n/n3a34846d0f4c",
+    "https://note.com/seodoa_academy/n/n50ead55bace2",
+    "https://note.com/apotheke_umschau/n/n07c27ad9993d",
+    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "https://note.com/k2naka/n/n5b751e83befb",
+    "https://note.com/prenvi_works_uz/n/n1492f4b3242b"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
+   "results": [
+    "https://x.com/47maps/status/2109839038215549420",
+    "https://x.com/peter19740308/status/2060201984360374336",
+    "https://x.com/peter19740308/status/2058416053647217041",
+    "https://x.com/kondokenji/status/2060826738121445582",
+    "https://x.com/umoregi01/status/2057373371437129983",
+    "https://x.com/kamiya_shunichi/status/2056998843754156228",
+    "https://x.com/mainichijpnews/status/2026887526095663172"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
+   "results": [
+    "https://jp.linkedin.com/posts/rearrangeinc_速報2026年度診療報酬改定訪問看護の大転換同一建物評価の細分化と包括型新設-activity-7435438142087737344-SUED",
+    "https://jp.linkedin.com/posts/hiroaki-takahashi-44693841_2040年の必要病床数病床利用実態業務効率化等加味し急性期は少なめ包括期は-activity-7436607536197279744-pXQT",
+    "https://jp.linkedin.com/posts/medicoorde_115水-中医協速報レポート-来年度診療報酬改定における入院医療と透析-activity-7391797609247637504-F8KR",
+    "https://jp.linkedin.com/posts/rearrangeinc_速報2026年度診療報酬改定在宅医療充実体制への道重症患者2割要件と新加算-activity-7435233934982025216-wG-4",
+    "https://jp.linkedin.com/posts/sompoインスティチュート・プラス_今後子どもや高齢者も多極集住地域別将来推計人口から見る2050年の地域②-activity-7173452705519091712-TA7z",
+    "https://jp.linkedin.com/posts/yamadatakashi_出生数過去最少の70万人-推計より17年早い少子化-25年速報値-activity-7432715889449447424-rYPR",
+    "https://www.linkedin.com/jobs/view/full-time-telehealth-dietitian-–-women’s-health-salary-+-benefits-at-simplex-health-4409574318?pageNum=0"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
+   "results": [
+    "https://www.facebook.com/KenInohara/posts/超速報-診療報酬改定短冊発表live本日の中医協でいわゆる短冊と呼ばれる個別改定項目が発表されますこの短冊とは改定されるそれぞれの項目についてその内容と点のよう/25537358339252299/",
+    "https://www.facebook.com/WHITECROSSInc/posts/速報2026年度診療報酬改定の個別改定項目について発表がありました初診料5点再診料1点up光学印象1歯につき100点150点に3次元プリント有床義歯1顎につき4/1433066222165949/",
+    "https://www.facebook.com/story.php/?story_fbid=967017595663710&id=100070664365417",
+    "https://www.facebook.com/vexoninternational/photos/超速報令和8年度-診療報酬改定-看護師が知っておきたい診療報酬のポイントと医療dx看護師が知っておきたい診療報酬改定ポイントと-医療dxをオリジナル資料でわかり/864805226295652/",
+    "https://www.facebook.com/PTOTST.NET/photos/令和8年度-診療報酬改定本日厚生労働省から示された個別改定項目点数入りをわかりやすく整理したナビゲーションページを公開しました必要なpdfをすぐ確認したいどこか/950818547283615/",
+    "https://www.facebook.com/jart.or.jp/posts/2026年度診療報酬改定速報資料を公開しました診療報酬改定の中から診療放射線技師に関係する改定ポイントを整理しています画像診断ctmripetなど放射線治療画像/978703738026340/",
+    "https://www.facebook.com/PTOTST.NET/posts/厚生労働省は令和8年度診療報酬改定に係る施設基準届出チェックリストを発出しましたチェックリストでは病院診療所訪問看護などについて新設または要件変更となった施設基/1011394404559362/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 note 社長",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/kaisetsu_q_20251126.pdf",
+    "https://www.soumu.go.jp/main_content/000729293.pdf",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://sucra.repo.nii.ac.jp/record/2001355/files/KY-AA11950211-23-01.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
+    "https://baike.baidu.com/ja/item/%E5%9C%B0%E5%9F%9F%E7%B7%8F%E7%94%9F%E7%94%A3%E6%8E%A8%E8%A8%88%E6%96%B9%E6%B3%95/6267872",
+    "https://www.nikkei.com/article/DGXZQOUA2320A0T21C25A0000000/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 X 投稿",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/kaisetsu_q_20251126.pdf",
+    "https://www.soumu.go.jp/main_content/000729293.pdf",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://www.nikkei.com/article/DGXKZO39244880R21C18A2KE8000/",
+    "https://baike.baidu.com/ja/item/%E5%9C%B0%E5%9F%9F%E7%B7%8F%E7%94%9F%E7%94%A3%E6%8E%A8%E8%A8%88%E6%96%B9%E6%B3%95/6267872",
+    "https://www.reuters.com/article/opinion/198600-idUSKCN11L0UL/",
+    "https://www.jiyujyutaku-navi.com/en-us/column/tag/report"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "testing unbiasedness and efficiency of first release estimates regional accounts revisions site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/nzekwe-john-kelechi-aca-mba-in-view-6b7210139_behind-every-estimate-lies-judgment-why-activity-7389283042248257536-PTFB",
+    "https://www.linkedin.com/posts/anup-srivastava-81ab15_cpa-cfa-conservatism-activity-7457119982968012800-EbpM",
+    "https://www.linkedin.com/posts/bruceratner_what-experienced-data-scientists-still-activity-7497299580359880704-nL-E",
+    "https://www.linkedin.com/in/staskolenikov",
+    "https://www.linkedin.com/in/meredithamoon",
+    "https://www.linkedin.com/in/shaochenhuang",
+    "https://www.linkedin.com/in/thomasragone1",
+    "https://www.linkedin.com/in/jwbono",
+    "https://www.linkedin.com/in/micheleperuzzi",
+    "https://www.linkedin.com/in/jess-newman-386bab25"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "近代歴史学では、バルトホルト・ゲオルク・ニーブールやレオポルト・フォン・ランケに始まる史料批判の伝統により、史料を様々に吟味して歴史上の事実などを推定する技術を高度な体系へと作り上げてきました",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "奥付などにそれらが記載されている近現代の史料では分かりやすいですが、記載がない場合や、あったとしてもその信頼性に問題がある場合は、他の証拠からいつ・どこで・誰が作った史料なのかを推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "史料の形態や考古学的な特徴を分析したり、関連する複数の史料を比較して内容の類似や矛盾を調べたりするなど、複数の観点からの分析を組み合わせて、総合的に判断されることになります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方で、複数の史料の指し示す内容に矛盾がある場合、可信性を慎重に吟味して史実を推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "歴史的聯関の構成と歴史的意義の把握は、単なる事実についての推定から、相互の因果関係などのより高次の結論を導き出すものです",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対照的に、研究最前線の成果や新しい理論を紹介することを主眼とした書籍では、まだ通説とは言えない仮説や少数説が大きな比重を占めることもあり、その場合には、その立場が専門家コミュニティの中でどの程度共有されているのかを読者自身が補って考える余地が大きくなります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "前者では本原性や出典の検討がある程度可能ですが、その場合でも引用されている先行研究を追っていくには相応の時間と労力が必要であり、「読みやすさ」と「検証のしやすさ」がトレードオフの関係に置かれがちな媒体です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そのため、個々の記述がどの制度文書や研究に依拠しているのかを教材単体からさかのぼるのは難しく、本原性の高い情報源との対応関係を検討しようとすれば、別途、法令集や専門書、実務家向けの解説書などとの照合が必要になります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "査読によって一定の水準は担保されますが、査読の厳格さは雑誌や分野によって差があり、論文の内容を細部まで検証したり追試したりするには、高度な専門知識と時間・資源が必要になります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "論文は、個々の研究結果や新しい仮説を提示することを目的とした媒体であり、その主張がそのまま通説を表しているわけではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Wikipediaでは編集方針として「検証可能性」「中立的な観点」「独自研究の不掲載」などが掲げられ、一次資料や査読付き論文、専門書、信頼できるニュースソースなどに依拠することが求められています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "研究者のブログでは、学術誌に掲載される前の予備的な結果や学会発表の内容が紹介されることがあり、学界の動向を早く知る手がかりになりますが、その時点では通説とは言えない仮説も含まれます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "制作者の専門性や通説との関係を判断する手がかりは、動画の説明欄やプロフィール、外部サイトへのリンクなどに限られることが多く、所属や業績がどの程度裏付けのあるものかを視聴者側から検証するのは容易ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "これには、「軽信によって起こったもの、不注意から来たもの、独断によって誤られたもの、批判的誤りから生じたもの等」のような種類があることが言及されています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "作者がその主張を強く印象づけるために行う工夫が、現代の読者にはダイレクトに刺さりやすい構図になっているため、より注意して客観的な判断を行う必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門家コミュニティにおける共通認識としての\"通説\"は、事実のような単一性をもったものではないことにも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その一方で、質問文の設計や非回答の扱いなどによって系統的な偏りが生じる余地は残り、本文で取り上げられる数字と付録に置かれる数字のあいだに編集上のバイアスが入り込むこともあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事実報道と社説・コラム・ワイドショー的なコメントが連続して並ぶことで、事実と意見の境界が曖昧になりやすい点にも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "オンライン版は公開後に更新・修正されることがあり、また紙面・放送・初期ウェブ版・改訂版で細部が異なることもあるので、外的批判を行う上では注意が必要な場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "辞書・事典同士が互いを参照しあった結果として、実質的には限られた原資料に依拠しているケースもあり、版や更新時期によって内容が細かく変化する点にも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "誤りに気づけば素早く訂正できる反面、過去の版が十分に記録されないまま書き換えられることもあり、更新状況や来歴を追うのは容易ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "会話内容がモデル改善や機能向上のために利用される場合でも、それがどのような形で学習に反映されるかは利用者には分かりにくく、その過程でどの方向にバイアスが強まるかも外側からは評価しにくい構造があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "完全にモデル内部からの生成によるものよりはいくぶん評価コスト上の利点があるとはいえ、やはり注意して扱うべき情報源と言えるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "講義・講演という形式には、話の構成やレトリックによるバイアスも入り込みます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "この中では、学問の探究が対象に応じてどのような方法論をとるか、ということを論じていました",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは人類の探究活動の最極致にある学術研究においてどのようなやり方が使われるか、という部分を扱ったものですが、社会の大多数を占める人々は専門家ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門家に関する研究の中では、科学技術社会論（Science and technology studies, または science, technology, and society, STS）の中で、ハリー・コリンズとロバート・エヴァンズによって論じられた専門知の類型論が注目に値します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "コリンズ＆エヴァンズ（2007、邦訳 2020）『専門知を再考する』では、\"専門知の周期表\"として専門知の類型が論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは「ビアマット知識」「通俗的理解」「一次資料知識」「対話型専門知」「貢献型専門知」の5つの類型に分けられます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「貢献型専門知」は、一般に\"専門家\"という言葉から連想されるような、特定の分野において実践的にことを為すことができるような能力をもたらす専門知のことです",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方「対話型専門知」は、その分野において実践的な貢献は行わないが、分野のコミュニティに関わり、その特定分野に固有の暗黙知を身に付けた状態で、専門的なトピックに関して流暢なコミュニケーションを行うことを可能にするような専門知を指します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対話型専門知はコリンズとエヴァンズが新たに着想した概念で、『専門知を再考する』の中ではかなり詳しく論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対話型専門知および貢献型専門知には特定分野のコミュニティにおける社会的な暗黙知が必要となります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、特にその分野の実践を伴う貢献型専門知においては、物真似単形性のような技能の身体化が見られるようになります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "コリンズとエヴァンズの議論では、貢献型専門知を持った人々は、少なくとも潜在的には対話型専門知をも身に付けている、と論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "学術コミュニティの場合は学会などでのやりとりとして言語によるコミュニケーションが行われるので、多くの場合対話型専門知が顕在化していることが多いと思います",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお、芸術評論家は貢献型専門知を持たず対話型専門知のみを持っているような例になっています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは、他の言葉で言えば批判的思考（クリティカル・シンキング）のようなものを行えるような資質のことを意味していて、特に学術分野における貢献型専門知の実践に深く関与しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらの「対話能力」「熟慮能力」は特定の分野に限った能力ではないためこの行とは別に立てられていて、対話型専門知や貢献型専門知を顕在化させたり習熟させるのに役立つような資質として位置づけられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "ビアマット知識のような断片的な情報ではなく、推論によって具体的な事例に適用したりできるような、ある程度まとまった観念を指しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "前者の場合は、非常に複雑ではあるがそれ単体で習得可能で、例えば村田製作所の\"ムラタセイサク君\"のような形で機械にも模倣可能です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方で、例えば芸術家のような専門家の場合、素晴らしい芸術作品を作ることはできるが、それについて流暢に言語化することは難しい、という場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このような場合も、例えば芸術評論家が持つような言語化能力を身に付けることができれば、その芸術作品について対話をすることが可能でしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「専門的目利き」は、例えばワインのソムリエがワインの良し悪しについて判断できるような鑑定能力のことを指しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここでは、例えば自然科学では対応説、人文科学では整合説、みたいな形で、ドメインごとに別々の説による真理が成り立つ、ということが考えられます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "非専門家にとっては、例えば対応説的な真理を直接得ることはできず、専門家によって見出されたもの、という媒介を通してしか真理を見ることができません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "真純性に問題があるケースとしては、一つは史料が偽作である場合、またもう一つとして錯誤もしくは誤認に基づいている場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このような錯誤や虚偽の吟味は、外的批判の結果とも組み合わせて検討されます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、そのような信頼性の高い複製プロセスを経ていないものを対象としている場合や、版の違いによる改訂の差などが重要になってくる場合などでは、真純性の吟味が重要なケースは残ります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "通説との関係で見ると、教科書は「十分確実とみなされた内容」を優先して採用するため、専門家コミュニティでの議論の最前線や、通説が更新されつつある部分が反映されるまでには時間的なラグが生じます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "制作主体は試験を実施する公的機関や業界団体、民間出版社など多様であり、執筆者もその分野の専門家から予備校講師・実務家まで幅があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方で、専門書が大学の教科書としてどの程度採用されているか、専門誌の書評でどのように評価されているかといった外在的な情報は、その専門書がコミュニティ内でどの位置づけにあるのかを推測する手がかりを与えます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門分野の基礎理論や統計手法、実験技法などについて十分な前提知識がない場合、論文の主張の強さや位置づけを適切に評価することは難しくなります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "政府機関や独立行政法人、地方公共団体などが発行する白書・統計書・調査報告・審議会答申は、公的な立場からの現状認識や政策判断を示す文献です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法制度や行政運営に関する情報では、これらが「公式見解」や「公的統計」として事実上の基準になることも多く、行政がどのような問題設定と前提に立っているかを知る手がかりになります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計や報告書は年次で作成され、速報値・確報値の区別や後年の改定が行われます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ名称の統計でも、調査方法や分類が途中で変わることがあり、時系列比較を行う際には、版・掲載年・調査方法を確認する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計や調査では、指標の選定にあたって専門家の助言が得られることが多く、学問的知見や広く共有された枠組みに沿った設計が行われますが、どの指標やグラフを強調するかといった編集方針には、政策課題や組織の関心が反映されます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計書は調査対象・抽出方法・集計手順などを明示するのが通例であり、本原性の高い情報源です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計表や図表が多数掲載されていても、それが学界のどの議論と対応しているか、どの程度通説に近い位置づけなのかは、本文だけでは分かりにくく、必要に応じて専門書や学術論文と組み合わせて読むことが求められます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一次資料や学術論文、公的統計へのリンクを丁寧に示すサイトでは、記述の根拠をたどりやすい一方で、出典をほとんど示さないまま断定的に語るサイトや、二次情報の重ね書きで元の出典が不明瞭になっているサイトもあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "非専門家にとって、個人サイトは多くの場合無料で利用でき、検索エンジンやSNS経由で到達しやすいという意味でアクセスコストは低いものの、運営者の専門性や立場、参照されている情報源の質を自分で見極める必要があり、複数サイトや公的資料・専門書と照らし合わせる評価コストは小さくありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "研究者や公的機関・報道機関の公式アカウントの発信は、その組織の対外的な責任がかかる分だけ一定の慎重さが期待できますが、匿名個人やパロディアカウント、なりすましなども混在します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-08T00:54:59.780076+00:00"
+}

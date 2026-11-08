@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-07T18:45:22.937018+00:00",
+ "researched_at": "2026-11-08T00:57:47.523713+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -338,44 +338,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "真正性：本物であり、検証および信頼できる特性",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "DNSSECによる認証では、レコードの検証パスが作成されます",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、プロトコルの影響は、その設計からのみ推定できるわけではないことに注意してください",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらの文書によると、ICTシステムに関連する人権のいくつかの例は、人間の尊厳（第1条UDHR）、非差別（第2条）、生命、自由および安全に対する権利（第3条）、意見の自由および表現（第19条）、集会および結社の自由（第20条）、平等保護の権利、法的救済、公正な裁判、デュープロセス、無罪と推定（第7-11条）、適切な社会的および国際的秩序（第19条） 28）、広報への参加（第21条）、文化生活への参加、知的財産の保護（第27条）、およびプライバシー（第12条）",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "あなたのプロトコルはペイロードデータの正確性を維持、保証、検証しますか？",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例：データの整合性検証は、脆弱性や中間者攻撃などの攻撃を防ぐために重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "IRTFは、インターネット関連の研究開発活動の結果を公開しています",
@@ -556,6 +518,44 @@
     "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "真正性：本物であり、検証および信頼できる特性",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "DNSSECによる認証では、レコードの検証パスが作成されます",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、プロトコルの影響は、その設計からのみ推定できるわけではないことに注意してください",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらの文書によると、ICTシステムに関連する人権のいくつかの例は、人間の尊厳（第1条UDHR）、非差別（第2条）、生命、自由および安全に対する権利（第3条）、意見の自由および表現（第19条）、集会および結社の自由（第20条）、平等保護の権利、法的救済、公正な裁判、デュープロセス、無罪と推定（第7-11条）、適切な社会的および国際的秩序（第19条） 28）、広報への参加（第21条）、文化生活への参加、知的財産の保護（第27条）、およびプライバシー（第12条）",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "あなたのプロトコルはペイロードデータの正確性を維持、保証、検証しますか？",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例：データの整合性検証は、脆弱性や中間者攻撃などの攻撃を防ぐために重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ],
   "手順・やり方": [
@@ -745,7 +745,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJbOibnSK-KN0dr51fyrvpfdkEF56eqKQSOF7FwmDz7t29H2PGW",
+    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vK_EoOs_-493IKvIuT4ZpLH7EEaf5UnFw6vHFaA3IyuykKh4pSZ",
     "status": "ok",
     "method": "http"
    },
@@ -775,7 +775,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLp5xtVZIHfDiuUaHCN58FJSZ9M0u0ZFbX7lTXR7LkKkB4C1wEa",
+    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJNuttkft3vk4431KinCzF38U04sBPChzN3PWMUe1_x8BE1X2rp",
     "status": "ok",
     "method": "http"
    },
@@ -790,17 +790,52 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vK9HEpwRBpLuc4q_hbncnMrfPozHXZtoQkpocf3C8SpIuACsP5m",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLY_5TX7C7rDWN5CLVg9erexkW_q80mcHwGuta0lxBbZNDUhJaV",
+    "url": "https://note.com/kensho_note/n/n80379e531cfb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vKB927BRCIfYGFdpTzKDhOu4U_LGmZDHOHhkkvJCsTKTAB2wOXw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiraberu-note.com/osint-basic-tools-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.miyazaki.tv/osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLOiPQLd2iiqWmly0ommA1lXV8YPzTbDZfK6xgmi4rO0FVCKJc3",
     "status": "ok",
     "method": "http"
    },
@@ -820,22 +855,12 @@
     "method": "http"
    },
    {
-    "url": "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shiraberu-note.com/osint-basic-tools-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "url": "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
     "status": "ok",
     "method": "http"
    },
@@ -850,13 +875,13 @@
     "method": "http"
    },
    {
-    "url": "https://unhumanrights.medium.com/advancing-human-rights-investigations-now-and-for-the-future-67ae9be1129a",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://freedomlab.io/tools-for-hrds/berkeley-protocol/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unhumanrights.medium.com/advancing-human-rights-investigations-now-and-for-the-future-67ae9be1129a",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -865,19 +890,19 @@
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） site:note.com",
    "results": [
-    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJbOibnSK-KN0dr51fyrvpfdkEF56eqKQSOF7FwmDz7t29H2PGW",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vK_EoOs_-493IKvIuT4ZpLH7EEaf5UnFw6vHFaA3IyuykKh4pSZ",
     "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
     "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
     "https://academy.claude.com/ja/use-cases/legal-research-memo",
     "https://www.reuters.com/jp/world/us/JALRSWPKLVIERH7G5SU7FGKNAQ-2026-02-26/",
     "https://ir.library.osaka-u.ac.jp/repo/ouka/all/88273/hh072_1_249.pdf",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
     "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
     "https://support.google.com/websearch/answer/10622781?hl=ja",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
     "https://note.com/kensho_note/n/n80379e531cfb"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -885,7 +910,7 @@
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） note",
    "results": [
-    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLp5xtVZIHfDiuUaHCN58FJSZ9M0u0ZFbX7lTXR7LkKkB4C1wEa",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJNuttkft3vk4431KinCzF38U04sBPChzN3PWMUe1_x8BE1X2rp",
     "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
     "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
     "https://academy.claude.com/ja/use-cases/legal-research-memo",
@@ -893,47 +918,51 @@
     "https://ir.library.osaka-u.ac.jp/repo/ouka/all/88273/hh072_1_249.pdf",
     "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
     "https://support.google.com/websearch/answer/10622781?hl=ja",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html"
+    "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "https://ja.m.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 19
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） やり方",
    "results": [
-    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vK9HEpwRBpLuc4q_hbncnMrfPozHXZtoQkpocf3C8SpIuACsP5m",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vKB927BRCIfYGFdpTzKDhOu4U_LGmZDHOHhkkvJCsTKTAB2wOXw",
     "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
     "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
     "https://academy.claude.com/ja/use-cases/legal-research-memo",
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
     "https://www.reuters.com/jp/world/us/JALRSWPKLVIERH7G5SU7FGKNAQ-2026-02-26/",
     "https://ir.library.osaka-u.ac.jp/repo/ouka/all/88273/hh072_1_249.pdf",
     "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
-    "https://support.google.com/websearch/answer/10622781?hl=ja",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html"
+    "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "https://ja.m.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 19
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） 事例",
    "results": [
-    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLY_5TX7C7rDWN5CLVg9erexkW_q80mcHwGuta0lxBbZNDUhJaV",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLOiPQLd2iiqWmly0ommA1lXV8YPzTbDZfK6xgmi4rO0FVCKJc3",
     "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
     "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
     "https://academy.claude.com/ja/use-cases/legal-research-memo",
     "https://www.reuters.com/jp/world/us/JALRSWPKLVIERH7G5SU7FGKNAQ-2026-02-26/",
     "https://ir.library.osaka-u.ac.jp/repo/ouka/all/88273/hh072_1_249.pdf",
-    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
     "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
     "https://support.google.com/websearch/answer/10622781?hl=ja",
     "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -942,31 +971,29 @@
    "query": "Berkeley Protocol digital open source investigations search bias verification steps",
    "results": [
     "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
     "https://digitallibrary.un.org/record/3973652",
     "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
-    "https://unhumanrights.medium.com/advancing-human-rights-investigations-now-and-for-the-future-67ae9be1129a",
     "https://freedomlab.io/tools-for-hrds/berkeley-protocol/",
+    "https://unhumanrights.medium.com/advancing-human-rights-investigations-now-and-for-the-future-67ae9be1129a",
+    "https://www.academia.edu/81631939/The_Berkeley_Protocol_on_Digital_Open_Source_Investigations_A_Practical_Guide_on_the_Effective_Use_of_Digital_Open_Source_Information_in_International_Human_Rights_Humanitarian_Law_and_Criminal_Investigations",
     "https://repository.essex.ac.uk/32642/1/Outlining%20a%20Human-Rights%20Based%20Approach%20to%20Digital%20Open%20Source%20Investigations.pdf",
-    "https://www.ibanet.org/session-details/se_101024",
-    "https://www.linkedin.com/pulse/ethical-effective-digital-human-rights-inquiries-galal-abukhashaba-hnyuc",
-    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source"
+    "https://www.linkedin.com/pulse/ethical-effective-digital-human-rights-inquiries-galal-abukhashaba-hnyuc"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 9
   },
   {
    "query": "site:note.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
    "results": [
     "https://note.com/ichi_twnovel/n/nc7a804e0096d",
     "https://note.com/ichi_twnovel/n/nb85aec486947",
-    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
     "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
     "https://note.com/yoshikouki/n/ne085a5301c9e",
+    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
     "https://note.com/harryfaoki/n/n407bff1cc697",
     "https://note.com/_takumi_inoue_/n/n4d400f4f18a0",
     "https://note.com/kanakagishippo/n/nc3f8277f2507",
@@ -982,16 +1009,16 @@
    "query": "site:x.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
    "results": [
     "https://x.com/ucchy",
-    "https://x.com/kzkhykw/status/2081564955183374688",
-    "https://x.com/i/trending/2081692852749574391",
-    "https://x.com/i/trending/2115189296395153712",
-    "https://help.x.com/ja/safety-and-security/remove-x-profile-from-google-search",
-    "https://help.x.com/ja/rules-and-policies/x-search-policies",
-    "https://x.com/polymarketjapan/status/2081967801707950334",
-    "https://x.com/connect24h/status/2081642425332969877"
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://note.com/chemical_cbs/n/n717792e7b33b",
+    "https://note.com/re_birth_ai/n/ne9939f58ff51",
+    "https://note.com/akira_sakai/n/n76af874c644c",
+    "https://note.com/tkashiwazaki/n/ndf564afbafba",
+    "https://note.com/dialogs_develop/n/ndae2681a918d"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -999,13 +1026,29 @@
   {
    "query": "site:linkedin.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
    "results": [
-    "https://www.linkedin.com/help/linkedin/answer/a518980?lang=ja",
-    "https://www.linkedin.com/help/linkedin/answer/a548106?lang=ja",
-    "https://jp.linkedin.com/pulse/ググるって何が起きてるの検索エンジンの裏側を覗いてみた-剛-柏崎-qdaac",
-    "https://jp.linkedin.com/pulse/検索エンジンの基本構造googleyahoobingの違いとseoの仕組み-剛-柏崎-3nr4c",
-    "https://jp.linkedin.com/learning/generative-ai-the-evolution-of-thoughtful-online-search-22868413/4519465",
-    "https://jp.linkedin.com/pulse/意外と知らない検索エンジンの仕組みと世界の最新事情をわかりやすく解説-剛-柏崎-fw8sc",
-    "https://jp.linkedin.com/pulse/understanding-search-engines-serp-guide-boosting-your-megha-jain-uzakc?tl=ja"
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://note.com/chemical_cbs/n/n717792e7b33b",
+    "https://note.com/re_birth_ai/n/ne9939f58ff51",
+    "https://note.com/akira_sakai/n/n76af874c644c",
+    "https://note.com/tkashiwazaki/n/ndf564afbafba",
+    "https://note.com/dialogs_develop/n/ndae2681a918d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
+   "results": [
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://note.com/chemical_cbs/n/n717792e7b33b",
+    "https://note.com/re_birth_ai/n/ne9939f58ff51",
+    "https://note.com/akira_sakai/n/n76af874c644c",
+    "https://note.com/tkashiwazaki/n/ndf564afbafba",
+    "https://note.com/dialogs_develop/n/ndae2681a918d"
    ],
    "engines": [
     "ddgs:google"
@@ -1013,53 +1056,37 @@
    "n_hits": 7
   },
   {
-   "query": "site:facebook.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
-   "results": [
-    "https://www.facebook.com/manamina.valuesccg/posts/検索キーワード分析検索エンジンと検索エンジン以外の媒体における検索で検索内容や求める情報は異なるのでしょうか-本稿では車検索者を題材に検索エンジンとの比較や閲覧/1163686354578267/",
-    "https://www.facebook.com/cyberagent.advertising/posts/seoラボ主催セミナー開催検索エンジンと検索者が好むウェブサイトとコンテンツ詳細お申し込みはこちらhttpswwwcyberagent-adagencycome/938078633069017/",
-    "https://www.facebook.com/pecopla.net/posts/seo対策と検索するとびっくりするくらい多くの情報がヒットします-あまりに情報が多すぎて何が正解なのか見極められないという方も多いのではないでしょうか-そこで本/3852761604826956/",
-    "https://www.facebook.com/help/instagram/147542625391305/",
-    "https://www.facebook.com/tsuhannews/posts/909372231201690/",
-    "https://www.facebook.com/ccs.inc/posts/2347358142012276/",
-    "https://www.facebook.com/CyberPatent/posts/動画公開aiを活用した検索結果並べ替え-cyberpatent-deskでは探している内容に文献を検索結果一覧の上位へ表示させることで作業効率を大幅にアップでき/1652092031614664/"
-   ],
-   "engines": [
-    "ddgs:yahoo"
-   ],
-   "n_hits": 7
-  },
-  {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） note 社長",
    "results": [
-    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJTZcOIxpNfJCH2yBqUlif4JtBXAd_hmrzdXtwHKUUepICLyAko",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vI3H6n0MxzQtXlORCqNqBE6Qe1-450TOOno7Tn9zetESBkzSx6N",
     "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
     "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
-    "https://academy.claude.com/ja/use-cases/legal-research-memo",
-    "https://support.google.com/websearch/answer/10622781?hl=ja",
     "https://www.reuters.com/jp/world/us/JALRSWPKLVIERH7G5SU7FGKNAQ-2026-02-26/",
-    "https://ir.library.osaka-u.ac.jp/repo/ouka/all/88273/hh072_1_249.pdf",
+    "https://academy.claude.com/ja/use-cases/legal-research-memo",
     "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "https://ir.library.osaka-u.ac.jp/repo/ouka/all/88273/hh072_1_249.pdf",
+    "https://ja.m.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） X 投稿",
    "results": [
-    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLUoIZfl67w5bcOmxT3ScLNuGthdPcn611IbRIylrzVfQ5lGRan",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJFpgskFSYeeK4RNSfAhkgglpBWNTWypDM7x7WkmPa7xPvmLo9Y",
     "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
     "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
     "https://academy.claude.com/ja/use-cases/legal-research-memo",
-    "https://support.google.com/websearch/answer/10622781?hl=ja",
     "https://www.reuters.com/jp/world/us/JALRSWPKLVIERH7G5SU7FGKNAQ-2026-02-26/",
     "https://ir.library.osaka-u.ac.jp/repo/ouka/all/88273/hh072_1_249.pdf",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
     "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
     "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ],
    "engines": [
@@ -1071,26 +1098,25 @@
   {
    "query": "Berkeley Protocol digital open source investigations search bias verification steps site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/rosiefoulds",
     "https://www.linkedin.com/posts/tomasdodds_the-third-paper-in-our-digital-journalism-activity-7517917708181520384-NOsB",
-    "https://www.linkedin.com/in/sriraksha-v-srivatsav",
+    "https://www.linkedin.com/in/rosiefoulds",
     "https://www.linkedin.com/in/melindazou",
-    "https://www.linkedin.com/in/maneh-davityan",
-    "https://www.linkedin.com/in/vyoma-raman",
+    "https://www.linkedin.com/in/sriraksha-v-srivatsav",
     "https://www.linkedin.com/posts/irina-tsukerman-4b04595_i-was-honored-to-take-part-in-this-important-activity-7481433936540119040-5ghQ",
+    "https://www.linkedin.com/in/vyoma-raman",
+    "https://www.linkedin.com/in/maneh-davityan",
     "https://www.linkedin.com/in/jonathanstray",
     "https://www.linkedin.com/in/rudransh-singh-716076238",
     "https://www.linkedin.com/in/max-abubucker"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-06T17:59:58.829669+00:00"
 }

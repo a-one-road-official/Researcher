@@ -1,0 +1,504 @@
+{
+ "name": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92）",
+ "en": "Bank of Japan Corporate Goods Price Index metal products annual average time series CSV",
+ "aliases": [
+  "企業物価指数 金属製品 暦年 指数 2020年基準 時系列",
+  "BOJ CGPI metal products annual index level"
+ ],
+ "context": "物価・実質",
+ "kind": "market",
+ "researched_at": "2026-11-08T00:52:28.559358+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat-search.boj.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.shizuokakeikyo.or.jp/article.php?id=1334&mode=modal",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/info/dload.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yukionoguchi/n/n518645c7ed0d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.kumagaku.ac.jp/teacher/~sasayama/macroecon/mailmaga6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/statistics/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kogures.com/hitoshi/webtext/ref-data/nichigin-kiki-kakaku-suii.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/ssi/mtshtml/csv/pr01_m_1.csv",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t132195d0000000158",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/cpi/1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dojima.info/series/jp.price.cgpi.prewar_base.all.m",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010501006000010001/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.macromicro.me/charts/687/jp-corporate-goods-price-index",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2608.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/producer-prices",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 人手不足 受注 断る",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
+    "https://www.shizuokakeikyo.or.jp/article.php?id=1334&mode=modal",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.stat-search.boj.or.jp/info/dload.html",
+    "https://finquest.nikkeidb.or.jp/ver2/ip_kwansei/",
+    "https://release.nikkei.co.jp/attach_file/0517246_02.pdf",
+    "https://researchmap.jp/read0056948/misc/36068015"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 受注残 人手不足",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://note.com/yukionoguchi/n/n518645c7ed0d",
+    "https://www.stat-search.boj.or.jp/info/dload.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf",
+    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.shizuokakeikyo.or.jp/article.php?id=1334&mode=modal"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat-search.boj.or.jp/info/dload.html",
+    "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www2.kumagaku.ac.jp/teacher/~sasayama/macroecon/mailmaga6.html",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.shizuokakeikyo.or.jp/article.php?id=1334&mode=modal"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92）",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://note.com/yukionoguchi/n/n518645c7ed0d",
+    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
+    "https://www.kogures.com/hitoshi/webtext/ref-data/nichigin-kiki-kakaku-suii.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.stat-search.boj.or.jp/ssi/mtshtml/csv/pr01_m_1.csv"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 推移",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.kogures.com/hitoshi/webtext/ref-data/nichigin-kiki-kakaku-suii.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf",
+    "https://www.stat.go.jp/data/cpi/1.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 統計 PDF",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.stat-search.boj.or.jp/info/dload.html",
+    "https://dojima.info/series/jp.price.cgpi.prewar_base.all.m"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.kogures.com/hitoshi/webtext/ref-data/nichigin-kiki-kakaku-suii.html",
+    "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.soumu.go.jp/main_content/001083704.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 従業者規模別",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.kogures.com/hitoshi/webtext/ref-data/nichigin-kiki-kakaku-suii.html",
+    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 1人当たり 万円",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.shizuokakeikyo.or.jp/article.php?id=1334&mode=modal",
+    "https://www.stat-search.boj.or.jp/info/dload.html",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010001/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） 2015 2025",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.stat.go.jp/data/cpi/1.html",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.shizuokakeikyo.or.jp/article.php?id=1334&mode=modal"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Bank of Japan Corporate Goods Price Index metal products annual average time series CSV Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "https://en.macromicro.me/charts/687/jp-corporate-goods-price-index",
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2608.pdf",
+    "https://data.worldbank.org/indicator",
+    "https://tradingeconomics.com/japan/producer-prices",
+    "https://data.imf.org/",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://www.boj.or.jp/en/statistics/pi/index.htm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com 日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92）",
+   "results": [
+    "https://note.com/jack4manastalk/n/n2eeee2240e33",
+    "https://note.com/open_poppy/n/n47060520b2ae",
+    "https://note.com/andyfp_2025/n/n9da75cf6ead8",
+    "https://note.com/great_chimp5478/n/n48732477d9df",
+    "https://note.com/yukionoguchi/n/n518645c7ed0d",
+    "https://note.com/ogawa_tech/n/nf1b46e1253a6",
+    "https://note.com/great_chimp5478/n/nbf174bb70d3e",
+    "https://note.com/great_chimp5478/n/n6f109b868684"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92）",
+   "results": [
+    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
+    "https://x.com/NewsDailyJPN/status/2097812945287946732",
+    "https://x.com/Bank_of_Japan_j/status/2024001420085846085",
+    "https://x.com/NewsDailyJPN/status/2098903275080941791",
+    "https://x.com/Bank_of_Japan_j/status/2110340335981183040",
+    "https://x.com/indbgraphreport/status/2067174140298277153",
+    "https://x.com/indbgraphreport/status/2042507414927544543"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92）",
+   "results": [
+    "https://jp.linkedin.com/posts/kotarofuruno_2025年の物価非鉄は88鉄鋼は54-日本銀行の企業物価指数-activity-7520263179910721536-corX",
+    "https://jp.linkedin.com/learning/excel-2016-charts/691996",
+    "https://jp.linkedin.com/posts/noriko-hashimoto-0b9411b1_30年間の平均給与の推移を一覧表で見る年収400万円台から上がらない日本limo-activity-7023073811315003392-dhNx",
+    "https://jp.linkedin.com/pulse/加工金属製品業界の市場規模と成長予測2025年から2032年までの年平均成長率96-quarto-research-vsg9c",
+    "https://www.linkedin.com/posts/shirakawa-kiyomi-433a2276_だいたい400万円が400になる瞬間-公的統計の値に意味と根拠を随伴-activity-7502832420589666304-u2w6",
+    "https://jp.linkedin.com/posts/浩一-黒瀬-672b701b9_企業物価指数6月は4121年4月以来の低い伸び電力が下押し-activity-7084756636992475136-_Cjg",
+    "https://jp.linkedin.com/posts/takeo-masuyama_jx金属はいかにしてデータ解析の文化を醸成できたのか-activity-7429351657181949952-RGnf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92）",
+   "results": [
+    "https://www.facebook.com/BankofJapan/",
+    "https://www.facebook.com/masao.ishida.50/posts/日本銀行時系列統計データ金利為替物価指数など過去のデータが見れて面白い-/28936955459280965/",
+    "https://www.facebook.com/BankofJapan/photos/統計企業物価指数12月を公表しましたhttpswwwbojorjpstatisticspicgpi_releaseindexhtm/1331556675440824/",
+    "https://www.facebook.com/BankofJapan/posts/統計企業物価指数7月を公表しましたhttpswwwbojorjpstatisticspicgpi_releaseindexhtm/1209116971018129/",
+    "https://www.facebook.com/BankofJapan/posts/統計企業物価指数1月を公表しましたhttpswwwbojorjpstatisticspicgpi_releaseindexhtm/1354443959818762/",
+    "https://www.facebook.com/nliresearch/posts/企業物価指数-2025年4月-国内企業物価-は5ヵ月連続で前年比4台日本銀行が5月14日に発表した企業物価指数によると2025年4月の国内企業物価は前年比403/1192682042653204/",
+    "https://www.facebook.com/nliresearch/posts/企業物価指数-2026年1月金属価格の上振れリスクも国内企業物価-の前年比上昇率は鈍化へ2026年1月の国内企業物価は前年比2325年12月同24となり上昇率は/1409887384266001/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） note 社長",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://note.com/yukionoguchi/n/n518645c7ed0d",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf",
+    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92） X 投稿",
+   "results": [
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://www.stat-search.boj.or.jp/info/dload.html",
+    "https://note.com/yukionoguchi/n/n518645c7ed0d",
+    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&query=naphtha&layout=dataset",
+    "http://ethic.econ.osaka-u.ac.jp/seminar/26/Kageyama0313Doc.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Bank of Japan Corporate Goods Price Index metal products annual average time series CSV site:linkedin.com",
+   "results": [
+    "https://nl.linkedin.com/in/christianmartinezthefinancialfox",
+    "https://www.linkedin.com/in/ericsims2",
+    "https://ca.linkedin.com/in/qazifabiahoq",
+    "https://ca.linkedin.com/in/alisohani",
+    "https://in.linkedin.com/in/sanidhya-shukla-a1295716b",
+    "https://in.linkedin.com/in/rounak-raman",
+    "https://in.linkedin.com/in/amarharolikar",
+    "https://ca.linkedin.com/in/asma-ahmed67",
+    "https://uk.linkedin.com/in/chris-woods-840a17111",
+    "https://www.linkedin.com/directory/posts/c"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ30頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ30頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ30頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ30頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ30頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ30頁・検索18回）",
+  "10年推移": "記載なし（読んだ30頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ30頁・検索18回）"
+ }
+}
