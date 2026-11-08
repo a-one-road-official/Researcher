@@ -8,488 +8,8 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-08T01:10:07.190642+00:00",
+ "researched_at": "2026-11-08T07:41:27.473089+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "この点で、事業所調査から推計される「労働者数」は、通常の意味での労働者の人数ではない",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査対象事業所の選定、調査項目、調査の実施、集計と推計の方法、標本誤差の推定と評価などの詳細な情報は、報告書、公式ウェブサイト、その他の資料から入手できる",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "等による母集団労働者数推計値の調整（ベンチマーク更新）によって集計用ウエイト（「推計比率」",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "集計区分ごとの推計値を合成していくことによって、産業や事業所規模をまとめた推計値を計算する",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全国調査においては、各集計区分について調査数値（後述）を求めた上で、それに推計比率（後述）をかけて、母集団における値を集計区分ごとに推計している",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〔全国調査の集計においては、集計区分内のすべての事業所の抽出率が同一であれば、推計比率（後述）による集計区分ごとの比推定でカバーできるとされていたため、復元をおこなっていなかった場合がある",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各集計区分について計算された各種の数値（労働者数、賃金合計額、総労働時間数など）で、推計比率（後述）をかけていないものを「調査数値」という",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全国調査に関して、ある集計区分にふくまれる事業所で働く常用労働者が母集団（＝日本全体）では何人いるかを推計した値を「推計母集団労働者数」という",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これを求める作業を「母集団労働者数推計」といい、毎月実施する",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前月の推計母集団労働者数に、当月の毎月勤労統計調査から推計される1か月分の労働者の変動、他のデータから得られる情報を加味して、当月の母集団の労働者数を推計する",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各集計区分について、推計母集団労働者数を、労働者数合計の調査数値で割った値",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全国調査では、これを平均賃金などの調査数値にかける比推定の方法により、母集団における平均賃金などを求めている",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リンク・リラティブ方式によって毎月の推計を重ねていく推計母集団労働者数が実態からかけ離れていくのを防ぐため、",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "などの、全国の労働者数の全数調査データが入手できるタイミング（数年程度の周期）で推計母集団労働者数と全数調査データによる労働者数との乖離分を調整する",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査対象となったある月について、労働者や平均賃金、平均労働時間などを母集団について推計した値",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "①-2 当月末の推計労働者数には、事業所の新設・廃止などに伴って増減する労働者数",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "①-1 調査による事業所労働者の増減数の推計：毎月実施",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前月末の母集団労働者数からの差し引きで、当月末労働者数を推計",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "①-2 雇用保険事業所データ等を用いた母集団労働者数の推計：毎月実施",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "伴い増減した労働者の割合を推計し、①-1で得られた当月末労働者数をこの割合で補正し",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "２ 労働者数推計のベンチマークの更新による影響の公表",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今後、労働者数推計のベンチマークを更新する際は、その影響について、ホームページで公表",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "※次回の労働者数推計のベンチマークの更新は、経済センサス-基礎調査の見直しが予定されている",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": " 精度の検証や所要の補正などに（ベンチマーク以外の）他の統計等を利用できるものに関しては、その活用を検討する",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "調査結果データサブセクションを切り替えます",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査・集計に関する技術的資料や結果数値はウェブサイトや報告書に掲載される",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全体についての点検の結果、6割強に不適切な部分が見つかったとされる",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "おおむね、ある月の状況についての調査を翌月におこない、その集計結果の速報を翌々月初旬に公表、確報をその月末までに公表するというスケジュール",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計調査の集計結果は学術研究や政策立案のために分析されるほか、",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ほかが具体的に活用している事例としては、つぎのようなものがある：",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "地方調査については、各都道府県のウェブサイトにおいても結果が報告される",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、年間および年度についての結果もウェブサイトで公開される",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特別調査の結果は、毎年1回発表される",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2018年末から2019年頭にかけて発覚した東京都不正抽出問題に対応するため、その影響を受ける期間についてあらためて計算した結果が公表されている",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従来の公表値では、東京都の、特に大規模の事業所の抽出率の違いが適切に反映されていなかったために誤った集計結果となっていた",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2004年から2018年までの、再集計がおこなわれるまでに公表されていた集計結果と、それに接続させた推計母集団労働者数によって集計した2018年以降の値（2020年12月分まで）",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計調査の結果をほかの統計と組み合わせて算出した指標が公表されている",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この時期の調査結果については、「東日本大震災に関連した特別集計」",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このために過去の統計との比較に問題が生じることを考慮して、新たに「共通事業所」(前年にも調査対象であった事業所のみを抽出して、現在のウエイトに固定して集計した結果) の前年同月比の集計結果を作成・公表することとした",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（１）きまって支給する給与の入替え前後の集計結果の差",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査対象事業所を一定期間固定することは、集計結果の安定化のためには有益である",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、「平成26年経済センサス-基礎調査」の結果を用いて、平成26年６月末時点の",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、雇用保険事業所データの補正結果との",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": " サンプル入替え前後の賃金の集計結果の差（今回：2,086円）は、「サンプル入替えによ",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（参考）きまって支給する給与の入替え前後の集計結果の差（調査産業計）",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "きまって支給する給与の入替え前後の集計結果の差について",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（平成26年度統計法施行状況に関する審議結果報告書（未諮問基幹統計確認関連分））",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公表値と共通事業所の集計結果の実数の比較について",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "較すると、結果精度に大きな影響を与えて",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "統計不正調査問題サブセクションを切り替えます",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計の目的に沿って、雇用・賃金の変動に関する多くの指数について、前年同月比、前月比、季節調整済み前月比が公表される",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「毎月勤労統計調査」の名前は「年次勤労統計調査」と対になるものである",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月調査のほうだけが1947年以降も継続し、今日の毎月勤労統計調査となっている",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "による事業所名簿を作成する（労働省『毎月勤労統計調査70年史』(1994)",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第13条によれば、基幹統計の作成のために必要な事項について報告を求められた個人、法人、その他の団体は、これを拒んだり虚偽の報告をしてはならない",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "個人情報保護を理由とした報告拒否も認められていない（統計法第52条により、",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計調査は事業所を対象とする調査である",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計調査の場合、民営の事業所だけでなく、公営の事業所も、「公務」に分類されるもの（",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計調査は、雇用・賃金・労働時間等の水準を、全国についてまたは都道府県別に測定することを意図している",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この方向で統計が利用されている例として、各種",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計調査は、",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "賃金動態統計の重要性が高まっているなか、これまでの歴史的な経過に沿って整備されてきた毎月勤労統計調査の体制ではそれにじゅうぶん対応できないことが危惧されている",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計調査の集計結果は学術研究や政策立案のために分析されるほか、",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(OECD) に定期的に送付されており、労働統計・経済統計の",
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "厚生労働省政策統括官（統計・情報政策、政策評価担当）",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（１）「毎月勤労統計」における賃金の水準・変化率の捉え方",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〈参考〉毎月勤労統計を巡る経済財政諮問会議ならびに統計委員会における議論（抜粋）",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計における標本には、第一種事業所（常時30人以上を雇用する事業所）と",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月勤労統計のローテーション・サンプリングへの移行については、精度向上に",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ついての新たな情報提供も、できるだけ早く統計委員会へ報告してほしい",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（第124回統計委員会・西村委員長談）",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "② 基礎統計が利用可能となったとき、母集団労働者数のベンチマーク更新を行う",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "雇用保険事業所や毎月勤労統計のデータを用いて、当月中に事業所の新設、廃止などに",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、ローテーション・サンプリングの採用により、「サンプル入替えの寄与」",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": " 「毎月勤労統計」では、標本交替やウエイト更新時に、新旧指数をそのまま接続してい",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "平成28年３月24日第４回経済財政諮問会議議事要旨（西村統計委員会委員長発言抜粋）",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ている継続サンプルによる指標であるので、景気を表わす統計としては、統一的に参考",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": " 厚生労働省では、統計委員会の考え方を踏まえて、前年ならびに当年において「継続して",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注）確報公表後、政府統計の総合窓口（e-Stat）で公表予定",
-    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "ただし、前年分の調査についての情報と最新の情報が混在している場合があるので、注意を要する",
@@ -679,16 +199,491 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "統計不正調査問題サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計の目的に沿って、雇用・賃金の変動に関する多くの指数について、前年同月比、前月比、季節調整済み前月比が公表される",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「毎月勤労統計調査」の名前は「年次勤労統計調査」と対になるものである",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月調査のほうだけが1947年以降も継続し、今日の毎月勤労統計調査となっている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "による事業所名簿を作成する（労働省『毎月勤労統計調査70年史』(1994)",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第13条によれば、基幹統計の作成のために必要な事項について報告を求められた個人、法人、その他の団体は、これを拒んだり虚偽の報告をしてはならない",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "個人情報保護を理由とした報告拒否も認められていない（統計法第52条により、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計調査は事業所を対象とする調査である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計調査の場合、民営の事業所だけでなく、公営の事業所も、「公務」に分類されるもの（",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計調査は、雇用・賃金・労働時間等の水準を、全国についてまたは都道府県別に測定することを意図している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この方向で統計が利用されている例として、各種",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計調査は、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "賃金動態統計の重要性が高まっているなか、これまでの歴史的な経過に沿って整備されてきた毎月勤労統計調査の体制ではそれにじゅうぶん対応できないことが危惧されている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計調査の集計結果は学術研究や政策立案のために分析されるほか、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(OECD) に定期的に送付されており、労働統計・経済統計の",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "厚生労働省政策統括官（統計・情報政策、政策評価担当）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（１）「毎月勤労統計」における賃金の水準・変化率の捉え方",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "〈参考〉毎月勤労統計を巡る経済財政諮問会議ならびに統計委員会における議論（抜粋）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計における標本には、第一種事業所（常時30人以上を雇用する事業所）と",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計のローテーション・サンプリングへの移行については、精度向上に",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ついての新たな情報提供も、できるだけ早く統計委員会へ報告してほしい",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（第124回統計委員会・西村委員長談）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "② 基礎統計が利用可能となったとき、母集団労働者数のベンチマーク更新を行う",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "雇用保険事業所や毎月勤労統計のデータを用いて、当月中に事業所の新設、廃止などに",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、ローテーション・サンプリングの採用により、「サンプル入替えの寄与」",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": " 「毎月勤労統計」では、標本交替やウエイト更新時に、新旧指数をそのまま接続してい",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "平成28年３月24日第４回経済財政諮問会議議事要旨（西村統計委員会委員長発言抜粋）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ている継続サンプルによる指標であるので、景気を表わす統計としては、統一的に参考",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": " 厚生労働省では、統計委員会の考え方を踏まえて、前年ならびに当年において「継続して",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注）確報公表後、政府統計の総合窓口（e-Stat）で公表予定",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "調査結果データサブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査・集計に関する技術的資料や結果数値はウェブサイトや報告書に掲載される",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全体についての点検の結果、6割強に不適切な部分が見つかったとされる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "おおむね、ある月の状況についての調査を翌月におこない、その集計結果の速報を翌々月初旬に公表、確報をその月末までに公表するというスケジュール",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計調査の集計結果は学術研究や政策立案のために分析されるほか、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ほかが具体的に活用している事例としては、つぎのようなものがある：",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "地方調査については、各都道府県のウェブサイトにおいても結果が報告される",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、年間および年度についての結果もウェブサイトで公開される",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特別調査の結果は、毎年1回発表される",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2018年末から2019年頭にかけて発覚した東京都不正抽出問題に対応するため、その影響を受ける期間についてあらためて計算した結果が公表されている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従来の公表値では、東京都の、特に大規模の事業所の抽出率の違いが適切に反映されていなかったために誤った集計結果となっていた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2004年から2018年までの、再集計がおこなわれるまでに公表されていた集計結果と、それに接続させた推計母集団労働者数によって集計した2018年以降の値（2020年12月分まで）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月勤労統計調査の結果をほかの統計と組み合わせて算出した指標が公表されている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この時期の調査結果については、「東日本大震災に関連した特別集計」",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このために過去の統計との比較に問題が生じることを考慮して、新たに「共通事業所」(前年にも調査対象であった事業所のみを抽出して、現在のウエイトに固定して集計した結果) の前年同月比の集計結果を作成・公表することとした",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（１）きまって支給する給与の入替え前後の集計結果の差",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査対象事業所を一定期間固定することは、集計結果の安定化のためには有益である",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、「平成26年経済センサス-基礎調査」の結果を用いて、平成26年６月末時点の",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、雇用保険事業所データの補正結果との",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": " サンプル入替え前後の賃金の集計結果の差（今回：2,086円）は、「サンプル入替えによ",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（参考）きまって支給する給与の入替え前後の集計結果の差（調査産業計）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "きまって支給する給与の入替え前後の集計結果の差について",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（平成26年度統計法施行状況に関する審議結果報告書（未諮問基幹統計確認関連分））",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公表値と共通事業所の集計結果の実数の比較について",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "較すると、結果精度に大きな影響を与えて",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "この点で、事業所調査から推計される「労働者数」は、通常の意味での労働者の人数ではない",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査対象事業所の選定、調査項目、調査の実施、集計と推計の方法、標本誤差の推定と評価などの詳細な情報は、報告書、公式ウェブサイト、その他の資料から入手できる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "等による母集団労働者数推計値の調整（ベンチマーク更新）によって集計用ウエイト（「推計比率」",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "集計区分ごとの推計値を合成していくことによって、産業や事業所規模をまとめた推計値を計算する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全国調査においては、各集計区分について調査数値（後述）を求めた上で、それに推計比率（後述）をかけて、母集団における値を集計区分ごとに推計している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "〔全国調査の集計においては、集計区分内のすべての事業所の抽出率が同一であれば、推計比率（後述）による集計区分ごとの比推定でカバーできるとされていたため、復元をおこなっていなかった場合がある",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各集計区分について計算された各種の数値（労働者数、賃金合計額、総労働時間数など）で、推計比率（後述）をかけていないものを「調査数値」という",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全国調査に関して、ある集計区分にふくまれる事業所で働く常用労働者が母集団（＝日本全体）では何人いるかを推計した値を「推計母集団労働者数」という",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これを求める作業を「母集団労働者数推計」といい、毎月実施する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前月の推計母集団労働者数に、当月の毎月勤労統計調査から推計される1か月分の労働者の変動、他のデータから得られる情報を加味して、当月の母集団の労働者数を推計する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各集計区分について、推計母集団労働者数を、労働者数合計の調査数値で割った値",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全国調査では、これを平均賃金などの調査数値にかける比推定の方法により、母集団における平均賃金などを求めている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リンク・リラティブ方式によって毎月の推計を重ねていく推計母集団労働者数が実態からかけ離れていくのを防ぐため、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "などの、全国の労働者数の全数調査データが入手できるタイミング（数年程度の周期）で推計母集団労働者数と全数調査データによる労働者数との乖離分を調整する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査対象となったある月について、労働者や平均賃金、平均労働時間などを母集団について推計した値",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "①-2 当月末の推計労働者数には、事業所の新設・廃止などに伴って増減する労働者数",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "①-1 調査による事業所労働者の増減数の推計：毎月実施",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前月末の母集団労働者数からの差し引きで、当月末労働者数を推計",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "①-2 雇用保険事業所データ等を用いた母集団労働者数の推計：毎月実施",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "伴い増減した労働者の割合を推計し、①-1で得られた当月末労働者数をこの割合で補正し",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "２ 労働者数推計のベンチマークの更新による影響の公表",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今後、労働者数推計のベンチマークを更新する際は、その影響について、ホームページで公表",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "※次回の労働者数推計のベンチマークの更新は、経済センサス-基礎調査の見直しが予定されている",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": " 精度の検証や所要の補正などに（ベンチマーク以外の）他の統計等を利用できるものに関しては、その活用を検討する",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://note.com/todobuono/n/n4500b9df68d9",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://note.com/s_v_s/n/n9d6328633b83",
     "status": "ok",
@@ -700,7 +695,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/viking/n/n57a21b5fb742",
+    "url": "https://note.com/goinkyo_muratan/n/nd4afc5639aae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mankintan/n/n65f0fa60e38d",
     "status": "ok",
     "method": "http"
    },
@@ -713,56 +713,6 @@
     "url": "https://note.com/tommy_tomo/n/n83e6cf9cb47b",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.mhlw.go.jp/toukei/list/30-1.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/keisemi/n/naf14ab3c9062",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/mk-index.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b003.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://files.osf.io/v1/resources/3n7y9/providers/osfstorage/5eedae5a76ebd80133cddd57",
-    "status": "robots_disallowed",
-    "method": ""
    },
    {
     "url": "https://www.e-stat.go.jp/notice-use-of-statical-data",
@@ -785,7 +735,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/data/nenkan/index2-1.html",
+    "url": "https://www.stat.go.jp/data/kakei/notes.html",
     "status": "ok",
     "method": "http"
    },
@@ -800,32 +750,32 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/english/",
-    "status": "ok",
+    "url": "https://docs.publicnow.com/viewDoc?filename=8158%5CEXT%5C6114011569836EAB19E01E9F26F4B41CE0CEAB9F_83206ECDB79407D4C7C2AA764523141F3F97E1F5.PDF",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.imes.boj.or.jp/en/historical/hstat/note_all.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.esri.cao.go.jp/en/sna/data/kakuhou/files/2021/pdf/notice.pdf",
+    "url": "https://www.esri.cao.go.jp/en/sna/data/kakuhou/files/2023/pdf/notice.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://ndlsearch.ndl.go.jp/en/rnavi/business/post_102100",
+    "url": "https://www.stat.go.jp/english/data/cpi/2025plan.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dashboard.e-stat.go.jp/en/timeSeries",
+    "url": "https://www.e-stat.go.jp/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/outline/notice_2024/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/outline/notice_2026/index.htm",
     "status": "ok",
     "method": "http"
    }
@@ -835,109 +785,93 @@
   {
    "query": "政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計） site:note.com",
    "results": [
-    "https://note.com/todobuono/n/n4500b9df68d9",
     "https://note.com/s_v_s/n/n9d6328633b83",
     "https://note.com/t_ysk/n/n64af5ab96db2",
-    "https://note.com/viking/n/n57a21b5fb742",
+    "https://note.com/goinkyo_muratan/n/nd4afc5639aae",
+    "https://note.com/mankintan/n/n65f0fa60e38d",
     "https://note.com/tabino4ori/n/n196bd379345c",
     "https://note.com/tommy_tomo/n/n83e6cf9cb47b",
-    "https://note.com/koelab/n/n64df2afcaf36"
+    "https://note.com/yukikura_jazz/n/ned117fa65b1a"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計） note",
    "results": [
-    "https://www.mhlw.go.jp/toukei/list/30-1.html",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
-    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
-    "https://note.com/keisemi/n/naf14ab3c9062",
-    "https://www.toukei.metro.tokyo.lg.jp/maikin/mk-index.htm",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
-    "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b003.html",
-    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
     "https://www.e-stat.go.jp/notice-use-of-statical-data",
-    "https://www.stat.go.jp/data/nihon/index2-1.html"
+    "https://www.stat.go.jp/data/nihon/index2-1.html",
+    "https://www.soumu.go.jp/main_content/000327870.pdf",
+    "https://www.e-stat.go.jp/",
+    "https://www.stat.go.jp/data/kakei/notes.html",
+    "https://www.esri.cao.go.jp/jp/sna/sokuhou/contents/riyou_top.html",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/tokei_nenpo.htm"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計） やり方",
    "results": [
-    "https://www.mhlw.go.jp/toukei/list/30-1.html",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
-    "https://www.youtube.com/watch?v=khYaqG6AYus",
-    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
-    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b003.html",
-    "https://files.osf.io/v1/resources/3n7y9/providers/osfstorage/5eedae5a76ebd80133cddd57",
     "https://www.e-stat.go.jp/notice-use-of-statical-data",
-    "https://www.stat.go.jp/data/nihon/index2-1.html"
+    "https://www.stat.go.jp/data/nihon/index2-1.html",
+    "https://www.soumu.go.jp/main_content/000327870.pdf",
+    "https://www.e-stat.go.jp/",
+    "https://www.stat.go.jp/data/kakei/notes.html",
+    "https://www.esri.cao.go.jp/jp/sna/sokuhou/contents/riyou_top.html",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/tokei_nenpo.htm"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計） 事例",
    "results": [
-    "https://www.mhlw.go.jp/toukei/list/30-1.html",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
-    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
-    "https://www.toukei.metro.tokyo.lg.jp/maikin/mk-index.htm",
-    "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b003.html",
-    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "https://files.osf.io/v1/resources/3n7y9/providers/osfstorage/5eedae5a76ebd80133cddd57",
     "https://www.e-stat.go.jp/notice-use-of-statical-data",
-    "https://www.stat.go.jp/data/nihon/index2-1.html"
+    "https://www.stat.go.jp/data/nihon/index2-1.html",
+    "https://www.soumu.go.jp/main_content/000327870.pdf",
+    "https://www.e-stat.go.jp/",
+    "https://www.stat.go.jp/data/kakei/notes.html",
+    "https://www.esri.cao.go.jp/jp/sna/sokuhou/contents/riyou_top.html",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/tokei_nenpo.htm"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "Japanese government statistics notes on use series break retroactive revision symbols",
    "results": [
-    "https://www.stat.go.jp/english/",
-    "https://www.imes.boj.or.jp/en/historical/hstat/note_all.html",
-    "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
-    "https://www.esri.cao.go.jp/en/sna/data/kakuhou/files/2021/pdf/notice.pdf",
-    "https://rnavi.ndl.go.jp/en/post-485394.html",
-    "https://dashboard.e-stat.go.jp/en/timeSeries",
-    "https://worldview.ranenetwork.com/content/article/japanese-number-game",
-    "https://www.chuo-u.ac.jp/english/features/2017/06/60142/",
-    "https://www.lsu.edu/business/economics/files/workingpapers/pap03_09.pdf",
-    "https://docs.publicnow.com/viewDoc?filename=8158\\EXT\\73E55ABB3E06981B392FD9B313DA70338B1B93C5_95006ADB071ACEE1D03C71C9BFA9D4E72FF2B606.PDF"
+    "https://docs.publicnow.com/viewDoc?filename=8158\\EXT\\6114011569836EAB19E01E9F26F4B41CE0CEAB9F_83206ECDB79407D4C7C2AA764523141F3F97E1F5.PDF",
+    "https://www.esri.cao.go.jp/en/sna/data/kakuhou/files/2023/pdf/notice.pdf",
+    "https://www.stat.go.jp/english/data/cpi/2025plan.html",
+    "https://www.e-stat.go.jp/en",
+    "https://www.boj.or.jp/en/statistics/outline/notice_2024/index.htm",
+    "https://www.boj.or.jp/en/statistics/outline/notice_2026/index.htm",
+    "https://www.publicnow.com/view/B4A1E23DFBB2D3D1A01F245CCC329F6DC508D2BB"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "site:note.com 政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計）",
    "results": [
     "https://note.com/s_v_s/n/n9d6328633b83",
-    "https://note.com/todobuono/n/n4500b9df68d9",
-    "https://note.com/goinkyo_muratan/n/nd4afc5639aae",
+    "https://note.com/t_ysk/n/n64af5ab96db2",
     "https://note.com/azasaz_a/n/nfcf8049b8ebd",
-    "https://note.com/hide_sekihara/n/nc406738de242",
     "https://note.com/tommy_tomo/n/n83e6cf9cb47b",
-    "https://note.com/arima_planning/n/n4b49d2baffeb"
+    "https://note.com/arima_planning/n/n4b49d2baffeb",
+    "https://note.com/yukikura_jazz/n/ned117fa65b1a",
+    "https://note.com/stats47/n/n7e4572d23a1b"
    ],
    "engines": [
     "ddgs:google"
@@ -953,12 +887,12 @@
   {
    "query": "site:linkedin.com 政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計）",
    "results": [
-    "https://www.linkedin.com/help/linkedin/answer/a1341216/?lang=ja",
+    "https://www.linkedin.com/help/linkedin/answer/a1342692/verify-your-identity-to-recover-account-access?lang=en",
     "https://jp.linkedin.com/pulse/official-statistics-personal-decision-making-ken-roy-xkh8e?tl=ja",
     "https://jp.linkedin.com/posts/hirotakashoneshibata_2025年9月16日厚労省が令和6年2024人口動態統計確定数を公開-activity-7377628947456589824-t-3P",
+    "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja",
     "https://jp.linkedin.com/pulse/6-types-non-human-use-official-statistics-some-potential-ken-roy-wwwae?tl=ja",
-    "https://jp.linkedin.com/posts/yuto-noguchi_自分の集計に抜けていた層がありました-配られたあとの職場に外から呼ばれて入-activity-7499958201031942144-tZwt",
-    "https://jp.linkedin.com/learning/mos-cert-prep-excel-2019-associate/3863053",
+    "https://jp.linkedin.com/learning/excel-2016-charts/691996",
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3373096"
    ],
    "engines": [
@@ -978,73 +912,61 @@
     "https://www.facebook.com/azuki.bucho/photos/なんじゃそりゃ高市さんに遡及適応にしたとは高市さんは選管に対し誤解を解く説明をし注意ということで終わったのに岸田君が選管に対し追加措置を促すとは何事だそもそも国/1040595397538316/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計） note 社長",
    "results": [
-    "https://www.mhlw.go.jp/toukei/list/30-1.html",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
-    "https://www.toukei.metro.tokyo.lg.jp/maikin/mk-index.htm",
-    "https://www.soumu.go.jp/main_content/000747252.pdf",
-    "https://www.youtube.com/watch?v=khYaqG6AYus",
-    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
-    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
-    "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r159/r159_3.pdf",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
-    "https://www.e-stat.go.jp/notice-use-of-statical-data"
+    "https://www.e-stat.go.jp/notice-use-of-statical-data",
+    "https://www.stat.go.jp/data/nihon/index2-1.html",
+    "https://www.soumu.go.jp/main_content/000327870.pdf",
+    "https://www.e-stat.go.jp/",
+    "https://www.stat.go.jp/data/kakei/notes.html",
+    "https://www.esri.cao.go.jp/jp/sna/sokuhou/contents/riyou_top.html",
+    "https://www.nta.go.jp/about/organization/kantoshinetsu/statistics/r06/pdf/00.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計） X 投稿",
    "results": [
-    "https://www.mhlw.go.jp/toukei/list/30-1.html",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
-    "https://www.youtube.com/watch?v=khYaqG6AYus",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
-    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
-    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b003.html",
-    "https://files.osf.io/v1/resources/3n7y9/providers/osfstorage/5eedae5a76ebd80133cddd57",
-    "https://note.com/todobuono/n/n74c5a63bfea5",
-    "https://www.e-stat.go.jp/notice-use-of-statical-data"
+    "https://www.e-stat.go.jp/notice-use-of-statical-data",
+    "https://www.stat.go.jp/data/nihon/index2-1.html",
+    "https://www.soumu.go.jp/main_content/000327870.pdf",
+    "https://www.e-stat.go.jp/",
+    "https://www.stat.go.jp/data/kakei/notes.html",
+    "https://www.esri.cao.go.jp/jp/sna/sokuhou/contents/riyou_top.html",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/tokei_nenpo.htm"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "Japanese government statistics notes on use series break retroactive revision symbols site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/b-pranshu",
-    "https://www.linkedin.com/in/fernando-tormos-aponte-11853413",
-    "https://www.linkedin.com/in/helen-smith-9383015a",
-    "https://in.linkedin.com/in/sutirnachakrabortyactuariesdatascience",
-    "https://in.linkedin.com/in/shivaapandey",
-    "https://in.linkedin.com/in/aditya-raj-152373334",
-    "https://www.linkedin.com/in/tricia-dietz-78251351",
-    "https://www.linkedin.com/in/daisyzhuo",
-    "https://www.linkedin.com/in/matthew-schmenk-586549158",
-    "https://www.linkedin.com/posts/walterquattrociocchi_the-real-ai-bottleneck-may-not-be-generation-activity-7514320768403419136-x54R"
+    "https://www.linkedin.com/posts/green-worldwide-shipping-llc_cbp-issues-interim-retroactive-implementation-activity-7370879384150487041-jorI",
+    "https://et.linkedin.com/posts/steven-de-proost-99aa60a_bund-plant-wohl-die-abschöpfung-der-zufallsgewinne-activity-6993294089139953664-vRUz",
+    "https://www.linkedin.com/pulse/revision-japanese-telecommunications-business-law-17-jiang-ph-d-",
+    "https://www.linkedin.com/posts/cross-border-global-trade-solutions_us-japan-baseline-activity-7369637197399887873-eKnu",
+    "https://www.linkedin.com/pulse/cbp-issues-interim-retroactive-implementation-guidance-vickie-vaughn-yrfmc",
+    "https://www.linkedin.com/pulse/japans-triennial-revision-personal-information-act-pipa-auvaro-hoq2c/",
+    "https://www.linkedin.com/pulse/i-cynthia-allen-schenk-cscp--hrdnc"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 15,
+ "runs": 16,
  "first_researched_at": "2026-11-05T13:10:10.577209+00:00"
 }

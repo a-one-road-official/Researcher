@@ -8,16 +8,8 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T00:25:16.875337+00:00",
+ "researched_at": "2026-11-08T07:33:01.027265+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "Examples of AI use with charts.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "Turns text, images and PDFs into editable flowcharts and system architecture diagrams. Users can refine diagrams through chat, compare saved versions and export PNG, SVG or PDF for documentation and visual explanations. One guest diagram is free without registration, and further AI usage consumes credits; generated relationships and labels should be checked before publication.",
@@ -131,6 +123,14 @@
    },
    {
     "quote": "How to use GPT for Sheets and Docs add-ons",
+    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Examples of AI use with charts.",
     "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -141,17 +141,37 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/loots/n/nff7881f6734b",
+    "url": "https://note.com/fujikawa/n/n536ef386c8ca?magazine_key=m2214a8addb88",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/terashim/n/n04de16c6fdff",
+    "url": "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/jack4manastalk/n/n0901b43af62b",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/syfan/n/n170a192530ef",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/pagoromo/n/ncc80225e1a5d",
+    "url": "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://data-viz-lab.com/text-data-cleansing",
     "status": "ok",
     "method": "http"
    },
@@ -161,77 +181,112 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/pttrner_tech/n/n65a522f1d34f",
+    "url": "https://note.com/kazukio/n/nedb9fb057839",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/productive_notes/n/nfb3cf63dbb37",
+    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVLLbtswEPwVgneJkijZEmE5cGMUMZCHESk99FKQ1CpmQZEKSSXt31fxo0gv6ZWcndmZ2dXVr0GjV3BeWVPjNE4wAiNtp8xzjZ%2Far1GJr9YrzwedjWwzhYN5hJcJfEDzoPHs9FPjyRlmuVeeGT6AZ0GyZnN3y7I4YaOzwUqrMdp4Dy7MUtfW%2BGkA14B7VRKeHm9rfAhh9IwQxVU3xorHb9xDx%2BOfI5kfyMzSKw3kuAR5J8%2FI%2FqFpSdM8YLSdV1KGh6ONC5O2z8rEg5LOetsHa7QyEEs7EEHLRZEus6gqy2WUC8qjsur7qCo4LUSV9bmk5OgNo922xj9Ez2VeLBdAO5kWskjyBERScZF1HU0TmGHeT7AzPnATapwl2SJK0ygp22TJKGV0EZdV%2Fh2j%2FTmNL8qcUv4sOnECeXbTtvvo3S5G3y5tzQB87oYd1d3HUj4n5pcm8Po%2FufuDEsJqCIcV%2Baj19yruZ%2FLddm%2B1kr%2FRRmv7du2AB6hxcBNgsj7P%2FXs%2F6z8%3D&RelayState=e1s1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
+    "url": "https://nii-auth.atlassian.net/wiki/spaces/NIISOCSDataForResearchers/blog/2021/01/12/43417667",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
+    "url": "https://www.alteryx.com/ja/glossary/data-preparation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dsb-consulting.co.jp/column/data-management/20231226.html",
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/data-cleansing.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://presenti.ai/jp/blog/data-dictionary-presentation/",
+    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVLLbtswEPwVgneJEiXZEmE5cGMUMZCHESk99FKQ1CpmQZEKSSXt31fxo0gv6ZWcndmZ2dXVr0GjV3BeWVPjNE4wAiNtp8xzjZ%2Far1GJr9YrzwdNR7aZwsE8wssEPqB50Hh2%2Bqnx5Ayz3CvPDB%2FAsyBZs7m7ZTRO2OhssNJqjDbegwuz1LU1fhrANeBelYSnx9saH0IYPSNEcdWNseLxG%2FfQ8fjnSOYHMrP0SgM5LkHeySnZPzQtaZoHjLbzSsrwcLRxYdL2WZl4UNJZb%2FtgjVYGYmkHIrJyUaRLGlVluYxykfGorPo%2BqgqeFaKifS4zcvSG0W5b4x%2B9KKjIir5LYdGVSymSJFlUVdZnOacVhxnm%2FQQ74wM3ocY0oYsoTaOkbJMly3KW0Jjm6XeM9uc0vihzSvmz6MQJ5NlN2%2B6jd7sYfbu0NQPwuRt2VHcfS%2FmcmF%2BawOv%2F5O4PSgirIRxW5KPW36u4n8l3273VSv5GG63t27UDHqDGwU2Ayfo89%2B%2F9rP8A&RelayState=e1s1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.asahishimbun-saiyou.com/company/datajournalism",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://odigo.jp/data-dictionary-how-to-make/",
+    "url": "https://www.atled.jp/wfl/article/73568/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dx.nsw.co.jp/column/11918/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://saireco.jp/hr-system-nav/1762/",
+    "url": "http://www.asahi.com/miraimedia/dj/case/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data.bfts.co.jp/blog/data-cleansing-normalization",
+    "url": "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://datajournalism.com/read/handbook/verification-1/additional-materials/creating-a-verification-workflow",
+    "url": "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://fieldwork.news/guides/free-tools-for-investigative-journalism/",
+    "url": "https://kyodonewsprwire.jp/corp/glossary/7035/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
+    "url": "https://www.msiism.jp/article/nikkei-newspaper-article-structuring.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data.journalism.columbia.edu/content/verification-handbook-investigating-reporting",
+    "url": "https://jp.edanz.com/blog/peer-review-limitations",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ap.org/insights/ai-and-data-journalism-why-verification-matters-more-than-ever/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlinejournalismblog.com/2013/09/10/5-tips-for-a-data-journalism-workflow-part-2-anticipating-problems-and-collaboration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viewjournal.eu/articles/10.18146/view.332",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "http://verificationhandbook.com/downloads/verification.handbook.2.pdf",
+    "url": "https://simonrogers.net/2013/01/27/a-data-journalism-workflow/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://datajournalism.com/read/handbook/verification-2",
+    "url": "https://en.wikipedia.org/wiki/Data_journalism",
     "status": "ok",
     "method": "http"
    }
@@ -241,104 +296,140 @@
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） site:note.com",
    "results": [
+    "https://note.com/fujikawa/n/n536ef386c8ca?magazine_key=m2214a8addb88",
+    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "https://note.com/jack4manastalk/n/n0901b43af62b",
+    "https://note.com/syfan/n/n170a192530ef",
+    "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ymukudai/n/n4fe343ab302d",
+    "https://note.com/otankonash/n/n1bbf1ae204a5",
     "https://note.com/loots/n/nff7881f6734b",
-    "https://note.com/terashim/n/n04de16c6fdff",
-    "https://note.com/pagoromo/n/ncc80225e1a5d",
-    "https://note.com/kazukio/n/n2a704557e23c",
-    "https://note.com/pttrner_tech/n/n65a522f1d34f",
-    "https://note.com/productive_notes/n/nfb3cf63dbb37",
-    "https://note.com/pacificspatial/n/n4d9d94868a46"
+    "https://note.com/terashim/n/n04de16c6fdff"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） note",
    "results": [
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://presenti.ai/jp/blog/data-dictionary-presentation/",
-    "https://odigo.jp/data-dictionary-how-to-make/",
-    "https://note.com/terashim/n/n04de16c6fdff",
-    "https://note.com/pttrner_tech/n/n65a522f1d34f"
+    "https://data-viz-lab.com/text-data-cleansing",
+    "https://note.com/kazukio/n/n2a704557e23c",
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "https://waseda-jp.libguides.com/47316761",
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "https://nii-auth.atlassian.net/wiki/spaces/NIISOCSDataForResearchers/blog/2021/01/12/43417667",
+    "https://www.evernote.com/l/AAHvnBD1FGlEyasQDblTFaaqdLLmHMo19Ck",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） やり方",
    "results": [
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://presenti.ai/jp/blog/data-dictionary-presentation/",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://saireco.jp/hr-system-nav/1762/",
-    "https://odigo.jp/data-dictionary-how-to-make/",
-    "https://data.bfts.co.jp/blog/data-cleansing-normalization"
+    "https://data-viz-lab.com/text-data-cleansing",
+    "https://www.alteryx.com/ja/glossary/data-preparation",
+    "https://otsumu.co.jp/knowledge/glossary/terms/data-cleansing.html",
+    "https://waseda-jp.libguides.com/47316939",
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://www.atled.jp/wfl/article/73568/",
+    "https://dx.nsw.co.jp/column/11918/",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
+    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） 事例",
    "results": [
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://saireco.jp/hr-system-nav/1762/",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://presenti.ai/jp/blog/data-dictionary-presentation/",
-    "https://odigo.jp/data-dictionary-how-to-make/",
-    "https://data.bfts.co.jp/blog/data-cleansing-normalization"
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "http://www.asahi.com/miraimedia/dj/case/",
+    "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
+    "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "https://kyodonewsprwire.jp/corp/glossary/7035/",
+    "https://www.msiism.jp/article/nikkei-newspaper-article-structuring.html",
+    "https://jp.edanz.com/blog/peer-review-limitations",
+    "https://tsukuba.repo.nii.ac.jp/records/2019138",
+    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "data journalism data dictionary verification workflow",
    "results": [
-    "https://datajournalism.com/read/handbook/verification-1/additional-materials/creating-a-verification-workflow",
-    "https://fieldwork.news/guides/free-tools-for-investigative-journalism/",
-    "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "https://data.journalism.columbia.edu/content/verification-handbook-investigating-reporting",
-    "http://verificationhandbook.com/downloads/verification.handbook.2.pdf",
-    "https://datajournalism.com/read/handbook/verification-2",
-    "https://rivereditor.com/guides/how-to-fact-check-verify-sources-2026"
+    "https://www.ap.org/insights/ai-and-data-journalism-why-verification-matters-more-than-ever/",
+    "https://onlinejournalismblog.com/2013/09/10/5-tips-for-a-data-journalism-workflow-part-2-anticipating-problems-and-collaboration/",
+    "https://viewjournal.eu/articles/10.18146/view.332",
+    "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "https://simonrogers.net/2013/01/27/a-data-journalism-workflow/",
+    "https://en.wikipedia.org/wiki/Data_journalism",
+    "https://datajournalism.com/read/handbook/verification-1/verification-fundamentals-rules-to-live-by/2-verification-fundamentals-rules-to-live-by",
+    "https://medium.com/@kacawi/quick-guide-to-data-journalism-8abcf900eec2",
+    "https://github.com/infoculture/awesome-datajournalism",
+    "https://datajournalism.com/read/handbook/verification-1/additional-materials/creating-a-verification-workflow"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:note.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
    "results": [
+    "https://note.com/fujikawa/n/n536ef386c8ca?magazine_key=m2214a8addb88",
+    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ymukudai/n/n4fe343ab302d",
+    "https://note.com/otankonash/n/n1bbf1ae204a5",
     "https://note.com/loots/n/nff7881f6734b",
     "https://note.com/terashim/n/n04de16c6fdff",
     "https://note.com/pagoromo/n/ncc80225e1a5d",
-    "https://note.com/kazukio/n/n2a704557e23c",
-    "https://note.com/pttrner_tech/n/n65a522f1d34f",
-    "https://note.com/pacificspatial/n/n4d9d94868a46",
-    "https://note.com/productive_notes/n/nfb3cf63dbb37"
+    "https://note.com/kazukio/n/n2a704557e23c"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "site:x.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/fujikawa/status/2115207077073449077",
+    "https://jf.x.com/images/media-preview/2107032564787802298",
+    "https://jf.x.com/images/media-preview/2111306162587271561",
+    "https://x.com/hwtnv/status/2054133611897774417",
+    "https://x.com/saito_kentaro_/status/2036827288227217737",
+    "https://x.com/nkinvestigation",
+    "https://x.com/yamazakitaka4",
+    "https://x.com/ziyouzhixu/status/2116569271438545072"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
@@ -347,12 +438,12 @@
     "https://www.linkedin.com/posts/tadashiman_データ辞書と相互運用性データモデルデータ連携-activity-7215656872937234432-5WRD",
     "https://jp.linkedin.com/pulse/we-have-data-strategy-dont-dictionary-aarti-nagpal-pcxqc?tl=ja",
     "https://jp.linkedin.com/pulse/business-glossary-vs-data-dictionary-catalog-metadata-jhdae?tl=ja",
-    "https://jp.linkedin.com/pulse/understand-data-catalogs-dictionaries-laura-bunzl-1lhje?tl=ja",
     "https://jp.linkedin.com/pulse/how-organize-data-reporting-establish-sources-truth-fred-krimmelbein-qzyje?tl=ja",
-    "https://www.linkedin.com/pulse/失敗しないデータカタログとメタデータ管理定義種類リネージから導入ロードマップまでわかりやすく解説-hide-fukano-9d9hc/"
+    "https://www.linkedin.com/pulse/失敗しないデータカタログとメタデータ管理定義種類リネージから導入ロードマップまでわかりやすく解説-hide-fukano-9d9hc/",
+    "https://jp.linkedin.com/pulse/from-chaos-confidence-real-world-data-governance-joshua-ovdie?tl=ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -362,187 +453,82 @@
     "https://www.facebook.com/people/報道できない真実/100064570154340/",
     "https://www.facebook.com/SlowNewsJP/posts/新シリーズスタート荻原和樹のビジュアルデータウォッチhttpsslownewscomnn52a5db64aaf7データ可視化やデータ報道のスペシャリスト荻原和樹/657284697055520/",
     "https://www.facebook.com/jima.media/posts/ona-japan主催によるコロナとデータ報道ニュースメディアは何を伝えられなかったかと題したウェビナーが99水1800に開催されます詳細は以下のリンクからご覧/1646209885537645/",
-    "https://www.facebook.com/ONAJapan/photos/本日ですイベント概要メディア関係者向けona-japanウェビナーコロナとデータ報道ニュースメディアは何を伝えられなかったか新型コロナウイルスに関する報道をめぐ/854955011576140/",
     "https://www.facebook.com/SlowNewsJP/posts/1121694458479710/",
-    "https://www.facebook.com/tatsuya.sudo.771/posts/国内石油元売りが異例の手法で原油を日本に運んでいるオープンデータを駆使した取材で見えた調達手法とは弊社にはデータ報道と可視化をメーンに取材する部署がありますニュ/27154054594230057/",
-    "https://www.facebook.com/note.poc/posts/データ報道で広く使われるscrollytellingとは2010年代中盤から広まりもっとも使われている表現手段のひとつだというscrollytellingユーザ/3850676905009138/"
+    "https://www.facebook.com/NewsweekJAPAN/posts/現代的なデータ報道のニュース体験は読むから体験するに変わっていく-by-荻原和樹google-news-lab-ティーチングフェロー-新型コロナ禍で普及したデー/930843602377647/",
+    "https://www.facebook.com/masato.suzuki.564/videos/過剰発注で現場混乱-高橋洋一氏が指摘する報道被害経済学者の高橋洋一氏がテレビ番組とびっきりしずおかに出演し原油やナフサの供給をめぐる一部報道に対して疑問を呈しま/1299478965661664/",
+    "https://www.facebook.com/hironobu.fukaura/posts/データセンター建設についてデイワン様と伊万里市との協定締結がnhk等で報道されています/2311395896326773/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） note 社長",
    "results": [
-    "https://saireco.jp/hr-system-nav/1762/",
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://presenti.ai/jp/blog/data-dictionary-presentation/",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://odigo.jp/data-dictionary-how-to-make/",
-    "https://note.com/terashim/n/n04de16c6fdff"
+    "https://note.com/asahi_ictrad/n/n47f391a81015",
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "https://waseda-jp.libguides.com/47316761",
+    "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "https://saireco.jp/hr-system-nav/1762/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://data-viz-lab.com/text-data-cleansing",
+    "https://waseda-jp.libguides.com/47316761",
+    "https://github.com/arcatdmz/blog/blob/main/src/ja/2022-07-27-data-journalism.md",
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://jp.edanz.com/blog/peer-review-limitations",
+    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "data journalism data dictionary verification workflow site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/1/how-do-you-test-validate-data-dictionary",
-    "https://www.linkedin.com/advice/0/what-best-practices-designing-maintaining-data",
-    "https://uk.linkedin.com/in/amanda-farnsworth-33555018",
-    "https://id.linkedin.com/pulse/blockchain-verification-transforms-journalism-ai-thor-pettersen-0ks0c?tl=id",
-    "https://uk.linkedin.com/jobs/data-journalism-jobs",
-    "https://in.linkedin.com/in/arpitmahajan10",
-    "https://mx.linkedin.com/jobs/view/content-integrity-editor-at-condé-nast-méxico-latinoamérica-4474403506"
+    "https://www.linkedin.com/pulse/learning-analytics-series-glossary-terms-beginning-data-mark-derosa",
+    "https://www.linkedin.com/posts/dw-akademie_the-hardest-part-isnt-using-an-ai-tool-activity-7387110736747012096-xjAq",
+    "https://uk.linkedin.com/in/johnguinn",
+    "https://www.linkedin.com/in/tumininu-onabanjo-22a784279",
+    "https://www.linkedin.com/in/libbyheeren",
+    "https://www.linkedin.com/in/aleszu-bajak-7a406916",
+    "https://www.linkedin.com/in/samirpassi",
+    "https://in.linkedin.com/in/jaganmohankb",
+    "https://www.linkedin.com/in/aboutaaron",
+    "https://www.linkedin.com/in/brandon-rugg"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ19頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ19頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "Examples of AI use with charts.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Turns text, images and PDFs into editable flowcharts and system architecture diagrams. Users can refine diagrams through chat, compare saved versions and export PNG, SVG or PDF for documentation and visual explanations. One guest diagram is free without registration, and further AI usage consumes credits; generated relationships and labels should be checked before publication.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Turns your ideas and content into effective visuals that are interactive, editable and ready to present. Upload PDFs, web pages, documents and more.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Generates charts from plain English descriptions. Type something like “US newsroom employment over the last 20 years” and it finds the data, picks the right chart type, and renders it in seconds. It can also recreate charts from screenshots, which is useful for pulling editable visuals out of PDFs and reports",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Turn blog posts, articles, and PDFs into engaging infographics. Generate visuals quickly and easily from your data in seconds.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Advanced AI analysis for SEC filings and financial news",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A great alternative to Adobe Acrobat for editing PDFs.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "allows track PDFs. The tool has a built-in",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Batch rename a long list of PDFs",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "From simply monitoring website pages that have a change (such as watching prices, restock notification), to deep inspection such as PDF text support, JSON and XML monitoring and extensive text triggers.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ChatGPT AskyourPDF Plug-in",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Turns your PDF into a chatbot",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "DocHush Free PDF Redaction Checker",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A great PDF to text tool.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A desktop tool designed to compress PDF files quickly while maintaining high visual quality. It helps users save storage space and easily share large documents through batch processing and automation features. With complete offline functionality, it ensures your files remain private and secure at all times.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "AI SPREADSHEET AND SCRAPING TOOLS | PDF CHAT",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "A one-hour, basic video tutorial on how to use the ChatGPT Data Analysis tool",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A step-by-step guide to analyzing data with Python and the Jupyter Notebook.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "An AI tool that helps you extract valuable information from any document and organizes with just a few steps.",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "How to use GPT for Sheets and Docs add-ons",
-    "url": "https://journaliststoolbox.ai/ai-driven-data-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 10,
+ "new_this_run": {},
+ "runs": 11,
  "first_researched_at": "2026-11-06T04:38:15.892094+00:00"
 }

@@ -1797,7 +1797,7 @@
   - cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html（引用 61件・手法の言葉 10件）
 
 ## 次に読む手法の記事の候補（4-96・機械）
-- 未読（束ねた形で照合）で主題外でない頁：770頁。手法の言葉を含む引用の多い順に
+- 未読（束ねた形で照合）で主題外でない頁：771頁。手法の言葉を含む引用の多い順に
   - cran.r-project.org/web/packages/available_packages_by_date.html（39件）
   - soumu.go.jp/main_content/000432276.pdf（32件）
   - lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf（32件）

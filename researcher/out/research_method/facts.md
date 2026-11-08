@@ -558,6 +558,8 @@
   - 「また、投資家目線で見た場合に、キャッシュリッチ企業がなぜダメなのか？などについても書かれております」（https://kaikei-shop.net/contents108/）
   - 「注意点として、企業側が作成しているものなので、自社にとって不利なことは基本的には記載されておりません」（https://kaikei-shop.net/contents108/）
   - 「注意点としては、発刊されたのが2010年度であり、掲載されている情報は当時のものとなっている点です」（https://kaikei-shop.net/contents108/）
+  - 「S&P500だけでいい？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「S&P500だけでいい？メリット・注意点をわかりやすく解説「S&P500だけで十分なの？」「オルカンも買った方がいい？」「米国株だけで大丈夫？」という疑問を持っている方は多いはずです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「会計をまったく知らない初心者から、株式投資のファンダメンタル分析を極めたい中上級者まで、目的別に厳選した22冊」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「⑩ 株を買うなら最低限知っておきたい ファンダメンタル投資の教科書 改訂版｜足立武志」（https://note.com/tasuto11/n/nde45889dccb0）
@@ -568,8 +570,6 @@
   - 「10%以上なら優良、5%未満は注意」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「決算書学習でやりがちな3つの失敗」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「最後に、決算書を学び始めた人が陥りがちな失敗を3つだけ紹介します」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「失敗1：簿記から学び始める」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「失敗2：1冊を完璧にしようとする」（https://note.com/tasuto11/n/nde45889dccb0）
 - 実例：
   - 「第3章 生き残る会社と消え去る会社―実例に学ぶ分析枠組み編」（https://kaikei-shop.net/contents108/）
   - 「第4章 生き残る会社の数字のつくり方―ケーススタディーで分析訓練編」（https://kaikei-shop.net/contents108/）
@@ -587,6 +587,7 @@
   - 「最後には、レーザーテックなど7社の事例が紹介され、実践的な速読スキルを身につける練習ができます」（https://note.com/bookreview_lab/n/n5ddefc10af59）
   - 「著者の川口宏之さんは、難解に思える決算書を、実践的かつ効率的に読み解く方法を丁寧に解説しており、特に実例を交えた説明が非常にわかりやすいです」（https://note.com/bookreview_lab/n/n5ddefc10af59）
 - 検索結果の抜粋：
+  - 「How to Effectively Read a Company’s Annual ReportA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideMaster the Art of Reading Annual Reports - InvestopediaHow to Read a Company's Annual Report (10-K) as an Investor — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the busi」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「How to Read Financial Statements: A Beginner’s GuideAnnual report - WikipediaMcDonald’s Business Model (2026) | How McDonald’s Makes Money2025 ANNUAL REPORT - Marriott InternationalOur Annual Reports | Diageo — A balance sheetconveys the “book value” of a company. It allows you to see what resources it has available and how they were financed as of a specific date. It shows its assets, liabilities」（https://online.hbs.edu/blog/post/how-to-read-financial-statements）
   - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: Investor Reading MapHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisMaster the Art of Reading Annual Reports - InvestopediaHow to Read an Annual Report Like an Equity Research AnalystHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a 」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report Like an Equity Research Analyst — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business performance and potential. Feb 20, 2026 · Where」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
@@ -4637,8 +4638,8 @@
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
 - 検索結果の抜粋：
   - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
@@ -5909,8 +5910,8 @@
   - 「AI SPREADSHEET AND SCRAPING TOOLS | PDF CHAT」（https://journaliststoolbox.ai/ai-driven-data-tools/）
 - 実例：
   - 「Examples of AI use with charts.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）（entity resolution evaluation precision recall F1 ground truth pairs）
 - 文脈：同一性
@@ -10580,11 +10581,11 @@
   - 「それでは、具体的な計算方法を見ていきましょう」（https://comimi.jp/archives/column/fte-kaigo）
   - 「実際の計算は、以下の3ステップで進めると分かりやすいです」（https://comimi.jp/archives/column/fte-kaigo）
   - 「Step1. 「常勤職員が勤務すべき時間」を確定する」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「常勤換算とは、非常勤職員の勤務時間を、その事業所が定める常勤の従業者が勤務すべき時間数で割り、常勤の従業者数に換算する方法です」（https://note.com/yuwa_office/n/ndd4f1677286a）
+  - 「また、常勤換算方法の計算に当たり、職員が「治療と仕事の両立ガイドライン」に沿って事業者が設ける短時間勤務制度等を利用する場合、週30時間以上の勤務で常勤換算での計算上も1(常勤)と扱うことを認める取扱いも示されています」（https://note.com/yuwa_office/n/ndd4f1677286a）
   - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「常勤換算とは、医療・介護・福祉施設や事業所において、実際に勤務している職員の労働時間を基に、常勤職員の人数に換算する方法です」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「給与計算や給与明細発行をカンタンに行う方法」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
-  - 「常勤換算とは、医療・介護・福祉施設および事業所において、実際に勤務している職員の労働時間を基に、常勤職員の人数に換算する方法のことです」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
 - 突き合わせ・推定：
   - 「計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります」（https://comimi.jp/archives/column/fte-kaigo）
   - 「認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、」（https://comimi.jp/archives/column/fte-kaigo）
@@ -10595,6 +10596,7 @@
   - 「具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます」（https://comimi.jp/archives/column/fte-kaigo）
   - 「毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります」（https://comimi.jp/archives/column/fte-kaigo）
   - 「手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「https://www.mhlw.go.jp/content/12200000/001205322.pdf」（https://note.com/yuwa_office/n/ndd4f1677286a）
   - 「「常勤の看護師が辞めてしまったけど、代わりの職員の採用がうまくいっていない」など、常勤の看護師が退職することがわかり、人員基準を満たせない状態になった場合は、なるべく早い段階で指定権者（都道府県・市の介護保険課等）に報告・相談をしましょう」（https://zest.jp/column/personnel-standards）
   - 「また、採用活動を継続して新たに人員を確保できた際の報告が必要かどうかについても、あらかじめ確認しておきましょう」（https://zest.jp/column/personnel-standards）
   - 「基準を下回らないよう、日ごろから看護職員の採用や定着に取り組んでおくことも大切です」（https://zest.jp/column/personnel-standards）
@@ -10604,7 +10606,6 @@
   - 「https://www.mhlw.go.jp/content/12401000/001204019.pdf」（https://note.com/yuwa_office/n/n2b5ac9c7e2be）
   - 「https://www.mhlw.go.jp/bunya/shougaihoken/service/dl/qa08.pdf」（https://note.com/yuwa_office/n/n2b5ac9c7e2be）
   - 「希望に合った求人”だけ”を厳選してお届け！」（https://www.co-medical.com/knowledge/article704/）
-  - 「コメディカルドットコムで介護福祉士求人を探してみる」（https://www.co-medical.com/knowledge/article704/）
 - 失敗・落とし穴：
   - 「有休・産休・兼務など、間違いやすいケースの扱い」（https://comimi.jp/archives/column/fte-kaigo）
   - 「この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
@@ -13442,8 +13443,8 @@
 
 ## 補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど）（verifying claims that weighting reduced nonresponse bias benchmark comparison desk research guide）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）

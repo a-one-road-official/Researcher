@@ -7,8 +7,46 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T01:00:18.366391+00:00",
+ "researched_at": "2026-11-08T07:35:36.318861+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "]. People, however, may question the credibility of fact-checkers for different reasons, including the perception that fact-checkers are biased, concerns around disinformation, or a general distrust in the media or institutions. A crucial question is: How do we know the fact-checkers are accurate? The answer is to check and compare the fact-checkers [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ") was low and the total number of reviewed statements was small as well, which would bias reliability calculations. Discrepancies were resolved after discussion and coders re-performing the fact-checks together.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "One concern with our analysis relates to the perceived liberal political bias that fact-checking organizations might have against a Republican president such as Donald Trump. To address this issue, all available fact-checks during President Biden’s first 100 days were extracted from",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". This analysis helped to indicate if a subtle, yet unknown fact-checking bias existed for",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "because of a person’s unique Google history and what Google assumes the searcher would be interested in. Algorithmic bias in fact-checking and citizens’ experiences should be acknowledged.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "実例": [
    {
     "quote": "Relatedly, some fact-checkers scale the nature of false and misleading statements by providing a “grade” for their deceptiveness. PolitiFact, for example, rates false statements on their Truth-O-Meter from",
@@ -60,94 +98,6 @@
    },
    {
     "quote": "Rahmawan D, Hartanto R, Garnesia I. Multi case analysis on the development of fact-checking organizations in Indonesia. Jurnal Kajian Komunikasi. 2022;10: 14–28. doi: 10.24198/jkk.v10i1.38752",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDF (816.3 KB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conceptualization, Methodology, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -245,39 +195,89 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "]. People, however, may question the credibility of fact-checkers for different reasons, including the perception that fact-checkers are biased, concerns around disinformation, or a general distrust in the media or institutions. A crucial question is: How do we know the fact-checkers are accurate? The answer is to check and compare the fact-checkers [",
+    "quote": "Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": ") was low and the total number of reviewed statements was small as well, which would bias reliability calculations. Discrepancies were resolved after discussion and coders re-performing the fact-checks together.",
+    "quote": "Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "One concern with our analysis relates to the perceived liberal political bias that fact-checking organizations might have against a Republican president such as Donald Trump. To address this issue, all available fact-checks during President Biden’s first 100 days were extracted from",
+    "quote": "Conceptualization, Methodology, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": ". This analysis helped to indicate if a subtle, yet unknown fact-checking bias existed for",
+    "quote": "Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "because of a person’s unique Google history and what Google assumes the searcher would be interested in. Algorithmic bias in fact-checking and citizens’ experiences should be acknowledged.",
+    "quote": "database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321",
+    "quote": "and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (816.3 KB)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -308,12 +308,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "status": "ok",
     "method": "http"
    },
@@ -323,27 +323,27 @@
     "method": "browser"
    },
    {
-    "url": "https://argumentree.ai/ja/blog/fact-checking-with-multiple-ai-models/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tag/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.netattest.com/fact-checking-2024_mkt_tst",
     "status": "ok",
     "method": "http"
    },
    {
+    "url": "https://argumentree.ai/ja/blog/fact-checking-with-multiple-ai-models/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai__worker/n/nb2d5e8872a65",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/rami_engineer/n/nc1038887d1b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_security_/n/n369a70781423",
     "status": "ok",
     "method": "http"
    },
@@ -363,6 +363,11 @@
     "method": "http"
    },
    {
+    "url": "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://fij.info/introduction/basic",
     "status": "ok",
     "method": "http"
@@ -373,17 +378,7 @@
     "method": "http"
    },
    {
-    "url": "https://xn--8pr380g.com/ja/blog/confirmation-matching/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.soumu.go.jp/main_content/000948334.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.ssi.or.jp/journal/pdf/Vol8No3_2.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -398,12 +393,17 @@
     "method": "browser"
    },
    {
-    "url": "https://spectee.co.jp/report/war_narrative_disinformation_ai_part1/",
+    "url": "https://www.ssi.or.jp/journal/pdf/Vol8No3_2.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://classroom-adventure.com/ja/schools/media-literacy",
+    "url": "https://app.testgorilla.com/preview/60b6cc47-2008-4731-956c-9a9f0687de61?language=ja-jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://spectee.co.jp/report/war_narrative_disinformation_ai_part1/",
     "status": "ok",
     "method": "http"
    },
@@ -433,9 +433,9 @@
     "method": "http"
    },
    {
-    "url": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9200394&fileOId=9200415",
+    "url": "https://www.poynter.org/fact-checking/2023/who-fact-checks-the-fact-checkers-research/",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    }
   ]
  },
@@ -447,28 +447,27 @@
     "https://note.com/kagawatomo/n/n74ea6752ae25",
     "https://note.com/kagawatomo/n/n235c187d6f80",
     "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/tata_15/n/n11ebe7d5b8be",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "https://note.com/tai_tek/n/nd5987e6074d8",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/352_shokando/n/n6e6b30daa953"
+    "https://note.com/tata_15/n/n11ebe7d5b8be",
+    "https://note.com/352_shokando/n/n6e6b30daa953",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り） note",
    "results": [
     "https://transparency.meta.com/ja-jp/features/how-fact-checking-works/",
-    "https://argumentree.ai/ja/blog/fact-checking-with-multiple-ai-models/",
-    "https://note.com/tag/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF",
-    "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
     "https://www.netattest.com/fact-checking-2024_mkt_tst",
+    "https://argumentree.ai/ja/blog/fact-checking-with-multiple-ai-models/",
+    "https://note.com/ai__worker/n/nb2d5e8872a65",
     "https://note.com/rami_engineer/n/nc1038887d1b3",
+    "https://note.com/ai_security_/n/n369a70781423",
     "https://flagout.co.jp/ai-article-fact-check/",
     "https://gigazine.net/news/20221220-twitter-community-notes-blind-spot/",
     "https://note.com/shiny_broom7788/n/n6975a56b36e5",
@@ -492,7 +491,7 @@
     "https://learn.microsoft.com/ja-jp/answers/questions/4782600/2-excel-sheet",
     "https://xn--8pr380g.com/ja/blog/confirmation-matching",
     "https://wwstd.jp/media/fact-check/",
-    "https://dank.jp/blog/factcheck/"
+    "https://www.itscom.co.jp/forbiz/column/office-environment/17399/"
    ],
    "engines": [
     "ddgs:google",
@@ -505,20 +504,18 @@
    "results": [
     "https://www.soumu.go.jp/main_content/000948334.pdf",
     "https://fij.info/introduction/basic",
-    "https://www.ssi.or.jp/journal/pdf/Vol8No3_2.pdf",
     "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
     "https://rde.ac/DOIx.php?id=10.5395/rde.2018.43.2.e25",
     "https://argumentree.ai/ja/blog/fact-checking-with-multiple-ai-models/",
+    "https://www.ssi.or.jp/journal/pdf/Vol8No3_2.pdf",
+    "https://app.testgorilla.com/preview/60b6cc47-2008-4731-956c-9a9f0687de61?language=ja-jp",
     "https://spectee.co.jp/report/war_narrative_disinformation_ai_part1/",
-    "https://classroom-adventure.com/ja/schools/media-literacy",
-    "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "https://www.jstage.jst.go.jp/article/ssiproceedings/2024/0/2024_95/_pdf/-char/ja"
+    "https://fungry.co.jp/cnaps/blog/fact-check/"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "cross-checking fact-checkers selection agreement rating agreement study",
@@ -528,9 +525,9 @@
     "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
     "https://pdfs.semanticscholar.org/0ce8/e536b63e2bba6ad231e3d8f579f815e9ea47.pdf",
     "https://ssri.psu.edu/news/true-fact-checkers-tend-agree-validity-news-claims-researchers-say",
-    "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9200394&fileOId=9200415",
     "https://www.poynter.org/fact-checking/2023/who-fact-checks-the-fact-checkers-research/",
     "https://www.pnas.org/doi/10.1073/pnas.2104235118",
+    "https://www.tandfonline.com/doi/full/10.1080/1461670X.2026.2633165",
     "https://journals.sagepub.com/doi/full/10.1177/14648849251371952",
     "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0289004&type=printable"
    ],
@@ -562,9 +559,19 @@
   },
   {
    "query": "site:x.com 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/HayakawaYukio/status/2096783790396096938",
+    "https://x.com/tokyofactkyokai",
+    "https://x.com/GooGaaGuuGeeGii/status/2104431300941951174",
+    "https://x.com/azabu_food/status/2099699685397332040",
+    "https://x.com/fact_check_jp",
+    "https://x.com/tokyo_factcheck",
+    "https://x.com/FIJ_factcheck"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）",
@@ -574,8 +581,8 @@
     "https://jp.linkedin.com/posts/daisuke-oda-25766941_チェックは通ったでも1本足りなかった-検証は作った意図と突き合わせて終わる-activity-7517021123612590080-aHln",
     "https://www.linkedin.com/feed/update/urn:li:activity:7458408587774652416/",
     "https://jp.linkedin.com/posts/daisukefuruta_世界のファクトチェック団体の苦境と成長jfc記事動画や関連記事今週のファクトチェック-activity-7454001605835685888-2075",
-    "https://jp.linkedin.com/pulse/chain-verification-unlocking-power-fact-checking-7znxf?tl=ja",
-    "https://jp.linkedin.com/posts/daisukefuruta_ファクトチェックの世界大会で日本チームが優勝jfc検証5本など今週のファクトチェック-activity-7405727192762085376-uKuV"
+    "https://jp.linkedin.com/posts/daisukefuruta_ファクトチェックの世界大会で日本チームが優勝jfc検証5本など今週のファクトチェック-activity-7405727192762085376-uKuV",
+    "https://jp.linkedin.com/pulse/chain-verification-unlocking-power-fact-checking-7znxf?tl=ja"
    ],
    "engines": [
     "ddgs:bing"
@@ -585,13 +592,13 @@
   {
    "query": "site:facebook.com 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）",
    "results": [
-    "https://www.facebook.com/japanfactcheckcenter/",
     "https://www.facebook.com/groups/factcheck.community/",
+    "https://www.facebook.com/japanfactcheckcenter/",
     "https://www.facebook.com/FactCheckInitiativeJapan/",
     "https://bs-ba.facebook.com/FactCheckInitiativeJapan/posts/協力事例fijが台湾のファクトチェック団体の調査に協力した案件のご紹介です誤りネット情報チャーター機で武漢から帰国した日本人が1人1台の救急車に乗車は事実かta/919912411843807/",
     "https://www.facebook.com/journalismXfund/posts/イベント参加報告ファクトチェックの仕組みと国内外の現状5月31日東京中央区の公共施設協働ステーション中央にて誤情報に惑わされない社会を構築する-真偽検証のプラッ/552217049630075/",
-    "https://www.facebook.com/japanfactcheckcenter/videos/実践編-第1章ファクトチェック実践編の初回は情報を検証する際にまず何から始めたらいいのかファクトチェックの検証対象検証過程検証結果3つ構成について解説しますシリ/1208847903861399/",
-    "https://www.facebook.com/ryukyushimpo/posts/動画で見る沖縄知事選ファクトチェック18の言説を検証-琉球新報ほか２紙連携分析沖縄県知事選/1738452091620792/"
+    "https://www.facebook.com/ryukyushimpo/posts/動画で見る沖縄知事選ファクトチェック18の言説を検証-琉球新報ほか２紙連携分析沖縄県知事選/1738452091620792/",
+    "https://www.facebook.com/NHKonline/posts/ｂｓスペシャル-真実をめぐる攻防-アメリカ-ファクトチェックの最前線httpswwwwebnhktvanbsspplseries-tep-6nmmpmnk5ke/1426444802177726/"
    ],
    "engines": [
     "ddgs:google"
@@ -601,6 +608,7 @@
   {
    "query": "2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り） note 社長",
    "results": [
+    "https://transparency.meta.com/ja-jp/features/how-fact-checking-works/",
     "https://www.netattest.com/fact-checking-2024_mkt_tst",
     "https://note.com/fact_check_1/n/n541df643cbef",
     "https://app.testgorilla.com/preview/4652f9a5-139d-4d95-874b-2b2ae9d22b92?language=ja-jp",
@@ -608,12 +616,14 @@
     "https://note.com/tag/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF",
     "https://flagout.co.jp/ai-article-fact-check/",
     "https://prtimes.jp/main/html/rd/p/000000003.000190920.html",
-    "https://www.fusion.co.jp/column/2021/02/post-292/"
+    "https://note.com/shiny_broom7788/n/n6975a56b36e5",
+    "https://note.com/fact_check_1/n/nbdf0e49569c3"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 15
   },
   {
    "query": "2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り） X 投稿",
@@ -626,29 +636,31 @@
     "https://www.pref.miyagi.jp/documents/64857/1-3-1urushida.pdf",
     "https://www.nikkei.com/article/DGXZQOCD0740Y0X00C25A2000000/",
     "https://www.asahi.com/special/factcheck/",
-    "https://fungry.co.jp/cnaps/blog/fact-check/"
+    "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "https://www.factcheckcenter.jp/jfc-guidlines/"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "cross-checking fact-checkers selection agreement rating agreement study site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/enocknyariki",
     "https://uk.linkedin.com/in/kalina-bontcheva-940156",
-    "https://www.linkedin.com/pulse/overseeing-ai-generated-code-scott-thurlow-zkddc",
+    "https://www.linkedin.com/in/enocknyariki",
     "https://www.linkedin.com/in/fmenczer",
-    "https://www.linkedin.com/in/michelle-amazeen-49b39210",
-    "https://www.linkedin.com/in/conrad-borchers-9a8786169/en",
-    "https://hr.linkedin.com/in/mato-brautovic-92b1b91a",
-    "https://www.linkedin.com/in/msavener",
+    "https://www.linkedin.com/pulse/overseeing-ai-generated-code-scott-thurlow-zkddc",
     "https://www.linkedin.com/in/james-caverlee-7b548770",
-    "https://www.linkedin.com/top-content/education/reading-and-learning-skills/how-to-conduct-a-literature-review/"
+    "https://sg.linkedin.com/in/edson-tandoc-86b89261",
+    "https://hr.linkedin.com/in/mato-brautovic-92b1b91a",
+    "https://www.linkedin.com/in/conrad-borchers-9a8786169/en",
+    "https://www.linkedin.com/in/michelle-amazeen-49b39210",
+    "https://www.linkedin.com/in/cheng-chen-7b0a8a307"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -656,6 +668,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T13:58:12.901656+00:00"
 }
