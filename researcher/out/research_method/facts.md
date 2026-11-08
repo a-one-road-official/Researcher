@@ -778,6 +778,8 @@
 - 文脈：型
 - 手順・やり方：
   - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
+  - 「「戦略コンサルタント」の仕事や採用動向、転職方法をご紹介していきます」（https://www.movin.co.jp/consul/career_works/analyst.html）
+  - 「未経験からコンサル転職を目指している方へ、その転職方法と積極採用＆未経験歓迎のコンサル求人情報をご紹介致します」（https://www.movin.co.jp/consul/career_works/analyst.html）
   - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
   - 「プロフェッショナル／ハンズオン型経営コンサルティング会社/年収：～1600万円/東京都」（https://www.kotora.jp/c/77700-2/）
@@ -790,8 +792,6 @@
   - 「を、“手順と図解”で丁寧に解き明かした1冊です」（https://note.com/hiradairaheipei/n/na29c20d99741）
   - 「リサーチを4ステップで設計する“構造化の手法”」（https://note.com/hiradairaheipei/n/na29c20d99741）
   - 「「調べる」だけでなく「つくる」リサーチの方法」（https://note.com/hiradairaheipei/n/na29c20d99741）
-  - 「→ 複雑な情報をシンプルに可視化するフレームワーク思考」（https://note.com/hiradairaheipei/n/na29c20d99741）
-  - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
 - 突き合わせ・推定：
   - 「まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
@@ -846,16 +846,16 @@
   - 「【診断士2次試験・事例Ⅲ】営業面と生産面QCD改善で生産管理攻略」（https://biz-con.plus/skillup-researchprocess/）
   - 「診断士2次試験の事例Ⅲは生産・技術戦略を問われる事例です」（https://biz-con.plus/skillup-researchprocess/）
   - 「事例Ⅲは他事例と比較するとイメージがつきにくい方が多いため取り組みにくいイメージがありますが、試験で特定の生産・技術知識を問われることはありません」（https://biz-con.plus/skillup-researchprocess/）
+  - 「下記の表には該当しない例外的な給与や役職の事例も存在し、一概にこの給与というわけではありません」（https://www.movin.co.jp/consul/career_works/analyst.html）
+  - 「国内戦略コンサルティングファームのドリームインキュベータ（DI） でケース面接対策＋キャリアセミナーが開催されます」（https://www.movin.co.jp/consul/career_works/analyst.html）
+  - 「本勉強会では、選考フローや入社後の研修体制についての説明に加え、ケース面接に向けた実践的な対策ポイントを学ぶことができます」（https://www.movin.co.jp/consul/career_works/analyst.html）
+  - 「300万～500万アップの転職支援事例多数」（https://www.movin.co.jp/consul/career_works/analyst.html）
   - 「例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「結果として、アウトプットの説得力は格段に高まります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「【診断士2次試験・事例IV】設備投資評価ではNPV計算を極めよう」（https://biz-con.plus/skillup-researchprocess/）
   - 「例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
   - 「結果として、アウトプットの説得力は格段に高まります」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
   - 「【診断士2次試験・事例IV】収益・効率・安全3指標で制す経営分析」（https://biz-con.plus/skillup-researchprocess/）
-  - 「そのため、事例IVを得意にすることは、そのまま診断士2次試験の突破に直結します」（https://biz-con.plus/skillup-researchprocess/）
-  - 「本記事では、事例IVの中でも毎年出題される経営分析について、おさえておくべきポイント、解答プロセスを紹介します」（https://biz-con.plus/skillup-researchprocess/）
-  - 「戦略コンサルタントを目指すみなさんにケース面接でに出題される問題ををご紹介」（https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/）
-  - 「コンサルティングファームへの転職対策に欠かせないケース面接問題の例題を「良問」ばかり集めました」（https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/）
 - 検索結果の抜粋：
   - 「【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会... — Sep 30, 2022 · 目次 [ ] リサーチの重要性 リサーチ方法（デスクリサーチ）の紹介 ①リサーチ目的の確認 ②リサーチプランの設計 ③リサーチの実施 ④アウトプットの作成 実例の紹介 ①リサーチの目的（実例） ②リサーチプランの設計（実例） ③リサーチの実施（実例）」（https://www.arts-crafts.co.jp/post-16243/）
   - 「【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会... — Sep 30, 2022 · 外資就活（2022）「調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプロフェッショナルの極意 (2)」 みずほ銀行（2022）「コンテンツ産業の展望 2022 ～日本企業の勝ち筋～」」（https://www.arts-crafts.co.jp/post-16243/）
@@ -3836,6 +3836,8 @@
   - 「電子公告の場合は要旨ではなく全文の掲載が必要で、かつ5年間の継続掲載義務がある点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
   - 「ただし電子公告は5年間の継続掲載が必要で、「要旨」ではなく「全文」を掲載する必要がある点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
 - 実例：
+  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「10. 特殊ケース：持株会社・グループ会社・組織再編」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「：全国紙の場合、掲載スペースによって異なるが数十万円〜100万円以上かかるケースもある」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「現状では法務局が能動的に全企業をチェックするリソースはなく、実際に過料が科されるケースは多くない」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -3849,8 +3851,6 @@
   - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「貸借対照表の数値だけを転記して満足してしまい、損益計算書の数値である当期純利益の付記を忘れるケースが後を絶ちません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「「流動資産は千円単位、固定資産は円単位」のように、同じ表の中で異なる単位が混在するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「端数処理（四捨五入・切り捨て）の結果、資産合計と負債及び純資産合計に差異が生じることがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
@@ -10669,6 +10669,10 @@
 ## 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ（analysis of competing hypotheses limitations hypothesis mapping empirical evidence）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「ホイヤーによるとこのステップが最も重要になります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「以上が情報分析の一つの方法である競合する仮説の分析ACHです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「プロセスの最初のステップは可能性のあるすべての仮説を特定することです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -10680,10 +10684,6 @@
   - 「彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「戦前の日本海軍において、極めて先駆的な情報分析の方法論が存在していました」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「戦略教官として海軍大学校で教鞭をとった彼は、情報をいかにして戦略判断に結びつけるかについて、自らの方法論を「合理的敵情判断ノ方法」として体系化しました」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「髙橋(2013)によると、井上の方法論は三つの側面から成り立っています」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「競合仮説分析（ACH）と井上成美の「合理的敵情判断ノ方法」は、一見するとまったく異なる時代と文化の産物です」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「いわば、ACHが「バイアスを排除する道具」だとすれば、井上の方法は「バイアスを含んだまま、それを飼い慣らす知恵」とも言えるかもしれません」（https://note.com/haurix/n/ncc5a33f069f9）
 - 突き合わせ・推定：
   - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -10717,6 +10717,11 @@
   - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 失敗・落とし穴：
+  - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「これらの社会的に構成された要因は、どの仮説が最終的に検討されるかを制限または識別し選択されたものの確証バイアスを強化する場合があります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -10727,12 +10732,10 @@
   - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「こうした「思考のクセ」、すなわち認知バイアスの存在は、日常生活だけでなく、企業経営、政策決定、国家の安全保障にまで影響を与えるのです」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「近年、こうしたバイアスの影響を軽減しようとする試みが注目を集めています」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「インテリジェンス失敗の構造──情報分析を歪める認知バイアスとは」（https://note.com/haurix/n/ncc5a33f069f9）
 - 実例：
+  - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「アナリストは感度分析を使用して結果をテストします」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「アナリストは感度分析を使用して結果をテストします」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -10745,9 +10748,6 @@
   - 「例えば、「勉強時間が自信を高め、成績に影響するが、その効果は性別によって異なる」という場合です」（https://note.com/takahitosasaki83/n/n46a21dced431）
   - 「例えば，MがX→Yの関連を媒介する効果が，少年には見出されるが少女には見出されないというケースも考えられる」（https://note.com/takahitosasaki83/n/n46a21dced431）
   - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
-  - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
-  - 「1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる」（https://diamond.jp/articles/-/290369）
-  - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
 - 検索結果の抜粋：
   - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
   - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）

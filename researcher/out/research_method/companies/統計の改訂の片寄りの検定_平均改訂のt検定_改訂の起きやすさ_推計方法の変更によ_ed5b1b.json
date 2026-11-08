@@ -8,60 +8,8 @@
  ],
  "context": "統計の版",
  "kind": "market",
- "researched_at": "2026-11-08T01:44:07.475509+00:00",
+ "researched_at": "2026-11-08T08:29:56.284244+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "(for example, a given month or quarter) a revision can be defined as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
@@ -83,6 +31,26 @@
    },
    {
     "quote": "Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "(for example, a given month or quarter) a revision can be defined as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
     "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -199,6 +167,38 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -255,12 +255,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://note.com/dd_techblog/n/n8907f500b7e1",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "url": "https://note.com/dd_techblog/n/n8907f500b7e1",
     "status": "ok",
     "method": "http"
    },
@@ -281,16 +281,6 @@
    },
    {
     "url": "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jstage.jst.go.jp/article/jamt/74/J-STAGE-1/74_24J1-5/_html/-char/ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
     "status": "ok",
     "method": "http"
    },
@@ -335,12 +325,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.emerald.com/mgrj/article/4/2/25/1328212/t-Test-The-Good-the-Bad-the-Ugly-amp-the-Remedy",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/paired-sample-t-test/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12366075/",
     "status": "ok",
     "method": "http"
    },
@@ -350,8 +335,13 @@
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
+    "url": "https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/paired-sample-t-test/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emerald.com/mgrj/article/4/2/25/1328212/t-Test-The-Good-the-Bad-the-Ugly-amp-the-Remedy",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -372,10 +362,9 @@
     "https://note.com/uminomieruheya/n/nf38fa7d953a7"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） note",
@@ -384,15 +373,15 @@
     "https://jeaweb.jp/files/about_epi_research/contest2017_3_v4.pdf",
     "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
     "https://www.jschild.or.jp/wp-content/uploads/2023/12/%E9%88%B4%E6%9C%A8%E7%BE%8E%E6%9E%9D%E5%AD%90%E5%85%88%E7%94%9F-%E3%80%8E%E5%B0%8F%E5%85%90%E4%BF%9D%E5%81%A5%E7%A0%94%E7%A9%B6%E3%80%8F%E8%AC%9B%E6%BC%94%E6%8A%84%E9%8C%B2%EF%BC%88%E7%AC%AC82%E5%B7%BB1%E5%8F%B7%EF%BC%890016-0023.pdf",
-    "https://note.com/dd_techblog/n/n8907f500b7e1",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://note.com/dd_techblog/n/n8907f500b7e1",
     "https://logics-of-blue.com/t-test/",
     "https://note.com/mototchen/n/n3f7bb0989f47",
-    "https://bellcurve.jp/statistics/course/9414.html",
-    "https://note.com/working_cat2026/n/n5a0a65e6c5f9"
+    "https://note.com/rd_analytics_hub/n/n24b666569ca7",
+    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -407,15 +396,12 @@
     "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
     "https://logics-of-blue.com/t-test/",
     "https://www.jma.go.jp/jma/kishou/know/stats/shishin/shishin_all.pdf",
-    "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
-    "https://www.jstage.jst.go.jp/article/jamt/74/J-STAGE-1/74_24J1-5/_html/-char/ja",
-    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja"
+    "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 8
   },
   {
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） 事例",
@@ -428,8 +414,8 @@
     "https://waidai-csc.jp/updata/2018/11/EZRNyumon.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://www.soumu.go.jp/main_content/000607858.pdf",
-    "https://www.jstage.jst.go.jp/article/jamt/74/J-STAGE-1/74_24J1-5/_html/-char/ja",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1196"
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja"
    ],
    "engines": [
     "ddgs:google",
@@ -442,21 +428,20 @@
    "results": [
     "https://numiqo.com/tutorial/t-test",
     "https://www.scribbr.com/statistics/t-test/",
-    "https://www.emerald.com/mgrj/article/4/2/25/1328212/t-Test-The-Good-the-Bad-the-Ugly-amp-the-Remedy",
-    "https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/paired-sample-t-test/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12366075/",
     "https://www.jmp.com/en/statistics-knowledge-portal/inferential-statistics/hypothesis-testing/t-test",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
+    "https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/paired-sample-t-test/",
+    "https://www.emerald.com/mgrj/article/4/2/25/1328212/t-Test-The-Good-the-Bad-the-Ugly-amp-the-Remedy",
     "https://statistics.laerd.com/spss-tutorials/independent-samples-t-test-using-spss-statistics.php",
     "https://open.maricopa.edu/psy230mm/chapter/chapter-12-repeated-measures/",
-    "https://en.wikipedia.org/wiki/Student%27s_t-test",
+    "https://www.graphpad.com/guides/the-ultimate-guide-to-t-tests",
     "https://docs.ropensci.org/reviser/articles/revision-analysis.html"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "site:note.com 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）",
@@ -467,10 +452,10 @@
     "https://note.com/natty_sage62/n/n0659a25806bb",
     "https://note.com/alert_hyssop1862/n/nc1634cc2d775",
     "https://note.com/working_cat2026/n/n5a0a65e6c5f9",
-    "https://note.com/e_dao/n/n0f8b099678ef",
     "https://note.com/e_dao/n/n77d5c6aa93f6",
-    "https://note.com/jones_shina/n/n5ec6866e052d",
-    "https://note.com/rd_analytics_hub/n/n24b666569ca7"
+    "https://note.com/rd_analytics_hub/n/n24b666569ca7",
+    "https://note.com/e_dao/n/n0f8b099678ef",
+    "https://note.com/jones_shina/n/n5ec6866e052d"
    ],
    "engines": [
     "ddgs:google",
@@ -481,13 +466,13 @@
   {
    "query": "site:x.com 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）",
    "results": [
-    "https://x.com/genkuroki/status/1694583722346226102",
-    "https://x.com/hiro_stat/status/2117460646451458315",
-    "https://x.com/genkuroki/status/1769128234548133970",
     "https://x.com/genkuroki/status/1757384151999934557",
+    "https://x.com/genkuroki/status/1694583722346226102",
     "https://x.com/genkuroki/status/1685474202936279040",
-    "https://x.com/genkuroki/status/2117882532897419477",
-    "https://x.com/ArtHappyMuseum/status/2057414454128853488"
+    "https://x.com/genkuroki/status/1769128234548133970",
+    "https://x.com/hiro_stat/status/2117460646451458315",
+    "https://x.com/ArtHappyMuseum/status/2057414454128853488",
+    "https://x.com/genkuroki/status/2117882532897419477"
    ],
    "engines": [
     "ddgs:google"
@@ -497,16 +482,16 @@
   {
    "query": "site:linkedin.com 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）",
    "results": [
-    "https://jp.linkedin.com/pulse/demystifying-hypothesis-testing-averages-means-dr-shantanu-kumar-huisf?tl=ja",
     "https://jp.linkedin.com/pulse/demystifying-hypothesis-testing-averages-means-varsigma-sjizf?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-t-test-simple-guide-dr-saurabh-prasad-zfxhc?tl=ja",
+    "https://jp.linkedin.com/pulse/demystifying-hypothesis-testing-averages-means-dr-shantanu-kumar-huisf?tl=ja",
+    "https://jp.linkedin.com/pulse/one-sample-hypothesis-testing-z-test-t-test-chinnakondu-ru2se?tl=ja",
     "https://jp.linkedin.com/pulse/step-by-step-guide-choosing-performing-right-test-dr-preeti-8ccyc?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-z-test-t-test-key-tools-statistical-data-beekhani-7z04f?tl=ja",
     "https://www.linkedin.com/posts/york-date_t検定の種類と使い分け対応ありと対応なしの違い-コラムを書きましたt検定の-activity-7314977500160315394-Umqi",
-    "https://www.linkedin.com/posts/shljapan_t検定を用いた統計的有意の解説-shlタレントマネジメントソリューション-activity-7293442514005409801-PhhJ",
-    "https://jp.linkedin.com/pulse/understanding-z-test-t-test-key-tools-statistical-data-beekhani-7z04f?tl=ja"
+    "https://www.linkedin.com/posts/shljapan_t検定を用いた統計的有意の解説-shlタレントマネジメントソリューション-activity-7293442514005409801-PhhJ"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -531,17 +516,17 @@
    "results": [
     "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
     "https://jeaweb.jp/files/about_epi_research/contest2017_3_v4.pdf",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
     "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
+    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://smart-analytics.jp/learning/analysis-guide/parametric-vs-nonparametric/",
     "https://www.jschild.or.jp/wp-content/uploads/2023/12/%E9%88%B4%E6%9C%A8%E7%BE%8E%E6%9E%9D%E5%AD%90%E5%85%88%E7%94%9F-%E3%80%8E%E5%B0%8F%E5%85%90%E4%BF%9D%E5%81%A5%E7%A0%94%E7%A9%B6%E3%80%8F%E8%AC%9B%E6%BC%94%E6%8A%84%E9%8C%B2%EF%BC%88%E7%AC%AC82%E5%B7%BB1%E5%8F%B7%EF%BC%890016-0023.pdf",
+    "https://smart-analytics.jp/learning/analysis-guide/parametric-vs-nonparametric/",
     "https://note.com/dd_techblog/n/n8907f500b7e1",
     "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
-    "https://bellcurve.jp/statistics/course/9414.html"
+    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -550,15 +535,15 @@
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） X 投稿",
    "results": [
     "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://x.com/genkuroki/status/1623049025309249536",
     "https://logics-of-blue.com/t-test/",
+    "https://jeaweb.jp/files/about_epi_research/contest2017_3_v4.pdf",
+    "https://x.com/genkuroki/status/1623049025309249536",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
     "https://www.jschild.or.jp/wp-content/uploads/2023/12/%E9%88%B4%E6%9C%A8%E7%BE%8E%E6%9E%9D%E5%AD%90%E5%85%88%E7%94%9F-%E3%80%8E%E5%B0%8F%E5%85%90%E4%BF%9D%E5%81%A5%E7%A0%94%E7%A9%B6%E3%80%8F%E8%AC%9B%E6%BC%94%E6%8A%84%E9%8C%B2%EF%BC%88%E7%AC%AC82%E5%B7%BB1%E5%8F%B7%EF%BC%890016-0023.pdf",
     "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
-    "https://jeaweb.jp/files/about_epi_research/contest2017_3_v4.pdf",
+    "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
     "https://bellcurve.jp/statistics/course/9414.html",
-    "https://www.jstage.jst.go.jp/article/jamt/74/J-STAGE-1/74_24J1-5/_html/-char/ja"
+    "https://stat-lab.jp/paired-unpaired-data/"
    ],
    "engines": [
     "ddgs:google",
@@ -581,7 +566,7 @@
     "https://www.linkedin.com/posts/shajan-chakkiath-54b16631_how-to-write-a-strong-research-methodology-activity-7516305698180415489-rvHe"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -589,6 +574,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-05T23:57:14.994793+00:00"
 }

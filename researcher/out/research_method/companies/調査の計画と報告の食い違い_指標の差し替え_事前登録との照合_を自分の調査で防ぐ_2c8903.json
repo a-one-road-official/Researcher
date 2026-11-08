@@ -8,7 +8,7 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-08T01:16:16.366297+00:00",
+ "researched_at": "2026-11-08T08:30:01.645299+00:00",
  "evidence": {
   "実例": [
    {
@@ -99,74 +99,6 @@
    },
    {
     "quote": "PDF (1.5 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Nonetheless, caution is warranted when comparing estimates across studies using different criteria.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Both power and precision analyses require assumptions about the proportion of manuscripts with discrepancies in both the control and experimental group. For the control group, we assume a base-rate of 33% of manuscripts with at least one primary outcome discrepancy, which is the point estimate from a relevant meta-analysis [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "= 0.05, power = 0.80). Alternatively, to estimate the difference between the two groups within a range of 20% (e.g. to show the experimental group has between 10% and 30% fewer manuscripts with primary outcome discrepancies), would require 120 manuscripts per group (95% confidence interval).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Outcome switching towards positive results might overestimate treatment effects for published data.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -301,6 +233,74 @@
    },
    {
     "quote": "it is probable that industry funded research is more well planned at the time of trial registration. However, for-profit funded research has also been associated with non-publication of trials and publication bias favoring positive results. Hence, the negative association between for-profit RCTs and outcome switching could be due to publication bias rather than superior study quality",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Nonetheless, caution is warranted when comparing estimates across studies using different criteria.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Both power and precision analyses require assumptions about the proportion of manuscripts with discrepancies in both the control and experimental group. For the control group, we assume a base-rate of 33% of manuscripts with at least one primary outcome discrepancy, which is the point estimate from a relevant meta-analysis [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "= 0.05, power = 0.80). Alternatively, to estimate the difference between the two groups within a range of 20% (e.g. to show the experimental group has between 10% and 30% fewer manuscripts with primary outcome discrepancies), would require 120 manuscripts per group (95% confidence interval).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Outcome switching towards positive results might overestimate treatment effects for published data.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -463,12 +463,12 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/modern_flea8708/n/nde1c36e50e00",
+    "url": "https://note.com/gtminami/n/ndbb3ffda04a1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/gtminami/n/ndbb3ffda04a1",
+    "url": "https://note.com/modern_flea8708/n/nde1c36e50e00",
     "status": "ok",
     "method": "http"
    },
@@ -478,12 +478,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/engikoumu/n/n88d87d17413b",
+    "url": "https://note.com/kagawatomo/n/n42d0b810bb1b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n42d0b810bb1b",
+    "url": "https://note.com/engikoumu/n/n88d87d17413b",
     "status": "ok",
     "method": "http"
    },
@@ -553,12 +553,7 @@
     "method": "http"
    },
    {
-    "url": "https://researto.com/column/market-research-bias/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.rjc.co.jp/column/207",
+    "url": "https://researto.com/column/qualitative-research-pre-task-homework/",
     "status": "ok",
     "method": "http"
    },
@@ -568,12 +563,17 @@
     "method": "http"
    },
    {
-    "url": "https://surveroid.jp/mr-journal/interview/tkbA5",
+    "url": "https://www.macromill.com/service/column/entry-049/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.macromill.com/service/words/preliminary-survey/",
+    "url": "https://www.rjc.co.jp/column/207",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://surveroid.jp/mr-journal/interview/tkbA5",
     "status": "ok",
     "method": "http"
    },
@@ -618,16 +618,16 @@
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 site:note.com",
    "results": [
-    "https://note.com/modern_flea8708/n/nde1c36e50e00",
     "https://note.com/gtminami/n/ndbb3ffda04a1",
+    "https://note.com/modern_flea8708/n/nde1c36e50e00",
     "https://note.com/reading_monkey/n/nd296c3a4db64",
-    "https://note.com/engikoumu/n/n88d87d17413b",
     "https://note.com/kagawatomo/n/n42d0b810bb1b",
+    "https://note.com/engikoumu/n/n88d87d17413b",
     "https://note.com/comix_ceo162230/n/n6d056c7b9122",
-    "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "https://note.com/kagawatomo/n/n8d34f285f63a",
     "https://note.com/gtminami/n/na86c288c1b46",
-    "https://note.com/jack4manastalk/n/n880406135053"
+    "https://note.com/betaitohuman/n/n3c1ec4aa9ad6",
+    "https://note.com/kagawatomo/n/n8d34f285f63a",
+    "https://note.com/ichi_twnovel/n/n56533998f7d3"
    ],
    "engines": [
     "ddgs:bing",
@@ -644,9 +644,9 @@
     "https://mixpanel.com/blog/?p=2228",
     "https://note.com/shintaku0707/n/ne0d4b9206189",
     "https://www.piano.io/ja/resources/why-personalization-can-backfire",
-    "https://hybrid-analysis.com/sample/7f4c136e54045e917da50be35d7025451d64a8fd06a0e658c39c2e0508030ac4/5a75d5327ca3e15563409593",
     "https://blog.marvelsupply.jp/way-of-smart-survey",
     "https://u-site.jp/alertbox/better-diary-studies",
+    "https://researto.com/column/brand-tracking-survey-design/",
     "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ],
    "engines": [
@@ -664,13 +664,13 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.intage.co.jp/gallery/research-kotsu-2/",
     "https://www.macromill.com/service/column/entry-063/",
+    "https://trademark.jp/report/trademark/namingresearch",
     "https://researto.com/column/market-research-bias/",
     "https://www.fast-ask.com/blog/articles/questionnaire-survey-analysis.html",
-    "https://insight.rakuten.co.jp/knowledge/column/column028/",
     "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -679,18 +679,18 @@
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 事例",
    "results": [
     "https://www.asmarq.co.jp/column/column-cat/how_to/pre_post_survey/",
-    "https://www.intage.co.jp/gallery/research-kotsu-2/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://researto.com/column/market-research-bias/",
-    "https://www.rjc.co.jp/column/207",
-    "https://u-site.jp/alertbox/10-survey-challenges",
+    "https://researto.com/column/qualitative-research-pre-task-homework/",
+    "https://www.intage.co.jp/gallery/research-kotsu-2/",
     "https://trademark.jp/report/trademark/namingresearch",
+    "https://u-site.jp/alertbox/10-survey-challenges",
+    "https://www.macromill.com/service/column/entry-049/",
+    "https://www.rjc.co.jp/column/207",
     "https://surveroid.jp/mr-journal/interview/tkbA5",
-    "https://www.macromill.com/service/words/preliminary-survey/",
     "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -710,10 +710,10 @@
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "site:note.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
@@ -721,12 +721,12 @@
     "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "https://note.com/loyal_condor224/n/nae321f95f5ca",
     "https://note.com/aymix117/n/n45ece81fcb94",
-    "https://note.com/fujikawa/n/na7fc99ddbd3d?magazine_key=m3dd7e2846369",
     "https://note.com/hidetoshi_h_/n/ne2921ea57407",
+    "https://note.com/fujikawa/n/na7fc99ddbd3d?magazine_key=m3dd7e2846369",
     "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/modern_flea8708/n/nfa3f4906fbe6",
-    "https://note.com/jack4manastalk/n/ne65c687f3069",
     "https://note.com/platypus2000jp/n/n51ee55d311eb",
+    "https://note.com/jack4manastalk/n/ne65c687f3069",
+    "https://note.com/modern_flea8708/n/nfa3f4906fbe6",
     "https://note.com/jack4manastalk/n/n0901b43af62b"
    ],
    "engines": [
@@ -739,13 +739,13 @@
    "query": "site:x.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
    "results": [
     "https://x.com/i/article/2113752054435123491",
-    "https://x.com/ai_hacks_akira/status/2114369650003956015",
     "https://x.com/ai_hacks_akira/status/2115353193681236215",
+    "https://x.com/ai_hacks_akira/status/2114369650003956015",
     "https://x.com/kiriwake_ai/status/2110494856913309920",
     "https://x.com/VAIZO_commit/status/2107419181335630172",
-    "https://x.com/K_Ichida/status/2112717001785569658",
     "https://x.com/aidatapartner/status/2112777792299352550",
-    "https://x.com/HiWind_Kamakura/status/2103488276107813285"
+    "https://x.com/kakinotane_life/status/2102140836805022033",
+    "https://x.com/triangle_chain/status/2114171703777751395"
    ],
    "engines": [
     "ddgs:bing",
@@ -757,16 +757,16 @@
    "query": "site:linkedin.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
    "results": [
     "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
-    "https://www.linkedin.com/passwordReset/",
-    "https://in.linkedin.com/company/bluestock-fintech",
+    "https://az.linkedin.com/company/queensite?trk=ppro_cprof",
+    "https://il.linkedin.com/company/shiloh-cyber",
+    "https://www.linkedin.com/in/takis-georgakopoulos-bb97b48",
     "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
     "https://jp.linkedin.com/pulse/品質管理の指標を単なる報告で終わらせないためのデータ活用-美徳-鈴木-pibkc",
     "https://jp.linkedin.com/pulse/metrics-reporting-strategic-foundation-assurance-patrick-m-hayes-9xg1c?tl=ja",
-    "https://jp.linkedin.com/pulse/strengthen-your-brand-growth-strategy-focus-right-eya8c?tl=ja",
-    "https://www.linkedin.com/in/nadiya-konstantynova-7270534"
+    "https://www.linkedin.com/pulse/話の食い違いがなくなりウィンウィンを生み出すコミュニケーションの習慣-junsuke-iida"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -774,16 +774,16 @@
   {
    "query": "site:facebook.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
    "results": [
-    "https://www.facebook.com/risktaisaku/posts/bcpで規定した計画と現実との食い違いを抽出し多くの企業に共通のあるあるとして紹介その対処について考える本連載今回から第２章に入りbcpの実効性事業継続マネジメ/779988767500207/",
+    "https://www.facebook.com/risktaisaku/posts/779988767500207/",
     "https://www.facebook.com/kanazawa.nikken/photos/自社で石綿調査を実施している企業様へ朗報石綿調査でこんな経験ありませんか社内で正しい情報共有がない抜けモレ食い違いが発生調査報告の入力に四苦八苦するこのような悩/972873094542017/",
-    "https://www.facebook.com/groups/627324771859424/posts/1686592229266001/",
-    "https://www.facebook.com/groups/627324771859424/posts/1619952769263281/",
-    "https://www.facebook.com/officeken/posts/令和6年度処遇改善加算等-実績報告書様式の差し替えについて7月7日厚生労働省より実績報告書の様式修正の連絡がありましたよって各自治体において今後提出予定の事業所/745074984774158/",
+    "https://www.facebook.com/ryukyushimpo/posts/浦添市の元部長市長に報告した-建設費増めぐり食い違い-百条委-沖縄/1751901616942506/",
     "https://www.facebook.com/groups/627324771859424/permalink/1466822431242983/",
-    "https://www.facebook.com/kyugi.mlit.go.jp/videos/新技術活用計画書実施報告書活用効果調査表web作業に変更/1305445412987570/"
+    "https://www.facebook.com/kyugi.mlit.go.jp/videos/新技術活用計画書実施報告書活用効果調査表web作業に変更/1305445412987570/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/ngoyui/videos/毎日報告熊本色んなカタチ色んなカタチがありますが活動をする前に依頼があってから事前調査や現調などがあって活動をすることができます今回は以前別で活動してた時にうち/931439513041778/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -798,12 +798,14 @@
     "https://note.com/art_reflection/n/n14c9cb6520a0",
     "https://blog.marvelsupply.jp/way-of-smart-survey",
     "https://www.piano.io/ja/resources/why-personalization-can-backfire",
-    "https://u-site.jp/alertbox/better-diary-studies"
+    "https://u-site.jp/alertbox/better-diary-studies",
+    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 X 投稿",
@@ -811,16 +813,16 @@
     "https://help.x.com/ja/safety-and-security/report-abusive-behavior",
     "https://zenn.dev/ats030/articles/how-to-prevent-x-account",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%87%8D%E7%B5%90%E3%81%A8%E3%81%AF%EF%BC%9F%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E8%A7%A3%E9%99%A4%E6%96%B9/",
     "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vLmSiaHpTqI5aI7hunliqtxt4xUpY4FutjQMDvTWB13LFoSzAHh",
+    "https://www.tribalmedia.co.jp/note/twitter-210929/",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vJiDYyhFtZcGVSFEz6vHtlbHk3-OKtOfLsp-sj0tI99GTz8vJsP",
     "https://webtan.impress.co.jp/e/2025/06/26/49535",
     "https://note.com/oyuwari_life/n/n6d9526b2012b",
-    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%87%8D%E7%B5%90%E3%81%A8%E3%81%AF%EF%BC%9F%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E8%A7%A3%E9%99%A4%E6%96%B9/",
-    "https://www.soumu.go.jp/main_content/000938666.pdf",
     "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -833,14 +835,14 @@
     "https://www.linkedin.com/top-content/workplace-trends/trends-in-healthcare-innovation/trends-in-clinical-research-technology/",
     "https://www.linkedin.com/posts/schopfel_open-science-policies-and-practices-among-activity-7503378820675133440-kAOy",
     "https://www.linkedin.com/posts/jehirsch_ai-could-bring-clinical-trials-to-rural-america-activity-7519086174129266688-mNTs",
+    "https://www.linkedin.com/posts/farhan-ashraf-146b6422_the-future-of-clinical-research-making-technology-activity-7520268753943789568-Wm5_",
     "https://www.linkedin.com/pulse/role-frequentist-framework-p-values-statistical-trials-olszewski-igy3f",
-    "https://www.linkedin.com/in/markdavidhensley",
+    "https://www.linkedin.com/posts/francois-clement-bidard_tailorswitch-aka-pada-2-is-launched-activity-7505544456788484096-xMdx",
     "https://www.linkedin.com/posts/rossjacksonconsulting_a-recent-survey-of-120-sponsors-cros-and-activity-7513976172196708352-rcTr",
-    "https://www.linkedin.com/pulse/guide-clinical-trial-sample-size-determination-phase-14-csclinical-x4sce",
-    "https://www.linkedin.com/posts/francois-clement-bidard_tailorswitch-aka-pada-2-is-launched-activity-7505544456788484096-xMdx"
+    "https://uk.linkedin.com/in/francis-osei-b2b02116a"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -848,6 +850,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-06T05:56:44.683092+00:00"
 }
