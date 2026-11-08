@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・216品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・219品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1504,22 +1504,28 @@
 ## AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）（verify AI research claims sources counterevidence uncertainty）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「そして、生成AIは、判決文等の定型」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「化型の生成AIもあり、契約書レビューサービス、文」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「弁護士業務において、ある程度類型的な思考」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「⑴ 文献・判例調査においては、汎用型の生成 AIを」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「⑴ 定型的な訴状であれば、ひな形をあらかじめ生成」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「非定型的な訴状や、どのような要件事実を主張」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「情が強く反映される「非定型的な契約書」をゼロから」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「⑴ 定 型 的 な 規 約 や ポリシーの たたき台 作 成」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「内容が定型化されているドキュメントについては、必」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「義規定と後段の条項で用語の使い方が矛盾していたり、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「⑴ 定 型 メー ル ・ 文 書 の 作 成」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「文、紹介者へのお礼など、定型的な文面の作成は生成」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「取らせ、データ化する方法も便利である」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「「総合型として分野を広げる」かで悩んでいる」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「電話応対の手順や来客対応など、これまで新人事」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「AIから別のAIを呼び出す方法｜GPT・Claude・Gemini・GrokをAPIでつなぐ設計」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「普段使うAIから一工程だけ別AIへ渡す方法を解説します」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「CATL LFP $56/kWh、LG大型契約$9.3B解消、パナソニック4680、BYD垂直統合の中身を数字で読み解きます」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「同じ外貨調達案件でPoCを行う手順も示します」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「イシューツリーとは？AI調査で論点を分解する5つのコツ」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「AIリサーチの情報の抜け落ちを防ぐ確認チェックリストと手順」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「この記事では、AIを使った副業のリサーチ業務で発生する情報の抜け落ちを防ぐための具体的な確認チェックリストと、構造化した手順を解説する」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「ハルシネーションを見破るための逆引きファクトチェック手順」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「AIに偏りの少ないリサーチを強制するための構造化プロンプトの設計方法」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「AIがエラーを出したり途中で止まったりしたときの具体的なリカバリー手順」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「これらを属人化させず、チェックリストという形で手順に落とし込む」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「次章以降で、実際に手を動かして検証するための具体的な手順とプロンプト、チェックリストを公開する」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「有料エリアには、本文で説明した手順をそのまま使える形で1点を入れています」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「『データと科学で仕事・身体・お金を最適化する実験室』では、試して確かめた手順だけを道具にしています」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「要らなければ、ここまでの手順だけで十分に使えます」（https://zenn.dev/andyailab/articles/436444a75f05a0）
 - 突き合わせ・推定：
+  - 「AIリサーチで失敗する原因は、プロンプトの不備ではなく「検証の仕組み（フロー）」の欠如にある」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「次章以降で、実際に手を動かして検証するための具体的な手順とプロンプト、チェックリストを公開する」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「リサーチを「設計」「実行」「検証」「納品前」の4つのフェーズに分割する」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「出力された数字やURLの信頼性をAI自身に検証させる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「AIを使ったリサーチ業務の成否は、AIの性能ではなく「人間側の検証プロセス」にかかっている」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「架空のデータや検証できないURLが含まれている場合は、迷わず破棄して一次情報にあたる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「◦契約書等の文章の論理チェック・矛盾点指摘」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「拠とどこが矛盾していると考えているのかをプロンプ」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「客観的証拠と矛盾している、不合理である、経験則」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
@@ -1529,13 +1535,15 @@
   - 「調査は公開資料による探索的な調査であり、代表性のあるアンケート、市場規模の推計、製品の推奨ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「少数の投稿だけで市場規模は推計できないため」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「調査によって当初の仮説が弱まる余地を残すため」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「これは公開情報による調査で、統計的な市場規模の推計ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「5. 事実と仮説を分けた結論」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「リンクが開くことだけでなく、原文が主張を支えているか照合してください」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「12件の出典は、検証済みの利用事例が12件あるという意味ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「編集時に元ページを別途取得し、AIとツールでこの記述を照合しました」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「今回、別の通常の公開ページ取得方法で原文を読めたものは、内容を照合しました」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
 - 一次情報の探し方：
+  - 「統計データや法律情報にドメインの指定が含まれているか」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「セグメント1：市場規模と主要プレイヤーの洗い出し（公的機関や業界団体の公式データを含むこと）」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「ソースの確認方法（実際にアクセス可能なURL、または一次情報の名称）」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「現象2：存在しないURLや架空の統計データが出力される（ハルシネーション）」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「該当サイトのURLを直接読み込ませるのではなく、サイト内のテキストをコピーしてファイル（TXTやPDF）としてAIにアップロードする」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「: 「無い」と書くときは、探した言葉・探した場所（検索エンジン・データベース・業界団体のサイト）・日付を必ず並べて書く」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「10個出させ、実在する語を採用」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「架空のデータや検証できないURLが含まれている場合は、迷わず破棄して一次情報にあたる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「れは、ある単語の次にどのような単語が続くかを統計」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「◦膨大な文書（PDF, Word など） をアップロード」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「事務所ウェブサイトの更新、スタッフの採用・育成・勤」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
@@ -1543,15 +1551,11 @@
   - 「と、採用・定着の改善策を、中小企業の経営コンサル」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3.pdf）をご参照のこと」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「その際、根拠 （公的機関」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「に応じた柔軟な報酬設計を採用することも否定され」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「＊27：原文については、日弁連の会員専用サイ ト （https://member.nichibenren.or.jp/gyoumu/other/documentFile/AI_2025.pdf） を ご参照のこ と」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「カタログ・特許・保守ログの実装レシピと2026年の最新事例を整理しました」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「製薬R&Dの文献、臨床試験、特許・化学、企業・市場調査に使うAI6製品を、情報源、入力、出力、人が確認する原典で比較します」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「これは公開情報による調査で、統計的な市場規模の推計ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「読みやすい要約だけが返ってきたら、結論を採用する前に出典表を求めます」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「引用先が一次情報か、別資料の要約か」（https://note.com/gtminami/n/n5d18b36d3acc）
 - 失敗・落とし穴：
+  - 「接続役、MCP、共通契約、失敗時の停止条件、単一モデルと複数モデルを比較する判断基準まで整理します」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「事前リサーチ8ワークフロー、4役割スキルシフト、生存戦略4本、6落とし穴、EU AI Act 2026-08 まで、広告実務者向け完全ガイド」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「AIリサーチで失敗する原因は、プロンプトの不備ではなく「検証の仕組み（フロー）」の欠如にある」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「抜け落ちは、間違いと違って画面に出てこないぶん厄介です」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「4 弁護士業務における生成A I 活用上の主な注意点 14頁」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「注意喚起することで、利活用とのバランスを図るもの」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「及する判例については、その内容を鵜呑みにすること」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
@@ -1563,26 +1567,22 @@
   - 「ける生成 AI の利活用等に関する注意事項」 （会員限定」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「れており（執筆者も経験したことがある） 、注意を要す」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「3 日弁連AI 戦略WGによる注意事項＊26」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「「弁護士業務における生成AIの利活用等に関する注意」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「事項」＊27（以下「注意事項」ともいう）を取りまとめ、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「＊26：本稿の作成にあたっては、日弁連WGの注意事項の内容を参考にさせていただいているが、同資料が会員限定の非公開資料であることに鑑み、具」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「同注意事項は日弁連の公式見解を示すものではな」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 - 実例：
+  - 「電池業界のAI戦略事例｜CATL・LG・パナソニック・BYDの勝ち筋」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「AIのリサーチ結果は、書いてあることより「書いていないこと」のほうが怖い」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「結果として、AIを使う前より時間がかかってしまう」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「以下のAIが出力したリサーチ結果に含まれるすべての「数値データ」「固有名詞」「URL」について、情報の信憑性を監査してください」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「https://example.com/report2025」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「以下のテーブル形式で結果を出力してください」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「🔧 中・上級者向け：実務エッジケース対策・例外処理・パラメータ最適化の深掘り」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「: 調査を始める前に、AIに「同じものを指す言い換え・業界の略語・英語の呼び方」を10個出させ、そのうち実在の検索結果がある語をすべて検索の対象に入れる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「: 「国内の事例は見当たらない」と報告したら、クライアントがすぐに事例を見つけた」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「3 弁護士業務における活用事例」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「成AIによる誤情報が法廷に提出された事例として報」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「道された最初の事例であり、また、連邦民事訴訟規則」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「11 条による制裁金が課された最初の事例でもある」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「「AI Hallucination Cases ＊3」という、裁判所による」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「に依拠したと認定された事例を集めたデータベースに」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「＊2：Mata v. Avianca, Inc. Case No. 22-cv-1461 (S.D.N.Y.)」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「な お、上記AI Hallucination Casesに お い て は、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「ない裁判例、書面、条文を生成した事例、②裁判例」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「文言を引用した事例、③関連性がない裁判例や条文」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「を引用した事例、④その後の判例や法改正で時代遅」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「れになった裁判例や条文を引用した事例である」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「例えば、個人情報保護法とその関連するガイドラ」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「示した法令や判例が実在しないケースは依然として多」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「クロスボーダー案 件や海 外の規 制 動 向（ 例えば、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
@@ -2151,6 +2151,7 @@
   - 「OpenAIは調査の結果、同氏のプロンプトは影響し得なかったと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 事実を偽らずに語彙の選択だけで脅威認識と立法の方向を動かす点は、技術事案のフレーミング（認識の枠組み設定）が政策形成に作用する経路として、影響工作の分析でも注視すべき事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 検索結果の抜粋：
+  - 「Top 15 OSINT Tools for Business Intelligence - SalesFuel — Top 15 OSINT Tools for Business Intelligence - SalesFuel SalesFuel https://salesfuel.com > open-source-in...」（https://salesfuel.com/open-source-intelligence-tools/）
   - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【20... — Sep 7, 2026 · OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説。競合調査や市場調査に役立つ公開情報の集め方と、収集を効率化するノーコード手段（Octoparse）、合法的に使うための線引きも紹介します。」（https://www.octoparse.jp/blog/what-is-osint）
   - 「OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサ... — Jul 19, 2020 · まとめ OSINTは、現代社会において非常に重要な情報収集・分析手法の一つです。 適切に活用することで、様々な分野で有益な情報を得ることができますが、情報の信憑性やプライバシーへの配慮など、注意すべき点も存在します。」（https://aitokuconsult.com/security/20250114osint/）
   - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · 本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します。 もしOSINTを行いたい場合は、すぐに専門のフォレンジック調査会社に相談しましょう。」（https://cybersecurity-info.com/column/30403/）
@@ -2165,7 +2166,6 @@
   - 「あなたの会社は大丈夫？ ～メタデータの落とし穴～ - NFLabs. エンジ... — Dec 17, 2021 · セキュリティ研修でOSINT（Open Source Intelligence : 公開されている情報ソースから入手可能なデータを収集・分析する技術）を教えることが多いのですが、今日はOSINTのテクニックの一つであるメタデータの収集について書いていきたいと思います。」（https://blog.nflabs.jp/entry/2021/12/17/094635）
   - 「第32回：メタデータから情報を読み解く - Shikata Ga Nai — Jun 25, 2025 · 写真、文書、PDF、動画などのファイルには、作成者・日時・場所・機器情報などのメタデータが自動的に記録されています。 これらは通常、ファイルを開いても目には見えませんが、OSINT調査では重要な手がかりになります。」（https://cysec148.hatenablog.com/entry/2025/06/25/062841）
   - 「OSINT #5: Metadata Analysis: Uncovering the Hidden Data Layer ... — Mar 5, 2025 · Uncover hidden intelligence in digital files: Master metadata analysis for OSINT investigations. Tools, case studies, and ethical practices every cyber pro needs.」（https://www.cyberquizzer.com/blog/osint-metadata-analysis）
-  - 「OSINT Handbook 2026 | The OSINT Vault — Oct 13, 2026 · The goal is to standardize how you think, search, pivot, and document across cases without sacrificing accuracy. In practice, that means controlling the process even when the data is chaotic.」（https://theosintvault.io/osint-handbook）
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
@@ -4321,7 +4321,7 @@
   - 「This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.」（https://datamgmtinedresearch.com/clean）
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -8831,6 +8831,7 @@
   - 「大会社に該当するかどうかで、決算公告の開示範囲は大きく変わります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「経営の透明性をアピールすることで、採用活動にプラスの効果がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 失敗・落とし穴：
+  - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意 | 千代田区の司法書士事務所「司法書士法人永田町事務所」-商業登記特化-」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説」（https://asanagi.co.jp/2023/03/07/5096/）
@@ -8845,8 +8846,9 @@
   - 「【注意点】 5年間掲載し続ける義務？電子公告の期間とサーバー選びの注意点」（https://secure.kakaro.jp/kessan-koukoku-law-guide/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
-  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
 - 実例：
+  - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「これは、決算公告を怠ったことを理由に実際に過料が科されるケースが多くないためです」（https://sw-kaikei.com/archives/1874）
   - 「試算表や決算書の数字は、あくまで「過去の結果」を表すものです」（https://sw-kaikei.com/archives/1874）
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -8860,9 +8862,8 @@
   - 「【罰則】 決算公告を怠るとどうなる？過料（100万円以下）のリスクと実例」（https://secure.kakaro.jp/kessan-koukoku-law-guide/）
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
 - 検索結果の抜粋：
+  - 「決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab — Oct 17, 2026 · 決算公告とは、株式会社が定時株主総会のあと、貸借対照表（大会社は損益計算書も）を公告する会社法上の義務です。 官報や日刊新聞紙なら要旨で足り、ホームページに5年間掲載する方法も選べます。」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告はいつまでに｜方法の選択と電子公告決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
   - 「決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ... — Oct 17, 2026 · 株式会社は、定時株主総会の終結後、遅滞なく貸借対照表（大会社は損益計算書も）を公告する義務があります。官報や日刊新聞紙で公告する場合は要旨で足り、ホームページに5年間掲載する方法も選べます。公告の内容、公告方法の定め、怠った場合の100万円以下の過料を会社法の条文で ...」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
@@ -12709,8 +12710,32 @@
 
 ## 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方（data provenance checklist period resolution units missing values processing）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
+
+## 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事（survivorship bias correction backfill dead firms pessimistic bounds double selection）
+- 文脈：失敗・落とし穴
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
+
+## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
+- 文脈：突き合わせ
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
+
+## 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）（hypothesis forms moderation mediation business research segment analysis）
+- 文脈：手順
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）

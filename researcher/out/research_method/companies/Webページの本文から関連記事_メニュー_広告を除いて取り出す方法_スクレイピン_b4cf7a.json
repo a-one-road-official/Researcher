@@ -8,76 +8,8 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-07T21:06:23.035271+00:00",
+ "researched_at": "2026-11-08T02:56:56.859966+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "What Is Boilerplate Removal? Methods and Evaluation",
-    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "No method is perfect across every page.",
-    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Rule-Based and Semantic Methods",
-    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Text-density methods divide a page into blocks or lines and score how much natural-language text appears relative to tags or markup. Long paragraphs with punctuation often score as content. Link density helps identify navigation and recommendation lists, where much of the text is inside anchors.",
-    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Repetition is not proof of irrelevance. A product specification, safety warning, author biography, or legal condition may appear on many pages and still matter to the task. Cross-page methods should produce candidate boilerplate that is evaluated against the intended content schema, not an automatic deletion list.",
-    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Machine-learning systems classify blocks using textual, structural, visual, and neighboring features. Sequence models can use the fact that content blocks tend to occur in runs, while graph methods can connect similar blocks or layout relationships. The",
-    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Form Submission and Multi-Step Flows",
-    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Unlike product scraping, one selector rarely does the job, because an article corpus spans many sites and templates. What follows covers the general-purpose tools, how their heuristics work, how to measure them, and when to write per-site rules instead.",
-    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "tags at all. Good extractors combine signals and fall back to another method when the first yields too little.",
-    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "text), and score every extractor against them. Token overlap is good enough to compare methods:",
-    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Annotation Methodology",
-    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "PDF and Document Extraction",
@@ -185,6 +117,74 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "What Is Boilerplate Removal? Methods and Evaluation",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No method is perfect across every page.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rule-Based and Semantic Methods",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Text-density methods divide a page into blocks or lines and score how much natural-language text appears relative to tags or markup. Long paragraphs with punctuation often score as content. Link density helps identify navigation and recommendation lists, where much of the text is inside anchors.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Repetition is not proof of irrelevance. A product specification, safety warning, author biography, or legal condition may appear on many pages and still matter to the task. Cross-page methods should produce candidate boilerplate that is evaluated against the intended content schema, not an automatic deletion list.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Machine-learning systems classify blocks using textual, structural, visual, and neighboring features. Sequence models can use the fact that content blocks tend to occur in runs, while graph methods can connect similar blocks or layout relationships. The",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Form Submission and Multi-Step Flows",
+    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Unlike product scraping, one selector rarely does the job, because an article corpus spans many sites and templates. What follows covers the general-purpose tools, how their heuristics work, how to measure them, and when to write per-site rules instead.",
+    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "tags at all. Good extractors combine signals and fall back to another method when the first yields too little.",
+    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "text), and score every extractor against them. Token overlap is good enough to compare methods:",
+    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Annotation Methodology",
+    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -236,17 +236,17 @@
     "method": "http"
    },
    {
-    "url": "https://docodoor.co.jp/staffblog/web-scraping/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://ai-inter1.com/webscraping_newspaper_2/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.octoparse.jp/blog/web-scraping-challenges",
+    "url": "https://docodoor.co.jp/staffblog/web-scraping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yasu3512/n/nec42bf28e746",
     "status": "ok",
     "method": "http"
    },
@@ -256,12 +256,7 @@
     "method": "http"
    },
    {
-    "url": "https://thunderbit.com/ja/blog/extract-text-from-website",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://techplay.jp/column/601",
+    "url": "https://thunderbit.com/ja/blog/best-article-scraper",
     "status": "ok",
     "method": "http"
    },
@@ -276,17 +271,22 @@
     "method": "http"
    },
    {
-    "url": "https://hnavi.co.jp/knowledge/blog/scraping-development/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://aiacademy.jp/media/?p=341",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/chantatsu_shisan/n/n8bac61a7edfd",
+    "url": "https://qiita.com/Octoparse_Japan/items/902f336d1b328eb38dbf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/scraping-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
     "status": "ok",
     "method": "http"
    },
@@ -296,12 +296,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.canvas-works.jp/journal/python_scraping/",
+    "url": "https://note.com/chantatsu_shisan/n/n8bac61a7edfd",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
+    "url": "https://www.canvas-works.jp/journal/python_scraping/",
     "status": "ok",
     "method": "http"
    },
@@ -368,17 +368,17 @@
    "results": [
     "https://note.com/stamp_/n/nd9ab3d346f58",
     "https://qiita.com/y-araki-qiita/items/c9db8c18998e6cb10de7",
-    "https://www.youtube.com/watch?v=fQ9zNyJ4KH8",
     "https://note.com/nikki_r2d2/n/n7c0547c05be3",
-    "https://docodoor.co.jp/staffblog/web-scraping/",
+    "https://www.youtube.com/watch?v=fQ9zNyJ4KH8",
     "https://ai-inter1.com/webscraping_newspaper_2/",
-    "https://www.octoparse.jp/blog/web-scraping-challenges",
+    "https://docodoor.co.jp/staffblog/web-scraping/",
     "https://note.com/yasu3512/n/nec42bf28e746",
-    "https://www.thestation.jp/insight/mXwSwAoJ",
+    "https://www.octoparse.jp/blog/web-scraping-challenges",
+    "https://www.cloudflare.com/ja-jp/learning/ai/how-to-prevent-web-scraping/",
     "https://note.com/55clotho/n/n816d179b53ec"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -387,18 +387,18 @@
    "query": "Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例） やり方",
    "results": [
     "https://www.shtockdata.com/blog/detail01.php",
-    "https://thunderbit.com/ja/blog/extract-text-from-website",
-    "https://techplay.jp/column/601",
-    "https://www.youtube.com/watch?v=-omSRE_WZrc",
+    "https://thunderbit.com/ja/blog/best-article-scraper",
     "https://www.idnet.co.jp/column/page_240.html",
     "https://data.wingarc.com/scraping-27053",
-    "https://hnavi.co.jp/knowledge/blog/scraping-development/",
+    "https://www.youtube.com/watch?v=-omSRE_WZrc",
     "https://aiacademy.jp/media/?p=341",
-    "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
+    "https://qiita.com/Octoparse_Japan/items/902f336d1b328eb38dbf",
+    "https://hnavi.co.jp/knowledge/blog/scraping-development/",
+    "https://ai-inter1.com/webscraping_newspaper_2/",
     "https://easegis.jp/blog/readability/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -407,14 +407,14 @@
    "query": "Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例） 事例",
    "results": [
     "https://www.shtockdata.com/blog/detail01.php",
-    "https://www.idnet.co.jp/column/page_240.html",
     "https://hnavi.co.jp/knowledge/blog/scraping-development/",
     "https://aiacademy.jp/media/?p=341",
-    "https://data.wingarc.com/scraping-27053",
-    "https://note.com/chantatsu_shisan/n/n8bac61a7edfd",
-    "https://www.ricoh.co.jp/magazines/smb/column/007136/",
-    "https://www.canvas-works.jp/journal/python_scraping/",
+    "https://www.idnet.co.jp/column/page_240.html",
     "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
+    "https://data.wingarc.com/scraping-27053",
+    "https://www.ricoh.co.jp/magazines/smb/column/007136/",
+    "https://note.com/chantatsu_shisan/n/n8bac61a7edfd",
+    "https://www.canvas-works.jp/journal/python_scraping/",
     "https://easegis.jp/blog/readability/"
    ],
    "engines": [
@@ -448,12 +448,12 @@
    "results": [
     "https://note.com/daikawai/n/n9e203dd4063a",
     "https://note.com/tata_15/n/n24119fdba6fa",
+    "https://note.com/karupoimou/n/n4c97d4a2d74f",
     "https://note.com/55clotho/n/n816d179b53ec",
     "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "https://note.com/53___/n/n0e4a04e4ce5b",
     "https://note.com/niti_technology/n/nf614a498b089",
     "https://note.com/stamp_/n/nd9ab3d346f58",
-    "https://note.com/mirecat/n/nd6cb28af7b87",
     "https://note.com/hiro924164/n/n183f3e700578"
    ],
    "engines": [
@@ -521,9 +521,9 @@
    "results": [
     "https://note.com/yasu3512/n/nec42bf28e746",
     "https://ai-inter1.com/webscraping_newspaper_2/",
-    "https://note.com/noble_crane1635/n/n016e54282a0f",
-    "https://www.cloudflare.com/ja-jp/learning/ai/how-to-prevent-web-scraping/",
+    "https://note.com/furokun/n/n8dd33b6e5ff8",
     "https://docodoor.co.jp/staffblog/web-scraping/",
+    "https://www.cloudflare.com/ja-jp/learning/ai/how-to-prevent-web-scraping/",
     "https://blog.tottokug.com/entry/2017/12/09/233000",
     "https://note.com/dialogs_develop/n/n7dd148351285",
     "https://brightdata.jp/blog/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%83%BC%E3%82%BF/web-scraping-without-getting-blocked",
@@ -551,7 +551,7 @@
     "https://easegis.jp/blog/readability/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -571,16 +571,15 @@
     "https://www.linkedin.com/posts/hasantoxr_i-just-found-a-100-open-source-python-activity-7436728689498865664-QjYZ"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 10
   }
  ],
  "missing": {
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-05T15:19:46.211417+00:00"
 }

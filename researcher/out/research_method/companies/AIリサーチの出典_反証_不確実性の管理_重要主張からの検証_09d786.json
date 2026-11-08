@@ -8,9 +8,395 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T20:53:15.150807+00:00",
+ "researched_at": "2026-11-08T03:00:16.238888+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "統計データや法律情報にドメインの指定が含まれているか",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "セグメント1：市場規模と主要プレイヤーの洗い出し（公的機関や業界団体の公式データを含むこと）",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ソースの確認方法（実際にアクセス可能なURL、または一次情報の名称）",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現象2：存在しないURLや架空の統計データが出力される（ハルシネーション）",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "該当サイトのURLを直接読み込ませるのではなく、サイト内のテキストをコピーしてファイル（TXTやPDF）としてAIにアップロードする",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 「無い」と書くときは、探した言葉・探した場所（検索エンジン・データベース・業界団体のサイト）・日付を必ず並べて書く",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "10個出させ、実在する語を採用",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "架空のデータや検証できないURLが含まれている場合は、迷わず破棄して一次情報にあたる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "れは、ある単語の次にどのような単語が続くかを統計",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "◦膨大な文書（PDF, Word など） をアップロード",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "事務所ウェブサイトの更新、スタッフの採用・育成・勤",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "弁護士3名の事務所で、事務員の採用がうまくい",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "と、採用・定着の改善策を、中小企業の経営コンサル",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3.pdf）をご参照のこと",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その際、根拠 （公的機関",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "に応じた柔軟な報酬設計を採用することも否定され",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "＊27：原文については、日弁連の会員専用サイ ト （https://member.nichibenren.or.jp/gyoumu/other/documentFile/AI_2025.pdf） を ご参照のこ と",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "カタログ・特許・保守ログの実装レシピと2026年の最新事例を整理しました",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製薬R&Dの文献、臨床試験、特許・化学、企業・市場調査に使うAI6製品を、情報源、入力、出力、人が確認する原典で比較します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは公開情報による調査で、統計的な市場規模の推計ではありません",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "読みやすい要約だけが返ってきたら、結論を採用する前に出典表を求めます",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "引用先が一次情報か、別資料の要約か",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、実際にFACTとして採用するには、",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「一次情報を使えばよい」と言われることがあります",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "方向性としては正しいのですが、一次情報だけで調査が完了するとは限りません",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一次情報は、事実の原点を確認するために使う",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一次情報が何を意味するかを理解したり、複数の一次資料を比較したりする際に役立ちます",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一次情報を「中立的な情報」と決めつけず、",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計的に差があっても、実務上は小さな差かもしれません",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的機関の資料でも、今回の質問と対象が違えば、直接の根拠にはなりません",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIによって調査を速くしながら、何を根拠として採用したかを説明できる状態を作ることです",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、主張ごとに採用する引用、保留する主張、提出前や登壇前に更新する再検索条件を適切に決める手順を解説します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、契約外の論文PDFを丸ごと送信することは避け、公開されているメタデータや許諾範囲内の抜粋テキストのみを利用します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらの情報および利用許諾のあるオープンアクセス論文のPDFや抜粋テキストを、Gemini APIの",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、処理の過程でFiles APIへアップロードしたPDFなどのファイルは、利用者が明示的に削除する運用を組み込みます",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステータスは「採用」「背景のみ」「条件不一致」「方法上の懸念」「撤回・訂正確認中」などです",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新たに出現した新規候補の論文や、すでに採用した論文のステータス変更がないかを比較し、必要に応じて監査表をアップデートします",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規の候補や採用済み論文のステータス変更がないかを確認します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国内AIリサーチと海外AIリサーチの違いは？一次情報の探し方を比較",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国内AIリサーチと海外AIリサーチを、一次資料への入口、統計定義、法人識別子、比較条件、現地確認へ移る条件で比較します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索は候補を作る工程であり、採用する根拠を決める工程ではありません",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本文が取れないなら、出版社ページ、PMC、arXiv PDF、DOI先など別経路へ戻る必要があります",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Web検索、arXivやPubMedの取得、DOIの正規化、PDF解析、ベクトル検索、引用情報の取得を組み合わせればよいからです",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方で、何を調べるか、どの情報源を優先するか、どの反証を必須にするか、いつ調査を止めるか、どの根拠を最終採用するかは自分のハーネス側に残す",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- それぞれに「必要な証拠タイプ」（統計/一次情報/公式文書/レビュー等）を割り当てる",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 使える情報源： (Web可/不可、社内資料あり/なし、URLやPDFなど)",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 各SubQに必要な証拠タイプを割当（一次情報/公式/統計/査読論文/レビュー/事例など）",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- D. 統合：矛盾があれば「矛盾点」「原因仮説」「採用基準（なぜこちら）」を明示",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 矛盾があれば「矛盾点」「採用基準」「暫定結論」を明示",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 矛盾が出たら「矛盾点」「採用基準」「暫定結論」を明示",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Sources:（Web可否、URL/PDF/手元資料 など）",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国際特許出願のAI活用｜PCT・パリルート判断とAI翻訳の実装",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PCTとパリ条約ルートの選び方から、AI翻訳の実装、国別移行の意思決定、グローバル特許ファミリー管理まで、国際特許出願の各分岐点でAIをどう使うかを弁理士・企業知財部・スタートアップCTO向けに整理しました",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
+   {
+    "quote": "電池業界のAI戦略事例｜CATL・LG・パナソニック・BYDの勝ち筋",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIのリサーチ結果は、書いてあることより「書いていないこと」のほうが怖い",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "結果として、AIを使う前より時間がかかってしまう",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下のAIが出力したリサーチ結果に含まれるすべての「数値データ」「固有名詞」「URL」について、情報の信憑性を監査してください",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://example.com/report2025",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下のテーブル形式で結果を出力してください",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "🔧 中・上級者向け：実務エッジケース対策・例外処理・パラメータ最適化の深掘り",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 調査を始める前に、AIに「同じものを指す言い換え・業界の略語・英語の呼び方」を10個出させ、そのうち実在の検索結果がある語をすべて検索の対象に入れる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 「国内の事例は見当たらない」と報告したら、クライアントがすぐに事例を見つけた",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "3 弁護士業務における活用事例",
     "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
@@ -462,7 +848,531 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "AIリサーチで失敗する原因は、プロンプトの不備ではなく「検証の仕組み（フロー）」の欠如にある",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "次章以降で、実際に手を動かして検証するための具体的な手順とプロンプト、チェックリストを公開する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "リサーチを「設計」「実行」「検証」「納品前」の4つのフェーズに分割する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "出力された数字やURLの信頼性をAI自身に検証させる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIを使ったリサーチ業務の成否は、AIの性能ではなく「人間側の検証プロセス」にかかっている",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "架空のデータや検証できないURLが含まれている場合は、迷わず破棄して一次情報にあたる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "◦契約書等の文章の論理チェック・矛盾点指摘",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "拠とどこが矛盾していると考えているのかをプロンプ",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "客観的証拠と矛盾している、不合理である、経験則",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "義規定と後段の条項で用語の使い方が矛盾していたり、",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI に「論理的な矛盾点や、複数の",
+    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "もっともらしい製品アイデアを、検証済みの需要として扱わない",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査は公開資料による探索的な調査であり、代表性のあるアンケート、市場規模の推計、製品の推奨ではありません",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "少数の投稿だけで市場規模は推計できないため",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査によって当初の仮説が弱まる余地を残すため",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは公開情報による調査で、統計的な市場規模の推計ではありません",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. 事実と仮説を分けた結論",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンクが開くことだけでなく、原文が主張を支えているか照合してください",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "12件の出典は、検証済みの利用事例が12件あるという意味ではありません",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "編集時に元ページを別途取得し、AIとツールでこの記述を照合しました",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、別の通常の公開ページ取得方法で原文を読めたものは、内容を照合しました",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "未取得の原文、対象者の情報不足、古い資料、矛盾する情報",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出典ID、日付、不明点、結論を原版と照合する",
+    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の公式発表を、第三者が検証した市場評価のように扱っていた",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI活用成熟度のフェーズ4では、問い、前提、仮説、代替案、判断基準を整理しました",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フェーズ5では、その判断に使う情報が本当に信頼できるのかを検証します",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フェーズ5｜調査・検証・信頼性管理",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "将来予測は、確認済み事実ではなく仮説です",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、出力は最終成果物ではなく、重要主張を検証するための調査下書きとして扱います",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "文章をそのまま検証せず、重要主張へ分解する",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "記事や提案の全文章を、同じ密度で検証する必要はありません",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "文章を`FACT`と分類しただけでは、検証は完了していません",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の文章を、検証可能な主張単位へ分解してください",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は、第三者情報や独立した検証も必要です",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自分の仮説を支持する情報は見つけやすいものです",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矛盾は、どちらかが間違いとは限りません",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報が矛盾したときは、平均を取らず、違いの原因を調べる",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矛盾の原因には、次があります",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Crossrefでメタデータを照合して両者の混同を減らすことで、自分がどのバージョンの論文を根拠としているかを正確に管理できます",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず、学会発表に向けた未公開の仮説や未発表スライドの内容はそのまま入力しません",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OpenAlexやSemantic Scholarで引用候補のリストを作成したら、次はそれらの論文の本文を開き、引用の文脈と研究内容を検証する作業に進みます",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "必ず論文の本文へ戻り、以下の詳細を自分の目で検証します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "論文の本文と引用文脈を検証した後は、その論文自体が現在も妥当な状態にあるかを監査し、不適切な情報を発表前に止める作業へ進みます",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "引用管理ソフトへ登録してある書誌情報であっても、Crossrefや出版社のページと改めて照合し、最新かつ正確な情報が記載されているかを確認してください",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIリサーチを検索から検証へ変える仕組み｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research Indexは、論文検索サービスというより、AIリサーチの検索から検証までで情報取得を担う層、つまりRetrieval Layerとして見る方が本質に近い",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の検証では、Transformerの代表論文を起点に、効率化を意図した関連研究を広げると、Reformer、Performer、FlashAttentionなどが候補として得られました",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の検証では、arXivの論文から質問に対応する本文箇所を取得できた一方、PMC系の論文ではfull-text passageを取得できない例がありました",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索から検証までの失敗しやすい工程を、明示的に設計できたときです",
+    "url": "https://note.com/gtminami/n/n0a5308378b21",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（計画・探索・検証・執筆）を強制し、さらに",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step-DeepResearchは、研究を支える基盤として「計画と分解」「深い情報探索」「反省と検証」「レポート生成」のような原子能力を前提にしています",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目的は“検索”ではなく、“検証可能な主張を構築する研究”です",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 研究質問を “検証可能なサブクエスチョン” に分解（3〜7個）",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 重要主張は必ず「独立ソース2つ以上」でクロス検証",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 矛盾が出たら「矛盾点」「原因仮説」「どちらを採るかの基準」を明示",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 「不確実だが一般知識として言える範囲」と「要検証事項」を分離し、",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ユーザーに追加資料の提示を依頼するか、検証手順（検索クエリ/当たり先）を提示する",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(4) 反省・検証（セルフレビュー）",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矛盾が出たら、矛盾の理由を必ず書かせます",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗3：それっぽい文章で、検証不能になる",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目的は“検索”ではなく「検証可能な主張・反証処理・意思決定に耐えるレポート」を最小コストで作ることです",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "URL/文書名/発行元/日付など、検証できる形で出す",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- “重要主張”は原則として独立ソース2つ以上でクロス検証（無理なら理由を明記）",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- ツールが使えない場合は、推測と事実を分離し「検証手順（検索クエリ/当たり先）」を提示する",
+    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI搭載リサーチアシスタント実践ガイド：結論より先に根拠を検証する",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5段階の検証ループ",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矛盾、欠落、循環参照を探す",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "意思決定を定義し、許可された情報源を探し、主張ごとの引用を保存し、矛盾を検証し、知識のある担当者が最終的な統合内容を承認します",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "流暢な回答から、検証済みの調査レポートへ",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "弱い情報源を却下し、矛盾を扱い、最終レポートを承認する人を決めます",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤った確信を防ぐ4つの検証ゲート",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "問いの定義、情報源の探索、根拠の抽出、主張の検証、引用付き成果物の提出を、人による確認につなげる循環",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロンプトは検証を飛ばす近道ではなく、段階間の作業契約として使います",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矛盾、循環参照、一次資料の不足、古い事実、裏付けのない推論を探します",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "意思決定と情報源の境界を決め、探索、根拠抽出、矛盾確認、承認済み根拠からの作成、人のレビューの順に使います",
+    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事実、分析、未検証の推論を分ける",
+    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIリサーチアシスタントは、問いを整理し、関連情報を見つけ、主張ごとの根拠を抽出し、矛盾する見解を比較したうえで、人が確認できる引用付きの調査結果を準備するソフトウェアです",
+    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公式文書、課題管理、社内制約、再現可能な検証結果を比較し、結論の根拠を示します",
+    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "問いの定義、情報源の探索、根拠の抽出、矛盾の統合、人による最終判断までを追跡できる五段階の流れ",
+    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査テーマをインタビュー原文、問い合わせ、仮説、行動データへ結び付けます",
+    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矛盾、引用不足、機密情報、影響の大きい提案は指名担当者が確認します",
+    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "引用網羅率、情報源の多様性、重複、修正、未解決の矛盾、意思決定への有用性を追跡します",
+    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
+   {
+    "quote": "接続役、MCP、共通契約、失敗時の停止条件、単一モデルと複数モデルを比較する判断基準まで整理します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事前リサーチ8ワークフロー、4役割スキルシフト、生存戦略4本、6落とし穴、EU AI Act 2026-08 まで、広告実務者向け完全ガイド",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIリサーチで失敗する原因は、プロンプトの不備ではなく「検証の仕組み（フロー）」の欠如にある",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抜け落ちは、間違いと違って画面に出てこないぶん厄介です",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "4 弁護士業務における生成A I 活用上の主な注意点 14頁",
     "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
@@ -674,291 +1584,127 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "れは、ある単語の次にどのような単語が続くかを統計",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "◦膨大な文書（PDF, Word など） をアップロード",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "事務所ウェブサイトの更新、スタッフの採用・育成・勤",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "弁護士3名の事務所で、事務員の採用がうまくい",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "と、採用・定着の改善策を、中小企業の経営コンサル",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3.pdf）をご参照のこと",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その際、根拠 （公的機関",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "に応じた柔軟な報酬設計を採用することも否定され",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "＊27：原文については、日弁連の会員専用サイ ト （https://member.nichibenren.or.jp/gyoumu/other/documentFile/AI_2025.pdf） を ご参照のこ と",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "カタログ・特許・保守ログの実装レシピと2026年の最新事例を整理しました",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製薬R&Dの文献、臨床試験、特許・化学、企業・市場調査に使うAI6製品を、情報源、入力、出力、人が確認する原典で比較します",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは公開情報による調査で、統計的な市場規模の推計ではありません",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "読みやすい要約だけが返ってきたら、結論を採用する前に出典表を求めます",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "引用先が一次情報か、別資料の要約か",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、実際にFACTとして採用するには、",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「一次情報を使えばよい」と言われることがあります",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "方向性としては正しいのですが、一次情報だけで調査が完了するとは限りません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報は、事実の原点を確認するために使う",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報が何を意味するかを理解したり、複数の一次資料を比較したりする際に役立ちます",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報を「中立的な情報」と決めつけず、",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計的に差があっても、実務上は小さな差かもしれません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的機関の資料でも、今回の質問と対象が違えば、直接の根拠にはなりません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIによって調査を速くしながら、何を根拠として採用したかを説明できる状態を作ることです",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、主張ごとに採用する引用、保留する主張、提出前や登壇前に更新する再検索条件を適切に決める手順を解説します",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、契約外の論文PDFを丸ごと送信することは避け、公開されているメタデータや許諾範囲内の抜粋テキストのみを利用します",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの情報および利用許諾のあるオープンアクセス論文のPDFや抜粋テキストを、Gemini APIの",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、処理の過程でFiles APIへアップロードしたPDFなどのファイルは、利用者が明示的に削除する運用を組み込みます",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステータスは「採用」「背景のみ」「条件不一致」「方法上の懸念」「撤回・訂正確認中」などです",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新たに出現した新規候補の論文や、すでに採用した論文のステータス変更がないかを比較し、必要に応じて監査表をアップデートします",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規の候補や採用済み論文のステータス変更がないかを確認します",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国内AIリサーチと海外AIリサーチの違いは？一次情報の探し方を比較",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国内AIリサーチと海外AIリサーチを、一次資料への入口、統計定義、法人識別子、比較条件、現地確認へ移る条件で比較します",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索は候補を作る工程であり、採用する根拠を決める工程ではありません",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本文が取れないなら、出版社ページ、PMC、arXiv PDF、DOI先など別経路へ戻る必要があります",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Web検索、arXivやPubMedの取得、DOIの正規化、PDF解析、ベクトル検索、引用情報の取得を組み合わせればよいからです",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方で、何を調べるか、どの情報源を優先するか、どの反証を必須にするか、いつ調査を止めるか、どの根拠を最終採用するかは自分のハーネス側に残す",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- それぞれに「必要な証拠タイプ」（統計/一次情報/公式文書/レビュー等）を割り当てる",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 使える情報源： (Web可/不可、社内資料あり/なし、URLやPDFなど)",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 各SubQに必要な証拠タイプを割当（一次情報/公式/統計/査読論文/レビュー/事例など）",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- D. 統合：矛盾があれば「矛盾点」「原因仮説」「採用基準（なぜこちら）」を明示",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 矛盾があれば「矛盾点」「採用基準」「暫定結論」を明示",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 矛盾が出たら「矛盾点」「採用基準」「暫定結論」を明示",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Sources:（Web可否、URL/PDF/手元資料 など）",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国際特許出願のAI活用｜PCT・パリルート判断とAI翻訳の実装",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PCTとパリ条約ルートの選び方から、AI翻訳の実装、国別移行の意思決定、グローバル特許ファミリー管理まで、国際特許出願の各分岐点でAIをどう使うかを弁理士・企業知財部・スタートアップCTO向けに整理しました",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "AIから別のAIを呼び出す方法｜GPT・Claude・Gemini・GrokをAPIでつなぐ設計",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "普段使うAIから一工程だけ別AIへ渡す方法を解説します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "CATL LFP $56/kWh、LG大型契約$9.3B解消、パナソニック4680、BYD垂直統合の中身を数字で読み解きます",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ外貨調達案件でPoCを行う手順も示します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "イシューツリーとは？AI調査で論点を分解する5つのコツ",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIリサーチの情報の抜け落ちを防ぐ確認チェックリストと手順",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、AIを使った副業のリサーチ業務で発生する情報の抜け落ちを防ぐための具体的な確認チェックリストと、構造化した手順を解説する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ハルシネーションを見破るための逆引きファクトチェック手順",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIに偏りの少ないリサーチを強制するための構造化プロンプトの設計方法",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIがエラーを出したり途中で止まったりしたときの具体的なリカバリー手順",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらを属人化させず、チェックリストという形で手順に落とし込む",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "次章以降で、実際に手を動かして検証するための具体的な手順とプロンプト、チェックリストを公開する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "有料エリアには、本文で説明した手順をそのまま使える形で1点を入れています",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "『データと科学で仕事・身体・お金を最適化する実験室』では、試して確かめた手順だけを道具にしています",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "要らなければ、ここまでの手順だけで十分に使えます",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここからは、実務でそのまま使えるチェックリスト、プロンプト、エラー対処の手順を公開する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下のプロンプトは、ClaudeやChatGPTなどの対話型AIでそのままコピーして利用できる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ソースの確認方法（実際にアクセス可能なURL、または一次情報の名称）",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "導入の最初の月は、手順を覚える時間が上乗せになる点も見込んでおく",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索範囲と出力手順をセグメントに分割して指示する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "そして、生成AIは、判決文等の定型",
     "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
@@ -1457,470 +2203,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "◦契約書等の文章の論理チェック・矛盾点指摘",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "拠とどこが矛盾していると考えているのかをプロンプ",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "客観的証拠と矛盾している、不合理である、経験則",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "義規定と後段の条項で用語の使い方が矛盾していたり、",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AI に「論理的な矛盾点や、複数の",
-    "url": "https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "もっともらしい製品アイデアを、検証済みの需要として扱わない",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査は公開資料による探索的な調査であり、代表性のあるアンケート、市場規模の推計、製品の推奨ではありません",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "少数の投稿だけで市場規模は推計できないため",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査によって当初の仮説が弱まる余地を残すため",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これは公開情報による調査で、統計的な市場規模の推計ではありません",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5. 事実と仮説を分けた結論",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "リンクが開くことだけでなく、原文が主張を支えているか照合してください",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "12件の出典は、検証済みの利用事例が12件あるという意味ではありません",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "編集時に元ページを別途取得し、AIとツールでこの記述を照合しました",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回、別の通常の公開ページ取得方法で原文を読めたものは、内容を照合しました",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "未取得の原文、対象者の情報不足、古い資料、矛盾する情報",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "出典ID、日付、不明点、結論を原版と照合する",
-    "url": "https://ofox.ai/ja/blog/ai-market-research-sourced-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "企業の公式発表を、第三者が検証した市場評価のように扱っていた",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AI活用成熟度のフェーズ4では、問い、前提、仮説、代替案、判断基準を整理しました",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フェーズ5では、その判断に使う情報が本当に信頼できるのかを検証します",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フェーズ5｜調査・検証・信頼性管理",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "将来予測は、確認済み事実ではなく仮説です",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、出力は最終成果物ではなく、重要主張を検証するための調査下書きとして扱います",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "文章をそのまま検証せず、重要主張へ分解する",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "記事や提案の全文章を、同じ密度で検証する必要はありません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "文章を`FACT`と分類しただけでは、検証は完了していません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の文章を、検証可能な主張単位へ分解してください",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は、第三者情報や独立した検証も必要です",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自分の仮説を支持する情報は見つけやすいものです",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "矛盾は、どちらかが間違いとは限りません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報が矛盾したときは、平均を取らず、違いの原因を調べる",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "矛盾の原因には、次があります",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Crossrefでメタデータを照合して両者の混同を減らすことで、自分がどのバージョンの論文を根拠としているかを正確に管理できます",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず、学会発表に向けた未公開の仮説や未発表スライドの内容はそのまま入力しません",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OpenAlexやSemantic Scholarで引用候補のリストを作成したら、次はそれらの論文の本文を開き、引用の文脈と研究内容を検証する作業に進みます",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "必ず論文の本文へ戻り、以下の詳細を自分の目で検証します",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "論文の本文と引用文脈を検証した後は、その論文自体が現在も妥当な状態にあるかを監査し、不適切な情報を発表前に止める作業へ進みます",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "引用管理ソフトへ登録してある書誌情報であっても、Crossrefや出版社のページと改めて照合し、最新かつ正確な情報が記載されているかを確認してください",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIリサーチを検索から検証へ変える仕組み｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research Indexは、論文検索サービスというより、AIリサーチの検索から検証までで情報取得を担う層、つまりRetrieval Layerとして見る方が本質に近い",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の検証では、Transformerの代表論文を起点に、効率化を意図した関連研究を広げると、Reformer、Performer、FlashAttentionなどが候補として得られました",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の検証では、arXivの論文から質問に対応する本文箇所を取得できた一方、PMC系の論文ではfull-text passageを取得できない例がありました",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索から検証までの失敗しやすい工程を、明示的に設計できたときです",
-    "url": "https://note.com/gtminami/n/n0a5308378b21",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（計画・探索・検証・執筆）を強制し、さらに",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step-DeepResearchは、研究を支える基盤として「計画と分解」「深い情報探索」「反省と検証」「レポート生成」のような原子能力を前提にしています",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "目的は“検索”ではなく、“検証可能な主張を構築する研究”です",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 研究質問を “検証可能なサブクエスチョン” に分解（3〜7個）",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 重要主張は必ず「独立ソース2つ以上」でクロス検証",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 矛盾が出たら「矛盾点」「原因仮説」「どちらを採るかの基準」を明示",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 「不確実だが一般知識として言える範囲」と「要検証事項」を分離し、",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ユーザーに追加資料の提示を依頼するか、検証手順（検索クエリ/当たり先）を提示する",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(4) 反省・検証（セルフレビュー）",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "矛盾が出たら、矛盾の理由を必ず書かせます",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗3：それっぽい文章で、検証不能になる",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "目的は“検索”ではなく「検証可能な主張・反証処理・意思決定に耐えるレポート」を最小コストで作ることです",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "URL/文書名/発行元/日付など、検証できる形で出す",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- “重要主張”は原則として独立ソース2つ以上でクロス検証（無理なら理由を明記）",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- ツールが使えない場合は、推測と事実を分離し「検証手順（検索クエリ/当たり先）」を提示する",
-    "url": "https://note.com/tasty_dunlin998/n/nef86167fa436",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AI搭載リサーチアシスタント実践ガイド：結論より先に根拠を検証する",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5段階の検証ループ",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "矛盾、欠落、循環参照を探す",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "意思決定を定義し、許可された情報源を探し、主張ごとの引用を保存し、矛盾を検証し、知識のある担当者が最終的な統合内容を承認します",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "流暢な回答から、検証済みの調査レポートへ",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "弱い情報源を却下し、矛盾を扱い、最終レポートを承認する人を決めます",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "誤った確信を防ぐ4つの検証ゲート",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "問いの定義、情報源の探索、根拠の抽出、主張の検証、引用付き成果物の提出を、人による確認につなげる循環",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プロンプトは検証を飛ばす近道ではなく、段階間の作業契約として使います",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "矛盾、循環参照、一次資料の不足、古い事実、裏付けのない推論を探します",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "意思決定と情報源の境界を決め、探索、根拠抽出、矛盾確認、承認済み根拠からの作成、人のレビューの順に使います",
-    "url": "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事実、分析、未検証の推論を分ける",
-    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIリサーチアシスタントは、問いを整理し、関連情報を見つけ、主張ごとの根拠を抽出し、矛盾する見解を比較したうえで、人が確認できる引用付きの調査結果を準備するソフトウェアです",
-    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公式文書、課題管理、社内制約、再現可能な検証結果を比較し、結論の根拠を示します",
-    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "問いの定義、情報源の探索、根拠の抽出、矛盾の統合、人による最終判断までを追跡できる五段階の流れ",
-    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査テーマをインタビュー原文、問い合わせ、仮説、行動データへ結び付けます",
-    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "矛盾、引用不足、機密情報、影響の大きい提案は指名担当者が確認します",
-    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "引用網羅率、情報源の多様性、重複、修正、未解決の矛盾、意思決定への有用性を追跡します",
-    "url": "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1937,12 +2219,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/good_clover8830/n/nae058d0cd52c",
+    "url": "https://note.com/ai_create_sho/n/nf49b623e4c24",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_create_sho/n/nf49b623e4c24",
+    "url": "https://note.com/good_clover8830/n/nae058d0cd52c",
     "status": "ok",
     "method": "http"
    },
@@ -1972,17 +2254,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.studioglobal.ai/ja/blog-post/fact-check-ai-answers",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://media.deskrex.ai/case-citation-research-2026/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://beekle.jp/column/ai-factcheck",
+    "url": "https://www.studioglobal.ai/ja/blog-post/fact-check-ai-answers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
     "status": "ok",
     "method": "http"
    },
@@ -1995,36 +2277,6 @@
     "url": "https://gizin.co.jp/ja/tips/2026-04-14-ai-citation-verification-only-5-of-24-accurate",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://ichekai.com/knowledge/how-to-verify-ai-answers-with-sources",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://simpleresearch.ai/guides/verify-research-sources/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://guides.library.jhu.edu/evaluate/AISources",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://themetalearner.com/learn/ai-skills/verify-ai-explanations-sources/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://discoverai.tools/articles/how-to-verify-ai-research-and-citations",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://scitrue.ai/",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -2034,14 +2286,14 @@
    "results": [
     "https://note.com/ai_scout_jp/n/n41718121f4ec",
     "https://note.com/gtminami/n/n5d18b36d3acc",
-    "https://note.com/good_clover8830/n/nae058d0cd52c",
     "https://note.com/ai_create_sho/n/nf49b623e4c24",
+    "https://note.com/good_clover8830/n/nae058d0cd52c",
     "https://note.com/sou_devnotes/n/n2f4082999ff8",
     "https://note.com/codex_jidoka/n/n5bafaa86cd79",
-    "https://note.com/cognova_founder/n/na15f1497aac0"
+    "https://note.com/fpxinvestment/n/n5b2ca3e614fd"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -2053,8 +2305,33 @@
     "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant/index.html",
     "https://zenn.dev/git_dungeon/articles/student-ai-2026-evidence-research",
     "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "https://media.deskrex.ai/case-citation-research-2026/",
     "https://www.studioglobal.ai/ja/blog-post/fact-check-ai-answers",
-    "https://media.deskrex.ai/case-citation-research-2026/"
+    "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "https://beekle.jp/column/ai-factcheck"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "AIリサーチの出典・反証・不確実性の管理（重要主張からの検証） やり方",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "AIリサーチの出典・反証・不確実性の管理（重要主張からの検証） 事例",
+   "results": [
+    "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant/index.html",
+    "https://note.com/gtminami/n/n5d18b36d3acc",
+    "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
+    "https://media.deskrex.ai/case-citation-research-2026/",
+    "https://zenn.dev/git_dungeon/articles/student-ai-2026-evidence-research",
+    "https://www.ai-madoguchi.com/guide/ai-fact-check-workflow/",
+    "https://gizin.co.jp/ja/tips/2026-04-14-ai-citation-verification-only-5-of-24-accurate"
    ],
    "engines": [
     "ddgs:yahoo"
@@ -2062,52 +2339,10 @@
    "n_hits": 7
   },
   {
-   "query": "AIリサーチの出典・反証・不確実性の管理（重要主張からの検証） やり方",
-   "results": [
-    "https://note.com/gtminami/n/n5d18b36d3acc",
-    "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant/index.html",
-    "https://zenn.dev/git_dungeon/articles/student-ai-2026-evidence-research",
-    "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "https://media.deskrex.ai/case-citation-research-2026/",
-    "https://note.com/ai_create_sho/n/nf49b623e4c24",
-    "https://beekle.jp/column/ai-factcheck"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "AIリサーチの出典・反証・不確実性の管理（重要主張からの検証） 事例",
-   "results": [
-    "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant/index.html",
-    "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant",
-    "https://note.com/gtminami/n/n5d18b36d3acc",
-    "https://media.deskrex.ai/case-citation-research-2026/",
-    "https://zenn.dev/git_dungeon/articles/student-ai-2026-evidence-research",
-    "https://www.ai-madoguchi.com/guide/ai-fact-check-workflow/",
-    "https://gizin.co.jp/ja/tips/2026-04-14-ai-citation-verification-only-5-of-24-accurate"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
    "query": "verify AI research claims sources counterevidence uncertainty",
-   "results": [
-    "https://ichekai.com/knowledge/how-to-verify-ai-answers-with-sources",
-    "https://simpleresearch.ai/guides/verify-research-sources/",
-    "https://guides.library.jhu.edu/evaluate/AISources",
-    "https://themetalearner.com/learn/ai-skills/verify-ai-explanations-sources/",
-    "https://discoverai.tools/articles/how-to-verify-ai-research-and-citations",
-    "https://scitrue.ai/",
-    "https://aitoolsusageguide.org/ai-answer-reliability/"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:note.com AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）",
@@ -2116,25 +2351,25 @@
     "https://note.com/gtminami/n/n5d18b36d3acc",
     "https://note.com/ai_create_sho/n/nf49b623e4c24",
     "https://note.com/good_clover8830/n/nae058d0cd52c",
-    "https://note.com/codex_jidoka/n/n5bafaa86cd79",
     "https://note.com/ai_easyguide/n/n94ca2b9e7bf3",
-    "https://note.com/misaki_ai_work/n/neea7430ebb34"
+    "https://note.com/ai_shigoto_kata/n/n31d04cbf2889",
+    "https://note.com/codex_jidoka/n/n5bafaa86cd79"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:x.com AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）",
    "results": [
-    "https://x.com/Nhazama/status/2102355298396598302",
-    "https://x.com/ai_next_news/status/2094345950873674195",
     "https://x.com/aooi_AI/status/2065590127624339574",
-    "https://x.com/little_hand_s/status/2077997010834366568",
     "https://x.com/aiconsultantlab/status/2087752297271140411",
     "https://x.com/SLT_OFFICIAL_JP/status/2071764901736100154",
-    "https://x.com/kokomama_ai/status/2088784863499579665"
+    "https://x.com/ai_next_news/status/2094345950873674195",
+    "https://x.com/suzu0907pome/status/2070753059215646740",
+    "https://x.com/suna_gaku/status/2079024809594495372",
+    "https://x.com/aooi_AI/status/2070662474026901961"
    ],
    "engines": [
     "ddgs:google"
@@ -2145,15 +2380,15 @@
    "query": "site:linkedin.com AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）",
    "results": [
     "https://jp.linkedin.com/pulse/navigating-cone-ai-uncertainty-oliver-cronk-mfvoe?tl=ja",
+    "https://jp.linkedin.com/pulse/enhanced-uncertainty-vectors-novel-approach-ai-alignment-harber-g56me?tl=ja",
     "https://jp.linkedin.com/pulse/beyond-hype-why-we-must-verify-ai-claims-before-take-yuri-aq3se?tl=ja",
     "https://jp.linkedin.com/pulse/using-ai-analyze-reports-evidence-based-claims-guide-finkenstadt-8xuve?tl=ja",
     "https://jp.linkedin.com/pulse/youai-part-xx-navigating-uncertainty-risk-management-ai-pradeep-patel-hdlwc?tl=ja",
-    "https://jp.linkedin.com/pulse/enhanced-uncertainty-vectors-novel-approach-ai-alignment-harber-g56me?tl=ja",
     "https://jp.linkedin.com/pulse/how-falsifiability-can-help-you-adopt-ai-successfully-puran-wgabc?tl=ja",
-    "https://jp.linkedin.com/pulse/turning-ai-uncertainty-opportunity-strategies-modern-kiran-thazhamon-msvrf?tl=ja"
+    "https://jp.linkedin.com/pulse/understanding-uncertainty-model-risk-management-part-1-validmind?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -2165,13 +2400,17 @@
     "https://www.facebook.com/GoogleCloudJapan/videos/ai-エージェントを業務に組み込む/1029779083136218/",
     "https://www.facebook.com/groups/548266103946448/posts/1433566265416423/",
     "https://www.facebook.com/thomson.reuters.japan/videos/動画公開cocounselwestlaw-japan連携機能の紹介非効率なリサーチや根拠の不確かな生成aiへの依存が実務の足かせになっていませんかトムソンロイタ/1492815398903200/",
-    "https://www.facebook.com/legalscape/videos/aiリーガルリサーチならリーガルスケープ/2151901125363554/",
-    "https://www.facebook.com/legalscape/videos/aiリーガルリサーチならリーガルスケープ/28127159623630689/"
+    "https://www.facebook.com/Journal.of.Digital.Narrative/videos/ai素養教育系列day-15pauseprobeprove使用-ai-前先查證-使用-ai-前先-pause-暫停probe-追問它的假設prove-用可靠來源/1830770684778844/",
+    "https://www.facebook.com/groups/723428417799853/",
+    "https://www.facebook.com/groups/903670287751336/",
+    "https://www.facebook.com/WIRED.jp/posts/openaiとanthropicが計算機科学の重要な仮説を反証したと発表した証明が正しければ数多くの研究の前提が崩れることになる一方で諦められていた研究課題に再/1691897099631313/",
+    "https://www.facebook.com/GIGAZINE/posts/ai支援で作られたコラッツ予想の反証は無効leanのカーネルバグを突いていたことが判明/1502321291913673/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "AIリサーチの出典・反証・不確実性の管理（重要主張からの検証） note 社長",
@@ -2182,12 +2421,14 @@
     "https://zenn.dev/git_dungeon/articles/student-ai-2026-evidence-research",
     "https://www.ai-madoguchi.com/guide/ai-fact-check-workflow/",
     "https://www.studioglobal.ai/ja/blog-post/fact-check-ai-answers",
+    "https://beekle.jp/column/ai-factcheck",
     "https://zenn.dev/andyailab/articles/436444a75f05a0"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "AIリサーチの出典・反証・不確実性の管理（重要主張からの検証） X 投稿",
@@ -2197,82 +2438,333 @@
     "https://zenn.dev/git_dungeon/articles/student-ai-2026-evidence-research",
     "https://note.com/ai_create_sho/n/nf49b623e4c24",
     "https://www.ai-madoguchi.com/guide/ai-fact-check-workflow/",
+    "https://www.studioglobal.ai/ja/blog-post/fact-check-ai-answers",
     "https://promptlab.x.ezic.info/ai-claim-source-verification-prompt/",
-    "https://www.studioglobal.ai/ja/blog-post/fact-check-ai-answers"
+    "https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant/index.html",
+    "https://openmax.com/ja-JP/resources/solutions/ai-research-assistant"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "verify AI research claims sources counterevidence uncertainty site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/find-sources-verify-citations-ai-tool-dr-rizwana-mustafa-r2exf",
-    "https://www.linkedin.com/posts/digitally-healthy_digitallyhealthy-aiforresearch-responsibleai-activity-7497927182955233280-TKJn",
-    "https://ae.linkedin.com/pulse/overview-ai-executives-april-2026-patrick-forth-d9xjc?tl=ar",
-    "https://www.linkedin.com/pulse/how-verify-ai-generated-content-accuracy-anu-paul-izmvf",
     "https://www.linkedin.com/posts/workflowlift_aiforprojectmanagers-projectmanagement-workflowlift-activity-7517198827309744128-65kL",
+    "https://www.linkedin.com/top-content/artificial-intelligence/ai-evaluation-methods/verify-ai-claims-with-sourced-citations/",
+    "https://www.linkedin.com/posts/digitally-healthy_digitallyhealthy-aiforresearch-responsibleai-activity-7497927182955233280-TKJn",
+    "https://www.linkedin.com/pulse/find-sources-verify-citations-ai-tool-dr-rizwana-mustafa-r2exf",
     "https://br.linkedin.com/pulse/why-we-cant-yet-blindly-trust-ai-answers-what-do-patrick-e-lawrence-86iwe?tl=pt",
-    "https://pt.linkedin.com/pulse/my-ai-model-trained-please-me-heres-system-prompt-i-use-oliver-kartak-visgf?tl=pt"
+    "https://pt.linkedin.com/pulse/my-ai-model-trained-please-me-heres-system-prompt-i-use-oliver-kartak-visgf?tl=pt",
+    "https://ae.linkedin.com/pulse/fraud-tip-fridaynavigating-cognitive-bias-forensic-marks-cpa-mba-rr4xe?tl=ar",
+    "https://dk.linkedin.com/pulse/bifurcations-neural-networks-source-hallucinations-llms-taner-akdeniz-dwejf?tl=da",
+    "https://pt.linkedin.com/pulse/when-ai-affirms-everything-mirage-truth-age-generative-vasu-rao-hgmfc?tl=pt",
+    "https://dk.linkedin.com/pulse/re-engineering-higher-education-ai-economy-why-need-skunk-brown-v0zbc?tl=da"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 10
   }
  ],
  "missing": {},
  "new_this_run": {
-  "実例": [
-   {
-    "quote": "生成AIによる市場調査DX：メリット・デメリットから実践事例とリスクとは",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データ収集・分析の自動化による時間短縮、リアルタイムインサイトによるマーケティング戦略の最適化、活用事例と効果、導入リスクと課題、戦略的アプローチなどのメリット・デメリットから市場調査の未来像を学びましょう",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "カタログ・特許・保守ログの実装レシピと2026年の最新事例を整理しました",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "一次情報の探し方": [
    {
-    "quote": "カタログ・特許・保守ログの実装レシピと2026年の最新事例を整理しました",
-    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "quote": "統計データや法律情報にドメインの指定が含まれているか",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "製薬R&Dの文献、臨床試験、特許・化学、企業・市場調査に使うAI6製品を、情報源、入力、出力、人が確認する原典で比較します",
+    "quote": "セグメント1：市場規模と主要プレイヤーの洗い出し（公的機関や業界団体の公式データを含むこと）",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ソースの確認方法（実際にアクセス可能なURL、または一次情報の名称）",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現象2：存在しないURLや架空の統計データが出力される（ハルシネーション）",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "該当サイトのURLを直接読み込ませるのではなく、サイト内のテキストをコピーしてファイル（TXTやPDF）としてAIにアップロードする",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 「無い」と書くときは、探した言葉・探した場所（検索エンジン・データベース・業界団体のサイト）・日付を必ず並べて書く",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "10個出させ、実在する語を採用",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "架空のデータや検証できないURLが含まれている場合は、迷わず破棄して一次情報にあたる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "電池業界のAI戦略事例｜CATL・LG・パナソニック・BYDの勝ち筋",
     "url": "https://media.deskrex.ai/case-citation-research-2026/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIのリサーチ結果は、書いてあることより「書いていないこと」のほうが怖い",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "結果として、AIを使う前より時間がかかってしまう",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下のAIが出力したリサーチ結果に含まれるすべての「数値データ」「固有名詞」「URL」について、情報の信憑性を監査してください",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://example.com/report2025",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下のテーブル形式で結果を出力してください",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "🔧 中・上級者向け：実務エッジケース対策・例外処理・パラメータ最適化の深掘り",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 調査を始める前に、AIに「同じものを指す言い換え・業界の略語・英語の呼び方」を10個出させ、そのうち実在の検索結果がある語をすべて検索の対象に入れる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 「国内の事例は見当たらない」と報告したら、クライアントがすぐに事例を見つけた",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "AIリサーチで失敗する原因は、プロンプトの不備ではなく「検証の仕組み（フロー）」の欠如にある",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "次章以降で、実際に手を動かして検証するための具体的な手順とプロンプト、チェックリストを公開する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "リサーチを「設計」「実行」「検証」「納品前」の4つのフェーズに分割する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "出力された数字やURLの信頼性をAI自身に検証させる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIを使ったリサーチ業務の成否は、AIの性能ではなく「人間側の検証プロセス」にかかっている",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "架空のデータや検証できないURLが含まれている場合は、迷わず破棄して一次情報にあたる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "接続役、MCP、共通契約、失敗時の停止条件、単一モデルと複数モデルを比較する判断基準まで整理します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事前リサーチ8ワークフロー、4役割スキルシフト、生存戦略4本、6落とし穴、EU AI Act 2026-08 まで、広告実務者向け完全ガイド",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIリサーチで失敗する原因は、プロンプトの不備ではなく「検証の仕組み（フロー）」の欠如にある",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抜け落ちは、間違いと違って画面に出てこないぶん厄介です",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
    }
   ],
   "手順・やり方": [
    {
-    "quote": "HLEとは？AI評価ベンチマークの最前線と使い方を解説",
+    "quote": "AIから別のAIを呼び出す方法｜GPT・Claude・Gemini・GrokをAPIでつなぐ設計",
     "url": "https://media.deskrex.ai/case-citation-research-2026/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "生成AIによる市場調査の効率化と新たな価値創造の実現方法を解説",
+    "quote": "普段使うAIから一工程だけ別AIへ渡す方法を解説します",
     "url": "https://media.deskrex.ai/case-citation-research-2026/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "CATL LFP $56/kWh、LG大型契約$9.3B解消、パナソニック4680、BYD垂直統合の中身を数字で読み解きます",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ外貨調達案件でPoCを行う手順も示します",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "イシューツリーとは？AI調査で論点を分解する5つのコツ",
+    "url": "https://media.deskrex.ai/case-citation-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIリサーチの情報の抜け落ちを防ぐ確認チェックリストと手順",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、AIを使った副業のリサーチ業務で発生する情報の抜け落ちを防ぐための具体的な確認チェックリストと、構造化した手順を解説する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ハルシネーションを見破るための逆引きファクトチェック手順",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIに偏りの少ないリサーチを強制するための構造化プロンプトの設計方法",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIがエラーを出したり途中で止まったりしたときの具体的なリカバリー手順",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらを属人化させず、チェックリストという形で手順に落とし込む",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "次章以降で、実際に手を動かして検証するための具体的な手順とプロンプト、チェックリストを公開する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "有料エリアには、本文で説明した手順をそのまま使える形で1点を入れています",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "『データと科学で仕事・身体・お金を最適化する実験室』では、試して確かめた手順だけを道具にしています",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "要らなければ、ここまでの手順だけで十分に使えます",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここからは、実務でそのまま使えるチェックリスト、プロンプト、エラー対処の手順を公開する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下のプロンプトは、ClaudeやChatGPTなどの対話型AIでそのままコピーして利用できる",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ソースの確認方法（実際にアクセス可能なURL、または一次情報の名称）",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "導入の最初の月は、手順を覚える時間が上乗せになる点も見込んでおく",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索範囲と出力手順をセグメントに分割して指示する",
+    "url": "https://zenn.dev/andyailab/articles/436444a75f05a0",
+    "pass": 3,
+    "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 20,
+ "runs": 21,
  "first_researched_at": "2026-11-05T00:51:00.157480+00:00"
 }
