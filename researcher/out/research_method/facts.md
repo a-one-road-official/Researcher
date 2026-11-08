@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・247品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・250品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1431,6 +1431,7 @@
   - 「Sampling Methods in Research: Types, Techniques, Pros & Cons, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
 - 検索結果の抜粋：
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureResearcher.Life: Blog Category | Researcher.LifeBlog — Sage Research Methods Community18 Best Academic Blogs to Follow in 2026 - bloggers.feedspot.com — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Univer」（https://www.exordo.com/blog/the-best-academic-blogs）
+  - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningThe Researcher's Source Blog | For Researchers | Springer NatureAcademic Writing: Blog Category | Researcher.LifeHow to conduct effective academic research: 9 key methods40 Must-read academic blogs for researchers and PhD students — “Just like the horse whisperer – but with more pages.” Th」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo21 Best Academic Blogs Every Researcher Must FollowThe Researcher's Source Blog | For Researchers | Springer NatureResearch Reading: Blog Category | Researcher.LifeBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of Melb」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningHow to conduct effective academic research: 9 key methodsThe Researcher's Source Blog | For Researchers | Springer NatureLatest News from Google Research Blog - Google ResearchEducational resources and simple solutions for your research ... — “Just like the horse whisperer – but with more 」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog - IBM Research21 Best Academic Blogs Every Researcher Must FollowBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Un」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -3775,6 +3776,8 @@
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
 - 手順・やり方：
+  - 「一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「合併公告と決算公告の同時掲載とは？手順・費用・スケジュールを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「実施率わずか1.8%の実態、3つの公告方法の費用比較、今から始める手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「減資公告と決算公告の同時掲載とは？費用・手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「公告の方法は定款で官報・日刊新聞紙・電子公告のいずれかを定め、官報または日刊新聞紙の場合は貸借対照表の「要旨」の公告で足ります（同条2項）」（https://kaijiwire.jp/guide/kessan-kokoku）
@@ -3788,8 +3791,6 @@
   - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「2 前項の規定にかかわらず、その公告方法が第939条第1項第1号（官報）又は第2号（時事に関する事項を掲載する日刊新聞紙）に掲げる方法である株式会社は、前項に規定する」（https://kanpo-ad.com/kaisya-kamoku1.html）
   - 「決算公告の官報費用はいくら？枠数別の料金表と節約する3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「3つの公告方法」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「この構造を理解すると、「大会社なのに要旨だけでいい（官報の場合）」「電子公告なら全文が必要」という一見矛盾した結論が、法令の論理から正確に導けるようになる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -3841,6 +3842,8 @@
 - 実例：
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「10. 特殊ケース：持株会社・グループ会社・組織再編」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「：全国紙の場合、掲載スペースによって異なるが数十万円〜100万円以上かかるケースもある」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「現状では法務局が能動的に全企業をチェックするリソースはなく、実際に過料が科されるケースは多くない」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -3852,8 +3855,6 @@
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「貸借対照表の数値だけを転記して満足してしまい、損益計算書の数値である当期純利益の付記を忘れるケースが後を絶ちません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
@@ -4981,6 +4982,8 @@
   - 「官報での決算公告手続きを5ステップで徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告を官報で閲覧する5つの方法を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「一般社団法人の決算公告の閲覧方法とは？官報・電子公告・掲示を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -4990,8 +4993,6 @@
   - 「一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「A defensible estimate whose assumptions you can show and defend」（https://www.flares.tech/sources/competitor-revenue）
   - 「Data provider estimates」（https://www.flares.tech/sources/competitor-revenue）
@@ -14145,6 +14146,129 @@
 - 一次情報の探し方：記載なし（読んだ15頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
 - 実例：記載なし（読んだ15頁・検索12回）
+
+## 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）（Quartz bad data guide github ProPublica bulletproofing data guide checklist）
+- 文脈：検証
+- 手順・やり方：
+  - 「GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub」（https://github.com/Quartz/bad-data-guide）
+  - 「An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.」（https://github.com/Quartz/bad-data-guide）
+  - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://github.com/Quartz/bad-data-guide）
+  - 「It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that」（https://github.com/Quartz/bad-data-guide）
+  - 「Create a document (a Word document, a spreadsheet, comments in the Excel workbook, you choose what you prefer) and write down all the steps you have taken while working with the data. You must do this for two main reasons:」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+  - 「Your editor and expert sources will be able to check your work and follow all the steps you took to get to your results.」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+  - 「☑ When you access or request data, always get the methodology」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+  - 「Get the methodology. If they won’t give it to you, that’s a red flag.」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+  - 「Beware of nonscientific methods: Web surveys, man on the street or other self-selection.」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+- 突き合わせ・推定：
+  - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://github.com/Quartz/bad-data-guide）
+  - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.」（https://github.com/Quartz/bad-data-guide）
+  - 「Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.」（https://github.com/Quartz/bad-data-guide）
+- 一次情報の探し方：
+  - 「A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you've got」（https://github.com/Quartz/bad-data-guide）
+  - 「. However, if you have Adobe Creative Cloud then you also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.」（https://github.com/Quartz/bad-data-guide）
+  - 「Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don't want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.」（https://github.com/Quartz/bad-data-guide）
+- 失敗・落とし穴：
+  - 「You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.」（https://github.com/Quartz/bad-data-guide）
+  - 「is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn't mean you shouldn't use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.」（https://github.com/Quartz/bad-data-guide）
+  - 「are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.」（https://github.com/Quartz/bad-data-guide）
+  - 「This problem tends to crop up in subjects where people have a strong confirmation bias. ("Just as I thought, crime is up!") Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,」（https://github.com/Quartz/bad-data-guide）
+  - 「Checklist to work with data and avoid mistakes」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+  - 「If you make a mistake and want to trace back the error, your notes in the data diary will help you find it.」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+  - 「If something looks weird or too good to be true, there is a chance there is a mistake. Talk with experts.」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+  - 「Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. Watch out for data where this has happened before it was given to you.」（https://miguelpaz.github.io/checklist-to-work-with-data.html）
+- 実例：
+  - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://github.com/Quartz/bad-data-guide）
+  - 「may be represented in another way. For example a false」（https://github.com/Quartz/bad-data-guide）
+  - 「can help streamline the spelling correction process by suggesting close matches between inconsistent values within a column (for example, matching」（https://github.com/Quartz/bad-data-guide）
+  - 「, but really aren't. This is often the case with surveys where」（https://github.com/Quartz/bad-data-guide）
+  - 「You've got states and you need counties. You've got employers and you need employees. They gave you years, but you want months. In many cases we get data that have been aggregated too much for our purposes.」（https://github.com/Quartz/bad-data-guide）
+  - 「you're using Excel on a Mac, in which case it's」（https://github.com/Quartz/bad-data-guide）
+  - 「In the vast majority of cases your text editor or spreadsheet application will figure out the correct encoding, however, if it screws it up you could be publishing somebody's name with a weird character in the middle. Your source should be able to tell you what encoding your data are in. In the event they can't there are ways of guessing that are about fairly reliable. Ask a programmer.」（https://github.com/Quartz/bad-data-guide）
+  - 「. In this case you've got counties, but you want states or you've got months but you want years. Fortunately this is usually pretty straightforward.」（https://github.com/Quartz/bad-data-guide）
+  - 「In all of these cases the main solution is simply to identify the problem. Obviously trying to perform any analysis on a spreadsheet that has these kinds of problems will fail, sometimes for non-obvious reasons. When looking at new data for the first time it's always a good idea to ensure there aren't extra header rows or other formatting characters inserted amongst the data.」（https://github.com/Quartz/bad-data-guide）
+  - 「? There is no one definitive answer. In general, if you're going to compute aggregates on columns that are missing data, you can safely do so by filtering out the missing rows first, but be careful not to compare aggregates from two different columns where different rows were missing values! In some cases the missing values might also be legitimately interpreted as」（https://github.com/Quartz/bad-data-guide）
+  - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://github.com/Quartz/bad-data-guide）
+  - 「, where 2004 = 100). In either of these cases, 2004 may or may not be an appropriate year for comparison. It could have been an unusually high crime year.」（https://github.com/Quartz/bad-data-guide）
+  - 「seconds. This is a major red flag that something has gone wrong in the production of the data. In this particular case an error in the code I wrote caused some failures to continue counting while all other messages were being sent and received.」（https://github.com/Quartz/bad-data-guide）
+  - 「For example, the United Nations」（https://github.com/Quartz/bad-data-guide）
+  - 「P-hacking is intentionally altering the data, changing the statistical analysis, or selectively reporting results in order to have statistically significant findings. Examples of this include: stop collecting data once you have a significant result, remove observations to get a significant result, or perform many analyses and only report the few that are significant. There has been some」（https://github.com/Quartz/bad-data-guide）
+
+## 構造化分析の手法を企業・市場の調べ物に使う実務（前提の点検・情報の質の点検・反対の点検の3つの結論・兆しの一覧・CIA Tradecraft Primer の解説）（structured analytic techniques business research key assumptions check quality of information check devil's advocacy practitioner）
+- 文脈：検証
+- 手順・やり方：
+  - 「Analysis of Competing Hypotheses step by step」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「The value of SATs is that a colleague can see the assumptions and evidence behind a judgement and disagree with a specific step.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「The Tradecraft Primer describes four steps: write down the current analytic line; identify all premises, stated and unstated, it depends on; challenge each by asking whether it must be true and whether it holds in all conditions; then reduce the list to assumptions that must be true and identify what information could invalidate them. Applied to a typical incident judgement:」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「ACH is described in Chapter 8 of Heuer's book as an eight-step methodology, and the Tradecraft Primer gives a closely related sequence. In CTI form:」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Consistent language matters as much as method. Intelligence Community Directive 203,」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「NIST: Cybersecurity Framework 2.0」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Delphi Method 37」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「applying an analytical framework specifically developed for this purpose and using the Data」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Determining the best structure for an issue to be approached is one of the first steps in its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Techniques provide a step-by-step process to handle the different parts of an analytical issue.6」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「differences of opinion. Communication is improved as it is guided through a step-by-step」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「referred to as an art when it comes to knowing how to put these pieces together.45 The」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「How to know which technique to choose when it comes to a joint analysis process? How to」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 突き合わせ・推定：
+  - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 一次情報の探し方：
+  - 「PDF for newsletter subscribers · free to read online」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Every section, table and checklist in one PDF, with links to the sources and related guides. Subscribe to our weekly NHI & AI Identity Journal and we’ll email you a download link.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「PDF Downloads for Newsletter Subscribers」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「coordinating and facilitating collaborative data processes, notably profiling coordinators,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「be structured and planned as part of a displacement profiling process. The utility of certain」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「a profiling exercise or a joint needs assessment.31」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysis processes in profiling or joint needs assessments. A description of each technique is」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「apr09.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 失敗・落とし穴：
+  - 「Structured Analytic Techniques for CTI Guide: Reducing Bias in Threat Assessments」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「logs are missing, retention is short and telemetry is biased towards what the organisation already monitors.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「The biases that show up most often in cyber assessments, and the technique that counters each:」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「increased objectivity and reduced bias.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「distances intuitive reasoning and its accompanying pitfalls.46」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「4. Lastly, mental models or cognitive biases must be identified and addressed early on.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「pitfalls later on in the process.63 In addition, the indicated time and training required will decrease」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「assumptions and biases, as well as to generate new ideas to adapt plans with new information」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 実例：
+  - 「assuming the adversary values what you would value, for example that a criminal group would never sit quietly for months. Counter with Red Team Analysis.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「the case is "solved" before scoping is complete. Counter with Indicators of Change and a scheduled re-test.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Builds the best case against the prevailing view」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「In this illustrative example H2 has no inconsistent evidence, so it leads, but it rests heavily on the "no extortion contact" item: if a demand arrives later, the assessment must be revisited. The commodity tool row does not discriminate and could be dropped. That is the kind of reasoning a reader can audit and challenge.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「many teams grade source reliability and information credibility separately, for example with the Admiralty (NATO) system of letters A to F for reliability and numbers 1 to 6 for credibility. A single vendor blog repeating an unverified claim should not be graded like a direct observation in your own logs.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「for every attribution, scoping or "are we affected?" judgement, recorded in the case notes.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Pilot ACH on two cases:」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「effective than an individual’s thinking.19 Intelligence analysis, for example, has improved when」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Small groups of eight or fewer individuals, as is typically the case for JSAT sessions, are」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Other considerations include the relationships between techniques. In many cases, techniques」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「questions to begin the process. Examples include:」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「manner, in this case to develop and track the definition process with a sharable modality such as」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「or timeline. For example: “Look for relationships and patterns in the data connecting persons,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「groups them together into at least four plausible scenarios – best case, worst case, baseline and an」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「CDR Gay, T. N., LCDR Ripley, D. B., & 1/C Fecskovics, A. K. (2012). Use of Case Studies」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+
+## 外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108）（how to find foreign-affiliated companies in Japan and Japanese overseas subsidiaries directory research guide library）
+- 文脈：会社
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

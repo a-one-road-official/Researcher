@@ -8,7 +8,7 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-08T08:29:56.938221+00:00",
+ "researched_at": "2026-11-08T16:08:53.788617+00:00",
  "evidence": {
   "実例": [
    {
@@ -20,6 +20,18 @@
    {
     "quote": "定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
@@ -1318,7 +1330,651 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "このページは、開示ワイヤーが収録する官報の決算公告を読むときの前提と、公告ページ・企業ページに出てくる表記の意味をまとめたものです",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公告の方法は定款で官報・日刊新聞紙・電子公告のいずれかを定め、官報または日刊新聞紙の場合は貸借対照表の「要旨」の公告で足ります（同条2項）",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書を提出している会社は決算公告が免除されます",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上場企業の決算が官報にほとんど載らないのはこのためで、上場企業の決算はEDINETの有価証券報告書とTDnetの決算短信から収録しています",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただしTOKYO PRO Marketなどプロ向け市場の上場企業は有価証券報告書を提出しないため、決算公告の義務が残ります",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "開示ワイヤーが「決算公告」として収録するのは、官報（インターネット版官報）に掲載された分と、一部の企業の電子公告（自社サイト掲載分）です",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官報の要旨公告は貸借対照表のみのものが大半で、損益計算書の要旨まで掲載する公告は全体の1割弱です",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官報の原本では「△」が使われることがあります",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "期末月が決算月で、企業ページの決算月の表示もこれにもとづきます",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「非開示」「—」は、その期の公告に損益計算書の要旨が掲載されていない（貸借対照表のみの決算公告）ことを示します",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「未収録」は、その期間の決算公告・報告書を収録していない期です",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官報の収録に抜けがあり期間が離れている場合、公告ページでは前期の列を出さず、企業ページの決算ハイライトでは「2024年3月期比」のように比較対象の期を明示します",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "売上高・営業利益・経常利益は損益計算書の要旨が掲載された公告、または有価証券報告書・決算短信からのみ収録します",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "企業ページのこれらの項目は国税庁法人番号公表サイト・gBizINFO・日本年金機構の適用事業所検索、および商業・法人登記から取得しています",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "株式会社以外の法人は、決算書の様式と科目の名称が会社法の計算書類と異なります",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "とはいえ、税務申告をするうえで全ての企業で決算書の作成義務がありますし、株主や取引銀行から計算書類の提出が求められるでしょう",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "１．決算公告",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場会社のほとんどは印刷会社の開示支援サービスを利用して、決算短信や有価証券報告書、招集通知などの開示書類を作成しています",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、ここで作成すべきとされている注記表はあくまで計算書類のためのものであり、後述する全文による決算公告における注記とは必要なものが異なります",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "１－２．決算公告の方法",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、定款に定めが無い場合は官報で掲載する方法とみなされます",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官報および日刊新聞紙に掲載する方法のメリットは、貸借対照表の要旨（大会社にあたっては、貸借対照表および損益計算書の要旨）だけ掲載すればよく（会社法第440条2項）、公告すべき情報量が電子公告に比べて圧倒的に少なく済む点でしょう",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、電子公告にあたっては、ホームページのアドレスを登記する必要があります",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "持分会社（合名会社、合資会社、合同会社）については決算公告は不要",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "１－３．要旨による決算公告 - 中小企業 -",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ところが、いざ決算公告を出そうとしたり、合併や減資の手続きで公告が必要になったりして初めて、「官報の掲載って意外とお金がかかる」「うちの公告方法、変えられるの？」と気づく経営者の方は少なくありません",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は、官報のほかに、日刊新聞紙や電子公告（自社ホームページ等への掲載）を選ぶことができます",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、3つの公告方法の違い、見落とされがちな決算公告の義務、そして公告方法を変更するときの登記の流れと費用を、経営者の方向けに整理します",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定款に公告方法を定めていない会社は、自動的に「官報に掲載する方法」になる",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり、「特に決めた覚えがない」という会社も、法律上は官報が公告方法とされています",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "設立時の定款をあらためて確認してみると、官報になっていることがほとんどです",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公告方法は、登記簿（履歴事項全部証明書）に記載される",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "電子公告を選んでいるときは、あわせて**ウェブページのアドレス（URL）**も登記されます（会社法911条3項28号イ）",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "登記簿を見れば、その会社がどの方法で公告するのかが誰にでも分かるようになっている、というわけです",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「中小企業はやらなくていい」と思われがちですが、法律上は中小企業にも決算公告の義務があります",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、決算公告で公告するのは貸借対照表などの「決算の数字」ですが、その作成や税務処理は税理士の専門領域です",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では公告という手続きの面に絞って解説し、決算書の中身や税務については触れません",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告の見方をわかりやすく解説｜読み解く5つのポイントと実践活用術 | 電子決算公告ドットコムMagazine",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告の見方をわかりやすく解説｜読み解く5つのポイントと実践活用術",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取引先の財務状況を確認しようと官報を開いてみたものの、「売上高はどこにあるのか」「この表のどの数字を見ればいいのか」と困惑した経験はないでしょうか",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告は決算書（財務諸表）と似て非なるものであり、",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つは「決算公告を見れば会社の全財務情報がわかる」という誤解、もう一つは「売上高や利益が記載されていないのはおかしい」という思い込みです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際には、会社法によって公告に必要な最低限の内容が定められており、大半の中小企業の決算公告には損益計算書の情報が一切掲載されていません",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、この構造的な特殊性を理解した上で、官報・日刊新聞紙・電子公告それぞれの決算公告の見方を体系的に解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに取引先調査や競合分析に活かすための実践的な手順もご紹介しますので、最後まで読めば「決算公告の見方」を自信を持って人に説明できるようになるはずです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず決算公告の基本的な構造を確認し、次に公告方法別の開示範囲の違いを整理します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告の見方の前提：開示される情報の範囲を正確に知る",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合他社・取引先の決算公告を調べる実践手順",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルート①：インターネット版官報（無料・過去一定期間分）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルート②：決算公告データベースサービス（有料・無料あり）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告の継続的な活用：経営判断に役立てる3つの視点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まとめ：決算公告の見方は「開示ルールの構造理解」から始まる",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「自分で登記できるもん」セルフ登記マンといわれる方々へ",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "登記(会社設立や不動産名義変更)を税理士・行政書士に依頼してはいけない理由",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "不動産取引前に登記情報を閲覧したところ「事件中」と表示された司法書士の対応（司法書士向け）",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "顧客の権利書･登記識別情報を紛失した専門家の方へ",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "商号･本店･住所･氏名･･･不動産登記･商業登記で使える文字･使えない文字＜一覧＞",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オンライン不動産登記の庁内での処理（グループ会員限定記事）",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取引相手から「自分で登記する」と言われた不動産売買の当事者の方へ",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "不動産登記での住所氏名変更登記自動化：所有権の登記を申請する際に必要になった「検索用情報の申出（提出）」",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "購入不動産は「新住所か旧住所」どちらで登記すべきか？！",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じマンションなのに敷地権付区分建物と敷地権の登記されていない区分建物があるのですが？！",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "財産分与の登記：離婚のときに簡単に「財産分与」を登記原因として登記してはいけない理由と代替案",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "信託登記が入っている不動産の売却時チェックリスト",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第三者のためにする契約（いわゆる三為契約、新中間省略）の契約実務・取引実務・登記実務",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外国（海外）在住日本人の不動産登記手続（在留証明書･署名証明書）",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告に損益計算書は必要？大会社と中小企業の開示義務を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告に損益計算書は必要？大会社と中小企業の開示義務を徹底解説【2026年版】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「決算公告を出すとき、損益計算書まで載せなければいけないのだろうか」と疑問に思ったことはありませんか",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告と損益計算書の関係とは？会社法の基本ルールを解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告で損益計算書が必要かを判断する5ステップ",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q1: 決算公告で損益計算書を省略すると罰則はありますか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q2: 合同会社は損益計算書の決算公告が必要ですか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q6: 決算公告で損益計算書の当期純損益が赤字の場合も公告する必要がありますか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まとめ：決算公告で損益計算書が必要かのチェックポイント",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告とは、株式会社が定時株主総会の終結後に、貸借対照表（大会社にあっては貸借対照表および損益計算書）を公告する義務のことです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず、決算公告に関わる法令の全体像を整理しましょう",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり、大会社に該当しない中小企業が決算公告を行う場合は、貸借対照表だけを開示すれば法律上の義務は満たされます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大会社に該当するかどうかで、決算公告の開示範囲は大きく変わります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経営の透明性をアピールすることで、採用活動にプラスの効果がある",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告とは？義務付けられている公告内容や公告方法を解説",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社は事業年度ごとに財務状態、経営成績を「決算書」という形にまとめますが、株式会社は定時株主総会後に決算書を開示する",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし決算公告について、正しく理解していない経営者や企業も少なくありません",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこで、この記事では決算公告で開示すべき内容や、3つの公告方法について解説します",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「義務」なのに決算公告をしていない企業も多い",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人決算を自分で行うには？期限や手順、提出書類についてわかりやすく解説",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "“法人一年目”必見！「法人成り」した初年度の決算で注意すべき8つのこと",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人税の申告期限はいつ？決算申告が間に合わなかったときのデメリットとは",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「決算公告」とは、",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "で、株式会社は会社法により決算公告が義務付けられています",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでいう公告とは、官報その他の方法により、広く会社の情報を公開することです",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告には罰則規定があり、怠った場合は100万円以下の過料が課される場合があります",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "融資を有利にする決算書のポイントをわかりやすく解説",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際には、公告義務があるにもかかわらず、決算公告を行っていない企業も少なくありません",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その理由として、決算公告に手間や費用がかかること、中小企業も決算公告が必要だと理解していないことなどが考えられます",
+    "url": "https://www.zeiri4.com/c_4/h_87/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "合併公告と決算公告の同時掲載とは？手順・費用・スケジュールを徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "実施率わずか1.8%の実態、3つの公告方法の費用比較、今から始める手順を解説",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
@@ -1967,638 +2623,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "このページは、開示ワイヤーが収録する官報の決算公告を読むときの前提と、公告ページ・企業ページに出てくる表記の意味をまとめたものです",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公告の方法は定款で官報・日刊新聞紙・電子公告のいずれかを定め、官報または日刊新聞紙の場合は貸借対照表の「要旨」の公告で足ります（同条2項）",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "有価証券報告書を提出している会社は決算公告が免除されます",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上場企業の決算が官報にほとんど載らないのはこのためで、上場企業の決算はEDINETの有価証券報告書とTDnetの決算短信から収録しています",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただしTOKYO PRO Marketなどプロ向け市場の上場企業は有価証券報告書を提出しないため、決算公告の義務が残ります",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "開示ワイヤーが「決算公告」として収録するのは、官報（インターネット版官報）に掲載された分と、一部の企業の電子公告（自社サイト掲載分）です",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "官報の要旨公告は貸借対照表のみのものが大半で、損益計算書の要旨まで掲載する公告は全体の1割弱です",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "官報の原本では「△」が使われることがあります",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "期末月が決算月で、企業ページの決算月の表示もこれにもとづきます",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「非開示」「—」は、その期の公告に損益計算書の要旨が掲載されていない（貸借対照表のみの決算公告）ことを示します",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「未収録」は、その期間の決算公告・報告書を収録していない期です",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "官報の収録に抜けがあり期間が離れている場合、公告ページでは前期の列を出さず、企業ページの決算ハイライトでは「2024年3月期比」のように比較対象の期を明示します",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "売上高・営業利益・経常利益は損益計算書の要旨が掲載された公告、または有価証券報告書・決算短信からのみ収録します",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "企業ページのこれらの項目は国税庁法人番号公表サイト・gBizINFO・日本年金機構の適用事業所検索、および商業・法人登記から取得しています",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "株式会社以外の法人は、決算書の様式と科目の名称が会社法の計算書類と異なります",
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "とはいえ、税務申告をするうえで全ての企業で決算書の作成義務がありますし、株主や取引銀行から計算書類の提出が求められるでしょう",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "１．決算公告",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場会社のほとんどは印刷会社の開示支援サービスを利用して、決算短信や有価証券報告書、招集通知などの開示書類を作成しています",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、ここで作成すべきとされている注記表はあくまで計算書類のためのものであり、後述する全文による決算公告における注記とは必要なものが異なります",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "１－２．決算公告の方法",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、定款に定めが無い場合は官報で掲載する方法とみなされます",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "官報および日刊新聞紙に掲載する方法のメリットは、貸借対照表の要旨（大会社にあたっては、貸借対照表および損益計算書の要旨）だけ掲載すればよく（会社法第440条2項）、公告すべき情報量が電子公告に比べて圧倒的に少なく済む点でしょう",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、電子公告にあたっては、ホームページのアドレスを登記する必要があります",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "持分会社（合名会社、合資会社、合同会社）については決算公告は不要",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "１－３．要旨による決算公告 - 中小企業 -",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ところが、いざ決算公告を出そうとしたり、合併や減資の手続きで公告が必要になったりして初めて、「官報の掲載って意外とお金がかかる」「うちの公告方法、変えられるの？」と気づく経営者の方は少なくありません",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は、官報のほかに、日刊新聞紙や電子公告（自社ホームページ等への掲載）を選ぶことができます",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、3つの公告方法の違い、見落とされがちな決算公告の義務、そして公告方法を変更するときの登記の流れと費用を、経営者の方向けに整理します",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定款に公告方法を定めていない会社は、自動的に「官報に掲載する方法」になる",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "つまり、「特に決めた覚えがない」という会社も、法律上は官報が公告方法とされています",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "設立時の定款をあらためて確認してみると、官報になっていることがほとんどです",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公告方法は、登記簿（履歴事項全部証明書）に記載される",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "電子公告を選んでいるときは、あわせて**ウェブページのアドレス（URL）**も登記されます（会社法911条3項28号イ）",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "登記簿を見れば、その会社がどの方法で公告するのかが誰にでも分かるようになっている、というわけです",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「中小企業はやらなくていい」と思われがちですが、法律上は中小企業にも決算公告の義務があります",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、決算公告で公告するのは貸借対照表などの「決算の数字」ですが、その作成や税務処理は税理士の専門領域です",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では公告という手続きの面に絞って解説し、決算書の中身や税務については触れません",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告の見方をわかりやすく解説｜読み解く5つのポイントと実践活用術 | 電子決算公告ドットコムMagazine",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告の見方をわかりやすく解説｜読み解く5つのポイントと実践活用術",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取引先の財務状況を確認しようと官報を開いてみたものの、「売上高はどこにあるのか」「この表のどの数字を見ればいいのか」と困惑した経験はないでしょうか",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告は決算書（財務諸表）と似て非なるものであり、",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つは「決算公告を見れば会社の全財務情報がわかる」という誤解、もう一つは「売上高や利益が記載されていないのはおかしい」という思い込みです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際には、会社法によって公告に必要な最低限の内容が定められており、大半の中小企業の決算公告には損益計算書の情報が一切掲載されていません",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、この構造的な特殊性を理解した上で、官報・日刊新聞紙・電子公告それぞれの決算公告の見方を体系的に解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに取引先調査や競合分析に活かすための実践的な手順もご紹介しますので、最後まで読めば「決算公告の見方」を自信を持って人に説明できるようになるはずです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず決算公告の基本的な構造を確認し、次に公告方法別の開示範囲の違いを整理します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告の見方の前提：開示される情報の範囲を正確に知る",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競合他社・取引先の決算公告を調べる実践手順",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルート①：インターネット版官報（無料・過去一定期間分）",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルート②：決算公告データベースサービス（有料・無料あり）",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告の継続的な活用：経営判断に役立てる3つの視点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まとめ：決算公告の見方は「開示ルールの構造理解」から始まる",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「自分で登記できるもん」セルフ登記マンといわれる方々へ",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "登記(会社設立や不動産名義変更)を税理士・行政書士に依頼してはいけない理由",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "不動産取引前に登記情報を閲覧したところ「事件中」と表示された司法書士の対応（司法書士向け）",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "顧客の権利書･登記識別情報を紛失した専門家の方へ",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "商号･本店･住所･氏名･･･不動産登記･商業登記で使える文字･使えない文字＜一覧＞",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オンライン不動産登記の庁内での処理（グループ会員限定記事）",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取引相手から「自分で登記する」と言われた不動産売買の当事者の方へ",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "不動産登記での住所氏名変更登記自動化：所有権の登記を申請する際に必要になった「検索用情報の申出（提出）」",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "購入不動産は「新住所か旧住所」どちらで登記すべきか？！",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同じマンションなのに敷地権付区分建物と敷地権の登記されていない区分建物があるのですが？！",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "財産分与の登記：離婚のときに簡単に「財産分与」を登記原因として登記してはいけない理由と代替案",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "信託登記が入っている不動産の売却時チェックリスト",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第三者のためにする契約（いわゆる三為契約、新中間省略）の契約実務・取引実務・登記実務",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "外国（海外）在住日本人の不動産登記手続（在留証明書･署名証明書）",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告に損益計算書は必要？大会社と中小企業の開示義務を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告に損益計算書は必要？大会社と中小企業の開示義務を徹底解説【2026年版】",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「決算公告を出すとき、損益計算書まで載せなければいけないのだろうか」と疑問に思ったことはありませんか",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告と損益計算書の関係とは？会社法の基本ルールを解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告で損益計算書が必要かを判断する5ステップ",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q1: 決算公告で損益計算書を省略すると罰則はありますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q2: 合同会社は損益計算書の決算公告が必要ですか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q6: 決算公告で損益計算書の当期純損益が赤字の場合も公告する必要がありますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まとめ：決算公告で損益計算書が必要かのチェックポイント",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告とは、株式会社が定時株主総会の終結後に、貸借対照表（大会社にあっては貸借対照表および損益計算書）を公告する義務のことです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず、決算公告に関わる法令の全体像を整理しましょう",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "つまり、大会社に該当しない中小企業が決算公告を行う場合は、貸借対照表だけを開示すれば法律上の義務は満たされます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大会社に該当するかどうかで、決算公告の開示範囲は大きく変わります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "経営の透明性をアピールすることで、採用活動にプラスの効果がある",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告とは？義務付けられている公告内容や公告方法を解説",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社は事業年度ごとに財務状態、経営成績を「決算書」という形にまとめますが、株式会社は定時株主総会後に決算書を開示する",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし決算公告について、正しく理解していない経営者や企業も少なくありません",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこで、この記事では決算公告で開示すべき内容や、3つの公告方法について解説します",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「義務」なのに決算公告をしていない企業も多い",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人決算を自分で行うには？期限や手順、提出書類についてわかりやすく解説",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“法人一年目”必見！「法人成り」した初年度の決算で注意すべき8つのこと",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人税の申告期限はいつ？決算申告が間に合わなかったときのデメリットとは",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「決算公告」とは、",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "で、株式会社は会社法により決算公告が義務付けられています",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでいう公告とは、官報その他の方法により、広く会社の情報を公開することです",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告には罰則規定があり、怠った場合は100万円以下の過料が課される場合があります",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "融資を有利にする決算書のポイントをわかりやすく解説",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際には、公告義務があるにもかかわらず、決算公告を行っていない企業も少なくありません",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その理由として、決算公告に手間や費用がかかること、中小企業も決算公告が必要だと理解していないことなどが考えられます",
-    "url": "https://www.zeiri4.com/c_4/h_87/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -2610,42 +2634,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nori_noguchi/n/nfa1bd343a374",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/oboreru_tanuki/n/n642c3a338568",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/bellmino/n/n836cb0eddb1d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -2660,27 +2654,12 @@
     "method": "http"
    },
    {
-    "url": "https://keiridriven.mjs.co.jp/171979/",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.keihi.com/column/46364/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shiodome.co.jp/js/blog/13590",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kanpo-ad.com/kaisya-kamoku1.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -2690,68 +2669,64 @@
     "method": "http"
    },
    {
-    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://leapal.jp/blog/kessan/kessan-koukoku-public-notice-balance-sheet/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tsutsui-acc.com/archives/1812",
+    "url": "https://kaijiwire.jp/guide/kessan-kokoku",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/chapter_10_equity_me_US/106_disclosures_US.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mcguirewoods.com/client-resources/alerts/2020/6/sec-updates-financial-disclosure-requirements-acquired-disposed-businesses/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.sec.gov/corpfin/cf-manual/topic-2",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://iasplus.com/content/de66f385-52e6-4dd6-9d98-5a38c49114dd",
+    "url": "https://www.ifrs.org/content/dam/ifrs/supporting-implementation/smes/2025/ifrs-for-smes-standard-markup.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.roedl.us/trending/accounting_matters/overview-of-new-revenue-recognition-standard",
+    "url": "https://ifrsconsultant.com/ifrs-for-smes-disclosure-checklist/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifrs.org/issued-standards/ifrs-for-smes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accobisme.com/wp-content/uploads/2023/09/IFRS-FOR-SMEs.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://beancount.io/blog/2026/09/01/ifrs-for-smes-third-edition-2025-implementation-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cfrr.worldbank.org/sites/default/files/2026-03/IFRS+for+SMEs+Update+(2025+edition).pdf",
+    "status": "http_404",
+    "method": "pdf"
    }
   ]
  },
  "search_log": [
   {
    "query": "中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務 site:note.com",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務 note",
    "results": [
     "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/real_ram9758/n/n015e975a7128",
-    "https://note.com/nori_noguchi/n/nfa1bd343a374",
-    "https://note.com/oboreru_tanuki/n/n642c3a338568",
-    "https://note.com/bellmino/n/n836cb0eddb1d",
-    "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
-    "https://note.com/yamasei015/n/ne9d3eccc06a4"
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "https://biz.moneyforward.com/accounting/basic/75510/",
+    "https://sw-kaikei.com/archives/1874",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://kaijiwire.jp/guide/kessan-kokoku"
    ],
    "engines": [
     "ddgs:google"
@@ -2759,124 +2734,84 @@
    "n_hits": 7
   },
   {
-   "query": "中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務 note",
-   "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://biz.moneyforward.com/accounting/basic/75510/",
-    "https://sw-kaikei.com/archives/1874",
-    "https://keiridriven.mjs.co.jp/171979/",
-    "https://shiodome.co.jp/js/blog/13590",
-    "https://note.com/cyber_forest/n/n24410a3e7804",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 13
-  },
-  {
    "query": "中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務 やり方",
    "results": [
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
     "https://biz.moneyforward.com/accounting/basic/75510/",
-    "https://www.keihi.com/column/46364/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "https://www.zeiri4.com/c_4/h_87/",
     "https://sw-kaikei.com/archives/1874",
-    "https://shiodome.co.jp/js/blog/13590",
-    "https://kanpo-ad.com/kaisya-kamoku1.html",
-    "https://keiridriven.mjs.co.jp/171979/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/"
+    "https://leapal.jp/blog/kessan/kessan-koukoku-public-notice-balance-sheet/",
+    "https://kaijiwire.jp/guide/kessan-kokoku"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務 事例",
    "results": [
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "https://www.keihi.com/column/46364/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://shiodome.co.jp/js/blog/13590",
-    "https://sw-kaikei.com/archives/1874",
-    "https://kanpo-ad.com/kaisya-kamoku1.html",
-    "https://keiridriven.mjs.co.jp/171979/",
     "https://biz.moneyforward.com/accounting/basic/75510/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/"
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "https://sw-kaikei.com/archives/1874",
+    "https://www.zeiri4.com/c_4/h_87/",
+    "https://leapal.jp/blog/kessan/kessan-koukoku-public-notice-balance-sheet/",
+    "https://www.kigyou-houmu.com/secret-4/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "SME public notice disclosure scope by method net assets change profit trend",
    "results": [
-    "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/chapter_10_equity_me_US/106_disclosures_US.html",
-    "https://www.mcguirewoods.com/client-resources/alerts/2020/6/sec-updates-financial-disclosure-requirements-acquired-disposed-businesses/",
-    "https://www.sec.gov/corpfin/cf-manual/topic-2",
-    "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html",
-    "https://iasplus.com/content/de66f385-52e6-4dd6-9d98-5a38c49114dd",
-    "https://www.roedl.us/trending/accounting_matters/overview-of-new-revenue-recognition-standard",
-    "https://www.aoshearman.com/en/insights/sec-adopts-new-financial-statement-disclosure-requirements-for-acquisitions-and-dispositions",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-secru28204-251us-09-11-2025.pdf",
-    "https://www.wilmerhale.com/en/insights/blogs/keeping-current-disclosure-and-governance-developments/20200601-sec-adopts-disclosure-relief-for-business-acquisitions-and-dispositions",
-    "https://ifrsconsultant.com/ifrs-for-smes-disclosure-checklist/"
+    "https://www.ifrs.org/content/dam/ifrs/supporting-implementation/smes/2025/ifrs-for-smes-standard-markup.pdf",
+    "https://ifrsconsultant.com/ifrs-for-smes-disclosure-checklist/",
+    "https://www.ifrs.org/issued-standards/ifrs-for-smes/",
+    "https://www.accobisme.com/wp-content/uploads/2023/09/IFRS-FOR-SMEs.pdf",
+    "https://beancount.io/blog/2026/09/01/ifrs-for-smes-third-edition-2025-implementation-guide",
+    "https://cfrr.worldbank.org/sites/default/files/2026-03/IFRS+for+SMEs+Update+(2025+edition).pdf",
+    "https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2025/isg-2025-ifs.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務",
    "results": [
-    "https://note.com/tatsuya_sabato/n/nc781e22aa762",
-    "https://note.com/fayanasan/n/n1ef2d370d23c",
-    "https://note.com/hirokimiyano/n/n63277421f673",
-    "https://note.com/tafm/n/n239a7afa371c",
-    "https://note.com/kenmo_kenmo/n/nf0e9e9f97461",
-    "https://note.com/kamigakihiroyasu/n/nca973b4581c6",
-    "https://note.com/hirokimiyano/n/n07b777b9bedf",
-    "https://note.com/korg_check/n/n7aef5688580d",
-    "https://note.com/korg_check/n/n586ad2db1e23",
-    "https://note.com/tasty_yeti5399/n/nbee5145015e4"
+    "https://note.com/isa99999/n/n7aadf977f2e7",
+    "https://note.com/real_ram9758/n/n015e975a7128",
+    "https://note.com/oboreru_tanuki/n/n642c3a338568",
+    "https://note.com/bellmino/n/n836cb0eddb1d",
+    "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
+    "https://note.com/real_ram9758/n/n38e963188c25",
+    "https://note.com/vlightup/n/n82ac248c14b4"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:x.com 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務",
    "results": [
-    "https://x.com/GAMBEJP/status/2116552887652532253",
-    "https://x.com/lec_shindan/all?lang=ar-x-fm",
-    "https://x.com/seibunsha_info",
-    "https://x.com/mktgxlandlord/status/1737163238373274017",
-    "https://x.com/MoneyHack4649/status/2110005663833420010",
-    "https://x.com/nyamadampersand",
-    "https://x.com/michsuzu/status/2115282901529182693",
-    "https://x.com/mncon",
-    "https://x.com/STR71944704",
-    "https://x.com/MoriMasaya1"
+    "https://x.com/kessan_db/status/2078436040621339090",
+    "https://x.com/kessan_db/status/2070679408630006078",
+    "https://x.com/kessan_kokoku",
+    "https://x.com/kessan_db/status/2069782058306826600",
+    "https://x.com/kessan_db/status/2071196426521207210",
+    "https://x.com/kessan_db/status/2068309166264119782",
+    "https://x.com/kessan_db/status/2072277810698399789"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務",
@@ -2890,87 +2825,53 @@
     "https://jp.linkedin.com/posts/啓輔-河原-a1b50735b_即時償却が使える金額ラインと注意点-これ即時償却できるんですか-決算期-activity-7406211413460934656-XFw8"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務",
-   "results": [
-    "https://www.facebook.com/VUC2021/",
-    "https://www.facebook.com/1725220191025746/",
-    "https://www.facebook.com/yoshiokamanagementgroup/photos/中小企業の経営において決算書は税務申告のための資料にとどまらず会社の利益構造資金繰り財務体質成長力を読み解くための重要な経営資料ですしかし損益計算書貸借対照表キ/1032622739317963/",
-    "https://www.facebook.com/smrjchubu/posts/基本から学ぶ決算書の読み方講座7月のご案内決算書は日々の企業活動の成果が年度の実績となって表わされるものです決算書の見方が分かると企業の経営状態を把握することが/1405900698238484/",
-    "https://www.facebook.com/smrjchubu/posts/決算書を読み解く力をつける基本講座のご案内経営活動の成果を表した決算書を的確に読み解く事は財務面から企業経営業務を行う為に重要な第一歩ですこの研修では決算書の仕/1357154519779769/",
-    "https://www.facebook.com/smrjchubu/photos/決算書を読み解く力をつける基本講座のご案内経営活動の成果を表した決算書を的確に読み解く事は財務面から企業経営業務を行う為に重要な第一歩ですこの研修では決算書の仕/1357154476446440/",
-    "https://www.facebook.com/japanex.jp/posts/元国税調査官税理士による自力で会社の決算申告をする方法連載スタート第１回決算で売上高を確定させる方法売掛金未収入金の内訳書の書き方httpsjapanexjpb/304754026552279/",
-    "https://www.facebook.com/100050929632349/posts/マーケティングノウハウのライセンシングカンパニー株式会社刀決算公告第9期-第9期-決算公告2025年6月期当期純利益13億700万円利益剰余金62億3700万円/1478374410536866/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 8
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務 note 社長",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
     "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "https://www.kigyou-houmu.com/secret-4/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "https://biz.moneyforward.com/accounting/basic/75510/",
-    "https://shiodome.co.jp/js/blog/13590",
-    "https://note.com/cyber_forest/n/n24410a3e7804",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
     "https://sw-kaikei.com/archives/1874",
-    "https://kanpo-ad.com/kaisya-kamoku1.html",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/"
+    "https://leapal.jp/blog/kessan/kessan-koukoku-public-notice-balance-sheet/",
+    "https://www.zeiri4.com/c_4/h_87/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 12
+   "n_hits": 7
   },
   {
    "query": "中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務 X 投稿",
    "results": [
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "https://biz.moneyforward.com/accounting/basic/75510/",
+    "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "https://sw-kaikei.com/archives/1874",
-    "https://shiodome.co.jp/js/blog/13590",
-    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
-    "https://kanpo-ad.com/kaisya-kamoku1.html",
-    "https://www.keihi.com/column/46364/",
-    "https://ayusawa-partners.jp/column/kessan-koukoku-gimu",
-    "https://biz.moneyforward.com/accounting/basic/75510/"
+    "https://www.zeiri4.com/c_4/h_87/",
+    "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "https://leapal.jp/blog/kessan/kessan-koukoku-public-notice-balance-sheet/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "SME public notice disclosure scope by method net assets change profit trend site:linkedin.com",
-   "results": [
-    "https://sy.linkedin.com/in/waddah-hanana-msc-cfc-17434115",
-    "https://www.linkedin.com/in/jennifer-chien-25605b8",
-    "https://ca.linkedin.com/in/alaa-shalabi-14550bb3",
-    "https://ca.linkedin.com/in/kartikkrishnamoorthy",
-    "https://in.linkedin.com/in/archana-jalda-854087192",
-    "https://tn.linkedin.com/in/youssefkraiem",
-    "https://www.linkedin.com/top-content/finance/regulatory-compliance-in-finance/changes-to-eu-reporting-standards-for-finance-professionals/",
-    "https://ch.linkedin.com/in/sanlambert",
-    "https://www.linkedin.com/in/marc-cunningham-019b06b",
-    "https://cy.linkedin.com/in/thanos-tsoris"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   }
  ],
  "missing": {},
@@ -2978,18 +2879,32 @@
   "実例": [
    {
     "quote": "決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "quote": "合併公告と決算公告の同時掲載とは？手順・費用・スケジュールを徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 16,
+ "runs": 17,
  "first_researched_at": "2026-11-05T12:07:11.309870+00:00"
 }

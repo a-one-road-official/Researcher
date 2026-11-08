@@ -8,10 +8,9 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-09 00:59 JST
+## 更新：2026-11-09 01:16 JST
 
 ## この24時間で増えた事実（一部）
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「#humanoid # robot #generalpurposerobot #teleoperation ... #humanoid # robot #generalpurposerobot #teleoperation ... Link」https://www.linkedin.com/posts/takayukiyamazaki_humanoid-robot-generalpurposerobot-activity-7371213694309036032-G9IW
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「さらに、ロボットメンテナンス技術者の多くがドローンや産業用ロボット分野から転身してきた人材だ」https://36kr.jp/488876/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「人手不足の製造現場にフィジカルAI 「職人技」継承の担い手に 国産開発へ企業連合 | 共同通信 プレミアム | 沖縄タイムス＋プラス」https://www.okinawatimes.co.jp/articles/-/1912883
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「こうした人型ロボットは、まずは製造業や物流業などでの活用が進むと見られるが、担い手不足に悩む建設業もターゲットの1つだ」https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/
@@ -91,6 +90,7 @@
 - 防衛｜日本→海外（輸出）｜艦艇｜技術（新しい技術・実証）：「Breaking Defenseも「今回の投資は韓国側が米韓貿易協定の中で約束した『米造船業界に対する1,500億ドルの投資』の一部だ」「ハンファ･フィラデルフィア造船所は米国と韓国の協力関係において重要な役割を果たすことが期待されている」」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
 - 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「ホワイトハウス行政管理予算局（OMB）は先月21日（現地時間）、議会に提出した「2027会計年度国防権限法（NDAA）に関する行政当局の政策立場書（SAP）」で、このような方針を示した」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
 - 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「SAPはNDAAに対するドナルド・トランプ米政府の公式見解をまとめた文書で、ホワイトハウスはこの文書を通じ、外国の造船所で建造された戦闘艦の購入を認めないNDAAの条項に反対する考えを示した」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
+- 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「トランプ政府は、海軍が海外の造船所と契約して水上戦闘艦2隻と非戦闘支援艦2隻を建造できる権限を付与する立法を優先的に推進するという方針だ」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
 
 ## ファイル
 - 分野_AI_半導体_輸出_dd03fe.md：分野_AI・半導体_輸出

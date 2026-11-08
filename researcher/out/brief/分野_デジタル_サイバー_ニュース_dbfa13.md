@@ -7,7 +7,7 @@
   - ［記事］2026-11-06「法人であれば、「単純回収が7年か8年か」より、「停電時に操業停止損失を減らせるか」「稟議資料で説明しやすいか」が重要」https://www.enegaeru.com/japan-battery-market-outlook-2026-2030
   - ［記事］2026-11-06「同社の受注残高は約49億ドルに達しており、その高い需要を示しています」https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030
   - ［記事］2026-11-06「蓄電池の購入判断は、補助の有無に加えて自家消費・売電の機会損失・維持費を確認します」https://www.enegaeru.com/smartintroductionofhomeenergystoragesystems-zeh
-- 顧客（金を払う側）（86件）：
+- 顧客（金を払う側）（85件）：
   - ［一次］2026-11-06「3. 導入拡大見通しの推計」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 国内の事業環境や市場動向を調査し、定置用蓄電システムの中長期的な導入拡大に向け」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 再エネの更なる導入拡大への貢献、EV普及も踏まえた定置用蓄電システムの役割、定置用蓄電システム」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
@@ -31,7 +31,7 @@
   - ［一次］2026-11-06「うち、「卸・商社」及び「OEM/ODM」流通がそれぞれ約30%」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「※2次卸・商社へ販売する事例もある」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［記事］2026-11-06「設備と必要工事の総額を150万円、別途の手数料を2万円、条件を満たして受け取る補助を20万円と仮定します」https://www.enegaeru.com/smartintroductionofhomeenergystoragesystems-zeh
-- 政治（法・予算・規制）（85件）：
+- 政治（法・予算・規制）（84件）：
   - ［一次］2026-11-06「1. 定置用蓄電システムの普及拡大に関する政府の取組」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「費補助金」の申請データに基づき、工事費を含む蓄電システム価格の相場を推計したところ、18.7万円」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「出所）SII「災害時に活用可能な家庭用蓄電システム導入促進事業費補助金」等データより三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf

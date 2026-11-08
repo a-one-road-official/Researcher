@@ -8,8 +8,16 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-08T08:15:49.029289+00:00",
+ "researched_at": "2026-11-08T16:03:42.873582+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors",
+    "url": "https://arxiv.org/abs/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "How to Evaluate Entity Resolution Systems:",
@@ -556,14 +564,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors",
-    "url": "https://arxiv.org/abs/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "numerous yet small. For example, entity resolution is used for the identification of unique inventors listed",
@@ -766,12 +766,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n235c187d6f80",
+    "url": "https://note.com/gtminami/n/n208e4b4bd110",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/comix_ceo162230/n/n1ee1c5b22738",
+    "url": "https://note.com/kagawatomo/n/n235c187d6f80",
     "status": "ok",
     "method": "http"
    },
@@ -806,47 +806,47 @@
     "method": "http"
    },
    {
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKNfuoxP0kDXKUOdf7tSMUrwaTUJxeMozqUTrp5Y8HDkkwR1un7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKKUaT-Ox_-SBKHI8O6evVrpe6rDpa4lrhvXmQ5aEh1K8IAvfF2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m1ke.org/p/%E6%B7%B7%E5%90%8C%E8%A1%8C%E5%88%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://milab.mi-6.co.jp/article/t0017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://techsword.co.jp/column/how-to-evaluate-ai",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "url": "https://hackson.jp/accuracy/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://since2020.jp/media/f1-precision-recall/",
+    "url": "https://qiita.com/anoiro/items/887525b0a1d3c8af462f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIlr4friNFgQH8zWeH7sPMIlrvy6DXgeHTaOZS0TMDKx9Ly7ER2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKkyDZht3Vq_LlRPQDt6aoZAzmskkwzqIwEqwyQIQ91Yt2fHr3e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tnishimaki/n/n6e244572e076",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKKv4FBmnd0Iio2CIvzSEp6X0Oyxvq3YZLGUgfqDS2ljeVpoE0D",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
+    "url": "https://kentei.ai/blog/archives/1610",
     "status": "ok",
     "method": "http"
    },
@@ -861,12 +861,12 @@
     "method": "http"
    },
    {
-    "url": "https://hackson.jp/accuracy/",
+    "url": "https://quantcollege.net/machine-learning-recall-precision",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/anoiro/items/887525b0a1d3c8af462f",
+    "url": "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "status": "ok",
     "method": "http"
    },
@@ -892,8 +892,8 @@
    },
    {
     "url": "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.researchgate.net/publication/262312289_Evaluating_entity_resolution_results",
@@ -909,16 +909,16 @@
     "https://note.com/kagawatomo/n/n5425654d0f5d",
     "https://note.com/kagawatomo/n/nb60fdfc4d236",
     "https://note.com/comix_ceo162230/n/nf7c25a363588",
+    "https://note.com/gtminami/n/n208e4b4bd110",
     "https://note.com/kagawatomo/n/n235c187d6f80",
-    "https://note.com/comix_ceo162230/n/n1ee1c5b22738",
     "https://note.com/door13/n/nb61e017dabb7",
     "https://note.com/nob75note/n/n052803f42d1f",
+    "https://note.com/comix_ceo162230/n/n1ee1c5b22738",
     "https://note.com/zenkok/n/n5ffc34269a5f",
-    "https://note.com/gtminami/n/n208e4b4bd110",
-    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9"
+    "https://note.com/paguinu/n/n18d688521707"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -931,11 +931,32 @@
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://note.com/kikaben/n/nc457443773b7",
     "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKNfuoxP0kDXKUOdf7tSMUrwaTUJxeMozqUTrp5Y8HDkkwR1un7",
     "https://techsword.co.jp/column/how-to-evaluate-ai",
     "https://note.com/trust_dx/n/n2d67406648ed",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJCvzm8nSC7VsGf2pU5Yu4BCLmu99OR-qTT-0ppVWKJtQdzrFQB",
     "https://www.flowhunt.io/ja/%E7%94%A8%E8%AA%9E%E9%9B%86/recall-in-machine-learning/",
     "https://note.com/tsunobuchi/n/nbd110dd5513a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り） やり方",
+   "results": [
+    "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://www.youtube.com/watch?v=FywetXSZPG0",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKKUaT-Ox_-SBKHI8O6evVrpe6rDpa4lrhvXmQ5aEh1K8IAvfF2",
+    "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
+    "https://note.com/kikaben/n/nc457443773b7",
+    "https://www.m1ke.org/p/%E6%B7%B7%E5%90%8C%E8%A1%8C%E5%88%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://milab.mi-6.co.jp/article/t0017",
+    "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "https://hackson.jp/accuracy/"
    ],
    "engines": [
     "ddgs:google",
@@ -944,39 +965,21 @@
    "n_hits": 15
   },
   {
-   "query": "照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り） やり方",
-   "results": [
-    "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
-    "https://since2020.jp/media/f1-precision-recall/",
-    "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKkyDZht3Vq_LlRPQDt6aoZAzmskkwzqIwEqwyQIQ91Yt2fHr3e",
-    "https://note.com/tnishimaki/n/n6e244572e076",
-    "https://tech-blog.optim.co.jp/entry/2021/05/31/100000"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
    "query": "照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り） 事例",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
-    "https://since2020.jp/media/f1-precision-recall/",
-    "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKKv4FBmnd0Iio2CIvzSEp6X0Oyxvq3YZLGUgfqDS2ljeVpoE0D",
-    "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIlr4friNFgQH8zWeH7sPMIlrvy6DXgeHTaOZS0TMDKx9Ly7ER2",
     "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
+    "https://milab.mi-6.co.jp/article/t0017",
+    "https://www.youtube.com/watch?v=FywetXSZPG0",
+    "https://note.com/kikaben/n/nc457443773b7",
+    "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "https://kentei.ai/blog/archives/1610",
     "https://cryptul.co.jp/insights/articles/242-accuracy-baseline-imbalanced-data"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -1014,7 +1017,7 @@
     "https://note.com/tsutomu_runrun/n/nb74f30247487"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -1044,8 +1047,8 @@
     "https://jp.linkedin.com/pulse/how-reconciliation-automation-saves-time-improves-accuracy-koshai-fclyc?tl=ja",
     "https://www.linkedin.com/posts/宏仁-井上-440356214_内部取引消去の本当のペインは消去ではなく差異の照合業務hori-activity-7246919903553716224-BTeZ",
     "https://jp.linkedin.com/pulse/maximize-accuracy-reconciliation-automation-solutions-10decoders-eoi6c?tl=ja",
-    "https://jp.linkedin.com/posts/hiroyuki-nagase_処理が完了でも受け取った件数と合っていますか-例えば架空の申請10件を整理-activity-7522485185746120704-PI0b",
-    "https://jp.linkedin.com/pulse/how-i-revolutionized-bank-reconciliation-ai-from-30-balasubramanian-zrrhc?tl=ja"
+    "https://jp.linkedin.com/pulse/how-i-revolutionized-bank-reconciliation-ai-from-30-balasubramanian-zrrhc?tl=ja",
+    "https://jp.linkedin.com/posts/yohei-koyama-b38a708b_会社名で二つの表をつなぐだけです-説明は一行で済むのですがそのだけに-activity-7505762723130060800-GW29"
    ],
    "engines": [
     "ddgs:google",
@@ -1056,22 +1059,20 @@
   {
    "query": "site:facebook.com 照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り）",
    "results": [
-    "https://www.facebook.com/groups/aiacademy.jp/",
-    "https://www.facebook.com/hisashi.itoi/",
-    "https://www.facebook.com/kaoru.morishita.1291/",
     "https://www.facebook.com/groups/1727899860780122/posts/4502587869977960/",
     "https://www.facebook.com/necjapan/posts/1813130145376382/",
     "https://www.facebook.com/hisashi.ando.583/photos/確定申告の医療費領収書の山を見るだけでhp削られますそこで仕組み化しました医療費明細をpdfcsvにしてexcelにコピペできるプロンプト作りました筋トレと同じ/25800477036282424/",
     "https://www.facebook.com/hiroshi.nakata.1447/videos/福岡で電気工事の担当者が自分都合で作ってみてますきっと役に立つはず️今回は火が付いた現場に入った何が正解か分からない施工図ないプロット配置️原設計を元に図面を書/1049181820860584/",
     "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
     "https://www.facebook.com/reel/25863109499964426/",
-    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-ユースケース編シーケンサの運用で既存プログラムからの変更箇所がわからなくなって困ったことはありませんかそのお悩みgxworks3/568435528775655/"
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-ユースケース編シーケンサの運用で既存プログラムからの変更箇所がわからなくなって困ったことはありませんかそのお悩みgxworks3/568435528775655/",
+    "https://www.facebook.com/yu.yokoyama.92/videos/在留カードが本物ならどんな仕事でもできるわけではありません外国人採用時は原本の表裏読取アプリ在留資格と仕事内容の照合までを会社の標準手順にしましょう採用担当者向/905155692352114/"
    ],
    "engines": [
     "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 10
+   "n_hits": 8
   },
   {
    "query": "照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り） note 社長",
@@ -1081,10 +1082,10 @@
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://note.com/trust_dx/n/n2d67406648ed",
     "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKtqPfn_zqzrsglMTzsuqnkJdBXijcpoVAIFv8xaXEEyGnBlvIA",
-    "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKY-SbVvZomvVGrYvxUyIJkxVOHUZMd0_prIkm782r47EknuBpM",
     "https://note.com/kenichiro/n/n73cdd7349e00",
     "https://www.flowhunt.io/ja/%E7%94%A8%E8%AA%9E%E9%9B%86/recall-in-machine-learning/",
+    "https://techsword.co.jp/column/how-to-evaluate-ai",
     "https://stepio-easier-to-learn.com/what-is-model-evaluation/"
    ],
    "engines": [
@@ -1098,20 +1099,20 @@
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLs8RptkXkm-99pY70oo-FNGXYKSf_CnmLW9MecVVgPPhcreQWo",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vI6RztJtdVjKMJz3Ru3qwcS5Hc5sCOzW5yugwqdwY5zyT1NDKEp",
     "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
     "https://note.com/kikaben/n/nc457443773b7",
     "https://milab.mi-6.co.jp/article/t0017",
     "https://kentei.ai/blog/archives/1610",
-    "https://techsword.co.jp/column/how-to-evaluate-ai",
     "https://www.m1ke.org/p/%E6%B7%B7%E5%90%8C%E8%A1%8C%E5%88%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "https://qiita.com/anoiro/items/887525b0a1d3c8af462f"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "entity resolution evaluation precision recall confidence interval importance sampling few labels site:linkedin.com",
@@ -1121,14 +1122,14 @@
     "https://www.linkedin.com/posts/ggospodinov_aligning-multimodal-patient-evidence-with-activity-7513335357300621312-p4mp",
     "https://il.linkedin.com/in/gurevichvladimir",
     "https://www.linkedin.com/in/shekhar-agrawal-4b59854",
+    "https://www.linkedin.com/in/wenwen-xie-a175a018",
     "https://www.linkedin.com/in/sada-kakarla",
     "https://www.linkedin.com/in/samuel30",
     "https://www.linkedin.com/in/mayesha-maliha-8b90521b0",
-    "https://www.linkedin.com/in/nayan-singhal-08655444",
-    "https://in.linkedin.com/in/chayanshrangraj"
+    "https://www.linkedin.com/in/nayan-singhal-08655444"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1136,6 +1137,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-06T10:17:19.580496+00:00"
 }

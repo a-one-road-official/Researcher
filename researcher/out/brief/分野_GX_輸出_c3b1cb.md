@@ -53,13 +53,13 @@
   - ［一次］2026-11-08「開発を進め、2000年頃には、世界シェアの50%に至った」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-08「２．次世代型太陽電池の位置づけ」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
   - ［一次］2026-11-08「⚫ シリコン太陽電池以外の様々なタイプの太陽電池が開発されているが、特に、ペロブスカイト太」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
-- SNS・note（X・検索結果の抜粋）（12件）：
+- SNS・note（X・検索結果の抜粋）（11件）：
   - ［SNS］2026-11-07「宮坂力教授が発明したペロブスカイト太陽電池の基礎特許を日本が海外... 東芝未来科学館の宮坂力教授が2009年にペロブスカイト太陽電池を発明し国内特許を取得したが、海外主要国への出願費用数千万円を大学や政府機関が負担せず、Oxford PVが基礎特許を固めTrina SolarやFirst Solarへライセンスした。」https://x.com/i/trending/2035749372399349876
   - ［SNS］2026-11-06「もりした千里 on X: "ペロブスカイト太陽電池は薄くて軽くて曲げられ... また、さいたま市役所に設置されているタンデム型ペロブスカイト太陽電池は100% 国産と伺いました。 まだこれから耐久性やコスト等課題はありますが、 まず多くの方に知っていただくことが重要だと考えています。」https://x.com/ChiiChiiiii/status/2092104999421858191
   - ［SNS］2026-11-05「宮坂力教授が発明したペロブスカイト太陽電池の基礎特許を日本が海外... 東芝未来科学館の宮坂力教授が2009年にペロブスカイト太陽電池を発明し国内特許を取得したが、海外主要国への出願費用数千万円を大学や政府機関が負担せず、Oxford PVが基礎特許を固めTrina SolarやFirst Solarへライセンスした。中国は関連特許33,000件超を取得し世界シェア76%を占め、日本政府は2025 ...」https://x.com/i/trending/2035749372399349876
   - ［SNS］2026-11-05「日本発祥のペロブスカイト太陽電池、中国で100社超が量産へ 薄く曲がる次世代太陽電池が、中国で一気に量産体制を整えています。日本で生まれたこの技術を巡り、X上で日本の巻き返しを求める声が高まっています。 2009年に桐蔭横浜大学の宮坂力教授が発明したペロブスカイト太陽 ...」https://x.com/i/trending/2035274142103339447
-  - ［SNS］2026-11-05「積水化学工業株式会社【公式】 on X: "／ 最近よく聞く「#ペロブスカ... ／ 最近よく聞く「#ペロブスカイト太陽電池」 実はもう、実際に使われ始める段階に入っています💡 \ 長年、#積水化学グループ が開発に取り組んできた #フィルム型ペロブスカイト太陽電池 その名も…「SOLAFIL（ソラフィル）」！ 2026年3月、事業開始を決定、供給に向けた具体的な協議も ...」https://x.com/SEKISUI_jp/status/2047827975056626151
-- SNS・note（Facebook・検索結果の抜粋）（16件）：
+  - ［SNS］2026-11-05「Semi-journal公式 on X: "【東芝と信越化学、寿命1.5倍のペロブスカイ... 【東芝と信越化学、寿命1.5倍のペロブスカイト太陽電池 世界最高水準】 東芝と信越化学工業は新潟大学と連携し、耐久性能を先行品の1.5倍に高めた次世代ペロブスカイト太陽電池を開発した。 現時点の世界最高水準で、2030年代の製品販売を目指す。同分野で量産技術を蓄積する中国勢に耐久 ...」https://x.com/semi_journal_jp/status/2097088531038609852
+- SNS・note（Facebook・検索結果の抜粋）（13件）：
   - ［SNS］2026-11-08「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...【薄くて軽くて曲がるフィルム型の太陽光発電】従来 のソーラーパネル...Dエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会.」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
   - ［SNS］2026-11-08「Dエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...ECO信頼サービス 株式会社 - Facebook Sep 20, 2026 · Posts ＜ペロブスカイト最新情報＞ 第3回：最大の弱点だった“耐久性”はどこまで改善され たのか ペロブスカイト太陽電池は高効率・低コストという大 きな利点を持ちながら、長年「耐久性の低さ」が最大 」https://www.facebook.com/daitsu.energy/
   - ［SNS］2026-11-07「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...【薄くて軽くて曲が」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
@@ -77,7 +77,7 @@
   - ［SNS］2026-11-06「そんな疑問を解消するために、基礎知識からメリット・デメリット、技術的課題、そして最新の商用化動向までを分かりやすく一気に解説します！」https://note.com/fitenao55/n/n2be100ec6f15
   - ［SNS］2026-11-06「1. そもそも「ペロブスカイト」ってなに？」https://note.com/fitenao55/n/n2be100ec6f15
   - ［SNS］2026-11-06「ペロブスカイト（Perovskite）とは、もともと「特定の結晶構造」を指す化学用語です。1839年にロシアの鉱物学者ペロブスキーの名にちなんで命名されました。」https://note.com/fitenao55/n/n2be100ec6f15
-- SNS・note（LinkedIn・検索結果の抜粋）（23件）：
+- SNS・note（LinkedIn・検索結果の抜粋）（21件）：
   - ［SNS］2026-11-08「Tatsuya Kawabe - 再エネでモノつくり/ペロブスカイト太陽電池アドバ...#perovskitesolar #renewableenergy #cleanenergy # ... - LinkedIn若手技術者の挑戦：ガラス型ペロブスカイト太陽電池-Panasonic GREEN ...厦门海森工贸有限公司 | 领英 - 领英 (中国)Anoop Pandey - Dy. General Manager at Mitsub」https://jp.linkedin.com/in/tatsuya-kawabe-43511b296
   - ［SNS］2026-11-08「ペロブスカイト太陽電池の重要部材「透明電極」安価に…東洋インキが新... ペロブスカイト太陽電池（PSC）は日本発の期待の製品というだけでなく、製造技術そのものも競争力になるかもしれないという嬉しいニュースですね。 東洋インキの製造技術は工程削減と大面積・高速生産で最大80％のコスト低減を狙う発想とのこと。」https://jp.linkedin.com/posts/yuki-matsuzawa29_ペロブスカイト太陽電池の重要部材透明電極安価に東洋インキが新工法30年メド-activity-7422784893132279808-98S7
   - ［SNS］2026-11-08「Perovskite Solar Cells: Advantages, Challenges, and Future Jul 30, 2024 · Explore perovskite solar cells: benefits, research progress, challenges, and applications for a sustainable energy future.」https://www.linkedin.com/pulse/perovskite-solar-cells-advantages-challenges-future-5cx5c
@@ -245,7 +245,7 @@
   - ［SNS］2026-11-07「世界のグリーンアンモニア市場動向、年平均成長率61.78%で拡大継続202... Aug 13, 2026 · グリーンアンモニアとは、風力・太陽光・水力などの再生可能電力を利用して製造したグリーン水素と、空気分離によって得られる窒素を合成して生成される低炭素アンモニアを指します。」https://note.com/qy_research/n/n3f44e5542b64
   - ［SNS］2026-11-07「「グリーンアンモニアは危険で使い物にならない」と誤解して大恥をか... Aug 9, 2026 · 最近メディアでよく耳にするグリーンアンモニアという言葉があります。 正直に告白すると最初はまったく意味がわかりませんでした。 環境問題やGXのニュースを見るたびに横文字や難解な用語があふれています。」https://note.com/shinchan194/n/n951678e45989
   - ［SNS］2026-11-06「グリーンアンモニアとは？ | 週刊アンモニア #7｜Neology Mar 13, 2026 · グリーンアンモニアはどう作られるのか アンモニア製造は大きく2段階です。 まず水（H2O）から水素（H2）をつくり、次にその水素と空気から取り出した窒素（N2）を反応させてアンモニア（NH3）を合成します。」https://note.com/neology/n/ndd9b1ed8d044
-- SNS・note（LinkedIn・検索結果の抜粋）（21件）：
+- SNS・note（LinkedIn・検索結果の抜粋）（20件）：
   - ［SNS］2026-11-08「China's Green Ammonia: Beyond Production Scale - LinkedIn 1 day ago · Green ammonia is a bulk industrial chemical produced through an integrated system of renewable electricity, hydrogen generation, and continuous chemic」https://www.linkedin.com/pulse/chinas-green-ammonia-beyond-production-scale-dr-wang-zhiqiang-uholf/
   - ［SNS］2026-11-08「Anil Kumar Taparia - CEO Green Hydrogen & Ammonia - ACME ... CEO Green Hydrogen & Ammonia - ACME · As Chief Executive Officer of Green Hydrogen &amp; Ammonia Business, I lead this portfolio world-wide. We are operating o」https://in.linkedin.com/in/anil-kumar-taparia
   - ［SNS］2026-11-07「The Crisis that made Green Ammonia Viable... - LinkedIn Apr 11, 2026 · Green ammonia from domestic renewables is the long-term answer to the fertilizer supply chain vulnerability you are watching in real time. "The crisi」https://www.linkedin.com/pulse/crisis-made-green-ammonia-viable-muhammad-idrees-cvmff/
@@ -512,12 +512,12 @@
   - ［SNS］2026-11-07「洋上風力 発電のメリット・デメリットと海洋生物への影響 - note 洋上風力 発電のメリット・デメリットと海洋生物への影響 - note note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/code4noto/n/nabacf71e578b
   - ［SNS］2026-11-07「洋上風力 発電の人気・新着記事まとめ - note 洋上風力 発電の人気・新着記事まとめ - note note https://note.com > tag > 洋上風力発電」https://note.com/tag/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB
   - ［SNS］2026-11-06「洋上風力発電のメリット・デメリットと海洋生物への影響 Feb 23, 2025 · 1. はじめに 洋上風力発電は、海上に風車を設置して電力を得る再生可能エネルギーの一つです。陸上よりも強い風が安定して吹き、大規模化が容易といった利点から、世界各国で急速に導入が進んでいます。一方で、海洋生物への影響をはじめとする環境リスクや、導入コストの高さ、漁業や ...」https://note.com/code4noto/n/nabacf71e578b
-- SNS・note（LinkedIn・検索結果の抜粋）（29件）：
+- SNS・note（LinkedIn・検索結果の抜粋）（25件）：
   - ［SNS］2026-11-08「Offshore Wind Energy Industry Trends - LinkedIn Offshore Wind Energy Industry Trends - LinkedIn LinkedIn https://www.linkedin.com > top-content」https://www.linkedin.com/top-content/workplace-trends/energy-industry-trends/offshore-wind-energy-industry-trends/
   - ［SNS］2026-11-08「The science behind the tech - part 2: Offshore Wind - LinkedIn The science behind the tech - part 2: Offshore Wind - LinkedIn LinkedIn https://www.linkedin.com > pulse > sc...」https://www.linkedin.com/pulse/science-behind-tech-part-2-offshore-wind-bluebell-drummond-r2z0e
-  - ［SNS］2026-11-07「#offshorewind # 洋上風力 #hibikinada #響灘 | Vestas - LinkedIn #offshorewind # 洋上風力 #hibikinada #響灘 | Vestas - LinkedIn LinkedIn https://www.linkedin.com > posts > vestas_offshorewind-...」https://www.linkedin.com/posts/vestas_offshorewind-%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B-hibikinada-activity-7434145872973664256-jrue
   - ［SNS］2026-11-07「世界の 洋上風力 が100GWの節目に近づく - Taylor Hopkinson 世界の 洋上風力 が100GWの節目に近づく - Taylor Hopkinson LinkedIn https://jp.linkedin.com > pulse」https://jp.linkedin.com/pulse/global-offshore-wind-closes-100gw-milestone-taylor-hopkinson-ynbie?tl=ja
   - ［SNS］2026-11-07「住友商事の 洋上風力 発電事業ユニット — 東京 | LinkedIn求人 住友商事の 洋上風力 発電事業ユニット — 東京 | LinkedIn求人 LinkedIn https://jp.linkedin.com > jobs > view > 洋上風力発電事業...」https://jp.linkedin.com/jobs/view/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB%E4%BA%8B%E6%A5%AD%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88-at-sumitomo-corporation-4290573148
+  - ［SNS］2026-11-07「洋上風力 と海洋生物多様性:パワーデュオ - LinkedIn 洋上風力 と海洋生物多様性:パワーデュオ - LinkedIn LinkedIn https://jp.linkedin.com > pulse > marine-renewables-under...」https://jp.linkedin.com/pulse/marine-renewables-underwater-biodiversity-power-duo-bruno-g-geschier-yqase?tl=ja
 - 検索結果の抜粋（73件）：
   - ［一次］2026-11-07「世界で急拡大する浮体式 洋上風力 発電と我が国の課題 — 世界で急拡大する浮体式 洋上風力 発電と我が国の課題 東京大学 PDF https://lemons.k.u-tokyo.ac.jp > symposium > 1-2_...」https://lemons.k.u-tokyo.ac.jp/symposium/4/1-2_%E4%B8%96%E7%95%8C%E3%81%A7%E6%80%A5%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E6%B5%AE%E4%BD%93%E5%BC%8F%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E3%81%AE%E8%AA%B2%E9%A1%8C.pdf
   - ［一次］2026-11-06「受注企業の巨額減損が示す 洋上風力 ビジネス ... - ［ 岐ベログ ］ — 受注企業の巨額減損が示す 洋上風力 ビジネス ... - ［ 岐ベログ ］ INFRONEER Holdings Inc. PDF https://www.infroneer.com > topblog > kibelog_vol18」https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf
@@ -530,7 +530,7 @@
   - ［SNS］2026-11-08「東京ガスが、福島県沖で計画していた洋上風力発電の事業化を断念したことが分かりました。風車を海底に固定せず、海に浮かべる「浮体式」で、2027年に風車2基を新設する計画でした。断念の理由は、建設費の高騰で採算が見込めなくなったことです。」https://note.com/hirokimiyano/n/nf536ac7d0c47
   - ［SNS］2026-11-08「規模だけを見れば、最大出力3万kW、一般家庭2万世帯分という小さな計画です。しかし、このニュースが持つ意味は、出力の数字よりもはるかに大きいと私は考えています。」https://note.com/hirokimiyano/n/nf536ac7d0c47
   - ［SNS］2026-11-08「1つ目に、福島沖は国が10年以上をかけて浮体式の実証を行った「浮体式の原点」とも言える海域です。2つ目に、日本で洋上風力を本格的に広げようとすれば、いずれ浮体式に頼らざるを得ません。三菱総合研究所の調査では、日本で事業化の可能性がある海域は、浮体式が着床式の30倍以上あるとされています。3つ目に、2025年の三菱商事の撤退、2026年に入ってからの英BPの離脱報道に続き、今回の東京ガスの断念で、国内の洋上風力から撤退する動きが着床式だけ」https://note.com/hirokimiyano/n/nf536ac7d0c47
-- SNS・note（X・検索結果の抜粋）（17件）：
+- SNS・note（X・検索結果の抜粋）（15件）：
   - ［SNS］2026-11-08「東洋建設株式会社 on X: " 洋上風力 発電や再生可能エネルギー ... 東洋建設株式会社 on X: " 洋上風力 発電や再生可能エネルギー ... X https://x.com > @toyosea1040」https://x.com/toyosea1040/status/2085281194586087727
   - ［SNS］2026-11-08「【ONE MORE NEWS】 「 日本の # 洋上風力 発電 に逆風 ... - X 【ONE MORE NEWS】 「 日本の # 洋上風力 発電 に逆風 ... - X X https://x.com > @ONEMORNING_1」https://x.com/ONEMORNING_1/status/1976049968214393038
   - ［SNS］2026-11-07「# 洋上風力 - Search / X # 洋上風力 - Search / X X https://x.com > Search」https://x.com/hashtag/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B

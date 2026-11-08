@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・237品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・239品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -12214,6 +12214,88 @@
 - 社員数・平均社員数：記載なし（読んだ36頁・検索18回）
 - 受注金額・加工賃収入：記載なし（読んだ36頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ36頁・検索18回）
+
+## 鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の値を経産省の長期時系列データ（xlsx）から直接（firstreleasejapan.com など写しのサイトを除く・2020年基準・指数の基準年を値に添える・4-41・4-108）（METI indices of industrial production long-term time series capacity utilization fabricated metal products annual xlsx 2020=100）
+- 文脈：10年推移・統計
+- 社員数・平均社員数：
+  - 「大人用紙おむつ 非耐久消費財 千枚 14.8 11.9 16.4 16.4」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+- 受注金額・加工賃収入：
+  - 「食料品加工機械 資本財 百万円 10.9 7.5 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「個装・内装機械 資本財 百万円 29.3 20.1 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「半導体製造装置 資本財 百万円 202.4 168.7 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「フラットパネル・ディスプレイ製造装置 資本財 百万円 35.5 33.3 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「ボイラ部品 鉱工業用生産財 百万円 12.1 12.2 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「蒸気タービン部品 鉱工業用生産財 百万円 7.9 8.9 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「分析機器 資本財 百万円【台】 58.7 36.2 22.5 22.5」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「試験機 資本財 百万円【台】 9.2 6.5 7.9 7.9」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「線形ＩＣ 鉱工業用生産財 百万円【千個】 18.1 21.1 53.7 53.7」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「モス型ＩＣ（マイコン） 鉱工業用生産財 百万円【千個】 9.7 25.1 30.7 30.7」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「モス型ＩＣ（ロジック） 鉱工業用生産財 百万円【千個】 17.5 15.1 34.1 34.1」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「モス型ＩＣ（メモリ） 鉱工業用生産財 百万円【千個】 45.1 26.9 68.6 68.6」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「モス型ＩＣ（除．マイコン・ロジック・メモリ） 鉱工業用生産財 百万円【千個】 67.3 67.3 18.0 18.0」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「混成ＩＣ 鉱工業用生産財 百万円【千個】 56.1 27.1 65.0 65.0」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「アクティブ型液晶パネル（中・小型） 鉱工業用生産財 百万円【千個】 36.8 46.9 52.5 52.5」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+- 1人あたり・1社あたり金額：
+  - 「食料品加工機械 資本財 百万円 10.9 7.5 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「個装・内装機械 資本財 百万円 29.3 20.1 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「半導体製造装置 資本財 百万円 202.4 168.7 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「フラットパネル・ディスプレイ製造装置 資本財 百万円 35.5 33.3 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「ボイラ部品 鉱工業用生産財 百万円 12.1 12.2 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「蒸気タービン部品 鉱工業用生産財 百万円 7.9 8.9 - -」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「分析機器 資本財 百万円【台】 58.7 36.2 22.5 22.5」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「試験機 資本財 百万円【台】 9.2 6.5 7.9 7.9」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「線形ＩＣ 鉱工業用生産財 百万円【千個】 18.1 21.1 53.7 53.7」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「モス型ＩＣ（マイコン） 鉱工業用生産財 百万円【千個】 9.7 25.1 30.7 30.7」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「モス型ＩＣ（ロジック） 鉱工業用生産財 百万円【千個】 17.5 15.1 34.1 34.1」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「モス型ＩＣ（メモリ） 鉱工業用生産財 百万円【千個】 45.1 26.9 68.6 68.6」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「モス型ＩＣ（除．マイコン・ロジック・メモリ） 鉱工業用生産財 百万円【千個】 67.3 67.3 18.0 18.0」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「混成ＩＣ 鉱工業用生産財 百万円【千個】 56.1 27.1 65.0 65.0」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「アクティブ型液晶パネル（中・小型） 鉱工業用生産財 百万円【千個】 36.8 46.9 52.5 52.5」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+- 生産能力・設備：
+  - 「稼働率指数 139 141 -2 7 -7 -2」（https://www.meti.go.jp/statistics/tyo/iip/pdf/b2020_kaitei_gaiyo.pdf）
+  - 「鉱工業生産・出荷・在庫指数 製造工業生産能力指数・稼働率指数 2025年6月分 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488）
+  - 「製造工業生産能力指数・稼働率指数 2025年6月分」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488）
+- 10年推移：
+  - 「2020年基準 鉱工業指数 統計表一覧（データダウンロード）」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「データ期間：2018年1月～2026年9月」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「* 2017年以前のデータはこちら」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「2020年 ＝ 100」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_goq1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_gsq1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_si1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_gom1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_gsm1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_zoq1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_zsq1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_zom1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_zsm1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_hoq1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+  - 「b2020_hsq1j.xlsx」（https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html）
+- 検索結果の抜粋：
+  - 「鉱工業指数 ( 生産 ・出荷・在庫、生産 能力 ・ 稼働率 )、製造 工業 ... — 鉱工業指数 ( 生産 ・出荷・在庫、生産 能力 ・ 稼働率 )、製造 工業 ... 経済産業省 https://www.meti.go.jp > statistics > tyo > iip > result-1」（https://www.meti.go.jp/statistics/tyo/iip/result-1.html）
+  - 「Historical Data, Indices of Industrial Production (base = 2015) — Historical Data, Indices of Industrial Production (base = 2015) 経済産業省 https://www.meti.go.jp > tyo > iip > b...」（https://www.meti.go.jp/english/statistics/tyo/iip/b2015_result-2.html）
+  - 「Historical Data, Indices of Industrial Production (base = 2020) — Historical Data, Indices of Industrial Production (base = 2020) 経済産業省 https://www.meti.go.jp > tyo > iip > b...」（https://www.meti.go.jp/english/statistics/tyo/iip/b2020_result-2.html）
+- 痛み・損（深さの印）：記載なし（読んだ45頁・検索18回）
+- 事業所数・社数：記載なし（読んだ45頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ45頁・検索18回）
+
+## 業種別審査事典の めっき業・金型製造業・熱処理業・金属プレス業の項（業界の動向・関連団体・使う統計の出典の一覧を探し先の手がかりに・二次・値は一次で取り直す・4-108）（Japan industry review encyclopedia plating mold heat treatment stamping industry statistics sources）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「▶過去倒産企業からみた考察（追跡データ・倒産兆候の捉え方・財務の特徴）」（https://products.kinzai.or.jp/wp-content/uploads/2023/11/15ji_1106.pdf）
+- 10年推移：
+  - 「リリース 2024年」（https://products.kinzai.or.jp/wp-content/uploads/2023/11/15ji_1106.pdf）
+  - 「財務データは ３年分 （2020～2022年度） 、」（https://products.kinzai.or.jp/wp-content/uploads/2023/11/15ji_1106.pdf）
+  - 「▶人口減少・高齢化・規制緩和等業種への影響が大きい環境の変化」（https://products.kinzai.or.jp/wp-content/uploads/2023/11/15ji_1106.pdf）
+  - 「●本商品はMicrosoft Edge、 iPad(iOS14以上、 Safari)、 Androidタブレッ ト （Google Chrome 52以上） での閲覧に対応し ています （2023年10月」（https://products.kinzai.or.jp/wp-content/uploads/2023/11/15ji_1106.pdf）
+  - 「なお、 2023年10月時点の予定であり、 製品リ リース時には変更になる可能性がございます」（https://products.kinzai.or.jp/wp-content/uploads/2023/11/15ji_1106.pdf）
+- 人手と仕事の差：
+  - 「販路の縮小・人手不足・後継者難・海外ノウハウの欠如など）」（https://products.kinzai.or.jp/wp-content/uploads/2023/11/15ji_1106.pdf）
+- 事業所数・社数：記載なし（読んだ54頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ54頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ54頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ54頁・検索18回）
+- 生産能力・設備：記載なし（読んだ54頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

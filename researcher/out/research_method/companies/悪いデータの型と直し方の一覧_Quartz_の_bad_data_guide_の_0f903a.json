@@ -1,0 +1,936 @@
+{
+ "name": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）",
+ "en": "Quartz bad data guide github ProPublica bulletproofing data guide checklist",
+ "aliases": [
+  "site:github.com Quartz bad-data-guide",
+  "ProPublica bulletproofing your data guide",
+  "bad data guide journalists default dates leading zeros"
+ ],
+ "context": "検証",
+ "kind": "market",
+ "researched_at": "2026-11-08T16:00:56.176873+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you've got",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". However, if you have Adobe Creative Cloud then you also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don't want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "may be represented in another way. For example a false",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "can help streamline the spelling correction process by suggesting close matches between inconsistent values within a column (for example, matching",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", but really aren't. This is often the case with surveys where",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "You've got states and you need counties. You've got employers and you need employees. They gave you years, but you want months. In many cases we get data that have been aggregated too much for our purposes.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "you're using Excel on a Mac, in which case it's",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In the vast majority of cases your text editor or spreadsheet application will figure out the correct encoding, however, if it screws it up you could be publishing somebody's name with a weird character in the middle. Your source should be able to tell you what encoding your data are in. In the event they can't there are ways of guessing that are about fairly reliable. Ask a programmer.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". In this case you've got counties, but you want states or you've got months but you want years. Fortunately this is usually pretty straightforward.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In all of these cases the main solution is simply to identify the problem. Obviously trying to perform any analysis on a spreadsheet that has these kinds of problems will fail, sometimes for non-obvious reasons. When looking at new data for the first time it's always a good idea to ensure there aren't extra header rows or other formatting characters inserted amongst the data.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "? There is no one definitive answer. In general, if you're going to compute aggregates on columns that are missing data, you can safely do so by filtering out the missing rows first, but be careful not to compare aggregates from two different columns where different rows were missing values! In some cases the missing values might also be legitimately interpreted as",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", where 2004 = 100). In either of these cases, 2004 may or may not be an appropriate year for comparison. It could have been an unusually high crime year.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "seconds. This is a major red flag that something has gone wrong in the production of the data. In this particular case an error in the code I wrote caused some failures to continue counting while all other messages were being sent and received.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, the United Nations",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "P-hacking is intentionally altering the data, changing the statistical analysis, or selectively reporting results in order to have statistically significant findings. Examples of this include: stop collecting data once you have a significant result, remove observations to get a significant result, or perform many analyses and only report the few that are significant. There has been some",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ALWAYS name files with lowercase and NEVER use spaces between words. Instead use underscore if you want to separate_words_in_a_file_name.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For field names you can use uppercase and lowercase or all CAPS but you must still use underscore as word separator.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example: datasetname_month_day_year.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example: New York, new york, newyork, nyork, NY, NYC, New York City, NY City, City of New York, Philadelphia, philadelphia, Philladellphia, Philly, PHILADELPHIA, City of Philadelphia.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Create a document (a Word document, a spreadsheet, comments in the Excel workbook, you choose what you prefer) and write down all the steps you have taken while working with the data. You must do this for two main reasons:",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Your editor and expert sources will be able to check your work and follow all the steps you took to get to your results.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "☑ When you access or request data, always get the methodology",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Get the methodology. If they won’t give it to you, that’s a red flag.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Beware of nonscientific methods: Web surveys, man on the street or other self-selection.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn't mean you shouldn't use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This problem tends to crop up in subjects where people have a strong confirmation bias. (\"Just as I thought, crime is up!\") Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Checklist to work with data and avoid mistakes",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "If you make a mistake and want to trace back the error, your notes in the data diary will help you find it.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "If something looks weird or too good to be true, there is a chance there is a mistake. Talk with experts.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. Watch out for data where this has happened before it was given to you.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/mtta61124/n/nb6690221bf9c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/codesco/n/nb93842b67be9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ren_webstep/n/n94ecdd35475b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jazzy_orchid7415/n/nf8841a821df1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yusuke_motoyama/n/n40a63005fc19",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ibnet_ir/n/n2bb8cb311f73",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/phione04/n/nfc7bd41820ad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ku2t/n/n73300b122872",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shun0718/n/nc8c36a17391d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azby.fmworld.net/support/repair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroron838861/n/nff52a74e91ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/how-to-data-cleaning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datarobot.com/jp/blog/inbalanceddata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-lab.app/994/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skillupai.com/blog/ai-knowledge/data-analysis-methods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uribo.github.io/practical-ds/03/handling-missing-data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataaicareer.com/data-analysis-pitfalls/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdse.jp/blog/tech/8223/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-value.co.jp/case/certain-telecommunications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-kansai.co.jp/media/099/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/specific-examples-of-data-cleansing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuroco.team/blog-data-jireishu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://analytics.leverages.jp/entry/2025/01/20/160000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/propublica/guides",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/datopian/bad-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.github.com/ja/code-security/tutorials/secure-your-organization/prevent-data-leaks",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） site:note.com",
+   "results": [
+    "https://note.com/mtta61124/n/nb6690221bf9c",
+    "https://note.com/codesco/n/nb93842b67be9",
+    "https://note.com/ren_webstep/n/n94ecdd35475b",
+    "https://note.com/jazzy_orchid7415/n/nf8841a821df1",
+    "https://note.com/yusuke_motoyama/n/n40a63005fc19",
+    "https://note.com/ibnet_ir/n/n2bb8cb311f73",
+    "https://note.com/cheeky_sable461/n/ndffe1c26d009",
+    "https://note.com/miyachi0730/n/ne7afd109f6cd",
+    "https://note.com/poco_c/n/n35dec3809704",
+    "https://note.com/kauche/n/n2d3cc9123812"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） note",
+   "results": [
+    "https://note.com/phione04/n/nfc7bd41820ad",
+    "https://note.com/ku2t/n/n73300b122872",
+    "https://note.com/shun0718/n/nc8c36a17391d",
+    "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90",
+    "https://azby.fmworld.net/support/repair/",
+    "https://note.com/hiroron838861/n/nff52a74e91ca",
+    "https://analytics-note.jp/",
+    "https://www.integrate.io/jp/blog/how-to-make-bad-data-healthier-ja/",
+    "https://note.com/qiqumo/n/n9ffe4b0998ed",
+    "https://note.com/ai_seiton_note/n/nc2197a7849b4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） やり方",
+   "results": [
+    "https://data-viz-lab.com/how-to-data-cleaning",
+    "https://www.datarobot.com/jp/blog/inbalanceddata/",
+    "https://www.youtube.com/watch?v=fAOKGbtfoNk",
+    "https://www.ai-lab.app/994/",
+    "https://www.skillupai.com/blog/ai-knowledge/data-analysis-methods/",
+    "https://uribo.github.io/practical-ds/03/handling-missing-data.html",
+    "https://dataaicareer.com/data-analysis-pitfalls/",
+    "https://www.gixo.jp/blog/508/",
+    "https://www.cm-net.co.jp/blog/data-analysis/",
+    "https://bizzrepo.com/blog/data-cleansing-excel/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） 事例",
+   "results": [
+    "https://www.tdse.jp/blog/tech/8223/",
+    "https://www.nttdata-value.co.jp/case/certain-telecommunications",
+    "https://www.nttdata-kansai.co.jp/media/099/",
+    "https://data-viz-lab.com/specific-examples-of-data-cleansing",
+    "https://kuroco.team/blog-data-jireishu/",
+    "https://analytics.leverages.jp/entry/2025/01/20/160000",
+    "https://it-trend.jp/data_mining/article/153-121",
+    "https://primenumber.com/blog/data-silo-challenges-and-solutions-case-studies/",
+    "https://gri.jp/media/entry/37390",
+    "https://data-viz-lab.com/data-quality"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Quartz bad data guide github ProPublica bulletproofing data guide checklist",
+   "results": [
+    "https://github.com/Quartz/bad-data-guide",
+    "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "https://github.com/propublica/guides",
+    "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "https://github.com/datopian/bad-data",
+    "https://docs.github.com/code-security/getting-started/best-practices-for-preventing-data-leaks-in-your-organization",
+    "https://gitprotect.io/resources.html",
+    "https://www.facebook.com/GitHub/videos/using-the-new-github-issues-for-project-tracking/1306248919812204/",
+    "https://www.bocada.com/wp-content/uploads/2022/04/Bocada-Data-Resiliency-Checklist.pdf",
+    "https://github.com/The-XSS-Rat/SecurityTesting/blob/master/Checklists/2026-bug-bounty-guide.md"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）",
+   "results": [
+    "https://note.com/mtta61124/n/nb6690221bf9c",
+    "https://note.com/codesco/n/nb93842b67be9",
+    "https://note.com/ren_webstep/n/n94ecdd35475b",
+    "https://note.com/yusuke_motoyama/n/n40a63005fc19",
+    "https://note.com/ibnet_ir/n/n2bb8cb311f73",
+    "https://note.com/cheeky_sable461/n/ndffe1c26d009",
+    "https://note.com/poco_c/n/n35dec3809704",
+    "https://note.com/miyachi0730/n/ne7afd109f6cd",
+    "https://note.com/datamix/n/n91732510623b",
+    "https://note.com/lofty_gnu3873/n/n2c8051ade48c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）",
+   "results": [
+    "https://x.com/HaitouKing0205/status/2108091652539908285",
+    "https://x.com/tetumemo/status/2115806117188325613",
+    "https://x.com/flashagt",
+    "https://x.com/fujikururi/status/2117180695466725502",
+    "https://x.com/SuguruKun_ai/article/2076856036712186270",
+    "https://x.com/sumika45379/status/2107455808090821086",
+    "https://x.com/kumazawacotalow/status/2117597880018178343",
+    "https://x.com/ClaudeCode_love/status/2064226860096250126",
+    "https://x.com/masahirochaen/status/2023253375962517666",
+    "https://x.com/Akki_AI7/status/2109835529634320761"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）",
+   "results": [
+    "https://jp.linkedin.com/pulse/data-blind-spot-why-good-systems-produce-bad-stefano-stef-masiello-1xyvc?tl=ja",
+    "https://jp.linkedin.com/pulse/data-cleaning-fundamentals-part-3-handling-missing-david-langer-5tkxc?tl=ja",
+    "https://www.linkedin.com/help/linkedin/answer/a187046/talent-insights-?lang=ja-JP",
+    "https://jp.linkedin.com/pulse/mutable-vs-immutable-data-types-choosing-right-one-manish-joshi?tl=ja",
+    "https://jp.linkedin.com/pulse/when-use-mean-median-mode-handling-missing-values-data-ahmed-tebje?tl=ja",
+    "https://jp.linkedin.com/pulse/support-has-data-problem-fix-first-prove-value-next-tom-sweeny-s9xfe?tl=ja",
+    "https://jp.linkedin.com/pulse/power-asking-questions-enhancing-analyst-stakeholder-emeklioglu-biqef?tl=ja",
+    "https://jp.linkedin.com/pulse/why-red-isnt-always-bad-useful-rethinking-metrics-mindsets-graban-88xvc?tl=ja",
+    "https://jp.linkedin.com/pulse/how-reframe-data-governance-practical-guide-leaders-who-tlmqc?tl=ja",
+    "https://id.linkedin.com/in/farhannur-priambodo-063ba8317/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）",
+   "results": [
+    "https://www.facebook.com/help/instagram/381579045265733?locale=ja_JP",
+    "https://m.facebook.com/help/instagram/370569449686414/?helpref=hc_fnav&locale=ja_JP",
+    "https://www.facebook.com/dialoguebar/posts/%E6%80%9D%E3%81%86%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%BE%A4%E3%82%92%E4%B8%80%E5%9B%9E%E6%95%B4%E7%90%86%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%A7%E3%81%A9%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E3%81%A9%E3%81%AE%E9%83%A8%E5%88%86%E3%82%92%E6%8B%85%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%E3%82%92%E8%80%83%E3%81%88%E7%9B%B4%E3%81%97%E3%81%A6%E9%85%8D%E7%BD%AE%E3%82%92%E6%B1%BA%E3%82%81%E3%81%A6%E9%85%8D%E7%BD%AE%E3%81%94%E3%81%A8%E3%81%AB%E5%BD%B9%E5%89%B2%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E6%95%B4%E5%82%99%E3%82%92%E3%81%97/26524973230446480/",
+    "https://www.facebook.com/drdataokayama/",
+    "https://www.facebook.com/help/289066827791446?locale=ja_JP",
+    "https://www.facebook.com/100063501731219/videos/%E3%81%93%E3%82%93%E3%81%AA%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%94%E3%81%A8%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E7%94%BB%E9%9D%A2%E3%81%8C%E5%89%B2%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E6%9C%80%E8%BF%91%E9%9B%BB%E6%B1%A0%E3%81%AE%E6%B8%9B%E3%82%8A%E3%81%8C%E6%97%A9%E3%81%84%E5%85%85%E9%9B%BB%E3%81%97%E3%81%A6%E3%82%82%E5%8F%8D%E5%BF%9C%E3%81%8C%E3%81%AA%E3%81%84%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%95%E6%98%A0%E3%82%89%E3%81%AA%E3%81%84%E8%AA%BF%E5%AD%90%E3%81%8C%E6%82%AA%E3%81%84%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%81%AF%E6%AF%8E%E6%97%A5%E4%BD%BF%E3%81%86%E3%82%82%E3%81%AE%E3%81%A0%E3%81%8B%E3%82%89%E3%81%93%E3%81%9D%E7%AA%81%E7%84%B6%E8%B5%B7/1137823171902651/",
+    "https://www.facebook.com/YatsushiroCity/videos/1630240365207647/",
+    "https://www.facebook.com/RakutenMobile/videos/%E6%96%B0web-cm%E5%85%AC%E9%96%8B%E5%AE%89%E3%81%95%E3%81%A7%E5%BC%B7%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%8C%E6%82%AA%E3%81%84%E6%A2%B6%E8%A3%95%E8%B2%B4%E3%81%95%E3%82%93%E3%81%AB%E3%81%94%E5%87%BA%E6%BC%94%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E6%A5%BD%E5%A4%A9%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E6%9C%80%E5%BC%B7%E5%AE%B6%E6%97%8F%E5%89%B2%E3%81%AE%E6%96%B0web-cm%E3%81%8C%E5%85%AC%E9%96%8B%E4%B8%AD%EF%B8%8F%E6%9C%80%E5%BC%B7%E5%AE%B6%E6%97%8F%E5%89%B2%E3%81%AE%E8%A9%B3%E7%B4%B0%E3%81%AFhttpsxgdh1je/907329675473026/",
+    "https://www.facebook.com/icrackedjapan/posts/2026%E5%B9%B410%E6%9C%881%E6%97%A5%E6%9C%A8%E3%82%88%E3%82%8A%E5%85%A8%E5%9B%BD%E3%81%AEicracked-store%E3%81%A7iphone-16-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%AE%E4%BF%AE%E7%90%86%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E9%AB%98%E5%93%81%E8%B3%AA%E3%81%AA%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E4%BF%AE%E7%90%86%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99/1734398415359873/",
+    "https://www.facebook.com/mobile.park.obihiro.5300/posts/iphoneandroid%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E6%95%85%E9%9A%9C%E4%B8%8D%E5%85%B7%E5%90%88%E3%81%A7%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E7%84%A1%E4%BF%9D%E8%A8%BC%E3%81%A7%E3%81%AE%E6%95%85%E9%9A%9C%E3%83%87%E3%83%BC%E3%82%BF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E7%9B%B4%E3%81%90%E3%81%AB%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F%E3%81%84%E6%96%B9%E3%81%AF%E3%81%8A%E6%B0%97%E8%BB%BD%E3%81%AB%E3%81%94%E7%9B%B8%E8%AB%87%E4%B8%8B%E3%81%95%E3%81%84%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E4%B8%8D%E7%94%A8%E3%81%AA%E3%82%B9/1428861635930141/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） note 社長",
+   "results": [
+    "https://note.com/comix_ceo162230/n/n8ec43d9b90b1",
+    "https://note.com/comix_ceo162230/n/nd497ca00342a",
+    "https://note.com/phione04/n/nfc7bd41820ad",
+    "https://note.com/comix_ceo162230/n/nbf98f370e634",
+    "https://www.youtube.com/watch?v=wrSSFiD4hGk",
+    "https://note.com/ai_shacho/n/n35078db5169e",
+    "https://note.com/ren_aikatsuyou26/n/n0b0152216935",
+    "https://webtan.impress.co.jp/e/2020/06/05/36169",
+    "https://note.com/shun0718/n/nc8c36a17391d",
+    "https://note.com/keitai_kai/n/n01b5c89991d2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） X 投稿",
+   "results": [
+    "https://cacco.co.jp/frauddetection/media/for-consumers/20134/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vL6idVMnAG9ad5i6fNkb1JbRhHC9Hh8Mmtk32nb6gS_jOCZVAS8",
+    "https://note.com/aikachan_ai/n/nb85992f9c0b6",
+    "https://d-m-f.jp/blog/0035-2/",
+    "https://sogyotecho.jp/x-algorithm/",
+    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
+    "https://hep.eiz.jp/x-twitter/fix-twitter-problems/",
+    "https://note.com/x_unyou/n/n24058026021f",
+    "https://sebaschans.com/blog/correct-errors-in-published-x-posts"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Quartz bad data guide github ProPublica bulletproofing data guide checklist site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/mark-farrington_github-quartzbad-data-guide-an-exhaustive-activity-6430474539934765056-yEiY",
+    "https://www.linkedin.com/posts/samer-hayel-36ba68a7_github-quartzbad-data-guide-an-exhaustive-activity-7315609297445359616-fdfX",
+    "https://www.linkedin.com/posts/jhon-gomez-higuera-96711a102_github-quartzbad-data-guide-an-exhaustive-activity-7065800612679970816-2hYF",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-dealing-bad-data-skills-data-analysis",
+    "https://www.linkedin.com/pulse/how-build-bullet-proof-data-teams-maaike-siegel",
+    "https://www.linkedin.com/posts/lizmassey68_great-opportunity-im-particularly-intrigued-activity-7517930472493092864-TO_D"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you've got",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". However, if you have Adobe Creative Cloud then you also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don't want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "may be represented in another way. For example a false",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "can help streamline the spelling correction process by suggesting close matches between inconsistent values within a column (for example, matching",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", but really aren't. This is often the case with surveys where",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "You've got states and you need counties. You've got employers and you need employees. They gave you years, but you want months. In many cases we get data that have been aggregated too much for our purposes.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "you're using Excel on a Mac, in which case it's",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In the vast majority of cases your text editor or spreadsheet application will figure out the correct encoding, however, if it screws it up you could be publishing somebody's name with a weird character in the middle. Your source should be able to tell you what encoding your data are in. In the event they can't there are ways of guessing that are about fairly reliable. Ask a programmer.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". In this case you've got counties, but you want states or you've got months but you want years. Fortunately this is usually pretty straightforward.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In all of these cases the main solution is simply to identify the problem. Obviously trying to perform any analysis on a spreadsheet that has these kinds of problems will fail, sometimes for non-obvious reasons. When looking at new data for the first time it's always a good idea to ensure there aren't extra header rows or other formatting characters inserted amongst the data.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "? There is no one definitive answer. In general, if you're going to compute aggregates on columns that are missing data, you can safely do so by filtering out the missing rows first, but be careful not to compare aggregates from two different columns where different rows were missing values! In some cases the missing values might also be legitimately interpreted as",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", where 2004 = 100). In either of these cases, 2004 may or may not be an appropriate year for comparison. It could have been an unusually high crime year.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "seconds. This is a major red flag that something has gone wrong in the production of the data. In this particular case an error in the code I wrote caused some failures to continue counting while all other messages were being sent and received.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, the United Nations",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "P-hacking is intentionally altering the data, changing the statistical analysis, or selectively reporting results in order to have statistically significant findings. Examples of this include: stop collecting data once you have a significant result, remove observations to get a significant result, or perform many analyses and only report the few that are significant. There has been some",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ALWAYS name files with lowercase and NEVER use spaces between words. Instead use underscore if you want to separate_words_in_a_file_name.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For field names you can use uppercase and lowercase or all CAPS but you must still use underscore as word separator.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example: datasetname_month_day_year.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example: New York, new york, newyork, nyork, NY, NYC, New York City, NY City, City of New York, Philadelphia, philadelphia, Philladellphia, Philly, PHILADELPHIA, City of Philadelphia.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Create a document (a Word document, a spreadsheet, comments in the Excel workbook, you choose what you prefer) and write down all the steps you have taken while working with the data. You must do this for two main reasons:",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Your editor and expert sources will be able to check your work and follow all the steps you took to get to your results.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "☑ When you access or request data, always get the methodology",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Get the methodology. If they won’t give it to you, that’s a red flag.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Beware of nonscientific methods: Web surveys, man on the street or other self-selection.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn't mean you shouldn't use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This problem tends to crop up in subjects where people have a strong confirmation bias. (\"Just as I thought, crime is up!\") Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Checklist to work with data and avoid mistakes",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "If you make a mistake and want to trace back the error, your notes in the data diary will help you find it.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "If something looks weird or too good to be true, there is a chance there is a mistake. Talk with experts.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. Watch out for data where this has happened before it was given to you.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-08T16:00:56.176873+00:00"
+}
