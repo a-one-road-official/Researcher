@@ -801,17 +801,18 @@
   - 「この初期仮説をそのまま使うわけではなく、AIと何往復かやり取りしながら磨いていきます」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「「この論点は粒度が粗すぎる」「この仮説は前提が違う」「こっちの切り口のほうがクライアントの意思決定に直結する」そうしたフィードバックを重ねて、提案書として通用する水準まで引き上げます」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「デスクリサーチとインタビューで検証していく」（https://note.com/masakikono/n/n0f7faa03a113）
+  - 「生成AIの台頭により、データ分析や仮説構築の一部がAIに代替されつつあり、純粋な戦略ファームにとっての差別化がより問われる時代になっている」（https://note.com/domonjo01/n/nb4e1275569ed）
+  - 「生成AIによって「データ分析・仮説構築」の部分がAIに代替されつつある中で、純粋な戦略ファームの差別化が問われている」（https://note.com/domonjo01/n/nb4e1275569ed）
+  - 「「5年後にどんなスキルを持っていたいか」から逆算して領域を選ぶと、ミスマッチが減る」（https://note.com/domonjo01/n/nb4e1275569ed）
+  - 「「最終的にどこにいたいか」が決まっていれば、逆算して最も近い領域を選べる」（https://note.com/domonjo01/n/nb4e1275569ed）
   - 「まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
-  - 「まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
-  - 「リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
-  - 「このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
-  - 「これらの業務は、クライアントの課題に寄り添い、仮説検証型でソリューションを提供す […]」（https://www.kotora.jp/c/77700-2/）
 - 一次情報の探し方：
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
+  - 「公的機関・官公庁との仕事が多く、民間コンサルとは異なる社会的意義の仕事が多い」（https://note.com/domonjo01/n/nb4e1275569ed）
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
@@ -823,7 +824,6 @@
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
-  - 「未経験でもコンサルは可能です！中途採用の7〜8割は業界未経験者と言われています」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
 - 失敗・落とし穴：
   - 「人間が調べると、知っている領域や過去の経験に引っ張られがちですが、AIにはそのバイアスがないぶん、情報収集がフラットです」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「【心理学×社会心理学的バイアス】人はなぜ不合理な行動をとるのか？」（https://biz-con.plus/skillup-researchprocess/）
@@ -854,8 +854,8 @@
   - 「ここまでの提案書の論点とデスクリサーチの結果を合わせて、論点ごとの質問設計、想定回答、深掘りの分岐をAIに組ませます」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「最後に、デスクリサーチの結果と全インタビュー議事録を束ねて、論点ごとにファインディングを統合させ、報告書のドラフトまで作らせます」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「`report-outline-creator` 調査結果から報告書の骨子を設計」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
-  - 「結果として、アウトプットの説得力は格段に高まります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
+  - 「実装まで踏み込まないケースも多く、「答えを出す仕事」と「答えを使って動かす仕事」のうち、前者を純粋に担う」（https://note.com/domonjo01/n/nb4e1275569ed）
+  - 「：ロジカルシンキングが好き、ケース面接を楽しめる、CEOレベルの問題意識を持ちたい、最高の知的環境で鍛えられたい人」（https://note.com/domonjo01/n/nb4e1275569ed）
 - 検索結果の抜粋：
   - 「【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会... — Sep 30, 2022 · 目次 [ ] リサーチの重要性 リサーチ方法（デスクリサーチ）の紹介 ①リサーチ目的の確認 ②リサーチプランの設計 ③リサーチの実施 ④アウトプットの作成 実例の紹介 ①リサーチの目的（実例） ②リサーチプランの設計（実例） ③リサーチの実施（実例）」（https://www.arts-crafts.co.jp/post-16243/）
   - 「【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会... — Sep 30, 2022 · 外資就活（2022）「調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプロフェッショナルの極意 (2)」 みずほ銀行（2022）「コンテンツ産業の展望 2022 ～日本企業の勝ち筋～」」（https://www.arts-crafts.co.jp/post-16243/）
@@ -6528,6 +6528,10 @@
 ## 官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性）（how to search kanpo financial statement notice Japan coverage）
 - 文脈：一次情報
 - 手順・やり方：
+  - 「【信用調査】決算書の入手方法｜小笠原捷｜中小企業診断士」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「今回は決算書の入手方法について、以下説明しています」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「元も子もないですが、最も望ましいのは、取引開始前や与信枠設定時に、相手先へ直接提出を依頼する方法です」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「帝国データバンクや東京商工リサーチなどの信用調査会社を利用する方法もあります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「この記事では、官報に掲載された決算公告を閲覧するための5つの方法を、無料・有料それぞれ比較表付きで徹底解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6539,11 +6543,10 @@
   - 「方法5：有料データベース（帝国データバンク・東京商工リサーチ）を使う」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「5つの閲覧方法を比較｜目的別おすすめ早見表」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「Q6: 非上場企業の決算公告を無料で調べる最も効率的な方法は何ですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「公告方法は定款で定めますが、定款に定めがない場合は自動的に「官報」が公告媒体となります（会社法939条4項）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「こうした課題を解決するために、次章では5つの閲覧方法を具体的に紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「決算公告を官報で閲覧する方法は、無料のサービスから有料のデータベースまで複数存在します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「それぞれの特徴を理解して、目的に合った方法を選びましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 突き合わせ・推定：
+  - 「調査先の回答、過去データ、推定値が含まれることもあります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
   - 「帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します」（https://kanpou.ai/guide）
@@ -6552,23 +6555,24 @@
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 一次情報の探し方：
-  - 「142年目の大転換、官報電子化で破産公告が検索不可に ～ プライバシー保護強化、与信業界は影響懸念 ～ | TSRデータインサイト | 東京商工リサーチ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「142年目の大転換、官報電子化で破産公告が検索不可に ～ プライバシー保護強化、与信業界は影響懸念 ～」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「政府が1883（明治16）年7月、「官報」を創刊した」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「4月1日、官報の「正本」が紙から電子版へ移行する」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「官報は、法律や国の人事、叙位叙勲のほか、法令に基づく決算公告、破産手続開始の公告などを公的な伝達手段とする国の公報だ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「紙の官報は毎朝、購読者の手元に届く」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「また、国立印刷局が提供する「官報情報検索サービス」（有料）は、ウェブサイトで日付検索やキーワード検索が可能で、金融機関や与信業界でも利用されている」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「官報の電子化に伴う情報検索サービスの変更について取材した」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「2023年の臨時国会で官報の電子化に関する法律が成立し、内閣府は4月1日に電子官報を配信する官報発行サイトを開設する」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「4月1日以降も官報掲載事項記載書面として紙の交付を継続する」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「官報発行サイトでは、官報に掲載される記事のうち、「プライバシー配慮が必要な記事」については公開期間を90日に限定した上で、画像化処理されたPDFデータを提供することとなっている」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「これまで、国立印刷局が提供する官報情報検索サービスは1947年5月3日～発行当日まで、キーワードなどの記事検索が可能な有料コースがあり、サービスとして金融機関や事業会社の与信担当は、代表者や法人の破産歴など種々の掲載内容が検索可能だった」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「だが、新しい官報情報検索サービスでは、内閣府の対応を受けて「プライバシー配慮が必要な記事」は、1947年以降の過去分を含め、キーワード検索ができなくなる」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「一方、プライバシー配慮記事以外の組織変更や合併、解散、決算公告、会社更生などは検索可能で、1947年以降の過去分含めて検索ができる」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
-  - 「官報で破産などの与信情報を自社で得るには、紙面や電子版を目視する必要があり、過去の破産などは官報情報検索サービスでは検索できなくなる点は注意が必要だ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「【信用調査】決算書の入手方法｜小笠原捷｜中小企業診断士」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「取引相手方の財務状況を確認するには、当該先の決算書を提出いただく必要があります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「決算書は企業情報の塊ですから、信用調査においては是が非でも押さえておきたい情報です」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「今回は決算書の入手方法について、以下説明しています」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「決算書が大事な事は皆さんご存知かと思います」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「取引相手の支払能力、財務体力、赤字体質なのかどうか、過大債務はないか、資金繰り悪化の傾向は無いか……決算書からは色々な情報が入手できます」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「ただ、その場合は「決算書の提出を受けられない」という事を事実として、取引の可否や与信限度を決める必要があります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「信頼関係を築き、長い取引を希望するのであれば、決算書の提出を受ける事は双方にとってメリットがある筈です」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「取引相手が上場会社、または有価証券報告書の提出会社であれば、金融庁のEDINETで有価証券報告書を確認できます」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「EDINETは、有価証券報告書や有価証券届出書などの開示書類を電子的に閲覧できる仕組みです」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「有価証券報告書には、連結財務諸表、単体財務諸表、事業等のリスク、主要な経営指標、キャッシュ・フローの状況などが含まれます」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「信用調査では、決算短信だけでなく、有価証券報告書まで確認する方が安全です」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「上場会社の場合、東京証券取引所の適時開示情報閲覧サービスでも決算短信や業績修正、重要な開示情報を確認できます」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「4. 非上場会社は決算公告を探す」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「非上場会社でも、株式会社には原則として決算公告義務があります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
 - 失敗・落とし穴：
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「官報で破産などの与信情報を自社で得るには、紙面や電子版を目視する必要があり、過去の破産などは官報情報検索サービスでは検索できなくなる点は注意が必要だ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
@@ -6582,8 +6586,9 @@
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
-  - 「ここでは決算公告や電子公告との違い、非公式サイトを使うときの落とし穴、そして本紙と号外の違いという3つの実務ポイントを整理します」（https://blog.roborobo.co.jp/compliance/kanpo-where）
 - 実例：
+  - 「提出を依頼しても、「そんなこと言うのはおたくだけだよ」、「出すほどのものじゃないよ」、「お恥ずかしい内容なので勘弁してください」……等と言って煙に巻かれてしまうケースが多いのではないでしょうか」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6597,8 +6602,6 @@
   - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「なお、電子公告の公告期間が終了した後は、各社サイトから削除されているケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「さらに図書館によっては、館内の端末から本来は有料の官報情報検索サービスを無料で使えるケースも」（https://blog.roborobo.co.jp/compliance/kanpo-where）
 - 検索結果の抜粋：
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 最終更新: 2026-06-25 取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか。株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています。しかし、いざ ...」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 決算公告を官報で閲覧する5つの方法を徹底解説。インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介。」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -7335,11 +7338,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
@@ -9650,38 +9653,43 @@
 ## フェルミ推定の結果を既知の統計の総量と照らして仮定を直す手順（分解を終えてから数を入れる・クロス・マーケティング等の調査会社の解説）（Fermi estimation sanity check against known statistics revise assumptions market research firm）
 - 文脈：推定
 - 手順・やり方：
-  - 「【過去問題あり】フェルミ推定とは？基礎知識・例題・やり方まで解説｜キャリアトラス｜就職・転職を応援する情報メディア」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【過去問題あり】フェルミ推定とは？基礎知識・例題・やり方まで解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「フェルミ推定のやり方を5ステップで解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「経験を積むほどにスムーズに解けるようになる一方、未経験者にとってはアプローチ方法すら思い浮かばない、独特で難解な課題です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「具体的な手順を順序立てて話し、面接官があなたの考え方を追いやすいようにすることが重要です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「面接官は、問題へのアプローチ方法や解決策を導くまでのプロセスを重視しています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「フェルミ推定を解く際には基本的に下記の5つのステップに沿って解いていくと良いでしょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「前提条件を共有した後、次に問題解決のアプローチ方法を決定します」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「このステップでは、焦らず正確に計算を行うことを意識しましょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「1～4のステップで設定した計算式や得られた数値が、実際の数値とどの程度乖離しているかを検証します」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「以上の5つのステップを理解したうえで、実際に問題に挑戦してみましょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「問題の理解、要素分解、数値代入と計算、結論の検証といった各ステップにかける時間をあらかじめ決めておくことで、時間内に解答をまとめることができます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「では過去出題されたフェルミ推定の次のステップである、ケース面接のお題を複数無料掲載しています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「書籍を活用したり、模擬面接を受けるなど、様々な方法で練習を重ねましょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【例文30選】短い自己PR | 元人事が履歴書・ES・面接で端的に伝える方法を解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「正しい手順とフレームワークさえ踏めば、誰にでも習得可能な「論理的思考の技術」であり、再現性のある「方法論」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「よって今回は、ビジネスにおける思考ツールである「フェルミ推定のやり方」について、その本質から実務への応用手順までを徹底的に解説しよう」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「推定を科学する「MPCフレームワーク」完全版――初心者からプロまで使える3ステップ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「この3ステップを順に踏むことで、どんな難問も解体可能になる」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「、論理の設計図を作る最も重要なステップだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「数式の設計図（モデル）が完成したら、次はその各変数に「具体的な数値」を割り当てるステップだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定「5つの解体モデル」詳説――あらゆる市場規模を因数分解する手順」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「MPCフレームワークの「M（モデリング）」を成功させるには、目的に合った「型」の選択が不可欠だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「「誰が欲しがっているか」という消費者の総量から攻める、BtoCビジネスの基本型だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フレームワークという「型」があっても、代入する数字という「弾丸」がなければ戦えない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「実務への応用：生成AIの市場規模予測――MPCフレームワークの全プロセス」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「具体的に、今話題の「生成AIの個人向け有料プラン」の日本市場規模を、MPCフレームワークで推定してみよう」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「❶ Step 1：M（Modeling）」（https://note.com/missiondrivencom/n/n9201e39a1296）
 - 突き合わせ・推定：
-  - 「【過去問題あり】フェルミ推定とは？基礎知識・例題・やり方まで解説｜キャリアトラス｜就職・転職を応援する情報メディア」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【過去問題あり】フェルミ推定とは？基礎知識・例題・やり方まで解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「フェルミ推定のやり方を5ステップで解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「「コンビニ1店舗当たりの売り上げを推定して売り上げ向上施策を考えよ」」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「コンサルや外資系企業の採用でよく用いられるフェルミ推定について解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「本記事では、未経験者にもわかりやすくフェルミ推定の基礎を解説し、実際の選考通過者の回答例や頻出問題も多数紹介」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「この記事1本で、フェルミ推定の全貌を網羅的に学べる内容となっています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「フェルミ推定とは、限られた情報をもとに論理的推論を駆使し、短時間で概算値を導き出す思考法です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「フェルミ推定は、「くだらない」と感じる人もいるかもしれませんが、実際にはビジネスでも大いに役立つ考え方です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「限られた情報から仮説を立て、答えを導くプロセスを通じて、現実的な解決策を見出す力が養われます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「フェルミ推定では、答えの正確さよりも、問題を分解し、論理的に仮説を立てる過程が評価されます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「ケース面接では、フェルミ推定が頻繁に出題されます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「推定値を提示する際は、その根拠を明確に伝えることが重要です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「フェルミ推定を解く際には基本的に下記の5つのステップに沿って解いていくと良いでしょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「フェルミ推定では、以下の4つのアプローチ軸を用いて問題を解くことが一般的です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「このページに辿り着いたあなたなら、今まさに「フェルミ推定をマスターして、思考の解像度を上げたい」、あるいは「コンサル流の地頭の良さを自分のスキルとして定着させたい」という強い向上心を持っていることだろう」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「「フェルミ推定」という言葉を聞いて、あなたはどのような印象を持つだろうか？」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定とは、単なる「数字の当てっこ」ではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「それは、混沌とした不確実なビジネス環境において、手元にある限られた情報から「筋の良い仮説」を導き出し、意思決定を加速させるための「最強の思考OS」であり、戦略的思考スキルの土台である」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「もしあなたが自由自在にフェルミ推定を使いこなすことができれば、」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定は、生まれ持ったセンスや才能の話ではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「よって今回は、ビジネスにおける思考ツールである「フェルミ推定のやり方」について、その本質から実務への応用手順までを徹底的に解説しよう」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定とは何か？――AI時代に必須の「問題解決能力」としての価値」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「不確実な状況下で妥当な仮説を数値化する「フェルミ推定の考え方」こそが、情報洪水の中で自分を守り、成果を出し続けるための生存戦略（サバイバルスキル）となる」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定の定義：概算の技術を超えた「仮説構築力」」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定の対義語は「精密な実態調査（実査）」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「一方でフェルミ推定は、細かなディテールを捨象し、物事の「構造」を捉える」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「なぜ、あなたの推定は外れるのか？――挫折を招く「3つの心理的障壁と認知の癖」」（https://note.com/missiondrivencom/n/n9201e39a1296）
 - 一次情報の探し方：
+  - 「2つ目は「最新の統計数字を知らないから計算できない」と諦めてしまうことだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「しかし、一流のコンサルタントもすべての統計を暗記しているわけではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「最も手軽で強力な手法が、自分自身の行動や周辺の事象を統計の最小単位として扱う「サンプル・オブ・ワン」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：誰もが知っている巨大市場や国家統計と比べる」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「以下はストラテジストが「世界のスケール感」を測るために頭に入れている必須の統計定数だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「コンサルや外資系企業の採用でよく用いられるフェルミ推定について解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
   - 「この手法は、コンサルティングファームや投資銀行など、高度な問題解決能力を必要とする業界の採用試験でも頻繁に用いられています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
   - 「文化庁の調査結果や映画業界の統計データをもとに評価します」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
@@ -9692,43 +9700,38 @@
   - 「だからこそ、コンサル面接や総合商社の採用試験で重視され、就活生にとって避けて通れないテーマになっているのです」（https://nengoro.com/column/marketing/fermi/）
   - 「コンサルや総合商社の採用試験で定番の問いかけは「日本にピアノの調律師は何人いるか？」「東京駅を1日に利用する人数は？」といったもの」（https://nengoro.com/column/marketing/fermi/）
   - 「統計を覚えていなくても、身近な知識を組み合わせれば近い答えにたどり着けます」（https://nengoro.com/column/marketing/fermi/）
-  - 「市場データや統計がなくても仮定を立て、数字を組み立て、結論を導く」（https://nengoro.com/column/marketing/fermi/）
-  - 「統計や市場調査を待つ時間がないときでも、」（https://nengoro.com/column/marketing/fermi/）
-  - 「具体的な統計を待たずとも、」（https://nengoro.com/column/marketing/fermi/）
-  - 「ここまでの例題からもわかるように、必要なのは高度な統計学ではありません」（https://nengoro.com/column/marketing/fermi/）
-  - 「統計データがすぐに手に入らない場面でも、仮定を置いて筋道を組み立てるだけで議論が前に進む」（https://nengoro.com/column/marketing/fermi/）
 - 失敗・落とし穴：
+  - 「その中で多くのビジネスパーソンが、KPIや既存データといった「目に見える指標」に過度に依存する「可視化依存社会」の罠に嵌まっている」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「脳が「未知のもの」に対して拒絶反応を起こす際、特定の「心理的な罠」に嵌まっているからだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「罠-1：正解主義の呪縛」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「一つ目の罠は、日本の教育で植え付けられた「テストには必ず1つの絶対的な正解がある」という思い込みだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「罠-2：知識依存の罠」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「罠-3：計算衝動の罠」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「思考の停止を防ぐ「7つの認知バイアス」――論理の罠を回避せよ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「以下の「心理の罠」に陥っていないか、常に客観的なメタ認知を働かせる必要がある」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「KPIや数値データなどの「目に見える」情報に注意が奪われ「目に見えない」質的な側面や、背景にあるストーリーは軽視されていく」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「使って、失敗して、組み合わせて、初めてあなたの血肉となる」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「コンサルティングファームの面接では、ほぼ間違いなくフェルミ推定の問題が出題されるため、事前の対策は必須です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
   - 「【7】初心者がやりがちな失敗と回避法」（https://nengoro.com/column/marketing/fermi/）
   - 「ここを勘違いして「大きな数字を出せば評価される」と思い込むと失敗します」（https://nengoro.com/column/marketing/fermi/）
   - 「面接でも実務でも「惜しい…！」という結果にならないよう、初心者が気をつけるべき失敗とその回避策を整理しました」（https://nengoro.com/column/marketing/fermi/）
   - 「面接や会議で「答えだけ」を伝えてしまうのも典型的な失敗です」（https://nengoro.com/column/marketing/fermi/）
-  - 「初心者が失敗を避けるには、①根拠ある仮定を置く、②計算プロセスを省略しない、③無理に正解に寄せない──この3点を意識するだけで精度が一気に上がります」（https://nengoro.com/column/marketing/fermi/）
-  - 「失敗を避ける導入のコツも紹介し、集客と利益改善のヒントを得られます」（https://nengoro.com/column/marketing/fermi/）
-  - 「生成AIとは？仕組み・種類・できること・注意点をわかりやすく解説」（https://nengoro.com/column/marketing/fermi/）
-  - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「解き方の4ステップと注意点」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「推定値が大きく乖離した場合は、いずれかの仮定に誤りがある可能性が高いため、前提に立ち返って修正する」（https://www.concord-career.com/dictionary/fermi/）
-  - 「数える範囲を曖昧にしたまま計算を進めると、論理展開が成り立たなくなるため注意しましょう」（https://hr.ababa.co.jp/article/interview-prep/fermi-estimation-examples/）
 - 実例：
+  - 「「外資系コンサルのケース面接（入社試験）のための特殊なクイズ」」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「例えば、日本全体の売上を考える際、いきなり細かい数字を追うのではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「C：Calibration（キャリブレーション）――結果の妥当性検証」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：算出された結果が、自分が想定していた「桁の範囲」に収まっているかを確認する」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：例えば、あるニッチな「高級文房具」の市場規模を「5兆円」と推定したとする」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：その結果、「日本国民全員が、365日欠かさずその商品を1日5回買う」という結論になっていないか？ 「一店舗あたりの売上が、24時間不眠不休で客を詰め込んでも不可能な数字」になっていないか？」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「一つの問いに対して、複数の解法（モデル）を試み、その結果が近似するかを確認する」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「計算結果を常識という名の『物差し』で測り直し、論理の健全性を保証する防波堤である」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：周辺アクセサリー市場（スマホケース等）、代替サービス（カーシェアリング等）」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「事実を整理するだけ、分析結果を説明するだけ、誰かの意見に同調するだけでは、プロフェッショナルとして十分とは言えない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「短期的な結果を求めるあまり、問題の本質に向き合う時間を確保できず、解決策は表面的なものになる」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「しかし本書は「仮説思考に必要な頭の使い方の手順」を、豊富な事例とともに徹底解説している」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「特にケース面接では、候補者の論理的思考力を評価する重要な基準とされています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
   - 「ケース面接では、フェルミ推定が頻繁に出題されます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
   - 「推定結果の5,000億円は、実際の市場規模と近い値となっています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「文化庁の調査結果や映画業界の統計データをもとに評価します」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「では過去出題されたフェルミ推定の次のステップである、ケース面接のお題を複数無料掲載しています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【ケース】アイフォンケースの売上はいくらか？：ベイン面接過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【ケース】日本のトイレットペーパーの市場規模は？：モニターグループ過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【ケース】日本にある傘の本数を求めよ：BCG面接過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【ケース】メキシコからアメリカへの移民数の減少要因：BCG14卒論述試験過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【ケース】地方私立大学の生き残り戦略を立案せよ：アクセンチュア過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【ケース】日本の散髪屋の数を求めよ：野村総研過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【ケース】日本に高等学校は何校あるか？：BCG面接過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「【ケース】ネットオークションの売上規模推定と2倍にする施策：ドリームインキュベータ面接過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「2. 検索バーから「ケース面接」または「フェルミ推定」と入力」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
-  - 「就活生がつまずきやすいのは「頭の中で計算して黙ってしまう」ケースです」（https://nengoro.com/column/marketing/fermi/）
 - 検索結果の抜粋：
   - 「フェルミ推定 の解き方やメリットを解説！活用の注意点は？ — フェルミ推定 の解き方やメリットを解説！活用の注意点は？ クロス・マーケティング https://www.cross-m.co.jp > marketing > mkc20260925」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
 
@@ -11405,38 +11408,40 @@
 ## PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活（verify PDF table extraction errors footnote units row column journalist data checking）
 - 文脈：手法
 - 手順・やり方：
-  - 「品質が安定したら、定型の比較やファイル生成まで範囲を広げます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「任せる範囲を広げる判断基準は、三回続けて同じ品質が出たか、修正箇所が予測できるか、誤りを検出する方法があるかです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「実行方法：python codes/code01_workspace.py」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「「放置」は管理を捨てる意味ではなく、事前に管理方法を組み込むことです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「実行方法：python codes/code02_acceptance_check.py --create-demo」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「定型業務ではテンプレートを複製し、日付、対象、今回だけの注意点を変えます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「反対に、毎回例外だらけで検査方法もない仕事は、無理に自動化せず、資料整理や論点抽出だけを任せます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「反対に、初回は時間が増えても、テンプレートと検査方法が残り、二回目から大幅に短くなる業務には継続価値があります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「個人共通の設定には、役職、重視する指標、文章の好み、判断の型を置きます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「複雑な仕事は、最初に計画を出して対象、手順、成果物を確認してから実行します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「実行方法：python codes/code03_inventory.py --demo」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「これを「権限テスト」「品質テスト」「保存テスト」に分け、結果を残せば、幹部へ展開するときの標準手順になります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「実行方法：python codes/code04_competitor_compare.py --demo」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「本稿は、MicrosoftのオープンソースフレームワークHVE Core（Hypervelocity Engineering Core）を対象に、」（https://www.eternalstudent.jp/category/IT）
+  - 「HVE Coreの考え方（RPIという工程の分け方、なぜ調査中に実装させないのか、組織への導入手順）は、前回の記事「」（https://www.eternalstudent.jp/category/IT）
+  - 「本稿はその続編で、方法論の「なぜ」ではなく、仕組みの「どう動くか」を扱います」（https://www.eternalstudent.jp/category/IT）
+  - 「実践への落とし込み：入口の選び方・調査の手順・チェックリスト」（https://www.eternalstudent.jp/category/IT）
+  - 「（Research：調査、Plan：計画、Implement：実装、Review：レビューを分けて進める開発手順）の1セッションです」（https://www.eternalstudent.jp/category/IT）
+  - 「エージェントやスキルが、手順の途中で別のスキルを名前で呼び出すこと」（https://www.eternalstudent.jp/category/IT）
+  - 「スキルは仕事の手順に結びつくので、その手順を実行する主体に確実に届けられます」（https://www.eternalstudent.jp/category/IT）
+  - 「スキルの本文には、各段階のスキルを「その手順を再現するのではなく、起動せよ」と書かれています」（https://www.eternalstudent.jp/category/IT）
+  - 「Parnas（1972）は、モジュールの分け方を処理の手順ではなく「変わりやすい設計判断を一つずつ隠す」ことで決めるべきだと論じました」（https://www.eternalstudent.jp/category/IT）
+  - 「逆に、セッションの進め方が変わっても、計画スキルは自分の記録の作り方を変える必要がありません」（https://www.eternalstudent.jp/category/IT）
+  - 「4-2. 処理の順序：10のステップ」（https://www.eternalstudent.jp/category/IT）
+  - 「S2 モードの決定：4つの進め方」（https://www.eternalstudent.jp/category/IT）
+  - 「依頼文からも既存の状態からも進め方が決まらないとき、司令塔は「どのように進めますか」と尋ね、次の4つの選択肢を示します」（https://www.eternalstudent.jp/category/IT）
+  - 「の実装を再開して」と頼むと、S1の手順が働きます」（https://www.eternalstudent.jp/category/IT）
+  - 「5. 実践への落とし込み：入口の選び方・調査の手順・チェックリスト」（https://www.eternalstudent.jp/category/IT）
 - 突き合わせ・推定：
-  - 「商談準備なら、相手企業の公開情報、過去の接点、今回の目的を読み、仮説、質問、提案骨子、避けるべき表現まで一枚にまとめます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「第2章 数時間の仕事を渡す技術――完了条件から逆算する」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「「調査」ではなく「競合比較レポート」、「会議準備」ではなく「会議ごとの一枚メモ」、「分析」ではなく「異常値一覧と要因仮説」です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「長い依頼では、途中経過より検証工程が大切です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「使った資料、実施した処理、除外した情報、未確認事項、生成したファイル、検証結果があれば、翌週の再利用や担当者への引き継ぎが容易になります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「DEFAULTS = ["proposal.md", "estimate.csv", "evidence.txt"]」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「また、長い仕事を一つの巨大な指示に詰め込むより、調査、構造化、執筆、検証の区切りごとにファイルを残すと、途中から再開しやすくなります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「実務で使いやすい依頼票は、目的、背景、入力場所、対象外、成果物、完了条件、既定方針、停止条件、検証、人の承認という十欄です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「ただし失敗を見つけるたびに規則を増やすと、矛盾して読みにくくなります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「経営数値は「前年比・前月比・要因仮説」の順で読みます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「仮説には裏づけに必要な追加データを添えます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「良い調査は知識を増やすだけでなく、次に変える商品、営業資料、検証指標までつながります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「「高」は一次資料で複数確認、「中」は一次資料一件または信頼できる二次資料、「低」は状況証拠からの仮説、といった基準です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「段階ごとに1つのスキルが、自分の記録ファイル、判断、検証、合格条件を受け持つ」（https://www.eternalstudent.jp/category/IT）
+  - 「復旧時には、保存された「意図」と実際にある記録ファイルを突き合わせます」（https://www.eternalstudent.jp/category/IT）
+  - 「、記録ファイルの有無と中身を照合すれば、どこまで進んだかを判断できる構造です」（https://www.eternalstudent.jp/category/IT）
+  - 「再開時は active_phase・next_action・記録の有無を照合し、最後の書き込みがないだけで起動をやり直さない」（https://www.eternalstudent.jp/category/IT）
+  - 「検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します」（https://www.eternalstudent.jp/category/IT）
+  - 「S7 レビュー：記録を照合し、判定と行き先を決める」（https://www.eternalstudent.jp/category/IT）
+  - 「と、判断への関与の仕方（利用者かAIか）を「Parent Decision Record」節に書いてから、照合に入ります」（https://www.eternalstudent.jp/category/IT）
+  - 「照合を進めながら、受け入れ基準と変更の対応状況を、指摘（」（https://www.eternalstudent.jp/category/IT）
+  - 「司令塔はレビュー記録と、引き継いだ未解決の作業、受け入れ基準を突き合わせ、各項目を「範囲内で必須」「任意の改善」「範囲外」に分類します」（https://www.eternalstudent.jp/category/IT）
+  - 「※1 再開時に、状態と記録を突き合わせるため」（https://www.eternalstudent.jp/category/IT）
+  - 「指摘の処置は計画スキルが計画の「Critique Disposition」節に書く ※4 計画の参照欄からたどる場合 ※5 計画ファイルの「Critique Disposition」節を通じて読む ※6 レビューを省略した場合に、変更記録・検証・計画の後続項目で代える ※7 子ループでは批評とレビューが既定で省略される」（https://www.eternalstudent.jp/category/IT）
+  - 「中身を複製しないので、記録が書き換わっても状態ファイルとの食い違いが起きにくくなります」（https://www.eternalstudent.jp/category/IT）
+  - 「、記録の有無）と変更記録の状態を照合し、復旧した状態を保存してから、意図されていたレビューへ進みます」（https://www.eternalstudent.jp/category/IT）
+  - 「どちらの場合も、記録がないことだけを理由に結論を出さず、3つを突き合わせます」（https://www.eternalstudent.jp/category/IT）
+  - 「データベースは、データを書き換える前に「これから何をするか」をログに書き、障害の後はログと実際のデータを突き合わせて、途中で止まった処理を完了させるか取り消します（Mohan et al., 1992）」（https://www.eternalstudent.jp/category/IT）
 - 一次情報の探し方：
+  - 「Acrobatで横向きにスキャンされたPDFを回転して保存す」（https://vaynexis.jp/ai）
+  - 「採用した版（タグまたはコミット）と導入日を記録した」（https://www.eternalstudent.jp/category/IT）
   - 「この周辺作業をまとめて委任できれば、社長は顧客との対話、採用、事業の方向づけ、最終判断といった、本人にしかできない仕事へ時間を戻せます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「逆に、相手との信頼関係そのものを扱う交渉、解雇や採用の最終判断、法務・税務・労務の専門判断、資金移動、対外送信などは、人が責任を持つ工程を残します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「「この顧客は売上が大きくても無理な値引きをしない」「採用は経験年数より、学習速度と顧客への姿勢を見る」「投資は一年以内の回収だけでなく、三年後の選択肢が増えるかを見る」といった基準です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
@@ -11450,9 +11455,11 @@
   - 「社長は、単価改定、外注先の再編、採用のどれに投資するかを決める」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「第9章 人事・採用・組織づくり──「人を見る仕事」を雑にしないために使う」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「人事では、採用の合否、評価、配置、処遇をAIに決めさせません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「社長や部門長が採用責任者を兼ねる中小企業で右腕を置く意味は、自動選考ではなく、人が人を見る時間を取り戻すことです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「61．求人票を「応募を集める文章」から「入社後の約束」に変える」（https://note.com/comix_ceo162230/n/nefa267965ecf）
 - 失敗・落とし穴：
+  - 「この書き込みに失敗したら、遷移しない」（https://www.eternalstudent.jp/category/IT）
+  - 「失敗したら作業を始めずに止まり、記録できなかったことを報告する」（https://www.eternalstudent.jp/category/IT）
+  - 「検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します」（https://www.eternalstudent.jp/category/IT）
+  - 「6. 限界と注意点」（https://www.eternalstudent.jp/category/IT）
   - 「最初に試す仕事は、売上への影響が大きい一方で、誤りを発見しやすいものが適しています」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「この順序なら、失敗したときに原因を、入力不足、指示の曖昧さ、資料の古さ、処理の誤り、確認漏れに分解できます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「任せる範囲を広げる判断基準は、三回続けて同じ品質が出たか、修正箇所が予測できるか、誤りを検出する方法があるかです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
@@ -11464,26 +11471,22 @@
   - 「発信では、生成量が成果に見えやすいため注意が必要です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「LPはAIDA型などの構成を使い、注意、関心、欲求、行動がつながっているかを見ます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「経理領域は効率化余地が大きい一方、誤りがそのまま支払いや申告へつながります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「取引先ごとの与信情報は、支払遅延、取引額、公開財務、信用情報、担当者の事実メモを整理し、注意先をフラグ付けします」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「たとえば「プロジェクトを主導」と書かれていても、予算、人数、本人の裁量、失敗時の対応は分かりません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「各課題には「誰に聞くか」「何を提出すれば完了か」「失敗してもよい範囲」を添えます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「承認者が判断に必要な情報を起点に、必須項目、条件分岐、入力例、個人情報の注意を設計させます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
 - 実例：
+  - 「保存された結果は追跡ファイルで、どの指示が届き、どの順に道具が呼ばれたかはVS CodeのAgent Debug Logで確かめます」（https://www.eternalstudent.jp/category/IT）
+  - 「ケーススタディ：1セッションで、いつ何が読み書きされるか」（https://www.eternalstudent.jp/category/IT）
+  - 「後者であれば、指示の書き方をいくら工夫しても結果は変わりません」（https://www.eternalstudent.jp/category/IT）
+  - 「この結果、RPIの入口は3つになりました」（https://www.eternalstudent.jp/category/IT）
+  - 「サブエージェントは結果を会話で返すだけで、記録は親が書く」（https://www.eternalstudent.jp/category/IT）
+  - 「4. ケーススタディ：1セッションで、いつ何が読み書きされるか」（https://www.eternalstudent.jp/category/IT）
+  - 「司令塔は行き先を書いてから段階を起動し、遷移直後に結果を書く」（https://www.eternalstudent.jp/category/IT）
+  - 「レンズの結果が届くたびに、その行の状態を更新し、確かめた指摘（」（https://www.eternalstudent.jp/category/IT）
+  - 「など）を加え、次の結果に進む前に記録を保存します」（https://www.eternalstudent.jp/category/IT）
+  - 「サブエージェントを使う場合、別々のファイルを変更する独立したタスクは並列に、同じファイルや依存関係のある作業は順番に進め、結果は親が確かめてからチェックを付けます」（https://www.eternalstudent.jp/category/IT）
+  - 「検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します」（https://www.eternalstudent.jp/category/IT）
+  - 「ファイルに残るのは保存された結果だけである」（https://www.eternalstudent.jp/category/IT）
+  - 「ただし、その順序を守るのはモデルであり、結果はファイルで、過程はデバッグログで確かめる」（https://www.eternalstudent.jp/category/IT）
   - 「材料がファイルやWebに存在する、完成形を言葉で定義できる、途中の判断に標準的な基準を置ける、結果を人が検査できる、という四点です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「「競合五社について、料金、対象顧客、主な機能、導入支援、導入事例を公式サイトから調査し、出典URL付きの比較表と、当社が取るべき施策三案をA4三枚相当でまとめる」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「使った資料、実施した処理、除外した情報、未確認事項、生成したファイル、検証結果があれば、翌週の再利用や担当者への引き継ぎが容易になります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「評価結果を数回分残すと、どの業務をスキル化すべきかも見えてきます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「これを「権限テスト」「品質テスト」「保存テスト」に分け、結果を残せば、幹部へ展開するときの標準手順になります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「架空例として、法人向け清掃会社が50件の休眠顧客を整理した結果、価格より「担当変更後に連絡が途切れた」案件が多かったとします」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「顧客インタビューから事例記事を作るときは、導入前の状況、選定理由、実施内容、変化、今後を本人の発言に沿って構成します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「PLAN = [(0, "X", "問い"), (2, "note", "解説"), (4, "LinkedIn", "事例"), (7, "メルマガ", "要約")]」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「判定結果には該当規則を示し、曖昧なケースを担当者へ回します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「候補者の経歴と採用要件から、事実確認、行動事例、判断基準、再現性の四段階で質問案を作らせます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「原文を広く共有せず、集約結果の閲覧範囲を限定します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「現場の対話を始めるたたき台にし、実際の判断事例を追加して育てます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「営業提案なら、顧客情報の確認、課題仮説、社内事例の選定、価格表との照合、責任者レビューまでを一連にします」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「親役は結果の矛盾、根拠、抜けを統合し、最終責任を持ちます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「再開時の二重処理を防ぎ、途中結果を人が読める単位で残すことを品質基準にします」（https://note.com/comix_ceo162230/n/nefa267965ecf）
 
 ## 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）（cross-checking fact-checkers selection agreement rating agreement study）
 - 文脈：手法
@@ -13855,7 +13858,7 @@
   - 「、実際の成功事例は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
   - 「他社の成功事例を学び、自社の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
   - 「選択結果を選ぶと、ページが全面的に更新されます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
 
 ## 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）（private company due diligence red flags combination late filing director turnover charges）
 - 文脈：裏取り
@@ -13901,7 +13904,7 @@
   - 「信用調査の結果を踏まえ、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
 
 ## 景気指標の先行・一致・遅行の読み方と転換点の判定（内閣府 景気動向指数の利用の手引き・複数の分野で同じ向きの重なり・単月で断定しない）（leading coincident lagging indicators turning point diffusion index how to read）
 - 文脈：手法・統計

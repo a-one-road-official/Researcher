@@ -8,7 +8,7 @@
  ],
  "context": "統計の読み方",
  "kind": "market",
- "researched_at": "2026-11-08T15:28:26.477358+00:00",
+ "researched_at": "2026-11-08T23:20:36.844215+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -209,37 +209,52 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/fact_st_ory",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kohyo.co.jp/journal/077/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.surugaya.lol/documents/pr/ja/20180329_econtext.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/chocon_0125/n/n5f247a81453f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/great_chimp5478/n/n6f109b868684",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ishikawa_dx/n/na263b519dd64",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shohyoubookreview.com/archives/16735",
     "status": "ok",
     "method": "http"
    },
@@ -249,7 +264,17 @@
     "method": "http"
    },
    {
-    "url": "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9",
+    "url": "https://shohyoubookreview.com/archives/16735",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assets.kpmg.com/content/dam/kpmgsites/jp/pdf/2023/jp-kpi60.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shohyoubookreview.com/archives/16447",
     "status": "ok",
     "method": "http"
    },
@@ -259,44 +284,44 @@
     "method": "http"
    },
    {
-    "url": "https://shohyoubookreview.com/archives/16447",
+    "url": "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pub.nikkan.co.jp/book/b10021070.html",
+    "url": "https://school.data-learning.com/media/manufacturing-data-analysis/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://fred.stlouisfed.org/series/IPMAN",
-    "status": "network_error:ReadTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sunriseclassesiss.com/post/how-is-the-base-year-selected-for-index-numbers-and-why-does-it-need-to-be-updated",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-76.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://pomegra.io/wiki/iprd-index-backfill-survivorship-bias/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bls.gov/opub/mlr/2026/article/is-manufacturing-productivity-recovering-evidence-from-the-past-and-present.htm",
+    "url": "https://www.bls.gov/iag/tgs/iag31-33.htm",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://link.springer.com/article/10.1007/s11151-018-9613-4",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://nam.org/mfgdata/facts-about-manufacturing-expanded/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/54059.pdf",
+    "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202621-trends-in-manufacturing-in-the-united-states",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://eig.org/manufacturing-rebound/",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -304,90 +329,108 @@
   {
    "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） site:note.com",
    "results": [
-    "https://note.com/fact_st_ory",
-    "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
-    "https://note.com/chocon_0125/n/n5f247a81453f",
-    "https://note.com/stats47/n/naf04e81afb7b",
-    "https://note.com/great_chimp5478/n/n6f109b868684",
-    "https://note.com/ishikawa_dx/n/na263b519dd64",
-    "https://note.com/natty_sage62/n/n0659a25806bb"
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.surugaya.lol/documents/pr/ja/20180329_econtext.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） note",
    "results": [
-    "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
-    "https://shohyoubookreview.com/archives/16735",
-    "https://stat-lab.jp/",
-    "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9",
-    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
-    "https://note.com/chocon_0125/n/n5f247a81453f",
-    "https://shohyoubookreview.com/archives/16447"
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.surugaya.lol/documents/pr/ja/20180329_econtext.pdf",
+    "https://note.com/alert_hyssop1862/n/n84b1c14bb573"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） やり方",
    "results": [
-    "https://shohyoubookreview.com/archives/16735",
-    "https://stat-lab.jp/",
-    "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
-    "https://shohyoubookreview.com/archives/16447",
-    "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9",
-    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
-    "https://pub.nikkan.co.jp/book/b10021070.html"
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://assets.kpmg.com/content/dam/kpmgsites/jp/pdf/2023/jp-kpi60.pdf",
+    "https://stat-lab.jp/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） 事例",
    "results": [
-    "https://shohyoubookreview.com/archives/16735",
-    "https://stat-lab.jp/",
-    "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
-    "https://shohyoubookreview.com/archives/16447",
-    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
-    "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9",
-    "https://pub.nikkan.co.jp/book/b10021070.html"
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.surugaya.lol/documents/pr/ja/20180329_econtext.pdf",
+    "https://stat-lab.jp/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "practitioner columns re-analysing manufacturing statistics index base year survivorship",
    "results": [
-    "https://fred.stlouisfed.org/series/IPMAN",
-    "https://www.sunriseclassesiss.com/post/how-is-the-base-year-selected-for-index-numbers-and-why-does-it-need-to-be-updated",
-    "https://pomegra.io/wiki/iprd-index-backfill-survivorship-bias/",
-    "https://www.bls.gov/opub/mlr/2026/article/is-manufacturing-productivity-recovering-evidence-from-the-past-and-present.htm",
-    "https://link.springer.com/article/10.1007/s11151-018-9613-4",
-    "https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/54059.pdf",
-    "https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/13447.pdf"
+    "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-76.pdf",
+    "https://www.bls.gov/iag/tgs/iag31-33.htm",
+    "https://nam.org/mfgdata/facts-about-manufacturing-expanded/",
+    "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202621-trends-in-manufacturing-in-the-united-states",
+    "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "https://eig.org/manufacturing-rebound/",
+    "https://www.haver.com/articles/ism-index-the-manufacturing-sector-continues-to-struggle",
+    "https://iot-analytics.com/us-manufacturing-reshoring-boom-what-the-data-says/",
+    "https://research.upjohn.org/cgi/viewcontent.cgi?article=1305&context=up_workingpapers",
+    "https://www.sunriseclassesiss.com/post/how-is-the-base-year-selected-for-index-numbers-and-why-does-it-need-to-be-updated"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:note.com 統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差）",
    "results": [
     "https://note.com/fact_st_ory",
     "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
-    "https://note.com/great_chimp5478/n/n6f109b868684",
     "https://note.com/chocon_0125/n/n5f247a81453f",
+    "https://note.com/great_chimp5478/n/n6f109b868684",
     "https://note.com/stats47/n/naf04e81afb7b",
     "https://note.com/xborder/n/n98883cf6a464",
     "https://note.com/ishikawa_dx/n/na263b519dd64"
@@ -405,8 +448,8 @@
     "https://x.com/OgawaSeisakusho/status/2102136799686701103",
     "https://x.com/OgawaSeisakusho/status/2110533866247336076",
     "https://x.com/OgawaSeisakusho/status/2102560195989901604",
-    "https://x.com/OgawaSeisakusho/status/2070355916252409986",
-    "https://x.com/OgawaSeisakusho/status/2109751403480854654"
+    "https://x.com/OgawaSeisakusho/status/2109751403480854654",
+    "https://x.com/OgawaSeisakusho/status/2070355916252409986"
    ],
    "engines": [
     "ddgs:google"
@@ -421,8 +464,8 @@
     "https://www.linkedin.com/feed/update/urn:li:activity:7433858128661757952/",
     "https://www.linkedin.com/pulse/製造現場の再生自分は必要とされているという実感が現場の潜在能力を解き放つ-美徳-鈴木-gxrsc/",
     "https://jp.linkedin.com/posts/minitab-jp_ウェビナー開催7月30日水14時dmaic統計の再発見シリーズ第2弾-activity-7351149381590441986-8wet",
-    "https://jp.linkedin.com/pulse/ワイヤー放電加工機-edm-市場レポート2026年から2033年にかけて138の成長が見込まれる人口統計データと成長可能性-wj2ue",
-    "https://jp.linkedin.com/learning/introduction-to-lean-manufacturing-best-practices-for-production-workers-37661177/8738002"
+    "https://jp.linkedin.com/pulse/how-use-descriptive-statistics-excel-data-analysis-chartexpo-me2gf?tl=ja",
+    "https://jp.linkedin.com/pulse/ワイヤー放電加工機-edm-市場レポート2026年から2033年にかけて138の成長が見込まれる人口統計データと成長可能性-wj2ue"
    ],
    "engines": [
     "ddgs:google"
@@ -434,10 +477,10 @@
    "results": [
     "https://www.facebook.com/stat.japan/",
     "https://www.facebook.com/100064621122412/posts/1308781351285890/",
-    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
     "https://www.facebook.com/ikemotokatsuyukifb/posts/社員が自分たちで機械を改造し人がいなくても動くようにした製造会社があります徳島市の西精工ナットなどの部品をつくる1923年創業のメーカーですこの会社では毎朝50/1761322232669953/",
-    "https://www.facebook.com/JMPjpn/videos/製造業向け-jmpを使った統計的検定手法の概要と利用例/1303778027224556/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
     "https://www.facebook.com/nbpbooknavi/posts/生成ai時代その判断に迷いはない最後に頼れるのは統計の基礎力ですざっくり理解で実務に生かす生成ai時代に求められる判断できる力統計リテラシーの入門書として好適な/1920865492643689/",
+    "https://www.facebook.com/JMPjpn/videos/製造業向け-jmpを使った統計的検定手法の概要と利用例/1303778027224556/",
     "https://www.facebook.com/timetakashima/photos/最近なんでも自分でやらないといけないと思い込んでいる経営者が多いという話をよく聞きます先日中村さんと1to1をしました中村さんは中国でのoem製造委託輸入のプロ/122184383492742827/"
    ],
    "engines": [
@@ -448,56 +491,68 @@
   {
    "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） note 社長",
    "results": [
-    "https://shohyoubookreview.com/archives/16735",
-    "https://stat-lab.jp/",
-    "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
-    "https://shohyoubookreview.com/archives/16447",
-    "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9",
-    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
-    "https://note.com/chocon_0125/n/n5f247a81453f"
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.surugaya.lol/documents/pr/ja/20180329_econtext.pdf",
+    "https://note.com/alert_hyssop1862/n/n84b1c14bb573"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） X 投稿",
    "results": [
-    "https://shohyoubookreview.com/archives/16735",
-    "https://stat-lab.jp/",
-    "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
-    "https://shohyoubookreview.com/archives/16447",
-    "https://pub.nikkan.co.jp/book/b10021070.html",
-    "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9",
-    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1"
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.surugaya.lol/documents/pr/ja/20180329_econtext.pdf",
+    "https://shohyoubookreview.com/archives/16735"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "practitioner columns re-analysing manufacturing statistics index base year survivorship site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/in/heathercooan",
+    "https://hk.linkedin.com/in/andrewcwilkinson",
+    "https://www.linkedin.com/in/alexandre-tilly",
+    "https://in.linkedin.com/in/sanjibpaul-analyticsai",
+    "https://www.linkedin.com/in/samantrip",
+    "https://mx.linkedin.com/in/geraledesma/es",
+    "https://www.linkedin.com/in/anneod",
+    "https://cl.linkedin.com/in/ignacio-antonio-ramos-tapia-19ab3385/es",
     "https://www.linkedin.com/top-content/supply-chain-management/mastering-statistical-analysis/how-survivorship-bias-skews-data-analysis/",
-    "https://www.linkedin.com/posts/activity-7505666843970474004-nL0_",
-    "https://gt.linkedin.com/posts/anthony-dibble_one-of-my-favourite-examples-of-survivorship-activity-7005070401663815680-EBpa",
-    "https://in.linkedin.com/posts/ajit-shashank-34bb7a97_survivorship-bias-amp-world-war-ii-during-activity-7055748637829591040-oyx1",
-    "https://pe.linkedin.com/posts/jousefmurad_survivorship-bias-amp-world-war-ii-during-activity-7055631377219604480-yIRB",
-    "https://www.linkedin.com/top-content/science/best-practices-for-data-management/avoiding-survivorship-bias-in-analytics/",
-    "https://cr.linkedin.com/posts/seattlepilot_do-you-measure-win-loss-you-should-too-activity-7048673171511607296-Fu_T"
+    "https://www.linkedin.com/posts/activity-7505666843970474004-nL0_"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ18頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T07:52:58.645251+00:00"
 }

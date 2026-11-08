@@ -7,733 +7,87 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T15:51:11.930811+00:00",
+ "researched_at": "2026-11-08T23:20:15.103547+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "品質が安定したら、定型の比較やファイル生成まで範囲を広げます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "任せる範囲を広げる判断基準は、三回続けて同じ品質が出たか、修正箇所が予測できるか、誤りを検出する方法があるかです",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実行方法：python codes/code01_workspace.py",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「放置」は管理を捨てる意味ではなく、事前に管理方法を組み込むことです",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実行方法：python codes/code02_acceptance_check.py --create-demo",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "定型業務ではテンプレートを複製し、日付、対象、今回だけの注意点を変えます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "反対に、毎回例外だらけで検査方法もない仕事は、無理に自動化せず、資料整理や論点抽出だけを任せます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "反対に、初回は時間が増えても、テンプレートと検査方法が残り、二回目から大幅に短くなる業務には継続価値があります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "個人共通の設定には、役職、重視する指標、文章の好み、判断の型を置きます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複雑な仕事は、最初に計画を出して対象、手順、成果物を確認してから実行します",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実行方法：python codes/code03_inventory.py --demo",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これを「権限テスト」「品質テスト」「保存テスト」に分け、結果を残せば、幹部へ展開するときの標準手順になります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実行方法：python codes/code04_competitor_compare.py --demo",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スパムメールの意味や種類、見分けるポイント、届いたとき・被害が疑われるときの手順を知り、落ち着いて対処できるようにしましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「期限までに支払わなければ法的措置を取る」などの強い表現で、不安や焦りを起こさせるのが典型的です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方、標的型攻撃メールは、特定の組織や個人から情報を盗むなどの目的で送られます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "攻撃者が相手の部署や取引関係を調べ、業務に関係する話題を使うこともあるため、定型的な迷惑メールより判断が難しい場合があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "特に注意したいのは、送金先の変更、パスワードの共有、秘密情報の送付、緊急のファイル確認など、通常の手順を省略させようとする依頼です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "金銭や機密情報が関係する操作は、メールだけで完結させず、社内の承認手順や複数人での確認を徹底しましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "文字列を自動生成し、実在するアドレスに届くか試す方法もあるためです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "事業者の問い合わせ先など、業務上必要なアドレスをウェブ上に掲載する場合は、個人用のアドレスと分け、受信フィルターを設定する方法があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "パソコンではクリック前にリンク先のアドレスを確認できる場合がありますが、スマートフォンでは確認方法が異なることもあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "悪質なサイトに誘導されるおそれがあるため、迷惑メールの報告機能を使ってから削除する方法が基本です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アプリやサービスによって操作方法は異なりますが、通常はメールのメニューから「迷惑メールとして報告」などを選択できます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Wi-Fiを切り、有線接続ならケーブルを外し、社内の手順に従ってください",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "従業員には「怪しいメールを開かない」という注意だけでなく、判断に迷った場合の相談先と報告方法を周知します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "送金先の変更や機密情報の依頼は、既知の連絡手段で再確認する手順を設けると安心です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "フィッシングメールや標的型攻撃メールのように、よく知る組織や相手を装う場合もあるため、差出人名や文章の印象だけを頼りにせず、メール全体を慎重に確認することが大切です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業務の棚卸しで最初の1業務を選び、AIに任せる手順と、人が結果を確かめる方法を設計します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "当社のAI導入支援は、改善する業務を選び、AIに任せる手順と人が確認する条件を設計する支援です",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業務棚卸しで対象と進め方を整理し、導入後の確認・修正の負担も見ながら改善します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "転記・集計と文書・資料作成の両方を対象に、今の手順と確認の負担を整理します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どの業務に使うか、入力してよい情報のルール、人が結果を確認する手順を、業務ごとに設計します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "改善したい1業務を伺い、事前に内容を伺った業務をその場で実演し、進め方を相談します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "レポートと、すぐ試せる1業務の手順",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "文書や小さな自動化の制作、手順と検査の改善",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "対象業務を整理し、AIに任せる手順と、結果を確かめる方法を設計します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "手順を使って貴社のAIへ実装していただきます",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIコンサルの相談前でも、現在の手順と完成の条件を書き出すところから始められます",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "読み手・文書の型・確認担当を先に決められるか",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "合同会社Vaynexisは愛荘町を拠点に、滋賀県内の訪問と全国オンラインで、業務棚卸し・手順と検査の設計・AI顧問を行います",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業務改善は何から？事務の7例と方法の選び分け",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "から、不要な転記の見直し・手順の統一・小さな自動化を比較できます",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "攻撃手法の説明は概念レベルにとどめ、具体的なコマンドやツール名、再現手順は記載していません",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この問いに答えるには、攻撃がどのような手順で進むのかを、技術の専門家でなくても語れる共通の言葉が必要です",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "大量の通信でサービスを止めるDDoS攻撃（分散型サービス妨害攻撃）は可用性の侵害です",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ウイルス、ワーム、トロイの木馬、情報窃取型など多数の型がある",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "現在は「盗んだデータを公開する」と脅す二重恐喝型が主流",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "を0.0〜10.0の数値で表す評価方法です",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "具体的な判断の型は第5章で扱います",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "潜伏型の作戦の一部では、",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "専門家はこれを「環境寄生型（Living off the Land）」と呼びます",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同社は再発防止策として、リモートアクセス用のVPN装置の全面廃止、ゼロトラスト型の端末への移行、ネットワークの分離、専任役員と独立組織の設置などを挙げています",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "行動の型で検知する防御は、攻撃者に",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どれから直すかを決める物差しとして最も広く使われているのがCVSSですが、その使い方には大きな誤解があります",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "特定の組織だけを狙う標的型攻撃は観測データに表れにくい",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "すべての判断の出発点であり、台帳がなければ以降の手順に進めません",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "フレームワーク：ATT&CKの局面 × 防御の機能",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "商談準備なら、相手企業の公開情報、過去の接点、今回の目的を読み、仮説、質問、提案骨子、避けるべき表現まで一枚にまとめます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "第2章 数時間の仕事を渡す技術――完了条件から逆算する",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「調査」ではなく「競合比較レポート」、「会議準備」ではなく「会議ごとの一枚メモ」、「分析」ではなく「異常値一覧と要因仮説」です",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "長い依頼では、途中経過より検証工程が大切です",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "使った資料、実施した処理、除外した情報、未確認事項、生成したファイル、検証結果があれば、翌週の再利用や担当者への引き継ぎが容易になります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "DEFAULTS = [\"proposal.md\", \"estimate.csv\", \"evidence.txt\"]",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、長い仕事を一つの巨大な指示に詰め込むより、調査、構造化、執筆、検証の区切りごとにファイルを残すと、途中から再開しやすくなります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実務で使いやすい依頼票は、目的、背景、入力場所、対象外、成果物、完了条件、既定方針、停止条件、検証、人の承認という十欄です",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし失敗を見つけるたびに規則を増やすと、矛盾して読みにくくなります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "経営数値は「前年比・前月比・要因仮説」の順で読みます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "仮説には裏づけに必要な追加データを添えます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "良い調査は知識を増やすだけでなく、次に変える商品、営業資料、検証指標までつながります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「高」は一次資料で複数確認、「中」は一次資料一件または信頼できる二次資料、「低」は状況証拠からの仮説、といった基準です",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "代替候補を整理したら、「どんな変化が起きると選択が移るか」を仮説にします",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "仮説は、顧客データや小規模な検証で確かめます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "利用者がどの程度困っているか、改善にどれほど価値を感じるかを検証してから開発判断を行います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、データの集め方や価格以外の要因によって、推定結果が変わることがあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、システム間で在庫数や価格の反映が遅れると、注文後の欠品や説明の食い違いが起こります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "開発前には市場の需要や顧客の課題を調べ、開発中には価値の仮説や販売方法を具体化します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "調査結果は、事実、解釈、仮説を分けて整理します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「複数の顧客が同じ操作で迷った」は観察された事実であり、「操作手順が原因で利用が止まっている」は解釈や仮説を含みます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どの顧客層の、どの利用場面から得られた情報なのかを記録し、別の情報源と照合することが有効です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "対象を広げすぎると訴求がぼやけるため、まず優先する顧客層を仮説として定め、反応を見ながら更新します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "現状の数字や顧客の声、営業プロセスを確認し、最も大きな障害がどこにあるかを仮説として整理します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "市場調査の結果と利用データに食い違いがある場合は、どちらかをすぐ正解とせず、対象顧客や調査方法の違いを検討します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "施策を実行した後は、結果を関係者と振り返り、仮説を更新します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "定量情報と定性情報を組み合わせ、仮説と事実を区別しながら次の調査や施策を決める姿勢が求められます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客の声を歓迎しつつ、対象や背景、頻度、代替手段を記録し、データや追加調査で仮説を検証します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "の実演で、入力、指示、想定出力、照合する箇所を公開しています",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "6行の明細で見る：入力・指示・照合までの詳しい実演",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "計算や重複検出は、表計算などで照合できる形にします",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "確認箇所が分かる集計表、実行手順、照合の記録",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上の設計例とは別に行った社内検証では、架空データ15行を実際に処理し、重複候補や要確認箇所、不具合の修正・再検査を記録しています",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ルールベースのPythonによる検証で、お客様の導入成果や時間削減の実測ではありません",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "送る前・配る前に、人が元の情報と照合します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "下書きはAIに任せ、送る前・配る前に人が元の情報と照合します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "当社は自社の教材20冊、2,045頁をこの方法で作り、引用の原文照合4,055件と検証用スクリプト195本で確かめてきました",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "手順の抜け、用語のぶれ、実際の画面との食い違い",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ルール同士の矛盾、例外の扱いの漏れ",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "回答の根拠の実在、回答同士の矛盾",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "で、原資料との照合方法を紹介しています",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "生成は生成用の手順で行い、検査は別の検査手順と機械の照合で行い、何をどう確かめて何を直したかを検査記録に残します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "前者は事実で、後者は推定だからです",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "為替リスクをふまえた取り崩し戦略を検証した記事です",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「入力値の検証漏れ」「認証の欠落」のように、個々の欠陥がどのような設計・実装上の誤りから生じたかを体系化しています",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "持ち込んだファイルがなければ、ウイルス対策ソフトが照合する「既知の悪性ファイル」も存在しません",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "KEV未掲載、EPSSの推定確率は低い",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "第一に、発生確率5%は仮定にすぎず、実務では「2〜10%」のような範囲で推定し、その幅ごと議論すべきです",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "16の重要インフラ分野の事業体（当初案で約30万社と推計）",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "施行後も、運用の中で検証されるべき問題が残っています",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "SCS評価制度のような取引を通じた仕組みが、このずれをどこまで埋められるかは、今後の検証課題です",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "関連：科学（エネルギー・CO2の推計）",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本稿は5つの事例から、副作用がなぜ見過ごされるのかを検証します",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIによる効率化を期待した現場では、変更への対応や、セキュリティへの対応に工数が割かれ、期待したほど楽になっていないという見方があります（後述のとおり、総量を示す数字はまだなく、これらの事実と整合する仮説です）",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Radicati Groupの推計では、世界のメールは1日あたり約3,760億通に達します",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "別のAIエージェント基盤Cairnを使った攻撃では、推計AI利用費が侵入成功1件あたり約50ドル（Reuters、2026年",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "攻撃の総費用ではなく、推計誤差が大きい）",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Rao and Reiley（2012）は、スパムが米国の企業と消費者に課す費用を年間約200億ドル、スパマーの世界の収入を約2億ドルと推計しました",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
+   {
+    "quote": "保存された結果は追跡ファイルで、どの指示が届き、どの順に道具が呼ばれたかはVS CodeのAgent Debug Logで確かめます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ケーススタディ：1セッションで、いつ何が読み書きされるか",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "後者であれば、指示の書き方をいくら工夫しても結果は変わりません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この結果、RPIの入口は3つになりました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サブエージェントは結果を会話で返すだけで、記録は親が書く",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4. ケーススタディ：1セッションで、いつ何が読み書きされるか",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "司令塔は行き先を書いてから段階を起動し、遷移直後に結果を書く",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "レンズの結果が届くたびに、その行の状態を更新し、確かめた指摘（",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "など）を加え、次の結果に進む前に記録を保存します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サブエージェントを使う場合、別々のファイルを変更する独立したタスクは並列に、同じファイルや依存関係のある作業は順番に進め、結果は親が確かめてからチェックを付けます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ファイルに残るのは保存された結果だけである",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、その順序を守るのはモデルであり、結果はファイルで、過程はデバッグログで確かめる",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "材料がファイルやWebに存在する、完成形を言葉で定義できる、途中の判断に標準的な基準を置ける、結果を人が検査できる、という四点です",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
@@ -1097,6 +451,30 @@
   ],
   "失敗・落とし穴": [
    {
+    "quote": "この書き込みに失敗したら、遷移しない",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "失敗したら作業を始めずに止まり、記録できなかったことを報告する",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "6. 限界と注意点",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
     "quote": "最初に試す仕事は、売上への影響が大きい一方で、誤りを発見しやすいものが適しています",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
@@ -1457,7 +835,471 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "手順・やり方": [
+   {
+    "quote": "本稿は、MicrosoftのオープンソースフレームワークHVE Core（Hypervelocity Engineering Core）を対象に、",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "HVE Coreの考え方（RPIという工程の分け方、なぜ調査中に実装させないのか、組織への導入手順）は、前回の記事「",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本稿はその続編で、方法論の「なぜ」ではなく、仕組みの「どう動くか」を扱います",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実践への落とし込み：入口の選び方・調査の手順・チェックリスト",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（Research：調査、Plan：計画、Implement：実装、Review：レビューを分けて進める開発手順）の1セッションです",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "エージェントやスキルが、手順の途中で別のスキルを名前で呼び出すこと",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "スキルは仕事の手順に結びつくので、その手順を実行する主体に確実に届けられます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "スキルの本文には、各段階のスキルを「その手順を再現するのではなく、起動せよ」と書かれています",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Parnas（1972）は、モジュールの分け方を処理の手順ではなく「変わりやすい設計判断を一つずつ隠す」ことで決めるべきだと論じました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "逆に、セッションの進め方が変わっても、計画スキルは自分の記録の作り方を変える必要がありません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4-2. 処理の順序：10のステップ",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "S2 モードの決定：4つの進め方",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "依頼文からも既存の状態からも進め方が決まらないとき、司令塔は「どのように進めますか」と尋ね、次の4つの選択肢を示します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "の実装を再開して」と頼むと、S1の手順が働きます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "5. 実践への落とし込み：入口の選び方・調査の手順・チェックリスト",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "品質が安定したら、定型の比較やファイル生成まで範囲を広げます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "任せる範囲を広げる判断基準は、三回続けて同じ品質が出たか、修正箇所が予測できるか、誤りを検出する方法があるかです",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実行方法：python codes/code01_workspace.py",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「放置」は管理を捨てる意味ではなく、事前に管理方法を組み込むことです",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実行方法：python codes/code02_acceptance_check.py --create-demo",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定型業務ではテンプレートを複製し、日付、対象、今回だけの注意点を変えます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "反対に、毎回例外だらけで検査方法もない仕事は、無理に自動化せず、資料整理や論点抽出だけを任せます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "反対に、初回は時間が増えても、テンプレートと検査方法が残り、二回目から大幅に短くなる業務には継続価値があります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個人共通の設定には、役職、重視する指標、文章の好み、判断の型を置きます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複雑な仕事は、最初に計画を出して対象、手順、成果物を確認してから実行します",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実行方法：python codes/code03_inventory.py --demo",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これを「権限テスト」「品質テスト」「保存テスト」に分け、結果を残せば、幹部へ展開するときの標準手順になります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実行方法：python codes/code04_competitor_compare.py --demo",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スパムメールの意味や種類、見分けるポイント、届いたとき・被害が疑われるときの手順を知り、落ち着いて対処できるようにしましょう",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「期限までに支払わなければ法的措置を取る」などの強い表現で、不安や焦りを起こさせるのが典型的です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方、標的型攻撃メールは、特定の組織や個人から情報を盗むなどの目的で送られます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "攻撃者が相手の部署や取引関係を調べ、業務に関係する話題を使うこともあるため、定型的な迷惑メールより判断が難しい場合があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特に注意したいのは、送金先の変更、パスワードの共有、秘密情報の送付、緊急のファイル確認など、通常の手順を省略させようとする依頼です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "金銭や機密情報が関係する操作は、メールだけで完結させず、社内の承認手順や複数人での確認を徹底しましょう",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文字列を自動生成し、実在するアドレスに届くか試す方法もあるためです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "事業者の問い合わせ先など、業務上必要なアドレスをウェブ上に掲載する場合は、個人用のアドレスと分け、受信フィルターを設定する方法があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "パソコンではクリック前にリンク先のアドレスを確認できる場合がありますが、スマートフォンでは確認方法が異なることもあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "悪質なサイトに誘導されるおそれがあるため、迷惑メールの報告機能を使ってから削除する方法が基本です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アプリやサービスによって操作方法は異なりますが、通常はメールのメニューから「迷惑メールとして報告」などを選択できます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Wi-Fiを切り、有線接続ならケーブルを外し、社内の手順に従ってください",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "従業員には「怪しいメールを開かない」という注意だけでなく、判断に迷った場合の相談先と報告方法を周知します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "送金先の変更や機密情報の依頼は、既知の連絡手段で再確認する手順を設けると安心です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "フィッシングメールや標的型攻撃メールのように、よく知る組織や相手を装う場合もあるため、差出人名や文章の印象だけを頼りにせず、メール全体を慎重に確認することが大切です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業務の棚卸しで最初の1業務を選び、AIに任せる手順と、人が結果を確かめる方法を設計します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "当社のAI導入支援は、改善する業務を選び、AIに任せる手順と人が確認する条件を設計する支援です",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業務棚卸しで対象と進め方を整理し、導入後の確認・修正の負担も見ながら改善します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "転記・集計と文書・資料作成の両方を対象に、今の手順と確認の負担を整理します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どの業務に使うか、入力してよい情報のルール、人が結果を確認する手順を、業務ごとに設計します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "改善したい1業務を伺い、事前に内容を伺った業務をその場で実演し、進め方を相談します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "レポートと、すぐ試せる1業務の手順",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文書や小さな自動化の制作、手順と検査の改善",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "対象業務を整理し、AIに任せる手順と、結果を確かめる方法を設計します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順を使って貴社のAIへ実装していただきます",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIコンサルの相談前でも、現在の手順と完成の条件を書き出すところから始められます",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み手・文書の型・確認担当を先に決められるか",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合同会社Vaynexisは愛荘町を拠点に、滋賀県内の訪問と全国オンラインで、業務棚卸し・手順と検査の設計・AI顧問を行います",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業務改善は何から？事務の7例と方法の選び分け",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "から、不要な転記の見直し・手順の統一・小さな自動化を比較できます",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "攻撃手法の説明は概念レベルにとどめ、具体的なコマンドやツール名、再現手順は記載していません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この問いに答えるには、攻撃がどのような手順で進むのかを、技術の専門家でなくても語れる共通の言葉が必要です",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "大量の通信でサービスを止めるDDoS攻撃（分散型サービス妨害攻撃）は可用性の侵害です",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ウイルス、ワーム、トロイの木馬、情報窃取型など多数の型がある",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "現在は「盗んだデータを公開する」と脅す二重恐喝型が主流",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "を0.0〜10.0の数値で表す評価方法です",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "具体的な判断の型は第5章で扱います",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "潜伏型の作戦の一部では、",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "専門家はこれを「環境寄生型（Living off the Land）」と呼びます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同社は再発防止策として、リモートアクセス用のVPN装置の全面廃止、ゼロトラスト型の端末への移行、ネットワークの分離、専任役員と独立組織の設置などを挙げています",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "行動の型で検知する防御は、攻撃者に",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どれから直すかを決める物差しとして最も広く使われているのがCVSSですが、その使い方には大きな誤解があります",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特定の組織だけを狙う標的型攻撃は観測データに表れにくい",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "すべての判断の出発点であり、台帳がなければ以降の手順に進めません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "フレームワーク：ATT&CKの局面 × 防御の機能",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "一次情報の探し方": [
+   {
+    "quote": "Acrobatで横向きにスキャンされたPDFを回転して保存す",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "採用した版（タグまたはコミット）と導入日を記録した",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "この周辺作業をまとめて委任できれば、社長は顧客との対話、採用、事業の方向づけ、最終判断といった、本人にしかできない仕事へ時間を戻せます",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
@@ -1812,38 +1654,550 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "段階ごとに1つのスキルが、自分の記録ファイル、判断、検証、合格条件を受け持つ",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "復旧時には、保存された「意図」と実際にある記録ファイルを突き合わせます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "、記録ファイルの有無と中身を照合すれば、どこまで進んだかを判断できる構造です",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "再開時は active_phase・next_action・記録の有無を照合し、最後の書き込みがないだけで起動をやり直さない",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "S7 レビュー：記録を照合し、判定と行き先を決める",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "と、判断への関与の仕方（利用者かAIか）を「Parent Decision Record」節に書いてから、照合に入ります",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "照合を進めながら、受け入れ基準と変更の対応状況を、指摘（",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "司令塔はレビュー記録と、引き継いだ未解決の作業、受け入れ基準を突き合わせ、各項目を「範囲内で必須」「任意の改善」「範囲外」に分類します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "※1 再開時に、状態と記録を突き合わせるため",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "指摘の処置は計画スキルが計画の「Critique Disposition」節に書く ※4 計画の参照欄からたどる場合 ※5 計画ファイルの「Critique Disposition」節を通じて読む ※6 レビューを省略した場合に、変更記録・検証・計画の後続項目で代える ※7 子ループでは批評とレビューが既定で省略される",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中身を複製しないので、記録が書き換わっても状態ファイルとの食い違いが起きにくくなります",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "、記録の有無）と変更記録の状態を照合し、復旧した状態を保存してから、意図されていたレビューへ進みます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "どちらの場合も、記録がないことだけを理由に結論を出さず、3つを突き合わせます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データベースは、データを書き換える前に「これから何をするか」をログに書き、障害の後はログと実際のデータを突き合わせて、途中で止まった処理を完了させるか取り消します（Mohan et al., 1992）",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "商談準備なら、相手企業の公開情報、過去の接点、今回の目的を読み、仮説、質問、提案骨子、避けるべき表現まで一枚にまとめます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "第2章 数時間の仕事を渡す技術――完了条件から逆算する",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「調査」ではなく「競合比較レポート」、「会議準備」ではなく「会議ごとの一枚メモ」、「分析」ではなく「異常値一覧と要因仮説」です",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "長い依頼では、途中経過より検証工程が大切です",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "使った資料、実施した処理、除外した情報、未確認事項、生成したファイル、検証結果があれば、翌週の再利用や担当者への引き継ぎが容易になります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "DEFAULTS = [\"proposal.md\", \"estimate.csv\", \"evidence.txt\"]",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、長い仕事を一つの巨大な指示に詰め込むより、調査、構造化、執筆、検証の区切りごとにファイルを残すと、途中から再開しやすくなります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実務で使いやすい依頼票は、目的、背景、入力場所、対象外、成果物、完了条件、既定方針、停止条件、検証、人の承認という十欄です",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし失敗を見つけるたびに規則を増やすと、矛盾して読みにくくなります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "経営数値は「前年比・前月比・要因仮説」の順で読みます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説には裏づけに必要な追加データを添えます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "良い調査は知識を増やすだけでなく、次に変える商品、営業資料、検証指標までつながります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「高」は一次資料で複数確認、「中」は一次資料一件または信頼できる二次資料、「低」は状況証拠からの仮説、といった基準です",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "代替候補を整理したら、「どんな変化が起きると選択が移るか」を仮説にします",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説は、顧客データや小規模な検証で確かめます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "利用者がどの程度困っているか、改善にどれほど価値を感じるかを検証してから開発判断を行います",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、データの集め方や価格以外の要因によって、推定結果が変わることがあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、システム間で在庫数や価格の反映が遅れると、注文後の欠品や説明の食い違いが起こります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "開発前には市場の需要や顧客の課題を調べ、開発中には価値の仮説や販売方法を具体化します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "調査結果は、事実、解釈、仮説を分けて整理します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「複数の顧客が同じ操作で迷った」は観察された事実であり、「操作手順が原因で利用が止まっている」は解釈や仮説を含みます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どの顧客層の、どの利用場面から得られた情報なのかを記録し、別の情報源と照合することが有効です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "対象を広げすぎると訴求がぼやけるため、まず優先する顧客層を仮説として定め、反応を見ながら更新します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "現状の数字や顧客の声、営業プロセスを確認し、最も大きな障害がどこにあるかを仮説として整理します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "市場調査の結果と利用データに食い違いがある場合は、どちらかをすぐ正解とせず、対象顧客や調査方法の違いを検討します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "施策を実行した後は、結果を関係者と振り返り、仮説を更新します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定量情報と定性情報を組み合わせ、仮説と事実を区別しながら次の調査や施策を決める姿勢が求められます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "顧客の声を歓迎しつつ、対象や背景、頻度、代替手段を記録し、データや追加調査で仮説を検証します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "の実演で、入力、指示、想定出力、照合する箇所を公開しています",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "6行の明細で見る：入力・指示・照合までの詳しい実演",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "計算や重複検出は、表計算などで照合できる形にします",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "確認箇所が分かる集計表、実行手順、照合の記録",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上の設計例とは別に行った社内検証では、架空データ15行を実際に処理し、重複候補や要確認箇所、不具合の修正・再検査を記録しています",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ルールベースのPythonによる検証で、お客様の導入成果や時間削減の実測ではありません",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "送る前・配る前に、人が元の情報と照合します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "下書きはAIに任せ、送る前・配る前に人が元の情報と照合します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "当社は自社の教材20冊、2,045頁をこの方法で作り、引用の原文照合4,055件と検証用スクリプト195本で確かめてきました",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順の抜け、用語のぶれ、実際の画面との食い違い",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ルール同士の矛盾、例外の扱いの漏れ",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "回答の根拠の実在、回答同士の矛盾",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "で、原資料との照合方法を紹介しています",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成は生成用の手順で行い、検査は別の検査手順と機械の照合で行い、何をどう確かめて何を直したかを検査記録に残します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "前者は事実で、後者は推定だからです",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "為替リスクをふまえた取り崩し戦略を検証した記事です",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「入力値の検証漏れ」「認証の欠落」のように、個々の欠陥がどのような設計・実装上の誤りから生じたかを体系化しています",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "持ち込んだファイルがなければ、ウイルス対策ソフトが照合する「既知の悪性ファイル」も存在しません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "KEV未掲載、EPSSの推定確率は低い",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "第一に、発生確率5%は仮定にすぎず、実務では「2〜10%」のような範囲で推定し、その幅ごと議論すべきです",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "16の重要インフラ分野の事業体（当初案で約30万社と推計）",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "施行後も、運用の中で検証されるべき問題が残っています",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SCS評価制度のような取引を通じた仕組みが、このずれをどこまで埋められるかは、今後の検証課題です",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "関連：科学（エネルギー・CO2の推計）",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本稿は5つの事例から、副作用がなぜ見過ごされるのかを検証します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIによる効率化を期待した現場では、変更への対応や、セキュリティへの対応に工数が割かれ、期待したほど楽になっていないという見方があります（後述のとおり、総量を示す数字はまだなく、これらの事実と整合する仮説です）",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Radicati Groupの推計では、世界のメールは1日あたり約3,760億通に達します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "別のAIエージェント基盤Cairnを使った攻撃では、推計AI利用費が侵入成功1件あたり約50ドル（Reuters、2026年",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "攻撃の総費用ではなく、推計誤差が大きい）",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Rao and Reiley（2012）は、スパムが米国の企業と消費者に課す費用を年間約200億ドル、スパマーの世界の収入を約2億ドルと推計しました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.datafromfile.com/blog/verify-ai-extracted-data-checklist",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.komos.studio/blog/check-ai-pdf-table-extraction",
+    "url": "https://note.com/jack4manastalk/n/n2fea75b14200",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.gentables.com/tools/pdf-table-extractor",
+    "url": "https://vaynexis.jp/ai",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pdfsdoctor.com/blog/how-to-extract-tables-from-pdf-files-for-data-analysis",
+    "url": "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.gentables.com/tools/validate-ocr-results",
+    "url": "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.eternalstudent.jp/category/IT",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae9a37b7/20250619_resources_standard_guidelines_guideline_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=46961",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2d9df6c5/20220509_resources_standard_guidelines_guideline_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gakko.re-career.net/tottori.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aethovpn.com/en/blog/ai-tools/extract-tables-from-pdfs-with-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/@kramermark/i-tested-12-best-in-class-pdf-table-extraction-tools-and-the-results-were-appalling-f8a9991d972e",
+    "status": "http_403",
     "method": "http"
    },
    {
     "url": "https://www.stackai.com/insights/how-to-extract-tables-from-pdfs-best-strategies-for-accurate-pdf-table-parsing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantmemo.com/concepts/table-extraction-from-financial-pdfs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.safe.com/hc/en-us/articles/25407564475277-Extracting-Text-and-Tabular-Data-from-PDF",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://crimebythenumbers.com/scrape-table.html",
     "status": "ok",
     "method": "http"
    }
@@ -1852,49 +2206,102 @@
  "search_log": [
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "https://note.com/jack4manastalk/n/n2fea75b14200"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "https://note.com/jack4manastalk/n/n2fea75b14200",
+    "https://vaynexis.jp/ai",
+    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
+    "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
+    "https://www.eternalstudent.jp/category/IT",
+    "https://accclip.marimokikakugk.com/articles/",
+    "https://gakko.re-career.net/tottori.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae9a37b7/20250619_resources_standard_guidelines_guideline_05.pdf",
+    "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "https://catalog.monex.co.jp/article/?p=46961",
+    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
+    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "https://vaynexis.jp/ai",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2d9df6c5/20220509_resources_standard_guidelines_guideline_05.pdf",
+    "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
+    "https://gakko.re-career.net/tottori.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 事例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae9a37b7/20250619_resources_standard_guidelines_guideline_05.pdf",
+    "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "https://catalog.monex.co.jp/article/?p=46961",
+    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2d9df6c5/20220509_resources_standard_guidelines_guideline_05.pdf",
+    "https://vaynexis.jp/ai",
+    "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
+    "https://gakko.re-career.net/tottori.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
   },
   {
    "query": "verify PDF table extraction errors footnote units row column journalist data checking",
    "results": [
-    "https://www.datafromfile.com/blog/verify-ai-extracted-data-checklist",
-    "https://www.komos.studio/blog/check-ai-pdf-table-extraction",
-    "https://www.gentables.com/tools/pdf-table-extractor",
-    "https://pdfsdoctor.com/blog/how-to-extract-tables-from-pdf-files-for-data-analysis",
-    "https://www.gentables.com/tools/validate-ocr-results",
+    "https://www.aethovpn.com/en/blog/ai-tools/extract-tables-from-pdfs-with-ai",
+    "https://medium.com/@kramermark/i-tested-12-best-in-class-pdf-table-extraction-tools-and-the-results-were-appalling-f8a9991d972e",
     "https://www.stackai.com/insights/how-to-extract-tables-from-pdfs-best-strategies-for-accurate-pdf-table-parsing",
-    "https://notebooklm-guide.com/notebooklm-table-parser/"
+    "https://quantmemo.com/concepts/table-extraction-from-financial-pdfs",
+    "https://support.safe.com/hc/en-us/articles/25407564475277-Extracting-Text-and-Tabular-Data-from-PDF",
+    "https://crimebythenumbers.com/scrape-table.html",
+    "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "https://www.atlasworkspace.ai/blog/extract-data-from-pdf-ai",
+    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-05",
+    "https://www.gentables.com/tools/pdf-table-extractor"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "https://note.com/jack4manastalk/n/n2fea75b14200"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
   },
   {
    "query": "site:x.com PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活",
@@ -1916,35 +2323,368 @@
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
+    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
+    "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
+    "https://www.eternalstudent.jp/category/IT",
+    "https://ai-news.iru-yo.com/topic/ai-community/",
+    "http://www5d.biglobe.ne.jp/~kanyo/kanyo_HP/M001_04nikki4.html",
+    "https://www.asyura2.com/acpn/k/kn/kns/kNSCqYLU/100000.html",
+    "https://gnews.jp/201104"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
+    "https://catalog.monex.co.jp/article/?p=46961",
+    "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
+    "https://vaynexis.jp/ai",
+    "https://www.eternalstudent.jp/category/IT",
+    "https://accclip.marimokikakugk.com/articles/",
+    "https://ai-news.iru-yo.com/topic/ai-community/",
+    "http://www5d.biglobe.ne.jp/~kanyo/kanyo_HP/M001_04nikki4.html",
+    "https://gnews.jp/201104"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
   },
   {
    "query": "verify PDF table extraction errors footnote units row column journalist data checking site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/company/numantra-technologies-inc",
+    "https://uk.linkedin.com/in/rishabh-data-analytics",
     "https://www.linkedin.com/posts/activity-7426681743472041984-COn4",
     "https://www.linkedin.com/pulse/automate-table-data-extraction-from-pdf-reports-2026-guide-lidoapp-htdhc/",
-    "https://www.linkedin.com/advice/3/what-some-tips-tricks-troubleshooting-pdf-data",
     "https://www.linkedin.com/pulse/pdf-table-extraction-comprehensive-guide-2026-lidoapp-wbvmc?tl=en",
-    "https://www.linkedin.com/advice/3/what-some-common-challenges-pitfalls-pdf-data",
+    "https://www.linkedin.com/advice/3/what-some-tips-tricks-troubleshooting-pdf-data",
     "https://www.linkedin.com/top-content/engineering/data-analysis-techniques-for-engineers/how-to-reconstruct-pdf-table-data/",
-    "https://www.linkedin.com/pulse/table-extraction-production-what-nobody-tells-you-sáez-ibáñez-e0gne"
+    "https://www.linkedin.com/advice/3/what-some-common-challenges-pitfalls-pdf-data",
+    "https://www.linkedin.com/pulse/extract-pdf-tables-perfect-spreadsheets-ai-3-proven-prompts-sareen-d2jrc"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 5,
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "保存された結果は追跡ファイルで、どの指示が届き、どの順に道具が呼ばれたかはVS CodeのAgent Debug Logで確かめます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ケーススタディ：1セッションで、いつ何が読み書きされるか",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "後者であれば、指示の書き方をいくら工夫しても結果は変わりません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この結果、RPIの入口は3つになりました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サブエージェントは結果を会話で返すだけで、記録は親が書く",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4. ケーススタディ：1セッションで、いつ何が読み書きされるか",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "司令塔は行き先を書いてから段階を起動し、遷移直後に結果を書く",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "レンズの結果が届くたびに、その行の状態を更新し、確かめた指摘（",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "など）を加え、次の結果に進む前に記録を保存します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サブエージェントを使う場合、別々のファイルを変更する独立したタスクは並列に、同じファイルや依存関係のある作業は順番に進め、結果は親が確かめてからチェックを付けます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ファイルに残るのは保存された結果だけである",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、その順序を守るのはモデルであり、結果はファイルで、過程はデバッグログで確かめる",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "この書き込みに失敗したら、遷移しない",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "失敗したら作業を始めずに止まり、記録できなかったことを報告する",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "6. 限界と注意点",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "本稿は、MicrosoftのオープンソースフレームワークHVE Core（Hypervelocity Engineering Core）を対象に、",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "HVE Coreの考え方（RPIという工程の分け方、なぜ調査中に実装させないのか、組織への導入手順）は、前回の記事「",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本稿はその続編で、方法論の「なぜ」ではなく、仕組みの「どう動くか」を扱います",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実践への落とし込み：入口の選び方・調査の手順・チェックリスト",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（Research：調査、Plan：計画、Implement：実装、Review：レビューを分けて進める開発手順）の1セッションです",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "エージェントやスキルが、手順の途中で別のスキルを名前で呼び出すこと",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "スキルは仕事の手順に結びつくので、その手順を実行する主体に確実に届けられます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "スキルの本文には、各段階のスキルを「その手順を再現するのではなく、起動せよ」と書かれています",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Parnas（1972）は、モジュールの分け方を処理の手順ではなく「変わりやすい設計判断を一つずつ隠す」ことで決めるべきだと論じました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "逆に、セッションの進め方が変わっても、計画スキルは自分の記録の作り方を変える必要がありません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4-2. 処理の順序：10のステップ",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "S2 モードの決定：4つの進め方",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "依頼文からも既存の状態からも進め方が決まらないとき、司令塔は「どのように進めますか」と尋ね、次の4つの選択肢を示します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "の実装を再開して」と頼むと、S1の手順が働きます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "5. 実践への落とし込み：入口の選び方・調査の手順・チェックリスト",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Acrobatで横向きにスキャンされたPDFを回転して保存す",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "採用した版（タグまたはコミット）と導入日を記録した",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "段階ごとに1つのスキルが、自分の記録ファイル、判断、検証、合格条件を受け持つ",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "復旧時には、保存された「意図」と実際にある記録ファイルを突き合わせます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "、記録ファイルの有無と中身を照合すれば、どこまで進んだかを判断できる構造です",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "再開時は active_phase・next_action・記録の有無を照合し、最後の書き込みがないだけで起動をやり直さない",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検証の結果は、変更記録に「成功・失敗・省略・実施不能」のいずれかと理由で記録します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "S7 レビュー：記録を照合し、判定と行き先を決める",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "と、判断への関与の仕方（利用者かAIか）を「Parent Decision Record」節に書いてから、照合に入ります",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "照合を進めながら、受け入れ基準と変更の対応状況を、指摘（",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "司令塔はレビュー記録と、引き継いだ未解決の作業、受け入れ基準を突き合わせ、各項目を「範囲内で必須」「任意の改善」「範囲外」に分類します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "※1 再開時に、状態と記録を突き合わせるため",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "指摘の処置は計画スキルが計画の「Critique Disposition」節に書く ※4 計画の参照欄からたどる場合 ※5 計画ファイルの「Critique Disposition」節を通じて読む ※6 レビューを省略した場合に、変更記録・検証・計画の後続項目で代える ※7 子ループでは批評とレビューが既定で省略される",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中身を複製しないので、記録が書き換わっても状態ファイルとの食い違いが起きにくくなります",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "、記録の有無）と変更記録の状態を照合し、復旧した状態を保存してから、意図されていたレビューへ進みます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "どちらの場合も、記録がないことだけを理由に結論を出さず、3つを突き合わせます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データベースは、データを書き換える前に「これから何をするか」をログに書き、障害の後はログと実際のデータを突き合わせて、途中で止まった処理を完了させるか取り消します（Mohan et al., 1992）",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 6,
  "first_researched_at": "2026-11-07T13:58:12.370568+00:00"
 }
