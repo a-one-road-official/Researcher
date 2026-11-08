@@ -3213,6 +3213,44 @@ def scan(topic):
                *(f"  - {n[:36]}（{y}年・{c}件）：{lo:,.0f}／{md_:,.0f}／{hi:,.0f}万円" for n, y, lo, md_, hi, c in _sc3[:6]),
                ""]
     except Exception: pass
+    # 2026-11-09 4-116（Quartz「The Quartz guide to bad data」：手で測れない細かさの数字は計測でなく誰かの推計を疑う。
+    # nhimg「Structured Analytic Techniques for CTI」：結論が1つの証拠に寄るなら、それが覆ったら見直す合図を置く）。
+    # ①一次でない出典の数字で、小数点以下3桁以上か、有効数字7桁以上のもの＝見せかけの精度（記事が推計を計測のように書いた疑い）
+    # ②品目×区分で、値の件数が3件以上あり、1つの出典（ドメイン）が半分超を占める欄＝1つの出典への寄り（要の証拠）。
+    #   寄った出典を抜いた残りの中央値と、全部の中央値を並べる（抜いて変わる欄は、その出典が覆ったら見直す）【推定】
+    try:
+        def _sig(s):
+            s = re.sub(r"[^\d.]", "", s or "")
+            if not s or s.count(".") > 1: return 0, 0
+            ip, _, dp = s.partition(".")
+            return len(dp), len((ip + dp).lstrip("0").rstrip("0") if not dp else (ip + dp).lstrip("0"))
+        _fp = []
+        for r in rows:
+            if r.get("一次") == "一次": continue
+            d, n = _sig(r.get("原文の数字", ""))
+            if d >= 3 or n >= 7: _fp.append(r)
+        _cc = {}
+        for r in rows:
+            try: v = float(r["値"])
+            except Exception: continue
+            _cc.setdefault((r["品目"], r["区分"], r["単位"]), []).append((r["出典"], v))
+        _lp = []
+        for (n, k, u), lst in _cc.items():
+            if len(lst) < 3: continue
+            cnt = {}
+            for s, _ in lst: cnt[s] = cnt.get(s, 0) + 1
+            s0, c0 = max(cnt.items(), key=lambda x: x[1])
+            if c0 * 2 <= len(lst) or len(cnt) < 2: continue
+            rest = [v for s, v in lst if s != s0]
+            _lp.append((n, k, u, s0, c0, len(lst), statistics.median([v for _, v in lst]), statistics.median(rest)))
+        _lp.sort(key=lambda t: -t[5])
+        md += ["## 見せかけの精度と1つの出典への寄り（4-116・機械）",
+               f"- 一次でない出典の数字で、小数点以下3桁以上か有効数字7桁以上のもの：{len(_fp)}件。計測でなく推計を細かく書いた疑いとして確度を1段下げ、一次で取り直すまで向きに使わない",
+               *(f"  - {r['品目'][:30]}／{r['原文の数字'][:24]}（{r['出典']}）" for r in _fp[:5]),
+               f"- 値が3件以上の欄で、1つの出典が半分超を占める欄：{len(_lp)}欄。その出典を抜いた中央値と並べる。大きく変わる欄は、その出典が覆ったら見直す（4-116）【推定】",
+               *(f"  - {n[:30]}／{k}：{s0} が {c0}／{t}件・全部の中央値 {m1:,.4g}{u}／抜いた残り {m2:,.4g}{u}" for n, k, u, s0, c0, t, m1, m2 in _lp[:6]),
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
