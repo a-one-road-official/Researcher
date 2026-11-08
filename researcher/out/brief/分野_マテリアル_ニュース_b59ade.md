@@ -336,9 +336,10 @@
   - ［SNS］2026-11-07「テレ東BIZ on X: " レアメタル を“都市鉱山”から自動発掘 ... テレ東BIZ on X: " レアメタル を“都市鉱山”から自動発掘 ... X https://x.com > @txbiz_ondemand」https://x.com/txbiz_ondemand/status/2012736707972718723
   - ［SNS］2026-11-04「橘 龍馬 on X: " ”都市鉱山”関連銘柄 貴金属回収×Eスクラップ ... 橘 龍馬 on X: " ”都市鉱山”関連銘柄 貴金属回収×Eスクラップ ... X https://x.com > @t_ryoma1985」https://x.com/t_ryoma1985/status/1998664755880599803
 ### 業界ニュース（毎日）｜マテリアルズインフォマティクス（materials informatics）
-- 取得：2026-11-07T04:00・調査4回目・読んだ頁46
-- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（79件）：
+- 取得：2026-11-08T04:24・調査5回目・読んだ頁47
+- 痛み・損（深さの印）（1件）：
+  - ［記事］2026-11-08「【2026年11月最新】離職票は再発行できる？手続きの流れ・必要書類・期限を社労士事務所の顧問先対応の目線で整理し、離職手続きの事務作業をAIに任せる方法」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/
+- 顧客（金を払う側）（80件）：
   - ［一次］2026-11-06「3. 素材メーカーにおける今後の取組方向性 16」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 これに対し、MIを活用すれば、開発に必要なリソースが抑えられ、ベンチャー企業等にとって参入余地が広がる可能性があります」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 しかしながら、現段階では、実際のMI導入に際し、①データ基盤の不足、②データ解析技術の向上、③データ人材の不在、等の課題」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
@@ -350,67 +351,67 @@
   - ［一次］2026-11-04「 平成31年度概要40.3億円を要求中」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-04「 中期経営計画(19～21年度)で材料構造･要求特性の機械学習化･評価シミュレーショ」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［記事］2026-11-07「シャープが将来目指すのは、資源制約が小さく、安全性や耐久性にも優れた次世代電池材料の実現を通じ、脱炭素社会とサーキュラーエコノミーに貢献することだ」https://monoist.itmedia.co.jp/mn/articles/2610/30/news029.html
-- 顧客の競合（奪いに来る側）（43件）：
+- 顧客の競合（奪いに来る側）（47件）：
   - ［一次］2026-11-06「2.xD／3D実装における当社製品ラインアップとシェア」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「世界シェア1位」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「世界シェア1位 世界シェア2位」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「世界シェア2位 世界シェア2位」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「金属切削工具市場規模、シェア |成長レポート [2030] (fortunebusinessinsights.com)」https://www.kobelco.co.jp/ir/presentation/pdf/250929_ir_sustainabilityday02.pdf
-- 自社の競合（商社・代理店・仲介）（10件）：
+- 自社の競合（商社・代理店・仲介）（11件）：
   - ［一次］2026-11-06「して、 売上高1.6兆円以上、 EBITDAマージン20%以上という規模」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「EBITDAマージン （％） 14.3 20」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「マージン20％以上の達成を」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「マネジメン ト し、 EBITDAマージン20%超達成を目指します」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
-  - ［記事］2026-11-05「単にインフォマティクスのツールを売るだけでなく、段階的なMIの導入や、装置メーカーや商社機能としての強みを活かした課題解決ができることから、2017年から現在まで」https://www.mi-seek.com/
-- 政治（法・予算・規制）（32件）：
+  - ［記事］2026-11-08「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」https://newscast.jp/smart/news/8350130
+- 政治（法・予算・規制）（46件）：
   - ［一次］2026-11-06「が10年で30～40%引き下げられるなど環境規制の強化により、 電」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「*1 FDA （医薬品を取り締まるアメ リカの政府機関 ： Food and Drug Administration）」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「度CO2分離システムの開発」 計画がNEDOグリーンイノベーシ ョ ン基金事業に採択されま した」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「（NEDO グリーンイノベーシ ョ ン基金事業採択） （P.44 ）」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-04「 日本においても、政府が打ち出すConnected Industriesの取組の中でMIは重要な意味合いを有しており、政府系研究機関が中」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-- 経済（規模・価格・為替）（69件）：
+- 経済（規模・価格・為替）（81件）：
   - ［一次］2026-11-06「売上 1.6兆円」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「対売上EBITDA 20％」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「売上 1.8～1.9兆円」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「して、 売上高1.6兆円以上、 EBITDAマージン20%以上という規模」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「期ビジ ョ ンにおいて事業価値ベースで2,000億円の事」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
-- 社会（人・担い手）（54件）：
+- 社会（人・担い手）（55件）：
   - ［一次］2026-11-06「(*)計画の認定に加え、継続雇用者給与等支給額の対前年度増加率≧3%を満たした場合」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「(出所)内閣府｢AI戦略2019｣、経済産業省｢IT人材育成の状況等について｣を基に弊行作成」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 日本のIT人材は、2030年時点で数十万人単位で不足するとされ、経済産業省では義務教育期間も含めた教育環境整備を進める」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 多様なICT人材の登用(高校は1校に1」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「⇒単独での施策にはデータ量、解析技術、人材等の面で限界有 (P.18)」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-- 技術（新しい技術・実証）（61件）：
+- 技術（新しい技術・実証）（62件）：
   - ［一次］2026-11-06「マテリアルズ・インフォマティクスによる材料開発」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 モビリティの進化や5Gの進展など我々を取り巻く環境が大きく変化する中、これらの加速に向けた新材料の開発ニーズが高まりつつ」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 MIは、研究者の経験や勘に基づく従来型の手法に比べ、開発期間の大幅な短縮や開発コストの低減を実現できる他、データベース」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 これに対し、MIを活用すれば、開発に必要なリソースが抑えられ、ベンチャー企業等にとって参入余地が広がる可能性があります」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「2011年5月 日本A社が固体電解質を従来手法で発見し、特許申請（特許は未公開）」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-- SNS・note（note・本文）（19件）：
-  - ［SNS］2026-11-07「マテリアルズインフォマティクスの動向 2026/8/30｜トマかめ」https://note.com/yh1973/n/n0222fa42e419
-  - ［SNS］2026-11-07「マテリアルズインフォマティクスの動向 2026/8/30」https://note.com/yh1973/n/n0222fa42e419
-  - ［SNS］2026-11-07「今週Xのポストを通して拾ってきた、興味ある論文を紹介。」https://note.com/yh1973/n/n0222fa42e419
-  - ［SNS］2026-11-07「Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows」https://note.com/yh1973/n/n0222fa42e419
-  - ［SNS］2026-11-07「ベイズ推定では、ときにありえない条件が提示されてくる、という問題があります。人間側で事前情報を与えることで現実的な条件を提示させる。」https://note.com/yh1973/n/n0222fa42e419
+- SNS・note（LinkedIn・検索結果の抜粋）（5件）：
+  - ［SNS］2026-11-08「Taylor Sparks' Post - Materials Informatics - LinkedIn Taylor Sparks' Post - Materials Informatics - LinkedIn LinkedIn https://www.linkedin.com > posts > ta...」https://www.linkedin.com/posts/taylor-sparks-4ba98b30_materials-informatics-activity-7399157055485435904-jl_6
+  - ［SNS］2026-11-05「Materials Informatics and AI/ML-driven Materials Discovery ... Materials Informatics and AI/ML-driven Materials Discovery ... LinkedIn https://www.linkedin.com > posts > ra...」https://www.linkedin.com/posts/raymundo-arroyave_day-9-of-our-computational-materials-science-activity-7486061282106847234-022Y
+  - ［SNS］2026-11-04「Top ten methodologies in Materials Informatics and examples ... Top ten methodologies in Materials Informatics and examples ... LinkedIn https://www.linkedin.com > pulse > to...」https://www.linkedin.com/pulse/top-ten-methodologies-materials-informatics-examples-how-buehler
+  - ［SNS］2026-11-04「The Strategic Value of Materials Informatics - LinkedIn The Strategic Value of Materials Informatics - LinkedIn LinkedIn https://www.linkedin.com > pulse > st...」https://www.linkedin.com/pulse/strategic-value-materials-informatics-markus-j-buehler-c6vke
+  - ［SNS］2026-11-04「Generative Materials Informatics - LinkedIn Generative Materials Informatics - LinkedIn LinkedIn https://www.linkedin.com > pulse > g...」https://www.linkedin.com/pulse/generative-materials-informatics-markus-j-buehler-1dhee
 - SNS・note（note・検索結果の抜粋）（5件）：
   - ［SNS］2026-11-07「【2026年最新】マテリアルズインフォマティクス導入事例まとめ｜大手... Sep 14, 2026 · 【2026年最新】マテリアルズインフォマティクス導入事例まとめ｜大手化学メーカー5社に学ぶMI活用のリアル かなめ │ ケミストのDXノート 2026年9月14日 22:26」https://note.com/ideal_lemur777/n/ne425544e0f80
   - ［SNS］2026-11-07「マテリアルズインフォマティクスの動向 2026/8/30｜トマかめ Aug 30, 2026 · ベイズ推定では、ときにありえない条件が提示されてくる、という問題があります。人間側で事前情報を与えることで現実的な条件を提示させる。 Geminiが提示してきた問題点は、もし人間側の事前情報が間違っていたら修正できないこと。 私の見解は、ある程度法則が見え始めた開発中期に ...」https://note.com/yh1973/n/n0222fa42e419
   - ［SNS］2026-11-07「マテリアルズインフォマティクス - 2026-02｜かなめ │ ケミストのDXノ... 化学業界に静かに起きている革命——マテリアルズインフォマティクスという切り札私は化学業界で約20年、材料開発の最前線に携わってきました。これまでに出願した特許も20件を超えます。そんな現場を知る立場として ...」https://note.com/ideal_lemur777/m/m78107f358db2/archive/2026-02
   - ［SNS］2026-11-04「大手化学メーカー5社に学ぶMI活用のリアル - note 大手化学メーカー5社に学ぶMI活用のリアル - note note https://note.com > ビジネス > データ・分析」https://note.com/ideal_lemur777/n/ne425544e0f80
   - ［SNS］2026-11-04「マテリアルズインフォマティクス - 2026 -09 - note マテリアルズインフォマティクス - 2026 -09 - note note https://note.com > ideal_lemur777 > archive > 2026-09」https://note.com/ideal_lemur777/m/m78107f358db2/archive/2026-09
-- SNS・note（X・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-07「おにぎり＠マテリアルズ・インフォマティクス (@mat_info_ai) / X 高分子の物性をAIで予測するWebアプリ「Polymer-ML」を公開しました！ モノマー構造を入力するとガラス転移温度やヤング率等の物性を即座に算出します。3Dモデルの確認も可能です URLは返信欄に載せています！ #マテリアルズインフォマティクス #Python #Streamlit #高分子」https://x.com/mat_info_ai
-  - ［SNS］2026-11-07「横山トモヤス｜計算材料科学者 (@yoko_materialDX) / X パナソニック ホールディングス株式会社 シニアリードリサーチャー｜素材×DX（#マテリアルズインフォマティクス ）によるクリーンエネルギー材料の研究開発｜社会人博士課程修了｜計算材料科学、第一原理計算、機械学習｜その他の情報は個人HPへ｜会社の研修がきっかけで始めました ...」https://x.com/yoko_materialDX
-  - ［SNS］2026-11-07「横山トモヤス｜計算材料科学者 on X: "マテリアルズインフォマティク... マテリアルズインフォマティクスの最新ニュース。 政府主導の直近4年のマテリアル戦略が示されたそうです。基盤モデルでなく素材開発からデバイス開発までを統合した垂直型型AIモデルを目指すとのこと。 「（マテリアル分野のAIは）異分野横断で使うのが難しい」のは同意。」https://x.com/yoko_materialDX/status/2078434615098855828
-  - ［SNS］2026-11-04「ろん |「 マテリアルズ ・ インフォマティクス 実践ハンドブック ... ろん |「 マテリアルズ ・ インフォマティクス 実践ハンドブック ... X https://x.com > mipypf」https://x.com/mipypf
-- SNS・note（LinkedIn・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-05「Materials Informatics and AI/ML-driven Materials Discovery ... Materials Informatics and AI/ML-driven Materials Discovery ... LinkedIn https://www.linkedin.com > posts > ra...」https://www.linkedin.com/posts/raymundo-arroyave_day-9-of-our-computational-materials-science-activity-7486061282106847234-022Y
-  - ［SNS］2026-11-04「Top ten methodologies in Materials Informatics and examples ... Top ten methodologies in Materials Informatics and examples ... LinkedIn https://www.linkedin.com > pulse > to...」https://www.linkedin.com/pulse/top-ten-methodologies-materials-informatics-examples-how-buehler
-  - ［SNS］2026-11-04「The Strategic Value of Materials Informatics - LinkedIn The Strategic Value of Materials Informatics - LinkedIn LinkedIn https://www.linkedin.com > pulse > st...」https://www.linkedin.com/pulse/strategic-value-materials-informatics-markus-j-buehler-c6vke
-  - ［SNS］2026-11-04「Generative Materials Informatics - LinkedIn Generative Materials Informatics - LinkedIn LinkedIn https://www.linkedin.com > pulse > g...」https://www.linkedin.com/pulse/generative-materials-informatics-markus-j-buehler-1dhee
-- 検索結果の抜粋（30件）：
+- 検索結果の抜粋（32件）：
+  - ［一次］2026-11-08「Summit of Materials Science 2026 and GIMRT User Meeting — Summit of Materials Science 2026 and GIMRT User Meeting Tohoku University https://www.tohoku.ac.jp > events > s...」https://www.tohoku.ac.jp/en/events/special_event/summit_of_materials_science_2026_and_gimrt_user_meeting.html
+  - ［記事］2026-11-08「MI-6のニュース一覧 | 企業情報 | イプロスものづくり — MI-6のニュース一覧 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信 > MI-6株式会社」https://mono.ipros.com/company/detail/2082487/news/
   - ［記事］2026-11-07「MI動向調査2025 9割が「MIを導入しておらず」 - MONOist — MI動向調査2025 9割が「MIを導入しておらず」 - MONOist MONOist https://monoist.itmedia.co.jp > articles > news016」https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html
   - ［記事］2026-11-07「【2026年10月最新】マテリアルズインフォマティクス（MI）とは？導入... — Oct 2, 2026 · マテリアルズインフォマティクス（MI）の定義・メリット・国内外の動向・企業7社の事例を整理し、専門部署がない中小企業がAIで同じ発想を活かす方法まで解説します。」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/
   - ［記事］2026-11-07「マテリアルズインフォマティクス関連セミナー | アイアール技術者教育... — マテリアルズインフォマティクス関連セミナー 化学/素材 研究・開発 専門技術・ノウハウ 申込受付中 WEB開催 提携セミナー 開催日 2026 年 12 月 22 日（火） 担当講師 久保 百司 氏」https://engineer-education.com/seminar_tag/seminar_materials-informatics/
-  - ［記事］2026-11-07「MI Conf 2026 -Materials Informatics Conference- — Jul 15, 2026 · MIに特化したカンファレンス、MI Conf 2026の公式サイトです。アカデミア・企業の中から厳選されたMIのトップランナーが一堂に会し、最新の潮流や今後の方向性を紹介します。」https://miconf.mi-6.co.jp/2026
-  - ［記事］2026-11-07「マテリアルズインフォマティクス（MI）の世界市場（2026年～2036年） — May 11, 2026 · マテリアルズインフォマティクス（MI）の世界市場（2026年～2036年） The Global Materials Informatics Market 2026-2036 マテリアル/化学品 発行 Future Markets, Inc. 発行日 2026年05月11日 ページ情報 英文 190 Pages, 31 Tabl」https://www.gii.co.jp/report/fmi1510802-global-materials-informatics-market.html
+- SNS・note（X・検索結果の抜粋）（3件）：
+  - ［SNS］2026-11-07「おにぎり＠マテリアルズ・インフォマティクス (@mat_info_ai) / X 高分子の物性をAIで予測するWebアプリ「Polymer-ML」を公開しました！ モノマー構造を入力するとガラス転移温度やヤング率等の物性を即座に算出します。3Dモデルの確認も可能です URLは返信欄に載せています！ #マテリアルズインフォマティクス #Python #Streamlit #高分子」https://x.com/mat_info_ai
+  - ［SNS］2026-11-07「横山トモヤス｜計算材料科学者 (@yoko_materialDX) / X パナソニック ホールディングス株式会社 シニアリードリサーチャー｜素材×DX（#マテリアルズインフォマティクス ）によるクリーンエネルギー材料の研究開発｜社会人博士課程修了｜計算材料科学、第一原理計算、機械学習｜その他の情報は個人HPへ｜会社の研修がきっかけで始めました ...」https://x.com/yoko_materialDX
+  - ［SNS］2026-11-07「横山トモヤス｜計算材料科学者 on X: "マテリアルズインフォマティク... マテリアルズインフォマティクスの最新ニュース。 政府主導の直近4年のマテリアル戦略が示されたそうです。基盤モデルでなく素材開発からデバイス開発までを統合した垂直型型AIモデルを目指すとのこと。 「（マテリアル分野のAIは）異分野横断で使うのが難しい」のは同意。」https://x.com/yoko_materialDX/status/2078434615098855828
+- SNS・note（note・本文）（19件）：
+  - ［SNS］2026-11-07「マテリアルズインフォマティクスの動向 2026/8/30｜トマかめ」https://note.com/yh1973/n/n0222fa42e419
+  - ［SNS］2026-11-07「マテリアルズインフォマティクスの動向 2026/8/30」https://note.com/yh1973/n/n0222fa42e419
+  - ［SNS］2026-11-07「今週Xのポストを通して拾ってきた、興味ある論文を紹介。」https://note.com/yh1973/n/n0222fa42e419
+  - ［SNS］2026-11-07「Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows」https://note.com/yh1973/n/n0222fa42e419
+  - ［SNS］2026-11-07「ベイズ推定では、ときにありえない条件が提示されてくる、という問題があります。人間側で事前情報を与えることで現実的な条件を提示させる。」https://note.com/yh1973/n/n0222fa42e419

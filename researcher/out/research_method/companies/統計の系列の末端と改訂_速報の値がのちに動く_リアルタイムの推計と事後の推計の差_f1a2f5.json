@@ -8,8 +8,190 @@
  ],
  "context": "点検",
  "kind": "market",
- "researched_at": "2026-11-07T21:49:51.197829+00:00",
+ "researched_at": "2026-11-08T04:21:36.611438+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "# numerically comparable and the baseline trend is unbiased.",
+    "url": "https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "# numerically comparable and the baseline trend is unbiased.",
+    "url": "https://rdrr.io/cran/MacroFilters/f/vignettes/real_time_revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "過去の採用バイアス（性別・学歴等）の再生産、同意なきデータ利用（2019年リクナビ問題）ハルシネーション、プロンプト依存による出力の画一化（「優等生的で個性がないES」）求職者AIと企業AIの「AI対AI」化、Web面接でのリアルタイムAIカンニング・ディープフェイクなりすまし、サイレント辞退",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 自動雇用決定ツール（AEDT）に対する年1回の独立第三者バイアス監査・結果公表・10営業日前の事前通知を義務化（ただし2025年12月のNY州会計監査官報告で行政側の執行体制の不備も指摘され、実効性強化が議論されている）",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "<br>・代わりにAI面接・対人面接での**「なぜそう判断したか」「失敗時にどう動いたか」という多段階の深掘り質問と設問間の一貫性チェック**へ移行",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Metaが2025年10月から導入した「AI-enabled coding interview」のように、選考中にGPTやClaude等の利用を公式に認めたうえで、「AIに何を任せ、AIが出した誤りや浅い出力にどう気づいて修正し、最終品質を担保できるか」という",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は例年約2万件のエントリーと職種別12コース化に伴う面接官バイアスを解消するため、一次面接をAI面接に完全移行（工数97%削減、選考対象者最大20%拡大） [SRC-076]",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "）で「失敗を恐れず挑戦（34.3%）」「丁寧な指導（50.1%）」が過去最高、「厳しい指導を求める（24.0%）」も3年連続上昇する一方、",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自ら転職市場をくぐり抜け、他社比較の視点を持つ外部人材をマネジメント層に注入することで、生え抜き組織の認知バイアスを打破しようとしているのである",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「AIよりも精度が低くバイアスだらけの昭和・平成初期面接」と「早期離職（入社半年で転職意向6割）」**を再生産してしまう",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「AI書類の罠」の回避と構造化深掘り面接対策",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": AIで整えた職務経歴書・ESは面接官（およびAI面接官）から「なぜその行動をとったのか」「失敗したときどう修正したか」と徹底的に深掘りされるため、借り物の言葉を排し、自分の言葉と一次エピソードに落とし込む対話訓練",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エージェントが長い手順を維持し、ツールを使い、誤りから復帰する改善は、採用業務の連結に技術的な背景を与える",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "改訂値の注意：13% → 16% → 19%を一本の連続系列にしない",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従って2025年の一時的な逆転を「転職の賃金メリットが永久に消滅した」と読むのは誤りである",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "当時のアルゴリズムが神経多様な候補者等に対するバイアスを持つことが批判された事例であり、欧州ではその後の規制設計（AI Act第5条の感情認識禁止）の教訓となった [src-008][src-009][src-010]",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Table 5 Median Unbiased versus Maximum Likelihood",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates of gλ we obtained by applying the median unbiased estimation approach of",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "them with the median unbiased approach of Stock and Watson. With those coefficients",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Based on this comparison of MLE and medi an unbiased estimates of the variance",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "median unbiased variance estimator to obtain estimates of the variance of shocks to",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Watson median-unbiased estimat es. With larger point estimates obtained using",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "maximum likelihood than using median-unbiased estimation techniques, the downward-",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "bias motivation for using the latter techniques is questionable.",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Table 5: Median Unbiased versus Maximum Likelihood Estimates of ησ and rσ ,",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. The results reported in the Median Unbiased columns are based on the model estimates reported in the paper",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the Stock-Watson median unbiased method and the remaining parameters by maximum likelihood.",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Stock, J. and M. Watson 1998. Median Unbiased Estimation Of Coefficient Variance In",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "June 2003 Bidder Behavior in Repo Auctions Tobias Linzert",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "生成AIの高度化・自律型AIエージェントの台頭に伴う採用選考の変容分析",
@@ -242,188 +424,6 @@
    {
     "quote": "米国の統計なら、当時の公表値を記録したデータベースを使う方法もあります",
     "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "# numerically comparable and the baseline trend is unbiased.",
-    "url": "https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "# numerically comparable and the baseline trend is unbiased.",
-    "url": "https://rdrr.io/cran/MacroFilters/f/vignettes/real_time_revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "過去の採用バイアス（性別・学歴等）の再生産、同意なきデータ利用（2019年リクナビ問題）ハルシネーション、プロンプト依存による出力の画一化（「優等生的で個性がないES」）求職者AIと企業AIの「AI対AI」化、Web面接でのリアルタイムAIカンニング・ディープフェイクなりすまし、サイレント辞退",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 自動雇用決定ツール（AEDT）に対する年1回の独立第三者バイアス監査・結果公表・10営業日前の事前通知を義務化（ただし2025年12月のNY州会計監査官報告で行政側の執行体制の不備も指摘され、実効性強化が議論されている）",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<br>・代わりにAI面接・対人面接での**「なぜそう判断したか」「失敗時にどう動いたか」という多段階の深掘り質問と設問間の一貫性チェック**へ移行",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Metaが2025年10月から導入した「AI-enabled coding interview」のように、選考中にGPTやClaude等の利用を公式に認めたうえで、「AIに何を任せ、AIが出した誤りや浅い出力にどう気づいて修正し、最終品質を担保できるか」という",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は例年約2万件のエントリーと職種別12コース化に伴う面接官バイアスを解消するため、一次面接をAI面接に完全移行（工数97%削減、選考対象者最大20%拡大） [SRC-076]",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "）で「失敗を恐れず挑戦（34.3%）」「丁寧な指導（50.1%）」が過去最高、「厳しい指導を求める（24.0%）」も3年連続上昇する一方、",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自ら転職市場をくぐり抜け、他社比較の視点を持つ外部人材をマネジメント層に注入することで、生え抜き組織の認知バイアスを打破しようとしているのである",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「AIよりも精度が低くバイアスだらけの昭和・平成初期面接」と「早期離職（入社半年で転職意向6割）」**を再生産してしまう",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「AI書類の罠」の回避と構造化深掘り面接対策",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": AIで整えた職務経歴書・ESは面接官（およびAI面接官）から「なぜその行動をとったのか」「失敗したときどう修正したか」と徹底的に深掘りされるため、借り物の言葉を排し、自分の言葉と一次エピソードに落とし込む対話訓練",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エージェントが長い手順を維持し、ツールを使い、誤りから復帰する改善は、採用業務の連結に技術的な背景を与える",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "改訂値の注意：13% → 16% → 19%を一本の連続系列にしない",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従って2025年の一時的な逆転を「転職の賃金メリットが永久に消滅した」と読むのは誤りである",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "当時のアルゴリズムが神経多様な候補者等に対するバイアスを持つことが批判された事例であり、欧州ではその後の規制設計（AI Act第5条の感情認識禁止）の教訓となった [src-008][src-009][src-010]",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Table 5 Median Unbiased versus Maximum Likelihood",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates of gλ we obtained by applying the median unbiased estimation approach of",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "them with the median unbiased approach of Stock and Watson. With those coefficients",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Based on this comparison of MLE and medi an unbiased estimates of the variance",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "median unbiased variance estimator to obtain estimates of the variance of shocks to",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Watson median-unbiased estimat es. With larger point estimates obtained using",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "maximum likelihood than using median-unbiased estimation techniques, the downward-",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "bias motivation for using the latter techniques is questionable.",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Table 5: Median Unbiased versus Maximum Likelihood Estimates of ησ and rσ ,",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. The results reported in the Median Unbiased columns are based on the model estimates reported in the paper",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the Stock-Watson median unbiased method and the remaining parameters by maximum likelihood.",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Stock, J. and M. Watson 1998. Median Unbiased Estimation Of Coefficient Variance In",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "June 2003 Bidder Behavior in Repo Auctions Tobias Linzert",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1363,39 +1363,74 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/ai_soubashi_gin/n/n097532021b7a",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "url": "https://note.com/umaki11/n/n6a2ddf106cab",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/data_pn/n/n3a33a9120a47",
+    "url": "https://note.com/scramblecity2020/n/n08c3b44e1065",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/todobuono/n/n5a514ba6467a",
+    "url": "https://note.com/bearcapital/n/n4f3d135558b3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/zz08/n/n572465a74dfa",
+    "url": "https://note.com/taotao_marudora/n/n2647aa6a0dc1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/prof_nemuro/n/n9c417a7dc358",
+    "url": "https://note.com/suzacque/n/n24733c14397e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html",
+    "url": "https://www.stat.go.jp/dstart/case/pdf/r6/r6_case.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mext.go.jp/content/20200609-mxt_jogai01-000003284_003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fdma.go.jp/mission/develop/items/H22-H23_seika_jirei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://japanexchangegroup.github.io/J-Quants-Tutorial/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/linkdata/r07_03_houkoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://vdata.nikkei.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.soumu.go.jp/main_content/000808714.pdf",
@@ -1403,74 +1438,79 @@
     "method": "pdf"
    },
    {
-    "url": "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.customs.go.jp/toukei/sankou/teisei/index.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.yomiuri.co.jp/economy/20260908-GYT1T00084/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp-reports.com/ja/articles/01M0XBJXY8E67MEVQKF69ACS6E/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jcer.or.jp/jcer_download_log.php?f=eyJwb3N0X2lkIjo1MzgxOCwiZmlsZV9wb3N0X2lkIjoiNTM4MTMifQ==&post_id=53818&file_post_id=53813",
+    "url": "https://www.stat.go.jp/info/kenkyu/skenkyu/pdf/291121010.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/seisanqna/files/contents/b2020/seisanqna_gaiyo.pdf",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://aokisunatrack.hatenablog.com/entry/2026/09/09/073003",
+    "url": "https://bellcurve.jp/statistics/course/12933.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun017.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://bellcurve.jp/statistics/course/9704.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/obes.12677",
+    "url": "https://smart-analytics.jp/learning/statistics-entry/statistics-entry-002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://istat.jp/archives/9825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2005/wp0501.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndl.ethernet.edu.et/bitstreams/18c99222-c192-404d-8b4f-e40eff2a752c/download",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rbnz.govt.nz/-/media/5ef1b88f235945cc8003f180548916aa.ashx?sc_lang=en",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "status": "ok",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jae.3003",
+    "status": "http_403",
     "method": "http"
-   },
-   {
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://ww2.amstat.org/meetings/proceedings/2012/data/assets/pdf/303586_71592.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://assets.henley.ac.uk/v3/fileUploads/research/ICM-2018-02-Clements-and-Galvao-mtime20180724171057_2020-10-14-084011.pdf?mtime=20201014094011&focal=none",
-    "status": "ok",
-    "method": "pdf"
    }
   ]
  },
@@ -1478,84 +1518,103 @@
   {
    "query": "統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方 site:note.com",
    "results": [
-    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
-    "https://note.com/good_poppy696/n/n5a548ce40e91",
-    "https://note.com/data_pn/n/n3a33a9120a47",
-    "https://note.com/todobuono/n/n5a514ba6467a",
-    "https://note.com/zz08/n/n572465a74dfa",
-    "https://note.com/prof_nemuro/n/n9c417a7dc358",
-    "https://note.com/good_poppy696/n/n51c7e41d15ce"
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/umaki11/n/n6a2ddf106cab",
+    "https://note.com/scramblecity2020/n/n08c3b44e1065",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/taotao_marudora/n/n2647aa6a0dc1",
+    "https://note.com/suzacque/n/n24733c14397e",
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
+    "https://note.com/huge_kamaitachi/n/n84b6437c1552",
+    "https://note.com/4444_happy/n/n80173ebed63a"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方 note",
    "results": [
-    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html",
-    "https://www.soumu.go.jp/main_content/000808714.pdf",
-    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
-    "https://www.customs.go.jp/toukei/sankou/teisei/index.htm",
-    "https://www.yomiuri.co.jp/economy/20260908-GYT1T00084/"
+    "https://www.stat.go.jp/dstart/case/pdf/r6/r6_case.pdf",
+    "https://www.mext.go.jp/content/20200609-mxt_jogai01-000003284_003.pdf",
+    "https://www.fdma.go.jp/mission/develop/items/H22-H23_seika_jirei.pdf",
+    "https://japanexchangegroup.github.io/J-Quants-Tutorial/",
+    "https://www.soumu.go.jp/johotsusintokei/linkdata/r07_03_houkoku.pdf",
+    "https://vdata.nikkei.com/",
+    "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1329pdf/ks1329.pdf",
+    "https://www.tfd.metro.tokyo.lg.jp/content/000062238.pdf",
+    "https://www.nissan.co.jp/OPTIONAL-PARTS/NAVIOM/DOP/manual_mm321d-l.pdf",
+    "https://www.soumu.go.jp/main_content/000808714.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方 やり方",
    "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
     "https://www.soumu.go.jp/main_content/000808714.pdf",
-    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/",
-    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://jp-reports.com/ja/articles/01M0XBJXY8E67MEVQKF69ACS6E/",
-    "https://www.jcer.or.jp/jcer_download_log.php?f=eyJwb3N0X2lkIjo1MzgxOCwiZmlsZV9wb3N0X2lkIjoiNTM4MTMifQ==&post_id=53818&file_post_id=53813",
-    "https://www.esri.cao.go.jp/jp/sna/data/data_list/seisanqna/files/contents/b2020/seisanqna_gaiyo.pdf"
+    "https://www.stat.go.jp/info/kenkyu/skenkyu/pdf/291121010.pdf",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
+    "https://bellcurve.jp/statistics/course/12933.html",
+    "http://pref.shimane-toukei.jp/index.php?view=15601",
+    "https://smart-analytics.jp/learning/statistics-entry/statistics-entry-002/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方 事例",
    "results": [
-    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html",
-    "https://www.soumu.go.jp/main_content/000808714.pdf",
-    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://jp-reports.com/ja/articles/01M0XBJXY8E67MEVQKF69ACS6E/",
-    "https://aokisunatrack.hatenablog.com/entry/2026/09/09/073003",
-    "https://www.esri.cao.go.jp/jp/sna/data/data_list/seisanqna/files/contents/b2020/seisanqna_gaiyo.pdf"
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun017.pdf",
+    "https://bellcurve.jp/statistics/course/9704.html",
+    "https://smart-analytics.jp/learning/statistics-entry/statistics-entry-002/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://istat.jp/archives/9825",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://best-biostatistics.com/toukei-er/entry/repeated-measures-data-analysis-group-time-comparison-using-em-means/",
+    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "real-time data revision end-point problem trend estimate statistics",
    "results": [
-    "https://ropensci.org/blog/2026/04/13/reviser/",
-    "https://onlinelibrary.wiley.com/doi/10.1111/obes.12677",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "https://www.dallasfed.org/~/media/documents/research/papers/2005/wp0501.pdf",
+    "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "https://ndl.ethernet.edu.et/bitstreams/18c99222-c192-404d-8b4f-e40eff2a752c/download",
+    "https://www.rbnz.govt.nz/-/media/5ef1b88f235945cc8003f180548916aa.ashx?sc_lang=en",
+    "https://onlinelibrary.wiley.com/doi/full/10.1002/jae.3003",
     "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "https://ww2.amstat.org/meetings/proceedings/2012/data/assets/pdf/303586_71592.pdf",
-    "https://assets.henley.ac.uk/v3/fileUploads/research/ICM-2018-02-Clements-and-Galvao-mtime20180724171057_2020-10-14-084011.pdf?mtime=20201014094011&focal=none",
-    "https://www.sciencedirect.com/science/article/pii/S0164070411000346",
-    "https://link.springer.com/content/pdf/10.1007/s41549-024-00096-6.pdf"
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5464762/",
+    "https://www.imf.org/external/pubs/ft/wp/2013/wp13105.pdf",
+    "https://ropensci.org/blog/2026/04/13/reviser/"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 17
   },
   {
    "query": "site:note.com 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方",
@@ -1566,14 +1625,12 @@
     "https://note.com/zz08/n/n572465a74dfa",
     "https://note.com/todobuono/n/n5a514ba6467a",
     "https://note.com/paoyou/n/n2a61b08f351c",
-    "https://note.com/good_poppy696/n/n51c7e41d15ce",
-    "https://note.com/soflat/n/n6339b824f4eb"
+    "https://note.com/good_poppy696/n/n51c7e41d15ce"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:x.com 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方",
@@ -1581,32 +1638,29 @@
     "https://x.com/Bank_of_Japan_j/status/1938384382907339127",
     "https://x.com/tsurezure_lab/status/2053956904372806106",
     "https://x.com/genkuroki/status/2100760257098309812",
-    "https://x.com/MOF_Japan/status/2054423460231913492",
-    "https://x.com/MOF_Japan/status/2046799023903027556",
-    "https://x.com/Twit1020taro/status/2053459645784818170",
     "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
     "https://x.com/wildriverpeace/status/2080854423505617206",
+    "https://x.com/Twit1020taro/status/2053459645784818170",
     "https://x.com/MOF_Japan/status/2074736971788992767"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方",
    "results": [
-    "https://www.linkedin.com/company/tickbig",
+    "https://jp.linkedin.com/",
     "https://jp.linkedin.com/pulse/concise-basic-stats-series-part-xi-introduction-time-fonseca-aefse?tl=ja",
+    "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja",
     "https://jp.linkedin.com/pulse/mastering-time-series-analysis-from-scratch-data-anello-marcucci-z8pbf?tl=ja",
-    "https://www.linkedin.com/jobs/product-marketing-consultant-jobs",
     "https://jp.linkedin.com/posts/健司-沢味-5b7111302_ssbj基準と改訂版esrsの同時対応を見据えたghg排出量の報告境界の設定-activity-7440345080655388672-WJVq",
-    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4361455",
-    "https://jp.linkedin.com/pulse/understanding-iqr-interquartile-range-data-science-guide-beekhani-icvnf?tl=ja"
+    "https://jp.linkedin.com/posts/紗織-山中-5b962136a_ssbj基準と改訂版esrsの同時対応を見据えたghg排出量の報告境界の設定-activity-7445024206548856832-Oxma",
+    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4361455"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1622,64 +1676,73 @@
     "https://www.facebook.com/kagocenter/posts/学校楽しぃーと改訂の御案内令和７年４月の運用開始に向けて１月３１日の調査研究発表会で改訂版学校楽しぃーとをお披露目いたしました令和４年の生徒指導提要の改訂に伴い/1173627611236065/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方 note 社長",
    "results": [
-    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
     "https://www.soumu.go.jp/main_content/000808714.pdf",
-    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://www.customs.go.jp/toukei/sankou/teisei/index.htm",
-    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
-    "https://www.yomiuri.co.jp/economy/20260908-GYT1T00084/"
+    "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/tougouhiritsu/pdf/supplement2.pdf",
+    "https://officekaisuiyoku.com/20220502-2/",
+    "https://www.nikkei.com/article/DGKKZO06754130R00C16A9KE8000/",
+    "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方 X 投稿",
    "results": [
-    "https://www.soumu.go.jp/main_content/000808714.pdf",
-    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/",
-    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html",
-    "https://jp-reports.com/ja/articles/01M0XBJXY8E67MEVQKF69ACS6E/",
-    "https://www.stat.go.jp/",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/1999/pdf/2.pdf",
-    "https://www.jcer.or.jp/jcer_download_log.php?f=eyJwb3N0X2lkIjo1MzgxOCwiZmlsZV9wb3N0X2lkIjoiNTM4MTMifQ==&post_id=53818&file_post_id=53813",
-    "https://www.soumu.go.jp/main_content/000944387.pdf"
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://smart-analytics.jp/learning/statistics-entry/statistics-entry-002/",
+    "https://www.customs.go.jp/toukei/sankou/teisei/index.htm",
+    "https://bellcurve.jp/statistics/course/18948.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.emuyn.net/stats/lecture/asa_statement",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "real-time data revision end-point problem trend estimate statistics site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/canadas-301008-person-revision-warning-real-time-data-daniel-foch-ik5ve",
-    "https://www.linkedin.com/pulse/digital-transformation-how-make-real-time-data-reality-bracken",
-    "https://jp.linkedin.com/pulse/when-everyone-has-data-one-context-crisis-information-andre-osobe?tl=ja",
-    "https://pl.linkedin.com/in/aakash-singh-cfa-50b99758",
-    "https://kr.linkedin.com/pulse/how-lie-statistics-chapter-indias-own-data-proves-word-purushottam-wudqc?tl=ko",
-    "https://cm.linkedin.com/in/fohsoh-diran",
-    "https://it.linkedin.com/in/muhammadsaud1"
+    "https://www.linkedin.com/posts/sohansethi_give-me-two-minutes-and-ill-show-you-a-activity-7508879519898914816-qJ45",
+    "https://www.linkedin.com/in/audehofleitner",
+    "https://www.linkedin.com/posts/prateek964_statistics-hypothesistesting-confidenceintervals-activity-7486412202007232513-7LVo",
+    "https://www.linkedin.com/posts/gowthami-peri-10762713_datascience-dataanalytics-machinelearning-activity-7503637136131264512-8ZFf",
+    "https://www.linkedin.com/pulse/data-science-approaches-quality-from-raw-dataset-yair-rajwan-ms-dsc",
+    "https://www.linkedin.com/in/max-kuhn-864a9110",
+    "https://www.linkedin.com/posts/richard-hahn-a1096050_statistical-modeling-is-like-martial-arts-activity-7435069238358470656-XhdX",
+    "https://uk.linkedin.com/in/diogo-ribeiro-9094604a",
+    "https://pk.linkedin.com/in/junaidiqbalhashmi3453",
+    "https://www.linkedin.com/in/coreythomas"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-05T15:57:31.673303+00:00"
 }

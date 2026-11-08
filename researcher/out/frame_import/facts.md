@@ -2878,6 +2878,8 @@
   - 「12年分の受注残、エアバス（Airbus）の空っぽの予備エンジン棚、遅々として進まないチタンの再認定、10年以内に引退する米国の整備士4万5000人」（https://www.businessinsider.jp/article/2609-market-intelligence-transport-nothing-happens-until-something-moves/）
   - 「利益も受注残も本物だが、その倍率は納入スケジュールが完璧に守られることを前提にしている」（https://www.businessinsider.jp/article/2609-market-intelligence-transport-nothing-happens-until-something-moves/）
 - 顧客（金を払う側）：
+  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「ホワイトハウスの発表では、電池メーカーのシラ・ナノテクノロジーズに14億ドルを融資し、リチウムイオン電池の製造施設などの建設を支援する」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
   - 「様式第一関係 別紙２（設備投資・技術開発合算総括表）（Excel形式：27KB）」（https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html）
   - 「その特定重要物資の1つである永久磁石については、急激に増加するネオジム磁石需要に対応するための製造設備増強とサマリウムコバルト磁石の安定供給、原材料を安定的に調達するためのネオジム磁石リサイクル設備投資と低コストリサイクル技術開発、併せて、レアアース（特に重希土類）フリー磁石の開発等の取組が行われています」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
   - 「そこで、本調査では、民間企業による永久磁石の生産設備投資に対する支援を行った場合における適切な評価モデル構築や経済波及効果の試算等を行います」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
@@ -2891,9 +2893,8 @@
   - 「2026年の中国におけるゴム磁石メーカートップ10」（https://www.newlandmag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%81%AE%E7%A3%81%E6%B0%97%E3%81%AF%E6%B6%88%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B/）
   - 「研究開発、生産、販売を一体化した専門的な焼結Nd-Fe-B磁性材料ハイテク企業」（https://www.newlandmag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%81%AE%E7%A3%81%E6%B0%97%E3%81%AF%E6%B6%88%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B/）
   - 「投資に関しては、2024 年度は民間設備投資が 108 兆円を記録し、30 年ぶりに過去最高を更新した」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「⚫ この潮目の変化は、民間企業の努力の賜物であるが、第２次中間整理でも指摘しているとおり、国」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「とりわけ日本の物価上昇では企業物価と消費者物価に乖離が発生していることが特徴的だが、」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
 - 顧客の顧客（発注元が求めること）：
+  - 「一連の対応フローを社内・サプライヤーと共有しておくことが、リスクとコストを最小化するカギ」（https://yushutsu.jp/2025/06/magnet/）
   - 「温度特性に優れているため温度安定性が要求される用途に適しています」（https://www.neomag.jp/）
   - 「企業にとっては、厳格な品質基準に従う信頼できるサプライヤーから磁石を調達することの重要性が浮き彫りになる」（https://www.newlandmag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%81%AE%E7%A3%81%E6%B0%97%E3%81%AF%E6%B6%88%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B/）
   - 「信頼できるサプライヤーと協力することで、磁石は性能基準を満たし、長持ちします」（https://www.newlandmag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%81%AE%E7%A3%81%E6%B0%97%E3%81%AF%E6%B6%88%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B/）
@@ -2908,8 +2909,13 @@
   - 「用地の整備」と「脱炭素電源の整備」を進める」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「Ｘにも取り組む企業に脱炭素電力の利用を促すインセンティブ措置を検討するとともに、その」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「再エネ、原子力などの脱炭素電源を最大限活用する」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「等を活用した火力の脱炭素化を進めるとともに、予備電源制度等の措置について不断の検討」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
 - 顧客の競合（奪いに来る側）：
+  - 「資金を提供するのは国防総省、エネルギー省、米国際開発金融公社（DFC）、米輸出入銀行」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「25年間続いてきた」とルビオ米国務長官は話した」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「米国外ではマダガスカルのハレナ・レアアースに480万ドルを投資する予定だ」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「住友鉱山がレアアース２割増産、双日は新鉱山 脱中国へ東南アに供給網」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「カザフスタンのレアアース資源に脚光 中国の代替なるか」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
   - 「また、直近の情勢変化による国内外の永久磁石の需要やシェア等への影響についても調査を行います」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
   - 「中国レアアース輸出規制における影響について」（https://www.neomag.jp/）
   - 「セラミック磁石またはフェライト磁石は、安価で腐食に強いため、最も広く使用されています」（https://www.newlandmag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%81%AE%E7%A3%81%E6%B0%97%E3%81%AF%E6%B6%88%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B/）
@@ -2919,12 +2925,6 @@
   - 「22さらに、米国関税措置が、日本及び世界経済、ひいては国」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「（足下で喫緊の問題となっている物価高・人手不足と米国関税措置対応）」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「⚫ 加えて、自由で公正なルールに基づく国際経済秩序の維持・強化 に取り組みつつ、米国の関税措置」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「に関し、一連の関税措置の見直しを強く申し入れるなど米国との協議 を進めていくとともに、 相談窓」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「Solow(1957)が成長会計分析により、1909-1949 年の米国における労働生産性上昇のうち 8 分の 7 が、全要素」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「ここから、2020 年時点における各項目の総支出シェアを年齢ごとの一人当たり支出シェアに分解す」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「さらに、この一人当たりシェアが時系列で不変であると仮定し、社人研の2040 年の将来人口推計を基に、」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「こうして得られた新たな支出シェアを、2040 年の均衡計算に適用」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「⚫ ここでいう生産額・輸出額の拡大は、既存の製品分類のシェア拡大に限らず、新たな需要に対す」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
 - 自社の競合（商社・代理店・仲介）：
   - 「⚫ 中堅・中小企業の輸出拡大を支援する事業者（地域商社等）同士の連携を通じ、各事業者の強みを」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「まずは貨物の旅行代理店に当たるフォワーダーやブローカー」（https://www.businessinsider.jp/article/2609-market-intelligence-transport-nothing-happens-until-something-moves/）
@@ -2942,6 +2942,7 @@
   - 「住友商事がレアアースの調達安定化に向け、米国の企業と独占販売代理店契約を締結：製造マネジメントニュース - MONOist」（https://monoist.itmedia.co.jp/mn/articles/2303/08/news028.html）
   - 「住友商事がレアアースの調達安定化に向け、米国の企業と独占販売代理店契約を締結」（https://monoist.itmedia.co.jp/mn/articles/2303/08/news028.html）
 - 政治（法・予算・規制）：
+  - 「米政府系金融、トランプ外交の武器に(The Economist)」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
   - 「様式第一（第２条第１項関係） 供給確保計画の認定申請書（Word形式：94KB）」（https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html）
   - 「様式第五（第５条第１項関係） 認定供給確保計画の変更申請書（Word形式：25KB）」（https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html）
   - 「様式第九（第６条第２項関係） 認定供給確保計画の軽微な変更の届出書（Word形式：25KB）」（https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html）
@@ -2956,8 +2957,14 @@
   - 「「安定供給確保支援基金事業（永久磁石）に関する効果検証調査」の公募について | 公募 | NEDO」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
   - 「「安定供給確保支援基金事業（永久磁石）に関する効果検証調査」の公募について」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
   - 「）は、「安定供給確保支援基金事業（永久磁石）に関する効果検証調査」の実施者を広く一般に募集しますので、本件について受託を希望する方は、以下に従ってご応募ください」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
-  - 「NEDOは、「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律」（令和4年法律第43号）に基づき、国民の生存や生活・経済活動に甚大な影響のある物資の安定供給確保を図るため、同法の政令で定められた特定重要物資について、経済産業大臣が認定した供給確保計画に沿った生産基盤の整備、生産技術開発等に対して助成金を交付する事業等を実施しています」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
 - 経済（規模・価格・為替）：
+  - 「【ワシントン=野一色遥花】トランプ米大統領は7日、重要鉱物の生産強化に向けて20億ドル（約3100億円）超の資金を投入すると発表した」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「SMM（上海有色網）は2026年通年の輸出量を約6万1,580トン、前年比約7%増と予測してお」（https://www.iru-miru.com/article/85977）
+  - 「レアアース・ノルウェー、南部での軽希土類の開発決定 42億円投資、欧州最大規模」（https://www.iru-miru.com/article/85977）
+  - 「2026年1－7月の米国SUSスクラップ輸出入概況 輸出は前年比26％増へ」（https://www.iru-miru.com/article/85977）
+  - 「原料炭価格と一般炭価格（11/6）：一般炭価格と原料炭ともに下落」（https://www.iru-miru.com/article/85977）
+  - 「高炉3社：原燃料価格（11月第1週）と収益影響」（https://www.iru-miru.com/article/85977）
+  - 「新技術への投資は高リスクであり、特にレアアース市場の価格変動（2020年のネオジム価格60米ドル/kgから2023年には240米ドル/kgへ、その後2025年には195米ドル/kgへ変動」（https://blogs.itmedia.co.jp/serial/2025/06/post_8647.html）
   - 「投資に関しては、2024 年度は民間設備投資が 108 兆円を記録し、30 年ぶりに過去最高を更新した」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「質実効為替レートは 1971 年と同等の円安水準となっており、「安い国」日本の現状は変わっていな」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「⚫ 例えば、ＧＸ経済移行債を活用した 20 兆円規模の先行投資支援については、うち約 14 兆円につい」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
@@ -2966,14 +2973,9 @@
   - 「施策について、１兆円を超える「中堅企業成長促進パッケージ 2025」を取りまとめた20」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「設備投資額「2027 年度 100 兆円」という国内投資の「見通し」を表明した30」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「いて、2023 年度 103.5 兆円という見通しが示されたことを受けて、2023 年４月の第２回「国内投資フォ」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「ーラム」において、経団連・十倉会長が民間設備投資額「2027 年度 115 兆円」という国内投資目標を」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「23 参考資料 P55「実質賃金向上には、労働生産性の上昇だけでなく交易条件の改善（日本全体の価格転嫁）が」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「3割超の獲得を通じて、2040年に20兆円の市場獲得を目指」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou2.pdf）
-  - 「市場規模として50兆ドルが見込まれるとの見方（NVIDIA社）もある」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou2.pdf）
-  - 「し、2040年に約60兆円規模へ成長すると見込まれる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou2.pdf）
-  - 「・現状、我が国は、ロボット分野のうち、産業用ロボット市場（約0.8兆円）で世界」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou2.pdf）
-  - 「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou2.pdf）
 - 社会（人・担い手）：
+  - 「20億ドル超の資金提供とは別に、鉱業の人材育成に向けて1億8000万ドルの助成金を出す」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
   - 「５．将来の産業構造転換を踏まえた 2040 年の就業構造推計（人材） ................................................................ 21」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「３．政策の方向性② ～物価高・人手不足下でも持続的に成長できる地方経済・産業～ ......................... 28」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「（９）人材 ............................................................................................................................................................................................ 71」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
@@ -2987,9 +2989,10 @@
   - 「展と日本の雇用・賃金」 RIETI Policy Discussion Paper, No. 25-P-008」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「⚫ その他、少子高齢化に伴う日本全体の人口構成の変化から、民間の消費4041における産業別の需」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
   - 「41 家計消費については、宇南山卓・大野太郎（2017） 「貯蓄率の低下は高齢化が原因か？」 『経済研究』 68」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「はすなわち、第 1 次配分（財産所得（純） 、営業余剰・混合所得、雇用者報酬の合計）と、第2 次配分（税・社」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「42 高齢化に伴う需要構造の変化に関する推計については、東京大学エコノミックコンサルティング株式会社プ」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
 - 技術（新しい技術・実証）：
+  - 「米政権、重要鉱物の開発に20億ドル超投入 対中依存脱却へ - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「資金を提供するのは国防総省、エネルギー省、米国際開発金融公社（DFC）、米輸出入銀行」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
+  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOGN0800D0Y6A800C2000000/）
   - 「様式第一関係 別紙２（設備投資・技術開発合算総括表）（Excel形式：27KB）」（https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html）
   - 「国立研究開発法人新エネルギー・産業技術総合開発機構（以下「NEDO」という」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
   - 「NEDOは、「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律」（令和4年法律第43号）に基づき、国民の生存や生活・経済活動に甚大な影響のある物資の安定供給確保を図るため、同法の政令で定められた特定重要物資について、経済産業大臣が認定した供給確保計画に沿った生産基盤の整備、生産技術開発等に対して助成金を交付する事業等を実施しています」（https://www.nedo.go.jp/koubo/GI2_100001_00026.html）
@@ -3002,10 +3005,10 @@
   - 「曲面や狭い場所にも貼れる 薄さ0.3mmの高磁力磁石を開発【愛知製鋼】」（https://www.neomag.jp/）
   - 「今回の開発のポイントは、次の3つです」（https://www.neomag.jp/）
   - 「何十年もの間、科学者とエンジニアはいくつかのカテゴリーを開発し、それぞれに長所と短所があります」（https://www.newlandmag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%81%AE%E7%A3%81%E6%B0%97%E3%81%AF%E6%B6%88%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B/）
-  - 「研究開発、生産、販売を一体化した専門的な焼結Nd-Fe-B磁性材料ハイテク企業」（https://www.newlandmag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%81%AE%E7%A3%81%E6%B0%97%E3%81%AF%E6%B6%88%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B/）
-  - 「改正する16とともに、2030 年度までに 10 兆円以上の AI・半導体分野への公的支援を行う「AI・半導」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
-  - 「17 参考資料 P96「AI・半導体関連支援策の方針」参照」（https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf）
 - 検索結果の抜粋：
+  - 「2026 年8月 中国の希土類系 永久磁石 輸出概況 日本向け ... - MIRU — 2026 年8月 中国の希土類系 永久磁石 輸出概況 日本向け ... - MIRU Iru-miru.com https://www.iru-miru.com > article」（https://www.iru-miru.com/article/85977）
+  - 「ネオジム 磁石 メーカー44社 - Metoree — ネオジム 磁石 メーカー44社 - Metoree Metoree https://metoree.com > 磁性材料」（https://metoree.com/categories/5361/）
+  - 「AIが予測する 永久磁石 メーカー ｜2030年 市場規模 推移と主要 ... — AIが予測する 永久磁石 メーカー ｜2030年 市場規模 推移と主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
   - 「AIが予測する 永久磁石 メーカー ｜2030年市場規模推移と主要 ... — AIが予測する 永久磁石 メーカー ｜2030年市場規模推移と主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
   - 「永久磁石 市場―2026年～2032年の世界市場予測 - Newscast.jp — 永久磁石 市場―2026年～2032年の世界市場予測 - Newscast.jp Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/4254819）
   - 「レアアースフリー 永久磁石 市場は2035年に49 ... - アットプレス — レアアースフリー 永久磁石 市場は2035年に49 ... - アットプレス アットプレス https://www.atpress.ne.jp > ... > Astute Analytica Co. Ltd.」（https://www.atpress.ne.jp/news/4424103）
@@ -3018,9 +3021,6 @@
   - 「NEDOが 永久磁石 支援の効果検証へ 信越化学130億円 - note — NEDOが 永久磁石 支援の効果検証へ 信越化学130億円 - note note https://note.com > 政治・経済 > ビジネス・経済」（https://note.com/gov_stock_lab/n/n6236c3658d8c）
   - 「Permanent Magnet Market Size, Forecasts Report 2026 -2035 — Permanent Magnet Market Size, Forecasts Report 2026 -2035 Global Market Insights Inc. https://www.gminsights.com > perma...」（https://www.gminsights.com/industry-analysis/permanent-magnet-market）
   - 「永久磁石 に係る安定供給確保を図るための取組方針 令和5年 ... — 永久磁石 に係る安定供給確保を図るための取組方針 令和5年 ... パブリックコメント PDF https://public-comment.e-gov.go.jp > download」（https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000306594）
-  - 「米ネオジム 磁石メーカー 国内で2億ドル超の調達に成功 — 米ネオジム 磁石メーカー 国内で2億ドル超の調達に成功 電波新聞デジタル https://dempa-digital.com > article」（https://dempa-digital.com/article/705804）
-  - 「HyProMag USAの予備的実現可能性調査：NdFeB 磁石 の3工場 ... — HyProMag USAの予備的実現可能性調査：NdFeB 磁石 の3工場 ... IndexBox https://www.indexbox.io > ... > 永久磁石」（https://www.indexbox.io/ja/blog/hypromag-usa-completes-pre-feasibility-study-for-three-plant-rare-earth-magnet-expansion/）
-  - 「レアアース 磁石 、新規注文「断らざるを得ず」中国から 輸入 3 ... — レアアース 磁石 、新規注文「断らざるを得ず」中国から 輸入 3 ... 朝日新聞 https://www.asahi.com > articles」（https://www.asahi.com/articles/ASV2K25GJV2KULFA00VM.html）
 
 ## グリーンスチール（green steel）
 - 文脈：9 マテリアル ②グリーン鉄
@@ -4071,22 +4071,29 @@
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOFC258E60V20C25A3000000/）
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZRSP688799_V20C25A3000000/）
 - 顧客（金を払う側）：
-  - 「三菱商事、JERA、三菱重工業、住友商事、三井物産等の企業は、炭素排出ネットゼロ目標を達成するために「ブルー」水素技術を用いる計画ですが、これら企業の投資家は、ブルー水素技術の費用対効果や信頼性のある気候変動対策かどうかについて疑念を持つ必要があります」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「そのため、気候変動による大惨事を避けるためには、日本のエネルギー関連企業の投資を石炭や化石ガスからクリーンなエネルギーへ急速にシフトさせることがカギとなります」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「三菱商事、JERA、三菱重工業、住友商事、三井物産の投資家は、自身の気候リスク管理のためにも、これら企業と対話を行い、ネットゼロ移行計画に水素・アンモニア技術を用いることについて反対を表明すべきです」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「水素・アンモニアのわなに陥った企業は、莫大な座礁資産を抱え、資産価値の毀損や競合他社の後塵を排することになりかねません」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「その製造過程で膨大な二酸化炭素を排出するため、企業は、炭素の回収・貯留（CCS）を行うと主張しますが、」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「グリーン水素では、設備投資に伴う排出（例えば、ソーラーパネル製造によるもの）も含めているが、稼働時のCO2排出はゼロとなることに留意」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「ブルー水素、化石ガス、石炭については、設備投資に伴う排出は含まれていない」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「これらの問題にも関わらず、日本の企業はブルー水素技術に関する取り組みを始めています」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「年間50万トンのブルーまたはグリーンアンモニア調達に関する」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「しかし、再生可能エネルギーに対する競争力に疑問があること、化石燃料由来の水素の場合、二酸化炭素削減効果が限定的であることなどから、そのポテンシャルは日本の企業が主張するよりも限定的であると考えられます」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「企業は、この燃料は、大規模な改修を必要とせず、既存の石炭火力発電所に直接混合でき、即座に二酸化炭素排出量の削減につながると主張しています」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「また、アンモニア発電は、特に日本企業が力を入れているアジアの新興国での経済的なポテンシャルはおおいに疑問視されています」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「参考までに、2022年末までに導入予定のインドネシアの炭素税は、」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「ため、日本企業が追随したがる理由の理解に苦しみます」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「従って、厳しいネットゼロ目標を掲げる投資家は、グリーン水素のような、より信頼性の高いソリューションに向けて企業を後押しする必要があります」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
+  - 「このため、経済産業省は国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）に総額2兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業などを研究開発・実証から社会実装まで10年間継続して支援するグリーンイノベーション基金事業を立ち上げました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「また、アンモニアの発電利用における高混焼化とアンモニアだけで発電する専焼化技術の確立にも取り組み、2050年の国内導入想定量である3000万トン／年（専焼で10～20基、高混焼で20～40基程度の導入に相当）を実現することを目標とします」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「NCEDA は大手化学・エネルギー企業SASOLの協力を得て、2023年10月に開発計画のマスタープランをまとめました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「また、海水淡水化、系統電力など関連インフラや関連企業についても別途計画されると想定されるので、現実的にはこれらの系統との融合もあると思いますが、ここでは触れません」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「ベンチプラントはプロジェクトとしては最終目的ですが、終了後もこのパイロットで様々なデータを取り、関連企業の協力により実用化装置設計が始まると考えています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「水素、アンモニアの導入に向けたその後の動向を織り交ぜながら、水素、アンモニアの導入を考える際に重要と思われる問題について解説します」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「コスト、供給、導入時期が課題となる日本のアンモニア混焼戦略 | IEEFA」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「コスト、供給、導入時期が課題となる日本のアンモニア混焼戦略」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「日本最大のアンモニア供給源となることが見込まれている米国のブルーポイント製造事業では、建設コストの上昇が続いており、アンモニア混焼による発電コストは、日本国内で既に導入されている再生可能エネルギーよりも高くなる可能性がある」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「補助金による支援にもかかわらず、アンモニア混焼の導入は日本政府が想定するスケジュールより遅れている」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「これらの技術は企業や家庭のエネルギーコストを引き下げるとともに、エネルギー安全保障を強化し、日本の脱炭素目標をより安価かつ確実に達成するための道筋を提供する」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「日本企業2社が同プロジェクトに出資するとともに、事業者とのオフテイク契約を締結している」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「再エネ、蓄電池、そして電力系統への投資を拡大することは、温室効果ガス排出削減、エネルギー安全保障の強化、企業および家庭のエネルギーコストの低減にも貢献し得る」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「こうした目標および補助制度を受け、日本企業は国内外で」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「日本企業ではJERAが35%、三井物産が25%を出資しており、2025年4月に」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
 - 顧客の顧客（発注元が求めること）：
+  - 「NEDOは、グリーンイノベーション基金事業の一環で、脱炭素燃料の候補の一つとして期待される燃料アンモニアの社会実装を進める「燃料アンモニアサプライチェーンの構築プロジェクト」（予算総額598億円）に着手します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「を排出しないことから、カーボンニュートラルの実現に向け発電や船舶などに用いる脱炭素燃料として期待されています」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「特に発電用途では従来の化石燃料をアンモニアに代替し、火力発電の脱炭素化を進める効果が見込まれています」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「化石燃料を再生可能エネルギーに転換し脱炭素化を進める動きが世界的に加速している中、燃焼の過程でCO」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「日本、南アフリカ共和国（以下、南ア）とも1次エネルギーの大半を化石資源に頼り、発電燃料、移動体燃料、産業燃料に利用してきましたが、世界的な脱炭素の動きに呼応して、電力をソーラー、風力などの再エネから得る施策を進めています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「この技術は南アに特化したものとして出発しますが、実績を踏まえて世界の脱炭素エネルギー革命に役立つことを信じています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「また、発電プラントや船舶における燃料利用等、さまざまな分野で脱炭素ソリューションを提供できる可能性を有しており、今後大規模な需要が見込まれています」（https://www.mol.co.jp/pr/2025/25038.html）
   - 「――脱炭素の燃料で、日本はエネルギーの輸入依存を下げることができますか」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
   - 「JERA、国内最大の石炭火力でアンモニア発電 混焼率6割で脱炭素へ」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
   - 「高市首相、「脱炭素」お忘れなく 技術への投資が促す長期株高」（https://www.nikkei.com/topics/22AC0174）
@@ -4095,30 +4102,26 @@
   - 「グリーンアンモニアの競争力は、単なるアンモニア合成技術ではなく、再生可能電力コスト、電解水素製造効率、変動電源への対応能力、水素貯蔵、合成設備柔軟性、設備稼働率、認証制度、輸送インフラによって決定されます」（https://www.atpress.ne.jp/news/8512891）
   - 「一方、欧州企業は既存アンモニア設備、肥料販売網、認証制度対応、物流インフラに優位性を持っています」（https://www.atpress.ne.jp/news/8512891）
   - 「今後の競争軸は計画容量ではなく、安定稼働率、認証済み炭素強度、実効生産量、長期オフテイク契約へ移行すると見られます」（https://www.atpress.ne.jp/news/8512891）
-  - 「2026～2032年のグリーンアンモニア市場では、発表済みプロジェクトから実際の投資決定、建設完了、商業運転、認証取得、長期需要契約への移行が重要になります」（https://www.atpress.ne.jp/news/8512891）
-  - 「低コスト再生可能資源、港湾物流、認証システム、安定需要家を備えたプロジェクトが市場競争で優位になると予想されます」（https://www.atpress.ne.jp/news/8512891）
-  - 「北陸電力、発電効率高いLNG火力２号機稼働へ 安定供給と脱炭素両立」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「航空の脱炭素化 航空燃料の 2% をバイオ燃料化」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「し、ドイツの脱炭素化政策を支援」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「資源を活用し、 脱炭素化を積極的に推進している」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「エネルギー拡大や輸送部門の脱炭素化には国際支援が不」（https://journal.jogmec.go.jp/content/300517186.pdf）
 - 顧客の競合（奪いに来る側）：
-  - 「水素・アンモニアのわなに陥った企業は、莫大な座礁資産を抱え、資産価値の毀損や競合他社の後塵を排することになりかねません」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「インドネシアにおけるブルーアンモニア製造に関する、石油天然ガス・金属鉱物資源機構（JOGMEC）、パンチャ・アマラ・ウタマ社、バンドン工科大学との」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「JICAの情報収集・確認調査としてJERA、東京電力、東電設計が受託・作成したインドネシアの」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「によると、インドネシアの石炭火力発電所でアンモニアを20%混焼する場合、炭素価格が1トンあたり200米ドル以上でなければ、プラスの財務的リターンを得られないとしています」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「参考までに、2022年末までに導入予定のインドネシアの炭素税は、」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「また、財務シンクタンクのトランジション・ゼロは、蓄電池を備えた再生可能エネルギーが、インドネシアでは炭素価格わずか1トンあたり90 米ドル、インドでは1トンあたり22 米ドル、また、ベトナムでは炭素価格なしでも既に石炭より安価であると」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「韓国が石炭火力のアンモニア混焼中止、環境相表明 日本の調達に逆風」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「インドでアンモニア生産支援、日印首脳合意へ IHI参加の再エネ事業」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「伊藤忠商事、インドでアンモニア貯蔵・販売 グリーン燃料輸出も視野」（https://www.nikkei.com/topics/22AC0174）
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省」（https://www.nikkei.com/topics/22AC0174）
-  - 「インドでアンモニア生産支援、日印首脳合意へ IHI参加の再エネ事業」（https://www.nikkei.com/topics/22AC0174）
-  - 「三菱重工、インド産グリーン水素・アンモニアの東南アジア利用へ調査」（https://www.nikkei.com/topics/22AC0174）
-  - 「丸紅、中国企業からアンモニアを長期調達 再生エネ由来」（https://www.nikkei.com/topics/22AC0174）
+  - 「またアンモニアは水素を含むことから水素キャリアとしても利用可能であり、既存のインフラを活用して安価に製造・輸送できる特長があります」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「水素に変換して貯蔵し、燃料電池（自動車）などで利用することも展望されていますが、安価なグリーン水素を供給するまでには至っていないのです」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「を埋め戻したブルーアンモニアをサウジアラビア、UAEから輸入し始めており、オーストラリア、米国からの輸入も実現に向けて動き出しています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「2022年11月29、30日に南ア・ケープタウンで水素サミットが開催され、アフリカ各国と共に欧州、日本など多数の国が参加しました（図3）」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「一方、欧州を中心としてソーラー、風力の変動補償として経済的に優れた砕石蓄熱が提案されています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「大西洋に面したBoegoebaaiの港から10万トンタンカーが日平均2.7回、南ア東部、欧州、東アジア、日本へ船出することになるでしょう」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「また、設備費は半額程度（水素/アンモニア製造設備0.36倍＋熱貯蔵設備）になり、総体として著しく安価になると考えています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「触媒にニッケルなど安価な金属を用いることの出来る陰イオン交換膜や、隔膜を使ったアルカリ水分解もいくつかの課題を抱えながらも話題となっています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「3年間の米国での研究を経て、帰国後はオランダ・トゥウェンテ大学との研究交流を20年以上続ける」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「日本最大のアンモニア供給源となることが見込まれている米国のブルーポイント製造事業では、建設コストの上昇が続いており、アンモニア混焼による発電コストは、日本国内で既に導入されている再生可能エネルギーよりも高くなる可能性がある」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「これらの技術は企業や家庭のエネルギーコストを引き下げるとともに、エネルギー安全保障を強化し、日本の脱炭素目標をより安価かつ確実に達成するための道筋を提供する」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「その中でも最も重要な供給源候補の一つが、米国ルイジアナ州で開発中のBlue Point製造事業（以下「ブルーポイント」）である」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「米国ガルフコースト地域でCCSを組み合わせてブルーアンモニアを生産するには多額のコストがかかるため、日本国内で既に普及している再生可能エネルギーに比べると競争力は限定的となる」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「その中でも最も重要なのが、米国ルイジアナ州で開発中のブルーポイントである」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
+  - 「であり、ブルーポイントで生産されるアンモニアの一部は欧州およびアジアにも供給する」（https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing）
 - 自社の競合（商社・代理店・仲介）：
+  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://newscast.jp/news/1642130）
+  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://newscast.jp/news/1642130）
+  - 「If you are a reseller/distributor please」（https://www.idtechex.com/ja/research-report/ammonia-market/1163）
   - 「The ammonia will be produced at AM Green’s facility in Kakinada, Andhra Pradesh, due to be commissioned by 2028/29 and supplied through facilities being developed next to JERA’s Hekinan Thermal Power Station in Aichi Prefecture, the company said in a statement.」（https://www.bernamabiz.com/news.php?id=2626738）
   - 「販売代理店、提携、直接参入の選択肢」（https://www.indexbox.io/ja/blog/jera-signs-binding-agreement-with-am-green-for-70000-tonnes-of-green-ammonia-annually/）
   - 「700億円の自社株買い・増配・株式4分割も発表済みで、株主還元の姿勢は商社トップクラスだ」（https://note.com/lowlight280/n/nc12b51e00e00）
@@ -4131,42 +4134,44 @@
   - 「Green ammonia will be produced at AM Green’s Kakinada facility in Andhra Pradesh, India, planned to be commissioned by 2028/29. The facility will be supported by AM Green’s innovative round-the-clock renewable energy architecture, reinforced by pumped-hydro storage, powered by advanced alkaline electrolysis technology.」（https://www.indianweb2.com/2026/10/jera-and-am-green-ink-landmark-pact-to.html）
   - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/5784850）
   - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/green-ammonia-market）
-  - 「【Vol.88】CO2ゼロの船が走り出す——2026年から始まるアンモニア燃料革命と日本商社の勝算」（https://note.com/tag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2）
-  - 「CERC (Central Electricity Regulatory Commission) (2025) Report on Short-term Power Market in India, 2024-25. URL:」（https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf）
-  - 「CERC (Central Electricity Regulatory Commission) (2026) Suo-Motu Order in Petition No. 12/SM/2025. URL:」（https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf）
 - 政治（法・予算・規制）：
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省」（https://www.nikkei.com/topics/22AC0174）
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「などの計画について、水素社会推進法に基づく価格差支援制度の対象に認定した」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「高市早苗首相は7月1〜3日にインドを訪れ、モディ首相との会談で両政府による支援について合意する」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「など計7社を事業者として認定した」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「ピアでの送電線の接続、政府支援による低廉な価格の電」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「しかし、アフリカの多くの国で政府はすでに多額の債務」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「ただし、ナイジェリアやガーナの補助金改革により、需」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「るものの、規制の不透明さやプロジェクトの遅延が課題」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「料金の補助金を徐々に削減し、再生可能エネルギー生産」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「エジプト政府は、再生可能エネルギーの潜在能力、地」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「法律面では、政府は2024年1月にグリーン水素製造」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「プロジェクトに対する優遇措置を定めた2024年法律2」（https://journal.jogmec.go.jp/content/300517186.pdf）
-  - 「エネルギー補助金改革 2014 年から補助金を段階的に削減し、2024/25 年度までに終了予定」（https://journal.jogmec.go.jp/content/300517186.pdf）
+  - 「グリーンイノベーション基金事業「燃料アンモニアのサプライチェーン構築」に着手 | ニュース | NEDO」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「グリーンイノベーション基金事業「燃料アンモニアのサプライチェーン構築」に着手」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「NEDOは、グリーンイノベーション基金事業の一環で、脱炭素燃料の候補の一つとして期待される燃料アンモニアの社会実装を進める「燃料アンモニアサプライチェーンの構築プロジェクト」（予算総額598億円）に着手します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「1．グリーンイノベーション基金事業について」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「日本政府は2020年10月に「2050年カーボンニュートラル」を宣言し、2050年までに温室効果ガスの排出を全体としてゼロにする目標を掲げました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「この目標は従来の政府方針を大幅に前倒しするものであり、実現するにはエネルギー・産業部門の構造転換や大胆な投資によるイノベーションなど現行の取り組みを大きく加速させる必要があります」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「このため、経済産業省は国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）に総額2兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業などを研究開発・実証から社会実装まで10年間継続して支援するグリーンイノベーション基金事業を立ち上げました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「なお、NEDOは本基金事業の取り組みや関連技術の動向などをわかりやすく伝えていくことを目指し、「グリーンイノベーション基金事業 特設サイト」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「※1 グリーンイノベーション基金事業 特設サイト」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「グリーンイノベーション基金事業 特設サイト」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「日本政府が掲げる「2050年カーボンニュートラル」への挑戦を、経済と環境の好循環につなげるための産業政策として、2021年6月18日に経済産業省が関係省庁と連携して「2050年カーボンニュートラルに伴うグリーン成長戦略」を策定しました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「グリーンイノベーション基金の適切かつ効率的な執行に向けて、経済産業省においてグリーンイノベーション基金で実施する「燃料アンモニアサプライチェーンの構築」プロジェクトの内容を「研究開発・社会実装計画」として策定しました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「（グリーンイノベーション基金事業全体についての問い合わせ先）」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「NEDO グリーンイノベーション基金事業統括室 担当：井上、堀、茂手木」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「グリーンイノベーション基金事業【事業紹介】」（https://www.nedo.go.jp/news/press/AA5_101502.html）
 - 経済（規模・価格・為替）：
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省」（https://www.nikkei.com/topics/22AC0174）
-  - 「実証段階や初期稼働段階にあった複数プロジェクトが商業生産へ移行し、2025年の世界販売量は283.9千トン、メーカー売上高は235.90百万米ドルに達しました」（https://www.atpress.ne.jp/news/8512891）
-  - 「平均出荷価格は約831米ドル/トンとなっています」（https://www.atpress.ne.jp/news/8512891）
-  - 「2026年には販売量が752.9千トン、売上高は576.64百万米ドルまで拡大すると予測され、平均価格は約766米ドル/トンまで低下する見込みです」（https://www.atpress.ne.jp/news/8512891）
-  - 「さらに2032年には世界グリーンアンモニア販売量は約13.5百万トン、売上規模は8,900百万米ドルに達すると予測されています」（https://www.atpress.ne.jp/news/8512891）
-  - 「2026～2032年の販売量CAGRは61.78%、売上高CAGRは57.8%となり、市場成長の主因は高価格維持ではなく、大規模生産による供給量拡大とコスト低減になると考えられます」（https://www.atpress.ne.jp/news/8512891）
-  - 「Envision Energy、SPIC Jilin Electric Power、Yara、Fertiberia、Fertiglobe（ADNOC）の5社は、世界メーカー売上高の約57.8%を占めました」（https://www.atpress.ne.jp/news/8512891）
-  - 「Envision Energyは2025年に79.89百万米ドルのグリーンアンモニア売上を計上し、世界市場の約33.87%を占めました」（https://www.atpress.ne.jp/news/8512891）
-  - 「2025年の肥料用途販売量は185千トンで、世界グリーンアンモニア販売量の65.16%を占め、売上高は146.36百万米ドルでした」（https://www.atpress.ne.jp/news/8512891）
-  - 「平均価格は約791米ドル/トンで、大量調達・標準仕様・価格感応度の高さから主要用途の中で最も低い水準となっています」（https://www.atpress.ne.jp/news/8512891）
-  - 「2026～2032年の販売量CAGRは、発電用途で65.01%、船舶燃料用途で64.99%と予測され、肥料用途の60.73%を上回ります」（https://www.atpress.ne.jp/news/8512891）
-  - 「本記事は、QY Research発行のレポート「グリーンアンモニア―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します」（https://www.atpress.ne.jp/news/8512891）
-  - 「世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032」（https://www.atpress.ne.jp/news/8512891）
-  - 「コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026」（https://www.atpress.ne.jp/news/8512891）
+  - 「NEDOは、グリーンイノベーション基金事業の一環で、脱炭素燃料の候補の一つとして期待される燃料アンモニアの社会実装を進める「燃料アンモニアサプライチェーンの構築プロジェクト」（予算総額598億円）に着手します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「このため、経済産業省は国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）に総額2兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業などを研究開発・実証から社会実装まで10年間継続して支援するグリーンイノベーション基金事業を立ち上げました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「算：598億円」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「年11ヶ月稼働なので年平均値はこの値を11/12倍した値になります」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「その特徴は蓄電池の1/10-1/5といわれる装置価格の安さです」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「この原稿に手を入れている時、2023年10月、UAEのギガソーラーの売電価格（昼）がこれまでの最安値1.35セント（2円）/kWhで落札されました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「この昼価格を昼夜フラット電力に変換するとエネルギー価格では1.5倍だが、蓄熱装置など勘案して4円/kWhのフラット電力が（おそらく南アでも）可能でしょう」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「この値段はよく耳にするブラウンアンモニア国際価格（400ドル/t）に匹敵します」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「PCRストリップチューブの世界市場（2026年～2032年）、市場規模（小容量、標準）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「高調波フリッカー試験システムの世界市場（2026年～2032年）、市場規模（単相高調波フリッカー試験システム、三相高調波フリッカー試験システム）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「航空宇宙用フッ素系グリースの世界市場（2026年～2032年）、市場規模（広温度範囲タイプ、超低温タイプ、高真空タイプ）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「高SRIコーティングの世界市場（2026年～2032年）、市場規模（アクリルコーティング、PVDFコーティング、アルミニウムコーティング、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「眼鏡用シートの世界市場（2026年～2032年）、市場規模（ジアセテート、トリアセテート）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「温室農業用ロボットの世界市場（2026年～2032年）、市場規模（温室巡回ロボット、果物・野菜収穫ロボット、温室散布ロボット、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「ヒト生体試料の世界市場（2026年～2032年）、市場規模（ヒト生体液、ヒト組織サンプル、細胞製品、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
 - 社会（人・担い手）：
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/topics/22AC0174）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZRSP688799_V20C25A3000000/）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUA291L50Z20C26A6000000/）
+  - 「人手不足、設備の老朽化、気候変動による災害の激甚化……」（https://journal.meti.go.jp/policy/202609/47506/）
+  - 「特に水素・アンモニアの社会実装の担い手となる中小を含めた事業者にとっては、「つくる」「ためる」「はこぶ」「つかう」というサプライチェーンの各段階で、「高圧ガス保安法」「ガス事業法」「電気事業法」などの産業保安関連法令をはじめ、「労働安全衛生法」「消防法」「毒劇法」等々、使用形態などに応じて、様々な法令の順守が求められることになる」（https://journal.meti.go.jp/policy/202609/47506/）
   - 「調達 （ローカルコンテンツ） 、技術移転と人材育成の実施」（https://journal.jogmec.go.jp/content/300517186.pdf）
   - 「ネルギーミックスの多様化、炭素排出の削減、雇用創出」（https://journal.jogmec.go.jp/content/300517186.pdf）
   - 「また、技術移転の奨励、雇用創出、知識共」（https://journal.jogmec.go.jp/content/300517186.pdf）
@@ -4177,43 +4182,38 @@
   - 「育、雇用創出、社会保護の強化を推進する必要がある」（https://journal.jogmec.go.jp/content/300517186.pdf）
   - 「部品の現地製造を支援し、雇用創出を図る」（https://journal.jogmec.go.jp/content/300517186.pdf）
   - 「水素をより効率的に長距離輸送できるアンモニアの能力は、国際的なエネルギー輸送の担い手として、より魅力的になっています」（https://itbusinesstoday.com/ja/industrial-tech/science/japans-first-green-ammonia-plant-begins-operations-boosting-clean-energy-ambitions/）
-  - 「AZEC閣僚会合を継続（技術面、資金面、人材面等での手厚い支援と政策協調で、市場拡大による新技術拡大・コスト低減を図る）」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf）
-  - 「・人材・投資を呼び込み、市場に製品・サービスを供給するためのバイオコミュニティ形成」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf）
-  - 「受発注者のICT施工人材育成の推進、建設現場のデータの見える化による効率化の推進等」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf）
-  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
-  - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
 - 技術（新しい技術・実証）：
-  - 「アンモニアおよび水素混焼の実証などに使用される」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「JERAの碧南発電所ではアンモニア混焼の実証が行われている」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「Reports + campaign materials」（https://www.marketforces.org.au/campaigns/asia/investors-left-blue-by-fossil-hydrogen-and-ammonia-jp/）
-  - 「――日本が研究開発に力を入れるアンモニア燃料の活用について、海外から石炭との混焼に「石炭火力の延命だ」との批判があります」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「砂漠のレアアース、共同開発を ナミビア国際関係・貿易相」（https://www.nikkei.com/topics/22AC0174）
-  - 「日揮HD、再エネ由来アンモニアの製造実証 福島県で26年度末まで」（https://www.nikkei.com/topics/22AC0174）
-  - 「日本特殊陶業、ポーランドでグリーンアンモニア向け装置の開発で覚書」（https://www.nikkei.com/topics/22AC0174）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/topics/22AC0174）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/topics/22AC0174）
-  - 「実証段階や初期稼働段階にあった複数プロジェクトが商業生産へ移行し、2025年の世界販売量は283.9千トン、メーカー売上高は235.90百万米ドルに達しました」（https://www.atpress.ne.jp/news/8512891）
-  - 「近年の技術開発では、風力・太陽光ハイブリッド発電、水素バッファ設備、短時間蓄電池、柔軟運転型空気分離装置、可変負荷対応型アンモニア合成システムの導入が進んでいます」（https://www.atpress.ne.jp/news/8512891）
-  - 「豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています」（https://www.atpress.ne.jp/news/8512891）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
+  - 「NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「本事業では、従来のアンモニア製造法からのさらなる効率化や低コスト化を実現する技術、また、発電利用時に高混焼・専焼化を可能にするバーナなどに関する技術の開発に取り組みます」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「このため、経済産業省は国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）に総額2兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業などを研究開発・実証から社会実装まで10年間継続して支援するグリーンイノベーション基金事業を立ち上げました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「これらを踏まえNEDOは、経済産業省が策定した研究開発・社会実装計画」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「【研究開発項目1】アンモニア供給コストの低減」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「研究開発内容（1）アンモニア製造新触媒の開発・実証」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「●燃料アンモニアサプライチェーン構築に係るアンモニア製造新触媒の開発・技術実証」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「燃料アンモニアの利用拡大に向けて、製造コストの低減を実現できるアンモニア製造新触媒をコアとする国産技術を開発します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「研究開発内容（2）グリーンアンモニア電解合成」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「●常温、常圧下グリーンアンモニア製造技術の開発」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「水と窒素を原料とした電解反応を活用し、常温常圧でアンモニアを製造する方法を開発します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「【研究開発項目2】アンモニアの発電利用における高混焼化・専焼化」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「研究開発内容（1）石炭ボイラにおけるアンモニア高混焼技術（専焼技術含む）の開発・実証」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「●事業用火力発電所におけるアンモニア高混焼化技術確立のための実機実証研究」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「アンモニアと微粉炭を同時に燃焼するアンモニア高混焼微粉炭バーナを新規開発し、事業用火力発電所においてアンモニア利用の社会実装に向けた技術実証を行います」（https://www.nedo.go.jp/news/press/AA5_101502.html）
 - 検索結果の抜粋：
+  - 「グリーンアンモニア 市場― 2026 年～2032年の世界市場予測 — グリーンアンモニア 市場― 2026 年～2032年の世界市場予測 Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/1642130）
+  - 「旭化成が製造する水素を用いた日揮HDのグリーンアンモニア実証プラン... — Jan 28, 2026 · 「再生可能エネルギー由来の水素を活用したアンモニア製造は、エネルギー貯蔵・輸送手段としての可能性に加え、化学原料として幅広い用途を持つアンモニアを脱炭素で供給できる点から、脱炭素社会の実現に向けた重要な技術の一つだと考えています。」（https://www.asahi-kasei.com/jp/news/2026/ze260128）
+  - 「レゾナック、福島県におけるグリーンアンモニア実証プロジェクトにお... — Oct 2, 2026 · <福島水素エネルギー研究フィールド（FH2R* 1 、福島県浪江町）で製造される再生可能エネルギー由来の水素を原料に、日揮HDは福島県浪江町に建設したグリーンアンモニア実証プラント * 2 （同町）において、グリーンアンモニアの製造を開始しました。」（https://www.resonac.com/jp/news/2026/10/02/4066.html）
+  - 「インドAM Green社とのグリーンアンモニア売買に関する基本合意書の締... — Oct 27, 2026 · インドAM Green社とのグリーンアンモニア売買に関する基本合意書の締結～船舶燃料向けグリーンアンモニア長期調達により国際海運の脱炭素化に貢献～ 2026/10/27 株式会社JERAは、このたび、インドのAM Green Ammonia (India) Private Limited（以下「AM Green社」）との間で、グリーンアンモニア売買に関する ...」（https://www.jera.co.jp/news/information/20261027_2562）
+  - 「Japan Green Ammonia Market Size, Share & Forecast 2026-2035 — What is the Japan Green Ammonia Market Size? The Japan Green Ammonia Market size is expected to be USD 27.7 million in 2026 and increase at a compound annual growth rate of 56.4% to USD 1,553.0 million in 2035 owing to government decarbonization policies and hydrogen strategy.」（https://dimensionmarketresearch.com/report/japan-green-ammonia-market/）
+  - 「Japan Green Ammonia Market Size & Share, Report | 2034 — Oct 22, 2026 · What is the forecast for the green ammonia market in Japan? The Japan green ammonia market is projected to exhibit a CAGR of 47.74% during 2026-2034, reaching a value of USD 1,232.8 Million by 2034.」（https://www.imarcgroup.com/japan-green-ammonia-market）
+  - 「Japan Green Ammonia Market Size, Share and Forecast 2035 — Sep 17, 2026 · Overall, the future of the japan green ammonia market appears promising, with numerous opportunities for growth and development on the horizon. The Japanese government is actively promoting the adoption of green ammonia through various policies and initiatives.」（https://www.marketresearchfuture.com/reports/japan-green-ammonia-market-48164）
+  - 「Green Ammonia Production Systems Market in Japan | Report ... — Feb 11, 2026 · This report provides an in-depth analysis of the Green Ammonia Production Systems market in Japan, including market size, structure, key trends, and forecast. The study highlights demand drivers, supply constraints, and the competitive landscape across the value chain.」（https://www.indexbox.io/store/japan-green-ammonia-production-systems-market-analysis-forecast-size-trends-and-insights/）
+  - 「Japan Green Ammonia Market Size, Share & Forecast 2026-2035 — Long-term supply agreements, joint production projects, and overseas investments enable Japanese companies to secure competitively priced green ammonia while diversifying import sources.」（https://dimensionmarketresearch.com/report/japan-green-ammonia-market/）
   - 「日揮HD、福島・浪江町でグリーンアンモニア製造実証プラント稼働開始 ... — Jan 28, 2026 · 電力・水素供給の不安定さを考慮した最適運転制御により、プラント全体の効率向上と安定稼働を目指す。 実証期間は2026年度末までを予定しており、日揮HDは制御システムの検証・改良を通じてグリーンアンモニア製造技術の確立に注力する。」（https://kikai-news.net/2026/01/28/日揮hd、福島・浪江町でグリーンアンモニア製造実/）
   - 「【日本】日揮、福島県でグリーンアンモニアの製造開始。日量4トン。国... — Feb 5, 2026 · 2025年11月に建設が完了し、2026年1月上旬にグリーンアンモニアの製造を開始した。 同プラントでは、近隣の福島水素エネルギー研究フィールド（FH2R）より供給される再生可能エネルギー由来の水素を原料としてグリーンアンモニア製造技術を実証する。」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
   - 「Japan’s Road Map for Fuel AmmoniaJapan’s First Green Ammonia Plant Based on KBR’s K-GreeN ...Seven Japanese Companies Jointly Announce to Build and ...AM Green Ammonia Deal With JERA: India To Fuel Japan's ...Clean ammonia bunkering and distribution in JapanJapan Green Ammonia Market Size, Share Report 2035 — These numbers come from METI’s Green Growth Strategy, which we wrote about last month. Fu」（https://ammoniaenergy.org/articles/japans-road-map-for-fuel-ammonia/）
   - 「AM Green Ammonia Deal With JERA: India To Fuel Japan's ... — Oct 27, 2026 · India's AM Green Ammonia has signed a Binding Heads of Agreement with Japan-based JERA to supply 70,000 tonnes of green ammonia annually for five years. The green ammonia, produced at AM Green's ...」（https://www.rediff.com/business/report/jera-and-am-green-sign-pact-for-green-ammonia-supply/20261027.htm）
   - 「Clean ammonia bunkering and distribution in Japan — Oct 6, 2021 · Building on and evolving existing partnerships In May, Yara and JERA announced they are teaming up to develop a clean ammonia supply chain between Australia and Japan. Blue and green ammonia produced at Yara’s Pilbara facility in Western Australia will be exported and used for co-combustion in JERA’s power generating facilities in J」（https://ammoniaenergy.org/articles/clean-ammonia-bunkering-and-distribution-in-japan/）
   - 「Japan’s Road Map for Fuel Ammonia - Ammonia Energy AssociationJapan Green Ammonia Market Size, Share & Forecast 2026–2034Seven Japanese Companies Jointly Announce to Build and ...Japan Green Ammonia Market Size, Share and Forecast 2035KBR Green Ammonia Plant Commissioned in Japan for JGC - — These numbers come from METI’s Green Growth Strategy, which we wrote about last month. Fuel Ammonia is one 」（https://ammoniaenergy.org/articles/japans-road-map-for-fuel-ammonia/）
-  - 「Japan Green Ammonia Market Size, Share and Forecast 2035 — Sep 17, 2026 · The Japanese government is actively promoting the adoption of green ammonia through various policies and initiatives. These efforts include financial incentives for research and development, as well as regulatory frameworks that support the integration of green ammonia into the energy mix.」（https://www.marketresearchfuture.com/reports/japan-green-ammonia-market-48164）
-  - 「JERA、印 グリーンアンモニア 調達 30年から年7万トン — JERA、印 グリーンアンモニア 調達 30年から年7万トン 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/c5e74fb75fbf377f6e5fa96ee92f4e4d）
-  - 「グリーンアンモニア 市場の成長、予測 2026 に 2033 — グリーンアンモニア 市場の成長、予測 2026 に 2033 エキサイトブログ https://kimhelmer92.exblog.jp > ...」（https://kimhelmer92.exblog.jp/38859666/）
-  - 「グリーンアンモニア の世界市場規模： 2026 年は577百万米ドル ... — グリーンアンモニア の世界市場規模： 2026 年は577百万米ドル ... note https://note.com > ビジネス > データ・分析」（https://note.com/qy_research/n/n275618cc3869）
-  - 「IHI=｢ グリーンアンモニア ｣をインドから輸入へ、2028年以降 — IHI=｢ グリーンアンモニア ｣をインドから輸入へ、2028年以降 リム情報開発 https://www.rim-intelligence.co.jp > news > rre」（https://www.rim-intelligence.co.jp/news/rre/1763909.html）
-  - 「インド産 グリーンアンモニア に価格差支援、7社に供給 - 日経BP — インド産 グリーンアンモニア に価格差支援、7社に供給 - 日経BP 日経BP https://project.nikkeibp.co.jp > atcl > news」（https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/05917/?ST=msb）
-  - 「レゾナック、福島県における グリーンアンモニア 実証 ... — レゾナック、福島県における グリーンアンモニア 実証 ... Resonac https://www.resonac.com > ... > ニュースリリース > 2026」（https://www.resonac.com/jp/news/2026/10/02/4066.html）
-  - 「グリーンアンモニアメーカー 上位企業 2026 - 市場調査です — グリーンアンモニアメーカー 上位企業 2026 - 市場調査です エキサイトブログ https://pullman6599.exblog.jp > ...」（https://pullman6599.exblog.jp/245489844/）
-  - 「グリーンアンモニア 市場 | 業界シェア 市場規模 成長性 2026 — グリーンアンモニア 市場 | 業界シェア 市場規模 成長性 2026 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品」（https://www.gii.co.jp/report/moi1934855-green-ammonia-market-share-analysis-industry.html）
 
 ## 合成燃料（e-fuels）
 - 文脈：12 GX ②水素等

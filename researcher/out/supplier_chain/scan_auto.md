@@ -118,8 +118,8 @@
   - www.zaikei.co.jp と sekiso-journal.com：品目の重なり 1/1（100%）
   - www.zaikei.co.jp と 6kadditive.com：品目の重なり 1/1（100%）
   - www.zaikei.co.jp と 3dprint.com：品目の重なり 1/1（100%）
-  - sekiso-journal.com と 6kadditive.com：品目の重なり 1/1（100%）
-  - sekiso-journal.com と 3dprint.com：品目の重なり 1/1（100%）
+  - 6kadditive.com と sekiso-journal.com：品目の重なり 1/1（100%）
+  - 3dprint.com と sekiso-journal.com：品目の重なり 1/1（100%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - 6K Additive｜政府・研究機関の契約［不明］

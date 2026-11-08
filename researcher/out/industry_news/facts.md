@@ -3476,10 +3476,13 @@
 ## マテリアルズインフォマティクス（materials informatics）
 - 文脈：9 マテリアル ⑥AI活用材料
 - 痛み・損（深さの印）：
+  - 「【2026年11月最新】離職票は再発行できる？手続きの流れ・必要書類・期限を社労士事務所の顧問先対応の目線で整理し、離職手続きの事務作業をAIに任せる方法」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「補助金概要：事業承継やM&Aに伴う設備投資、専門家活用、PMI、廃業・再チャレンジ等を支援する補助金です」（https://www.min-kei.jp/news_dashboard28/）
   - 「AIの普及でソフトウェア企業に起きた人員削減や倒産の事例は」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
   - 「イルスによる減産から回復したものの、 年」（https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf）
   - 「洪水による製造拠点の操業停止、 設備の修復費用の」（https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf）
 - 顧客（金を払う側）：
+  - 「研究者の経験や勘に基づく従来手法に比べ、開発期間の大幅短縮やコストの低減が期待され、化学業界を中心に各社の取り組みが加速する一方、MIの導入にあたり、材料に対する深い理解とデータサイエンスの知見を備えた人材の育成・確保が大きな課題となっています」（https://www.link-j.org/member_event/article-49468.html）
   - 「MI動向調査2025 9割が「MIを導入しておらず」：電子ブックレット（素材／化学） - MONOist」（https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html）
   - 「MI動向調査2025 9割が「MIを導入しておらず」」（https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html）
   - 「近年、従来にない新たな物性や機能を有する素材の開発をデジタルの力で効率良く進める開発手法「マテリアルズインフォマティクス（MI）」が国内外の企業から関心を集めています」（https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html）
@@ -3494,8 +3497,8 @@
   - 「これらの課題を放置すると、MIは単なる“導入実績”に終わり、現場での価値を発揮できずに解約や中断につながることもあります」（https://www.mi-seek.com/knowledge/installation-failure.html）
   - 「この記事では、MI導入時によく見られる失敗パターンとその解決策を整理し、失敗を回避しながら成果につなげるためのヒントをお伝えします」（https://www.mi-seek.com/knowledge/installation-failure.html）
   - 「導入に失敗した事例の多くは、こうした専門知識の不足に起因します」（https://www.mi-seek.com/knowledge/installation-failure.html）
-  - 「ある企業では、MIを導入したものの、データ分析やモデル構築に必要な知識を持つ社員が少なかったため、システムの運用に問題が発生しました」（https://www.mi-seek.com/knowledge/installation-failure.html）
 - 顧客の顧客（発注元が求めること）：
+  - 「脱炭素社会を支える触媒や電池材料の設計に、」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
   - 「脱炭素社会を支える触媒や電池材料の設計に、」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
   - 「シャープでは、脱炭素社会やサーキュラーエコノミーの実現に向け、次世代電池の材料開発に取り組んでいる」（https://monoist.itmedia.co.jp/mn/articles/2610/30/news029.html）
   - 「シャープが将来目指すのは、資源制約が小さく、安全性や耐久性にも優れた次世代電池材料の実現を通じ、脱炭素社会とサーキュラーエコノミーに貢献することだ」（https://monoist.itmedia.co.jp/mn/articles/2610/30/news029.html）
@@ -3510,8 +3513,13 @@
   - 「カーやサプライヤーでは、 車両システム全体から末端部品の機能や」（https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf）
   - 「今後はカーメーカーやサプライヤーのみならず産学官の研究機関」（https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf）
   - 「お客さまからの要求納期に合わせ製品を納めるには、 生産能力を」（https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf）
-  - 「踏まえ、 お客さまの要求に応じた製品在庫を確保する必要がある一」（https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf）
 - 顧客の競合（奪いに来る側）：
+  - 「・新規製品開発や参入のため、競合企業の開発状況や将来動向を知りたい」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「「第3章 主要企業の開発動向」では、主要企業の取り組み状況、開発、今後の動向について展開し、競合状況を把握することができます」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「第6章 米国の関税の累積的な影響, 2025」（https://newscast.jp/smart/news/8350130）
+  - 「第19章 米国マテリアル・インフォマティクス市場」（https://newscast.jp/smart/news/8350130）
+  - 「第20章 中国マテリアル・インフォマティクス市場」（https://newscast.jp/smart/news/8350130）
+  - 「第21章 競合情勢」（https://newscast.jp/smart/news/8350130）
   - 「マテリアルズ・インフォマティクスの活用において、近しい研究分野のデータを集積することは相互に良い影響をもたらしますが、一方で競合相手に漏らしたくない機密情報もあることでしょう」（https://www.peaks-media.com/762/）
   - 「【6/26開催】世界シェアNo.1を生んだ「Mr.電子コンパス」…」（https://www.peaks-media.com/762/）
   - 「・新規製品開発や参入のため、競合企業の開発状況や将来動向を知りたい」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
@@ -3521,13 +3529,10 @@
   - 「地政学的考慮：米国、EU、中国、日本、韓国」（https://www.gii.co.jp/report/fmi1510802-global-materials-informatics-market.html）
   - 「台湾TSMCの2026年設備投資は過去最高の500億ドル台へ｜東洋経済オンライン」（https://semi-connect.net/semiconductor-capex-2026/）
   - 「Alphabetは2026年10月28日（米国時間）、2026年7〜9月期の決算を発表しました」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「発表日は次のとおりで、いずれも米国の日付です」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「2026年7〜9月期の決算は、Metaが10月21日、AlphabetとMicrosoftが10月28日、Amazonが10月29日（いずれも米国の日付）に出そろいました」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「AI PCのシェアと定義｜Copilot+ PCの要件・Gartner・Counterpoint・IDCの世界の出荷比率の推移と日本の販売構成比【2026年10月】」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「同大学大学院工学研究科助教を経て、米国カリフォルニア工科大学にて上級客員研究員および客員アソシエートとして研究に従事」（https://miconf.mi-6.co.jp/2026）
-  - 「「取締役会はどのように「Just Say No」できるのか―米国の実務と「企業買収における行動指針」の解釈」」（https://www.morihamada.com/ja/insights/newsletters/o66093）
-  - 「しかし近年では、欧米や中国企業がデジタル技術やAIへの投資を積極的に進めており、競争環境が大きく変化しています」（https://labinformatics.jp/media/column/mi）
 - 自社の競合（商社・代理店・仲介）：
+  - 「【図．LLMを活用した解釈可能なエージェント型AI：MatAgentの概念図】」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://newscast.jp/smart/news/8350130）
+  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://newscast.jp/smart/news/8350130）
   - 「【図．LLMを活用した解釈可能なエージェント型AI：MatAgentの概念図】」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
   - 「して、 売上高1.6兆円以上、 EBITDAマージン20%以上という規模」（https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf）
   - 「EBITDAマージン （％） 14.3 20」（https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf）
@@ -3540,40 +3545,41 @@
   - 「また、マテリアルズ・インフォマティクスに関わるメーカーや商社の場合、当展示会へ出展者としてご参加いただくことも可能です」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
   - 「長瀬産業株式会社はUncountable Inc.が開発・提供する、材料開発に特化したデータマネジメントプラットフォーム「Uncountable（アンカウンタブル）」の販売代理店契約を2022年5月に締結し、国内における販売活動を本格的に開始した」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
   - 「NAGASEグループは化学品関連の市況情報をグローバルに提供するICIS (International Commodity Intelligence Service) が2024年に発行した「Top 100 Chemical Distributors」にて、アジアパシフィック地域の第1位、グローバルで第4位にランキングされました」（https://www.nagase.com/jp/ja/discover/resources/materials-informatics）
-  - 「商社機能、製造（メーカー）機能、研究開発機能を持つNAGASEグループならではの強みを活かし、フード、電気機器、半導体、モビリティ、化学工業、ライフサイエンスといったさまざまな市場のニーズに応じて、ものづくりの課題を素材（マテリアル）を通じて解決していきます」（https://www.nagase.com/jp/ja/discover/resources/materials-informatics）
 - 政治（法・予算・規制）：
-  - 「採算性や実現性が不透明であるために、予算・計画の立案が課題となっていました」（https://www.peaks-media.com/762/）
-  - 「予算を確保するために必要となる明確なエビデンスを作成できるため、開発計画をスムーズに立案できる点も大きなメリットだといえるでしょう」（https://www.peaks-media.com/762/）
-  - 「世界的なPFAS規制の厳格化、中韓勢の台頭、そして熟練技術者の減少――」（https://monoist.itmedia.co.jp/mn/articles/2607/02/news032.html）
-  - 「Amazonは10月29日の決算リリースで、2026年の「cash capital expenditures」（有形固定資産の購入から売却額と補助金を差し引いた額）を約2,200億ドルと引き続き見込むと書いています」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「資産の売却額と仕入先からの補助金を差し引いた額をフリーキャッシュフローの計算に使う」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「Amazonの2026年4〜6月期の現金ベースの額は542億800万ドルで、売却額と補助金を差し引いた「cash capital expenditures」は531億ドルです」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「約2,200億ドル（売却額と補助金を差し引いた「cash capital expenditures」」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「Amazonが公表する直近12か月のフリーキャッシュフロー（売却額と補助金を差し引いた設備投資で計算）は、76億400万ドルのマイナスです」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「Amazonは売却額と補助金を差し引いた「cash capital expenditures」で約2,200億ドル（2026年10月29日の決算リリース）、Microsoftは2026年の暦年で約1,750億ドル（2026年7月29日の決算説明会での発言）としています」（https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii）
-  - 「特許読解、法規制物質チェックにも一貫して対応」（https://www.mi-seek.com/knowledge/installation-failure.html）
-  - 「世界と日本のAI規制と対策：AIの使用は法律違反になる？」（https://www.brainpad.co.jp/doors/contents/01_materials_informatics/）
-  - 「フロン排出抑制法の見直しと事業者への影響－家庭用エアコン、ヤード規制、再生冷媒の循環の実現に向けて－」（https://www.morihamada.com/ja/insights/newsletters/o66093）
-  - 「「証券投資信託以外の投資信託の金融規制上・税務上の論点」」（https://www.morihamada.com/ja/insights/newsletters/o66093）
-  - 「PFAS規制の偏在と資源循環・処理実務―処理・再生利用における実務課題と事業者責任―」（https://www.morihamada.com/ja/insights/newsletters/o66093）
-  - 「篠原 孝典 弁護士の登壇したセミナ⁠ーの模様が⁠、保険毎日新聞『ボルトテックジャパン 保険業法改正セミナー開催⁠』と題した記事に掲載されました」（https://www.morihamada.com/ja/insights/newsletters/o66093）
+  - 「デジタルコラボレーションプラットフォームの普及に伴い、学術界、政府系研究所、民間企業からなる学際的なチームがリアルタイムで連携し、データ駆動型の仮説を実験的検証へと迅速に結びつけています」（https://newscast.jp/smart/news/8350130）
+  - 「市場を牽引する変革的な変化を解き明かし、進化する関税政策の累積的な影響を評価し、詳細なセグメンテーションと地域別の視点を提供するとともに、先駆的な企業のプロファイルを紹介し、意思決定者に実践的な洞察を提供することを目的とした戦略的提言をもって締めくくります」（https://newscast.jp/smart/news/8350130）
+  - 「2次調査では、学術論文、特許出願、ホワイトペーパー、および公開されている技術報告書を幅広く精査し、技術的能力、業界動向、規制状況に関する包括的なベースラインを確立しました」（https://newscast.jp/smart/news/8350130）
+  - 「同時に、貿易政策や関税制度の変遷といった外部要因がサプライチェーン戦略を再構築しており、組織はコスト最適化と戦略的自律性のバランスを図る必要に迫られています」（https://newscast.jp/smart/news/8350130）
+  - 「第6章 米国の関税の累積的な影響, 2025」（https://newscast.jp/smart/news/8350130）
+  - 「主要補助金の公募状況一覧｜締切・採択結果【2026年5月28日更新】」（https://www.min-kei.jp/news_dashboard28/）
+  - 「【ダッシュボード】主要補助金の公募状況一覧｜2026年5月28日更新（締切・採択結果）」（https://www.min-kei.jp/news_dashboard28/）
+  - 「このページは、全国対象の主要補助金8制度について、公募状況、締切、募集中かどうか、最新の採択結果を一覧で確認できるダッシュボードです」（https://www.min-kei.jp/news_dashboard28/）
+  - 「小規模事業者持続化補助金、ものづくり補助金、デジタル化・AI導入補助金、新事業進出補助金、省力化投資補助金などを、公式HP・公募要領をもとに更新しています」（https://www.min-kei.jp/news_dashboard28/）
+  - 「2026年5月28日時点で、申請対応を優先したいのはデジタル化・AI導入補助金（旧：IT導入補助金）と新事業進出補助金です」（https://www.min-kei.jp/news_dashboard28/）
+  - 「デジタル化・AI導入補助金の二次締切は2026/06/15 17:00（あと18日）、新事業進出補助金の第4回公募締切は2026/06/19 18:00（あと22日）です」（https://www.min-kei.jp/news_dashboard28/）
+  - 「今回の重要な差分として、小規模事業者持続化補助金の第20回公募要領が公開されました」（https://www.min-kei.jp/news_dashboard28/）
+  - 「省力化投資補助金の一般型は第6回が締切済み、第7回は6月上旬公募開始予定（詳細は後日公表）」（https://www.min-kei.jp/news_dashboard28/）
+  - 「まず「今回の差分」で、主要補助金の公募状況や締切に前回から変更があったかを確認します」（https://www.min-kei.jp/news_dashboard28/）
+  - 「次に「締切が近い補助金TOP3」で、今週優先して確認すべき制度を見ます」（https://www.min-kei.jp/news_dashboard28/）
 - 経済（規模・価格・為替）：
-  - 「2030年における世界のAI・データ駆動型材料開発全体の市場規模は7兆2千億円から2050年には74兆5千億円規模まで拡大すると予測しています」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
-  - 「2030年のAI・データ駆動型材料開発の世界市場規模は7兆2,000億円規模へ」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
-  - 「Ａ：2030年～2050年までの国内・世界の市場規模予測を掲載しております」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
-  - 「Ａ：2030年～2050年までの日本国内の分野別市場規模予測を掲載しております」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
-  - 「「第2章 材料開発におけるAIの活用状況」では、各分野別（機械学習によるナノ材料の探索、自律進化する知的マテリアル技術、エネルギー材料分野へのAI応用、量子AIと物性研究、AI材料設計）の開発動向と国内・世界のカテゴリ別市場規模の確認ができます」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
-  - 「2．AI・データ駆動型材料開発の全体の市場規模と動向」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
-  - 「2030年、世界AI・データ駆動型材料開発の市場規模は7兆2千億円へ」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
-  - 「「データセンター向けロボットの世界市場」調査資料（国内市場規模も記載）を発行、年平均9.8%で成長する見込み」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225901.html）
-  - 「前年比20%増、過去最大の水準です」（https://semi-connect.net/semiconductor-capex-2026/）
-  - 「520億〜560億ドル（約8兆2,000億〜8兆9,000億円）」（https://semi-connect.net/semiconductor-capex-2026/）
-  - 「2025年の409億ドル（約6兆5,000億円）から」（https://semi-connect.net/semiconductor-capex-2026/）
-  - 「同社の魏哲家CEOは、2026年のファウンドリ業界全体の成長率が約14%と見込まれる中で、」（https://semi-connect.net/semiconductor-capex-2026/）
-  - 「「業界全体を上回り、前年比30%を超える増収を目指す」」（https://semi-connect.net/semiconductor-capex-2026/）
-  - 「Samsungの2026年の投資額は」（https://semi-connect.net/semiconductor-capex-2026/）
-  - 「、前年比+20%の見込みです」（https://semi-connect.net/semiconductor-capex-2026/）
+  - 「2030年における世界のAI・データ駆動型材料開発全体の市場規模は7兆2千億円から2050年には74兆5千億円規模まで拡大すると予測しています」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「2030年のAI・データ駆動型材料開発の世界市場規模は7兆2,000億円規模へ」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「Ａ：2030年～2050年までの国内・世界の市場規模予測を掲載しております」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「Ａ：2030年～2050年までの日本国内の分野別市場規模予測を掲載しております」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「「第2章 材料開発におけるAIの活用状況」では、各分野別（機械学習によるナノ材料の探索、自律進化する知的マテリアル技術、エネルギー材料分野へのAI応用、量子AIと物性研究、AI材料設計）の開発動向と国内・世界のカテゴリ別市場規模の確認ができます」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「2．AI・データ駆動型材料開発の全体の市場規模と動向」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「2030年、世界AI・データ駆動型材料開発の市場規模は7兆2千億円へ」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「総動員23万人・興行収入3億円突...」（https://www.dreamnews.jp/press/0000367181）
+  - 「マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています」（https://newscast.jp/smart/news/8350130）
+  - 「CAGR（%） 18.34%」（https://newscast.jp/smart/news/8350130）
+  - 「CAGRは18.34%です」（https://newscast.jp/smart/news/8350130）
+  - 「典型例：通常枠1プロセス以上で5万円以上150万円未満、4プロセス以上で150万円以上450万円以下」（https://www.min-kei.jp/news_dashboard28/）
+  - 「典型例：第4回公募・従業員20人以下750万円〜2,500万円、21〜50人750万円〜4,000万円、51〜100人750万円〜5,500万円、101人以上750万円〜7,000万円」（https://www.min-kei.jp/news_dashboard28/）
+  - 「典型例：一般型第6回・従業員5人以下750万円、6〜20人1,500万円、21〜50人3,000万円、51〜100人5,000万円、101人以上8,000万円」（https://www.min-kei.jp/news_dashboard28/）
+  - 「カタログ注文型は最大1,500万円」（https://www.min-kei.jp/news_dashboard28/）
 - 社会（人・担い手）：
+  - 「MIを単発で終わらせず、組織全体で継続的に活用していくためのヒントと、推進人材の育成・発掘に向けたMI-6の支援内容（miHub、Hands-on MIなど）もお伝えします」（https://mono.ipros.com/company/detail/2082487/news/）
+  - 「補助金概要：人手不足解消に向けた省力化投資を支援する補助金です」（https://www.min-kei.jp/news_dashboard28/）
   - 「【2026年11月最新】労災保険と雇用保険の違い｜給付内容・加入条件・保険料・手続きの比較と、労働保険の事務作業を社労士事務所がAIに任せる方法」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「総合化学メーカーの旭化成株式会社では、多くの製品開発にマテリアルズ・インフォマティクスを活用し、人材育成も含めて積極的にマテリアルズ・インフォマティクスの強化に取り組んでいます」（https://www.peaks-media.com/762/）
   - 「かなり専門性の高い知識が求められるため、これらを兼ね備えた人材の確保が課題となるでしょう」（https://www.peaks-media.com/762/）
@@ -3587,9 +3593,8 @@
   - 「しかし、この両方を兼ね備えた人材は非常に限られており、多くの企業で人材不足が課題となっています」（https://labinformatics.jp/media/column/mi）
   - 「そのため、単に人材を採用するだけでなく、既存人材の育成やチームとしての連携体制の構築が重要になります」（https://labinformatics.jp/media/column/mi）
   - 「異なる専門分野の人材が協働できる環境づくりが、MI成功の大きなポイントとなります」（https://labinformatics.jp/media/column/mi）
-  - 「一方で、MIの導入にはデータ不足や人材不足、運用面の課題といったハードルも存在します」（https://labinformatics.jp/media/column/mi）
-  - 「研究者の勘や経験をデータが下支えすることで材料開発の飛躍的な進歩が期待される一方、データが不足している状況での分析や専門人材の不足などの課題も指摘されています」（https://eaglys.co.jp/resource/columns/materials_informatics）
 - 技術（新しい技術・実証）：
+  - 「マテリアルズ・インフォマティクス（MI）－材料開発の未来を担う人材探索 | 特別会員開催イベント | LINK-J」（https://www.link-j.org/member_event/article-49468.html）
   - 「3Dプリンタ」（https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html）
   - 「近年、従来にない新たな物性や機能を有する素材の開発をデジタルの力で効率良く進める開発手法「マテリアルズインフォマティクス（MI）」が国内外の企業から関心を集めています」（https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html）
   - 「金属ナノ粒子の産業利用に向け、量産化に対応する技術展開を推進」（https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html）
@@ -3604,8 +3609,10 @@
   - 「従来の職人的な技術や経験に基づく判断を重視する文化が根強く、新技術への理解や受け入れが進まず、結果的にデータを適切に活用できず、期待された成果が得られないままプロジェクトは停滞するようなケースです」（https://www.mi-seek.com/knowledge/installation-failure.html）
   - 「巴川コーポレーションでは、製品設計における最適化をベテラン開発者の経験に頼っており、若手の育成には数年を要していました」（https://www.mi-seek.com/knowledge/installation-failure.html）
   - 「多品種少量の高付加価値製品をスピーディーに開発するには、属人性を超えた再現性ある技術継承が必要とされていたのです」（https://www.mi-seek.com/knowledge/installation-failure.html）
-  - 「それにより、開発力の底上げとスピードの両立を図ることが導入の最大の狙いでした」（https://www.mi-seek.com/knowledge/installation-failure.html）
 - 検索結果の抜粋：
+  - 「2026年版 AI・データ駆動型材料開発（MI）の市場と技術動向 — 2026年版 AI・データ駆動型材料開発（MI）の市場と技術動向 yano.co.jp https://www.yano.co.jp > market_reports」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vKZlrRyKbz0vD1_kwHpYIbr1sIfx9pOfHsNfTJfAm-m8kyzSuXC）
+  - 「MI-6のニュース一覧 | 企業情報 | イプロスものづくり — MI-6のニュース一覧 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信 > MI-6株式会社」（https://mono.ipros.com/company/detail/2082487/news/）
+  - 「Summit of Materials Science 2026 and GIMRT User Meeting — Summit of Materials Science 2026 and GIMRT User Meeting Tohoku University https://www.tohoku.ac.jp > events > s...」（https://www.tohoku.ac.jp/en/events/special_event/summit_of_materials_science_2026_and_gimrt_user_meeting.html）
   - 「MI動向調査2025 9割が「MIを導入しておらず」 - MONOist — MI動向調査2025 9割が「MIを導入しておらず」 - MONOist MONOist https://monoist.itmedia.co.jp > articles > news016」（https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html）
   - 「2026年版 AI・データ駆動型材料開発（MI）の市場と技術動向 — 2026年版 AI・データ駆動型材料開発（MI）の市場と技術動向 yano.co.jp https://www.yano.co.jp > market_reports」（https://www.yano.co.jp/market_reports/C68106900?srsltid=AYCX9vJXSGzRers7jzC4LFZibhTxpphk2xf39kwL3R3lwYtddFdu0ZKa）
   - 「【2026年最新】マテリアルズインフォマティクス導入事例まとめ｜大手... — Sep 14, 2026 · 【2026年最新】マテリアルズインフォマティクス導入事例まとめ｜大手化学メーカー5社に学ぶMI活用のリアル かなめ │ ケミストのDXノート 2026年9月14日 22:26」（https://note.com/ideal_lemur777/n/ne425544e0f80）
@@ -3618,9 +3625,6 @@
   - 「Materials Informatics Conference 2026 | MI-6株式会社 — Jul 15, 2026 · 開催概要 マテリアルズ・インフォマティクス（MI）は、材料開発におけるデータ活用の可能性を広げてきました。予測、最適化、実験計画、データ基盤の整備などは、すでに多くの研究開発現場で実践されつつあります。 その先にあるのは、AIが探索・実験・計測・プロセス制御と結びつき ...」（https://mi-6.co.jp/webinars/20260715/）
   - 「【MI-6】 国内最大級のマテリアルズ・インフォマティクス特化カンファ... — Jun 2, 2026 · 2026年7月15日（水）に研究開発の進化を加速するマテリアルズ・インフォマティクス（以下MI）に焦点を当てた国内最大級のカンファレンスをMI-6 ...」（https://prtimes.jp/main/html/rd/p/000000049.000034072.html）
   - 「2026年版 MI・計算化学・材料科学に関連する日本の学会一覧 — Aug 29, 2026 · 2026年に日本で開催される、マテリアルズインフォマティクス、計算化学、材料科学に関連する学会・討論会を開催月別にまとめます。開催日、会場、対象分野、講演・参加申込情報、公式サイトを確認できます。」（https://tech.gijukatsu.com/2026-japan-materials-conferences/）
-  - 「MI-6 to Host "MI Conf 2026," One of Japan's Largest ... — May 21, 2026 · MI-6 Ltd. is pleased to announce the return of our annual online conference dedicated exclusively to Materials Informatics (MI), following the success of last year's event which drew over 1,800 registrants.」（https://mi-6.co.jp/en/news/20260521/）
-  - 「国内最大級のMIに特化したカンファレンス「MI Conf 2026」を開催 — May 21, 2026 · 4年目の開催となるMI Conf 2026では、「データが駆動する、研究開発の未来 〜AI for ScienceからフィジカルAIまで〜」をテーマに、MIの実践知を起点にデータ・AI・実験をつなぎ、研究開発の次なる実装を切り拓くための議論を展開します。 カンファレンス概要」（https://mi-6.co.jp/news/20260521/）
-  - 「MI Conf 2026とは？開催概要・登壇者・注目セッションを解説 — MI Conf 2026の開催概要、登壇者、注目セッションを整理。MI-6主催のマテリアルズインフォマティクス特化カンファレンスについて、テーマや見どころを分かりやすく解説します。」（https://www.mi-seek.com/news/mi-conf-2026.html）
 
 ## ペロブスカイト太陽電池（perovskite solar cell）
 - 文脈：12 GX ①ペロブスカイト
@@ -4064,22 +4068,29 @@
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
   - 「受注残高 1.１兆円の確実な遂行に」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
 - 顧客（金を払う側）：
-  - 「は、合成燃料開発工場の完成予想図）」（https://rief-jp.org/ct4/147936）
-  - 「企業のサステナビリティ報告のグローバル・フレーム...」（https://rief-jp.org/ct4/147936）
-  - 「三井物産の合成燃料、想定外の車向け受注増 デンマーク工場商業稼働」（https://www.nikkei.com/topics/23032901）
-  - 「三井物産は20日、デンマークの低炭素合成メタノール工場が商業稼働したと発表した」（https://www.nikkei.com/topics/23032901）
-  - 「自動車燃料向けの合成メタノールの調達相談が10件超に上ったからだ」（https://www.nikkei.com/topics/23032901）
-  - 「出光、インド農薬大手と合成燃料・バイオ燃料の調達で共同検討」（https://www.nikkei.com/topics/23032901）
-  - 「三井物産や商船三井など、米合成燃料に出資 SAF量産へ」（https://www.nikkei.com/topics/23032901）
-  - 「三菱商事、合成燃料の米新興に出資 企業の低炭素化支援」（https://www.nikkei.com/topics/23032901）
-  - 「欧州最大級の合成燃料工場、オーステッドが建設断念」（https://www.nikkei.com/topics/23032901）
-  - 「CO2ゼロ合成燃料に初出資 政府、米社からの調達支援」（https://www.nikkei.com/topics/23032901）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/topics/23032901）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
-  - 「e-fuelは、次の利点を有していることから、メタン、ガソリン、軽油、ジェット燃料などの既存燃料に代替し、カーボンニュートラルに貢献する次世代の燃料として導入の拡大が期待されています」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
-  - 「が排出されますが、製造時に発電所や工場などから排出されるあるいは大気中のCO」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
-  - 「当社グループは、水素製造から燃料合成、精製までの事業化（初期検討から設計・調達・建設および既存設備の改造・統合を含む有効活用）を一気通貫で支援するソリューションを提供します」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「中東依存という日本のエネルギー調達の弱点が、いま改めて焦点になっている」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
+  - 「エネルギー調達の不安が顕在化する中、燃料を自らつくる動きが加速している」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
+  - 「）と水から液体燃料をつくる一貫プロセスの実証に成功する企業が現れ、実験室の外へと技術開発が動き出している」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
+  - 「すでに官民一体となって研究開発が進む合成燃料（e-fuel）ですが、実はその裏には、JOGMECが民間企業と共同で開発した、「JAPAN-GTLプロセス」という技術が生かされています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「合成燃料（e-fuel）は、再生可能エネルギー由来の水素（このような水素を「グリーン水素」といいます）と、発電所や工場から排出される二酸化炭素や大気中の二酸化炭素を使って製造することから、従来の化石燃料と違い、ライフサイクル上で大気中の二酸化炭素を増やすことがない、カーボンニュートラルな燃料と言えます」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「このプロジェクトの背景には、JOGMECが民間企業と共同で、1998年から2012年にかけて取り組んできた日本独自のGTL技術「JAPAN-GTLプロセス」が生かされています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「JAPAN-GTLプロセスの開発プロジェクトでは、まず、1998～2000年度にかけて、JOGMECと民間企業3社が共同で実験室レベルの研究をスタートさせ、日本独自の合成ガス製造技術とFT合成技術を開発しました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「2001～2004年度には、JOGMECと民間企業5社と共同で、北海道苫小牧市にGTLパイロットプラントを建設し、日量7バレルの液体燃料の製造を成功させました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「さらに、2006～2012年度には、民間企業6社と共同で、新潟県新潟市にGTL実証プラントを建設し、日量500バレルの液体燃料の製造を達成させたのです」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「ENEOSとドイツのGerman eFuel One GmbH（以下、GEF1）は、合成燃料の日本導入支援及び低炭素燃料の国際的な合成燃料バリューチェーンの構築を目的とした戦略的協業を開始した」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「同協業は、ENEOSにとって日本への合成燃料初輸入案件となり、日本市場における合成燃料の導入拡大に向けた一歩となる」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「また、顧客に低炭素燃料の選択肢を提供することで、カーボンニュートラル社会の実現に向けた取り組みを強化する方針である」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「経済特区「D-Hub」、企業誘致と市場参入支援（インドネシア）」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
 - 顧客の顧客（発注元が求めること）：
+  - 「同社グループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「輸送分野の脱炭素化が求められる中、合成燃料は電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「2020年設立のElyse Energyは、海運と航空輸送の脱炭素化プロジェクト６件を牽引」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「CO2源 認証 考慮事項 代表的な発生源」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「脱炭素化の義務付け、再生可能電力および電気化学変換技術の急速な進歩、世界のサプライチェーンの戦略的再編です」（https://newscast.jp/smart/news/3178078）
+  - 「経済産業省総合資源エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会 委員他」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
   - 「三井物産、合成燃料の米新興に出資 脱炭素の知見狙う」（https://www.nikkei.com/topics/23032901）
   - 「ENEOS、合成燃料を実証生産 脱炭素へ低コスト化検証」（https://www.nikkei.com/topics/23032901）
   - 「排出量を削減でき、航空業界の脱炭素化に貢献します」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
@@ -4088,30 +4099,26 @@
   - 「同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLZvlaExCJW1o3_ysYaS87qBwGUpqIb-kK6vIbhQKCVAPJHV8kN）
   - 「【JPIセミナー】経済産業省「合成燃料など脱炭素燃料導入促進に向けた最新動向と今後の方向性について」4月7日(火)開催」（https://prtimes.jp/topics/keywords/%E5%90%88%E6%88%90%E7%87%83%E6%96%99）
   - 「ENEOSグループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられています」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
-  - 「輸送分野脱炭素化が世界で求められる中、合成燃料は、電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めています」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
-  - 「本協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例です」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
-  - 「BSIジャパン、ネットゼロ移行計画の認証を国内で開始 海外では15社・団体が取得」（https://carboncredits.jp/global/skytree-galetech-mwahera-dac-efuel-kenya/）
-  - 「電動化が難しい航空や海運で、脱炭素の手段として期待されている」（https://carboncredits.jp/global/skytree-galetech-mwahera-dac-efuel-kenya/）
-  - 「これらの進展が相まって、特に電化が技術的に制約される分野において、合成燃料が脱炭素化に有意義な貢献を果たすための道筋が築かれています」（https://newscast.jp/smart/news/3178078）
-  - 「脱炭素化政策、産業能力、進化するエネルギー経済の交差点に位置しています」（https://newscast.jp/smart/news/3178078）
-  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
 - 顧客の競合（奪いに来る側）：
+  - 「石油由来の燃料との競争では、資源量も多く相対的に安価な天然ガスと資源がタイトになりつつある原油との価格差が拡がればGTLが経済的に有利になる期待がありました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「GEF1／eFuel GmbHにとっても、欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、ドイツと日本のエネルギー協力を一層強化するものです」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
+  - 「グリーン水素と回収されたCO₂を組み合わせることにより、本プロジェクトはモビリティおよび産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がります」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
+  - 「欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増しています」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
+  - 「GEF1の製造コンセプトは、欧州のこれらの持続可能性基準および規制要件を満たすよう設計されています」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
+  - 「ENEOSとGEF1両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指します」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
+  - 「中国碳钢管数据深度研究报告（2026 GEP10JHWSS）」（https://www.gepresearch.com/86/view-1305868-1.html）
+  - 「中国混凝土预制件行业发展及展望报告（2026 GEP107TD3T）」（https://www.gepresearch.com/86/view-1305868-1.html）
+  - 「1.2 欧州」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「本調査では、欧州及び米州におけるe-fuel製造技術開発に携わる企業」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
   - 「日本がアジアで進める化石燃料依存偏重のAZEC政策は、中国へ...」（https://rief-jp.org/ct4/147936）
-  - 「［オルタナEV速報］日本・中国・東南アジア・欧州・米国・中南米のＥＶ月次統計をななめ読み」（https://www.alterna.co.jp/162592/）
-  - 「中間選挙の民主党圧勝で米国の再エネ復活の原動力は知事たち」（https://www.alterna.co.jp/162592/）
-  - 「欧州の環境規制や中東情勢が追い風になっている」（https://www.nikkei.com/topics/23032901）
-  - 「出光、インド農薬大手と合成燃料・バイオ燃料の調達で共同検討」（https://www.nikkei.com/topics/23032901）
-  - 「欧州最大級の合成燃料工場、オーステッドが建設断念」（https://www.nikkei.com/topics/23032901）
-  - 「合成燃料のCO2削減基準を策定へ 欧州は70%減」（https://www.nikkei.com/topics/23032901）
-  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/topics/23032901）
-  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
-  - 「GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLZvlaExCJW1o3_ysYaS87qBwGUpqIb-kK6vIbhQKCVAPJHV8kN）
-  - 「グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLZvlaExCJW1o3_ysYaS87qBwGUpqIb-kK6vIbhQKCVAPJHV8kN）
-  - 「欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLZvlaExCJW1o3_ysYaS87qBwGUpqIb-kK6vIbhQKCVAPJHV8kN）
-  - 「両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLZvlaExCJW1o3_ysYaS87qBwGUpqIb-kK6vIbhQKCVAPJHV8kN）
-  - 「欧州最大級の合成燃料工場、オーステッドが建設断念 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「住友電工が英国に海底ケーブル工場 洋上風力の成長市場、欧州勢追う」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「エネルギー大手、再生可能電力開発者、電解槽メーカー、炭素回収会社、航空燃料ディストリビューター、海運事業者、自動車企業、工業買い手は、プロジェクトリスクの低減と需要確保のために統合エコシステムを形成しています」（https://newscast.jp/news/9043874）
+  - 「Commissioned Research :」（https://newscast.jp/news/9043874）
+  - 「https://www.reportocean.co.jp/commissioned-research-services」（https://newscast.jp/news/9043874）
   - 「また、CCUS EXPOには、電力会社やガス会社、自動車メーカーや商社、脱炭素に取り組む企業などの研究者・開発者が多数来場します」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
   - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://www.atpress.ne.jp/news/8486864）
   - 「＜アジア最大の市場調査レポート販売代理店＞」（https://www.atpress.ne.jp/news/8486864）
@@ -4124,41 +4131,38 @@
   - 「WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了」（https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz）
   - 「25) Centers for Disease Control and Prevention (CDC), "Methanol: Systemic Agent | NIOSH |」（https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf）
   - 「WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm）
-  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://newscast.jp/smart/news/3178078）
-  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://newscast.jp/smart/news/3178078）
-  - 「り、欧 州 委 員 会 （European Commission） の 下 に 置 か れ 、 脱 炭 素 化 と 持 続 可 能 な 成 長 を 推 進 す る た め の」（https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf）
 - 政治（法・予算・規制）：
-  - 「欧州の環境規制や中東情勢が追い風になっている」（https://www.nikkei.com/topics/23032901）
-  - 「CO2ゼロ合成燃料に初出資 政府、米社からの調達支援」（https://www.nikkei.com/topics/23032901）
-  - 「これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLZvlaExCJW1o3_ysYaS87qBwGUpqIb-kK6vIbhQKCVAPJHV8kN）
-  - 「GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLZvlaExCJW1o3_ysYaS87qBwGUpqIb-kK6vIbhQKCVAPJHV8kN）
-  - 「GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLZvlaExCJW1o3_ysYaS87qBwGUpqIb-kK6vIbhQKCVAPJHV8kN）
-  - 「これらの燃料は、厳格な持続可能性基準および規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性があります」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
-  - 「GEF1から合成燃料を輸入することによって、ENEOSは日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化し続ける中でも将来の供給拡大に向けた体制の整備を進めることができます」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
-  - 「GEF1の製造コンセプトは、欧州のこれらの持続可能性基準および規制要件を満たすよう設計されています」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
-  - 「この分野が成熟するにつれ、原料調達、エネルギー統合、規制への適合に細心の注意を払うことが、どのプロジェクトが実証段階から商業規模へと進展するかを決定づけることになります」（https://newscast.jp/smart/news/3178078）
-  - 「合成燃料の転換経路、サプライチェーン、および規制の影響を評価するための、技術的レビュー、利害関係者へのインタビュー、シナリオ分析を組み合わせた調査手法」（https://newscast.jp/smart/news/3178078）
-  - 「調査手法では、公開されている技術文献、特許動向、規制文書を厳密に精査し、変換経路、触媒の開発状況、再生可能エネルギー統合戦略の現状を把握しました」（https://newscast.jp/smart/news/3178078）
-  - 「関税政策が合成燃料の経済性と供給のダイナミクスを再構築しています」（https://newscast.jp/smart/news/3178078）
-  - 「第6章 米国の関税の累積的な影響, 2025」（https://newscast.jp/smart/news/3178078）
-  - 「日本では、グリーンイノベーション基金事業やNEDOの交付金事業により、FT合成プロセスの大規模化や効率化、合成燃料の低コスト化に向けた直接合成や共電解を組み合わせたFT合成の開発が進められています」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
-  - 「合成燃料の商用化に向けて、国立研究開発法人新エネルギー・産業技術総合開発機構のグリーンイノベーション基金事業に参画するなど、国と連携しながら合成燃料の実装に向けて取り組んでいます」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
+  - 「2022年4月、政府は合成燃料（e-fuel）を「グリーン戦略」における重要な技術の1つに選定しました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「現在、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「グリーンイノベーション基金事業／CO2等を用いた燃料製造技術開発プロジェクト」（2022～2028年度）の下、商業化に向け、官民連携による合成燃料（e-fuel）の製造技術の研究開発が進められています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vKeIOY0qDu6lIU41vKOk55wEv0M_xH7KKZuOvwbwu7gw0-tRcoH）
+  - 「⑮ OMV 政府支援 Methanol-to-SAF (M2SAF) プロジェクトコンソーシアムBurghausen製油所にて製造」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「強化に関する法律（通称、バルニエ法）により創設」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「・2025年政府承認に向けた手続き」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「政府は、2021年10月のネットゼロ戦略、2022年7月のジェットゼロ戦略にて、2030年までにSAF」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「12 Monarch EnergyDevelopment LLC 州政府届出」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「（出所）各社及び州政府公表資料をもとにJPEC作成」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「EUでの工場排ガスの利用規制に対して、産業界から見直しの申し出」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「e-fuel製造用CO2原料の利用規制」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「合成燃料のうち、e-fuel製造用CO2の利用については欧米で規制が異なり、現状では、米国で」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「英国 Zero Petroleum 独自開発触媒 英国政府のe-SAFプログラムに採用」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
 - 経済（規模・価格・為替）：
-  - 「長期的な需要先と見込んできた海運業界での需要が伸びず、化石燃料由来のメタノールに比べて、水素とCO2から製造する合成メタノール（合成燃料）の価格低下が見込めないためとしている」（https://rief-jp.org/ct4/147936）
-  - 「合成燃料は、EUが2035年から実施するガソリン車の新車販売禁止措置の例外としてハイブリッド車等での併用燃料としての使用が可能になる見通しだが、価格低下が見込めないと、合成燃料車は電気自動車（EV）に対抗できなくなる」（https://rief-jp.org/ct4/147936）
-  - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略」（https://www.atpress.ne.jp/news/357487）
-  - 「建設用プラスチック市場、2035年に2億8,293万米ドル規模へ拡大予測｜CAGR 7.95％、軽量化・耐久性・省エネ建材の需要拡大が市場成長を加速」（https://www.atpress.ne.jp/news/357487）
-  - 「家電・家具用板ガラス製造装置の世界市場（2026年～2032年）、市場規模（強化ガラス、合わせガラス・複層ガラス、コーティングガラス）・分析レポートを発表」（https://www.atpress.ne.jp/news/357487）
-  - 「コードレスドライバーの世界市場（2026年～2032年）、市場規模（18V、20V、36V）・分析レポートを発表」（https://www.atpress.ne.jp/news/357487）
-  - 「3Dプリントプレート式熱交換器の世界市場（2026年～2032年）、市場規模（金属製熱交換器、非金属製熱交換器）・分析レポートを発表」（https://www.atpress.ne.jp/news/357487）
-  - 「使用済み燃料取扱設備の世界市場（2026年～2032年）、市場規模（固定式、移動式）・分析レポートを発表」（https://www.atpress.ne.jp/news/357487）
-  - 「電動シート調整用モーターの世界市場（2026年～2032年）、市場規模（ブラシ付きDCモーター、ブラシレスDCモーター）・分析レポートを発表」（https://www.atpress.ne.jp/news/357487）
-  - 「Robinson Carbon、ルイジアナにバイオ炭工場 約26億円で年4万トンのCDRクレジットを見込む」（https://carboncredits.jp/global/skytree-galetech-mwahera-dac-efuel-kenya/）
-  - 「このうち、合成燃料由来のe-SAFの混合割合については、2030～2031年は年平均1.2％、2032～2034年は年平均2.0％、2035年に5％、2040年15％、2045年20％、2050年35％と定めた（本特集「」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/bebe8143427503af.html）
-  - 「Concreate Chemicals Receives €350 Million Funding for Germany’s Largest Industrial-Scale e-SAF Plant」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/bebe8143427503af.html）
-  - 「を小規模から段階的に導入）、(2)競争力ある価格での安定供給、(3)需要創出と利用者負担の仕組み（航空会社へのインセンティブ＝」（https://note.com/scivanai/n/n197ffa7731d7）
-  - 「両案件はすでに2025年12月19日に「価格差に着目した支援」も認定済みで、価格差支援は計6件まで認定が進んでいます（豊田通商グリーン水素、レゾナック水素・アンモニア、JERAアンモニア、三井物産アンモニア、YHCサントリー、YHCヒメジ理化）」（https://note.com/scivanai/n/n197ffa7731d7）
-  - 「、価格差支援は6件まで進捗」（https://note.com/scivanai/n/n197ffa7731d7）
+  - 「ところが2011年以降、石炭などに比べCO2排出量の少ない天然ガスへの需要が急激に高まったことで、天然ガス価格と原油価格の価格差は狭まりながら上下に変動し続ける状況になりました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「米州24プロジェクト (前年比+15)」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「欧州73プロジェクト (前年比+37)」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「米州24プロジェクト (前年比+15)FID以降のプロジェクト状況（2024年3月末時点)」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「投資額 20億ドル」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「眼鏡用シートの世界市場（2026年～2032年）、市場規模（ジアセテート、トリアセテート）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「高SRIコーティングの世界市場（2026年～2032年）、市場規模（アクリルコーティング、PVDFコーティング、アルミニウムコーティング、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「航空宇宙用フッ素系グリースの世界市場（2026年～2032年）、市場規模（広温度範囲タイプ、超低温タイプ、高真空タイプ）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「高調波フリッカー試験システムの世界市場（2026年～2032年）、市場規模（単相高調波フリッカー試験システム、三相高調波フリッカー試験システム）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「PCRストリップチューブの世界市場（2026年～2032年）、市場規模（小容量、標準）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「E-燃料市場、2035年までに691億米ド長戦略｜CAGR23.16%で加速する次世代クリーン燃料産業 | NEWSCAST」（https://newscast.jp/news/9043874）
+  - 「E-燃料市場、2035年までに691億米ド長戦略｜CAGR23.16%で加速する次世代クリーン燃料産業」（https://newscast.jp/news/9043874）
+  - 「E-燃料市場は、2025年の86億米ドルから2035年には691億米ドルに拡大し、2026〜2035年の期間で年平均成長率（CAGR）23.16％という強い成長が見込まれる、重要な成長の10年に突入しています」（https://newscast.jp/news/9043874）
+  - 「• 基準年： 2025年、市場規模は86億米ドルに達し、将来のスケールアップに向けた商業的基盤を確立」（https://newscast.jp/news/9043874）
+  - 「2035年に市場規模が691億米ドルに達する見通しは、世界のクリーンエネルギー優先順位の大きな転換を示しています」（https://newscast.jp/news/9043874）
 - 社会（人・担い手）：
   - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/bebe8143427503af.html）
   - 「 プラント・建設業界の ビジネスセーフティ <少子高齢化による人手不足、設備の」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
@@ -4176,22 +4180,24 @@
   - 「AZEC閣僚会合を継続（技術面、資金面、人材面等での手厚い支援と政策協調で、市場拡大による新技術拡大・コスト低減を図る）」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf）
   - 「・人材・投資を呼び込み、市場に製品・サービスを供給するためのバイオコミュニティ形成」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf）
 - 技術（新しい技術・実証）：
+  - 「）と水から液体燃料をつくる一貫プロセスの実証に成功する企業が現れ、実験室の外へと技術開発が動き出している」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
+  - 「AI時代に消えるITベンダー、残るITベンダー」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
+  - 「日本流、フィジカルAIのつくり方」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
+  - 「デンソー、AIで制御ソフトを検図 ベテランの知見を若手が引き出す」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
+  - 「新機構の減速機、同軸ローラーカム 歳差運動でロボット精度を工作機械級に」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
+  - 「すでに官民一体となって研究開発が進む合成燃料（e-fuel）ですが、実はその裏には、JOGMECが民間企業と共同で開発した、「JAPAN-GTLプロセス」という技術が生かされています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「現在、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「グリーンイノベーション基金事業／CO2等を用いた燃料製造技術開発プロジェクト」（2022～2028年度）の下、商業化に向け、官民連携による合成燃料（e-fuel）の製造技術の研究開発が進められています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「実はこの「CO2等を用いた燃料製造技術開発プロジェクト」は、製造プロセスをすべてゼロから開発するわけではありません」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「約10年前に確立したJAPAN-GTLプロセスにおける原料以外の部分、つまり、合成ガス製造からFT合成、アップグレーティングまでの製造プロセスを最大限に活用しつつ、原料が変わったことに伴う合成ガス製造技術や、製造効率を飛躍的に高めるための革新技術を新たに開発することで、合成燃料（e-fuel）の早期商業化を目指そうというわけです」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「JAPAN-GTLプロセスの開発プロジェクトでは、まず、1998～2000年度にかけて、JOGMECと民間企業3社が共同で実験室レベルの研究をスタートさせ、日本独自の合成ガス製造技術とFT合成技術を開発しました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「さらに、2006～2012年度には、民間企業6社と共同で、新潟県新潟市にGTL実証プラントを建設し、日量500バレルの液体燃料の製造を達成させたのです」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「500バレルとは約80キロリットルですが、小型ながら一定の生産規模であり、実証プラントは、開発プロジェクトを通して、3,000時間連続運転を実現」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「JOGMECはこれからもJAPAN-GTLプロジェクトで蓄積した技術や経験を活かし、合成燃料（e-fuel）開発プロジェクトを積極的にサポートする予定です」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
   - 「大規模な合成燃料（e-fuel）開発事業を断念」（https://rief-jp.org/ct4/147936）
   - 「「e-fuel」車開発にも影響か（RIEF） | 一般社団法人環境金融研究機構」（https://rief-jp.org/ct4/147936）
-  - 「「e-fuel」車開発にも影響か（RIEF） ｜」（https://rief-jp.org/ct4/147936）
-  - 「は、合成燃料開発工場の完成予想図）」（https://rief-jp.org/ct4/147936）
-  - 「洋上風力など再エネ大手のデンマークのオーステッド（Orsted）は15日、スウェーデン北部で進めていた合成燃料（e-fuel）開発プロジェクトを中止すると発表した」（https://rief-jp.org/ct4/147936）
-  - 「オーステッドが中止を決めた合成燃料開発プ……」（https://rief-jp.org/ct4/147936）
-  - 「日本の再生可能エネルギーの開発計画は増えるが、系統連系は...」（https://rief-jp.org/ct4/147936）
-  - 「Email: green@rief-jp.org」（https://rief-jp.org/ct4/147936）
-  - 「三菱重工、液体合成燃料製造の実証に成功 CO2と水から航空燃料」（https://www.nikkei.com/topics/23032901）
-  - 「ENEOS、合成燃料を実証生産 脱炭素へ低コスト化検証」（https://www.nikkei.com/topics/23032901）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/topics/23032901）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/topics/23032901）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
-  - 「次世代燃料の社会実装に向けたソリューションの提供」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
 - 検索結果の抜粋：
+  - 「欧米の 合成燃料 製造プロジェクト動向 — 欧米の 合成燃料 製造プロジェクト動向 一般財団法人 カーボンニュートラル燃料技術センター PDF https://www.pecj.or.jp > uploads > 2024/04 > JPECF...」（https://www.pecj.or.jp/wp-content/uploads/2024/04/JPECForum_2024_program_011.pdf）
+  - 「Affordable aviation e - fuels are on the horizon - News and stories — Affordable aviation e - fuels are on the horizon - News and stories Environmental Defense Fund https://blogs.edf.org > 2024/11/22 > a...」（https://blogs.edf.org/energyexchange/2024/11/22/affordable-aviation-e-fuels-are-on-the-horizon/）
   - 「ENEOSとドイツのGerman eFuel One、 合成燃料 分野で戦略的 ... — ENEOSとドイツのGerman eFuel One、 合成燃料 分野で戦略的 ... ENEOS株式会社 https://www.eneos.co.jp > ニュースリリース > 2026年度」（https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html）
   - 「産構審作業部会 CO2 合成燃料 プロジェクトを断念 ENEOS — 産構審作業部会 CO2 合成燃料 プロジェクトを断念 ENEOS 環境新聞オンライン https://www.kankyo-news.co.jp > ニュース」（https://www.kankyo-news.co.jp/news/9209c0d3-987e-4e2c-b717-d6f2943fee38）
   - 「合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... — 合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_58」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
@@ -4205,8 +4211,6 @@
   - 「政府、 合成燃料 の 設備 に600万ユーロを出資、生産拡大を目指す — 政府、 合成燃料 の 設備 に600万ユーロを出資、生産拡大を目指す ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2023/01」（https://www.jetro.go.jp/biznews/2023/01/14d1376da268c0c1.html）
   - 「脱炭素への処方箋 液体 合成燃料 （3）普及価格、水素調達カギ — 脱炭素への処方箋 液体 合成燃料 （3）普及価格、水素調達カギ 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/608131）
   - 「E - Fuels Conference 2026 , Berlin - ESWET — E - Fuels Conference 2026 , Berlin - ESWET ESWET - European Suppliers of Waste to Energy Technology https://eswet.eu > event > e-fuels-conf...」（https://eswet.eu/event/e-fuels-conference-2026-berlin/）
-  - 「7th European E - Fuels Conference — 7th European E - Fuels Conference Global e-Fuels https://global-efuels.com > event > 7t...」（https://global-efuels.com/event/7th-european-e-fuels-conference/）
-  - 「The European E - Fuels Conference 2026 - ASDEvents — The European E - Fuels Conference 2026 - ASDEvents ASDEvents https://www.asdevents.com > event」（https://www.asdevents.com/event.asp?id=26166）
 
 ## 地熱発電（geothermal power）
 - 文脈：12 GX ④次世代型地熱

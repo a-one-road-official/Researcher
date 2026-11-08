@@ -8,70 +8,8 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-07T21:14:43.642848+00:00",
+ "researched_at": "2026-11-08T04:31:04.904596+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "たとえば、「株式会社」と「(株)」のような表記間違いや入力ミスを防ぐためには、",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "重複データを生み出す原因となるため注意が必要",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、顧客数の過大評価やセグメンテーションの誤りが発生する可能性があります",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、次のようなケースにおいて違いが生じやすいので注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データクレンジングのプロセスでは、項目ごとに表記ルールを統一させて、誤りのあるデータがあれば正しい表記に修正します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "操作ミスによりファイルの破損・紛失などが発生するリスクもあり、取り扱いには注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せを実施する際は、個人情報の取り扱いに細心の注意を払わなければなりません",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せに失敗し、統合すべき情報が統合されなかった場合には、個人情報の漏えいなど大きなトラブルに発展するリスクがあるからです",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "情報の入力時だけでなく、データクレンジングやマッチングの各段階において誤りがないことを確認する",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "営業部門とマーケティング部門で別々のデータベースを使用する場合、顧客対応に食い違いが生じる可能性があります",
@@ -93,104 +31,6 @@
    },
    {
     "quote": "── LLMに「業種カテゴリ」「推定規模」を推定させます",
-    "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "行政においては、同一人に対する情報が複数存在した結果、データを正しく判別できず適切な対応ができない、といった事例がありました",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "職歴が複数にまたがることで国民年金・厚生年金の支払人が複数いると記録され、社会保険庁が適正な老齢年金を支給できないケースなどです",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、住所変更が営業部門のデータベースにのみ反映され、他部門では旧住所のままというケースがあります",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果、全部門が最新の顧客情報にアクセスでき、一貫性のあるサービス提供や的確な意思決定が可能となります",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果、顧客対応の一貫性が保たれ、サービス品質の向上につながります",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、同じ商品の案内メールが複数回送信されるケースが考えられます",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "調査の結果を踏まえ、どのようなデータにまとめると営業やマーケティング活動に活用できるのかを決定します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、次のようなケースにおいて違いが生じやすいので注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分析結果に基づき、効果的なクレンジング計画を立案します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "より複雑なケースでは、正規表現を用いたルールベースの自動修正や、大量データを効率的に処理するためのAIを活用した手法も選択肢です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、同一顧客の複数レコードを1つに統合し、各レコードの有用な情報を保持します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、顧客の住所が欠落している場合、他の有効な情報源から正しい住所を調べます",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、生年月日が未来の日付になっているケースや、郵便番号と住所が一致しないケースなどが対象となります",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、企業名や住所、電話番号の3項目をキーに設定する場合、ほかの情報に相違があっても同一企業であるとみなされます",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "法人番号・ドメインなどの確定キーがなく、正規化後の法人名だけで判定しなければならないケースがあります",
     "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -311,6 +151,166 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "実例": [
+   {
+    "quote": "行政においては、同一人に対する情報が複数存在した結果、データを正しく判別できず適切な対応ができない、といった事例がありました",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "職歴が複数にまたがることで国民年金・厚生年金の支払人が複数いると記録され、社会保険庁が適正な老齢年金を支給できないケースなどです",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、住所変更が営業部門のデータベースにのみ反映され、他部門では旧住所のままというケースがあります",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結果、全部門が最新の顧客情報にアクセスでき、一貫性のあるサービス提供や的確な意思決定が可能となります",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果、顧客対応の一貫性が保たれ、サービス品質の向上につながります",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、同じ商品の案内メールが複数回送信されるケースが考えられます",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "調査の結果を踏まえ、どのようなデータにまとめると営業やマーケティング活動に活用できるのかを決定します",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、次のようなケースにおいて違いが生じやすいので注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析結果に基づき、効果的なクレンジング計画を立案します",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "より複雑なケースでは、正規表現を用いたルールベースの自動修正や、大量データを効率的に処理するためのAIを活用した手法も選択肢です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、同一顧客の複数レコードを1つに統合し、各レコードの有用な情報を保持します",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、顧客の住所が欠落している場合、他の有効な情報源から正しい住所を調べます",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、生年月日が未来の日付になっているケースや、郵便番号と住所が一致しないケースなどが対象となります",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、企業名や住所、電話番号の3項目をキーに設定する場合、ほかの情報に相違があっても同一企業であるとみなされます",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "法人番号・ドメインなどの確定キーがなく、正規化後の法人名だけで判定しなければならないケースがあります",
+    "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "たとえば、「株式会社」と「(株)」のような表記間違いや入力ミスを防ぐためには、",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重複データを生み出す原因となるため注意が必要",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、顧客数の過大評価やセグメンテーションの誤りが発生する可能性があります",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、次のようなケースにおいて違いが生じやすいので注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データクレンジングのプロセスでは、項目ごとに表記ルールを統一させて、誤りのあるデータがあれば正しい表記に修正します",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "操作ミスによりファイルの破損・紛失などが発生するリスクもあり、取り扱いには注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せを実施する際は、個人情報の取り扱いに細心の注意を払わなければなりません",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せに失敗し、統合すべき情報が統合されなかった場合には、個人情報の漏えいなど大きなトラブルに発展するリスクがあるからです",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報の入力時だけでなく、データクレンジングやマッチングの各段階において誤りがないことを確認する",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
@@ -342,7 +342,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/moridaisukepub/n/nbdb21894e731",
+    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
     "status": "ok",
     "method": "http"
    },
@@ -362,7 +362,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.zingg.ai/post/record-linkage-vs-entity-resolution-vs-data-deduplication",
+    "url": "https://www.emergentmind.com/topics/record-linking-rl",
     "status": "ok",
     "method": "http"
    },
@@ -387,8 +387,8 @@
     "https://note.com/sr_mako/n/n611995af6f74",
     "https://note.com/ai_scout_jp/n/n91cff96707e1",
     "https://note.com/leon_1215/n/n827bf4a03ead",
-    "https://note.com/moridaisukepub/n/nbdb21894e731",
-    "https://note.com/anomaly_inc/n/n15611efccadc"
+    "https://note.com/anomaly_inc/n/n15611efccadc",
+    "https://note.com/moridaisukepub/n/nbdb21894e731"
    ],
    "engines": [
     "ddgs:bing"
@@ -419,29 +419,29 @@
     "https://recordlinker.com/name-normalization-matching/",
     "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
     "https://dataladder.com/record-linkage-software/",
-    "https://www.zingg.ai/post/record-linkage-vs-entity-resolution-vs-data-deduplication",
+    "https://www.emergentmind.com/topics/record-linking-rl",
     "https://www.rudderstack.com/blog/data-matching-techniques/",
     "https://winpure.com/record-linkage-how-to-match-records-across-multiple-source-systems-without-a-shared-identifier/",
     "https://www.openprisetech.com/blog/company-name-normalization-rules-and-best-practices"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:note.com 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）",
    "results": [
+    "https://note.com/egao_it/n/ndfe59f03492f",
     "https://note.com/tanakaminoru_/n/n7b5a04d7b858",
     "https://note.com/sr_mako/n/n611995af6f74",
     "https://note.com/ai_scout_jp/n/n91cff96707e1",
-    "https://note.com/egao_it/n/ndfe59f03492f",
     "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "https://note.com/moridaisukepub/n/nbdb21894e731"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -453,33 +453,43 @@
     "https://x.com/ExploratoryJP/status/2032406919806349764",
     "https://x.com/edinetdb/status/2029142380398719118",
     "https://x.com/nexustoolseees/status/2115947094397850048",
-    "https://x.com/PapalotX/status/2063527360281145553",
-    "https://x.com/takuyasan_0307/status/2109506753448874303"
+    "https://x.com/twitter/status/2028021494400647480",
+    "https://x.com/PapalotX/status/2063527360281145553"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/pulse/inconsistencies-ai-chris-bare-soflc?tl=ja",
+    "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
+    "https://jp.linkedin.com/pulse/mastering-logic-ai-converting-natural-language-elvin-baghele-hgitc?tl=ja",
+    "https://jp.linkedin.com/posts/manjumoto-daishi-a63256219_aiに長文を任せると矛盾だらけになる全体像から組み立てる構成術-aiに長文-activity-7434727256406650880-cUvv",
+    "https://jp.linkedin.com/pulse/ai-contradictions-wild-when-language-models-say-yes-singh-xfydf?tl=ja",
+    "https://jp.linkedin.com/pulse/when-ai-gets-mixed-signals-what-happens-prompts-conflict-deweese-vsuoe?tl=ja",
+    "https://jp.linkedin.com/learning/office-365-access-essential-training-3/3528068"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）",
    "results": [
     "https://www.facebook.com/masahiro.oyanagi/videos/件数の多さも驚きだが-本当に怖いのは名寄せだ９月２４日から１０月１６日までの２３日間国内の企業が公表した個人情報の流出恐れを含むは主要１２件だけで延べ１億件を超/1666935744848778/",
     "https://www.facebook.com/gendaibusiness/posts/高市総理が提出した陳述書に時系列崩壊の重大疑義徹底分析で見えた致命的な矛盾の全貌/1480425410554224/",
-    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
     "https://www.facebook.com/michiko.ando/videos/️このニュースおかしくない️ai調べこの映像や報道を見て感じる違和感は技術的法的な観点そして事件捜査の現実から見ても完全に的を射ています違和感の正体を整理すると/1680131947064868/",
+    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
     "https://www.facebook.com/100069742365985/posts/昨日首帳の名寄せ個人別台帳が作成されていたとおぼしき記述が清良記内閣本14上05に記述されている旨報吿した今朝さらにネットで首帳を検索すると下記関原首帳福嶋家-/1350208483980551/",
     "https://www.facebook.com/100007770257072/videos/748255204490755/",
     "https://www.facebook.com/JSDA.PR/posts/-最新の個人株主の動向についてを公開日証協は各種公表資料に基づき個人株主数の推移やその増減の要因等を取りまとめ2025年度末の個人株主の動向を公表しました個人株/1347014447566984/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -499,7 +509,7 @@
    "query": "record linkage data cleansing impossible values renamed companies former names matching site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/recordlinkagedata-matching-deduplication-duilio-paolini-zc2zf",
-    "https://www.linkedin.com/posts/elena-zavalishina_matching-patient-records-at-scale-for-duplicate-activity-7452733071797321728-sWUr",
+    "https://www.linkedin.com/pulse/case-file-4-name-wasnt-match-fred-shimfessel-dvqxe/",
     "https://gt.linkedin.com/showcase/datamatch-enterprise",
     "https://in.linkedin.com/company/winpure",
     "https://pe.linkedin.com/pulse/address-cleansing-fuzzy-matching-levenshtein-distance-akhil",
@@ -516,6 +526,6 @@
   "一次情報の探し方": "記載なし（読んだ12頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T15:58:40.692820+00:00"
 }

@@ -4895,6 +4895,7 @@
   - 「in real-time. More precisely, I apply the methodology by Lehmann and Wikman (2023) and」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「model. Second, I introduce the main steps undertaken in the real-time setup. Finally, I」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
 - 突き合わせ・推定：
+  - 「We distinguish between three different ways of using real-time data to estimate forecasting」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「If the mean revision is significantly different from zero, it indicates a tendency for initial releases to be systematically over- or under-estimated. A」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「where ( \sigma_y ) is the standard deviation of the final value ( y_t^f ). A high noise-to-signal ratio suggests that revisions are large relative to the underlying variability in the final data, indicating high uncertainty in initial estimates.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「A significant correlation suggests that initial estimates contain information that predicts later revisions. A」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
@@ -4909,7 +4910,6 @@
   - 「suggests the preliminary estimates are」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「indicates the preliminary estimates are」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「for evaluating preliminary estimates.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
 - 一次情報の探し方：
   - 「The vintages are organized in sheets representing single aggregate-state-combinations that」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「statistikportal.de/sites/default/files/2022-09/vgrdl_Qualitaetsbericht_2022.pdf.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
@@ -7421,6 +7421,8 @@
 ## ファクトチェック団体の検証記事の検索の使い方（FIJ ファクトチェック・ナビ・Google Fact Check Explorer）と、翻訳・要約で離れた文脈を一次と見比べる手順（fact check explorer how to use verify translated summarized claims against original source）
 - 文脈：手順・やり方
 - 手順・やり方：
+  - 「【オンライン商談の進め方】ツール比較から資料作成のコツまでを徹底解説！」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「Grok（グロック）の使い方を徹底解説！ChatGPTとの違いや料金プラン、活用事例まで網羅」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「歯科ホームページでの差別化方法とは？制作事例からポイントを解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「X（旧Twitter）の企業アカウント運用のコツ！導入フローや成功事例も紹介」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「Felo（フェロー）とは？日本発AI検索エンジンの使い方や料金、Perplexityとの違いを徹底解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7434,8 +7436,6 @@
   - 「集客とマーケティングは違う？成果を出す戦略と目的ごとに有効な集客方法を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「／ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「本記事では、コンテンツ制作に役立つファクトチェックのやり方、便利なサポートツールなどを紹介します」（https://fungry.co.jp/cnaps/blog/fact-check/）
 - 突き合わせ・推定：
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -12075,6 +12075,9 @@
 ## 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）（data reconciliation single source of truth per metric tolerance thresholds discrepancy log）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「システム間のデータ突合の方法｜運用中のずれを早く見つける仕組み｜ASTERIA Warp」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「システム間のデータ突合の方法｜運用中のずれを早く見つける仕組...」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「システム間のデータ突合の方法｜運用中のずれを早く見つける仕組み」（https://www.asteria.com/jp/warp/blog/166270.html）
   - 「：上記を踏まえて、筆者がバーチャルタレントの現場で有効だと考える運用方法」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「自分で目標を決め、自分を鼓舞し、自分の出来を振り返り、自分で練習方法を探し、問題が起きれば自分で解決する」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「タレントは、その目標を目指す意味と達成までの方法を説明できるか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
@@ -12087,9 +12090,6 @@
   - 「この先の章では、ひとりで活動している方にも使える四つの方法を扱います」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「目標を起案する自分と検証する自分を分ける手順、疲れる前に稼働の上限を決める方法、うまくいかなかったときに自分の努力より先に工程を疑う手順、そして外注先や相談相手という「手段」をどう設計するかです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「売上に責任を持つ → 価格・販売方法・予算を決める権限はあるか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「健康・表現・権利・設備の議論を混同しないために筆者が用いている整理方法」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「結果指標を仮説として扱い、タレントが直接コントロールできる行動指標と分ける」という方法は、そうした知見をバーチャルタレントのマネジメントに合わせて私なりに翻訳した実務上の提案です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「COVER株式会社も、2026年のタレントマネジメント本部長インタビューで、登録者数や同時接続数を伸ばしたいタレントに対して市場動向を一緒に確認し、具体的なステップへ落とし込んだ事例や、ソロライブという夢から逆算して楽曲・MV制作のロードマップを組んだ事例を紹介しています」（https://note.com/enogu_llc/n/ncd8acbdc4199）
 - 突き合わせ・推定：
   - 「契約内容の理解に食い違いが生じたとき、意図せず炎上したとき、タレントから「事務所を辞めたい」と言われたとき」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「ただし、目標に届かなかったとき、その責任をタレントの努力不足だけに求めず、目標設定、予算、情報、支援体制、工程そのものに問題がなかったかを検証します」（https://note.com/enogu_llc/n/ncd8acbdc4199）
@@ -12107,6 +12107,10 @@
   - 「責任者は、手引き9の仮説のつながりを、今ある候補の審査に使う方向に切り替えるかを決めます（第4章の4.7）」（https://note.com/harunakamura41/n/n7cfa7307c806）
   - 「AIで集計する場合はプロンプト4-2を使い、ひな形で照合する」（https://note.com/harunakamura41/n/n7cfa7307c806）
 - 一次情報の探し方：
+  - 「Before running checks, profile both data sets and understand their volumes, distributions, and known quirks. Reconciling unquestioningly generates noise. Profiling first makes your checks meaningful and your results actionable.」（https://www.tricentis.com/learn/data-reconciliation）
+  - 「The profiling step above makes this stage a lot easier. Compare row counts between source and target for given time windows or business keys. Mismatches here typically mean ingestion or filtering failures: something didn’t make it through right.」（https://www.tricentis.com/learn/data-reconciliation）
+  - 「Think anti-money laundering filings, capital adequacy reports, HIPAA, or GDPR audits.」（https://www.tricentis.com/learn/data-reconciliation）
+  - 「Profiling and business-rule tests」（https://www.tricentis.com/learn/data-reconciliation）
   - 「本稿は、VTuberやVSinger、バーチャルタレントのマネジメントについて、筆者自身の実務経験と、一般的なマネジメント論・組織論・公的資料を照らし合わせながら整理したものです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「一部のVTuber事務所が公表している採用情報やインタビューでも、タレントマネージャーの役割はスケジュール管理だけに限定されていません」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「本章の法制度に関する記述は、総務省・法務省などの公的資料を優先し、最新情報を確認してください」（https://note.com/enogu_llc/n/ncd8acbdc4199）
@@ -12118,26 +12122,22 @@
   - 「推奨が採用されなければ効果はないが、採用率だけを上げても、一件あたりの改善幅が小さければ目標に届かない」（https://note.com/harunakamura41/n/n7cfa7307c806）
   - 「AIの推奨の採用率を、高いほど良いものとして目標にしてしまう：上限の目安を置き、採用率と一件あたりの改善幅を合わせて見る」（https://note.com/harunakamura41/n/n7cfa7307c806）
   - 「公的なデータを使っていることは、出どころを確認するうえで重要です」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
-  - 「2021年4月の解説書では、前者は2010〜2018年を統計期間とする1kmメッシュの月平均推定値、後者は全国835地点の代表年の毎時推定値として説明されています」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
-  - 「ここで大切なのは、公的データだから疑わしいと考えることでも、古い統計期間があるから使えないと決めることでもありません」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
-  - 「全天日射量については、日照時間のメッシュ平年値から統計的な関係で推定する旨が説明されています」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
-  - 「採用理由と代替地点を残し、差が判断に影響するかを調べます」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
 - 失敗・落とし穴：
+  - 「運用が続くほど、相手システムの仕様変更や例外的なデータ、処理の一部失敗によって、ずれは静かに忍び込みます」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「相手システムがバージョンアップして項目が増える、これまで来なかった値が来る、夜間の処理が一部だけ失敗する——こうした変化は日常的に起こります」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「ただし合計値だけを見ていると、プラスとマイナスの誤りが打ち消し合って一致してしまうことがあります」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「処理の失敗による取りこぼしのように、原因が明確なものは自動での再実行を組み込めます」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「相手システムの仕様変更や想定外の値、処理の一部失敗はテストでは想定できません」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「A. 処理の失敗による取りこぼしのように原因が明確なものは、自動での再実行を組み込めます」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「連携をリリースした後も、相手システムの変更や例外データ、処理の失敗によって数字は少しずつずれます」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「エラー監視だけでは「静かな失敗」を検出できないため、運用中の突合が必要です」（https://www.asteria.com/jp/warp/blog/166270.html）
+  - 「But there’s an uncomfortable truth: an AI model fed unreconciled data doesn’t provide insights; it provides confident mistakes at scale. If your data lake hasn’t been reconciled, you’re automating the production of mistakes and calling it intelligence.」（https://www.tricentis.com/learn/data-reconciliation）
+  - 「AI and machine learning pipelines are only as reliable as the data feeding them. Unreconciled source data introduces hidden bias, incorrect labels, and silently wrong feature values, which produce outputs that are confidently wrong.」（https://www.tricentis.com/learn/data-reconciliation）
   - 「注意をしただけで「評価」をしたつもりになる」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「注意することを、育成だと思っている」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「うまくいったこと、失敗したことが事務所に蓄積され、ノウハウを共有できます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「判断に必要な情報を開示し、失敗しても戻れる範囲を決めたうえで、決定をタレントに委ねる」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「一度の失敗で信頼も収入も失う環境では、人は挑戦ではなく保身を選びます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「同じ「10,000人」が、失敗にも成功にもなった」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「先週の配信、あの切り返しがよかった」「今回の新曲、ビブラートがきれいだった」など、注意深く見ていなければ言えない話題です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「ここでマネージャーがやりがちな失敗が、教訓を先に言ってしまうことです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「「心」の摩耗は、弱さではなく設計の失敗」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「失敗の振り返りを、人ではなく工程に向ける」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「このチームで、失敗を認めても不利にならないと思うか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「このチームでは、失敗を早めに報告できる」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「だからメンバー同士がぶつかったとき、それをただちに「失敗」と判断するのは早計です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「禁止事項を増やし、注意書きを長くする」（https://note.com/enogu_llc/n/ncd8acbdc4199）
 - 実例：
   - 「結果として、多くのマネージャーが手探りでマネジメントと向き合うことになります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「：VTuber事務所、行政機関などが公表している資料や事例」（https://note.com/enogu_llc/n/ncd8acbdc4199）
@@ -12745,11 +12745,11 @@
 
 ## 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）（corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）（selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation）
 - 文脈：突き合わせ
