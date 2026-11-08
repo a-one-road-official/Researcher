@@ -544,6 +544,17 @@ def extreme_start(series):
     if v0 < min(rest): return "谷"
     return None
 
+_TRACK = re.compile(r"^(gs|utm_[a-z]+|fbclid|gclid|ref|ref_src|from|via|s|share|amp)$", re.I)
+def canon_url(u):
+    """2026-11-08 4-96：同じ頁の別URLを1つに束ねる形。追跡の問い合わせ・断片・末尾の /・符号化の違い（%20 と + など）を落とす。"""
+    from urllib.parse import unquote, parse_qsl, urlencode
+    if not u: return ""
+    p = urlparse(u.strip())
+    if not p.netloc: return ""
+    q = urlencode(sorted((k, v) for k, v in parse_qsl(p.query) if not _TRACK.match(k)))
+    path = unquote(p.path.replace("+", " ")).replace(" ", "%20").rstrip("/")
+    return f"{p.netloc.lower().removeprefix('www.')}{path}" + (f"?{q}" if q else "")
+
 def dedupe(rows):
     """同じ出どころ（同じ値・単位・引用の頭40字）を1件にまとめる。METHOD.md 4-1。"""
     seen, out = set(), []
@@ -2423,6 +2434,75 @@ def scan(topic):
                f"- 調査の回答の値で平均・1人あたりを語る品目：{len(_ds95)}件。標本は「答えた先かつ残った先」。四分位の幅が狭くても中心が上にずれうるので、"
                "全数の統計（経済センサス・工業統計）の同じ欄と並べるまで向き・水準の根拠にしない", *(f"  - {n[:60]}" for n in _ds95[:20]), ""]
     except Exception: pass
+    # 2026-11-08 4-96（71回目の走査の失敗：method_read.txt に読んだURLが、?gs= の付いた形・%20 と + の違いで「未読」に見え、
+    # 同じ記事を別の頁として数えかけた）。追跡用の問い合わせ（gs・utm_・fbclid・ref など）と末尾の / と符号化の違いを落とした形で URL を束ね、
+    # 1つの頁が何通りのURLで入っているかを数える。独立の出どころの数は束ねた形で数える
+    try:
+        _canon = {}
+        for r in rows:
+            _canon.setdefault(canon_url(r["URL"]), set()).add(r["URL"])
+        _multi = {k: v for k, v in _canon.items() if k and len(v) >= 2}
+        md += ["## 同じ頁の別URL（4-96・機械）",
+               f"- 追跡の問い合わせ・符号化・末尾の / を落とすと1つになるURL：{len(_multi)}頁（元のURL {sum(len(v) for v in _multi.values())}通り）。"
+               "出典の数・読んだ記事の数は束ねた形で数える", *(f"  - {k[:90]}（{len(v)}通り）" for k, v in list(_multi.items())[:10]), ""]
+    except Exception: pass
+    # 2026-11-08 4-96（登記申請ラボ「法人登記番号の調べ方」：法務局の会社法人番号は12桁、国税庁の法人番号は13桁で別の番号。
+    # 同じ商号の別法人・グループの似た商号があるので、商号だけで決めず本店所在地・法人種別まで合わせる）。
+    # 「法人番号」と書かれた12桁の数字（会社法人番号の取り違え）と、1つの品目に別々の13桁が2つ以上ある品目（同名の別法人の疑い）を数える
+    try:
+        _b12 = sorted({r["品目"] for r in rows if re.search(r"法人番号[^0-9]{0,6}(?<!\d)\d{12}(?!\d)", unicodedata.normalize("NFKC", r["引用"] or ""))})
+        _h13 = {}
+        for r in rows:
+            for m in re.findall(r"(?<!\d)\d{13}(?!\d)", unicodedata.normalize("NFKC", r["引用"] or "")):
+                if re.search("法人番号", r["引用"] or ""): _h13.setdefault(r["品目"], set()).add(m)
+        _same = sorted(k for k, v in _h13.items() if len(v) >= 2)
+        md += ["## 法人番号の取り違えと同名の別法人（4-96・機械）",
+               f"- 「法人番号」と書かれた12桁の数字（法務局の会社法人番号の取り違え）がある品目：{len(_b12)}件。国税庁の13桁で取り直すまで名寄せに使わない",
+               *(f"  - {n[:60]}" for n in _b12[:10]),
+               f"- 1つの品目に別々の13桁の法人番号が2つ以上ある品目：{len(_same)}件（同名の別法人・グループ会社の疑い。本店所在地・法人種別で1つに決めるまで数字を足さない）",
+               *(f"  - {n[:60]}" for n in _same[:10]), ""]
+    except Exception: pass
+    # 2026-11-08 4-96（PRISMA 2020 の解説 BMJ 2021・PMC8005925：1つの研究に結果が複数あるとき、どれを選んだかの規則を先に書く。
+    # 選び方を書かないと、都合のよい値を選んだ偏りが見えない）。同じ出どころ（ホスト）・同じ品目・年・単位で別の値が2つ以上ある欄を数え、
+    # 採る規則（4-21：本文の表の値・通年・確報・低い側）を scan.md に書く対象にする
+    try:
+        _sel = {}
+        for r in rows:
+            if r["予測"]: continue
+            _sel.setdefault((r["品目"], r["年"], r["単位"], r["出典"]), set()).add(r["値"])
+        _ms = sorted({k[0] for k, v in _sel.items() if len(v) >= 2})
+        md += ["## 同じ出どころの中の複数の値（4-96・機械）",
+               f"- 同じホスト・品目・年・単位で別の値が2つ以上ある品目：{len(_ms)}件。scan.md で、どの値を採ったかの規則（表の値・通年・確報・低い側・4-21）を1行で書く",
+               *(f"  - {n[:60]}" for n in _ms[:15]), ""]
+    except Exception: pass
+    # 2026-11-08 4-96（71回目の走査の失敗：research_method の証拠に、下着の通販・温室の設計・CRAN の新着一覧・用語集の一覧・小説の頁が
+    # 50〜75件ずつ入り、手法の記事の候補の上位を占めた）。手法の言葉（調査・推定・検証・出典・統計・突き合わせ など）を含む引用が2割未満の頁を
+    # 主題外として数える。主題外の頁は手法の記事の候補・引用の件数に入れない
+    if topic == "research_method":
+        try:
+            _mk = re.compile(r"調査|調べ|推定|推計|検証|確か|出典|統計|一次|突き合わせ|裏取り|照合|偏り|バイアス|分析|情報源|research|source|estimat|verif|bias|data", re.I)
+            _pq = {}
+            for f in glob.glob(os.path.join(OUT, topic, "companies", "*.json")):
+                try: d = json.load(open(f, encoding="utf-8"))
+                except Exception: continue
+                for items in (d.get("evidence") or {}).values():
+                    for it in items:
+                        u = canon_url(it.get("url", ""))
+                        if u: _pq.setdefault(u, set()).add(it.get("quote", ""))
+            _off = sorted(((u, len(q), sum(1 for x in q if _mk.search(x))) for u, q in _pq.items()
+                           if len(q) >= 10 and sum(1 for x in q if _mk.search(x)) < 0.2 * len(q)), key=lambda x: -x[1])
+            md += ["## 主題外の頁（4-96・機械）",
+                   f"- 引用10件以上で手法の言葉を含む引用が2割未満の頁：{len(_off)}頁。手法の記事の候補・件数に入れない（検索語か取得の層を直す）",
+                   *(f"  - {u[:80]}（引用 {n}件・手法の言葉 {k}件）" for u, n, k in _off[:15]), ""]
+            # 次に読む候補：method_read.txt に無い（束ねた形で照合）・主題外でない頁を、手法の言葉を含む引用の数の順に
+            _mr = os.path.join(os.path.dirname(__file__), "method_read.txt")
+            _rd = {canon_url(l.strip()) for l in open(_mr, encoding="utf-8")} if os.path.exists(_mr) else set()
+            _offs = {u for u, _, _ in _off}
+            _cand = sorted(((u, sum(1 for x in q if _mk.search(x))) for u, q in _pq.items() if u not in _rd and u not in _offs),
+                           key=lambda x: -x[1])
+            md += ["## 次に読む手法の記事の候補（4-96・機械）",
+                   f"- 未読（束ねた形で照合）で主題外でない頁：{len(_cand)}頁。手法の言葉を含む引用の多い順に", *(f"  - {u}（{k}件）" for u, k in _cand[:15]), ""]
+        except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")

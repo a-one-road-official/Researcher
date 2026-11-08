@@ -43,8 +43,13 @@ FIELDS = {  # 欄の見出しに含まれる言葉 → 出力の欄の名前。�
 }
 
 
+# 2026-11-08 71回目：e-Stat の候補の拾い方を直したので、一度だけ作り直す。印の中の版が違えば作り直す（印のファイルは消さずに上書き）
+BUILD_VER = "estat-2026-11-08"
+
+
 def is_done() -> bool:
-    return (OUT / "BUILD_DONE").exists()
+    p = OUT / "BUILD_DONE"
+    return p.exists() and BUILD_VER in p.read_text(encoding="utf-8")
 
 
 def _get(url: str, **kw) -> requests.Response | None:
@@ -117,11 +122,20 @@ def _estat(year: int, log: list[str]) -> list[str]:
             seen.append(f"{url} status={getattr(r, 'status_code', '接続失敗')}")
             continue
         html = r.text
+        # 2026-11-08 71回目：2013〜2017年は file-download が9件見えても「産業別の候補 0件」だった。e-Stat の一覧では表の名前がリンクの
+        # 前後どちらにも出るうえ、工業統計表の巻の名前は「産業編」（産業別統計表の巻）なので、前後の文字（タグを除く）を広く見て「産業編」も受ける。
+        # それでも0件なら、各リンクの前後の文字をログに残す（次の直しの材料）
+        near = []
         for m in re.finditer(r"""href=["']([^"']*file-download\?[^"']*statInfId=\d+[^"']*)["']""", html):
-            ctx = html[max(0, m.start() - 600):m.start()]
-            if "産業別" in ctx or "産業細分類" in ctx:
+            ctx = re.sub(r"<[^>]+>", " ", html[max(0, m.start() - 1500):m.end() + 600])
+            ctx = re.sub(r"\s+", " ", ctx)
+            if re.search(r"産業別|産業細分類|産業編", ctx) and re.search(str(year) + r"|" + str(year - 1988) + r"年|平成" + str(year - 1988), ctx):
                 out.append(requests.compat.urljoin("https://www.e-stat.go.jp/", m.group(1).replace("&amp;", "&")))
+            else:
+                near.append(ctx[-300:][:120])
         seen.append(f"{url}（file-download {len(re.findall('file-download', html))}件）")
+        if not out and near:
+            seen.append("候補外のリンクの前後：" + " ｜ ".join(dict.fromkeys(near))[:600])
     log.append(f"- {year}：経産省は CAPTCHA のため e-Stat を見た：" + "／".join(seen) + f"／産業別の候補 {len(out)}件")
     return list(dict.fromkeys(out))[:6]
 
@@ -337,6 +351,19 @@ def main() -> None:
             if got:
                 break
     cols = ["year", "file_year", "sheet", "code", "name", "row", "column", "value"]
+    # 2026-11-08：作り直しで取れた年が前の版より少なければ（所管の取得が今回だけ失敗など）、前の表を上書きしない。ログだけ別に残す
+    try:
+        with open(OUT / "kougyo_series.csv", encoding="utf-8-sig") as f:
+            old_years = {int(r["year"]) for r in csv.DictReader(f) if str(r.get("year", "")).isdigit()}
+    except Exception:  # noqa: BLE001
+        old_years = set()
+    new_years = {int(r["year"]) for r in rows if str(r.get("year", "")).isdigit()}
+    if old_years and not old_years <= new_years:
+        log += ["", f"作り直しで取れた年 {sorted(new_years)} が前の版 {sorted(old_years)} を含まないので、前の表を残した（上書きしない）"]
+        (OUT / "kougyo_log_rebuild.md").write_text("\n".join(log) + "\n", encoding="utf-8")
+        (OUT / "BUILD_DONE").write_text(f"kept previous, years {sorted(old_years)} ver {BUILD_VER}\n", encoding="utf-8")
+        print("\n".join(log), flush=True)
+        return
     with open(OUT / "kougyo_rows.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
@@ -366,7 +393,7 @@ def main() -> None:
         except Exception:  # noqa: BLE001
             pass
     if years:
-        (OUT / "BUILD_DONE").write_text(f"{len(rows)} rows, years {years}\n", encoding="utf-8")
+        (OUT / "BUILD_DONE").write_text(f"{len(rows)} rows, years {years} ver {BUILD_VER}\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
