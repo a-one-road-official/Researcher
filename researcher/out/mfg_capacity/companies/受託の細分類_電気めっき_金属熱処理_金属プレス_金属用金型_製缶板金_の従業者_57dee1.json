@@ -1,0 +1,877 @@
+{
+ "name": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103）",
+ "en": "Japan Census of Manufactures by employee size class electroplating heat treatment metal stamping dies per employee shipments small vs 30 plus",
+ "aliases": [
+  "工業統計 産業細分類 従業者規模別 電気めっき 4～9人 10～19人 20～29人",
+  "工業統計 金属熱処理業 30～49人 製造品出荷額等",
+  "産業別統計表 従業者規模別 2464 2465 2452"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T11:03:34.898777+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "(1) 事業所数は、平成 22年 12月 31日現在の数値です",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 事業所 450 430 95.6 △20",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 3 長野県内の市町村別事業所数、従業者数、製造品等出荷額、粗付加価値額の順位",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 事業所数",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業別事業所数（図 2）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業員規模別事業所数（表 4）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別では、4～29人が 343事業所 （構成比79.8%） 、30人以上が 87事業所 （構",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別従業者数（表 4）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別では、4～29人が 3,850人 （構成比22.9%） 、30人以上が 12,938人（同 77.1%）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別製造品出荷額（表 4）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別では、4～29 人が 508 億 6,188 万円（構成比 12.3%） 、30人以上が 3,638",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別現金給与総額及び常用労働者 1 人当たり現金給与総額（表 4）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別では、4～29人が 120 億 8,392万円（構成比 17.5%、増減率△1.2%） 、30",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 4 従業者規模別事業所数、従業者数、製造品出荷額等、現金給与総額",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "Ⅰ 従 業 者4人以上の事業所の概要 ............................................................. 7",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 従 業 者30人以上の事業所の概要 ..........................................................17",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たり生産額及び付加価値額 .......................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者 3 人以下の事業所を除く）です",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業員 30人以上の事業所（製造、加工又は修理を行っていない本",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社又は本店を除く）については「工業調査票甲」 、従業者29 人以下の事業所（製造、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数は、平成 22年 12月 31日現在の数値です",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウ 臨時雇用者とは、常用労働者以外の雇用者で、1 か月以内の期間を定めて雇用さ",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 現金給与総額は、 平成22年 1年間に常用労働者のうち雇用者 （ 「正社員、 正職員等」",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＋（半製品及び仕掛品年末価額－半製品及び仕掛品年初価額） （従業者30人以上の事業所）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 従業者 4人以上の事業所の概要（表 1）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "3 製造品出荷額等 ............................................................................11",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 製造品出荷額等 ............................................................................17",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 生産額及び付加価値額 ..................................................................17",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり生産額及び付加価値額 ...........................................18",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たり生産額及び付加価値額 .......................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等は、平成 22 年 1 年間における製造品出荷額、加工賃収入額、製造",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 加工賃収入額とは、平成 22年中に他企業の所有に属する主要原材料によって製",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 粗付加価値額＝製造品出荷額等－（消費税を除く内国消費税額 *1+推計消費税額*2）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "4 粗付加価値額 ................................................................................11",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 生産額及び付加価値額 ..................................................................17",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり生産額及び付加価値額 ...........................................18",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たり生産額及び付加価値額 .......................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 粗付加価値額＝製造品出荷額等－（消費税を除く内国消費税額 *1+推計消費税額*2）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 金額表示の単位は万円とし、単位未満は四捨五入としています",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 製造品出荷額等は、4,146 億 7,086万円で、前年に比べ 454億 2,192万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 原材料使用額等は、2,445 億 8,681万円で、前年に比べ 359億 8,037万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 粗付加価値額は、1,645 億 5,580 万円で、前年に比べ 93 億 358 万円の増加（同＋6.0%）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 現金給与総額は、692 億 3,892 万円で、前年に比べ 5,621 万円の増加（同＋0.1%）とな",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 万円 36,924,894 41,467,086 112.3 4,542,192",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原材料使用額等 万円 20,860,644 24,458,681 117.2 3,598,037",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額 万円 15,525,222 16,455,580 106.0 930,358",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現金給与総額 万円 6,918,271 6,923,892 100.1 5,621",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "9 有形固定資産投資総額 ..................................................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産の額は、 平成22年 1 年間における数値で、 帳簿価額によっています",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 有形固定資産投資総額（表 8、統計表冊子 第 7表）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産総額は、52億 8,922万円で、前年に比べ116 億 2,691万円の減少（増減率",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業別では、 有形固定資産投資総額の多い順に、電気 14億 4,616万円、輸送 11億 8,110",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 8 原材料使用額等、現金給与総額、有形固定資産投資総額（H21 年、H22年）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第7表 産業中分類別事業所数、現金給与総額、原材料使用額等、製造品出荷額等、在庫額、有形固定資産、リース金額、生産額、付加価値額、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "イ 建設仮勘定の増加額とは、 この勘定の借方に加えられた額をいい、 減少額とは、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 従業者数は、16,788 人で、前年に比べ 44人の増加（同＋0.3%）となりました",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 製造品出荷額等は、4,146 億 7,086万円で、前年に比べ 454億 2,192万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 原材料使用額等は、2,445 億 8,681万円で、前年に比べ 359億 8,037万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 粗付加価値額は、1,645 億 5,580 万円で、前年に比べ 93 億 358 万円の増加（同＋6.0%）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 現金給与総額は、692 億 3,892 万円で、前年に比べ 5,621 万円の増加（同＋0.1%）とな",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1 上田市の工業の推移（平成 12、13年を 100とした場合）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "項目 単位 平成21年 平成22年 前年比 増減数",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は、16,788人で前年に比べ 44人の増加（増減率＋0.3%）となりました",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は 4,146億 7,086万円で、前年に比べ 454 億 2,192万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "645億 5,580万円で前年に比べ 93億 358万円の増加 （増減率＋6.0%）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当たり従業者数は、39.0人で、前年に比べ 1.8人の増加（増減率＋4.8%）と",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の増加（増減率＋17.5%）となりました",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 事業所当たりの粗付加価値額は、3 億 8,269 万円で、前年に比べ 3,769 万円の 増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 1人当たりの製造品出荷額等は、2,470万円で、 前年に比べ265万円の増加（増",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 1 人当たりの粗付加価値額は、980万円で前年に比べ 53 万円の増加（増減率",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額で、消費税",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エ 製造等に関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外注費、転売",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2465/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000941216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/r3bunrui_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/bunrui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/opub/mlr/1986/05/art2full.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.americanplatingcompany.com/information-on-metal-plating-demographics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hardestmarket.com/pay/other-product-manufacturing-and-processing-workers-metal-products/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 人手不足 受注 断る",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 受注残 人手不足",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 人手不足 損失 億円",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103）",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 推移",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 統計 PDF",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 従業者規模別",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 1人当たり 万円",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） 2015 2025",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Japan Census of Manufactures by employee size class electroplating heat treatment metal stamping dies per employee shipments small vs 30 plus Japan statistics",
+   "results": [
+    "https://www.bls.gov/opub/mlr/1986/05/art2full.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "http://www.americanplatingcompany.com/information-on-metal-plating-demographics/",
+    "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "https://hardestmarket.com/pay/other-product-manufacturing-and-processing-workers-metal-products/",
+    "https://www.nipponsteel.com/en/ir/library/pdf/nsc_en_ir_2025_databook_print.pdf",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103）",
+   "results": [
+    "https://note.com/syncstar/n/n3747c7b03751",
+    "https://note.com/improvebiz_jp/n/n13c69c30f7eb",
+    "https://note.com/kt_web/n/n915fb895f7e0",
+    "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "https://note.com/bizicom_hr/n/nb8ceb148614b",
+    "https://note.com/ishibashilaw/n/n01dd15cccf9c",
+    "https://note.com/smemgmt/n/n7c27e7f68fbc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103）",
+   "results": [
+    "https://jp.linkedin.com/pulse/金属の熱処理市場の徹底的な精査規模シェアおよび収益成長2026年から2033年にかけて127のcagrを見込む-scoutifyz-efndf",
+    "https://www.linkedin.com/posts/satoshi-ootsu-4a643b296_光電融合の製造受託新光電気工業tsmcにはない魅力を-日経テックフォーサイト-activity-7424959964248600576-lxKz",
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_この度金属技研では造形受託事業の強化を目的として日本国内初導入となる電子ビーム-activity-7447932924039102465-QDXa",
+    "https://www.linkedin.com/posts/真-高田-80b6611b5_積層造形-金属3dプリンター-j3d-activity-6712253493492662274-T0d-",
+    "https://jp.linkedin.com/pulse/金属-インジエクション-ムオルドイング-プオウドアー市場の最新動向主要企業市場細分化と将来展望2026年版-7xuef",
+    "https://jp.linkedin.com/pulse/アルヴエオルアル-ルハアブドオムイオスアルクオムア-処理市場の最新動向主要企業市場細分化と将来展望2026年版-jztif",
+    "https://jp.linkedin.com/posts/sanyodenki-com_長野山洋電気生産ラインの自動化受託装置開発技術を活用-日本経済新聞-activity-7292361220400001024-hYUL"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103）",
+   "results": [
+    "https://www.facebook.com/p/大阪金属プレス工業会-100083214556350/",
+    "https://www.facebook.com/wako.kinzoku/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/watch/?v=432122703221723",
+    "https://www.facebook.com/sanwaplating/videos/材質によってめっきの工程が変わりますめっきはどんな材質でも同じ工程で処理するわけではありません鉄やアルミなど素材によって性質が異なるためそれぞれに適した前処理が/1113186517859322/",
+    "https://www.facebook.com/elephantech.jpn/posts/プレスリリース配信電解金めっきで表面処理した-p-flex-piサンプル提供開始のお知らせhttpswwwelephantechcojppress-releas/1350644548680558/",
+    "https://www.facebook.com/100088886342216/posts/舞台技術サービス事業日本標準産業分類承認の件第14回日本標準産業分類改正令和6年4月1日施行において舞台技術スタッフを指す産業分類番号として大分類n-生活関連サ/224951593811051/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） note 社長",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103） X 投稿",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.soumu.go.jp/main_content/000315706.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-3-7.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Japan Census of Manufactures by employee size class electroplating heat treatment metal stamping dies per employee shipments small vs 30 plus site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/patricksmithmadeinusa",
+    "https://www.linkedin.com/pulse/japan-metal-stamping-parts-market-trends-size-growth-2026-2033-ndcqf",
+    "https://www.linkedin.com/pulse/japan-metal-stamping-market-penetration-strategies-untapped-k2hie",
+    "https://pe.linkedin.com/pulse/japan-automobile-metal-stamping-market-trends-overview-key-pxsfc",
+    "https://www.linkedin.com/pulse/japan-stamping-metalloplastic-market-size-opportunities-a8rwf",
+    "https://www.linkedin.com/pulse/japan-electroplating-market-growth-size-trends-forecast-gourav-singh-6vmic",
+    "https://www.linkedin.com/pulse/japan-metal-stamping-service-market-size-2026-ai-technology-8xnre",
+    "https://www.linkedin.com/pulse/japan-stamping-metalloplastic-market-automation-trends-reshaping-nvqaf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ23頁・検索18回）"
+ }
+}

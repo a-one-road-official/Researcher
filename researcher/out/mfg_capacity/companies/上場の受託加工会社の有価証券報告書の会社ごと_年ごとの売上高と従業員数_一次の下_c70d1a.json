@@ -1,0 +1,1006 @@
+{
+ "name": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102）",
+ "en": "listed Japanese contract manufacturers annual securities report revenue employees by company by year",
+ "aliases": [
+  "受託加工 上場 有価証券報告書 主要な経営指標等の推移 従業員数",
+  "めっき 熱処理 上場 売上高 推移 EDINET",
+  "受託加工 上場会社 連結 単体 従業員数 臨時"
+ ],
+ "context": "会社・一次",
+ "kind": "market",
+ "researched_at": "2026-11-08T11:03:25.677929+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "また、水害による生産拠点の操業停止をリ",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スクとして想定し、操業停止の可能性が高い生産拠点を10ヵ所と特定し、機会損失額を36億円と試算しました",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合、操業停止による機会損失と工場移転費用が発生する可能性があります",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "風水害及び土砂災害が発生することで生産ラインや物流が停止し、設備被害や機会損失、製品廃棄による損失",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストレスの高い地域の生産拠点において取水制限 を受けて操業が停止、 機会損失が発生する可能性がありま",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "従業員数 (名) 29,850 30,020 29,920 28,639 28,173（外、平均臨時雇用者数） (6,849) (6,665) (6,645) (6,089) (5,784)",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 (名) 313 336 164 192 265（外、平均臨時雇用者数） (7) (14) (4) (8) (4)",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 従業員数については、関係会社等への出向者を除き、提出会社への出向者を含めた就業人員を記載しており",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 従業員数は就業人員であります",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 臨時従業員数は（ ）内に期中平均人員を外数で記載しております",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 当社は純粋持株会社であるため、セグメント別の従業員数は記載しておりません",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 前連結会計年度末に比べて従業員数が73名増加しております",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "健康な人の免疫機能の維持に役立つ「L-92乳酸菌」や、心理的な",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "売上収益 (百万円) 2,027,762 2,236,076 2,511,108 2,769,091 2,939,422",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "税引前利益 (百万円) 125,399 199,826 205,992 241,871 266,990",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期利益 (百万円) 92,584 153,823 151,717 166,031 193,181",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期利益 (百万円) 92,826 153,500 151,555 164,073 192,080",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期包括利益合計 (百万円) 147,763 295,622 361,781 460,504 307,430",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期包括利益 (百万円) 148,151 295,255 361,604 458,266 306,301",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持分 (百万円) 1,516,124 1,757,104 2,060,734 2,460,548 2,668,801",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資産合計 (百万円) 4,439,378 4,547,748 4,830,344 5,285,913 5,403,405",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 275,859 337,812 265,991 347,547 403,723",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △1,243,372 △14,348 △69,186 △117,713 △118,665",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 956,759 △320,325 △219,556 △226,746 △272,784",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末残高 (百万円) 48,460 52,743 37,438 59,945 83,961",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益 (百万円) 191,290 210,060 172,189 65,258 136,326",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 (百万円) 145,848 165,891 148,471 31,248 94,310",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 (百万円) 147,806 173,574 146,769 30,998 101,764",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 (百万円) 220,216 220,216 220,216 220,216 220,216",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 1,113,536 1,229,747 1,296,035 1,235,530 1,221,053",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 3,088,810 3,045,652 2,935,917 2,867,911 2,862,160",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "売上収益 (百万円) 2,027,762 2,236,076 2,511,108 2,769,091 2,939,422",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "税引前利益 (百万円) 125,399 199,826 205,992 241,871 266,990",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期利益 (百万円) 92,584 153,823 151,717 166,031 193,181",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期利益 (百万円) 92,826 153,500 151,555 164,073 192,080",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期包括利益合計 (百万円) 147,763 295,622 361,781 460,504 307,430",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期包括利益 (百万円) 148,151 295,255 361,604 458,266 306,301",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持分 (百万円) 1,516,124 1,757,104 2,060,734 2,460,548 2,668,801",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資産合計 (百万円) 4,439,378 4,547,748 4,830,344 5,285,913 5,403,405",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 275,859 337,812 265,991 347,547 403,723",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △1,243,372 △14,348 △69,186 △117,713 △118,665",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 956,759 △320,325 △219,556 △226,746 △272,784",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末残高 (百万円) 48,460 52,743 37,438 59,945 83,961",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益 (百万円) 191,290 210,060 172,189 65,258 136,326",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 (百万円) 145,848 165,891 148,471 31,248 94,310",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 (百万円) 147,806 173,574 146,769 30,998 101,764",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 (百万円) 220,216 220,216 220,216 220,216 220,216",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 1,113,536 1,229,747 1,296,035 1,235,530 1,221,053",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 3,088,810 3,045,652 2,935,917 2,867,911 2,862,160",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "１．設備投資等の概要 ……………………………………………………………………………………………… 69",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "事業年度 自 2024年１月１日",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（第101期） 至 2024年12月31日",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第101期（自2024年１月１日 至2024年12月31日）",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．主要な経営指標等の推移 ……………………………………………………………………………………… 1",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4）発行済株式総数、資本金等の推移 ………………………………………………………………………… 73",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【提出日】 2025年３月27日",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事業年度】 第101期（自 2024年１月１日 至 2024年12月31日）",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算年月 2020年12月 2021年12月 2022年12月 2023年12月 2024年12月",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１【主要な経営指標等の推移】",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 当社は、2024年10月１日付で普通株式１株につき３株の割合で株式分割を行っております",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 最高株価及び最低株価は2022年４月３日以前は東京証券取引所（市場第一部）におけるものであり、2022年",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年11月 Permanis Sdn. Bhd.（2016年８月にEtika Beverages Sdn. Bhd.に社名変更）他９社の株式を取",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012年10月 カルピス株式会社（2016年１月１日アサヒ飲料㈱と合併）他４社の株式を取得",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年３月 エノテカ株式会社他４社（現連結子会社）の株式を取得",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年１月 ドライ飲料事業をアサヒ飲料（株）に集約",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年10月 旧SABMiller plcのイタリア、オランダ、英国事業その他関連資産の取得（子会社化）",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年12月 旧SABMiller plcの中東欧事業その他関連資産の取得に関する株式売買契約をAnheuser-Busch",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年３月 旧SABMiller plcの中東欧事業その他関連資産の取得（子会社化）",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "スクとして想定し、操業停止の可能性が高い生産拠点を10ヵ所と特定し、機会損失額を36億円と試算しました",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合、操業停止による機会損失と工場移転費用が発生する可能性があります",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "風水害及び土砂災害が発生することで生産ラインや物流が停止し、設備被害や機会損失、製品廃棄による損失",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストレスの高い地域の生産拠点において取水制限 を受けて操業が停止、 機会損失が発生する可能性がありま",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る価格高騰、気候変動や自然災害及びパンデミック等による納期遅延や供給停止に陥るリスクがあります",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsk.com/content/dam/nsk/jp/ja/company/investors/library/pdf/financial_statements/2025/164q4rep.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smk.co.jp/system/files/media/doc/yuho103.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipro.co.jp/assets/document/ir_library/72nd/securities_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shionogi.com/content/dam/shionogi/jp/investors/ir-library/presentation-materials/fy2024/4q/%E7%AC%AC160%E6%9C%9F_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8_2.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mhi.com/jp/finance/library/financial/pdf/2024/2024_04_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.takatori-g.co.jp/ir/tanshin/pdf/66yu-ka.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/ir/7328/65utlc4g3n3zt023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sugita-ace.co.jp/res/E69C89E4BEA1E8A8BCE588B8E5A0B1E5918AE69BB8_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.itochu.co.jp/ja/files/security_101.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.taiyo-hd.co.jp/jp/investor/library/securities/main/05/teaserItems3/06/linkList/0/link/20190625_02-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mmc.co.jp/corporate/ja/ir/pdf/yuka2011-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/ir-library/securities-reports/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tocalo.co.jp/ja/ir/library/securities/main/012/teaserItems3/0/linkList/0/link/t44u.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=HArqtwi4G1E%3D&tabid=143&mid=1060",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclo-navi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2.edinet-fsa.go.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://edinetdb.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/bigdataportal/dataintro/262",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regfis.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuhodb.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00200555001/download/sp002",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kagawa.lg.jp/documents/63741/2025gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.h2o-retailing.co.jp/ja/ir/library/securities/main/014/teaserItems1/0/linkList/0/link/183yuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hirata.co.jp/files/optionallink/00002982_file.pdf?1782180115",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sekisui.co.jp/ir/pdf/summary/yuhou104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nisso-hd.com/ir/upload_file/m005-m005_03/y2019-04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sekisuichemical.com/ir/report/financial_report/__icsFiles/afieldfile/2022/07/27/ASR_Mar2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ir.kyowakirin.com/en/library/securities/main/0/teaserItems1/00/linkList/00/link/25.4QAnnual%20Securities%20Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/english/listing/co-search/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsu.jp/en/-/media/home/ir/library/annual-security-report/en/156th_q4_hokokusyo_e.pdf?rev=d8063d68cc9b4ce792d98164370a8391&hash=0DA97C53870AACD37AF1C1D5AC5D3906",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_largest_Japanese_companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/72127/000095012304011077/k00743e20vf.htm",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 人手不足 受注 断る",
+   "results": [
+    "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "https://www.nsk.com/content/dam/nsk/jp/ja/company/investors/library/pdf/financial_statements/2025/164q4rep.pdf",
+    "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "https://www.smk.co.jp/system/files/media/doc/yuho103.pdf",
+    "https://www.nipro.co.jp/assets/document/ir_library/72nd/securities_report.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000002hidl-att/11JapanHomeShield-1s.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100TWX6.pdf",
+    "https://disclosure2.edinet-fsa.go.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 受注残 人手不足",
+   "results": [
+    "https://www.shionogi.com/content/dam/shionogi/jp/investors/ir-library/presentation-materials/fy2024/4q/%E7%AC%AC160%E6%9C%9F_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8_2.pdf",
+    "https://www.mhi.com/jp/finance/library/financial/pdf/2024/2024_04_all.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.takatori-g.co.jp/ir/tanshin/pdf/66yu-ka.pdf",
+    "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/ir/7328/65utlc4g3n3zt023.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.nsk.com/content/dam/nsk/jp/ja/company/investors/library/pdf/financial_statements/2025/164q4rep.pdf",
+    "https://disclo-navi.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 人手不足 損失 億円",
+   "results": [
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.sugita-ace.co.jp/res/E69C89E4BEA1E8A8BCE588B8E5A0B1E5918AE69BB8_3.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.itochu.co.jp/ja/files/security_101.pdf",
+    "https://www.taiyo-hd.co.jp/jp/investor/library/securities/main/05/teaserItems3/06/linkList/0/link/20190625_02-2.pdf",
+    "https://www.mmc.co.jp/corporate/ja/ir/pdf/yuka2011-03.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://www.nsk.com/content/dam/nsk/jp/ja/company/investors/library/pdf/financial_statements/2025/164q4rep.pdf",
+    "https://www.mhi.com/jp/finance/library/financial/pdf/2024/2024_04_all.pdf",
+    "https://www.jpx.co.jp/corporate/investor-relations/ir-library/securities-reports/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102）",
+   "results": [
+    "https://www.tocalo.co.jp/ja/ir/library/securities/main/012/teaserItems3/0/linkList/0/link/t44u.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "https://www.jpx.co.jp/corporate/investor-relations/ir-library/securities-reports/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 推移",
+   "results": [
+    "https://www.tocalo.co.jp/ja/ir/library/securities/main/012/teaserItems3/0/linkList/0/link/t44u.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/ir/7328/65utlc4g3n3zt023.pdf",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=HArqtwi4G1E%3D&tabid=143&mid=1060",
+    "https://www.sugita-ace.co.jp/res/E69C89E4BEA1E8A8BCE588B8E5A0B1E5918AE69BB8_3.pdf",
+    "https://disclo-navi.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 統計 PDF",
+   "results": [
+    "https://www.tocalo.co.jp/ja/ir/library/securities/main/012/teaserItems3/0/linkList/0/link/t44u.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/ir/7328/65utlc4g3n3zt023.pdf",
+    "https://www.mhi.com/jp/finance/library/financial/pdf/2024/2024_04_all.pdf",
+    "https://disclosure2.edinet-fsa.go.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/surveyplan/p00200555001/download/sp002",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.kagawa.lg.jp/documents/63741/2025gaiyo.pdf",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.jstage.jst.go.jp/article/johokanri/55/4/55_273/_html/-char/en",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/keikousei2024/documents/02tyuui.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 従業者規模別",
+   "results": [
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/ir/7328/65utlc4g3n3zt023.pdf",
+    "https://www.h2o-retailing.co.jp/ja/ir/library/securities/main/014/teaserItems1/0/linkList/0/link/183yuho.pdf",
+    "https://disclo-navi.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 1人当たり 万円",
+   "results": [
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://www.hirata.co.jp/files/optionallink/00002982_file.pdf?1782180115",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=HArqtwi4G1E%3D&tabid=143&mid=1060",
+    "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.itochu.co.jp/ja/files/security_101.pdf",
+    "https://www.sekisui.co.jp/ir/pdf/summary/yuhou104.pdf",
+    "https://www.nisso-hd.com/ir/upload_file/m005-m005_03/y2019-04.pdf",
+    "https://disclosure2.edinet-fsa.go.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） 2015 2025",
+   "results": [
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/ir/7328/65utlc4g3n3zt023.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "https://www.mhi.com/jp/finance/library/financial/pdf/2024/2024_04_all.pdf",
+    "https://www.jpx.co.jp/corporate/investor-relations/ir-library/securities-reports/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "listed Japanese contract manufacturers annual securities report revenue employees by company by year Japan statistics",
+   "results": [
+    "https://www.sekisuichemical.com/ir/report/financial_report/__icsFiles/afieldfile/2022/07/27/ASR_Mar2022.pdf",
+    "https://ir.kyowakirin.com/en/library/securities/main/0/teaserItems1/00/linkList/00/link/25.4QAnnual%20Securities%20Report.pdf",
+    "https://www.jpx.co.jp/english/listing/co-search/01.html",
+    "https://www.komatsu.jp/en/-/media/home/ir/library/annual-security-report/en/156th_q4_hokokusyo_e.pdf?rev=d8063d68cc9b4ce792d98164370a8391&hash=0DA97C53870AACD37AF1C1D5AC5D3906",
+    "https://en.wikipedia.org/wiki/List_of_largest_Japanese_companies",
+    "https://www.sec.gov/Archives/edgar/data/72127/000095012304011077/k00743e20vf.htm",
+    "https://corp.shiseido.com/en/ir/library/financial_statements/pdf/2025/annual_securities_report.pdf",
+    "https://waseda-jp.libguides.com/research-navi/find_securities/en",
+    "https://corp.mizuno.com/system/files/ir/2025-10/Mizuno%20112th%20Annual%20Securities%20Report.pdf",
+    "https://edinetdb.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102）",
+   "results": [
+    "https://note.com/jafcogroup8595/n/n7d67cd4e3ded",
+    "https://note.com/hirokimiyano/n/nc2d3ee58d38a",
+    "https://note.com/good_dill292/n/n41c622e52337",
+    "https://note.com/hirokimiyano/n/n3ec7af6801ef",
+    "https://note.com/hirokimiyano/n/n74c2391a30dd",
+    "https://note.com/tatsuya_sabato/n/n04030c3a0efc",
+    "https://note.com/company_scope/n/ndc9c26090b17",
+    "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "https://note.com/company_scope/n/n1e0be700e2dc",
+    "https://note.com/tatsuya_sabato/n/n9f6fdd8ecb24"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102）",
+   "results": [
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://jf.x.com/images/media-preview/2096985219349787115",
+    "https://jf.x.com/images/media-preview/2098618295134105940",
+    "https://x.com/listedcorp_inc/status/2073271070438875451",
+    "https://x.com/kabusuki777/status/2074428121223434603",
+    "https://x.com/nikkeibusiness/status/2032105909271564384",
+    "https://x.com/KIDpgkh/status/2077543740789449077",
+    "https://x.com/stock_unknown/status/2021208626648477953"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102）",
+   "results": [
+    "https://jp.linkedin.com/in/officeyadamari",
+    "https://jp.linkedin.com/in/%E3%82%A4%E3%82%BA%E3%83%9F%E3%83%9F%E3%83%84%E3%83%8E%E3%83%96",
+    "https://www.linkedin.com/jobs/rei-jobs",
+    "https://www.linkedin.com/feed/update/urn:li:share:7506033005283463169",
+    "https://jp.linkedin.com/posts/yusuke-shimizu-b3085957_上場会社がなぜ売上数億円規模のメーカーを買収するのか-上場会社による国内の-activity-7497925922503835648-kogW",
+    "https://jp.linkedin.com/posts/naka-cpa_監査難民の問題は徐々に解消されつつある一方で証券難民の状況は依然として深刻-activity-7501413970625363968-xj6F",
+    "https://www.linkedin.com/jobs/physical-design-engineer-jobs",
+    "https://jp.linkedin.com/posts/tomoinoue_巻き紙手紙を土日で50枚執筆-証券会社の新人時代には最初から引き継ぎ客をもらうことはあり-activity-6965663160951353344-QPtV",
+    "https://jp.linkedin.com/jobs/view/【壬生町】サーボモータ部品の加工・検査※プライム上場-at-ファナック（株）-4359497979"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102）",
+   "results": [
+    "https://www.facebook.com/100064515737150?locale=cx_PH",
+    "https://www.facebook.com/excel.sozoku/posts/上場株式の評価明細書をエクセルで作成するシステムファイルが完成しました-単純なテンプレートですので無料で公開しております私のhpに無料版をアップしてありますので/2998721613507803/",
+    "https://www.facebook.com/JapanExchangeGroup/photos/上場会社トップインタビュー創-株式会社ジェイテックコーポレーション後編掲載のお知らせ上場会社トップインタビュー創は東京証券取引所に上場する企業の創業者や経営者の/3701917993259503/",
+    "https://www.facebook.com/chuokai/posts/収集加工事業-報告全国中小企業団体中央会の発行する令和4年度組合資料収集加工事業報告書-先進組合事例抄録に播州織工業協同組合様のsdgsに関する取り組みが掲載さ/583023460528563/",
+    "https://www.facebook.com/nikkeibusiness/photos/戦前から続く佐賀の蒲鉾店が自己破産-製造受託拡大が招いた低利益体質httpsbusinessnikkeicomatclseminar21nv0001303180/1394448052726455/",
+    "https://www.facebook.com/100063470895317/posts/ｊａ信州うえだがセミドライ加工施設の活動状況報告会を開く-製造状況共同開発今後の展開などについて報告-長野県-上田市上田市長野県共同開発ｊａ信州うえだ報告会セミ/1052030790255941/",
+    "https://www.facebook.com/odexchange/posts/286859924094449/",
+    "https://www.facebook.com/kyouryokubu/posts/図表で見る医療アジアパシフィック2024年版oecd経済協力開発機構とwho世界保健機関が共同で発行する図表で見る医療アジアパシフィック2024年版が公開されま/1393059618703198/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） note 社長",
+   "results": [
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.takatori-g.co.jp/ir/tanshin/pdf/66yu-ka.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/co3pgt0000001sxv-att/12note-1s.pdf",
+    "https://corp.shiseido.com/jp/ir/pdf/ir20250326_168.pdf",
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://www.elematec.com/uploads/ir-data/securities_report_2018_q4.pdf",
+    "https://www.sumida.com/investor-relations/downloads/20120301-Q4-Jp.2011_12.pdf",
+    "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2023/20240621yuho.pdf",
+    "https://www.komatsu.jp/ja/-/media/home/ir/library/annual-security-report/ja/156th_q4_hokokusyo_j.pdf?rev=4080ca20f07c42c2ba49cb877f878db2&hash=C1C4F9AC95736ADED74A69F641652ACD",
+    "https://disclosure2.edinet-fsa.go.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102） X 投稿",
+   "results": [
+    "https://www.sekisui.co.jp/ir/pdf/summary/yuhou104.pdf",
+    "https://www.7andi.com/ir/file/library/pdf/24_7andi_int04.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000gfzl-att/02TOBooks-1s.pdf",
+    "https://www.zensho.co.jp/jp/ir/resource/pdf/44.4Q.pdf",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/sr/pdf/26fr_j.pdf",
+    "https://www.asiapile-hd.com/ir/uploads/RLDzcjskJfhCw1782288162.pdf",
+    "https://note.com/jafcogroup8595/n/n7d67cd4e3ded",
+    "https://www.fujioil.co.jp/pdf/ir/library/negotiable/95th_4.pdf",
+    "https://disclo-navi.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "listed Japanese contract manufacturers annual securities report revenue employees by company by year site:linkedin.com",
+   "results": [
+    "https://news.linkedin.com/about-us",
+    "https://www.linkedin.com/posts/socious-io_ssbj-internalcontrols-assurance-activity-7506581886136213504-OxrX",
+    "https://www.linkedin.com/posts/rezazahiri_%F0%9D%90%8F%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AC-%F0%9D%90%9B%F0%9D%90%B2-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%8D%F0%9D%90%AE%F0%9D%90%A6%F0%9D%90%9B%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC-activity-7435025817597931520-Wjo7",
+    "https://www.linkedin.com/company/thermo-fisher-scientific",
+    "https://www.linkedin.com/pulse/how-healthy-your-pr-firm-understanding-revenue-per-chuck-tanowitz",
+    "https://www.linkedin.com/company/dominarisecurities",
+    "https://www.linkedin.com/company/flexintl",
+    "https://www.linkedin.com/company/fractal-analytics",
+    "https://www.linkedin.com/company/spglobal",
+    "https://www.linkedin.com/company/stripe"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ50頁・検索18回）"
+ }
+}

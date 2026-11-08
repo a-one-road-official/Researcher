@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・219品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・222品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -11432,6 +11432,276 @@
 - 生産能力・設備：記載なし（読んだ45頁・検索18回）
 - 10年推移：記載なし（読んだ45頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ45頁・検索18回）
+
+## 工業統計 利用上の注意 製造品出荷額等の規模の境目（従業者30人以上は在庫・半製品の増減を含み29人以下は含まない・付加価値額と粗付加価値額の算式・経産省の原文・全国・4-103）（Japan Census of Manufactures notes value of shipments definition establishments 30 or more employees inventory change gross value added 29 or fewer）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「2．従業者規模別統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「事業所数、事業所敷地面積及び１日当たり水源別用水量」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「(1) 産業中分類別事業所数･････････････････････････････････････････････････1」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(1) 事業所数･････････････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（1） 産業中分類別事業所数」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（2 万9549 事業所、構成」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 1 表 産業中分類別事業所数（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：事業所数については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2：事業所数の調査時点については、6月1日現在である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 1 図 産業中分類別事業所数の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（1）事業所数 － 事業所数が最も多いのは大阪府 －」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 社員数・平均社員数：
+  - 「（1）従業者4人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）従業者30人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（3）従業者4～29人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）従業者4人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（3）従業者30人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「従業者４人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「従業者30人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「推計による従業者３人以下の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「(2) 産業中分類別従業者数･････････････････････････････････････････････････3」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(4) 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）･･････････････7」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(2) 従業者数･････････････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(4) 付加価値額（従業者 29 人以下は粗付加価値額）･･････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 受注金額・加工賃収入：
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「(3) 産業中分類別製造品出荷額等･･･････････････････････････････････････････5」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(3) 製造品出荷額等･･･････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「造品出荷額等）総額の9割を達成する範囲に含まれる事業所を調査対象とし、その報告を」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「４．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(2) 製造業事業所調査における「在庫額」については、「統計調査における売上高等の集」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（3） 産業中分類別製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（82 兆 1536」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「億円、構成比21.5％）が最も高く、次いで「食料品製造業」（35兆 107 億円、同9.2％）、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「「化学工業」（34 兆3856億円、同9.0％）、「生産用機械器具製造業」（25 兆2999 億円、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「同 6.6％）、「鉄鋼業」（22 兆8285 億円、同6.0％）の順となっている（第3表、第3 図）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 3 表 産業中分類別製造品出荷額等（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 1人あたり・1社あたり金額：
+  - 「(4) 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）･･････････････7」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(4) 付加価値額（従業者 29 人以下は粗付加価値額）･･････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（4） 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ア 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（22 兆 4152 億」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 4 表 産業中分類別付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2：付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「3：付加価値額の調査期間については、2023年及び2024年におけるそれぞれ1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 4 図 産業中分類別付加価値額の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：付加価値額について、従業者 29 人以下の事業所は、粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（4）付加価値額（従業者29 人以下は粗付加価値額） － 付加価値額が最も多いのは愛知県 －」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「4：製造品出荷額等及び付加価値額の調査期間については、2024年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 生産能力・設備：
+  - 「５．有形固定資産額（従業者30人以上の事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(1) 有形固定資産額の取得額等には、次の区分がある」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(5) 有形固定資産額の算式は以下のとおり」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「付表3 経費・製造品出荷額等・在庫額・有形固定資産・建設仮勘定・設備投資（従業者30人以上の事業所） （Excel 29.5KB）」（https://www.city.toyama.lg.jp/shisei/1001818/1011652/1010975/1002240.html）
+  - 「統計表7－1 産業別事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額、付加価値額（以上従業者4人以上の事業所）、有形固定資産年末現在高及び投資総額（以上従業者30人以上の事業所) （Excel 64.5KB）」（https://www.city.toyama.lg.jp/shisei/1001818/1011652/1010975/1002240.html）
+  - 「産業（中分類）、行政区別有形固定資産、リース契約額等（従業者30人以上の事業所） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）、行政区別有形固定資産（従業者30人以上の事業所） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「従業者規模，産業中分類別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(48KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(44KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(47KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(43KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(47KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(42KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(46KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 10年推移：
+  - 「最終更新日：2021.08.13」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「2025 年経済構造実態調査二次集計結果」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「１．「2025年経済構造実態調査製造業事業所調査」（以下「製造業事業所調査」という」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「10．2025年経済構造実態調査 製造業事業所調査（2024年実績）については令和6年経済セン」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「一方、本資料の過去時系列のうち 2024年経済構造実態調査 製造業事業所調査（以下」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「「2023年実績」という」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「）については、2025年8月に公表した数値であり2023年実績にお」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「【参考値】2024年経済構造実態調査 製造業事業所調査として今回、同時に公表した」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「3：2024年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、推計値となっ」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ている非調査対象の事業所について、2025 年8 月に公表した数値で記載している」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2024年 2025年」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「3：2024年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「推計値となっている非調査対象の事業所について、2025年8月に公表した数値で記載している」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 人手と仕事の差：
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費など」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「原材料使用額等に「製造に関連する外注費」、「転売した商品の仕入額」を追加」（https://www.city.toyama.lg.jp/shisei/1001818/1011652/1010975/1002240.html）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+
+## 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型・製缶板金）の従業者規模別 1人あたり製造品出荷額等を29人以下と30人以上に分けて（工業統計 産業別統計表 従業者規模別・同じ定義の規模帯の中だけで比べる・4-103）（Japan Census of Manufactures by employee size class electroplating heat treatment metal stamping dies per employee shipments small vs 30 plus）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「(1) 事業所数は、平成 22年 12月 31日現在の数値です」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「事業所数 事業所 450 430 95.6 △20」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「表 3 長野県内の市町村別事業所数、従業者数、製造品等出荷額、粗付加価値額の順位」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「1 事業所数」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(1) 産業別事業所数（図 2）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 従業員規模別事業所数（表 4）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「従業者規模別では、4～29人が 343事業所 （構成比79.8%） 、30人以上が 87事業所 （構」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 従業者規模別従業者数（表 4）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「従業者規模別では、4～29人が 3,850人 （構成比22.9%） 、30人以上が 12,938人（同 77.1%）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 従業者規模別製造品出荷額（表 4）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「従業者規模別では、4～29 人が 508 億 6,188 万円（構成比 12.3%） 、30人以上が 3,638」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 従業者規模別現金給与総額及び常用労働者 1 人当たり現金給与総額（表 4）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「従業者規模別では、4～29人が 120 億 8,392万円（構成比 17.5%、増減率△1.2%） 、30」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 社員数・平均社員数：
+  - 「Ⅰ 従 業 者4人以上の事業所の概要 ............................................................. 7」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「Ⅱ 従 業 者30人以上の事業所の概要 ..........................................................17」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たり生産額及び付加価値額 .......................................19」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「者 3 人以下の事業所を除く）です」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「工業統計調査は、従業員 30人以上の事業所（製造、加工又は修理を行っていない本」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「社又は本店を除く）については「工業調査票甲」 、従業者29 人以下の事業所（製造、」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 従業者数は、平成 22年 12月 31日現在の数値です」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「ウ 臨時雇用者とは、常用労働者以外の雇用者で、1 か月以内の期間を定めて雇用さ」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(3) 現金給与総額は、 平成22年 1年間に常用労働者のうち雇用者 （ 「正社員、 正職員等」」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「＋（半製品及び仕掛品年末価額－半製品及び仕掛品年初価額） （従業者30人以上の事業所）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「Ⅰ 従業者 4人以上の事業所の概要（表 1）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 受注金額・加工賃収入：
+  - 「3 製造品出荷額等 ............................................................................11」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「3 製造品出荷額等 ............................................................................17」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「4 生産額及び付加価値額 ..................................................................17」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり生産額及び付加価値額 ...........................................18」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たり生産額及び付加価値額 .......................................19」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(5) 製造品出荷額等は、平成 22 年 1 年間における製造品出荷額、加工賃収入額、製造」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「イ 加工賃収入額とは、平成 22年中に他企業の所有に属する主要原材料によって製」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「・ 粗付加価値額＝製造品出荷額等－（消費税を除く内国消費税額 *1+推計消費税額*2）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 1人あたり・1社あたり金額：
+  - 「4 粗付加価値額 ................................................................................11」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「4 生産額及び付加価値額 ..................................................................17」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり生産額及び付加価値額 ...........................................18」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たり生産額及び付加価値額 .......................................19」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「・ 粗付加価値額＝製造品出荷額等－（消費税を除く内国消費税額 *1+推計消費税額*2）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 金額表示の単位は万円とし、単位未満は四捨五入としています」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 製造品出荷額等は、4,146 億 7,086万円で、前年に比べ 454億 2,192万円の増加」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 原材料使用額等は、2,445 億 8,681万円で、前年に比べ 359億 8,037万円の増加」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 粗付加価値額は、1,645 億 5,580 万円で、前年に比べ 93 億 358 万円の増加（同＋6.0%）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 現金給与総額は、692 億 3,892 万円で、前年に比べ 5,621 万円の増加（同＋0.1%）とな」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「製造品出荷額等 万円 36,924,894 41,467,086 112.3 4,542,192」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「原材料使用額等 万円 20,860,644 24,458,681 117.2 3,598,037」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「粗付加価値額 万円 15,525,222 16,455,580 106.0 930,358」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 生産能力・設備：
+  - 「9 有形固定資産投資総額 ..................................................................19」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(7) 有形固定資産の額は、 平成22年 1 年間における数値で、 帳簿価額によっています」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「9 有形固定資産投資総額（表 8、統計表冊子 第 7表）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「有形固定資産総額は、52億 8,922万円で、前年に比べ116 億 2,691万円の減少（増減率」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「産業別では、 有形固定資産投資総額の多い順に、電気 14億 4,616万円、輸送 11億 8,110」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「表 8 原材料使用額等、現金給与総額、有形固定資産投資総額（H21 年、H22年）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「第7表 産業中分類別事業所数、現金給与総額、原材料使用額等、製造品出荷額等、在庫額、有形固定資産、リース金額、生産額、付加価値額、」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 10年推移：
+  - 「イ 建設仮勘定の増加額とは、 この勘定の借方に加えられた額をいい、 減少額とは、」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 従業者数は、16,788 人で、前年に比べ 44人の増加（同＋0.3%）となりました」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 製造品出荷額等は、4,146 億 7,086万円で、前年に比べ 454億 2,192万円の増加」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 原材料使用額等は、2,445 億 8,681万円で、前年に比べ 359億 8,037万円の増加」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 粗付加価値額は、1,645 億 5,580 万円で、前年に比べ 93 億 358 万円の増加（同＋6.0%）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 現金給与総額は、692 億 3,892 万円で、前年に比べ 5,621 万円の増加（同＋0.1%）とな」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「図 1 上田市の工業の推移（平成 12、13年を 100とした場合）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「項目 単位 平成21年 平成22年 前年比 増減数」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「従業者数は、16,788人で前年に比べ 44人の増加（増減率＋0.3%）となりました」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「製造品出荷額等は 4,146億 7,086万円で、前年に比べ 454 億 2,192万円の増加」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「645億 5,580万円で前年に比べ 93億 358万円の増加 （増減率＋6.0%）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「１事業所当たり従業者数は、39.0人で、前年に比べ 1.8人の増加（増減率＋4.8%）と」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「の増加（増減率＋17.5%）となりました」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 人手と仕事の差：
+  - 「用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額で、消費税」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「エ 製造等に関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「外注費、転売」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
+
+## 上場の受託加工会社の有価証券報告書の会社ごと・年ごとの売上高と従業員数（一次の下向きの引用が多い理由を会社ごとに確かめる・同じ定義の従業員数どうし・4-102）（listed Japanese contract manufacturers annual securities report revenue employees by company by year）
+- 文脈：会社・一次
+- 痛み・損（深さの印）：
+  - 「また、水害による生産拠点の操業停止をリ」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「スクとして想定し、操業停止の可能性が高い生産拠点を10ヵ所と特定し、機会損失額を36億円と試算しました」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「合、操業停止による機会損失と工場移転費用が発生する可能性があります」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「風水害及び土砂災害が発生することで生産ラインや物流が停止し、設備被害や機会損失、製品廃棄による損失」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「ストレスの高い地域の生産拠点において取水制限 を受けて操業が停止、 機会損失が発生する可能性がありま」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+- 社員数・平均社員数：
+  - 「従業員数 (名) 29,850 30,020 29,920 28,639 28,173（外、平均臨時雇用者数） (6,849) (6,665) (6,645) (6,089) (5,784)」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「従業員数 (名) 313 336 164 192 265（外、平均臨時雇用者数） (7) (14) (4) (8) (4)」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「（注）１ 従業員数については、関係会社等への出向者を除き、提出会社への出向者を含めた就業人員を記載しており」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「（注）１ 従業員数は就業人員であります」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「２ 臨時従業員数は（ ）内に期中平均人員を外数で記載しております」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「５ 当社は純粋持株会社であるため、セグメント別の従業員数は記載しておりません」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「６ 前連結会計年度末に比べて従業員数が73名増加しております」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「健康な人の免疫機能の維持に役立つ「L-92乳酸菌」や、心理的な」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+- 受注金額・加工賃収入：
+  - 「売上収益 (百万円) 2,027,762 2,236,076 2,511,108 2,769,091 2,939,422」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「税引前利益 (百万円) 125,399 199,826 205,992 241,871 266,990」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期利益 (百万円) 92,584 153,823 151,717 166,031 193,181」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期利益 (百万円) 92,826 153,500 151,555 164,073 192,080」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期包括利益合計 (百万円) 147,763 295,622 361,781 460,504 307,430」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期包括利益 (百万円) 148,151 295,255 361,604 458,266 306,301」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「持分 (百万円) 1,516,124 1,757,104 2,060,734 2,460,548 2,668,801」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「資産合計 (百万円) 4,439,378 4,547,748 4,830,344 5,285,913 5,403,405」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「キャッシュ・フロー (百万円) 275,859 337,812 265,991 347,547 403,723」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「キャッシュ・フロー (百万円) △1,243,372 △14,348 △69,186 △117,713 △118,665」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「キャッシュ・フロー (百万円) 956,759 △320,325 △219,556 △226,746 △272,784」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「期末残高 (百万円) 48,460 52,743 37,438 59,945 83,961」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「営業収益 (百万円) 191,290 210,060 172,189 65,258 136,326」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「経常利益 (百万円) 145,848 165,891 148,471 31,248 94,310」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期純利益 (百万円) 147,806 173,574 146,769 30,998 101,764」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+- 1人あたり・1社あたり金額：
+  - 「売上収益 (百万円) 2,027,762 2,236,076 2,511,108 2,769,091 2,939,422」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「税引前利益 (百万円) 125,399 199,826 205,992 241,871 266,990」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期利益 (百万円) 92,584 153,823 151,717 166,031 193,181」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期利益 (百万円) 92,826 153,500 151,555 164,073 192,080」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期包括利益合計 (百万円) 147,763 295,622 361,781 460,504 307,430」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期包括利益 (百万円) 148,151 295,255 361,604 458,266 306,301」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「持分 (百万円) 1,516,124 1,757,104 2,060,734 2,460,548 2,668,801」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「資産合計 (百万円) 4,439,378 4,547,748 4,830,344 5,285,913 5,403,405」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「キャッシュ・フロー (百万円) 275,859 337,812 265,991 347,547 403,723」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「キャッシュ・フロー (百万円) △1,243,372 △14,348 △69,186 △117,713 △118,665」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「キャッシュ・フロー (百万円) 956,759 △320,325 △219,556 △226,746 △272,784」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「期末残高 (百万円) 48,460 52,743 37,438 59,945 83,961」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「営業収益 (百万円) 191,290 210,060 172,189 65,258 136,326」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「経常利益 (百万円) 145,848 165,891 148,471 31,248 94,310」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「当期純利益 (百万円) 147,806 173,574 146,769 30,998 101,764」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+- 生産能力・設備：
+  - 「１．設備投資等の概要 ……………………………………………………………………………………………… 69」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+- 10年推移：
+  - 「事業年度 自 2024年１月１日」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「（第101期） 至 2024年12月31日」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「第101期（自2024年１月１日 至2024年12月31日）」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「１．主要な経営指標等の推移 ……………………………………………………………………………………… 1」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「(4）発行済株式総数、資本金等の推移 ………………………………………………………………………… 73」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「【提出日】 2025年３月27日」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「【事業年度】 第101期（自 2024年１月１日 至 2024年12月31日）」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「決算年月 2020年12月 2021年12月 2022年12月 2023年12月 2024年12月」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「１【主要な経営指標等の推移】」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「２ 当社は、2024年10月１日付で普通株式１株につき３株の割合で株式分割を行っております」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「３ 最高株価及び最低株価は2022年４月３日以前は東京証券取引所（市場第一部）におけるものであり、2022年」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「2011年11月 Permanis Sdn. Bhd.（2016年８月にEtika Beverages Sdn. Bhd.に社名変更）他９社の株式を取」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「2012年10月 カルピス株式会社（2016年１月１日アサヒ飲料㈱と合併）他４社の株式を取得」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「2015年３月 エノテカ株式会社他４社（現連結子会社）の株式を取得」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「2016年１月 ドライ飲料事業をアサヒ飲料（株）に集約」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+- 人手と仕事の差：
+  - 「スクとして想定し、操業停止の可能性が高い生産拠点を10ヵ所と特定し、機会損失額を36億円と試算しました」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「合、操業停止による機会損失と工場移転費用が発生する可能性があります」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「風水害及び土砂災害が発生することで生産ラインや物流が停止し、設備被害や機会損失、製品廃棄による損失」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「ストレスの高い地域の生産拠点において取水制限 を受けて操業が停止、 機会損失が発生する可能性がありま」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+  - 「る価格高騰、気候変動や自然災害及びパンデミック等による納期遅延や供給停止に陥るリスクがあります」（https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf）
+- 事業所数・社数：記載なし（読んだ50頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
