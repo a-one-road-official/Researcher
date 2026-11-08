@@ -8,388 +8,8 @@
  ],
  "context": "凄腕・企業分析",
  "kind": "market",
- "researched_at": "2026-11-08T01:32:32.442430+00:00",
+ "researched_at": "2026-11-08T08:19:48.124275+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimate future free cash flows",
-    "url": "https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "DCF analysis is a method used to estimate the value of an investment based on its expected future cash flows. The DCF model is a key tool in valuation, helping analysts determine the present value of expected future earnings.",
-    "url": "https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This tool uses probability distributions and random sampling to estimate the future outcome of an investment.",
-    "url": "https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "① 「自分なりの仮説」を持って情報に接する",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このことわざは、企業の「本質的価値」の推計に重要な教訓を与えてくれると思います",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を検証、精緻化、あるいは棄却するための重要な場です",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「仮説」は、投資判断の中核となる投資家目線の独自の「",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「仮説をどうやってたてるのか？」ということに関しては、シニアポートフォリオマネージャーの菅が以前noteで詳しく解説していますので、ぜひご参照ください",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "相手に集中するためにも、綿密な事前準備を行い、頭の中に情報と仮説をインストールしておくことが重要です",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "重要な仮説に関する質問に関しては、一問一答のようにすぐに受け答えを終わらせずに、",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ことで、コミュニケーションが豊かなものとなり、仮説に迫っていくことができます",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有価証券報告書や決算説明会資料をただ漫然と眺めるのではなく、「この会社の強みは〇〇で、この領域が伸びるはずだ」といった自分なりの仮説を立ててから情報に接することで、情報に対する感度が格段に変わります",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、結果が仮説通りだったか、あるいは違ったのかを検証する",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（開示がない場合は、業界団体の統計データや、競合他社のデータから逆算して推計します）",
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分解して得られたパーツを組み立て直し、「この会社の収益構造はこうなっているはずだ」という自分なりの仮説（モデル）を作り上げます",
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "冒頭では少し警戒していたIRの方も、先ほどのような質問や仮説をぶつけると、",
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "経済環境や社会情勢の変化、あるいは企業の状況変化といった変数を入力するだけで、いくつもの「業績パターン」を瞬時に作成し、企業価値への影響を検証することができます",
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "構造を理解し、仮説を立て、取材で検証し、モデルに落とし込む",
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このカオスに対し、独自の仮説をぶつけ、対話を通じて企業自身すら気づいていない視点を提示する",
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上期実績から逆算した下期の営業利益は約562百万円（営業利益率約18.5%）と上期の538百万円をわずかに上回る程度で、採用による人件費増を織り込んだ控えめな計画とみられます",
-    "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The terminal value can be estimated using perpetual growth assumptions or exit multiples, providing a long-term view of value.",
-    "url": "https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Operating margin estimates",
-    "url": "https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "f. Value at Risk (VaR): VaR is a statistical measure used to estimate the maximum potential loss of a portfolio over a specific time frame at a certain confidence level.",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "a. Quantitative Analysis: Quantitative analysis involves using numerical data and financial ratios to assess a company’s financial performance and value. This approach relies on historical and current financial data to make projections and estimates for the future.",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Valuation methods are essential for determining the intrinsic value of a company’s stock. Equity analysts use various valuation techniques to estimate a company’s worth and compare it to its market price. Some common valuation methods include:",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "a. Discounted Cash Flow (DCF) Analysis: DCF analysis estimates the present value of a company’s future cash flows. It involves forecasting free cash flows and discounting them back to their present value using the company’s cost of capital.",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "d. Dividend Discount Model (DDM): DDM estimates a stock’s fair value based on the present value of its expected future dividends.",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SG&A Expense estimates provide insight to third party investors as well.",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Estimate Working Capital Requirements",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社の言っている成長戦略に実現性、蓋然性があるかどうかを検証・確認していく",
-    "url": "https://note.com/sui_investor/n/n9ed67d6634ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例：政府統計や民間予測から市場成長率（例：年+5%）を見積もり、自社のシェア・戦略から将来の売上を推定",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "成長予測は「夢」ではなく、構造的根拠を持った“仮説の積み上げ”",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「ESGスコアのみで判断せず、自ら主要ESG課題と対応策を検証しよう」",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "…非財務面の課題と対応状況を複数機関のスコアで検証",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：投資判断前に「本当に事実ベースか？」「異論はないか？」を項目で検証",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その後の株価の動きを見て、当初の仮説をどう修正したのか？",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Valuation cross-checks",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "management guidance in the 10-K or earnings call; cross-check against industry reports.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "lets you enter these assumptions directly and produces an intrinsic value estimate you can use as a sanity check against your own model.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Uses acquisition multiples from comparable deals to estimate what a buyer would pay. Useful for M&A analysis but can overstate value in a hot deal market.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "M&A valuation, control premium estimates",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Book value, liquidation estimates",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Provides daily intrinsic value estimates, multi-model valuation outputs (DCF, P/E, P/S), and a",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for quick cross-checks during screening and monitoring. Useful for sanity-checking your own model outputs and for tracking valuation changes over time without rebuilding a model from scratch.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SEC filings → company guidance → consensus estimates → news. Document every source with the date accessed so your model is auditable when you revise it.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Equity research produces a defensible buy, hold, or sell recommendation only when the analyst follows a consistent workflow from company selection through to a written thesis, a cross-checked valuation, and a pre-trade checklist.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Tickerplace intrinsic value calculator and stock valuation checker let you cross-check model outputs and monitor fair value estimates across thousands of US-listed equities.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The platform's multi-model approach runs DCF, P/E, and P/S valuations simultaneously, producing a daily intrinsic value estimate and a fair value target for thousands of US-listed equities. That means you can cross-check your own DCF output against an independent model in seconds rather than rebuilding a parallel spreadsheet. The",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "lets you enter your own assumptions and see how they compare to the platform's estimates, which is particularly useful when your WACC or terminal growth rate differs from consensus.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The sources below underpin the analysis in this guide. Check filings first when updating a model, then company guidance, then consensus estimates.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Multi-model valuation platform with daily intrinsic value estimates, calculators, and financials coverage for 10,000+ US and ASX-listed equities.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Through this combined methodology, you derive a valuation range and identify a fair value estimate.",
-    "url": "https://thalasoft.com/p/equity-research-a-step-by-step-approach/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This content is for educational purposes only and does not constitute financial, investment, or career advice. Compensation figures are industry estimates and vary by firm, geography, and individual performance.",
-    "url": "https://valuationmasterclass.com/equity-research-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Compare to prior quarter and consensus estimates (15 minutes)",
-    "url": "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Extract guidance and compare to estimates (15 minutes)",
-    "url": "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5.仮説の設定",
-    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば場合によっては市場について調べる前に過去の業績を調べた方が速かったり、仮説の設定はプロセスのもっと前に持ってきた方が速かったりと、",
-    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この分析のゴールとする仮説の設定を行います",
-    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「SquareのCash Appのユーザーは5年で2倍になる」「SeaのShopeeのGMVは右肩上がりであり今後も同じペースでの増加が続く」「Rokuの売上成長の低迷は市場全体の広告費の削減が原因」などが仮説の例です",
-    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社全体の業績に大きな影響を与える根本的な事象に着目して仮説を立てられるか",
-    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説は1つではなく、複数個の仮説の塊でも良いのですが、株式投資を最終目的とした調査の場合は、多くても3つまでに抑えることをお勧めします",
-    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PLやKPIの推移と、その背景となっている市場動向を踏まえて、こういったシナリオで推移すれば達成できるんじゃないか、という一定の仮説の精度を高めていくという作業です",
-    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここで出したシナリオをベースに投資を行い、その仮説が崩れなければ数年単位でホールド、崩れたら直ぐに売却、多少決算が悪くても売らないというのが個人的に好きな投資スタイルです",
-    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "日本株に関しては10年以上雑誌などで銘柄推奨をするなど、仕事でも見続けてきた面があるので得意な分野としては日本株の中小型株です",
@@ -406,6 +26,12 @@
    {
     "quote": "ーー三井さんは講演なども行われていますが、投資家の方におすすめしている銘柄選びの方法などはありますか？",
     "url": "https://mag.minkabu.jp/money/30593/?membership=1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "プロのやり方を真似るには、知ることが重要",
+    "url": "https://note.com/tsubame_toushi/n/n826a7b9c7c72",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
@@ -1412,33 +1038,345 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "検索結果の抜粋": [
+  "失敗・落とし穴": [
    {
-    "quote": "アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... — Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。",
-    "url": "https://note.com/sawakami_letter/n/ne8e25bd22655",
+    "quote": "「高市相場はアベノミクスの再来」は大間違い？ 投資スクール社長が指摘する“決定的な違い”",
+    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
-    "url": "https://note.com/investers_notes/all",
+    "quote": "ちゃんぽん1000円超でもリンガーハット「41%増益」の衝撃…売上10%増のココイチが減益に沈んだ「コストの罠」",
+    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【ご注意】『みんかぶ』における「買い」「売り」の情報はあくまでも投稿者の個人的見解によるものであり、情報の真偽、株式の評価に関する正確性・信頼性等については一切保証されておりません",
+    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "会社側の公表を鵜呑みにした内容ばかりで深みがない",
+    "url": "https://note.com/yozoruhitorigoto/n/n081b07b79a1e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「情報量と注意力はトレードオフの関係にある」とは誰かの言葉だ",
+    "url": "https://note.com/yozoruhitorigoto/n/n081b07b79a1e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、特定の領域の専門家と定期的にディスカッションを行うなど、正確性やバイアスを勘案しながらも、なるべく多方面の情報をインプットすることを心がけています",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。 主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
-    "url": "https://note.com/investers_notes/all",
+    "quote": "もしあなたが、あるフィットネスクラブ運営会社の株を買おうとしたとき、どうやって10年後の利益を予想しますか？「健康ブームだから、なんとなく毎年5%ずつ伸びる」ではダメです",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノート） — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
-    "url": "https://note.com/investers_notes/all",
+    "quote": "「構造理解」こそが、ファンダメンタルズ分析を行うアクティブ投資家の、揺るぎない情報優位性",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし営業CFにはクリエイターへの預り金の増加（359百万円）が含まれ、すべてが利益由来の資金ではない点には注意が必要です",
+    "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社予想EPS（64.6円）には繰延税金資産の計上による税効果が含まれ、経常利益（1,130百万円）より純利益（1,200百万円）が大きくなっている点にも注意が必要で、無理に修正EPSを作って理論株価を出すことは控えました",
+    "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年初来高値3,405円（4月15日）を出来高を伴って上抜ければ需給は軽くなりますが、金利上昇局面ではPER約50倍の銘柄は下落幅も大きくなりやすい点に注意が必要です",
+    "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Behavioral finance is an emerging field that studies the psychological factors influencing investor decision-making. It recognizes that human behavior, emotions, and cognitive biases often lead to irrational investment choices. Understanding behavioral finance can help equity analysts better interpret market trends and identify potential deviations from rational investor behavior.",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a. Cognitive Biases: Cognitive biases are mental shortcuts or patterns of thinking that can lead to irrational decisions. Common biases include confirmation bias, overconfidence, loss aversion, and herd mentality.",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "c. Anchoring Bias: Anchoring bias occurs when individuals rely too heavily on initial information or reference points when making decisions.",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Understanding behavioral biases can help equity analysts account for the impact of human psychology on market behavior and make more informed investment decisions.",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Analyst Mistakes Untemplated extrapolation of historical growth",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Analyst Mistake: Overestimating Scalability",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Equity research has been mistaken as a field that is dominated",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Analyst Mistakes Untemplated extrapolation of historical",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• One of the most common mistakes made by analysts is blindly",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This mistake often leads to overly optimistic revenue forecasts,",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Analyst Mistake: Ignoring Unit",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Analyst Mistake: Overestimating",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最終的には企業の実力＝価値（ファンダメンタルズ）",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目安：10%以上で優良、5%未満は注意",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "⚠️ 要注意：高配当性向 ＋ FCFマイナス",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バリュー投資家やグロース投資家に向けて、煩雑になりがちな財務分析・ファンダメンタル分析の手助けをする「バフェット・コード」",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "長期保有には不向き ← 知っておくべき落とし穴",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは「バイアス排除」「危機対応」「PDCAと投資日誌」の３つの観点で、心理面を鍛える具体的方法を解説します",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確証バイアス：自分に都合のいい情報だけ集める",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "損失回避バイアス：損を極度に恐れ、意思決定が鈍る",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "含み損が出ても、企業のファンダメンタルズ（収益力・財務健全性）が変わっていなければ落ち着いてホールド",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：成功要因・失敗要因を抽出し、次の投資ルールに反映",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗も成功も全て学びに変える強力なツールです",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDCAサイクルを回し、“成功／失敗パターン”を自分の血肉に",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗しない！株の勉強になるnoteの選び方",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、成功体験だけでなく、失敗談や反省点を赤裸々に綴った記事も少なくありません",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リアルな成功と失敗のケーススタディを通じて、自分自身の投資戦略を磨き上げることができる",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過去の相場分析や投資の失敗談から得られる教訓",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここを注意深く読み解くことで、発信者の信頼性や専門性をある程度推し量ることができます",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、実績の数字だけを鵜呑みにするのは危険です",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらの情報を総合的に見て、「この人から学びたい」と思えるような、信頼できるバックグラウンドを持ったクリエイターを選ぶことが、失敗しないための第一歩です",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ファンダメンタルズ分析、テクニカル分析、高配当株、グロース株、マクロ経済など、様々なジャンルからバランス良く選びましたので、あなたの興味や投資スタイルに合ったクリエイターがきっと見つかるはずです",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算分析、ファンダメンタルズ",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中小型株、需給分析、ファンダメンタルズ",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "テクニカル分析とファンダメンタルズ分析を融合させた「スイングトレード」で実績を上げているクリエイター",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の業績や将来性といったファンダメンタルズも考慮に入れるため、単なるチャート分析に留まらない、根拠のしっかりしたトレード手法を学ぶことができます",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有益な情報を最大限に活用し、リスクを避けるために、noteを読む際に心に留めておくべき3つの注意点を解説します",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "発信されている情報を鵜呑みにせず、",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に注意すべきなのが「ポジショントーク」です",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Values a company relative to peers using multiples such as EV/EBITDA, P/E, or P/S. Fast and market-anchored, but only as good as the peer group selected. A common pitfall is using EV/EBITDA across companies with different depreciation policies or capital structures without adjusting for those differences.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most analytical errors do not happen in the model. They happen in the gap between finishing the model and executing the trade, when confirmation bias is highest and scrutiny is lowest. This checklist closes that gap.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Download Equity Research Bundle (Including equity research template and my book, “9 Valuation MIstakes and how to fix them”) Here➡️",
+    "url": "https://valuationmasterclass.com/equity-research-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【コラム】企業IR十階（じっかい）：「相対評価の罠」から抜け出し、適正な時価総額を獲得するためのIR進化論（",
+    "url": "https://www.ir1on1.com/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
   "実例": [
+   {
+    "quote": "（結果論的ですが、医薬を調べてるときにルネスタというエーザイの薬にお世話になったことがあるのを思い出しました",
+    "url": "https://note.com/tsubame_toushi/n/n826a7b9c7c72",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "上記の分析を行った結果、エーザイへの投資ポイントは2つです",
+    "url": "https://note.com/tsubame_toushi/n/n826a7b9c7c72",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "Aim to spot important themes and variables that will impact future performance. For example, is the industry ripe for disruption from new technology? Do customers have high switching costs or brand loyalty?",
     "url": "https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b",
@@ -1920,328 +1858,54 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "「高市相場はアベノミクスの再来」は大間違い？ 投資スクール社長が指摘する“決定的な違い”",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ちゃんぽん1000円超でもリンガーハット「41%増益」の衝撃…売上10%増のココイチが減益に沈んだ「コストの罠」",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【ご注意】『みんかぶ』における「買い」「売り」の情報はあくまでも投稿者の個人的見解によるものであり、情報の真偽、株式の評価に関する正確性・信頼性等については一切保証されておりません",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会社側の公表を鵜呑みにした内容ばかりで深みがない",
-    "url": "https://note.com/yozoruhitorigoto/n/n081b07b79a1e",
+    "quote": "アナリスト が実際に考えている 企業分析 ～株価に一喜一憂 ... アナリスト が実際に考えている 企業分析 ～株価に一喜一憂 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/sawakami_letter/n/ne8e25bd22655",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「情報量と注意力はトレードオフの関係にある」とは誰かの言葉だ",
-    "url": "https://note.com/yozoruhitorigoto/n/n081b07b79a1e",
+    "quote": "アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。",
+    "url": "https://note.com/sawakami_letter/n/ne8e25bd22655",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "さらに、特定の領域の専門家と定期的にディスカッションを行うなど、正確性やバイアスを勘案しながらも、なるべく多方面の情報をインプットすることを心がけています",
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もしあなたが、あるフィットネスクラブ運営会社の株を買おうとしたとき、どうやって10年後の利益を予想しますか？「健康ブームだから、なんとなく毎年5%ずつ伸びる」ではダメです",
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
+    "url": "https://note.com/investers_notes/all",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「構造理解」こそが、ファンダメンタルズ分析を行うアクティブ投資家の、揺るぎない情報優位性",
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... 大手証券会社にてアナリストとして7年間勤務。 主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
+    "url": "https://note.com/investers_notes/all",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... — Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。",
+    "url": "https://note.com/sawakami_letter/n/ne8e25bd22655",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
+    "url": "https://note.com/investers_notes/all",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし営業CFにはクリエイターへの預り金の増加（359百万円）が含まれ、すべてが利益由来の資金ではない点には注意が必要です",
-    "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
+    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。 主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
+    "url": "https://note.com/investers_notes/all",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "会社予想EPS（64.6円）には繰延税金資産の計上による税効果が含まれ、経常利益（1,130百万円）より純利益（1,200百万円）が大きくなっている点にも注意が必要で、無理に修正EPSを作って理論株価を出すことは控えました",
-    "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年初来高値3,405円（4月15日）を出来高を伴って上抜ければ需給は軽くなりますが、金利上昇局面ではPER約50倍の銘柄は下落幅も大きくなりやすい点に注意が必要です",
-    "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Behavioral finance is an emerging field that studies the psychological factors influencing investor decision-making. It recognizes that human behavior, emotions, and cognitive biases often lead to irrational investment choices. Understanding behavioral finance can help equity analysts better interpret market trends and identify potential deviations from rational investor behavior.",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "a. Cognitive Biases: Cognitive biases are mental shortcuts or patterns of thinking that can lead to irrational decisions. Common biases include confirmation bias, overconfidence, loss aversion, and herd mentality.",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "c. Anchoring Bias: Anchoring bias occurs when individuals rely too heavily on initial information or reference points when making decisions.",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Understanding behavioral biases can help equity analysts account for the impact of human psychology on market behavior and make more informed investment decisions.",
-    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Analyst Mistakes Untemplated extrapolation of historical growth",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Analyst Mistake: Overestimating Scalability",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Equity research has been mistaken as a field that is dominated",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Analyst Mistakes Untemplated extrapolation of historical",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• One of the most common mistakes made by analysts is blindly",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This mistake often leads to overly optimistic revenue forecasts,",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Analyst Mistake: Ignoring Unit",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Analyst Mistake: Overestimating",
-    "url": "https://finxl.in/blogs/business-model-equity-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最終的には企業の実力＝価値（ファンダメンタルズ）",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "目安：10%以上で優良、5%未満は注意",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "⚠️ 要注意：高配当性向 ＋ FCFマイナス",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バリュー投資家やグロース投資家に向けて、煩雑になりがちな財務分析・ファンダメンタル分析の手助けをする「バフェット・コード」",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "長期保有には不向き ← 知っておくべき落とし穴",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは「バイアス排除」「危機対応」「PDCAと投資日誌」の３つの観点で、心理面を鍛える具体的方法を解説します",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確証バイアス：自分に都合のいい情報だけ集める",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "損失回避バイアス：損を極度に恐れ、意思決定が鈍る",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "含み損が出ても、企業のファンダメンタルズ（収益力・財務健全性）が変わっていなければ落ち着いてホールド",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：成功要因・失敗要因を抽出し、次の投資ルールに反映",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗も成功も全て学びに変える強力なツールです",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDCAサイクルを回し、“成功／失敗パターン”を自分の血肉に",
-    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗しない！株の勉強になるnoteの選び方",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、成功体験だけでなく、失敗談や反省点を赤裸々に綴った記事も少なくありません",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リアルな成功と失敗のケーススタディを通じて、自分自身の投資戦略を磨き上げることができる",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の相場分析や投資の失敗談から得られる教訓",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここを注意深く読み解くことで、発信者の信頼性や専門性をある程度推し量ることができます",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、実績の数字だけを鵜呑みにするのは危険です",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの情報を総合的に見て、「この人から学びたい」と思えるような、信頼できるバックグラウンドを持ったクリエイターを選ぶことが、失敗しないための第一歩です",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ファンダメンタルズ分析、テクニカル分析、高配当株、グロース株、マクロ経済など、様々なジャンルからバランス良く選びましたので、あなたの興味や投資スタイルに合ったクリエイターがきっと見つかるはずです",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算分析、ファンダメンタルズ",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中小型株、需給分析、ファンダメンタルズ",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "テクニカル分析とファンダメンタルズ分析を融合させた「スイングトレード」で実績を上げているクリエイター",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の業績や将来性といったファンダメンタルズも考慮に入れるため、単なるチャート分析に留まらない、根拠のしっかりしたトレード手法を学ぶことができます",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "有益な情報を最大限に活用し、リスクを避けるために、noteを読む際に心に留めておくべき3つの注意点を解説します",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "発信されている情報を鵜呑みにせず、",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意すべきなのが「ポジショントーク」です",
-    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Values a company relative to peers using multiples such as EV/EBITDA, P/E, or P/S. Fast and market-anchored, but only as good as the peer group selected. A common pitfall is using EV/EBITDA across companies with different depreciation policies or capital structures without adjusting for those differences.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Most analytical errors do not happen in the model. They happen in the gap between finishing the model and executing the trade, when confirmation bias is highest and scrutiny is lowest. This checklist closes that gap.",
-    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Download Equity Research Bundle (Including equity research template and my book, “9 Valuation MIstakes and how to fix them”) Here➡️",
-    "url": "https://valuationmasterclass.com/equity-research-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【コラム】企業IR十階（じっかい）：「相対評価の罠」から抜け出し、適正な時価総額を獲得するためのIR進化論（",
-    "url": "https://www.ir1on1.com/",
+    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノート） — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
+    "url": "https://note.com/investers_notes/all",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3060,28 +2724,382 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "SNS・note（note・検索結果の抜粋）": [
+  "突き合わせ・推定": [
    {
-    "quote": "アナリスト が実際に考えている 企業分析 ～株価に一喜一憂 ... アナリスト が実際に考えている 企業分析 ～株価に一喜一憂 ... note https://note.com > 投資・マネー > 日本株",
-    "url": "https://note.com/sawakami_letter/n/ne8e25bd22655",
+    "quote": "Estimate future free cash flows",
+    "url": "https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。",
-    "url": "https://note.com/sawakami_letter/n/ne8e25bd22655",
+    "quote": "DCF analysis is a method used to estimate the value of an investment based on its expected future cash flows. The DCF model is a key tool in valuation, helping analysts determine the present value of expected future earnings.",
+    "url": "https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
-    "url": "https://note.com/investers_notes/all",
+    "quote": "This tool uses probability distributions and random sampling to estimate the future outcome of an investment.",
+    "url": "https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "① 「自分なりの仮説」を持って情報に接する",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... 大手証券会社にてアナリストとして7年間勤務。 主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。",
-    "url": "https://note.com/investers_notes/all",
+    "quote": "このことわざは、企業の「本質的価値」の推計に重要な教訓を与えてくれると思います",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を検証、精緻化、あるいは棄却するための重要な場です",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「仮説」は、投資判断の中核となる投資家目線の独自の「",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「仮説をどうやってたてるのか？」ということに関しては、シニアポートフォリオマネージャーの菅が以前noteで詳しく解説していますので、ぜひご参照ください",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "相手に集中するためにも、綿密な事前準備を行い、頭の中に情報と仮説をインストールしておくことが重要です",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重要な仮説に関する質問に関しては、一問一答のようにすぐに受け答えを終わらせずに、",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ことで、コミュニケーションが豊かなものとなり、仮説に迫っていくことができます",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書や決算説明会資料をただ漫然と眺めるのではなく、「この会社の強みは〇〇で、この領域が伸びるはずだ」といった自分なりの仮説を立ててから情報に接することで、情報に対する感度が格段に変わります",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、結果が仮説通りだったか、あるいは違ったのかを検証する",
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（開示がない場合は、業界団体の統計データや、競合他社のデータから逆算して推計します）",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分解して得られたパーツを組み立て直し、「この会社の収益構造はこうなっているはずだ」という自分なりの仮説（モデル）を作り上げます",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "冒頭では少し警戒していたIRの方も、先ほどのような質問や仮説をぶつけると、",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経済環境や社会情勢の変化、あるいは企業の状況変化といった変数を入力するだけで、いくつもの「業績パターン」を瞬時に作成し、企業価値への影響を検証することができます",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "構造を理解し、仮説を立て、取材で検証し、モデルに落とし込む",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このカオスに対し、独自の仮説をぶつけ、対話を通じて企業自身すら気づいていない視点を提示する",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上期実績から逆算した下期の営業利益は約562百万円（営業利益率約18.5%）と上期の538百万円をわずかに上回る程度で、採用による人件費増を織り込んだ控えめな計画とみられます",
+    "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The terminal value can be estimated using perpetual growth assumptions or exit multiples, providing a long-term view of value.",
+    "url": "https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Operating margin estimates",
+    "url": "https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "f. Value at Risk (VaR): VaR is a statistical measure used to estimate the maximum potential loss of a portfolio over a specific time frame at a certain confidence level.",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a. Quantitative Analysis: Quantitative analysis involves using numerical data and financial ratios to assess a company’s financial performance and value. This approach relies on historical and current financial data to make projections and estimates for the future.",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Valuation methods are essential for determining the intrinsic value of a company’s stock. Equity analysts use various valuation techniques to estimate a company’s worth and compare it to its market price. Some common valuation methods include:",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a. Discounted Cash Flow (DCF) Analysis: DCF analysis estimates the present value of a company’s future cash flows. It involves forecasting free cash flows and discounting them back to their present value using the company’s cost of capital.",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "d. Dividend Discount Model (DDM): DDM estimates a stock’s fair value based on the present value of its expected future dividends.",
+    "url": "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SG&A Expense estimates provide insight to third party investors as well.",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Estimate Working Capital Requirements",
+    "url": "https://finxl.in/blogs/business-model-equity-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社の言っている成長戦略に実現性、蓋然性があるかどうかを検証・確認していく",
+    "url": "https://note.com/sui_investor/n/n9ed67d6634ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例：政府統計や民間予測から市場成長率（例：年+5%）を見積もり、自社のシェア・戦略から将来の売上を推定",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "成長予測は「夢」ではなく、構造的根拠を持った“仮説の積み上げ”",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「ESGスコアのみで判断せず、自ら主要ESG課題と対応策を検証しよう」",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "…非財務面の課題と対応状況を複数機関のスコアで検証",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：投資判断前に「本当に事実ベースか？」「異論はないか？」を項目で検証",
+    "url": "https://note.com/regal_ixora2218/n/n99e95d517d08",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その後の株価の動きを見て、当初の仮説をどう修正したのか？",
+    "url": "https://crexgroup.com/ja/sec/asset-management/stock-learning-note-recommendations/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Valuation cross-checks",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "management guidance in the 10-K or earnings call; cross-check against industry reports.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "lets you enter these assumptions directly and produces an intrinsic value estimate you can use as a sanity check against your own model.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Uses acquisition multiples from comparable deals to estimate what a buyer would pay. Useful for M&A analysis but can overstate value in a hot deal market.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "M&A valuation, control premium estimates",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Book value, liquidation estimates",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Provides daily intrinsic value estimates, multi-model valuation outputs (DCF, P/E, P/S), and a",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for quick cross-checks during screening and monitoring. Useful for sanity-checking your own model outputs and for tracking valuation changes over time without rebuilding a model from scratch.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SEC filings → company guidance → consensus estimates → news. Document every source with the date accessed so your model is auditable when you revise it.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Equity research produces a defensible buy, hold, or sell recommendation only when the analyst follows a consistent workflow from company selection through to a written thesis, a cross-checked valuation, and a pre-trade checklist.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Tickerplace intrinsic value calculator and stock valuation checker let you cross-check model outputs and monitor fair value estimates across thousands of US-listed equities.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The platform's multi-model approach runs DCF, P/E, and P/S valuations simultaneously, producing a daily intrinsic value estimate and a fair value target for thousands of US-listed equities. That means you can cross-check your own DCF output against an independent model in seconds rather than rebuilding a parallel spreadsheet. The",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "lets you enter your own assumptions and see how they compare to the platform's estimates, which is particularly useful when your WACC or terminal growth rate differs from consensus.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The sources below underpin the analysis in this guide. Check filings first when updating a model, then company guidance, then consensus estimates.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": Multi-model valuation platform with daily intrinsic value estimates, calculators, and financials coverage for 10,000+ US and ASX-listed equities.",
+    "url": "https://blog.tickerplace.com/blog/step-by-step-equity-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Through this combined methodology, you derive a valuation range and identify a fair value estimate.",
+    "url": "https://thalasoft.com/p/equity-research-a-step-by-step-approach/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This content is for educational purposes only and does not constitute financial, investment, or career advice. Compensation figures are industry estimates and vary by firm, geography, and individual performance.",
+    "url": "https://valuationmasterclass.com/equity-research-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Compare to prior quarter and consensus estimates (15 minutes)",
+    "url": "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Extract guidance and compare to estimates (15 minutes)",
+    "url": "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5.仮説の設定",
+    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば場合によっては市場について調べる前に過去の業績を調べた方が速かったり、仮説の設定はプロセスのもっと前に持ってきた方が速かったりと、",
+    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この分析のゴールとする仮説の設定を行います",
+    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「SquareのCash Appのユーザーは5年で2倍になる」「SeaのShopeeのGMVは右肩上がりであり今後も同じペースでの増加が続く」「Rokuの売上成長の低迷は市場全体の広告費の削減が原因」などが仮説の例です",
+    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社全体の業績に大きな影響を与える根本的な事象に着目して仮説を立てられるか",
+    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説は1つではなく、複数個の仮説の塊でも良いのですが、株式投資を最終目的とした調査の場合は、多くても3つまでに抑えることをお勧めします",
+    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PLやKPIの推移と、その背景となっている市場動向を踏まえて、こういったシナリオで推移すれば達成できるんじゃないか、という一定の仮説の精度を高めていくという作業です",
+    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここで出したシナリオをベースに投資を行い、その仮説が崩れなければ数年単位でホールド、崩れたら直ぐに売却、多少決算が悪くても売らないというのが個人的に好きな投資スタイルです",
+    "url": "https://note.com/nekostocks/n/n0e6ad5507cd7",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3091,17 +3109,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.note.com/n/n7d4cd73bdaf0",
     "status": "ok",
     "method": "http"
    },
@@ -3111,12 +3119,27 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.note.com/n/n7d4cd73bdaf0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/persistence_100/n/nfb79a8def8c6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/poco_c/m/m9305ed081d0f",
+    "url": "https://note.com/2022geotra/n/n5310399340d0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOFL211OE0R21C26A0000000/",
     "status": "ok",
     "method": "http"
    },
@@ -3126,7 +3149,12 @@
     "method": "browser"
    },
    {
-    "url": "https://www.nikkei.com/article/DGXZQOFL211OE0R21C26A0000000/",
+    "url": "https://minkabu.jp/stock/5243",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.moneypost.jp/1001960",
     "status": "ok",
     "method": "http"
    },
@@ -3136,27 +3164,7 @@
     "method": "http"
    },
    {
-    "url": "https://minkabu.jp/stock/5243",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.nomura.co.jp/terms/japan/a/analyst.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/investers_notes/all",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://irshukatsu.com/guide/kigyo-bunseki",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "url": "https://note.com/startup_now0708/n/na071f26839eb",
     "status": "ok",
     "method": "http"
    },
@@ -3166,12 +3174,22 @@
     "method": "http"
    },
    {
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
+    "url": "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.saa.or.jp/learning/journal/each_title/2025/01.html",
+    "url": "https://www.smd-am.co.jp/glossary/YST0030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irshukatsu.com/guide/kigyo-bunseki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
     "status": "ok",
     "method": "http"
    },
@@ -3186,7 +3204,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
+    "url": "https://www.nikkei.com/article/DGKDZO76638820U4A900C1EN1000/",
     "status": "ok",
     "method": "http"
    },
@@ -3196,17 +3214,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261016/g6lruu/140120261016552390.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://prtimes.com/magazine/exchange-meeting-251222/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jpx.co.jp/listing/ir-clips/analyst-report/01.html",
+    "url": "https://note.com/tsubame_toushi/n/n826a7b9c7c72",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/insideir/n/n567215353d72",
     "status": "ok",
     "method": "http"
    },
@@ -3231,14 +3249,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
+    "url": "https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://imarticus.org/blog/insider-tips-for-successful-equity-research-analysis/",
+    "url": "https://www.cfainstitute.org/sites/default/files/-/media/documents/support/research-challenge/challenge/rc-equity-research-report-essentials.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    }
   ]
  },
@@ -3246,39 +3264,39 @@
   {
    "query": "アナリスト・投資家のnoteにある企業分析の型 site:note.com",
    "results": [
-    "https://note.com/nakanoam/n/nafb26eef1ed8",
     "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "https://biz.note.com/n/n7d4cd73bdaf0",
     "https://note.com/shusuketerada/n/n348a235c7530",
+    "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "https://biz.note.com/n/n7d4cd73bdaf0",
     "https://note.com/persistence_100/n/nfb79a8def8c6",
-    "https://note.com/poco_c/m/m9305ed081d0f",
     "https://note.com/2022geotra/n/n5310399340d0",
     "https://note.com/oh_no/n/n70a8af09a587",
-    "https://note.com/_funeo/n/n69bb6ef2ab2f",
-    "https://note.com/hashtag/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E6%8A%95%E8%B3%87"
+    "https://note.com/sawakami_letter/n/ne8e25bd22655",
+    "https://note.com/poco_c/m/m9305ed081d0f",
+    "https://note.com/go53110/n/n6f55d285a6e0"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "アナリスト・投資家のnoteにある企業分析の型 note",
    "results": [
     "https://biz.note.com/n/n7d4cd73bdaf0",
-    "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "https://jp.investing.com/equities/note-inc",
+    "https://note.com/shusuketerada/n/n348a235c7530",
     "https://www.nikkei.com/article/DGXZQOFL211OE0R21C26A0000000/",
-    "https://www.onecareer.jp/articles/3345",
+    "https://jp.investing.com/equities/note-inc",
     "https://minkabu.jp/stock/5243",
-    "https://www.nomura.co.jp/terms/japan/a/analyst.html",
+    "https://www.moneypost.jp/1001960",
+    "https://www.onecareer.jp/articles/3345",
     "https://www.amazon.co.jp/%E8%A8%BC%E5%88%B8%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90-%E7%AC%AC4%E7%89%88-%E5%AE%9A%E9%87%8F%E3%83%BB%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90%E3%81%A8%E6%8A%95%E8%B3%87%E4%BE%A1%E5%80%A4%E8%A9%95%E4%BE%A1-%E5%8C%97%E5%B7%9D-%E5%93%B2%E9%9B%84/dp/4492732950",
-    "https://note.com/investers_notes/all",
-    "https://note.jp/n/nb90cfcb0da63"
+    "https://note.com/startup_now0708/n/na071f26839eb",
+    "https://note.com/investers_notes/all"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -3287,15 +3305,15 @@
    "query": "アナリスト・投資家のnoteにある企業分析の型 やり方",
    "results": [
     "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "https://irshukatsu.com/guide/kigyo-bunseki",
-    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
     "https://www.nomura-am.co.jp/sodateru/stepup/interview-expert/how_to_find02.html",
-    "https://mag.minkabu.jp/money/30593/",
-    "https://www.saa.or.jp/learning/journal/each_title/2025/01.html",
-    "https://shikiho.toyokeizai.net/news/0/630296",
-    "https://note.com/nakanoam/n/nc638baf1b1d1",
+    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "https://www.smd-am.co.jp/glossary/YST0030/",
+    "https://irshukatsu.com/guide/kigyo-bunseki",
     "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
-    "https://note.com/irshukatsu/n/n208897213bd4"
+    "https://shikiho.toyokeizai.net/news/0/630296",
+    "https://careerpark-agent.jp/column/67587",
+    "https://www.onecareer.jp/articles/3345",
+    "https://www.money-theory.com/kabushiki-toshi-kigyo-bunseki/"
    ],
    "engines": [
     "ddgs:google",
@@ -3309,19 +3327,20 @@
     "https://note.com/nakanoam/n/nafb26eef1ed8",
     "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
     "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
-    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
     "https://www.youtube.com/watch?v=6-ZeRqpI0CU",
+    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "https://www.nikkei.com/article/DGKDZO76638820U4A900C1EN1000/",
     "https://www.jpx.co.jp/equities/follow-up/nlsgeu000006gevo-att/t13vrt000000golv.pdf",
-    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261016/g6lruu/140120261016552390.pdf",
     "https://prtimes.com/magazine/exchange-meeting-251222/",
-    "https://www.nomura.co.jp/terms/japan/a/analyst.html",
-    "https://note.com/investers_notes/all"
+    "https://www.amazon.co.jp/%E8%A8%BC%E5%88%B8%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90-%E7%AC%AC4%E7%89%88-%E5%AE%9A%E9%87%8F%E3%83%BB%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90%E3%81%A8%E6%8A%95%E8%B3%87%E4%BE%A1%E5%80%A4%E8%A9%95%E4%BE%A1-%E5%8C%97%E5%B7%9D-%E5%93%B2%E9%9B%84/dp/4492732950",
+    "https://note.com/tsubame_toushi/n/n826a7b9c7c72"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 22
   },
   {
    "query": "equity analyst company analysis process blog",
@@ -3330,11 +3349,11 @@
     "https://www.hebbia.com/resources/equity-research-report",
     "https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/",
     "https://valuationmasterclass.com/equity-research-guide/",
-    "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
-    "https://imarticus.org/blog/insider-tips-for-successful-equity-research-analysis/",
+    "https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking",
     "https://www.cfainstitute.org/sites/default/files/-/media/documents/support/research-challenge/challenge/rc-equity-research-report-essentials.pdf",
-    "https://finxl.in/blogs/equity-research-guide.html",
     "https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts",
+    "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
+    "https://finxl.in/blogs/equity-research-guide.html",
     "https://compsanalysis.substack.com/p/how-i-analyze-a-company-step-by-step"
    ],
    "engines": [
@@ -3372,13 +3391,13 @@
     "https://x.com/rSu8bySbnrSIDPX/status/2013417672248303805",
     "https://x.com/biz_arts1",
     "https://x.com/ai_jitan/article/2035921752203624796",
-    "https://x.com/fisco_jp/reposts",
+    "https://x.com/FABYMETAL4/status/2087625479381778683",
     "https://x.com/FABYMETAL4/status/2052486667140051293",
     "https://x.com/wakanaheita",
     "https://x.com/CraftData2/status/1699190086443958312"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -3387,15 +3406,15 @@
    "query": "site:linkedin.com アナリスト・投資家のnoteにある企業分析の型",
    "results": [
     "https://jp.linkedin.com/pulse/investor-relations-ai-landscape-tools-categories-risks-anna-dalaire-quqze?tl=ja",
-    "https://jp.linkedin.com/pulse/eleven-gartner-notes-enterprise-architecture-critical-john-g%C3%B8tze-92gze?tl=ja",
     "https://jp.linkedin.com/pulse/12-common-evaluation-criteria-private-market-deal-teams-4je0c?tl=ja",
     "https://jp.linkedin.com/pulse/why-patent-analytics-central-modern-venture-capital-5v0hf?tl=ja",
     "https://jp.linkedin.com/pulse/alpha-latency-gap-why-mid-sized-funds-need-self-service-data-lf6xc?tl=ja",
-    "https://jp.linkedin.com/pulse/capital-markets-vs-investment-banking-key-differences-vedant-dwivedi-kcybf?tl=ja",
-    "https://jp.linkedin.com/pulse/usetech-pulse-may-top-tech-innovation-headlines-usetech-integration-4gnuf?tl=ja",
     "https://jp.linkedin.com/pulse/busting-valuation-myths-size-diversification-yrhvc?tl=ja",
+    "https://jp.linkedin.com/pulse/capital-markets-vs-investment-banking-key-differences-vedant-dwivedi-kcybf?tl=ja",
     "https://jp.linkedin.com/in/yukio-egawa-1a59981b/ja",
-    "https://jp.linkedin.com/pulse/rise-full-stack-business-analyst-anmol-mishra-csm--aaexc?tl=ja"
+    "https://jp.linkedin.com/pulse/key-differences-between-data-analyst-business-guide-sinhamahapatra-hoicc?tl=ja",
+    "https://jp.linkedin.com/pulse/rise-full-stack-business-analyst-anmol-mishra-csm--aaexc?tl=ja",
+    "https://jp.linkedin.com/pulse/usetech-pulse-may-top-tech-innovation-headlines-usetech-integration-4gnuf?tl=ja"
    ],
    "engines": [
     "ddgs:google",
@@ -3411,11 +3430,11 @@
     "https://www.facebook.com/bunsekikobo/posts/2026%E5%B9%B410%E6%9C%8814%E6%97%A5-%E5%87%BA%E5%85%B8witdisplayapple%E3%81%AE%E6%9C%89%E6%A9%9Fel%E6%8E%A1%E7%94%A8%E6%8B%A1%E5%A4%A7%E3%81%A7it%E8%A3%BD%E5%93%81%E3%81%8C%E5%B9%B4%E9%96%93%E9%9C%80%E8%A6%81%E3%81%AB%E5%8D%A0%E3%82%81%E3%82%8B%E5%89%B2%E5%90%88%E3%81%AF2030%E5%B9%B4%E3%81%AB125%E3%81%B8apple%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%81%8C%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD/1160896899808054/",
     "https://www.facebook.com/cnbc/posts/the-artificial-intelligence-boom-may-be-entering-a-more-unforgiving-phase-as-inv/1513387340662654/",
     "https://www.facebook.com/bloombergbusiness/posts/situational-awareness-is-raising-investor-money-for-neocloud-startup-fluidstack-/1544208504231904/",
-    "https://www.facebook.com/takashi.kitao1/",
     "https://www.facebook.com/yamaoka.co/",
+    "https://www.facebook.com/kyosuketogami/",
     "https://www.facebook.com/bunsekikobo/posts/%E6%97%A5%E4%BB%982026%E5%B9%B49%E6%9C%8818%E6%97%A5-%E5%87%BA%E5%85%B8ubi%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81-%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E5%8D%B0%E5%88%B7%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4ijp%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%AF%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%A8%E8%A9%A6%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA%E3%81%AE%E6%AE%B5%E9%9A%8E%E3%82%92%E8%B6%8A%E3%81%88%E5%AE%9F%E9%9A%9B%E3%81%AE%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AB%E5%8F%82%E5%85%A5%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B/1138604348703976/",
-    "https://www.facebook.com/EnFi.Fund/",
-    "https://www.facebook.com/kyosuketogami/"
+    "https://www.facebook.com/takashi.kitao1/",
+    "https://www.facebook.com/EnFi.Fund/"
    ],
    "engines": [
     "ddgs:google",
@@ -3428,12 +3447,12 @@
    "results": [
     "https://biz.note.com/n/n7d4cd73bdaf0",
     "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://note.com/shusuketerada/n/n348a235c7530",
     "https://www.saa.or.jp/learning/journal/each_title/2025/01.html",
-    "https://note.com/junwatanabe72",
     "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
-    "https://mag.minkabu.jp/money/30593/",
     "https://www.moneypost.jp/1001960",
     "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01729/",
+    "https://www.amazon.co.jp/%E8%A8%BC%E5%88%B8%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90-%E7%AC%AC4%E7%89%88-%E5%AE%9A%E9%87%8F%E3%83%BB%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90%E3%81%A8%E6%8A%95%E8%B3%87%E4%BE%A1%E5%80%A4%E8%A9%95%E4%BE%A1-%E5%8C%97%E5%B7%9D-%E5%93%B2%E9%9B%84/dp/4492732950",
     "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
     "https://note.com/investers_notes/all"
    ],
@@ -3451,14 +3470,14 @@
     "https://lp.hooolders.com/blog",
     "https://mag.minkabu.jp/money/30593/",
     "https://www.jpx.co.jp/listing/ir-clips/analyst-report/",
+    "https://www.nikkei.com/article/DGXZQOTG20ADI0Q5A120C2000000/",
     "https://biz.note.com/n/n7d4cd73bdaf0",
-    "https://x.com/note_money_info",
-    "https://www.nikkei.com/article/DGXZQOUB261XI0W6A420C2000000/",
+    "https://x.com/hukugyootaku/status/2034836262776115494",
     "https://www.nomura.co.jp/wealthstyle/article/0150/",
     "https://note.com/investers_notes/all"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -3471,14 +3490,14 @@
     "https://www.linkedin.com/posts/vinaypaharia_buy-side-equity-research-nuts-and-bolts-activity-7511375648733442049-WpRb",
     "https://www.linkedin.com/pulse/ai-equity-research-how-investment-teams-automating-i6pbc",
     "https://www.linkedin.com/pulse/how-does-typical-day-life-equity-research-analyst-feel-like-",
+    "https://www.linkedin.com/pulse/10-tips-ace-buy-side-equity-research-interviews-nimisha-pandit",
     "https://uk.linkedin.com/in/james-weston-234275126",
     "https://www.linkedin.com/posts/yash-chandorkar-8ba7461b6_how-to-do-dcf-modeling-with-scenario-switches-activity-7436799693575266304-Ii7X",
-    "https://www.linkedin.com/posts/yash-chandorkar-8ba7461b6_buy-side-career-roadmap-india-from-equity-activity-7424088396412780548-18JE",
-    "https://www.linkedin.com/in/chuck-rozakis-99b879b",
-    "https://www.linkedin.com/in/leocarpio"
+    "https://www.linkedin.com/in/leocarpio",
+    "https://www.linkedin.com/posts/yash-chandorkar-8ba7461b6_buy-side-career-roadmap-india-from-equity-activity-7424088396412780548-18JE"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -3488,59 +3507,27 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "日本株に関しては10年以上雑誌などで銘柄推奨をするなど、仕事でも見続けてきた面があるので得意な分野としては日本株の中小型株です",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算のチェックや、セクターごとの大型株のチェック、値動きしている銘柄のチェック、チャートの形状から探すなど地道な作業から銘柄を見つけています",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ーー三井さんは講演なども行われていますが、投資家の方におすすめしている銘柄選びの方法などはありますか？",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
+    "quote": "プロのやり方を真似るには、知ることが重要",
+    "url": "https://note.com/tsubame_toushi/n/n826a7b9c7c72",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
   ],
-  "失敗・落とし穴": [
+  "実例": [
    {
-    "quote": "「高市相場はアベノミクスの再来」は大間違い？ 投資スクール社長が指摘する“決定的な違い”",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
+    "quote": "（結果論的ですが、医薬を調べてるときにルネスタというエーザイの薬にお世話になったことがあるのを思い出しました",
+    "url": "https://note.com/tsubame_toushi/n/n826a7b9c7c72",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "ちゃんぽん1000円超でもリンガーハット「41%増益」の衝撃…売上10%増のココイチが減益に沈んだ「コストの罠」",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【ご注意】『みんかぶ』における「買い」「売り」の情報はあくまでも投稿者の個人的見解によるものであり、情報の真偽、株式の評価に関する正確性・信頼性等については一切保証されておりません",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "長期は最近よく耳にするようになった“放ったらかし投資”で、決算や経済情勢などが大きく変わらない限りは触りません",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算のチェックや、セクターごとの大型株のチェック、値動きしている銘柄のチェック、チャートの形状から探すなど地道な作業から銘柄を見つけています",
-    "url": "https://mag.minkabu.jp/money/30593/?membership=1",
+    "quote": "上記の分析を行った結果、エーザイへの投資ポイントは2つです",
+    "url": "https://note.com/tsubame_toushi/n/n826a7b9c7c72",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 21,
+ "runs": 22,
  "first_researched_at": "2026-11-05T00:44:17.037704+00:00"
 }

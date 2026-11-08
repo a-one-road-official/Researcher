@@ -1130,6 +1130,7 @@
   - 「日本株に関しては10年以上雑誌などで銘柄推奨をするなど、仕事でも見続けてきた面があるので得意な分野としては日本株の中小型株です」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「決算のチェックや、セクターごとの大型株のチェック、値動きしている銘柄のチェック、チャートの形状から探すなど地道な作業から銘柄を見つけています」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「ーー三井さんは講演なども行われていますが、投資家の方におすすめしている銘柄選びの方法などはありますか？」（https://mag.minkabu.jp/money/30593/?membership=1）
+  - 「プロのやり方を真似るには、知ることが重要」（https://note.com/tsubame_toushi/n/n826a7b9c7c72）
   - 「もしかしたら他の方法もあるかもしれないが、いずれにしても無料で読む機会は一般的にごく限られるのだろう」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「みなさんのお目汚しになることも構わず、そもそも企業分析に関するnoteを書き始めたのも、アナリストレポートとは違う、自分なりの表現方法で企業の姿をなるべく面白く、しかも経営者への敬意を持って伝えたいと思ったからである」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「In this beginner’s guide, we’ll walk through the key phases of performing equity research step-by-step. You’ll learn how analysts research companies, model financials, calculate valuations, and make investment recommendations.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
@@ -1141,7 +1142,6 @@
   - 「This article will discuss the fundamental teaching capabilities of equity research and how equity research helps develop all the different types of skills, perspectives, and mental infrastructures and frameworks through which equity researchers think about companies and business. It will also discuss why equity research lessons are applicable across multiple industries and career fields.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「As a result of all of the above Factors Analysts develop Practical Tools to Analyze Industries, so that we will have an Accurate View of how they develop over Time. Analysts will develop a Foresight of how to make Industry Decisions based on their history.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「For equity research analysts, financial statements are not just accounts; they tell a story about how a business has performed. Analysts learn how to read the income statement, balance sheet, and cash flow statement as a series of linked stories.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
-  - 「One of the greatest takeaways from learning about equity research will be understanding how to view a business or company as if you personally own it. That is, equity analysts value businesses based on what they think those businesses would be worth if they bought the entire business, not based on what the stock price is today.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
 - 突き合わせ・推定：
   - 「Estimate future free cash flows」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「DCF analysis is a method used to estimate the value of an investment based on its expected future cash flows. The DCF model is a key tool in valuation, helping analysts determine the present value of expected future earnings.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
@@ -1191,6 +1191,8 @@
   - 「c. Anchoring Bias: Anchoring bias occurs when individuals rely too heavily on initial information or reference points when making decisions.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
   - 「Understanding behavioral biases can help equity analysts account for the impact of human psychology on market behavior and make more informed investment decisions.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
 - 実例：
+  - 「（結果論的ですが、医薬を調べてるときにルネスタというエーザイの薬にお世話になったことがあるのを思い出しました」（https://note.com/tsubame_toushi/n/n826a7b9c7c72）
+  - 「上記の分析を行った結果、エーザイへの投資ポイントは2つです」（https://note.com/tsubame_toushi/n/n826a7b9c7c72）
   - 「Aim to spot important themes and variables that will impact future performance. For example, is the industry ripe for disruption from new technology? Do customers have high switching costs or brand loyalty?」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「on best/worst case scenarios.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「Analysts look at the following for example:」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
@@ -1204,8 +1206,6 @@
   - 「具体的には、「説明・補足」は「つまり」「例えば」「もう少し詳しく言うと」など話を縦に掘り下げるイメージで、「逆接」は「しかし」「でも」「一方で」など話に別の視点を加えることで横に広げるイメージです」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「さらには、「具体（数字や事例など）」と「抽象（概念や原理など）」という」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「例えば、予算が未達だった場合、現場から上がってきた「それらしい」理由をうのみにせず、多方面から情報の整合性を判断して、再び現場と真に迫るコミュニケーションをとるなど、手間暇を惜しまずに職務を全うしているのではないかと投資家側からは推察しています」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「そして、結果が仮説通りだったか、あるいは違ったのかを検証する」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「、例えば、自信に満ちた表情で語っているか、歯切れの悪い回答をしていないか、あるいは声のトーンや話すスピードなど、文章だけでは伝わらない「空気感」から、経営者の本気度や自信のほどを感じ取ることができます」（https://note.com/nakanoam/n/nc638baf1b1d1）
 - 検索結果の抜粋：
   - 「アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... — Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。」（https://note.com/sawakami_letter/n/ne8e25bd22655）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
@@ -1430,6 +1430,7 @@
   - 「What is a Cross-Sectional Study? Definition, Advantages, Disadvantages, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
   - 「Sampling Methods in Research: Types, Techniques, Pros & Cons, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
 - 検索結果の抜粋：
+  - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureResearcher.Life: Blog Category | Researcher.LifeBlog — Sage Research Methods Community18 Best Academic Blogs to Follow in 2026 - bloggers.feedspot.com — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Univer」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo21 Best Academic Blogs Every Researcher Must FollowThe Researcher's Source Blog | For Researchers | Springer NatureResearch Reading: Blog Category | Researcher.LifeBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of Melb」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningHow to conduct effective academic research: 9 key methodsThe Researcher's Source Blog | For Researchers | Springer NatureLatest News from Google Research Blog - Google ResearchEducational resources and simple solutions for your research ... — “Just like the horse whisperer – but with more 」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog - IBM Research21 Best Academic Blogs Every Researcher Must FollowBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Un」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -3159,37 +3160,37 @@
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
+  - 「literature. Section 3 presents the empirical framework that will be used to compose aggregate productivity」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「3. Empirical Framework」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「digit industry level with the Wooldridge (2009) one-step estimator.4 Firm level TFP measures are indicated」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「3 The emphasis of our paper is on aggregate Total Factor Productivity (TFP). However, the methodology also applies to other」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「by this methodological choice?」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
+  - 「and exit, our framework replicates well-documented stylized facts about firm dynamics.」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
+  - 「Given the complexity of the model, most of our analysis is numerical. Our methodol-」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
+  - 「We have already pointed out that our framework builds on the seminal work of Hopen-」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
+  - 「Lee and Mukoyama (2009)’s framework, in which selection also leads to counter」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
   - 「(1) 計測のフレームワーク」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
   - 「(効果) へ分解するための標準的なフレームワーク (Foster et al. 2001) を示す?」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
   - 「なお、上記のフレームワークでは明示的に表現されていない構成要素が存在する点にも」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
   - 「This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「based economy. The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「In this paper, we propose an extension of the productivity decomposition method developed by Olley」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「share reallocations among those firms – following the same methodology as the one proposed by Olley」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「In this paper, we propose an extension of the productivity decomposition method devel-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「same methodology as the one proposed by Olley & Pakes (1996). We argue that the other de-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「∗This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international economic」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This publication reﬂects only the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「Scarpetta, 2009). This ﬁnding has spurred the development of productivity decomposition methods」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「exit). Several of these decomposition methods are based on following individual producers from」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「shares and productivity developed by Olley and Pakes (1996) – hereafter OP. That method does」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「tributions that are a feature of the other decomposition methods that follow individual producers」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
 - 突き合わせ・推定：
+  - 「the Great Recession (see supra), we take the estimates based on hours worked as a proxy for the behavior」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「TFP as rising output with constant capital and labor inputs. 3 The TFP estimates in this paper follow from」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「investments to proxy for unobserved productivity. All production functions are estimated at the NACE two-」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「number of hours worked, 𝑘𝑖𝑗𝑡 is deflated capital. 𝛽̂𝑙𝑗 and 𝛽̂𝑘𝑗 are the estimated production function」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「of the estimated production function coefficients per i ndustry. In appendix A.5 we present robustness checks to the results based」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「worked thus overestimate cleansing effects from job reallocation, since changes in hours worked do not」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「Venn (2011) estimate that the facilitation of labor hoar ding save d between 14,000 and 55,000 jobs in」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「change in productivity in non-hoarding firms. This model allows to estimate whether firms that did labor」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「19 In order to interpret the estimates from the model as a causal identification of the effect of labor hoarding on productivity, one」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「productivity decompositions. Productivity can only be estimated for firms with positive value added, while」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
   - 「日本経済においてこの 2 点を検証すべく、先行研究の知見を確認した」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
   - 「(shock仮説)、も しくは②企業が部門固有の生産性ショックに直面しているにもかかわらず、」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
   - 「(responsiveness仮説)、という 2つの可能性を検証している」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
   - 「れが2000年代にかけて緩やかながら上昇している事実を確認 し、shock仮説は説得的ではな」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
   - 「する反応が弱いとするresponsiveness仮説による説明が有効であると主張した」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「彼らの検証によれば、米国企業の事業所レベルの雇用成長率を生産性 (1期前) に回帰す」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「を参考として、 日本の生産性のばらつきの状況を確認し、 次にresponsiveness仮説を参考に、」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「GE) 以下の論文にて推計された、上場企業の実質労働生産性の分布」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「れたのかを確認したいが、 別途マイクロデータを用いた検証が必要となるため、ここでは中」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「and services, nominal physical capital and employment. From these we can calculate (or estimate)」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「per worker. We estimate TFP for our second measure as the residual of the ﬁrm-level production」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「former yields productivity estimates that have a much more direct welfare interpretation. However,」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「substantially greater than Φ S1. Thus, the GR decomposition will substantially over-estimate the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「具体的には、 次式についてパネル推計を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
 - 一次情報の探し方：
   - 「① 分析の前提コロナ・ショック前後の区分と企業の決算期」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
   - 「更に分析対象を3月期決算の企業へ絞ることで、 2020年3月」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
@@ -3207,6 +3208,11 @@
   - 「なお、 法人企業統計ベースの労働生」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「法人企業統計における臨時従業員数は、 臨時従業員の総労働時間」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
 - 失敗・落とし穴：
+  - 「of their model are biased by construction. Therefore, Griliches and Regev (1995) and Foster et al. (2001,」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「from the measurement bias which is present in decomposition models that rely on the firm level evolution」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「could cause a composition bias. Tables A-7 - A-14 in appendix A-4 show that productivity enhancing job」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「is Composition Bias? The Quarterly Journal of Economics, 109(1): 1-25. https://doi.org/10.2307/2118426」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「Our simulations show that the selection bias exists, but reinforces their results. With」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
   - 「into these same four components introduce some biases in the measurement of the contributions of」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「We find that, over a 5 year period, the measurement bias associated with entry and exit is substantial,」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「introduce some biases in the measurement of the contributions of entry and exit.」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
@@ -3217,27 +3223,22 @@
   - 「suﬀer from some biases that stem from their construction method. In general, the theoretical」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「direction of those biases (as well as their magnitudes) is ambiguous. For the case of a fast growing」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「economy (such as Slovenia from 1995-2000), we show theoretically that this bias involves an over-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「of this bias is substantial and is then also reﬂected in a substantial under-measurement of the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「still introduces some bias into the measurement of the contributions of entry and exit (and hence」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「riod 1. This also attenuates the bias previously mentioned with respect to the BHC decomposition,」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「but we again will argue that some bias still remains.」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「choice of reference productivity level will necessarily lead to a bias in measuring the contribution」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
 - 実例：
+  - 「This makes Belgium an interesting case study to investigate how labor hoarding relates to job reallocation」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「for example, they set lower prices than incumbents to gain market share, which will result in lower」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「these theoretical predictions, for example Foster et al. (2001) find this to be true for U.S manufacturing. In」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「In which lowercase letters indicate logarithmic transformations. 𝑣𝑎𝑖𝑗𝑡 is deflated value added, 𝑙𝑖𝑗𝑡 is the」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「In which variables in lowercase letters are at the firm level and variables in capital letters at the aggregate」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「the evolution of market share (in our case, expressed in labor) from the evolution in productivity. The」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「in services? This appears not to be the case: 52% of the labor hoarding firms are active in services industries,」（https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500）
+  - 「average idiosyncratic efficiency. This is the case because firms with lower prospects about」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
+  - 「'This is the case for the possibility that the occasional synchronization in the timing of establishments’」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
+  - 「market clears. This is crucial, as it is often the case in economics that effects of shocks」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
+  - 「hayn (1992). This is the case for most competitive equilibrium models with aggregate」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
+  - 「exit. See for example the business cycle theories of Veracierto (2002), Khan and Thomas」（https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf）
   - 「コロナ福前後の日本におけるマクロレベルの生産性変動を分解した結果、第一に、」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
   - 「以上の結果は、マクロレベルの生産性改善を展望するに当たり、個々の企業レベル」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
   - 「例えば、退出の態様」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
-  - 「例えば、企業:がその業種を転換した場合、当該業種からの退出と他の」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
-  - 「特徴的な結果と して、 第一に、 内部効果がコロナ・ショック後の時期において顕著に低下」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
-  - 「2022年へ更に分解した結果を図表3に示す」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
-  - 「図表2でコロナ補に対応する期間として示した2021年て2022年の結果との違いとして、」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
-  - 「この結果は、コロナ・ショックがもたらした影響が一時」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
-  - 「うした資源の再配分がマクロの生産性向上につながっているという結果が報告されており」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「得られた背景として、経済センサス活動調査で包括的な情報を把握した結果、中小企業のカバー率が向上」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「とづいて日本の現状を考察するが、その前に、同論文の研究結果を確認しておく」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「これらの結果にもとづくと、米国経済では、 1990年代に若いハイテク企業がその生産性の」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「(注) Decker et al(2020)の結果の一部を筆者が略図にしたもの」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「部門ショックが生じた後に生産要素が移動しない結果として、生産性格差が拡大したまま」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
-  - 「over time. Empirically, we show that these biases are substantial for the case of Slovenia’s transi-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
 
 ## 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）（research decision log revisit conditions stale data refresh criteria）
 - 文脈：手順・やり方
@@ -6351,17 +6352,42 @@
 ## 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）（equity research workflow source tracking stale inputs checklist）
 - 文脈：裏取り
 - 手順・やり方：
+  - 「Small fund analysts feel this most directly. No compliance team writes your research framework. No research director reviews your process. You run 10–15 positions across sectors with no institutional support structure — and the depth of your due diligence is exactly as good as the discipline you bring to it.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「Net debt-to-EBITDA. Under 2x is generally manageable. Above 4x in a cyclical business is a quality risk trigger under most institutional frameworks. Pull 5-year trend, not just current year.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「how to analyze a 10-K filing」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「How to Identify Off-Balance-Sheet Risks」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「Three valuation methods, used together, produce an intrinsic value range. A single-method valuation is a single assumption masquerading as precision.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「What is the most commonly missed step in stock research?」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「The five stages build on each other. Business understanding shapes what you look for in the financials. Financial analysis shapes what questions you ask of management. Management review shapes how you assess the risk factors. Risk assessment shapes what valuation method and margin of safety the situation demands.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「as the first step of Stage 4 on every new position.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「Install in 3 Steps, Ready Immediately」（https://qveris.ai/guides/skill-equity-research-report）
+  - 「Step 01」（https://qveris.ai/guides/skill-equity-research-report）
+  - 「Step 02」（https://qveris.ai/guides/skill-equity-research-report）
+  - 「Step 03」（https://qveris.ai/guides/skill-equity-research-report）
   - 「Explore a modern research process built around primary sources and transparent methods.」（https://equityresearchbase.com/）
 - 一次情報の探し方：
+  - 「The primary sources for Stage 1 are the 10-K Item 1 (Business), the MD&A narrative, and the most recent four earnings call transcripts. Understanding」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「The best source for Stage 3 data is the proxy statement (DEF 14A) — a document most analysts skim or skip entirely. It contains executive compensation details, related-party transactions, and board composition all in one place. SEC EDGAR has every filing;」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「how to analyze a 10-K filing」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「Most 10-K filings include a consolidated obligations matrix — debt maturities, lease payments, and purchase commitments by year. That table is one of the most information-dense pages in any 10-K. It takes 5 minutes to read and surfaces the inputs for Stage 4 risk analysis immediately.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「Proxy statements are required annual filings. They contain executive compensation structures, insider ownership tables, related-party transactions, and board composition — all in one document, cross-referenced to dollar amounts. Most analysts don't read them.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「Revenue, gross margin, EBITDA margin, FCF, net debt, ROIC — 5 years side by side. Trends visible in a table are invisible in individual year filings. This takes 20 minutes and shapes every subsequent stage of the analysis.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「🔧 finance.sec_filing → NVDA 10-K ✓ 650ms · 6cr」（https://qveris.ai/guides/skill-equity-research-report）
+  - 「Yes. QVeris covers China A-shares, Hong Kong stocks, and US equities. A-share data is provided through local data vendors and includes real-time quotes, financial statements, and regulatory filings. See the Finance domain at」（https://qveris.ai/guides/skill-equity-research-report）
+  - 「Agent-generated research reports are structured text that can be copied directly, exported as Markdown or PDF, or automatically sent via agent workflows to email, Slack, Lark (Feishu), and other channels.」（https://qveris.ai/guides/skill-equity-research-report）
   - 「Explore a modern research process built around primary sources and transparent methods.」（https://equityresearchbase.com/）
   - 「Read primary filings and make valuation assumptions explicit.」（https://equityresearchbase.com/）
   - 「Read a filing. Check a definition. Write down what would change your view. Good research makes its limits visible.」（https://equityresearchbase.com/）
 - 失敗・落とし穴：
   - 「If every positive item strengthens your thesis but every negative item is dismissed as temporary, the process is probably biased. My recommendation is to…」（https://equityresearchbase.com/）
 - 実例：
+  - 「What do the top 10 customers represent as a percentage of total revenue? A single customer at 20%+ of revenue is a risk that requires explicit modeling. If the 10-K discloses that "no single customer exceeded 10% of revenue," note that — it's the best case scenario.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「What is the business worth if the bear case materializes? If the largest risk identified in Stage 4 plays out at full severity, does the downside fit within the portfolio's risk tolerance? Asymmetric situations — where the downside is bounded and the upside is open — earn capital. Symmetric situations need a larger margin of safety.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「Run the bear case before the bull case.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
+  - 「The bull case in most investment situations is the obvious thesis. The bear case is where the work is. Stress-testing the thesis against Stage 4 risks before building valuation assumptions forces intellectual honesty about the entry price required.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
   - 「Cisco is a selective buy at $102.97, with a stronger case than a networking stock purchased only for AI excitement. AI infrastructure orders are…」（https://equityresearchbase.com/）
   - 「Separate reported facts, assumptions and examples.」（https://equityresearchbase.com/）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
@@ -7716,11 +7742,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -7879,6 +7905,11 @@
 - 文脈：企業
 - 手順・やり方：
   - 「法律によってその方法や義務が定められており、企...」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「2つの方法を比べると、電子公告は「すべての公告をウェブに寄せる」選択、第440条第3項の措置は「決算公告だけをウェブに移す」選択といえます」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「公告方法の選び方や、会計監査報告の内容に応じた追記の要否は、会社ごとの状況で変わります」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「減資公告と決算公告の同時掲載とは？費用・手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「債権者保護手続きの要件や電子公告との比較まで、実務担当者が迷わず進められる5ステップで解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「株式会社の決算公告｜義務・方法・費用を会社形態別に徹底比較【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「貸借対照表の見方、大会社基準、自己資本比率の目安、検索手順を就活生向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「決算公告を官報に掲載するやり方【全7ステップで完全解説】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -7888,31 +7919,33 @@
   - 「切り捨て・四捨五入の選び方、B/Sのバランスが崩れる問題、注記文例、Excelでの変換手順まで実務担当者向けに解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「本記事では、会社法440条の条文に沿いながら、官報における損益計算書の取り扱いを、会社の規模別・公告方法別にわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「Q6. 定款に「公告方法は官報」とある場合、電子公告に変更するにはどうすればよいですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「建設業や不動産業など大型借入れを行う業種では、中堅企業でも負債200億円に達する場合があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「「前項の規定にかかわらず、公告方法が官報に掲載する方法又は時事に関する事項を掲載する日刊新聞紙に掲載する方法であるときは、貸借対照表（大会社にあっては、貸借対照表及び損益計算書）の要旨を公告することで足りる」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「要旨の記載方法は会社計算規則（法務省令）で具体的に定められています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「会社法440条3項は、「電子公告によって公告を行う場合は、前条第1項に規定する計算書類の内容である情報を、当該定時株主総会の終結の日後5年を経過する日までの間、継続して電磁的方法により不特定多数の者が提供を受けることができる状態に置かなければならない」と定めています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「公告方法を官報から電子公告に変更するためには、定款の変更が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 突き合わせ・推定：
+  - 「重要な意思決定に用いる場合は、複数のデータベースで照合することをおすすめします」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 一次情報の探し方：
-  - 「官報の決算公告に損益計算書は載る？大会社と中小企業の違いを解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「官報の決算公告に損益計算書は載る？大会社と中小企業の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「官報の決算公告に損益計算書は必要？大会社のみB/S+P/L要旨の公告義務があり、非大会社はB/S要旨のみで足ります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「決算公告を官報で行う場合、貸借対照表（B/S）の要旨を掲載することはよく知られています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「本記事では、会社法440条の条文に沿いながら、官報における損益計算書の取り扱いを、会社の規模別・公告方法別にわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「官報の決算公告に損益計算書は必要か？結論から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「誤解4：「有価証券報告書を提出しているから何もしなくていい」」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「Q1. 中小企業でも官報に損益計算書を掲載しなければならないケースはありますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「Q2. 官報に掲載する損益計算書は、税務申告書に添付する損益計算書と同じですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「Q5. 大会社が官報に掲載する損益計算書の要旨には「売上高」は必ず記載しますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「Q6. 定款に「公告方法は官報」とある場合、電子公告に変更するにはどうすればよいですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「官報による決算公告に損益計算書（P/L）の掲載が必要かどうかは、会社の規模によって異なります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「資本金5億円未満かつ負債総額200億円未満の株式会社（非大会社）が官報で決算公告を行う場合、掲載が必要なのは「貸借対照表の要旨」のみです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「つまり非大会社の官報公告では、B/Sの要旨の末尾に「当期純利益 ○○百万円」または「当期純損失 ○○百万円」と一行追加する形になります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「資本金5億円以上または負債総額200億円以上の株式会社（大会社）が官報で決算公告を行う場合は、「貸借対照表の要旨」と「損益計算書の要旨」を両方公告しなければなりません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「大会社の決算公告【記載例】貸借対照表・損益計算書の要旨と電子公告 - Prime Partners」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「大会社の決算公告では損益計算書も必要ですか」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「決算公告を電子公告で行う場合、電子公告調査は必要ですか」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「大会社の決算公告では、貸借対照表に加えて」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「有価証券報告書を提出している会社には、決算公告の規定そのものが適用されません（会社法 第440条第4項）」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「この記事では、大会社が公告する要旨の作り方を自社作例の記載例で示し、電子公告に切り替える場合の手順と、決算公告だけをウェブで行う方法を条文に沿って整理します」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「公告方法は官報、時事に関する事項を掲載する日刊新聞紙、電子公告の3つから定款で選び、定めがなければ官報になります（会社法 第939条第1項・第4項）」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「全文をウェブに5年間掲載すれば、官報・新聞での公告は不要です（会社法 第440条第3項）」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「決算公告の規定は適用されません（会社法 第440条第4項）」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「電子公告で要旨が使えないのは、要旨の公告を認める会社法第440条第2項が、公告方法を官報または日刊新聞紙とする会社だけを対象にしているためです（会社法 第440条第2項）」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「官報で要旨を載せていた会社が電子公告へ切り替えると、公告する分量が大きく増える点に注意が必要です」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「次の記載例は、資本金10億円の大会社（3月決算・繰延資産なし）を想定した自社作例です」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「第25期決算公告」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「官報の掲載手配が要らなくなる一方、全文の掲載と5年間の管理が必要になります」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「：事故その他やむを得ない事由で電子公告ができない場合に備え、官報か日刊新聞紙を予備の公告方法として定款に定めることができます（会社法 第939条第3項）」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
 - 失敗・落とし穴：
+  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「Q5: 決算公告データベースを無料で使う際の注意点はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「注意点として、インターネット版官報は発行日から90日間のみ無料で閲覧可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「無料サービスを利用する際は、以下の3点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -7922,12 +7955,6 @@
   - 「ただし一点、注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「また、上場廃止になった場合は有報提出義務がなくなる可能性があり、その際は決算公告義務が復活する点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「期限がないからと言って決算公告を怠ると、会社の透明性が損なわれるため注意しましょう」（https://www.keihi.com/column/45390/）
-  - 「「多くの中小企業が実施していないから」「面倒だから」などの理由で対応を怠ると、信頼性が低下につながるため注意しましょう」（https://www.keihi.com/column/45390/）
-  - 「行うべき時期に決算公告をしなかったり不正な方法で行ったりした場合、罰則が生じる可能性があるため注意しましょう」（https://www.keihi.com/column/45390/）
-  - 「のみを公示している場合は、違法状態となることに注意する必要がある」（https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A）
-  - 「この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「Q4: 非大会社が任意で損益計算書を公告する場合の注意点はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「さらに、電子公告の場合は掲載期間にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 実例：
   - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -8570,18 +8597,18 @@
   - 「RAGを自社に導入しようと考えても、自社で課題を改善するのが難しいときは、正確性の高いAIツールを導入するのも方法の一つです」（https://amie-ai.com/contents/rag-assignment/）
   - 「また開発方法によっては、日本語の質問に対し、英語で回答するなどの事態も生じます」（https://amie-ai.com/contents/rag-assignment/）
   - 「知識グラフ（ナレッジグラフ）とは？ 基礎知識と活用方法を解説」（https://amie-ai.com/contents/rag-assignment/）
-  - 「前処理は、検索システムの性能を向上させるために重要なステップです」（https://fintan.jp/page/10301/）
-  - 「そのため、検索性能を改善したい場合、最初に確認しておいたほうがよいステップと言えるでしょう」（https://fintan.jp/page/10301/）
-  - 「このような方法だと、たとえば「5〜7ページを要約して」や「表3における最大の売上高の年は？」といった質問に回答するのが難しくなります」（https://fintan.jp/page/10301/）
-  - 「この事例では、RAGを使ってメールアプリのアシスタントを作る方法について解説しています」（https://fintan.jp/page/10301/）
-  - 「記事ではそれだけでなく、キーワード抽出や固有表現認識、日付の範囲抽出などを組み合わせて検索性能を向上させていたり、結果をヒューリスティックや機械学習を使ってリランキングする方法についても紹介しています」（https://fintan.jp/page/10301/）
-  - 「分割するだけだと書くと、簡単そうに聞こえるのですが、実際にはさまざまな方法が考え出されており、思っているよりも複雑なプロセスです」（https://fintan.jp/page/10301/）
-  - 「どのような設定で分割するのがよいのかは状況によって異なるので、実験しながら良い方法を探っていくことになります」（https://fintan.jp/page/10301/）
-  - 「チャンキングについてイメージしやすくするために、いくつかの方法について例を挙げて説明します」（https://fintan.jp/page/10301/）
-  - 「まず、もっとも単純な方法は、テキストの内容や構造に関係なく、テキストを指定された文字数やトークン数で分割する方法です」（https://fintan.jp/page/10301/）
-  - 「この方法はわかりやすいですが、テキストの内容や構造を考慮していないため、1つのチャンクの中に異なるトピックを持つパラグラフが含まれたり、文章の途中で切れることがあり、検索や生成の性能低下につながる可能性があります」（https://fintan.jp/page/10301/）
-  - 「別の方法として、テキストを段階的に小さなチャンクに分割する方法があります」（https://fintan.jp/page/10301/）
-  - 「この方法では、いくつかの区切り文字を使って、テキストを階層的かつ反復的に小さなチャンクに分割します」（https://fintan.jp/page/10301/）
+  - 「research providers have touted methods such as retrieval-augmented generation」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「limitations of RAG systems to reduce hallucinations. Section 4 proposes a framework for evaluating」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「assertion that a source supports a proposition. Section 5 details our methodology to evaluate the」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「promise significant efficiency gains over traditional methods. As of January 2024, at least 41 of the」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「typical process consists of two steps: (1) retrieval (middle), where the query is embedded with natural language」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「to the user query. Any of the subsidiary steps may introduce error and hallucinations into the generated response.」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「As depicted in Figure 3, RAG comprises two primary steps to transform a query into a response: (1)」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「With the retrieved documents in hand, the second step of generation involves providing those」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「in Figure 3, each of the subsidiary steps (the embedding, the design of lexical and semantic search,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「retrieved documents. We expand the framework of legal hallucinations totwo primary dimensions:」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「5 Methodology」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「and time-consuming: this is a cost that must be reflected in future conversations about how to」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
 - 突き合わせ・推定：
   - 「検証済みの取得文書に生成プロセスを固定する」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「ノイズが多い、または矛盾するコンテキストの場合に持続するハルシネーション」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
@@ -8599,6 +8626,10 @@
   - 「本報告では、RAGシステムの精度を向上させるための多岐にわたる戦略を検証しました」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
 - 一次情報の探し方：
+  - 「high-profile cases, lawyers have been reprimanded for submitting filings to courts citing nonexistent」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「format. However, instead of accessing all the primary sources that Lexis+ AI uses, Ask Practical」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「primary source material as well (Thomson Reuters, 2023). However, this product is not yet generally」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「Matthew Dahl, Varun Magesh, Mirac Suzgun, and Daniel E. Ho. 2024. Large Legal Fictions: Profiling」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「これがRAGを採用する主要な動機となっています」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「伝統的に、検索は統計的手法やベクトル類似性に基づいていました」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「https://arxiv.org/pdf/2404.14760」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
@@ -8610,26 +8641,22 @@
   - 「https://arxiv.org/pdf/2502.17163」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「XR-200_manual.pdf」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
   - 「ユーザーが質問を入力すると、システムはまず指定されたナレッジベース（PDFやドキュメントライブラリなど）の中から、その質問に最も関連性の高い情報の断片を」（https://my-soft.co.jp/posts/local-llm-rag-introduction/）
-  - 「実際の業務で活用するには、多様なファイル形式（PDF、Word、PowerPoint等）への対応、検索精度の調整、ユーザーごとのアクセス権限管理など、利用環境に応じた設計と検証が必要です」（https://my-soft.co.jp/posts/local-llm-rag-introduction/）
-  - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「有病率、感度、特異度、オッズ比、ハザード比などの数値は、原著論文の本文、表、図、補足資料、または公的統計の原表で確認します」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「Claude APIにはCitationsの機能があり、PDF・プレーンテキスト・カスタムコンテンツの3種類のドキュメントを渡すと、回答テキストに対して文書のインデックス・文字位置 (PDFではページ番号)・引用された原文を、構造化された形で返してくれます」（https://note.com/shigyoai/n/nc722ae05f766）
 - 失敗・落とし穴：
+  - 「dissent in Obergefell?”), Thomson Reuters’s system both fails to contradict the mistaken premise and」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「fails to correct the user’s mistaken premise—in reality, Justice Ginsburg joined the Court’s landmark decision」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「tion of new forms of bias, and lawyers’ ultimate duty of supervision over their work product (Avery」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「a mistaken understanding of」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「3. False premise questions: questions where the user has a mistaken understanding of the law」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「Fourth, the queries probe for “contrafactual bias,” or the tendency of chat systems to assume the」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「Kim, 2024; Perlman, 2023; Tan et al., 2023), but contrafactual bias poses particular risk forpro se」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「Last, to guard against selection bias in our results (i.e., choosing queries based on hallucination」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「to amend the statute to clarify the statute of limitations. Lexis+ AI explained the mistaken premise,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「when asked to define the “moral wrong doctrine,” a doctrine pertaining to mistake-of-fact instructions」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「user even when the user is mistaken (Sharma et al., 2023). While sycophancy can cause hallucinations」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「K. Goddard, A. Roudsari, and J. C. Wyatt. 2012. Automation bias: a systematic review of frequency,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「Sayash Kapoor, Peter Henderson, and Arvind Narayanan. 2024. Promises and Pitfalls of Artificial」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「metadata-citation-130 The original query was mistakenly truncated, and we corrected it to」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「人間の評価者は、モデルが見逃してしまうような細かな誤り、論理的な欠陥、または文脈上の適切さを評価できます」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「エージェントがどのツールを選択するかなど、RAGシステムが独自に行う決定が増えるほど、障害やバイアスの潜在的なポイントが増えます」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「業務効率化に使える補助金は？ 申請時のポイントや注意点も解説」（https://amie-ai.com/contents/rag-assignment/）
-  - 「RAG（検索拡張生成）の失敗を調べていくと、面白い数字が出てきます」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「検索が失敗するとき、犯人はだいたいこの4人のどれかです」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「注意点として、リランクは」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「次のチャンク分割の結果を見て、検索が失敗しそうな箇所を指摘してください」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「プロンプト3: 検索失敗のトリアージ（犯人を切り分ける）」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「失敗事例のトリアージ、原因の要約」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「そして、正直に落とし穴も置いておきます」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「形式が整っているからこそ、誤りを見過ごしやすくなります」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「OpenAIの研究では、事前学習で学ぶパターンだけでは確実に答えられない事実があることに加え、不明と答えるより推測した方が評価される学習・評価のあり方も、誤りが残る要因として論じられています」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「しかし、その一文だけで、AIが自分の誤りを必ず認識できるようにはなりません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「実務では、存在しない情報を丸ごと作る場合だけでなく、正しい情報の一部をずらす誤りにも注意が必要です」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「例外や注意書きを落としていないかを確認します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
 - 実例：
   - 「RAGの検索結果が常に正しいとは限りません」（https://amie-ai.com/contents/rag-assignment/）
   - 「RAGの検索結果とLLMの出力方法に一貫性がない」（https://amie-ai.com/contents/rag-assignment/）
@@ -8640,12 +8667,12 @@
   - 「アンケートをとるなど、フィードバックを得る仕組みはいくつかあるものの、回答結果からすぐに評価したり、誤情報を報告できるフォーマットがあったりすると、利便性が高いです」（https://amie-ai.com/contents/rag-assignment/）
   - 「従来の RAG（本記事で紹介した仕組み）は、質問に対して一度検索し、その結果を基に回答を生成する一方通行の流れが基本でした」（https://amie-ai.com/contents/rag-assignment/）
   - 「営業部門向けチャットボット活用ガイド｜導入メリットと成功事例を徹底解説」（https://amie-ai.com/contents/rag-assignment/）
-  - 「近年、OpenAIのGPT-4やGoogleのGemini、MetaのLLaMAをはじめとする大規模言語モデル（Large Language Model：LLM）の能力が大幅に向上し、自然言語処理において優れた結果を収めています[1][2][3]」（https://fintan.jp/page/10301/）
-  - 「LLM-jp-eval[4]およびMT-bench-jp[5]を用いた日本語LLMの評価結果」（https://fintan.jp/page/10301/）
-  - 「OpenAI DevDay 2023で紹介されたRAGの性能を向上させるのに使ったテクニックの事例」（https://fintan.jp/page/10301/）
-  - 「これらの戦略の中には、筆者が日本語のデータセットを使って検証した結果を含めて紹介しているものもあります」（https://fintan.jp/page/10301/）
-  - 「これらのメタデータは、検索結果を絞り込むためのフィルターとして使うことで検索性能を向上させられることがあります」（https://fintan.jp/page/10301/）
-  - 「たとえば、「昨日のメールを要約して」というクエリの場合、文字列としての「昨日」とメール本文をマッチさせるのではなく、メールの受信日にマッチした結果を返さなければ、望むような応答はできないでしょう」（https://fintan.jp/page/10301/）
+  - 「from search and summarization of caselaw to document drafting. But the large」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「(RAG) as “eliminating” (Casetext, 2023) or “avoid[ing]” hallucinations (Thomson」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「(Weiser and Bromwich, 2023). In one highly-publicized case, a New York lawyer faced sanctions for」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「citing ChatGPT-invented fictional cases in a legal brief (Weiser, 2023); many similar incidents have」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「Casetext, 2023; Thomson Reuters, 2023, inter alia). They say their use of sophisticated techniques」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
+  - 「legal queries, the hallucination problem persists at significant levels. To offer one simple example,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
 
 ## 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）（market sizing reconcile top-down bottom-up comparison table transaction stage definition）
 - 文脈：市場規模の推計
@@ -9816,11 +9843,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順
@@ -11953,38 +11980,44 @@
 ## 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）（nonresponse bias business establishment survey response rate weighting）
 - 文脈：手法・偏り
 - 手順・やり方：
-  - 「Dhanapati Khatiwoda, Sandra Peterson, and Stephen Hardy」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「Cross Sector Surveys Statistical Methods Branch (CSSSMB)」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「Economic Statistical Methods Division (ESMD)」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「about the survey, look at the survey methodology report available at ABS Methodology.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「requirement to report. The survey letter included instructions on how to access the survey and submit」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「the methodology report is about 69%. This falls below the Census Bureau quality standards available at」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「The estimated variance of the weighted unit response rate uses a delete-a-group jackknife method with」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「using delete-a-group jackknife method as mentioned in section 2.2 above.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「Bureau, US Census. “Annual Business Survey Methodology.” Census.Gov, 24 Oct. 2023, ABS」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「Most recently, the Federal Committee on Statistical Methodology (FCSM) organized a」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「rates - a section that presents response rates of select establishment surveys, (6) methods and」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「Survey methods research and survey data quality evaluations have routinely examined the」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「Groves (1989), and Groves and Couper (1998). A variety of mathematical statistical methods have」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「methods for nonresponse reduction, nonresponse adjustment methods, along with a variety of」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「Federal Committee on Statistical Methodology」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Stephen Blumberg (Co-Chair)」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practice 7: Discuss recommendations for data collection methods and adjustment strategies」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Framework for Data Quality from the Federal Committee on Statistical Methodology (FCSM).」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「the methods, results, and conclusions from those nonresponse bias analyses.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「The literature on how to conduct nonresponse bias analyses is extensive and growing.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「The methods used for any data collection will be a function of the characteristics of that data」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「refers to various methods for conducting, and aspects of, nonresponse bias analyses. But these」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「methods are not fully described. Readers will need to refer to the many existing references for」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「more information on these methods.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「documentation of the methods and results of nonresponse bias analyses so that readers can」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「can occur when the likelihood of responding to surveys or other data collection methods (or」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「survey methods expertise should be solicited when developing the plan for the nonresponse bias」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
 - 突き合わせ・推定：
-  - 「The Census Bureau produces two separate sets of ABS estimates: firm and owner characteristics」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「demographic characteristics estimates are referenced as Demographic Characteristics for Businesses」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「(DCB), and the economic characteristics estimates are referenced as Research and Development,」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「Published DCB estimates can be found at ABS Company Summary, and RDIT published estimates can be」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「estimates, if the characteristics being measured for nonresponding units differ from the characteristics」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「The analysis for this section involves unweighted estimates because the goal is to determine differences」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「sections, we will consider weighted estimates when investigating if non-response bias is impacting our」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「American Community Survey Estimates, these five states are also the only states where less than 40」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「ownership are AZ, CA, FL, NM, NV, and TX, and the 2022 American Community Survey Estimates show」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「2022 American Community Survey Estimates. The states with at least 50% minority population」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「All RDIT analysis is limited to only firms that were eligible for RDIT estimates, which excludes the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「estimates, and, conversely, some firms within R&D industries may not see the R&D section because they」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「$50,000. Not all firms that report R&D expenses are tabulated in final R&D estimates because analyst」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「which population-based estimates are published .......................................................................... 15」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「reporting on nonresponse bias in estimates obtained from survey data. Nonresponse bias is one」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「The generalizability of survey estimates , a key quality indicator (FCSM, 2020), relies on」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse bias affects both the accuracy and the reliability of population estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「possible sources of error that can cause survey estimates to differ from the underlying population」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「have a large impact on the final estimate.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「quality of the estimates produced.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「survey error — the difference between a survey estimate and the true value— thus enhancing the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「bias, to assess the potential for compounded or distorted bias estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「estimates given the overall survey design. The report should describe the key aspects of the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「the estimate given the sampling frame. According to the FCSM report, A Framework for Data」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「estimates. Descriptions of any unequal probabilities of inclusion used should be included.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「specific key estimates or outcomes. The report should provide a description of the survey’s key」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「estimates or outcomes and the set of variables used to produce them . Any other survey variables」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「however, it is not necessarily a strong predictor of the nonresponse bias in survey estimates」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
 - 一次情報の探し方：
+  - 「https://aapor.org/wp-content/uploads/2023/05/Standards -Definitions-10th-edition.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.bls.gov/osmr/research -papers/2016/pdf/st160020.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/DataQualityAssessmentTool.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.whitehouse.gov/wp-content/uploads/2021/04/standards_stat_surveys.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/Transparent_Reporting_FCSM_19_01_092719.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
   - 「surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
   - 「act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
   - 「standards-apr2022.pdf. Accessed 17 Sept. 2024.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
@@ -11993,37 +12026,37 @@
   - 「whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.」（https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf）
   - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 - 失敗・落とし穴：
-  - 「2.4 Relative Bias ................................................................................................................................ 19」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「Statistical Quality Standards (census.gov) and is the motivation for this nonresponse bias analysis.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「According to the Census Bureau quality standard sub-requirement D3-3.6, nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「and nonrespondents. The study also researches the potential biases due to nonresponse in the survey.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「being measured for responding units. Nonresponse bias for a sample mean is the product of」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「suggests that a high rate of nonresponse does not necessarily imply a large bias, nor does a low rate of」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「nonresponse necessarily imply a small bias. The nonresponse rate is easy to calculate, while its impact is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「rate may only decrease the risk of nonresponse bias, investigating or estimating bias must be done in an」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「concludes by looking at the relative bias based on the mean differences between the respondents and」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「RDIT are R&D activity and innovation. We cannot directly measure nonresponse bias for these key items」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「and a frame variable, we can analyze the nonresponse bias of the frame variable as a proxy for the key」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「sections, we will consider weighted estimates when investigating if non-response bias is impacting our」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Best Practices for Nonresponse Bias Reporting」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Prepared by the Nonresponse Bias Subcommittee of the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「SM, Fakhouri THI, Piscopo KD. 2023. Best Practices for Nonresponse Bias Reporting, FCSM-23-01」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse Bias Subcommittee」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practices for Nonresponse Bias Reporting June 2023 1」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「GUIDANCE FOR DEVELOPING A NONRESPONSE BIAS REPORT ..................................... 10」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practice 1: Describe the survey that is the subject of the nonresponse bias analysis ............. 10」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「the nonresponse bias analysis......................................................................................................... 13」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「nonresponse bias ................................................................................................................................. 14」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Guideline 2.7. Discuss the potential for nonresponse bias given weighted response rates,」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practice 3: Describe the plan for evaluating and quantifying nonresponse bias and any」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Guideline 3.2. Describe the analysis plan for comparing and assessing nonresponse bias levels」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practices for Nonresponse Bias Reporting June 2023 2」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
 - 実例：
-  - 「survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「smaller relative bias and vice versa. For example, the response rate of the industry sector 31 is 70.17%」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
-  - 「establishments. The units may be, for example, individual establishments, companies, multiple」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「surveys. See for example, Telephone Survey Methodology (Groves, et. al., 1988), Survey Errors」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「participation. For example, some types of establishments were more likely than others to respond」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「response. Permanent random numbers and rotational designs (see for example, Ohlsson, 1995;」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「addressed establishment survey nonresponse. For example, the articles by Tomaskovic-Devey, et al.」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「data from health care providers (for example, physicians, hospitals) about the use of their health care」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「Appendix 1 includes more detailed information on many of the surveys used as examples in」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「collection, for example, before and after major follow-up mailings or in panel surveys at each」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「estimated population total which is contributed by respondents. In cases where a small number of」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「For example, the unweighted and weighted response rates for the」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「• establishments for which survey contact wa s attempted but without success, for example a」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「reached by the survey; for example persons initially contacted at an establishment, such as」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
-  - 「• establishments in which requested data are not available; for example no one may」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「bias for other data sources. For example, gaps in data resulting from malfunctioning sensors in a」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「additional cases does not necessarily decrease bias (Heerwegh, Abts, & Loosveldt, 2007). Some」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「nonresponse bias. For example, if a survey i ncludes a longitudinal component, it may be useful」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「possible, any bias identified in the nonresponse bias analysis, for example by adjusting survey」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「collection procedures, including comprehensive metadata. As is the case with all guidance」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「survey and the population for which inferences will be made. For example, the target population」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「where each sample unit has a known probability of selection. For example, an address -based」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「telephone number or cell phone number. In some cases, a list of email addresses may provide a」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「students at a university). For example, t he Bureau of Labor Statistics uses unemployment」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「rely on multiple frames in which case information on each frame used and how they are used」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「about the target population” (p. 38) . For example, target household units without landline」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「The report should describe the level(s) at which data were collected. For example, the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「For example, households without tele phones cannot participate in telephone -only surveys」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「tested during data collection to increase response rates and reduce potential bias. Examples of」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「associated with bias, there are some situations where the latter may not lead to bias. For example,」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
 
 ## 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）（ownership chain verification beneficial ownership filings subsidiaries OSINT）
 - 文脈：会社・一次
@@ -12108,9 +12141,9 @@
   - 「" case management, these practices are vital for success and help avoid "」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「Since then, various intelligence grading systems have been developed and used by different organisations. For example:」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
 
 ## データ報道の編集者の点検（意外な跳びを先に疑う・数える範囲を変えない・表記ゆれの一覧・データの日誌・別の人の再現）（data journalism editors checklist verify surprising results data diary backstop）
 - 文脈：突き合わせ

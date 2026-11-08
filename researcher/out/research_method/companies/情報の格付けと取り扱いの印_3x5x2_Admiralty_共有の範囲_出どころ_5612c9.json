@@ -8,118 +8,8 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T01:27:08.657660+00:00",
+ "researched_at": "2026-11-08T08:11:59.363318+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "\" case management, these practices are vital for success and help avoid \"",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Since then, various intelligence grading systems have been developed and used by different organisations. For example:",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "These codes simplify communication and ensure consistency across different organisations or agencies. For example:",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ". For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Examples – Technical products e.g. DNA, fingerprints, CCTV",
-    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "determined, for example, members of the public, Crimestoppers.",
-    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Examples – members of the public with a potentially malicious",
-    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "If this is the case, the rationale for why it is believed to be false",
-    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Examples – malicious/non-malicious callers, CHIS engaging in",
-    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Code P intelligence. For example:",
-    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "\" case management, these practices are vital for success and help avoid \"",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Since then, various intelligence grading systems have been developed and used by different organisations. For example:",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These codes simplify communication and ensure consistency across different organisations or agencies. For example:",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "The Coalition of Cyber Investigators explore the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.",
@@ -271,44 +161,124 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "実例": [
+   {
+    "quote": "\" case management, these practices are vital for success and help avoid \"",
+    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Since then, various intelligence grading systems have been developed and used by different organisations. For example:",
+    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.",
+    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "These codes simplify communication and ensure consistency across different organisations or agencies. For example:",
+    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its",
+    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
+    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Examples – Technical products e.g. DNA, fingerprints, CCTV",
+    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "determined, for example, members of the public, Crimestoppers.",
+    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Examples – members of the public with a potentially malicious",
+    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If this is the case, the rationale for why it is believed to be false",
+    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Examples – malicious/non-malicious callers, CHIS engaging in",
+    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Code P intelligence. For example:",
+    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "\" case management, these practices are vital for success and help avoid \"",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Since then, various intelligence grading systems have been developed and used by different organisations. For example:",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "These codes simplify communication and ensure consistency across different organisations or agencies. For example:",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/chokuzen_note/n/nc2a0ea35150c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tetsu777/n/n0ab1dcaa0192",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/cbrdfsmktr/n/n5913ea9ace79",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ityougonet/n/nae94913434e8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/open_insight/n/n83a316cd16cd",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/minato74_/n/nfa6fcfdf7d49",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "status": "ok",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
@@ -352,22 +322,17 @@
     "method": "http"
    },
    {
+    "url": "https://ja.na4.teamsupport.com/knowledgeBase/22939241",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://riss000049.jp/archives/1120",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.nri-secure.co.jp/blog/security-rating",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.na4.teamsupport.com/knowledgeBase/22939241",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.sailpoint.com/ja/identity-library/cia-triad",
     "status": "ok",
     "method": "http"
    },
@@ -387,7 +352,7 @@
     "method": "http"
    },
    {
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/advanced-persistent-threat/",
+    "url": "https://www.tokyo-keizai.co.jp/consult/iso/cases1.html",
     "status": "ok",
     "method": "http"
    },
@@ -426,19 +391,9 @@
  "search_log": [
   {
    "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） site:note.com",
-   "results": [
-    "https://note.com/chokuzen_note/n/nc2a0ea35150c",
-    "https://note.com/tetsu777/n/n0ab1dcaa0192",
-    "https://note.com/cbrdfsmktr/n/n5913ea9ace79",
-    "https://note.com/ityougonet/n/nae94913434e8",
-    "https://note.com/open_insight/n/n83a316cd16cd",
-    "https://note.com/minato74_/n/nfa6fcfdf7d49",
-    "https://note.com/alarmbox/n/n99c21c3df2b1"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） note",
@@ -466,10 +421,10 @@
     "https://thrive.trellix.com/s/article/KB91440?language=ja",
     "https://www.se.com/jp/ja/faqs/FA53475?r=232&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1/",
     "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "https://ja.na4.teamsupport.com/knowledgeBase/22939241",
     "https://riss000049.jp/archives/1120",
     "https://www.nri-secure.co.jp/blog/security-rating",
-    "https://www.nttcom.co.jp/dscb/column/m365-sensitivity-labels/",
-    "https://ja.na4.teamsupport.com/knowledgeBase/22939241"
+    "https://secure-navi.jp/blog/000021"
    ],
    "engines": [
     "yahoo_jp"
@@ -480,14 +435,14 @@
    "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） 事例",
    "results": [
     "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "https://www.sailpoint.com/ja/identity-library/cia-triad",
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf",
     "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_supply_chain/pdf/004_s01_00.pdf",
-    "https://www.nri-secure.co.jp/blog/security-rating",
     "https://www.cyber.go.jp/files/scs2026_draft_kijun.xlsx",
     "https://www.nttsmc.com/wakuconeplus/column/information-leakage/scs-checklist/",
+    "https://www.nri-secure.co.jp/blog/security-rating",
+    "https://riss000049.jp/archives/1120",
     "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://codebook.machinarecord.com/cyber-intelligence/advanced-persistent-threat/"
+    "https://www.tokyo-keizai.co.jp/consult/iso/cases1.html"
    ],
    "engines": [
     "yahoo_jp"
@@ -509,7 +464,7 @@
     "https://theosintvault.io/osint-handbook"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -520,8 +475,8 @@
     "https://note.com/tetsu777/n/n0ab1dcaa0192",
     "https://note.com/chokuzen_note/n/nc2a0ea35150c",
     "https://note.com/cbrdfsmktr/n/n5913ea9ace79",
-    "https://note.com/open_insight/n/n83a316cd16cd",
     "https://note.com/ityougonet/n/nae94913434e8",
+    "https://note.com/open_insight/n/n83a316cd16cd",
     "https://note.com/pn3/n/nd5ce5222f709",
     "https://note.com/minato74_/n/nfa6fcfdf7d49"
    ],
@@ -542,7 +497,7 @@
     "https://x.com/grok/status/2109539178912375005"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -550,12 +505,12 @@
    "query": "site:linkedin.com 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）",
    "results": [
     "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
-    "https://www.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf",
     "https://www.linkedin.com/pulse/information-evaluation-stephen-berry",
+    "https://www.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf",
     "https://www.linkedin.com/posts/cosive_the-admiralty-system-nato-ajp-21-gives-activity-7307552088933183488-J1wr",
-    "https://www.linkedin.com/posts/osintuk_how-do-you-manage-the-credibility-and-activity-7278804412427300865-qT5l",
     "https://www.linkedin.com/posts/nathanielfried_how-do-you-grade-and-distribute-your-osint-activity-7278806710528446465-WWkO",
-    "https://jp.linkedin.com/pulse/2026年度日本企業の格付け開始-セキュリティは品質から取引免許へ-和宏-高島-fqyzc"
+    "https://jp.linkedin.com/pulse/2026年度日本企業の格付け開始-セキュリティは品質から取引免許へ-和宏-高島-fqyzc",
+    "https://jp.linkedin.com/pulse/understanding-role-credit-ratings-financial-markets-chua-dba-mba--2dafc?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -566,12 +521,12 @@
    "query": "site:facebook.com 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）",
    "results": [
     "https://www.facebook.com/AdmiraltyTrilogy/",
+    "https://graph.facebook.com/v2.8/3106561832752946/picture/",
     "https://www.facebook.com/kittyquick/",
-    "https://www.facebook.com/groups/400841766956686/posts/2689646941409479/",
-    "https://www.facebook.com/picturesstudioakasaka/photos/2154296121538536/",
-    "https://www.facebook.com/kanko.city.tomi.nagano/posts/禰津城外山城政所城の御城印と海野宿御宿場印のお取り扱いを東御市観光情報ステーションで始めました禰津城外山城政所城の３種類１枚330円税込み東御市観光ステーション/1497307737281406/",
+    "https://www.facebook.com/mnpsg/",
     "https://www.facebook.com/tisser.official/posts/シャンパーニュ地方ブドウ畑の格付けシャンパーニュ地方では1845年にクリュcruが認められシャンパーニュの格付けはエシェルデクリュéchelle-des-cru/265142358823353/",
-    "https://www.facebook.com/kozakurayakazukiyo/posts/情報が解禁されましたのでご案内いたします2025年1月1日芸能人格付けチェック生け花でエントリーしております秋の格付けから期間が短くなかなかハードでしたが假屋崎/1121139856679707/"
+    "https://www.facebook.com/groups/400841766956686/posts/2689646941409479/",
+    "https://www.facebook.com/kanko.city.tomi.nagano/posts/禰津城外山城政所城の御城印と海野宿御宿場印のお取り扱いを東御市観光情報ステーションで始めました禰津城外山城政所城の３種類１枚330円税込み東御市観光ステーション/1497307737281406/"
    ],
    "engines": [
     "ddgs:google"
@@ -585,11 +540,11 @@
     "https://note.com/slash_level/n/nfbb11e248c02",
     "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_supply_chain/pdf/004_s01_00.pdf",
     "https://note.com/miraikyoso/n/nf613b2573554",
-    "https://www.nri-secure.co.jp/blog/security-rating",
-    "https://www.israting.com/basicpolicy.html",
     "https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-SRGCM10984.pdf",
-    "https://www.optima-solutions.co.jp/support_article/cia/",
-    "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary179.pdf"
+    "https://www.israting.com/basicpolicy.html",
+    "https://share.evernote.com/note/4d18568c-0aab-1cfd-18f0-a269ecba1ce5",
+    "https://www.nri-secure.co.jp/blog/security-rating",
+    "https://www.optima-solutions.co.jp/support_article/cia/"
    ],
    "engines": [
     "yahoo_jp"
@@ -602,12 +557,12 @@
     "https://x.com/Kirinsan4567/status/2114694287103529160",
     "https://www.maxmouse.co.jp/tips/2020/0618_1/",
     "https://www.reddit.com/r/bugbounty/comments/1j4f82h/should_i_submit_a_new_report_if_my_issue_was/?tl=ja",
-    "https://apa.or.jp/news/detail/%EF%BD%8Deasures_against_defamation_1227/",
+    "https://tatap.jp/knowledge/x-pr-notation/",
     "https://www.asahi.com/articles/ASR814CSVR81UHBI00S.html",
-    "https://www.lexology.com/library/detail.aspx?g=00fb4551-01ec-4f75-b1b0-3e0b18bf8cc9",
-    "https://ayudante.jp/info/policy/",
-    "https://group.nec/jp/ja/solutions/cybersecurity/blog/210924",
-    "https://www.bureauveritas.jp/media/23301"
+    "https://note.com/munou_ac/n/n758528824339",
+    "https://www.bureauveritas.jp/media/23301",
+    "https://apa.or.jp/news/detail/%EF%BD%8Deasures_against_defamation_1227/",
+    "https://www.lexology.com/library/detail.aspx?g=00fb4551-01ec-4f75-b1b0-3e0b18bf8cc9"
    ],
    "engines": [
     "yahoo_jp"
@@ -635,130 +590,11 @@
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ22頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ22頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）"
  },
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "\" case management, these practices are vital for success and help avoid \"",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Since then, various intelligence grading systems have been developed and used by different organisations. For example:",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "These codes simplify communication and ensure consistency across different organisations or agencies. For example:",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ". For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "The Coalition of Cyber Investigators explore the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Exploring the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Modern investigative work increasingly relies upon open-source intelligence (OSINT). However, an effective intelligence-gathering process depends on more than just collecting data: structured practices of grading, handling, and securely disseminating intelligence are essential. These methods help guarantee operational security, foster credibility, and enable effective collaboration.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Any information OSINT investigators obtain should be recorded through the frameworks discussed in this article.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "to assign to it when formulating a response or deciding how to use it effectively. To address this issue, a nationally standardised grading system is available to both public and private investigation bodies, providing them with an easily understood way to share intelligence and assess its trustworthiness.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "How intelligence is evaluated and authorised within the applicable intelligence framework",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "History of Grading Frameworks",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "While sharing common roots, these frameworks have been adapted over time to meet the specific needs of different organisations and countries. The evolution of these grading frameworks reflects ongoing efforts to improve the accuracy and reliability of intelligence evaluation.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Sample of an Intelligence Grading Framework",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Standardised grading frameworks like 3x5x2 streamline this process, making it easier for private and public organisations to collaborate. However, intelligence sharing must remain segmented, and where appropriate, \"",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ", due diligence, or law enforcement fails to draw a line between reliable data and less credible data. Such a gap highlights the need for a robust methodology combined with advanced analytics for accurate",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Embedding intelligence grading into OSINT so it aligns with other intelligence disciplines can help investigators achieve better operational outcomes, protect sources, and engender confidence in their findings. Adopting such methodologies forms a best practice and is increasingly necessary in today's high-speed, high-stakes investigative environment.",
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 2,
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-07T19:51:37.147261+00:00"
 }
