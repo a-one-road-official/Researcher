@@ -2594,6 +2594,32 @@ def scan(topic):
                *(f"  - {k[0][:50]}（{k[1]}）：推計の中央値 {a:,.4g}・直接の中央値 {b:,.4g}・{x:,.1f}倍" for k, a, b, x in _ord[:10]),
                ""]
     except Exception: pass
+    # 2026-11-08 4-100（小川真由「淘汰されていく中小製造業」MONOist：本文の「約1割」が表の値では1割超、指数は基準年=100、
+    # 従業者4人以上の本表と3人以下の推計表は別系列）。丸め語だけの量・指数の値・裾切りの違う系列の混在を数える
+    try:
+        _ROUND = re.compile(r"(約|およそ|ほぼ|概ね)?([一二三四五六七八九十数][割倍]|倍増|半減|激減|急増|大幅に?[増減])")
+        _UNITNUM = re.compile(r"\d[\d,\.]*\s*(%|％|円|人|件|社|事業所|倍|割)")
+        _rnd = [r for r in rows if _ROUND.search(r["引用"]) and not _UNITNUM.search(r["引用"])]
+        _IDX = re.compile(r"(=|＝)\s*100|100\s*と(し|する)|指数")
+        _idx = {}
+        for r in rows:
+            if _IDX.search(r["引用"]): _idx[r["品目"]] = _idx.get(r["品目"], 0) + 1
+        _cut = {}
+        for r in rows:
+            q = r["引用"]
+            if re.search(r"(3|３|三)人以下", q): _cut.setdefault(r["品目"], set()).add("3人以下(推計表)")
+            if re.search(r"(4|４|四)人以上", q): _cut.setdefault(r["品目"], set()).add("4人以上(本表)")
+            if re.search(r"(10|１０)人以上", q): _cut.setdefault(r["品目"], set()).add("10人以上")
+        _mix = {k: v for k, v in _cut.items() if len(v) >= 2}
+        md += ["## 丸め語・指数・裾切りの混在（4-100・機械）",
+               f"- 量を丸め語（約1割・倍増・半減など）だけで言い、数字の無い引用：{len(_rnd)}件。丸め語は向きの手がかりにとどめ、大きさは表の値から出す",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:60]}" for r in _rnd[:5]),
+               f"- 指数（基準=100）を含む引用のある品目：{len(_idx)}品目。指数の値は実額・人数の欄に入れない。基準年を値に添える",
+               *(f"  - {k[:50]}（{n}件）" for k, n in sorted(_idx.items(), key=lambda x: -x[1])[:8]),
+               f"- 裾切り（従業者4人以上の本表・3人以下の推計表など）の違う系列が同じ品目に混ざる：{len(_mix)}品目。範囲の違う系列は同じ欄で比べない",
+               *(f"  - {k[:50]}（{'・'.join(sorted(v))}）" for k, v in list(_mix.items())[:8]),
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
