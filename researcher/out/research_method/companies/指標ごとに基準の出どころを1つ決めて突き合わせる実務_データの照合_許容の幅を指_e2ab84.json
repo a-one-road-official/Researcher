@@ -8,358 +8,8 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T04:26:07.915998+00:00",
+ "researched_at": "2026-11-08T11:29:33.917952+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "運用が続くほど、相手システムの仕様変更や例外的なデータ、処理の一部失敗によって、ずれは静かに忍び込みます",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "相手システムがバージョンアップして項目が増える、これまで来なかった値が来る、夜間の処理が一部だけ失敗する——こうした変化は日常的に起こります",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ただし合計値だけを見ていると、プラスとマイナスの誤りが打ち消し合って一致してしまうことがあります",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "処理の失敗による取りこぼしのように、原因が明確なものは自動での再実行を組み込めます",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "相手システムの仕様変更や想定外の値、処理の一部失敗はテストでは想定できません",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A. 処理の失敗による取りこぼしのように原因が明確なものは、自動での再実行を組み込めます",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "連携をリリースした後も、相手システムの変更や例外データ、処理の失敗によって数字は少しずつずれます",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "エラー監視だけでは「静かな失敗」を検出できないため、運用中の突合が必要です",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "But there’s an uncomfortable truth: an AI model fed unreconciled data doesn’t provide insights; it provides confident mistakes at scale. If your data lake hasn’t been reconciled, you’re automating the production of mistakes and calling it intelligence.",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "AI and machine learning pipelines are only as reliable as the data feeding them. Unreconciled source data introduces hidden bias, incorrect labels, and silently wrong feature values, which produce outputs that are confidently wrong.",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "注意をしただけで「評価」をしたつもりになる",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "注意することを、育成だと思っている",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "うまくいったこと、失敗したことが事務所に蓄積され、ノウハウを共有できます",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "判断に必要な情報を開示し、失敗しても戻れる範囲を決めたうえで、決定をタレントに委ねる",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一度の失敗で信頼も収入も失う環境では、人は挑戦ではなく保身を選びます",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同じ「10,000人」が、失敗にも成功にもなった",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「先週の配信、あの切り返しがよかった」「今回の新曲、ビブラートがきれいだった」など、注意深く見ていなければ言えない話題です",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでマネージャーがやりがちな失敗が、教訓を先に言ってしまうことです",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「心」の摩耗は、弱さではなく設計の失敗",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "失敗の振り返りを、人ではなく工程に向ける",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このチームで、失敗を認めても不利にならないと思うか",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このチームでは、失敗を早めに報告できる",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "だからメンバー同士がぶつかったとき、それをただちに「失敗」と判断するのは早計です",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "禁止事項を増やし、注意書きを長くする",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「使わない」には二つの種類があることに注意してください",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "判定役が、「良い意思決定の基準」と「許されない誤り」を確かめる",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "4. 良い意思決定の基準 5. 許されない誤り 6. 結果の責任者",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どれか一つだけを上げても足りないことに注意してください",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1. 要件シートの「許されない誤り」と、論点の整理で「使わない」とされた事情から、1を書いてください",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "元データがすでにkWh/m²なのにさらに1,000で割る、時間積算済みなのにもう一度時間幅を掛ける、といった誤りは、式だけを見ても見落としやすいものです",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "個々の損失率が唯一の真実のように見えるグラフには注意が必要です",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日射の選び方の誤りを配線損失で埋めれば、別の月や別の住宅へ適用したときに崩れます",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "前者が悪いわけではありませんが、別条件への一般化には注意が必要です",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "反対に、気象データに雪の日が入っているから屋根上の積雪も織り込み済み、と考えるのも誤りです",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "JPEAは、パネル表面が滑らかなために雪が滑り落ちやすく、予想以上に遠くへ落ちる可能性があるとして注意を呼びかけています",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここが違うまま差率を計算すると、計算自体は正しくても説明は誤ります",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "異臭、異音、破損などに気づいたら、取扱説明書の注意と施工店・メーカーの案内に従い、危険な場所へ近づかずに相談します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本記事で扱うのは、KPIデータのクレンジングの定義、実務で回せる7つのステップ、指標タイプ別の観点、そして陥りやすい失敗パターンです",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "KPIデータのクレンジングでよくある失敗パターン",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1％の差が数千万円になる規模の企業では、その差がそのまま経営判断の誤りにつながります",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ズレたKPIにもとづく判断は、正しいデータで振り返るまで誤りに気づけないところが最も厄介です",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "信頼は数値が完璧であることよりも、誤りがあれば検知されて修正される仕組みがあるという安心感から生まれます",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "完璧なデータを目指すより、誤りに気づける運用を先につくるほうが現実的です",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分母と分子で参照期間や更新タイミングが異なる「ねじれ」にも注意してください",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "数値を把握しないまま議論を始めると、対策の優先度を見誤ります",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、弊社が実際の現場で目にしてきた5つの失敗パターンと、その回避策を紹介します",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この順序の誤りは、作業が一通り終わって重複率を測った段階で初めて発覚することがほとんどです",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "比較時の注意点まで書き添えて、利用者へ確実に伝えてください",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "手作業の突合には、担当の注意力では埋まらない構造上の限界があります",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ポイント2：見間違いは注意力だけでは防げない",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "数字の見間違い、行のずれ、転記ミスは、注意力だけでは防ぎきれません",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "金額欄の誤読はそのまま支払額の誤りになります",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "運用開始時に押さえる3つの注意点",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "注意点1：AIの判定結果を鵜呑みにしない",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "注意点2：発注番号の運用ルールを整備する",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "注意点3：インボイス制度への対応を確認する",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "システム間のデータ突合の方法｜運用中のずれを早く見つける仕組み｜ASTERIA Warp",
@@ -740,238 +390,352 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "Before running checks, profile both data sets and understand their volumes, distributions, and known quirks. Reconciling unquestioningly generates noise. Profiling first makes your checks meaningful and your results actionable.",
+    "quote": "運用が続くほど、相手システムの仕様変更や例外的なデータ、処理の一部失敗によって、ずれは静かに忍び込みます",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "相手システムがバージョンアップして項目が増える、これまで来なかった値が来る、夜間の処理が一部だけ失敗する——こうした変化は日常的に起こります",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし合計値だけを見ていると、プラスとマイナスの誤りが打ち消し合って一致してしまうことがあります",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "処理の失敗による取りこぼしのように、原因が明確なものは自動での再実行を組み込めます",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "相手システムの仕様変更や想定外の値、処理の一部失敗はテストでは想定できません",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A. 処理の失敗による取りこぼしのように原因が明確なものは、自動での再実行を組み込めます",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "連携をリリースした後も、相手システムの変更や例外データ、処理の失敗によって数字は少しずつずれます",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "エラー監視だけでは「静かな失敗」を検出できないため、運用中の突合が必要です",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "But there’s an uncomfortable truth: an AI model fed unreconciled data doesn’t provide insights; it provides confident mistakes at scale. If your data lake hasn’t been reconciled, you’re automating the production of mistakes and calling it intelligence.",
     "url": "https://www.tricentis.com/learn/data-reconciliation",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "The profiling step above makes this stage a lot easier. Compare row counts between source and target for given time windows or business keys. Mismatches here typically mean ingestion or filtering failures: something didn’t make it through right.",
+    "quote": "AI and machine learning pipelines are only as reliable as the data feeding them. Unreconciled source data introduces hidden bias, incorrect labels, and silently wrong feature values, which produce outputs that are confidently wrong.",
     "url": "https://www.tricentis.com/learn/data-reconciliation",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Think anti-money laundering filings, capital adequacy reports, HIPAA, or GDPR audits.",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Profiling and business-rule tests",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本稿は、VTuberやVSinger、バーチャルタレントのマネジメントについて、筆者自身の実務経験と、一般的なマネジメント論・組織論・公的資料を照らし合わせながら整理したものです",
+    "quote": "注意をしただけで「評価」をしたつもりになる",
     "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "一部のVTuber事務所が公表している採用情報やインタビューでも、タレントマネージャーの役割はスケジュール管理だけに限定されていません",
+    "quote": "注意することを、育成だと思っている",
     "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "本章の法制度に関する記述は、総務省・法務省などの公的資料を優先し、最新情報を確認してください",
+    "quote": "うまくいったこと、失敗したことが事務所に蓄積され、ノウハウを共有できます",
     "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "本稿では、筆者自身の実務経験に加えて、以下の書籍、論文、公的資料、業界各社の公開情報を参考にしました",
+    "quote": "判断に必要な情報を開示し、失敗しても戻れる範囲を決めたうえで、決定をタレントに委ねる",
     "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "COVER株式会社 採用情報「Talent Management」",
+    "quote": "しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります",
     "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "- 効果は、おおまかには「AIを使える範囲 × 推奨が採用される割合 × 採用された推奨が判定基準に合う割合 × 一件あたりの改善幅」",
+    "quote": "一度の失敗で信頼も収入も失う環境では、人は挑戦ではなく保身を選びます",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同じ「10,000人」が、失敗にも成功にもなった",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「先週の配信、あの切り返しがよかった」「今回の新曲、ビブラートがきれいだった」など、注意深く見ていなければ言えない話題です",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでマネージャーがやりがちな失敗が、教訓を先に言ってしまうことです",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「心」の摩耗は、弱さではなく設計の失敗",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗の振り返りを、人ではなく工程に向ける",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このチームで、失敗を認めても不利にならないと思うか",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このチームでは、失敗を早めに報告できる",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "だからメンバー同士がぶつかったとき、それをただちに「失敗」と判断するのは早計です",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "禁止事項を増やし、注意書きを長くする",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「使わない」には二つの種類があることに注意してください",
     "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "- AIの推奨が採用される割合は、高いほど良いとは限りません",
+    "quote": "判定役が、「良い意思決定の基準」と「許されない誤り」を確かめる",
     "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "たとえば、一件あたりの改善幅が4ポイントで、すべての案件にAIを使えるなら、「推奨が採用される割合 × 採用された推奨が判定基準に合う割合」が約65%以上必要になる（2.6ポイント÷4ポイント）",
+    "quote": "4. 良い意思決定の基準 5. 許されない誤り 6. 結果の責任者",
     "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "推奨が採用されなければ効果はないが、採用率だけを上げても、一件あたりの改善幅が小さければ目標に届かない",
+    "quote": "どれか一つだけを上げても足りないことに注意してください",
     "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AIの推奨の採用率を、高いほど良いものとして目標にしてしまう：上限の目安を置き、採用率と一件あたりの改善幅を合わせて見る",
+    "quote": "1. 要件シートの「許されない誤り」と、論点の整理で「使わない」とされた事情から、1を書いてください",
     "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "公的なデータを使っていることは、出どころを確認するうえで重要です",
+    "quote": "元データがすでにkWh/m²なのにさらに1,000で割る、時間積算済みなのにもう一度時間幅を掛ける、といった誤りは、式だけを見ても見落としやすいものです",
     "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "2021年4月の解説書では、前者は2010〜2018年を統計期間とする1kmメッシュの月平均推定値、後者は全国835地点の代表年の毎時推定値として説明されています",
+    "quote": "個々の損失率が唯一の真実のように見えるグラフには注意が必要です",
     "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ここで大切なのは、公的データだから疑わしいと考えることでも、古い統計期間があるから使えないと決めることでもありません",
+    "quote": "日射の選び方の誤りを配線損失で埋めれば、別の月や別の住宅へ適用したときに崩れます",
     "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "全天日射量については、日照時間のメッシュ平年値から統計的な関係で推定する旨が説明されています",
+    "quote": "前者が悪いわけではありませんが、別条件への一般化には注意が必要です",
     "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "採用理由と代替地点を残し、差が判断に影響するかを調べます",
+    "quote": "反対に、気象データに雪の日が入っているから屋根上の積雪も織り込み済み、と考えるのも誤りです",
     "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "必要なのは、提供主体、資料名・版、取得日、対象地点、統計期間、時間幅、単位、欠測の扱い、加工内容です",
+    "quote": "JPEAは、パネル表面が滑らかなために雪が滑り落ちやすく、予想以上に遠くへ落ちる可能性があるとして注意を呼びかけています",
     "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ファイル名だけではなく、ダウンロード元と採用理由も添えます",
+    "quote": "ここが違うまま差率を計算すると、計算自体は正しくても説明は誤ります",
     "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "統計期間と選び方が違えば意味も変わるためです",
+    "quote": "異臭、異音、破損などに気づいたら、取扱説明書の注意と施工店・メーカーの案内に従い、危険な場所へ近づかずに相談します",
     "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "一方、載せられる枚数が多いから採用するとも限りません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "測定方法と採用した向きを設計担当者に確認します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "まだ構造確認ができていない案は「発電量は計算できたが採用可否は未確定」と扱います",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "初期概算で一律率を使うなら、その仮定が採用判断を左右するかを感度分析します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本稿第10章もこの簡略化を採用しており、実機設計の判断には使えません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "影の不確実性が大きく、調査もできない場合は、楽観値だけで契約を進めず、保守的な条件でも採用するかを検討します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実機を比較する場合は、採用する型式のデータシートにある係数と、その定義を確認します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ノイズの大きさを把握しないまま統計的な検定にかけても、結果の解釈は安定しません",
+    "quote": "本記事で扱うのは、KPIデータのクレンジングの定義、実務で回せる7つのステップ、指標タイプ別の観点、そして陥りやすい失敗パターンです",
     "url": "https://data-viz-lab.com/kpi-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "外れ値の処理には、統計的な基準と業務的な妥当性の両面からの判断が必要です",
+    "quote": "KPIデータのクレンジングでよくある失敗パターン",
     "url": "https://data-viz-lab.com/kpi-data",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "国民経済計算（国の経済統計）では、概念上は一致するはずの支出側と生産側の国内総生産の推計値の乖離を「統計上の不突合」と呼びます",
+    "quote": "1％の差が数千万円になる規模の企業では、その差がそのまま経営判断の誤りにつながります",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ズレたKPIにもとづく判断は、正しいデータで振り返るまで誤りに気づけないところが最も厄介です",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "信頼は数値が完璧であることよりも、誤りがあれば検知されて修正される仕組みがあるという安心感から生まれます",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完璧なデータを目指すより、誤りに気づける運用を先につくるほうが現実的です",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分母と分子で参照期間や更新タイミングが異なる「ねじれ」にも注意してください",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数値を把握しないまま議論を始めると、対策の優先度を見誤ります",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでは、弊社が実際の現場で目にしてきた5つの失敗パターンと、その回避策を紹介します",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この順序の誤りは、作業が一通り終わって重複率を測った段階で初めて発覚することがほとんどです",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "比較時の注意点まで書き添えて、利用者へ確実に伝えてください",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手作業の突合には、担当の注意力では埋まらない構造上の限界があります",
     "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "メール添付のPDF、郵送の紙、取引先のWeb明細",
+    "quote": "ポイント2：見間違いは注意力だけでは防げない",
     "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "3帳票のPDF・画像",
+    "quote": "数字の見間違い、行のずれ、転記ミスは、注意力だけでは防ぎきれません",
     "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを",
+    "quote": "金額欄の誤読はそのまま支払額の誤りになります",
     "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "PDF・15ページ",
+    "quote": "運用開始時に押さえる3つの注意点",
     "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "最初に行うのは、紙やPDFの帳票を表のデータに変えることです",
+    "quote": "注意点1：AIの判定結果を鵜呑みにしない",
     "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "COMPANY PROFILE ／ PDF 全46ページ",
+    "quote": "注意点2：発注番号の運用ルールを整備する",
     "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Banks reconcile millions of transactions daily across core banking systems, payment networks, trading platforms, and regulatory reports. Reconciliation ensures that settlements match, accounts balance, and regulatory filings are accurate.",
-    "url": "https://performalytic.com/blog/data-reconciliation-guide/",
+    "quote": "注意点3：インボイス制度への対応を確認する",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
@@ -1699,480 +1463,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/nae5c1f7c390a",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/nob75note/n/n052803f42d1f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/modern_flea8708/n/n26c2ceb2e79a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/kpi-data",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bscdesigner.com/ja/kpi-bunseki.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tsysk/n/n92936b747c47",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.dsk-cloud.com/blog/basic-knowledge-and-benefits-with-kpi-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ns-japan.com/media/guide/new-business-kpi/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kuroco.team/blog-shacho-014/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tazna.io/news/data-assessment",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.videor.co.jp/digestplus/article/ad-marketing240731.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.amed.go.jp/content/000034153.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://start-link.jp/hubspot-ai/dx/dx-strategy/dx-effectiveness-measurement-kpi",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://esu-po.com/info/sw009",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://a-x.inc/blog/ai-data-matching-automation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.onetribeadvisory.com/knowledge-hub/single-source-of-truth-finance/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://performalytic.com/blog/data-reconciliation-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.irion-edm.com/data-management-insight/data-reconciliation-what-it-is-why-it-matters-how-to-get-started-and-how-it-differs-from-data-validation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://montecarlo.ai/blog-data-reconciliation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "status": "ok",
-    "method": "http"
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） site:note.com",
-   "results": [
-    "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "https://note.com/jack4manastalk/n/nae5c1f7c390a",
-    "https://note.com/nob75note/n/n052803f42d1f",
-    "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "https://note.com/modern_flea8708/n/n26c2ceb2e79a",
-    "https://note.com/mototchen/n/nc0bb8247ad0e",
-    "https://note.com/reading_monkey/n/n9010c821e570",
-    "https://note.com/modern_flea8708/n/nf9e5b20931e5",
-    "https://note.com/modern_flea8708/n/n4e4fbe37f79b"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） note",
-   "results": [
-    "https://data-viz-lab.com/kpi-data",
-    "https://bscdesigner.com/ja/kpi-bunseki.htm",
-    "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
-    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
-    "https://note.com/tsysk/n/n92936b747c47",
-    "https://www.dsk-cloud.com/blog/basic-knowledge-and-benefits-with-kpi-analysis",
-    "https://kuroco.team/blog-shacho-014/",
-    "https://note.com/isdataconsulting/n/n317e99558c60",
-    "https://start-link.jp/hubspot-ai/dx/dx-strategy/dx-effectiveness-measurement-kpi",
-    "https://www.asteria.com/jp/warp/blog/166270.html"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） やり方",
-   "results": [
-    "https://data-viz-lab.com/kpi-data",
-    "https://bscdesigner.com/ja/kpi-bunseki.htm",
-    "https://ns-japan.com/media/guide/new-business-kpi/",
-    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
-    "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
-    "https://kuroco.team/blog-shacho-014/",
-    "https://tazna.io/news/data-assessment",
-    "https://www.videor.co.jp/digestplus/article/ad-marketing240731.html",
-    "https://www.amed.go.jp/content/000034153.pdf",
-    "https://www.asteria.com/jp/warp/blog/166270.html"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） 事例",
-   "results": [
-    "https://data-viz-lab.com/kpi-data",
-    "https://bscdesigner.com/ja/kpi-bunseki.htm",
-    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
-    "https://kuroco.team/blog-shacho-014/",
-    "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "https://tazna.io/news/data-assessment",
-    "https://www.amed.go.jp/content/000034153.pdf",
-    "https://start-link.jp/hubspot-ai/dx/dx-strategy/dx-effectiveness-measurement-kpi",
-    "https://esu-po.com/info/sw009",
-    "https://www.asteria.com/jp/warp/blog/166270.html"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "data reconciliation single source of truth per metric tolerance thresholds discrepancy log",
-   "results": [
-    "https://www.onetribeadvisory.com/knowledge-hub/single-source-of-truth-finance/",
-    "https://performalytic.com/blog/data-reconciliation-guide/",
-    "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "https://www.irion-edm.com/data-management-insight/data-reconciliation-what-it-is-why-it-matters-how-to-get-started-and-how-it-differs-from-data-validation/",
-    "https://montecarlo.ai/blog-data-reconciliation",
-    "https://www.tricentis.com/learn/data-reconciliation",
-    "https://www.datafold.com/blog/data-reconciliation-best-practices/",
-    "https://dqops.com/docs/categories-of-data-quality-checks/how-to-reconcile-data-and-detect-differences/",
-    "https://kanerika.com/blogs/data-reconciliation/",
-    "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "site:note.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
-   "results": [
-    "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "https://note.com/humble_loris7474/n/n9d9b343298d2",
-    "https://note.com/pure_hyssop2167/n/ndac7dd6807ed",
-    "https://note.com/mizuame_yukina26/n/n0a6f988f6572",
-    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
-    "https://note.com/poka_nero/n/n85048bd7be59",
-    "https://note.com/minato74_/n/n91b93693aac4",
-    "https://note.com/excel_jidouka/n/n1bc287bdb593"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 13
-  },
-  {
-   "query": "site:x.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
-   "results": [
-    "https://x.com/otemachiprep/status/2093597522199544221",
-    "https://x.com/f8q75wzwaibw/status/2077226401493819410",
-    "https://x.com/AIjitan_sokuhou/status/2117953794822508873",
-    "https://x.com/kaji_dx/status/2112098937251467322",
-    "https://x.com/tsuntsun2914/status/2065335458033516717",
-    "https://x.com/223Works0709/status/2106508522888532213",
-    "https://x.com/keirijouhou/status/2117046743724679251"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:linkedin.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
-   "results": [
-    "https://jp.linkedin.com/pulse/measuring-data-quality-metrics-kpis-robert-seltzer-fgu9c?tl=ja",
-    "https://jp.linkedin.com/learning/marketing-foundations-analytics-27974673/4094008",
-    "https://jp.linkedin.com/pulse/building-strong-data-governance-program-part-3-kpis-lippisch-cipm-qofmc?tl=ja",
-    "https://jp.linkedin.com/pulse/making-improvements-through-data-driven-quality-metrics-joshua-chezum-bgalc?tl=ja",
-    "https://jp.linkedin.com/pulse/top-40-data-quality-improvement-initiatives-nrz4f?tl=ja",
-    "https://jp.linkedin.com/pulse/building-trust-data-step-by-step-guide-implementing-chetna-chaudhari-28hwc?tl=ja",
-    "https://jp.linkedin.com/pulse/5-fundamental-principles-set-right-metrics-your-rupa-rajagopalan?tl=ja"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
-   "results": [
-    "https://www.facebook.com/shikigaku2015/videos/経営者向け社員が納得する評価制度/2029072644538565/",
-    "https://www.facebook.com/eiichiro49/posts/施設基準比較アプリ最新データに更新しました2026年7月1日8月1日届出分を反映していますそして今回待望の新機能を追加しました自院の名前を入れるだけで届出できそ/28241020562201302/",
-    "https://www.facebook.com/hkn.jp/videos/認定代理店座談会認定を取った代理店は組織の何を変えたかーー-モニタリング不備管理証跡設計の実務を社長と現場管理者が語るーー/4510083399277393/",
-    "https://www.facebook.com/bugyo.obc/videos/電卓での検算まだ続けますか/1467398958506860/",
-    "https://www.facebook.com/shigeyo.tomo/videos/選ぶ基準値は指標は自分軸でありベクトル相手でもあるどんな基準値で誰のために判断するのかここがしっかりとあることが判断軸の土台ですこのアカウントでは長年サラリーマ/1569069634950708/",
-    "https://www.facebook.com/KPMG.JP/photos/必見ifrs-18実践ポイント-第8回ifrsr会計基準適用企業はifrs第18号の適用に向け検討を進めています本解説シリーズではifrs第18号の主な留意点を/1283073440506517/",
-    "https://www.facebook.com/soficojapan/videos/導入事例札幌レンタリース様/1776885310016868/"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） note 社長",
-   "results": [
-    "https://data-viz-lab.com/kpi-data",
-    "https://bscdesigner.com/ja/kpi-bunseki.htm",
-    "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
-    "https://note.com/isdataconsulting/n/n317e99558c60",
-    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
-    "https://note.com/tsysk/n/n92936b747c47",
-    "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
-    "https://jp.drinet.co.jp/blog/datamanagement/sdgs_indicators",
-    "https://tazna.io/news/data-assessment",
-    "https://note.com/poka_nero/n/n85048bd7be59"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） X 投稿",
-   "results": [
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://developers.google.com/meridian/docs/post-modeling/interpret-visualizations?hl=ja",
-    "https://ferret-one.com/blog/marketing-effectiveness-measurement",
-    "https://www.videor.co.jp/digestplus/article/ad-marketing240731.html",
-    "https://www.nttcoms.com/service/social/column/sns-kpi/",
-    "https://asana.com/ja/resources/social-media-metrics",
-    "https://ferret-plus.com/5348",
-    "https://www.icrossborderjapan.com/blog/archives/17416/",
-    "https://support.google.com/analytics/answer/9355664?hl=ja"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "data reconciliation single source of truth per metric tolerance thresholds discrepancy log site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/pulse/stop-polling-your-database-building-real-time-cdc-kafka-kunal-agrawal-yqarf",
-    "https://www.linkedin.com/pulse/how-achieve-better-data-management-your-advisory-vypwe",
-    "https://www.linkedin.com/posts/fezza_if-your-gtm-reporting-is-a-mess-but-you-arent-activity-7510338756114292736-mlFl",
-    "https://www.linkedin.com/in/dougschiller",
-    "https://www.linkedin.com/in/prithvi-gude",
-    "https://www.linkedin.com/pulse/autonomous-financial-close-reimagining-corporate-age-andre-ctcle",
-    "https://www.linkedin.com/pulse/integrating-data-governance-master-management-vijay-idutc",
-    "https://www.linkedin.com/in/josephlmann",
-    "https://www.linkedin.com/top-content/project-management/optimizing-workflow-processes/how-to-streamline-operational-systems/",
-    "https://np.linkedin.com/in/sujan-gyawali-700b78176"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  }
- ],
- "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "運用が続くほど、相手システムの仕様変更や例外的なデータ、処理の一部失敗によって、ずれは静かに忍び込みます",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "相手システムがバージョンアップして項目が増える、これまで来なかった値が来る、夜間の処理が一部だけ失敗する——こうした変化は日常的に起こります",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ただし合計値だけを見ていると、プラスとマイナスの誤りが打ち消し合って一致してしまうことがあります",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "処理の失敗による取りこぼしのように、原因が明確なものは自動での再実行を組み込めます",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "相手システムの仕様変更や想定外の値、処理の一部失敗はテストでは想定できません",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A. 処理の失敗による取りこぼしのように原因が明確なものは、自動での再実行を組み込めます",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "連携をリリースした後も、相手システムの変更や例外データ、処理の失敗によって数字は少しずつずれます",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "エラー監視だけでは「静かな失敗」を検出できないため、運用中の突合が必要です",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "But there’s an uncomfortable truth: an AI model fed unreconciled data doesn’t provide insights; it provides confident mistakes at scale. If your data lake hasn’t been reconciled, you’re automating the production of mistakes and calling it intelligence.",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "AI and machine learning pipelines are only as reliable as the data feeding them. Unreconciled source data introduces hidden bias, incorrect labels, and silently wrong feature values, which produce outputs that are confidently wrong.",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "システム間のデータ突合の方法｜運用中のずれを早く見つける仕組み｜ASTERIA Warp",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "システム間のデータ突合の方法｜運用中のずれを早く見つける仕組...",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "システム間のデータ突合の方法｜運用中のずれを早く見つける仕組み",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ],
   "一次情報の探し方": [
    {
@@ -2198,9 +1488,606 @@
     "url": "https://www.tricentis.com/learn/data-reconciliation",
     "pass": 3,
     "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本稿は、VTuberやVSinger、バーチャルタレントのマネジメントについて、筆者自身の実務経験と、一般的なマネジメント論・組織論・公的資料を照らし合わせながら整理したものです",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一部のVTuber事務所が公表している採用情報やインタビューでも、タレントマネージャーの役割はスケジュール管理だけに限定されていません",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本章の法制度に関する記述は、総務省・法務省などの公的資料を優先し、最新情報を確認してください",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本稿では、筆者自身の実務経験に加えて、以下の書籍、論文、公的資料、業界各社の公開情報を参考にしました",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "COVER株式会社 採用情報「Talent Management」",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 効果は、おおまかには「AIを使える範囲 × 推奨が採用される割合 × 採用された推奨が判定基準に合う割合 × 一件あたりの改善幅」",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- AIの推奨が採用される割合は、高いほど良いとは限りません",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、一件あたりの改善幅が4ポイントで、すべての案件にAIを使えるなら、「推奨が採用される割合 × 採用された推奨が判定基準に合う割合」が約65%以上必要になる（2.6ポイント÷4ポイント）",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "推奨が採用されなければ効果はないが、採用率だけを上げても、一件あたりの改善幅が小さければ目標に届かない",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIの推奨の採用率を、高いほど良いものとして目標にしてしまう：上限の目安を置き、採用率と一件あたりの改善幅を合わせて見る",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公的なデータを使っていることは、出どころを確認するうえで重要です",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2021年4月の解説書では、前者は2010〜2018年を統計期間とする1kmメッシュの月平均推定値、後者は全国835地点の代表年の毎時推定値として説明されています",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここで大切なのは、公的データだから疑わしいと考えることでも、古い統計期間があるから使えないと決めることでもありません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "全天日射量については、日照時間のメッシュ平年値から統計的な関係で推定する旨が説明されています",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "採用理由と代替地点を残し、差が判断に影響するかを調べます",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "必要なのは、提供主体、資料名・版、取得日、対象地点、統計期間、時間幅、単位、欠測の扱い、加工内容です",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ファイル名だけではなく、ダウンロード元と採用理由も添えます",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計期間と選び方が違えば意味も変わるためです",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方、載せられる枚数が多いから採用するとも限りません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "測定方法と採用した向きを設計担当者に確認します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まだ構造確認ができていない案は「発電量は計算できたが採用可否は未確定」と扱います",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "初期概算で一律率を使うなら、その仮定が採用判断を左右するかを感度分析します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本稿第10章もこの簡略化を採用しており、実機設計の判断には使えません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "影の不確実性が大きく、調査もできない場合は、楽観値だけで契約を進めず、保守的な条件でも採用するかを検討します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実機を比較する場合は、採用する型式のデータシートにある係数と、その定義を確認します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ノイズの大きさを把握しないまま統計的な検定にかけても、結果の解釈は安定しません",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外れ値の処理には、統計的な基準と業務的な妥当性の両面からの判断が必要です",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "国民経済計算（国の経済統計）では、概念上は一致するはずの支出側と生産側の国内総生産の推計値の乖離を「統計上の不突合」と呼びます",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "メール添付のPDF、郵送の紙、取引先のWeb明細",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3帳票のPDF・画像",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF・15ページ",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最初に行うのは、紙やPDFの帳票を表のデータに変えることです",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "COMPANY PROFILE ／ PDF 全46ページ",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Banks reconcile millions of transactions daily across core banking systems, payment networks, trading platforms, and regulatory reports. Reconciliation ensures that settlements match, accounts balance, and regulatory filings are accurate.",
+    "url": "https://performalytic.com/blog/data-reconciliation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 2,
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jack4manastalk/n/nae5c1f7c390a",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nob75note/n/n052803f42d1f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_flea8708/n/n26c2ceb2e79a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/kpi-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vald_jp/n/n336bf79b1d01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dsk-cloud.com/blog/basic-knowledge-and-benefits-with-kpi-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ns-japan.com/media/guide/new-business-kpi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/articles/point-cloud-fusion-accuracy3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amed.go.jp/content/000034153.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.videor.co.jp/digestplus/article/ad-marketing240731.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tazna.io/news/data-assessment",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/05-Shingikai-11901000-Koyoukintoujidoukateikyoku-Soumuka/0000029840.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://start-link.jp/hubspot-ai/dx/dx-strategy/dx-effectiveness-measurement-kpi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.niigata.lg.jp/shisei/gyoseiunei/gyoseihyoka/oyake/oyakeshisetsu/chokuei/index.files/sihyosettei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://a-x.inc/blog/ai-data-matching-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://performalytic.com/blog/data-reconciliation-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onetribeadvisory.com/knowledge-hub/single-source-of-truth-finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://montecarlo.ai/blog-data-reconciliation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.irion-edm.com/data-management-insight/data-reconciliation-what-it-is-why-it-matters-how-to-get-started-and-how-it-differs-from-data-validation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datafold.com/blog/data-reconciliation-best-practices/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） site:note.com",
+   "results": [
+    "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "https://note.com/jack4manastalk/n/nae5c1f7c390a",
+    "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "https://note.com/nob75note/n/n052803f42d1f",
+    "https://note.com/modern_flea8708/n/n26c2ceb2e79a",
+    "https://note.com/mototchen/n/nc0bb8247ad0e",
+    "https://note.com/modern_flea8708/n/n4e4fbe37f79b",
+    "https://note.com/reading_monkey/n/n9010c821e570",
+    "https://note.com/modern_flea8708/n/n13cf159d4ee6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） note",
+   "results": [
+    "https://data-viz-lab.com/kpi-data",
+    "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "https://note.com/vald_jp/n/n336bf79b1d01",
+    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "https://www.dsk-cloud.com/blog/basic-knowledge-and-benefits-with-kpi-analysis",
+    "https://lefixea.jp/articles/point-cloud-fusion-accuracy3",
+    "https://note.com/isdataconsulting/n/n317e99558c60",
+    "https://start-link.jp/hubspot-ai/dx/dx-strategy/dx-effectiveness-measurement-kpi",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） やり方",
+   "results": [
+    "https://data-viz-lab.com/kpi-data",
+    "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "https://ns-japan.com/media/guide/new-business-kpi/",
+    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "https://lefixea.jp/articles/point-cloud-fusion-accuracy3",
+    "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
+    "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.videor.co.jp/digestplus/article/ad-marketing240731.html",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） 事例",
+   "results": [
+    "https://data-viz-lab.com/kpi-data",
+    "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://tazna.io/news/data-assessment",
+    "https://www.mhlw.go.jp/file/05-Shingikai-11901000-Koyoukintoujidoukateikyoku-Soumuka/0000029840.pdf",
+    "https://start-link.jp/hubspot-ai/dx/dx-strategy/dx-effectiveness-measurement-kpi",
+    "https://www.city.niigata.lg.jp/shisei/gyoseiunei/gyoseihyoka/oyake/oyakeshisetsu/chokuei/index.files/sihyosettei.pdf",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "data reconciliation single source of truth per metric tolerance thresholds discrepancy log",
+   "results": [
+    "https://performalytic.com/blog/data-reconciliation-guide/",
+    "https://www.onetribeadvisory.com/knowledge-hub/single-source-of-truth-finance/",
+    "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "https://montecarlo.ai/blog-data-reconciliation",
+    "https://www.irion-edm.com/data-management-insight/data-reconciliation-what-it-is-why-it-matters-how-to-get-started-and-how-it-differs-from-data-validation/",
+    "https://www.datafold.com/blog/data-reconciliation-best-practices/",
+    "https://www.tricentis.com/learn/data-reconciliation",
+    "https://dqops.com/docs/categories-of-data-quality-checks/how-to-reconcile-data-and-detect-differences/",
+    "https://quix.io/glossary/data-reconciliation/",
+    "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
+   "results": [
+    "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "https://note.com/clever_shark607/n/n5e5c26a0d6a5",
+    "https://note.com/pure_hyssop2167/n/ndac7dd6807ed",
+    "https://note.com/humble_loris7474/n/n9d9b343298d2",
+    "https://note.com/otankonash/n/neb75e47be05e",
+    "https://note.com/mizuame_yukina26/n/n0a6f988f6572",
+    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
+    "https://note.com/poka_nero/n/n85048bd7be59"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
+   "results": [
+    "https://x.com/otemachiprep/status/2093597522199544221",
+    "https://x.com/f8q75wzwaibw/status/2077226401493819410",
+    "https://x.com/AIjitan_sokuhou/status/2117953794822508873",
+    "https://x.com/kaji_dx/status/2112098937251467322",
+    "https://x.com/tsuntsun2914/status/2065335458033516717",
+    "https://x.com/223Works0709/status/2106508522888532213",
+    "https://x.com/migiude_ai/status/2111250560401965164"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
+   "results": [
+    "https://jp.linkedin.com/pulse/measuring-data-quality-metrics-kpis-robert-seltzer-fgu9c?tl=ja",
+    "https://jp.linkedin.com/learning/marketing-foundations-analytics-27974673/4094008",
+    "https://jp.linkedin.com/pulse/building-strong-data-governance-program-part-3-kpis-lippisch-cipm-qofmc?tl=ja",
+    "https://jp.linkedin.com/pulse/making-improvements-through-data-driven-quality-metrics-joshua-chezum-bgalc?tl=ja",
+    "https://jp.linkedin.com/pulse/building-trust-data-step-by-step-guide-implementing-chetna-chaudhari-28hwc?tl=ja",
+    "https://jp.linkedin.com/learning/leading-projects-2/2359645",
+    "https://jp.linkedin.com/pulse/your-metrics-need-strategy-aligning-data-business-goals-lucio-chen-hkbwc?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
+   "results": [
+    "https://www.facebook.com/hkn.jp/videos/認定代理店座談会認定を取った代理店は組織の何を変えたかーー-モニタリング不備管理証跡設計の実務を社長と現場管理者が語るーー/4510083399277393/",
+    "https://www.facebook.com/eiichiro49/posts/施設基準比較アプリ最新データに更新しました2026年7月1日8月1日届出分を反映していますそして今回待望の新機能を追加しました自院の名前を入れるだけで届出できそ/28241020562201302/",
+    "https://www.facebook.com/shikigaku2015/videos/経営者向け社員が納得する評価制度/2029072644538565/",
+    "https://www.facebook.com/bugyo.obc/videos/電卓での検算まだ続けますか/1467398958506860/",
+    "https://www.facebook.com/shigeyo.tomo/videos/選ぶ基準値は指標は自分軸でありベクトル相手でもあるどんな基準値で誰のために判断するのかここがしっかりとあることが判断軸の土台ですこのアカウントでは長年サラリーマ/1569069634950708/",
+    "https://www.facebook.com/soficojapan/videos/導入事例札幌レンタリース様/1776885310016868/",
+    "https://www.facebook.com/KPMG.JP/photos/必見ifrs-18実践ポイント-第8回ifrsr会計基準適用企業はifrs第18号の適用に向け検討を進めています本解説シリーズではifrs第18号の主な留意点を/1283073440506517/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） note 社長",
+   "results": [
+    "https://data-viz-lab.com/kpi-data",
+    "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "https://note.com/isdataconsulting/n/n317e99558c60",
+    "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "https://note.com/tsysk/n/n92936b747c47",
+    "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
+    "https://tazna.io/news/data-assessment",
+    "https://start-link.jp/hubspot-ai/dx/dx-strategy/dx-effectiveness-measurement-kpi",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） X 投稿",
+   "results": [
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://developers.google.com/meridian/docs/post-modeling/interpret-visualizations?hl=ja",
+    "https://www.videor.co.jp/digestplus/article/ad-marketing240731.html",
+    "https://ferret-one.com/blog/marketing-effectiveness-measurement",
+    "https://www.nttcoms.com/service/social/column/sns-kpi/",
+    "https://asana.com/ja/resources/social-media-metrics",
+    "https://ferret-plus.com/5348",
+    "https://www.icrossborderjapan.com/blog/archives/17416/",
+    "https://support.google.com/analytics/answer/9355664?hl=ja",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "data reconciliation single source of truth per metric tolerance thresholds discrepancy log site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/stop-polling-your-database-building-real-time-cdc-kafka-kunal-agrawal-yqarf",
+    "https://www.linkedin.com/pulse/how-achieve-better-data-management-your-advisory-vypwe",
+    "https://www.linkedin.com/posts/fezza_if-your-gtm-reporting-is-a-mess-but-you-arent-activity-7510338756114292736-mlFl",
+    "https://www.linkedin.com/in/dougschiller",
+    "https://www.linkedin.com/in/prithvi-gude",
+    "https://www.linkedin.com/pulse/autonomous-financial-close-reimagining-corporate-age-andre-ctcle",
+    "https://www.linkedin.com/pulse/integrating-data-governance-master-management-vijay-idutc",
+    "https://www.linkedin.com/in/josephlmann",
+    "https://www.linkedin.com/top-content/project-management/optimizing-workflow-processes/how-to-streamline-operational-systems/",
+    "https://np.linkedin.com/in/sujan-gyawali-700b78176"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {},
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-07T22:00:52.267206+00:00"
 }

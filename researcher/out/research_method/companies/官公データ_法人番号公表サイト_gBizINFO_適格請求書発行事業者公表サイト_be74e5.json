@@ -8,9 +8,99 @@
  ],
  "context": "名寄せ",
  "kind": "market",
- "researched_at": "2026-11-08T05:00:41.285457+00:00",
+ "researched_at": "2026-11-08T11:29:18.145487+00:00",
  "evidence": {
   "一次情報の探し方": [
+   {
+    "quote": "地図、統計、気象、防災、不動産、企業情報、医療、交通、文化財、研究データ、法令、調達情報、衛星データ、地盤、3D都市モデルまで、普段のWebサービス開発やAIアプリ、BIダッシュボード、GIS分析にそのまま使える素材がゴロゴロ転がっています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3. e-Stat API",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4. 統計LOD",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "6. 統計GIS・境界データ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "30. 統計ダッシュボード",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "42. エネルギー消費統計調査",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "88. 財務省貿易統計",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "89. 国民経済計算 / GDP統計",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "91. 日本銀行 時系列統計データAPI",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "13. 登記所備付地図データ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14. mojxml2geojson（登記所備付地図データ変換コンバータ）",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "22. 交通事故統計情報のオープンデータ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "23. 犯罪統計",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "50. mojxml2geojson（登記所備付地図データ変換コンバータ）",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "各データセットのページではCSV・Excel・PDFなど実データファイルへの直接リンクや更新履歴が確認でき、ダウンロードに会員登録は不要です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "資本金・従業員数・届出/認定・財務・特許・補助金など",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
@@ -30,7 +120,171 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ここで一つ注意したいのが、個々のリソース（実データ）には提供元省庁ごとに別のライセンスが指定されている場合があること",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "注意点として、第三者が著作権等を有するコンテンツが含まれる場合は利用者側で許諾取得の責任を負います",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここで一つ注意しておきたいのが、同じ調査項目でも調査年によって集計区分や項目名が変わることがある点",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここが要注意ポイントで、データによって整備年度・更新頻度が異なるので、利用前に各データの仕様書に目を通しておくと後で困りません",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここは少し注意が必要で、基盤地図情報は測量法上の「基本測量成果」に該当するため、複製・使用にあたって測量法に基づく申請が必要な場合があります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここは実務で効いてくる注意点ですが、市町村ごとに登録・更新されるため、地域によってデータの整備状況や更新時期に差があります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つ注意したいのが入手経路で、データは法務省のページからではなく、外部の「Ｇ空間情報センター」（",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここが落とし穴になりがちで、座標は公共測量座標系で記録されているため、緯度経度（JGD2011）で扱うには変換処理が必要です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中心となるのは気象庁防災情報XMLフォーマットで、警報・注意報や地震・津波情報などをXMLのスキーマに沿って構造化したデータです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "気象警報・注意報、地震情報、津波情報、台風情報、火山情報などの防災気象情報を、機械可読なXML形式の電文として配信するサービスです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし一点注意で、加工せずにファイルをそのまま複製して第三者へ配布するのは禁止されており、販売目的の商用利用は事前の問い合わせが必要です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一点注意なのが、個人が特定されないよう件数が少ないセルは秘匿処理（マスキング）されていること",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ひとつ落とし穴として、オープンカウンタ（少額）案件のうち個人事業主が落札した案件は収録対象外になっている点は、分析の前提として頭に入れておいたほうがいいです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし連携する外部データベースごとにメタデータ項目の粒度が違う場合があるので、そこは横断利用時の注意点です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここが要注意で、連携先機関ごとに個別の利用条件が設定されている場合があるため、実際に取得した資料・画像を二次利用するときは各資料の詳細ページに書かれた権利情報も併せて確認してください",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "突き合わせ・推定": [
+   {
+    "quote": "それぞれ対応する統計データ側の地域コードと突き合わせて使う設計です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "都道府県・年度を指定してCSV形式でダウンロードし、住所文字列と緯度経度を突き合わせるジオコーディング用の参照データとして使います",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "防災情報XML電文やアメダス観測データのCSV、数値予報のGPVサンプル、GISで使えるシェープファイル、多言語辞書のExcelデータなど、開発者が実装検証に使えるサンプルデータや仕様書がまとめて置いてあるので、実装の下調べにちょうどいいです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ポータル上のカテゴリー（防災情報、観測データ、予報データなど）からフォーマット仕様書とサンプルファイルを閲覧・ダウンロードして、自社システムでのパース処理やAPI連携を検証できます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "情報種別ごとにXMLスキーマ（XSD）が定義されているので、技術資料ページからスキーマファイルやサンプル電文を入手して実装検証ができます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "住所入力フォームの自動補完、物流・配送システムでの住所照合、地理空間データとの結合による地域分析まで、用途はほんとに幅広いです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "住所と地図上の位置を対応付けるジオコーディングの基礎データとして、防災システムや、住所情報の整備・検証作業に使われています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "学校基本調査など他統計のデータと突き合わせる際のキー項目として活用するのが本来の役割です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "速報性重視の「四半期別GDP速報（QE）」、より包括的な「国民経済計算年次推計」、そして「民間企業資本ストック」の3系統で構成されていて、e-Stat上では1万件超のファイルが公開されています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "e-Statのファイル検索画面（toukei=00100409）から、四半期別GDP速報・年次推計・資本ストックのいずれかを選び、年度・四半期・系列を指定してCSV/Excel/データベース形式でダウンロードします",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "手元の顧客リストと官公データを名前で突き合わせると、表記ゆれと同名他社で破綻します",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
@@ -82,6 +336,96 @@
   ],
   "実例": [
    {
+    "quote": "個人的に気に入っているのは、単なるファイル置き場ではない点で、複数データセットをテーマ別にまとめた「ショーケース」や、利用者による評価・意見・活用事例の投稿機能まで備えているところです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ショーケース機能が地味に便利で、例えば「防災」「観光」といったテーマに沿って複数省庁のデータを横断的に拾えるので、政策分野をまたいだ調査には向いています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データセットごとに投稿されたユーザーの活用事例を読むと、実際の分析・可視化のヒントが得られることも多いです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データセットオブジェクトには名称・説明・更新履歴・検索結果などが含まれ、リソースオブジェクトにはファイル形式やライセンス情報などのメタデータが入っています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サイト内の「SPARQL APIの概要」ページでAPI経由でのクエリ発行方法が、「SPARQL Queryのサンプル」ページで具体的なクエリ例が提供されているので、初めてなら、まずサンプルクエリをそのままエンドポイントに投げて結果の形式を確認するのが近道です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "プログラムからは、HTTP経由でSPARQLクエリ文字列をPOST/GETし、JSON形式で結果を受け取ってPythonの",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ファイルはExcel・CSV・PDF・データベース形式でダウンロードでき、例えば市区町村別の人口ピラミッドを作りたいなら「年齢（5歳階級）、男女別人口」の表を市区町村単位で取ればOKです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "不動産情報ライブラリのAPI群のうち「不動産価格（取引価格・成約価格）情報取得API」（XIT001）として提供されていて、ポイントは、地価公示のような公的評価額ではなく実勢の取引事例ベースの価格情報だということ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "で連結したURLにGETを投げるだけで結果が返ります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "平成25年度以降から直近までの落札結果をCSVで落とせるので、行政の調達動向や取引実績の分析に使えます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データはUTF-8（BOM付き）のCSVで、案件名、発注機関、落札者名、落札金額、契約締結日などの落札結果に関する項目が入っています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "複雑な条件でのセマンティック検索をやりたいならSPARQLエンドポイント、とりあえず手軽にキーワード検索結果を取りたいなら簡易Web API、というのが個人的な使い分けの目安です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索結果はcontent negotiationで、HTTPヘッダでRDFやJSON-LDを指定して取得形式を切り替えられます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "植生図、動植物分布調査、干潟・藻場・サンゴ礁分布、河川・湖沼の環境情報など、日本全国の自然環境に関する基礎的な調査結果を収録しています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "各レイヤーの実体は、環境省や関係機関の調査結果をもとにしたポリゴン・ポイントデータだと思ってもらえれば",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
     "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
     "pass": 3,
@@ -106,21 +450,97 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "quote": "84. 新型コロナウイルス感染症オープンデータ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "quote": "67. ごみの分別方法一覧",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
     "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "使い方はシンプルで、トップページの検索窓にキーワードを入れるか、カテゴリ・組織・タグから絞り込んでデータセットを探す、という流れ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "個人的にありだと思うのは、このAPIを定期的にポーリングして、特定省庁や特定カテゴリのデータセットが新規追加・更新されたのを検知する監視スクリプトを組む、といった使い方ですね",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サイト内の「SPARQL APIの概要」ページでAPI経由でのクエリ発行方法が、「SPARQL Queryのサンプル」ページで具体的なクエリ例が提供されているので、初めてなら、まずサンプルクエリをそのままエンドポイントに投げて結果の形式を確認するのが近道です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本格的に使うときは、小地域や地域メッシュ単位の統計データと、それに対応する境界データ（シェープファイル等）を別々にダウンロードして、統計データ側の地域コードで両者を紐づけてGISソフト上に表示する、という手順になります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "位置座標が付いているので、GISソフトやWeb地図に読み込んでハザードマップと重ね合わせたり、避難所検索アプリの基礎データとして組み込んだり、という使い方が定番です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（補足: 後述の項目50も同一リポジトリを指していますが、そちらはインストール手順やDocker実行など操作面に焦点を当てて解説しています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サイト上で「地点を選ぶ」「項目を選ぶ」「期間を選ぶ」「表示・ダウンロード」の4ステップを画面上で操作するだけでデータが取れます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "防災情報XMLは「PULL型」で提供されているので、事前のユーザー登録なしに任意のタイミングで最新の電文を取得する実装が可能です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現在はユーザー登録不要の「PULL型」のみで提供されていて、公開されているアトムフィードを任意のタイミングでポーリングして最新の電文を取得する実装になります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここは既存システムの移行で引っかかりやすいポイントですが、旧来のPUSH型配信は2020年9月1日をもって終了しているため、PUSH型を前提にしているシステムは改修が必要です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "天候、路面状態、道路形状、事故類型などの項目は数値コードで格納されているため、コード表を引きながら意味を復元する設計になっています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "クレジット表示の具体的な方法は、ODPT開発者サイトのFAQページ（",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお本記事の項目14と同じリポジトリを扱っていますが、こっちではインストール・実行方法やDocker利用など、操作面を中心にまとめています（内容の重複が気になる場合は項目14とあわせて参照してください）",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順｜ゴムマリ",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
@@ -222,44 +642,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "url": "https://gomumari.com/download/public-data-company-list-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.invoice-kohyo.nta.go.jp/",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://disclosure2.edinet-fsa.go.jp/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.fsa.go.jp/search/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://companiesdata.cloud/open-company-data-japan.html",
@@ -267,7 +657,12 @@
     "method": "http"
    },
    {
-    "url": "https://otwarteapi.pl/en/gbizinfo",
+    "url": "https://english.kyodonews.net/articles/-/88698",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://english.news.cn/asiapacific/20261031/4f53688e2952463c9d66e4b0a9c7964f/c.html",
     "status": "ok",
     "method": "http"
    },
@@ -277,17 +672,12 @@
     "method": "http"
    },
    {
-    "url": "https://codigital.co.jp/en/posts/how-to-search-company-registry-in-japan",
+    "url": "https://japannews.yomiuri.co.jp/society/general-news/20261030-356515/",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://regbase.jp/en/guides/gbizinfo-japanese-company-profile",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://lemreveal.com/data/japan",
+    "url": "https://asianews.network/japan-government-system-hit-by-cyberattack-246000-personal-records-may-have-been-leaked/",
     "status": "ok",
     "method": "http"
    }
@@ -298,86 +688,62 @@
    "query": "官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活 site:note.com",
    "results": [
     "https://gomumari.com/knowledge/koukou-data-list/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www.invoice-kohyo.nta.go.jp/",
-    "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
-    "https://www.fsa.go.jp/search/",
-    "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
+    "https://gomumari.com/download/public-data-company-list-guide/",
+    "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 3
   },
   {
    "query": "官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活 note",
    "results": [
     "https://gomumari.com/knowledge/koukou-data-list/",
-    "https://www.invoice-kohyo.nta.go.jp/",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "https://www.fsa.go.jp/search/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
-    "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
+    "https://gomumari.com/download/public-data-company-list-guide/",
+    "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 3
   },
   {
    "query": "官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活 やり方",
    "results": [
     "https://gomumari.com/knowledge/koukou-data-list/",
-    "https://www.invoice-kohyo.nta.go.jp/",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "https://www.fsa.go.jp/search/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
-    "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
+    "https://gomumari.com/download/public-data-company-list-guide/",
+    "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 3
   },
   {
    "query": "官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活 事例",
    "results": [
     "https://gomumari.com/knowledge/koukou-data-list/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www.invoice-kohyo.nta.go.jp/",
-    "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
-    "https://www.fsa.go.jp/search/",
-    "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
+    "https://gomumari.com/download/public-data-company-list-guide/",
+    "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 3
   },
   {
    "query": "government open data company list houjin bangou gBizINFO closed relocated duplicate cleanup",
    "results": [
     "https://companiesdata.cloud/open-company-data-japan.html",
-    "https://otwarteapi.pl/en/gbizinfo",
+    "https://english.kyodonews.net/articles/-/88698",
+    "https://english.news.cn/asiapacific/20261031/4f53688e2952463c9d66e4b0a9c7964f/c.html",
     "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://japannews.yomiuri.co.jp/society/general-news/20261030-356515/",
+    "https://asianews.network/japan-government-system-hit-by-cyberattack-246000-personal-records-may-have-been-leaked/",
     "https://codigital.co.jp/en/posts/how-to-search-company-registry-in-japan",
-    "https://regbase.jp/en/guides/gbizinfo-japanese-company-profile",
-    "https://lemreveal.com/data/japan",
-    "https://catalog.data.gov/?keyword=companies",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www.prometiam.com/guides/japan-company-data-api"
+    "https://www.businessdataguide.com/blog/jurisdictions/japan-company-search-guide",
+    "https://engoo.com.tw/app/daily-news/article/japan-struggles-to-respond-to-cascade-of-data-leaks/_RSsWtKjEfG7XGPX5StsBQ"
    ],
    "engines": [
     "yahoo_jp"
@@ -412,48 +778,36 @@
    "query": "官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活 note 社長",
    "results": [
     "https://gomumari.com/knowledge/koukou-data-list/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www.invoice-kohyo.nta.go.jp/",
-    "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
-    "https://www.fsa.go.jp/search/",
-    "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
+    "https://gomumari.com/download/public-data-company-list-guide/",
+    "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 3
   },
   {
    "query": "官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活 X 投稿",
    "results": [
     "https://gomumari.com/knowledge/koukou-data-list/",
-    "https://www.invoice-kohyo.nta.go.jp/",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "https://www.fsa.go.jp/search/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
-    "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
+    "https://gomumari.com/download/public-data-company-list-guide/",
+    "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 3
   },
   {
    "query": "government open data company list houjin bangou gBizINFO closed relocated duplicate cleanup site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/company/houjin-bangou",
     "https://www.linkedin.com/company/opengov-inc",
+    "https://www.linkedin.com/company/houjin-bangou",
     "https://in.linkedin.com/directory/companies",
     "https://sg.linkedin.com/company/opengovsg",
     "https://nz.linkedin.com/company/fluor-bwxt-portsmouth",
-    "https://in.linkedin.com/company/globaldataplc",
-    "https://www.linkedin.com/directory/companies"
+    "https://www.linkedin.com/directory/companies",
+    "https://www.linkedin.com/posts/gary-johal_governmentframeworks-duplication-digitaltransformation-activity-7428234030640451584-7neM"
    ],
    "engines": [
     "ddgs:bing"
@@ -462,7 +816,438 @@
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 5,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "地図、統計、気象、防災、不動産、企業情報、医療、交通、文化財、研究データ、法令、調達情報、衛星データ、地盤、3D都市モデルまで、普段のWebサービス開発やAIアプリ、BIダッシュボード、GIS分析にそのまま使える素材がゴロゴロ転がっています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3. e-Stat API",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4. 統計LOD",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "6. 統計GIS・境界データ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "30. 統計ダッシュボード",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "42. エネルギー消費統計調査",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "88. 財務省貿易統計",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "89. 国民経済計算 / GDP統計",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "91. 日本銀行 時系列統計データAPI",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "13. 登記所備付地図データ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14. mojxml2geojson（登記所備付地図データ変換コンバータ）",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "22. 交通事故統計情報のオープンデータ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "23. 犯罪統計",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "50. mojxml2geojson（登記所備付地図データ変換コンバータ）",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "各データセットのページではCSV・Excel・PDFなど実データファイルへの直接リンクや更新履歴が確認でき、ダウンロードに会員登録は不要です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ここで一つ注意したいのが、個々のリソース（実データ）には提供元省庁ごとに別のライセンスが指定されている場合があること",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "注意点として、第三者が著作権等を有するコンテンツが含まれる場合は利用者側で許諾取得の責任を負います",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここで一つ注意しておきたいのが、同じ調査項目でも調査年によって集計区分や項目名が変わることがある点",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここが要注意ポイントで、データによって整備年度・更新頻度が異なるので、利用前に各データの仕様書に目を通しておくと後で困りません",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここは少し注意が必要で、基盤地図情報は測量法上の「基本測量成果」に該当するため、複製・使用にあたって測量法に基づく申請が必要な場合があります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここは実務で効いてくる注意点ですが、市町村ごとに登録・更新されるため、地域によってデータの整備状況や更新時期に差があります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一つ注意したいのが入手経路で、データは法務省のページからではなく、外部の「Ｇ空間情報センター」（",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここが落とし穴になりがちで、座標は公共測量座標系で記録されているため、緯度経度（JGD2011）で扱うには変換処理が必要です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中心となるのは気象庁防災情報XMLフォーマットで、警報・注意報や地震・津波情報などをXMLのスキーマに沿って構造化したデータです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "気象警報・注意報、地震情報、津波情報、台風情報、火山情報などの防災気象情報を、機械可読なXML形式の電文として配信するサービスです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし一点注意で、加工せずにファイルをそのまま複製して第三者へ配布するのは禁止されており、販売目的の商用利用は事前の問い合わせが必要です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一点注意なのが、個人が特定されないよう件数が少ないセルは秘匿処理（マスキング）されていること",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ひとつ落とし穴として、オープンカウンタ（少額）案件のうち個人事業主が落札した案件は収録対象外になっている点は、分析の前提として頭に入れておいたほうがいいです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし連携する外部データベースごとにメタデータ項目の粒度が違う場合があるので、そこは横断利用時の注意点です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここが要注意で、連携先機関ごとに個別の利用条件が設定されている場合があるため、実際に取得した資料・画像を二次利用するときは各資料の詳細ページに書かれた権利情報も併せて確認してください",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "それぞれ対応する統計データ側の地域コードと突き合わせて使う設計です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "都道府県・年度を指定してCSV形式でダウンロードし、住所文字列と緯度経度を突き合わせるジオコーディング用の参照データとして使います",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "防災情報XML電文やアメダス観測データのCSV、数値予報のGPVサンプル、GISで使えるシェープファイル、多言語辞書のExcelデータなど、開発者が実装検証に使えるサンプルデータや仕様書がまとめて置いてあるので、実装の下調べにちょうどいいです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ポータル上のカテゴリー（防災情報、観測データ、予報データなど）からフォーマット仕様書とサンプルファイルを閲覧・ダウンロードして、自社システムでのパース処理やAPI連携を検証できます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "情報種別ごとにXMLスキーマ（XSD）が定義されているので、技術資料ページからスキーマファイルやサンプル電文を入手して実装検証ができます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "住所入力フォームの自動補完、物流・配送システムでの住所照合、地理空間データとの結合による地域分析まで、用途はほんとに幅広いです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "住所と地図上の位置を対応付けるジオコーディングの基礎データとして、防災システムや、住所情報の整備・検証作業に使われています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "学校基本調査など他統計のデータと突き合わせる際のキー項目として活用するのが本来の役割です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "速報性重視の「四半期別GDP速報（QE）」、より包括的な「国民経済計算年次推計」、そして「民間企業資本ストック」の3系統で構成されていて、e-Stat上では1万件超のファイルが公開されています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "e-Statのファイル検索画面（toukei=00100409）から、四半期別GDP速報・年次推計・資本ストックのいずれかを選び、年度・四半期・系列を指定してCSV/Excel/データベース形式でダウンロードします",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "個人的に気に入っているのは、単なるファイル置き場ではない点で、複数データセットをテーマ別にまとめた「ショーケース」や、利用者による評価・意見・活用事例の投稿機能まで備えているところです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ショーケース機能が地味に便利で、例えば「防災」「観光」といったテーマに沿って複数省庁のデータを横断的に拾えるので、政策分野をまたいだ調査には向いています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データセットごとに投稿されたユーザーの活用事例を読むと、実際の分析・可視化のヒントが得られることも多いです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データセットオブジェクトには名称・説明・更新履歴・検索結果などが含まれ、リソースオブジェクトにはファイル形式やライセンス情報などのメタデータが入っています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サイト内の「SPARQL APIの概要」ページでAPI経由でのクエリ発行方法が、「SPARQL Queryのサンプル」ページで具体的なクエリ例が提供されているので、初めてなら、まずサンプルクエリをそのままエンドポイントに投げて結果の形式を確認するのが近道です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "プログラムからは、HTTP経由でSPARQLクエリ文字列をPOST/GETし、JSON形式で結果を受け取ってPythonの",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ファイルはExcel・CSV・PDF・データベース形式でダウンロードでき、例えば市区町村別の人口ピラミッドを作りたいなら「年齢（5歳階級）、男女別人口」の表を市区町村単位で取ればOKです",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "不動産情報ライブラリのAPI群のうち「不動産価格（取引価格・成約価格）情報取得API」（XIT001）として提供されていて、ポイントは、地価公示のような公的評価額ではなく実勢の取引事例ベースの価格情報だということ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "で連結したURLにGETを投げるだけで結果が返ります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "平成25年度以降から直近までの落札結果をCSVで落とせるので、行政の調達動向や取引実績の分析に使えます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データはUTF-8（BOM付き）のCSVで、案件名、発注機関、落札者名、落札金額、契約締結日などの落札結果に関する項目が入っています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "複雑な条件でのセマンティック検索をやりたいならSPARQLエンドポイント、とりあえず手軽にキーワード検索結果を取りたいなら簡易Web API、というのが個人的な使い分けの目安です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "検索結果はcontent negotiationで、HTTPヘッダでRDFやJSON-LDを指定して取得形式を切り替えられます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "植生図、動植物分布調査、干潟・藻場・サンゴ礁分布、河川・湖沼の環境情報など、日本全国の自然環境に関する基礎的な調査結果を収録しています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "各レイヤーの実体は、環境省や関係機関の調査結果をもとにしたポリゴン・ポイントデータだと思ってもらえれば",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "84. 新型コロナウイルス感染症オープンデータ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "67. ごみの分別方法一覧",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "使い方はシンプルで、トップページの検索窓にキーワードを入れるか、カテゴリ・組織・タグから絞り込んでデータセットを探す、という流れ",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "個人的にありだと思うのは、このAPIを定期的にポーリングして、特定省庁や特定カテゴリのデータセットが新規追加・更新されたのを検知する監視スクリプトを組む、といった使い方ですね",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サイト内の「SPARQL APIの概要」ページでAPI経由でのクエリ発行方法が、「SPARQL Queryのサンプル」ページで具体的なクエリ例が提供されているので、初めてなら、まずサンプルクエリをそのままエンドポイントに投げて結果の形式を確認するのが近道です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本格的に使うときは、小地域や地域メッシュ単位の統計データと、それに対応する境界データ（シェープファイル等）を別々にダウンロードして、統計データ側の地域コードで両者を紐づけてGISソフト上に表示する、という手順になります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "位置座標が付いているので、GISソフトやWeb地図に読み込んでハザードマップと重ね合わせたり、避難所検索アプリの基礎データとして組み込んだり、という使い方が定番です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（補足: 後述の項目50も同一リポジトリを指していますが、そちらはインストール手順やDocker実行など操作面に焦点を当てて解説しています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サイト上で「地点を選ぶ」「項目を選ぶ」「期間を選ぶ」「表示・ダウンロード」の4ステップを画面上で操作するだけでデータが取れます",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "防災情報XMLは「PULL型」で提供されているので、事前のユーザー登録なしに任意のタイミングで最新の電文を取得する実装が可能です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現在はユーザー登録不要の「PULL型」のみで提供されていて、公開されているアトムフィードを任意のタイミングでポーリングして最新の電文を取得する実装になります",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここは既存システムの移行で引っかかりやすいポイントですが、旧来のPUSH型配信は2020年9月1日をもって終了しているため、PUSH型を前提にしているシステムは改修が必要です",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "天候、路面状態、道路形状、事故類型などの項目は数値コードで格納されているため、コード表を引きながら意味を復元する設計になっています",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "クレジット表示の具体的な方法は、ODPT開発者サイトのFAQページ（",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお本記事の項目14と同じリポジトリを扱っていますが、こっちではインストール・実行方法やDocker利用など、操作面を中心にまとめています（内容の重複が気になる場合は項目14とあわせて参照してください）",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 6,
  "first_researched_at": "2026-11-07T06:02:13.529796+00:00"
 }

@@ -8,7 +8,7 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-08T04:43:34.573541+00:00",
+ "researched_at": "2026-11-08T11:26:10.959927+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -163,6 +163,230 @@
    },
    {
     "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "The ER-Evaluation user guide states around 400 resolved entities is generally sufficient for accurate performance estimates (snippet only; page was fetch-blocked; verify before treating as settled fact).",
+    "url": "https://generate-data.com/blog/entity-resolution-test-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The ER-Evaluation user guide states that benchmark datasets of around 400 resolved entities are generally sufficient for accurate performance estimates (snippet only; page was fetch-blocked; verify directly). The AWS post notes the set need only be large enough to be representative of the real match distribution (retrieval date 2026-08-01).",
+    "url": "https://generate-data.com/blog/entity-resolution-test-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tain estimates that are representative of the system’s performance on the entire data set, not just the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Estimates (§3.4)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "computed for predictions, while their true value for a ground truth clustering can be estimated using labeled",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "report point estimates rather than variance or significance tests.",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Global Performance Metric Estimates:",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "To obtain estimates of global performance metrics such as pairwise and b-cubed precision and recall",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we express them as weighted aggregates of cluster-wise error metrics. This helps obtain estimates that are representative of the system’s performance on the entire data set, not just the benchmark (section",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we show the estimated numbers of citations to PatentsView in the academic literature over time and by Dewey Decimal subject classification.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Estimated number of citations to PatentsView in academic literature by year.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". These groups are essentially connected components in the graph where the vertices are the records and the edges are the links. To cut costs, Statistics Canada is also considering model-based estimates",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "), or estimated for the unknown ground truth clustering",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "), which then can be estimated in the same way.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "can result in increased accuracy relative to simple random sampling of clusters. In particular, when a cluster-level outcome of interest is correlated with the size of the cluster, the probability proportional to size design offers smaller standard errors in estimates of population quantities",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", and will artificially inflate performance metrics estimates. The correct approach is to first identify entities",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", and performance estimates can be obtained by restricting the sample to this subset. For example, with pairwise precision, this corresponds to estimating the ratio of the number of pairwise links within clusters in",
     "url": "https://arxiv.org/html/2404.05622",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -519,230 +743,6 @@
    },
    {
     "quote": ". To evaluate the entity resolution system, we introduce a methodology that samples clusters",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "The ER-Evaluation user guide states around 400 resolved entities is generally sufficient for accurate performance estimates (snippet only; page was fetch-blocked; verify before treating as settled fact).",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The ER-Evaluation user guide states that benchmark datasets of around 400 resolved entities are generally sufficient for accurate performance estimates (snippet only; page was fetch-blocked; verify directly). The AWS post notes the set need only be large enough to be representative of the real match distribution (retrieval date 2026-08-01).",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "tain estimates that are representative of the system’s performance on the entire data set, not just the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Estimates (§3.4)",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "computed for predictions, while their true value for a ground truth clustering can be estimated using labeled",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "variance of estimated linkage propensities.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "report point estimates rather than variance or significance tests.",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2. Global Performance Metric Estimates:",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "To obtain estimates of global performance metrics such as pairwise and b-cubed precision and recall",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we express them as weighted aggregates of cluster-wise error metrics. This helps obtain estimates that are representative of the system’s performance on the entire data set, not just the benchmark (section",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we show the estimated numbers of citations to PatentsView in the academic literature over time and by Dewey Decimal subject classification.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Estimated number of citations to PatentsView in academic literature by year.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". These groups are essentially connected components in the graph where the vertices are the records and the edges are the links. To cut costs, Statistics Canada is also considering model-based estimates",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "), or estimated for the unknown ground truth clustering",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "), which then can be estimated in the same way.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "can result in increased accuracy relative to simple random sampling of clusters. In particular, when a cluster-level outcome of interest is correlated with the size of the cluster, the probability proportional to size design offers smaller standard errors in estimates of population quantities",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", and will artificially inflate performance metrics estimates. The correct approach is to first identify entities",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", and performance estimates can be obtained by restricting the sample to this subset. For example, with pairwise precision, this corresponds to estimating the ratio of the number of pairwise links within clusters in",
     "url": "https://arxiv.org/html/2404.05622",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1240,6 +1240,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/tnishimaki/n/n6e244572e076",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/mathesispress/n/nee9e33458b88",
     "status": "ok",
     "method": "http"
@@ -1250,7 +1255,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tnishimaki/n/n6e244572e076",
+    "url": "https://note.com/gyoza_tencho/n/n83d24cd7720b",
     "status": "ok",
     "method": "http"
    },
@@ -1260,17 +1265,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/gyoza_tencho/n/n83d24cd7720b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL9n0sMZQ7XJRovSWYSXJS8JO35mEwLGwXnAH8O2eakeYSUZcU_",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vI1IAcBoZ6FkKFvsdQve9EYpAXnWeHOutmv-l0_jY6s_DzgZynT",
     "status": "ok",
     "method": "browser"
    },
@@ -1295,9 +1295,19 @@
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJhv3yleuad9BmGa3yMCjUDEJisVU70IG3bmanM6WykfTCAB7Cv",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLAUMksxRn7HIQcq4qWH_sx27HCWama6zqNW7DsC5Cd217ocvLi",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cysec148.hatenablog.com/entry/2025/03/29/180644",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://techsword.co.jp/column/how-to-evaluate-ai",
@@ -1305,12 +1315,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.m1ke.org/p/%E6%B7%B7%E5%90%8C%E8%A1%8C%E5%88%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
+    "url": "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
     "status": "ok",
     "method": "http"
    },
@@ -1320,17 +1325,12 @@
     "method": "http"
    },
    {
-    "url": "https://qiita.com/ke-suke-Soft/items/4aa992b84a7d250387a4",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJKZsarpLtMr75nzVTUEFJntScNCb3ZU8d3e5PJ5q9KxrLGm2EH",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJmceKZC7afWVuIYrMdgFm8aIf8YLu5XgEo1Q9l0iRfKvgX_LMi",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "url": "https://www.r-jc.jp/news-blog/7106/precision%E9%81%A9%E5%90%88%E7%8E%87%E5%86%8D%E7%8F%BE%E7%8E%87%E6%AD%A3%E8%A7%A3%E7%8E%87f1%E3%81%AE%E9%81%95%E3%81%84%E9%99%BD%E6%80%A71%E3%81%A7%E5%AE%9F%E6%B8%AC/",
     "status": "ok",
     "method": "http"
    },
@@ -1345,12 +1345,12 @@
     "method": "http"
    },
    {
-    "url": "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://corp.omake.co.jp/f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%AF%EF%BC%9F%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E7%B2%BE%E5%BA%A6%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%82%92%E5%AE%8C%E5%85%A8%E8%A7%A3%E8%AA%AC/",
+    "url": "https://qiita.com/mrmrmr/items/5db3ca86039c3f39daf6",
     "status": "ok",
     "method": "http"
    },
@@ -1370,17 +1370,17 @@
     "method": ""
    },
    {
-    "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://medium.com/aimonks/exploring-entity-resolution-techniques-challenges-and-implementation-with-a-synthetic-dataset-d6641a63999e",
+    "url": "https://dl.acm.org/doi/10.1145/3828660",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
+    "url": "https://medium.com/aimonks/exploring-entity-resolution-techniques-challenges-and-implementation-with-a-synthetic-dataset-d6641a63999e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
     "status": "ok",
     "method": "http"
    }
@@ -1391,26 +1391,24 @@
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） site:note.com",
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
+    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/mathesispress/n/nee9e33458b88",
     "https://note.com/gemba_ax_lab/n/nde3469e61df9",
-    "https://note.com/tnishimaki/n/n6e244572e076",
-    "https://note.com/bonobono_107/n/ne56510f7b3a6",
     "https://note.com/gyoza_tencho/n/n83d24cd7720b",
-    "https://note.com/daily_epoch/n/n137102559d8f",
-    "https://note.com/tnishimaki/n/n21f3ffb46dac"
+    "https://note.com/bonobono_107/n/ne56510f7b3a6",
+    "https://note.com/daily_epoch/n/n137102559d8f"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） note",
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL9n0sMZQ7XJRovSWYSXJS8JO35mEwLGwXnAH8O2eakeYSUZcU_",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vI1IAcBoZ6FkKFvsdQve9EYpAXnWeHOutmv-l0_jY6s_DzgZynT",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://note.com/noa813/n/nef0692042cdf",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
@@ -1420,103 +1418,100 @@
     "https://omomuki-tech.com/archives/6129"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） やり方",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJhv3yleuad9BmGa3yMCjUDEJisVU70IG3bmanM6WykfTCAB7Cv",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLAUMksxRn7HIQcq4qWH_sx27HCWama6zqNW7DsC5Cd217ocvLi",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
-    "https://techsword.co.jp/column/how-to-evaluate-ai",
-    "https://www.m1ke.org/p/%E6%B7%B7%E5%90%8C%E8%A1%8C%E5%88%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
-    "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
-    "https://www.r-jc.jp/news-blog/7106/precision適合率再現率正解率f1の違い陽性1で実測/"
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "https://cysec148.hatenablog.com/entry/2025/03/29/180644",
+    "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 14
   },
   {
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） 事例",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJKZsarpLtMr75nzVTUEFJntScNCb3ZU8d3e5PJ5q9KxrLGm2EH",
-    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJmceKZC7afWVuIYrMdgFm8aIf8YLu5XgEo1Q9l0iRfKvgX_LMi",
+    "https://www.r-jc.jp/news-blog/7106/precision%E9%81%A9%E5%90%88%E7%8E%87%E5%86%8D%E7%8F%BE%E7%8E%87%E6%AD%A3%E8%A7%A3%E7%8E%87f1%E3%81%AE%E9%81%95%E3%81%84%E9%99%BD%E6%80%A71%E3%81%A7%E5%AE%9F%E6%B8%AC/",
     "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall-f1/",
-    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://since2020.jp/media/f1-precision-recall/",
-    "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
-    "https://corp.omake.co.jp/f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%AF%EF%BC%9F%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E7%B2%BE%E5%BA%A6%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%82%92%E5%AE%8C%E5%85%A8%E8%A7%A3%E8%AA%AC/",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://www.r-jc.jp/news-blog/7106/precision適合率再現率正解率f1の違い陽性1で実測/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 14
   },
   {
    "query": "entity resolution evaluation precision recall F1 ground truth pairs",
    "results": [
     "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "https://aws.amazon.com/blogs/industries/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
     "https://arxiv.org/html/2607.26298v1",
     "https://www.reddit.com/r/LanguageTechnology/comments/12h2b5y/evaluation_of_entity_resolution_entity_linking/",
-    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
+    "https://dl.acm.org/doi/10.1145/3828660",
     "https://medium.com/aimonks/exploring-entity-resolution-techniques-challenges-and-implementation-with-a-synthetic-dataset-d6641a63999e",
-    "https://generate-data.com/blog/entity-resolution-test-data",
-    "https://www.researchgate.net/publication/262312289_Evaluating_entity_resolution_results",
+    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
+    "https://www.diva-portal.org/smash/get/diva2:1985113/FULLTEXT01.pdf",
     "https://vldb.org/pvldb/vol3/R18.pdf",
-    "https://github.com/entrepreneur-interet-general/entity-resolution-evaluation",
-    "https://towardsdatascience.com/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c/"
+    "https://users.soe.ucsc.edu/~getoor/Papers/entity-res-geodata.pdf"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://note.com/mathesispress/n/nee9e33458b88",
     "https://note.com/tnishimaki/n/n6e244572e076",
-    "https://note.com/gyoza_tencho/n/n83d24cd7720b",
+    "https://note.com/mathesispress/n/nee9e33458b88",
     "https://note.com/bonobono_107/n/ne56510f7b3a6",
-    "https://note.com/tks849/n/nba829fbeee49",
+    "https://note.com/bonobono_107/n/nc0174ef065d5",
     "https://note.com/daily_epoch/n/n137102559d8f",
-    "https://note.com/gemba_ax_lab/n/nde3469e61df9"
+    "https://note.com/gyoza_tencho/n/n83d24cd7720b"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:x.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
-    "https://x.com/Gkentei_Cheat/status/2101550539301597239",
     "https://x.com/YuPhEngine/status/2051507795426693523",
+    "https://x.com/Gkentei_Cheat/status/2101550539301597239",
     "https://x.com/gtest_guide/status/2061372190269067679",
     "https://x.com/Gkentei_Cheat/status/2101455903132426293",
     "https://x.com/seiseiai_pass/status/2090272659091468755",
     "https://x.com/gtest_guide/status/2093987092112310499",
-    "https://x.com/tkosht/status/2106178895334846497"
+    "https://x.com/dm_exam_site/status/2089100161297334629"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1524,33 +1519,31 @@
    "query": "site:linkedin.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
     "https://jp.linkedin.com/learning/microsoft-azure-ai-fundamentals-ai-900-machine-learning-fundamentals/4217106",
-    "https://jp.linkedin.com/pulse/performance-evaluation-metrics-classification-model-muhammad-daniyal?tl=ja",
+    "https://jp.linkedin.com/pulse/confusion-matrix-accuracy-precision-recall-f1-score-measures-silwal?tl=ja",
     "https://www.linkedin.com/posts/ゆにこ-やまざき-30a02447_モデル評価指標-分かりやすく-回帰問題-activity-7016791687326830592-s8q2",
-    "https://jp.linkedin.com/pulse/evaluating-your-classification-model-precision-recall-himanshu-singh-qm7ff?tl=ja",
+    "https://jp.linkedin.com/pulse/performance-evaluation-metrics-classification-model-muhammad-daniyal?tl=ja",
     "https://jp.linkedin.com/posts/yasuyuki-takahashi-a9686a38b_istqb-jstqb-ai-tester-解説istqb-ai-tester-activity-7422864490590806016-42hL",
-    "https://jp.linkedin.com/pulse/understanding-machine-learning-model-evaluation-metrics-ayush-gupta-5a73e?tl=ja",
     "https://jp.linkedin.com/pulse/mastering-model-evaluation-comprehensive-guide-accuracy-bin-liao?tl=ja",
-    "https://jp.linkedin.com/pulse/confusion-matrix-accuracy-precision-recall-f1-score-measures-silwal?tl=ja"
+    "https://jp.linkedin.com/pulse/evaluating-your-classification-model-precision-recall-himanshu-singh-qm7ff?tl=ja"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
+    "https://www.facebook.com/JAPANkawaii01/videos/ガルパンのダイレンジャー名乗りの驚異の再現率はなんなんだろうjapan-kawaii/457443907961527/",
     "https://www.facebook.com/saaskecloud/photos/おすすめコンテンツのご紹介マーケティングブログデータクレンジングと名寄せデータの質を高める実践方法を公開しましたデータクレンジングの重要性とビジネスへの影響とは/996842299114322/",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
-    "https://www.facebook.com/photo.php/?fbid=1133322442150325",
-    "https://www.facebook.com/masahiro.oyanagi/videos/件数の多さも驚きだが-本当に怖いのは名寄せだ９月２４日から１０月１６日までの２３日間国内の企業が公表した個人情報の流出恐れを含むは主要１２件だけで延べ１億件を超/1666935744848778/",
     "https://www.facebook.com/hirofumi.matsuoka1/posts/名寄せとはある市区町村内で一人が持つ不動産をまとめた一覧表名寄帳を作ることです固定資産税がかからない私道や山林未登記の建物まで載るため相続の際に隠れた財産の見落/32927447200236710/",
-    "https://www.facebook.com/nikoyaka.sozoku/videos/全国の不動産から一括名寄せする方法-司法書士-相続-遺言相続登記が罰則付きで義務化されましたですがそもそも自分や亡くなった方がどこにどのような不動産を所有してい/1246881467598508/",
-    "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/"
+    "https://www.facebook.com/masahiro.oyanagi/videos/件数の多さも驚きだが-本当に怖いのは名寄せだ９月２４日から１０月１６日までの２３日間国内の企業が公表した個人情報の流出恐れを含むは主要１２件だけで延べ１億件を超/1666935744848778/",
+    "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/",
+    "https://www.facebook.com/nikoyaka.sozoku/videos/全国の不動産から一括名寄せする方法-司法書士-相続-遺言相続登記が罰則付きで義務化されましたですがそもそも自分や亡くなった方がどこにどのような不動産を所有してい/1246881467598508/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1559,7 +1552,7 @@
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJD7715fg7-Uosqy0JErpykiElB6K-5WAkD7vQ7DJpq77Zh59Le",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJcFyZO9IjmSQcfx0mxbnCBJxfdHnFDemcQwpg7RxWmG2YuTd_a",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://note.com/noa813/n/nef0692042cdf",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
@@ -1569,23 +1562,22 @@
     "https://note.com/mathesispress/n/nee9e33458b88"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 14
   },
   {
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） X 投稿",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL_LsdwSIBzPsAtPC1XG-JRBB7W7XXLaEB_wbV1XrRGGockHCwr",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vINi3zYahDoSzgoTNt52ub9RY55UP2PAVXg-sMMcE1gczhsocW6",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
-    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "https://persol-serverworks.co.jp/blog/sagemaker/mixing-matrix.html",
     "https://www.r-jc.jp/news-blog/7106/precision適合率再現率正解率f1の違い陽性1で実測/"
    ],
@@ -1611,77 +1603,15 @@
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 18
+   "n_hits": 17
   }
  ],
  "missing": {
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "Paper citation required for methodology",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "The ER-Evaluation user guide states around 400 resolved entities is generally sufficient for accurate performance estimates (snippet only; page was fetch-blocked; verify before treating as settled fact).",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The ER-Evaluation user guide states that benchmark datasets of around 400 resolved entities are generally sufficient for accurate performance estimates (snippet only; page was fetch-blocked; verify directly). The AWS post notes the set need only be large enough to be representative of the real match distribution (retrieval date 2026-08-01).",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "amara.whitfield@example.com",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "amera.whitfield@example.com",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "amara.whitfeld@example.com",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "amy.whitfield@example.com",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "priya.natarajan@example.com",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "amara.w@denvermail.example.com",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 11,
+ "new_this_run": {},
+ "runs": 12,
  "first_researched_at": "2026-11-06T02:49:43.828832+00:00"
 }

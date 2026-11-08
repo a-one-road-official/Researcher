@@ -8,9 +8,21 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-08T05:02:34.990842+00:00",
+ "researched_at": "2026-11-08T11:32:48.665203+00:00",
  "evidence": {
   "一次情報の探し方": [
+   {
+    "quote": "Filing history and incorporation date",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Zephira sources company data directly from government registries worldwide. Not scraped. Not aggregated from third-party datasets. Every data point links back to its official filing.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": ": 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等",
     "url": "https://note.com/sr_mako/n/n611995af6f74",
@@ -72,7 +84,33 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "突き合わせ・推定": [
+   {
+    "quote": "Revenue and employee estimates",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる",
     "url": "https://note.com/sr_mako/n/n611995af6f74",
@@ -99,6 +137,30 @@
    }
   ],
   "実例": [
+   {
+    "quote": "If the API can’t return beneficial ownership structures where published, it’s incomplete for compliance use cases.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Bring the jurisdictions, identifier types, approximate record count and a description of the ambiguous cases your team needs to resolve. Check",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Registry identifiers are unique codes assigned to companies by government authorities at the time of incorporation. Examples include Company Registration Numbers (UK), EINs (US), Handelsregisternummer (Germany), and CNPJ (Brazil). They don’t change when a company rebrands and are unique within their jurisdiction.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Deterministic matching using a registration number and jurisdiction code achieves near-perfect accuracy (~99.9%). Probabilistic matching based on company names typically achieves 60–95% accuracy depending on data quality, and requires confidence thresholds and manual review for borderline cases.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "— Identifying and merging duplicate records within a single dataset. The narrowest case of entity resolution and the most tractable, because schema is consistent.",
     "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology",
@@ -136,27 +198,49 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "6. How to Build an Entity Resolution Workflow Using Registry Data",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 1: Collect what you have",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 2: Match against the registry via API",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 3: Enrich the matched record",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 4: Anchor and monitor",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Deduplication removes duplicate records within a single database. Entity resolution goes further — it matches records across multiple databases, systems, or external sources to a single real-world entity. Deduplication is one step within the broader entity resolution process.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "What’s the best entity resolution method for KYB and compliance?",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "実務での使い方 — 3つのステップ",
     "url": "https://note.com/sr_mako/n/n611995af6f74",
@@ -337,124 +421,74 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
+    "url": "https://note.com/ripla_business/n/n0e31a2c5fb03",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "url": "https://note.com/aijitanlab365/n/n853564136baf",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/paguinu/n/n18d688521707",
+    "url": "https://note.com/ai_income_work/n/n03396eba4ff5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/toshi_now/n/nfdd16c037ece",
+    "url": "https://note.com/sys_sodan/n/nbd96289a0a34",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/skoba/n/n3062a0396a2e",
+    "url": "https://note.com/kounotori17/n/n3346583df4c7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kobachou/n/ncc02c4a29377",
+    "url": "https://note.com/iso910/n/n369ec95a7c00",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.help-note.com/hc/ja/articles/22355987935001-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6-%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E5%90%91%E3%81%91",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
+    "url": "https://data-viz-lab.com/excel",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/apple_ringo/n/nb87412c0f73e",
+    "url": "https://it-notes.stylemap.co.jp/excel/excel%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E7%AA%81%E5%90%88%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96%E3%81%99%E3%82%8B%E5%90%8D%E7%B0%BF%E7%85%A7%E5%90%88%E3%81%A8%E5%B7%AE%E5%88%86%E6%8A%BD%E5%87%BA/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://mesut.co.jp/backlink-note/",
+    "url": "https://it-notes.stylemap.co.jp/excel/excel%E3%81%A7%E4%B8%A6%E3%81%B3%E9%A0%86%E3%81%8C%E9%81%95%E3%81%862%E8%A1%A8%E3%82%92%E3%82%AD%E3%83%BC%E3%81%A7%E6%AD%A3%E7%A2%BA%E3%81%AB%E7%85%A7%E5%90%88%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/alive_lupine1592/n/n2311406269c4",
+    "url": "https://office-hack.com/excel/excel-vlookup-data-matching/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.issoh.co.jp/column/details/11357/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.fastaccounting.jp/blog/20230831/11797/",
+    "url": "https://studyinfra.net/excel-how-to-match-collate-reconcile/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/tax_return/basic/73803/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.invoice-kohyo.nta.go.jp/",
+    "url": "https://easyitwords.hatenablog.com/entry/2026/06/17/202036",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.freee.co.jp/kb/kb-invoice/rule-number/",
+    "url": "https://gxo.co.jp/column/master-data-matching-guide-2026",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://remogu.jp/c/sole-proprietor-corporate-number/",
+    "url": "https://lightech.co.jp/column-shogo-jidoka",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.moj.go.jp/MINJI/minji44.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.setuzei.biz/archives/92",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nagoya-kigyoseturitu.com/case/2791",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.fukuoka-shihousyoshi.jp/column/8656",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://keiei-support-plus-a.com/kaisha-setsuritsu/media/trade-name/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://information.pay.rakuten.net/hc/ja/articles/15241600162319--%E8%B5%B7%E6%A5%AD%E5%AE%B6%E5%BF%85%E8%A6%8B-%E5%95%86%E5%8F%B7%E3%81%A8%E3%81%AF-%E4%BC%9A%E7%A4%BE%E5%90%8D%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9-%E3%83%AB%E3%83%BC%E3%83%AB-%E5%A4%89%E6%9B%B4%E6%96%B9%E6%B3%95%E3%81%AA%E3%81%A9%E3%82%92%E8%A7%A3%E8%AA%AC",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
@@ -462,28 +496,28 @@
     "method": "http"
    },
    {
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://veridion.com/services/entity-resolution",
+    "url": "https://tilores.io/content/explainable-entity-resolution-confidence-thresholds-audit",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://senzing.com/what-is-entity-resolution/",
+    "url": "https://www.techsalerator.com/post/entity-resolution-explained-matching-company-records-across-global-registries",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.zigram.tech/article/entity-resolution-in-aml/",
-    "status": "ok",
+    "url": "https://www.ibm.com/docs/en/iii/10.0.0?topic=scoring-resolution-scores",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -492,133 +526,109 @@
   {
    "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 site:note.com",
    "results": [
-    "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
-    "https://note.com/tsunobuchi/n/n037e5cd3ee54",
-    "https://note.com/paguinu/n/n18d688521707",
-    "https://note.com/toshi_now/n/nfdd16c037ece",
-    "https://note.com/skoba/n/n3062a0396a2e",
-    "https://note.com/kobachou/n/ncc02c4a29377",
-    "https://note.com/kagawatomo/n/nb6c0632d2e41",
-    "https://note.com/elements_hrx/n/n0d16bb6a7b2f",
-    "https://note.com/tatsu_s123/n/na345deba4ac2",
-    "https://note.com/orion_silverwood/n/nf1940181fde6"
+    "https://note.com/ripla_business/n/n0e31a2c5fb03",
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://note.com/ai_income_work/n/n03396eba4ff5",
+    "https://note.com/sys_sodan/n/nbd96289a0a34",
+    "https://note.com/kounotori17/n/n3346583df4c7",
+    "https://note.com/iso910/n/n369ec95a7c00",
+    "https://note.com/work_complete/n/ndabfbc9ece0b"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 note",
    "results": [
-    "https://www.help-note.com/hc/ja/articles/22355987935001-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6-%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E5%90%91%E3%81%91",
-    "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
-    "https://note.com/apple_ringo/n/nb87412c0f73e",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://mesut.co.jp/backlink-note/",
-    "https://note.com/alive_lupine1592/n/n2311406269c4",
-    "https://www.youtube.com/watch?v=7nIz4yO2ODA",
-    "https://www.teamviewer.com/ja/special/digital-workplace-dx/Data/table-2/row-03",
-    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/7227/",
-    "https://note.com/aijitanlab365/n/n853564136baf"
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://data-viz-lab.com/excel",
+    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/",
+    "https://it-notes.stylemap.co.jp/excel/excelで並び順が違う2表をキーで正確に照合する方法/",
+    "https://office-hack.com/excel/excel-vlookup-data-matching/",
+    "https://studyinfra.net/excel-how-to-match-collate-reconcile/",
+    "https://easyitwords.hatenablog.com/entry/2026/06/17/202036"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 やり方",
    "results": [
-    "https://www.issoh.co.jp/column/details/11357/",
-    "https://www.fastaccounting.jp/blog/20230831/11797/",
-    "https://biz.moneyforward.com/tax_return/basic/73803/",
-    "https://www.invoice-kohyo.nta.go.jp/",
-    "https://www.freee.co.jp/kb/kb-invoice/rule-number/",
-    "https://remogu.jp/c/sole-proprietor-corporate-number/",
-    "https://jp.cdata.com/blog/invoice",
-    "https://invox.jp/invoice-number",
-    "https://www.pwc.com/jp/ja/services/tax/indirect-tax/invoice-issuer-id-validator.html",
-    "https://data-viz-lab.com/excel"
+    "https://data-viz-lab.com/excel",
+    "https://studyinfra.net/excel-how-to-match-collate-reconcile/",
+    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/",
+    "https://office-hack.com/excel/excel-vlookup-data-matching/",
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://gxo.co.jp/column/master-data-matching-guide-2026",
+    "https://lightech.co.jp/column-shogo-jidoka"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 事例",
    "results": [
-    "https://www.moj.go.jp/MINJI/minji44.html",
-    "https://www.setuzei.biz/archives/92",
-    "https://nagoya-kigyoseturitu.com/case/2791",
-    "https://www.fukuoka-shihousyoshi.jp/column/8656",
-    "https://keiei-support-plus-a.com/kaisha-setsuritsu/media/trade-name/",
-    "https://information.pay.rakuten.net/hc/ja/articles/15241600162319--%E8%B5%B7%E6%A5%AD%E5%AE%B6%E5%BF%85%E8%A6%8B-%E5%95%86%E5%8F%B7%E3%81%A8%E3%81%AF-%E4%BC%9A%E7%A4%BE%E5%90%8D%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9-%E3%83%AB%E3%83%BC%E3%83%AB-%E5%A4%89%E6%9B%B4%E6%96%B9%E6%B3%95%E3%81%AA%E3%81%A9%E3%82%92%E8%A7%A3%E8%AA%AC",
-    "https://corporate.ai-con.lawyer/articles/company-establish/72",
-    "https://www.machida-legal.com/qa228/",
-    "https://www.netbk.co.jp/contents/hojin/tips/2021/1206_001884.html",
-    "https://data-viz-lab.com/excel"
+    "https://data-viz-lab.com/excel",
+    "https://gxo.co.jp/column/master-data-matching-guide-2026",
+    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/",
+    "https://lightech.co.jp/column-shogo-jidoka",
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://it-notes.stylemap.co.jp/excel/excelで並び順が違う2表をキーで正確に照合する方法/",
+    "https://studyinfra.net/excel-how-to-match-collate-reconcile/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "entity resolution primary secondary identifiers confidence scoring company registry",
    "results": [
     "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "https://veridion.com/services/entity-resolution",
-    "https://senzing.com/what-is-entity-resolution/",
-    "https://dataladder.com/best-entity-resolution-software/",
-    "https://www.zigram.tech/article/entity-resolution-in-aml/",
-    "https://arxiv.org/html/2607.26298v1",
-    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
-    "https://www.sigma360.com/how-entity-resolution-solves-for-rapidly-growing-risk-data-challenges/",
-    "https://aws.amazon.com/about-aws/whats-new/2026/09/entity-resolution-record-confidence/"
+    "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology",
+    "https://aws.amazon.com/about-aws/whats-new/2026/09/entity-resolution-record-confidence/",
+    "https://tilores.io/content/explainable-entity-resolution-confidence-thresholds-audit",
+    "https://www.techsalerator.com/post/entity-resolution-explained-matching-company-records-across-global-registries",
+    "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "https://www.ibm.com/docs/en/iii/10.0.0?topic=scoring-resolution-scores"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
    "results": [
-    "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
-    "https://note.com/modern_flea8708/n/n0fe4fa068026",
-    "https://note.com/bunkichi_kujo/n/nb407982bc194",
-    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
-    "https://note.com/modern_flea8708/n/nda4db7a05f40",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "https://note.com/ripla_business/n/n0e31a2c5fb03",
-    "https://note.com/aijitanlab365/n/n853564136baf",
     "https://note.com/ai_income_work/n/n03396eba4ff5",
-    "https://note.com/kounotori17/n/n3346583df4c7"
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://note.com/aijitanlab365/n/n3e1dcf4a06db",
+    "https://note.com/sys_sodan/n/nbd96289a0a34",
+    "https://note.com/kounotori17/n/n3346583df4c7",
+    "https://note.com/ipa_base_note/n/n05ddfc23d703"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "site:x.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
    "results": [
     "https://x.com/shibasaki_k/article/2102181183807455547",
     "https://x.com/911_takuya/status/2104165916510679128",
-    "https://x.com/houjinbase/status/2108441091775004907",
     "https://x.com/ksmi_aiworks/status/2104896477520679160",
-    "https://x.com/yohaku_shitate/status/2103148056346767499",
-    "https://x.com/sabaaji0113/status/2093496431302877691",
-    "https://x.com/Goro_bizaid/status/2082435517094981873"
+    "https://x.com/houjinbase/status/2108441091775004907",
+    "https://x.com/AIkenkyuFM/status/2080065351996551251",
+    "https://x.com/Goro_bizaid/status/2082435517094981873",
+    "https://x.com/yohaku_shitate/status/2103148056346767499"
    ],
    "engines": [
     "ddgs:google"
@@ -630,10 +640,10 @@
    "results": [
     "https://jp.linkedin.com/pulse/data-reconciliation-rohan-rekhi-2pene?tl=ja",
     "https://jp.linkedin.com/pulse/cmdb-management-servicenow-using-identification-rules-kiran-r-qv9kc?tl=ja",
-    "https://jp.linkedin.com/pulse/master-data-management-101-part-2-guide-haresh-joshi-1e?tl=ja",
-    "https://www.linkedin.com/posts/shiori-c-62b5461a1_sapジャパン-on-twitter-連結決算プロセスにイノベーションを-activity-6957870694252597249-3BhG",
-    "https://jp.linkedin.com/pulse/how-generative-ai-revolutionized-our-data-process-naveen-chauhan-xslrc?tl=ja",
     "https://jp.linkedin.com/pulse/understanding-servicenow-cmdb-identification-reconciliation-jk7qc?tl=ja",
+    "https://www.linkedin.com/posts/shiori-c-62b5461a1_sapジャパン-on-twitter-連結決算プロセスにイノベーションを-activity-6957870694252597249-3BhG",
+    "https://jp.linkedin.com/pulse/master-data-management-101-part-2-guide-haresh-joshi-1e?tl=ja",
+    "https://jp.linkedin.com/pulse/how-generative-ai-revolutionized-our-data-process-naveen-chauhan-xslrc?tl=ja",
     "https://jp.linkedin.com/posts/泰弘-菅野-427502172_azure-sql-databaseの照合順序設定を確認しましたデータベース作成時-activity-7391805908533755904-ZzqS"
    ],
    "engines": [
@@ -643,73 +653,164 @@
   },
   {
    "query": "site:facebook.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.facebook.com/bakurakulayerx/videos/請求と入金データの照合が大変なら業務を変えずラクになるai請求書発行送付システムはバクラク動画内の音声については音声読み上げソフト音読さんにて対応しています/951174994509972/",
+    "https://www.facebook.com/SansanJapan/posts/bill-oneに発注データ照合オプション機能を追加しました発注データをbill-oneにインポートすることで発注内容と請求書情報の照合作業をbill-one上/666023288894351/",
+    "https://www.facebook.com/SansanJapan/posts/bill-oneに請求書の照合業務をアシストするai新機能を実装しました請求書と納品検収データに記載された品目をaiが比較し表記ゆれがあっても同一品目を特定照合/1436432445186761/",
+    "https://www.facebook.com/pfu.jp/videos/まずは自社の業務でどこにムダがありどう見直せるのかチェックしませんか/2173828220233834/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
+    "https://www.facebook.com/GLOOBE/posts/gloobe-architect-操作ガイド-プロパティリンク編-gloobe-architectの各部材オブジェクトには初めからさまざまな属性情報プロパティ項/5466585053372642/",
+    "https://www.facebook.com/pfu.jp/videos/まずは自社の業務でどこにムダがありどう見直せるのかチェックしませんか/2450498005431450/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 note 社長",
    "results": [
-    "https://note.com/sr_mako/n/n611995af6f74",
-    "https://www.help-note.com/hc/ja/articles/42429933268761-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
-    "https://note.com/sakusaku_excel/n/n826880608161",
-    "https://www.furi-ten.com/how-to-assign-invoice-numbers-for-invoice-system-compliance/",
-    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/7227/",
-    "https://catalog.monex.co.jp/article/?p=63679",
-    "https://pandora-climber.jp/article/category_invoice/invoice_number.html",
-    "https://note.com/aijitanlab365/n/n853564136baf"
+    "https://note.com/ai_income_work/n/n03396eba4ff5",
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/",
+    "https://it-notes.stylemap.co.jp/excel/excelで重複・一致判定を自動化する名簿整理と照合-2/",
+    "https://gxo.co.jp/column/master-data-matching-guide-2026",
+    "https://gomumari.com/knowledge/houjin-bangou-nayose/",
+    "https://studyinfra.net/excel-how-to-match-collate-reconcile/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 X 投稿",
    "results": [
-    "https://help.x.com/ja/managing-your-account/how-to-use-the-delegate-feature",
-    "https://colet-lab.jp/column/sns/x-corporate-account-post-format-thread-guide/",
-    "https://www.tribalmedia.co.jp/note/marketing-1068/",
-    "https://s--line.co.jp/x-twitter-business-2026/",
-    "https://solezore.co.jp/blog/x-unyo-taisei/",
-    "https://www.sharecoto.co.jp/twitterlab/function/operation-system/",
-    "https://flagout.co.jp/btob-x-twitter-guide/",
-    "https://zeal-security.jp/blog/xaccount_startguide/",
-    "https://www.nttcoms.com/service/social/column/20220131/",
-    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/"
+    "https://gxo.co.jp/column/master-data-matching-guide-2026",
+    "https://docs.oracle.com/cd/G11809_01/trans/F77895-05/best-practices-for-mapping-matching-attributes.html",
+    "https://docs.oracle.com/cloud/help/ja/financial-consol-cloud/USFCC/managing_intercompany_matching_reports.htm",
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/",
+    "https://gomumari.com/knowledge/houjin-bangou-nayose/",
+    "https://note.com/ai_income_work/n/n03396eba4ff5"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "entity resolution primary secondary identifiers confidence scoring company registry site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/maryastero",
-    "https://www.linkedin.com/in/nreineke",
-    "https://www.linkedin.com/pulse/design-rag-qa-system-millions-documents-hundreds-users-prem-vishnoi-irqmc",
-    "https://www.linkedin.com/in/samuel30",
-    "https://www.linkedin.com/in/nitish-shrivastava",
-    "https://www.linkedin.com/in/darsei",
-    "https://www.linkedin.com/in/kbsriharsha",
-    "https://www.linkedin.com/in/parulkchopra",
-    "https://www.linkedin.com/pulse/gen-ai-business-97-winter-olympics-edition-eugina-jordan-pgmue",
-    "https://www.linkedin.com/in/michaelmcevoy"
+    "https://www.linkedin.com/posts/elia-bloch_entity-resolution-gets-difficult-when-identifiers-activity-7508541017940209664-2xZW",
+    "https://www.linkedin.com/posts/opencorporates_entityresolution-identifiers-fraud-activity-7293649251501297664-hjSI",
+    "https://sg.linkedin.com/company/global-legal-entity-identifier-foundation-gleif-",
+    "https://www.linkedin.com/posts/zephira-ai_dataquality-entityresolution-kyb-activity-7429464593590030336-wOqP",
+    "https://www.linkedin.com/posts/opencorporates_entityresolution-identifiers-activity-7292209431256154114-TzO8",
+    "https://www.linkedin.com/pulse/building-scalable-entity-resolution-pipeline-under-pressure-singhal-kcfrc/",
+    "https://www.linkedin.com/pulse/entity-resolution-cornerstone-bsa-data-analysis-christopher-westphal-xhgxe"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 7,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "Filing history and incorporation date",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Zephira sources company data directly from government registries worldwide. Not scraped. Not aggregated from third-party datasets. Every data point links back to its official filing.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Revenue and employee estimates",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "If the API can’t return beneficial ownership structures where published, it’s incomplete for compliance use cases.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". Bring the jurisdictions, identifier types, approximate record count and a description of the ambiguous cases your team needs to resolve. Check",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Registry identifiers are unique codes assigned to companies by government authorities at the time of incorporation. Examples include Company Registration Numbers (UK), EINs (US), Handelsregisternummer (Germany), and CNPJ (Brazil). They don’t change when a company rebrands and are unique within their jurisdiction.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Deterministic matching using a registration number and jurisdiction code achieves near-perfect accuracy (~99.9%). Probabilistic matching based on company names typically achieves 60–95% accuracy depending on data quality, and requires confidence thresholds and manual review for borderline cases.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "6. How to Build an Entity Resolution Workflow Using Registry Data",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 1: Collect what you have",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 2: Match against the registry via API",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 3: Enrich the matched record",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Step 4: Anchor and monitor",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Deduplication removes duplicate records within a single database. Entity resolution goes further — it matches records across multiple databases, systems, or external sources to a single real-world entity. Deduplication is one step within the broader entity resolution process.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "What’s the best entity resolution method for KYB and compliance?",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 8,
  "first_researched_at": "2026-11-06T20:08:54.369214+00:00"
 }

@@ -9009,6 +9009,13 @@
 ## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
 - 文脈：同一性
 - 手順・やり方：
+  - 「6. How to Build an Entity Resolution Workflow Using Registry Data」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Step 1: Collect what you have」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Step 2: Match against the registry via API」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Step 3: Enrich the matched record」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Step 4: Anchor and monitor」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Deduplication removes duplicate records within a single database. Entity resolution goes further — it matches records across multiple databases, systems, or external sources to a single real-world entity. Deduplication is one step within the broader entity resolution process.」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「What’s the best entity resolution method for KYB and compliance?」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
   - 「実務での使い方 — 3つのステップ」（https://note.com/sr_mako/n/n611995af6f74）
   - 「ステップ1: SFAのアカウントに法人番号フィールドを追加する」（https://note.com/sr_mako/n/n611995af6f74）
   - 「型: テキスト(13桁固定長)」（https://note.com/sr_mako/n/n611995af6f74）
@@ -9017,19 +9024,15 @@
   - 「ステップ3: 法人番号をキーに複数ソースを統合する」（https://note.com/sr_mako/n/n611995af6f74）
   - 「眠れるリードを商談化する「スクリーニング術」— 予測型ABMで見極める"今アプローチすべき企業"」（https://note.com/sr_mako/n/n611995af6f74）
   - 「6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「Can you really trust your data? Here’s how to find out」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-  - 「How to check data coverage and freshness in OpenCorporates」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-  - 「Entity Resolution Methodology — by Luiz H. S. Brandão」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
-  - 「Entity Resolution Methodology」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
-  - 「Entity resolution is the single most analytically intensive step in most OSINT investigations — it requires systematic methodology, tolerance for ambiguity, and rigorous evidence documentation to avoid misidentification. Misidentification is not merely an analytical failure; in intelligence and legal contexts it is an operational and ethical risk that can cause concrete harm to innocent parties.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
-  - 「Network Analysis Methodology」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
-  - 「In intelligence and legal contexts, false positives carry higher cost: misidentification of an innocent person can lead to surveillance, reputational damage, sanctions exposure, or physical harm. Analysts should tune methodology toward」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
 - 突き合わせ・推定：
+  - 「Revenue and employee estimates」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
   - 「展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる」（https://note.com/sr_mako/n/n611995af6f74）
   - 「法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる」（https://note.com/sr_mako/n/n611995af6f74）
   - 「法人番号をキーにして一発で同一法人を突き合わせられる」（https://note.com/sr_mako/n/n611995af6f74）
   - 「Define what is known about the target: full name in all scripts/romanizations, known aliases, date of birth (or estimated age range), nationality, known locations (current and historical), known accounts, known associates, distinguishing biographical anchors (employer, alma mater, military service). Document the」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
 - 一次情報の探し方：
+  - 「Filing history and incorporation date」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Zephira sources company data directly from government registries worldwide. Not scraped. Not aggregated from third-party datasets. Every data point links back to its official filing.」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
   - 「: 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等」（https://note.com/sr_mako/n/n611995af6f74）
   - 「: 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)」（https://note.com/sr_mako/n/n611995af6f74）
   - 「国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ」（https://note.com/sr_mako/n/n611995af6f74）
@@ -9045,6 +9048,10 @@
   - 「唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ」（https://note.com/sr_mako/n/n611995af6f74）
   - 「Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
 - 実例：
+  - 「If the API can’t return beneficial ownership structures where published, it’s incomplete for compliance use cases.」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「. Bring the jurisdictions, identifier types, approximate record count and a description of the ambiguous cases your team needs to resolve. Check」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Registry identifiers are unique codes assigned to companies by government authorities at the time of incorporation. Examples include Company Registration Numbers (UK), EINs (US), Handelsregisternummer (Germany), and CNPJ (Brazil). They don’t change when a company rebrands and are unique within their jurisdiction.」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Deterministic matching using a registration number and jurisdiction code achieves near-perfect accuracy (~99.9%). Probabilistic matching based on company names typically achieves 60–95% accuracy depending on data quality, and requires confidence thresholds and manual review for borderline cases.」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
   - 「— Identifying and merging duplicate records within a single dataset. The narrowest case of entity resolution and the most tractable, because schema is consistent.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
   - 「Typical examples include:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -10443,42 +10450,85 @@
 ## 官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活（government open data company list houjin bangou gBizINFO closed relocated duplicate cleanup）
 - 文脈：名寄せ
 - 手順・やり方：
-  - 「官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順｜ゴムマリ」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「／ 官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「官公データで​企業リストを​作る​方​法｜​法人番号・​gBizINFOを​無料で​束ねる​手順」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「使う4つのデータ源（法人番号公表サイト・gBizINFO・EDINET・適格請求書公表サイト）の実仕様と5つの手順、ファイル形式・文字コードの選び方、名寄せ・鮮度維持のつまずきどころ、商用利用の規約の作法を、作る順番で整理します」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「企業リストの入手方法は3つある」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「手順は5つ——小さく作って一巡させる」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「この記事は、リスト購入の予算がないBtoB営業企画・マーケ担当に向けて、使うデータ源・ファイル仕様・手順・つまずきどころまでを、作る順番で解説します」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「ファイル形式と規模、列名のないCSVの読み方、差分データの使い方は」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「手順は​5つ——​小さく​作って​一巡させる」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「手順そのものより、運用が本体です」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「手元の営業リストに混ざった閉鎖・移転・重複を洗い直す手順は」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「まず、狙う1業種・1都道府県を決めて、上の5ステップを一度通してみてください」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「DX認定企業の一覧をCSVで取る方法と活用法」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「84. 新型コロナウイルス感染症オープンデータ」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「67. ごみの分別方法一覧」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「使い方はシンプルで、トップページの検索窓にキーワードを入れるか、カテゴリ・組織・タグから絞り込んでデータセットを探す、という流れ」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「個人的にありだと思うのは、このAPIを定期的にポーリングして、特定省庁や特定カテゴリのデータセットが新規追加・更新されたのを検知する監視スクリプトを組む、といった使い方ですね」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「サイト内の「SPARQL APIの概要」ページでAPI経由でのクエリ発行方法が、「SPARQL Queryのサンプル」ページで具体的なクエリ例が提供されているので、初めてなら、まずサンプルクエリをそのままエンドポイントに投げて結果の形式を確認するのが近道です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「本格的に使うときは、小地域や地域メッシュ単位の統計データと、それに対応する境界データ（シェープファイル等）を別々にダウンロードして、統計データ側の地域コードで両者を紐づけてGISソフト上に表示する、という手順になります」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「位置座標が付いているので、GISソフトやWeb地図に読み込んでハザードマップと重ね合わせたり、避難所検索アプリの基礎データとして組み込んだり、という使い方が定番です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「（補足: 後述の項目50も同一リポジトリを指していますが、そちらはインストール手順やDocker実行など操作面に焦点を当てて解説しています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「サイト上で「地点を選ぶ」「項目を選ぶ」「期間を選ぶ」「表示・ダウンロード」の4ステップを画面上で操作するだけでデータが取れます」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「防災情報XMLは「PULL型」で提供されているので、事前のユーザー登録なしに任意のタイミングで最新の電文を取得する実装が可能です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「現在はユーザー登録不要の「PULL型」のみで提供されていて、公開されているアトムフィードを任意のタイミングでポーリングして最新の電文を取得する実装になります」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ここは既存システムの移行で引っかかりやすいポイントですが、旧来のPUSH型配信は2020年9月1日をもって終了しているため、PUSH型を前提にしているシステムは改修が必要です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「天候、路面状態、道路形状、事故類型などの項目は数値コードで格納されているため、コード表を引きながら意味を復元する設計になっています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「クレジット表示の具体的な方法は、ODPT開発者サイトのFAQページ（」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「なお本記事の項目14と同じリポジトリを扱っていますが、こっちではインストール・実行方法やDocker利用など、操作面を中心にまとめています（内容の重複が気になる場合は項目14とあわせて参照してください）」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
 - 突き合わせ・推定：
+  - 「それぞれ対応する統計データ側の地域コードと突き合わせて使う設計です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「都道府県・年度を指定してCSV形式でダウンロードし、住所文字列と緯度経度を突き合わせるジオコーディング用の参照データとして使います」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「防災情報XML電文やアメダス観測データのCSV、数値予報のGPVサンプル、GISで使えるシェープファイル、多言語辞書のExcelデータなど、開発者が実装検証に使えるサンプルデータや仕様書がまとめて置いてあるので、実装の下調べにちょうどいいです」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ポータル上のカテゴリー（防災情報、観測データ、予報データなど）からフォーマット仕様書とサンプルファイルを閲覧・ダウンロードして、自社システムでのパース処理やAPI連携を検証できます」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「情報種別ごとにXMLスキーマ（XSD）が定義されているので、技術資料ページからスキーマファイルやサンプル電文を入手して実装検証ができます」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「住所入力フォームの自動補完、物流・配送システムでの住所照合、地理空間データとの結合による地域分析まで、用途はほんとに幅広いです」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「住所と地図上の位置を対応付けるジオコーディングの基礎データとして、防災システムや、住所情報の整備・検証作業に使われています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「学校基本調査など他統計のデータと突き合わせる際のキー項目として活用するのが本来の役割です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「速報性重視の「四半期別GDP速報（QE）」、より包括的な「国民経済計算年次推計」、そして「民間企業資本ストック」の3系統で構成されていて、e-Stat上では1万件超のファイルが公開されています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「e-Statのファイル検索画面（toukei=00100409）から、四半期別GDP速報・年次推計・資本ストックのいずれかを選び、年度・四半期・系列を指定してCSV/Excel/データベース形式でダウンロードします」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
   - 「手元の顧客リストと官公データを名前で突き合わせると、表記ゆれと同名他社で破綻します」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「数千件の個別照合や差分の自動取り込みはAPI向きです」（https://gomumari.com/knowledge/koukou-data-list/）
 - 一次情報の探し方：
-  - 「資本金・従業員数・届出/認定・財務・特許・補助金など」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「経済産業省が「500万社以上」の政府保有法人データを提供するサイトで、法人番号をキーに資本金・従業員数などの法人基本情報から届出/認定・財務・特許・調達・補助金・職場情報までを引けます」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「有価証券報告書等の開示書類は、サイトでの閲覧・取得なら登録不要で、APIによる機械取得にはAPIキー（登録制）が必要です（キーなしのリクエストは拒否されます）」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「地図、統計、気象、防災、不動産、企業情報、医療、交通、文化財、研究データ、法令、調達情報、衛星データ、地盤、3D都市モデルまで、普段のWebサービス開発やAIアプリ、BIダッシュボード、GIS分析にそのまま使える素材がゴロゴロ転がっています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「3. e-Stat API」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「4. 統計LOD」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「6. 統計GIS・境界データ」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「30. 統計ダッシュボード」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「42. エネルギー消費統計調査」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「88. 財務省貿易統計」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「89. 国民経済計算 / GDP統計」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「91. 日本銀行 時系列統計データAPI」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「13. 登記所備付地図データ」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「14. mojxml2geojson（登記所備付地図データ変換コンバータ）」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「22. 交通事故統計情報のオープンデータ」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「23. 犯罪統計」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「50. mojxml2geojson（登記所備付地図データ変換コンバータ）」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「各データセットのページではCSV・Excel・PDFなど実データファイルへの直接リンクや更新履歴が確認でき、ダウンロードに会員登録は不要です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
 - 失敗・落とし穴：
-  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「ここで一つ注意したいのが、個々のリソース（実データ）には提供元省庁ごとに別のライセンスが指定されている場合があること」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「注意点として、第三者が著作権等を有するコンテンツが含まれる場合は利用者側で許諾取得の責任を負います」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ここで一つ注意しておきたいのが、同じ調査項目でも調査年によって集計区分や項目名が変わることがある点」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ここが要注意ポイントで、データによって整備年度・更新頻度が異なるので、利用前に各データの仕様書に目を通しておくと後で困りません」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ここは少し注意が必要で、基盤地図情報は測量法上の「基本測量成果」に該当するため、複製・使用にあたって測量法に基づく申請が必要な場合があります」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ここは実務で効いてくる注意点ですが、市町村ごとに登録・更新されるため、地域によってデータの整備状況や更新時期に差があります」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「一つ注意したいのが入手経路で、データは法務省のページからではなく、外部の「Ｇ空間情報センター」（」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ここが落とし穴になりがちで、座標は公共測量座標系で記録されているため、緯度経度（JGD2011）で扱うには変換処理が必要です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「中心となるのは気象庁防災情報XMLフォーマットで、警報・注意報や地震・津波情報などをXMLのスキーマに沿って構造化したデータです」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「気象警報・注意報、地震情報、津波情報、台風情報、火山情報などの防災気象情報を、機械可読なXML形式の電文として配信するサービスです」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ただし一点注意で、加工せずにファイルをそのまま複製して第三者へ配布するのは禁止されており、販売目的の商用利用は事前の問い合わせが必要です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「一点注意なのが、個人が特定されないよう件数が少ないセルは秘匿処理（マスキング）されていること」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ひとつ落とし穴として、オープンカウンタ（少額）案件のうち個人事業主が落札した案件は収録対象外になっている点は、分析の前提として頭に入れておいたほうがいいです」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ただし連携する外部データベースごとにメタデータ項目の粒度が違う場合があるので、そこは横断利用時の注意点です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ここが要注意で、連携先機関ごとに個別の利用条件が設定されている場合があるため、実際に取得した資料・画像を二次利用するときは各資料の詳細ページに書かれた権利情報も併せて確認してください」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
 - 実例：
-  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「個人的に気に入っているのは、単なるファイル置き場ではない点で、複数データセットをテーマ別にまとめた「ショーケース」や、利用者による評価・意見・活用事例の投稿機能まで備えているところです」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ショーケース機能が地味に便利で、例えば「防災」「観光」といったテーマに沿って複数省庁のデータを横断的に拾えるので、政策分野をまたいだ調査には向いています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「データセットごとに投稿されたユーザーの活用事例を読むと、実際の分析・可視化のヒントが得られることも多いです」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「データセットオブジェクトには名称・説明・更新履歴・検索結果などが含まれ、リソースオブジェクトにはファイル形式やライセンス情報などのメタデータが入っています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「サイト内の「SPARQL APIの概要」ページでAPI経由でのクエリ発行方法が、「SPARQL Queryのサンプル」ページで具体的なクエリ例が提供されているので、初めてなら、まずサンプルクエリをそのままエンドポイントに投げて結果の形式を確認するのが近道です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「プログラムからは、HTTP経由でSPARQLクエリ文字列をPOST/GETし、JSON形式で結果を受け取ってPythonの」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「ファイルはExcel・CSV・PDF・データベース形式でダウンロードでき、例えば市区町村別の人口ピラミッドを作りたいなら「年齢（5歳階級）、男女別人口」の表を市区町村単位で取ればOKです」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「不動産情報ライブラリのAPI群のうち「不動産価格（取引価格・成約価格）情報取得API」（XIT001）として提供されていて、ポイントは、地価公示のような公的評価額ではなく実勢の取引事例ベースの価格情報だということ」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「で連結したURLにGETを投げるだけで結果が返ります」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「平成25年度以降から直近までの落札結果をCSVで落とせるので、行政の調達動向や取引実績の分析に使えます」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「データはUTF-8（BOM付き）のCSVで、案件名、発注機関、落札者名、落札金額、契約締結日などの落札結果に関する項目が入っています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「複雑な条件でのセマンティック検索をやりたいならSPARQLエンドポイント、とりあえず手軽にキーワード検索結果を取りたいなら簡易Web API、というのが個人的な使い分けの目安です」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「検索結果はcontent negotiationで、HTTPヘッダでRDFやJSON-LDを指定して取得形式を切り替えられます」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「植生図、動植物分布調査、干潟・藻場・サンゴ礁分布、河川・湖沼の環境情報など、日本全国の自然環境に関する基礎的な調査結果を収録しています」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
+  - 「各レイヤーの実体は、環境省や関係機関の調査結果をもとにしたポリゴン・ポイントデータだと思ってもらえれば」（https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709）
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
 - 文脈：検証
@@ -13838,35 +13888,35 @@
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方（headcount definitions full-time equivalent persons engaged statistics vs payroll employees revenue per employee comparison）
 - 文脈：手法・企業調査
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合）（prefectural statistical yearbook definitions manufacturing shipments value added size threshold）
 - 文脈：手法・統計
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）（market research confirmation bias rubber stamp strategy operator economics consultant essay）
 - 文脈：手法・推定
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
-
-## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
-- 文脈：手法・企業調査
 - 手順・やり方：記載なし（読んだ25頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ25頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
 - 実例：記載なし（読んだ25頁・検索12回）
+
+## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
+- 文脈：手法・企業調査
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
