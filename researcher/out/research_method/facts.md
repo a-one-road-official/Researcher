@@ -2822,6 +2822,8 @@
   - 「2. **Independence is methods, not mastheads:** two outlets citing the same study = one source; a survey and a separate dataset agreeing = two. The echo test: do the supporting sources share numbers verbatim? Identical figures across "independent" sources is the fingerprint of a single origin echoing.」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「- [ ] Independence was judged by method/data, not by outlet count」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
 - 突き合わせ・推定：
+  - 「npx get-skill add mohitagw15856/source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「source: https://skillmd.com/skills/mohitagw15856/source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「Source Triangulation by mohitagw15856 · SkillMD」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「mohitagw15856/source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「npx skillmds@latest add mohitagw15856/source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
@@ -2835,13 +2837,11 @@
   - 「## Framework: The Triangulation Rules」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「5. **Phrase at earned confidence:** established → state it with the cite · single-sourced → attribute inline ("a 2024 Gartner survey found…") · contested → the range with both cites · unverifiable → don't repeat it, or repeat it explicitly as unsourced folklore if rhetorically necessary. The phrasing rule is what makes triangulation *usable* — it converts the grade into words.」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「# Triangulation: "[the claim]"」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
-  - 「mohitagw15856/pm-claude-skills/tree/main/skills/source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
-  - 「How do I install the Source Triangulation skill?」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
 - 一次情報の探し方：
   - 「follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -8050,7 +8050,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -10581,11 +10581,11 @@
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
@@ -10673,8 +10673,8 @@
   - 「The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 実例：
   - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
-- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ

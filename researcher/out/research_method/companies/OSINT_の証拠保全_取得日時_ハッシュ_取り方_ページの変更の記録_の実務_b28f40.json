@@ -8,7 +8,7 @@
  ],
  "context": "記録",
  "kind": "market",
- "researched_at": "2026-11-08T07:02:55.546909+00:00",
+ "researched_at": "2026-11-08T14:32:50.727232+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -104,6 +104,116 @@
    {
     "quote": "ProofSnapなら参照したページごとに証拠ZIPを作成でき、デスクや編集部の担当者は無料の検証ツールでファイルを確認できます",
     "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このほか、ドメイン名のDNS照会（GoogleとCloudflare）とWHOIS照会（当社のサーバー経由）、時刻の確認（当社のサーバー、失敗時はGoogleとCloudflare）、PCのIPアドレスを確認する公開サービスへのリクエスト、C2PA署名のためのスクリーンショット（JPEG）の当社サーバーへの送信が発生します",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A guide to preparing credible, safe research accounts for OSINT: why you need them, how to build them and what mistakes burn them.",
+    "url": "https://osint-ui.com/en/blog/document-osint-evidence-court",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 1 — Screenshot without URL",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 2 — URL without timestamp",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 3 — Hash without capture context",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 4 — Archive URL without understanding archive limits",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 5 — Preserving only derived artifacts",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 6 — Capturing everything",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 7 — No research question",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 8 — No limitation note",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 9 — Publicly archiving sensitive material",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 10 — Assuming one file format solves evidence",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 11 — Relying on proprietary storage only",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 12 — No backup",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -322,116 +432,6 @@
    {
     "quote": "EnterpriseプランとCompanyプランでは、証拠PDFに媒体のロゴ、名称、住所、連絡先、指定色を反映できます",
     "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このほか、ドメイン名のDNS照会（GoogleとCloudflare）とWHOIS照会（当社のサーバー経由）、時刻の確認（当社のサーバー、失敗時はGoogleとCloudflare）、PCのIPアドレスを確認する公開サービスへのリクエスト、C2PA署名のためのスクリーンショット（JPEG）の当社サーバーへの送信が発生します",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A guide to preparing credible, safe research accounts for OSINT: why you need them, how to build them and what mistakes burn them.",
-    "url": "https://osint-ui.com/en/blog/document-osint-evidence-court",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 1 — Screenshot without URL",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 2 — URL without timestamp",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 3 — Hash without capture context",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 4 — Archive URL without understanding archive limits",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 5 — Preserving only derived artifacts",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 6 — Capturing everything",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 7 — No research question",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 8 — No limitation note",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 9 — Publicly archiving sensitive material",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 10 — Assuming one file format solves evidence",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 11 — Relying on proprietary storage only",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 12 — No backup",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -1374,11 +1374,6 @@
     "method": "pdf"
    },
    {
-    "url": "https://digitaldata-forensics.com/column/forensics/26187/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.ti.com/bin/ti/transcripts/5799500859001_ja-jp.json",
     "status": "robots_disallowed",
     "method": ""
@@ -1389,7 +1384,17 @@
     "method": "http"
    },
    {
+    "url": "https://digitaldata-forensics.com/column/forensics/26187/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ipa.go.jp/security/reports/oversea/nist/ug65p90000019cp4-att/begoj9000000bf0q.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1399,9 +1404,9 @@
     "method": "http"
    },
    {
-    "url": "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
-    "status": "ok",
-    "method": "http"
+    "url": "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
@@ -1409,9 +1414,29 @@
     "method": "http"
    },
    {
-    "url": "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/hashing/",
+    "url": "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://jpn.nec.com/cybersecurity/blog/230612/pdf/session2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cyberdefense.jp/column/about_forensics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jouhou.main.jp/?p=37061",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
@@ -1419,32 +1444,7 @@
     "method": "http"
    },
    {
-    "url": "https://anchor-u.com/maltego-hunchly-introduction/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bksuccess.net/digital-forensics-evidence-preservation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cybersecurity-jp.com/contents/data-security/16796/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cyber110.pro/forensics/blo/forensic-evidence-preservation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.securewave.co.jp/blog/077",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.secure-iv.co.jp/blog/23978",
+    "url": "https://kiroku.today/guides/save-website-legal-evidence",
     "status": "ok",
     "method": "http"
    },
@@ -1469,12 +1469,12 @@
     "method": "http"
    },
    {
-    "url": "https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/",
+    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "url": "https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/",
     "status": "ok",
     "method": "http"
    }
@@ -1490,16 +1490,15 @@
     "https://note.com/kenji_tocho/n/n2c60480396d6",
     "https://note.com/kagawatomo/n/nb6c0632d2e41",
     "https://note.com/hirokimiyano/n/nac0b207aaf5f",
+    "https://note.com/kenji822/n/nf188332e6383",
     "https://note.com/oracle_kaisetsu/n/n032a813b48e1",
     "https://note.com/shoeisha_bizit/n/n283c1a88f80d",
-    "https://note.com/zenkok/n/n9883e45a6e8b",
-    "https://note.com/coreinsight/n/n90d69091b16c"
+    "https://note.com/jokoan/n/n4af8abf0a13c"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 note",
@@ -1507,12 +1506,12 @@
     "https://note.com/kenji_tocho/n/n642a1d4ccfe1",
     "https://note.com/nikinusu318/n/nf6a8daf345d3",
     "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
-    "https://digitaldata-forensics.com/column/forensics/26187/",
     "https://www.ti.com/bin/ti/transcripts/5799500859001_ja-jp.json",
     "https://sites.mit.edu/toshi/ja/author/toshiyuk/",
-    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
+    "https://digitaldata-forensics.com/column/forensics/26187/",
+    "https://nii-auth.atlassian.net/wiki/spaces/UPKIFAQ/pages/43745748",
     "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
-    "https://west-sec.com/entry/forensic",
+    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
     "https://kiroku.today/guides/save-website-legal-evidence"
    ],
    "engines": [
@@ -1525,12 +1524,12 @@
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 やり方",
    "results": [
     "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
+    "https://www.ipa.go.jp/security/reports/oversea/nist/ug65p90000019cp4-att/begoj9000000bf0q.pdf",
     "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
+    "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
     "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
     "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/hashing/",
-    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
-    "https://www.cyberdefense.jp/column/about_forensics",
     "https://jouhou.main.jp/?p=37061",
     "https://www.youtube.com/watch?v=k-gICgZ_RgM",
     "https://kiroku.today/guides/save-website-legal-evidence"
@@ -1544,22 +1543,22 @@
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 事例",
    "results": [
-    "https://anchor-u.com/maltego-hunchly-introduction/",
     "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
-    "https://bksuccess.net/digital-forensics-evidence-preservation/",
-    "https://cybersecurity-jp.com/contents/data-security/16796/",
-    "https://www.cyber110.pro/forensics/blo/forensic-evidence-preservation/",
-    "https://www.securewave.co.jp/blog/077",
-    "https://note.com/kenji_tocho/n/n642a1d4ccfe1",
-    "https://www.secure-iv.co.jp/blog/23978",
-    "https://yamanaka-bengoshi.jp/2026/09/09/dejitaru-shouko-genpon-hozen-hasshuchi/",
+    "https://note.com/nikinusu318/n/nf6a8daf345d3",
+    "https://jpn.nec.com/cybersecurity/blog/230612/pdf/session2.pdf",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.cyberdefense.jp/column/about_forensics",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://jouhou.main.jp/?p=37061",
+    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
     "https://kiroku.today/guides/save-website-legal-evidence"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 16
   },
   {
    "query": "OSINT evidence preservation chain of custody hashing web capture",
@@ -1568,66 +1567,65 @@
     "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
     "https://www.linkedin.com/pulse/how-choose-forensic-web-evidence-capture-tools-u9zbc",
     "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/",
     "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/",
     "https://www.next-sight.com/resources/chain-of-custody-osint",
     "https://www.mdpi.com/2073-8994/14/2/334",
     "https://chromewebstore.google.com/detail/forensic-web-capture-cour/ncgfnhacjiahmclmephmjaceeeamdama",
-    "https://osint-ui.com/en/blog/document-osint-evidence-court"
+    "https://github.com/frangelbarrera/OSINT-BIBLE/blob/main/docs/evidence-preservation.md"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "site:note.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
    "results": [
     "https://note.com/kenji_tocho/n/n2c60480396d6",
-    "https://note.com/kagawatomo/n/nb6c0632d2e41",
     "https://note.com/hirokimiyano/n/nac0b207aaf5f",
+    "https://note.com/kagawatomo/n/nb6c0632d2e41",
     "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
     "https://note.com/dotai/n/n0a79157bb26b",
-    "https://note.com/usa_stu/n/n168c097ce742",
     "https://note.com/jack4manastalk/n/ncabf83a88dd4",
     "https://note.com/kunugiyama123/n/n99fe88f0a212",
     "https://note.com/patentpower/n/n07422dba56af",
-    "https://note.com/masa13_/n/n56317b0cd19c"
+    "https://note.com/masa13_/n/n56317b0cd19c",
+    "https://note.com/freezex/n/n5d1452ddfe42"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "site:x.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
    "results": [
     "https://x.com/ota324/status/2038238805191516163",
     "https://x.com/kokuminGORIMAMA/status/2030325646065582493",
-    "https://x.com/tbr_works_JP/status/2076594665546289639",
-    "https://x.com/yuita_Genecraft/status/2116813589847666835",
     "https://x.com/naggai0709/status/2109796257309061233",
+    "https://x.com/tbr_works_JP/status/2076594665546289639",
     "https://x.com/tbr_works_JP/status/2073634709310251230",
-    "https://x.com/t_nihonmatsu/status/2064365977807302930"
+    "https://x.com/t_nihonmatsu/status/2064365977807302930",
+    "https://x.com/t_nihonmatsu/status/2064524490667880761"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
    "results": [
-    "https://jp.linkedin.com/pulse/best-practices-conducting-osint-research-vijay-gupta--mmiac?tl=ja",
     "https://jp.linkedin.com/pulse/how-extract-information-from-websites-automated-osint-gupta--hfi9c?tl=ja",
+    "https://jp.linkedin.com/pulse/best-practices-conducting-osint-research-vijay-gupta--mmiac?tl=ja",
     "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
-    "https://jp.linkedin.com/pulse/building-your-osint-workstation-practical-guide-tommy-knowles-5k0xe?tl=ja",
     "https://jp.linkedin.com/pulse/osint-cyber-forensics-cracking-digital-mystery-er-mohit-dhabuwala-8p0yf?tl=ja",
+    "https://jp.linkedin.com/pulse/building-your-osint-workstation-practical-guide-tommy-knowles-5k0xe?tl=ja",
     "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
-    "https://jp.linkedin.com/pulse/introducing-osint-handbook-comprehensive-guide-odi4c?tl=ja"
+    "https://jp.linkedin.com/posts/takashi-ito-0303a641_私が扱っているツールについてできることとできないことをはっきり書いておきます-activity-7510127188923510784-AyWk"
    ],
    "engines": [
     "ddgs:google"
@@ -1641,10 +1639,10 @@
     "https://www.facebook.com/qiita/posts/100lgtm-普段の調査で利用するosintまとめ-by-_roku_/2926902907345529/",
     "https://www.facebook.com/OneBeInc/photos/新コラム現代社会で重要性がましているosintopen-source-intelligenceosintとはインターネットなどの公開情報を収集分析して有用な情報/1452940110171432/",
     "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報6月24日水開催-経済安全保障osint活用セミナー第4回研究における産業スパイ対策事例研究セキュリティ確保のため必要な取り組みとは詳細お申し込み-/1539739791497336/",
+    "https://www.facebook.com/AsahiGlobeMedia/posts/754874736647389/",
     "https://www.facebook.com/Securitydays13/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/122176936220783877/",
     "https://www.facebook.com/kaikoshajp/photos/８月の安全保障講座いよいよ２週間後に迫った今月の安全保障講座その２田中達浩講師による情報化時代のosintは安全保障の実務者のみならずit産業に関わる方も必聴で/755489340190398/",
-    "https://www.facebook.com/balimoto.transcriber/videos/録音データを保存していてもいつ録音したものなのか分からないという状態では後から整理するのに苦労することがあります特に同じ相手と何度も話し合っている場合日時が分か/1103810655327923/",
-    "https://www.facebook.com/balimoto.transcriber/videos/裁判では証拠があるかだけではなくいつ確保したかも重要です事故現場sns投稿設備故障などは時間が経つと状況が変わり証拠が失われることがあります勝つ人はトラブル直後/1755138608968898/"
+    "https://www.facebook.com/balimoto.transcriber/videos/裁判になってから証拠を集め始める人は少なくありませんしかしその頃には重要な資料が失われていることもあります勝つ人はトラブル発生直後から時系列を整理し写真やメール/1812053313576042/"
    ],
    "engines": [
     "ddgs:google",
@@ -1679,11 +1677,11 @@
     "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "https://nii-auth.atlassian.net/wiki/spaces/UPKIFAQ/pages/43745748",
     "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
-    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
     "https://docs.microfocus.com/doc/SMAX/24.2/sendsurvey/ja",
-    "https://www.secure-iv.co.jp/blog/20079",
-    "https://www.security-next.com/056537",
+    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
+    "https://www.youtube.com/watch?v=k-gICgZ_RgM",
+    "https://thrive.trellix.com/s/article/KB85078?language=ja",
+    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
     "https://kiroku.today/guides/save-website-legal-evidence"
    ],
    "engines": [
@@ -1702,12 +1700,12 @@
     "https://in.linkedin.com/in/ajayjethe",
     "https://www.linkedin.com/top-content/science/forensic-science-in-criminal-investigations/how-to-handle-digital-evidence-in-forensics/",
     "https://www.linkedin.com/posts/iamsangramsahoo_cdac-cdacstdc-windowsforensics-activity-7462053551599431680-qiMY",
-    "https://www.linkedin.com/company/eliteforensics",
     "https://uk.linkedin.com/in/ritujaa-kelaskar-681201334",
-    "https://www.linkedin.com/pulse/week-signal-shadow-derek-bowler-sbvce"
+    "https://www.linkedin.com/pulse/week-signal-shadow-derek-bowler-sbvce",
+    "https://www.linkedin.com/company/eliteforensics"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1715,6 +1713,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-06T05:53:25.729862+00:00"
 }
