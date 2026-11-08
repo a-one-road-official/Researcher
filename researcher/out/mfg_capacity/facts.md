@@ -10454,14 +10454,17 @@
 
 ## 経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95）（Economic Census for Business Activity manufacturing 2691 metal molds dies establishments employees）
 - 文脈：人数・事業所数
-- 痛み・損（深さの印）：記載なし（読んだ26頁・検索18回）
-- 事業所数・社数：記載なし（読んだ26頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ26頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ26頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ26頁・検索18回）
-- 生産能力・設備：記載なし（読んだ26頁・検索18回）
-- 10年推移：記載なし（読んだ26頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ26頁・検索18回）
+- 10年推移：
+  - 「Statistics Bureau Home Page/Industrial Classification used in the 2016 Economic Census for Business Activity」（https://www.stat.go.jp/english/data/e-census/2016/industry.html）
+  - 「Industrial Classification used in the 2016 Economic Census for Business Activity」（https://www.stat.go.jp/english/data/e-census/2016/industry.html）
+  - 「2021 Mechanical and industrial leather products, except gloves and mittens」（https://www.stat.go.jp/english/data/e-census/2016/industry.html）
+- 痛み・損（深さの印）：記載なし（読んだ31頁・検索18回）
+- 事業所数・社数：記載なし（読んだ31頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ31頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ31頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
+- 生産能力・設備：記載なし（読んだ31頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
 
 ## 経済センサス‐基礎調査・活動調査 存続・新設・廃業事業所数 製造業 金属製品（中分類24）の表（退出した先を含む全体で埋め戻す・生き残りの偏り・4-95）（Economic Census establishments continuing new closed manufacturing fabricated metal products Japan）
 - 文脈：事業所の出入り

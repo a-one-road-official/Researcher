@@ -1,0 +1,496 @@
+{
+ "name": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95）",
+ "en": "Economic Census for Business Activity manufacturing 2691 metal molds dies establishments employees",
+ "aliases": [
+  "経済センサス 活動調査 金属用金型 事業所数 従業者数 e-Stat",
+  "経済センサス 産業細分類 2691 製造業 表 site:e-stat.go.jp",
+  "metal mold die manufacturing establishments Japan economic census"
+ ],
+ "context": "人数・事業所数",
+ "kind": "market",
+ "researched_at": "2026-11-08T03:31:19.754828+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "Statistics Bureau Home Page/Industrial Classification used in the 2016 Economic Census for Business Activity",
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Classification used in the 2016 Economic Census for Business Activity",
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021 Mechanical and industrial leather products, except gloves and mittens",
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389385",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2016/ka16t10000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/toukeialacarte/192.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389422",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo201600.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/asm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://library.morgan.edu/c.php?g=885876&p=10764694",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/dbview?sid=0004005686",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 人手不足 受注 断る",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389385",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389385",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2016/ka16t10000.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.meti.go.jp/statistics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95）",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 推移",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2016/ka16t10000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 従業者規模別",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.pref.saitama.lg.jp/a0206/toukeialacarte/192.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 1人当たり 万円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389422",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.pref.saitama.lg.jp/a0206/toukeialacarte/192.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） 2015 2025",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo201600.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity manufacturing 2691 metal molds dies establishments employees Japan statistics",
+   "results": [
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "https://library.morgan.edu/c.php?g=885876&p=10764694",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004005686",
+    "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.bdo-japan.jp/en-gb/industries/manufucturing"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95）",
+   "results": [
+    "https://www.linkedin.com/showcase/linkedin-pulse",
+    "https://economicgraph.linkedin.com/",
+    "https://be.linkedin.com/in/annuyttens/en",
+    "https://business.linkedin.com/",
+    "https://za.linkedin.com/in/fatima-missi-22314ab2",
+    "https://in.linkedin.com/company/wipro",
+    "https://www.linkedin.com/home?originalSubdomain=jp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95）",
+   "results": [
+    "https://www.facebook.com/ecensus2016/",
+    "https://www.facebook.com/ecensus2016/posts/ビルくんケイちゃんのroad-to-経済センサス活動調査経済センサスイメージキャラクターのビルくんとケイちゃんですいよいよ調査票の配布が始まる本日５月20日金に/582617195241289/",
+    "https://www.facebook.com/ecensus2016/posts/518255175010825/",
+    "https://www.facebook.com/city.omura/photos/経済センサス-活動調査にご協力ください総務省経済産業省による全産業分野の経済活動を網羅的に把握するための調査です調査結果は行政の政策立案や民間企業の出店計画など/1373768644780240/",
+    "https://www.facebook.com/hitotoshigoto/posts/中小企業庁が平成28年経済センサス-活動調査のデータを分析したところ2016年6月時点の中小企業小規模事業者数は3578万者となり2014年と比較すると231万/2191993671022961/",
+    "https://www.facebook.com/pref.wakayama/posts/経済センサス-活動調査総務省経済産業省和歌山県及び市町村は令和8年6月1日現在で経済センサス-活動調査を実施します本調査は全国すべての事業所企業を対象とする5年/1512921037510877/",
+    "https://www.facebook.com/HimejiCityBot/posts/924331438225134/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） note 社長",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.gifu.lg.jp/page/265384.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2016年・2021年 産業別集計 製造業 産業細分類 2691 金属用金型 事業所数・従業者数（工業統計の検索で3回0件のため別の統計名で・e-Stat の表・論文の写しを除く・4-95） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389385",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.city.murakami.lg.jp/site/tokeimurakami/tokei-keisen03-seizokakuho.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity manufacturing 2691 metal molds dies establishments employees site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/us-census-bureau_2020-county-business-patterns-by-industry-activity-6967920969482997760-9nKw",
+    "https://www.linkedin.com/posts/us-census-bureau_censusecondata-manufacturing-censusdata-activity-7009185364099682304-dQMd",
+    "https://in.linkedin.com/company/ptm-llc",
+    "https://cn.linkedin.com/in/metalstampingdie/en",
+    "https://mk.linkedin.com/company/kobra-molds",
+    "https://www.linkedin.com/company/us-census-bureau-economic-census",
+    "https://www.linkedin.com/posts/activity-7510383004939165697-wqmc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ31頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ31頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ31頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ31頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ31頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ31頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ31頁・検索18回）"
+ }
+}

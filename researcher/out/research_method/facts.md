@@ -3635,6 +3635,10 @@
 ## 競合仮説分析（ACH）とOSINTの情報評価の実務ブログ（誤り仮説・合わない証拠・結論を変える証拠）（analysis of competing hypotheses OSINT practitioner blog disconfirming evidence）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
+  - 「【解析】VirusTotal 完全ガイド 使い方とOSINT活用法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「暗号資産（仮想通貨）の送金を追跡する方法｜Etherscanの使い方から専門ツール・詐欺被害時の注意点まで」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「AWS CloudTrail・Azure Monitor・GCP Audit Logsを使ったインシデント調査の手順と課題を初心者にも分かるよう完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「無料フォレンジックツール「Autopsy」の使い方を初心者向けに解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「インストールから削除ファイル復元・タイムライン分析・レポート作成まで、実践手順を網羅」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「INetSimの仕組みから実際の使い方を解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -3646,10 +3650,6 @@
   - 「ホイヤーによるとこのステップが最も重要になります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「以上が情報分析の一つの方法である競合する仮説の分析ACHです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「【解析】urlscan.io 完全ガイド 使い方とOSINT活用法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「GitHubの仕組みから使い方、プログラムのアップロードを解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「お題を読み、自分の手でCensysの検索クエリ（CenQL）を組み立てる想起学習型ドリルです」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「C2サーバの追跡方法：SSL証明やJARM使用」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「【初心者OK】ペネトレーションテストとは？自分のサーバを安全に攻撃する全手順」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 突き合わせ・推定：
   - 「人間は「最初の仮説に合う証拠」ばかり集めてしまう」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「仮説を洗い出す（最低3つ）」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -3667,6 +3667,10 @@
   - 「複数の対立仮説を並べて「どの仮説が最も反証されにくいか」を選ぶ」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「本命の仮説だけでなく、対立仮説と「この情報自体が偽情報・偽旗である」という仮説を必ず含める」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 一次情報の探し方：
+  - 「04_チラシ_中学生、高校生の皆さんへ.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/157?frame_12_page=108）
+  - 「04_不安や悩みがあるときは…一人で悩まず、相談しよう（区市町村立学校用）.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/157?frame_12_page=108）
+  - 「インターネット上の書き込みなどに関する相談・通報窓口のご案内.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/157?frame_12_page=108）
+  - 「令和6年度三田中学校体罰防止スローガン.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/157?frame_12_page=108）
   - 「関係線を採用する前に、元になった各ソースを確認してください」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「メールアドレスや電話番号の調査は、許可された目的と、その目的に関連する公的記録の範囲にとどめましょう」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「で調べ、次に関連する公的な登記簿で裏付けを取ります」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
@@ -3678,11 +3682,9 @@
   - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「年功序列望む若手が増加？採用・定着を左右する「福利厚生」とは」（https://diamond.jp/articles/-/290369）
   - 「インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「第二に、数字や統計です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「数値化は有効な手段ですが、統計は操作可能であることを常に意識する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「第一次情報源とは、ある事象について最初に情報が発せられた出所を指します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
 - 失敗・落とし穴：
+  - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「暗号資産（仮想通貨）の送金を追跡する方法｜Etherscanの使い方から専門ツール・詐欺被害時の注意点まで」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
@@ -3696,8 +3698,6 @@
   - 「hypothesis before touching the next piece. Working down a single hypothesis's column puts you back in confirmation-bias territory — you start reading each item in that hypothesis's favor. The tool's rating panel is built around this: its next-cell navigation walks across the row before dropping to the next evidence item.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
   - 「To choose the most valid one, you need a framework to generate an exhaustive list of competing hypotheses, assess the evidence accurately, and prevent biases from creeping in. He created ACH to help solve this problem.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
   - 「The seven steps are not designed to offer prescriptive advice that leads you to the “right” decision. Instead, they provide a structure for you to follow when assessing the validity of competing hypotheses that mitigates potential biases and promotes logical reasoning.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「: ACH relies on analysts making subjective judgments about what hypotheses are credible, relevant, and significant based on the evidence they collect. There are no checks and balances. The analyst controls the entire flow of information, which can lead to missing, incomplete, or biased conclusions.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「: Assessing whether one piece of evidence is more valuable, reliable, or important than another can be difficult. This can lead to uncertainty and biased conclusions. ACH tries to counter this by focusing on the number of supporting pieces of evidence, but this can lead to overreliance on quantitative metrics.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
 - 実例：
   - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://ameblo.jp/nodes-links/entry-12605882204.html）
@@ -3851,11 +3851,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ14頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
-- 実例：記載なし（読んだ14頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -4138,38 +4138,40 @@
 ## 名寄せ・照合の正解例（正解ラベル）で判定を検証する実務（失敗例・未判定例の扱い・自動で上書きしない）（entity resolution gold standard labeled pairs evaluation precision recall manual review）
 - 文脈：同一性
 - 手順・やり方：
-  - 「名寄せとは？正確な顧客データ管理の方法と活用ポイントを徹底解説 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/name-collection）
-  - 「名寄せとは？正確な顧客データ管理の方法と活用ポイントを徹底解説」（https://data-viz-lab.com/name-collection）
-  - 「本記事では、データの重複や表記ゆれを整理し、信頼できる顧客情報を維持するうえで欠かせないプロセスである名寄せの基本から具体的な実施手順、効率化のポイントまでを体系的にわかりやすく解説します」（https://data-viz-lab.com/name-collection）
-  - 「次に、名寄せを実施する際の基本的な流れを5つのステップに分けて解説します」（https://data-viz-lab.com/name-collection）
-  - 「最初のステップは、」（https://data-viz-lab.com/name-collection）
-  - 「名寄せを実施する方法には、手作業で行うものから自動化されたシステムまで、いくつかのアプローチがあります」（https://data-viz-lab.com/name-collection）
-  - 「目的やデータ量、組織の規模によって最適な方法は異なります」（https://data-viz-lab.com/name-collection）
-  - 「ここでは、代表的な3つの方法を見ていきましょう」（https://data-viz-lab.com/name-collection）
-  - 「小規模な名寄せや初期の整理段階に向いている方法といえるでしょう」（https://data-viz-lab.com/name-collection）
-  - 「導入コストは高めですが、人的工数の削減と品質の両立を図れる点で、今後の主流となる方法といえるでしょう」（https://data-viz-lab.com/name-collection）
-  - 「「自社データの名寄せをしたいけれど、進め方に不安がある」「データ分析の専門家の知見を取り入れたい」という方は、データ業務の実績豊富な弊社、データビズラボにお気軽にご相談ください」（https://data-viz-lab.com/name-collection）
-  - 「貴社の課題や状況に合わせて、名寄せの進め方をご提案させていただきます」（https://data-viz-lab.com/name-collection）
-  - 「名寄せとは？その意味やデータ統合に向けた具体的な進め方を解説 - GENIEE's library」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
-  - 「名寄せとは？その意味やデータ統合に向けた具体的な進め方を解説」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
-  - 「名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「人事データの名寄せとは？同一人物を正しく判定・統合する手順と注意点 |人事管理システム業務効率化ナビ | saireco（サイレコ）人事管理システム」（https://saireco.jp/hr-system-nav/1758/）
+  - 「人事データの名寄せとは？同一人物を正しく判定・統合する手順と注意点」（https://saireco.jp/hr-system-nav/1758/）
+  - 「照合した結果、同じ人物だと確認できてから、対応付けや統合方法を決めます」（https://saireco.jp/hr-system-nav/1758/）
+  - 「社員番号や会社コードの定義を揃える方法は、」（https://saireco.jp/hr-system-nav/1758/）
+  - 「人事データの標準化の進め方｜項目定義・変換ルール・チェック例」（https://saireco.jp/hr-system-nav/1758/）
+  - 「照合のために空白や文字種を揃える場合も、正式な氏名を上書きせず、照合用の項目を別に用意する方法があります」（https://saireco.jp/hr-system-nav/1758/）
+  - 「例えば、人物を継続して識別するIDと、入社から退職までの雇用期間を識別するIDを分ける方法があります」（https://saireco.jp/hr-system-nav/1758/）
+  - 「人事データを名寄せする6つの手順」（https://saireco.jp/hr-system-nav/1758/）
+  - 「根拠が明確な候補と、判断が分かれる候補を同じ方法で処理しないことが重要です」（https://saireco.jp/hr-system-nav/1758/）
+  - 「例外を記録し、ルールを見直す方法」（https://saireco.jp/hr-system-nav/1758/）
+  - 「管理方法の比較は、」（https://saireco.jp/hr-system-nav/1758/）
+  - 「人事情報を一元管理する方法とは？Excel管理の課題とシステムの選び方」（https://saireco.jp/hr-system-nav/1758/）
+  - 「点検項目や改善の進め方は、」（https://saireco.jp/hr-system-nav/1758/）
+  - 「人事データの品質管理｜点検項目と改善の5ステップ」（https://saireco.jp/hr-system-nav/1758/）
+  - 「人物としては同一でも、雇用記録は分けて保持する方法があります」（https://saireco.jp/hr-system-nav/1758/）
 - 突き合わせ・推定：
-  - 「名寄せとは、複数のデータを突き合わせ、重複や不整合を取り除き、同一対象の情報を整理・統合して整合性の取れたデータを構築する作業のことです」（https://data-viz-lab.com/name-collection）
-  - 「データマッチングは、異なるデータベース間で共通項目を照合し、同一人物・同一企業を特定する工程です」（https://data-viz-lab.com/name-collection）
-  - 「どのシステムや部門のデータを統合するのか、どの項目を基準に照合するのかを定義しましょう」（https://data-viz-lab.com/name-collection）
-  - 「たとえば、顧客データの名寄せであれば、氏名・住所・電話番号・メールアドレスといった照合に必要な項目を選定します」（https://data-viz-lab.com/name-collection）
-  - 「氏名や住所、電話番号などの一致率を基準に照合し、同一と判断されたレコードを1件にまとめます」（https://data-viz-lab.com/name-collection）
-  - 「完全一致だけでなく、類似度の高いデータを突き合わせることで、表記の揺れや入力ミスにも対応できます」（https://data-viz-lab.com/name-collection）
-  - 「統合後は、どのデータを採用したのか履歴を残し、検証可能な状態を維持することが重要です」（https://data-viz-lab.com/name-collection）
-  - 「たとえば、VLOOKUP関数やCOUNTIF関数を使えば、同一データの抽出や照合が可能です」（https://data-viz-lab.com/name-collection）
-  - 「これらの技術を用いることで、単純な文字列の一致にとどまらず、意味的な類似性や文脈を踏まえた照合が可能になります」（https://data-viz-lab.com/name-collection）
-  - 「また、名寄せに使用する照合ルールやマッチング方式も事前に検討しておく必要があります」（https://data-viz-lab.com/name-collection）
-  - 「さらに、名寄せの結果を検証し、どの部分で誤判定や漏れが起きたかを分析して改善を重ねることで、品質は徐々に向上します」（https://data-viz-lab.com/name-collection）
-  - 「個人顧客であれば氏名・住所・電話番号・メールアドレスが主な照合項目となり、法人顧客であれば企業名・法人番号・部署名・担当者名が対象になります」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
-  - 「マッチングでは、どの項目を照合キーとして使うか（マッチングキーの設計）と、どの判定方式を使うかの2点が重要です」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
-  - 「大量のデータを手作業で照合するには限界があり、担当者が変わるたびに品質がばらつくという問題も生じます」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
-  - 「項目ごとに固有の表記ゆれパターンがあり、どれを照合に使うかで精度が変わります」（https://salesnow.jp/media/124/）
+  - 「人事データの名寄せとは、複数のシステムや台帳にある情報を照合し、同一人物のレコードを特定して対応付ける作業です」（https://saireco.jp/hr-system-nav/1758/）
+  - 「人事データを正しく名寄せするには、社員IDなどの識別子を軸に複数の項目を照合し、自動的に判定できるデータと人による確認が必要なデータを分けることが大切です」（https://saireco.jp/hr-system-nav/1758/）
+  - 「本記事では、照合キーの決め方から候補抽出、判定、統合、検証までを、人事データ特有の注意点とともに解説します」（https://saireco.jp/hr-system-nav/1758/）
+  - 「名寄せとは、複数のデータに含まれるレコードを照合し、同じ対象を表すものを特定して対応付ける作業です」（https://saireco.jp/hr-system-nav/1758/）
+  - 「照合した結果、同じ人物だと確認できてから、対応付けや統合方法を決めます」（https://saireco.jp/hr-system-nav/1758/）
+  - 「照合キーは社員IDを軸に複数項目で設計する」（https://saireco.jp/hr-system-nav/1758/）
+  - 「照合キーとは、複数のレコードが同一人物を表しているか確認するために使う項目です」（https://saireco.jp/hr-system-nav/1758/）
+  - 「氏名は重要な照合項目ですが、氏名だけで同一人物と判定するのは避けましょう」（https://saireco.jp/hr-system-nav/1758/）
+  - 「照合のために空白や文字種を揃える場合も、正式な氏名を上書きせず、照合用の項目を別に用意する方法があります」（https://saireco.jp/hr-system-nav/1758/）
+  - 「2. 表記と形式を整えて照合用項目を作る」（https://saireco.jp/hr-system-nav/1758/）
+  - 「変換前の値を削除せず、元の値と照合用の値を別々に残すことも大切です」（https://saireco.jp/hr-system-nav/1758/）
+  - 「照合キーを決めたら、どの条件を満たしたレコードを同一人物の候補とするか定めます」（https://saireco.jp/hr-system-nav/1758/）
+  - 「6. 件数・履歴・業務結果を検証する」（https://saireco.jp/hr-system-nav/1758/）
+  - 「特に、行数と人数を分けて検証します」（https://saireco.jp/hr-system-nav/1758/）
+  - 「名寄せを正確に行うため、事前にクレンジングで照合項目の形式を整える場合があります」（https://saireco.jp/hr-system-nav/1758/）
 - 一次情報の探し方：
+  - 「単純に「更新日が新しい値を残す」というルールでは、誤った情報を採用する可能性があります」（https://saireco.jp/hr-system-nav/1758/）
+  - 「正本や原資料を確認してから採用する値を決めます」（https://saireco.jp/hr-system-nav/1758/）
   - 「統合後は、どのデータを採用したのか履歴を残し、検証可能な状態を維持することが重要です」（https://data-viz-lab.com/name-collection）
   - 「完全一致・部分一致・あいまい一致など、どの基準を採用するかを明確にし、データ特性に合った手法を選ぶことが精度向上につながります」（https://data-viz-lab.com/name-collection）
   - 「需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
@@ -4183,40 +4185,38 @@
   - 「sciadv.abi8021_sm.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
   - 「(573.4KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
   - 「A. McCallum, K. Bellare, F. Pereira, A conditional random field for discriminatively-trained finite-state string edit distance. arXiv:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
-  - 「PDF (193.1 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
-  - 「資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 失敗・落とし穴：
+  - 「人事データの名寄せとは？同一人物を正しく判定・統合する手順と注意点 |人事管理システム業務効率化ナビ | saireco（サイレコ）人事管理システム」（https://saireco.jp/hr-system-nav/1758/）
+  - 「人事データの名寄せとは？同一人物を正しく判定・統合する手順と注意点」（https://saireco.jp/hr-system-nav/1758/）
+  - 「本記事では、照合キーの決め方から候補抽出、判定、統合、検証までを、人事データ特有の注意点とともに解説します」（https://saireco.jp/hr-system-nav/1758/）
+  - 「異動、再雇用、退職後の再利用に注意する」（https://saireco.jp/hr-system-nav/1758/）
+  - 「変換ルールに誤りが見つかった場合に、元の情報へ戻って確認できます」（https://saireco.jp/hr-system-nav/1758/）
+  - 「入力誤り、ID再利用、別人への誤登録を確認する」（https://saireco.jp/hr-system-nav/1758/）
+  - 「誤統合と情報欠落を防ぐ5つの注意点」（https://saireco.jp/hr-system-nav/1758/）
+  - 「氏名が異なる場合も、旧姓や入力誤りの可能性があるため、直ちに別人とは判断できません」（https://saireco.jp/hr-system-nav/1758/）
+  - 「また、更新日時が新しくても、入力誤りや未承認の情報である可能性があります」（https://saireco.jp/hr-system-nav/1758/）
+  - 「同姓同名や入力誤りの可能性もあるため、社員ID、入社日、過去の所属など、利用できる別の情報や原資料も確認します」（https://saireco.jp/hr-system-nav/1758/）
   - 「こうした誤りは、経営の信頼性にも関わる重大な問題です」（https://data-viz-lab.com/name-collection）
   - 「各ステップの作業内容と注意点を順に確認します」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
   - 「典型的な失敗パターンを把握した上で、継続的に機能させる仕組みをセットで設計することが重要です」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
   - 「名寄せの失敗は、大きく4つのパターンに集約されます」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
   - 「需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
-  - 「ここを混同したまま着手すると順序を誤り、どれだけ手を動かしても精度が上がりません」（https://salesnow.jp/media/124/）
-  - 「顧客データ統合とは？進め方5ステップ・ツール比較・失敗例まで解説」（https://salesnow.jp/media/124/）
-  - 「多くの場合、それは「データが汚いから」ではなく「汚いデータのせいで判断を誤った」という具体的な失敗体験です」（https://salesnow.jp/media/124/）
-  - 「どのキーも万能ではないため、注意点とセットで理解しておくことが重要です」（https://salesnow.jp/media/124/）
-  - 「なお、企業データベースに接続していない生成AI単体にCSVを貼り付けて名寄せさせると、表記の似た別社を統合するといった誤りが起こります」（https://salesnow.jp/media/124/）
-  - 「RFPには、案件ID、品番、ロット・シリアル、数量、保留理由、処置コード、承認状態、再検査結果、解除時刻について「どこが正本か」「誰が更新できるか」「どこへ通知するか」「失敗時にどう再送するか」を表にします」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
-  - 「ERPへの解除通知だけ失敗した場合、品質側で解除が承認されていても出荷側は保留を維持し、再送または人手復旧を求めます」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
-  - 「正常な記録だけでなく、仕様改訂直後、部分数量のみ保留、計測単位違い、再検査の失敗、顧客承認が必要な特採、原本欠落、同一ロットの複数案件を含めます」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
-  - 「情報システム担当者は連携失敗の検知と復旧を受け持ちますが、品質上の保留を勝手に解除する権限は持ちません」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
-  - 「), the use of a uniform prior on the set of links or nonlinks, in practice, leads to one having a biased estimation of the sample. This, in turn, led to the development of subjective priors on the linkage structure, which have appeared in (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
 - 実例：
-  - 「顧客データの重複や不整合によって、営業の連携ミスや分析結果のゆがみが生まれてしまう――こうした課題を抱える企業は少なくありません」（https://data-viz-lab.com/name-collection）
-  - 「最新情報が反映されず分析結果が不正確になるリスク」（https://data-viz-lab.com/name-collection）
-  - 「企業では、顧客情報や取引先情報などをさまざまなシステムで管理しているケースが多く、同じ顧客が別のIDや表記で登録されていることがあります」（https://data-viz-lab.com/name-collection）
-  - 「BtoB企業では、同一グループ内の複数拠点が個別に管理されているケースが多く、企業単位での正確な名寄せが営業や分析の効率を左右します」（https://data-viz-lab.com/name-collection）
-  - 「結果として、営業担当が同じ顧客に重複してアプローチしたり、別の部署が異なる情報を基に対応したりといった混乱が起こります」（https://data-viz-lab.com/name-collection）
-  - 「たとえば、SFA上では最新の担当者情報に更新されているのに、請求システムでは古い担当者のままになっているようなケースです」（https://data-viz-lab.com/name-collection）
-  - 「結果として、請求書の誤送付や確認作業の手戻りが発生し、業務効率が大きく損なわれます」（https://data-viz-lab.com/name-collection）
-  - 「たとえば、「株式会社」と「(株)」を統一したり、「東京」と「TOKYO」のような表記の違いを修正したりするケースがあります」（https://data-viz-lab.com/name-collection）
-  - 「名寄せでは、顧客の住所や氏名などの個人情報を扱うケースが多く、適切なセキュリティ対策が求められます」（https://data-viz-lab.com/name-collection）
-  - 「さらに、名寄せの結果を検証し、どの部分で誤判定や漏れが起きたかを分析して改善を重ねることで、品質は徐々に向上します」（https://data-viz-lab.com/name-collection）
-  - 「機械的な判断では対応しきれない曖昧なデータや、特例的なケースが存在するため、人の目による最終確認が欠かせません」（https://data-viz-lab.com/name-collection）
-  - 「たとえば、AIが高確率で同一と判断しても、実際には異なる顧客だったというケースがあります」（https://data-viz-lab.com/name-collection）
-  - 「しかし、業務の仕組みやデータ管理の状況によっては、早急に取り組むべきケースがあります」（https://data-viz-lab.com/name-collection）
-  - 「長期間にわたってデータを蓄積している企業では、古い情報と最新の情報が混在しているケースが少なくありません」（https://data-viz-lab.com/name-collection）
-  - 「この状態で名寄せを行わずに分析やマーケティングを実施すると、実際の状況と乖離した結果が出てしまいます」（https://data-viz-lab.com/name-collection）
+  - 「例えば、人事システムの「社員ID：00125」と、勤怠システムの「社員番号：125」が同じ人を指す場合、両方のIDを対応付ける必要があります」（https://saireco.jp/hr-system-nav/1758/）
+  - 「照合した結果、同じ人物だと確認できてから、対応付けや統合方法を決めます」（https://saireco.jp/hr-system-nav/1758/）
+  - 「例えば、過去の所属と現在の所属は、同じ人にひも付く別の履歴として残す必要があります」（https://saireco.jp/hr-system-nav/1758/）
+  - 「例えば、所属は発令記録、住所は承認済みの変更申請、雇用区分は雇用契約に基づいて確認するといったルールです」（https://saireco.jp/hr-system-nav/1758/）
+  - 「例えば、人物を継続して識別するIDと、入社から退職までの雇用期間を識別するIDを分ける方法があります」（https://saireco.jp/hr-system-nav/1758/）
+  - 「例えば、次のように段階を分けます」（https://saireco.jp/hr-system-nav/1758/）
+  - 「確認結果は、次のような項目とともに記録します」（https://saireco.jp/hr-system-nav/1758/）
+  - 「6. 件数・履歴・業務結果を検証する」（https://saireco.jp/hr-system-nav/1758/）
+  - 「データの形式、人物の対応関係、業務で使用した結果を確認します」（https://saireco.jp/hr-system-nav/1758/）
+  - 「例えば、人事管理システムへの移行が目的なら、名寄せ後のデータを小範囲で取り込み、従業員数、所属、履歴、関連情報とのひも付きを確認します」（https://saireco.jp/hr-system-nav/1758/）
+  - 「全件処理は、試行結果に問題がないことを確認してから実施します」（https://saireco.jp/hr-system-nav/1758/）
+  - 「5. 名寄せ結果を他システムへ反映したか確認する」（https://saireco.jp/hr-system-nav/1758/）
+  - 「どのシステムを正本とするか、名寄せ結果をどの方向へ反映するか、過去データをどう扱うかを決めます」（https://saireco.jp/hr-system-nav/1758/）
+  - 「統合前後の人数・行数、履歴、集計結果を検証し、判定根拠とIDの対応関係を記録することが重要です」（https://saireco.jp/hr-system-nav/1758/）
+  - 「3分でわかる！サイレコの機能特徴と活用事例資料をご提供しています」（https://saireco.jp/hr-system-nav/1758/）
 
 ## 分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え）（analytic standards change in analytic judgment explain what changed ICD 203 tradecraft）
 - 文脈：書き方
@@ -6002,8 +6002,8 @@
   - 「Centralized workflows help preserve relationships between collected artifacts and case context.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事（analytic tradecraft key assumptions check indicators alternative hypotheses blog）
 - 文脈：分析の技法
@@ -9641,9 +9641,9 @@
   - 「4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
@@ -12726,11 +12726,11 @@
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）（hypothesis forms moderation mediation business research segment analysis）
 - 文脈：手順

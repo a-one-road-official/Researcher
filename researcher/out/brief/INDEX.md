@@ -8,7 +8,7 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-08 12:29 JST
+## 更新：2026-11-08 12:57 JST
 
 ## この24時間で増えた事実（一部）
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「#humanoid # robot #generalpurposerobot #teleoperation ... #humanoid # robot #generalpurposerobot #teleoperation ... Link」https://www.linkedin.com/posts/takayukiyamazaki_humanoid-robot-generalpurposerobot-activity-7371213694309036032-G9IW
@@ -37,17 +37,25 @@
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「中国車、国内失速も海外で快走 9月の輸出56％増、輸入は半減」https://36kr.jp/492924/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」https://36kr.jp/488876/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題」https://36kr.jp/488876/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（LinkedIn・検索結果の抜粋）：「エッジ AI チップ 関連企業トップ10一覧 - LinkedIn エッジ AI チップ 関連企業トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > エッジ-ai-チッ」https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-%E3%83%81%E3%83%83%E3%83%97%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-polytrack-market-analytics-mcx4e
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エヌビディアなどの AI 半導体、米政府が 輸出 規制案 - Bloomberg — エヌビディアなどの AI 半導体、米政府が 輸出 規制案 - Bloomberg Bloomberg https://www.bloomberg.com 」https://www.bloomberg.com/jp/news/articles/2026-03-05/TBFSPTKK3NY800
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エッジ AI チップ 関連 企業 トップ10一覧 - LinkedIn — エッジ AI チップ 関連 企業 トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > エッジ」https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-%E3%83%81%E3%83%83%E3%83%97%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-polytrack-market-analytics-mcx4e
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エッジ 用途向け AIチップ 2026-2036年：技術、市場、予測 — エッジ 用途向け AIチップ 2026-2036年：技術、市場、予測 IDTechEx https://www.idtechex.com > ai-chips-for」https://www.idtechex.com/ja/research-report/ai-chips-for-edge-applications/1148
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「TSMCやラピダス、キオクシアなどのメーカーの動向や供給不足、シェア推移など関連業界や市場の最新ニュース・解説をタイムリーに発信します」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「」は、半導体サプライチェーンにおいてマレーシアが従来の後工程から、より付加価値の高い前工程のハブへと転換することを目指す政府主導の半導体設計人材育成・スタートアップ支援プログラムだ」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（Facebook・検索結果の抜粋）：「New 80 mhz ai chip enables efficient edge ai inference New 80 mhz ai chip enables efficient edge ai inference Facebook h」https://www.facebook.com/dennis.c.hayes/posts/the-80-mhz-ai-chip-that-could-put-intelligence-everywherethe-article-that-sparke/27055943914016880/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「月極駐車場の管理から周辺領域へ──ニーリー、総額60億円調達で事業拡大」https://kepple.co.jp/articles/vh_svobtf62p
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「AI新興のTAI、12.7億円調達 27年秋にも半導体チップ量産へ - 日本経済新聞」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「人工知能（AI）関連の新興、トウキョウ アーチザン インテリジェンス（TAI、横浜市）はベンチャーキャピタル（VC）などを引受先とする第三者割当増資とみずほ銀行からの借り入れで計12億7000万円を調達した」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「この研究成果を社会実装し、人手不足に悩む社会問題を解決するため、大学発ベンチャー Tokyo Artisan Intelligence (TAI) を起業しました」https://tokyo-ai.co.jp/about/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「TAI の事業を通じてAI研究による成果を社会還元するだけではなく、研究・開発を通じた人材育成に取り組み、次世代を牽引する人材の輩出に取り組む所存です」https://tokyo-ai.co.jp/about/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「知能への需要が加速し、データが生成される現場にますます近づくにつれ、エッジAIは、エッジAIチップのアーキテクチャ設計、最適化、導入を牽引する重要な原動力として台頭しています」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「クラウド環境とは異なり、エッジ環境での導入では、限られた電力予算、厳しいレイテンシ要件、断続的な接続性、そして高まるセキュリティへの期待に対処しなければなりません」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「こうした現実により、チップメーカーは従来の設計アプローチを見直すことを余儀なくされており、ハードウェアとソフトウェアの共同設計、AIチップアーキテクチャ、AIモデルを単一の緊密に連携したシステムとして統合する、包括的なエンジニアリングへと焦」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「エッジAIチップ市場、2033年に9兆台湾ドル突破へ――分散型インテリジェンスの波が半導体勢力図を塗り替える — BigGo ファイナンス」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「エッジAIチップ市場、2033年に9兆台湾ドル突破へ――分散型インテリジェンスの波が半導体勢力図を塗り替える」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「地域別では北米が世界をリードし続ける一方、AMD、Intel、NVIDIA、Qualcomm、Appleなどのテクノロジー大手が、10兆台湾ドル（約50.9兆円）に迫る巨大市場の覇権を巡って積極的に布陣を進めている」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「クラウド環境とは異なり、エッジ環境での導入では、限られた電力予算、厳しいレイテンシ要件、断続的な接続性、そして高まるセキュリティへの期待に対処しなければなりません」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「エッジデバイスが安全性が極めて重要とされる環境や規制の厳しい環境で稼働する機会が増えるにつれ、チップにはエッジAIのセキュリティメカニズムをシリコンに直接組み込む必要があります」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「エッジAIチップの設計：ハードウェア・ソフトウェアの共同設計が、よりスマートなデバイスを実現する仕組み | LTTS」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「エッジAIチップの設計：ハードウェアとソフトウェアの共同設計が、よりスマートなデバイスを実現する仕組み」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「今日、AI分野における最大の課題は、より大規模なモデルの開発ではなく、5ワットの消費電力枠内に知能を収めることにある」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「セキュアエンクレーブ、ハードウェアベースの認証、およびデバイス上の異常検知は、クラウドサービスに常に依存することなく、機密データを保護し、システムの完全性を確保するのに役立ちます」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「これら企業によるAI最適化アーキテクチャに関する最近の製品革新と投資は、市場競争をさらに激化させると予想され、各サプライヤーは民生用および企業向けアプリケーションの両分野で先行者利益の獲得に全力を挙げている」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「私たちは、さまざまな業種にまたがる非常に要求の厳しいクライアントのために、比類のない、綿密で、驚くほど正確な見積もりと予測を作成することに誇りを持っています」https://www.atpress.ne.jp/news/9827371
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「予想され、年平均成長率（CAGR）は32.5％」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「市場調査機関Grand View Researchの最新リポートによると、世界のエッジAIチップ市場は2025年の273億ドル（約4.4兆円）から2033年には2,918億ドル（約46.9兆円）超へ急拡大し、年平均成長率（CAGR）は34.」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「チップ種別ではCPUが依然として主流だが、ASICが33.2%の成長率で最も急成長するカテゴリーとなる」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「米民主党はAIブームを失速させるのか 5つのポイントで解説」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「素材・部材メーカー（住友ベークライト、マルマエ、日東紡など）は業績を伸ばす一方、ルネサスのようにAIシフトに出遅れ、最終赤字を喫する企業も現れています」https://note.com/medicalconsult/n/n76645607f55b
@@ -55,42 +63,34 @@
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜経済（規模・価格・為替）：「2025年第2四半期のNANDメモリ市場全体の売上高は、前四半期比で22％増加し、146億ドルに達しました」https://www.provej.jp/column/ar/semiconductor_industry/
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜自社の競合（商社・代理店・仲介）：「伯東は1953年の創業以来、最新の情報や最先端の技術をいち早くお客様へお届けする技術商社として、生産の効率化を図」https://www.hakuto.co.jp/news/260820.pdf
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の顧客（発注元が求めること）：「IEC42001 AI利活用に際するマネジメントシステムの要求事項を整理 AIシステムを開発・提供・使用する組織 AIシステム普及に伴って、安心・安全な開発・提供・使用が求められる」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜技術（新しい技術・実証）：「対象となるのは、「対象外国事業体」が設計、開発、製造、供給した設備や、その重要部品、ソフトウエア、ファームウエア（ハードウエアを制御するためのソフトウエア）、遠隔アクセス機能などである」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「米で外国製・定置用蓄電池に規制、中国製の扱いが焦点 - 特集 - メガソーラービジネス plus : 日経BP」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「米で外国製・定置用蓄電池に規制、中国製の扱いが焦点」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「報告書によれば、日本国内で補助金を使わずに海外製の蓄電システムを導入した場合、1kWhあたりのコストは2〜4万円程度に抑えられるケースもあるとされています」https://media.e-energy.earth/grid-battery-future/
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「定置用蓄電池 ・ESS関連 市場 の現状と将来展望 2026 — 定置用蓄電池 ・ESS関連 市場 の現状と将来展望 2026 fkg-report.jp https://www.fkg-report.jp > reports」https://www.fkg-report.jp/reports/112603819.html
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「世界の 定置用 蓄電システム 市場2026 -2030年予測 高成長 ... — 世界の 定置用 蓄電システム 市場2026 -2030年予測 高成長 ... エネがえる https://www.enegaeru.com > エネがえるAP」https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「停電時の営業継続により年間推定2,400万円の機会損失を防止できる」https://www.enegaeru.com/battery-bizmodel
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「backlog of projects awaiting grid connection is rooted in existing connection rules that」https://www.renewable-ei.org/pdfdownload/activities/REI_Japan_GridScale_Battery_Storage_Policy_EN_260611.pdf
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「of the relevant departments is limited, backlogs inevitably occur. This is the essence of」https://www.renewable-ei.org/pdfdownload/activities/REI_Japan_GridScale_Battery_Storage_Policy_EN_260611.pdf
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜SNS・note（LinkedIn・検索結果の抜粋）：「What is a Battery Energy Storage System (BESS) and Why is It ... What is a Battery Energy Storage System (BESS) and Why 」https://www.linkedin.com/pulse/what-battery-energy-storage-system-bess-why-essential-singal-sj1wc
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「: 機器販売による15-20%のマージン」https://www.enegaeru.com/battery-bizmodel
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「三菱UFJの実証では、家庭用蓄電池間の電力転送にスマートコントラクトを採用し、仲介手数料を7.5%削減しつつユーザー収益を23%増加させることに成功しています」https://www.enegaeru.com/battery-bizmodel
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「「年間30件以上」を狙う商社系メーカー・ダイヘンが中国電池大手と結んだ長期調達契約｜ジャパンブランディング株式会社」https://note.com/chic_jaguar7283/n/n442916458434
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜社会（人・担い手）：「4. 人材・組織能力の強化」https://www.enegaeru.com/battery-bizmodel
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の顧客（発注元が求めること）：「0.1秒単位の指令応答が要求」https://www.enegaeru.com/battery-bizmodel
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の顧客（発注元が求めること）：「: 要求される継続時間（30分～数時間）を満たす容量設計」https://www.enegaeru.com/battery-bizmodel
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の顧客（発注元が求めること）：「JIS C 4441（電気エネルギー貯蔵システムの安全要求事項）」https://www.enegaeru.com/battery-bizmodel
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「採用したい建材・設備メーカーランキング2019」https://xtech.nikkei.com/atcl/nxt/column/18/02421/062500123/
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「8月26日以前に調達・設置された外国製設備についても、DOEはリスクがあると判断すれば、監視や隔離、セキュリティー強化のほか、交換や撤去などを求めることができる」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「カルコパイライト太陽電池の量産、県がPXPを1.6億円支援」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「「中古太陽光」の売買、査定依頼が前年比4割増に」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「カルコパイライト太陽電池の量産、県がPXPを1.6億円支援」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「3. アービトラージ：価格変動の捕捉」https://www.enegaeru.com/battery-bizmodel
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の競合（奪いに来る側）：「米で外国製・定置用蓄電池に規制、中国製の扱いが焦点 - 特集 - メガソーラービジネス plus : 日経BP」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の競合（奪いに来る側）：「米で外国製・定置用蓄電池に規制、中国製の扱いが焦点」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の競合（奪いに来る側）：「トランプ米大統領は2026年8月26日、外国製の電力設備が米国の基幹電力系統に及ぼす安全保障上のリスクを理由に、国家非常事態を宣言する大統領令「米国基幹電力系統の安全確保（Declaring a National Emergency to 」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜技術（新しい技術・実証）：「ボランティア組織による「ガレージ」ドローンの生産と関連ソフトウェアの開発」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜技術（新しい技術・実証）：「ーンの開発を自主的に開始した5」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜技術（新しい技術・実証）：「ただし初期に開発されたドローンは庭先の「ガレージ」で作れるよう」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客（金を払う側）：「ローン戦争におけるイノベーション2を加速させていると考えられ、各国では調達の仕組みや産業構造の」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客（金を払う側）：「く、 その利益率にも制限があったことから、 当時創設された50 に満たないメーカーのうち現在も活動を」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客（金を払う側）：「の装備の調達に集中していた12」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の顧客（発注元が求めること）：「27 Martin Fornusek, “Government agrees to carry out defense procurement through Prozorro system,” Kyiv Independent, Febr」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の顧客（発注元が求めること）：「55 “Defence Procurement Agency is largest customer of drones in Prozorro,” Ukrinform, June 21, 2024.」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「複数のドローンを協調させる「スウォーム（群れ）技術」を開発するSwarmer 社は、2025 年 9 月に米国」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
-- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「とウクライナから 1500 万ドルを調達したと発表、翌 2026 年には米国新興企業市場で IPO が実施された」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の顧客（発注元が求めること）：「また、蓄電システムの「JC-STAR」（認証制度）により開始されたサイバーセキュリティ対策動向、LFP系が注目されるLiBの正極種類別採用動向、データセンター向けの蓄電システムをBBU、UPS、ESSなどの観点からも整理した」https://www.nikkei.com/article/DGXZRSP714192_S6A021C2000000/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「定置用蓄電池向け電池市場 2045年に15兆円規模に拡大へ、民間調査 | 環境ビジネスオンライン」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「定置用蓄電池向け電池市場 2045年に15兆円規模に拡大へ、民間調査」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「定置用蓄電システム向け蓄電池の世界市場は、2026年の5兆4949億円から2045年には15兆782億円に拡大する見通し」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「企業名 日鉄日立システムソリューションズ株式会社 求人名 【人事総務】社員思いの社風/安定性高く、低い離職率/福利厚生充実 仕事の内容 社内のバックオフィス業務を幅広く担当する人事・総務部にて、社内全体の業務基盤を支える企画・運営業務を担当」https://www.r-agent.com/job_search/kw/%E5%95%86%E7%A4%BE%20%E8%93%84%E9%9B%BB%E6%B1%A0/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「法人であれば、「単純回収が7年か8年か」より、「停電時に操業停止損失を減らせるか」「稟議資料で説明しやすいか」が重要」https://www.enegaeru.com/japan-battery-market-outlook-2026-2030
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「定置用蓄電池 向け電池市場 2045年に15兆円規模に拡大へ — 定置用蓄電池 向け電池市場 2045年に15兆円規模に拡大へ 環境ビジネスオンライン https://www.kankyo-business.jp > news」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「2025年版 定置用蓄電池 （ESS）市場の現状と将来展望 ～家庭 ... — 2025年版 定置用蓄電池 （ESS）市場の現状と将来展望 ～家庭 ... yano.co.jp https://www.yano.co.jp > market」https://www.yano.co.jp/market_reports/C66126800?srsltid=AYCX9vJN888BXP7qRM4BffACJbKMq_osV43l7W6QX0jsM0nk6mTCIvME
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「電気自動車の車載用電池を活用した 定置用蓄電池 システムの ... — 電気自動車の車載用電池を活用した 定置用蓄電池 システムの ... 株式会社ユーラスエナジーホールディングス https://www.eurus-energy.com 」https://www.eurus-energy.com/news/2023/20230529-1750.html
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「商社 蓄電池の転職・求人・中途採用情報｜転職エージェントはリクルートエージェント」https://www.r-agent.com/job_search/kw/%E5%95%86%E7%A4%BE%20%E8%93%84%E9%9B%BB%E6%B1%A0/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「企業名 マテリアルワークス株式会社 求人名 【商社営業/営業事務担当(フロントミドルポジション)】ポジティブアクション 仕事の内容 素材商社として、海外輸出・輸入取引が増大する中、海外営業も含めた輸出入取引実務（商材のロジスティック）業務を」https://www.r-agent.com/job_search/kw/%E5%95%86%E7%A4%BE%20%E8%93%84%E9%9B%BB%E6%B1%A0/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「【業務内容詳細】 営業4割・付随する事務業務6割(※場合により海外出張の機会有) ■海外顧客への提案・営業活動/輸出入書類作成・スケジュール管理/代理店及び物流会社とのやり取り/受注業務・出荷指示・納期調整・月毎の売上データ集計・コレポン業」https://www.r-agent.com/job_search/kw/%E5%95%86%E7%A4%BE%20%E8%93%84%E9%9B%BB%E6%B1%A0/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜社会（人・担い手）：「■新規案件の探索および事業性評価、事業計画の策定 ■投資判断の支援、プロジェクトファイナンス関連業務 ■自治体・官公庁・電力会社等との協議および許認可取得 ■地域調整、パートナー企業との協議や契約交渉 ■社内外ステークホルダーとの調整および」https://www.r-agent.com/job_search/kw/%E5%95%86%E7%A4%BE%20%E8%93%84%E9%9B%BB%E6%B1%A0/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜社会（人・担い手）：「求人票の作成・更新、応募者対応、面接日程の調整、人材紹介会社との連絡、選考状況の管理、内定者の入社フォローなどをお任せします」https://www.r-agent.com/job_search/kw/%E5%95%86%E7%A4%BE%20%E8%93%84%E9%9B%BB%E6%B1%A0/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「採用したい建材・設備メーカーランキング2024」https://xtech.nikkei.com/atcl/nxt/column/18/02421/062500123/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「ウェブマガジン「環境ビジネスオンライン」では、環境業界の注目ニュース・最新トレンド・政策・企業情報解説記事など、実務に役立つ情報・サービスを提供しており、多くの実務層の方々にご参照いただいています」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「カルコパイライト太陽電池も量産工場新設で公的支援 神奈川県から1.6億円」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜技術（新しい技術・実証）：「総合マーケティングビジネスの株式会社富士経済（東京都中央区日本橋 代表取締役 菊地 弘幸)は、調整力活用の本格化により広がりをみせる蓄電池関連ビジネスや、AI需要で沸き立つデータセンターでの需要増加などを受けて活性化している、定置用蓄電シス」https://www.nikkei.com/article/DGXZRSP714192_S6A021C2000000/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜技術（新しい技術・実証）：「米民主党はAIブームを失速させるのか 5つのポイントで解説」https://www.nikkei.com/article/DGXZRSP714192_S6A021C2000000/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜技術（新しい技術・実証）：「2026年に3.8兆円投資！AI時代のインフラ、米蓄電池市場の爆発的成長と日本の展望」https://media.e-energy.earth/grid-battery-future/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の競合（奪いに来る側）：「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」https://www.nikkei.com/article/DGXZRSP714192_S6A021C2000000/
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜政治（法・予算・規制）：「ドローン（無人機）メーカー米最大手でウクライナ軍に製品を供給しているスカイディオが、中国政府の制裁対象とされたことでサプライチェーン（供給網）の危機に直面している」https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜技術（新しい技術・実証）：「中国、3Dプリンター製の格安迎撃機「ドローンキラー」の輸出に照準」https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「米ドローン大手、中国による制裁で打撃 部品不足に - 日経FTザ・ワールド」https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「ドローン（無人機）メーカー米最大手でウクライナ軍に製品を供給しているスカイディオが、中国政府の制裁対象とされたことでサプライチェーン（供給網）の危機に直面している」https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「中国、3Dプリンター製の格安迎撃機「ドローンキラー」の輸出に照準」https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客（金を払う側）：「ドローン（無人機）メーカー米最大手でウクライナ軍に製品を供給しているスカイディオが、中国政府の制裁対象とされたことでサプライチェーン（供給網）の危機に直面している」https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客（金を払う側）：「事情をよく知る関係者らによると、単一の企業から仕入れていたバッテリーの供給も止められ、スカイディオは代替調達先の確保が急務となっている」https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000
 
 ## ファイル
 - 分野_AI_半導体_輸出_dd03fe.md：分野_AI・半導体_輸出
