@@ -8,160 +8,8 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T13:59:48.714701+00:00",
+ "researched_at": "2026-11-08T22:12:21.667127+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "４．母集団労働者数の推計方法の見直し（規模変更時の抽出率逆数の考え方等残された課題について） WG",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "３．達成精度計算等の推計式の検討・公表 有識者",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "➢ これまで、ベンチマーク（ウェイト）として用いる母集団労働者数の推計方法の改善等、断層縮小に向けた検討を",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "いつつ、第４回以降のWGにおいて、実装に向けた更なる検証を進める予定",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• ベンチマーク更新に向けた事業所母集団DBの推計",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• 産業分類間の接続検討のための事業所母集団DBを用いた推計",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "○ その後、新旧データ接続検討ワーキンググループにおいては、標本交替による新旧断層への対応、母集団情報の変更に伴う更新（比推定におけ",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.48 Theory suggests that the APR formula will produce the largest estimate of price change, the GM the least and the RAP a little larger but close to the GM.¹⁰ Empirical examples generally support this proposition,¹¹ although with a small sample as in the example above, substantially different rankings for the RAP formula are possible depending on the prices.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Current thinking as presented in Koskimaki and Vartia (2001) for example is that hedonic equations should have log price as the dependent variable and should be estimated for each period. The use of weighted regressions is also supported by researchers such as Diewert. <back",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "This is often referred to as the Boskin Report, see Boskin (1996). Boskin estimated that the United States CPI was biased upwards by about 1.1 percentage points a year. There were many submissions and views expressed about bias in the US CPI. For a semi–official perspective on the issue see Moulton (1996).",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "fact p is better considered and estimated, not by itself, but in conjunction with q (see",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "year adopted by international agreement can be estimated by extrapolation from data",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "be equally important. Efforts should be made, therefore, to obtain correct estimated",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(contributions to national product) should be estimated as closely as possible for the",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "census data the most careful estimates of weights are hazardous but it may be possible",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "stage of the weighting process. Various devic es may then be used to estimate values of",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "numbers employed in different i ndustries multiplied by estimates of net output per head",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and ready; it can only be accept ed in default of census data. Estimates of weights so",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "for valuation of net output in this sense, estimates of the correct weights should be",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and on the choice of series to represent wo rk done. First, accurate estimates of net",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "by rough estimates of value of net output, by value of gross outpu t, by employment or",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "is continuous, and to estimate the average proportion of the total work which is performed",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "completed units on a work-done basis. A variant of this method starts from an estimate of",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "months and it may be estimated that 5 per c ent of the total work is done in the first",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "for combining these series can be more r oughly estimated than in the main weighting",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "４．母集団労働者数の推計方法の見直し（規模変更時の抽出率逆数の考え方等残された課題について） WG",
@@ -357,6 +205,232 @@
    },
    {
     "quote": "Whatever method is adopted, t here must be an explicit assu mption that two or more",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "4.4 This section concludes with a discussion of issues that arise in price index construction, including changes in observation numbers, quality adjustments, the inclusion of new products and index number bias.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Bias in price indexes",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.82 The following types of bias, typically upwards, have been described by Diewert (1996).",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(i) Elementary index bias, which results from the use of inappropriate formulas for compiling index numbers at the elementary aggregate level",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(ii) Substitution bias, which arises from using formulas at levels above the elementary aggregates which do not allow for substitution in response to changes in relative prices",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(iii) Outlet substitution bias, which occurs when consumers shift their purchases from higher cost outlets to lower cost outlets for the same commodity",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(iv) Quality adjustment bias, which arises from inadequate adjustment for quality changes",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(v) New-goods bias, which arises largely from the failure to include new goods when first introduced into the market.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.83 Although it is almost impossible to eliminate these sources of bias, some measures can be taken to minimise them.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This is often referred to as the Boskin Report, see Boskin (1996). Boskin estimated that the United States CPI was biased upwards by about 1.1 percentage points a year. There were many submissions and views expressed about bias in the US CPI. For a semi–official perspective on the issue see Moulton (1996).",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "As noted earlier, the issue of frequency of re–weighting or chaining is not straightforward. In a situation of price bouncing, chaining can introduce substantial bias into indexes (see for example Szulc (1983)). In general, chaining more frequently than annually, even if feasible in practice, is not recommended because it could introduce bias.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "output, all that is required is that the extrapolation should be free of bias. It could often be",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "４．母集団労働者数の推計方法の見直し（規模変更時の抽出率逆数の考え方等残された課題について） WG",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "３．達成精度計算等の推計式の検討・公表 有識者",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "➢ これまで、ベンチマーク（ウェイト）として用いる母集団労働者数の推計方法の改善等、断層縮小に向けた検討を",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "いつつ、第４回以降のWGにおいて、実装に向けた更なる検証を進める予定",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• ベンチマーク更新に向けた事業所母集団DBの推計",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• 産業分類間の接続検討のための事業所母集団DBを用いた推計",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "○ その後、新旧データ接続検討ワーキンググループにおいては、標本交替による新旧断層への対応、母集団情報の変更に伴う更新（比推定におけ",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.48 Theory suggests that the APR formula will produce the largest estimate of price change, the GM the least and the RAP a little larger but close to the GM.¹⁰ Empirical examples generally support this proposition,¹¹ although with a small sample as in the example above, substantially different rankings for the RAP formula are possible depending on the prices.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Current thinking as presented in Koskimaki and Vartia (2001) for example is that hedonic equations should have log price as the dependent variable and should be estimated for each period. The use of weighted regressions is also supported by researchers such as Diewert. <back",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This is often referred to as the Boskin Report, see Boskin (1996). Boskin estimated that the United States CPI was biased upwards by about 1.1 percentage points a year. There were many submissions and views expressed about bias in the US CPI. For a semi–official perspective on the issue see Moulton (1996).",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "fact p is better considered and estimated, not by itself, but in conjunction with q (see",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "year adopted by international agreement can be estimated by extrapolation from data",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "be equally important. Efforts should be made, therefore, to obtain correct estimated",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(contributions to national product) should be estimated as closely as possible for the",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "census data the most careful estimates of weights are hazardous but it may be possible",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "stage of the weighting process. Various devic es may then be used to estimate values of",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "numbers employed in different i ndustries multiplied by estimates of net output per head",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and ready; it can only be accept ed in default of census data. Estimates of weights so",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "for valuation of net output in this sense, estimates of the correct weights should be",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and on the choice of series to represent wo rk done. First, accurate estimates of net",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "by rough estimates of value of net output, by value of gross outpu t, by employment or",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "is continuous, and to estimate the average proportion of the total work which is performed",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "completed units on a work-done basis. A variant of this method starts from an estimate of",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "months and it may be estimated that 5 per c ent of the total work is done in the first",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "for combining these series can be more r oughly estimated than in the main weighting",
     "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -713,80 +787,6 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "4.4 This section concludes with a discussion of issues that arise in price index construction, including changes in observation numbers, quality adjustments, the inclusion of new products and index number bias.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Bias in price indexes",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.82 The following types of bias, typically upwards, have been described by Diewert (1996).",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(i) Elementary index bias, which results from the use of inappropriate formulas for compiling index numbers at the elementary aggregate level",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(ii) Substitution bias, which arises from using formulas at levels above the elementary aggregates which do not allow for substitution in response to changes in relative prices",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(iii) Outlet substitution bias, which occurs when consumers shift their purchases from higher cost outlets to lower cost outlets for the same commodity",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(iv) Quality adjustment bias, which arises from inadequate adjustment for quality changes",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(v) New-goods bias, which arises largely from the failure to include new goods when first introduced into the market.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.83 Although it is almost impossible to eliminate these sources of bias, some measures can be taken to minimise them.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "This is often referred to as the Boskin Report, see Boskin (1996). Boskin estimated that the United States CPI was biased upwards by about 1.1 percentage points a year. There were many submissions and views expressed about bias in the US CPI. For a semi–official perspective on the issue see Moulton (1996).",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "As noted earlier, the issue of frequency of re–weighting or chaining is not straightforward. In a situation of price bouncing, chaining can introduce substantial bias into indexes (see for example Szulc (1983)). In general, chaining more frequently than annually, even if feasible in practice, is not recommended because it could introduce bias.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "output, all that is required is that the extrapolation should be free of bias. It could often be",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
@@ -798,14 +798,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.soumu.go.jp/main_content/001021457.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
@@ -813,17 +813,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/info/today/033.html",
+    "url": "https://www.stat.go.jp/data/kojinke/index2.html",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/kojinke/index2.html",
     "status": "ok",
     "method": "http"
    },
@@ -858,17 +853,22 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.stat.go.jp/info/today/033.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "url": "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/taikei/041129/shiryou6.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/taikei/041129/shiryou6.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -883,14 +883,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.ecb.europa.eu/pub/pdf/scpsps/ecb.sps40~fb2e530fe6.en.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.sciencedirect.com/science/article/pii/S0828282X24013199",
     "status": "http_403",
     "method": "http"
+   },
+   {
+    "url": "https://www.ecb.europa.eu/pub/pdf/scpsps/ecb.sps40~fb2e530fe6.en.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber12acomparisonofindexnumbermethodologyusedonukwebscrapedpricedata",
@@ -914,10 +914,10 @@
    "query": "統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手） site:note.com",
    "results": [
     "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
-    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
     "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
     "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
-    "https://www.stat.go.jp/info/today/033.html",
+    "https://www.stat.go.jp/data/kojinke/index2.html",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
     "https://www.dlri.co.jp/report/macro/442079.html",
@@ -981,21 +981,19 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
     "https://www.dlri.co.jp/report/macro/442079.html",
-    "https://www.nira.or.jp/paper/opinion-paper/2023/66.html",
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf"
+    "https://www.nira.or.jp/paper/opinion-paper/2023/66.html"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "statistical series break linking coverage change fixed base index bias practice",
    "results": [
     "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "https://www.ecb.europa.eu/pub/pdf/scpsps/ecb.sps40~fb2e530fe6.en.pdf",
     "https://www.sciencedirect.com/science/article/pii/S0828282X24013199",
+    "https://www.ecb.europa.eu/pub/pdf/scpsps/ecb.sps40~fb2e530fe6.en.pdf",
     "https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber12acomparisonofindexnumbermethodologyusedonukwebscrapedpricedata",
     "https://www.imf.org/-/media/files/data/cpi/chapter-9-updating-the-weights-and-linking-series.pdf",
     "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
@@ -1012,9 +1010,19 @@
   },
   {
    "query": "site:note.com 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/takayukimatsuura/n/ncaabf2f7d7ab",
+    "https://note.com/macromill/n/nbf9e14608d06",
+    "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
+    "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
+    "https://note.com/dmaruyama/n/n772058a8a05a",
+    "https://note.com/shijochosa_labo/n/n668acbaf00dc"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）",
@@ -1022,10 +1030,10 @@
     "https://jf.x.com/images/media-preview/2109235605674848689",
     "https://x.com/smo_yutohisano/status/2075165578747342927",
     "https://x.com/i/status/2078135756472901749",
+    "https://x.com/Spia23Tc/status/2114965654780706877",
     "https://x.com/tweet_taiki/status/2107065764557824203",
-    "https://x.com/AISTATSCH/status/2074109719967683039",
-    "https://x.com/nightowlfly00/status/1032789018486833152",
-    "https://x.com/grok/status/2093569067105894692"
+    "https://x.com/rSu8bySbnrSIDPX/status/2079790051085766718",
+    "https://x.com/BSanchorRS6/status/2085335177610592402"
    ],
    "engines": [
     "ddgs:bing"
@@ -1040,11 +1048,11 @@
     "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja",
     "https://jp.linkedin.com/learning/mos-cert-prep-excel-2019-associate/3863053",
     "https://jp.linkedin.com/pulse/hidden-challenge-tracking-documenting-scope-changes-avoid-irfan-ahmad-gstxc?tl=ja",
-    "https://jp.linkedin.com/pulse/concise-basic-stats-series-part-xi-introduction-time-fonseca-aefse?tl=ja",
-    "https://jp.linkedin.com/pulse/mastering-project-scope-changes-balanced-approach-xm6jf?tl=ja"
+    "https://jp.linkedin.com/learning/excel-essential-training-microsoft-365-26102908/4035317",
+    "https://jp.linkedin.com/pulse/concise-basic-stats-series-part-xi-introduction-time-fonseca-aefse?tl=ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -1055,12 +1063,12 @@
     "https://www.facebook.com/nliresearch/posts/1056325512955525/",
     "https://www.facebook.com/SankeiShimbun/posts/28日に政府の地震調査委員会が公表した近畿地域における活断層の長期評価は20の主要活断層帯での見直しに加え24の活断層も新たに対象とした近畿地域は国内でも特に活/1539282641570408/",
     "https://www.facebook.com/seikatsusoken/posts/ニュースリリース生活者への長期時系列調査-生活定点19922024の最新結果を発表本リリースではコロナ禍前後の意識や行動の変化に注目しましたhttpsseika/988707399727818/",
-    "https://www.facebook.com/nliresearch/photos/ｉｍｆ-世界経済見通しワクチン普及などで回復格差が拡大ｉｍｆは今回の見通しを世界経済回復の断層線-亀裂の広がりfault-lines-widen-in-the-/3681231441978994/",
     "https://www.facebook.com/seikatsusoken/posts/サイト更新長期時系列調査生活定点の最新2024年データを公開中膨大なデータをグラフィカルに分かりやすく表示するとともに意外な発見やヒントを得たい方のために様々な/988155229783035/",
+    "https://www.facebook.com/nliresearch/photos/ｉｍｆ-世界経済見通しワクチン普及などで回復格差が拡大ｉｍｆは今回の見通しを世界経済回復の断層線-亀裂の広がりfault-lines-widen-in-the-/3681231441978994/",
     "https://www.facebook.com/ABeamConsultingJapan/posts/アビームコンサルティングは直近５年間で企業において新規事業開発に関与した経験者620名を対象に新規事業の取り組みに関する実態調査を実施しましたことをお知らせしま/1182836766434129/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1088,10 +1096,10 @@
    "query": "統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手） X 投稿",
    "results": [
     "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
-    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
     "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
     "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
-    "https://www.stat.go.jp/info/today/033.html",
+    "https://www.stat.go.jp/data/kojinke/index2.html",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
     "https://www.dlri.co.jp/report/macro/442079.html",
@@ -1099,7 +1107,7 @@
     "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1119,14 +1127,13 @@
     "https://www.linkedin.com/in/christian-k-leblanc"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T06:58:03.882303+00:00"
 }

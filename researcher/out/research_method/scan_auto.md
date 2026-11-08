@@ -2121,7 +2121,7 @@
   - media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho（引用 61件・手法の言葉 3件）
 
 ## 次に読む手法の記事の候補（4-96・機械）
-- 未読（束ねた形で照合）で主題外でない頁：872頁。手法の言葉を含む引用の多い順に
+- 未読（束ねた形で照合）で主題外でない頁：874頁。手法の言葉を含む引用の多い順に
   - cran.r-project.org/web/packages/available_packages_by_date.html（39件）
   - tkfd.or.jp/research/detail.php?id=4396（34件）
   - github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md（33件）

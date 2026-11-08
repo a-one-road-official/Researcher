@@ -2930,8 +2930,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -3166,11 +3166,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -3289,7 +3289,9 @@
   - 「: One of the main causes of stale data is delays in data collection, often due to outdated collection methods. In systems that require real-time updates, relying on manual processes like copy-and-paste or batch processing can result in stale data. For example, the case we discussed earlier of stale data in a ticketing platform was caused by delays in data collection.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「: When businesses rely on outdated data, they struggle to accurately understand customer needs and preferences, leading to a poor customer experience. For example, a recommendation platform using stale data may generate irrelevant suggestions, further reducing customer satisfaction.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「, Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 検索結果の抜粋：
+  - 「Decision log: template, examples, and best practices [2026]Data Refresh in Power BI - How to Keep Your Reports From ...Keep a Decision Log with Clear Revisit Conditions - BiNotePadsWhy English? Recovery Data-Release Rollback NoticesDecision Log Refresh Plan - YogoQ CoreHow to create Data Refresh Rules for Stale CI's - ServiceNow — A decision log is a record of all the important decisions your team」（https://monday.com/blog/project-management/decision-log/）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
@@ -9361,38 +9363,44 @@
 ## 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）（statistical revision policy guidelines error correction magnitude routine methodological revisions ESS handbook）
 - 文脈：推定
 - 手順・やり方：
-  - 「Collection: Methodologies & Working papers」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「The definition of a revision policy at ESS level is an e ssential step towards further harmonisation of infra-annual」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「given on major revisions or changes in methodologies.), Principle 8 "Appropriate Statistical Procedures" (indicator」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「revision policies at Eurostat and Member States level. This has to be performed in a second step.」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「⎯ Producers use revision studies to identify particular methods that could be improved or replaced by」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「the introduction of new methodologies, concepts, classifications, etc.;」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「This general policy will also describe reasons for data revisions, how to manage scheduled revisions, and」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「definitions, adoption of new sources, new methods of estimation, innovation, etc.), they should be」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「revision (current revision policy). This method tr ies to avoid unsettling the user with a barrage of new」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「A consistent and coherent framework for all statisti cs, which produces data always in line with all」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「Usually data producers take the opportunity of a forthcoming major revision to introduce methodological」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「series and inform the users. However, a change in the methods specific to a country or a group of」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「strategy, how to communicate in adva nce information on causes and fores een impact of major revisions,」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「releases, should be implemented as soon as possible. When a methodological change is of major」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「relevance for a country, leading to more accurate figures, the country could introduce the methodological」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「performed in a second step.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• Producers use revision studies to identify particul ar methods that could be improved or」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「because of the introduction of new methodologies, concepts, classifications, etc.;」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「This general policy will also describe reasons for data revisions, how to manage scheduled」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「acts, new definitions, adoption of new sources, new methods of estimation, innovation, etc), they」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「simultaneously in a single revision (current revision policy). This method tries to avoid unsettling」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「accounts. A consistent and coherent framework for a ll statistics, which produces data always in」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「methodological improvements. This should be conside red as good practice as it avoids revisions」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「on the total revisions of the time series and infor m the users. However, a change in the method」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「elements: the pre-announcing strategy, how to commu nicate in advance information on causes」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「methodological change is of major relevance for a c ountry, leading to more accurate figures, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「country could introduce the methodological change a s soon as possible provided that the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「announced and synchronised. Methodological revisions, which foster accuracy of important」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「coordinated. Methodological revisions, which foster accuracy of important indicators mentioned」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「between different domains. Methodological revisions at a country level, which foster accuracy of」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
 - 突き合わせ・推定：
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• Estimates that are not subject to revision could wr ongly be considered more accurate and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• If estimates are affected by sampling or non sampli ng errors, revision analysis can not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「definitively demonstrate the accuracy of initial estimates.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「process (e.g. estimated values for missing response s are replaced by reported figures). Normally,」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Hence, missing values have to be estimated. Since t he estimated values normally do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「assess the new time series. The documentation shall detail the reasons for the revisions, estimate」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「estimated it is important to include information of these methods changes as it has direct impact」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「impact of revisions on their estimates and models ( e.g. business cycle analysis and forecasts).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「between the first release (a flash estimate) and th e second release (a first estimate). This」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「quality of provisional estimates or flash estimates has to be assessed」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「values are estimated. Since it is generally the case that the estimated values do not correspond precisely to」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
   - 「⎯ Estimates that are not subject to revision could wrongly be cons idered more accurate and reliable」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
   - 「⎯ If estimates are affected by sampling or non-samp ling errors, revision analysis cannot definitively」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
   - 「demonstrate the accuracy of initial estimates.」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「(e.g. estimated values for missing responses are repl aced by reported figures) . Normally, these routine」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「values have to be estimated. Since the estimated va lues normally do not correspond exactly to the late」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「new time series. The documentation shall detail the reasons for the revisions, estimate their impact on the」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「identified data vintages. Additionally, when missing obse rvations of particular variables are estimated it」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「of revisions on their estimates and models (e.g. busine ss cycle analysis and forecasts). Hence, statistical」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「first release (a flash estimate) and the second release (a first estimate). This kind of analysis is very」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「important when a flash estimate that is mainly or partly based on an econometric model is released.」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「provisional estimates or flash estimates has to be assessed」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「(b) ‘accuracy’, which refers to the closeness of estimates to the unknown true values;」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
-  - 「Finally, the model used in compiling survey estimates may not reflect reality in which case there is a」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
-  - 「yet much used in the ESS. There is no or little theory to back up estimates from such surveys.」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
 - 一次情報の探し方：
+  - 「inflow of new data extracted from primary sources w ith vintages identification procedures. It」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「databases usually cover only subsets of variables available in primary sources (key indicators), on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「(http://www.oecd.org/dataoecd/44/37/40309451.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「new data extracted from primary sources with vintages identification procedures. It assures convenient」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
   - 「usually cover only subsets of variables available in primary sources (key indicators), on the base of lists」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
   - 「(http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
@@ -9401,25 +9409,29 @@
   - 「ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
   - 「PDF ISBN 978-92-76-09154-7 ISSN 2363-197X doi: 10.2785/666412 KS-GQ-19-006-EN-N」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
 - 失敗・落とし穴：
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「communication of the mistake should be frank and th e revised data should be published at the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「I found mistake(s) in the text」（https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-21-021）
   - 「important errors. When significant mistakes occur, the communication of the mistake should」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
   - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems in the」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
   - 「bias in price indexes is entirely based on economic theory.」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
 - 実例：
-  - 「values are estimated. Since it is generally the case that the estimated values do not correspond precisely to」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「avoided", following the successful example of the ESS guidelines on seasonal adjustment.」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「with relevant improvements in the production process. This could be the case when changes could」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「components for a given regional coverage. For example, the production index for the manufacturing」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「examples are the adoption of a new classification or changes in international statistical standards」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「according to new standards, classifications, source data etc. in order to avoid breaks. In case of an update」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「necessary. In this case, the reason for the removal should be posted. When erroneous data appear in」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「of the error should be assessed using prior empirical knowledge of revisions. For example, the magnitude」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「In the case of significant errors detected with delay (referring to past or sometimes even far past data), the」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「released as soon as possible with a pre-announcemen t. In the case of past errors affecting several」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「case of significant errors affecting past data a decision is taken based upon the relevance of the data and」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「reoccurrence. When feasible, causes and reasons for th e error should be mentioned. A draft example of a」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「economic conditions – for example for comparable ph ases of business cycle, seasonal and calendar」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「⎯ Finally, it is possible to focus on the diagonals lo oking for example to the differences between the」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
-  - 「Non-scheduled revisions should be reduced over time to the case of errors and unforeseeable」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「and "practice to be avoided", following the success ful example of the ESS guidelines on seasonal」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「for users. More details, practical examples and ref erences are included in the ESS handbook on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「in line with relevant improvements in the productio n process. This could be the case when」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Some examples are the adoption of a new classificat ion or changes in international」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「In case of an update of the weights of an index series, the new index using updated weights is」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「be removed whenever necessary. In this case, the re ason for the removal should be posted. When」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「example, the magnitude of the correction could be c ompared to the magnitude of expected」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「In the case of significant errors detected with del ay (referring to past or sometimes even far past」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「relevant figures, released as soon as possible with a pre-announcement. In the case of past errors」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「possible. In case of significant errors affecting past data a decision is taken based upon the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「should be mentioned. A draft example of a harmonised template is presented in annex.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「similar economic conditions – for example for compa rable phases of business cycle, seasonal and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• Finally, it is possible to focus on the diagonals l ooking for example to the differences」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
 
 ## 検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索（search reporting PRISMA-S literature search documentation grey literature result limits reproducible search）
 - 文脈：裏取り
@@ -10609,11 +10621,11 @@
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ6頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
-- 実例：記載なし（読んだ6頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
 - 文脈：method
