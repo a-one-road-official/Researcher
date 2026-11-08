@@ -7,735 +7,11 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T08:34:41.530423+00:00",
+ "researched_at": "2026-11-08T15:51:11.930811+00:00",
  "evidence": {
-  "実例": [
+  "手順・やり方": [
    {
-    "quote": "材料がファイルやWebに存在する、完成形を言葉で定義できる、途中の判断に標準的な基準を置ける、結果を人が検査できる、という四点です",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「競合五社について、料金、対象顧客、主な機能、導入支援、導入事例を公式サイトから調査し、出典URL付きの比較表と、当社が取るべき施策三案をA4三枚相当でまとめる",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "使った資料、実施した処理、除外した情報、未確認事項、生成したファイル、検証結果があれば、翌週の再利用や担当者への引き継ぎが容易になります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価結果を数回分残すと、どの業務をスキル化すべきかも見えてきます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これを「権限テスト」「品質テスト」「保存テスト」に分け、結果を残せば、幹部へ展開するときの標準手順になります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "架空例として、法人向け清掃会社が50件の休眠顧客を整理した結果、価格より「担当変更後に連絡が途切れた」案件が多かったとします",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客インタビューから事例記事を作るときは、導入前の状況、選定理由、実施内容、変化、今後を本人の発言に沿って構成します",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PLAN = [(0, \"X\", \"問い\"), (2, \"note\", \"解説\"), (4, \"LinkedIn\", \"事例\"), (7, \"メルマガ\", \"要約\")]",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "判定結果には該当規則を示し、曖昧なケースを担当者へ回します",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "候補者の経歴と採用要件から、事実確認、行動事例、判断基準、再現性の四段階で質問案を作らせます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "原文を広く共有せず、集約結果の閲覧範囲を限定します",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "現場の対話を始めるたたき台にし、実際の判断事例を追加して育てます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "営業提案なら、顧客情報の確認、課題仮説、社内事例の選定、価格表との照合、責任者レビューまでを一連にします",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "親役は結果の矛盾、根拠、抜けを統合し、最終責任を持ちます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "再開時の二重処理を防ぎ、途中結果を人が読める単位で残すことを品質基準にします",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、財Aの価格が上がり、その結果として財Bの購入が増えるなら、BはAの代替候補と考えられます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "現実の商品では、味、品質、使いやすさなどの違いがあるため、完全代替に当たるケースは限られます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "通勤時間を短くしたい、空き時間に資格の知識を身につけたいなど、利用場面と期待する結果を絞ると、現実に比較される選択肢を見つけやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "理論上の分類と、個別の市場で確認された行動を混同しないことが、分析結果を実務に役立てるうえで欠かせません",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、データの集め方や価格以外の要因によって、推定結果が変わることがあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは、全体の結果の多くが一部の要因から生まれる傾向を示す考え方で、「売上の大半を一部の商品が生む」といった見方に応用されます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、既存データから候補を絞り、顧客が商品を見つけられる状態を整え、結果を見ながら品ぞろえを調整する流れを紹介します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検索結果が少ないときに近い候補や関連カテゴリを案内できれば、顧客が行き止まりになるのを防げます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、特定の商品群のページ閲覧、検索結果からのクリック、問い合わせ、購入、粗利益などを追い、変化を確認します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "掲載点数が増えても、商品情報に不足があり、検索結果に適切に表示されず、需要を持つ顧客に届いていなければ、販売機会は生まれません",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ページの閲覧、検索結果からの遷移、カートへの追加、注文といった段階別の数字を見ると、問題のある箇所を探しやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "類似商品を大量に追加しても、違いが分からなければ顧客は選べず、検索結果も使いにくくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客調査、競合分析、ポジショニング、メッセージング、価格や販売方法の検討、発売準備、社内向けの説明、結果の分析などが含まれます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製品紹介の見出し、ウェブサイトの説明、営業資料、導入事例、デモの流れなど、接点ごとに表現を調整します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "調査結果は、事実、解釈、仮説を分けて整理します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業務の棚卸しで最初の1業務を選び、AIに任せる手順と、人が結果を確かめる方法を設計します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どの業務に使うか、入力してよい情報のルール、人が結果を確認する手順を、業務ごとに設計します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "対象業務を整理し、AIに任せる手順と、結果を確かめる方法を設計します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検査つきの運用では、検査して結果をお渡しします",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "滋賀県「中小企業等におけるデジタル化取組事例」",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "滋賀県が紹介する事例で、当社による支援実績ではありません",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "は、事例のページに書きました",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "お手元のAIに投げる文面と、結果の確かめ方を、そのまま使える形で書きます",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "で、試した結果を見ながら、続けるかどうかを決めていただきます",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "お手元のAIに貼る文面と、結果の確かめ方が、そのまま使える形で書いてあります",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "試した結果と確認・修正の負担を記録し、継続する価値があるかを判断できます",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "は、AIが返した結果について、何をどう確かめれば「本当に終わった」と言えるかの手順です",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "過去の提案書、価格表、事例",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "見本データでの実行結果、想定外の入力での挙動",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "対象期間・業務ID・処理件数・検査結果、確認や修正の記録、根拠資料の所在をまとめます",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "📊 ケース1:働いている時期(積立中)",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "📊 ケース2:リタイア後(取り崩し中)",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1000回のシミュレーションを行い、結果のばらつき(中央値、上位10%、下位10%)を表示します",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "将来の相場変動を1回の予測で決めるのではなく、乱数を使って数多くのシナリオ（本ツールでは1,000回）を生成し、結果のばらつきを統計的に把握する手法です",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらは長期の過去傾向に基づく仮定で将来を保証するものではないため、保守的な値でも試算して結果の幅を見ることをおすすめします",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果の「中央値」「上位10%」「下位10%」は何を意味しますか",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本ツールの具体的な入力例と結果の読み方を解説した記事です",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ケーススタディ：実際の攻撃をATT&CKで読む",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ニュースになるのは暗号化や情報流出という結果ですが、その手前には多くの行動が積み重なっています",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果、対策をしている企業もしていない企業も同じ価格で取引され、対策への投資が報われにくくなります",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "マイクロソフト研究所のコーマック・ハーリーは2009年の論文で、利用者がセキュリティ上の助言を無視するのは、手間に便益が見合わないという合理的な判断の結果だと指摘しました",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "MITREもv20で、AIへの直接・間接のプロンプトインジェクション（外部の文章などに紛れ込ませた指示で、AIに本来の指示を取り違えさせる攻撃）、企業内のAIエージェントを使った情報の持ち出し、AI検索の推薦結果を操作する「AI結果の汚染」、AIを使った防御分析の妨害といった技術を新たに追加しています",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは公表された四つの事例を、ATT&CKの戦術に沿って読み解きます",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "事例1：アスクル（2025年）――「静かな4か月」の意味",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アスクルは2025年12月12日、外部専門機関による調査結果（",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "この周辺作業をまとめて委任できれば、社長は顧客との対話、採用、事業の方向づけ、最終判断といった、本人にしかできない仕事へ時間を戻せます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "逆に、相手との信頼関係そのものを扱う交渉、解雇や採用の最終判断、法務・税務・労務の専門判断、資金移動、対外送信などは、人が責任を持つ工程を残します",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「この顧客は売上が大きくても無理な値引きをしない」「採用は経験年数より、学習速度と顧客への姿勢を見る」「投資は一年以内の回収だけでなく、三年後の選択肢が増えるかを見る」といった基準です",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "次のコードは、経営、営業、経理、採用を混ぜず、入力と成果物の置き場所をそろえるための作業フォルダを作ります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "作業フォルダは「経営」「営業」「経理」「採用」のように責任と資料の境界で分けます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算短信やIR資料は、売上や利益の増減だけでなく、事業別構成、投資、人員、解約や受注の先行指標を複数年で見ます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDFの表やグラフから数値を抽出した場合は、ページ番号と単位を残し、転記後の合計を検算します",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "第5章 文書・PDF・議事録――下書きを資産へ変える",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "商談前には、企業Web、ニュース、採用情報、過去接点から一枚の準備メモを作ります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "請求書PDFの支払予定一覧は、取引先、請求日、支払期限、金額、税区分、振込先、承認状況を抽出し、重複請求と読み取り不明を検出します",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "社長は、単価改定、外注先の再編、採用のどれに投資するかを決める",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "第9章 人事・採用・組織づくり──「人を見る仕事」を雑にしないために使う",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "人事では、採用の合否、評価、配置、処遇をAIに決めさせません",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "社長や部門長が採用責任者を兼ねる中小企業で右腕を置く意味は、自動選考ではなく、人が人を見る時間を取り戻すことです",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "61．求人票を「応募を集める文章」から「入社後の約束」に変える",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDFや文書ファイルなど、見慣れた形式でも安全とは限らないため、送信者と送付の経緯を確認してください",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "求人や社内の役割定義を見る際には、担当する製品、決裁権、評価指標、連携先も合わせて確認すると、期待値のずれを防げます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、PMMを採用すれば自動的に連携が改善するわけではありません",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分析力は、複雑な統計処理を行う能力だけを指すものではありません",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複数の顧客に共通する課題か、解決した場合に顧客や事業へどんな影響があるかを確かめずに採用すると、他の優先課題を後回しにする可能性があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "求人票や社内の職務定義では、担当製品、事業目標、意思決定への参加範囲、連携部署、評価指標を具体的に確認しましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "求人に記載された要件を確認し、自分の経験と不足する領域を分けて整理しましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "メーカーが小売店に採用や売場展開を働きかける場合と、小売店が消費者に購入を促す場合では、相手の判断基準が異なります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "商品を採用してもらうことだけを目指すのではなく、販売現場が顧客に価値を説明し、無理なく取り扱える条件が整っているかを確認することが欠かせません",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "広告では低価格、営業では高品質、採用活動では自由な社風を強調するなど、接点ごとに異なる特徴を主役にすると、顧客や候補者がブランドの中心をつかみにくくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客が商品を選ぶ理由を把握したいなら商品ブランド、採用や取引先との関係、企業全体への信頼を考えたいなら企業ブランドの連想が中心になります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "仕事の場面では、企業の導入事例や取引先の声、採用サイトに掲載された社員の経験などが、判断に影響します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "専門家や業界団体、メディアなど第三者からの評価は、発信者自身の説明を補う手がかりになります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "特許などで一定の権利が保護される場合でも、別の技術で同じ課題を解決する製品が登場することがあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "コモディディ化は、家電や食品のような形のある商品に限らず、ソフトウェア、専門サービス、流通、採用などにも関わります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "元資料と採用件数・金額が一致し、保留と重複の理由が残る",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "では、公的な経営相談、実装・伴走、戦略支援、当社の支援を目的別に整理しています",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3行目が同一明細の重複と確認できた場合、採用するのは2件・合計5,000円",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "問い合わせの返信案、議事録、求人票、ホームページのお知らせなど",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "間違いが入金時や決算まで目に入らない仕事です",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDFからコピーすると改行が崩れることがあるため、別ファイルにしています",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "契約書、就業規則などの労務書類、登記や許認可の書類は作りません",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "対象期間の作業やPDFなどを整理し、報酬計算の根拠と、今後の改善に使う情報を分けて共有します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "登記事項との一致、誇大表現の検出",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ホームページの更新（お知らせ・実績・採用）",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "法律相談、契約書、就業規則、登記や許認可の書類",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "大きなシステムの開発、貴社の名で外部へ送る行為、ツールの購入や契約の手続き、士業の業務（契約書・就業規則・登記・許認可の書類）",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "商業登記の電子証明書を取得するには？準備・申請から受け取りま",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Acrobatで必要なページだけ別のPDFへ抜き出し原本を残",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "将来の相場変動を1回の予測で決めるのではなく、乱数を使って数多くのシナリオ（本ツールでは1,000回）を生成し、結果のばらつきを統計的に把握する手法です",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "が漏えいしたおそれがあると発表し、第3四半期決算の発表も延期しています",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "売上、取引先との信頼、決算の開示スケジュールという、本来はITと無関係に見える経営の根幹が同時に揺らぎました",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "現在の統計を見る限り、この問いはほとんど意味を持ちません",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "前節で見た「VPN機器が最大の入口」という国内の統計と、ここでもつながります",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算発表の延期は、会計処理に必要なデータそのものにアクセスできなかったことを示唆します",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "表の最後のSSVC（Stakeholder-Specific Vulnerability Categorization）は、米カーネギーメロン大学ソフトウェア工学研究所が提案し、CISAが採用した意思決定の枠組みです",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "：自社に該当する脆弱性がKEVに載っている、あるいは国内外の公的機関が悪用を警告している場合や、その機器がインターネットに公開されている場合は、点数にかかわらず優先度を大きく上げます",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ATT&CK、警察庁・IPAの統計、脅威情報",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本稿の統計・制度情報は2026年10月25日時点の公表資料に基づきます",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "付録：副作用を数える（計算・統計・対策・更新の詳細）",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "電力の仮定計算（約9〜33TWh）や、フィッシングを含む被害の統計は、付録にまとめました",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ソローは1987年に、「コンピュータの時代は、どこにでも見えるが、生産性の統計にだけは見えない」と指摘しました",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、企業ごとの変更頻度を測った統計は、本稿では確認できていません",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本編を支える、電力・CO2の計算、DDoS、被害統計と対策の優先順位、ソフトウェア更新の詳細をまとめました",
-    "url": "https://www.eternalstudent.jp/category/IT",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "最初に試す仕事は、売上への影響が大きい一方で、誤りを発見しやすいものが適しています",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この順序なら、失敗したときに原因を、入力不足、指示の曖昧さ、資料の古さ、処理の誤り、確認漏れに分解できます",
+    "quote": "品質が安定したら、定型の比較やファイル生成まで範囲を広げます",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -747,7 +23,25 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "夜間処理も、翌朝までPCが利用可能であること、認証が切れないこと、想定外の外部操作を許可しないこと、失敗時に再開できるログを残すことが前提です",
+    "quote": "実行方法：python codes/code01_workspace.py",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「放置」は管理を捨てる意味ではなく、事前に管理方法を組み込むことです",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実行方法：python codes/code02_acceptance_check.py --create-demo",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -759,62 +53,74 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「機密に注意」より「顧客名、個人名、未公開価格を外部サービスへアップロードしない」のほうが判定できます",
+    "quote": "反対に、毎回例外だらけで検査方法もない仕事は、無理に自動化せず、資料整理や論点抽出だけを任せます",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ただし失敗を見つけるたびに規則を増やすと、矛盾して読みにくくなります",
+    "quote": "反対に、初回は時間が増えても、テンプレートと検査方法が残り、二回目から大幅に短くなる業務には継続価値があります",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "提案の想定Q&Aは、好意的な質問だけでなく、費用、導入負担、失敗時、他社との差、契約期間、社内説明を含む20問を用意します",
+    "quote": "個人共通の設定には、役職、重視する指標、文章の好み、判断の型を置きます",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "発信では、生成量が成果に見えやすいため注意が必要です",
+    "quote": "複雑な仕事は、最初に計画を出して対象、手順、成果物を確認してから実行します",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "LPはAIDA型などの構成を使い、注意、関心、欲求、行動がつながっているかを見ます",
+    "quote": "実行方法：python codes/code03_inventory.py --demo",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "経理領域は効率化余地が大きい一方、誤りがそのまま支払いや申告へつながります",
+    "quote": "これを「権限テスト」「品質テスト」「保存テスト」に分け、結果を残せば、幹部へ展開するときの標準手順になります",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "取引先ごとの与信情報は、支払遅延、取引額、公開財務、信用情報、担当者の事実メモを整理し、注意先をフラグ付けします",
+    "quote": "顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "たとえば「プロジェクトを主導」と書かれていても、予算、人数、本人の裁量、失敗時の対応は分かりません",
+    "quote": "実行方法：python codes/code04_competitor_compare.py --demo",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "各課題には「誰に聞くか」「何を提出すれば完了か」「失敗してもよい範囲」を添えます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "quote": "スパムメールの意味や種類、見分けるポイント、届いたとき・被害が疑われるときの手順を知り、落ち着いて対処できるようにしましょう",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "承認者が判断に必要な情報を起点に、必須項目、条件分岐、入力例、個人情報の注意を設計させます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "quote": "「期限までに支払わなければ法的措置を取る」などの強い表現で、不安や焦りを起こさせるのが典型的です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方、標的型攻撃メールは、特定の組織や個人から情報を盗むなどの目的で送られます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "攻撃者が相手の部署や取引関係を調べ、業務に関係する話題を使うこともあるため、定型的な迷惑メールより判断が難しい場合があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -825,13 +131,43 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "組織では、個人の注意力だけに頼るのではなく、不審なメールを報告する窓口と対応ルールを定めておくことも有効です",
+    "quote": "金銭や機密情報が関係する操作は、メールだけで完結させず、社内の承認手順や複数人での確認を徹底しましょう",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「お客様」など一般的な呼びかけしかない場合は注意材料になりますが、宛名が書かれているだけで正規のメールと判断することもできません",
+    "quote": "文字列を自動生成し、実在するアドレスに届くか試す方法もあるためです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "事業者の問い合わせ先など、業務上必要なアドレスをウェブ上に掲載する場合は、個人用のアドレスと分け、受信フィルターを設定する方法があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "パソコンではクリック前にリンク先のアドレスを確認できる場合がありますが、スマートフォンでは確認方法が異なることもあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "悪質なサイトに誘導されるおそれがあるため、迷惑メールの報告機能を使ってから削除する方法が基本です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アプリやサービスによって操作方法は異なりますが、通常はメールのメニューから「迷惑メールとして報告」などを選択できます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Wi-Fiを切り、有線接続ならケーブルを外し、社内の手順に従ってください",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -843,247 +179,193 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "代替性が強ければ、一方の価格変更によって顧客が他方へ移りやすくなるため、企業は競合価格やキャンペーンに注意を払う必要があります",
+    "quote": "送金先の変更や機密情報の依頼は、既知の連絡手段で再確認する手順を設けると安心です",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "もう一つの注意点は、売上や販売量の変化を、代替関係だけで説明してしまうことです",
+    "quote": "フィッシングメールや標的型攻撃メールのように、よく知る組織や相手を装う場合もあるため、差出人名や文章の印象だけを頼りにせず、メール全体を慎重に確認することが大切です",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "また、代替財の関係を固定的に扱うのも誤りです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ECだけでなく、専門性の高い情報発信やデジタルサービスに応用する考え方、成果を確かめる際の指標、陥りやすい失敗も含めて整理します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ロングテール現象を取り入れるメリットと注意点",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "商品情報の誤りや古い情報が残ると、顧客の誤購入や返品、信頼低下の原因になります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "もう一つの注意点は、売上と利益を同じものとして扱わないことです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "仕様、用途、使用条件、互換性、サイズ、注意事項、納期など、購入判断に必要な情報をそろえます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "成果を測る指標と、よくある失敗への対処",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "よくある失敗は、商品登録数を成果の代わりにしてしまうことです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "もう一つの失敗は、売れ筋を軽視してテールだけに注力することです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同じ種類・件数・完成条件で、準備、操作、確認、修正の時間と、見つかった誤りを残します",
+    "quote": "業務の棚卸しで最初の1業務を選び、AIに任せる手順と、人が結果を確かめる方法を設計します",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例外、重複、失敗したときの停止と復旧",
+    "quote": "当社のAI導入支援は、改善する業務を選び、AIに任せる手順と人が確認する条件を設計する支援です",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "まず現在の作業、必要な完成形、間違いが起きたときの影響を確認します",
+    "quote": "業務棚卸しで対象と進め方を整理し、導入後の確認・修正の負担も見ながら改善します",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "当社が起こした失敗（領収書の整理で、2か月間1枚も保存されていなかった）",
+    "quote": "転記・集計と文書・資料作成の両方を対象に、今の手順と確認の負担を整理します",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "報告の冒頭には失敗が書いてあったのに、毎日の要約が「正常」とまとめていました",
+    "quote": "どの業務に使うか、入力してよい情報のルール、人が結果を確認する手順を、業務ごとに設計します",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "間違いが入金時や決算まで目に入らない仕事です",
+    "quote": "改善したい1業務を伺い、事前に内容を伺った業務をその場で実演し、進め方を相談します",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「間違いに気づくまでにどれだけ時間がかかるか」です",
+    "quote": "レポートと、すぐ試せる1業務の手順",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "間違いに気づくのが遅い仕事には、検査の手順をつけます",
+    "quote": "文書や小さな自動化の制作、手順と検査の改善",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "向き不向きは難易度ではなく「間違いに気づくまでの時間」で決まります",
+    "quote": "対象業務を整理し、AIに任せる手順と、結果を確かめる方法を設計します",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "マニュアル、よくある失敗の記録",
+    "quote": "手順を使って貴社のAIへ実装していただきます",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "件数の突合、読み取りの誤り",
+    "quote": "AIコンサルの相談前でも、現在の手順と完成の条件を書き出すところから始められます",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "枚数の突合、紙の読み取りの誤り",
+    "quote": "読み手・文書の型・確認担当を先に決められるか",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "表記の誤り、重複の検出",
+    "quote": "合同会社Vaynexisは愛荘町を拠点に、滋賀県内の訪問と全国オンラインで、業務棚卸し・手順と検査の設計・AI顧問を行います",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "枚数の突合、読み取り誤りの抽出",
+    "quote": "業務改善は何から？事務の7例と方法の選び分け",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ただし向き不向きは難易度ではなく「間違いに気づくまでの時間」で決まります",
+    "quote": "から、不要な転記の見直し・手順の統一・小さな自動化を比較できます",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ウイルス対策ソフトを入れ、ファイアウォールを設定し、社員にメールの添付ファイルを開かないよう注意する",
+    "quote": "攻撃手法の説明は概念レベルにとどめ、具体的なコマンドやツール名、再現手順は記載していません",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「入力値の検証漏れ」「認証の欠落」のように、個々の欠陥がどのような設計・実装上の誤りから生じたかを体系化しています",
+    "quote": "この問いに答えるには、攻撃がどのような手順で進むのかを、技術の専門家でなくても語れる共通の言葉が必要です",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "英ケンブリッジ大学の故ロス・アンダーソンは2001年の論文で、情報セキュリティの失敗の多くは技術ではなく",
+    "quote": "大量の通信でサービスを止めるDDoS攻撃（分散型サービス妨害攻撃）は可用性の侵害です",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "個人の不注意を責めるだけでは問題は解けません",
+    "quote": "ウイルス、ワーム、トロイの木馬、情報窃取型など多数の型がある",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "どの順番で、何を基準に考えれば判断を誤りにくいか",
+    "quote": "現在は「盗んだデータを公開する」と脅す二重恐喝型が主流",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "現実には、防御は同じ理由で一斉に失敗しがちです",
+    "quote": "を0.0〜10.0の数値で表す評価方法です",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "注意したいのは、EPSSが",
+    "quote": "具体的な判断の型は第5章で扱います",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "は、CVSSだけに頼ることの非効率を数字で示しています（数値は第4版の解説によるもので、第5版では変わりうる点に注意してください）",
+    "quote": "潜伏型の作戦の一部では、",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "7割以上でバックアップからの復元に失敗",
+    "quote": "専門家はこれを「環境寄生型（Living off the Land）」と呼びます",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "第4章で見たように、AIを使った作戦でも成功した侵入は一部にとどまり、AIの誤りが攻撃の足を引っ張る場面もありました",
+    "quote": "同社は再発防止策として、リモートアクセス用のVPN装置の全面廃止、ゼロトラスト型の端末への移行、ネットワークの分離、専任役員と独立組織の設置などを挙げています",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "3. 防御の失敗は経済構造から生じる",
+    "quote": "行動の型で検知する防御は、攻撃者に",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "6. この分析の限界と注意点",
+    "quote": "どれから直すかを決める物差しとして最も広く使われているのがCVSSですが、その使い方には大きな誤解があります",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "この式を使うとき、2つの注意があります",
+    "quote": "特定の組織だけを狙う標的型攻撃は観測データに表れにくい",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "◎ 広告収益と、注意の獲得",
+    "quote": "すべての判断の出発点であり、台帳がなければ以降の手順に進めません",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "このジレンマは、予見の失敗を、個人の能力ではなく、時間の構造の問題として捉え直します",
+    "quote": "フレームワーク：ATT&CKの局面 × 防御の機能",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1451,75 +733,27 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "手順・やり方": [
+  "実例": [
    {
-    "quote": "品質が安定したら、定型の比較やファイル生成まで範囲を広げます",
+    "quote": "材料がファイルやWebに存在する、完成形を言葉で定義できる、途中の判断に標準的な基準を置ける、結果を人が検査できる、という四点です",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "任せる範囲を広げる判断基準は、三回続けて同じ品質が出たか、修正箇所が予測できるか、誤りを検出する方法があるかです",
+    "quote": "「競合五社について、料金、対象顧客、主な機能、導入支援、導入事例を公式サイトから調査し、出典URL付きの比較表と、当社が取るべき施策三案をA4三枚相当でまとめる",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "実行方法：python codes/code01_workspace.py",
+    "quote": "使った資料、実施した処理、除外した情報、未確認事項、生成したファイル、検証結果があれば、翌週の再利用や担当者への引き継ぎが容易になります",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「放置」は管理を捨てる意味ではなく、事前に管理方法を組み込むことです",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実行方法：python codes/code02_acceptance_check.py --create-demo",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "定型業務ではテンプレートを複製し、日付、対象、今回だけの注意点を変えます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "反対に、毎回例外だらけで検査方法もない仕事は、無理に自動化せず、資料整理や論点抽出だけを任せます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "反対に、初回は時間が増えても、テンプレートと検査方法が残り、二回目から大幅に短くなる業務には継続価値があります",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "個人共通の設定には、役職、重視する指標、文章の好み、判断の型を置きます",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複雑な仕事は、最初に計画を出して対象、手順、成果物を確認してから実行します",
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実行方法：python codes/code03_inventory.py --demo",
+    "quote": "評価結果を数回分残すと、どの業務をスキル化すべきかも見えてきます",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1531,103 +765,151 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません",
+    "quote": "架空例として、法人向け清掃会社が50件の休眠顧客を整理した結果、価格より「担当変更後に連絡が途切れた」案件が多かったとします",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "実行方法：python codes/code04_competitor_compare.py --demo",
+    "quote": "顧客インタビューから事例記事を作るときは、導入前の状況、選定理由、実施内容、変化、今後を本人の発言に沿って構成します",
     "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "スパムメールの意味や種類、見分けるポイント、届いたとき・被害が疑われるときの手順を知り、落ち着いて対処できるようにしましょう",
+    "quote": "PLAN = [(0, \"X\", \"問い\"), (2, \"note\", \"解説\"), (4, \"LinkedIn\", \"事例\"), (7, \"メルマガ\", \"要約\")]",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "判定結果には該当規則を示し、曖昧なケースを担当者へ回します",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "候補者の経歴と採用要件から、事実確認、行動事例、判断基準、再現性の四段階で質問案を作らせます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原文を広く共有せず、集約結果の閲覧範囲を限定します",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "現場の対話を始めるたたき台にし、実際の判断事例を追加して育てます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "営業提案なら、顧客情報の確認、課題仮説、社内事例の選定、価格表との照合、責任者レビューまでを一連にします",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "親役は結果の矛盾、根拠、抜けを統合し、最終責任を持ちます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "再開時の二重処理を防ぎ、途中結果を人が読める単位で残すことを品質基準にします",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、財Aの価格が上がり、その結果として財Bの購入が増えるなら、BはAの代替候補と考えられます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「期限までに支払わなければ法的措置を取る」などの強い表現で、不安や焦りを起こさせるのが典型的です",
+    "quote": "現実の商品では、味、品質、使いやすさなどの違いがあるため、完全代替に当たるケースは限られます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "一方、標的型攻撃メールは、特定の組織や個人から情報を盗むなどの目的で送られます",
+    "quote": "通勤時間を短くしたい、空き時間に資格の知識を身につけたいなど、利用場面と期待する結果を絞ると、現実に比較される選択肢を見つけやすくなります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "攻撃者が相手の部署や取引関係を調べ、業務に関係する話題を使うこともあるため、定型的な迷惑メールより判断が難しい場合があります",
+    "quote": "理論上の分類と、個別の市場で確認された行動を混同しないことが、分析結果を実務に役立てるうえで欠かせません",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "特に注意したいのは、送金先の変更、パスワードの共有、秘密情報の送付、緊急のファイル確認など、通常の手順を省略させようとする依頼です",
+    "quote": "また、データの集め方や価格以外の要因によって、推定結果が変わることがあります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "金銭や機密情報が関係する操作は、メールだけで完結させず、社内の承認手順や複数人での確認を徹底しましょう",
+    "quote": "これは、全体の結果の多くが一部の要因から生まれる傾向を示す考え方で、「売上の大半を一部の商品が生む」といった見方に応用されます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "文字列を自動生成し、実在するアドレスに届くか試す方法もあるためです",
+    "quote": "ここでは、既存データから候補を絞り、顧客が商品を見つけられる状態を整え、結果を見ながら品ぞろえを調整する流れを紹介します",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "事業者の問い合わせ先など、業務上必要なアドレスをウェブ上に掲載する場合は、個人用のアドレスと分け、受信フィルターを設定する方法があります",
+    "quote": "検索結果が少ないときに近い候補や関連カテゴリを案内できれば、顧客が行き止まりになるのを防げます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "パソコンではクリック前にリンク先のアドレスを確認できる場合がありますが、スマートフォンでは確認方法が異なることもあります",
+    "quote": "たとえば、特定の商品群のページ閲覧、検索結果からのクリック、問い合わせ、購入、粗利益などを追い、変化を確認します",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "悪質なサイトに誘導されるおそれがあるため、迷惑メールの報告機能を使ってから削除する方法が基本です",
+    "quote": "掲載点数が増えても、商品情報に不足があり、検索結果に適切に表示されず、需要を持つ顧客に届いていなければ、販売機会は生まれません",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "アプリやサービスによって操作方法は異なりますが、通常はメールのメニューから「迷惑メールとして報告」などを選択できます",
+    "quote": "ページの閲覧、検索結果からの遷移、カートへの追加、注文といった段階別の数字を見ると、問題のある箇所を探しやすくなります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Wi-Fiを切り、有線接続ならケーブルを外し、社内の手順に従ってください",
+    "quote": "類似商品を大量に追加しても、違いが分からなければ顧客は選べず、検索結果も使いにくくなります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "従業員には「怪しいメールを開かない」という注意だけでなく、判断に迷った場合の相談先と報告方法を周知します",
+    "quote": "顧客調査、競合分析、ポジショニング、メッセージング、価格や販売方法の検討、発売準備、社内向けの説明、結果の分析などが含まれます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "送金先の変更や機密情報の依頼は、既知の連絡手段で再確認する手順を設けると安心です",
+    "quote": "製品紹介の見出し、ウェブサイトの説明、営業資料、導入事例、デモの流れなど、接点ごとに表現を調整します",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "フィッシングメールや標的型攻撃メールのように、よく知る組織や相手を装う場合もあるため、差出人名や文章の印象だけを頼りにせず、メール全体を慎重に確認することが大切です",
+    "quote": "調査結果は、事実、解釈、仮説を分けて整理します",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1639,43 +921,7 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "当社のAI導入支援は、改善する業務を選び、AIに任せる手順と人が確認する条件を設計する支援です",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業務棚卸しで対象と進め方を整理し、導入後の確認・修正の負担も見ながら改善します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "転記・集計と文書・資料作成の両方を対象に、今の手順と確認の負担を整理します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
     "quote": "どの業務に使うか、入力してよい情報のルール、人が結果を確認する手順を、業務ごとに設計します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "改善したい1業務を伺い、事前に内容を伺った業務をその場で実演し、進め方を相談します",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "レポートと、すぐ試せる1業務の手順",
-    "url": "https://vaynexis.jp/ai",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "文書や小さな自動化の制作、手順と検査の改善",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1687,127 +933,881 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "手順を使って貴社のAIへ実装していただきます",
+    "quote": "検査つきの運用では、検査して結果をお渡しします",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AIコンサルの相談前でも、現在の手順と完成の条件を書き出すところから始められます",
+    "quote": "滋賀県「中小企業等におけるデジタル化取組事例」",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "読み手・文書の型・確認担当を先に決められるか",
+    "quote": "滋賀県が紹介する事例で、当社による支援実績ではありません",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "合同会社Vaynexisは愛荘町を拠点に、滋賀県内の訪問と全国オンラインで、業務棚卸し・手順と検査の設計・AI顧問を行います",
+    "quote": "は、事例のページに書きました",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "業務改善は何から？事務の7例と方法の選び分け",
+    "quote": "お手元のAIに投げる文面と、結果の確かめ方を、そのまま使える形で書きます",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "から、不要な転記の見直し・手順の統一・小さな自動化を比較できます",
+    "quote": "で、試した結果を見ながら、続けるかどうかを決めていただきます",
     "url": "https://vaynexis.jp/ai",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "攻撃手法の説明は概念レベルにとどめ、具体的なコマンドやツール名、再現手順は記載していません",
+    "quote": "お手元のAIに貼る文面と、結果の確かめ方が、そのまま使える形で書いてあります",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "試した結果と確認・修正の負担を記録し、継続する価値があるかを判断できます",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、AIが返した結果について、何をどう確かめれば「本当に終わった」と言えるかの手順です",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "過去の提案書、価格表、事例",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "見本データでの実行結果、想定外の入力での挙動",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "対象期間・業務ID・処理件数・検査結果、確認や修正の記録、根拠資料の所在をまとめます",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "📊 ケース1:働いている時期(積立中)",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "この問いに答えるには、攻撃がどのような手順で進むのかを、技術の専門家でなくても語れる共通の言葉が必要です",
+    "quote": "📊 ケース2:リタイア後(取り崩し中)",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "大量の通信でサービスを止めるDDoS攻撃（分散型サービス妨害攻撃）は可用性の侵害です",
+    "quote": "1000回のシミュレーションを行い、結果のばらつき(中央値、上位10%、下位10%)を表示します",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ウイルス、ワーム、トロイの木馬、情報窃取型など多数の型がある",
+    "quote": "将来の相場変動を1回の予測で決めるのではなく、乱数を使って数多くのシナリオ（本ツールでは1,000回）を生成し、結果のばらつきを統計的に把握する手法です",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "現在は「盗んだデータを公開する」と脅す二重恐喝型が主流",
+    "quote": "これらは長期の過去傾向に基づく仮定で将来を保証するものではないため、保守的な値でも試算して結果の幅を見ることをおすすめします",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "を0.0〜10.0の数値で表す評価方法です",
+    "quote": "結果の「中央値」「上位10%」「下位10%」は何を意味しますか",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "具体的な判断の型は第5章で扱います",
+    "quote": "本ツールの具体的な入力例と結果の読み方を解説した記事です",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "潜伏型の作戦の一部では、",
+    "quote": "ケーススタディ：実際の攻撃をATT&CKで読む",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "専門家はこれを「環境寄生型（Living off the Land）」と呼びます",
+    "quote": "ニュースになるのは暗号化や情報流出という結果ですが、その手前には多くの行動が積み重なっています",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "同社は再発防止策として、リモートアクセス用のVPN装置の全面廃止、ゼロトラスト型の端末への移行、ネットワークの分離、専任役員と独立組織の設置などを挙げています",
+    "quote": "その結果、対策をしている企業もしていない企業も同じ価格で取引され、対策への投資が報われにくくなります",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "行動の型で検知する防御は、攻撃者に",
+    "quote": "マイクロソフト研究所のコーマック・ハーリーは2009年の論文で、利用者がセキュリティ上の助言を無視するのは、手間に便益が見合わないという合理的な判断の結果だと指摘しました",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "どれから直すかを決める物差しとして最も広く使われているのがCVSSですが、その使い方には大きな誤解があります",
+    "quote": "MITREもv20で、AIへの直接・間接のプロンプトインジェクション（外部の文章などに紛れ込ませた指示で、AIに本来の指示を取り違えさせる攻撃）、企業内のAIエージェントを使った情報の持ち出し、AI検索の推薦結果を操作する「AI結果の汚染」、AIを使った防御分析の妨害といった技術を新たに追加しています",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "特定の組織だけを狙う標的型攻撃は観測データに表れにくい",
+    "quote": "ここでは公表された四つの事例を、ATT&CKの戦術に沿って読み解きます",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "すべての判断の出発点であり、台帳がなければ以降の手順に進めません",
+    "quote": "事例1：アスクル（2025年）――「静かな4か月」の意味",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "フレームワーク：ATT&CKの局面 × 防御の機能",
+    "quote": "アスクルは2025年12月12日、外部専門機関による調査結果（",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "最初に試す仕事は、売上への影響が大きい一方で、誤りを発見しやすいものが適しています",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この順序なら、失敗したときに原因を、入力不足、指示の曖昧さ、資料の古さ、処理の誤り、確認漏れに分解できます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "任せる範囲を広げる判断基準は、三回続けて同じ品質が出たか、修正箇所が予測できるか、誤りを検出する方法があるかです",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "夜間処理も、翌朝までPCが利用可能であること、認証が切れないこと、想定外の外部操作を許可しないこと、失敗時に再開できるログを残すことが前提です",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定型業務ではテンプレートを複製し、日付、対象、今回だけの注意点を変えます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「機密に注意」より「顧客名、個人名、未公開価格を外部サービスへアップロードしない」のほうが判定できます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし失敗を見つけるたびに規則を増やすと、矛盾して読みにくくなります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "提案の想定Q&Aは、好意的な質問だけでなく、費用、導入負担、失敗時、他社との差、契約期間、社内説明を含む20問を用意します",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "発信では、生成量が成果に見えやすいため注意が必要です",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LPはAIDA型などの構成を使い、注意、関心、欲求、行動がつながっているかを見ます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "経理領域は効率化余地が大きい一方、誤りがそのまま支払いや申告へつながります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "取引先ごとの与信情報は、支払遅延、取引額、公開財務、信用情報、担当者の事実メモを整理し、注意先をフラグ付けします",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば「プロジェクトを主導」と書かれていても、予算、人数、本人の裁量、失敗時の対応は分かりません",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "各課題には「誰に聞くか」「何を提出すれば完了か」「失敗してもよい範囲」を添えます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "承認者が判断に必要な情報を起点に、必須項目、条件分岐、入力例、個人情報の注意を設計させます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特に注意したいのは、送金先の変更、パスワードの共有、秘密情報の送付、緊急のファイル確認など、通常の手順を省略させようとする依頼です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "組織では、個人の注意力だけに頼るのではなく、不審なメールを報告する窓口と対応ルールを定めておくことも有効です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「お客様」など一般的な呼びかけしかない場合は注意材料になりますが、宛名が書かれているだけで正規のメールと判断することもできません",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "従業員には「怪しいメールを開かない」という注意だけでなく、判断に迷った場合の相談先と報告方法を周知します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "代替性が強ければ、一方の価格変更によって顧客が他方へ移りやすくなるため、企業は競合価格やキャンペーンに注意を払う必要があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "もう一つの注意点は、売上や販売量の変化を、代替関係だけで説明してしまうことです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、代替財の関係を固定的に扱うのも誤りです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ECだけでなく、専門性の高い情報発信やデジタルサービスに応用する考え方、成果を確かめる際の指標、陥りやすい失敗も含めて整理します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ロングテール現象を取り入れるメリットと注意点",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "商品情報の誤りや古い情報が残ると、顧客の誤購入や返品、信頼低下の原因になります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "もう一つの注意点は、売上と利益を同じものとして扱わないことです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仕様、用途、使用条件、互換性、サイズ、注意事項、納期など、購入判断に必要な情報をそろえます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "成果を測る指標と、よくある失敗への対処",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "よくある失敗は、商品登録数を成果の代わりにしてしまうことです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "もう一つの失敗は、売れ筋を軽視してテールだけに注力することです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同じ種類・件数・完成条件で、準備、操作、確認、修正の時間と、見つかった誤りを残します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例外、重複、失敗したときの停止と復旧",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まず現在の作業、必要な完成形、間違いが起きたときの影響を確認します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "当社が起こした失敗（領収書の整理で、2か月間1枚も保存されていなかった）",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "報告の冒頭には失敗が書いてあったのに、毎日の要約が「正常」とまとめていました",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "間違いが入金時や決算まで目に入らない仕事です",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「間違いに気づくまでにどれだけ時間がかかるか」です",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "間違いに気づくのが遅い仕事には、検査の手順をつけます",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "向き不向きは難易度ではなく「間違いに気づくまでの時間」で決まります",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "マニュアル、よくある失敗の記録",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "件数の突合、読み取りの誤り",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "枚数の突合、紙の読み取りの誤り",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "表記の誤り、重複の検出",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "枚数の突合、読み取り誤りの抽出",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし向き不向きは難易度ではなく「間違いに気づくまでの時間」で決まります",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ウイルス対策ソフトを入れ、ファイアウォールを設定し、社員にメールの添付ファイルを開かないよう注意する",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「入力値の検証漏れ」「認証の欠落」のように、個々の欠陥がどのような設計・実装上の誤りから生じたかを体系化しています",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "英ケンブリッジ大学の故ロス・アンダーソンは2001年の論文で、情報セキュリティの失敗の多くは技術ではなく",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個人の不注意を責めるだけでは問題は解けません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どの順番で、何を基準に考えれば判断を誤りにくいか",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "現実には、防御は同じ理由で一斉に失敗しがちです",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "注意したいのは、EPSSが",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、CVSSだけに頼ることの非効率を数字で示しています（数値は第4版の解説によるもので、第5版では変わりうる点に注意してください）",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "7割以上でバックアップからの復元に失敗",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "第4章で見たように、AIを使った作戦でも成功した侵入は一部にとどまり、AIの誤りが攻撃の足を引っ張る場面もありました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3. 防御の失敗は経済構造から生じる",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "6. この分析の限界と注意点",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この式を使うとき、2つの注意があります",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "◎ 広告収益と、注意の獲得",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このジレンマは、予見の失敗を、個人の能力ではなく、時間の構造の問題として捉え直します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "この周辺作業をまとめて委任できれば、社長は顧客との対話、採用、事業の方向づけ、最終判断といった、本人にしかできない仕事へ時間を戻せます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "逆に、相手との信頼関係そのものを扱う交渉、解雇や採用の最終判断、法務・税務・労務の専門判断、資金移動、対外送信などは、人が責任を持つ工程を残します",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「この顧客は売上が大きくても無理な値引きをしない」「採用は経験年数より、学習速度と顧客への姿勢を見る」「投資は一年以内の回収だけでなく、三年後の選択肢が増えるかを見る」といった基準です",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次のコードは、経営、営業、経理、採用を混ぜず、入力と成果物の置き場所をそろえるための作業フォルダを作ります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "作業フォルダは「経営」「営業」「経理」「採用」のように責任と資料の境界で分けます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算短信やIR資料は、売上や利益の増減だけでなく、事業別構成、投資、人員、解約や受注の先行指標を複数年で見ます",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFの表やグラフから数値を抽出した場合は、ページ番号と単位を残し、転記後の合計を検算します",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "第5章 文書・PDF・議事録――下書きを資産へ変える",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "商談前には、企業Web、ニュース、採用情報、過去接点から一枚の準備メモを作ります",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "請求書PDFの支払予定一覧は、取引先、請求日、支払期限、金額、税区分、振込先、承認状況を抽出し、重複請求と読み取り不明を検出します",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "社長は、単価改定、外注先の再編、採用のどれに投資するかを決める",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "第9章 人事・採用・組織づくり──「人を見る仕事」を雑にしないために使う",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "人事では、採用の合否、評価、配置、処遇をAIに決めさせません",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "社長や部門長が採用責任者を兼ねる中小企業で右腕を置く意味は、自動選考ではなく、人が人を見る時間を取り戻すことです",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "61．求人票を「応募を集める文章」から「入社後の約束」に変える",
+    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFや文書ファイルなど、見慣れた形式でも安全とは限らないため、送信者と送付の経緯を確認してください",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "求人や社内の役割定義を見る際には、担当する製品、決裁権、評価指標、連携先も合わせて確認すると、期待値のずれを防げます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、PMMを採用すれば自動的に連携が改善するわけではありません",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析力は、複雑な統計処理を行う能力だけを指すものではありません",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の顧客に共通する課題か、解決した場合に顧客や事業へどんな影響があるかを確かめずに採用すると、他の優先課題を後回しにする可能性があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "求人票や社内の職務定義では、担当製品、事業目標、意思決定への参加範囲、連携部署、評価指標を具体的に確認しましょう",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "求人に記載された要件を確認し、自分の経験と不足する領域を分けて整理しましょう",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "メーカーが小売店に採用や売場展開を働きかける場合と、小売店が消費者に購入を促す場合では、相手の判断基準が異なります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "商品を採用してもらうことだけを目指すのではなく、販売現場が顧客に価値を説明し、無理なく取り扱える条件が整っているかを確認することが欠かせません",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "広告では低価格、営業では高品質、採用活動では自由な社風を強調するなど、接点ごとに異なる特徴を主役にすると、顧客や候補者がブランドの中心をつかみにくくなります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "顧客が商品を選ぶ理由を把握したいなら商品ブランド、採用や取引先との関係、企業全体への信頼を考えたいなら企業ブランドの連想が中心になります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仕事の場面では、企業の導入事例や取引先の声、採用サイトに掲載された社員の経験などが、判断に影響します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "専門家や業界団体、メディアなど第三者からの評価は、発信者自身の説明を補う手がかりになります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特許などで一定の権利が保護される場合でも、別の技術で同じ課題を解決する製品が登場することがあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "コモディディ化は、家電や食品のような形のある商品に限らず、ソフトウェア、専門サービス、流通、採用などにも関わります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "元資料と採用件数・金額が一致し、保留と重複の理由が残る",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "では、公的な経営相談、実装・伴走、戦略支援、当社の支援を目的別に整理しています",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3行目が同一明細の重複と確認できた場合、採用するのは2件・合計5,000円",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "問い合わせの返信案、議事録、求人票、ホームページのお知らせなど",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "間違いが入金時や決算まで目に入らない仕事です",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFからコピーすると改行が崩れることがあるため、別ファイルにしています",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "契約書、就業規則などの労務書類、登記や許認可の書類は作りません",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "対象期間の作業やPDFなどを整理し、報酬計算の根拠と、今後の改善に使う情報を分けて共有します",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "登記事項との一致、誇大表現の検出",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ホームページの更新（お知らせ・実績・採用）",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "法律相談、契約書、就業規則、登記や許認可の書類",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "大きなシステムの開発、貴社の名で外部へ送る行為、ツールの購入や契約の手続き、士業の業務（契約書・就業規則・登記・許認可の書類）",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "商業登記の電子証明書を取得するには？準備・申請から受け取りま",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Acrobatで必要なページだけ別のPDFへ抜き出し原本を残",
+    "url": "https://vaynexis.jp/ai",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "将来の相場変動を1回の予測で決めるのではなく、乱数を使って数多くのシナリオ（本ツールでは1,000回）を生成し、結果のばらつきを統計的に把握する手法です",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "が漏えいしたおそれがあると発表し、第3四半期決算の発表も延期しています",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "売上、取引先との信頼、決算の開示スケジュールという、本来はITと無関係に見える経営の根幹が同時に揺らぎました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "現在の統計を見る限り、この問いはほとんど意味を持ちません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "前節で見た「VPN機器が最大の入口」という国内の統計と、ここでもつながります",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算発表の延期は、会計処理に必要なデータそのものにアクセスできなかったことを示唆します",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "表の最後のSSVC（Stakeholder-Specific Vulnerability Categorization）は、米カーネギーメロン大学ソフトウェア工学研究所が提案し、CISAが採用した意思決定の枠組みです",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：自社に該当する脆弱性がKEVに載っている、あるいは国内外の公的機関が悪用を警告している場合や、その機器がインターネットに公開されている場合は、点数にかかわらず優先度を大きく上げます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ATT&CK、警察庁・IPAの統計、脅威情報",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本稿の統計・制度情報は2026年10月25日時点の公表資料に基づきます",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "付録：副作用を数える（計算・統計・対策・更新の詳細）",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "電力の仮定計算（約9〜33TWh）や、フィッシングを含む被害の統計は、付録にまとめました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ソローは1987年に、「コンピュータの時代は、どこにでも見えるが、生産性の統計にだけは見えない」と指摘しました",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、企業ごとの変更頻度を測った統計は、本稿では確認できていません",
+    "url": "https://www.eternalstudent.jp/category/IT",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本編を支える、電力・CO2の計算、DDoS、被害統計と対策の優先順位、ソフトウェア更新の詳細をまとめました",
     "url": "https://www.eternalstudent.jp/category/IT",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1818,191 +1818,83 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "url": "https://www.datafromfile.com/blog/verify-ai-extracted-data-checklist",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/n2fea75b14200",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
+    "url": "https://www.komos.studio/blog/check-ai-pdf-table-extraction",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://vaynexis.jp/ai",
+    "url": "https://www.gentables.com/tools/pdf-table-extractor",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/170",
+    "url": "https://pdfsdoctor.com/blog/how-to-extract-tables-from-pdf-files-for-data-analysis",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.eternalstudent.jp/category/IT",
+    "url": "https://www.gentables.com/tools/validate-ocr-results",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae9a37b7/20250619_resources_standard_guidelines_guideline_05.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://catalog.monex.co.jp/article/?p=46961",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2d9df6c5/20220509_resources_standard_guidelines_guideline_05.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://quantmemo.com/concepts/table-extraction-from-financial-pdfs",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://medium.com/@kramermark/i-tested-12-best-in-class-pdf-table-extraction-tools-and-the-results-were-appalling-f8a9991d972e",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://www.stackai.com/insights/how-to-extract-tables-from-pdfs-best-strategies-for-accurate-pdf-table-parsing",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.aethovpn.com/en/blog/ai-tools/extract-tables-from-pdfs-with-ai",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://support.safe.com/hc/en-us/articles/25407564475277-Extracting-Text-and-Tabular-Data-from-PDF",
-    "status": "ok",
-    "method": "browser"
    }
   ]
  },
  "search_log": [
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 site:note.com",
-   "results": [
-    "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "https://note.com/jack4manastalk/n/n2fea75b14200"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 2
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 note",
-   "results": [
-    "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://vaynexis.jp/ai",
-    "https://note.com/jack4manastalk/n/n2fea75b14200",
-    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
-    "https://www.eternalstudent.jp/category/IT",
-    "https://gakko.re-career.net/tottori.html",
-    "https://ai-news.iru-yo.com/topic/ai-community/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 やり方",
-   "results": [
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae9a37b7/20250619_resources_standard_guidelines_guideline_05.pdf",
-    "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
-    "https://catalog.monex.co.jp/article/?p=46961",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2d9df6c5/20220509_resources_standard_guidelines_guideline_05.pdf",
-    "https://vaynexis.jp/ai",
-    "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
-    "https://www.eternalstudent.jp/category/IT"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 事例",
-   "results": [
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae9a37b7/20250619_resources_standard_guidelines_guideline_05.pdf",
-    "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
-    "https://catalog.monex.co.jp/article/?p=46961",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2d9df6c5/20220509_resources_standard_guidelines_guideline_05.pdf",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/170",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://vaynexis.jp/ai",
-    "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
-    "https://www.eternalstudent.jp/category/IT"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "verify PDF table extraction errors footnote units row column journalist data checking",
    "results": [
-    "https://quantmemo.com/concepts/table-extraction-from-financial-pdfs",
-    "https://medium.com/@kramermark/i-tested-12-best-in-class-pdf-table-extraction-tools-and-the-results-were-appalling-f8a9991d972e",
+    "https://www.datafromfile.com/blog/verify-ai-extracted-data-checklist",
+    "https://www.komos.studio/blog/check-ai-pdf-table-extraction",
+    "https://www.gentables.com/tools/pdf-table-extractor",
+    "https://pdfsdoctor.com/blog/how-to-extract-tables-from-pdf-files-for-data-analysis",
+    "https://www.gentables.com/tools/validate-ocr-results",
     "https://www.stackai.com/insights/how-to-extract-tables-from-pdfs-best-strategies-for-accurate-pdf-table-parsing",
-    "https://www.aethovpn.com/en/blog/ai-tools/extract-tables-from-pdfs-with-ai",
-    "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "https://support.safe.com/hc/en-us/articles/25407564475277-Extracting-Text-and-Tabular-Data-from-PDF",
-    "https://crimebythenumbers.com/scrape-table.html",
-    "https://www.atlasworkspace.ai/blog/extract-data-from-pdf-ai",
-    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-05",
-    "https://www.datafromfile.com/blog/verify-ai-extracted-data-checklist"
+    "https://notebooklm-guide.com/notebooklm-table-parser/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活",
-   "results": [
-    "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "https://note.com/jack4manastalk/n/n2fea75b14200"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 2
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:x.com PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活",
@@ -2024,63 +1916,35 @@
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 note 社長",
-   "results": [
-    "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://jp.quora.com/%E6%99%82%E3%80%85Mac%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C-%E3%81%93%E3%82%8C",
-    "https://www.eternalstudent.jp/category/IT",
-    "https://ai-news.iru-yo.com/topic/ai-community/",
-    "https://www.asyura2.com/acpn/k/kn/kns/kNSCqYLU/100000.html",
-    "http://www5d.biglobe.ne.jp/~kanyo/kanyo_HP/M001_04nikki4.html",
-    "https://gnews.jp/201104"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活 X 投稿",
-   "results": [
-    "https://openjicareport.jica.go.jp/pdf/1000043852_03.pdf",
-    "https://note.com/comix_ceo162230/n/nefa267965ecf",
-    "https://catalog.monex.co.jp/article/?p=46961",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://vaynexis.jp/ai",
-    "https://www.eternalstudent.jp/category/IT",
-    "https://accclip.marimokikakugk.com/articles/",
-    "https://ai-news.iru-yo.com/topic/ai-community/",
-    "http://www5d.biglobe.ne.jp/~kanyo/kanyo_HP/M001_04nikki4.html",
-    "https://gnews.jp/201104"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "verify PDF table extraction errors footnote units row column journalist data checking site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/company/numantra-technologies-inc",
-    "https://uk.linkedin.com/in/rishabh-data-analytics",
-    "https://www.linkedin.com/advice/3/what-some-tips-tricks-troubleshooting-pdf-data",
     "https://www.linkedin.com/posts/activity-7426681743472041984-COn4",
     "https://www.linkedin.com/pulse/automate-table-data-extraction-from-pdf-reports-2026-guide-lidoapp-htdhc/",
+    "https://www.linkedin.com/advice/3/what-some-tips-tricks-troubleshooting-pdf-data",
     "https://www.linkedin.com/pulse/pdf-table-extraction-comprehensive-guide-2026-lidoapp-wbvmc?tl=en",
     "https://www.linkedin.com/advice/3/what-some-common-challenges-pitfalls-pdf-data",
     "https://www.linkedin.com/top-content/engineering/data-analysis-techniques-for-engineers/how-to-reconstruct-pdf-table-data/",
     "https://www.linkedin.com/pulse/table-extraction-production-what-nobody-tells-you-sáez-ibáñez-e0gne"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T13:58:12.370568+00:00"
 }

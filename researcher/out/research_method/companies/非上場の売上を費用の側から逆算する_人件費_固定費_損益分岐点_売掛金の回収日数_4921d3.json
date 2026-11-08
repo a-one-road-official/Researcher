@@ -8,34 +8,14 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T08:18:44.479486+00:00",
+ "researched_at": "2026-11-08T15:52:05.271220+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://jicpa.or.jp/specialized_field/files/2-11-0-3a-20061020.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.obc.co.jp/360/list/post307",
+    "url": "https://note.com/acct_kanehira/n/nd8ec41836031",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.moneyforward.com/accounting/basic/34/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://dokugaku.info/kensetugyou_keirisi_2kyuu/kakomon/25/kotae-25-dai5_3.htm",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://biz.moneyforward.com/accounting/basic/14252/",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -44,17 +24,27 @@
     "method": "http"
    },
    {
-    "url": "https://dokugaku.info/kensetugyou_keirisi_2kyuu/kakomon/38/kotae-dai5_3.htm",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
+    "url": "https://note.com/pythonddd/n/n02d347b6554a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.motenashio.com/sonekibunkiten-template/",
+    "url": "https://note.com/royal_yak5583/n/n0df1d85b033e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pythonddd/n/na1cbd8cebca1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tad_shimizu/n/nf7cb43f5bc5b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
     "status": "ok",
     "method": "http"
    },
@@ -69,22 +59,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/pythonddd/n/n02d347b6554a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://keisan-navi.jp/bep-keisan/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://hospital.co.jp/management/%E6%90%8D%E7%9B%8A%E5%88%86%E5%B2%90%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "url": "https://note.com/shingeki_saisei/n/nc1130c8745a9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kenshiokada-cpa.jp/break-even-sales-small-business",
+    "url": "https://ishii-cpatax.com/profit-plan-reverse-calculation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motenashio.com/sonekibunkiten-template/",
     "status": "ok",
     "method": "http"
    },
@@ -94,12 +84,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.sba.gov/counseling/plan-your-business/break-even-point-calculator/",
+    "url": "https://hospital.co.jp/management/%E6%90%8D%E7%9B%8A%E5%88%86%E5%B2%90%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.paychex.com/articles/finance/how-to-calculate-your-business-break-even-point",
+    "url": "https://www.bing.com/aclick?ld=e8RF5WMQQzV8aux5Jh9LXNrDVUCUxS4kxQiehXtNFtOG2sk1pwFgeVdpYOPBnAQLKH2lYdhMm_XHXABy18NiNBwnibQdK3zlWpFAY1c-bxEYUzlI3jCQYDKQLcH8CbibIvkEqYCC2nlBRtjyvWORrioeuRv1serXBiyBQKjFSvwJnmdcA3Qfa4k9vxUjg8Qb9aNgAql-Ihj57iEtIVOmc4CbwXp3M&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW5hcGxhbi5jb20lMmZscCUyZnJldmVudWUtcGVyZm9ybWFuY2UtbWFuYWdlbWVudC1kZW1vJTJmJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkcGFpZF9zZWFyY2glMjZ1dG1fY2FtcGFpZ24lM2RmeTI3X3ExX3NhbGVfcnBtJTI2dXRtX3Rlcm0lM2RyZXZlbnVlJTI1MjBwZXJmb3JtYW5jZSUyNTIwbWFuYWdlbWVudCUyNnV0bV9jb250ZW50JTNkYW1lcl9lbi0xMjYwMDQyMDkwNzU4NTkyJTI2bXNjbGtpZCUzZDcyN2Y1NTc0MjkzNzEwN2RkZjM2M2Y4NGIyM2NjYzA0&rlid=727f55742937107ddf363f84b23ccc04",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://costprism.com/break-even/",
     "status": "ok",
     "method": "http"
    },
@@ -109,17 +104,17 @@
     "method": "http"
    },
    {
-    "url": "https://anderscpa.com/learn/blog/what-is-breakeven-point-your-business/",
+    "url": "https://foundercosts.com/tools/break-even-analysis/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://payproglobal.com/answers/what-are-days-to-break-even/",
+    "url": "https://www.theaccountingcycle.com/learn/break-even-analysis",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cfosystemsllc.com/blog/breaking-even-and-beyond-the-value-of-a-break-even-analysis",
+    "url": "https://moneytool.io/calculators/business/break-even-calculator",
     "status": "ok",
     "method": "http"
    }
@@ -129,106 +124,12 @@
   {
    "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 site:note.com",
    "results": [
-    "https://jicpa.or.jp/specialized_field/files/2-11-0-3a-20061020.pdf",
-    "https://www.obc.co.jp/360/list/post307",
-    "https://biz.moneyforward.com/accounting/basic/34/",
-    "https://dokugaku.info/kensetugyou_keirisi_2kyuu/kakomon/25/kotae-25-dai5_3.htm",
-    "https://biz.moneyforward.com/accounting/basic/14252/",
+    "https://note.com/acct_kanehira/n/nd8ec41836031",
     "https://note.com/shijochosa_labo/n/neb7202c7e2e7",
     "https://note.com/pythonddd/n/n02d347b6554a",
-    "https://note.com/acct_kanehira/n/nd8ec41836031",
     "https://note.com/royal_yak5583/n/n0df1d85b033e",
-    "https://note.com/numera_flow/n/naccef947d218"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 12
-  },
-  {
-   "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 note",
-   "results": [
-    "https://www.obc.co.jp/360/list/post307",
-    "https://biz.moneyforward.com/accounting/basic/34/",
-    "https://dokugaku.info/kensetugyou_keirisi_2kyuu/kakomon/38/kotae-dai5_3.htm",
-    "https://biz.moneyforward.com/accounting/basic/14252/",
-    "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
-    "https://www.motenashio.com/sonekibunkiten-template/",
-    "https://kmp.or.jp/soneki-bunkiten-keisan/",
-    "https://www.ysk-tax.com/post/損益分岐点分析でわかる売上目標の立て方-「感覚の目標」から「根拠ある数字」へ",
-    "https://note.com/pythonddd/n/n02d347b6554a",
-    "https://hospital.co.jp/management/損益分岐シミュレーター/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 11
-  },
-  {
-   "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 やり方",
-   "results": [
-    "https://jicpa.or.jp/specialized_field/files/2-11-0-3a-20061020.pdf",
-    "https://www.obc.co.jp/360/list/post307",
-    "https://biz.moneyforward.com/accounting/basic/34/",
-    "https://dokugaku.info/kensetugyou_keirisi_2kyuu/kakomon/25/kotae-25-dai5_3.htm",
-    "https://biz.moneyforward.com/accounting/basic/14252/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 5
-  },
-  {
-   "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 事例",
-   "results": [
-    "https://jicpa.or.jp/specialized_field/files/2-11-0-3a-20061020.pdf",
-    "https://www.obc.co.jp/360/list/post307",
-    "https://biz.moneyforward.com/accounting/basic/34/",
-    "https://dokugaku.info/kensetugyou_keirisi_2kyuu/kakomon/25/kotae-25-dai5_3.htm",
-    "https://biz.moneyforward.com/accounting/basic/14252/",
-    "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
-    "https://www.ysk-tax.com/post/損益分岐点分析でわかる売上目標の立て方-「感覚の目標」から「根拠ある数字」へ",
-    "https://kmp.or.jp/soneki-bunkiten-keisan/",
-    "https://keisan-navi.jp/bep-keisan/",
-    "https://hospital.co.jp/management/損益分岐シミュレーター/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 12
-  },
-  {
-   "query": "estimate private company revenue from cost structure break-even accounts receivable days",
-   "results": [
-    "https://www.sba.gov/counseling/plan-your-business/break-even-point-calculator/",
-    "https://www.paychex.com/articles/finance/how-to-calculate-your-business-break-even-point",
-    "https://www.wallstreetprep.com/knowledge/break-even-point/",
-    "https://anderscpa.com/learn/blog/what-is-breakeven-point-your-business/",
-    "https://payproglobal.com/answers/what-are-days-to-break-even/",
-    "https://www.cfosystemsllc.com/blog/breaking-even-and-beyond-the-value-of-a-break-even-analysis",
-    "https://www.rho.co/blog/what-is-break-even-point",
-    "https://stripe.com/resources/more/how-to-calculate-the-break-even-point",
-    "https://som.yale.edu/sites/default/files/2025-04/A%20Primer%20on%20Breakeven%20Analysis.pdf",
-    "https://costprism.com/break-even/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "site:note.com 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合",
-   "results": [
-    "https://note.com/pythonddd/n/n02d347b6554a",
-    "https://note.com/shijochosa_labo/n/neb7202c7e2e7",
-    "https://note.com/numera_flow/n/naccef947d218",
-    "https://note.com/royal_yak5583/n/n0df1d85b033e",
-    "https://note.com/sghr_tkn/n/nb39bbf62d9ce",
-    "https://note.com/acct_kanehira/n/nd8ec41836031",
+    "https://note.com/pythonddd/n/na1cbd8cebca1",
+    "https://note.com/tad_shimizu/n/nf7cb43f5bc5b",
     "https://note.com/shingeki_saisei/n/nc1130c8745a9"
    ],
    "engines": [
@@ -237,10 +138,103 @@
    "n_hits": 7
   },
   {
+   "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 note",
+   "results": [
+    "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
+    "https://kmp.or.jp/soneki-bunkiten-keisan/",
+    "https://www.ysk-tax.com/post/損益分岐点分析でわかる売上目標の立て方-「感覚の目標」から「根拠ある数字」へ",
+    "https://note.com/pythonddd/n/n02d347b6554a",
+    "https://keisan-navi.jp/bep-keisan/",
+    "https://note.com/shingeki_saisei/n/nc1130c8745a9",
+    "https://ishii-cpatax.com/profit-plan-reverse-calculation/",
+    "https://www.bing.com/aclick?ld=e8GEFH6MmY_l_rMbad_Ae7KzVUCUwk1PmfeiBf8i28xsTZJYFwl2MWtbF8N0DBxA2gNS2pcWH_seJLEX1Cg5vEYpIOnpD88t9db4Q4V90hICrohJJmd_CbahPGl-hg08p9g1QLTiqkLzVMowHz95hOjVOc1TslTjFY5sDRLH2UFBkQ--8zvBH6L7d-apAFwfydv67v9U74TMWdna7Nehkm4250yyc&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA3NjU4NjU3Mjg0NyUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODQxODc0MjkzNCUyNmRzX2FfY2lkJTNkNDAxMDU1NTY4JTI2ZHNfYV9jYWlkJTNkMjAyMDU4NzQ5NTclMjZkc19hX2FnaWQlM2QxNTI1NzM3NzAzMDclMjZkc19hX2xpZCUzZGt3ZC04OTMwMjUwOSUyNiUyNmRzX2VfYWRpZCUzZDc3OTI4MTA4NTQxNDMxJTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtNzc5MjgzMDMzNTAwNzMlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnd3dy5zYWdlLmNvbSUyZmVuLWNhJTJmY3AlMmZkZW1vLWdvb2dsZSUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZHBhaWRzZWFyY2glMjZ1dG1fY2FtcGFpZ24lM2RDQV9FTiUyNTdDQmluZyUyNTdDTWVkaXVtJTI1N0NHZW5lcmljX0ludGFjY3QlMmZDb3JlRmluYW5jZSh0Q1BBLU11bHRpcGxlKU5BX01FRElOQ1RfJTI2dXRtX2NvbnRlbnQlM2RHZW5lcmljX0ludGFjY3QlMmZGaW5hbmNlKE11bHRpcGxlKSUyNTdDRGVtbyUyZk1lZGl1bSUyNnV0bV90ZXJtJTNkZmluYW5jZSUyYm1hbmFnZW1lbnQlMjZnY2xpZCUzZGI5ZDhjMGY0Y2IxYTEyMWUxMmJiYWEwNDUxYTc2Yzg5JTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZtc2Nsa2lkJTNkYjlkOGMwZjRjYjFhMTIxZTEyYmJhYTA0NTFhNzZjODklMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RDQV9FTiUyNTdDQmluZyUyNTdDTWVkaXVtJTI1N0NHZW5lcmljX0ludGFjY3QlMjUyRkNvcmVGaW5hbmNlKHRDUEEtTXVsdGlwbGUpTkFfTUVESU5DVF8lMjZ1dG1fdGVybSUzZGZpbmFuY2UlMjUyMG1hbmFnZW1lbnQlMjZ1dG1fY29udGVudCUzZEdlbmVyaWNfSW50YWNjdCUyNTJGRmluYW5jZShNdWx0aXBsZSklMjU3Q0RlbW8lMjUyRk1lZGl1bQ&rlid=b9d8c0f4cb1a121e12bbaa0451a76c89"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 やり方",
+   "results": [
+    "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
+    "https://www.motenashio.com/sonekibunkiten-template/",
+    "https://www.ysk-tax.com/post/損益分岐点分析でわかる売上目標の立て方-「感覚の目標」から「根拠ある数字」へ",
+    "https://kmp.or.jp/soneki-bunkiten-keisan/",
+    "https://keisan-navi.jp/bep-keisan/",
+    "https://curiosity-biz.co.jp/insights/soneki-bunkiten-bunseki/",
+    "https://ishii-cpatax.com/profit-plan-reverse-calculation/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 事例",
+   "results": [
+    "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
+    "https://www.ysk-tax.com/post/損益分岐点分析でわかる売上目標の立て方-「感覚の目標」から「根拠ある数字」へ",
+    "https://kmp.or.jp/soneki-bunkiten-keisan/",
+    "https://www.motenashio.com/sonekibunkiten-template/",
+    "https://hospital.co.jp/management/損益分岐シミュレーター/",
+    "https://keisan-navi.jp/bep-keisan/",
+    "https://curiosity-biz.co.jp/insights/soneki-bunkiten-bunseki/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "estimate private company revenue from cost structure break-even accounts receivable days",
+   "results": [
+    "https://www.bing.com/aclick?ld=e8RF5WMQQzV8aux5Jh9LXNrDVUCUxS4kxQiehXtNFtOG2sk1pwFgeVdpYOPBnAQLKH2lYdhMm_XHXABy18NiNBwnibQdK3zlWpFAY1c-bxEYUzlI3jCQYDKQLcH8CbibIvkEqYCC2nlBRtjyvWORrioeuRv1serXBiyBQKjFSvwJnmdcA3Qfa4k9vxUjg8Qb9aNgAql-Ihj57iEtIVOmc4CbwXp3M&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW5hcGxhbi5jb20lMmZscCUyZnJldmVudWUtcGVyZm9ybWFuY2UtbWFuYWdlbWVudC1kZW1vJTJmJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkcGFpZF9zZWFyY2glMjZ1dG1fY2FtcGFpZ24lM2RmeTI3X3ExX3NhbGVfcnBtJTI2dXRtX3Rlcm0lM2RyZXZlbnVlJTI1MjBwZXJmb3JtYW5jZSUyNTIwbWFuYWdlbWVudCUyNnV0bV9jb250ZW50JTNkYW1lcl9lbi0xMjYwMDQyMDkwNzU4NTkyJTI2bXNjbGtpZCUzZDcyN2Y1NTc0MjkzNzEwN2RkZjM2M2Y4NGIyM2NjYzA0&rlid=727f55742937107ddf363f84b23ccc04",
+    "https://costprism.com/break-even/",
+    "https://www.wallstreetprep.com/knowledge/break-even-point/",
+    "https://foundercosts.com/tools/break-even-analysis/",
+    "https://www.theaccountingcycle.com/learn/break-even-analysis",
+    "https://moneytool.io/calculators/business/break-even-calculator",
+    "https://dothecalculation.com/blog/business/break-even-analysis",
+    "https://www.ultimatefinancecalculator.com/calculators/break-even-analysis-for-businesses-calculator/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合",
+   "results": [
+    "https://note.com/pythonddd/n/n02d347b6554a",
+    "https://note.com/shijochosa_labo/n/neb7202c7e2e7",
+    "https://note.com/numera_flow/n/naccef947d218",
+    "https://note.com/acct_kanehira/n/nd8ec41836031",
+    "https://note.com/royal_yak5583/n/n0df1d85b033e",
+    "https://note.com/tad_shimizu/n/nf7cb43f5bc5b",
+    "https://note.com/shingeki_saisei/n/nc1130c8745a9",
+    "https://www.bing.com/aclick?ld=e8sCYI5ndNq0dUfxWmQSo2uDVUCUzKGW5FOAzosgRzGHtPzqoVNBMu2FjS1uOMq0gIt69Kb2Q6mUufpNl-_DfwUYXett9N-CsBjE3Mn6yriPlT3QXXBCYtlmT06KSxWTmRowSYylghImiKA44nh4YxeNd8hx3yeKZqTcEj9LWMD3oAPCVBDjqaiIRYPWH_DfaxCAjiCqtIC-uKYtXt88S1x_AIPg4&u=aHR0cHMlM2ElMmYlMmZwYWdlcy5lLm5vcnRoZXJudHJ1c3QuY29tJTJmd20tcXNicy1vcHBvcnR1bml0aWVzLmh0bWwlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwcGMlMjZ1dG1fY2FtcGFpZ24lM2R3bV9nYV9xc2JzX2xnJTI2dXRtX2NvbnRlbnQlM2R3bV9xc2JzX3NwZWNpZmljJTI2bXNjbGtpZCUzZGJmYzJjMDIwZjhjYTE5ZTgzMWNiYWFkMDYzZDViYjk5JTI2dXRtX3Rlcm0lM2Rxc2JzJTI1MjBzYWxlJTI1MjBhbmQlMjUyMHRheCUyNTIwaW1wYWN0&rlid=bfc2c020f8ca19e831cbaad063d5bb99"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
    "query": "site:x.com 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/fumi_beyond/status/2104473918564102208",
+    "https://x.com/settakick/status/2078225262978732039",
+    "https://x.com/noct_luna_note/status/2111944732238860464",
+    "https://x.com/takeya_shogo/status/2040655676368978058",
+    "https://x.com/fumi_beyond/status/2088845899266929033",
+    "https://x.com/ChikashiKakehi/status/2082934265445323193",
+    "https://x.com/ssc_nakamitsu/status/1690944334487773184"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合",
@@ -248,9 +242,9 @@
     "https://www.linkedin.com/posts/yosuke-yoshida_妻の友人が飲食店を起ち上げるということで面白そうなので手伝っております-検討ポイント-activity-7274921316946735105-fUvr",
     "https://jp.linkedin.com/posts/美映-遠藤-440178350_採用や一括投資のリスクを排除して売上を逆算する動線構造を整える-朝の投稿-activity-7482365711948869632-EL8-",
     "https://jp.linkedin.com/learning/building-financial-models-for-decision-making/10309003",
-    "https://jp.linkedin.com/posts/masahiro-nishi-a1990452_中小企業はthe-modelをどう取り入れる分業を急がず売上から逆算する-activity-7503950619393830913-Bv1V",
-    "https://www.linkedin.com/posts/真二-山内-b5288844_計数計画の策定5計数計画の作成手順とは-事業再生シリーズno76-計数計画-activity-7245556425823846401--AnG",
     "https://jp.linkedin.com/posts/tigermonday_中小企業はthe-modelをどう取り入れる分業を急がず売上から逆算する-activity-7503950613320232960-LBbJ",
+    "https://www.linkedin.com/posts/真二-山内-b5288844_計数計画の策定5計数計画の作成手順とは-事業再生シリーズno76-計数計画-activity-7245556425823846401--AnG",
+    "https://jp.linkedin.com/posts/masahiro-nishi-a1990452_中小企業はthe-modelをどう取り入れる分業を急がず売上から逆算する-activity-7503950619393830913-Bv1V",
     "https://jp.linkedin.com/in/歩-塚本-5571672a"
    ],
    "engines": [
@@ -277,71 +271,60 @@
   {
    "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 note 社長",
    "results": [
-    "https://biz.moneyforward.com/accounting/basic/34/",
-    "https://biz.moneyforward.com/accounting/basic/14252/",
     "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
-    "https://www.motenashio.com/sonekibunkiten-template/",
     "https://kmp.or.jp/soneki-bunkiten-keisan/",
-    "https://www.kenshiokada-cpa.jp/break-even-sales-small-business",
-    "https://hospital.co.jp/management/損益分岐シミュレーター/",
     "https://www.ysk-tax.com/post/損益分岐点分析でわかる売上目標の立て方-「感覚の目標」から「根拠ある数字」へ",
-    "https://keisan-navi.jp/bep-keisan/"
+    "https://hospital.co.jp/management/損益分岐シミュレーター/",
+    "https://note.com/pythonddd/n/n02d347b6554a",
+    "https://curiosity-biz.co.jp/insights/soneki-bunkiten-bunseki/",
+    "https://ishii-cpatax.com/profit-plan-reverse-calculation/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 X 投稿",
    "results": [
-    "https://www.obc.co.jp/360/list/post307",
-    "https://biz.moneyforward.com/accounting/basic/34/",
-    "https://biz.moneyforward.com/accounting/basic/14252/",
+    "https://kmp.or.jp/soneki-bunkiten-keisan/",
     "https://www.motenashio.com/sonekibunkiten-template/",
     "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki",
-    "https://kmp.or.jp/soneki-bunkiten-keisan/",
     "https://www.ysk-tax.com/post/損益分岐点分析でわかる売上目標の立て方-「感覚の目標」から「根拠ある数字」へ",
     "https://keisan-navi.jp/bep-keisan/",
     "https://hospital.co.jp/management/損益分岐シミュレーター/",
     "https://curiosity-biz.co.jp/insights/soneki-bunkiten-bunseki/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "estimate private company revenue from cost structure break-even accounts receivable days site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/ngome-robert-6247b5172_here-are-25-types-of-financial-models-commonly-activity-7407121668537479170-6U2B",
-    "https://www.linkedin.com/posts/connor-abene_ive-met-a-shocking-number-of-smb-owners-activity-7506706383510118400-8WsX",
-    "https://mv.linkedin.com/in/vasanthakumar-devamaran-2aa476299",
-    "https://www.linkedin.com/pulse/navigating-tempest-key-financial-indicators-business-distress-paolo-iophe",
-    "https://www.linkedin.com/posts/jennie-benza-60953b6_costs-rose-immediately-recovering-the-lost-activity-7519048768516956160-JPzb",
-    "https://www.linkedin.com/posts/gyandeep-singh-7b03b216_net-present-value-npv-should-we-do-this-activity-7419651562291167232-iqyP",
-    "https://www.linkedin.com/in/saamir-gehani",
-    "https://in.linkedin.com/in/jayanta-choudhary-37713a17b",
-    "https://www.linkedin.com/in/thomaswelsh3",
-    "https://in.linkedin.com/company/1plus1eleven-advisors"
+    "https://www.linkedin.com/learning/cash-flow-cycles-and-analysis/calculate-receivable-days-inventory-days-and-payable-days",
+    "https://www.linkedin.com/pulse/net-accounts-receivable-days-optimizing-cash-flow-customer-noor-uddin",
+    "https://www.linkedin.com/pulse/break-even-analysis-modern-business-entrepreneurs-ampong-dba-zc8fe",
+    "https://www.linkedin.com/pulse/comprehensive-guide-cost-revenue-analysis-chartexpo-1fppf",
+    "https://www.linkedin.com/pulse/cost-structure-revenue-steams-knightnbishopventures",
+    "https://www.linkedin.com/pulse/break-even-point-must-know-metric-every-new-business-mayank-wadhera-rzqxc",
+    "https://www.linkedin.com/pulse/receivables-inventory-payables-turnover-christian-otteman"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ22頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ22頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ22頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）",
-  "実例": "記載なし（読んだ22頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ21頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）",
+  "実例": "記載なし（読んだ21頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T03:22:31.042707+00:00"
 }

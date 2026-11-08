@@ -8,41 +8,11 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-08T08:12:01.496440+00:00",
+ "researched_at": "2026-11-08T15:45:15.670295+00:00",
  "evidence": {
-  "実例": [
+  "失敗・落とし穴": [
    {
-    "quote": "What do the top 10 customers represent as a percentage of total revenue? A single customer at 20%+ of revenue is a risk that requires explicit modeling. If the 10-K discloses that \"no single customer exceeded 10% of revenue,\" note that — it's the best case scenario.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "What is the business worth if the bear case materializes? If the largest risk identified in Stage 4 plays out at full severity, does the downside fit within the portfolio's risk tolerance? Asymmetric situations — where the downside is bounded and the upside is open — earn capital. Symmetric situations need a larger margin of safety.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Run the bear case before the bull case.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The bull case in most investment situations is the obvious thesis. The bear case is where the work is. Stress-testing the thesis against Stage 4 risks before building valuation assumptions forces intellectual honesty about the entry price required.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Cisco is a selective buy at $102.97, with a stronger case than a networking stock purchased only for AI excitement. AI infrastructure orders are…",
-    "url": "https://equityresearchbase.com/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Separate reported facts, assumptions and examples.",
+    "quote": "If every positive item strengthens your thesis but every negative item is dismissed as temporary, the process is probably biased. My recommendation is to…",
     "url": "https://equityresearchbase.com/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -122,9 +92,39 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "失敗・落とし穴": [
+  "実例": [
    {
-    "quote": "If every positive item strengthens your thesis but every negative item is dismissed as temporary, the process is probably biased. My recommendation is to…",
+    "quote": "What do the top 10 customers represent as a percentage of total revenue? A single customer at 20%+ of revenue is a risk that requires explicit modeling. If the 10-K discloses that \"no single customer exceeded 10% of revenue,\" note that — it's the best case scenario.",
+    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "What is the business worth if the bear case materializes? If the largest risk identified in Stage 4 plays out at full severity, does the downside fit within the portfolio's risk tolerance? Asymmetric situations — where the downside is bounded and the upside is open — earn capital. Symmetric situations need a larger margin of safety.",
+    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Run the bear case before the bull case.",
+    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The bull case in most investment situations is the obvious thesis. The bear case is where the work is. Stress-testing the thesis against Stage 4 risks before building valuation assumptions forces intellectual honesty about the entry price required.",
+    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Cisco is a selective buy at $102.97, with a stronger case than a networking stock purchased only for AI excitement. AI infrastructure orders are…",
+    "url": "https://equityresearchbase.com/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Separate reported facts, assumptions and examples.",
     "url": "https://equityresearchbase.com/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -215,9 +215,14 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/x402inc/n/n57b734ceaa72",
+    "url": "https://note.com/s_line/n/nc621590e2063",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.help-note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://note.com/noted_jacana411/n/n2b7472ede716",
@@ -225,52 +230,47 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/comix_ceo162230/n/n7fdf01723527",
+    "url": "https://note.com/x402inc/n/n57b734ceaa72",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/s_line/n/nc621590e2063",
+    "url": "https://note.com/miuraandpartners/n/n7872fce9fa20",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai__worker/n/nf0a168bf1ceb",
+    "url": "https://www.help-note.com/hc/ja/articles/360012426133-%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n69596da3b772",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/suzukiyuto/n/nf8d732e9dbe0",
+    "url": "https://www.help-note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/mydayai/n/na86f04240f78",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/re_birth_ai/n/n1fe522a3947a",
+    "url": "https://www.f-academy.jp/contents/column/kabu-note-katsuyojutsu/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/na9bc92107c20",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.dsk-cloud.com/blog/gws/what-is-the-data-table-function-of-notebooklm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nilim.go.jp/japanese/denshi/calsec/rule/boring2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://inuiwan.com/archives/3299",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/mainichi_ai_new/n/ndbf1b0e423f0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hiro_investor/n/n36ac9eb06d81",
+    "url": "https://www.oguno.jp/share/38",
     "status": "ok",
     "method": "http"
    },
@@ -280,77 +280,67 @@
     "method": "http"
    },
    {
-    "url": "https://www.nta.go.jp/publication/pamph/joto-sanrin/kabushiki_shutoku.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.uss-ueda.co.jp/blog/sasurepo-shutten-chushaku/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.keio.ac.jp/files/ea501740ce248637623504d22d43bf4aa68a190fd0201e9e2923a6043dea4660",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://jp.indeed.com/career-advice/career-development/how-to-write-source-example-sentences-a-simple",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.stat.go.jp/data/kokusei/2015/riyou.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tsr-net.co.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.interviewz.io/blog/quantitative-survey-research/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://aicentralapp.com/media/company-analysis-ai",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mlit.go.jp/links/wp-content/uploads/open-data-guideline-v1.0_1.pdf",
+    "url": "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93337/",
+    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vLxoIdmGHNhtAKn-OvOSvNU27Gky0GPQVciMu2D8cvANnGVLSho",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://townwork.net/magazine/skill/130866/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vL_BoTDOxCHWjEX8SHc9ISnVfNDUmY-V7GNhgaYnLfV6F49gRYv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://campus.seisen-u.ac.jp/guideline/guide_2011/guide_18.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shiga-med.ac.jp/library/support/materials/2019/2019academicwriting.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://report.prism-ai.jp/report-writing-statistical-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bitget.com/ja/wiki/1203666",
     "status": "http_404",
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/001084336.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
+    "url": "https://www.kingstonautomation.com/workflows/investment-research",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.scribd.com/document/889122980/Equity-Research-Workflows",
+    "url": "https://www.hebbia.com/resources/equity-research-report",
     "status": "ok",
     "method": "http"
    },
@@ -360,7 +350,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/posts/financial-edge-training_equity-research-analyst-checklist-activity-7181935682427211776-SuGS",
+    "url": "https://www.marvin-labs.com/resources/equity-research-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grata.com/features/industry-research/private-equity-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/ai-equity-research-how-investment-teams-automating-i6pbc",
     "status": "robots_disallowed",
     "method": ""
    }
@@ -370,59 +370,60 @@
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） site:note.com",
    "results": [
-    "https://note.com/x402inc/n/n57b734ceaa72",
-    "https://note.com/noted_jacana411/n/n2b7472ede716",
-    "https://note.com/comix_ceo162230/n/n7fdf01723527",
     "https://note.com/s_line/n/nc621590e2063",
-    "https://note.com/ai__worker/n/nf0a168bf1ceb",
-    "https://note.com/suzukiyuto/n/nf8d732e9dbe0",
-    "https://note.com/koki_okino/n/n0d320b4cede7",
-    "https://note.com/midnight_wisdom/n/n901a5b7978cf",
-    "https://note.com/startai/n/ndb06480c210c",
-    "https://note.com/basb/n/nfb7f34f1a847"
+    "https://help.note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
+    "https://note.com/noted_jacana411/n/n2b7472ede716",
+    "https://note.com/x402inc/n/n57b734ceaa72",
+    "https://note.com/miuraandpartners/n/n7872fce9fa20",
+    "https://help.note.com/hc/ja/articles/360012426133-%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8",
+    "https://note.com/liberence/n/n431957910b82",
+    "https://note.com/miraisyakai/n/ne2e06d2279c3",
+    "https://note.com/miuraandpartners/n/n94ac29c96ef8",
+    "https://note.com/tyousa_mri559"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 18
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） note",
    "results": [
-    "https://note.com/x402inc/n/n57b734ceaa72",
-    "https://note.com/re_birth_ai/n/n1fe522a3947a",
-    "https://www.dsk-cloud.com/blog/gws/what-is-the-data-table-function-of-notebooklm",
-    "https://www.nilim.go.jp/japanese/denshi/calsec/rule/boring2.pdf",
-    "https://inuiwan.com/archives/3299",
-    "https://note.com/mainichi_ai_new/n/ndbf1b0e423f0",
-    "https://note.com/hiro_investor/n/n36ac9eb06d81",
-    "https://www.wikiprompt.org/ja/senior-equity-research-analyst-prompt-for-stock-analysis",
-    "https://kabuken.club/investment-record-note-template-free/",
-    "https://portfolio-journal.com/guides/investment-note-howto"
+    "https://note.com/tatsuya_sabato/n/n69596da3b772",
+    "https://www.help-note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
+    "https://note.com/mydayai/n/na86f04240f78",
+    "https://www.f-academy.jp/contents/column/kabu-note-katsuyojutsu/",
+    "https://note.com/tatsuya_sabato/n/na9bc92107c20",
+    "https://www.oguno.jp/share/38",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vIX61EqVwAoALn2T2IODMuet7eELdruGlLrLooBioV1cX8F_5nc",
+    "https://cocozas.jp/coco-the-style/in-mitsui/",
+    "https://note.com/tsunobuchi/n/nee062f8cbf16",
+    "https://inuiwan.com/archives/3299"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 11
+   "n_hits": 16
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） やり方",
    "results": [
     "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
-    "https://www.nta.go.jp/publication/pamph/joto-sanrin/kabushiki_shutoku.pdf",
-    "https://www.uss-ueda.co.jp/blog/sasurepo-shutten-chushaku/",
-    "https://www.keio.ac.jp/files/ea501740ce248637623504d22d43bf4aa68a190fd0201e9e2923a6043dea4660",
-    "https://jp.indeed.com/career-advice/career-development/how-to-write-source-example-sentences-a-simple",
     "https://www.stat.go.jp/data/kokusei/2015/riyou.html",
     "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
-    "https://www.lib.niigata-u.ac.jp/wp-content/uploads/2023/10/reference2022.pdf",
-    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vKuU_zUfhD12BoJ52vgIGOGuANI0CPzFnL2J4jyAIaWWdVghxGb",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vLxoIdmGHNhtAKn-OvOSvNU27Gky0GPQVciMu2D8cvANnGVLSho",
+    "https://townwork.net/magazine/skill/130866/",
+    "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
+    "https://guides.lib.kyushu-u.ac.jp/citation-guide/page5",
+    "https://campus.seisen-u.ac.jp/guideline/guide_2011/guide_18.pdf",
+    "https://concours.toshokan.or.jp/concours/reference",
     "https://yoshin.mugenkaitaku.com/a/torihikisaki-chosahyo-kakikata"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -430,19 +431,19 @@
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） 事例",
    "results": [
-    "https://www.tsr-net.co.jp/",
-    "https://www.interviewz.io/blog/quantitative-survey-research/",
-    "https://aicentralapp.com/media/company-analysis-ai",
-    "https://www.mlit.go.jp/links/wp-content/uploads/open-data-guideline-v1.0_1.pdf",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
-    "https://www.nilim.go.jp/japanese/denshi/calsec/rule/boring2.pdf",
-    "https://www.soumu.go.jp/main_content/001084336.pdf",
-    "https://anzeninfo.mhlw.go.jp/user/anzen/kag/pdf/CREATE-SIMPLE_manual_v3.1.2.pdf",
-    "https://www.ipa.go.jp/digital/data/ug65p90000001lp7-att/000089404.pdf",
+    "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
+    "https://www.stat.go.jp/data/kokusei/2015/riyou.html",
+    "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vL_BoTDOxCHWjEX8SHc9ISnVfNDUmY-V7GNhgaYnLfV6F49gRYv",
+    "https://campus.seisen-u.ac.jp/guideline/guide_2011/guide_18.pdf",
+    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
+    "https://www.shiga-med.ac.jp/library/support/materials/2019/2019academicwriting.pdf",
+    "https://report.prism-ai.jp/report-writing-statistical-data/",
     "https://www.bitget.com/ja/wiki/1203666"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -450,15 +451,15 @@
   {
    "query": "equity research workflow source tracking stale inputs checklist",
    "results": [
-    "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
-    "https://www.marvin-labs.com/blog/automated-equity-research-workflows-use-cases/",
-    "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "https://www.scribd.com/document/889122980/Equity-Research-Workflows",
+    "https://www.kingstonautomation.com/workflows/investment-research",
+    "https://www.hebbia.com/resources/equity-research-report",
     "https://qveris.ai/guides/skill-equity-research-report",
-    "https://www.linkedin.com/posts/financial-edge-training_equity-research-analyst-checklist-activity-7181935682427211776-SuGS",
-    "https://reasonabledeviations.com/2020/08/20/investing-checklist/",
-    "https://equityanalysislab.com/en/investor-decision-making/research-workflows/stock-due-diligence-checklist/",
-    "https://www.quadratichq.com/blog/tracking-stock-avoid-pitfalls-for-resilient-investment-choices",
+    "https://www.marvin-labs.com/resources/equity-research-automation/",
+    "https://grata.com/features/industry-research/private-equity-research",
+    "https://www.linkedin.com/pulse/ai-equity-research-how-investment-teams-automating-i6pbc",
+    "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
+    "https://n8n.io/workflows/12949-generate-weekly-ai-equity-research-reports-with-google-sheets-fmp-newsapi-openai-and-gmail/",
+    "https://www.alpha-sense.com/resources/equity-research-guide/",
     "https://www.finmonkeys.com/blog/source-linked-stock-research-workflow"
    ],
    "engines": [
@@ -470,288 +471,150 @@
   {
    "query": "site:note.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
    "results": [
+    "https://note.com/s_line/n/nc621590e2063",
+    "https://help.note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
     "https://note.com/x402inc/n/n57b734ceaa72",
     "https://note.com/noted_jacana411/n/n2b7472ede716",
-    "https://note.com/s_line/n/nc621590e2063",
-    "https://note.com/ai__worker/n/nf0a168bf1ceb",
-    "https://note.com/yasuhitoo/n/n2a51b54c1946",
-    "https://note.com/koki_okino/n/n0d320b4cede7",
-    "https://note.com/midnight_wisdom/n/n901a5b7978cf",
-    "https://note.com/startai/n/ndb06480c210c",
-    "https://note.com/basb/n/nfb7f34f1a847",
-    "https://note.com/alert_acacia4933/n/nbf93523330b5"
+    "https://note.com/miuraandpartners/n/n7872fce9fa20",
+    "https://help.note.com/hc/ja/articles/360012426133-%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8",
+    "https://note.com/liberence/n/n431957910b82",
+    "https://note.com/miraisyakai/n/ne2e06d2279c3",
+    "https://note.com/zaimani_com/n/neb18bd4d48ba",
+    "https://note.com/miuraandpartners/n/n94ac29c96ef8"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 18
   },
   {
    "query": "site:x.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
    "results": [
-    "https://x.com/MakeAI_CEO/status/2027312903494516825",
-    "https://x.com/uvwuvw",
-    "https://x.com/timeismoney55/status/2034585686792396842",
-    "https://x.com/timeismoney55/status/2032592067503985085",
-    "https://x.com/timeismoney55/status/2033099057220989351",
-    "https://x.com/keitaro_aigc/status/2084020068107874340",
-    "https://x.com/AIjitan_sokuhou/status/2117746169128288407",
-    "https://x.com/2okutameo/status/2051852980727828951",
-    "https://x.com/i/status/2080538500945109405"
+    "https://x.com/vsr_ebuchi/status/2116732012983927101",
+    "https://x.com/vsr_ebuchi/status/2119342162466767155",
+    "https://x.com/vsr_ebuchi/status/2117887088376889359",
+    "https://x.com/vsr_ebuchi/status/2116804969450152416",
+    "https://x.com/agata_fc/status/2041832957556748756",
+    "https://x.com/hcnet1981/status/2118508751523365117",
+    "https://x.com/PLAYinc_pr/status/2118295936308756757",
+    "https://x.com/www_oddre_jp/status/2118229341113085971",
+    "https://x.com/SekidoCorp/status/2117814105881096650",
+    "https://x.com/findy_tools/status/2113213013499228556"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
+   "results": [
+    "https://ec.linkedin.com/company/nttdata?trk=public_post_share-update_actor-image",
+    "https://ca.linkedin.com/in/izumiando",
+    "https://jp.linkedin.com/company/nttdata",
+    "https://www.linkedin.com/posts/nttdata_dx-scm-nttdata-activity-7260176733499240448-iuPK",
+    "https://ch.linkedin.com/company/on-ag",
+    "https://uk.linkedin.com/company/astrazeneca",
+    "https://www.linkedin.com/showcase/ecovadis-japan/",
+    "https://fr.linkedin.com/company/lvmh",
+    "https://www.linkedin.com/company/earthbrain",
+    "https://fr.linkedin.com/company/schneider-electric"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
+   "results": [
+    "https://www.facebook.com/100083556660048/photos/",
+    "https://www.facebook.com/lcc.izumo/posts/lcc%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99%E4%BB%8A%E6%97%A5%E3%81%AF%E7%94%9F%E6%B4%BB%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%81%94%E4%BE%9D%E9%A0%BC%E3%81%AF%E5%B3%B6%E6%A0%B9%E7%9C%8C%E5%87%BA%E9%9B%B2%E5%B8%82%E3%81%AB%E3%81%A6%E5%AE%B6%E3%81%AE%E4%B8%AD%E3%81%AE%E4%B8%8D%E7%94%A8%E5%93%81%E6%95%B4%E7%90%86%E7%89%87%E3%81%A5%E3%81%91%E4%BD%9C%E6%A5%AD%E3%82%92%E6%89%BF%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%87%BA%E9%9B%B2%E5%B8%82%E3%81%A7%E5%AE%9A%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E5%88%86%E5%88%A5%E6%96%B9%E6%B3%95%E3%81%AB%E5%89%87%E3%82%8A/1195832015513658/",
+    "https://www.facebook.com/privacy/policy/?locale=ja_JP",
+    "https://www.facebook.com/yoishoku.jp/posts/-%E4%BB%8A%E9%80%B1%E3%81%AE%E3%81%A8%E3%82%8C%E3%81%9F%E3%81%A6%E5%A4%A7%E7%99%BE%E7%A7%91-%CB%8B%CB%8F-%E4%BB%8A%E9%80%B1%E3%81%AF%E3%83%9B%E3%82%A6%E3%83%AC%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%82%88%E6%B9%BF%E3%82%89%E3%81%9B%E3%81%9F%E6%96%B0%E8%81%9E%E7%B4%99%E3%81%AB%E5%8C%85%E3%81%BF%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E8%A2%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%A6%E9%87%8E%E8%8F%9C%E5%AE%A4%E3%81%A7%E7%AB%8B%E3%81%A6%E3%81%A6%E4%BF%9D%E5%AD%98%E3%81%97%E3%81%A6%E3%81%AD%E9%AE%AE%E5%BA%A6%E3%81%8C%E5%91%BD%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99%E3%81%90%E3%81%AB%E9%A3%9F%E3%81%B9%E5%88%87%E3%82%8C%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AF/1533515542135309/",
+    "https://www.facebook.com/satoyukari.japan/",
+    "https://www.facebook.com/?locale=ja_JP",
+    "https://www.facebook.com/ads/ig_redirect/?d=Ad8Kh-A9OXOuWg69TZxQGVb6vPhu_gmfNwCyT8PZAP5spMFwcM6tElznmdAkt6QDat7RlniDDzm2d2YoBrm56JCh-DaR8vyAbvGQwcCvApy0SC4Lxa1c-yK0Gvx5v15S1W4S0ZbD4Gtk-JOk9hsTcA3iBEGZPgi9-dSnd6RO_f9-Uf7RYu8kTpZXO2jnD21Rvy4&a=1&hash=Ad9MGfUxP2-YQbXW",
+    "https://www.facebook.com/urbanresearch.jp/posts/%E5%B9%B3%E7%B4%A0%E3%81%AF%E6%A0%BC%E5%88%A5%E3%81%AE%E3%81%94%E9%AB%98%E9%85%8D%E3%82%92%E8%B3%9C%E3%82%8A%E5%8E%9A%E3%81%8F%E5%BE%A1%E7%A4%BC%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99-%E3%81%93%E3%81%AE%E5%BA%A6%E5%BC%8A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%BC%8Fx%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88urban_research%E3%81%AB%E3%81%8A%E3%81%8D%E3%81%BE%E3%81%97%E3%81%A6%E4%BD%95%E8%80%85%E3%81%8B%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E8%A2%AB%E5%AE%B3%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%A6/1608528581307482/",
+    "https://www.facebook.com/help/109378269482053",
+    "https://ja-jp.facebook.com/ads/library/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） note 社長",
+   "results": [
+    "https://note.com/mydayai/n/na86f04240f78",
+    "https://note.com/x402inc/n/n57b734ceaa72",
+    "https://note.com/noted_jacana411/n/n2b7472ede716",
+    "https://www.f-academy.jp/contents/column/kabu-note-katsuyojutsu/",
+    "https://note.com/s_line/n/nc621590e2063",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vJD2gv1x3GFyNcM4EG7P6sGXBtTGJMWP1tFxO7qWHmMUjPCgXbw",
+    "https://note.com/frank_pr/n/nc7b9b8c68b12",
+    "https://www.oguno.jp/share/38",
+    "https://cocozas.jp/coco-the-style/in-mitsui/",
+    "https://inuiwan.com/archives/3299"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
+    "https://shwat.jp/ultra/howto-cite-onlinearticles/",
+    "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vKU5IyMFhGDMR8OEFcrinHwu7JuGz4hpQaWVn1x_5CjxvVo4vT0",
+    "https://www.stat.go.jp/data/kokusei/2015/riyou.html",
+    "https://www.shiga-med.ac.jp/library/support/materials/2019/2019academicwriting.pdf",
+    "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
+    "https://prtimes.com/magazine/press-release-quote/",
+    "https://www.mext.go.jp/b_menu/1351168.htm",
+    "https://www.bitget.com/ja/wiki/1203666"
    ],
    "engines": [
     "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
-  },
-  {
-   "query": "site:linkedin.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
-   "results": [
-    "https://jp.linkedin.com/pulse/equity-research-in-depth-guide-aditi-singh-tharran-y1p7c?tl=ja",
-    "https://jp.linkedin.com/pulse/equity-research-basics-bhavya-singhare?tl=ja",
-    "https://jp.linkedin.com/pulse/10-steps-becoming-equity-research-analyst-hemangi-bhuva-asqlf?tl=ja",
-    "https://jp.linkedin.com/pulse/top-5-equity-research-techniques-smarter-investments-2025-dwivedi-7fshf?tl=ja",
-    "https://jp.linkedin.com/pulse/art-science-financial-statement-analysis-equity-hemangi-bhuva--vifaf?tl=ja",
-    "https://jp.linkedin.com/pulse/equity-research-from-traditional-valuation-0kwtf?tl=ja",
-    "https://jp.linkedin.com/posts/schroders_50年目の日本株式運用シュローダーがボトムアップの日本株式調査をはじめて50年-activity-7195951529550360577-t2HP"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
-   "results": [
-    "https://www.facebook.com/takehito.oshita",
-    "https://www.facebook.com/61591313470754/videos/1336609905337074/",
-    "https://www.facebook.com/61592848079970/videos/2003994883583563/",
-    "https://www.facebook.com/61592505311021/videos/2540254199758222/",
-    "https://www.facebook.com/61592550818380/videos/1671362803952117/",
-    "https://www.facebook.com/61592502610814/videos/1747484576599738/",
-    "https://www.facebook.com/ndagijimana.jacques.609347/videos/動画内の株式情報はすでに準備ができています必要な方はフォローいいねそしてコメントをお願いします318と入力していただければその情報を送信いたします高配当株投資初/1371103171849716/",
-    "https://www.facebook.com/SonyFinancialGroupInc.research/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） note 社長",
-   "results": [
-    "https://note.com/s_line/n/nc621590e2063",
-    "https://inuiwan.com/archives/3299",
-    "https://note.com/mainichi_ai_new/n/ndbf1b0e423f0",
-    "https://note.com/hiro_investor/n/n36ac9eb06d81",
-    "https://www.wikiprompt.org/ja/senior-equity-research-analyst-prompt-for-stock-analysis",
-    "https://www.bitget.com/ja/wiki/1203666",
-    "https://kabuken.club/investment-record-note-template-free/",
-    "https://crexgroup.com/ja/sec/asset-management/stock-study-note-guide/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） X 投稿",
-   "results": [
-    "https://www.gon-dola.com/lift/marketing-general/12312/",
-    "https://www.ipa.go.jp/digital/data/ug65p90000001lp7-att/000089404.pdf",
-    "https://www.zespri-jp.com/lp/zespri-eiyou-kaikaku/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 3
+   "n_hits": 16
   },
   {
    "query": "equity research workflow source tracking stale inputs checklist site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/igor-buinevici_i-built-a-financial-dashboard-in-3-mins-activity-7453416212199559168-4hHS",
-    "https://www.linkedin.com/top-content/finance/financial-analysis-techniques/filters-to-evaluate-financial-information/",
-    "https://www.linkedin.com/posts/davidarnoux_this-dead-simple-gtm-workflow-has-generated-activity-7510968247903547406-FC4S",
-    "https://www.linkedin.com/posts/ganeshiyer5_ai-genai-llm-activity-7518632273680695296-uj-D",
-    "https://www.linkedin.com/posts/joshaharonoff_get-my-top-14-most-valuable-dashboards-and-activity-7500272931709603841-H5pL",
-    "https://www.linkedin.com/posts/adamdanyal_claudes-usage-limit-is-often-a-workflow-activity-7495585318197252097-rKUA",
-    "https://www.linkedin.com/pulse/data-science-approaches-quality-from-raw-dataset-yair-rajwan-ms-dsc",
-    "https://www.linkedin.com/pulse/openai-codex-practitioners-guide-building-ai-agents-devon-coombs-jnmlc",
+    "https://ca.linkedin.com/company/haskayne-finance-club",
+    "https://www.linkedin.com/pulse/5-sources-investing-edge-matter-gary-mishuris-cfa-kaove",
+    "https://uk.linkedin.com/in/alexander-walsh",
     "https://www.linkedin.com/top-content/productivity/optimizing-manufacturing-performance/how-to-track-processes-in-u-s-manufacturing/",
-    "https://www.linkedin.com/in/william-mcnamara"
+    "https://ca.linkedin.com/company/cppinvestmentsinvestissementsrpc",
+    "https://ca.linkedin.com/in/gvalles1",
+    "https://ca.linkedin.com/company/tdsecurities",
+    "https://ca.linkedin.com/company/q4-inc",
+    "https://ca.linkedin.com/company/cibc-capital-markets",
+    "https://www.linkedin.com/in/daniel-ives-542321a8"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 19
   }
  ],
  "missing": {
   "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "What do the top 10 customers represent as a percentage of total revenue? A single customer at 20%+ of revenue is a risk that requires explicit modeling. If the 10-K discloses that \"no single customer exceeded 10% of revenue,\" note that — it's the best case scenario.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "What is the business worth if the bear case materializes? If the largest risk identified in Stage 4 plays out at full severity, does the downside fit within the portfolio's risk tolerance? Asymmetric situations — where the downside is bounded and the upside is open — earn capital. Symmetric situations need a larger margin of safety.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Run the bear case before the bull case.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The bull case in most investment situations is the obvious thesis. The bear case is where the work is. Stress-testing the thesis against Stage 4 risks before building valuation assumptions forces intellectual honesty about the entry price required.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "The primary sources for Stage 1 are the 10-K Item 1 (Business), the MD&A narrative, and the most recent four earnings call transcripts. Understanding",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The best source for Stage 3 data is the proxy statement (DEF 14A) — a document most analysts skim or skip entirely. It contains executive compensation details, related-party transactions, and board composition all in one place. SEC EDGAR has every filing;",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "how to analyze a 10-K filing",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Most 10-K filings include a consolidated obligations matrix — debt maturities, lease payments, and purchase commitments by year. That table is one of the most information-dense pages in any 10-K. It takes 5 minutes to read and surfaces the inputs for Stage 4 risk analysis immediately.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Proxy statements are required annual filings. They contain executive compensation structures, insider ownership tables, related-party transactions, and board composition — all in one document, cross-referenced to dollar amounts. Most analysts don't read them.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Revenue, gross margin, EBITDA margin, FCF, net debt, ROIC — 5 years side by side. Trends visible in a table are invisible in individual year filings. This takes 20 minutes and shapes every subsequent stage of the analysis.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "🔧 finance.sec_filing → NVDA 10-K ✓ 650ms · 6cr",
-    "url": "https://qveris.ai/guides/skill-equity-research-report",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Yes. QVeris covers China A-shares, Hong Kong stocks, and US equities. A-share data is provided through local data vendors and includes real-time quotes, financial statements, and regulatory filings. See the Finance domain at",
-    "url": "https://qveris.ai/guides/skill-equity-research-report",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Agent-generated research reports are structured text that can be copied directly, exported as Markdown or PDF, or automatically sent via agent workflows to email, Slack, Lark (Feishu), and other channels.",
-    "url": "https://qveris.ai/guides/skill-equity-research-report",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Small fund analysts feel this most directly. No compliance team writes your research framework. No research director reviews your process. You run 10–15 positions across sectors with no institutional support structure — and the depth of your due diligence is exactly as good as the discipline you bring to it.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Net debt-to-EBITDA. Under 2x is generally manageable. Above 4x in a cyclical business is a quality risk trigger under most institutional frameworks. Pull 5-year trend, not just current year.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "how to analyze a 10-K filing",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "How to Identify Off-Balance-Sheet Risks",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Three valuation methods, used together, produce an intrinsic value range. A single-method valuation is a single assumption masquerading as precision.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "What is the most commonly missed step in stock research?",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The five stages build on each other. Business understanding shapes what you look for in the financials. Financial analysis shapes what questions you ask of management. Management review shapes how you assess the risk factors. Risk assessment shapes what valuation method and margin of safety the situation demands.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "as the first step of Stage 4 on every new position.",
-    "url": "https://minalyst.com/blog/research-guides/due-diligence-checklist",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Install in 3 Steps, Ready Immediately",
-    "url": "https://qveris.ai/guides/skill-equity-research-report",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Step 01",
-    "url": "https://qveris.ai/guides/skill-equity-research-report",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Step 02",
-    "url": "https://qveris.ai/guides/skill-equity-research-report",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Step 03",
-    "url": "https://qveris.ai/guides/skill-equity-research-report",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 6,
+ "new_this_run": {},
+ "runs": 7,
  "first_researched_at": "2026-11-07T03:19:43.919757+00:00"
 }

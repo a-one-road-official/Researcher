@@ -8,8 +8,16 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T08:11:59.363318+00:00",
+ "researched_at": "2026-11-08T15:52:48.751743+00:00",
  "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Embracing Grading, Handling, and Dissemination Practices in OSINTPresentation - Local Government AssociationCompleting an intelligence report | College of PolicingIntelligence Management and Gradings - BVI FSCCompleting an intelligence report — Learning | BlueLineHubOSINT Handbook 2026 | The OSINT VaultOSINT Methodology Framework | Intelligence Analysis — To enhance their methods, OSINT investigat",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "The Coalition of Cyber Investigators explore the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.",
@@ -277,82 +285,37 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "status": "network_error:ReadTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://www.help-note.com/hc/ja/articles/360010039034/preview/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzYwMDEwMDM5MDM0LCJleHAiOjE1OTQ4ODI2OTV9.i6rytCTDSadtIFM0qJ8nP1KoaTSjJqMCmId5oFQIFJY",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "url": "https://note.com/chokuzen_note/n/nc2a0ea35150c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.docomosolutions.co.jp/dscb/column/m365-sensitivity-labels/",
+    "url": "https://note.com/tetsu777/n/n0ab1dcaa0192",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary179.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2026/05/post-e20122.html",
+    "url": "https://note.com/ityougonet/n/nae94913434e8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_supply_chain/pdf/004_s01_00.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://thrive.trellix.com/s/article/KB91440?language=ja",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.se.com/jp/ja/faqs/FA53475?r=232&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.na4.teamsupport.com/knowledgeBase/22939241",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://riss000049.jp/archives/1120",
+    "url": "https://note.com/cbrdfsmktr/n/n5913ea9ace79",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nri-secure.co.jp/blog/security-rating",
+    "url": "https://note.com/minato74_/n/nfa6fcfdf7d49",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.cyber.go.jp/files/scs2026_draft_kijun.xlsx",
-    "status": "ok",
-    "method": "table"
-   },
-   {
-    "url": "https://www.nttsmc.com/wakuconeplus/column/information-leakage/scs-checklist/",
+    "url": "https://note.com/bidnavi/n/n618e07951fc1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tokyo-keizai.co.jp/consult/iso/cases1.html",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
     "status": "ok",
     "method": "http"
    },
@@ -362,27 +325,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pangearesearch.substack.com/p/the-5x5x5-system",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.bvifsc.vg/sites/default/files/L007IntelligenceManagementandGradings.pdf",
     "status": "http_403",
     "method": "pdf"
    },
    {
-    "url": "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "url": "https://bluelinehub.co.uk/learning/topics/intelligence-management--completing-intelligence-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theosintvault.io/osint-handbook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cynthiaugwu.github.io/methodology/osint-framework.html",
     "status": "ok",
     "method": "http"
    }
@@ -391,94 +349,64 @@
  "search_log": [
   {
    "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） site:note.com",
+   "results": [
+    "https://note.com/chokuzen_note/n/nc2a0ea35150c",
+    "https://note.com/tetsu777/n/n0ab1dcaa0192",
+    "https://note.com/ityougonet/n/nae94913434e8",
+    "https://note.com/cbrdfsmktr/n/n5913ea9ace79",
+    "https://note.com/minato74_/n/nfa6fcfdf7d49",
+    "https://note.com/bidnavi/n/n618e07951fc1",
+    "https://note.com/apotheke_umschau/n/n9a64e1aa6727"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） note",
    "results": [],
    "engines": [],
    "n_hits": 0
   },
   {
-   "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） note",
-   "results": [
-    "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "https://help.note.com/hc/ja/articles/360010039034/preview/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzYwMDEwMDM5MDM0LCJleHAiOjE1OTQ4ODI2OTV9.i6rytCTDSadtIFM0qJ8nP1KoaTSjJqMCmId5oFQIFJY",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://www.nttcom.co.jp/dscb/column/m365-sensitivity-labels/",
-    "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary179.pdf",
-    "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2026/05/post-e20122.html",
-    "https://learn.microsoft.com/ja-jp/purview/encryption-sensitivity-labels",
-    "https://www.optima-solutions.co.jp/support_article/cia/",
-    "https://www.nri-secure.co.jp/blog/security-rating"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
    "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） やり方",
-   "results": [
-    "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_supply_chain/pdf/004_s01_00.pdf",
-    "https://thrive.trellix.com/s/article/KB91440?language=ja",
-    "https://www.se.com/jp/ja/faqs/FA53475?r=232&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1/",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://ja.na4.teamsupport.com/knowledgeBase/22939241",
-    "https://riss000049.jp/archives/1120",
-    "https://www.nri-secure.co.jp/blog/security-rating",
-    "https://secure-navi.jp/blog/000021"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） 事例",
-   "results": [
-    "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf",
-    "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_supply_chain/pdf/004_s01_00.pdf",
-    "https://www.cyber.go.jp/files/scs2026_draft_kijun.xlsx",
-    "https://www.nttsmc.com/wakuconeplus/column/information-leakage/scs-checklist/",
-    "https://www.nri-secure.co.jp/blog/security-rating",
-    "https://riss000049.jp/archives/1120",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://www.tokyo-keizai.co.jp/consult/iso/cases1.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "intelligence grading 3x5x2 handling code dissemination OSINT",
    "results": [
-    "https://www.college.police.uk/app/intelligence-management/completing-intelligence-report",
-    "https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf",
     "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "https://pangearesearch.substack.com/p/the-5x5x5-system",
+    "https://www.college.police.uk/app/intelligence-management/completing-intelligence-report",
     "https://www.bvifsc.vg/sites/default/files/L007IntelligenceManagementandGradings.pdf",
-    "https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "https://www.foodstandards.gov.scot/sites/default/files/migration/downloads/Guide_to_submitting_intelligence.docx",
-    "https://www.youtube.com/watch?v=oGZUyHnICGg",
-    "https://anticitizenone.medium.com/source-reliability-grading-and-analysis-483eeb57df1a",
-    "https://theosintvault.io/osint-handbook"
+    "https://bluelinehub.co.uk/learning/topics/intelligence-management--completing-intelligence-report",
+    "https://theosintvault.io/osint-handbook",
+    "https://cynthiaugwu.github.io/methodology/osint-framework.html",
+    "https://www.local.gov.uk/sites/default/files/documents/Intelligence+Management+Training.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "site:note.com 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）",
    "results": [
-    "https://note.com/tetsu777/n/n0ab1dcaa0192",
     "https://note.com/chokuzen_note/n/nc2a0ea35150c",
-    "https://note.com/cbrdfsmktr/n/n5913ea9ace79",
+    "https://note.com/tetsu777/n/n0ab1dcaa0192",
     "https://note.com/ityougonet/n/nae94913434e8",
-    "https://note.com/open_insight/n/n83a316cd16cd",
+    "https://note.com/cbrdfsmktr/n/n5913ea9ace79",
     "https://note.com/pn3/n/nd5ce5222f709",
-    "https://note.com/minato74_/n/nfa6fcfdf7d49"
+    "https://note.com/minato74_/n/nfa6fcfdf7d49",
+    "https://note.com/apotheke_umschau/n/n9a64e1aa6727"
    ],
    "engines": [
     "ddgs:google"
@@ -505,9 +433,9 @@
    "query": "site:linkedin.com 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）",
    "results": [
     "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
-    "https://www.linkedin.com/pulse/information-evaluation-stephen-berry",
     "https://www.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf",
-    "https://www.linkedin.com/posts/cosive_the-admiralty-system-nato-ajp-21-gives-activity-7307552088933183488-J1wr",
+    "https://www.linkedin.com/pulse/information-evaluation-stephen-berry",
+    "https://www.linkedin.com/posts/osintuk_how-do-you-manage-the-credibility-and-activity-7278804412427300865-qT5l",
     "https://www.linkedin.com/posts/nathanielfried_how-do-you-grade-and-distribute-your-osint-activity-7278806710528446465-WWkO",
     "https://jp.linkedin.com/pulse/2026年度日本企業の格付け開始-セキュリティは品質から取引免許へ-和宏-高島-fqyzc",
     "https://jp.linkedin.com/pulse/understanding-role-credit-ratings-financial-markets-chua-dba-mba--2dafc?tl=ja"
@@ -520,81 +448,63 @@
   {
    "query": "site:facebook.com 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）",
    "results": [
-    "https://www.facebook.com/AdmiraltyTrilogy/",
     "https://graph.facebook.com/v2.8/3106561832752946/picture/",
     "https://www.facebook.com/kittyquick/",
-    "https://www.facebook.com/mnpsg/",
-    "https://www.facebook.com/tisser.official/posts/シャンパーニュ地方ブドウ畑の格付けシャンパーニュ地方では1845年にクリュcruが認められシャンパーニュの格付けはエシェルデクリュéchelle-des-cru/265142358823353/",
+    "https://www.facebook.com/AdmiraltyTrilogy/",
+    "https://www.facebook.com/SUPERDELIVERY/videos/お料理やお菓子作りに安心して使えるサニーファーム有機黒砂糖取り扱い企業富士貿易掲載商品サニーファーム有機黒砂糖300ghttpswwwsuperdelivery/759095512493246/",
     "https://www.facebook.com/groups/400841766956686/posts/2689646941409479/",
+    "https://www.facebook.com/picturesstudioakasaka/photos/2154296121538536/",
     "https://www.facebook.com/kanko.city.tomi.nagano/posts/禰津城外山城政所城の御城印と海野宿御宿場印のお取り扱いを東御市観光情報ステーションで始めました禰津城外山城政所城の３種類１枚330円税込み東御市観光ステーション/1497307737281406/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） note 社長",
-   "results": [
-    "https://note.com/searchfield/n/n7cd7b3499698",
-    "https://note.com/slash_level/n/nfbb11e248c02",
-    "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_supply_chain/pdf/004_s01_00.pdf",
-    "https://note.com/miraikyoso/n/nf613b2573554",
-    "https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-SRGCM10984.pdf",
-    "https://www.israting.com/basicpolicy.html",
-    "https://share.evernote.com/note/4d18568c-0aab-1cfd-18f0-a269ecba1ce5",
-    "https://www.nri-secure.co.jp/blog/security-rating",
-    "https://www.optima-solutions.co.jp/support_article/cia/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価） X 投稿",
-   "results": [
-    "https://x.com/Kirinsan4567/status/2114694287103529160",
-    "https://www.maxmouse.co.jp/tips/2020/0618_1/",
-    "https://www.reddit.com/r/bugbounty/comments/1j4f82h/should_i_submit_a_new_report_if_my_issue_was/?tl=ja",
-    "https://tatap.jp/knowledge/x-pr-notation/",
-    "https://www.asahi.com/articles/ASR814CSVR81UHBI00S.html",
-    "https://note.com/munou_ac/n/n758528824339",
-    "https://www.bureauveritas.jp/media/23301",
-    "https://apa.or.jp/news/detail/%EF%BD%8Deasures_against_defamation_1227/",
-    "https://www.lexology.com/library/detail.aspx?g=00fb4551-01ec-4f75-b1b0-3e0b18bf8cc9"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "intelligence grading 3x5x2 handling code dissemination OSINT site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/information-evaluation-stephen-berry",
-    "https://www.linkedin.com/in/gretakwagner",
     "https://www.linkedin.com/posts/nathanielfried_how-do-you-grade-and-distribute-your-osint-activity-7278806710528446465-WWkO",
-    "https://www.linkedin.com/posts/cybercrimeinvestigations_osint-intelligence-grading-activity-7278894303219736576-LJ3N",
-    "https://pe.linkedin.com/pulse/methodology-helped-me-learn-osint-miguel-morello-f4egf",
-    "https://pe.linkedin.com/posts/stephen-berry-000001_information-evaluation-5x5x5-to-3x5x2-activity-7216470102764830720-4zYK",
-    "https://uk.linkedin.com/company/osint-industries",
     "https://www.linkedin.com/posts/the-coalition-of-cyber-investigators_osint-cybercrime-intelligenceanalysis-activity-7278890173013118977-q7T_",
+    "https://pe.linkedin.com/pulse/methodology-helped-me-learn-osint-miguel-morello-f4egf",
+    "https://uk.linkedin.com/company/osint-industries",
+    "https://pe.linkedin.com/posts/stephen-berry-000001_information-evaluation-5x5x5-to-3x5x2-activity-7216470102764830720-4zYK",
+    "https://www.linkedin.com/posts/cybercrimeinvestigations_osint-intelligence-grading-activity-7278894303219736576-LJ3N",
     "https://www.linkedin.com/posts/osintuk_how-do-you-manage-the-credibility-and-activity-7278804412427300865-qT5l"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ22頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ22頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 3,
+ "new_this_run": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Embracing Grading, Handling, and Dissemination Practices in OSINTPresentation - Local Government AssociationCompleting an intelligence report | College of PolicingIntelligence Management and Gradings - BVI FSCCompleting an intelligence report — Learning | BlueLineHubOSINT Handbook 2026 | The OSINT VaultOSINT Methodology Framework | Intelligence Analysis — To enhance their methods, OSINT investigat",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 4,
  "first_researched_at": "2026-11-07T19:51:37.147261+00:00"
 }
