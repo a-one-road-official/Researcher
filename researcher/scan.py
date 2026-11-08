@@ -2651,16 +2651,19 @@ def scan(topic):
         _ser = {}
         for r in rows:
             if r["予測"] or not r["年"] or not r["単位"]: continue
+            if r["一次"] != "一次": continue  # 2026-11-08 77回目：一次でない値・別の会社の値が混ざり +9442700% のような勢いが出た。一次だけで系列を作る
             try: y = int(str(r["年"])[:4])
             except Exception: continue
             _ser.setdefault((r["品目"], r["単位"], r["文脈"]), {}).setdefault(y, []).append(r["値"])
-        _mom = []
+        _mom, _momx = [], []
         for k, by in _ser.items():
             ys = sorted(by)
             if len(ys) < 3: continue
             a, b, c3 = (statistics.median(by[y]) for y in ys[-3:])
             if a <= 0 or b <= 0: continue
             g1, g2 = b / a - 1, c3 / b - 1
+            if abs(g1) > 0.5 or abs(g2) > 0.5 or len(set(len(by[y]) for y in ys[-3:])) > 1:
+                _momx.append(k); continue  # 区間で ±50% 超か、年で値の数が違う＝同じ系列でない疑い
             if g2 > 0 and g1 > 0: lab = "増加・加速" if g2 > g1 else "増加・減速"
             elif g2 > 0 >= g1: lab = "減少→下げ止まり・反転"
             elif g2 <= 0 < g1: lab = "増加→頭打ち・反転"
@@ -2679,9 +2682,50 @@ def scan(topic):
                *(f"  - {n[:50]}（{s}・{'・'.join(sorted(v))}）" for n, s, v in _multi[:8]),
                f"- 年ごとの中央値の最後の3点の勢い（水準でなく勢いで読む。隣の年の跳び・段差の点検 4-5・4-89 を通るまで向きにしない）：{len(_mom)}系列",
                *(f"  - {k[0][:45]}（{k[1]}・{k[2]}・{ys[0]}→{ys[2]}）：{lab}（前の区間 {g1:+.1%}・直近の区間 {g2:+.1%}）" for k, ys, lab, g1, g2 in _mom[:12]),
+               f"- 勢いから外した系列（区間で ±50% 超の跳び、または年で値の数が違う＝別の会社・別の表の値が混ざった疑い・4-89）：{len(_momx)}系列",
                f"- 官報・決算公告の純資産を含む引用：{len(_nav)}件。公告の純資産は簿価で、回収できない売掛金・在庫・資産の含み損で実態は下がる側。上限側の値として読み、与信の判断に使うときは数期の並びと当期純損益と組で見る",
                f"- 「すべての企業」のように数えようのない範囲の数字を一次でない出どころが言い切る引用：{len(_unk)}件。知りえない量は誰かの推定として【推定】で扱い、作り方を探す",
                *(f"  - {r['品目'][:40]}：{r['引用'][:60]}" for r in _unk[:5]),
+               ""]
+    except Exception: pass
+    # 2026-11-08 4-102（Dhami ほか 2019「情報分析の競合仮説分析」：合わない証拠の数だけで決めると支持する証拠と基準率を捨て、
+    # 同順位が増え、判定の規則がぶれる。チェスター「非上場株式の評価の従業員数」：人数は継続勤務の人＋それ以外の労働時間÷1,800、
+    # 役員の一部は除く＝人数は定義で変わる。Warner「CTIの構造化分析」：情報の質の点検を結論の前と後に）。
+    # ①品目ごとに人数の定義の語が何種類混ざるか ②「1人あたり」の引用で分母の定義が書かれていないもの
+    # ③品目ごとに上向き・下向きの引用の数と一次の数を両方出す（合わない側だけを数えない）・同数は「判定できない」
+    try:
+        _HEAD = {"従業者": re.compile(r"従業者"), "従業員": re.compile(r"従業員|社員数"), "常用労働者": re.compile(r"常用(労働|雇用)者"),
+                 "被保険者": re.compile(r"被保険者"), "正社員": re.compile(r"正社員|正規"), "パート・時間換算": re.compile(r"パート|非正規|時間換算|1,?800時間"),
+                 "役員含む": re.compile(r"役員|個人業主|家族従業者")}
+        _hd = {}
+        for r in rows:
+            if "人" not in str(r["単位"]) and not re.search(r"(従業|社員|人員|雇用)", r["引用"]): continue
+            for k, p in _HEAD.items():
+                if p.search(r["引用"]): _hd.setdefault(r["品目"], set()).add(k)
+        _mixhd = sorted(((n, v) for n, v in _hd.items() if len(v) >= 2), key=lambda x: -len(x[1]))
+        _PER = re.compile(r"(1人|一人|１人)(あたり|当たり)")
+        _per = [r for r in rows if _PER.search(r["引用"])]
+        _perno = [r for r in _per if not any(p.search(r["引用"]) for p in _HEAD.values())]
+        _UP2 = re.compile(r"(増|伸び|上昇|拡大|改善|回復)")
+        _DN2 = re.compile(r"(減|低下|縮小|悪化|下落|落ち込)")
+        _ev = {}
+        for r in rows:
+            q = r["引用"]; u, d = bool(_UP2.search(q)), bool(_DN2.search(q))
+            if u == d: continue
+            e = _ev.setdefault(r["品目"], {"上": 0, "下": 0, "上一次": 0, "下一次": 0})
+            k = "上" if u else "下"; e[k] += 1
+            if r["一次"] == "一次": e[k + "一次"] += 1
+        _tie = sorted(n for n, e in _ev.items() if e["上"] == e["下"])
+        _both = sorted(((n, e) for n, e in _ev.items() if e["上"] and e["下"] and e["上"] != e["下"]), key=lambda x: -(x[1]["上"] + x[1]["下"]))
+        md += ["## 人数の定義・1人あたりの分母・支持と反証を両方数える（4-102・機械）",
+               f"- 人数の引用に2種類以上の定義（従業者・従業員・常用労働者・被保険者・正社員・パートの時間換算・役員含む）が混ざる品目：{len(_mixhd)}品目。定義の違う人数で割らず、同じ定義どうしで1人あたりを出す",
+               *(f"  - {n[:55]}（{'・'.join(sorted(v))}）" for n, v in _mixhd[:10]),
+               f"- 「1人あたり」の引用 {len(_per)}件のうち、分母の人数の定義が本文に無いもの：{len(_perno)}件。定義が分かるまで他の出典の1人あたりと並べない",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:60]}" for r in _perno[:5]),
+               f"- 上向きと下向きの引用が同数の品目（判定できない・同順位）：{len(_tie)}品目",
+               *(f"  - {n[:55]}" for n in _tie[:8]),
+               f"- 上向き・下向きの両方がある品目（合わない側だけでなく両方と一次の数を見る）：{len(_both)}品目",
+               *(f"  - {n[:45]}：上向き {e['上']}件（一次 {e['上一次']}）・下向き {e['下']}件（一次 {e['下一次']}）" for n, e in _both[:10]),
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
