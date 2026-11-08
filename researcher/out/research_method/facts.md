@@ -69,6 +69,7 @@
   - 「​​また、よくある志望動機の作成パターンとして、(6)の同業比較から考え始めてしまうことが挙げられますが、狭い視点から1社1社考えることは難しく、また論理性に欠けるケースも多いため注意しましょう」（https://unistyleinc.com/techniques/1459）
   - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1459）
 - 実例：
+  - 「元外コン面接官が書類からケース面接まで全部まとめた【コンサル転職の参考書】」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「フェルミ推定を「数字当て」で終わらせない分解のしかた｜ケース面接につながる例題3問・ツリー図つき」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「例えば「日本にある電柱の数」など一見予想がつかない数値を、国土面積や身近にある電柱の数などから論理的に推定します」（https://www.onecareer.jp/articles/1056）
   - 「以上より、約9万8,000軒あるという結果になります」（https://www.onecareer.jp/articles/1056）
@@ -83,7 +84,6 @@
   - 「東大生が書いた 問題を解く力を鍛えるケース問題ノート 50の厳選フレームワークで、どんな難問もスッキリ「地図化」」（https://www.onecareer.jp/articles/1056）
   - 「フェルミ推定・ケース面接を対策！ポイントは「論理性・コミュ力・楽しむ姿勢」：外資戦略コンサル徹底解説Vol.2」（https://www.onecareer.jp/articles/1056）
   - 「外資戦略系コンサルの選考などで出題されるフェルミ推定やケース面接」（https://www.onecareer.jp/articles/1056）
-  - 「【2026年版】ナティクシス ケース面接対策100選｜株式デリバティブ・不動産ファイナンス・サステナブルファイナンスの回答プロセスとOK/NG回答を徹底解説」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
@@ -2929,8 +2929,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -12583,11 +12583,11 @@
 
 ## 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）（charts copyright citing statistics redraw figure data journalism）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
 - 文脈：手順・やり方

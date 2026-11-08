@@ -12002,25 +12002,70 @@
 
 ## 熱処理・めっき・金属プレス・金型の受託加工を本業とする上場企業の有価証券報告書（EDINET の事業の内容に受託加工と書かれた会社・2回空だったので言い方を変えて・4-104・4-106）（listed Japanese companies whose main business is contract heat treatment plating metal stamping die making annual securities report EDINET business description）
 - 文脈：会社・開示
+- 社員数・平均社員数：
+  - 「連結 251人・単体 181人」（https://zukaikeizai.com/kaisha/5987/）
+  - 「従業員1人あたりの売上2,090万円は、上から74番目」（https://zukaikeizai.com/kaisha/5987/）
+  - 「1人あたり売上」（https://zukaikeizai.com/kaisha/5987/）
+  - 「連結の従業員数は244人」（https://zukaikeizai.com/kaisha/5987/）
+  - 「売上高を従業員数で割ると、1人あたり2,090万円になる」（https://zukaikeizai.com/kaisha/5987/）
+  - 「従業員1人あたりの売上高（万円）」（https://zukaikeizai.com/kaisha/5987/）
+  - 「51億円 ÷ 244人」（https://zukaikeizai.com/kaisha/5987/）
+- 受注金額・加工賃収入：
+  - 「オーネックス（5987）の事業内容・業績｜平均年収565万円（金属製品で64位）・売上51億円（2025年6月期） | 図解経済」（https://zukaikeizai.com/kaisha/5987/）
+  - 「前期は1億円」（https://zukaikeizai.com/kaisha/5987/）
+  - 「前期は−4億円」（https://zukaikeizai.com/kaisha/5987/）
+  - 「・業種の中央値 624万円」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2025年6月期の区分別の売上」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2025年6月期・セグメント別の売上」（https://zukaikeizai.com/kaisha/5987/）
+  - 「45億円（84%）」（https://zukaikeizai.com/kaisha/5987/）
+  - 「9億円（16%）」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2025年6月期の売上高は51億円、営業利益は0億円、親会社株主に帰属する当期純利益は0億円」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2021年6月期から2025年6月期までの5期で、売上高は0%増えた」（https://zukaikeizai.com/kaisha/5987/）
+  - 「売上高に対する営業利益の割合は、2025年6月期が0%、2024年6月期が2%」（https://zukaikeizai.com/kaisha/5987/）
+  - 「売上の伸び+0%は、上から62番目」（https://zukaikeizai.com/kaisha/5987/）
+  - 「従業員1人あたりの売上2,090万円は、上から74番目」（https://zukaikeizai.com/kaisha/5987/）
+  - 「中央値は7,366万円で、低い方」（https://zukaikeizai.com/kaisha/5987/）
+  - 「売上の大きさは、75社の中で上から73番目」（https://zukaikeizai.com/kaisha/5987/）
+- 1人あたり・1社あたり金額：
+  - 「オーネックス（5987）の事業内容・業績｜平均年収565万円（金属製品で64位）・売上51億円（2025年6月期） | 図解経済」（https://zukaikeizai.com/kaisha/5987/）
+  - 「・業種の中央値 624万円」（https://zukaikeizai.com/kaisha/5987/）
+  - 「従業員1人あたりの売上2,090万円は、上から74番目」（https://zukaikeizai.com/kaisha/5987/）
+  - 「中央値は7,366万円で、低い方」（https://zukaikeizai.com/kaisha/5987/）
+  - 「中央値 7,366万円」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2,090万円 低い方」（https://zukaikeizai.com/kaisha/5987/）
+  - 「売上高を従業員数で割ると、1人あたり2,090万円になる」（https://zukaikeizai.com/kaisha/5987/）
+  - 「従業員1人あたりの売上高（万円）」（https://zukaikeizai.com/kaisha/5987/）
+- 10年推移：
+  - 「オーネックス（5987）の事業内容・業績｜平均年収565万円（金属製品で64位）・売上51億円（2025年6月期） | 図解経済」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2025年6月期・有価証券報告書（2026-09-30 提出）の数字（EDINET）」（https://zukaikeizai.com/kaisha/5987/）
+  - 「年収と従業員の推移（2022年6月期〜2026年6月期）」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2022年6月期」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2023年6月期」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2024年6月期」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2025年6月期」（https://zukaikeizai.com/kaisha/5987/）
+  - 「分類の根拠：オーネックス 有価証券報告書 2025年6月期 事業の内容」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2025年6月期の区分別の売上」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2025年6月期・セグメント別の売上」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2025年6月期の売上高は51億円、営業利益は0億円、親会社株主に帰属する当期純利益は0億円」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2021年6月期から2025年6月期までの5期で、売上高は0%増えた」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2021年6月期から2025年6月期」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2021/6」（https://zukaikeizai.com/kaisha/5987/）
+  - 「2022/6」（https://zukaikeizai.com/kaisha/5987/）
 - 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
 - 事業所数・社数：記載なし（読んだ55頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
 - 生産能力・設備：記載なし（読んだ55頁・検索18回）
-- 10年推移：記載なし（読んだ55頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105）（Economic Structure Survey manufacturing establishments standard error rate table by industry and size sample 4-29 persons METI）
 - 文脈：統計・定義
-- 痛み・損（深さの印）：記載なし（読んだ32頁・検索18回）
-- 事業所数・社数：記載なし（読んだ32頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ32頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ32頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索18回）
-- 生産能力・設備：記載なし（読んだ32頁・検索18回）
-- 10年推移：記載なし（読んだ32頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ32頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ34頁・検索18回）
+- 事業所数・社数：記載なし（読んだ34頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ34頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ34頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ34頁・検索18回）
+- 生産能力・設備：記載なし（読んだ34頁・検索18回）
+- 10年推移：記載なし（読んだ34頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ34頁・検索18回）
 
 ## 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の年間総実労働時間（時間の値・回収率や事業所数でなく・厚労省の表・前回は回収率73.4%と事業所数だけ取れた・4-104）（Monthly Labour Survey annual report manufacturing total hours worked per year establishments 5+ and 30+ hours value MHLW table）
 - 文脈：統計・時間
@@ -12111,14 +12156,14 @@
 
 ## 受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106）（contract machining job shop owner interview what happened orders unit price headcount trade press Japan facts not opinions）
 - 文脈：現場の声
-- 痛み・損（深さの印）：記載なし（読んだ54頁・検索18回）
-- 事業所数・社数：記載なし（読んだ54頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ54頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ54頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ54頁・検索18回）
-- 生産能力・設備：記載なし（読んだ54頁・検索18回）
-- 10年推移：記載なし（読んだ54頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ54頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

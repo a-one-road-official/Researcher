@@ -949,8 +949,8 @@
   - 製造業エンジニアの人材紹介
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：11件／数字のある品目 12件（92%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.neo-career.co.jp と www.tracom.co.jp：品目の重なり 2/4（50%）
+  - www.paddledesign.co.jp と cone-c-slide.com：品目の重なり 1/3（33%）
   - cone-c-slide.com と www.tracom.co.jp：品目の重なり 1/3（33%）
-  - cone-c-slide.com と www.paddledesign.co.jp：品目の重なり 1/3（33%）
   - www.neo-career.co.jp と www.plex-job.com：品目の重なり 1/5（20%）
   - www.neo-career.co.jp と cone-c-slide.com：品目の重なり 1/5（20%）
 

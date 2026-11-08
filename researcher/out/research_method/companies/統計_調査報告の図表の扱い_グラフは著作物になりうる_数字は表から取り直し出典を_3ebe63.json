@@ -8,85 +8,130 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-08T07:07:11.227211+00:00",
+ "researched_at": "2026-11-08T14:14:58.516095+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://notepm.jp/template/survey-report",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kimatta_kotae/n/n2cdb8416843a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kimatta_kotae/n/nea33cbe27d21",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://japan.editverse.com/%E3%80%90%E5%9B%B3%E8%A7%A3%E3%80%91%E8%AB%96%E6%96%87%E3%81%AE%E5%9B%B3%E8%A1%A8%E4%BD%9C%E6%88%90%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9Cfigure%E3%83%BBtable-%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://report.prism-ai.jp/report-writing-figure-citation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://japan.editverse.com/tables-research-papers/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://scholarcompass.net/columns/11",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shiraberu.net/ronbun/report-zu-hyou/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sci-draw.com/ja/blog/how-to-make-figures-for-research-papers",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nbkomputer.com/%E8%AB%96%E6%96%87%E3%81%AE%E5%9B%B3%E8%A1%A8%E4%BD%9C%E6%88%90%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9Cfigure%E3%83%BBtable%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%8A%95%E7%A8%BF%E8%A6%8F%E7%A8%8B/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://mokoai-diary.site/univ-report-figure-table-rules/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.wikipedia.org/wiki/%E7%B5%B1%E8%A8%88%E5%9B%B3%E8%A1%A8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://docs.koike-lab.org/skills/visualization/_index",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://note.com/kangokenkyu/n/n660b2e66cd1a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://book.st-hakky.com/data-analysis/types-of-statistics-and-graphs",
+    "url": "https://note.com/lithe_crocus8929/n/n9daea29ac63c",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cocatasu/n/n4a2ca2ca09da",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fuji_kururi/n/nd697cff256a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ysk1025/n/n0d3d012bc5d4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yukionoguchi/n/n162fbe36bbe2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kouri/kouzou/note.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yukionoguchi/n/n1eede671748f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/limber_skink4659/n/n2dcf2d02b8bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keisemi/n/naf14ab3c9062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://himeji-city.note.jp/n/n4ab002099b81?gs=32c1b22822786cdea00c0265c1bc0aff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/14_kuwashii/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nstac.go.jp/use/archives/order/faq-a/?doing_wp_cron=1794147334.8822610378265380859375",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei_hakusho/toukei/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.adachi.tokyo.jp/somu/ku/aramashi/toke-katsuyojire.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/guide/kty2015/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000399468.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001840596.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/36-19.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/upload/user/00002294-rW5pVJ.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.copyright.com/blog/adapting-and-repurposing-copyrighted-content-what-data-scientists-need-to-know/",
@@ -94,27 +139,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.elsevier.support/elsevier/answer/do-i-need-permission-to-redraw-a-figure-how-should-i-credit-the-figure",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10394528/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cms.crosslinkstudies.com/how-to-cite-reused-figures-diagrams-and-datasets-properly/",
+    "url": "https://ourworldindata.org/faqs",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://aut.ac.nz.libguides.com/APA7th/figures",
+    "url": "https://adfontesmedia.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libguides.utk.edu/c.php?g=1401059&p=10366540",
+    "url": "https://mediahelpingmedia.org/advanced/what-is-data-journalism/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://lib.guides.umd.edu/c.php?g=949738&p=6875875",
+    "url": "https://camstl.org/visualizing-data/",
     "status": "ok",
     "method": "http"
    }
@@ -123,185 +168,259 @@
  "search_log": [
   {
    "query": "統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/kangokenkyu/n/n660b2e66cd1a",
+    "https://note.com/lithe_crocus8929/n/n9daea29ac63c",
+    "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
+    "https://note.com/cocatasu/n/n4a2ca2ca09da",
+    "https://note.com/fuji_kururi/n/nd697cff256a5",
+    "https://note.com/ysk1025/n/n0d3d012bc5d4",
+    "https://note.com/shintaku0707/n/n6bea8cbf2b2c",
+    "https://note.com/ogawa_tech/n/n793f35e25587",
+    "https://note.com/s_v_s/n/n9d6328633b83",
+    "https://note.com/kimatta_kotae/n/n2cdb8416843a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ） note",
    "results": [
+    "https://note.com/yukionoguchi/n/n162fbe36bbe2",
+    "https://www.stat.go.jp/data/kouri/kouzou/note.html",
+    "https://note.com/yukionoguchi/n/n1eede671748f",
+    "https://note.com/limber_skink4659/n/n2dcf2d02b8bc",
+    "https://note.com/keisemi/n/naf14ab3c9062",
+    "https://himeji-city.note.jp/n/n4ab002099b81",
+    "https://note.com/stats47/n/n4e5aaa5dc946",
+    "https://www.resonabank.co.jp/nenkin/info/note/pdf/202505.pdf",
     "https://notepm.jp/template/survey-report",
-    "https://note.com/kimatta_kotae/n/n2cdb8416843a",
-    "https://note.com/kimatta_kotae/n/nea33cbe27d21",
-    "https://japan.editverse.com/【図解】論文の図表作成ガイド｜figure・table-の作り方/",
-    "https://report.prism-ai.jp/report-writing-figure-citation/",
-    "https://japan.editverse.com/tables-research-papers/",
-    "https://stat-agent.com/blog/15.html"
+    "https://note.com/kimatta_kotae/n/n2cdb8416843a"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ） やり方",
    "results": [
+    "https://www.stat.go.jp/naruhodo/14_kuwashii/index.html",
+    "https://www.nstac.go.jp/use/archives/order/faq-a/",
+    "https://www.e-stat.go.jp/",
+    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.mhlw.go.jp/toukei_hakusho/toukei/index.html",
+    "https://www.soumu.go.jp/main_content/000605442.pdf",
+    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://japan.editverse.com/【図解】論文の図表作成ガイド｜figure・table-の作り方/",
-    "https://scholarcompass.net/columns/11",
-    "https://shiraberu.net/ronbun/report-zu-hyou/",
-    "https://sci-draw.com/ja/blog/how-to-make-figures-for-research-papers",
-    "https://japan.editverse.com/tables-research-papers/",
-    "https://nbkomputer.com/論文の図表作成ガイド｜figure・tableの作り方と投稿規程/",
-    "https://mokoai-diary.site/univ-report-figure-table-rules/"
+    "https://scholarcompass.net/columns/11"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ） 事例",
    "results": [
+    "https://www.city.adachi.tokyo.jp/somu/ku/aramashi/toke-katsuyojire.html",
+    "https://www.stat.go.jp/info/guide/kty2015/index.html",
+    "https://www.soumu.go.jp/main_content/000399468.pdf",
+    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001840596.pdf",
+    "https://www.mhlw.go.jp/toukei/list/36-19.html",
+    "https://pref.shimane-toukei.jp/upload/user/00002294-rW5pVJ.pdf",
+    "http://www.pref.yamanashi.jp/toukei_2/kids/HP/midikanitoukei.htm",
+    "https://www.nstac.go.jp/use/literacy/ssdse/utility/",
     "https://ja.wikipedia.org/wiki/統計図表",
-    "https://japan.editverse.com/【図解】論文の図表作成ガイド｜figure・table-の作り方/",
-    "https://shiraberu.net/ronbun/report-zu-hyou/",
-    "https://docs.koike-lab.org/skills/visualization/_index",
-    "https://note.com/kangokenkyu/n/n660b2e66cd1a",
-    "https://book.st-hakky.com/data-analysis/types-of-statistics-and-graphs",
-    "https://nbkomputer.com/論文の図表作成ガイド｜figure・tableの作り方と投稿規程/"
+    "https://japan.editverse.com/【図解】論文の図表作成ガイド｜figure・table-の作り方/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "charts copyright citing statistics redraw figure data journalism",
    "results": [
     "https://www.copyright.com/blog/adapting-and-repurposing-copyrighted-content-what-data-scientists-need-to-know/",
-    "https://www.elsevier.support/elsevier/answer/do-i-need-permission-to-redraw-a-figure-how-should-i-credit-the-figure",
-    "https://cms.crosslinkstudies.com/how-to-cite-reused-figures-diagrams-and-datasets-properly/",
-    "https://aut.ac.nz.libguides.com/APA7th/figures",
-    "https://libguides.utk.edu/c.php?g=1401059&p=10366540",
-    "https://lib.guides.umd.edu/c.php?g=949738&p=6875875",
-    "https://apa-citation-generator.tools/how-to-cite-a-figure-or-table/"
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10394528/",
+    "https://ourworldindata.org/faqs",
+    "https://adfontesmedia.com/",
+    "https://mediahelpingmedia.org/advanced/what-is-data-journalism/",
+    "https://camstl.org/visualizing-data/",
+    "https://medium.com/batjo/journalism-dataviz-the-whos-whats-whys-and-hows-439a2f3e1d7a",
+    "https://columbiacollege-ca.libguides.com/apa/images",
+    "https://guides.library.illinois.edu/copyrightundergradjournals/usingotherswork",
+    "https://www.elsevier.support/elsevier/answer/do-i-need-permission-to-redraw-a-figure-how-should-i-credit-the-figure"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:note.com 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）",
    "results": [
-    "https://note.com/kimatta_kotae/n/n2cdb8416843a",
     "https://note.com/kangokenkyu/n/n660b2e66cd1a",
-    "https://note.com/kimatta_kotae/n/nea33cbe27d21",
-    "https://note.com/reportai_jp/n/n4ca0f3343893",
-    "https://note.com/yosatonet/n/ne02cbf66600a",
-    "https://note.com/k_changg/n/neb07cf1c6bf8",
-    "https://note.com/kampachi8888/n/n0b011f610401"
+    "https://note.com/yukionoguchi/n/n2c0821c1aee5",
+    "https://note.com/cocatasu/n/n4a2ca2ca09da",
+    "https://note.com/fuji_kururi/n/nd697cff256a5",
+    "https://note.com/ogawa_tech/n/ndc40f3e6ca98",
+    "https://note.com/ogawa_tech/n/n793f35e25587",
+    "https://note.com/s_v_s/n/n9d6328633b83",
+    "https://note.com/powerpoint_jp/n/n5fe611924a90",
+    "https://note.com/logicalskill/n/ndaf7c860f007",
+    "https://note.com/kimatta_kotae/n/n2cdb8416843a"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/bot_kanazawa/status/2111427080919580953",
+    "https://x.com/TMiyajima1115/status/1826028087756345847",
+    "https://x.com/cao_keizai/status/2110531363334238707",
+    "https://x.com/newsuper_jp/status/2112717239543800317",
+    "https://x.com/indbgraphreport/status/2061314358362452208",
+    "https://x.com/Min_FX/status/2107615137188532400",
+    "https://x.com/jilpt_PR2023",
+    "https://x.com/mlit_tohokuunyu/status/2117859391475159149",
+    "https://x.com/cao_keizai",
+    "https://x.com/tokei389950/status/2081667104978469360"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "site:linkedin.com 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）",
    "results": [
-    "https://www.linkedin.com/pulse/サーベイを行うなら何を考えるべきか-toru-yokokawa-4bjyc",
-    "https://in.linkedin.com/in/prof-dr-k-b-singh-69928034",
-    "https://es.linkedin.com/in/alberto-fernández-6754492",
-    "https://jp.linkedin.com/posts/satoshikimura_令和７2025年医療施設動態調査病院報告の概況厚生労働省-activity-7523519781522657280-T5_k",
-    "https://jp.linkedin.com/pulse/beginners-guide-statistics-understanding-data-types-stats-joshi?tl=ja",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7399275295821975552/",
-    "https://au.linkedin.com/in/phillip-holding-b28a645a"
+    "https://jp.linkedin.com/pulse/every-basic-statistics-concept-you-need-know-sunny-choy-on0ve?tl=ja",
+    "https://jp.linkedin.com/pulse/statistical-significance-tests-way-compare-data-populations?tl=ja",
+    "https://jp.linkedin.com/pulse/59-marketing-diagrams-charts-explain-digital-andy-crestodina?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-descriptive-inferential-statistics-concepts-sahoo-es0ic?tl=ja",
+    "https://jp.linkedin.com/pulse/ai-learning-paradox-results-from-survey-923-learners-dr-justin-sung-mb0oc?tl=ja",
+    "https://jp.linkedin.com/pulse/our-life-ai-report-european-findings-karen-massin-o1o0e?tl=ja",
+    "https://jp.linkedin.com/pulse/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E3%81%95%E3%82%93%E5%BF%85%E8%A6%8B%E4%BC%9D%E3%82%8F%E3%82%8B%E6%B5%B7%E5%A4%96%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%82%AC%E3%82%A4%E3%83%89-%E5%98%89%E4%B8%80-%E4%B8%AD%E5%B3%B6-ytadc",
+    "https://jp.linkedin.com/pulse/century-excellence-100th-anniversary-shewhart-control-chandramouli-r-piznc?tl=ja",
+    "https://jp.linkedin.com/pulse/5-linkedin-stats-2026-you-probably-didnt-see-coming-metricool-yddse?tl=ja",
+    "https://jp.linkedin.com/pulse/thesis-writing-framework-step-by-step-guide-dr-preeti-o6tjc?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）",
    "results": [
+    "https://www.facebook.com/jinsha2024/posts/%E5%A5%B3%E5%AD%90%E7%9B%AE%E7%B7%9A%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E6%97%85%E8%A1%8C%E5%85%88%E3%81%A7%E3%81%AE%E9%A3%9F%E4%BA%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB2023%E5%B9%B4%E3%81%AE%E7%B4%B9%E4%BB%8B-%E8%A1%8C%E5%8B%95%E8%A8%88%E9%87%8F%E5%AD%A6%E3%82%BC%E3%83%9F%E7%AB%B9%E5%86%85%E3%82%BC%E3%83%9F%E3%81%A7%E3%81%AF%E5%A5%B3%E5%AD%90%E7%9B%AE%E7%B7%9A%E3%81%A7%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%8B%95%E5%90%91%E5%82%BE/722293496366593/",
     "https://www.facebook.com/stat.japan/",
-    "https://www.facebook.com/JRSPAssociation/posts/建築着工統計調査報告令和8年1月分httpswwwmlitgojpreportpressjoho04_hh_001355html1月の新設住宅着工は持家が増加し/919347533786415/",
-    "https://www.facebook.com/zennichi.souhonbu/posts/国土交通省が建築着工統計調査報告令和7年計を公開建築着工統計調査報告は全国の建築物の着工の状況数床面積工事費予定額をまとめたものです宅地建物取引士試験でも出題さ/939180045802875/",
-    "https://www.facebook.com/JapanOECD/posts/1238376696683162/",
-    "https://www.facebook.com/OECD.JP/photos/-図表でみる行政-東南アジア-2025-を公表しました報告書は大多数の市民は-医療-と-教育-に満足している一方日常的な行政サービスとデジタルサービスへのアクセ/1285069570316837/",
-    "https://www.facebook.com/kyugi.mlit.go.jp/videos/新技術netis情報hp記載例編/573265349998395/",
-    "https://www.facebook.com/story.php/?story_fbid=1393059618703198&id=100039975196833"
+    "https://www.facebook.com/jinsha2024/posts/%E5%A5%B3%E5%AD%90%E7%9B%AE%E7%B7%9A%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E5%8D%9A%E5%A0%B1%E5%A0%82%E7%94%9F%E6%B4%BB%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E7%94%9F%E6%B4%BB%E5%AE%9A%E7%82%B9%E8%AA%BF%E6%9F%BB%E3%81%AE%E7%B4%B9%E4%BB%8B%E8%A1%8C%E5%8B%95%E8%A8%88%E9%87%8F%E5%AD%A6%E3%82%BC%E3%83%9F%E7%AB%B9%E5%86%85%E3%82%BC%E3%83%9F%E3%81%A7%E3%81%AF%E5%A5%B3%E5%AD%90%E7%9B%AE%E7%B7%9A%E3%81%A7%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%8B%95%E5%90%91%E5%82%BE%E5%90%91%E3%82%92%E7%B4%B9/1571075901488344/",
+    "https://www.facebook.com/japansportsagency/posts/%E5%B9%B3%E6%88%9030%E5%B9%B4%E5%BA%A6%E4%BD%93%E5%8A%9B%E9%81%8B%E5%8B%95%E8%83%BD%E5%8A%9B%E8%AA%BF%E6%9F%BB%E7%99%BA%E8%A1%A8%E5%B9%B3%E6%88%9030%E5%B9%B4%E9%96%93%E3%81%AE%E7%B5%90%E6%9E%9C%E3%82%92%E5%88%86%E6%9E%90%E3%81%97%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%BA%81%E3%81%A7%E3%81%AF%E5%9B%BD%E6%B0%91%E3%81%AE%E4%BD%93%E5%8A%9B%E9%81%8B%E5%8B%95%E8%83%BD%E5%8A%9B%E3%81%AE%E7%8F%BE%E7%8A%B6%E3%82%92%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BD%93%E5%8A%9B%E9%81%8B%E5%8B%95%E8%83%BD%E5%8A%9B%E8%AA%BF%E6%9F%BB%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A/2271343556490129/",
+    "https://www.facebook.com/kanagawa.tokei.ch/",
+    "https://www.facebook.com/jinsha2024/posts/%E5%A5%B3%E5%AD%90%E7%9B%AE%E7%B7%9A%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E8%80%B3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB2024-%E5%B9%B4%E3%81%AE%E7%B4%B9%E4%BB%8B%E8%A1%8C%E5%8B%95%E8%A8%88%E9%87%8F%E5%AD%A6%E3%82%BC%E3%83%9F%E7%AB%B9%E5%86%85%E3%82%BC%E3%83%9F%E3%81%A7%E3%81%AF%E5%A5%B3%E5%AD%90%E7%9B%AE%E7%B7%9A%E3%81%A7%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%8B%95%E5%90%91%E5%82%BE%E5%90%91%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6/960720539190553/",
+    "https://www.facebook.com/maffjapan/posts/%E7%B5%B1%E8%A8%88%E6%83%85%E5%A0%B1%E9%9D%92%E6%9E%9C%E7%89%A9%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E7%B5%90%E6%9E%9C%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%B9%B4%E9%96%93%E8%A8%88%E5%8F%8A%E3%81%B3%E6%9C%88%E5%88%A5%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E6%A6%82%E8%A6%81%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99-1%E9%87%8E%E8%8F%9C%E5%85%A8%E5%9B%BD%E9%87%8E%E8%8F%9C%E3%81%AE%E5%8D%B8%E5%A3%B2%E6%95%B0%E9%87%8F%E3%81%AF802%E4%B8%87%EF%BD%94%E3%81%A7%E5%89%8D%E5%B9%B4%E3%81%AB%E6%AF%94%E3%81%B9%EF%BC%92%E6%B8%9B%E5%B0%91%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%AF%E3%81%A0%E3%81%84/1429690595863815/",
+    "https://www.facebook.com/oita.toukei/",
+    "https://www.facebook.com/animationanimationbusiness.info/posts/%E3%82%A2%E3%83%8B%E3%83%A1%E7%94%A3%E6%A5%AD%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882025-%E3%82%B5%E3%83%9E%E3%83%AA%E3%83%BC%E7%89%88%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E6%97%A5%E6%9C%AC%E5%8B%95%E7%94%BB%E5%8D%94%E4%BC%9A%E3%81%8C%E7%84%A1%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E5%85%A8%EF%BC%98p%E5%9B%B3%E8%A1%A820%E7%82%B9%E7%A8%8B%E5%BA%A6%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4%E3%82%84%E5%88%86%E9%87%8E%E5%88%A5%E6%8E%A8%E7%A7%BB%E3%81%AA%E3%81%A9%E4%B8%BB%E8%A6%81%E3%81%AA%E6%95%B0%E5%AD%97%E3%81%AF%E5%85%A8%E9%83%A8%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99/1492412762884933/",
+    "https://www.facebook.com/jamstec.jp/photos/%E3%83%97%E3%83%AC%E3%82%B9%E5%9B%B32-%E6%B5%B7%E6%B4%8B%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%B2%92%E5%AD%90%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E5%A0%B1%E5%91%8A%E6%96%B9%E6%B3%952004%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AB%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%9F%E6%B5%B7%E6%B4%8B%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E7%A0%94%E7%A9%B61431%E5%A0%B1%E3%82%92%E7%B2%92%E5%AD%90%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE/1534109798762208/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ） note 社長",
    "results": [
+    "https://note.com/yukionoguchi/n/n162fbe36bbe2",
+    "https://note.com/yukionoguchi/n/n3b2282577945",
+    "https://note.com/yukionoguchi/n/n1eede671748f",
+    "https://note.com/yukionoguchi/n/nd8d13b76f819",
+    "https://www.stat.go.jp/naruhodo/12_ppdac/data.html",
+    "https://note.com/yukionoguchi/n/ne8ada4999263",
+    "https://note.com/yukionoguchi/n/n72456a1984f8",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote040/e_rnote035.pdf",
     "https://note.com/zeirishiam/n/n87e78ab75d05",
-    "https://kotoba-stock.jp/note/business/keieisou-houkoku-shiryou",
-    "https://note.com/kangokenkyu/n/n660b2e66cd1a",
-    "https://docs.koike-lab.org/skills/visualization/_index",
-    "https://shiraberu.net/ronbun/report-zu-hyou/",
-    "https://freeasy24.research-plus.net/blog/c123",
-    "https://japan.editverse.com/【図解】論文の図表作成ガイド｜figure・table-の作り方/"
+    "https://kotoba-stock.jp/note/business/keieisou-houkoku-shiryou"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ） X 投稿",
    "results": [
+    "https://www.stat.go.jp/data/kakei/notes.html",
+    "https://stat-agent.com/news/20261017.html",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/2jiriyou.htm",
+    "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
+    "https://japan.editverse.com/%E3%80%90%E5%9B%B3%E8%A7%A3%E3%80%91%E8%AB%96%E6%96%87%E3%81%AE%E5%9B%B3%E8%A1%A8%E4%BD%9C%E6%88%90%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9Cfigure%E3%83%BBtable-%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/",
+    "https://www.jstage.jst.go.jp/article/ningendock/33/4/33_557/_pdf",
+    "https://www.yomiuri.co.jp/national/20230926-OYT1T50288/",
+    "https://web.tuat.ac.jp/~tokuyama/img/adsorption-manner.pdf",
     "https://x.com/tokei389950/status/2062819757263667707",
-    "https://japan.editverse.com/【図解】論文の図表作成ガイド｜figure・table-の作り方/",
-    "https://nbkomputer.com/論文の図表作成ガイド｜figure・tableの作り方と投稿規程/",
-    "https://x.com/tokei389950/status/2081667104978469360",
-    "https://jhim-e.com/pdf/ronbun-toukou/VOL.18-3.pdf",
-    "https://daigakusei.spring-online.jp/column/47/",
-    "https://stat-agent.com/news/20261017.html"
+    "https://japan.editverse.com/【図解】論文の図表作成ガイド｜figure・table-の作り方/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "charts copyright citing statistics redraw figure data journalism site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/dr-gunjan-chauhan-818839100_figure-it-out-when-reusing-diagrams-in-research-activity-7401146057956483074-eWmU",
-    "https://pe.linkedin.com/posts/s-salim_journalism-data-charts-activity-6593179512232525824-H4gS",
-    "https://zw.linkedin.com/posts/virginia-stagni-03a2a965_how-charts-work-what-is-actually-data-activity-7043520685549248512-oqv_",
-    "https://uk.linkedin.com/in/alan-smith-obe-37385935",
-    "https://uk.linkedin.com/in/amanda-farnsworth-33555018",
-    "https://pe.linkedin.com/pulse/similar-journey-possible-lessons-official-statistics-ken-roy-jps0f",
-    "https://www.linkedin.com/posts/copyrightclearancecenter_copyright-in-medical-communications-activity-7356356661139103744-gMW6"
+    "https://www.linkedin.com/pulse/most-comprehensive-news-user-needs-model-charts-graphs-shishkin",
+    "https://www.linkedin.com/in/alexklavens",
+    "https://www.linkedin.com/in/dhrumilmehta",
+    "https://www.linkedin.com/in/gabrielle-merite",
+    "https://www.linkedin.com/in/mark-hansen-3b876424",
+    "https://uk.linkedin.com/in/sondreus",
+    "https://www.linkedin.com/posts/brentdykes_not-every-visualization-challenge-requires-activity-7368679793204105216-BfKP",
+    "https://www.linkedin.com/pulse/how-i-used-semrush-ai-search-health-turn-site-audit-pierson-p-e--nn9qc",
+    "https://www.linkedin.com/in/fyrashid"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 18
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ21頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）",
-  "実例": "記載なし（読んだ21頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T23:55:53.037406+00:00"
 }

@@ -8,18 +8,18 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T07:25:50.534685+00:00",
+ "researched_at": "2026-11-08T14:20:29.640036+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://iamvera.ai/blog/ai-summaries-long-documents-verification/",
+    "url": "https://convergepanel.com/use-cases/audit-ai-summary-against-original-document",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://convergepanel.com/use-cases/audit-ai-summary-against-original-document",
+    "url": "https://iamvera.ai/blog/ai-summaries-long-documents-verification/",
     "status": "ok",
     "method": "http"
    },
@@ -39,9 +39,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.askdecode.ai/resources/blog-articles/detect-hallucinations-in-ai-research",
+    "url": "https://arxiv.org/pdf/2504.00025",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    }
   ]
  },
@@ -73,16 +73,16 @@
   {
    "query": "detect overgeneralization single case to multiple in summaries date confusion verify against original text",
    "results": [
-    "https://iamvera.ai/blog/ai-summaries-long-documents-verification/",
     "https://convergepanel.com/use-cases/audit-ai-summary-against-original-document",
+    "https://iamvera.ai/blog/ai-summaries-long-documents-verification/",
     "https://strangelyuseful.com/story/verify-ai-summary-against-original",
     "https://link.springer.com/article/10.1007/s11528-025-01127-4",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12042776/",
-    "https://www.entropik.io/resources/blog-articles/detect-hallucinations-in-ai-research",
-    "https://arxiv.org/pdf/2504.00025"
+    "https://arxiv.org/pdf/2504.00025",
+    "https://www.entropik.io/resources/blog-articles/detect-hallucinations-in-ai-research"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -128,8 +128,8 @@
     "https://www.linkedin.com/pulse/ai-over-generalizes-why-matters-mario-dibenedetto-nwcye",
     "https://www.linkedin.com/pulse/always-trap-why-your-ai-ignores-nuance-how-fix-ysquare-technology-odh9c",
     "https://www.linkedin.com/pulse/demystifying-ai-hallucinations-detection-mitigation-strategies-rnoic",
-    "https://www.linkedin.com/top-content/artificial-intelligence/ai-limitations-overview/understanding-ai-limitations-in-research/",
     "https://www.linkedin.com/pulse/rouge-score-key-metric-evaluating-text-summarisation-models-qirwc",
+    "https://www.linkedin.com/advice/0/how-can-you-evaluate-quality-machine-generated-icrif",
     "https://www.linkedin.com/pulse/when-prompt-design-fails-science-closer-look-llm-research-postma-k8vme",
     "https://www.linkedin.com/posts/anujmubayi_generalization-bias-in-large-language-model-activity-7331922425560870912-GJvY"
    ],
@@ -147,6 +147,6 @@
   "実例": "記載なし（読んだ6頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T07:57:45.424481+00:00"
 }
