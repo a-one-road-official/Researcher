@@ -7766,11 +7766,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -13694,7 +13694,7 @@
   - 「、実際の成功事例は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
   - 「他社の成功事例を学び、自社の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
   - 「選択結果を選ぶと、ページが全面的に更新されます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
 
 ## 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）（private company due diligence red flags combination late filing director turnover charges）
 - 文脈：裏取り
@@ -14138,11 +14138,11 @@
 
 ## 出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り）（pre-publication number check fact check procedure independent checker Pew decoded GIJN data journalism errors）
 - 文脈：検証・点検
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

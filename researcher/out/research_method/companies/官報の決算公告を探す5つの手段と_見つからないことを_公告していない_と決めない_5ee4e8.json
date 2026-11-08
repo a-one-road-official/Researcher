@@ -8,8 +8,66 @@
  ],
  "context": "一次情報",
  "kind": "market",
- "researched_at": "2026-11-08T08:02:51.439435+00:00",
+ "researched_at": "2026-11-08T15:29:33.760746+00:00",
  "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 最終更新: 2026-06-25 取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか。株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています。しかし、いざ ...",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 決算公告を官報で閲覧する5つの方法を徹底解説。インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介。",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します",
+    "url": "https://kanpou.ai/guide",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大切なのは、「いつの・どの情報を・何のために」から手段を逆算する視点です",
+    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年時点の推計では、決算公告を履行している中小企業は全体の数パーセント程度とされています",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】 | 電子決算公告ドットコムMagazine",
@@ -498,50 +556,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します",
-    "url": "https://kanpou.ai/guide",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大切なのは、「いつの・どの情報を・何のために」から手段を逆算する視点です",
-    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2025年時点の推計では、決算公告を履行している中小企業は全体の数パーセント程度とされています",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅",
@@ -701,6 +715,200 @@
    },
    {
     "quote": "合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官報で破産などの与信情報を自社で得るには、紙面や電子版を目視する必要があり、過去の破産などは官報情報検索サービスでは検索できなくなる点は注意が必要だ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201168_1527.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ウェブで閲覧した官報を根拠資料として使用する場合、以前は「正本ではない」という注意書きが必要でしたが、電子化後はウェブ版がそのまま正本として扱えます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "定款変更・株主総会決議は不要な手続きの流れと注意点を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します",
+    "url": "https://kanpou.ai/guide",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは決算公告や電子公告との違い、非公式サイトを使うときの落とし穴、そして本紙と号外の違いという3つの実務ポイントを整理します",
+    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち電子公告には見落としやすい落とし穴があります",
+    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "API連携が優秀な反社チェックツール5選！サービスの選び方や運用の注意点も解説",
+    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告を閲覧する際の3つの注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注意点1: 掲載されている数値は「要旨」の場合がある",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注意点2: 決算公告を行っていない企業も多い",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注意点3: データの時点と正確性を確認する",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここで注意すべき点は、",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、電子公告には注意点があります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告を閲覧する際に、知っておくべき注意点を3つ紹介します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "合併公告や資本金の額の減少公告など、法定公告を電子公告で行う場合に登録が必要なシステムですが、決算公告（貸借対照表の公告）は調査義務の対象外であるため、全ての電子公告が網羅されているわけではない点に注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、官報情報検索サービスをご利用の際は、プライバシーへの配慮が必要な記事においては、記事検索の対象外となっており、キーワードでの検索はできませんのでご注意ください",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(4)入力間違いはないか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1427,311 +1635,158 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 最終更新: 2026-06-25 取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか。株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています。しかし、いざ ...",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 決算公告を官報で閲覧する5つの方法を徹底解説。インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介。",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "官報で破産などの与信情報を自社で得るには、紙面や電子版を目視する必要があり、過去の破産などは官報情報検索サービスでは検索できなくなる点は注意が必要だ",
-    "url": "https://www.tsr-net.co.jp/data/detail/1201168_1527.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ウェブで閲覧した官報を根拠資料として使用する場合、以前は「正本ではない」という注意書きが必要でしたが、電子化後はウェブ版がそのまま正本として扱えます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "定款変更・株主総会決議は不要な手続きの流れと注意点を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します",
-    "url": "https://kanpou.ai/guide",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでは決算公告や電子公告との違い、非公式サイトを使うときの落とし穴、そして本紙と号外の違いという3つの実務ポイントを整理します",
-    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このうち電子公告には見落としやすい落とし穴があります",
-    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "API連携が優秀な反社チェックツール5選！サービスの選び方や運用の注意点も解説",
-    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告を閲覧する際の3つの注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注意点1: 掲載されている数値は「要旨」の場合がある",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注意点2: 決算公告を行っていない企業も多い",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注意点3: データの時点と正確性を確認する",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここで注意すべき点は、",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、電子公告には注意点があります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告を閲覧する際に、知っておくべき注意点を3つ紹介します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "合併公告や資本金の額の減少公告など、法定公告を電子公告で行う場合に登録が必要なシステムですが、決算公告（貸借対照表の公告）は調査義務の対象外であるため、全ての電子公告が網羅されているわけではない点に注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、官報情報検索サービスをご利用の際は、プライバシーへの配慮が必要な記事においては、記事検索の対象外となっており、キーワードでの検索はできませんのでご注意ください",
-    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(4)入力間違いはないか",
-    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/kanpo_digest",
+    "url": "https://en.wikipedia.org/wiki/Ronda",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/oboreru_tanuki/n/n642c3a338568",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/reach_reach/n/n70a6ed31d509",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/irshukatsu/n/n9fd752118742",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kanpo_digest/n/nbd5f5247443f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://catr.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kanpou.ai/guide/kessan-kokoku",
+    "url": "https://andaluciarustica.com/en/category/ronda-monuments",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://kanpou.ai/kessan",
+    "url": "https://andaluciarustica.com/en/ronda.htm",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.kanpo.go.jp/",
+    "url": "https://rondatoday.com/rondas-arab-walls-and-city-gates/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "url": "https://www.legadoandalusi.es/magazine/ronda-the-city-of-a-hundred-views/?lang=en",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kaijiwire.jp/",
+    "url": "https://www.andalucia.com/ronda/history.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resetera.com/threads/i-tracked-down-the-company-ruining-restaurants-by-more-perfect-union.1319791/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resetera.com/threads/november-4-2026-vanity-fair-%E2%80%9Ci-hate-my-fucking-life-right-now%E2%80%9D-a-night-out-with-dc-republicans-as-the-blue-wave-crashed-down.1678907/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resetera.com/threads/restaurants-are-using-ai-to-advertise-their-food-and-it%E2%80%99s-making-people-sick.1642927/page-4",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resetera.com/threads/bay-area-restaurants-are-vetting-your-social-media-before-you-even-walk-in.1243065/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resetera.com/threads/pizza-hut-classic-brings-back-the-glory-days-of-dine-in-pizza-hut-locations-across-the-u-s.1375618/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resetera.com/threads/sf-chronicle-people-are-bringing-their-own-food-to-bay-area-restaurants-is-%E2%80%98purse-tuna%E2%80%99-ever-ok.1258308/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.getpaint.net/profile/74655-6205/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.getpaint.net/profile/151634-elcata/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.getpaint.net/profile/145191-moee/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.getpaint.net/profile/141805-dact/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.getpaint.net/profile/149931-duggleb/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.getpaint.net/profile/49386-kbarni",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homedepot.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Tools/comments/3w3ecy/why_are_dewalt_tools_from_home_depot_so_cheap/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/Tools/comments/81xmvo/when_does_home_depot_put_their_husky_tool_chests/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/Lowes/comments/8agyzl/home_depot_or_lowes_who_pays_better/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/DIY/comments/1kn943/does_home_depot_cut_wood/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/HomeImprovement/comments/6c4fwz/home_depot_vs_lowes_who_do_you_prefer_and_why/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bing.com/",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://jpdd.jp/en/kanpo",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.lpa-gyosei.com/product-page/japanese-official-gazette-notice-search-kanpo",
+    "url": "https://search.google/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.lib.u-tokyo.ac.jp/en/library/contents/database/274",
+    "url": "https://noai.duckduckgo.com/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://search.google/intl/en-IN/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://search.npb.go.jp/kanpou/auth/login/LoginStartUp.form",
+    "url": "https://www.dogpile.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kanpo.go.jp/sc.html",
+    "url": "https://searchendurance.com/best-search-engines/",
     "status": "ok",
     "method": "http"
    }
@@ -1741,198 +1796,233 @@
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） site:note.com",
    "results": [
-    "https://note.com/kanpo_digest",
-    "https://note.com/real_ram9758/n/n015e975a7128",
-    "https://note.com/oboreru_tanuki/n/n642c3a338568",
-    "https://note.com/reach_reach/n/n70a6ed31d509",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/kanpo_digest/n/nbd5f5247443f",
-    "https://note.com/kanpo_digest/n/n2f57329c2da1"
+    "https://en.wikipedia.org/wiki/Ronda",
+    "https://andaluciarustica.com/en/category/ronda-monuments",
+    "https://andaluciarustica.com/en/ronda.htm",
+    "https://rondatoday.com/rondas-arab-walls-and-city-gates/",
+    "https://www.legadoandalusi.es/magazine/ronda-the-city-of-a-hundred-views/?lang=en",
+    "https://www.andalucia.com/ronda/history.htm",
+    "https://thecultureexplorer.beehiiv.com/p/a-timeless-journey-through-ronda-and-andalusia",
+    "https://adventurebackpack.com/ronda-culture",
+    "https://spainlatitudes.com/articles/spain-ronda-gorge-andalusian-luxury",
+    "https://spainlatitudes.com/articles/ronda-gorge-andalusian-luxury"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 20
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） note",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://catr.jp/",
-    "https://kanpou.ai/guide/kessan-kokoku",
-    "https://kanpou.ai/kessan",
-    "https://www.kanpo.go.jp/",
-    "https://blog.roborobo.co.jp/compliance/kanpo-where"
+    "https://www.resetera.com/threads/i-tracked-down-the-company-ruining-restaurants-by-more-perfect-union.1319791/",
+    "https://www.resetera.com/threads/november-4-2026-vanity-fair-“i-hate-my-fucking-life-right-now”-a-night-out-with-dc-republicans-as-the-blue-wave-crashed-down.1678907/",
+    "https://www.resetera.com/threads/restaurants-are-using-ai-to-advertise-their-food-and-it’s-making-people-sick.1642927/page-4",
+    "https://www.resetera.com/threads/bay-area-restaurants-are-vetting-your-social-media-before-you-even-walk-in.1243065/",
+    "https://www.resetera.com/threads/pizza-hut-classic-brings-back-the-glory-days-of-dine-in-pizza-hut-locations-across-the-u-s.1375618/",
+    "https://www.resetera.com/threads/sf-chronicle-people-are-bringing-their-own-food-to-bay-area-restaurants-is-‘purse-tuna’-ever-ok.1258308/",
+    "https://www.resetera.com/threads/what-are-your-thoughts-on-sit-down-restaurants-in-2026-not-fast-food-not-fast-casual-has-waitstaff-etc.1593826/",
+    "https://www.resetera.com/threads/cracker-barrel-orders-its-employees-travelling-for-work-to-only-eat-at-its-restaurants-for-all-or-majority-of-meals-whenever-practical.1423378/",
+    "https://www.resetera.com/threads/cyberpunk-life-sim-nivalis-nights-is-now-available-on-steam.1646086/",
+    "https://www.resetera.com/threads/restaurants-are-adding-dozens-of-new-spicy-menu-items-in-a-bid-for-younger-diners-cnbc.1263627/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） やり方",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://catr.jp/",
-    "https://kanpou.ai/guide/kessan-kokoku",
-    "https://kanpou.ai/kessan",
-    "https://www.kanpo.go.jp/",
-    "https://blog.roborobo.co.jp/compliance/kanpo-where"
+    "https://forums.getpaint.net/profile/74655-6205/",
+    "https://forums.getpaint.net/profile/151634-elcata/",
+    "https://forums.getpaint.net/profile/145191-moee/",
+    "https://forums.getpaint.net/profile/141805-dact/",
+    "https://forums.getpaint.net/profile/149931-duggleb/",
+    "https://forums.getpaint.net/profile/49386-kbarni",
+    "https://forums.getpaint.net/profile/137576-leigh56/",
+    "https://forums.getpaint.net/profile/83573-paulh/",
+    "https://forums.getpaint.net/profile/56085-upevnz/",
+    "https://forums.getpaint.net/profile/90016-dawood/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 20
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） 事例",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://catr.jp/",
-    "https://kanpou.ai/guide/kessan-kokoku",
-    "https://kanpou.ai/kessan",
-    "https://www.kanpo.go.jp/",
-    "https://kaijiwire.jp/"
+    "https://www.homedepot.com/",
+    "https://www.reddit.com/r/Tools/comments/3w3ecy/why_are_dewalt_tools_from_home_depot_so_cheap/",
+    "https://www.reddit.com/r/Tools/comments/81xmvo/when_does_home_depot_put_their_husky_tool_chests/",
+    "https://www.reddit.com/r/Lowes/comments/8agyzl/home_depot_or_lowes_who_pays_better/",
+    "https://www.reddit.com/r/DIY/comments/1kn943/does_home_depot_cut_wood/",
+    "https://www.reddit.com/r/HomeImprovement/comments/6c4fwz/home_depot_vs_lowes_who_do_you_prefer_and_why/",
+    "https://www.reddit.com/r/HomeImprovement/comments/f8rxq3/how_goodreliable_are_the_home_depot_contractors/",
+    "https://www.reddit.com/r/homeowners/comments/8k65s0/tried_the_free_home_depot_water_test_here_are_my/",
+    "https://www.reddit.com/r/Connecticut/comments/20ivwn/has_anyone_used_any_home_depot_home_installation/",
+    "https://www.reddit.com/r/identifythisfont/comments/1i8u47/home_depot_font/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "how to search kanpo financial statement notice Japan coverage",
    "results": [
-    "https://jpdd.jp/en/kanpo",
-    "https://www.lpa-gyosei.com/product-page/japanese-official-gazette-notice-search-kanpo",
-    "https://www.lib.u-tokyo.ac.jp/en/library/contents/database/274",
-    "https://www.kanpo.go.jp/",
-    "https://search.npb.go.jp/kanpou/",
-    "https://www.kanpo.go.jp/sc.html",
-    "https://catr.jp/"
+    "https://www.bing.com/",
+    "https://search.google/",
+    "https://noai.duckduckgo.com/",
+    "https://search.google/intl/en-IN/",
+    "https://www.dogpile.com/",
+    "https://searchendurance.com/best-search-engines/",
+    "https://search.yahoo.com/;_ylt=A2RQTV0cl_BquQIA5mVXNyoA;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzQEdnRpZAMEc2VjA3Ny",
+    "https://www.google.com/xhtml/search",
+    "https://www.mojeek.com/",
+    "https://www.google.com.nf/webhp?gl=nf&hl=en&gws_rd=cr&pws=0"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 12
   },
   {
    "query": "site:note.com 官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性）",
    "results": [
-    "https://note.com/kanpo_digest",
-    "https://note.com/real_ram9758/n/n015e975a7128",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/oboreru_tanuki/n/n642c3a338568",
-    "https://note.com/kanpo_digest/n/nbd5f5247443f",
-    "https://note.com/s_o_0517/n/n51e06bbe1aed",
-    "https://note.com/kanpo_digest/n/n2f57329c2da1"
+    "https://www.theinfatuation.com/seattle/guides/best-pizza-in-seattle",
+    "https://seattlepizzaandbar.com/",
+    "https://www.steviesfamous.com/",
+    "https://www.yelp.com/search?cflt=pizza&find_loc=Seattle,+WA",
+    "https://seattle.eater.com/maps/best-pizza-places-seattle-restaurants",
+    "https://seattlesecrets.org/best-pizza-in-seattle",
+    "https://www.yelp.com/search?find_desc=pizza+places&find_loc=Seattle,+WA",
+    "https://pagliacci.com/",
+    "https://www.tripadvisor.com/Restaurants-g60878-c31-Seattle_Washington.html",
+    "https://www.ak-pizza.com/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 21
   },
   {
    "query": "site:x.com 官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性）",
-   "results": [
-    "https://x.com/kessan_db",
-    "https://x.com/kessan_db/status/2110953156008137175",
-    "https://x.com/mister_n7/status/2033083161089806755",
-    "https://x.com/kanpo_blog/status/2046405102576243177",
-    "https://x.com/kanpo_blog",
-    "https://x.com/kessan_db/status/2071191546108768567",
-    "https://x.com/kessan_kokoku"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性）",
    "results": [
-    "https://opportunity.linkedin.com/ja-jp/jobs",
-    "https://nl.linkedin.com/in/rpverhag",
-    "https://www.linkedin.com/posts/一般社団法人日本公認不正検査士協会（acfe-japan）事務局_企業経営の闇に潜む粉飾決算信頼と透明性の求められる時代-2023年における-activity-7152887341437620225-6iXN",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7480753851231293440/",
-    "https://jp.linkedin.com/posts/tomokonakao_米国日系企業向け棚卸の準備ポイント-今年も残すところ一か月となり１２月決算-activity-7399446864561029120-Vn7H",
-    "https://jp.linkedin.com/posts/bijapan_iphoneで見つからないアプリをホーム画面で即探す方法siriで整理整頓いらず-activity-7180475286197600256-8WvH",
-    "https://www.linkedin.com/jobs/head-of-consulting-jobs"
+    "https://www.nutritioned.org/nutritionist/",
+    "https://www.nutritioned.org/licensed-nutritionist/",
+    "https://www.publichealthonline.org/nutrition-education-guide/",
+    "https://www.forbes.com/advisor/education/science/how-to-become-a-nutritionist/",
+    "https://www.vocationaltraininghq.com/how-to-become/nutritionist/",
+    "https://nurse.org/healthcare/how-to-become-nutritionist/",
+    "https://climbtheladder.com/what-degree-do-you-need-to-become-a-nutritionist/",
+    "https://www.allalliedhealthschools.com/nutritionist/nutritionist-degree/",
+    "https://www.thehealthsciencesacademy.org/blog/what-are-the-educational-requirements-to-become-a-nutritionist/",
+    "https://www.publichealthonline.org/nutrition/degree-programs/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 30
   },
   {
    "query": "site:facebook.com 官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性）",
    "results": [
-    "https://www.facebook.com/1725220191025746/",
-    "https://www.facebook.com/people/官報ブログ/100050929632349/",
-    "https://www.facebook.com/people/決算公告データ倉庫/61583248351132/",
-    "https://www.facebook.com/100050929632349/posts/まいばすけっと-決算公告第14期httpskanpo-kanpoblogjparchives44615315html第14期-決算公告売上高2903億6000万/1297160398658269/",
-    "https://www.facebook.com/100050929632349/posts/not-a-hotel-決算公告第5期httpskanpo-kanpoblogjparchives44909623html第5期-決算公告当期純利益2億6000/1347333970307578/",
-    "https://www.facebook.com/100050929632349/posts/マーケティングノウハウのライセンシングカンパニー株式会社刀決算公告第9期-第9期-決算公告2025年6月期当期純利益13億700万円利益剰余金62億3700万円/1478374410536866/",
-    "https://www.facebook.com/PiPhotonicsInc/photos/おしらせ260105-官報掲載第19期決算公告令和8年1月5日月-官報号外-第1号-71ページ-掲載httpswwwkanpogojp2026010520260/1497668909031348/"
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us",
+    "https://account.microsoft.com/account-checkup",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://support.microsoft.com/en-us/support/index",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/",
+    "https://myaccount.microsoft.com/ ->",
+    "https://www.microsoft.com/en-us/microsoft-365",
+    "https://outlook.office.com/mail/inbox"
    ],
    "engines": [
     "ddgs:bing"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） note 社長",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://catr.jp/",
-    "https://kanpou.ai/guide/kessan-kokoku",
-    "https://kanpou.ai/kessan",
-    "https://www.kanpo.go.jp/",
-    "https://catr.jp/about"
+    "http://66.29.129.161/watch/bokep-vcs-si-binal-queen-alexavia-toket-id-40618092-mango-122894.html",
+    "https://66.29.129.161/cgi-sys/defaultwebpage.cgi",
+    "http://66.29.129.161/watch/meyd-295-istri-bohay-stres-karena-gak-jarang-ngentot-37214.html",
+    "http://66.29.129.161/watch/remas-pentil-nenen-kinastirch-cantik-id-99092284-mango-kenyot-122696.html",
+    "http://66.29.129.161/watch/bokep-vcs-cybel-private-mandi-ngangkang-bikin-pascol-sange-122795.html",
+    "http://66.29.129.161/watch/wanz-953-memek-gatel-eimi-fukada-menantu-selingkuh-sama-mertuanya-36568.html",
+    "https://davesgarden.com/guides/pf/go/1025",
+    "https://davesgarden.com/guides/articles/growing-lilium-candidum-from-seed",
+    "https://davesgarden.com/community/forums/t/687378/",
+    "https://davesgarden.com/community/forums/t/808739/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） X 投稿",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://catr.jp/",
-    "https://kanpou.ai/guide/kessan-kokoku",
-    "https://kanpou.ai/kessan",
-    "https://www.kanpo.go.jp/",
-    "https://kaijiwire.jp/"
+    "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/multimedia/baby-sign-language-more/img-20006731",
+    "https://www.mayoclinic.org/diseases-conditions/frontotemporal-dementia/symptoms-causes/syc-20354737",
+    "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/multimedia/baby-sign-language-drink/img-20006732",
+    "https://www.mayoclinic.org/diseases-conditions/rett-syndrome/symptoms-causes/syc-20377227",
+    "https://www.mayoclinic.org/diseases-conditions/tourette-syndrome/symptoms-causes/syc-20350465",
+    "https://www.mayoclinic.org/diseases-conditions/klinefelter-syndrome/symptoms-causes/syc-20353949",
+    "https://www.mayoclinic.org/diseases-conditions/throat-cancer/symptoms-causes/syc-20366462",
+    "https://www.mayoclinic.org/about-this-site/meet-our-medical-editors",
+    "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/toddler-speech-development/faq-20057847",
+    "https://www.mayoclinic.org/diseases-conditions/aphasia/diagnosis-treatment/drc-20369523"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 20
   },
   {
    "query": "how to search kanpo financial statement notice Japan coverage site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/japan-tax-public-procurement-helpdesk-jtpp_japan-public-procurement-activity-7313021720498503680-h6CX",
-    "https://in.linkedin.com/company/financial-services-agency-japan",
-    "https://in.linkedin.com/company/linkedin",
-    "https://www.linkedin.com/posts/tokyofintech_annual-report-of-the-financial-services-agency-activity-7403229569580728320-XKK3",
-    "https://www.linkedin.com/company/quickcorp/",
-    "https://www.linkedin.com/pulse/overview-financial-reporting-auditing-framework-cidpe",
-    "https://www.linkedin.com/posts/alphanalyst_alpha-analyst-now-delivers-full-scale-activity-7402060000648413185-doV1"
+    "https://www.bing.com/",
+    "https://search.google/",
+    "https://noai.duckduckgo.com/",
+    "https://search.google/intl/en-IN/",
+    "https://www.dogpile.com/",
+    "https://searchendurance.com/best-search-engines/",
+    "https://search.yahoo.com/;_ylt=A2RQTV3Kl_Bq.AIAn0ZXNyoA;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzQEdnRpZAMEc2VjA3Ny",
+    "https://www.google.com/xhtml/search",
+    "https://www.google.com.nf/webhp?gl=nf&hl=en&gws_rd=cr&pws=0",
+    "https://www.mojeek.com/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 11
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-06T05:10:02.307809+00:00"
 }

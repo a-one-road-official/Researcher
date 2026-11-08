@@ -8,119 +8,235 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T07:59:02.508793+00:00",
+ "researched_at": "2026-11-08T15:25:53.822614+00:00",
  "evidence": {
-  "手順・やり方": [
+  "実例": [
    {
-    "quote": "この中では、学問の探究が対象に応じてどのような方法論をとるか、ということを論じていました",
+    "quote": "ビアマット知識のような断片的な情報ではなく、推論によって具体的な事例に適用したりできるような、ある程度まとまった観念を指しています",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "これは人類の探究活動の最極致にある学術研究においてどのようなやり方が使われるか、という部分を扱ったものですが、社会の大多数を占める人々は専門家ではありません",
+    "quote": "前者の場合は、非常に複雑ではあるがそれ単体で習得可能で、例えば村田製作所の\"ムラタセイサク君\"のような形で機械にも模倣可能です",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "専門家に関する研究の中では、科学技術社会論（Science and technology studies, または science, technology, and society, STS）の中で、ハリー・コリンズとロバート・エヴァンズによって論じられた専門知の類型論が注目に値します",
+    "quote": "一方で、例えば芸術家のような専門家の場合、素晴らしい芸術作品を作ることはできるが、それについて流暢に言語化することは難しい、という場合があります",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "コリンズ＆エヴァンズ（2007、邦訳 2020）『専門知を再考する』では、\"専門知の周期表\"として専門知の類型が論じられています",
+    "quote": "このような場合も、例えば芸術評論家が持つような言語化能力を身に付けることができれば、その芸術作品について対話をすることが可能でしょう",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "これは「ビアマット知識」「通俗的理解」「一次資料知識」「対話型専門知」「貢献型専門知」の5つの類型に分けられます",
+    "quote": "「専門的目利き」は、例えばワインのソムリエがワインの良し悪しについて判断できるような鑑定能力のことを指しています",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "「貢献型専門知」は、一般に\"専門家\"という言葉から連想されるような、特定の分野において実践的にことを為すことができるような能力をもたらす専門知のことです",
+    "quote": "ここでは、例えば自然科学では対応説、人文科学では整合説、みたいな形で、ドメインごとに別々の説による真理が成り立つ、ということが考えられます",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "一方「対話型専門知」は、その分野において実践的な貢献は行わないが、分野のコミュニティに関わり、その特定分野に固有の暗黙知を身に付けた状態で、専門的なトピックに関して流暢なコミュニケーションを行うことを可能にするような専門知を指します",
+    "quote": "非専門家にとっては、例えば対応説的な真理を直接得ることはできず、専門家によって見出されたもの、という媒介を通してしか真理を見ることができません",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "対話型専門知はコリンズとエヴァンズが新たに着想した概念で、『専門知を再考する』の中ではかなり詳しく論じられています",
+    "quote": "真純性に問題があるケースとしては、一つは史料が偽作である場合、またもう一つとして錯誤もしくは誤認に基づいている場合があります",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "対話型専門知および貢献型専門知には特定分野のコミュニティにおける社会的な暗黙知が必要となります",
+    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "また、特にその分野の実践を伴う貢献型専門知においては、物真似単形性のような技能の身体化が見られるようになります",
+    "quote": "このような錯誤や虚偽の吟味は、外的批判の結果とも組み合わせて検討されます",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "コリンズとエヴァンズの議論では、貢献型専門知を持った人々は、少なくとも潜在的には対話型専門知をも身に付けている、と論じられています",
+    "quote": "ただし、そのような信頼性の高い複製プロセスを経ていないものを対象としている場合や、版の違いによる改訂の差などが重要になってくる場合などでは、真純性の吟味が重要なケースは残ります",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "学術コミュニティの場合は学会などでのやりとりとして言語によるコミュニケーションが行われるので、多くの場合対話型専門知が顕在化していることが多いと思います",
+    "quote": "Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "なお、芸術評論家は貢献型専門知を持たず対話型専門知のみを持っているような例になっています",
+    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "これは、他の言葉で言えば批判的思考（クリティカル・シンキング）のようなものを行えるような資質のことを意味していて、特に学術分野における貢献型専門知の実践に深く関与しています",
+    "quote": "その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "これらの「対話能力」「熟慮能力」は特定の分野に限った能力ではないためこの行とは別に立てられていて、対話型専門知や貢献型専門知を顕在化させたり習熟させるのに役立つような資質として位置づけられています",
+    "quote": "その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "年次推計ではコモディティ・フロー法と呼ばれる手法で財・サービスの品目ごとに産出額などを推計するが、速報時点では得られる基礎統計に限りがあり、簡易な方法で推計を行っているためである",
+    "quote": "月期まで遡及改定）の結果が反映されたためである",
     "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "次年次推計にあたり、新型コロナウイルス感染症等に起因する主な予算関連施策を織り込んだことを明記しており、これが改定要因であろう",
+    "quote": "例えば、第一生命経済研究所は「",
     "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "また、政府の決算などの基礎統計は、可能な時点で速報値に織り込むという方法も考えられよう",
+    "quote": "例えば、消費増税については、消費税率が",
     "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "年（令和２年）は新型コロナウイルス感染症の感染拡大の影響を踏まえ、一部の品目について、固定された配分比率では捉えられない直近の経済構造の変化を反映するよう、各種統計等を活用し、配分比率の見直し」を行ったとしている",
+    "quote": "冒頭で述べたように、政策決定の適切な評価は、政策決定時点の実績値で行われるのが原則ではあるが、その実績値がどのように改定され、改定された結果、その時点の判断が適切であったのかを事後検証することも求められているのではないだろうか",
+    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "次年次推計が公表されているが、それを例えば、現在のタイミングから",
+    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "これには、「軽信によって起こったもの、不注意から来たもの、独断によって誤られたもの、批判的誤りから生じたもの等」のような種類があることが言及されています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "作者がその主張を強く印象づけるために行う工夫が、現代の読者にはダイレクトに刺さりやすい構図になっているため、より注意して客観的な判断を行う必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門家コミュニティにおける共通認識としての\"通説\"は、事実のような単一性をもったものではないことにも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その一方で、質問文の設計や非回答の扱いなどによって系統的な偏りが生じる余地は残り、本文で取り上げられる数字と付録に置かれる数字のあいだに編集上のバイアスが入り込むこともあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事実報道と社説・コラム・ワイドショー的なコメントが連続して並ぶことで、事実と意見の境界が曖昧になりやすい点にも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "オンライン版は公開後に更新・修正されることがあり、また紙面・放送・初期ウェブ版・改訂版で細部が異なることもあるので、外的批判を行う上では注意が必要な場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "辞書・事典同士が互いを参照しあった結果として、実質的には限られた原資料に依拠しているケースもあり、版や更新時期によって内容が細かく変化する点にも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "誤りに気づけば素早く訂正できる反面、過去の版が十分に記録されないまま書き換えられることもあり、更新状況や来歴を追うのは容易ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "会話内容がモデル改善や機能向上のために利用される場合でも、それがどのような形で学習に反映されるかは利用者には分かりにくく、その過程でどの方向にバイアスが強まるかも外側からは評価しにくい構造があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "完全にモデル内部からの生成によるものよりはいくぶん評価コスト上の利点があるとはいえ、やはり注意して扱うべき情報源と言えるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "講義・講演という形式には、話の構成やレトリックによるバイアスも入り込みます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、こうした過去の実績値の改定は、先行きの成長率見通しへも影響を与えたことにも注意が必要だろう",
+    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「平成27年度国民経済計算年次推計（平成23年基準改定値）」に係る利用上の注意について",
+    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「2021年度（令和３年度）国民経済計算年次推計」に係る利用上の注意について",
     "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -308,123 +424,117 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "実例": [
+  "手順・やり方": [
    {
-    "quote": "ビアマット知識のような断片的な情報ではなく、推論によって具体的な事例に適用したりできるような、ある程度まとまった観念を指しています",
+    "quote": "この中では、学問の探究が対象に応じてどのような方法論をとるか、ということを論じていました",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "前者の場合は、非常に複雑ではあるがそれ単体で習得可能で、例えば村田製作所の\"ムラタセイサク君\"のような形で機械にも模倣可能です",
+    "quote": "これは人類の探究活動の最極致にある学術研究においてどのようなやり方が使われるか、という部分を扱ったものですが、社会の大多数を占める人々は専門家ではありません",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "一方で、例えば芸術家のような専門家の場合、素晴らしい芸術作品を作ることはできるが、それについて流暢に言語化することは難しい、という場合があります",
+    "quote": "専門家に関する研究の中では、科学技術社会論（Science and technology studies, または science, technology, and society, STS）の中で、ハリー・コリンズとロバート・エヴァンズによって論じられた専門知の類型論が注目に値します",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "このような場合も、例えば芸術評論家が持つような言語化能力を身に付けることができれば、その芸術作品について対話をすることが可能でしょう",
+    "quote": "コリンズ＆エヴァンズ（2007、邦訳 2020）『専門知を再考する』では、\"専門知の周期表\"として専門知の類型が論じられています",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "「専門的目利き」は、例えばワインのソムリエがワインの良し悪しについて判断できるような鑑定能力のことを指しています",
+    "quote": "これは「ビアマット知識」「通俗的理解」「一次資料知識」「対話型専門知」「貢献型専門知」の5つの類型に分けられます",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "ここでは、例えば自然科学では対応説、人文科学では整合説、みたいな形で、ドメインごとに別々の説による真理が成り立つ、ということが考えられます",
+    "quote": "「貢献型専門知」は、一般に\"専門家\"という言葉から連想されるような、特定の分野において実践的にことを為すことができるような能力をもたらす専門知のことです",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "非専門家にとっては、例えば対応説的な真理を直接得ることはできず、専門家によって見出されたもの、という媒介を通してしか真理を見ることができません",
+    "quote": "一方「対話型専門知」は、その分野において実践的な貢献は行わないが、分野のコミュニティに関わり、その特定分野に固有の暗黙知を身に付けた状態で、専門的なトピックに関して流暢なコミュニケーションを行うことを可能にするような専門知を指します",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "真純性に問題があるケースとしては、一つは史料が偽作である場合、またもう一つとして錯誤もしくは誤認に基づいている場合があります",
+    "quote": "対話型専門知はコリンズとエヴァンズが新たに着想した概念で、『専門知を再考する』の中ではかなり詳しく論じられています",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
+    "quote": "対話型専門知および貢献型専門知には特定分野のコミュニティにおける社会的な暗黙知が必要となります",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "このような錯誤や虚偽の吟味は、外的批判の結果とも組み合わせて検討されます",
+    "quote": "また、特にその分野の実践を伴う貢献型専門知においては、物真似単形性のような技能の身体化が見られるようになります",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "ただし、そのような信頼性の高い複製プロセスを経ていないものを対象としている場合や、版の違いによる改訂の差などが重要になってくる場合などでは、真純性の吟味が重要なケースは残ります",
+    "quote": "コリンズとエヴァンズの議論では、貢献型専門知を持った人々は、少なくとも潜在的には対話型専門知をも身に付けている、と論じられています",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう",
+    "quote": "学術コミュニティの場合は学会などでのやりとりとして言語によるコミュニケーションが行われるので、多くの場合対話型専門知が顕在化していることが多いと思います",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
+    "quote": "なお、芸術評論家は貢献型専門知を持たず対話型専門知のみを持っているような例になっています",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります",
+    "quote": "これは、他の言葉で言えば批判的思考（クリティカル・シンキング）のようなものを行えるような資質のことを意味していて、特に学術分野における貢献型専門知の実践に深く関与しています",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます",
+    "quote": "これらの「対話能力」「熟慮能力」は特定の分野に限った能力ではないためこの行とは別に立てられていて、対話型専門知や貢献型専門知を顕在化させたり習熟させるのに役立つような資質として位置づけられています",
     "url": "https://note.com/wattson496/n/n853a10f28714",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "月期まで遡及改定）の結果が反映されたためである",
+    "quote": "年次推計ではコモディティ・フロー法と呼ばれる手法で財・サービスの品目ごとに産出額などを推計するが、速報時点では得られる基礎統計に限りがあり、簡易な方法で推計を行っているためである",
     "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "例えば、第一生命経済研究所は「",
+    "quote": "次年次推計にあたり、新型コロナウイルス感染症等に起因する主な予算関連施策を織り込んだことを明記しており、これが改定要因であろう",
     "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "例えば、消費増税については、消費税率が",
+    "quote": "また、政府の決算などの基礎統計は、可能な時点で速報値に織り込むという方法も考えられよう",
     "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "冒頭で述べたように、政策決定の適切な評価は、政策決定時点の実績値で行われるのが原則ではあるが、その実績値がどのように改定され、改定された結果、その時点の判断が適切であったのかを事後検証することも求められているのではないだろうか",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計が公表されているが、それを例えば、現在のタイミングから",
+    "quote": "年（令和２年）は新型コロナウイルス感染症の感染拡大の影響を踏まえ、一部の品目について、固定された配分比率では捉えられない直近の経済構造の変化を反映するよう、各種統計等を活用し、配分比率の見直し」を行ったとしている",
     "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -611,116 +721,6 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "これには、「軽信によって起こったもの、不注意から来たもの、独断によって誤られたもの、批判的誤りから生じたもの等」のような種類があることが言及されています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "作者がその主張を強く印象づけるために行う工夫が、現代の読者にはダイレクトに刺さりやすい構図になっているため、より注意して客観的な判断を行う必要があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "専門家コミュニティにおける共通認識としての\"通説\"は、事実のような単一性をもったものではないことにも注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その一方で、質問文の設計や非回答の扱いなどによって系統的な偏りが生じる余地は残り、本文で取り上げられる数字と付録に置かれる数字のあいだに編集上のバイアスが入り込むこともあります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "事実報道と社説・コラム・ワイドショー的なコメントが連続して並ぶことで、事実と意見の境界が曖昧になりやすい点にも注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "オンライン版は公開後に更新・修正されることがあり、また紙面・放送・初期ウェブ版・改訂版で細部が異なることもあるので、外的批判を行う上では注意が必要な場合があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "辞書・事典同士が互いを参照しあった結果として、実質的には限られた原資料に依拠しているケースもあり、版や更新時期によって内容が細かく変化する点にも注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "誤りに気づけば素早く訂正できる反面、過去の版が十分に記録されないまま書き換えられることもあり、更新状況や来歴を追うのは容易ではありません",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会話内容がモデル改善や機能向上のために利用される場合でも、それがどのような形で学習に反映されるかは利用者には分かりにくく、その過程でどの方向にバイアスが強まるかも外側からは評価しにくい構造があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "完全にモデル内部からの生成によるものよりはいくぶん評価コスト上の利点があるとはいえ、やはり注意して扱うべき情報源と言えるでしょう",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "講義・講演という形式には、話の構成やレトリックによるバイアスも入り込みます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、こうした過去の実績値の改定は、先行きの成長率見通しへも影響を与えたことにも注意が必要だろう",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「平成27年度国民経済計算年次推計（平成23年基準改定値）」に係る利用上の注意について",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「2021年度（令和３年度）国民経済計算年次推計」に係る利用上の注意について",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
@@ -797,7 +797,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
     "status": "ok",
     "method": "http"
    },
@@ -807,7 +807,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "url": "https://news.yahoo.co.jp/flash",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankei.com/flash/",
     "status": "ok",
     "method": "http"
    },
@@ -832,9 +837,14 @@
     "method": ""
    },
    {
-    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "url": "https://news.google.com/?taa=1&hl=ja&ceid=JP:ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.asahi.com/news/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
@@ -880,14 +890,14 @@
     "https://note.com/modern_flea8708/n/neb3d5f197abc",
     "https://note.com/loyal_ivy9071/n/n1b4a4b6fcd01",
     "https://note.com/jack4manastalk/n/n2aedeb050627",
-    "https://note.com/ocaml/n/n393684ed2010",
-    "https://note.com/ocaml/n/n7d712123cbea"
+    "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/ocaml/n/n393684ed2010"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 note",
@@ -898,16 +908,14 @@
     "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1407-2.pdf",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
     "https://sucra.repo.nii.ac.jp/record/2001355/files/KY-AA11950211-23-01.pdf",
-    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130207_006780.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf"
+    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130207_006780.pdf"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 やり方",
@@ -917,15 +925,17 @@
     "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
     "https://www.stat.go.jp/library/faq/faq03/faq03a01.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
     "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1407-2.pdf",
-    "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/"
+    "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/",
+    "https://news.yahoo.co.jp/flash"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 19
   },
   {
    "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 事例",
@@ -933,17 +943,19 @@
     "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/kaisetsu_q_20251126.pdf",
     "https://www.soumu.go.jp/main_content/000729293.pdf",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
     "https://sucra.repo.nii.ac.jp/record/2001355/files/KY-AA11950211-23-01.pdf",
+    "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/",
     "https://warp.ndl.go.jp/web/20210703201216/www.data.jma.go.jp/suishin/oshirase/pdf/20190107.pdf",
     "https://www.nier.go.jp/13chousakekkahoukoku/data/primary-national/04_research_report/rpt-m-32.pdf",
     "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf"
+    "https://news.yahoo.co.jp/flash"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 19
   },
   {
    "query": "testing unbiasedness and efficiency of first release estimates regional accounts revisions",
@@ -957,79 +969,90 @@
     "http://jmlr.org/papers/volume26/24-1962/24-1962.pdf",
     "https://www.nber.org/system/files/working_papers/w30638/w30638.pdf",
     "https://rady.ucsd.edu/_files/faculty-research/timmermann/forecast-optimality.pdf",
-    "https://link.springer.com/article/10.1007/s00181-021-02065-9"
+    "https://en.wikipedia.org/wiki/Software_testing"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "site:note.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
    "results": [
     "https://note.com/ocaml/n/n7d712123cbea",
-    "https://note.com/aerotanz/n/n3a34846d0f4c",
-    "https://note.com/apotheke_umschau/n/n07c27ad9993d",
-    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
-    "https://note.com/seodoa_academy/n/n50ead55bace2",
-    "https://note.com/soudancm/n/n7ca2a01b8c7d",
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "https://note.com/prenvi_works_uz/n/n1492f4b3242b"
+    "https://news.yahoo.co.jp/flash",
+    "https://www.sankei.com/flash/",
+    "https://news.google.com/?taa=1&hl=ja&ceid=JP:ja",
+    "https://www.asahi.com/news/",
+    "https://news.yahoo.co.jp/",
+    "https://www.yomiuri.co.jp/",
+    "https://www.bing.com/news/?setlang=ja&cc=jp",
+    "https://news.web.nhk/newsweb",
+    "https://www.yomiuri.co.jp/news/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 11
   },
   {
    "query": "site:x.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
    "results": [
-    "https://x.com/47maps/status/2109839038215549420",
-    "https://x.com/peter19740308/status/2060201984360374336",
-    "https://x.com/peter19740308/status/2058416053647217041",
-    "https://x.com/kondokenji/status/2060826738121445582",
-    "https://x.com/umoregi01/status/2057373371437129983",
-    "https://x.com/kamiya_shunichi/status/2056998843754156228",
-    "https://x.com/mainichijpnews/status/2026887526095663172"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:linkedin.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
-   "results": [
-    "https://jp.linkedin.com/posts/medicoorde_115水-中医協速報レポート-来年度診療報酬改定における入院医療と透析-activity-7391797609247637504-F8KR",
-    "https://jp.linkedin.com/posts/hiroaki-takahashi-44693841_2040年の必要病床数病床利用実態業務効率化等加味し急性期は少なめ包括期は-activity-7436607536197279744-pXQT",
-    "https://jp.linkedin.com/posts/rearrangeinc_速報2026年度診療報酬改定訪問看護の大転換同一建物評価の細分化と包括型新設-activity-7435438142087737344-SUED",
-    "https://jp.linkedin.com/posts/rearrangeinc_速報2026年度診療報酬改定在宅医療充実体制への道重症患者2割要件と新加算-activity-7435233934982025216-wG-4",
-    "https://jp.linkedin.com/posts/sompoインスティチュート・プラス_今後子どもや高齢者も多極集住地域別将来推計人口から見る2050年の地域②-activity-7173452705519091712-TA7z",
-    "https://jp.linkedin.com/posts/yamadatakashi_出生数過去最少の70万人-推計より17年早い少子化-25年速報値-activity-7432715889449447424-rYPR",
-    "https://jp.linkedin.com/pulse/effectiveness-vs-efficiency-organization-set-up-jemal-abdu-h02re?tl=ja"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
-   "results": [
-    "https://www.facebook.com/KenInohara/posts/超速報-診療報酬改定短冊発表live本日の中医協でいわゆる短冊と呼ばれる個別改定項目が発表されますこの短冊とは改定されるそれぞれの項目についてその内容と点のよう/25537358339252299/",
-    "https://www.facebook.com/WHITECROSSInc/posts/速報2026年度診療報酬改定の個別改定項目について発表がありました初診料5点再診料1点up光学印象1歯につき100点150点に3次元プリント有床義歯1顎につき4/1433066222165949/",
-    "https://www.facebook.com/story.php/?story_fbid=967017595663710&id=100070664365417",
-    "https://www.facebook.com/vexoninternational/photos/超速報令和8年度-診療報酬改定-看護師が知っておきたい診療報酬のポイントと医療dx看護師が知っておきたい診療報酬改定ポイントと-医療dxをオリジナル資料でわかり/864805226295652/",
-    "https://www.facebook.com/PTOTST.NET/photos/令和8年度-診療報酬改定本日厚生労働省から示された個別改定項目点数入りをわかりやすく整理したナビゲーションページを公開しました必要なpdfをすぐ確認したいどこか/950818547283615/",
-    "https://www.facebook.com/jart.or.jp/posts/2026年度診療報酬改定速報資料を公開しました診療報酬改定の中から診療放射線技師に関係する改定ポイントを整理しています画像診断ctmripetなど放射線治療画像/978703738026340/",
-    "https://www.facebook.com/PTOTST.NET/posts/厚生労働省は令和8年度診療報酬改定に係る施設基準届出チェックリストを発出しましたチェックリストでは病院診療所訪問看護などについて新設または要件変更となった施設基/1011394404559362/"
+    "https://news.yahoo.co.jp/flash",
+    "https://www.sankei.com/flash/",
+    "https://news.google.com/?taa=1&hl=ja&ceid=JP:ja",
+    "https://www.asahi.com/news/",
+    "https://news.yahoo.co.jp/",
+    "https://www.yomiuri.co.jp/",
+    "https://www.bing.com/news/?setlang=ja&cc=jp",
+    "https://news.web.nhk/newsweb",
+    "https://www.yomiuri.co.jp/news/",
+    "https://www.reuters.com/jp/"
    ],
    "engines": [
     "ddgs:bing"
    ],
-   "n_hits": 7
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
+   "results": [
+    "https://news.yahoo.co.jp/flash",
+    "https://www.sankei.com/flash/",
+    "https://news.google.com/?taa=1&hl=ja&ceid=JP:ja",
+    "https://www.asahi.com/news/",
+    "https://news.yahoo.co.jp/",
+    "https://www.yomiuri.co.jp/",
+    "https://www.bing.com/news/?setlang=ja&cc=jp",
+    "https://news.web.nhk/newsweb",
+    "https://www.yomiuri.co.jp/news/",
+    "https://www.reuters.com/jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例",
+   "results": [
+    "https://news.yahoo.co.jp/flash",
+    "https://www.sankei.com/flash/",
+    "https://news.google.com/?taa=1&hl=ja&ceid=JP:ja",
+    "https://www.asahi.com/news/",
+    "https://news.yahoo.co.jp/",
+    "https://www.yomiuri.co.jp/",
+    "https://www.bing.com/news/?setlang=ja&cc=jp",
+    "https://news.web.nhk/newsweb",
+    "https://www.yomiuri.co.jp/news/",
+    "https://www.reuters.com/jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
   },
   {
    "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 note 社長",
@@ -1041,13 +1064,15 @@
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
     "https://sucra.repo.nii.ac.jp/record/2001355/files/KY-AA11950211-23-01.pdf",
     "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
-    "https://baike.baidu.com/ja/item/%E5%9C%B0%E5%9F%9F%E7%B7%8F%E7%94%9F%E7%94%A3%E6%8E%A8%E8%A8%88%E6%96%B9%E6%B3%95/6267872",
-    "https://www.nikkei.com/article/DGXZQOUA2320A0T21C25A0000000/"
+    "https://www.nikkei.com/article/DGXZQOUA2320A0T21C25A0000000/",
+    "https://www.soumu.go.jp/main_content/001007058.pdf",
+    "https://news.yahoo.co.jp/flash"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 19
   },
   {
    "query": "速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例 X 投稿",
@@ -1056,303 +1081,42 @@
     "https://www.soumu.go.jp/main_content/000729293.pdf",
     "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.nikkei.com/article/DGXKZO39244880R21C18A2KE8000/",
     "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://www.nikkei.com/article/DGXKZO39244880R21C18A2KE8000/",
     "https://baike.baidu.com/ja/item/%E5%9C%B0%E5%9F%9F%E7%B7%8F%E7%94%9F%E7%94%A3%E6%8E%A8%E8%A8%88%E6%96%B9%E6%B3%95/6267872",
     "https://www.reuters.com/article/opinion/198600-idUSKCN11L0UL/",
-    "https://www.jiyujyutaku-navi.com/en-us/column/tag/report"
+    "https://www.jiyujyutaku-navi.com/en-us/column/tag/report",
+    "https://news.yahoo.co.jp/flash"
    ],
    "engines": [
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 19
   },
   {
    "query": "testing unbiasedness and efficiency of first release estimates regional accounts revisions site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/anup-srivastava-81ab15_cpa-cfa-conservatism-activity-7457119982968012800-EbpM",
     "https://www.linkedin.com/posts/nzekwe-john-kelechi-aca-mba-in-view-6b7210139_behind-every-estimate-lies-judgment-why-activity-7389283042248257536-PTFB",
+    "https://www.linkedin.com/posts/anup-srivastava-81ab15_cpa-cfa-conservatism-activity-7457119982968012800-EbpM",
     "https://www.linkedin.com/posts/bruceratner_what-experienced-data-scientists-still-activity-7497299580359880704-nL-E",
     "https://www.linkedin.com/in/staskolenikov",
-    "https://www.linkedin.com/in/jwbono",
-    "https://www.linkedin.com/in/shaochenhuang",
     "https://www.linkedin.com/in/meredithamoon",
-    "https://www.linkedin.com/pulse/government-contracting-6-business-systems-compliance-guidance-glen",
+    "https://www.linkedin.com/in/shaochenhuang",
+    "https://www.linkedin.com/in/thomasragone1",
+    "https://www.linkedin.com/in/jwbono",
     "https://www.linkedin.com/in/micheleperuzzi",
-    "https://www.linkedin.com/in/damon-runberg"
+    "https://www.linkedin.com/in/jess-newman-386bab25"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "年次推計ではコモディティ・フロー法と呼ばれる手法で財・サービスの品目ごとに産出額などを推計するが、速報時点では得られる基礎統計に限りがあり、簡易な方法で推計を行っているためである",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計にあたり、新型コロナウイルス感染症等に起因する主な予算関連施策を織り込んだことを明記しており、これが改定要因であろう",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、政府の決算などの基礎統計は、可能な時点で速報値に織り込むという方法も考えられよう",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "年（令和２年）は新型コロナウイルス感染症の感染拡大の影響を踏まえ、一部の品目について、固定された配分比率では捉えられない直近の経済構造の変化を反映するよう、各種統計等を活用し、配分比率の見直し」を行ったとしている",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "GDP成長率の改定の大きさと経済政策の検証の在り方 | 研究プログラム | 東京財団",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "GDP成長率の改定の大きさと経済政策の検証の在り方",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "1次速報から第1次年次推計への改定幅は小さくなった",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "第1次年次推計から第2次年次推計の改定は工業統計調査の公表の遅れが主因",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2021年の1次速報から第1次年次推計への改定幅は2005年以降では最大",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "第1次年次推計のタイミングも再考が必要ではないか",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "年度）国民経済計算年次推計」も公表されたが、",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "推計に利用可能となるまでのタイムラグに違いがあるためである",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次速報以降、何度も改定されるが、その改定幅が比較的大きいのが年次推計である",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "年次推計ではコモディティ・フロー法と呼ばれる手法で財・サービスの品目ごとに産出額などを推計するが、速報時点では得られる基礎統計に限りがあり、簡易な方法で推計を行っているためである",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、政府支出などは年次推計では決算書などの詳細な情報が得られるが、速報時点ではそれが得られないという違いもある",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "以上より、速報時点から年次推計への改定幅は大きくなる傾向にある",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "年次推計は、",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計、",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "推計の考え方では、研究開発投資を",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "月期まで遡及改定）の結果が反映されたためである",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、第一生命経済研究所は「",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、消費増税については、消費税率が",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "冒頭で述べたように、政策決定の適切な評価は、政策決定時点の実績値で行われるのが原則ではあるが、その実績値がどのように改定され、改定された結果、その時点の判断が適切であったのかを事後検証することも求められているのではないだろうか",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計が公表されているが、それを例えば、現在のタイミングから",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "第1次年次推計から第2次年次推計の改定は工業統計調査の公表の遅れが主因",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "成長率などの各種経済統計は、最初の公表時点の実績値（１次速報）から事後的に改定される",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "が様々な統計（基礎統計）を加工して算出され、基礎統計ごとに",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "年次推計ではコモディティ・フロー法と呼ばれる手法で財・サービスの品目ごとに産出額などを推計するが、速報時点では得られる基礎統計に限りがあり、簡易な方法で推計を行っているためである",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、政府支出などは年次推計では決算書などの詳細な情報が得られるが、速報時点ではそれが得られないという違いもある",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計の改定は工業統計調査の公表の遅れが主因",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "年までは確報段階で推計に用いることができていた工業統計調査",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計の改定幅を、民間消費（民間最終消費支出）、民間投資（＝民間住宅＋民間企業設備＋民間在庫変動）、政府支出（＝政府最終消費支出＋公的固定資本形成＋公的在庫変動）、純輸出（＝財貨・サービスの輸出－財貨・サービスの輸入）に要因分解したものである",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計で行われることがあったのが、近年は財貨・サービスの産出額の推計において重要な工業統計調査が第１次年次推計に間に合わず、産出額が第",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "月）に輸出入の基礎統計である国際収支統計の年次推計（",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この国際収支統計の年次推計の反映は、毎年同じ時期に行われているが、",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計への改定が大きくなった主因は、前述したように工業統計調査の調査・公表時期の変更によって、第",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "前述したように、この時点では国際収支統計など基礎統計の遡及改定も",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "次年次推計は、政府の決算情報などの役割もある",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "しかし、工業統計調査は、コモディティ・フロー法による",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "また、こうした過去の実績値の改定は、先行きの成長率見通しへも影響を与えたことにも注意が必要だろう",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「平成27年度国民経済計算年次推計（平成23年基準改定値）」に係る利用上の注意について",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「2021年度（令和３年度）国民経済計算年次推計」に係る利用上の注意について",
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 2,
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-08T00:54:59.780076+00:00"
 }

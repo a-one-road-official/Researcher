@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T07:56:04.021861+00:00",
+ "researched_at": "2026-11-08T15:22:25.598866+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,17 +24,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/rk611/n/nf22e638593aa",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/shiramichi/n/n2bc2a7254dde",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/takahiroanno/n/n4accbde18d56",
+    "url": "https://note.com/rk611/n/nf22e638593aa",
     "status": "ok",
     "method": "http"
    },
@@ -44,7 +39,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yuichiokada/n/n3e1da8a22a1a",
+    "url": "https://note.com/daikore/n/n5ecf39ac93eb",
     "status": "ok",
     "method": "http"
    },
@@ -54,7 +49,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/calm_iguana9410/n/n170885cb582b",
+    "url": "https://note.com/yuichiokada/n/n3e1da8a22a1a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mochitaro_o/n/n072207ac7bce",
     "status": "ok",
     "method": "http"
    },
@@ -84,13 +84,13 @@
     "method": "http"
    },
    {
-    "url": "https://emanet.jp/column/ai-public-correction/",
-    "status": "ok",
+    "url": "https://debono.co.jp/media/ai-kaito-jisha-goho/",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://debono.co.jp/media/kiji-ai-kaiji-hyoji/",
-    "status": "http_403",
+    "url": "https://emanet.jp/column/ai-public-correction/",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -104,12 +104,22 @@
     "method": "http"
    },
    {
-    "url": "https://exawizards.com/column/article/examples-gai/",
+    "url": "https://www.conmark.jp/column/ai-writing-revise",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.conmark.jp/column/ai-writing-revise",
+    "url": "https://debono.co.jp/media/kiji-ai-kaiji-hyoji/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gaaaon.jp/blog/best-practices-pr-generative-ai-news-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/column/article/examples-gai/",
     "status": "ok",
     "method": "http"
    },
@@ -124,18 +134,13 @@
     "method": "http"
    },
    {
-    "url": "https://gaaaon.jp/blog/best-practices-pr-generative-ai-news-analysis",
+    "url": "https://www.eastcentral.edu/free/ai-faculty-resources/detecting-ai-generated-text/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://aicentralapp.com/media/company-analysis-ai",
+    "url": "https://www.wiley.com/en-us/publishing/article/ai-guidelines",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://publicationethics.org/guidance/case/handling-article-produced-ai",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -144,13 +149,8 @@
     "method": ""
    },
    {
-    "url": "https://kneopen.com/kne-clues/how-to-detect-ai-use-in-academic-papers/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.eastcentral.edu/free/ai-faculty-resources/detecting-ai-generated-text/",
-    "status": "ok",
+    "url": "https://publicationethics.org/guidance/case/handling-article-produced-ai",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -159,7 +159,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.wiley.com/en-us/publishing/article/ai-guidelines",
+    "url": "https://kneopen.com/kne-clues/how-to-detect-ai-use-in-academic-papers/",
     "status": "ok",
     "method": "http"
    }
@@ -171,27 +171,26 @@
    "results": [
     "https://note.com/lifeisbeautiful/n/ndce01068b20b",
     "https://note.com/hirokimiyano/n/ndcef31d87449",
-    "https://note.com/rk611/n/nf22e638593aa",
     "https://note.com/shiramichi/n/n2bc2a7254dde",
-    "https://note.com/takahiroanno/n/n4accbde18d56",
+    "https://note.com/rk611/n/nf22e638593aa",
     "https://note.com/consanddev2030/n/ne1fba72e75c2",
+    "https://note.com/daikore/n/n5ecf39ac93eb",
     "https://note.com/ip_design/n/n72b6abc764fd",
-    "https://note.com/bynano87/n/n94b4e49eacb6",
-    "https://note.com/rk611/n/n56e6db823eb1",
-    "https://note.com/daikore/n/n5ecf39ac93eb"
+    "https://note.com/takahiroanno/n/n4accbde18d56",
+    "https://note.com/infosta/n/nb717c9c3c3d0",
+    "https://note.com/tasty_dunlin998/n/n1056c8c41296"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す） note",
    "results": [
-    "https://note.com/yuichiokada/n/n3e1da8a22a1a",
     "https://note.com/noa_notexai/n/nc7a33bb3190b",
-    "https://note.com/calm_iguana9410/n/n170885cb582b",
+    "https://note.com/yuichiokada/n/n3e1da8a22a1a",
+    "https://note.com/mochitaro_o/n/n072207ac7bce",
     "https://note.com/kira_ai_lab/n/n0c9d01a4cb9e",
     "https://school.aiworkstyle.net/sidejob/ai-writing/ai-rewriting/",
     "https://shinsotsu.mynavi-agent.jp/knowhow/article/id_047/",
@@ -212,16 +211,16 @@
     "https://www.pangram.com/ja/blog/did-ai-write-this",
     "https://shinsotsu.mynavi-agent.jp/knowhow/article/id_047/",
     "https://knowledge-hd.co.jp/ai-misinformation-fix/",
+    "https://debono.co.jp/media/ai-kaito-jisha-goho/",
     "https://emanet.jp/column/ai-public-correction/",
-    "https://debono.co.jp/media/kiji-ai-kaiji-hyoji/",
     "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
     "https://flagout.co.jp/ai-article-fact-check/",
-    "https://www.conmark.jp/column/ai-writing-revise",
-    "https://cyber-intelligence.co.jp/blog/post-22173/",
+    "https://www.youtube.com/watch?v=Uze7IwR9_A0",
+    "https://fyve.co.jp/ai-advisor/articles/ai-generated-list-verification",
     "https://www.propagateinc.com/post/ai-article-fact-check"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -229,87 +228,88 @@
   {
    "query": "AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す） 事例",
    "results": [
-    "https://exawizards.com/column/article/examples-gai/",
-    "https://www.conmark.jp/column/ai-writing-revise",
-    "https://jp.dotdata.com/blog/genai-text-analysis-and-use-cases/",
     "https://knowledge-hd.co.jp/ai-misinformation-fix/",
-    "https://www.itscom.co.jp/forbiz/column/office-environment/17448/",
-    "https://emanet.jp/column/ai-public-correction/",
-    "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "https://www.conmark.jp/column/ai-writing-revise",
+    "https://debono.co.jp/media/kiji-ai-kaiji-hyoji/",
     "https://gaaaon.jp/blog/best-practices-pr-generative-ai-news-analysis",
-    "https://aicentralapp.com/media/company-analysis-ai",
-    "https://www.propagateinc.com/post/ai-article-fact-check"
+    "https://emanet.jp/column/ai-public-correction/",
+    "https://exawizards.com/column/article/examples-gai/",
+    "https://jp.dotdata.com/blog/genai-text-analysis-and-use-cases/",
+    "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "https://www.itscom.co.jp/forbiz/column/office-environment/17448/",
+    "https://openai.com/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 19
   },
   {
    "query": "how to identify AI-generated research reports and handle sources without corrections policy",
    "results": [
-    "https://publicationethics.org/guidance/case/handling-article-produced-ai",
-    "https://www.reddit.com/r/research/comments/1ilc0ez/if_i_use_ai_tool_for_writing_does_the_journals/",
-    "https://kneopen.com/kne-clues/how-to-detect-ai-use-in-academic-papers/",
     "https://www.eastcentral.edu/free/ai-faculty-resources/detecting-ai-generated-text/",
-    "https://libguides.pace.edu/c.php?g=1292205&p=9488470",
     "https://www.wiley.com/en-us/publishing/article/ai-guidelines",
-    "https://gijn.org/resource/guide-detecting-ai-generated-content/",
+    "https://www.reddit.com/r/research/comments/1ilc0ez/if_i_use_ai_tool_for_writing_does_the_journals/",
+    "https://publicationethics.org/guidance/case/handling-article-produced-ai",
+    "https://libguides.pace.edu/c.php?g=1292205&p=9488470",
+    "https://kneopen.com/kne-clues/how-to-detect-ai-use-in-academic-papers/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12752165/",
-    "https://www.researchgate.net/publication/385392726_Identifying_AI-Generated_Research_Papers_Methods_and_Considerations",
+    "https://gijn.org/resource/guide-detecting-ai-generated-content/",
+    "https://casrai.org/guides/how-to-detect-ai-generated-text-in-academic-writing",
     "https://hub.paper-checker.com/blog/ai-citation-hallucinations-verification-2026/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 18
   },
   {
    "query": "site:note.com AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）",
    "results": [
     "https://note.com/calm_iguana9410/n/n170885cb582b",
-    "https://note.com/tsunobuchi/n/nb2b50580f7ec",
     "https://note.com/mochitaro_o/n/n072207ac7bce",
+    "https://note.com/tsunobuchi/n/nb2b50580f7ec",
     "https://note.com/takayuki_sase/n/n0c92770134cc",
     "https://note.com/make_many_money/n/n920c41a43ada",
     "https://note.com/shiki__note/n/nf4799d9351fc",
+    "https://note.com/hirokimiyano/n/ndcef31d87449",
     "https://note.com/nassy_0103/n/n8eb755f1d66e",
-    "https://note.com/liddell_share/n/n9a0816fb9b9b",
-    "https://note.com/sansanjapan/n/nb355a96f0691",
-    "https://note.com/hirokimiyano/n/ndcef31d87449"
+    "https://note.com/tsunobuchi/n/nd8ac73e9e841",
+    "https://note.com/shiramichi/n/n2bc2a7254dde"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:x.com AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）",
    "results": [
-    "https://x.com/i/trending/2088296733834932261",
-    "https://x.com/masahirochaen/status/2098240730972168378",
-    "https://x.com/masahirochaen/status/2002707602711752892",
-    "https://x.com/mica823/status/2112700974989226450",
-    "https://x.com/MakeAI_CEO/article/2080166594915742012",
-    "https://x.com/tetumemo/status/2119251732706521526",
-    "https://x.com/lifedesign_oki/status/2119256200164659698",
-    "https://x.com/Junya_Junya/status/2114361694432702558",
-    "https://x.com/daily_trial/status/2104877969952870816",
-    "https://x.com/evelyn_mawuli/status/2056943180814360744"
+    "https://x.com/masahirochaen/status/2073548158270144705",
+    "https://x.com/ai_jitan/article/2082625890136236055",
+    "https://x.com/masahirochaen/status/2028727271578914999",
+    "https://x.com/masahirochaen/status/2104330743233343810",
+    "https://x.com/masahirochaen/status/2045730009701400844",
+    "https://x.com/masahirochaen/status/2109796091151683799",
+    "https://x.com/masahirochaen/status/2106567517359763955",
+    "https://x.com/ai_jitan/status/2081505299702374721",
+    "https://x.com/masahirochaen/status/2073312583118155931",
+    "https://x.com/masahirochaen/status/2070263514867147147"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:linkedin.com AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）",
    "results": [
     "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/pulse/why-your-ai-isnt-working-yet-cognizant-0mhne?tl=ja",
     "https://jp.linkedin.com/posts/hidetoshitakano_ai%E3%81%A7%E4%BB%95%E4%BA%8B%E3%81%AF%E7%84%A1%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B-%E3%81%93%E3%81%AE%E5%95%8F%E3%81%84%E3%81%AB%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E3%81%AEir%E8%B3%87%E6%96%99%E3%81%A7%E6%AD%A3%E9%9D%A2%E3%81%8B%E3%82%89%E7%AD%94%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92-activity-7452151541639290880-eO0m",
     "https://jp.linkedin.com/pulse/i-analyzed-71-legal-roles-ai-replacement-industrys-real-bo-liu-fp9zc?tl=ja",
     "https://www.linkedin.com/help/linkedin/answer/a5438538?lang=ja-JP",
@@ -317,14 +317,13 @@
     "https://jp.linkedin.com/pulse/ais-value-capture-problem-jaya-gupta-m9lfc?tl=ja",
     "https://jp.linkedin.com/pulse/you-have-right-swiftly-fix-ais-mistakes-bill-jensen-yotyc?tl=ja",
     "https://www.linkedin.com/in/bratin-saha-05824b3",
-    "https://jp.linkedin.com/pulse/how-break-ai-jobs-without-coding-skills-andrew-seaman-hp3ne?tl=ja",
-    "https://jp.linkedin.com/posts/hardmaru_sakana-ai%E3%81%AE%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E4%B8%96%E7%95%8C%E3%81%AEai%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E3%81%AF%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E7%B1%B3%E5%9B%BD%E3%81%A8%E4%B8%AD%E5%9B%BD%E3%81%AB%E9%9B%86%E4%B8%AD%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-activity-7400778330708463616-NBU-"
+    "https://jp.linkedin.com/pulse/how-break-ai-jobs-without-coding-skills-andrew-seaman-hp3ne?tl=ja"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:facebook.com AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）",
@@ -335,76 +334,76 @@
     "https://www.facebook.com/matsuo.akihito/posts/line%E3%83%A4%E3%83%95%E3%83%BC%E4%BC%9A%E9%95%B7%E3%81%8Cai%E3%81%AE%E3%81%BF%E3%81%A71%E4%BA%BA%E8%B5%B7%E6%A5%AD%E3%81%B8%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%A7%E7%9B%AE%E3%82%92%E5%BC%95%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9Fline%E3%83%A4%E3%83%95%E3%83%BC%E3%81%AE%E5%B7%9D%E8%BE%BA%E5%81%A5%E5%A4%AA%E9%83%8E%E4%BC%9A%E9%95%B7%E3%81%8C%E6%9D%A5%E6%9C%88%E4%BC%9A%E9%95%B7%E3%82%92%E9%80%80%E4%BB%BB%E3%81%97ai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E5%80%8B%E4%BA%BA%E8%B5%B7%E6%A5%AD%E3%81%AB%E6%8C%91%E6%88%A6%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%86%85%E5%AE%B9/26981631121457066/",
     "https://www.facebook.com/takaichisanae/posts/%E7%8F%BE%E5%9C%A8%E5%9F%BA%E7%A4%8E%E7%A7%91%E5%AD%A6%E3%81%AE%E6%88%90%E6%9E%9C%E3%81%8C%E4%B8%80%E6%B0%97%E3%81%AB%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%81%95%E3%82%8C%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AE%E8%BF%91%E6%8E%A5%E5%8C%96%E3%81%A8%E3%82%82%E8%A8%80%E3%81%88%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E6%99%82%E4%BB%A3%E3%81%AB%E5%85%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%AF%E6%9C%89%E5%8A%9B%E4%BC%81%E6%A5%AD%E3%81%8C%E5%85%88%E7%AB%AF%E6%8A%80%E8%A1%93%E3%81%AB%E5%B7%A8%E9%A1%8D%E3%81%AE%E6%8A%95%E8%B3%87%E7%AB%B6%E4%BA%89/1423078746584441/",
     "https://www.facebook.com/100075871327957/?locale=zh_TW",
-    "https://www.facebook.com/matsuo.akihito/posts/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AB%E4%BF%9D%E9%99%BA%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E6%99%82%E4%BB%A3%E3%81%B8-%E6%9D%B1%E4%BA%AC%E6%B5%B7%E4%B8%8A%E3%81%AE%E6%96%B0%E5%95%86%E5%93%81%E3%81%AB%E8%A6%8B%E3%81%9F%E5%95%86%E5%A3%B2%E3%81%AE%E3%83%92%E3%83%B3%E3%83%8810%E6%9C%8825%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E6%9D%B1%E4%BA%AC%E6%B5%B7%E4%B8%8A%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8Cai%E3%81%A7%E5%8B%95%E3%81%8F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%90%91%E3%81%91%E3%81%AE%E5%B0%82%E7%94%A8%E4%BF%9D%E9%99%BA%E3%82%9211%E6%9C%88%E3%81%8B%E3%82%89%E8%B2%A9%E5%A3%B2%E3%81%99%E3%82%8B%E3%81%A8/28985748994378592/",
     "https://www.facebook.com/takaichisanae/posts/%E6%9C%AC%E6%97%A518%E6%99%82%E3%81%8B%E3%82%89%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%96%A2%E4%BF%82%E9%96%A3%E5%83%9A%E4%BC%9A%E8%AD%B0%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%88%91%E3%81%8C%E5%9B%BD%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%AA%E3%81%A9%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E7%9B%B8%E6%AC%A1%E3%81%90%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%AA%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E8%A2%AB%E5%AE%B3%E3%81%AA%E3%81%A9%E3%81%8C%E5%A4%9A%E6%95%B0%E7%94%9F%E3%81%98%E3%81%A6%E3%81%84%E3%81%BE/1482963790595936/",
     "https://www.facebook.com/matsuo.akihito/posts/%E3%82%92%E6%8A%BC%E3%81%97%E3%81%A6%E3%82%82%E6%B6%88%E3%81%88%E3%81%AA%E3%81%84%E3%83%8D%E3%83%83%E3%83%88%E5%BA%83%E5%91%8A%E4%B8%8D%E5%BF%AB%E6%84%9F%E3%82%88%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E5%84%AA%E5%85%88%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%E4%BB%8A%E6%97%A510%E6%9C%8821%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E3%83%8D%E3%83%83%E3%83%88%E5%BA%83%E5%91%8A%E3%82%92%E5%B7%A1%E3%82%8B%E8%8B%A6%E6%83%85%E3%81%8C%E6%80%A5%E5%A2%97%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%94%BB%E9%9D%A2%E3%82%92%E5%A1%9E%E3%81%84/28930703213216504/",
-    "https://www.facebook.com/100095203588006/videos/%E4%BB%8A%E3%81%99%E3%81%90%E5%A7%8B%E3%82%81%E3%82%8B/1063320409987918/"
+    "https://www.facebook.com/100095203588006/videos/%E4%BB%8A%E3%81%99%E3%81%90%E5%A7%8B%E3%82%81%E3%82%8B/1063320409987918/",
+    "https://www.facebook.com/usembassytokyo/videos/%E3%83%91%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B7%E3%83%AA%E3%82%AB%E3%81%AF%E7%B1%B3%E5%9B%BD%E4%B8%BB%E5%B0%8E%E3%81%A7ai%E9%9D%A9%E6%96%B0%E3%81%A8%E5%AE%89%E5%85%A8%E3%81%AA%E4%BE%9B%E7%B5%A6%E7%B6%B2%E3%82%92%E5%BC%B7%E5%8C%96%E3%81%97%E5%90%8C%E7%9B%9F%E5%9B%BD%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%81%A8%E7%B5%8C%E6%B8%88%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E3%82%92%E6%8E%A8%E9%80%B2%E3%81%99%E3%82%8B%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%A7%E3%81%99pax-silica-is-a-us-le/842729972162721/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す） note 社長",
    "results": [
     "https://note.com/tom_ai_/n/ne013eebf25d0",
-    "https://note.com/calm_iguana9410/n/n170885cb582b",
+    "https://note.com/mochitaro_o/n/n072207ac7bce",
     "https://www.csplus.jp/blog/ai/sme-ai-prompt-improvement.html",
-    "https://note.com/yuichiokada/n/n3e1da8a22a1a",
-    "https://note.com/kai_ccc/n/naf24f968f1e7",
+    "https://note.com/chic_gecko8861/n/nbbe88e1cceff",
     "https://www.docswell.com/s/HARMONICinsight/K3J8RL-ai-output-dont-fix-discard",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/mochitaro_o/n/n072207ac7bce",
+    "https://note.com/gyokuto15/n/nc6794e380236",
+    "https://note.com/yuichiokada/n/n3e1da8a22a1a",
     "https://flagout.co.jp/ai-article-fact-check/",
-    "https://note.com/ai_guide_/n/n4cc8f554f447"
+    "https://openai.com/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 19
   },
   {
    "query": "AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す） X 投稿",
    "results": [
-    "https://www.youtube.com/watch?v=GSwsObQVz44",
     "https://www.koukoku.jp/service/suketto/marketer/sns/x%E6%8A%95%E7%A8%BF%E3%83%8D%E3%82%BF%E3%82%92%E8%87%AA%E5%88%86%E3%81%A7%E7%99%BA%E6%83%B3%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%EF%BD%9C%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E8%A8%AD%E8%A8%88%E3%83%BB/",
+    "https://www.youtube.com/watch?v=XEjNeQ-C2XM",
     "https://aurant-technologies.com/blog/generative-ai-ad-check/",
     "https://agi.webmarks.co.jp/articles/x-post-fact-truth-verification/",
-    "https://coplus-one.jp/seisei-ai-enjo/",
+    "https://note.com/mochitaro_o/n/n072207ac7bce",
     "https://x.com/MDPI_Japan/status/2115255770208153688",
     "https://knowledge-hd.co.jp/ai-misinformation-fix/",
-    "https://note.com/mochitaro_o/n/n072207ac7bce",
-    "https://www.csplus.jp/blog/ai/sme-ai-prompt-improvement.html",
+    "https://www.youtube.com/watch?v=fCEObfrJpKA",
+    "https://coplus-one.jp/seisei-ai-enjo/",
     "https://library.libecity.com/articles/01M696XFWFC4A5AQPSFBEEVCXS"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 14
-  },
-  {
-   "query": "how to identify AI-generated research reports and handle sources without corrections policy site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/posts/ai-undetectable_write-a-clear-correction-notice-with-ai-activity-7520121911322771456-h4DQ",
-    "https://www.linkedin.com/top-content/artificial-intelligence/ai-evaluation-methods/how-to-fact-check-ai-outputs/",
-    "https://www.linkedin.com/pulse/ai-generated-reports-improved-insights-risk-andre-ripla-pgcert-pgdip-c1vxe",
-    "https://www.linkedin.com/top-content/artificial-intelligence/ai-evaluation-methods/how-to-verify-ai-summaries-against-research-papers/",
-    "https://www.linkedin.com/pulse/platformised-trust-dislocation-when-ai-platforms-news-ruhangariyo-qicvc",
-    "https://www.linkedin.com/posts/kristian-lum-01365055_critical-case-studies-three-assessments-activity-7506013512570314752-4Bev",
-    "https://www.linkedin.com/posts/muhammad-irfan9990_6-free-ai-tools-for-academic-research-activity-7375132582751006720-qACs",
-    "https://www.linkedin.com/posts/prof-todd-austin_research-publication-aitools-activity-7397001188879036416-EeS9",
-    "https://www.linkedin.com/top-content/technology/ai-language-processing/how-to-detect-ai-generated-responses/",
-    "https://www.linkedin.com/pulse/how-ai-tools-transforming-academic-research-2026-lumivero-lmzwc"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
+  },
+  {
+   "query": "how to identify AI-generated research reports and handle sources without corrections policy site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/artificial-intelligence/ai-evaluation-methods/how-to-fact-check-ai-outputs/",
+    "https://www.linkedin.com/posts/kristian-lum-01365055_critical-case-studies-three-assessments-activity-7506013512570314752-4Bev",
+    "https://www.linkedin.com/pulse/ai-generated-reports-improved-insights-risk-andre-ripla-pgcert-pgdip-c1vxe",
+    "https://www.linkedin.com/pulse/platformised-trust-dislocation-when-ai-platforms-news-ruhangariyo-qicvc",
+    "https://www.linkedin.com/pulse/how-ai-tools-transforming-academic-research-2026-lumivero-lmzwc",
+    "https://www.linkedin.com/posts/prof-todd-austin_research-publication-aitools-activity-7397001188879036416-EeS9",
+    "https://www.linkedin.com/posts/alice-marwick-7304341_re-the-crisis-of-peer-review-i-have-activity-7512986411726225408-qH04",
+    "https://www.linkedin.com/pulse/7-best-ai-literature-review-tools-scientific-research-irfan--fjagf",
+    "https://www.linkedin.com/posts/stefanogaburro_ai-is-not-killing-scientific-credibility-activity-7445225762733051904-BtuI",
+    "https://www.linkedin.com/posts/casey-fiesler-bb3493243_the-acm-digital-library-repository-for-the-activity-7407067990376054784-QP3_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
   }
  ],
  "missing": {
@@ -415,6 +414,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T00:52:33.110067+00:00"
 }

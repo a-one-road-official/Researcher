@@ -7,8 +7,54 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T07:38:34.907826+00:00",
+ "researched_at": "2026-11-08T15:22:35.664319+00:00",
  "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric",
+    "url": "https://stealthagents.com/research/startup-revenue-per-employee-benchmarks",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Reconciliation example",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Department KPI Dashboard Examples by Function",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Markup vs Margin Calculator Explained With Real Business Examples",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Finance teams can use the metric to test hiring plans. If projected headcount growth is much faster than projected revenue growth, revenue per employee may decline. That may be acceptable, but it should be visible. Include base, upside, and downside cases in your planning spreadsheet so leadership can see the expected impact.",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
@@ -197,44 +243,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
-   {
-    "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Reconciliation example",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Department KPI Dashboard Examples by Function",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Markup vs Margin Calculator Explained With Real Business Examples",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Finance teams can use the metric to test hiring plans. If projected headcount growth is much faster than projected revenue growth, revenue per employee may decline. That may be acceptable, but it should be visible. Include base, upside, and downside cases in your planning spreadsheet so leadership can see the expected impact.",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly",
@@ -247,14 +255,6 @@
     "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric",
-    "url": "https://stealthagents.com/research/startup-revenue-per-employee-benchmarks",
-    "pass": 3,
-    "first_seen": "2026-11-06"
    }
   ]
  },
@@ -397,17 +397,17 @@
     "method": "http"
    },
    {
-    "url": "https://getrebelos.com/blog/revenue-per-employee",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tractian.com/en/glossary/revenue-per-employee",
+    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.greatplacetowork.com/resources/blog/understanding-revenue-per-employee-what-is-a-good-revenue-per-employee-ratio-how-to-calculate-it",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
     "status": "ok",
     "method": "http"
    }
@@ -429,7 +429,7 @@
     "https://note.com/ezuremanagement/n/n62ac85c83529"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -449,7 +449,7 @@
     "https://saas-magazine.com/what-is-arpu-strategies"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -461,15 +461,15 @@
     "https://www.stat.go.jp/naruhodo/4_graph/shokyu/hakohige.html",
     "https://bellcurve.jp/statistics/course/19277.html",
     "https://data-viz-lab.com/iqr",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://datamix.co.jp/media/datascience/blog-datascience-bs/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://w3e.kanazawa-it.ac.jp/math/category/kakuritu/ds/henkan-tex.cgi?target=/math/category/kakuritu/ds/quartile.html",
     "https://www.kousotu.com/lect_math/d02.php",
     "https://dev.classmethod.jp/articles/datascience-begginer-for-worker-week2/",
     "https://note.com/revenuescope/n/n00fd31afad70"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -489,7 +489,7 @@
     "https://saas-magazine.com/what-is-arpu-strategies"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -500,19 +500,19 @@
     "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
     "https://www.hrbench.com/resource/learn/revenue-per-employee",
     "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "https://getrebelos.com/blog/revenue-per-employee",
-    "https://tractian.com/en/glossary/revenue-per-employee",
+    "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
     "https://www.greatplacetowork.com/resources/blog/understanding-revenue-per-employee-what-is-a-good-revenue-per-employee-ratio-how-to-calculate-it",
-    "https://www.venasolutions.com/blog/average-revenue-per-employee",
     "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
-    "https://www.lightercapital.com/blog/revenue-per-employee-benchmarks",
+    "https://tractian.com/en/glossary/revenue-per-employee",
+    "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "https://www.venasolutions.com/blog/average-revenue-per-employee",
     "https://stealthagents.com/research/startup-revenue-per-employee-benchmarks"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 13
   },
   {
    "query": "site:note.com 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）",
@@ -523,8 +523,8 @@
     "https://note.com/ichi_twnovel/n/nc49098104ba2",
     "https://note.com/natty_impala4797/n/nb2b19fd0d595",
     "https://note.com/ocaml/n/n8b838ecd894f",
-    "https://note.com/ocaml/n/n43eae8cc0bec",
     "https://note.com/ocaml/n/n25a2c177afc3",
+    "https://note.com/ocaml/n/n43eae8cc0bec",
     "https://note.com/ocaml/n/n505db5d67548",
     "https://note.com/ezuremanagement/n/n62ac85c83529"
    ],
@@ -539,14 +539,14 @@
    "results": [
     "https://x.com/five_mindset/status/2084902615591301387",
     "https://x.com/shiho_aga/status/2109113003924926946",
-    "https://x.com/maru_DTJ/status/2110134517109596310",
-    "https://x.com/gagarot200/status/2041103628799483905",
     "https://x.com/nikkei_business/status/2110099584727109886",
+    "https://x.com/gagarot200/status/2041103628799483905",
     "https://x.com/i/trending/2028056582161154131",
-    "https://x.com/GamiMga35076/status/2077954191243591792"
+    "https://x.com/nikkeinagoya/status/2110132723436171637",
+    "https://x.com/maru_DTJ/status/2110134517109596310"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -558,11 +558,11 @@
     "https://www.linkedin.com/posts/青山恒夫経営管理会計の伝道師_売上高の代表値を可視化-ふと売上高の標準偏差を算出してみようと考えて可視化-activity-7052818395066486784-senS",
     "https://jp.linkedin.com/pulse/sales-geek-health-check-q2-2026-survey-results-executive-elken-qquje?tl=ja",
     "https://jp.linkedin.com/pulse/108-per-employee-standard-cross-industry-saas-spending-jaymita-prasad-gwnjc?tl=ja",
-    "https://jp.linkedin.com/pulse/医師の年収は妥当か売上との関係から考える-md-phd-tamura-ccllc",
-    "https://jp.linkedin.com/pulse/benchmarking-edition-mid-sized-organisations-losing-connection-vbu0c?tl=ja"
+    "https://jp.linkedin.com/posts/hidehitoyoichi0323_売上億の壁の本質はたぶん売上ではなく従業員数の壁-マネジメント可能な人数-activity-6810926162794164224-AaV2",
+    "https://jp.linkedin.com/posts/munehisakanai_1日密着1人あたり売上1億円以上仕事を通して自らの限界に挑戦クラウド人材バンク-activity-7397216870682120192-YGVI"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -571,14 +571,14 @@
    "results": [
     "https://www.facebook.com/ryutaro.hojyo/photos/-なぜ食品メーカーの真ん中は年商4億円利益率1なのか1️⃣-tsrデータが示す厳しい中央値食品関連企業約15万社を集計売上高43億円営業利益率101人あたり売上/26571553412496546/",
     "https://www.facebook.com/PwCJapan/posts/876448842390768/",
-    "https://www.facebook.com/kayano55/videos/独立起業した人の年商売上と年収所得利益は個人事業主のままでいるか会社を設立して法人化しているかによって数字の定義や実態が大きく異なります公的な統計データに基づく/980333678470506/",
     "https://www.facebook.com/itscobuy/photos/情勢混乱の現状下他社比較で進む方向を測るに有効なベンチマーク指標を連ねた資料cpoハンドブックを発表-ベロア-cobuy-httpswwwberoeinccom/4775549409142932/",
-    "https://www.facebook.com/groups/970784596300476/posts/25714853758133550/",
     "https://www.facebook.com/nawoki.ikegami/videos/5社規模ランキング1位餃子の王将店舗数約730店舗売上額約1110億円2位バーミヤン店舗数約360店舗売上額約400億円規模3位山岡家店舗数約190店舗売上額約/1193139079568789/",
-    "https://www.facebook.com/wasamontaisyo/videos/21歳で起業ピーク時の年商は40億越え井戸端談義-第四弾今回はラーメンの世界へ飛び込む前大将が経営者として駆け抜けた知られざる過去に迫ります21歳で立ち上げたス/1433785281936085/"
+    "https://www.facebook.com/kayano55/videos/独立起業した人の年商売上と年収所得利益は個人事業主のままでいるか会社を設立して法人化しているかによって数字の定義や実態が大きく異なります公的な統計データに基づく/980333678470506/",
+    "https://www.facebook.com/groups/970784596300476/posts/25714853758133550/",
+    "https://www.facebook.com/walkme.japan/videos/1人あたり年間51営業日-これは何の数字でしょうか本来は業務を助けるはずのツール管理にここまで時間が取られているという事実かなりインパクトありますよねwalkm/1295786485466069/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -588,16 +588,16 @@
     "https://wakara.co.jp/mathlog/20251114",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://note.com/s_toyama/n/n0ba00c87a87f",
-    "https://www.youtube.com/watch?v=eATPPFx3DFg",
-    "https://note.com/bespokepartner/n/n3b0e4b414ebc",
+    "https://note.com/markeducation/n/ndb72415980e3",
+    "https://www.youtube.com/watch?v=RzWOOUDzKSQ&vl=ja",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://www.business-standard.com/jp/tsunapoe",
+    "https://note.com/bespokepartner/n/n3b0e4b414ebc",
     "https://researchmap.jp/read0069554/books_etc/30742300",
-    "https://note.com/glossy_stork3548/n/n9f4811b44baa",
-    "https://ja.wikipedia.org/wiki/四分位数"
+    "https://note.com/revenuescope/n/n00fd31afad70"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -606,18 +606,18 @@
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） X 投稿",
    "results": [
     "https://wakara.co.jp/mathlog/20251114",
+    "https://bellcurve.jp/statistics/course/5220.html",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
-    "https://bellcurve.jp/statistics/course/5220.html",
-    "https://note.com/s_toyama/n/n002c062ac803",
     "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
     "https://x.com/masahirochaen/article/2087098827375628628",
     "https://xtech.nikkei.com/atcl/learning/lecture/19/00044/00001/?P=5",
+    "https://note.com/s_toyama/n/n002c062ac803",
     "https://ta5k.com/tools/industry/sme-financial",
     "https://note.com/revenuescope/n/n00fd31afad70"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -648,6 +648,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 15,
+ "runs": 16,
  "first_researched_at": "2026-11-05T16:50:46.037848+00:00"
 }
