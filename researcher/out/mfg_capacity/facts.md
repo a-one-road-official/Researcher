@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・210品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・212品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -10783,6 +10783,121 @@
 - 生産能力・設備：記載なし（読んだ21頁・検索18回）
 - 10年推移：記載なし（読んだ21頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ21頁・検索18回）
+
+## 工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99）（Japan Census of Manufactures to Economic Structure Survey continuity break 2020 coverage change）
+- 文脈：全体・規模別
+- 事業所数・社数：
+  - 「調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります」（https://www.jagat.or.jp/archives/99010）
+  - 「・事業所数は事業所数は6148事業所」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「・事業所数は4825事業所で、前回調査より737事業所減少」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+- 社員数・平均社員数：
+  - 「1981年（昭和56年）以降は西暦末尾3、5、8 、0 年は全事業所、それ以外の年は従業者4人以上の事業所が対象となり、2009年（平成21年）以降は標本調査（従業者4人以上の事業所対象）となりました」（https://www.jagat.or.jp/archives/99010）
+  - 「さらに2022年調査から、全産業に属する一定規模以上の法人企業が対象になるとともに、これまでの「工業統計調査」を「経済構造実態調査」の一部（製造業事業所調査）として実施することになりました」（https://www.jagat.or.jp/archives/99010）
+  - 「調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります」（https://www.jagat.or.jp/archives/99010）
+  - 「・従業者数は20万6238人」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「・従業者数は19万8141人で、前回調査より9421人増加」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「従業者数4人以上の事業所の集計となっております」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：令和3年経済センサス-活動調査（製造業）の産業別集計では個人経営の事業所は集計対象外となっており、工業統計と単純比較ができないことに留意してください」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「平成28年調査では事業所と従業者数について個人経営事業所は集計対象、製造品出荷額等について個人経営事業所は集計対象外となっております」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：令和3年調査では、平成28年経済センサス-活動調査では活用されていなかった「国税庁法人番号公表サイト」情報を加えた調査名簿を基に調査を行っております」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「（従業者4人以上の事業所）」（https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html）
+  - 「（従業者30人以上の事業所）」（https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html）
+  - 「（従業者4～29人の事業所）」（https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html）
+  - 「（３）報告を求める個人又は法人その他の団体」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「表３ 報告を求める個人又は法人その他の団体の変更」（https://www.soumu.go.jp/main_content/000744047.pdf）
+- 受注金額・加工賃収入：
+  - 「調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります」（https://www.jagat.or.jp/archives/99010）
+  - 「・製造品出荷額等は7兆1391億6000万円」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「・製造品出荷額等は6兆431億1631万円で、前回調査より1636億8411万円増加」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「平成28年調査では事業所と従業者数について個人経営事業所は集計対象、製造品出荷額等について個人経営事業所は集計対象外となっております」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「から累積し、各分類に係る売上高総額の８割を達成する範囲に含まれる企業を対象」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「係る売上高総額の８割を達成する範」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「対象の産業と同様に売上高総額の８割を達成する範囲に含まれる企業とすること」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「売上高1000億円以上（かつ会社企」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「業に限っては資本金２億円以上）」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「ている企業、売上高1000億円以上」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「和23年法律第25号）に基づく有価証券報告書等を提出している企業、売上高1000億」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「円以上（かつ会社企業に限っては資本金２億円以上）の企業及び相互会社のみから、」（https://www.soumu.go.jp/main_content/000744047.pdf）
+- 1人あたり・1社あたり金額：
+  - 「・製造品出荷額等は7兆1391億6000万円」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「・製造品出荷額等は6兆431億1631万円で、前回調査より1636億8411万円増加」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+- 10年推移：
+  - 「掲載日：2022年5月17日」（https://www.jagat.or.jp/archives/99010）
+  - 「経済産業省「工業統計調査」は2020年調査（2019年実績）で廃止となり、「経済構造実態調査」における製造業事業所調査として実施されることが4月1日に発表された」（https://www.jagat.or.jp/archives/99010）
+  - 「（数字で読み解く印刷産業2022その2）」（https://www.jagat.or.jp/archives/99010）
+  - 「また、「工業統計調査」は毎年12月31日に実施されてきましたが、「経済センサス‐活動調査」に合わせて、2017年（平成29年）調査から6月1日に変更になりました」（https://www.jagat.or.jp/archives/99010）
+  - 「「工業統計調査」との時系列比較を可能とするために、「経済センサス‐活動調査」の製造業についての産業別集計では、以下のすべてに該当する製造事業所について集計しています」（https://www.jagat.or.jp/archives/99010）
+  - 「これまで実施されていた3つの統計調査（サービス産業動向調査の拡大調査、商業統計調査、特定サービス産業実態調査）を統合・再編し、2019年に調査を開始しました」（https://www.jagat.or.jp/archives/99010）
+  - 「さらに2022年調査から、全産業に属する一定規模以上の法人企業が対象になるとともに、これまでの「工業統計調査」を「経済構造実態調査」の一部（製造業事業所調査）として実施することになりました」（https://www.jagat.or.jp/archives/99010）
+  - 「調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります」（https://www.jagat.or.jp/archives/99010）
+  - 「なお、「令和3年経済センサス‐活動調査」（2021年6月1日実施）は、2022年5月31日に速報が公表されます」（https://www.jagat.or.jp/archives/99010）
+  - 「「2022年経済構造実態調査」（2022年6月1日実施）の製造業事業所調査は、2023年7月に公表される予定です」（https://www.jagat.or.jp/archives/99010）
+  - 「2016-08-08」（https://www.jagat.or.jp/archives/99010）
+  - 「2018-10-11」（https://www.jagat.or.jp/archives/99010）
+  - 「2019-05-27」（https://www.jagat.or.jp/archives/99010）
+  - 「デジタル化ってなんだろう？～デジタルトランスフォーメーションと2025年の崖」（https://www.jagat.or.jp/archives/99010）
+  - 「2015-10-08」（https://www.jagat.or.jp/archives/99010）
+- 人手と仕事の差：
+  - 「託生産費、製造等に関連する外注」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「託生産費、製造等に関連する外注費」（https://www.soumu.go.jp/main_content/000744047.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ52頁・検索18回）
+- 生産能力・設備：記載なし（読んだ52頁・検索18回）
+
+## 企業物価指数 金属製品 2020年基準と2015年基準の接続指数（基準改定ごとの遡及・連鎖方式の参考指数・日本銀行の時系列統計データ検索・基準から遠い年の偏り・4-99）（BOJ corporate goods price index metal products 2020 base linked series chain index）
+- 文脈：全体・規模別
+- 事業所数・社数：
+  - 「7－1．調査価格数・調査先企業数」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+- 社員数・平均社員数：
+  - 「2-1 節で述べたとおり、わが国では人口減少・高齢化に伴う人手不足感や財の」（https://www.soumu.go.jp/main_content/001083704.pdf）
+  - 「第３次産業総合を「広義対個人サービス」と「広義対事業所サ」（https://www.meti.go.jp/statistics/tyo/sanzi/result/pdf/b2020_ITA_ovvj.pdf）
+  - 「広義対個人サービス 4406.0 4887.5」（https://www.meti.go.jp/statistics/tyo/sanzi/result/pdf/b2020_ITA_ovvj.pdf）
+  - 「広義非選択的個人向けサービス 2358.1 2611.7」（https://www.meti.go.jp/statistics/tyo/sanzi/result/pdf/b2020_ITA_ovvj.pdf）
+  - 「広義し好的個人向けサービス 2047.9 2275.8」（https://www.meti.go.jp/statistics/tyo/sanzi/result/pdf/b2020_ITA_ovvj.pdf）
+  - 「第３次産業総合の内訳系列を個人と事業所の二つの用途別に分割し」（https://www.meti.go.jp/statistics/tyo/sanzi/result/pdf/b2020_ITA_ovvj.pdf）
+  - 「タクシー業 乗用車(定員10人以下)輸送人員 「自動車輸送統計調査」 （国土交通省）」（https://www.meti.go.jp/statistics/tyo/sanzi/result/pdf/b2020_ITA_ovvj.pdf）
+- 受注金額・加工賃収入：
+  - 「・2019 年の国内向け出荷額 （2019 年工」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「業統計の出荷額から、2019 年貿易統」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の国内向け出荷額（2019 年工業統計」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の出荷額を 2020 年動態統計で延長」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「3 国内取引については、①、②、③の取引額を生産者の出荷額ベースで算出している」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「ウエイト対象総取引額 2,229,261億円 656,062 億円 690,426 億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「採用基準額 669 億円 328億円 345億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「＜参考＞2015年基準 215 億円 343億円 369億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「取引総額 (A) 2,345,440億円 672,727億円 725,816億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「ウエイト対象総取引額 (B) 2,229,261億円 656,062億円 690,426億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「採用商品の取引額 (C) 1,812,944億円 474,514億円 517,206億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「3」へ引き上げ、国内向け出荷額が小さく、採用基準に満たない品目の統合・廃」（https://www.soumu.go.jp/main_content/001083704.pdf）
+  - 「出荷額に、経済産業省「生産動態統計調査」などの該当品目の 2025 年出荷額の」（https://www.soumu.go.jp/main_content/001083704.pdf）
+  - 「前年比を乗ずることで、2025 年の出荷額を延長推計します」（https://www.soumu.go.jp/main_content/001083704.pdf）
+  - 「年の出荷額の推計値から、2025 年の「貿易統計」の輸出額を控除することで国」（https://www.soumu.go.jp/main_content/001083704.pdf）
+- 1人あたり・1社あたり金額：
+  - 「（2020年）産業連関表」（基本表））の付加価値額を用いていますが、「2019-2020年平均」の」（https://www.meti.go.jp/statistics/tyo/sanzi/result/pdf/b2020_ITA_ovvj.pdf）
+  - 「ウエイトを算定するために必要な2019年の付加価値額は、2020年と2019年の延長産業連関表（経」（https://www.meti.go.jp/statistics/tyo/sanzi/result/pdf/b2020_ITA_ovvj.pdf）
+- 10年推移：
+  - 「2020 年基準」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2022年 6月」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「12－3．価格変動に季節性が強い品目における補完方法（前年比補完）」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「5－1．2019～2021年平均（2015年基準指数）における品質調整の実施状況」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「1．2020年基準接続指数 ....................................................... 86」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2．2020年基準改定の概要 ..................................................... 93」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「を、基準時点（2020 年）の価格を 100 として、指数化したものである」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「基準時 指数の基準時は、2020 年の年平均」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「ウエイトは、2019 年と 2020 年の平均値を適用」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「・2019 年の国内向け出荷額 （2019 年工」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「業統計の出荷額から、2019 年貿易統」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「計の輸出額を控除した額） と2020 年」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の国内向け出荷額（2019 年工業統計」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の出荷額を 2020 年動態統計で延長」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「推計した額から、2020 年貿易統計の」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+- 人手と仕事の差：
+  - 「減少・高齢化に伴う人手不足感や財の内需の頭打ち感があるもとで、労働生産性」（https://www.soumu.go.jp/main_content/001083704.pdf）
+  - 「2-1 節で述べたとおり、わが国では人口減少・高齢化に伴う人手不足感や財の」（https://www.soumu.go.jp/main_content/001083704.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ29頁・検索18回）
+- 生産能力・設備：記載なし（読んだ29頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

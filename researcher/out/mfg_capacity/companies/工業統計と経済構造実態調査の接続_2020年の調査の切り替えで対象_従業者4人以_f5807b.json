@@ -1,0 +1,1158 @@
+{
+ "name": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99）",
+ "en": "Japan Census of Manufactures to Economic Structure Survey continuity break 2020 coverage change",
+ "aliases": [
+  "工業統計 経済構造実態調査 接続 注意",
+  "製造業事業所調査 工業統計 時系列比較 利用上の注意",
+  "経済構造実態調査 製造業 時系列 断層"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-08T06:58:05.817796+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "・事業所数は事業所数は6148事業所",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "・事業所数は4825事業所で、前回調査より737事業所減少",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "1981年（昭和56年）以降は西暦末尾3、5、8 、0 年は全事業所、それ以外の年は従業者4人以上の事業所が対象となり、2009年（平成21年）以降は標本調査（従業者4人以上の事業所対象）となりました",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2022年調査から、全産業に属する一定規模以上の法人企業が対象になるとともに、これまでの「工業統計調査」を「経済構造実態調査」の一部（製造業事業所調査）として実施することになりました",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者数は20万6238人",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者数は19万8141人で、前回調査より9421人増加",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数4人以上の事業所の集計となっております",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：令和3年経済センサス-活動調査（製造業）の産業別集計では個人経営の事業所は集計対象外となっており、工業統計と単純比較ができないことに留意してください",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年調査では事業所と従業者数について個人経営事業所は集計対象、製造品出荷額等について個人経営事業所は集計対象外となっております",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：令和3年調査では、平成28年経済センサス-活動調査では活用されていなかった「国税庁法人番号公表サイト」情報を加えた調査名簿を基に調査を行っております",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4人以上の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者30人以上の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4～29人の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（３）報告を求める個人又は法人その他の団体",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表３ 報告を求める個人又は法人その他の団体の変更",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査とし、甲調査は従業者３０人以上",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４人以上２９人以下の事業所（製造、",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して従業者30人以上の事業所約６万事業所、乙調査として従業者４人以上29人以下",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数（従業者４人以上）は約20万３千事業所となっている",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）報告を求める個人又は法人その他の団体",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表７ 報告を求める個人又は法人その他の団体の変更（製造業事業所調査）",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等は7兆1391億6000万円",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等は6兆431億1631万円で、前回調査より1636億8411万円増加",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年調査では事業所と従業者数について個人経営事業所は集計対象、製造品出荷額等について個人経営事業所は集計対象外となっております",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "から累積し、各分類に係る売上高総額の８割を達成する範囲に含まれる企業を対象",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "係る売上高総額の８割を達成する範",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象の産業と同様に売上高総額の８割を達成する範囲に含まれる企業とすること",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高1000億円以上（かつ会社企",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業に限っては資本金２億円以上）",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ている企業、売上高1000億円以上",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "和23年法律第25号）に基づく有価証券報告書等を提出している企業、売上高1000億",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円以上（かつ会社企業に限っては資本金２億円以上）の企業及び相互会社のみから、",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "掲載日：2022年5月17日",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「工業統計調査」は2020年調査（2019年実績）で廃止となり、「経済構造実態調査」における製造業事業所調査として実施されることが4月1日に発表された",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "（数字で読み解く印刷産業2022その2）",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "また、「工業統計調査」は毎年12月31日に実施されてきましたが、「経済センサス‐活動調査」に合わせて、2017年（平成29年）調査から6月1日に変更になりました",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "「工業統計調査」との時系列比較を可能とするために、「経済センサス‐活動調査」の製造業についての産業別集計では、以下のすべてに該当する製造事業所について集計しています",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "これまで実施されていた3つの統計調査（サービス産業動向調査の拡大調査、商業統計調査、特定サービス産業実態調査）を統合・再編し、2019年に調査を開始しました",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2022年調査から、全産業に属する一定規模以上の法人企業が対象になるとともに、これまでの「工業統計調査」を「経済構造実態調査」の一部（製造業事業所調査）として実施することになりました",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「令和3年経済センサス‐活動調査」（2021年6月1日実施）は、2022年5月31日に速報が公表されます",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "「2022年経済構造実態調査」（2022年6月1日実施）の製造業事業所調査は、2023年7月に公表される予定です",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "2016-08-08",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "2018-10-11",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "2019-05-27",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化ってなんだろう？～デジタルトランスフォーメーションと2025年の崖",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "2015-10-08",
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "pass": 3
+   },
+   {
+    "quote": "集計結果につきまして、経済産業省の公表内容と重複しており、2024年度以降は経済産業省が公表していない項目について独自集計を行っております",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年経済構造実態調査の製造業事業所調査に関する集計結果",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年6月1日現在で実施した「2025年経済構造実態調査」の製造業事業所調査の結果について、経済産業省で公表していない項目の長野県分を取りまとめました",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年経済構造実態調査の製造業事業所調査に関する集計結果",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年6月1日現在で実施した「2024年経済構造実態調査」の製造業事業所調査の結果について、経済産業省で公表していない項目の長野県分を取りまとめました",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年経済構造実態調査の製造業事業所調査に関する結果報告書",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和5年6月1日現在で実施した「2023年経済構造実態調査」の製造業事業所調査に関する結果について、長野県分の結果を取りまとめました",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年経済構造実態調査の製造業事業所調査に関する結果について",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "・事業所数は4825事業所で、前回調査より737事業所減少",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者数は19万8141人で、前回調査より9421人増加",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等は6兆431億1631万円で、前回調査より1636億8411万円増加",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "このため単純な時系列比較ができないことをご留意ください",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省では、我が国工業の実態を明らかにするため全国の製造事業所を対象に工業統計調査を実施してまいりましたが「公的統計の整備に関する基本的な計画（令和２年６月２日閣議決定）」における経済統計の体系的整備に関する要請に基づき、廃止され、2022年から「経済構造実態調査」の一部の製造業事業所調査として毎年（経済センサス‐活動調査の実施年を除く）実施することとなりました",
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "pass": 3
+   },
+   {
+    "quote": "本書には、「2024年経済構造実態調査」の調査結果のうち、製造業の事業所に関する産業別集計結果が収録されております",
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査の変遷（2010年以降）−時系列比較の留意点",
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "pass": 3
+   },
+   {
+    "quote": "旧経済産業調査会（2024年3月解散）版は下記在庫があるもののみ当協会にて直販可能です",
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2023年経済構造実態調査製造業事業所調査（旧：「工業統計表」（2022年実績）相当）その２ 産業編",
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2022年経済構造実態調査製造業事業所調査（旧：「工業統計表」（2021年実績）相当）その２ 産業編",
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2020年実績に関しては「令和３年経済センサス‐活動調査 製造業に関する集計（「2021年工業統計表」（2020年実績）相当）その２ 産業編」として刊行されました",
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "pass": 3
+   },
+   {
+    "quote": "更新日：2025年1月14日",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査（製造業事業所調査）に関する統計表は、従来の「工業統計調査」と時系列比較を行うため、兵庫県独自で集計し取りまとめたものです",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（速報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "業調査を用いて時系列比較がなされているが、両者の間には少なからず断層が生じてお",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "団名簿の変更に伴い、調査対象数の増加が見込まれる",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ これらの変更により結果の時系列、地域別表章への影響はないか",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査事項の細かさから記入者負担が大きく、未回答、修正の増加による精度確保の問",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年度(2019",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2022年)調査の企",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年度(2020",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◎ 令和３年（2021年）経済センサス‐活動",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和４年(2022年)",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和４年度(2022",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 平成33年 （2021年）経済センサス－活動調査における「電子商取引の有無及び割合」",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "留意した適切な調査事項の設定について、平成34年度（2022年度）調査の計画の策定",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② ＳＵＴ体系への移行に係る検討状況を踏まえつつ、平成 34年（2022年）以降にお",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2019年度)か",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2022年)調査",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 平成 32年（2020 年）における工業調査と国勢調査との業務輻輳の発生を踏まえ、",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調整しつつ、平成 32 年（2020 年）の工業調査の企画時期までに結論を得ること",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 製造業については、現在、基準年は活動調査、中間年は工業調査を用いて時系列",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省では、我が国工業の実態を明らかにするため全国の製造事業所を対象に工業統計調査を実施してまいりましたが「公的統計の整備に関する基本的な計画（令和２年６月２日閣議決定）」における経済統計の体系的整備に関する要請に基づき、廃止され、2022年から「経済構造実態調査」の一部の製造業事業所調査として毎年（経済センサス‐活動調査の実施年を除く）実施することとなりました",
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "pass": 3
+   },
+   {
+    "quote": "本書には、「2024年経済構造実態調査」の調査結果のうち、製造業の事業所に関する品目別集計結果が収録されております",
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査の変遷（2010年以降）−時系列比較の留意点",
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "・製造品出荷額等は7兆1391億6000万円",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等は6兆431億1631万円で、前回調査より1636億8411万円増加",
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "託生産費、製造等に関連する外注",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "託生産費、製造等に関連する外注費",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/qa/answer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkj-st.go.jp/about/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001221300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji01-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000832071.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004028802",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004048563",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001232565&lid=000001128869&result_page=1&statdisp_id=0004055501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001232565",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/key-policy-insights_e3384128.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A757.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.consensuseconomics.com/publications/asia-pacific-consensus-forecasts/japan-economic-forecasts/",
+    "status": "http_202",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.stat.go.jp/data/kkj/qa/answer.html",
+    "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa-2/",
+    "https://www.kkj-st.go.jp/about/",
+    "https://www.tama5cci.or.jp/hp/yanagida/?p=4723"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.stat.go.jp/data/kkj/index.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 統計 PDF",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004028802"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 1人当たり 万円",
+   "results": [
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004048563",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.stat.go.jp/data/kkj/index.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） 2015 2025",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001232565&lid=000001128869&result_page=1&statdisp_id=0004055501",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001232565"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Japan Census of Manufactures to Economic Structure Survey continuity break 2020 coverage change Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/key-policy-insights_e3384128.html",
+    "https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A757.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.consensuseconomics.com/publications/asia-pacific-consensus-forecasts/japan-economic-forecasts/",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.youtube.com/watch?v=t3RwhQWHLD8",
+    "https://www.esri.cao.go.jp/en/esri/archive/bun/bunseki-e_2020-2024.html",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:note.com 工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99）",
+   "results": [
+    "https://note.com/fir_institute/n/n3a288961c727",
+    "https://note.com/yomusanchi/n/n905f4ab6d5e0",
+    "https://note.com/glossy_colt8574/n/n7a916de5af42",
+    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
+    "https://note.com/yomusanchi/n/nc17794c0127c",
+    "https://note.com/ready_ram4076/n/nfafe91a6060a",
+    "https://note.com/taituna/n/n79bf258768fb",
+    "https://note.com/routexstartups/n/n67a70c940b5c",
+    "https://note.com/bon0404/n/nbcd94dfa036a",
+    "https://note.com/masamasa11_12/n/na45e4b1937e8"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99）",
+   "results": [
+    "https://x.com/PNX_PR/all",
+    "https://x.com/luigi_jpn/article/2068128744443887660",
+    "https://x.com/luigi_jpn/article/2060618872278192235",
+    "https://x.com/luigi_jpn/article/2067729162769756542",
+    "https://x.com/luigi_jpn/article/2050758900660703261",
+    "https://x.com/luigi_jpn/article/2060619527810060389",
+    "https://x.com/GAMBEJP/status/2116552887652532253",
+    "https://x.com/luigi_jpn/article/2058877178339791115",
+    "https://x.com/KagawaTomo/article/2074235913388061168",
+    "https://x.com/M_Miho_JPN/status/1940055637125415091"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99）",
+   "results": [
+    "https://jp.linkedin.com/in/fanddf3777",
+    "https://jp.linkedin.com/in/seigen-hagiwara",
+    "https://jp.linkedin.com/pulse/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E5%86%8D%E5%88%A9%E7%94%A8%E5%B8%82%E5%A0%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%88%A6%E7%95%A5%E7%9A%84%E6%B4%9E%E5%AF%9F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%A8202-7502391529211158528-86lpe",
+    "https://jp.linkedin.com/in/yuji-ohara-221614b7",
+    "https://jp.linkedin.com/in/shinoharay/en",
+    "https://jp.linkedin.com/in/智-中村-1618b2393",
+    "https://www.linkedin.com/company/workday/",
+    "https://jp.linkedin.com/",
+    "https://www.linkedin.com/company/wikipedia-the-free-encyclopedia",
+    "https://jp.linkedin.com/pulse/exploring-new-economies-how-interconnected-andré-akakpo-3ypwe?tl=ja"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com 工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99）",
+   "results": [
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/VUC2021/",
+    "https://www.facebook.com/p/%E4%B8%B8%E4%B8%80%E9%87%91%E5%B1%9E%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100046665287100/",
+    "https://www.facebook.com/100064515737150/?locale=th_TH",
+    "https://www.facebook.com/groups/813342132068841/",
+    "https://www.facebook.com/JapaneseEconomicReviewJPN/",
+    "https://www.facebook.com/stat.japan/posts/3月27日総務省統計局からお知らせします2025年経済構造実態調査一次集計結果-産業横断調査企業等に関する集計-総務省及び経済産業省は2025年6月に実施した2/1369600878537270/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.pref.nagasaki.jp/bunrui/kenseijoho/toukeijoho/tokeichosa/kogyo/body.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/kougyo/index.html",
+    "https://www.pref.saga.lg.jp/kiji0038099/index.html",
+    "https://www.nikkei-r.co.jp/news/information/id7173",
+    "https://www.stat.go.jp/data/kkj/index.htm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計と経済構造実態調査の接続（2020年の調査の切り替えで対象・従業者4人以上の扱い・加工賃収入額の定義が変わった点と接続の係数・経産省の利用上の注意・断層の扱い・4-99） X 投稿",
+   "results": [
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.fooma.or.jp/%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%BB%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%BB%E7%B5%8C%E6%B8%88/",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Japan Census of Manufactures to Economic Structure Survey continuity break 2020 coverage change site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/inequality-housing-welfare-examining-hong-kongs-net-dr--ejocc",
+    "https://www.linkedin.com/in/yujie-wang-mit",
+    "https://www.linkedin.com/in/vicmelkonian",
+    "https://jp.linkedin.com/in/smikheeva",
+    "https://www.linkedin.com/in/maura-wells",
+    "https://www.linkedin.com/in/kimberlyherrington",
+    "https://www.linkedin.com/in/david-katz-8124916",
+    "https://www.linkedin.com/in/robstilson",
+    "https://www.linkedin.com/in/andyvance1",
+    "https://www.linkedin.com/in/klintkendrick"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ52頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ52頁・検索18回）"
+ }
+}

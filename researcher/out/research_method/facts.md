@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・227品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・229品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -7998,7 +7998,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -9849,9 +9849,9 @@
   - 「A decision log serves a different purpose. It documents the decisions made in response to those risks, assumptions, or issues. For example, a risk entry may identify a potential vendor delay, while the decision log records the final decision to switch vendors or adjust timelines.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
   - 「What is a bug life cycle? Stages, workflow, and examples」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
   - 「Every team, every use case,」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
 
 ## 空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）（diagnosing empty search results retrieval vs extraction failure data journalism data diary）
 - 文脈：手法
@@ -12454,11 +12454,11 @@
 
 ## 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）（charts copyright citing statistics redraw figure data journalism）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
 - 文脈：手順・やり方
@@ -13359,3 +13359,91 @@
   - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
   - 「resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/pdf/2404.05622）
 - 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+
+## 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）（statistical series break linking coverage change fixed base index bias practice）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「４．母集団労働者数の推計方法の見直し（規模変更時の抽出率逆数の考え方等残された課題について） WG」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「➢ これまで、ベンチマーク（ウェイト）として用いる母集団労働者数の推計方法の改善等、断層縮小に向けた検討を」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「計方法や季節調整法の見直しなど、更なる結果精度の向上を目指し、調査の改善に取り組む」（継続実施）とされている」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「このため、当面の措置としては、公表方法等の改善により、統計ユーザーに誤解を与えず利便性を高める形での公」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「最新の第１４回日本標準産業分類は令和６年４月に改定され 、令和６年次フレーム（令和８年３月から利用」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「第１回（公表方法の改善／新産業分類対応に係る課題整理）」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「標本抽出方法の一元化・ローテーション見直し、」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「• 本ワーキンググループの進め方・検討すべき更なる課題について（資料１）」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「• 毎月勤労統計調査の公表方法等の改善に関する対応案について（資料２）」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「イト（ベンチマーク）更新に伴うギャップの処理方法が注目を集めた」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「労統計」の接続方法及び情報提供に係る統計委員会の評価」を取りまとめ、新旧データ接続検討ワーキンググループにおいて考え方を整理する際」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「マーク）更新に起因するギャップ」についても、遡及改定しないことが適当な処理方法であることを明確化した」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「Consumer Price Index: Concepts, Sources and Methods」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「4.5 This section focuses on traditional price index methods, however in the past fifteen years there have been significant developments in new price index construction methods involving transactions (scanner) data. These methods are discussed in more detail in」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「4.19 In essence, an index number is an average of either prices or quantities compared with the corresponding average in a base period. The problem is how to calculate the average.」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+- 突き合わせ・推定：
+  - 「４．母集団労働者数の推計方法の見直し（規模変更時の抽出率逆数の考え方等残された課題について） WG」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「３．達成精度計算等の推計式の検討・公表 有識者」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「➢ これまで、ベンチマーク（ウェイト）として用いる母集団労働者数の推計方法の改善等、断層縮小に向けた検討を」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「いつつ、第４回以降のWGにおいて、実装に向けた更なる検証を進める予定」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「• ベンチマーク更新に向けた事業所母集団DBの推計」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「• 産業分類間の接続検討のための事業所母集団DBを用いた推計」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「○ その後、新旧データ接続検討ワーキンググループにおいては、標本交替による新旧断層への対応、母集団情報の変更に伴う更新（比推定におけ」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「4.48 Theory suggests that the APR formula will produce the largest estimate of price change, the GM the least and the RAP a little larger but close to the GM.¹⁰ Empirical examples generally support this proposition,¹¹ although with a small sample as in the example above, substantially different rankings for the RAP formula are possible depending on the prices.」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「Current thinking as presented in Koskimaki and Vartia (2001) for example is that hedonic equations should have log price as the dependent variable and should be estimated for each period. The use of weighted regressions is also supported by researchers such as Diewert. <back」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「This is often referred to as the Boskin Report, see Boskin (1996). Boskin estimated that the United States CPI was biased upwards by about 1.1 percentage points a year. There were many submissions and views expressed about bias in the US CPI. For a semi–official perspective on the issue see Moulton (1996).」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「fact p is better considered and estimated, not by itself, but in conjunction with q (see」（https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf）
+  - 「year adopted by international agreement can be estimated by extrapolation from data」（https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf）
+  - 「be equally important. Efforts should be made, therefore, to obtain correct estimated」（https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf）
+  - 「(contributions to national product) should be estimated as closely as possible for the」（https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf）
+  - 「census data the most careful estimates of weights are hazardous but it may be possible」（https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf）
+- 一次情報の探し方：
+  - 「（統計・情報システム管理、労使関係担当）」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「毎月勤労統計調査の調査手法の検討等に関するワーキンググ」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「○ 毎月勤労統計調査は、労働者の賃金 ・労働時間 等の変動 を毎月把握することを目的とし た調査であり 、政」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「毎月勤労統計調査の調査手法の検討等を効率的に行う ため、「厚生労働統計の整備に関する検討会」（整備」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「検）の下に「毎月勤労統計調査の調査手法の検討等に関するワーキンググループ」を設置し、ご議論いただ」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「１．調査員の負担軽減に資する調査手法の見直し（事業所母集団ＤＢ以外の名簿の利用可能性等） 統計委・自治体」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「３．事業所調査から企業調査への見直し 統計委」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「１．層化基準、調査対象事業所数の見直し 統計委・WG」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「２．全国調査、地方調査を合わせた設計への見直し 統計委」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「３．ローテーションサンプリングの在り方の見直し 統計委」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「➢ 毎月勤労統計調査では、毎年１月分結果において、サンプル入れ替えやベンチマーク（ウェイト）更新 （※１）を行」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「これは、統計委員会の指摘や答申に沿ったもの（参考１参照）」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「（※１）毎月勤労統計調査の母集団労働者数は 、全数調査である 「経済センサス基礎調査 」等を用い設定するが 、年月が経つにつれ 、実態との間に乖離」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「（※２）「公的統計の整備に関する基本的な計画」（第Ⅳ期・令和５年３月閣議決定）においても、「毎月勤労統計調査について、母集団労働者数の推」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「• これらの課題は、令和７年度調査研究事業において検討しており（課題２ 調査票回収率の向上／課題３ 統計精度」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+- 失敗・落とし穴：
+  - 「4.4 This section concludes with a discussion of issues that arise in price index construction, including changes in observation numbers, quality adjustments, the inclusion of new products and index number bias.」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「Bias in price indexes」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「4.82 The following types of bias, typically upwards, have been described by Diewert (1996).」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「(i) Elementary index bias, which results from the use of inappropriate formulas for compiling index numbers at the elementary aggregate level」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「(ii) Substitution bias, which arises from using formulas at levels above the elementary aggregates which do not allow for substitution in response to changes in relative prices」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「(iii) Outlet substitution bias, which occurs when consumers shift their purchases from higher cost outlets to lower cost outlets for the same commodity」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「(iv) Quality adjustment bias, which arises from inadequate adjustment for quality changes」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「(v) New-goods bias, which arises largely from the failure to include new goods when first introduced into the market.」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「4.83 Although it is almost impossible to eliminate these sources of bias, some measures can be taken to minimise them.」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「This is often referred to as the Boskin Report, see Boskin (1996). Boskin estimated that the United States CPI was biased upwards by about 1.1 percentage points a year. There were many submissions and views expressed about bias in the US CPI. For a semi–official perspective on the issue see Moulton (1996).」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「As noted earlier, the issue of frequency of re–weighting or chaining is not straightforward. In a situation of price bouncing, chaining can introduce substantial bias into indexes (see for example Szulc (1983)). In general, chaining more frequently than annually, even if feasible in practice, is not recommended because it could introduce bias.」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「output, all that is required is that the extrapolation should be free of bias. It could often be」（https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf）
+- 実例：
+  - 「➢ 毎月勤労統計調査では、毎年１月分結果において、サンプル入れ替えやベンチマーク（ウェイト）更新 （※１）を行」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「このため、新たな「経済センサス基礎調査」等の結果をベンチマークとし、母集団労働者数の実態との乖離を是正している」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「計方法や季節調整法の見直しなど、更なる結果精度の向上を目指し、調査の改善に取り組む」（継続実施）とされている」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「の向上） 、その結果を資料４に整理」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「➢ これらの検討結果を調査実務上、実装していくには、所要の予算・定員に係る措置や、効率的に調査を実施する上」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「➢ 併せて、母集団労働者数のベンチマーク更新（令和９年１月結果から対応予定） 、新しい日本標準産業分類への」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「対応（令和 10 年１月結果から対応予定）等についても検討する」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「• ベンチマーク更新については、第２回WGにおいて試算結果をお示しし、ご意見を伺う予定」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「第２回WGにおいて試算結果をお示しし、個別の論点」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「令和９年１月分結果から対応」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「令和10年１月分結果から対応」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「• 令和７年度調査研究事業の結果と、これを踏まえた検討方針案について（資料４）」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「に参考とした月次の基幹統計調査において結果を遡及改定していないことを踏まえ、毎月勤労統計調査の賃金指数における「ウエイト（ベンチ」（https://www.mhlw.go.jp/content/10700000/001729987.pdf）
+  - 「4.7 In some situations, the price comparisons might only involve a single commodity. This simply involves directly comparing the two price observations. For example, a household might want to compare the price of shampoo today with the price of shampoo at a previous time.」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+  - 「4.29 The examples in Table 4.1 reflect some of these possibilities.」（https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory）
+
+## 補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど）（verifying claims that weighting reduced nonresponse bias benchmark comparison desk research guide）
+- 文脈：突き合わせ
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
