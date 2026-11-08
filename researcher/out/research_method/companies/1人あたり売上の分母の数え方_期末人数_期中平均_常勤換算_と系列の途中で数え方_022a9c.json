@@ -8,8 +8,40 @@
  ],
  "context": "手順",
  "kind": "market",
- "researched_at": "2026-11-07T23:04:06.919881+00:00",
+ "researched_at": "2026-11-08T05:38:45.732555+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "実例": [
    {
     "quote": "When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.",
@@ -103,94 +135,6 @@
    },
    {
     "quote": "このように、施設サービスでは必要な人員数が多いため、常勤換算の計算結果が基準をわずかに下回るだけでも大きな問題となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "労働基準法で定められた法定労働時間（週40時間）とは異なる場合がありますので注意してください",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここで注意したいのは、Gさんのように看護職員と介護職員を兼務している場合の扱いです",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、特に間違いやすいポイントを解説します",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同様に、訪問介護事業所でヘルパーが移動に費やした時間についても注意が必要です",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、主要なサービスの人員配置基準と、常勤換算における特有の注意点を解説します",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "なお、この基準はサービス提供時間帯を通じて満たす必要があるため、利用者の送迎時間帯や入浴介助の時間帯など、業務量が集中する時間帯には特に注意が必要です",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一度指定を取り消されると、その後5年間は再指定を受けることができないため、事業所にとっては致命的なダメージとなります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "今回は、介護事業所の運営に不可欠な「常勤換算」について、基本的な計算方法から、サービス別の注意点、運営指導対策、効率化の方法までを網羅的に解説しました",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "有休・産休・兼務・残業など、間違いやすいケースのルールを正確に理解することが重要",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【2025年義務化】介護BCP研修は何から始める？効率的な進め方と失敗しない方法",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -342,33 +286,89 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
+    "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます",
+    "quote": "この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です",
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます",
+    "quote": "労働基準法で定められた法定労働時間（週40時間）とは異なる場合がありますので注意してください",
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります",
+    "quote": "ここで注意したいのは、Gさんのように看護職員と介護職員を兼務している場合の扱いです",
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします",
+    "quote": "ここでは、特に間違いやすいポイントを解説します",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同様に、訪問介護事業所でヘルパーが移動に費やした時間についても注意が必要です",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでは、主要なサービスの人員配置基準と、常勤換算における特有の注意点を解説します",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なお、この基準はサービス提供時間帯を通じて満たす必要があるため、利用者の送迎時間帯や入浴介助の時間帯など、業務量が集中する時間帯には特に注意が必要です",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一度指定を取り消されると、その後5年間は再指定を受けることができないため、事業所にとっては致命的なダメージとなります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回は、介護事業所の運営に不可欠な「常勤換算」について、基本的な計算方法から、サービス別の注意点、運営指導対策、効率化の方法までを網羅的に解説しました",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有休・産休・兼務・残業など、間違いやすいケースのルールを正確に理解することが重要",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【2025年義務化】介護BCP研修は何から始める？効率的な進め方と失敗しない方法",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -384,6 +384,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/yudai_ops/n/nb01da119aaf4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/revenuescope/n/n00fd31afad70",
     "status": "ok",
     "method": "http"
@@ -394,17 +399,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kumagoro_/n/n4c2a4287cd54",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/high_city/n/n0bdd75891593",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/dpopsgroup/n/n6ead1340b46d",
+    "url": "https://note.com/aicafe_fukui/n/n4986db22f948",
     "status": "ok",
     "method": "http"
    },
@@ -424,19 +424,19 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/key_maneylab/n/n4b8926568aa8",
+    "url": "https://note.com/ai_hitsujisan/n/n5120ec0fc157",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://release.nikkei.co.jp/attach_file/0510494_03.pdf",
+    "url": "https://release.nikkei.co.jp/attach_file/0500707_03.pdf",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://prdurbanosaizapp1.blob.core.windows.net/common-article/61a0fccb3d59ae342086ceb4/%E5%BE%A9%E7%BF%92%E3%82%B7%E3%83%BC%E3%83%88%EF%BC%93%E3%83%9A%E3%83%BC%E3%82%B8.PDF",
+    "url": "https://note.com/key_maneylab/n/n4b8926568aa8",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://kaigo-staffing-guide.com/articles/staffing-calculation-mistakes",
@@ -450,8 +450,8 @@
    },
    {
     "url": "https://www.kugayama-h.ed.jp/wp/wp-content/uploads/2026/10/%E3%80%90%E7%AE%97%E6%95%B0_%E6%A8%A1%E7%AF%84%E8%A7%A3%E7%AD%94%E3%80%912026%EF%BC%88R8%EF%BC%89%E5%B9%B4%E5%BA%A6%E4%B8%AD%E5%AD%A6%E7%AC%AC1%E5%9B%9E%E7%94%B7%E5%AD%90%E4%B8%80%E8%88%AC%E3%83%BB%E5%A5%B3%E5%AD%90CC.pdf",
-    "status": "robots_disallowed",
-    "method": ""
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.nikkeibp.co.jp/atcl/column/091600778/",
@@ -459,12 +459,12 @@
     "method": ""
    },
    {
-    "url": "https://www.tossnet.or.jp/Portals/0/images/pdf/normal/20210322-022_ans.pdf",
+    "url": "https://www.smartmat.io/column/streamlining/8123",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://suuteki.ai-yobikou.com/field/numerical/sr-10/text",
+    "url": "https://ngc.nikkei.com/",
     "status": "ok",
     "method": "http"
    },
@@ -474,8 +474,8 @@
     "method": "http"
    },
    {
-    "url": "https://ngc.nikkei.com/",
-    "status": "ok",
+    "url": "https://services.osakagas.co.jp/portalc/contents-1/sp/point/tameru/present_q0143.html",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
@@ -504,12 +504,12 @@
     "method": "http"
    },
    {
-    "url": "https://tractian.com/en/glossary/revenue-per-employee",
+    "url": "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
+    "url": "https://tractian.com/en/glossary/revenue-per-employee",
     "status": "ok",
     "method": "http"
    },
@@ -519,7 +519,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "url": "https://acorn.works/blog/revenue-per-fte",
     "status": "ok",
     "method": "http"
    },
@@ -535,12 +535,12 @@
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き site:note.com",
    "results": [
     "https://note.com/yuwa_office/n/n6e51e9503644",
+    "https://note.com/yudai_ops/n/nb01da119aaf4",
     "https://note.com/revenuescope/n/n00fd31afad70",
     "https://note.com/shinkin_ai/n/n936be826b6ef",
-    "https://note.com/kumagoro_/n/n4c2a4287cd54",
     "https://note.com/high_city/n/n0bdd75891593",
-    "https://note.com/dpopsgroup/n/n6ead1340b46d",
-    "https://note.com/aicafe_fukui/n/n4986db22f948"
+    "https://note.com/aicafe_fukui/n/n4986db22f948",
+    "https://note.com/dpopsgroup/n/n6ead1340b46d"
    ],
    "engines": [
     "ddgs:bing"
@@ -553,12 +553,12 @@
     "https://getupnote.com/share/notes/bqq2n2wxJzYcG2HdVPpuvDktGm23/653412b9-8462-40be-8103-58e6a1348c6e",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/life_to_ai/n/nc749dc224dea",
-    "https://note.com/key_maneylab/n/n4b8926568aa8",
-    "https://release.nikkei.co.jp/attach_file/0510494_03.pdf",
-    "https://prdurbanosaizapp1.blob.core.windows.net/common-article/61a0fccb3d59ae342086ceb4/%E5%BE%A9%E7%BF%92%E3%82%B7%E3%83%BC%E3%83%88%EF%BC%93%E3%83%9A%E3%83%BC%E3%82%B8.PDF",
     "https://note.com/ai_hitsujisan/n/n5120ec0fc157",
+    "https://release.nikkei.co.jp/attach_file/0500707_03.pdf",
+    "https://note.com/key_maneylab/n/n4b8926568aa8",
     "https://www.sellbot.jp/column/wp-content/uploads/2025/12/260e3716944ad706e30026ce74d9a616.pdf",
     "https://www.yuhikaku.co.jp/static_files/16652_answer.pdf",
+    "https://joblit.jp/manuscript/13403",
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/"
    ],
    "engines": [
@@ -574,11 +574,11 @@
     "https://point.charmcc.jp/trivia/Fk9gX",
     "https://www.kugayama-h.ed.jp/wp/wp-content/uploads/2026/10/%E3%80%90%E7%AE%97%E6%95%B0_%E6%A8%A1%E7%AF%84%E8%A7%A3%E7%AD%94%E3%80%912026%EF%BC%88R8%EF%BC%89%E5%B9%B4%E5%BA%A6%E4%B8%AD%E5%AD%A6%E7%AC%AC1%E5%9B%9E%E7%94%B7%E5%AD%90%E4%B8%80%E8%88%AC%E3%83%BB%E5%A5%B3%E5%AD%90CC.pdf",
     "https://www.nikkeibp.co.jp/atcl/column/091600778/",
+    "https://www.smartmat.io/column/streamlining/8123",
+    "https://ngc.nikkei.com/",
+    "https://services.osakagas.co.jp/portalc/contents-1/sp/point/tameru/present_q0143.html",
     "https://www.tossnet.or.jp/Portals/0/images/pdf/normal/20210322-022_ans.pdf",
     "https://suuteki.ai-yobikou.com/field/numerical/sr-10/text",
-    "https://ngc.nikkei.com/",
-    "https://www.smartmat.io/column/streamlining/8123",
-    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/"
    ],
    "engines": [
@@ -593,12 +593,12 @@
     "https://www.nikkeibp.co.jp/atcl/column/091600778/",
     "https://quizlet.com/jp/782409798/gab-%E9%9D%9E%E8%A8%80%E8%AA%9E-b-flash-cards/",
     "https://ngc.nikkei.com/",
+    "https://services.osakagas.co.jp/portalc/contents-1/sp/point/tameru/present_q0143.html",
     "https://studying.jp/shindanshi/studyqa/id/4173.html",
     "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
     "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
     "https://rmc-oden.com/blog/archives/208925",
     "https://www.takipro.com/2jishikenknow-how/case4/137101/",
-    "https://www.tossnet.or.jp/Portals/0/images/pdf/normal/20161003_281_ans.pdf",
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/"
    ],
    "engines": [
@@ -611,14 +611,14 @@
    "query": "revenue per employee headcount vs FTE average headcount false trend",
    "results": [
     "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "https://tractian.com/en/glossary/revenue-per-employee",
     "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
+    "https://tractian.com/en/glossary/revenue-per-employee",
     "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "https://acorn.works/blog/revenue-per-fte",
     "https://www.insightful.io/blog/revenue-per-employee",
-    "https://iota-finance.com/iota-finance-blog/revenue-per-employee",
-    "https://www.metrichq.org/difference/revenue-per-employee-vs-profit-per-employee/",
-    "https://www.hibob.com/financial-metrics/revenue-per-employee/",
+    "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "https://umbrex.com/resources/company-analysis/human-resources/revenue-per-employee/",
+    "https://www.youtube.com/watch?v=00EiQkn1zPY",
     "https://www.thehumancapitalhub.com/articles/revenue-per-fte-the-productivity-number-that-flatters-misleads-and-sometimes-lies"
    ],
    "engines": [
@@ -631,8 +631,8 @@
    "query": "site:note.com 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き",
    "results": [
     "https://note.com/revenuescope/n/n00fd31afad70",
-    "https://note.com/markeducation/n/n90132f936d08",
     "https://note.com/shinkin_ai/n/n936be826b6ef",
+    "https://note.com/markeducation/n/n90132f936d08",
     "https://note.com/dpopsgroup/n/n6ead1340b46d",
     "https://note.com/bizgem_1220/n/n09441131d3fe",
     "https://note.com/high_city/n/n0bdd75891593",
@@ -651,8 +651,8 @@
     "https://x.com/RokuhanaYutaka/status/2101897629336740103",
     "https://x.com/bakahakken21/status/2114264380338844055",
     "https://x.com/nikkei_business/status/2110099584727109886",
-    "https://x.com/CoreRiseCo/status/2093664742145704393",
-    "https://x.com/ytr_growthpilot/status/2097468777327726704"
+    "https://x.com/ytr_growthpilot/status/2097468777327726704",
+    "https://x.com/CoreRiseCo/status/2093664742145704393"
    ],
    "engines": [
     "ddgs:google"
@@ -671,7 +671,7 @@
     "https://jp.linkedin.com/pulse/day-2-advanced-sql-analytics-sales-trends-mom-growth-moving-s--ndqme?tl=ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -681,8 +681,8 @@
     "https://www.facebook.com/groups/627324771859424/posts/1328749891716905/",
     "https://www.facebook.com/hiroki.saito.148/videos/損益分岐点は出勤する人数で決まります2名で回す店なら月商75万円1名なら55万円1日78人で黒字になります根元だけの白髪染め専門店を5店舗経営しています開業費用/2044817016164696/",
     "https://www.facebook.com/znewsonline/videos/527水開催職員10名以下で実現集客からサービス提供まで半自動的に流れていく体制を構築/1994655171396469/",
-    "https://www.facebook.com/reformonline/videos/全国の有名なリフォーム会社100社の10年間が一目でわかるリフォーム売上や社員一人当たりの売上高工事件数平均単価を紹介経営データを数値化全国有力リフォーム会社1/1334981797874862/",
     "https://www.facebook.com/takahiro.nishimura.79/photos/経営を時間軸でみて安定させる方法一つご紹介します鉄則は分母です弊社では安定した院運営が出来ています１２店舗の平均売り上げ400万利益率は40以上というと驚かれま/2085849971506070/",
+    "https://www.facebook.com/reformonline/videos/全国の有名なリフォーム会社100社の10年間が一目でわかるリフォーム売上や社員一人当たりの売上高工事件数平均単価を紹介経営データを数値化全国有力リフォーム会社1/1334981797874862/",
     "https://www.facebook.com/dandoriwork/photos/住宅会社の経営者の方おすすめ11月1日開催セミナー半径3km圏で社員1人あたり売上生産性1億円を実現する超地域密着型経営の全貌とは今回のテーマは超地域密着型経営/5563210563768797/",
     "https://www.facebook.com/watch/?v=1838763560001293"
    ],
@@ -695,18 +695,18 @@
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き note 社長",
    "results": [
     "https://note.com/mad2007takahashi/n/nf75ad11fbbf5",
-    "https://www.youtube.com/watch?v=DvLPfmDg2e4",
     "https://note.com/life_to_ai/n/nc749dc224dea",
+    "https://www.youtube.com/watch?v=DvLPfmDg2e4",
     "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260330205221057323480&postId=1686792305",
+    "https://ngc.nikkei.com/",
     "https://sanmei.mononofu-japan.jp/column/6i_94aocaoc",
     "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
-    "https://ngc.nikkei.com/",
-    "https://www.sellbot.jp/column/wp-content/uploads/2025/12/260e3716944ad706e30026ce74d9a616.pdf",
     "https://note.com/key_maneylab/n/n4b8926568aa8",
+    "https://www.sellbot.jp/column/wp-content/uploads/2025/12/260e3716944ad706e30026ce74d9a616.pdf",
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -714,14 +714,14 @@
   {
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き X 投稿",
    "results": [
-    "https://www.youtube.com/watch?v=DvLPfmDg2e4",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.youtube.com/watch?v=DvLPfmDg2e4",
     "https://www.nikkeibp.co.jp/atcl/column/102700800/",
-    "https://www.fom.fujitsu.com/goods/downloads/data/fpt2002_kaitou.pdf",
     "https://ngc.nikkei.com/",
-    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260330205221057323480&postId=1686792305",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
+    "https://www.fom.fujitsu.com/goods/downloads/data/fpt2002_kaitou.pdf",
     "https://www.ecmj.co.jp/no1947/",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260330205221057323480&postId=1686792305",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
     "https://biz.moneyforward.com/payroll/basic/112603/"
    ],
@@ -746,7 +746,7 @@
     "https://www.linkedin.com/posts/jasonmlemkin_so-how-big-of-a-sales-team-do-you-need-with-activity-7434628037654183937-Pqpp"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -754,6 +754,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T01:58:53.836418+00:00"
 }

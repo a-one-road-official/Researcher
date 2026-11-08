@@ -736,18 +736,18 @@
   - 「2年）7月28日 - 資本金を40億円から1億円に減じた」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「への取材拠点であった八幡浜支局（八幡浜市）を、南海放送・愛媛朝日テレビの支局と共に一斉に廃止したうえで、テレビ愛媛を含めた愛媛県内の民放テレビ局の共同運用による「八幡浜共同支局」を設置」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
 - 料金：
+  - 「あいテレビのCM料金｜テレビCM（スポットCM）の出し方と目安」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「15秒のスポットCMは1本6万円〜が目安です」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「テレビCMの料金は、流す時間帯のランク（A・特B・B・C）、本数、時期によって変わります」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「上の金額は最も料金が低いランクCの目安です」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「視聴者が多い夜の時間帯（ランクA）ほど料金は高くなります」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「実際の料金や空き枠は、時期・本数・条件によって異なります」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「15秒のスポットCM1本あたり、6万円〜が目安です（時間帯ランクCの場合）」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「実際の料金は時間帯・本数・時期で変わるため、ご希望をお聞きしてお見積もりします」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「15秒 6万円〜（目安）」（https://freetherock.com/service/tvcm/station/itv/・3回目）
+  - 「15秒 31万円〜（目安）」（https://freetherock.com/service/tvcm/station/itv/・3回目）
   - 「山本由伸の実使用球が77万円! 大谷翔平らMLB公式グッズストアが松山に期間限定オープン」（https://www.itv6.jp/・1回目）
   - 「SNS広告から「偽アプリ」を入れたら…60万円送金被害 遠隔操作による不正送金急増、県警が注意呼びかけ・愛媛」（https://www.itv6.jp/・1回目）
-  - 「そうして、壊れて電波を停めてしまうことなく、保守をして設備を長く使い、長期的に費用を抑えた計画を立てるというところが腕の見せ所です」（https://www.itv6.jp/recruit/・1回目）
-  - 「大学卒：235,000円 （住宅手当1.5万円含） 2026年4月入社実績」（https://www.itv6.jp/recruit/2026y/・1回目）
-  - 「各種社会保険（健康保険、雇用保険等）が完備しているほか、積立有給休暇制度や永年勤続表彰制度、懇親会費用補助等があります」（https://www.itv6.jp/recruit/2026y/・1回目）
-  - 「あいテレビ（ITV）の広告概要と料金 | テレビCMドットコム」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
-  - 「広告料金の仕組み」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
-  - 「広告料金について」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
-  - 「テレビCMに定価料金はございません」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
-  - 「「広告料金の仕組み」を知りたい方はこちら」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
-  - 「テレビCMのいろはから、わかりにくい料金の仕組みを」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
-  - 「「広告料金の仕組み」へ」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
 - 製造業の顧客：
   - 「360度カメラ映像をAIが分析 工場のCO２削減をデジタル化 愛媛・四国中央市」（https://www.itv6.jp/・1回目）
   - 「専用線「ギガストリーム」（導入事例｜中国放送様/あいテレビ様）」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
@@ -796,6 +796,7 @@
   - 「の企画協力で県内各界で活躍する話題の人をゲストに迎えインタビュー）」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「先輩インタビュー」（https://navi.himeboss.jp/company_detail/208・3回目）
 - 検索結果の抜粋：
+  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKeTax-sLUUhy9voqYXHRhjuj3SYau3foLYbjl308Dop_cXo_YW・3回目）
   - 「あいテレビ （ITV）の広告概要と料金 - テレビCMドットコム — あいテレビ （ITV）の広告概要と料金 - テレビCMドットコム テレビCMドットコム https://www.television-ad.com > ... > 中国・四国エリア」（https://www.television-ad.com/broadcaster/terrestrial/chugoku-shikoku/i-tv.html・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vINmUDUMyaf7YqfetLvjykl08raHEEWPfkMXqIA0rOydqbvzeyE・3回目）
   - 「あいテレビ のCM 料金 - フリーザロックエージェント株式会社 — あいテレビ のCM 料金 - フリーザロックエージェント株式会社 フリーザロックエージェント株式会社 https://freetherock.com > service > tvcm > station > itv」（https://freetherock.com/service/tvcm/station/itv/・3回目）
@@ -807,7 +808,6 @@
   - 「株式会社 あいテレビ - 四国転職ネット — 株式会社 あいテレビ - 四国転職ネット 四国転職ネット https://tenshoku.abi.co.jp > company > itv」（https://tenshoku.abi.co.jp/yuryokigyo-channel/company/itv.html・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vK8t_-8F_nTveQVFps2zBPyF6ZI8JAixMjiO3q1GwI9POCDEd5a・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKcmWhdJAJgdro4-Pa8F34wTyQriQ5XMZ3fyDJsQLm9XumUwu20・3回目）
-  - 「視聴データの取扱いについて | あいテレビ は6チャンネル — 視聴データの取扱いについて | あいテレビ は6チャンネル itv6.jp https://www.itv6.jp > viewingdata」（https://www.itv6.jp/viewingdata/・3回目）
 - 許認可：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）
 
 ## 株式会社アウトソーシング
@@ -2075,18 +2075,18 @@
   - 「名古屋Ｄが開幕１１連勝」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
   - 「法人ダルク代表、１億円私的流用」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
 - 料金：
-  - 「仲田侑仁、50万増の550万円でサイン「開幕1軍目指す」【一問一答】」（https://www.chugoku-np.co.jp/・1回目）
-  - 「仲田侑仁、50万増の550万円でサイン「開幕1軍目指す」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
-  - 「仲田侑仁、50万増の550万円でサイン「開幕1軍目指す」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
-  - 「仲田侑仁、50万増の550万円でサイン「開幕1軍目指す」【一問一答】」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
-  - 「渡辺悠斗、50万減の650万円でサイン「捕手に挑戦している」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
-  - 「広島高速の新料金案は「おおむね妥当」 有識者調査会が判断、修正案検討も要請」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
-  - 「日経平均株価6万円割れ、ひろぎん証券などで売買の注文や相談相次ぐ」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
-  - 「むさし「若鶏むすび」いくらまでなら買いますか? 物価高、企業を悩ます「納得価格」【広島経済データで先読み】」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
-  - 「仲田侑仁、50万増の550万円でサイン「開幕1軍目指す」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
-  - 「仲田侑仁、50万増の550万円でサイン「開幕1軍目指す」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/783140・1回目）
-  - 「仲田侑仁、50万増の550万円でサイン「開幕1軍目指す」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/887542・1回目）
-  - 「仲田侑仁、50万増の550万円でサイン「開幕1軍目指す」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/887878・1回目）
+  - 「小林結太、50万円増「下の子が入ってきても、自分のやるべきことをやれば勝てる自信ある」【一問一答】」（https://www.chugoku-np.co.jp/・1回目）
+  - 「「異常な上がり方」広島高速の新料金案、地元住民に反対の声 公社が年内に出す結論は【ニュース深掘り】 | 中国新聞デジタル」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「「異常な上がり方」広島高速の新料金案、地元住民に反対の声 公社が年内に出す結論は【ニュース深掘り】」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「新料金案の再検討を求める上村会長（右から４人目）たち」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「広島県と広島市が出資する広島高速道路公社（東区）が示した広島高速全体の新料金案に対して、反対する声が一部で出ている」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「東区を通る高速1号（6・5キロ）では普通車の料金が3・2倍になる区間があり、日常的に使う地元住民たちは「異常な上がり方だ」と再検討を求める陳情書を提出」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「広島高速、全区間の料金見直し 公社が新たな案公表【詳しい料金体系案あり】」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「広島高速の新料金案、全国標準の距離制に 不公平感なくし利用促進図る」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「広島高速の新料金案「待った」 広島市東区の町内会長ら「生活道路の値上げに反対」」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「小林結太、50万円増「下の子が入ってきても、自分のやるべきことをやれば勝てる自信ある」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「小林結太、50万円増「下の子が入ってきても、自分のやるべきことをやれば勝てる自信ある」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
+  - 「持丸泰輝、950万円増の1500万円でサイン「開幕スタメンを勝ち取れるように」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
 - 製造業の顧客：
   - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/・1回目）
   - 「呉のディスコ桑畑工場、従業員2000人の4割が女性 サポートや研修で働きやすい職場づくり」（https://www.chugoku-np.co.jp/・1回目）
@@ -2101,6 +2101,9 @@
   - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/feature/special/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%B7%B1%E6%8E%98%E3%82%8A・1回目）
   - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/feature/special/%E3%81%A1%E3%82%85%E3%83%BC%E3%83%94%E3%83%BC%E3%81%8F%E3%82%89%E3%81%B6・1回目）
 - 売り方：
+  - 「中国新聞社は、警備会社のセコムが提供する救急時対応サービス「セコムみまもりホン2」を紹介するサービスを実施中です」（https://www.chugoku-np.co.jp/articles/-/497859・1回目）
+  - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/497859・1回目）
+  - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/497859・1回目）
   - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
   - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
   - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/903992・1回目）
@@ -2110,10 +2113,8 @@
   - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
   - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
   - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/921045・1回目）
-  - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/921045・1回目）
-  - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/504462・1回目）
-  - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/504462・1回目）
 - 採用・人数：
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/articles/-/479971・1回目）
   - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
   - 「中国新聞販売所では、新聞配達スタッフを募集しています」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
   - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/articles/-/504462・1回目）
@@ -2125,8 +2126,8 @@
   - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/list/audionews・1回目）
   - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/feature/special/%E9%89%84%E9%81%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9・1回目）
   - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
-  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/feature/visualnews・1回目）
 - 発言：
+  - 「サンフレのイエンギ、オーストラリア代表に選出」（https://www.chugoku-np.co.jp/・1回目）
   - 「吉田拓郎を起点に日本のロック史を語る 田家秀樹さんとスージー鈴木さんの対談本が刊行」（https://www.chugoku-np.co.jp/articles/-/920568・1回目）
   - 「大阪維新、吉村代表の３選承認」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
   - 「【新社長】カイハラ社長・貝原祥之氏（41）広島県福山市 海外販路拡大と生産体制の省力化が課題」（https://www.chugoku-np.co.jp/・1回目）
@@ -2138,8 +2139,8 @@
   - 「吉田拓郎を起点に日本のロック史を語る 田家秀樹さんとスージー鈴木さんの対談本が刊行」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
   - 「【新社長】カイハラ社長・貝原祥之氏（41）広島県福山市 海外販路拡大と生産体制の省力化が課題」（https://www.chugoku-np.co.jp/articles/-/917516・1回目）
   - 「全東信社長が１０月に死去」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
-  - 「広ガス社長、サハリン2契約終了後に言及 LNG調達先「固まっている」」（https://www.chugoku-np.co.jp/articles/-/887542・1回目）
 - 検索結果の抜粋：
+  - 「『 中国新聞 LEADERS倶楽部』に糸賀 社長 の インタビュー 記事 ... — 『 中国新聞 LEADERS倶楽部』に糸賀 社長 の インタビュー 記事 ... マイライフ株式会社 https://www.my-life.jp > スタッフブログ > お知らせ」（https://www.my-life.jp/blog/490/・3回目）
   - 「中国新聞社 の 新卒 採用 ・就職・企業情報 - 就活会議 — 中国新聞社 の 新卒 採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 新聞業界の企業一覧」（https://syukatsu-kaigi.jp/companies/18431・3回目）
   - 「インタビュー 05 - 中国新聞アド — インタビュー 05 - 中国新聞アド 中国新聞アド https://chu-ad.com > interview05」（https://chu-ad.com/interview05/・3回目）
   - 「【 中国新聞社 様Gemini勉強会 インタビュー 】社内の”AI ... — 【 中国新聞社 様Gemini勉強会 インタビュー 】社内の”AI ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=dm4g-5IVb8Y・3回目）
@@ -2151,7 +2152,6 @@
   - 「新卒 採用 | 中国新聞社 コーポレートサイト — 新卒 採用 | 中国新聞社 コーポレートサイト chugoku-np.com https://chugoku-np.com > 採用情報」（https://chugoku-np.com/saiyou/newgraduate/・3回目）
   - 「(株) 中国新聞 サービスセンターの新卒 採用 ・会社概要 - マイナビ — (株) 中国新聞 サービスセンターの新卒 採用 ・会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp229982 > outline」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
   - 「中国新聞社 の新卒 採用 ・就職・会社概要とクチコミ — 中国新聞社 の新卒 採用 ・就職・会社概要とクチコミ ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/7139・3回目）
-  - 「(株) 中国新聞社 の新卒 採用 ・会社概要 | マイナビ2027 — (株) 中国新聞社 の新卒 採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp83036 > outline」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
 - 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
 - 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）
 - 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部23頁・検索12回）

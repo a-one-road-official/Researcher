@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T22:25:16.184585+00:00",
+ "researched_at": "2026-11-08T05:38:40.504452+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -49,7 +49,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=653979d0785ae82be3ebb055126771b8",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b729c78feee4b3d115e1ec0a8c0c710f",
     "status": "ok",
     "method": "http"
    },
@@ -69,7 +69,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "url": "https://note.com/ai_datamimi/n/nb5ed46476574",
     "status": "ok",
     "method": "http"
    },
@@ -79,12 +79,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.macromill.com/service/column/entry-003/",
+    "url": "https://www.cic.co.jp/guide/credit-report/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cic.co.jp/guide/credit-report/",
+    "url": "https://www.macromill.com/service/column/entry-003/",
     "status": "ok",
     "method": "http"
    },
@@ -94,17 +94,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.gminsights.com/ja/customer-faq",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.loyalty.co.jp/column/086/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jmro.co.jp/amr00045/",
+    "url": "https://www.americanexpress.com/ja-jp/benefits/good-news/life/cic-view/",
     "status": "ok",
     "method": "http"
    },
@@ -114,7 +104,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.nikkei-r.co.jp/service/",
+    "url": "https://jmro.co.jp/amr00045/",
     "status": "ok",
     "method": "http"
    },
@@ -125,6 +115,16 @@
    },
    {
     "url": "https://www.sprocket.bz/blog/20221018-sample.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/customer-faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei-r.co.jp/service/",
     "status": "ok",
     "method": "http"
    },
@@ -178,7 +178,7 @@
     "https://note.com/wish11_11/n/n0438f12d1d54"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -190,8 +190,8 @@
     "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
     "https://note.com/ai_datamimi/n/na7eff46a487c",
     "https://www.soumu.go.jp/main_content/000456858.pdf",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
     "https://note.com/ai_datamimi/n/nb5ed46476574",
+    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915"
    ],
@@ -205,13 +205,13 @@
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.rjc.co.jp/column/262",
-    "https://www.macromill.com/service/column/entry-003/",
     "https://www.cic.co.jp/guide/credit-report/",
-    "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
+    "https://www.macromill.com/service/column/entry-003/",
     "https://www.intage.co.jp/service/glossary/3096/",
+    "https://www.americanexpress.com/ja-jp/benefits/good-news/life/cic-view/",
+    "https://hybrid-analysis.com/sample/7f4c136e54045e917da50be35d7025451d64a8fd06a0e658c39c2e0508030ac4/5a75d5327ca3e15563409593",
     "https://www.gminsights.com/ja/customer-faq",
-    "https://biz.loyalty.co.jp/column/086/",
-    "https://www.dm-insight.jp/column/sample-size/",
+    "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
    ],
    "engines": [
@@ -228,10 +228,10 @@
     "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
     "https://jmro.co.jp/amr00045/",
     "https://hybrid-analysis.com/sample/7f4c136e54045e917da50be35d7025451d64a8fd06a0e658c39c2e0508030ac4/5a75d5327ca3e15563409593",
-    "https://www.gminsights.com/ja/customer-faq",
-    "https://www.nikkei-r.co.jp/service/",
     "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
     "https://www.sprocket.bz/blog/20221018-sample.html",
+    "https://www.gminsights.com/ja/customer-faq",
+    "https://www.nikkei-r.co.jp/service/",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
    ],
    "engines": [
@@ -264,15 +264,15 @@
    "query": "site:note.com 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）",
    "results": [
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "https://note.com/kakizaway/n/n0922fa9c4878",
     "https://note.com/shijochosa_labo/n/n7648b1cfab60",
     "https://note.com/ote_walk/n/n84135dbb9b34",
-    "https://note.com/wish11_11/n/n0438f12d1d54",
     "https://note.com/oh1ta/n/nbe59fdb76e4f",
-    "https://note.com/miraikyoso/n/n71ef349a6d1c",
-    "https://note.com/brainy_colt3373/n/n71e35b658975"
+    "https://note.com/wish11_11/n/n0438f12d1d54",
+    "https://note.com/miraikyoso/n/n71ef349a6d1c"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -285,12 +285,14 @@
     "https://x.com/tomizawayutaka/article/2109846840900567482",
     "https://x.com/TeraCoreFM1/status/2058555136285217245",
     "https://x.com/JRTDesk/status/2109550920224895366",
-    "https://x.com/Alzhacker/status/2096610819773800765"
+    "https://x.com/Alzhacker/status/2096610819773800765",
+    "https://help.x.com/ja/using-x/view-counts"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）",
@@ -317,12 +319,14 @@
     "https://www.facebook.com/tmlibrary/photos/319水1400市場調査マーケティングの強い味方-東京都立中央図書館-の活用方法オンライン開催要申込tokyo創業ステーション-主催これから起業をされる方起業し/1020418363450755/",
     "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー介護dx市場に関する調査を実施2025年2024年度の介護dx市場5分野計は545億7600万円と推計介護人材不足の中介護スタッフの業務負担/1347329327409163/",
     "https://www.facebook.com/ReutersJapan/posts/東芝の外部弁護士がまとめた調査報告書が波紋を広げている改正外為法の運用を巡る経済産業省の主張と食い違う部分も多く運用面での不透明さが解消できなければ対日直接投資/4042413545808124/",
-    "https://www.facebook.com/mapsolution.jp/posts/診療圏分析計画医療機関の推計患者数算出方法についてこんにちは本日は診療圏分析をお使い頂いているユーザー様にお知らせでございます診療圏分析調査書を作成する際の詳細/2188681207816772/"
+    "https://www.facebook.com/mapsolution.jp/posts/診療圏分析計画医療機関の推計患者数算出方法についてこんにちは本日は診療圏分析をお使い頂いているユーザー様にお知らせでございます診療圏分析調査書を作成する際の詳細/2188681207816772/",
+    "https://www.facebook.com/NHKLearning/posts/中高校生向け数学番組アクティブ１０-マスと-今回のテーマは標本調査-放送eテレ-18金前055木曜深夜再放送15金前055-22金29金後330httpswww/832816353959043/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか） note 社長",
@@ -331,11 +335,11 @@
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
     "https://note.com/ai_datamimi/n/na7eff46a487c",
-    "https://hybrid-analysis.com/sample/7f4c136e54045e917da50be35d7025451d64a8fd06a0e658c39c2e0508030ac4/5a75d5327ca3e15563409593",
+    "https://japan.eb.com/rg/article-04583800",
+    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://recog.works/ja/news/detail/584",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html"
+    "https://gmo-research.ai/research-column/competitive-surveys",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
    ],
    "engines": [
     "yahoo_jp"
@@ -346,18 +350,18 @@
    "query": "食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか） X 投稿",
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.macromill.com/service/words/sampling-survey/",
     "https://www.intage.co.jp/service/glossary/3096/",
+    "https://japan.eb.com/rg/article-04583800",
     "https://www.jmra-net.or.jp/Portals/0/rule/guideline/20220526_ranking_ads_guideline.pdf",
     "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
     "https://jmro.co.jp/amr00045/",
-    "https://japan.eb.com/rg/article-04583800",
     "https://www.cic.co.jp/guide/credit-report/",
+    "https://www.macromill.com/service/words/sampling-survey/",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -391,6 +395,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T01:06:28.410729+00:00"
 }
