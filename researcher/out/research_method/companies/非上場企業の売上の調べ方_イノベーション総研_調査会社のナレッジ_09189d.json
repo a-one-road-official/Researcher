@@ -8,192 +8,276 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-08T12:42:16.235678+00:00",
+ "researched_at": "2026-11-08T20:16:19.562727+00:00",
  "evidence": {
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
+    "quote": "非上場企業の売上は、公式サイトの会社概要・採用資料、親会社の開示資料、決算公告、企業資料などから調べられます",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
+    "quote": "ただし、決算公告があっても、売上高まで載っているとは限りません",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
+    "quote": "決算公告・無料の企業概要・有料情報で分かる範囲を区別する",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
+    "quote": "PDF・全16ページ＋Excel",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
+    "quote": "2. 公式サイトの会社概要・採用情報・決算資料を読む",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
+    "quote": "4. 決算公告は、損益計算書と売上高の有無を確かめる",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
+    "quote": "決算情報があっても売上高が載っているとは限りません",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
+    "quote": "公開されている書類と、その対象会社・決算期を確認します",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
+    "quote": "貸借対照表は決算日時点の資産・負債・純資産を示す書類です",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
+    "quote": "最初に押さえたいのは、決算情報があることと、売上高が載っていることは別だという点です",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
+    "quote": "株式会社の決算公告は、原則として貸借対照表が対象となり、大会社では損益計算書も対象になります（",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
+    "quote": "ただし、有価証券報告書の提出義務がある株式会社には同条4項の例外があります",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査結果を、次の事業判断に使える形へ",
+    "quote": "また、非上場でも一定の条件で有価証券報告書を提出する企業があります",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "業種別・企業事例（6）",
+    "quote": "でも、非上場企業の確認先として有価証券報告書、決算公告、会社資料などが挙げられています",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします",
+    "quote": "正式社名を特定し、公式資料、親会社・EDINET、決算公告、図書館資料の順に探し、数字と出所を一緒に残します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業はIR資料やEDINET、非上場企業は会社概要・公表資料・決算公告",
     "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "実在企業の調査結果やDSSの実績ではありません",
+    "quote": "上場企業の売上を、IR・EDINET・決算短信で調べる",
     "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
+    "quote": "適時開示では、最新の決算と業績予想の変更を見る",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上は、公表資料・決算公告・企業情報を確認する",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告があっても、売上まで掲載されるとは限らない",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公式サイトの「IR情報」「投資家情報」「決算」「会社概要」から探すと、資料の出所を確認しやすくなります",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索する場合も、会社名に「売上高」「決算短信」「有価証券報告書」「決算公告」などを組み合わせます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社概要、IR資料、決算説明資料、公表された業績",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算短信、業績予想の修正、事業に関する開示",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IR資料で決算の数字と事業別の内訳を確認する図",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IR資料では、まず決算短信や有価証券報告書から対象年度の売上・利益を確認します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算説明資料は、増減の背景、事業別の動き、会社が説明する今後の方針を読む補助になります",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EDINETは、金融商品取引法に基づく有価証券報告書などを検索・閲覧する金融庁のシステムです",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象の有価証券報告書を開いたら、主要な経営指標、経営成績の説明、連結損益計算書、セグメント情報などを確認します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、非上場でも有価証券報告書を提出する企業があるため、上場していないことだけを理由に検索対象から外す必要はありません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全14ページ／PDF",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新規事業の市場調査は、今回決めることを明確にし、公開情報で市場の範囲をつかみ、顧客の行動を確かめ、結果を次の判断につなぐ4ステップで進めます",
+    "quote": "知りたいことに合わせて、統計・企業資料・業界情報を選ぶ",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本記事では、888名の独自調査と、工場向けサービスの架空例を使い、公開情報の探し方、顧客への質問、結果のまとめ方を説明します",
+    "quote": "次は、すでに公開されている統計や企業資料を調べます",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "4ステップで、調査の目的から結果を使う判断までつなげる",
+    "quote": "対象企業の数を知りたいなら統計、競合の提供範囲を知りたいなら公式サービス資料というように、問いから情報源を選びます",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査を始める前の質問づくりと、結果を次の判断につなぐ記録の見直しに使えます",
+    "quote": "では、キーワードに加え、分野や作成機関などから統計を探せます",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ステップ4｜調査結果から「進める・変える・保留」を選ぶ",
+    "quote": "工場向けの事業なら、対象業種や事業所の条件に合う統計を探し、会社数と工場数、国内と海外など、数えている対象を確認します",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "次に会う相手と、その人に確かめる条件を一組で決めることが、調査結果を判断に使う出発点です",
+    "quote": "市場規模の調べ方｜公開統計とフェルミ推定の6ステップ",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "実在の支援事例ではなく、調査前の仮説から結果の使い方までをつなぐための記入例です",
+    "quote": "大手製造業では、特許技術の顧客・提携先を3年間見つけられませんでした",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "判断する期限：結果を報告する日と、その場で決める人",
+    "quote": "サービス名と一致する市場統計がない場合は、対象顧客、業務、地域、現在の代替手段から範囲を定義します",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "画面内の数値は本記事の調査結果ではありません",
+    "quote": "公開統計で分かる部分と、顧客調査で確かめる前提を分けてください",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "検索結果の上位ページを順番に読むだけでは、必要な情報より、見つけやすい情報に偏りがちです",
+    "quote": "政府統計の総合窓口 e-Stat「統計データを探す」",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査結果は、集めた資料の順に報告するのではなく、最初に決めた問いへの回答としてまとめます",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "quote": "社名変更や本店移転がある場合は、過去の名称でも探すと古い決算資料にたどり着くことがあります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "表中の内容はすべて架空例であり、実際の調査結果や支援実績ではありません",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "quote": "公式サイトの会社概要、採用ページ、ニュース、決算・IR資料、電子公告を確認します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "点検記録サービスの調査結果を、次の判断へつなぐ記入例（架空例）",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "quote": "金融庁は、EDINETを、有価証券報告書などの提出から公衆縦覧までを電子化するシステムと説明し、正規の閲覧サイトを案内しています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "試行範囲、担当者、費用と時間の上限、結果を判断する日",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "quote": "決算短信や業績予想の修正は、企業のIRサイトや日本取引所グループの適時開示情報から探せます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -884,274 +968,190 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "非上場企業の売上は、公式サイトの会社概要・採用資料、親会社の開示資料、決算公告、企業資料などから調べられます",
+    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし、決算公告があっても、売上高まで載っているとは限りません",
+    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "決算公告・無料の企業概要・有料情報で分かる範囲を区別する",
+    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "PDF・全16ページ＋Excel",
+    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2. 公式サイトの会社概要・採用情報・決算資料を読む",
+    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "4. 決算公告は、損益計算書と売上高の有無を確かめる",
+    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "決算情報があっても売上高が載っているとは限りません",
+    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "公開されている書類と、その対象会社・決算期を確認します",
+    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "貸借対照表は決算日時点の資産・負債・純資産を示す書類です",
+    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "最初に押さえたいのは、決算情報があることと、売上高が載っていることは別だという点です",
+    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "株式会社の決算公告は、原則として貸借対照表が対象となり、大会社では損益計算書も対象になります（",
+    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし、有価証券報告書の提出義務がある株式会社には同条4項の例外があります",
+    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "また、非上場でも一定の条件で有価証券報告書を提出する企業があります",
+    "quote": "調査結果を、次の事業判断に使える形へ",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "でも、非上場企業の確認先として有価証券報告書、決算公告、会社資料などが挙げられています",
+    "quote": "業種別・企業事例（6）",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "正式社名を特定し、公式資料、親会社・EDINET、決算公告、図書館資料の順に探し、数字と出所を一緒に残します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業はIR資料やEDINET、非上場企業は会社概要・公表資料・決算公告",
+    "quote": "例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします",
     "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "上場企業の売上を、IR・EDINET・決算短信で調べる",
+    "quote": "実在企業の調査結果やDSSの実績ではありません",
     "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "適時開示では、最新の決算と業績予想の変更を見る",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業の売上は、公表資料・決算公告・企業情報を確認する",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告があっても、売上まで掲載されるとは限らない",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公式サイトの「IR情報」「投資家情報」「決算」「会社概要」から探すと、資料の出所を確認しやすくなります",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索する場合も、会社名に「売上高」「決算短信」「有価証券報告書」「決算公告」などを組み合わせます",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社概要、IR資料、決算説明資料、公表された業績",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算短信、業績予想の修正、事業に関する開示",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IR資料で決算の数字と事業別の内訳を確認する図",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IR資料では、まず決算短信や有価証券報告書から対象年度の売上・利益を確認します",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算説明資料は、増減の背景、事業別の動き、会社が説明する今後の方針を読む補助になります",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "EDINETは、金融商品取引法に基づく有価証券報告書などを検索・閲覧する金融庁のシステムです",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "対象の有価証券報告書を開いたら、主要な経営指標、経営成績の説明、連結損益計算書、セグメント情報などを確認します",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、非上場でも有価証券報告書を提出する企業があるため、上場していないことだけを理由に検索対象から外す必要はありません",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全14ページ／PDF",
+    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "知りたいことに合わせて、統計・企業資料・業界情報を選ぶ",
+    "quote": "新規事業の市場調査は、今回決めることを明確にし、公開情報で市場の範囲をつかみ、顧客の行動を確かめ、結果を次の判断につなぐ4ステップで進めます",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "次は、すでに公開されている統計や企業資料を調べます",
+    "quote": "本記事では、888名の独自調査と、工場向けサービスの架空例を使い、公開情報の探し方、顧客への質問、結果のまとめ方を説明します",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "対象企業の数を知りたいなら統計、競合の提供範囲を知りたいなら公式サービス資料というように、問いから情報源を選びます",
+    "quote": "4ステップで、調査の目的から結果を使う判断までつなげる",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "では、キーワードに加え、分野や作成機関などから統計を探せます",
+    "quote": "調査を始める前の質問づくりと、結果を次の判断につなぐ記録の見直しに使えます",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "工場向けの事業なら、対象業種や事業所の条件に合う統計を探し、会社数と工場数、国内と海外など、数えている対象を確認します",
+    "quote": "ステップ4｜調査結果から「進める・変える・保留」を選ぶ",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "市場規模の調べ方｜公開統計とフェルミ推定の6ステップ",
+    "quote": "次に会う相手と、その人に確かめる条件を一組で決めることが、調査結果を判断に使う出発点です",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "大手製造業では、特許技術の顧客・提携先を3年間見つけられませんでした",
+    "quote": "実在の支援事例ではなく、調査前の仮説から結果の使い方までをつなぐための記入例です",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "サービス名と一致する市場統計がない場合は、対象顧客、業務、地域、現在の代替手段から範囲を定義します",
+    "quote": "判断する期限：結果を報告する日と、その場で決める人",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "公開統計で分かる部分と、顧客調査で確かめる前提を分けてください",
+    "quote": "画面内の数値は本記事の調査結果ではありません",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "政府統計の総合窓口 e-Stat「統計データを探す」",
+    "quote": "検索結果の上位ページを順番に読むだけでは、必要な情報より、見つけやすい情報に偏りがちです",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "社名変更や本店移転がある場合は、過去の名称でも探すと古い決算資料にたどり着くことがあります",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "quote": "調査結果は、集めた資料の順に報告するのではなく、最初に決めた問いへの回答としてまとめます",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "公式サイトの会社概要、採用ページ、ニュース、決算・IR資料、電子公告を確認します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "quote": "表中の内容はすべて架空例であり、実際の調査結果や支援実績ではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "金融庁は、EDINETを、有価証券報告書などの提出から公衆縦覧までを電子化するシステムと説明し、正規の閲覧サイトを案内しています",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "quote": "点検記録サービスの調査結果を、次の判断へつなぐ記入例（架空例）",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "決算短信や業績予想の修正は、企業のIRサイトや日本取引所グループの適時開示情報から探せます",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "quote": "試行範囲、担当者、費用と時間の上限、結果を判断する日",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1161,52 +1161,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/xoperation/n/n93109494872d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kabuberry_/n/n061c7c0622d5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kagawatomo/n/ncff94edf550c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kiyo_ai_note/n/n0a9ac673d208",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tck/n/n95812964bcbb",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/diggle/n/nf18d4b8e0a8c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://service.g-search.jp/2024/12/20/01062.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
     "status": "ok",
     "method": "http"
    },
@@ -1216,22 +1171,37 @@
     "method": "http"
    },
    {
-    "url": "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "url": "https://note.com/irshukatsu/n/n9fd752118742",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "url": "https://note.com/irshukatsu/n/n764660c71144",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_207",
+    "url": "https://note.com/zaimani_com/n/n55c23417fd36",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://vs-group.jp/startup/establishment/20700.html",
+    "url": "https://note.com/bostoncareer/n/n851ecafa45ab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.g-search.jp/2024/12/20/01062.html",
     "status": "ok",
     "method": "http"
    },
@@ -1241,34 +1211,39 @@
     "method": "http"
    },
    {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nvs.nikkei.co.jp/research/20250821-column/",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.spglobal.com/market-intelligence/jp/solutions/products/private-company-data",
-    "status": "http_403",
+    "url": "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hrpro.co.jp/keiei/articles/news/2372",
+    "url": "https://jbireport.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factset.com/marketplace/catalog/product/factset-private-company-financials",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://about.crunchbase.com/blog/private-company-data",
@@ -1276,22 +1251,7 @@
     "method": "http"
    },
    {
-    "url": "https://revenuebase.ai/companies/finance-consulting-firms/japan",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.fortunebusinessinsights.com/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bain.com/industry-expertise/private-equity/",
+    "url": "https://companydata.com/company-revenue-lookup/",
     "status": "ok",
     "method": "http"
    }
@@ -1301,170 +1261,45 @@
   {
    "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） site:note.com",
    "results": [
-    "https://note.com/xoperation/n/n93109494872d",
-    "https://note.com/kabuberry_/n/n061c7c0622d5",
-    "https://note.com/kagawatomo/n/ncff94edf550c",
-    "https://note.com/kiyo_ai_note/n/n0a9ac673d208",
-    "https://note.com/tck/n/n95812964bcbb",
-    "https://note.com/diggle/n/nf18d4b8e0a8c",
-    "https://note.com/hr_sol_evangel/n/n55f519df39ed",
-    "https://note.com/suzukiyuto/n/n4b49fca9f975",
-    "https://note.com/dataisfunny/n/nba293ffe5ca4",
-    "https://note.com/powerpoint_jp/n/n4601fd94e00a"
+    "https://note.com/isa99999/n/n7aadf977f2e7",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/irshukatsu/n/n764660c71144",
+    "https://note.com/zaimani_com/n/n55c23417fd36",
+    "https://note.com/bostoncareer/n/n851ecafa45ab",
+    "https://note.com/alarmbox/n/n674a11ae6618"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） note",
    "results": [
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
-    "https://note.com/note_ir/n/n57d288e4fea8",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://service.g-search.jp/2024/12/20/01062.html",
+    "https://note.com/irshukatsu/n/n9fd752118742",
     "https://jo-katsu.com/campus/4396/",
-    "https://www.career-adv.jp/recruit_info/career/443/",
-    "https://note.com/irshukatsu/n/n9fd752118742"
+    "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 11
+   "n_hits": 7
   },
   {
    "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） やり方",
    "results": [
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "https://service.g-search.jp/2024/12/20/01062.html",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
-    "https://www.youtube.com/watch?v=Lkugw2q8Sew",
-    "https://ndlsearch.ndl.go.jp/rnavi/business/post_207",
-    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
-    "https://vs-group.jp/startup/establishment/20700.html",
-    "https://jo-katsu.com/campus/4396/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 13
-  },
-  {
-   "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） 事例",
-   "results": [
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "https://www.g-search.or.jp/column/trend/unlisted-company/",
-    "https://nvs.nikkei.co.jp/research/20250821-column/",
-    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
-    "https://www.spglobal.com/market-intelligence/jp/solutions/products/private-company-data",
-    "https://www.hrpro.co.jp/keiei/articles/news/2372",
-    "https://note.com/sk_kasou/n/n5f399867efe8"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 12
-  },
-  {
-   "query": "how to find private company revenue Japan consulting knowledge base",
-   "results": [
-    "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "https://about.crunchbase.com/blog/private-company-data",
-    "https://revenuebase.ai/companies/finance-consulting-firms/japan",
-    "https://www.fortunebusinessinsights.com/",
-    "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
-    "https://www.bain.com/industry-expertise/private-equity/",
-    "https://www.askbrian.ai/blog/company-information-sources/",
-    "https://www.spglobal.com/market-intelligence/en/solutions/products/sp-capital-iq-pro",
-    "https://www.grandviewresearch.com/",
-    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "site:note.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
-   "results": [
-    "https://note.com/xoperation/n/n93109494872d",
-    "https://note.com/kabuberry_/n/n061c7c0622d5",
-    "https://note.com/kagawatomo/n/ncff94edf550c",
-    "https://note.com/kiyo_ai_note/n/n0a9ac673d208",
-    "https://note.com/tck/n/n95812964bcbb",
-    "https://note.com/diggle/n/nf18d4b8e0a8c",
-    "https://note.com/hr_sol_evangel/n/n55f519df39ed",
-    "https://note.com/suzukiyuto/n/n4b49fca9f975",
-    "https://note.com/dataisfunny/n/nba293ffe5ca4",
-    "https://note.com/powerpoint_jp/n/n4601fd94e00a"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "site:x.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
-   "results": [
-    "https://x.com/luigi_jpn/article/2095766103033282864",
-    "https://x.com/hiroaki_naberun",
-    "https://x.com/fujitaka_biz/status/2031837829157032184",
-    "https://x.com/zenmizo/status/2067530235437072458",
-    "https://x.com/hasibiro_maga/status/2035079391081087081",
-    "https://x.com/papico_chupa/status/2111099478434574387",
-    "https://x.com/zenmizo/status/2048906876252020800",
-    "https://x.com/F_kokutiyou/status/1261129182949462017",
-    "https://x.com/JobHuntKEYENCE/status/2034347979256270941"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "site:linkedin.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
-   "results": [
-    "https://jp.linkedin.com/in/%E5%B4%87%E4%B9%8B-%E5%90%8D%E5%80%89-335967102",
-    "https://jp.linkedin.com/company/innovationengine",
-    "https://jp.linkedin.com/in/shuhei-sugie-33202a251",
-    "https://jp.linkedin.com/in/kohei-nagao-iri",
-    "https://www.linkedin.com/posts/燎汰-青柳-291aab242_非上場株価の調べ方非上場株式の評価方法と計算方法を解説part2-activity-6976445317634306049-oc8e",
-    "https://www.linkedin.com/posts/boston-consulting-group_イノベーション企業ランキングトップ50を発表bcgイノベーション調査2023-activity-7070304284478730240-SA1w",
-    "https://jp.linkedin.com/pulse/navigating-complexities-fair-value-measurements-unlisted-dace-lace-ee2lf?tl=ja",
-    "https://jp.linkedin.com/posts/yukioshima11_非上場企業の意思決定迅速に株主総会9割賛成なら書面で決議-日本経済新聞-activity-7414241387258490880-o0Ct"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "site:facebook.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
-   "results": [
-    "https://www.facebook.com/groups/SECISpiralUP/",
-    "https://www.facebook.com/boehringerJP/posts/-入山章栄-氏が迫る-非上場企業の強み世界の経営理論に精通する入山章栄氏早稲田大学ビジネススクール教授と荻村正孝-日本ベーリンガーインゲルハイム-株式会社-代表/1080703100734951/",
-    "https://www.facebook.com/YANMAR.Official/posts/就活生が知りたいヤンマーの豆知識vol13人事onlineの企画非上場企業の成長戦略でヤンマーを取り上げていただきました創業107年を迎えるヤンマーが非上場を貫/2474817072538002/",
-    "https://www.facebook.com/funaisoken/videos/無料事例レポートを無料公開中船井総研のコンサルティング/1911251619573012/",
-    "https://www.facebook.com/nistep.japan/posts/全国イノベーション調査2024年調査統計報告nistep-report-no207を公表しました917科学技術学術政策研究所nistepでは科学技術イノベーショ/1258429316329132/",
-    "https://www.facebook.com/funaisoken/videos/100億企業に導く10の羅針盤-無料ダウンロード/1641080020328665/",
-    "https://www.facebook.com/funaisoken/videos/100億企業に導く10の羅針盤-無料ダウンロード/1895290647817714/"
+    "https://jo-katsu.com/campus/4396/",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/"
    ],
    "engines": [
     "ddgs:bing"
@@ -1472,67 +1307,152 @@
    "n_hits": 7
   },
   {
+   "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） 事例",
+   "results": [
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://service.g-search.jp/2024/12/20/01062.html",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://jo-katsu.com/campus/4396/",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "how to find private company revenue Japan consulting knowledge base",
+   "results": [
+    "https://jbireport.com/",
+    "https://www.crunchbase.com/",
+    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "https://www.factset.com/marketplace/catalog/product/factset-private-company-financials",
+    "https://about.crunchbase.com/blog/private-company-data",
+    "https://companydata.com/company-revenue-lookup/",
+    "https://cufinder.io/blog/find-private-company-revenue/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
+   "results": [
+    "https://note.com/isa99999/n/n7aadf977f2e7",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/irshukatsu/n/n764660c71144",
+    "https://note.com/zaimani_com/n/n55c23417fd36",
+    "https://note.com/bostoncareer/n/n851ecafa45ab",
+    "https://note.com/s_o_0517/n/n51e06bbe1aed"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
+   "results": [
+    "https://x.com/fujitaka_biz/status/2031837829157032184",
+    "https://x.com/papico_chupa/status/2111099478434574387",
+    "https://x.com/zenmizo/status/2067530235437072458",
+    "https://x.com/hasibiro_maga/status/2035079391081087081",
+    "https://x.com/zenmizo/status/2048906876252020800",
+    "https://x.com/JobHuntKEYENCE/status/2034347979256270941",
+    "https://x.com/keiri_investor/status/2090439001824215261"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
+   "results": [
+    "https://jp.linkedin.com/company/innovationengine",
+    "https://jp.linkedin.com/company/innovation-ifa",
+    "https://jp.linkedin.com/in/kohei-nagao-iri",
+    "https://www.linkedin.com/posts/燎汰-青柳-291aab242_非上場株価の調べ方非上場株式の評価方法と計算方法を解説part2-activity-6976445317634306049-oc8e",
+    "https://www.linkedin.com/posts/boston-consulting-group_イノベーション企業ランキングトップ50を発表bcgイノベーション調査2023-activity-7070304284478730240-SA1w",
+    "https://jp.linkedin.com/posts/yukioshima11_非上場企業の意思決定迅速に株主総会9割賛成なら書面で決議-日本経済新聞-activity-7414241387258490880-o0Ct",
+    "https://jp.linkedin.com/posts/yusuke-shimizu-b3085957_maで買った能力はその後どうなったのか-前回上場会社による非上場btob-activity-7499616883663491072-bhll"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
+   "results": [
+    "https://www.facebook.com/groups/SECISpiralUP/",
+    "https://www.facebook.com/boehringerJP/posts/-入山章栄-氏が迫る-非上場企業の強み世界の経営理論に精通する入山章栄氏早稲田大学ビジネススクール教授と荻村正孝-日本ベーリンガーインゲルハイム-株式会社-代表/1080703100734951/",
+    "https://www.facebook.com/YANMAR.Official/posts/就活生が知りたいヤンマーの豆知識vol13人事onlineの企画非上場企業の成長戦略でヤンマーを取り上げていただきました創業107年を迎えるヤンマーが非上場を貫/2474817072538002/",
+    "https://www.facebook.com/nistep.japan/posts/全国イノベーション調査2024年調査統計報告nistep-report-no207を公表しました917科学技術学術政策研究所nistepでは科学技術イノベーショ/1258429316329132/",
+    "https://www.facebook.com/funaisoken/videos/無料事例レポートを無料公開中船井総研のコンサルティング/1911251619573012/",
+    "https://www.facebook.com/funaisoken/videos/100億企業に導く10の羅針盤-無料ダウンロード/1641080020328665/",
+    "https://www.facebook.com/nishinippon.news/posts/東京商工リサーチ福岡支社が発表した2024年度の九州沖縄の企業調査によると売上高が100億円を超えた企業は前年度より20社増え売上総額も51増となりましたいずれ/1326681236138620/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
    "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） note 社長",
    "results": [
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://service.g-search.jp/2024/12/20/01062.html",
     "https://jo-katsu.com/campus/4396/",
-    "https://www.career-adv.jp/recruit_info/career/443/",
+    "https://note.com/irshukatsu/n/n9fd752118742",
     "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） X 投稿",
    "results": [
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://www.g-search.or.jp/column/trend/unlisted-company/",
-    "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
     "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
-    "https://www.youtube.com/watch?v=Lkugw2q8Sew",
-    "https://www.spglobal.com/market-intelligence/jp/solutions/products/private-company-data",
-    "https://www.career-adv.jp/recruit_info/career/443/",
-    "https://jo-katsu.com/campus/4396/"
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://jo-katsu.com/campus/4396/",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "how to find private company revenue Japan consulting knowledge base site:linkedin.com",
    "results": [
-    "https://uk.linkedin.com/company/acuityanalytics",
-    "https://www.linkedin.com/company/8020-consulting",
-    "https://www.linkedin.com/company/mckinsey",
-    "https://in.linkedin.com/company/marketsandmarkets",
-    "https://uk.linkedin.com/company/jman-group",
-    "https://www.linkedin.com/company/revenue-rocket-consulting-group",
-    "https://www.linkedin.com/company/oracle",
-    "https://www.linkedin.com/company/hewlett-packard-enterprise",
-    "https://www.linkedin.com/in/melissafenner",
-    "https://in.linkedin.com/company/persistent-systems"
+    "https://www.linkedin.com/pulse/how-check-revenue-any-company-vishal-jain-7oxue",
+    "https://www.linkedin.com/posts/grata-data_how-to-find-private-company-revenue-data-activity-7203442570356539394-bJUY",
+    "https://in.linkedin.com/company/japan-consulting",
+    "https://www.linkedin.com/posts/coresignal_find-companies-by-revenue-with-coresignal-activity-7430214744982315008-9sJT",
+    "https://www.linkedin.com/pulse/how-find-private-company-information-databases-big-data-sourcescrub-2inre",
+    "https://www.linkedin.com/posts/jdodson_how-to-find-private-company-revenue-best-activity-6889384662351925248-6DYX",
+    "https://www.linkedin.com/pulse/exploring-private-company-data-providers-tips-dealmakers-0lsvc?tl=en"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 22,
+ "runs": 23,
  "first_researched_at": "2026-11-05T02:57:36.864891+00:00"
 }

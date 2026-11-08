@@ -8,124 +8,8 @@
  ],
  "context": "照合",
  "kind": "market",
- "researched_at": "2026-11-08T12:08:11.613870+00:00",
+ "researched_at": "2026-11-08T20:13:34.208117+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2. Global Performance Metric Estimates:",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "To obtain estimates of global performance metrics such as pairwise and b-cubed precision and recall",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", we express them as weighted aggregates of cluster-wise error metrics. This helps obtain estimates that are representative of the system’s performance on the entire data set, not just the benchmark (section",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", we show the estimated numbers of citations to PatentsView in the academic literature over time and by Dewey Decimal subject classification.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimated number of citations to PatentsView in academic literature by year.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". These groups are essentially connected components in the graph where the vertices are the records and the edges are the links. To cut costs, Statistics Canada is also considering model-based estimates",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "), or estimated for the unknown ground truth clustering",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "), which then can be estimated in the same way.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "can result in increased accuracy relative to simple random sampling of clusters. In particular, when a cluster-level outcome of interest is correlated with the size of the cluster, the probability proportional to size design offers smaller standard errors in estimates of population quantities",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", and will artificially inflate performance metrics estimates. The correct approach is to first identify entities",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", and performance estimates can be obtained by restricting the sample to this subset. For example, with pairwise precision, this corresponds to estimating the ratio of the number of pairwise links within clusters in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "By use case and by industry.",
@@ -350,6 +234,122 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2. Global Performance Metric Estimates:",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "To obtain estimates of global performance metrics such as pairwise and b-cubed precision and recall",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", we express them as weighted aggregates of cluster-wise error metrics. This helps obtain estimates that are representative of the system’s performance on the entire data set, not just the benchmark (section",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", we show the estimated numbers of citations to PatentsView in the academic literature over time and by Dewey Decimal subject classification.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimated number of citations to PatentsView in academic literature by year.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". These groups are essentially connected components in the graph where the vertices are the records and the edges are the links. To cut costs, Statistics Canada is also considering model-based estimates",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "), or estimated for the unknown ground truth clustering",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "), which then can be estimated in the same way.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "can result in increased accuracy relative to simple random sampling of clusters. In particular, when a cluster-level outcome of interest is correlated with the size of the cluster, the probability proportional to size design offers smaller standard errors in estimates of population quantities",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", and will artificially inflate performance metrics estimates. The correct approach is to first identify entities",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", and performance estimates can be obtained by restricting the sample to this subset. For example, with pairwise precision, this corresponds to estimating the ratio of the number of pairwise links within clusters in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
@@ -568,14 +568,14 @@
     "method": "http"
    },
    {
-    "url": "https://ecalpro.com/ja/methodology",
+    "url": "https://claudecodetec.com/blog/B02/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
+    "url": "https://ecalpro.com/ja/methodology",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://ai.access-company.com/articles-18/",
@@ -583,24 +583,24 @@
     "method": "http"
    },
    {
-    "url": "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.rootmetrics.com/ja-JP/methodology",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://claudecodetec.com/blog/B02/",
+    "url": "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.concur.co.jp/products/three-way-match",
@@ -618,12 +618,12 @@
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/html/2607.26298v1",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "url": "https://arxiv.org/html/2607.26298v1",
     "status": "ok",
     "method": "http"
    },
@@ -649,19 +649,22 @@
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） site:note.com",
    "results": [
     "https://lefixea.jp/articles/tls-cultural-heritage-survey101",
-    "https://ecalpro.com/ja/methodology",
-    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
-    "https://ai.access-company.com/articles-18/",
-    "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
-    "https://www.rootmetrics.com/ja-JP/methodology",
-    "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
     "https://claudecodetec.com/blog/B02/",
-    "https://www.datalabs.jp/modely"
+    "https://ecalpro.com/ja/methodology",
+    "https://ai.access-company.com/articles-18/",
+    "https://www.rootmetrics.com/ja-JP/methodology",
+    "https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/news/news_169_30.pdf",
+    "https://www.trintech.jp/adra%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9/adra-matcher/",
+    "https://www.mlit.go.jp/sogoseisaku/soukou/content/001635164.pdf",
+    "https://www.concur.co.jp/products/three-way-match",
+    "https://note.com/scott_net/n/n6489a92eb94a"
    ],
    "engines": [
+    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 17
   },
   {
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） note",
@@ -721,18 +724,18 @@
    "query": "entity resolution accept reject threshold human review band cluster-level precision recall evaluation",
    "results": [
     "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "https://arxiv.org/html/2607.26298v1",
     "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "https://www.reddit.com/r/LanguageTechnology/comments/12h2b5y/evaluation_of_entity_resolution_entity_linking/",
+    "https://arxiv.org/html/2607.26298v1",
     "https://aws.amazon.com/blogs/industries/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
+    "https://www.reddit.com/r/LanguageTechnology/comments/12h2b5y/evaluation_of_entity_resolution_entity_linking/",
     "https://www.rudderstack.com/blog/what-is-entity-resolution/",
     "http://home.cse.ust.hk/~leichen/courses/mscit6000d/notes/entityresolution.pdf",
-    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
     "https://senzing.com/what-is-entity-resolution/",
+    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
     "https://arxiv.org/html/2404.05622"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -742,21 +745,19 @@
    "results": [
     "https://note.com/tasty_dunlin998/n/n48e63a2c2e3a",
     "https://note.com/masa_wunder/n/ne5540ae961f4",
-    "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "https://note.com/karine_tln/n/n5504114a6081",
+    "https://note.com/satoruhiguchi/n/n3c9284227d45",
     "https://note.com/paguinu/n/n18d688521707",
     "https://note.com/sharoshiengineer/n/n213cdf0dafe7",
+    "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "https://note.com/modern_flea8708/n/n5f98e07f3fbf",
     "https://note.com/cute_hebe442/n/n329cc3e5bc91",
-    "https://note.com/satoruhiguchi/n/n3c9284227d45",
-    "https://note.com/reading_monkey/n/n8896c76748c7",
-    "https://note.com/ideal_slug1407/n/nccfb669ad562"
+    "https://note.com/reading_monkey/n/n8896c76748c7"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 18
+   "n_hits": 10
   },
   {
    "query": "site:x.com 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）",
@@ -770,45 +771,41 @@
     "https://x.com/Brushup_jp/status/2067428337035903464"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）",
    "results": [
-    "https://www.linkedin.com/posts/sapfico_3分で分かる-sap-cash-application-の仕組み-sap-cash-activity-6370590946987507712-0GIU",
     "https://jp.linkedin.com/pulse/how-i-revolutionized-bank-reconciliation-ai-from-30-balasubramanian-zrrhc?tl=ja",
-    "https://jp.linkedin.com/pulse/robotic-process-automation-bank-reconciliation-sap-s4hana-bandara-z2fhc?tl=ja",
     "https://jp.linkedin.com/pulse/how-reconciliation-automation-saves-time-improves-accuracy-koshai-fclyc?tl=ja",
-    "https://jp.linkedin.com/pulse/end-manual-invoice-matching-ai-enters-ap-arena-sqit-consulting-vu9lc?tl=ja",
     "https://jp.linkedin.com/pulse/bank-reconciliation-automation-explained-from-manual-processes-mtaac?tl=ja",
+    "https://jp.linkedin.com/pulse/end-manual-invoice-matching-ai-enters-ap-arena-sqit-consulting-vu9lc?tl=ja",
+    "https://jp.linkedin.com/pulse/robotic-process-automation-bank-reconciliation-sap-s4hana-bandara-z2fhc?tl=ja",
     "https://jp.linkedin.com/pulse/automated-invoice-matching-solution-3-way-process-akabot-wgnzc?tl=ja",
     "https://jp.linkedin.com/posts/rakus-co-ltd-_ラクス楽楽請求に自動照合オプションを提供開始-ニュース-株式会社-activity-7495988611994054656-ZyeG"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）",
    "results": [
     "https://www.facebook.com/anlabjp/videos/製造業の図面業務をaiでもっと効率的に図面リーダーではaiが図面から必要な情報を自動で読み取りデータとして整理管理できます図番や部品名材質などから必要な図面をす/1395844352526726/",
     "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
-    "https://www.facebook.com/brushup.net/posts/原稿とpdfの自動照合にaiを搭載ウェビナーのお知らせ人の体力的精神的負担を大幅に減らすexcel原稿とpdfの自動照合本機能にaiを搭載し商品パッケージカタロ/1466474791944983/",
     "https://www.facebook.com/SansanJapan/posts/bill-oneに請求書の照合業務をアシストするai新機能を実装しました請求書と納品検収データに記載された品目をaiが比較し表記ゆれがあっても同一品目を特定照合/1436432445186761/",
-    "https://www.facebook.com/ZebraTechnologiesKorea/videos/zebra-rfid-tunnel-solution-showcase/1348981920346653/",
+    "https://www.facebook.com/brushup.net/posts/原稿とpdfの自動照合にaiを搭載ウェビナーのお知らせ人の体力的精神的負担を大幅に減らすexcel原稿とpdfの自動照合本機能にaiを搭載し商品パッケージカタロ/1466474791944983/",
     "https://www.facebook.com/FujifilmJapan/posts/報道発表薬剤を高精度に自動照合する一包化監査支援システムを発売私たちのグループ会社富士フイルムメディカルは調剤薬局や病院などでの薬剤師の監査業務患者に薬剤を渡す/1516413903863797/",
-    "https://www.facebook.com/MitsubishiElectricFA.JP/photos/便利機能紹介gx-works3-照合機能シーケンサ-のプログラムを作成する際の便利機能をご紹介編集していたプログラムやパラメータの変更箇所がわからなくなったru/415578364041658/",
+    "https://www.facebook.com/ZebraTechnologiesKorea/videos/zebra-rfid-tunnel-solution-showcase/1348981920346653/",
     "https://www.facebook.com/JapanKomori/videos/印刷機の機能紹介念のためもう一度確認しておこう版キズの見落としによる不正紙の発生を防ぐため何度も確認を重ねるその積み重ねが現場の負担になっていませんか刷版データ/1087052840354007/"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら） note 社長",
@@ -851,26 +848,25 @@
    "results": [
     "https://www.linkedin.com/in/tim-flocke",
     "https://www.linkedin.com/in/foyie",
-    "https://sg.linkedin.com/in/arshi-saxena",
-    "https://www.linkedin.com/in/davidswanagon",
     "https://content.linkedin.com/content/dam/help/tns/legal/01-LinkedIn-DSA-2025-SRA-Report-August-2025.pdf",
+    "https://sg.linkedin.com/in/arshi-saxena",
+    "https://in.linkedin.com/in/kundan-sakargayen",
     "https://www.linkedin.com/in/melisasever",
     "https://in.linkedin.com/in/subodhlonkar13",
+    "https://in.linkedin.com/in/akhil-anna-678a54183",
     "https://uk.linkedin.com/in/domingosjoao",
-    "https://in.linkedin.com/in/kundan-sakargayen",
-    "https://in.linkedin.com/in/akhil-anna-678a54183"
+    "https://www.linkedin.com/in/akn-ai"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   }
  ],
  "missing": {
   "一次情報の探し方": "記載なし（読んだ16頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-07T00:53:57.522779+00:00"
 }

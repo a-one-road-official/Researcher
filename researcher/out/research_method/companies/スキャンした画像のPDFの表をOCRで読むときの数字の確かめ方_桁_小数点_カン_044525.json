@@ -8,71 +8,155 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-08T12:40:29.408991+00:00",
+ "researched_at": "2026-11-08T20:13:55.777144+00:00",
  "evidence": {
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "多くの従来型OCRはテキストのみ抽出し、他アプリケーションへの連携が難しいケースがあります",
+    "quote": "PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み | Parseur®",
     "url": "https://parseur.com/ja/burogu/pdf-ocr",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "で、注文処理速度・効率が高まり、結果として注文処理の迅速化・顧客満足度の向上につながります",
+    "quote": "PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み",
     "url": "https://parseur.com/ja/burogu/pdf-ocr",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "OCR機能を活用した業務改善＆ポカよけ事例",
+    "quote": "PDF OCR（光学式文字認識）は、スキャンされたPDFや画像ベースのファイルを、機械で読み取れる検索可能なテキストに変換する技術です",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDF OCRツールはスキャンページの画像を処理し、文字を識別し、検索・コピー・構造化データ化できる編集可能なテキストを出力します",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "が1993年にPortable Document Format (PDF) を初めて導入し、その後、国際標準化機構（ISO）32000標準も登場しました",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2.5兆本以上のPDF",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDFは長年の進化を経て、多機能で高性能なさまざまなバージョンが生まれています",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDFから手作業でテキストを抽出する際の課題",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDFは多くの業種で利用されていますが、今なお多くの企業では手作業でのデータ入力が行われています",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "OCRは画像やスキャンPDF、手書き文字を機械で読み取れるテキストに変換します",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDF OCRは、データを検索・編集可能なデータに変換します",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDF OCR vs PDFパーサー vs PDFデータ抽出",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "**PDFパーシング（PDF parsing）**はさらに一歩進んで、文書構造を分析し、意味のあるフィールドを特定して構造化データとして整理します",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "既存（非スキャン）PDFの場合、パースではOCRは不要です",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "スキャンPDFの場合はまずOCRが動作し、その後パースで構造化されます",
+    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さまざまな業界の現場を数多く知るキーエンスでは、ハンディターミナルのOCR機能に、独自開発の文字認識アルゴリズムを採用しました",
     "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "ここでは、OCR機能を活用した具体的な業務改善事例を紹介します",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここまで説明した文字認識（OCR）機能の導入事例の詳細や、業務改善の方法をわかりやすくまとめた資料を以下のボタンよりダウンロードいただけます",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "文字認識（OCR）の詳しい説明やハンディターミナルの基礎、業界ごとの導入事例を多数掲載！",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "対象は、送信が認められた資料を使い、料金表、調査表、社内資料などの読み取り結果を確認したい人です",
+    "quote": "AIでPDFの表が読めない・数字が違う？OCRと照合の手順",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "文字は選べるが、選択結果が違う",
+    "quote": "AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "OCRの認識結果、文字化け、コピー順を確認",
+    "quote": "AIにPDFの表を読み取らせて数字や項目がずれるときは、まず元のPDFで文字を選択できるか、表の見出し・単位・注記を確認してください",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "この結果が良好でも、別ページの表まで同じ品質とは限りません",
+    "quote": "「PDFを開ける」と「表を正しく読める」は違う",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "原本の確認、抽出結果の照合、集計を分ける編集部の確認手順",
+    "quote": "PDFは、文章のほかに写真、画像として保存された文字、図形、注釈などを含みます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Microsoftは、PDFをWordで開く際、表や脚注などが元の形どおりに変換されない場合があると説明しています",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これはWordの変換についての資料ですが、PDFから取り出した文字を、そのまま表の構造とみなさず確認する必要を理解する手掛かりになります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Microsoft「WordでPDFファイルを開く」",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "では、PDFが文字の位置を保存していても、段落や表などの関係を同じように保持しているとは限らないことも説明されています",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -84,97 +168,49 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば「採用した12行の値と単位を原本で照合済み",
+    "quote": "元のPDFを上書きせず、作業用コピーで認識・抽出を進めます",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です",
+    "quote": "Adobe「PDFでのAIアシスタントを使用した回答の取得」",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資料内に印刷されたページ番号と、PDFビューアのページ順がずれることがあります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「PDFの7枚目、紙面の5ページ」のように両方を記録すると、あとで原本を探しやすくなります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "料金や契約条件に使う値は、抜き取りで数か所だけを見るのではなく、実際の判断に採用するセルと条件をすべて確認してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンやスマホアプリでの撮影、メール添付PDFから取り込め、電子帳簿保存法に対応",
     "url": "https://it-trend.jp/ai_ocr/article/813-10534",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AI-OCRとは？OCRとの違いや導入事例、種類も徹底解説",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AI-OCRの読み取り結果は、取り込む画像の状態によって変わります",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "印鑑や色付きの罫線が文字に重なる帳票は、カラーで取り込むか、白黒で取り込むかによって結果が変わることもあるため、実際の帳票で試して決めるのが確実です",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、1文字ずつ枠を区切った記入欄にする、数字は枠からはみ出さないよう案内する、といった方法です",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、金額の欄を数字のみと指定しておくと、数字の「0」とアルファベットの「O」といった、形の似た文字の取り違えを減らせます",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AI-OCRの読み取り結果には、誤りが含まれる可能性があります",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製品によっては、読み取り結果に対するAIの自信の度合いを数値で表示したり、自信度が低い文字を色分けしたりする機能があります",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "帳票の取り込み方と読み取り結果の確認方法に注目して、紹介するAI-OCRの特徴を表にまとめました",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複合機やスマートフォン、ファイルのアップロードなど取り込みの経路が選べ、読み取り結果の確認・修正を効率よく進められるAI-OCRを紹介します",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "帳票全体や切り出した画像と読み取り結果を照合しながら確認・訂正でき、明細行は1行ずつ確認が可能です",
+    "quote": "帳票はWebブラウザや複合機、フォルダ監視、OneDrive for Businessなどから取り込め、PDFやTIFF、JPEG、PNGなどの形式に対応しています",
     "url": "https://it-trend.jp/ai_ocr/article/813-10534",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
     "quote": "読み取り結果の確認・修正を効率よく進められる画面を備え、データはCSV・Excel・サーチャブルPDFなどの形式で出力できます",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2種類のOCRエンジンの認識結果を照合し、不一致の項目だけを確認対象にするベリファイOCR機能で、確認・修正の時間を減らせます",
-    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AI-OCRの使い方は、帳票を取り込み、読み取る項目を設定し、結果を確認・修正してからデータを出力するという流れが基本です",
     "url": "https://it-trend.jp/ai_ocr/article/813-10534",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -612,153 +648,69 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み | Parseur®",
+    "quote": "多くの従来型OCRはテキストのみ抽出し、他アプリケーションへの連携が難しいケースがあります",
     "url": "https://parseur.com/ja/burogu/pdf-ocr",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み",
+    "quote": "で、注文処理速度・効率が高まり、結果として注文処理の迅速化・顧客満足度の向上につながります",
     "url": "https://parseur.com/ja/burogu/pdf-ocr",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "PDF OCR（光学式文字認識）は、スキャンされたPDFや画像ベースのファイルを、機械で読み取れる検索可能なテキストに変換する技術です",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF OCRツールはスキャンページの画像を処理し、文字を識別し、検索・コピー・構造化データ化できる編集可能なテキストを出力します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "が1993年にPortable Document Format (PDF) を初めて導入し、その後、国際標準化機構（ISO）32000標準も登場しました",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2.5兆本以上のPDF",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDFは長年の進化を経て、多機能で高性能なさまざまなバージョンが生まれています",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDFから手作業でテキストを抽出する際の課題",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDFは多くの業種で利用されていますが、今なお多くの企業では手作業でのデータ入力が行われています",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "OCRは画像やスキャンPDF、手書き文字を機械で読み取れるテキストに変換します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF OCRは、データを検索・編集可能なデータに変換します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF OCR vs PDFパーサー vs PDFデータ抽出",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "**PDFパーシング（PDF parsing）**はさらに一歩進んで、文書構造を分析し、意味のあるフィールドを特定して構造化データとして整理します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "既存（非スキャン）PDFの場合、パースではOCRは不要です",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "スキャンPDFの場合はまずOCRが動作し、その後パースで構造化されます",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "さまざまな業界の現場を数多く知るキーエンスでは、ハンディターミナルのOCR機能に、独自開発の文字認識アルゴリズムを採用しました",
+    "quote": "OCR機能を活用した業務改善＆ポカよけ事例",
     "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "AIでPDFの表が読めない・数字が違う？OCRと照合の手順",
+    "quote": "ここでは、OCR機能を活用した具体的な業務改善事例を紹介します",
+    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここまで説明した文字認識（OCR）機能の導入事例の詳細や、業務改善の方法をわかりやすくまとめた資料を以下のボタンよりダウンロードいただけます",
+    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "文字認識（OCR）の詳しい説明やハンディターミナルの基礎、業界ごとの導入事例を多数掲載！",
+    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対象は、送信が認められた資料を使い、料金表、調査表、社内資料などの読み取り結果を確認したい人です",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順",
+    "quote": "文字は選べるが、選択結果が違う",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AIにPDFの表を読み取らせて数字や項目がずれるときは、まず元のPDFで文字を選択できるか、表の見出し・単位・注記を確認してください",
+    "quote": "OCRの認識結果、文字化け、コピー順を確認",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「PDFを開ける」と「表を正しく読める」は違う",
+    "quote": "この結果が良好でも、別ページの表まで同じ品質とは限りません",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "PDFは、文章のほかに写真、画像として保存された文字、図形、注釈などを含みます",
-    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Microsoftは、PDFをWordで開く際、表や脚注などが元の形どおりに変換されない場合があると説明しています",
-    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これはWordの変換についての資料ですが、PDFから取り出した文字を、そのまま表の構造とみなさず確認する必要を理解する手掛かりになります",
-    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Microsoft「WordでPDFファイルを開く」",
-    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "では、PDFが文字の位置を保存していても、段落や表などの関係を同じように保持しているとは限らないことも説明されています",
+    "quote": "原本の確認、抽出結果の照合、集計を分ける編集部の確認手順",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -770,43 +722,79 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "元のPDFを上書きせず、作業用コピーで認識・抽出を進めます",
+    "quote": "例えば「採用した12行の値と単位を原本で照合済み",
     "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Adobe「PDFでのAIアシスタントを使用した回答の取得」",
-    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "資料内に印刷されたページ番号と、PDFビューアのページ順がずれることがあります",
-    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「PDFの7枚目、紙面の5ページ」のように両方を記録すると、あとで原本を探しやすくなります",
-    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "料金や契約条件に使う値は、抜き取りで数か所だけを見るのではなく、実際の判断に採用するセルと条件をすべて確認してください",
-    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スキャンやスマホアプリでの撮影、メール添付PDFから取り込め、電子帳簿保存法に対応",
+    "quote": "AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です",
     "url": "https://it-trend.jp/ai_ocr/article/813-10534",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "帳票はWebブラウザや複合機、フォルダ監視、OneDrive for Businessなどから取り込め、PDFやTIFF、JPEG、PNGなどの形式に対応しています",
+    "quote": "AI-OCRとは？OCRとの違いや導入事例、種類も徹底解説",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの読み取り結果は、取り込む画像の状態によって変わります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "印鑑や色付きの罫線が文字に重なる帳票は、カラーで取り込むか、白黒で取り込むかによって結果が変わることもあるため、実際の帳票で試して決めるのが確実です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、1文字ずつ枠を区切った記入欄にする、数字は枠からはみ出さないよう案内する、といった方法です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、金額の欄を数字のみと指定しておくと、数字の「0」とアルファベットの「O」といった、形の似た文字の取り違えを減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの読み取り結果には、誤りが含まれる可能性があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製品によっては、読み取り結果に対するAIの自信の度合いを数値で表示したり、自信度が低い文字を色分けしたりする機能があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票の取り込み方と読み取り結果の確認方法に注目して、紹介するAI-OCRの特徴を表にまとめました",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複合機やスマートフォン、ファイルのアップロードなど取り込みの経路が選べ、読み取り結果の確認・修正を効率よく進められるAI-OCRを紹介します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票全体や切り出した画像と読み取り結果を照合しながら確認・訂正でき、明細行は1行ずつ確認が可能です",
     "url": "https://it-trend.jp/ai_ocr/article/813-10534",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -816,12 +804,29 @@
     "url": "https://it-trend.jp/ai_ocr/article/813-10534",
     "pass": 3,
     "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2種類のOCRエンジンの認識結果を照合し、不一致の項目だけを確認対象にするベリファイOCR機能で、確認・修正の時間を減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、帳票を取り込み、読み取る項目を設定し、結果を確認・修正してからデータを出力するという流れが基本です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "status": "ok",
+    "method": "http"
+   },
    {
     "url": "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
     "status": "http_403",
@@ -833,42 +838,32 @@
     "method": "http"
    },
    {
-    "url": "https://www.smartocr.jp/ocr-lab/?p=1272",
+    "url": "https://talent-partner.jp/blog/ai-ocr/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.panasonic.com/jp/business/its/ocr/column/column-44.html",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
+    "url": "https://rakucloud.com/blog/inspection-sheet-ocr",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
+    "url": "https://www.get-tohon.com/blog/ocr-pdf-excel",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://copyki-pr.com/blog/304?srsltid=AYCX9vKGQIKgV831_QlgU16vx8vcxpSFRH0e8j_clPVzlrkqwLDBMIh-",
+    "url": "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
+    "url": "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://copyki-pr.com/blog/304?srsltid=AYCX9vK-wXosRnC2K8GR3YXakzV_MP6mYlJ9VKwRz9czaRmzGVoids2_",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://copyki-pr.com/blog/304?srsltid=AYCX9vIIZz_-WCW3HTiNKbqZtLUx2ngG3i1ubKqLetoywerPfH8l0bQj",
+    "url": "https://www.polypdf.com/ja/blog/ocr-scanned-pdf-drawings/",
     "status": "ok",
     "method": "http"
    },
@@ -908,16 +903,16 @@
   {
    "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） site:note.com",
    "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
     "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
-    "https://www.smartocr.jp/ocr-lab/?p=1272",
-    "https://www.panasonic.com/jp/business/its/ocr/column/column-44.html",
-    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
-    "https://parseur.com/ja/burogu/pdf-ocr",
-    "https://copyki-pr.com/blog/304?srsltid=AYCX9vIoRM5pfo7FIcLFtQ2edBued2A1r4ojWryMOVcslML1DSotKVyV",
-    "https://www.youtube.com/watch?v=JWth3sW1QBE",
-    "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "https://note.com/tenorsharejp/n/n4c89a16b2bf5"
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://www.polypdf.com/ja/blog/ocr-scanned-pdf-drawings/",
+    "https://note.com/ai__jitan__lab/n/n195d23105721"
    ],
    "engines": [
     "ddgs:google",
@@ -928,15 +923,15 @@
   {
    "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） note",
    "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
     "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
-    "https://www.smartocr.jp/ocr-lab/?p=1272",
-    "https://www.panasonic.com/jp/business/its/ocr/column/column-44.html",
-    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
-    "https://parseur.com/ja/burogu/pdf-ocr",
-    "https://copyki-pr.com/blog/304?srsltid=AYCX9vKGQIKgV831_QlgU16vx8vcxpSFRH0e8j_clPVzlrkqwLDBMIh-",
-    "https://www.youtube.com/watch?v=JWth3sW1QBE",
-    "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp"
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://www.polypdf.com/ja/blog/ocr-scanned-pdf-drawings/"
    ],
    "engines": [
     "yahoo_jp"
@@ -946,15 +941,15 @@
   {
    "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） やり方",
    "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
     "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
-    "https://www.smartocr.jp/ocr-lab/?p=1272",
-    "https://www.panasonic.com/jp/business/its/ocr/column/column-44.html",
-    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
-    "https://parseur.com/ja/burogu/pdf-ocr",
-    "https://copyki-pr.com/blog/304?srsltid=AYCX9vK-wXosRnC2K8GR3YXakzV_MP6mYlJ9VKwRz9czaRmzGVoids2_",
-    "https://www.youtube.com/watch?v=JWth3sW1QBE",
-    "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp"
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://www.polypdf.com/ja/blog/ocr-scanned-pdf-drawings/"
    ],
    "engines": [
     "yahoo_jp"
@@ -964,15 +959,15 @@
   {
    "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） 事例",
    "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
     "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
-    "https://www.smartocr.jp/ocr-lab/?p=1272",
-    "https://www.panasonic.com/jp/business/its/ocr/column/column-44.html",
-    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
-    "https://parseur.com/ja/burogu/pdf-ocr",
-    "https://copyki-pr.com/blog/304?srsltid=AYCX9vIIZz_-WCW3HTiNKbqZtLUx2ngG3i1ubKqLetoywerPfH8l0bQj",
-    "https://www.youtube.com/watch?v=JWth3sW1QBE",
-    "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp"
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://www.polypdf.com/ja/blog/ocr-scanned-pdf-drawings/"
    ],
    "engines": [
     "yahoo_jp"
@@ -1002,21 +997,18 @@
   {
    "query": "site:note.com スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）",
    "results": [
-    "https://note.com/96yuri/n/nb0bb2735c2ab",
-    "https://note.com/sorara_studio/n/nc6509c78f36f",
     "https://note.com/tenorsharejp/n/n4c89a16b2bf5",
+    "https://note.com/ai__jitan__lab/n/n195d23105721",
     "https://note.com/tenorsharejp/n/n45489a280485",
+    "https://note.com/soel_works/n/n06d2f0735f89",
     "https://note.com/pdnob_japan/n/n371087323e0c",
-    "https://note.com/pdnob_japan/n/n425fd1c2a04d",
     "https://note.com/tokoname/n/nde74afd194a9",
-    "https://note.com/navitime_tech/n/nd534691a45b5",
-    "https://note.com/tenorsharejp/n/ned438bebb76c"
+    "https://note.com/pdnob_japan/n/n2ee67ddcd709"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "site:x.com スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）",
@@ -1030,7 +1022,7 @@
     "https://x.com/akatsuki_obana/status/1766030728696131943"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1043,10 +1035,10 @@
     "https://www.linkedin.com/posts/scuti-jsc_新しい記事を公開しました-非定型帳票ocrの精度向上に役立つ7つの秘訣-非定型帳票-activity-7288113032184901632-9C3i",
     "https://jp.linkedin.com/posts/updf-in-japan_pdfをexcelに変換する方法4選無料ocr表崩れ対策まで解説-activity-7458341157840789504-RJUB",
     "https://jp.linkedin.com/pulse/紙をスキャンしたpdfファイルから完璧な文字起こし-昇-早川-fxync",
-    "https://jp.linkedin.com/learning/office-apps-for-mobile-essential-training/2885101"
+    "https://jp.linkedin.com/pulse/pdf-screenshot-ocr-analysis-google-gemini-pro-evgenios-skitsanos-htapf?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1058,26 +1050,26 @@
     "https://www.facebook.com/sourcenext/videos/ocr文字認識ソフト読取革命-ver17文字画像をテキスト化元の配置のままoffice形式pdfにしますaiが文字化けも修正要約翻訳モバイルpdf作成やスマホ画/489039680530937/",
     "https://www.facebook.com/sourcenext/videos/pdf作成ソフトいきなりpdf-from-スキャナスキャナで読み込んだデータを画像ではなく透明テキスト付きpdfに変換検索はもちろんコピーもできるようになります/892239432755154/",
     "https://www.facebook.com/WindowsJapan/photos/画像内の文字をコピーするhttpmsftit6189sucqssnipping-tool-の-ocr-機能を使えばキャプチャした画像内の文字をテキスト-データと/1137122535110039/",
-    "https://www.facebook.com/otsukashokaiworkstyleinnovation/videos/スキャンをもっと便利にquickスキャン-ai/1184571766584736/",
-    "https://www.facebook.com/aiinside/videos/ai-ocrほぼ100の読取精度の事例あり/1052139467804816/"
+    "https://www.facebook.com/aiinside/videos/ai-ocrほぼ100の読取精度の事例あり/1052139467804816/",
+    "https://www.facebook.com/bengokakumei/photos/弁護革命のocrの文字埋め込みが改善されました文字画像とほぼぴったり合うのでコピーアンドペーストやマーキングのときにより使いやすくなりましたテキストの読み取り精/820475333419341/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） note 社長",
    "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
     "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
-    "https://www.smartocr.jp/ocr-lab/?p=1272",
-    "https://www.panasonic.com/jp/business/its/ocr/column/column-44.html",
-    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
-    "https://parseur.com/ja/burogu/pdf-ocr",
-    "https://copyki-pr.com/blog/304?srsltid=AYCX9vLw6ciXSAt4GSTgG7-_qg5s8lWvyACQKWcNT0y3dAf_K_7DNmep",
-    "https://www.youtube.com/watch?v=JWth3sW1QBE",
-    "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp"
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://www.polypdf.com/ja/blog/ocr-scanned-pdf-drawings/"
    ],
    "engines": [
     "yahoo_jp"
@@ -1087,15 +1079,15 @@
   {
    "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） X 投稿",
    "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
     "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
     "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
-    "https://www.smartocr.jp/ocr-lab/?p=1272",
-    "https://www.panasonic.com/jp/business/its/ocr/column/column-44.html",
-    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
-    "https://parseur.com/ja/burogu/pdf-ocr",
-    "https://copyki-pr.com/blog/304?srsltid=AYCX9vJJNT8Jf0HkykgoxeT36XtmjMKf6XehdNcBPCdc1xWcMdbLvVb3",
-    "https://www.youtube.com/watch?v=JWth3sW1QBE",
-    "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp"
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://www.polypdf.com/ja/blog/ocr-scanned-pdf-drawings/"
    ],
    "engines": [
     "yahoo_jp"
@@ -1107,269 +1099,24 @@
    "results": [
     "https://www.linkedin.com/pulse/traditional-ocr-vs-modern-document-data-understanding-sayantan-datta-clalc",
     "https://www.linkedin.com/posts/hxiao87_announcing-jina-ocr-v1-our-new-visual-document-activity-7506379945032458241-YwUF",
-    "https://www.linkedin.com/posts/nishantha-ruwan-15b301b2_type-safe-is-not-error-free-a-constrained-activity-7508515902863228929-s-MT",
     "https://www.linkedin.com/posts/jstaats_9-ai-tax-tools-accounting-firms-wont-shut-activity-7376624025323843584-5Nyd",
+    "https://www.linkedin.com/posts/nishantha-ruwan-15b301b2_type-safe-is-not-error-free-a-constrained-activity-7508515902863228929-s-MT",
     "https://www.linkedin.com/posts/deepaksheoran_fundadministration-privateequity-venturecapital-activity-7391513497127411712-Pgsk",
-    "https://www.linkedin.com/in/shashank-yadav-cs",
     "https://www.linkedin.com/in/aatmaj-salunke-7106041b0",
     "https://www.linkedin.com/in/cgrupman",
     "https://uz.linkedin.com/in/dostonbek-oripjonov-356b2b12b",
+    "https://www.linkedin.com/posts/mohammad-mohammadi-99b0a9155_iccp2026-activity-7483964963439407104-HrGp",
     "https://www.linkedin.com/in/kettia-pierre-88756929"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "多くの従来型OCRはテキストのみ抽出し、他アプリケーションへの連携が難しいケースがあります",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "で、注文処理速度・効率が高まり、結果として注文処理の迅速化・顧客満足度の向上につながります",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "OCR機能を活用した業務改善＆ポカよけ事例",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここでは、OCR機能を活用した具体的な業務改善事例を紹介します",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここまで説明した文字認識（OCR）機能の導入事例の詳細や、業務改善の方法をわかりやすくまとめた資料を以下のボタンよりダウンロードいただけます",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "文字認識（OCR）の詳しい説明やハンディターミナルの基礎、業界ごとの導入事例を多数掲載！",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "入庫時に消費期限と商品データを紐づけたり、現品と在庫データを照合したりといった作業が目視チェックと手入力の場合、日々の業務において大きな負担となります",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "現品票の2次元コードと現品のコンテナなどに表示された文字列を素早く照合できます",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "指示書との照合や、工程の記録を素早く正確に実行することができます",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "主な処理ステップは3つあります：",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "多くの従来型OCRはテキストのみ抽出し、他アプリケーションへの連携が難しいケースがあります",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "従来型OCRの限界を克服するため、ゾーンOCRやAI OCRなどの高度なOCR技術が登場しています",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "はもっと広義の概念で、OCR・パース・スクレイピング・コピー&ペーストなど、何らかの方法でPDFからデータを取り出す手法すべてを含みます",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "AI OCR（人工知能による光学式文字認識）は、従来型の文字認識技術に機械学習やディープラーニングを組み合わせて、文書からテキストを自動的に抽出・分類・構造化します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2026年にPDFファイルからデータを抽出する方法",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、Parseurを使って数秒でPDFから自動的にデータを抽出する方法を解説します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "文字認識（OCR）で働き方が激変！?目視チェック＆手入力を今すぐやめる方法｜ものづくりの現場トピックス | キーエンス",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "文字認識（OCR）で働き方が激変！?目視チェック＆手入力を今すぐやめる方法",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "概要からその選び方や活用方法まで詳しく解説します",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "バーコードや2次元コードがない場合の作業の手間や時間、ポカミスをなくす方法はたった1つ、目視チェックと手入力を今すぐやめるしかありません",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ハンディターミナルでの文字認識（OCR）機能の活用・運用方法を詳しくまとめた資料を以下のボタンよりダウンロードいただけます",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここまで説明した文字認識（OCR）機能の導入事例の詳細や、業務改善の方法をわかりやすくまとめた資料を以下のボタンよりダウンロードいただけます",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "文字や数字の読み違い、入力時の書き間違いやタイピング入力時のミスといったポカミスを100％防止することは困難です",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み | Parseur®",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF OCR（光学式文字認識）は、スキャンされたPDFや画像ベースのファイルを、機械で読み取れる検索可能なテキストに変換する技術です",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF OCRツールはスキャンページの画像を処理し、文字を識別し、検索・コピー・構造化データ化できる編集可能なテキストを出力します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "が1993年にPortable Document Format (PDF) を初めて導入し、その後、国際標準化機構（ISO）32000標準も登場しました",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2.5兆本以上のPDF",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDFは長年の進化を経て、多機能で高性能なさまざまなバージョンが生まれています",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDFから手作業でテキストを抽出する際の課題",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDFは多くの業種で利用されていますが、今なお多くの企業では手作業でのデータ入力が行われています",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "OCRは画像やスキャンPDF、手書き文字を機械で読み取れるテキストに変換します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF OCRは、データを検索・編集可能なデータに変換します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF OCR vs PDFパーサー vs PDFデータ抽出",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "**PDFパーシング（PDF parsing）**はさらに一歩進んで、文書構造を分析し、意味のあるフィールドを特定して構造化データとして整理します",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "既存（非スキャン）PDFの場合、パースではOCRは不要です",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "スキャンPDFの場合はまずOCRが動作し、その後パースで構造化されます",
-    "url": "https://parseur.com/ja/burogu/pdf-ocr",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "さまざまな業界の現場を数多く知るキーエンスでは、ハンディターミナルのOCR機能に、独自開発の文字認識アルゴリズムを採用しました",
-    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 5,
+ "new_this_run": {},
+ "runs": 6,
  "first_researched_at": "2026-11-07T12:08:47.575659+00:00"
 }

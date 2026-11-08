@@ -8,74 +8,14 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T12:36:53.245186+00:00",
+ "researched_at": "2026-11-08T20:10:27.807870+00:00",
  "evidence": {
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "ただし「複数使えば必ず正しくなる」わけではなく、結果が食い違ったときの解釈こそが重要とされます",
-    "url": "https://scholarcompass.net/columns/184",
+    "quote": "terim_guidelines_15may2007_en.pdf",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
     "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば看護研究で褥瘡（じょくそう）ケアの効果を調べる場合、異なる患者グループ（高齢者・術後患者・長期臥床患者）、異なる時間帯（朝・昼・夜のケア後）、異なる病棟（内科・外科・集中治療室）からデータを集める、といった形が挙げられます",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "重要なのは、トライアンギュレーションは必ずしも「結果を一致させて裏づける」ためだけの手法ではない、という点です",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、質的データと量的データのように性質の異なる結果をどう統合するかは、それ自体が難しい課題です",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結果が一致しなかったときに、どちらかを切り捨てるのではなく、なぜ食い違ったのかを考察することが、トライアンギュレーションの本質だとされます",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q4. 結果が食い違ったらどうすればいいですか？",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なぜ結果がずれたのか（対象・時期・方法の違い、測定の限界など）を考察する",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どちらの立場を主張するかによって結果が異なります",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-08"
    },
    {
     "quote": "三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません",
@@ -84,62 +24,8 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります\" />",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Aggregate analysis. It is the first level; selecting individuals for the study, not groups, or relationships, or organizations. This level of analysis is called aggregate because it does not establish social relationships among that observed. Random samples of house workers, school students, and laborers are examples of aggregate analysis of persons.",
+    "quote": "PDF (2.2 MB)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "; as mentioned, it is the combination of two or more types of triangulation in a study. Using triangulation within methods and researcher triangulation in a study or using triangulation within methods and among methods in a study are two examples of multiple triangulation. Kimchi",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "., give as an example the study by Wallson",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the quantitative methods take precedence and can be complemented with qualitative methods. In that case, the",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "If a research problem is quantitative, the characteristics described are not applicable. Researchers can locate substantial and relevant literature about the topic, create a conceptual map, and identify hypothesis to test. In this case, the research design is comparative or correlational, experimental or quasi-experimental.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "), exceptions can be made if the norms so permit, or if a comparison is available of a normal group, to interpret the results. For example, if dealing with the anxiety of the relatives in the waiting room, the anxiety scales can be interpreted with the norms available for anxiety scales.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "but those subjects included or the incidental observations in the qualitative part must be selected according with the criterion of good participants than through random selection. Thereby, the subjects selected for the quantitative sample must have greater experience and articulation, and the observations selected must consider the best examples of the situation.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "or focus groups, to provide different levels of detail and voice. For example, what people share in a",
-    "url": "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -1050,6 +936,96 @@
   ],
   "失敗・落とし穴": [
    {
+    "quote": "cies and biases that come from any single method. In other words,",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "important for decreasing bias in gathering, reporting and/or analys-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "their approaches, biases and findings to be directly compared and",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A key strength of investigator triangulation is the reduction of bias",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "that having multiple investigators not only reduces bias but can also",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "While a reduction in bias is a strength of investigator triangulation,",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the data? What are the biases in the data? Were the data collec-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• Are there important biases or limitations in the available data?",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and sample size, determine if there is any bias and evaluate the data",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "What are the biases in the data? Bias is common in data sets of",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "all types. However, it is important to understand the bias before us-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ing data in triangulation. There are several different types of bias,",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "but observer, confounding and selection bias are three of the most",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• Observer bias is when the investigator’s subjective perspective",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• Confounding bias occurs when the dependent variable of inter-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
     "quote": ": methods disagree. Your survey says users love the new feature; your interviews say users find it confusing. This is not a failure of triangulation — it is the most valuable outcome, because it tells you something is going on that one method is missing. Common causes: social desirability bias in surveys, unrepresentative interview samples, or two methods actually measuring different things.",
     "url": "https://www.koji.so/docs/triangulation-in-research-guide",
     "pass": 3,
@@ -1146,7 +1122,163 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
+   {
+    "quote": "specifically in the analysis of data. In this case, several different",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— for example, data analysis triangulation (i.e. the combination",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, the core activities involved in monitoring and evaluating the",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "behavioural surveillance surveys, disease case reporting, operational",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, national M&E systems put subnational program-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "HIV response. For example, a partnership between the M&E unit in",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "quantity and quality of the data. For example, having too few data",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "findings. For example, qualitative findings may help explain the suc-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methodology; for example, an investigator is most adept at either",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "it can be a weakness as well. For example, different investigators",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "valid conclusion. However, in these cases it is important to consider",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "on an achievable goal or goals. For example, a goal of data trian-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "data for use in triangulation. For example, in some cases there are",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, it is important to identify the type and format of the data",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "for example, prioritizing the findings most relevant to the goal(s) of",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし「複数使えば必ず正しくなる」わけではなく、結果が食い違ったときの解釈こそが重要とされます",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば看護研究で褥瘡（じょくそう）ケアの効果を調べる場合、異なる患者グループ（高齢者・術後患者・長期臥床患者）、異なる時間帯（朝・昼・夜のケア後）、異なる病棟（内科・外科・集中治療室）からデータを集める、といった形が挙げられます",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "重要なのは、トライアンギュレーションは必ずしも「結果を一致させて裏づける」ためだけの手法ではない、という点です",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、質的データと量的データのように性質の異なる結果をどう統合するかは、それ自体が難しい課題です",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結果が一致しなかったときに、どちらかを切り捨てるのではなく、なぜ食い違ったのかを考察することが、トライアンギュレーションの本質だとされます",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q4. 結果が食い違ったらどうすればいいですか？",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なぜ結果がずれたのか（対象・時期・方法の違い、測定の限界など）を考察する",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どちらの立場を主張するかによって結果が異なります",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
@@ -1154,8 +1286,62 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "PDF (2.2 MB)",
+    "quote": "優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります\" />",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Aggregate analysis. It is the first level; selecting individuals for the study, not groups, or relationships, or organizations. This level of analysis is called aggregate because it does not establish social relationships among that observed. Random samples of house workers, school students, and laborers are examples of aggregate analysis of persons.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "; as mentioned, it is the combination of two or more types of triangulation in a study. Using triangulation within methods and researcher triangulation in a study or using triangulation within methods and among methods in a study are two examples of multiple triangulation. Kimchi",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "., give as an example the study by Wallson",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the quantitative methods take precedence and can be complemented with qualitative methods. In that case, the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "If a research problem is quantitative, the characteristics described are not applicable. Researchers can locate substantial and relevant literature about the topic, create a conceptual map, and identify hypothesis to test. In this case, the research design is comparative or correlational, experimental or quasi-experimental.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "), exceptions can be made if the norms so permit, or if a comparison is available of a normal group, to interpret the results. For example, if dealing with the anxiety of the relatives in the waiting room, the anxiety scales can be interpreted with the norms available for anxiety scales.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "but those subjects included or the incidental observations in the qualitative part must be selected according with the criterion of good participants than through random selection. Thereby, the subjects selected for the quantitative sample must have greater experience and articulation, and the observations selected must consider the best examples of the situation.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or focus groups, to provide different levels of detail and voice. For example, what people share in a",
+    "url": "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -1165,7 +1351,32 @@
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomokikurosawa/n/nd32deefb9c94",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mind_glitch_jp/n/n2e0e4550b0b1",
     "status": "ok",
     "method": "http"
    },
@@ -1195,6 +1406,11 @@
     "method": "http"
    },
    {
+    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "status": "ok",
     "method": "http"
@@ -1205,17 +1421,7 @@
     "method": "http"
    },
    {
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.igaku-shoin.co.jp/paper/archive/old/old_article/n2000dir/n2374dir/n2374_03.htm",
     "status": "ok",
     "method": "http"
    },
@@ -1250,18 +1456,28 @@
     "method": "http"
    },
    {
-    "url": "https://www.facebook.com/groups/392475537604725/posts/1385309408321328/",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
  "search_log": [
   {
    "query": "トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/kasano/n/n5300393c2f30",
+    "https://note.com/saito_lab/n/n554cd436c4ae",
+    "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "https://note.com/kasano/n/n7b5909b6492c",
+    "https://note.com/tomokikurosawa/n/nd32deefb9c94",
+    "https://note.com/mind_glitch_jp/n/n2e0e4550b0b1",
+    "https://note.com/saito_lab/n/n1c8a7d0eac6e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法） note",
@@ -1285,14 +1501,14 @@
    "query": "トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法） やり方",
    "results": [
     "https://scholarcompass.net/columns/184",
-    "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "https://jasr.or.jp/wp/asr/asrpdf/asr11/asr11_020.pdf",
+    "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://thinkindata.info/column/561/",
     "https://www.ritsumei.ac.jp/file.jsp?id=254534",
+    "https://thinkindata.info/column/561/",
     "https://clitama.human-relation.net/triangulation/",
-    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research"
+    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html"
    ],
    "engines": [
     "yahoo_jp"
@@ -1304,12 +1520,12 @@
    "results": [
     "https://jasr.or.jp/wp/asr/asrpdf/asr11/asr11_020.pdf",
     "https://scholarcompass.net/columns/184",
+    "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "https://note.com/goldmist1959/n/nb892f5128ad2",
     "https://www.ritsumei.ac.jp/file.jsp?id=254534",
     "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "https://clitama.human-relation.net/triangulation/",
     "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://www.igaku-shoin.co.jp/paper/archive/old/old_article/n2000dir/n2374dir/n2374_03.htm",
     "https://www.questionpro.com/blog/ja/%E6%B7%B7%E5%90%88%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6%EF%BC%9A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E6%8A%80%E6%B3%95%E3%81%AE%E6%A6%82%E8%A6%81/"
    ],
    "engines": [
@@ -1325,31 +1541,31 @@
     "https://casrai.org/guides/triangulation-in-research",
     "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
     "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=6071&context=tqr",
-    "https://www.facebook.com/groups/392475537604725/posts/1385309408321328/",
-    "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "https://www.scribd.com/document/878645704/R2-Triangulation",
     "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
-    "https://delvetool.com/blog/triangulation-qualitative-research"
+    "https://delvetool.com/blog/triangulation-qualitative-research",
+    "https://www.facebook.com/groups/392475537604725/posts/1385309408321328/",
+    "https://atlasti.com/guides/the-guide-to-mixed-methods-research/triangulation-in-mixed-methods-research",
+    "https://qualpage.com/2018/01/18/triangulation-in-qualitative-research/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）",
    "results": [
-    "https://note.com/tomokikurosawa/n/nd32deefb9c94",
-    "https://note.com/kasano/n/n7b5909b6492c",
-    "https://note.com/goldmist1959/n/nb892f5128ad2",
     "https://note.com/saito_lab/n/n554cd436c4ae",
+    "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "https://note.com/tomokikurosawa/n/nd32deefb9c94",
     "https://note.com/kasano/n/n5300393c2f30",
+    "https://note.com/kasano/n/n7b5909b6492c",
     "https://note.com/mind_glitch_jp/n/n2e0e4550b0b1",
     "https://note.com/saito_lab/n/n1c8a7d0eac6e"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1358,8 +1574,7 @@
    "results": [
     "https://x.com/grok/status/2111052669062160766",
     "https://x.com/fujimicho/status/2087798382307975514",
-    "https://x.com/grok/status/2114927422046974286",
-    "https://x.com/NazologyInfo/status/2042151276511985758",
+    "https://x.com/j0OmcPKEmMMkNWX/status/2033076509397983506",
     "https://x.com/ruka_identity_/status/2114484866326900800",
     "https://x.com/IUTTOfSM1969/status/2117560849460264970",
     "https://x.com/fukuokagenzei/status/2077268878036762657"
@@ -1367,16 +1582,16 @@
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 6
   },
   {
    "query": "site:linkedin.com トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）",
    "results": [
-    "https://jp.linkedin.com/pulse/key-ai-innovation-embracing-alternative-data-game-diego-lgidf?tl=ja",
-    "https://jp.linkedin.com/pulse/how-use-game-theory-data-analytics-improve-profits-business-burgess?tl=ja",
+    "https://jp.linkedin.com/pulse/from-theory-practice-data-driven-decision-making-hamad-ali-alawadhi?tl=ja",
     "https://jp.linkedin.com/pulse/operation-triangulation-sitanshu-sai-theerthala-szfmc?tl=ja",
-    "https://jp.linkedin.com/pulse/operation-triangulation-most-sophisticated-attack-chain-türker-1txzf?tl=ja",
+    "https://jp.linkedin.com/pulse/how-use-game-theory-data-analytics-improve-profits-business-burgess?tl=ja",
     "https://www.linkedin.com/pulse/リサーチデザイン-経営知識創造の基本技術-昌幸-増田",
+    "https://jp.linkedin.com/pulse/operation-triangulation-most-sophisticated-attack-chain-türker-1txzf?tl=ja",
     "https://www.linkedin.com/posts/finelabcoach_fine理論的事実と解釈-私たちは目の前で起きた事実にそのまま反応しているわけではありません-activity-7502938939314561024-BZLU",
     "https://jp.linkedin.com/posts/haposoftjp_haposoft-eコマース-オンライン詐欺-activity-7232604258213195776-fzNb"
    ],
@@ -1389,15 +1604,15 @@
    "query": "site:facebook.com トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）",
    "results": [
     "https://www.facebook.com/kyoritsu.pub/posts/2022年2月新刊統計的データクリーニングの理論と実践rによるデータ編集欠測補完システムの訳者和田かず美先生よりコメントをいただきました-本書は国内の調査統計の/1908273619379416/",
-    "https://www.facebook.com/WasedaU/videos/理論とデータで導く世界平和️早稲田大学-ではポッドキャスト-博士一歩前を配信中vol5では政治経済学術院の多湖教授をゲストに国際政治を科学する理論とデータで導く/1293414318393426/",
     "https://www.facebook.com/haposoftjapanese/posts/122133480656310298/",
-    "https://www.facebook.com/churaku/videos/痛いところを思わず手でさするぶつけたときも肩がつらいときも無意識にやっていませんか実はこれ単なる癖ではありません触れる刺激は脳や神経が痛みを処理する仕組みに影響/1032485843135324/",
     "https://www.facebook.com/kaoru.ikeya.1/photos/国旗損壊罪は憲法が保障する表現の自由を侵害するとんでもない法案であるそもそも処罰対象の規定がおそろしく曖昧で客観性をまったく担保していない人に著しく不快又は嫌悪/26989348200750158/",
+    "https://www.facebook.com/churaku/videos/痛いところを思わず手でさするぶつけたときも肩がつらいときも無意識にやっていませんか実はこれ単なる癖ではありません触れる刺激は脳や神経が痛みを処理する仕組みに影響/1032485843135324/",
+    "https://www.facebook.com/61573608712918/videos/1173324654735607/",
     "https://www.facebook.com/jsgymwingchun/videos/対人練習で動きが止められたらその問題を木人樁に持ち帰る使える選択肢を探し何度も繰り返し再び相手の抵抗の中で試してみる木人樁は型を繰り返すためだけのものではありま/1059659986700222/",
     "https://www.facebook.com/sociorium/videos/244民主的理性６規範的アプローチエレーヌランデモア民主的理性勁草書房シュンペーター主義-参加理論-熟議理論-認識的民主主義エレーヌランドモア民主的理性第2章を/2037393396930867/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1452,14 +1667,207 @@
     "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 10,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "terim_guidelines_15may2007_en.pdf",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "cies and biases that come from any single method. In other words,",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "important for decreasing bias in gathering, reporting and/or analys-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "their approaches, biases and findings to be directly compared and",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A key strength of investigator triangulation is the reduction of bias",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "that having multiple investigators not only reduces bias but can also",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "While a reduction in bias is a strength of investigator triangulation,",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the data? What are the biases in the data? Were the data collec-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• Are there important biases or limitations in the available data?",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and sample size, determine if there is any bias and evaluate the data",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "What are the biases in the data? Bias is common in data sets of",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "all types. However, it is important to understand the bias before us-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ing data in triangulation. There are several different types of bias,",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "but observer, confounding and selection bias are three of the most",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• Observer bias is when the investigator’s subjective perspective",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• Confounding bias occurs when the dependent variable of inter-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "specifically in the analysis of data. In this case, several different",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— for example, data analysis triangulation (i.e. the combination",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, the core activities involved in monitoring and evaluating the",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "behavioural surveillance surveys, disease case reporting, operational",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, national M&E systems put subnational program-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "HIV response. For example, a partnership between the M&E unit in",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "quantity and quality of the data. For example, having too few data",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "findings. For example, qualitative findings may help explain the suc-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methodology; for example, an investigator is most adept at either",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "it can be a weakness as well. For example, different investigators",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "valid conclusion. However, in these cases it is important to consider",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "on an achievable goal or goals. For example, a goal of data trian-",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "data for use in triangulation. For example, in some cases there are",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, it is important to identify the type and format of the data",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "for example, prioritizing the findings most relevant to the goal(s) of",
+    "url": "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 11,
  "first_researched_at": "2026-11-06T13:04:12.994472+00:00"
 }

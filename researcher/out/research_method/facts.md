@@ -7822,40 +7822,41 @@
   - 「4. Methodological triangulation」（https://www.koji.so/docs/triangulation-in-research-guide）
   - 「Between-method triangulation is what most practitioners mean when they say "triangulation" without qualifying.」（https://www.koji.so/docs/triangulation-in-research-guide）
 - 一次情報の探し方：
+  - 「terim_guidelines_15may2007_en.pdf」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
   - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「PDF (2.2 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
 - 失敗・落とし穴：
-  - 「: methods disagree. Your survey says users love the new feature; your interviews say users find it confusing. This is not a failure of triangulation — it is the most valuable outcome, because it tells you something is going on that one method is missing. Common causes: social desirability bias in surveys, unrepresentative interview samples, or two methods actually measuring different things.」（https://www.koji.so/docs/triangulation-in-research-guide）
-  - 「The mistake new researchers make is treating divergence as a problem to be hidden. Experienced researchers treat it as a finding to be investigated.」（https://www.koji.so/docs/triangulation-in-research-guide）
-  - 「Common triangulation mistakes」（https://www.koji.so/docs/triangulation-in-research-guide）
-  - 「— biases that triangulation helps surface and correct」（https://www.koji.so/docs/triangulation-in-research-guide）
-  - 「Research Bias: The Complete Guide to Cognitive Biases That Corrupt User Research」（https://www.koji.so/docs/triangulation-in-research-guide）
-  - 「A comprehensive guide to the 9 most damaging cognitive biases in user research — from confirmation bias to social desirability bias — with practical strategies to detect and eliminate them before they corrupt your findings.」（https://www.koji.so/docs/triangulation-in-research-guide）
-  - 「この記事では、トライアンギュレーションの意味、デンジンによる4つの種類、目的、具体例、混合研究法との関係、注意点までを、研究法の標準的な文献にもとづいて整理します」（https://scholarcompass.net/columns/184）
-  - 「ただし注意点として、「トライアンギュレーション」という言葉は、デンジンが提唱した」（https://scholarcompass.net/columns/184）
-  - 「トライアンギュレーションのメリットと注意点」（https://scholarcompass.net/columns/184）
-  - 「それぞれの方法が同じ弱点（バイアス）を共有していれば、いくつ重ねても偏りは補正されません」（https://scholarcompass.net/columns/184）
-  - 「：方法を増やすこと自体が目的化しないよう注意が必要です」（https://scholarcompass.net/columns/184）
-  - 「食い違いは失敗ではなく、重要な手がかりです」（https://scholarcompass.net/columns/184）
-  - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「Moreover, each class of data generated -interviews, questionnaires, observation and physical evidence- is potentially biased and its specificity may be threatened. Ideally, data should converge,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
+  - 「cies and biases that come from any single method. In other words,」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「important for decreasing bias in gathering, reporting and/or analys-」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「their approaches, biases and findings to be directly compared and」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「A key strength of investigator triangulation is the reduction of bias」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「that having multiple investigators not only reduces bias but can also」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「While a reduction in bias is a strength of investigator triangulation,」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「the data? What are the biases in the data? Were the data collec-」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「• Are there important biases or limitations in the available data?」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「and sample size, determine if there is any bias and evaluate the data」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「What are the biases in the data? Bias is common in data sets of」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「all types. However, it is important to understand the bias before us-」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「ing data in triangulation. There are several different types of bias,」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「but observer, confounding and selection bias are three of the most」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「• Observer bias is when the investigator’s subjective perspective」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「• Confounding bias occurs when the dependent variable of inter-」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
 - 実例：
-  - 「ただし「複数使えば必ず正しくなる」わけではなく、結果が食い違ったときの解釈こそが重要とされます」（https://scholarcompass.net/columns/184）
-  - 「例えば看護研究で褥瘡（じょくそう）ケアの効果を調べる場合、異なる患者グループ（高齢者・術後患者・長期臥床患者）、異なる時間帯（朝・昼・夜のケア後）、異なる病棟（内科・外科・集中治療室）からデータを集める、といった形が挙げられます」（https://scholarcompass.net/columns/184）
-  - 「例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です」（https://scholarcompass.net/columns/184）
-  - 「重要なのは、トライアンギュレーションは必ずしも「結果を一致させて裏づける」ためだけの手法ではない、という点です」（https://scholarcompass.net/columns/184）
-  - 「結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます」（https://scholarcompass.net/columns/184）
-  - 「また、質的データと量的データのように性質の異なる結果をどう統合するかは、それ自体が難しい課題です」（https://scholarcompass.net/columns/184）
-  - 「結果が一致しなかったときに、どちらかを切り捨てるのではなく、なぜ食い違ったのかを考察することが、トライアンギュレーションの本質だとされます」（https://scholarcompass.net/columns/184）
-  - 「：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります」（https://scholarcompass.net/columns/184）
-  - 「Q4. 結果が食い違ったらどうすればいいですか？」（https://scholarcompass.net/columns/184）
-  - 「なぜ結果がずれたのか（対象・時期・方法の違い、測定の限界など）を考察する」（https://scholarcompass.net/columns/184）
-  - 「どちらの立場を主張するかによって結果が異なります」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「Aggregate analysis. It is the first level; selecting individuals for the study, not groups, or relationships, or organizations. This level of analysis is called aggregate because it does not establish social relationships among that observed. Random samples of house workers, school students, and laborers are examples of aggregate analysis of persons.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
+  - 「specifically in the analysis of data. In this case, several different」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「— for example, data analysis triangulation (i.e. the combination」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「example, the core activities involved in monitoring and evaluating the」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「behavioural surveillance surveys, disease case reporting, operational」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「For example, national M&E systems put subnational program-」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「HIV response. For example, a partnership between the M&E unit in」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「quantity and quality of the data. For example, having too few data」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「findings. For example, qualitative findings may help explain the suc-」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「methodology; for example, an investigator is most adept at either」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「it can be a weakness as well. For example, different investigators」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「valid conclusion. However, in these cases it is important to consider」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「on an achievable goal or goals. For example, a goal of data trian-」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「data for use in triangulation. For example, in some cases there are」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「example, it is important to identify the type and format of the data」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
+  - 「for example, prioritizing the findings most relevant to the goal(s) of」（https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf）
 
 ## 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）（reconcile downloaded statistical tables with official summary totals data validation）
 - 文脈：統計
@@ -11843,6 +11844,11 @@
   - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「合併公告と決算公告の同時掲載とは？手順・費用・スケジュールを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「会社法の要件から官報申込みまで、実務担当者が迷わず進められる手順を紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「公告方法の種類ごとの メリット、デメリット」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「その方法は様々であり、官報、日刊新聞紙、電子公告などがあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「それぞれの方法にはメリットとデメリットが存在し、適切な選択が求められます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「作成手順（5ステップ）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「3つの公告方法別｜費用・手間・掲載期間を比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「Q7. 官報での決算公告の申込み手順を教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11850,11 +11856,6 @@
   - 「貸借対照表の要旨は、以下の5ステップで作成できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「ステップ1: 自社の会社分類を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「ステップ2: 決算書から必須科目の金額を転記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ3: 表示単位を決定し、金額を変換する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ4: 当期純利益（又は当期純損失）を付記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ5: 資産合計と負債純資産合計の一致を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ここでは、典型的な中小企業（非大会社・非公開会社）を想定した記入済みサンプルを掲載します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「貸借対照表の要旨を実際に公告する方法は3つあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 一次情報の探し方：
@@ -11887,6 +11888,9 @@
   - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 実例：
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「貸借対照表の数値だけを転記して満足してしまい、損益計算書の数値である当期純利益の付記を忘れるケースが後を絶ちません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11898,9 +11902,6 @@
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 
 ## 検索の記録を再現できる形で残す実務（PRISMA-S：データベースと入口のプラットフォームを分ける・絞り込みと件数・灰色文献・検索エンジンの個人化の偏り）（PRISMA-S reporting literature search platform database limits grey literature personalization bias reproducible）
 - 文脈：手法
@@ -14577,11 +14578,47 @@
 
 ## 統計の対象範囲と裾切りの一覧（企業活動基本調査・法人企業統計・経済センサス・工業統計・中小企業実態基本調査の対象規模と抽出の違い・白書の凡例と各調査の利用上の注意・4-112）（Japan official statistics coverage thresholds SME survey comparison）
 - 文脈：探し先
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「there are changes in the data collection methodology. Such breaks in the historical data series have been mitigated」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「SME classification standards, but also on different data collection methodologies. For instance,」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「methodologies and the limits o f cross-economy comparisons, a single point in time may not」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「SMEs. There are several methods through which an SME can increase it s level of」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「addition, varying definitions of SMEs as well as different data co llection methodologies and」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「1 In Australia, a revised methodology was used to calculate SME exports data in 2013 -14. Data for years prior to」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「industries. A revised methodology was used to calculate the value of SME exports data in 2013-14. Data for years」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「the natural method and traditional dyeing skills disappeared in the middle of the 20th century. The case」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「characteristics in a timely manner using best practices in data collection and methodology.」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「methodologies c ould be conducted in order to assist APEC members in improving the」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「Korea: The law defining SMEs – Framework Act on Small and Medium Enterprises – was most recently amended in 2014 with effect from 2015, removing the number of」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「policies by explaining the objectives, key stakeholders, method(s) of implementation, and」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+- 突き合わせ・推定：
+  - 「2 Data shown for China are the number of legal entities and is based on the generally accepted estimate that 99.6%」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「estimated to account for around 85% of the total economy.」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「2 Data shown for China are based on the generally accepted estimate that employment by SMEs accounts for over」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「3 Data shown for China are based on the generally accepted estimate that SMEs contribute over 60% of GDP in」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「Data shown for China are estimates calculated by the APEC PSU using data」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「estimates as to the contribution of SMEs (share of en terprises, share of」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「informal sector is estimated to account for around 85% of the Papua New」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「estimated 48.4% of MSMEs unregistered with the tax authority SUNAT.)」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「Singapore Singapore Department of Statistics (DOS) online database (“Topline Estimates For All Enterprises And SMEs, Annual”) Enterprises include companies, businesses, non -profit organisations, ministries, statutory boards and government / government-aided schools.」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+- 実例：
+  - 「Annex 2: Case Study Template ........................................................................ 47」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「2 For example, Haltiwanger et al. (2017) found that high-growth young firms contribute disproportionately to job」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「seen over a shorter period of time. For example, within the service sector in Hong Kong, China,」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「example as to the distribution of SME goods exports by industry sector . In 2016-17, SMEs」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「experience with respect to internationalization activities. For example, financial barriers such」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「To supplement this study, the PSU encouraged SMEWG members to submit case studies that」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「(Annex 2). The PSU received case study submissions from Chile and Chinese Taipei. These」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「case studies highlight the key issues and challenges – such as access to finance and a lack of」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「detailed summary of the case studies received from Chile and Chinese Taipei.」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「Box 3. Summary of SME Case Studies Submitted by APEC Members」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「the natural method and traditional dyeing skills disappeared in the middle of the 20th century. The case」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「the APEC members currently collect such data – and in some cases there is not complete」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「coverage across all economic sectors . It may indeed be the case that these data are being」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「Please give a precise definition. For example, if small-sized enterprises are differentiated」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+  - 「possible (for example, if the data are disaggregated by firm size or by economic sector).」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
