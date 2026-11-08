@@ -8,7 +8,7 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-08T05:09:56.674705+00:00",
+ "researched_at": "2026-11-08T11:49:41.875078+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -37,6 +37,284 @@
    },
    {
     "quote": "gov/indicator/qss/qsstecdoc.pdf.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "demonstrate how to use these metrics to understand and monitor the response process via",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "statistical process control methods adapted for usage with complex survey data.",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "discussion of work in progress. Any views expressed on statistical, methodological, or operational",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "process control framework. In particular, they advocate analyzing response rates over",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The statistical process control framework generally assumes a large number of",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Section 4 presents two case studies that demonstrate how to analyze the different",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(Methodology and Statistics Council, 2012) defines a respondent as an eligible unit for",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3. Response Rates within a Statistical Process Control Framework",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3 When one survey unit corresponds to more than one reporting unit, the survey methodologists",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "next (Pierchala and Surti, 2009). These stairstep control limits reflect the variability in the",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "therefore followed the authors’ suggestion and produced 5-sigma limit stairstep control",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the MRTS estimates and methodology.",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "System (StEPS). We developed our own GVF parameters for the TQRR control charts by",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the key survey items. Figure 3 presents the modified p-chart with stairstep limits of the",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "increasingly wider stairstep limits.",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Nonresponse Methodology",
+    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "featured changes in data collection and statistical methodology, including upd ated",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2017 using data and methodologies from each period, and provide an initial assessment of",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the impact of various correction sources on data quality. We will discuss next steps for",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Census methods, such as hot deck imputation, cold deck imputation, and using an industry",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Bureau (2020) . Economic Census Methodology.",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "documentation/methodology.html). To increase the efficacy of the new metrics, the 2017",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Economic Census procedures introduced a new, detailed method of tracking the data source",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "was not detailed. These changes could come from two methods, a global change (G) or an",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Due to these methodological and definitional changes, response metrics for the 2012 and",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Before comparing the 2012 EC data and the 2017 EC data using the new methodology, the",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "would be an artifact of the change in methodologies. To better understand the difference in",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.1 Simulating AROSE Methodology for 2012",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The next step is to calculate a new numerator for the 𝑇𝑇𝑇𝑇𝑃𝑃𝑃𝑃2012 from the 2012 EC data.",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "5. Benefits of AROSE Methodology",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The treatment of the simulated 2012 TQRR shows that adding the AROSE methodology",
+    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "rates within the statistical process control framework. Current procedures typically",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "adequate framework for analyzing the response process. Instead, we propose using control",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Directorate, which motivates the proposed control chart framework also introduced in",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "StEPS database. The retrospective analysis examples provided in Section 5.1 are presented",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "computed using the delete-a-group jackknife method. The ACES uses weight adjustment",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "More details concerning the ACES survey design, methodology, and data limitations are",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "receipts for selected service sectors. Standard errors are computed using the method of",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "than-expected value. Thus, a logical next step is to compute response rates by selected",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Assembling S is more involved. For example, programs can use replication methods or",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Taylor linearization methods to obtain point estimates of the variance and autocovariance",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -791,341 +1069,48 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "demonstrate how to use these metrics to understand and monitor the response process via",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "statistical process control methods adapted for usage with complex survey data.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "discussion of work in progress. Any views expressed on statistical, methodological, or operational",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "process control framework. In particular, they advocate analyzing response rates over",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The statistical process control framework generally assumes a large number of",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Section 4 presents two case studies that demonstrate how to analyze the different",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(Methodology and Statistics Council, 2012) defines a respondent as an eligible unit for",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3. Response Rates within a Statistical Process Control Framework",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3 When one survey unit corresponds to more than one reporting unit, the survey methodologists",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "next (Pierchala and Surti, 2009). These stairstep control limits reflect the variability in the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "therefore followed the authors’ suggestion and produced 5-sigma limit stairstep control",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the MRTS estimates and methodology.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "System (StEPS). We developed our own GVF parameters for the TQRR control charts by",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the key survey items. Figure 3 presents the modified p-chart with stairstep limits of the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "increasingly wider stairstep limits.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Nonresponse Methodology",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "featured changes in data collection and statistical methodology, including upd ated",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2017 using data and methodologies from each period, and provide an initial assessment of",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the impact of various correction sources on data quality. We will discuss next steps for",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Census methods, such as hot deck imputation, cold deck imputation, and using an industry",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Bureau (2020) . Economic Census Methodology.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "documentation/methodology.html). To increase the efficacy of the new metrics, the 2017",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Economic Census procedures introduced a new, detailed method of tracking the data source",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "was not detailed. These changes could come from two methods, a global change (G) or an",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Due to these methodological and definitional changes, response metrics for the 2012 and",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Before comparing the 2012 EC data and the 2017 EC data using the new methodology, the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "would be an artifact of the change in methodologies. To better understand the difference in",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.1 Simulating AROSE Methodology for 2012",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The next step is to calculate a new numerator for the 𝑇𝑇𝑇𝑇𝑃𝑃𝑃𝑃2012 from the 2012 EC data.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5. Benefits of AROSE Methodology",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The treatment of the simulated 2012 TQRR shows that adding the AROSE methodology",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rates within the statistical process control framework. Current procedures typically",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "adequate framework for analyzing the response process. Instead, we propose using control",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Directorate, which motivates the proposed control chart framework also introduced in",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "StEPS database. The retrospective analysis examples provided in Section 5.1 are presented",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "computed using the delete-a-group jackknife method. The ACES uses weight adjustment",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "More details concerning the ACES survey design, methodology, and data limitations are",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "receipts for selected service sectors. Standard errors are computed using the method of",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "than-expected value. Thus, a logical next step is to compute response rates by selected",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Assembling S is more involved. For example, programs can use replication methods or",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Taylor linearization methods to obtain point estimates of the variance and autocovariance",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/yuru_business/n/n66bb9ee0b867",
+    "url": "https://note.com/humble_crane7701/n/n917c11401561",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ponyu2/n/n484b6516b357",
+    "url": "https://note.com/uchita_success/n/nfc53d1ef5f81",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/momoen_de/n/n5cf5f4bcf9fd",
+    "url": "https://note.com/hatankokka/n/ne30fff7cfedc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kamokita/n/n53f133d1e585",
+    "url": "https://note.com/kagawatomo/n/n509e3f985875",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/dynatajp/n/n0f5b20f7fcea",
+    "url": "https://note.com/bizgram/n/n9a587c22ec50",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/noahchi_817/n/n5eb6889994ce",
+    "url": "https://note.com/comix_ceo162230/n/ncb862b9364fc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/",
+    "url": "https://note.com/qiqumo/n/nbd0bd5fb4f54",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://freeasy24.research-plus.net/blog/survey-response-rate",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tayori.com/blog/survey-rate-tips/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://smilesurvey.jp/contents/knowledge/no57/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.dm-insight.jp/column/survey4/",
+    "url": "https://surveroid.jp/mr-journal/survey_design/nWDvw",
     "status": "ok",
     "method": "http"
    },
@@ -1135,7 +1120,42 @@
     "method": "http"
    },
    {
-    "url": "https://lifestyle.assist-all.co.jp/survey-analysis-report-guide/",
+    "url": "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tayori.com/blog/survey-rate-tips/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medallia.com/ja/blog/how-to-boost-survey-response-rates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.neo-m.jp/column/marketing-research_151_enquete-response-rate-up",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcas.jp/formulator/knowhow/valid-respondents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/analysis/questionnaire_collection_rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.macromill.com/service/column/entry-080/",
     "status": "ok",
     "method": "http"
    },
@@ -1145,34 +1165,64 @@
     "method": "http"
    },
    {
+    "url": "https://markecchi-lab.com/research-responserate/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/02toukatsu01_03000115.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/jigyou/gaiyou/1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.researchgate.net/publication/289815340_Response_Rates_in_Business_Surveys_Going_Beyond_the_Usual_Performance_Measure",
+    "url": "https://nces.ed.gov/FCSM/pdf/IHSNG_ASA02_finalrad9A6D5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bls.gov/osmr/response-rates/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
+    "url": "https://www.kantar.com/Inspiration/Research-Services/what-is-a-good-survey-response-rate-pf",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2384218/",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "method": "http"
    }
   ]
  },
@@ -1180,851 +1230,245 @@
   {
    "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） site:note.com",
    "results": [
-    "https://note.com/yuru_business/n/n66bb9ee0b867",
-    "https://note.com/ponyu2/n/n484b6516b357",
-    "https://note.com/momoen_de/n/n5cf5f4bcf9fd",
-    "https://note.com/kamokita/n/n53f133d1e585",
-    "https://note.com/dynatajp/n/n0f5b20f7fcea",
-    "https://note.com/noahchi_817/n/n5eb6889994ce",
-    "https://note.com/mmchari_ikihsoy1/n/n088a736dd60c"
+    "https://note.com/humble_crane7701/n/n917c11401561",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "https://note.com/kagawatomo/n/n509e3f985875",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/comix_ceo162230/n/ncb862b9364fc",
+    "https://note.com/kagawatomo/n/n74ea6752ae25",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://note.com/kagawatomo/n/nab03732233e5",
+    "https://note.com/kagawatomo/n/n41abb6bcd142"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 19
   },
   {
    "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） note",
    "results": [
-    "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/",
-    "https://freeasy24.research-plus.net/blog/survey-response-rate",
-    "https://tayori.com/blog/survey-rate-tips/",
-    "https://smilesurvey.jp/contents/knowledge/no57/",
-    "https://www.dm-insight.jp/column/survey4/",
+    "https://note.com/qiqumo/n/nbd0bd5fb4f54",
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
     "https://linx-corp.com/blog/survey-response-rate/",
-    "https://www.webcas.jp/formulator/knowhow/valid-respondents/"
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://tayori.com/blog/survey-rate-tips/",
+    "https://www.medallia.com/ja/blog/how-to-boost-survey-response-rates/",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/analysis/questionnaire_collection_rate/",
+    "https://markecchi-lab.com/research-responserate/",
+    "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） やり方",
    "results": [
-    "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/",
-    "https://freeasy24.research-plus.net/blog/survey-response-rate",
-    "https://smilesurvey.jp/contents/knowledge/no57/",
-    "https://tayori.com/blog/survey-rate-tips/",
-    "https://www.dm-insight.jp/column/survey4/",
-    "https://linx-corp.com/blog/survey-response-rate/",
-    "https://lifestyle.assist-all.co.jp/survey-analysis-report-guide/"
+    "https://corp.neo-m.jp/column/marketing-research_151_enquete-response-rate-up",
+    "https://www.webcas.jp/formulator/knowhow/valid-respondents/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/analysis/questionnaire_collection_rate/",
+    "https://www.medallia.com/ja/blog/how-to-boost-survey-response-rates/",
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "https://www.macromill.com/service/column/entry-080/",
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://www.stat.go.jp/data/jigyou/gaiyou/1.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） 事例",
    "results": [
-    "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/",
-    "https://smilesurvey.jp/contents/knowledge/no57/",
-    "https://freeasy24.research-plus.net/blog/survey-response-rate",
-    "https://tayori.com/blog/survey-rate-tips/",
-    "https://www.dm-insight.jp/column/survey4/",
-    "https://linx-corp.com/blog/survey-response-rate/",
-    "https://unii-research.com/business/media/survey-responserate/"
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://www.medallia.com/ja/blog/how-to-boost-survey-response-rates/",
+    "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "https://markecchi-lab.com/research-responserate/",
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://www.macromill.com/service/column/entry-080/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_rate/",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/02toukatsu01_03000115.html",
+    "https://www.stat.go.jp/data/jigyou/gaiyou/1.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "business survey unit response rate vs quantity response rate imputation share large units",
    "results": [
     "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "https://www.researchgate.net/publication/289815340_Response_Rates_in_Business_Surveys_Going_Beyond_the_Usual_Performance_Measure",
-    "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "https://www.census.gov/about/policies/quality/standards/appendixd3b.html"
+    "https://nces.ed.gov/FCSM/pdf/IHSNG_ASA02_finalrad9A6D5.pdf",
+    "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "https://www.bls.gov/osmr/response-rates/",
+    "https://www.kantar.com/Inspiration/Research-Services/what-is-a-good-survey-response-rate-pf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2384218/",
+    "https://www.snapsurveys.com/blog/importance-calculating-survey-response-rate/",
+    "https://aapor.org/response-rates/",
+    "https://www.mckinley-advisors.com/blog/low-response-rates",
+    "https://www.researchgate.net/publication/289815340_Response_Rates_in_Business_Surveys_Going_Beyond_the_Usual_Performance_Measure"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
    "results": [
-    "https://note.com/momoen_de/n/n5cf5f4bcf9fd",
-    "https://note.com/yuru_business/n/n66bb9ee0b867",
-    "https://note.com/kaigo_mitsuketa/n/ndf6112693014",
-    "https://note.com/ponyu2/n/n484b6516b357",
-    "https://note.com/qiqumo/n/nadbd52e18bdd",
-    "https://note.com/dynatajp/n/n0f5b20f7fcea",
-    "https://note.com/mmchari_ikihsoy1/n/n088a736dd60c"
+    "https://note.com/humble_crane7701/n/n917c11401561",
+    "https://note.com/epolicy_actvst/n/nfe616fc0d062",
+    "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "https://note.com/nec_iise/n/n918b283b59d5",
+    "https://note.com/kengomori/n/n2974437d650d",
+    "https://note.com/career_nic/n/n888c72cb7e82",
+    "https://note.com/hisaya_amano/n/n58af108e789e",
+    "https://note.com/aoyamacpa/n/n61ae30204e43",
+    "https://note.com/seikahaibun/n/n40f1e0202b4a",
+    "https://note.com/iqoys/n/na14b42ab12a6"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
    "results": [
-    "https://x.com/medical_assets_/article/2091192993516806192",
-    "https://x.com/city_ota/status/2058744870928568728",
-    "https://x.com/city_setagaya/status/2043524638647669021",
-    "https://x.com/Yomiuri_Online/status/2090724995693679075",
-    "https://x.com/Katsu_Kan/status/2093579070177268045",
-    "https://x.com/egiwatadesu/status/2103076993952813563",
-    "https://x.com/Sales_Onomatsu/status/2085886215220588561"
+    "https://x.com/k_koga555/status/2116277340057776210",
+    "https://x.com/indbgraphreport",
+    "https://x.com/_mayumayu13/article/2069188008511943145",
+    "https://x.com/DeNAPR",
+    "https://x.com/luigi_jpn/status/2117205424495559062",
+    "https://x.com/luigi_jpn/article/2062103141806641486",
+    "https://x.com/luigi_jpn/article/2113033056768688448?lang=ar",
+    "https://x.com/KagawaTomo/status/2118481110871220447",
+    "https://x.com/ybknsk",
+    "https://x.com/i/status/2092790514261364988"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:linkedin.com 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
    "results": [
-    "https://jp.linkedin.com/pulse/boosting-response-rates-online-b2b-surveys-practical-nhffe?tl=ja",
-    "https://jp.linkedin.com/pulse/how-design-online-survey-better-response-9qp7c?tl=ja",
-    "https://jp.linkedin.com/pulse/quality-over-quantity-rethinking-employee-survey-response-mark-bewick-xbzfe?tl=ja",
-    "https://jp.linkedin.com/pulse/what-typical-employee-survey-response-rate-how-do-i-increase-bye?tl=ja",
-    "https://jp.linkedin.com/pulse/10-proven-tactics-increase-your-survey-response-rates-firstopinion-qplxc?tl=ja",
-    "https://jp.linkedin.com/posts/樹-須田-3a1866311_問い合わせの件数を見るとき経路ごとに分けて見てるかどうかで印象がぜんぜん変わります-activity-7505030126569459712-MaFb",
-    "https://jp.linkedin.com/posts/圭弘-岩田-059b53250_カスタマーサポートのkpiを対応件数と平均応答時間だけで見ている会社は多い-速-activity-7495615582063448064-PDZU"
+    "https://www.linkedin.com/posts/sumitomocorporation-globalresearch_%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88-activity-7504163917749735424-swPp",
+    "https://jp.linkedin.com/pulse/trade-to-gdp-wrong-gauge-openness-richard-baldwin-ufu1e?tl=ja",
+    "https://www.linkedin.com/posts/raquel-villaca%C3%B1a-b229056_futureofwork-workrelationshipindex-aiunlocksourhumanpotential-activity-7515991131344711680--TMe",
+    "https://jp.linkedin.com/pulse/evolve-capital-partners-attends-iti-heres-what-we-saw-evolvecapital-zjnvc?tl=ja",
+    "https://www.linkedin.com/in/takuya-katayama-35b04614",
+    "https://jp.linkedin.com/pulse/ode-restraint-lessons-from-tim-cook-legacy-apple-aswath-damodaran-mz8bc?tl=ja",
+    "https://jp.linkedin.com/pulse/week-ai-anthropic-nears-1-trillion-opus-48-illinois-sets-djon-kleine-jbtvf?tl=ja",
+    "https://jp.linkedin.com/pulse/whos-left-10x-arr-club-incredible-shrinking-elite-public-lemkin-l1vjc?tl=ja",
+    "https://jp.linkedin.com/company/spirit-advisors",
+    "https://jp.linkedin.com/pulse/essential-aec-firm-kpis-every-principal-should-track-sdanational-qz9zc?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
    "results": [
-    "https://www.facebook.com/AomoriPref.koho/posts/経済センサスの回答はぜひインターネットで令和8年経済センサス活動調査の調査期日が近づいてきました4月から5月にかけて全ての事業所及び企業にインターネット回答用の/1254489400204774/",
-    "https://www.facebook.com/tochokoho/posts/回答はお済みですか令和8年経済センサス活動調査全国すべての事業所企業が対象ですご協力いただいた事業所の皆様ありがとうございました回答がお済みでない事業所は回答を/1344329904547037/",
-    "https://www.facebook.com/AomoriPref.koho/posts/令和8年経済センサス活動調査がはじまります統計分析課昨年は国勢調査にご協力いただきありがとうございましたところで経済の国勢調査とも呼ばれている経済センサス活動調/1233720375615010/",
-    "https://www.facebook.com/city.koka/photos/事業者向け令和８年経済センサス-活動調査の回答はお済みですか現在全国すべての事業所企業を対象とした令和８年経済センサス活動調査を実施していますまだ回答がお済みで/1310701467828204/",
-    "https://www.facebook.com/ginowancity.official/posts/重要経済センサス活動調査への回答はお済ですか現在全国のすべての企業事業所を対象に経済センサス活動調査を実施しています-̗̀まだ回答がお済みでない場合は下記回答期/1415415797299466/",
-    "https://www.facebook.com/city.koka/posts/事業者向け令和８年経済センサス-活動調査の回答はお済みですか現在全国すべての事業所企業を対象とした令和８年経済センサス活動調査を実施していますまだ回答がお済みで/1310701484494869/",
-    "https://www.facebook.com/mhlw.japan/posts/介護事業実態調査介護事業経営実態調査にご協力お願いしますこの調査は各サービス施設事業所の経営状況を把握するとともに次期介護保険制度の改正や介護報酬改定のための基/1400522838777772/"
+    "https://www.facebook.com/takaichisanae/posts/10%E6%9C%88%E4%B8%8A%E6%97%AC%E3%81%AB%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E6%94%BF%E5%BA%9C%E3%81%AE%E7%9B%AE%E8%A9%B0%E3%81%BE%E3%82%8A%E8%A7%A3%E6%B6%88%E3%81%B8%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%AE%E6%9C%80%E6%96%B0%E7%8A%B6%E6%B3%81%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%97%E3%81%BE%E3%81%99%E5%8E%9F%E6%B2%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AF%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1%E3%82%92%E7%B5%8C%E7%94%B1%E3%81%97%E3%81%AA%E3%81%84%E8%AA%BF%E9%81%94%E5%85%88%E3%81%AE%E5%A4%9A%E8%A7%92%E5%8C%96%E3%81%8C%E9%80%B2%E5%B1%95%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9911%E6%9C%88/1486925586866423/",
+    "https://www.facebook.com/toshihito.kumagai/photos/29056104500699015/",
+    "https://www.facebook.com/hitoyoshishi/posts/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9%E3%81%AE%E8%AA%BF%E6%9F%BB%E5%93%A1%E3%82%92%E5%8B%9F%E9%9B%86%E4%B8%AD%E5%B8%82%E5%86%85%E3%81%AE%E4%BA%8B%E6%A5%AD%E6%89%80%E3%81%B8%E8%AA%BF%E6%9F%BB%E7%A5%A8%E3%82%92%E9%85%8D%E5%B8%83%E5%9B%9E%E5%8F%8E%E3%81%99%E3%82%8B%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E6%9C%AA%E7%B5%8C%E9%A8%93ok%EF%B8%8F%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%93%E5%88%B6%E3%82%82%E5%85%85%E5%AE%9F%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%9C%9F%E9%96%93r85%E6%9C%886%E6%9C%88%E6%9C%AB%E5%A0%B1%E9%85%AC%E7%9B%AE%E5%AE%896%E4%B8%87%E5%86%86%E7%A8%8B%E5%BA%A6%E7%94%B3%E8%BE%BC/1311718904324415/",
+    "https://www.facebook.com/camarajaponesapy/?locale=da_DK",
+    "https://www.facebook.com/camarajaponesapy/posts/%E6%97%A5%E6%9C%AC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%87%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A2%E3%81%A8%E3%83%88%E3%83%9E%E3%82%B9%E3%83%AD%E3%83%A1%E3%83%AD%E3%83%9A%E3%83%AC%E3%82%A4%E3%83%A9%E3%81%AE%E5%9B%A3%E4%BD%93%E3%81%B819%E4%B8%875000%E3%83%89%E3%83%AB%E3%82%92%E5%AF%84%E4%BB%98%E3%81%B8abc-%E3%82%B3%E3%83%AD%E3%83%BC%E3%83%AB%E7%B4%99%E6%8A%84%E8%A8%B3-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E3%81%AF%E5%9B%BD%E5%86%85%E3%81%AE2%E3%81%A4%E3%81%AE%E5%9C%B0%E5%9F%9F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%95%B4%E5%82%99%E3%81%8A%E3%82%88%E3%81%B3%E5%AE%89%E5%85%A8%E6%80%A7%E3%81%AE/1377291027759329/",
+    "https://www.facebook.com/akihisa.shiozaki/posts/3%E6%9C%8819%E6%97%A5%E8%87%AA%E6%B0%91%E5%85%9A%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E6%9C%AC%E9%83%A8%E3%81%8C%E9%96%8B%E3%81%8B%E3%82%8C%E4%BC%81%E6%A5%AD%E7%B5%B1%E6%B2%BB%E3%81%A8%E6%8A%95%E8%B3%87%E3%81%AE%E4%BF%83%E9%80%B2%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89%E6%B4%BB%E7%99%BA%E3%81%AA%E8%AD%B0%E8%AB%96%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AA%E3%81%9C%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%AF%E6%88%90%E9%95%B7%E6%8A%95%E8%B3%87%E3%82%84%E5%BE%93%E6%A5%AD%E5%93%A1%E3%81%B8%E3%81%AE%E5%88%86%E9%85%8D%E3%82%92%E6%80%A0%E3%82%8A%E8%87%AA%E7%A4%BE%E6%A0%AA%E8%B2%B7%E3%81%84%E3%82%84%E9%85%8D%E5%BD%93%E3%81%B0%E3%81%8B%E3%82%8A/10163429420852950/",
+    "https://www.facebook.com/cgtnjapanese/posts/5%E5%B9%B4%E9%96%93%E3%81%A7%E7%B4%AF%E8%A8%88%E7%B4%8430%E5%85%86%E5%85%83-%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F%E3%81%AE%E5%AF%BE%E5%A4%96%E8%B2%BF%E6%98%93%E8%A6%8F%E6%A8%A1%E3%81%AF%E7%9D%80%E5%AE%9F%E3%81%AB%E6%8B%A1%E5%A4%A7%E5%B1%B1%E6%9D%B1%E7%9C%81%E6%B8%88%E5%8D%97%E7%A8%8E%E9%96%A2%E3%81%AE%E7%B5%B1%E8%A8%88%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A82021%E5%B9%B4%E3%81%8B%E3%82%892025%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE5%E5%B9%B4%E9%96%93%E3%81%A7%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F%E3%81%AE%E8%BC%B8%E5%87%BA%E5%85%A5%E7%B7%8F%E9%A1%8D%E3%81%AF29%E5%85%869500/1469273338676258/",
+    "https://www.facebook.com/yasushi.hosaka.7/posts/%E5%BF%97%E6%9C%A8%E5%B8%82%E3%81%AE%E6%9F%B3%E7%80%AC%E5%B7%9D%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AF%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E5%AD%90%E4%BE%9B%E3%81%AE%E8%AA%AD%E6%9B%B8%E6%B4%BB%E5%8B%95%E5%84%AA%E7%A7%80%E5%AE%9F%E8%B7%B5%E5%9B%B3%E6%9B%B8%E9%A4%A8-%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E5%A4%A7%E8%87%A3%E8%A1%A8%E5%BD%B0%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E4%BB%A4%E5%92%8C%EF%BC%95%E5%B9%B4%E5%BA%A6%E3%81%8B%E3%82%89%E5%85%83%E6%A0%A1%E9%95%B7%E3%81%AE%E6%96%B9%E3%82%92%E5%AD%A6%E6%A0%A1%E5%9B%B3%E6%9B%B8%E9%A4%A8%E4%BA%8B%E6%A5%AD%E6%8E%A8%E9%80%B2%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B6%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E9%85%8D/29101156569516165/",
+    "https://www.facebook.com/noriaki.imai/",
+    "https://www.facebook.com/japan.marketing.academy/photos/%E7%AC%AC1%E5%9B%9E%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A%E4%BC%9A%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%8F%82%E5%8A%A0%E5%8B%9F%E9%9B%86%E3%83%86%E3%83%BC%E3%83%9E%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%96%B0%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%A8%E6%96%B0%E5%B8%82%E5%A0%B4%E9%96%8B%E6%8B%93%E3%81%AB%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E3%82%B3%E3%83%BC%E3%83%AB%E5%A4%A9%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%91%E3%83%B3%E4%B9%85%E7%95%99%E7%B1%B3%E7%B5%A3%E3%82%92%E4%BE%8B%E3%81%AB/741981931290589/?locale=bs_BA"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） note 社長",
    "results": [
-    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0102.pdf",
-    "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/",
-    "https://smilesurvey.jp/contents/knowledge/no57/",
-    "https://tayori.com/blog/survey-rate-tips/",
-    "https://freeasy24.research-plus.net/blog/survey-response-rate",
-    "https://www.dm-insight.jp/column/survey4/",
-    "https://unii-research.com/business/media/survey-responserate/"
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://www.questionpro.com/blog/ja/%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%81%AE%E5%9B%9E%E7%AD%94%E7%8E%87%EF%BC%9A%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E5%9B%9E%E7%AD%94%E7%8E%87%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B/",
+    "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://blog.hubspot.jp/service/questionnaire-collection-rate",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/02toukatsu01_03000127.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204926"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） X 投稿",
    "results": [
-    "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/",
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
     "https://tayori.com/blog/survey-rate-tips/",
-    "https://freeasy24.research-plus.net/blog/survey-response-rate",
-    "https://smilesurvey.jp/contents/knowledge/no57/",
-    "https://www.dm-insight.jp/column/survey4/",
-    "https://www.webcas.jp/formulator/knowhow/valid-respondents/",
-    "https://unii-research.com/business/media/survey-responserate/"
+    "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://corp.neo-m.jp/column/marketing-research_162_webenquete-response-rate",
+    "https://jp.surveymonkey.com/curiosity/how-many-people-do-i-need-to-take-my-survey/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
+    "https://www.cross-m.co.jp/column/marketing/util81",
+    "https://www.stat.go.jp/data/jigyou/gaiyou/1.html"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "business survey unit response rate vs quantity response rate imputation share large units site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/quality-over-quantity-rethinking-employee-survey-response-mark-bewick-xbzfe",
-    "https://www.linkedin.com/advice/0/what-best-way-calculate-response-rates-mail-surveys-skills-research-vsbpe",
-    "https://www.linkedin.com/pulse/boosting-response-rates-online-b2b-surveys-practical-nhffe",
-    "https://www.linkedin.com/pulse/nps-14-customer-survey-response-rates-statistical-14th-fitzgerald",
-    "https://www.linkedin.com/advice/0/how-can-you-calculate-response-rate-questionnaire",
-    "https://www.linkedin.com/pulse/truth-cx-survey-response-rates-salman-malkani-7wdyf",
-    "https://www.linkedin.com/advice/1/how-do-you-calculate-response-rates-margin-error"
+    "https://www.linkedin.com/pulse/data-science-approaches-quality-from-raw-dataset-yair-rajwan-ms-dsc",
+    "https://www.linkedin.com/in/giulianopezzoli",
+    "https://ir.linkedin.com/in/mehdi-azizmohammad-looha-0307aa130",
+    "https://www.linkedin.com/in/alex-farach",
+    "https://www.linkedin.com/in/joelpersson",
+    "https://www.linkedin.com/in/seth-carter-a84695146",
+    "https://www.linkedin.com/in/mengsong-econ",
+    "https://www.linkedin.com/in/hammed-olayinka-254886158",
+    "https://www.linkedin.com/in/isabella-jiang-45a3b0283",
+    "https://www.linkedin.com/in/harshal-amin"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "一次情報の探し方": [
-   {
-    "quote": "times of the year , which makes them less likely to respond . Other factors such as filing",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "requirements (e.g., tax filings) may also contribute to the lower response. Although this",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "annual reports, trade association statistics, or Securities and Exchange Commission filings.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Administrative data is the primary source of alternative source data for the Economic",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "proportions of estimates obtained from reported or equivalent quality data . Surveys may",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "quantity response rate (TQRR), defined as the weighted proportion of a key estimate that",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "program-level URR and one or more program -level TQRRs (one per key estimate) are",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the estimated totals. Consequently, the majority of the economic surveys administered at",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "account for the unit’s relative importance in the estimates (Tucker et al. 2007), such as",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "percent) and still produce biased estimates (Peytcheva and Groves, 2009) , particularly if",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimate but tracking the TQRR over time using a p-chart presents unique challenges",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "contribute more to the estimates of total for the characteristic(s) of interest than others do.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and the denominator. The WVRR estimates t he proportion of the population that",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Where RNˆ is the unbiased estimate of the frame population obtained from R respondents",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "used in the URR and Nˆ is an unbiased estimate of the frame population siz e during the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "assessing quality with respect to amount of non -imputed data in the tabulated estimates.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the weighted estimate obtained by reported or equivalent quality data. For an item x , the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "where RXˆ is the unbiased estimate obtained from units that responded to the survey with",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "NXˆ is the estimate of characteristic for the survey obtained by using the final (pos sibly",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The total quantity response rate (TQRR) is defined as the percentage of the estimated",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "item-level indicator of the “quality” of each estimate. In contrast to the URR, these weighted",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "TQRR for a particular estimate, it is necessary to determine the source of the final tabulated",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "An estimate with a coefficient of variation (CV) greater than 30 percent, with a total quantity",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "suppressed from publication, unless the estimate has consistently been published for prior",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "years and the CV and TQRR are acceptably close to the thresholds. A suppressed estimate and",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimated total obtained from directly reported and",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimated total obtained from directly reported data.",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimated total obtained from administrative data.",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimated total that is not obtained from directly",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "correcting estimated or inconsistent data. Correction sources included respondents’",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "reference period, or estimates by industry analysts based on prior year data, industry",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimates of key items produced from the Economic Census data. These key items are total",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "key estimate (receipts or revenue, payroll, and employment) imputed by various Economic",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "E – estimates by industry analysts based on, for example, prior year data, industry",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The imputation rate is the percentage of the estimated total that is not obtained from directly",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "correction source flag with a value of ‘E’ (estimates by analysts) must be simulated from",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "that would have had a correction source flag value of ‘E’ needs to be estimated. Under the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "would have been the same in 2012, this estimate can be obtained by multiplying the TQRR",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "assigned. The TQRR calculates the proportion of a key item’s estimated total obtained from",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "importance of the certainty or larger sampled cases, making the URR an inconsistent",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and variation that is unusual , and in many cases unexpected. Control charts are also",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Section 4 presents two case studies that demonstrate how to analyze the different",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimation. For example, a firm (company) can comprise several establishments and can",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "units whose eligibility could not be determined -- for example, an undeliverable -as-",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "correlated with the MOS, for example, real valued characteristics such as income.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "example, t o ease respondent burden, the Census Bureau allows sampled businesses to",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "from one statistical period to the next. We found this to be the case with the TQRRs and",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4. Case Studies",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "response measures; however, for our case study, we did not have access to these revised files.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For this case study, we had t hree years of historic data to produce URRs, WVRRs, and",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Confining ourselves to the most recent data from 2012 -- the last six months for example,",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "since the small cases contribute relatively little to the numerator and denominator.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "deviations to five. With the first of our case studies (MRTS), this proved to be quite",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "valuable insights. In one case study, we demonstrated detrimental effects on quality of",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "constructed units. Examples of survey units for different economic programs include",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "or other entity type. For example, a large, diverse company in a company-based collection may",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A tabulation unit houses the data used for estimation (or tabulation, in the case of a census).",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "reporting unit operates. In this case, the tabulation unit represents a portion of a survey unit.",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example, an annual program might collect data on the prior year’s business activity; the",
-    "url": "https://www2.census.gov/programs-surveys/arts/technical-documentation/methodology/2019/arts_response_rates.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": " Some trades fill small, single-unit cases with administrative data in",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Sort remaining cases on",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• Initially there were a “small” number of cases defined as",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• As processing continued, our pool of eligible cases expanded,",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example: Check-in Rate vs.",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example: Proxy URR vs. Proxy",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "change is an edit to the data from an analyst editing data on a per case basis. For the 2017",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "E – estimates by industry analysts based on, for example, prior year data, industry",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "in 2017. As an example, if a sector had a large amount of receipts from changes in 2012",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "possibility is with an example.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "guideline requires a nonresponse bias analysis be conducted for surveys with a URR of",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "percent) and still produce biased estimates (Peytcheva and Groves, 2009) , particularly if",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Where RNˆ is the unbiased estimate of the frame population obtained from R respondents",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "used in the URR and Nˆ is an unbiased estimate of the frame population siz e during the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "where RXˆ is the unbiased estimate obtained from units that responded to the survey with",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Risk of Nonresponse Bias. Public Opinion Quarterly, 76 (3), pp. 555-575.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "demonstrate how to use these metrics to understand and monitor the response process via",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "statistical process control methods adapted for usage with complex survey data.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "discussion of work in progress. Any views expressed on statistical, methodological, or operational",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "process control framework. In particular, they advocate analyzing response rates over",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The statistical process control framework generally assumes a large number of",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Section 4 presents two case studies that demonstrate how to analyze the different",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(Methodology and Statistics Council, 2012) defines a respondent as an eligible unit for",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3. Response Rates within a Statistical Process Control Framework",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3 When one survey unit corresponds to more than one reporting unit, the survey methodologists",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "next (Pierchala and Surti, 2009). These stairstep control limits reflect the variability in the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "therefore followed the authors’ suggestion and produced 5-sigma limit stairstep control",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the MRTS estimates and methodology.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "System (StEPS). We developed our own GVF parameters for the TQRR control charts by",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the key survey items. Figure 3 presents the modified p-chart with stairstep limits of the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "increasingly wider stairstep limits.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Nonresponse Methodology",
-    "url": "https://www.census.gov/fedcasic/fc2015/ppt/20_fink.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "featured changes in data collection and statistical methodology, including upd ated",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2017 using data and methodologies from each period, and provide an initial assessment of",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the impact of various correction sources on data quality. We will discuss next steps for",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Census methods, such as hot deck imputation, cold deck imputation, and using an industry",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Bureau (2020) . Economic Census Methodology.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "documentation/methodology.html). To increase the efficacy of the new metrics, the 2017",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Economic Census procedures introduced a new, detailed method of tracking the data source",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "was not detailed. These changes could come from two methods, a global change (G) or an",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Due to these methodological and definitional changes, response metrics for the 2012 and",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Before comparing the 2012 EC data and the 2017 EC data using the new methodology, the",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "would be an artifact of the change in methodologies. To better understand the difference in",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.1 Simulating AROSE Methodology for 2012",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The next step is to calculate a new numerator for the 𝑇𝑇𝑇𝑇𝑃𝑃𝑃𝑃2012 from the 2012 EC data.",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5. Benefits of AROSE Methodology",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The treatment of the simulated 2012 TQRR shows that adding the AROSE methodology",
-    "url": "https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 2,
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-07T22:04:20.743611+00:00"
 }

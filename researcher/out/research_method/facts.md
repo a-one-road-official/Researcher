@@ -4811,73 +4811,82 @@
 ## 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）（central bank working paper labor productivity measurement part-time mergers reallocation decomposition）
 - 文脈：推定
 - 手順・やり方：
-  - 「型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「について、いくつかの方法で計測し、 事実確認を行う」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「そして、 第4 節では、新型コロナウイルス感染症拡大下に」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「４．新型コロナウイルス感染症拡大下における経済成長・労働生産性」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「力は、 飲食や宿泊といった対面型サービス業に集中する傾向を強めており、この」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「他方で、 上述の対面型サービス業の落ち」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「しかし、方法は同じです」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「これは、研究者の結論そのものというより、公共の議論で繰り返される推論の型です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「物価指数は、個々の価格を一定の方法で集計した値です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「集計の方法が変われば、同じ価格の動きから違う数字が出てきます」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「物価の数字は、経済の状態をそのまま写した鏡というより、ある方法で経済を測った結果です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「年率欄の算出方法が端点からの年率と違う可能性もあるため、誤記と決めつけず、ここでは両方の数字を区別して使います」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「ショックの分解もまた、ある方法で経済を測った結果なのです」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「ところが、同じ方法で1997〜2007年に区切ると、アメリカが年1.8％、日本が年1.3％となります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「その背景として、新卒一括採用の仕組みと雇用の調整方法を論じています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「ただし、2000年以前と2005年以降では調査の方法が異なります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「1930年代型の急激な物価崩壊とは大きく異なります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「こちらは、掲載された年率の算出方法と端点からの年率の照合が必要だという話です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「現代日本の統計も、基準の改定や調査方法の変更を受けます」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「その算出方法を確定できない以上、差を説明したと考えてはいけません」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「Nathan S. Balke and Robert J. Gordon, "The Estimation of Prewar Gross National Product: Methodology and New Evidence," Journal of Political Economy, Vol. 97, No. 1, 1989, pp. 38–92.」（https://note.com/m_y_edo/n/nb62a7c2fd919）
 - 突き合わせ・推定：
-  - 「年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「具体的には、 次式についてパネル推計を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「推計にあたっては、 各国固有の要因をコントロールするために、 国別の固」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「推計期間は 1995～2017 年であ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「本推計は、 無形」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「表 1 推計結果：無形資産投資が労働生産性に与える影響」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「（注 2）TFPは、日本銀行スタッフによる推計値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「（注 2）TFP（マクロベース）は、日本銀行スタッフによる推計値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「（注 2）カーネル密度推定値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「（注）折れ線は、カーネル密度推定値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「BrodaとWeinsteinは、日本の公式の輸入物価指数が1992〜2002年にほぼ9％下落した一方、消費者物価指数と同じ純粋なラスパイレス式で計算し直すと、輸入物価指数はほとんど動かなかったと推計しています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「後で見るように、実質GDPを総量で見るか、一人当たりで見るか、働く世代一人当たりで見るか、どの推計系列を使うか、どこで期間を区切るかによって、同じ経済の姿は大きく変わります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「彼らの論文の表に載っている、BalkeとGordonの推計にもとづく物価水準の端点を比べると、1896年の物価は1870年より36％ほど低く、その端点から求める年率は1.7％ほどの下落です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「Douglas IrwinがMaddisonの推計を用いて整理した1870〜1913年の数字では、実質GDPは年平均3.94％、人口は2.09％増加し、一人当たり実質GDPも年平均1.81％増加しています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「BordoとRedishは、BalkeとGordonによる戦前GNPの推計を用いて、次のように整理しています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「BordoとRedishの推計では、アメリカの物価の動きは主として貨幣供給側のショックで説明され、そのショックは産出の伸びや変動をほとんど説明していません」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「この説明は、第18節で扱う「投資機会の厚み」と一見食い違いますが、両者はそこでつながります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「なお、19世紀の実質GNPは、後世の研究者が断片的な資料から再構成した推計であり、推計系列によって数字は変わります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「Robert Fogelは、鉄道がなかった場合に運河や水運で代替したときの輸送費の差、いわゆる社会的節約を推計し、鉄道の寄与は一般に考えられていたほど大きくなかったと論じました」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「これに対してHornbeckとRotembergは、郡・産業別の製造業の統計を用い、鉄道網の拡大による市場アクセスの改善が製造業の生産性を大きく押し上げたと推計しています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「生産要素が効率的に配分されていない経済を前提にすると、鉄道の経済効果は従来の推計よりはるかに大きくなるというのが、彼らの結論です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「Bordo、Landon-Lane、Redishは、19世紀後半のアメリカ、イギリス、ドイツを分析し、この時代の物価下落には正の供給ショックだけでなく、負の貨幣供給ショックも関係していたと推計しています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「Federal Reserve Historyが紹介するJalilとHoffmanの推計では、工業生産は1892〜1894年に15.3％低下し、失業率は17〜19％に達しました」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「第7節で見たように、1893年の恐慌の後、失業率は17〜19％に達したと推計されています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「誰が最終的にどれだけ負担したかは、事例ごとの検証が必要です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
 - 一次情報の探し方：
-  - 「* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「なお、 法人企業統計ベースの労働生」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「法人企業統計における臨時従業員数は、 臨時従業員の総労働時間」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「19世紀の物価下落を「主として良いデフレだった」と結論したBordoらは、物価と産出を動かしたショックを統計的に分解したうえでそう述べています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「物価の動きが主に貨幣供給ショックで説明されるという前半は、著者たち自身が認めているように、かなりの程度まで統計的な識別の仮定から来ています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「これに対してHornbeckとRotembergは、郡・産業別の製造業の統計を用い、鉄道網の拡大による市場アクセスの改善が製造業の生産性を大きく押し上げたと推計しています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「当時のアメリカには全国的な公的失業保険はまだありませんでした」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「『米国歴史統計』によれば、管財人または受託者のもとで運行されていた鉄道は、1894年には約4万800マイルに達していました」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「銀行の損失は、公的資金にも及びました」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「見るべきなのは、資産、債務、企業、銀行、信用供給、そして公的部門の接続です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「統計の基準が変われば、これらの数字も動きます」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「ピークの水準も、デフレ率も、回復の時期も、統計の版によって変わります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「その背景として、新卒一括採用の仕組みと雇用の調整方法を論じています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「既存の雇用を維持する調整が、採用抑制や不安定な雇用への依存を伴う場合、その費用は、これから入ってくる人と、企業の外側で働く人へ偏りえます」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「銀行の資本を公的に補う仕組みの整備が、1990年代末になったことです」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「分母は、統計の上の選択であるだけでなく、実質金利の効き方を変える経済の条件でもあったのです」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「日本銀行の木村武も1999年の論文で、1997年までのデータでは下方硬直性が確認される一方、1998年のデータを加えると、それが統計的に確認できなくなると報告していました」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「企業には、毎月の基本給以外にも、賞与、労働時間、採用、雇用人数、正規・非正規の構成といった複数の調整経路があります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
 - 失敗・落とし穴：
+  - 「本稿では、これらを注意書きとして脇に置くのではなく、確かめるべき項目として扱います」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「消費者物価指数には、上昇率が高めに出る傾向、いわゆる上方バイアスがあります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「ただし、この結果の読み方には注意が要ります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「Krugmanは1998年に、日本が名目金利をそれ以上下げられない「流動性の罠」に陥っていると論じました」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「その中には、指数の上方バイアスのような測定の癖と、輸入物価の上昇による交易条件の悪化という経済の出来事の両方が含まれています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「倒産件数が増えたという数字だけでは、人と資源が新しい仕事へ移り、失敗した人が再び参加できたかどうかは分かりません」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「うまくいかない事業を見直し、新しい企業や地域の試みへ資金と人材が届く道を複数残すほうが、誤りを発見しやすくなります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「経済全体の生産性が上がっても、失職すれば医療や住まいを失い、ひとたび事業に失敗すると借金や保証によって生活を立て直せない人がいるなら、その人にとって経済は自由に選べる場ではありません」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「誰の生活が守られたか、誰が離れて次へ進めたか、どの資金や技能が別の用途へ移ったか、政策の誤りを誰が指摘して修正できたか」（https://note.com/m_y_edo/n/nb62a7c2fd919）
   - 「ただし、残された誤りは筆者らに帰する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
 - 実例：
-  - 「進んだ結果、過去に比べて高まっており、米国を上回る水準となっている（図 2）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「大きいため、2019 年 10-12 月期までのデータで計算した結果も参考として掲載している」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「「労働者数」 を用いるケース （労働者一人あたりの産出量） と、 労働者それぞれ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「マンアワー） 」を用いるケース（労働時間あたりの産出量）が存在する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「3 長期停滞論に関する整理は、例えば、中野・加藤 (2017) を参照」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「みると年率換算で 1％台前半にとどまり、前述の国民経済計算を用いた結果と概」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「産とは、 その名のとおり、 物的な実態が存在しない資産であり、例えばソフトウ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「11 例えば、Oh and Takahashi (2020) は、 無形資産の償却率として0.15 や 0.30 を用いている」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「計算結果をみると、わが国の実質労働生産性の成長率は、多くの部分が内部効」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「分解結果について、まず、大企業を中心とした上」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「この点は、過去の先行研究（深尾 (2012) 等）の結果」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「は小さいとの結果が得られた15（図 17）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「金融危機によって信用が縮小し、その結果として価格が下がることもあります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「さらに、最初は不況の結果として生じた物価下落が、実質的な債務負担や金利、賃金設定、企業の投資判断へ作用し、次の不況を増幅する原因の一部へ変わることもあります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「1．デフレ率は診断結果ではなく、一つの観測値である」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「物価の数字は、経済の状態をそのまま写した鏡というより、ある方法で経済を測った結果です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「2．「原因か結果か」という二択でも足りない」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「この段階では、低い物価上昇率は主として経済悪化の結果です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「黒田総裁も2014年の講演で、日本のデフレは景気低迷の「結果」であると同時に、低迷を長引かせる「原因」でもあったと述べています」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「最初は結果だった物価下落が、人々や企業の行動を変えることによって、次の原因の一部になることがあります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「したがって必要なのは、「原因か結果か」という一度きりの分類をやめて、時間の中で経路を追うことです」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「ただし、この結果の読み方には注意が要ります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「ショックの分解もまた、ある方法で経済を測った結果なのです」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「19世紀アメリカの事例には、本稿の命題にとってもう一つ重要な材料があります」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「その結果、戦前のNBERの山と谷のおよそ4割が変更または削除されました」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「誰が最終的にどれだけ負担したかは、事例ごとの検証が必要です」（https://note.com/m_y_edo/n/nb62a7c2fd919）
+  - 「この立場からすれば、デフレが停滞の「結果」であっても構いません」（https://note.com/m_y_edo/n/nb62a7c2fd919）
 
 ## 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）（revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data）
 - 文脈：突き合わせ
@@ -5318,11 +5327,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -8976,7 +8985,7 @@
   - 「<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
 - 検索結果の抜粋：
   - 「10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
 
 ## 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）（statistics reporting guidelines outliers regression to the mean broadcaster）
 - 文脈：推定
@@ -11629,11 +11638,11 @@
 
 ## 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界（estimate private company revenue physical footprint square footage locations equipment funding valuation limits）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ13頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
+- 実例：記載なし（読んだ13頁・検索12回）
 
 ## 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）（record linkage data cleansing impossible values renamed companies former names matching）
 - 文脈：手法
@@ -12990,11 +12999,11 @@
 
 ## 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）（corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）（selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation）
 - 文脈：突き合わせ
@@ -13896,27 +13905,27 @@
 
 ## 県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合）（prefectural statistical yearbook definitions manufacturing shipments value added size threshold）
 - 文脈：手法・統計
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）（market research confirmation bias rubber stamp strategy operator economics consultant essay）
 - 文脈：手法・推定
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
-
-## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
-- 文脈：手法・企業調査
 - 手順・やり方：記載なし（読んだ24頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ24頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 - 実例：記載なし（読んだ24頁・検索12回）
+
+## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
+- 文脈：手法・企業調査
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
