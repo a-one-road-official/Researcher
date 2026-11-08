@@ -135,6 +135,8 @@ def keep(i: dict, rec: dict, common: set) -> bool:
     if job_or_headline(q, i.get("url", "")): return False
     # 83回目の失敗：LinkedIn の投稿のハッシュタグの羅列（#humanoid # robot …）が人型ロボットの「事実」として INDEX.md に入った。タグ3つ以上で句点の無い行は事実にしない（4-108）
     if len(re.findall(r"#\s*\w", q or "")) >= 3 and "。" not in (q or ""): return False
+    # 85回目の失敗：検索結果の抜粋の型（本文に「https://」とパンくずの「 > 」が入る）と、「｜」「|」で媒体名を2つ以上つないだページ題名（「…| 共同通信 プレミアム | 沖縄タイムス＋プラス」）が人型ロボットの事実として INDEX.md に入った。句点の無いものは事実にしない（4-5・4-39）
+    if "。" not in (q or "") and (re.search(r"https?://", q or "") or " > " in (q or "") or len(re.findall(r"\s[｜|]\s", q or "")) >= 2): return False
     if junk(q) or off_topic_title(q, nm) or off_topic_latin(q, nm, rec.get("en", ""), i.get("url", "")): return False
     return (urlparse(i.get("url", "")).netloc, re.sub(r"\s+", "", q)[:60]) not in common
 

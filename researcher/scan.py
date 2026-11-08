@@ -758,6 +758,23 @@ def fse_of(r):
 FXMIX = re.compile(r"(\d[\d,.]*\s*(億|百万|万)?\s*(ドル|米ドル|ユーロ|ポンド|元|USD|EUR|\$))", re.I)
 # 2026-11-06 4-51（edukatesingapore「統計の改訂・データの版・ベンチマーク改定」：指数の基準年を変えると全部の値の水準が変わる。
 # 遡って作り直した系列は当時の公表値と同じものではない）。基準年の違う指数・遡及の作り直しを当時の値と同じ欄で混ぜない
+# 2026-11-09 4-110（千葉県・山梨県の鉱工業指数の利用上の注意・解説）：月報の値は年報で年間補正・季節指数の改定を受けて直る。
+# 暦年の前年比は原指数、四半期の前期比は季節調整済で出す。在庫は平均でなく期末の値。指数は数量のラスパイレス（基準時固定の重み）で金額ではない。
+# 業種の重みには採用していない品目の分を按分で足す「ふくらまし」が入る。同じ品目でこれらが混ざれば印す
+IIPMONTHLY = re.compile(r"(月報|速報値?)")
+IIPANNUAL = re.compile(r"(年報|年間補正|季節指数(の)?改定)")
+IIPWORD = re.compile(r"(鉱工業指数|生産指数|出荷指数|在庫指数|在庫率指数|IIP)")
+SARAW = re.compile(r"(原指数|季節調整(を)?(しない|前|なし))")
+SAADJ = re.compile(r"(季節調整済|季調済|季節調整値)")
+STOCKIDX = re.compile(r"(在庫指数|在庫率指数)")
+FUKURAMASHI = re.compile(r"(ふくらまし|膨らまし|非採用(業種|品目)(の|を)[^。]{0,10}(按分|配分))")
+# 2026-11-09 4-110（CREX「中小企業の二次情報調査 事例12選」：冒頭にプロモーションの表示があり、本文の数字は説明用の仮の例）。
+# 広告・成果報酬の表示があるページ、例示の語で置いた数字は事実の裏付けに数えない
+PROMO = re.compile(r"(プロモーションを含み|成果報酬を受け取る|アフィリエイト(広告|プログラム)|広告を含みます|PR表記|\[PR\]|【PR】|sponsored)", re.I)
+EXAMPLEFIG = re.compile(r"(例えば|たとえば|例として|一例として|仮の数字|イメージとして)[^。]{0,30}\d")
+# 2026-11-09 4-110（Reynolds Center「What first dates teach about investigating a business」：監査人の辞任・訴訟の提起・当局の調査開始は外から見える危機の印。
+# 在庫が売上より速く増えるのは負担の兆し）。継続企業の注記と同じく品目に印す
+AUDITCHG = re.compile(r"(監査人の(異動|交代|辞任)|会計監査人(の)?(異動|交代|辞任)|監査法人(の)?(異動|交代|辞任)|auditor (resign|change))", re.I)
 REBASE = re.compile(r"((19|20)\d\d\s*年\s*[=＝]\s*100|基準年(の)?(改定|変更|改訂)|基準改定|指数の基準|遡って(作り直|再計算|改定)|遡及(推計|系列))")
 def chance_band(series):
     # 4-44：件数（事業所・社・件）の最初と最後の年の差が、偶然のばらつき（ポアソンの目安：差が2×√(a+b) 以内）に収まるか。
@@ -1656,6 +1673,24 @@ def scan(topic):
         nfx = sum(1 for r in rs if FXMIX.search(r["引用"]) and re.search(r"\d\s*(億円|万円|百万円|円)", r["引用"]))
         if nfx: md.append(f"- ⚠ 外貨と円の金額が同じ引用に{nfx}件：換算に使ったレートの時点（期中平均か取得日か）を確かめ、決算期の平均で換算した値だけを採る（4-51）")
         nreb = sum(1 for r in rs if REBASE.search(r["引用"]))
+        # 2026-11-09 4-110：鉱工業指数の版・季節調整・在庫の期末値・ふくらまし、宣伝の表示と例示の数字、監査人の異動
+        _iip = [r for r in rs if IIPWORD.search(r["引用"])]
+        if _iip:
+            _m = sum(1 for r in _iip if IIPMONTHLY.search(r["引用"])); _a = sum(1 for r in _iip if IIPANNUAL.search(r["引用"]))
+            if _m and _a: md.append(f"- ⚠ 鉱工業指数の月報・速報{_m}件と年報・年間補正後{_a}件が同じ品目に混在：月報の値は年報で直る。年報（年間補正後）の値だけで向きを見る（4-110）")
+            _r = sum(1 for r in _iip if SARAW.search(r["引用"])); _s = sum(1 for r in _iip if SAADJ.search(r["引用"]))
+            if _r and _s: md.append(f"- ⚠ 原指数{_r}件と季節調整済{_s}件が同じ品目に混在：暦年の前年比は原指数、四半期・月の前期比は季節調整済で出る。同じ欄で比べない（4-110）")
+            _st = sum(1 for r in _iip if STOCKIDX.search(r["引用"]))
+            if _st: md.append(f"- 在庫指数の引用{_st}件：暦年・四半期の在庫は平均でなく期末の値。生産・出荷の平均と同じ欄で並べない（4-110）")
+            _fk = sum(1 for r in _iip if FUKURAMASHI.search(r["引用"]))
+            if _fk: md.append(f"- 重みのふくらまし（非採用の業種・品目の按分）の語{_fk}件：業種の指数は採用品目の数量の動きで非採用分も代表させた値。細かい業種（めっき・金型）の数量の事実にしない（4-110）")
+            md.append(f"- 鉱工業指数の引用{len(_iip)}件：指数は基準時の重みで固定した数量（ラスパイレス）で、金額・1人あたりの能力ではない。加工賃・出荷額の名目の向きと同じ欄で裏付けにしない（4-110）")
+        _pro = [r for r in rs if PROMO.search(r["引用"])]
+        if _pro: md.append(f"- ⚠ 広告・成果報酬の表示の語が{len(_pro)}件・{len({r['出典'] for r in _pro})}か所：そのページの数字は宣伝の言明。事実の裏付けに数えない（4-110）")
+        _exf = sum(1 for r in rs if EXAMPLEFIG.search(r["引用"]))
+        if _exf: md.append(f"- ⚠ 「例えば・例として」で置いた数字が{_exf}件：説明用の仮の例の疑い。出典の付いた値か本文で確かめるまで採らない（4-110・4-56）")
+        _au = [r for r in rs if AUDITCHG.search(r["引用"])]
+        if _au: md.append(f"- ⚠ 監査人の異動・辞任の語が{len(_au)}件（{'・'.join(sorted({r['出典'] for r in _au})[:3])}）：外から見える危機の印。継続企業の注記・訴訟・当局の処分と並べて見る（4-110）")
         if nreb: md.append(f"- ⚠ 指数の基準年・遡及の作り直しの語が{nreb}件：基準年の違う指数、遡って作り直した系列と当時の公表値を同じ欄でつながない。同じ版の系列どうしで向きを見る（4-51）")
         ntes = sum(1 for r in rs if TESTIMONY.search(r["引用"])); htes = {urlparse(r["URL"]).netloc for r in rs if TESTIMONY.search(r["引用"]) and r["URL"]}
         if ntes: md.append(f"- ⚠ 証言（関係者・取材・インタビュー）からの数字が{ntes}件・{len(htes)}か所：1人の証言は1件の手がかりで裏付けにならない。別の証言かデータと突き合わせるまで【未確認】のまま読む（4-46）")
