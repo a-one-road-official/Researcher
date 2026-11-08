@@ -6381,7 +6381,7 @@
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：34件／数字のある品目 34件（100%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - note.com と www.meti.go.jp：品目の重なり 21/30（70%）
   - note.com と www.nikkei.com：品目の重なり 19/32（59%）
-  - www.meti.go.jp と www.nikkei.com：品目の重なり 17/29（59%）
+  - www.nikkei.com と www.meti.go.jp：品目の重なり 17/29（59%）
   - www.nikkei.com と 調査会社：品目の重なり 16/29（55%）
   - www.meti.go.jp と www.jetro.go.jp：品目の重なり 13/24（54%）
 

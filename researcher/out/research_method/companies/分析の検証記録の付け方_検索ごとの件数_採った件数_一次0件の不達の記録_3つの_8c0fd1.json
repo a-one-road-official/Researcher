@@ -9,7 +9,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T19:23:08.289137+00:00",
+ "researched_at": "2026-11-08T01:35:29.818681+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -25,12 +25,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/naoki_domain/n/n9cd4c0d9df1f",
+    "url": "https://note.com/n_zela01/n/n36def7890237",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/n_zela01/n/n36def7890237",
+    "url": "https://note.com/naoki_domain/n/n9cd4c0d9df1f",
     "status": "ok",
     "method": "http"
    },
@@ -40,7 +40,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yukikkoaimanabi/n/n3e4508064d8e",
+    "url": "https://note.com/zashiki_0831/n/n7a378c34a8b9",
     "status": "ok",
     "method": "http"
    },
@@ -82,11 +82,11 @@
    "results": [
     "https://note.com/naoki_domain/n/n513ff81f77af",
     "https://note.com/naoki_domain/n/n50552fe1997e",
-    "https://note.com/naoki_domain/n/n9cd4c0d9df1f",
     "https://note.com/n_zela01/n/n36def7890237",
+    "https://note.com/naoki_domain/n/n9cd4c0d9df1f",
     "https://note.com/tozzz_lab/n/nb20e1546800b",
-    "https://note.com/yukikkoaimanabi/n/n3e4508064d8e",
-    "https://note.com/tink_tail/n/nc73db1dad29f"
+    "https://note.com/zashiki_0831/n/n7a378c34a8b9",
+    "https://note.com/yukikkoaimanabi/n/n3e4508064d8e"
    ],
    "engines": [
     "ddgs:google"
@@ -133,10 +133,10 @@
     "https://note.com/naoki_domain/n/n513ff81f77af",
     "https://note.com/naoki_domain/n/n9cd4c0d9df1f",
     "https://note.com/naoki_domain/n/n50552fe1997e",
+    "https://note.com/zashiki_0831/n/n7a378c34a8b9",
     "https://note.com/n_zela01/n/n36def7890237",
     "https://note.com/tink_tail/n/nc73db1dad29f",
-    "https://note.com/zashiki_0831/n/n7a378c34a8b9",
-    "https://note.com/tozzz_lab/n/nb20e1546800b"
+    "https://note.com/hirosta/n/nf6d654619ca9"
    ],
    "engines": [
     "ddgs:google"
@@ -146,13 +146,13 @@
   {
    "query": "site:x.com 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）",
    "results": [
-    "https://help.x.com/ja/using-x/x-advanced-search",
-    "https://x.com/tabisato33/status/1789884807348097214",
+    "https://x.com/openspc/status/2117934585963299154",
     "https://x.com/hanimaru_draix/status/2116062564828467614",
-    "https://help.x.com/ja/using-x/top-search-results-faqs",
+    "https://help.x.com/ja/using-x/x-advanced-search",
+    "https://help.x.com/ja/rules-and-policies/x-search-policies",
     "https://x.com/hiromomosetsu/status/2079844201408454810",
-    "https://x.com/haxailab/status/2099823637264245064",
-    "https://x.com/naosuke_nico7/status/2103243086646366210"
+    "https://x.com/tabisato33/status/1789884807348097214",
+    "https://x.com/haxailab/status/2099823637264245064"
    ],
    "engines": [
     "ddgs:google"
@@ -167,7 +167,7 @@
     "https://jp.linkedin.com/posts/shigun-shou-9aa07b1b8_成果につながるデータ分析の基本課題定義構造化仮説検証で本質をつかむ-qiita-activity-7470042988489072640-VnEO",
     "https://jp.linkedin.com/learning/learning-data-analytics-1-foundations-21067048/4231547",
     "https://jp.linkedin.com/learning/excel-data-analysis-365-2019/2280443",
-    "https://jp.linkedin.com/pulse/best-practices-data-analysis-danish--kcepc?tl=ja",
+    "https://jp.linkedin.com/learning/excel-power-query-365-2019/2917858",
     "https://jp.linkedin.com/learning/excel-power-query-365-2019/2916798"
    ],
    "engines": [
@@ -184,7 +184,7 @@
     "https://www.facebook.com/WITH.volleyball/posts/20210314-②午後からは学校に戻って記録の書き方の勉強会を実施前からいる45年生は実際に試合で記録をつけた事がなく今年度に入部した子の中には試合そのものを/772095446833615/",
     "https://www.facebook.com/treboxPF/videos/treasurebox2-操作紹介web予約にどれくらいアクセスがあったか途中離脱した件数はどれくらいかカウントできる分析画面が登場instagramやhpなど/1096706008978211/",
     "https://www.facebook.com/isoo.myth/videos/ライブのセトリ記録してる参戦したライブをその日ごとに丸ごと残せるアプリ作りましたセトリ写真チケット感想をひとつにあとで縦タイムラインで追体験できるセトリからプレ/3324643161176124/",
-    "https://www.facebook.com/Seiji.Ohsaka/videos/逢坂誠二の一日一話-記録がなければ検証できない-41記録がなければ検証できない公文書が民主主義を支える理由を考えます逢坂誠二の一日一話政治や社会の出来事について/4580523555498734/"
+    "https://www.facebook.com/jorte.jp/videos/ジョルテで検索の機能は使っていらっしゃるでしょうか例えば来月以降の予定を確認したい時や過去の日記の中から必要なものを見たいという時は検索機能を使うと便利です今回/1012422488809174/"
    ],
    "engines": [
     "ddgs:google"
@@ -211,8 +211,8 @@
     "https://lv.linkedin.com/posts/ole-donner_nnfc-analytic-tradecraft-checklist-activity-7057202033828777984-QXcy",
     "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-uncertainty-activity-7424445658461364224-vrE7",
     "https://www.linkedin.com/posts/jessicastutzman_intelligencefundamentalsproject-icd203-activity-7426662561531449344-3Q_N",
-    "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze?tl=en",
-    "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford"
+    "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
+    "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze?tl=en"
    ],
    "engines": [
     "ddgs:google"
@@ -228,6 +228,6 @@
   "実例": "記載なし（読んだ12頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T13:58:05.770111+00:00"
 }

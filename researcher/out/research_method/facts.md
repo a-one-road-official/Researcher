@@ -1126,6 +1126,9 @@
 ## アナリスト・投資家のnoteにある企業分析の型（equity analyst company analysis process blog）
 - 文脈：凄腕・企業分析
 - 手順・やり方：
+  - 「日本株に関しては10年以上雑誌などで銘柄推奨をするなど、仕事でも見続けてきた面があるので得意な分野としては日本株の中小型株です」（https://mag.minkabu.jp/money/30593/?membership=1）
+  - 「決算のチェックや、セクターごとの大型株のチェック、値動きしている銘柄のチェック、チャートの形状から探すなど地道な作業から銘柄を見つけています」（https://mag.minkabu.jp/money/30593/?membership=1）
+  - 「ーー三井さんは講演なども行われていますが、投資家の方におすすめしている銘柄選びの方法などはありますか？」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「もしかしたら他の方法もあるかもしれないが、いずれにしても無料で読む機会は一般的にごく限られるのだろう」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「みなさんのお目汚しになることも構わず、そもそも企業分析に関するnoteを書き始めたのも、アナリストレポートとは違う、自分なりの表現方法で企業の姿をなるべく面白く、しかも経営者への敬意を持って伝えたいと思ったからである」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「In this beginner’s guide, we’ll walk through the key phases of performing equity research step-by-step. You’ll learn how analysts research companies, model financials, calculate valuations, and make investment recommendations.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
@@ -1138,9 +1141,6 @@
   - 「As a result of all of the above Factors Analysts develop Practical Tools to Analyze Industries, so that we will have an Accurate View of how they develop over Time. Analysts will develop a Foresight of how to make Industry Decisions based on their history.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「For equity research analysts, financial statements are not just accounts; they tell a story about how a business has performed. Analysts learn how to read the income statement, balance sheet, and cash flow statement as a series of linked stories.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「One of the greatest takeaways from learning about equity research will be understanding how to view a business or company as if you personally own it. That is, equity analysts value businesses based on what they think those businesses would be worth if they bought the entire business, not based on what the stock price is today.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
-  - 「Equity Research teaches people not only what to think but also how to think about companies. The Equity Research process teaches an individual to think within a structure, build a structured approach to analytical thinking, and develop the strategic mindset needed for virtually any decision-making role.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
-  - 「Conducting equity research provides much more than just insight into finance; it provides insights into how to think about running and managing a business. Analyzing the structure, industry, management, and financial statements of companies helps the researcher learn how to evaluate each company's business operation.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
-  - 「Move from triage to model to write-up in order; skipping steps creates gaps that show up in the final recommendation.」（https://blog.tickerplace.com/blog/step-by-step-equity-research）
 - 突き合わせ・推定：
   - 「Estimate future free cash flows」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「DCF analysis is a method used to estimate the value of an investment based on its expected future cash flows. The DCF model is a key tool in valuation, helping analysts determine the present value of expected future earnings.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
@@ -1158,6 +1158,8 @@
   - 「（開示がない場合は、業界団体の統計データや、競合他社のデータから逆算して推計します）」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「分解して得られたパーツを組み立て直し、「この会社の収益構造はこうなっているはずだ」という自分なりの仮説（モデル）を作り上げます」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 一次情報の探し方：
+  - 「長期は最近よく耳にするようになった“放ったらかし投資”で、決算や経済情勢などが大きく変わらない限りは触りません」（https://mag.minkabu.jp/money/30593/?membership=1）
+  - 「決算のチェックや、セクターごとの大型株のチェック、値動きしている銘柄のチェック、チャートの形状から探すなど地道な作業から銘柄を見つけています」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「3月期決算の企業による3Q（10-12月期）決算の発表が本格的に始まった」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「特に決算が集中する来週の金曜日などは徹夜でレポートを書き上げることになる」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「昨日投稿した日本電産の決算内容をアナリストレポート風にアレンジして少しだけ書いてみたい」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
@@ -1171,9 +1173,10 @@
   - 「flagging filings or price moves」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「Bring the filings, reports or data room your team works with, and see Needl.ai answer with a source on every claim.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「なかのアセットマネジメントでは、有価証券報告書、決算説明会資料や統合報告書などの投資家向け資料を読み込むことに加え、論文、特許情報、競合他社や採用サイトなどからも情報を収集しています」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「最も価値の高いものは、一次情報である企業への「直接取材」と考えています」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「なお、優秀なIRの方は、現場と愚直にコミュニケーションをとって、鮮度が高くかつ解像度の高い一次情報を仕入れています」（https://note.com/nakanoam/n/nc638baf1b1d1）
 - 失敗・落とし穴：
+  - 「「高市相場はアベノミクスの再来」は大間違い？ 投資スクール社長が指摘する“決定的な違い”」（https://mag.minkabu.jp/money/30593/?membership=1）
+  - 「ちゃんぽん1000円超でもリンガーハット「41%増益」の衝撃…売上10%増のココイチが減益に沈んだ「コストの罠」」（https://mag.minkabu.jp/money/30593/?membership=1）
+  - 「【ご注意】『みんかぶ』における「買い」「売り」の情報はあくまでも投稿者の個人的見解によるものであり、情報の真偽、株式の評価に関する正確性・信頼性等については一切保証されておりません」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「会社側の公表を鵜呑みにした内容ばかりで深みがない」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「「情報量と注意力はトレードオフの関係にある」とは誰かの言葉だ」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「さらに、特定の領域の専門家と定期的にディスカッションを行うなど、正確性やバイアスを勘案しながらも、なるべく多方面の情報をインプットすることを心がけています」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1186,9 +1189,6 @@
   - 「a. Cognitive Biases: Cognitive biases are mental shortcuts or patterns of thinking that can lead to irrational decisions. Common biases include confirmation bias, overconfidence, loss aversion, and herd mentality.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
   - 「c. Anchoring Bias: Anchoring bias occurs when individuals rely too heavily on initial information or reference points when making decisions.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
   - 「Understanding behavioral biases can help equity analysts account for the impact of human psychology on market behavior and make more informed investment decisions.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
-  - 「Common Analyst Mistakes Untemplated extrapolation of historical growth」（https://finxl.in/blogs/business-model-equity-research.html）
-  - 「Common Analyst Mistake: Overestimating Scalability」（https://finxl.in/blogs/business-model-equity-research.html）
-  - 「Equity research has been mistaken as a field that is dominated」（https://finxl.in/blogs/business-model-equity-research.html）
 - 実例：
   - 「Aim to spot important themes and variables that will impact future performance. For example, is the industry ripe for disruption from new technology? Do customers have high switching costs or brand loyalty?」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「on best/worst case scenarios.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
@@ -1349,22 +1349,23 @@
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
 - 手順・やり方：
-  - 「Reference management tools have evolved from mere conveniences to essential instruments for researchers across all disciplines. These sophisticated software applications provide a robust framework for」（https://researcher.life/blog/category/research-reading/）
-  - 「What is JSTOR? How to Use JSTOR for Research?」（https://researcher.life/blog/category/research-reading/）
-  - 「Key Takeaways IMRAD stands for Introduction, Methods, Results, and Discussion; it is the most widely used structure for original research articles in the sciences and」（https://researcher.life/blog/category/research-reading/）
-  - 「How to Use ChatGPT for Research?」（https://researcher.life/blog/category/research-reading/）
-  - 「What is a Case Study in Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「Thesis Defense: How to Ace this Crucial Step」（https://researcher.life/blog/category/research-reading/）
-  - 「For every student or researcher embarking on a Master’s or PhD degree, the thesis defense is a pivotal moment. It’s a significant step in their」（https://researcher.life/blog/category/research-reading/）
-  - 「What is Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「Research is a systematic, methodical process of inquiry aimed at exploring, analyzing, and interpreting information to answer specific questions or solve problems. According to the」（https://researcher.life/blog/category/research-reading/）
-  - 「Turabian style is a citation and formatting guide written specifically for students. It covers how to structure a research paper, thesis, or dissertation, and how」（https://researcher.life/blog/category/research-reading/）
-  - 「What is Confidence Interval and How to Calculate it (with Examples)」（https://researcher.life/blog/category/research-reading/）
-  - 「Cactus Communications (CACTUS) has moved a step further in its goal to fuel academic excellence and innovation by collaborating with Proceedings of the National Academy」（https://researcher.life/blog/category/research-reading/）
-  - 「Qualitative vs Quantitative Research: Differences, Examples, and Methods」（https://researcher.life/blog/category/research-reading/）
-  - 「This article covers what qualitative and quantitative research are, how they differ, when and how to use each, how to analyze and report results from」（https://researcher.life/blog/category/research-reading/）
-  - 「What is Google Scholar and How to Use it for Research?」（https://researcher.life/blog/category/research-reading/）
+  - 「今回は、利用者の認知経路や利用理由を調べる「利用者アンケート」（BtoC編・BtoB編）、満足度や知人への推奨意向度を調べる「満足度アンケート」（BtoC編・BtoB編）、利用シーンや利用に際して重視していることを調べる「ユーザープロファイルアンケート」(基本項目編・発展項目編)の6つに分けて、それぞれの用途に合った質問と選択肢を用意することができるような「基本の型」となるフォーム作成方法を解説しました」（https://manamina.valuesccg.com/articles/1877）
+  - 「アンケートフォームを作成したことはあるがその施策への活用方法がわからない方、用途に合わせたアンケートフォームの作成方法が知りたい方などはぜひ参考にしてみてください」（https://manamina.valuesccg.com/articles/1877）
+  - 「行動パターンを類型化することで、プロモーション効率をあげることに繋がります」（https://manamina.valuesccg.com/articles/1877）
+  - 「そこで本企画では菅原さんに、ユーザー理解の考え方と方法をインタビューしました」（https://manamina.valuesccg.com/articles/1877）
+  - 「最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅原大介さんに取材します」（https://manamina.valuesccg.com/articles/1877）
+  - 「Key Takeaways IMRAD stands for Introduction, Methods, Results, and Discussion; it is the most widely used structure for original research articles in the sciences and」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is a Review Article? How to Write it?」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「How to Use ChatGPT for Research?」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「How to Make a Graphical Abstract for Your Research Paper (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is a Case Study in Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「How to Write an Academic Biography」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「Thesis Defense: How to Ace this Crucial Step」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「For every student or researcher embarking on a Master’s or PhD degree, the thesis defense is a pivotal moment. It’s a significant step in their」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「Research is a systematic, methodical process of inquiry aimed at exploring, analyzing, and interpreting information to answer specific questions or solve problems. According to the」（https://researcher.life/blog/tag/tips-for-researchers/）
 - 突き合わせ・推定：
+  - 「One use of statistical analysis is to make inferences from data samples to larger populations. Point estimation uses a sample statistic to estimate an unknown」（https://researcher.life/blog/tag/tips-for-researchers/）
   - 「One use of statistical analysis is to make inferences from data samples to larger populations. Point estimation uses a sample statistic to estimate an unknown」（https://researcher.life/blog/category/research-reading/）
   - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
   - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
@@ -1379,7 +1380,6 @@
   - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
   - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
   - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
 - 一次情報の探し方：
   - 「JSTOR is a digital library, founded in 1995, that gives researchers online access to millions of academic journals, books, and primary sources across many subjects.」（https://researcher.life/blog/category/research-reading/）
   - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
@@ -1397,6 +1397,7 @@
   - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
   - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
 - 失敗・落とし穴：
+  - 「Errors in Research: 7 Common Mistakes to Avoid In Research Projects」（https://researcher.life/blog/tag/tips-for-researchers/）
   - 「What is Anchoring Bias? Definition and Examples」（https://researcher.life/blog/category/research-reading/）
   - 「Key Takeaways: Anchoring bias is the tendency to weight the first number or framing you encounter too heavily, so that it pulls every judgment that」（https://researcher.life/blog/category/research-reading/）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
@@ -1411,23 +1412,22 @@
   - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
 - 実例：
-  - 「What is Anchoring Bias? Definition and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「How and Where to Find Research Papers for Literature Reviews: Literature Search Strategies and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「What is IMRaD Format in Research? Examples and Guidelines」（https://researcher.life/blog/category/research-reading/）
-  - 「What is a Case Study in Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「A case study investigates a bounded phenomenon in depth, within its real-world context, using multiple sources of evidence There are six main types: exploratory, descriptive,」（https://researcher.life/blog/category/research-reading/）
-  - 「What is Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「Turabian Format: Chicago Style Tips & Examples for Students」（https://researcher.life/blog/category/research-reading/）
-  - 「What is Confidence Interval and How to Calculate it (with Examples)」（https://researcher.life/blog/category/research-reading/）
-  - 「Qualitative vs Quantitative Research: Differences, Examples, and Methods」（https://researcher.life/blog/category/research-reading/）
-  - 「What Is a Likert Scale? Definition, Types, and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「What is Purposive Sampling? Methods, Techniques, and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「Since the mid-20th century, English has become the global language of science. This wasn’t always the case. Scientists like Newton, Marie Curie, and Einstein published」（https://researcher.life/blog/category/research-reading/）
-  - 「What are Open Access Resources in Research: Types and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「What is Descriptive Research? Definition, Methods, Types and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「What is Parenthetical Citation? APA, MLA & Chicago Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「What is IMRaD Format in Research? Examples and Guidelines」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「How to Make a Graphical Abstract for Your Research Paper (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is a Case Study in Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「A case study investigates a bounded phenomenon in depth, within its real-world context, using multiple sources of evidence There are six main types: exploratory, descriptive,」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is Confidence Interval and How to Calculate it (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is Stratified Sampling? Definition, Types, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「How to Write a Research Paper Outline (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「Ethnographic Research: Definition, Methods, Types, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is a Conceptual Framework and How to Make It (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is Descriptive Research? Definition, Methods, Types and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is Parenthetical Citation? APA, MLA & Chicago Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is a Problem Statement in Research? How to Write It with Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「What is a Cross-Sectional Study? Definition, Advantages, Disadvantages, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「Sampling Methods in Research: Types, Techniques, Pros & Cons, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
 - 検索結果の抜粋：
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo21 Best Academic Blogs Every Researcher Must FollowThe Researcher's Source Blog | For Researchers | Springer NatureResearch Reading: Blog Category | Researcher.LifeBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of Melb」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningHow to conduct effective academic research: 9 key methodsThe Researcher's Source Blog | For Researchers | Springer NatureLatest News from Google Research Blog - Google ResearchEducational resources and simple solutions for your research ... — “Just like the horse whisperer – but with more 」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -4962,6 +4962,10 @@
 ## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
 - 文脈：推定
 - 手順・やり方：
+  - 「官報で決算公告を出す手続き5ステップ｜2026年最新の流れと費用」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「官報での決算公告手続きを5ステップで徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告を官報で閲覧する5つの方法を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -4973,10 +4977,6 @@
   - 「決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「How to Find Competitor Revenue: 10 Sources and How Wrong Each One Is」（https://www.flares.tech/sources/competitor-revenue）
-  - 「How to find competitor revenue, step by step」（https://www.flares.tech/sources/competitor-revenue）
-  - 「"Bigger or smaller than us" needs a completely different method from "what is their ARR to the nearest million". Most real decisions need the first, and chasing the second is where weeks disappear.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Sanity-check with a second method」（https://www.flares.tech/sources/competitor-revenue）
 - 突き合わせ・推定：
   - 「A defensible estimate whose assumptions you can show and defend」（https://www.flares.tech/sources/competitor-revenue）
   - 「Data provider estimates」（https://www.flares.tech/sources/competitor-revenue）
@@ -10062,6 +10062,7 @@
   - 「For example, the United Nations」（https://github.com/Quartz/bad-data-guide）
   - 「P-hacking is intentionally altering the data, changing the statistical analysis, or selectively reporting results in order to have statistically significant findings. Examples of this include: stop collecting data once you have a significant result, remove observations to get a significant result, or perform many analyses and only report the few that are significant. There has been some」（https://github.com/Quartz/bad-data-guide）
 - 検索結果の抜粋：
+  - 「The Quartz guide to bad data — Jul 21, 2022 · This guide presents thorough descriptions and possible solutions to many of the kinds of problems that you will encounter when working with data. Most of these problems can be solved.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · This guide was written to help Quartz staff identify problems with data they report on. After publishing it on GitHub, we heard from folks in many other industries who also found it helpful, so we’re republishing it here for the benefit of all Quartz readers. The most up-to-date version of this guide can always be found on Gi」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
   - 「The Quartz guide to bad data — Jul 21, 2022 · As a reporter your world is full of data. And those data are full of problems. This guide presents thorough descriptions and possible solutions to many of the kinds of problems that you will ...」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「The Quartz guide to bad dataThe Quartz Guide to Bad Data – Global Investigative ...4 Tips for Avoiding Math Errors - EWA4 Tips for Avoiding Math Errors When Reporting – Global ...Percent change versus percentage-point change: What’s the ... — Beware blank or “null” values in any dataset unless you are certain you know what they mean. If the data are annual, was the value for that year never collec」（https://qz.com/572338/the-quartz-guide-to-bad-data）
@@ -11986,19 +11987,28 @@
 ## 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）（intelligence grading 3x5x2 handling code dissemination OSINT）
 - 文脈：検証
 - 手順・やり方：
+  - 「The Coalition of Cyber Investigators explore the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Exploring the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Modern investigative work increasingly relies upon open-source intelligence (OSINT). However, an effective intelligence-gathering process depends on more than just collecting data: structured practices of grading, handling, and securely disseminating intelligence are essential. These methods help guarantee operational security, foster credibility, and enable effective collaboration.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Any information OSINT investigators obtain should be recorded through the frameworks discussed in this article.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「to assign to it when formulating a response or deciding how to use it effectively. To address this issue, a nationally standardised grading system is available to both public and private investigation bodies, providing them with an easily understood way to share intelligence and assess its trustworthiness.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「How intelligence is evaluated and authorised within the applicable intelligence framework」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「History of Grading Frameworks」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「While sharing common roots, these frameworks have been adapted over time to meet the specific needs of different organisations and countries. The evolution of these grading frameworks reflects ongoing efforts to improve the accuracy and reliability of intelligence evaluation.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Sample of an Intelligence Grading Framework」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Standardised grading frameworks like 3x5x2 streamline this process, making it easier for private and public organisations to collaborate. However, intelligence sharing must remain segmented, and where appropriate, "」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「, due diligence, or law enforcement fails to draw a line between reliable data and less credible data. Such a gap highlights the need for a robust methodology combined with advanced analytics for accurate」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Embedding intelligence grading into OSINT so it aligns with other intelligence disciplines can help investigators achieve better operational outcomes, protect sources, and engender confidence in their findings. Adopting such methodologies forms a best practice and is increasingly necessary in today's high-speed, high-stakes investigative environment.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「Explored the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「Modern investigative work increasingly relies upon open-source intelligence (OSINT). However, an effective intelligence-gathering process depends on more than just collecting data: structured practices of grading, handling, and securely disseminating intelligence are essential. These methods help guarantee operational security, foster credibility, and enable effective collaboration.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「Any information OSINT investigators obtain should be recorded through the frameworks discussed in this article.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「to assign to it when formulating a response or deciding how to use it effectively. To address this issue, a nationally standardised grading system is available to both public and private investigation bodies, providing them with an easily understood way to share intelligence and assess its trustworthiness.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「How intelligence is evaluated and authorised within the applicable intelligence framework」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「History of Grading Frameworks」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「While sharing common roots, these frameworks have been adapted over time to meet the specific needs of different organisations and countries. The evolution of these grading frameworks reflects ongoing efforts to improve the accuracy and reliability of intelligence evaluation.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「Sample of an Intelligence Grading Framework」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「Standardised grading frameworks like 3x5x2 streamline this process, making it easier for private and public organisations to collaborate. However, intelligence sharing must remain segmented, and where appropriate, "」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「, due diligence, or law enforcement fails to draw a line between reliable data and less credible data. Such a gap highlights the need for a robust methodology combined with advanced analytics for accurate」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「Embedding intelligence grading into OSINT so it aligns with other intelligence disciplines can help investigators achieve better operational outcomes, protect sources, and engender confidence in their findings. Adopting such methodologies forms a best practice and is increasingly necessary in today's high-speed, high-stakes investigative environment.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
 - 実例：
+  - 「" case management, these practices are vital for success and help avoid "」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Since then, various intelligence grading systems have been developed and used by different organisations. For example:」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「These codes simplify communication and ensure consistency across different organisations or agencies. For example:」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「. For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.」（https://coalitioncyber.com/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「Examples – Technical products e.g. DNA, fingerprints, CCTV」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
   - 「determined, for example, members of the public, Crimestoppers.」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
   - 「Examples – members of the public with a potentially malicious」（https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf）
@@ -12008,9 +12018,6 @@
   - 「" case management, these practices are vital for success and help avoid "」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「Since then, various intelligence grading systems have been developed and used by different organisations. For example:」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「These codes simplify communication and ensure consistency across different organisations or agencies. For example:」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「. For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-  - 「Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
 - 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ29頁・検索12回）

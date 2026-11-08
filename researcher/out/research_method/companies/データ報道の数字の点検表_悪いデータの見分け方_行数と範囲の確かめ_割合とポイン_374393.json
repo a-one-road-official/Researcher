@@ -9,340 +9,8 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-07T19:37:24.216484+00:00",
+ "researched_at": "2026-11-08T01:35:36.925011+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It’s very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it’s important that methods used be transparent. It’s rare that you’ll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don’t know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It’s very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it’s important that methods used be transparent. It’s rare that you’ll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Just as all investigations need a process that works for everyone, so do data investigations. Knowing the process can help editors ask the right questions and backstop reporters. It’s also important (and helpful to the overall story) for all team members to understand the methodology, regardless of whether they’ll be working with the data.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "If you’re an editor who doesn’t use programming, you should still make sure scripts contain comments, explaining what the code does, so that another person could follow along and understand your reporter’s data and methodology.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Check with experts from different sides of the issue about your methods and your findings.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", but if you need to do a more complex analysis, here are some suggestions to help you figure out the best methodology:",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Find an expert to vet your methodology. Many are happy to help, especially once they realise you’re interested in doing a serious analysis. When the Dallas Morning News",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Show findings to the targets of the story. We’re not suggesting sharing your story, but you should put together a findings document or presentation that you can share with the targets of the story. This helps bulletproof your methodology by surfacing any problems that may exist (or variables you didn’t consider) before publication.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Editors of data investigations must ask even more questions than usual and do their own research. In much the same way that the reporter may have identified similar works of journalism or scientific studies, editors should familiarise themselves with those methodologies as well.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A methodology story by the Associated Press.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Here are a couple of examples of handling methodology in copy. Aside from including a few paragraphs in your story, which is how simple methodologies can be handled, you can write a separate short",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This is not to say that using the findings of a data analysis in your lead is always a bad idea. Each story, including its methodology and findings, needs to dictate the best approach to follow. Consider these examples:",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "That’s the up side. The downside is that this form of investigative data analysis is extremely labor intensive and fraught with potential methodology questions and errors. It requires more time and greater levels of bulletproofing from reporters and their editors, so plan accordingly if you decide it’s the only way to answer that burning question.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Editing investigations is challenging enough, but particularly when you're not familiar with data methods",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn't mean you shouldn't use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This problem tends to crop up in subjects where people have a strong confirmation bias. (\"Just as I thought, crime is up!\") Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "You can not possibly review every dataset you encounter with for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "is one very common mistake.) If you find those, you can be pretty sure the data was compiled or edited by hand and that is always a reason to be skeptical of it. Data that has been edited by hand is the most likely to have mistakes. This doesn’t mean you shouldn’t use it but you may need to manually correct those mistakes or otherwise account for them in your reporting.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This problem tends to crop up in subjects where people have a strong confirmation bias. (“Just as I thought, crime is up!”) Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn’t mean you shouldn’t use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This problem tends to crop up in subjects where people have a strong confirmation bias. (“Just as I thought, crime is up!”) Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<li><a href=\"https://github.com/Quartz/bad-data-guide#sample-is-biased\">Sample is biased</a></li>",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "jury strikes, one of the leading experts on bias in jury selection reviewed all of the reporting teams’ findings.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Beware any data that purports to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Beware any data that purport to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you've got",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". However, if you have Adobe Creative Cloud then you also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don't want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A tremendous amount of data—especially government data—is only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting it. (If you’ve got",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you’ve got",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". However, if you have Adobe Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<li><a href=\"https://github.com/Quartz/bad-data-guide#data-are-in-a-pdf\">Data are in a PDF</a></li>",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
@@ -657,430 +325,43 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "検索結果の抜粋": [
-   {
-    "quote": "The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · This guide was written to help Quartz staff identify problems with data they report on. After publishing it on GitHub, we heard from folks in many other industries who also found it helpful, so we’re republishing it here for the benefit of all Quartz readers. The most up-to-date version of this guide can always be found on Gi",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The Quartz guide to bad data — Jul 21, 2022 · As a reporter your world is full of data. And those data are full of problems. This guide presents thorough descriptions and possible solutions to many of the kinds of problems that you will ...",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The Quartz guide to bad dataThe Quartz Guide to Bad Data – Global Investigative ...4 Tips for Avoiding Math Errors - EWA4 Tips for Avoiding Math Errors When Reporting – Global ...Percent change versus percentage-point change: What’s the ... — Beware blank or “null” values in any dataset unless you are certain you know what they mean. If the data are annual, was the value for that year never collec",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data. Most of these problems can be solved.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/kazukio/n/n52d5abe57ef2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kazukio/n/n2fccd4795353",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/asahi_ictrad/n/n47f391a81015",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/strategy_shimura/n/n384ba5bc5984",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/yomi_tokyo_saiyo/n/n4ba3264cd551",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ajiris/n/ndc54e2d62b99",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/t_note_memo/n/n5f463357da7f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/wise_gerbil1934/n/nd278a87a459a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/hip_wren4038/n/ne3257269af72",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://vdata.nikkei.com/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/arayuki/n/n544908da5415",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://i-reporter.jp/column/15903/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dx.nsw.co.jp/column/11918/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jbec.or.jp/c/wp-content/uploads/2025/01/%E9%81%93%E8%B7%AF%E6%A9%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9-%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB77%E6%9D%A1%E8%AA%BF%E6%9F%BB_%E7%82%B9%E6%A4%9C%E7%B5%90%E6%9E%9C%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%83%BB%E7%B7%A8%E9%9B%86.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://nipo-plus-doc.sndbox.jp/lp/checksheet/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://setsubi-takumi.com/blog/inspection-sheet/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bil.jp/blog/details/149",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kaminashi.jp/media/electronic-maintenance-log",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hcs.co.jp/casestudy/223-maintenance-streamlining-paperless-case/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "http://www.asahi.com/miraimedia/dj/case/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mlit.go.jp/common/001067486.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/kazukio/n/n2a704557e23c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://journalistsresource.org/home/percent-change-math-for-journalists/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bls.gov/cpi/factsheets/calculating-percent-changes.htm",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "status": "ok",
-    "method": "http"
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） site:note.com",
-   "results": [
-    "https://note.com/kazukio/n/n52d5abe57ef2",
-    "https://note.com/kazukio/n/n2fccd4795353",
-    "https://note.com/asahi_ictrad/n/n47f391a81015",
-    "https://note.com/strategy_shimura/n/n384ba5bc5984",
-    "https://note.com/yomi_tokyo_saiyo/n/n4ba3264cd551",
-    "https://note.com/ajiris/n/ndc54e2d62b99",
-    "https://note.com/kazukio/n/n813f3f0e673b",
-    "https://note.com/kazukio/n/nedb9fb057839",
-    "https://note.com/miraisyakai/n/nf3f4954a4278",
-    "https://note.com/strategy_shimura/n/nc9b1a93fff73"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） note",
-   "results": [
-    "https://note.com/t_note_memo/n/n5f463357da7f",
-    "https://note.com/wise_gerbil1934/n/nd278a87a459a",
-    "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
-    "https://note.com/hip_wren4038/n/ne3257269af72",
-    "https://vdata.nikkei.com/",
-    "https://note.com/arayuki/n/n544908da5415",
-    "https://tbs-mri.com/all",
-    "https://note.com/airdoro/n/n1279408d56e0?magazine_key=m1409551fcfda",
-    "https://note.com/cheeky_jacana360/n/n711c1900a4bb",
-    "https://www.saycom.jp/product/see-note"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） やり方",
-   "results": [
-    "https://i-reporter.jp/column/15903/",
-    "https://dx.nsw.co.jp/column/11918/",
-    "https://www.jbec.or.jp/c/wp-content/uploads/2025/01/%E9%81%93%E8%B7%AF%E6%A9%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9-%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB77%E6%9D%A1%E8%AA%BF%E6%9F%BB_%E7%82%B9%E6%A4%9C%E7%B5%90%E6%9E%9C%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%83%BB%E7%B7%A8%E9%9B%86.pdf",
-    "https://nipo-plus-doc.sndbox.jp/lp/checksheet/",
-    "https://setsubi-takumi.com/blog/inspection-sheet/",
-    "https://www.bil.jp/blog/details/149",
-    "https://www.stat.go.jp/naruhodo/12_ppdac/data.html",
-    "https://sai31.co.jp/blog/genai-fact-check",
-    "https://www.hcs.co.jp/casestudy/223-maintenance-streamlining-paperless-case/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） 事例",
-   "results": [
-    "https://i-reporter.jp/column/15903/",
-    "https://kaminashi.jp/media/electronic-maintenance-log",
-    "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
-    "https://www.hcs.co.jp/casestudy/223-maintenance-streamlining-paperless-case/",
-    "http://www.asahi.com/miraimedia/dj/case/",
-    "https://www.mlit.go.jp/common/001067486.pdf",
-    "https://note.com/kazukio/n/n2a704557e23c",
-    "https://www.bil.jp/blog/details/149",
-    "https://note.com/ai_company30/n/n36c20b984d9e",
-    "https://note.com/report_check_lab/n/n778340086601"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "data journalism bad data guide checklist percent change percentage points inflation adjustment",
-   "results": [
-    "https://journalistsresource.org/home/percent-change-math-for-journalists/",
-    "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "https://github.com/Quartz/bad-data-guide",
-    "https://www.bls.gov/cpi/factsheets/calculating-percent-changes.htm",
-    "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
-    "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
-    "https://metopio.com/blog/3-key-considerations-for-using-inflation-adjusted-numbers-in-data-analysis",
-    "https://www.skillsyouneed.com/num/percent-change.html",
-    "https://data.journalism.columbia.edu/content/quartz-guide-bad-data"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 13
-  },
-  {
-   "query": "site:note.com データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）",
-   "results": [
-    "https://note.com/kazukio/n/n2a704557e23c",
-    "https://note.com/kazukio/n/n52d5abe57ef2",
-    "https://note.com/kazukio/n/n2fccd4795353",
-    "https://note.com/asahi_ictrad/n/n47f391a81015",
-    "https://note.com/kazukio/n/n813f3f0e673b",
-    "https://note.com/strategy_shimura/n/n384ba5bc5984",
-    "https://note.com/yomi_tokyo_saiyo/n/n4ba3264cd551",
-    "https://note.com/ajiris/n/ndc54e2d62b99",
-    "https://note.com/kazukio/n/nedb9fb057839",
-    "https://note.com/tyousa_mri559"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "site:x.com データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）",
-   "results": [
-    "https://x.com/DataYomiuri",
-    "https://x.com/TakashimaR_2023/status/1703368969254744572",
-    "https://x.com/shukatuteku/status/2008526723344957699",
-    "https://x.com/nkinvestigation",
-    "https://x.com/JMA_kishou/status/2094971001033588795",
-    "https://x.com/GIS_MLIT/status/2038869287927251412",
-    "https://x.com/nadanews_com/status/2114129815964160199",
-    "https://x.com/kaz_ogiwara",
-    "https://x.com/FABYMETAL4/status/2080921365088280710",
-    "https://x.com/HYT4ALL/status/2020457433684906252"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "site:linkedin.com データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）",
-   "results": [
-    "https://jp.linkedin.com/pulse/traditional-journalism-artificial-intelligence-dr-naureen-aleem-7yjef?tl=ja",
-    "https://www.linkedin.com/in/kenjiasada",
-    "https://jp.linkedin.com/pulse/traditional-journalism-artificial-intelligence-dr-naureen-aleem-m25uf?tl=ja",
-    "https://www.linkedin.com/posts/hirotoshi-nakahara-a573616a_%E3%83%AA%E3%83%86%E3%83%BC%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AF%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%82%92%E3%81%A9%E3%81%86%E5%A1%97%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B-%E7%B1%B3-nrf-2026-%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%88%E3%81%9F%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD-activity-7435672968908701696-WQNv",
-    "https://www.linkedin.com/posts/blueprint-data-centers_datacenters-digitalinfrastructure-supplychain-activity-7449532694079889408-g_1s",
-    "https://jp.linkedin.com/pulse/how-ai-tools-can-help-investigative-journalists-dr-naureen-aleem-iaisf?tl=ja",
-    "https://jp.linkedin.com/pulse/data-terminologies-get-asked-interviews-explained-simply-omuta-kelef?tl=ja",
-    "https://jp.linkedin.com/pulse/new-rules-getting-media-coverage-2026-autumn-enoch--5cuzc?tl=ja",
-    "https://jp.linkedin.com/pulse/data-warehouse-practice-episode-2-granularity-most-important-pietro-dnarf?tl=ja",
-    "https://www.linkedin.com/posts/nogami_journalismawards-datajournalism-geopolitics-activity-7475747430328651776-FkKh"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "site:facebook.com データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）",
-   "results": [
-    "https://www.facebook.com/denzogotchicks/videos/-%E3%83%84%E3%83%90%E3%83%AB%E7%89%B9%E5%88%A5%E5%A0%B1%E9%81%93%E6%B5%B7%E4%B8%8A%E3%83%87%E3%83%BC%E3%82%BF%E9%83%BD%E5%B8%82%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%A7%8B%E5%8B%95-%EF%B8%8F%E5%A4%AA%E5%B9%B3%E6%B4%8B%E3%81%AE%E5%B0%8F%E5%9B%BD%E3%83%84%E3%83%90%E3%83%AB%E3%81%AF%E6%B5%B7%E3%81%AB%E6%B5%AE%E3%81%8B%E3%81%B6%E3%83%87%E3%83%BC%E3%82%BF%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%92%E5%BB%BA%E8%A8%AD%E3%81%97%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A8%E6%B3%A2%E3%81%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%A7%E7%A8%BC%E5%83%8D%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E9%83%BD%E5%B8%82%E3%82%92%E9%96%8B%E7%99%BA/1658649481991981/",
-    "https://www.facebook.com/kankyo.metro.tokyo.jp/posts/%E5%A0%B1%E9%81%93%E7%99%BA%E8%A1%A8%E9%83%BD%E4%BA%8B%E6%A5%AD%E6%89%80%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%BB%83%E6%A3%84%E7%89%A9%E3%83%87%E3%83%BC%E3%82%BF%E7%AE%A1%E7%90%86dx%E3%83%84%E3%83%BC%E3%81%AE%E5%B0%8E%E5%85%A5%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%AF%E4%BB%A5%E4%B8%8Burl%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1599050952264940/",
-    "https://www.facebook.com/marugamesports/posts/%E6%97%A5%E9%A0%83%E3%82%88%E3%82%8A%E4%B8%B8%E4%BA%80%E5%B8%82%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%8D%94%E4%BC%9A%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%81%94%E5%88%A9%E7%94%A8%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E5%90%84%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A7%E5%A0%B1%E9%81%93%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E9%80%9A%E3%82%8A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Ephp%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E6%B7%B1%E5%88%BB%E3%81%AA%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E7%A2%BA%E8%AA%8D%E3%81%95%E3%82%8C%E3%81%BE/1617449903512094/",
-    "https://www.facebook.com/uwajima.city/posts/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%B8%80%E9%83%A8%E6%A9%9F%E8%83%BD%E3%82%92%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%90%84%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A7%E5%A0%B1%E9%81%93%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A8%E3%81%8A%E3%82%8A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Ephp%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E7%AA%83%E5%8F%96%E3%82%84web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E6%94%B9%E3%81%96%E3%82%93%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E3%81%AA%E3%81%A9%E3%81%AB/1625891626236881/",
-    "https://www.facebook.com/jxpresscorp/?locale=ja_JP",
-    "https://www.facebook.com/Reporterssansfrontieres/videos/-rsfindex2026-press-freedom-is-at-its-lowest-level-in-25-yearsfor-the-first-time/1760200388679357/",
-    "https://www.facebook.com/tbsnewsdig/videos/%E3%83%95%E3%82%B8%E7%94%A3%E7%B5%8C-%E4%B8%96%E8%AB%96%E8%AA%BF%E6%9F%BB%E3%81%AB%E4%B8%8D%E6%AD%A3%E3%81%AA%E5%85%A5%E5%8A%9B%E8%AA%BF%E6%9F%BB%E4%BC%9A%E7%A4%BE%E3%81%8C%E6%9E%B6%E7%A9%BA%E3%83%87%E3%83%BC%E3%82%BF/880906159101145/",
-    "https://www.facebook.com/UN.Japan/posts/%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E3%81%A7-%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88%E3%81%9F%E3%81%A1%E3%81%AF%E7%9C%9F%E5%AE%9F%E3%82%92%E4%BC%9D%E3%81%88%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB-%E4%BB%8A%E3%81%AA%E3%81%8A%E3%81%82%E3%81%BE%E3%82%8A%E3%81%AB%E3%82%82%E5%A4%A7%E3%81%8D%E3%81%AA%E4%BB%A3%E5%84%9F%E3%82%92%E6%89%95%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88%E3%81%8C%E6%A8%99%E7%9A%84%E3%81%A8%E3%81%AA%E3%82%8A-%E3%81%9D%E3%81%AE%E5%A0%B1%E9%81%93%E3%81%8C%E5%B0%81%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%8D-%E7%A7%81%E3%81%9F%E3%81%A1%E5%85%A8%E5%93%A1%E3%81%8C/1560318506130066/",
-    "https://www.facebook.com/cgtnjapanese/videos/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8F%B3%E7%BF%BC%E5%8B%A2%E5%8A%9B%E3%81%AB%E3%82%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9D%E3%82%A4%E3%82%BA%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%92%E6%89%B9%E5%88%A4%E5%A4%96%E4%BA%A4%E9%83%A8%E3%81%AE%E6%AF%9B%E5%AF%A7%E5%A0%B1%E9%81%93%E5%AE%98%E3%81%AF10%E6%9C%889%E6%97%A5%E3%81%AE%E5%AE%9A%E4%BE%8B%E8%A8%98%E8%80%85%E4%BC%9A%E8%A6%8B%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8F%B3%E7%BF%BC%E5%8B%A2%E5%8A%9B%E3%81%8C%E4%B8%83%E4%B8%83%E4%BA%8B%E5%A4%89%E7%9B%A7%E6%BA%9D%E6%A9%8B%E4%BA%8B%E5%A4%89%E3%82%92%E6%97%A5%E4%B8%AD%E9%96%93%E3%81%AE%E8%BB%8D%E4%BA%8B%E8%A1%9D%E7%AA%81%E5%8D%97%E4%BA%AC%E5%A4%A7%E8%99%90/1417971783053495/",
-    "https://www.facebook.com/mseventnet/posts/%E9%87%8D%E8%A6%81%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%91%E3%83%83%E3%83%81%E9%81%A9%E7%94%A8%E5%AE%8C%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E7%8F%BE%E5%9C%A8%E5%A0%B1%E9%81%93%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%B8%8A%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%B8%E3%81%AE%E5%AF%BE%E7%AD%96%E3%81%A8%E3%81%97%E3%81%A6%E6%9C%AC%E6%97%A510%E6%9C%8822%E6%97%A58%E6%99%82%E3%82%88%E3%82%8A%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%91%E3%83%83%E3%83%81%E3%81%AE%E9%81%A9%E7%94%A8%E4%BD%9C%E6%A5%AD%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E6%AD%A3%E5%B8%B8%E3%81%AB/1835572381422885/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
-  },
-  {
-   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） note 社長",
-   "results": [
-    "https://note.com/t_note_memo/n/n5f463357da7f",
-    "https://note.com/pr_analytics_lab/n/nd2c23aeecfea",
-    "https://note.com/pokemimi/n/nc4b6cfd25f67",
-    "https://note.jp/n/n7917dc1cdfe9",
-    "https://vdata.nikkei.com/",
-    "https://note.com/kagawatomo/n/n41abb6bcd142",
-    "https://ai-no-chikara.com/posts/note-algorithm-2026",
-    "https://note.com/affelhansa/n/n3f3982832e9d",
-    "https://sai31.co.jp/blog/genai-fact-check",
-    "https://note.com/report_check_lab/n/n710cbd0ecc36"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） X 投稿",
-   "results": [
-    "https://www.xc-times.com/use_case/5259/",
-    "https://help.x.com/ja/using-x/articles",
-    "https://taga-tame.com/blog/how-to-use-twitter-analytics-and-5-effective-analysis-methods/",
-    "https://vdata.nikkei.com/",
-    "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
-    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
-    "https://note.com/ogataka/n/n51f144be23b1",
-    "https://sinis-x.tetemarche.co.jp/blog/X-report",
-    "https://prtimes.jp/main/html/rd/p/000000236.000137731.html",
-    "https://x.com/kanautechjp/status/2113472984295862644"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "data journalism bad data guide checklist percent change percentage points inflation adjustment site:linkedin.com",
-   "results": [
-    "https://uk.linkedin.com/in/joel-suss-b2451156",
-    "https://www.linkedin.com/in/elizabethrenter",
-    "https://www.linkedin.com/in/jacktmwalker",
-    "https://www.linkedin.com/in/clara-harter-a70200115",
-    "https://www.linkedin.com/in/jodibeggs",
-    "https://www.linkedin.com/in/kelciepegher",
-    "https://www.linkedin.com/in/matthustiles",
-    "https://www.linkedin.com/in/cahogan",
-    "https://www.linkedin.com/in/sisiwei",
-    "https://www.linkedin.com/in/catelizabethmurphy"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  }
- ],
- "missing": {},
- "new_this_run": {
   "手順・やり方": [
+   {
+    "quote": "GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It’s very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it’s important that methods used be transparent. It’s rare that you’ll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
     "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
@@ -1172,7 +453,205 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you've got",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". However, if you have Adobe Creative Cloud then you also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don't want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A tremendous amount of data—especially government data—is only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting it. (If you’ve got",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you’ve got",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". However, if you have Adobe Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://github.com/Quartz/bad-data-guide#data-are-in-a-pdf\">Data are in a PDF</a></li>",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The Quartz guide to bad data — Jul 21, 2022 · This guide presents thorough descriptions and possible solutions to many of the kinds of problems that you will encounter when working with data. Most of these problems can be solved.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · This guide was written to help Quartz staff identify problems with data they report on. After publishing it on GitHub, we heard from folks in many other industries who also found it helpful, so we’re republishing it here for the benefit of all Quartz readers. The most up-to-date version of this guide can always be found on Gi",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The Quartz guide to bad data — Jul 21, 2022 · As a reporter your world is full of data. And those data are full of problems. This guide presents thorough descriptions and possible solutions to many of the kinds of problems that you will ...",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The Quartz guide to bad dataThe Quartz Guide to Bad Data – Global Investigative ...4 Tips for Avoiding Math Errors - EWA4 Tips for Avoiding Math Errors When Reporting – Global ...Percent change versus percentage-point change: What’s the ... — Beware blank or “null” values in any dataset unless you are certain you know what they mean. If the data are annual, was the value for that year never collec",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data. Most of these problems can be solved.",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Beware any data that purports to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Beware any data that purport to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "失敗・落とし穴": [
+   {
+    "quote": "You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn't mean you shouldn't use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This problem tends to crop up in subjects where people have a strong confirmation bias. (\"Just as I thought, crime is up!\") Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "You can not possibly review every dataset you encounter with for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is one very common mistake.) If you find those, you can be pretty sure the data was compiled or edited by hand and that is always a reason to be skeptical of it. Data that has been edited by hand is the most likely to have mistakes. This doesn’t mean you shouldn’t use it but you may need to manually correct those mistakes or otherwise account for them in your reporting.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This problem tends to crop up in subjects where people have a strong confirmation bias. (“Just as I thought, crime is up!”) Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
     "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
@@ -1209,218 +688,354 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "突き合わせ・推定": [
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
    {
-    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://note.com/report_check_lab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nagi_shisaku/n/n7bd983d866cb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/report_check_lab/n/n710cbd0ecc36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/report_check_lab/n/n778340086601",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_company30/n/n36c20b984d9e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/airakuraku/n/nacb5408bf346",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saycom.jp/product/see-note",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stock-app.info/media/inspection-table-templates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japankaikei.com/blog/report-template.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kanautechjp/status/2113472984295862644",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kodachi.jp/column/claude-data-anomaly-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trash-b.tech/tenken-hyo-tsukurikata-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenkenban.com/column/tenkenhyou-tsukurikata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bijicon.co.jp/blog/inspection-checklist-excel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://debono.co.jp/media/ai-usecase/rd-report-number-consistency-check/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://techworker.co.jp/agent-cases/site-improvement-cycle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ciallo.wiki/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%A0%B1%E9%81%93/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tebiki.jp/genba/useful/checklist-digitalization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosta.com/articles/personal-data-breach-weekly-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.journalism.columbia.edu/content/quartz-guide-bad-data",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "status": "http_403",
+    "method": "http"
    },
    {
-    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Beware any data that purport to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you’ve got",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": ". However, if you have Adobe Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://journalistsresource.org/home/percent-change-math-for-journalists/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<li><a href=\"https://github.com/Quartz/bad-data-guide#data-are-in-a-pdf\">Data are in a PDF</a></li>",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don’t know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "may be represented in another way. For example a false",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "can help streamline the spelling correction process by suggesting close matches between inconsistent values within a column (for example, matching",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", but really aren’t. This is often the case with surveys where",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "You’ve got states and you need counties. You’ve got employers and you need employees. They gave you years, but you want months. In many cases we get data that have been aggregated too much for our purposes.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "you’re using Excel on a Mac, in which case it’s",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In the vast majority of cases your text editor or spreadsheet application will figure out the correct encoding, however, if it screws it up you could publishing somebody’s name with a weird character in the middle. Your source should be able to tell you what encoding your data are in. In the event they can’t there are ways of guessing that are about fairly reliable. Ask a programmer.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". In this case you’ve got counties, but you want states or you’ve got months but you want years. Fortunately this is usually pretty straightforward.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In all of these cases the main solution is simply to identify the problem. Obviously trying to perform any analysis on a spreadsheet that has these kinds of problems will fail, sometimes for non-obvious reasons. When looking at new data for the first time it’s always a good idea to ensure there aren’t extra header rows or other formatting characters inserted amongst the data.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "? There is no one definitive answer. In general, if you’re going to compute aggregates on columns that are missing data, you can safely do so by filtering out the missing rows first, but be careful not to compare aggregates from two different columns where different rows were missing values! In some cases the missing values might also be legitimately interpreted as",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", where 2004 = 100). In either of these cases, 2004 may or may not be an appropriate year for comparison. It could have been an unusually high crime year.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "seconds. This is a major red flag that something has gone wrong in the production of the data. In this particular case an error in the code I wrote caused some failures to continue counting while all other messages were being sent and received.",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, the United Nations",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "P-hacking is intentionally altering the data, changing the statistical analysis, or selectively reporting results in order to have statistically significant findings. Examples of this include: stop collecting data once you have a significant results, remove observations to get a significant result, or perform many analyses and only report the few that are significant. There has been some",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Journalists, start as you would any other investigation: with initial research and reporting to identify what data and documents exist. If you get stuck, look for examples of similar reporting (these can be found in the",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "You also need to have an internal process for independently double-checking the data analysis. And keeping a data diary is essential to this end. For example, if you have a large enough team, one reporter could be the backstop for another. You also might ask a trusted colleague outside the organisation to be your backstop.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Data diaries can take many forms. Here’s one example.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Look for inconsistencies in key fields. For example, are city names spelled the same way? It’s important because it could affect your results. You can do this check by getting a list of all unique possibilities within a given field and sorting them alphabetically.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Make sure that numeric fields are within valid ranges. For example, does your data include dates of birth that would make individuals too young or too old?",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Double-check surprising results. For example, if citations spiked by 50% in one year, it could be a story or it could (more likely) be an error.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Maintain a consistent universe of cases. If you have to filter or redefine your universe, be able to explain why you isolated certain records or cases.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Here are a couple of examples of handling methodology in copy. Aside from including a few paragraphs in your story, which is how simple methodologies can be handled, you can write a separate short",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "As we mentioned at the start, the best data stories are not data heavy. They don’t ask readers to ‘do the math’, and they don’t subject the narrative to a lot of numbers. They tell the story or stories that the data has surfaced, through interesting characters or circumstances. As you guide your reporters through the writing phase, consider some of the below examples.",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This is not to say that using the findings of a data analysis in your lead is always a bad idea. Each story, including its methodology and findings, needs to dictate the best approach to follow. Consider these examples:",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Compared to this narrative-based example from ESPN, on what ends up in some US stadium foods:",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Some examples below illustrate how data can achieve storytelling goals:",
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://ewa.org/data-research-tips/tips-for-avoiding-math-errors-data-journalism-jennifer-lafleur",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
- "runs": 4,
+ "search_log": [
+  {
+   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） site:note.com",
+   "results": [
+    "https://note.com/report_check_lab",
+    "https://note.com/nagi_shisaku/n/n7bd983d866cb",
+    "https://note.com/report_check_lab/n/n710cbd0ecc36",
+    "https://note.com/report_check_lab/n/n778340086601",
+    "https://note.com/ai_company30/n/n36c20b984d9e",
+    "https://note.com/airakuraku/n/nacb5408bf346",
+    "https://note.com/ajiris/n/ndc54e2d62b99"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） note",
+   "results": [
+    "https://www.saycom.jp/product/see-note",
+    "https://note.com/report_check_lab",
+    "https://note.com/report_check_lab/n/n710cbd0ecc36",
+    "https://www.stock-app.info/media/inspection-table-templates/",
+    "https://japankaikei.com/blog/report-template.html",
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://kodachi.jp/column/claude-data-anomaly-check/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） やり方",
+   "results": [
+    "https://www.trash-b.tech/tenken-hyo-tsukurikata-2026/",
+    "https://japankaikei.com/blog/report-template.html",
+    "https://tenkenban.com/column/tenkenhyou-tsukurikata/",
+    "https://kodachi.jp/column/claude-data-anomaly-check/",
+    "https://www.stock-app.info/media/inspection-table-templates/",
+    "https://bijicon.co.jp/blog/inspection-checklist-excel/",
+    "https://note.com/report_check_lab/n/n778340086601"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） 事例",
+   "results": [
+    "https://note.com/ai_company30/n/n36c20b984d9e",
+    "https://note.com/report_check_lab/n/n778340086601",
+    "https://debono.co.jp/media/ai-usecase/rd-report-number-consistency-check/",
+    "https://techworker.co.jp/agent-cases/site-improvement-cycle",
+    "https://ciallo.wiki/wiki/データ報道/ja",
+    "https://japankaikei.com/blog/report-template.html",
+    "https://tebiki.jp/genba/useful/checklist-digitalization/",
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://www.trash-b.tech/tenken-hyo-tsukurikata-2026/",
+    "https://note.com/report_check_lab/n/n710cbd0ecc36"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "data journalism bad data guide checklist percent change percentage points inflation adjustment",
+   "results": [
+    "https://data.journalism.columbia.edu/content/quartz-guide-bad-data",
+    "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "https://github.com/Quartz/bad-data-guide",
+    "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "https://journalistsresource.org/home/percent-change-math-for-journalists/",
+    "https://ewa.org/data-research-tips/tips-for-avoiding-math-errors-data-journalism-jennifer-lafleur",
+    "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）",
+   "results": [
+    "https://note.com/report_check_lab",
+    "https://note.com/report_check_lab/n/n710cbd0ecc36",
+    "https://note.com/nagi_shisaku/n/n7bd983d866cb",
+    "https://note.com/ai_company30/n/n36c20b984d9e",
+    "https://note.com/report_check_lab/n/n778340086601",
+    "https://note.com/ajiris/n/ndc54e2d62b99",
+    "https://note.com/airakuraku/n/nacb5408bf346"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）",
+   "results": [
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://x.com/Mar_3simai/status/2099473803684594122",
+    "https://x.com/naomi_tokashiki/status/2118241222104097239",
+    "https://x.com/0zHops4zBCz4Jij/status/2112119194934550566",
+    "https://x.com/Charlie_no_site/status/2108666105434870084",
+    "https://x.com/ai_loto6_lab/status/2113850971923366220",
+    "https://x.com/kinamocchi_tech/status/2106083610994372977"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）",
+   "results": [
+    "https://www.linkedin.com/posts/shotaro-suzuki-5ab0b719_総務省報道資料統計表における機械判読可能なデータの表記方法の統一ルールの策定-activity-6995222806313545728-fKoU",
+    "https://www.linkedin.com/in/ddksinha",
+    "https://th.linkedin.com/in/hiroki-ito-b970b312b",
+    "https://ro.linkedin.com/in/silvia-maican-0989a117",
+    "https://uk.linkedin.com/in/grace-pritchard-143693169",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "https://jp.linkedin.com/pulse/kabukenのご紹介数字の出どころが分かる日本企業の開示データ-intellics-be8ac"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）",
+   "results": [
+    "https://www.facebook.com/kitagawa.takashi/",
+    "https://www.facebook.com/SlowNewsJP/posts/新シリーズスタート荻原和樹のビジュアルデータウォッチhttpsslownewscomnn52a5db64aaf7データ可視化やデータ報道のスペシャリスト荻原和樹/657284697055520/",
+    "https://www.facebook.com/toacorporation.jp/posts/非常用放送設備-点検報告書作成サービス-β版の無償提供を開始しました-使い方は簡単スマホに点検データをアップロードするだけ業務効率化-の第一歩としてぜひこの機会/1580906970705680/",
+    "https://www.facebook.com/61566400814756/posts/紙やfaxの点検表の集計作業も日報dxで効率化日報dxでエレベーター点検表をocrする動画を公開しました日報dxを使えば紙やfaxで受け取った点検表の集計作業が/122119578566546693/",
+    "https://ka-ge.facebook.com/tbs.houtoku/videos/21日の-報道特集-後半は入管女性死見過ごされた異常数値スリランカ人女性の死を巡って新たに明らかになった事実見過ごされた重要な証拠こんなことは誰にも起きて欲しく/356941102645253/",
+    "https://www.facebook.com/Dialogue4People/posts/943212446115973/",
+    "https://www.facebook.com/solpac.vn/videos/-工場の点検帳票は管理者のもとへ届くまでに何工程かかっていますかもし答えが-紙に記入する-写真を撮る-メールやチャットで送る-excelへ入力する-報告書を作成/1219031033772971/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） note 社長",
+   "results": [
+    "https://note.com/report_check_lab/n/n710cbd0ecc36",
+    "https://note.com/ai_company30/n/n36c20b984d9e",
+    "https://japankaikei.com/blog/report-template.html",
+    "https://www.sapporotax.com/goods-numbers-to-check-monthly-for-ceo/",
+    "https://sns-unyo-note.jp/tools/data-suji-toukou-misekata/",
+    "https://blog-ma.rakunisu.com/blog/社長が毎月見る数字は、実はこれだけでいい/",
+    "https://sns-unyo-note.jp/articles/data-suji-toukou-misekata/",
+    "https://www.saycom.jp/product/see-note",
+    "https://note.com/tonarino_cfo/n/nc55bf7267512",
+    "https://x.com/kanautechjp/status/2113472984295862644"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め） X 投稿",
+   "results": [
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://sns-unyo-note.jp/articles/data-suji-toukou-misekata/",
+    "https://sns-unyo-note.jp/tools/data-suji-toukou-misekata/",
+    "https://x.com/Mar_3simai/status/2099473803684594122",
+    "https://digital-supporter.net/giin/0840.html",
+    "https://techgym.jp/column/x-twitter/",
+    "https://www.comnico.jp/we-love-social/how-to-use-twitter-analytics",
+    "https://mediadogs.jp/2026/10/08/dpoint-data-sale-claim/",
+    "https://kodachi.jp/column/claude-data-anomaly-check/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "data journalism bad data guide checklist percent change percentage points inflation adjustment site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/advice/3/what-most-common-data-journalism-pitfalls-avoid-skills-journalism-vmswc",
+    "https://www.linkedin.com/advice/0/how-do-you-adjust-economic-data-skills-economics",
+    "https://in.linkedin.com/posts/bdoremus_bad-data-in-risk-adjustment-root-causes-activity-7051966892185419776-935A",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
+    "https://www.linkedin.com/pulse/bad-data-doesnt-happen-magically-guide-finding-fixing-beth-hegland-xcpse",
+    "https://www.linkedin.com/pulse/phantom-inflation-problem-how-statistical-agencies-handle-bo-xu-lp0cc",
+    "https://www.linkedin.com/advice/3/what-do-you-bad-data-skills-research"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "検索結果の抜粋": [
+   {
+    "quote": "The Quartz guide to bad data — Jul 21, 2022 · This guide presents thorough descriptions and possible solutions to many of the kinds of problems that you will encounter when working with data. Most of these problems can be solved.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 5,
  "first_researched_at": "2026-11-07T03:57:50.447625+00:00"
 }
