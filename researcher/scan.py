@@ -2696,7 +2696,7 @@ def scan(topic):
     try:
         _HEAD = {"従業者": re.compile(r"従業者"), "従業員": re.compile(r"従業員|社員数"), "常用労働者": re.compile(r"常用(労働|雇用)者"),
                  "被保険者": re.compile(r"被保険者"), "正社員": re.compile(r"正社員|正規"), "パート・時間換算": re.compile(r"パート|非正規|時間換算|1,?800時間"),
-                 "役員含む": re.compile(r"役員|個人業主|家族従業者")}
+                 "役員含む": re.compile(r"役員|個人業主|家族従業者"), "就業者": re.compile(r"就業者|労働者")}
         _hd = {}
         for r in rows:
             if "人" not in str(r["単位"]) and not re.search(r"(従業|社員|人員|雇用)", r["引用"]): continue
@@ -2704,7 +2704,11 @@ def scan(topic):
                 if p.search(r["引用"]): _hd.setdefault(r["品目"], set()).add(k)
         _mixhd = sorted(((n, v) for n, v in _hd.items() if len(v) >= 2), key=lambda x: -len(x[1]))
         _PER = re.compile(r"(1人|一人|１人)(あたり|当たり)")
-        _per = [r for r in rows if _PER.search(r["引用"])]
+        # 2026-11-08 78回目の走査の失敗から：経済センサスの表の注記（「注:「事業所数」、「年間入場者1人当たり売上高」…」）は
+        # 他の産業の項目名の並びで、受託の1人あたりの値ではない。注記・項目名の並びから始まる引用は1人あたりの点検から外して数だけ出す
+        _NOTE = re.compile(r"^\s*(注|※)\s*\d*\s*[:：]")
+        _pernote = [r for r in rows if _PER.search(r["引用"]) and _NOTE.search(r["引用"])]
+        _per = [r for r in rows if _PER.search(r["引用"]) and not _NOTE.search(r["引用"])]
         _perno = [r for r in _per if not any(p.search(r["引用"]) for p in _HEAD.values())]
         _UP2 = re.compile(r"(増|伸び|上昇|拡大|改善|回復)")
         _DN2 = re.compile(r"(減|低下|縮小|悪化|下落|落ち込)")
@@ -2721,11 +2725,58 @@ def scan(topic):
                f"- 人数の引用に2種類以上の定義（従業者・従業員・常用労働者・被保険者・正社員・パートの時間換算・役員含む）が混ざる品目：{len(_mixhd)}品目。定義の違う人数で割らず、同じ定義どうしで1人あたりを出す",
                *(f"  - {n[:55]}（{'・'.join(sorted(v))}）" for n, v in _mixhd[:10]),
                f"- 「1人あたり」の引用 {len(_per)}件のうち、分母の人数の定義が本文に無いもの：{len(_perno)}件。定義が分かるまで他の出典の1人あたりと並べない",
+               f"- 表の注記・項目名の並び（「注:」から始まる）で1人あたりの語を含むため点検から外した引用：{len(_pernote)}件（値にしない・4-5）",
                *(f"  - {r['品目'][:40]}：{r['引用'][:60]}" for r in _perno[:5]),
                f"- 上向きと下向きの引用が同数の品目（判定できない・同順位）：{len(_tie)}品目",
                *(f"  - {n[:55]}" for n in _tie[:8]),
                f"- 上向き・下向きの両方がある品目（合わない側だけでなく両方と一次の数を見る）：{len(_both)}品目",
                *(f"  - {n[:45]}：上向き {e['上']}件（一次 {e['上一次']}）・下向き {e['下']}件（一次 {e['下一次']}）" for n, e in _both[:10]),
+               ""]
+    except Exception: pass
+    # 2026-11-08 4-103（長崎県統計年鑑「第7章 鉱工業・建設」の用語の説明：製造品出荷額等は従業者30人以上の事業所では
+    # 在庫・半製品の増減を含み、29人以下では出荷額＋加工賃収入額だけ。付加価値額は30人以上だけで、29人以下は粗付加価値。
+    # 合計の行は1〜3人を含むことがある。instagit「private-company-research の確度」：同じ確度の出どころが割れたら両方を並べ採否の列を付ける。
+    # Foodservice IP「市場を調べているのか、仮定を確かめているのか」：熱の数字（市場規模・成長率）でなく払う側の採算で見る）。
+    # ①同じ品目に29人以下と30人以上の規模が混ざる出荷額・付加価値の行 ②4人以上と裾切りの書かれない合計が同じ品目に混ざる行
+    # ③品目ごとに「熱の数字」だけで「払う側の採算」（人件費・利益率・保管・在庫・粗利）の引用が無いもの
+    try:
+        def _szlo(s):
+            m = re.search(r"(\d+)\s*[〜~～\-－]\s*(\d+)\s*人", s or "")
+            if m: return int(m.group(1)), int(m.group(2))
+            m = re.search(r"(\d+)\s*人以上", s or "")
+            if m: return int(m.group(1)), 10**6
+            m = re.search(r"(\d+)\s*人以下", s or "")
+            if m: return 1, int(m.group(1))
+            return None
+        _sz = {}
+        for r in rows:
+            if not re.search(r"(出荷|付加価値)", r["区分"] + r["引用"]): continue
+            b = _szlo(r["規模"] + " " + r["引用"])
+            if not b: continue
+            e = _sz.setdefault(r["品目"], set())
+            e.add("29人以下" if b[1] <= 29 else ("30人以上" if b[0] >= 30 else "またぐ"))
+        _szmix = sorted(n for n, v in _sz.items() if "29人以下" in v and "30人以上" in v)
+        _thr = {}
+        for r in rows:
+            if r["一次"] != "一次": continue
+            k = "4人以上" if re.search(r"4\s*人以上", r["規模"] + r["引用"]) else ("裾切り不明" if not r["規模"] else None)
+            if k: _thr.setdefault(r["品目"], set()).add(k)
+        _thrmix = sorted(n for n, v in _thr.items() if len(v) == 2)
+        _HYPE = re.compile(r"(市場規模|CAGR|年平均成長率|成長率|兆円|億ドル)")
+        _ECON = re.compile(r"(人件費|利益率|粗利|採算|保管|在庫|原価|単価|回収)")
+        _hy = {}
+        for r in rows:
+            e = _hy.setdefault(r["品目"], [0, 0])
+            if _HYPE.search(r["引用"]): e[0] += 1
+            if _ECON.search(r["引用"]): e[1] += 1
+        _hyonly = sorted(((n, e[0]) for n, e in _hy.items() if e[0] >= 2 and e[1] == 0), key=lambda x: -x[1])
+        md += ["## 規模で変わる出荷額の定義・裾切りの混在・熱の数字だけの品目（4-103・機械）",
+               f"- 出荷額・付加価値の行に従業者29人以下と30人以上が混ざる品目：{len(_szmix)}品目。29人以下は在庫増減を含まず付加価値も粗付加価値なので、規模をまたいで1人あたり・付加価値率を並べない",
+               *(f"  - {n[:60]}" for n in _szmix[:8]),
+               f"- 一次の行に「4人以上」と裾切りの書かれない値が混ざる品目：{len(_thrmix)}品目。合計に1〜3人が入っていないかを表の注記で確かめてからつなぐ",
+               *(f"  - {n[:60]}" for n in _thrmix[:8]),
+               f"- 市場規模・成長率の引用が2件以上あり、払う側の採算（人件費・利益率・在庫・単価・回収）の引用が0件の品目：{len(_hyonly)}品目。熱の数字だけで A1 の候補を決めない",
+               *(f"  - {n[:55]}（熱の数字 {c}件）" for n, c in _hyonly[:8]),
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
