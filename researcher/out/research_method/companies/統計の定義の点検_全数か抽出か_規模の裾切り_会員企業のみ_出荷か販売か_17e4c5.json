@@ -8,8 +8,100 @@
  ],
  "context": "定義の点検",
  "kind": "market",
- "researched_at": "2026-11-08T11:16:10.498213+00:00",
+ "researched_at": "2026-11-08T19:22:03.940169+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）約１７，０００ （配布）郵送・調査員・オン",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定） 無作為抽出 （客体数／母集団数） 【世帯】 約277,000（ただし、",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定）無作為抽出 （客体数／母集団数）約 6,000（ただし、平成28",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定）無作為抽出 （客体数／母集団数） 【世帯】約 50,000（ただし、",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定）無作為抽出 （客体数／母集団数） 【世帯 】約 50,000（ただし、",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定） 無作為抽出 （客体数／母集団数）【世帯】 約55,000／約51,951,000、",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定） 無作為抽出 （客体数／母集団数）【世帯】 約13,000／約 55,000、",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "括調査と国直送調査）とする調査方法の変更がなされた",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）約 65,000 （配布）調査員・郵送・オンライ",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）約 290,000 （配布）調査員・郵送・オンライ",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）約 300 （配布）郵送・オンライン （取集）",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査事項】 １． 産業廃棄物としての水銀を含む廃製品の中間処理量及び中間処理方法、",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外の水銀を含む産業廃棄物の中間処理量及び中間処理方法、４．廃製品以外",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "のの処理量及び処理方法、６．廃棄物以外の水銀を含むものからの水銀回収",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）36,365 （配布）オンライン （取集）オンラ",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "統計法令に基づく統計調査の承認及び届出の状況",
@@ -102,6 +194,14 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "勢や他都道府県の状況と照合することで、 観光行政の的確な実施に役立てること",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "実例": [
    {
     "quote": "登校児童生徒数、 ４． 不登校の要因、 ５． 不登校児童生徒への指導結果状況、",
@@ -133,106 +233,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "勢や他都道府県の状況と照合することで、 観光行政の的確な実施に役立てること",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "【調査方法】 （選定）全数 （客体数）約１７，０００ （配布）郵送・調査員・オン",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定） 無作為抽出 （客体数／母集団数） 【世帯】 約277,000（ただし、",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定）無作為抽出 （客体数／母集団数）約 6,000（ただし、平成28",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定）無作為抽出 （客体数／母集団数） 【世帯】約 50,000（ただし、",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定）無作為抽出 （客体数／母集団数） 【世帯 】約 50,000（ただし、",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定） 無作為抽出 （客体数／母集団数）【世帯】 約55,000／約51,951,000、",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定） 無作為抽出 （客体数／母集団数）【世帯】 約13,000／約 55,000、",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "括調査と国直送調査）とする調査方法の変更がなされた",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定）全数 （客体数）約 65,000 （配布）調査員・郵送・オンライ",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定）全数 （客体数）約 290,000 （配布）調査員・郵送・オンライ",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定）全数 （客体数）約 300 （配布）郵送・オンライン （取集）",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査事項】 １． 産業廃棄物としての水銀を含む廃製品の中間処理量及び中間処理方法、",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "外の水銀を含む産業廃棄物の中間処理量及び中間処理方法、４．廃製品以外",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "のの処理量及び処理方法、６．廃棄物以外の水銀を含むものからの水銀回収",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査方法】 （選定）全数 （客体数）36,365 （配布）オンライン （取集）オンラ",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -244,12 +244,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kenko2024/n/na7db5c406f98",
+    "url": "https://note.com/uminomieruheya/n/n3a1ab577382d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
+    "url": "https://note.com/kenko2024/n/na7db5c406f98",
     "status": "ok",
     "method": "http"
    },
@@ -259,12 +259,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/roselite/n/nda0bcd852d3e",
+    "url": "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/uminomieruheya/n/n3a1ab577382d",
+    "url": "https://note.com/paguinu/n/n175e4c9bea71",
     "status": "ok",
     "method": "http"
    },
@@ -274,14 +274,14 @@
     "method": "http"
    },
    {
-    "url": "https://instant.engineer/entry/sampling-inspection",
+    "url": "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "url": "https://www.icrr.u-tokyo.ac.jp/~ono/lectures/2023basic_stat/mat05.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.soumu.go.jp/main_content/000596373.pdf",
@@ -289,9 +289,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
+    "url": "https://pref.shimane-toukei.jp/index.php?view=15577",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.onoff.ne.jp/blog/?p=14424",
@@ -299,7 +304,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
+    "url": "https://instant.engineer/entry/sampling-inspection",
     "status": "ok",
     "method": "http"
    },
@@ -309,7 +314,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
+    "url": "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shirasusolo.net/statistics/inspection/post-925/",
     "status": "ok",
     "method": "http"
    },
@@ -319,17 +329,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://training.nielseniq.com/wp-content/uploads/sites/4/2021/02/what-tools-can-i-use-to-understand-my-coverage.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.dimins.com/blog/2026/01/29/shipments-depletions-sell-through-differences/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cpgdatainsights.com/measure-sales/shipments-vs-retailsales/",
+    "url": "https://learn.g2.com/sales-terms",
     "status": "ok",
     "method": "http"
    },
@@ -339,12 +339,22 @@
     "method": "http"
    },
    {
-    "url": "https://learn.microsoft.com/en-us/dynamics365/supply-chain/master-planning/coverage-settings",
+    "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/default-reports/sales-report",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ocean.io/glossary/sales-coverage",
+    "url": "https://www.salesforce.com/sales/performance-management/sales-kpis/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deltasalesapp.com/blog/what-is-sales-coverage-and-how-can-companies-measure-it",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimins.com/blog/2026/01/29/shipments-depletions-sell-through-differences/",
     "status": "ok",
     "method": "http"
    }
@@ -355,12 +365,12 @@
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） site:note.com",
    "results": [
     "https://note.com/uedamath/n/nae5cd24433ea",
-    "https://note.com/kenko2024/n/na7db5c406f98",
-    "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
-    "https://note.com/makememo/n/n7ae565d6e7f0",
-    "https://note.com/roselite/n/nda0bcd852d3e",
     "https://note.com/uminomieruheya/n/n3a1ab577382d",
-    "https://note.com/qiqumo/n/n39d18b7c45a8"
+    "https://note.com/kenko2024/n/na7db5c406f98",
+    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
+    "https://note.com/paguinu/n/n175e4c9bea71",
+    "https://note.com/roselite/n/nda0bcd852d3e"
    ],
    "engines": [
     "ddgs:google"
@@ -372,18 +382,16 @@
    "results": [
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
     "https://note.com/kenko2024/n/na7db5c406f98",
-    "https://instant.engineer/entry/sampling-inspection",
     "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "https://www.icrr.u-tokyo.ac.jp/~ono/lectures/2023basic_stat/mat05.pdf",
     "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
-    "https://www.onoff.ne.jp/blog/?p=14424",
+    "https://pref.shimane-toukei.jp/index.php?view=15577",
     "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） やり方",
@@ -391,13 +399,13 @@
     "https://www.onoff.ne.jp/blog/?p=14424",
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
     "https://instant.engineer/entry/sampling-inspection",
-    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
     "https://sangyo-tech.jp/columns/what-is-full-inspection/",
+    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
     "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection"
+    "https://shirasusolo.net/statistics/inspection/post-925/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -407,44 +415,42 @@
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
     "https://instant.engineer/entry/sampling-inspection",
     "https://www.onoff.ne.jp/blog/?p=14424",
-    "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "https://www.soumu.go.jp/main_content/000754121.pdf",
     "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html"
+    "https://www.soumu.go.jp/main_content/000596373.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
+    "https://www.soumu.go.jp/main_content/000754121.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "checking statistical definitions coverage threshold member-only shipment vs sales",
    "results": [
-    "https://training.nielseniq.com/wp-content/uploads/sites/4/2021/02/what-tools-can-i-use-to-understand-my-coverage.pdf",
-    "https://www.dimins.com/blog/2026/01/29/shipments-depletions-sell-through-differences/",
-    "https://www.cpgdatainsights.com/measure-sales/shipments-vs-retailsales/",
+    "https://learn.g2.com/sales-terms",
     "https://www.census.gov/foreign-trade/guide/sec2.html",
-    "https://learn.microsoft.com/en-us/dynamics365/supply-chain/master-planning/coverage-settings",
-    "https://www.ocean.io/glossary/sales-coverage",
-    "https://www.alexandergroup.com/insights/sales-compensation-careful-about-that-threshold/",
-    "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-772"
+    "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/default-reports/sales-report",
+    "https://www.salesforce.com/sales/performance-management/sales-kpis/",
+    "https://deltasalesapp.com/blog/what-is-sales-coverage-and-how-can-companies-measure-it",
+    "https://www.dimins.com/blog/2026/01/29/shipments-depletions-sell-through-differences/",
+    "https://learn.microsoft.com/en-us/sql/relational-databases/statistics/statistics?view=sql-server-ver17"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:note.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
-    "https://note.com/kenko2024/n/na7db5c406f98",
+    "https://note.com/uedamath/n/nae5cd24433ea",
     "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/kenko2024/n/na7db5c406f98",
     "https://note.com/roselite/n/nda0bcd852d3e",
     "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
     "https://note.com/paguinu/n/n175e4c9bea71",
-    "https://note.com/qiqumo/n/n39d18b7c45a8",
-    "https://note.com/gadget_hack/n/nf2e41056ff6a"
+    "https://note.com/qiqumo/n/n39d18b7c45a8"
    ],
    "engines": [
     "ddgs:google"
@@ -454,16 +460,16 @@
   {
    "query": "site:x.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
-    "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
     "https://x.com/tokuyobi/status/2060647415372259783",
-    "https://x.com/cyy6oajGf368946/status/2118543137463546145",
+    "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
     "https://x.com/Gustav_Mononobe/status/2112725020472680713",
-    "https://x.com/makoto1688/status/1998967163785457900",
-    "https://x.com/BOT_SWkokushi/status/1586953495592464385",
-    "https://x.com/tru_isct/status/2083915567153770905"
+    "https://x.com/cyy6oajGf368946/status/2118543137463546145",
+    "https://x.com/cyy6oajGf368946/status/2118543288047415692",
+    "https://x.com/tru_isct/status/2083915567153770905",
+    "https://x.com/makoto1688/status/1998967163785457900"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -476,7 +482,7 @@
     "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-実務教育研究所-activity-7357251360871903232-BIC0",
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3369083",
     "https://jp.linkedin.com/pulse/wat-statistics-why-important-digital-elearning?tl=ja",
-    "https://jp.linkedin.com/pulse/why-statistics-terminology-especially-confusing-karen-grace-martin-3dfrc?tl=ja"
+    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3371063"
    ],
    "engines": [
     "ddgs:bing"
@@ -490,34 +496,44 @@
     "https://www.facebook.com/jscs.jp/",
     "https://www.facebook.com/koh.iwasaki/posts/世論調査は既に意味が無いと思う無論統計というものを多少齧ったものとしてごく少数のサンプルでも抽出法が適切なら全体を表現出来ることは知っているしかし現状全体を表現/26967837532869703/",
     "https://www.facebook.com/stat.japan/photos/総務省統計局からのお知らせ明日への統計2025を統計局ホームページに掲載しました統計調査の結果をグラフや図を用いてわかりやすく説明しています日本の社会経済の今の/1111615201002507/",
-    "https://www.facebook.com/chiikiokoshikyouryokutai/posts/農林水産省からのお知らせ農林水産統計調査-専門調査員を知っていますか農林水産省大臣官房統計部では実施する一部の統計調査において一般の方を専門調査員として任命雇用/1103569168476743/",
     "https://www.facebook.com/smb.ricoh.co.jp/photos/新しいコラムを公開しました大量のアンケート結果やsnsの投稿から有益な情報を抽出したいそんなお悩みを解決するのがテキストマイニング-ですテキストマイニングは膨大/1287124113449998/",
+    "https://www.facebook.com/chiikiokoshikyouryokutai/posts/農林水産省からのお知らせ農林水産統計調査-専門調査員を知っていますか農林水産省大臣官房統計部では実施する一部の統計調査において一般の方を専門調査員として任命雇用/1103569168476743/",
     "https://www.facebook.com/JAISA.JAPAN/posts/自動認識市場調査報告自動認識システム関連製品の2024年出荷数量出荷金額2025年出荷数量予測出荷金額予測をまとめた自動認識市場調査報告書が完成しました順次会員/1112444967589826/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "https://note.com/kenko2024/n/na7db5c406f98",
+    "https://www.soumu.go.jp/main_content/000596373.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=15577",
+    "https://www.onoff.ne.jp/blog/?p=14424",
+    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） X 投稿",
    "results": [
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
-    "https://instant.engineer/entry/sampling-inspection",
     "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
-    "https://www.onoff.ne.jp/blog/?p=14424",
-    "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
-    "https://www.soumu.go.jp/main_content/000596373.pdf"
+    "https://www.soumu.go.jp/main_content/000596373.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=15577",
+    "https://www.icrr.u-tokyo.ac.jp/~ono/lectures/2023basic_stat/mat05.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
+    "https://instant.engineer/entry/sampling-inspection"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -528,22 +544,20 @@
     "https://www.linkedin.com/pulse/analyzing-sales-coverage-maps-espatial",
     "https://business.linkedin.com/sell/resources/sales-terms",
     "https://business.linkedin.com/sales-solutions/resources/sales-pipeline-definition-and-stages",
-    "https://www.linkedin.com/pulse/pipeline-coverage-what-right-value-your-reps-andteams-zacharia-cpa-wbsnc",
+    "https://www.linkedin.com/pulse/how-calculate-pipeline-coverage-formula-2026-sales-teams-filipowski-eerbf",
     "https://www.linkedin.com/top-content/sales/sales-planning/sales-coverage-planning-tips/",
-    "https://www.linkedin.com/top-content/sales/managing-sales-territories-effectively/territory-coverage-optimization/",
-    "https://www.linkedin.com/posts/jhedrick_stock-throughput-vs-cargo-coverage-what-activity-7323692728632889344-XdqV"
+    "https://www.linkedin.com/pulse/how-risk-adjust-your-pipeline-coverage-ratio-because-sales-sullivan-s35se"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 21,
+ "runs": 22,
  "first_researched_at": "2026-11-05T05:36:39.709245+00:00"
 }

@@ -2212,7 +2212,7 @@
   - 「結果を分析することにより、 京都府社会が、 府政運営の指針である 「明日の京都」」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果、３．歯」（https://www.soumu.go.jp/main_content/000432276.pdf）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3487,7 +3487,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -4367,8 +4367,8 @@
 - 検索結果の抜粋：
   - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary statements, to enhance the credibility and transparency of intelligence analysis.」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
   - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — Intelligence Community Directive (ICD) 206 establishes requirements for sourcing information in disseminated analytic products within the Intelligence Community (IC). It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary 」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
@@ -11918,9 +11918,10 @@
   - 「are what keep the reported counts honest. The default routines in reference management software have documented sensitivity limitations, and structured methods substantially outperform them. What a reader needs is the method, the software and version, the number of duplicates removed, and the number remaining, with source provenance preserved so the per-source counts still reconcile.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
   - 「the list of databases, the concepts searched, the eligibility criteria, and broadly, which supplementary methods were used.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
   - 「are the alternative the guideline explicitly supports, and depositing the search data and method descriptions in a repository produces a citable, permanent record with its own identifier, which is useful where a journal's supplementary handling is restrictive or where you want the search available independently of the paper.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
-  - 「システマティック・レビュー（SR）の報告方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「How to search grey literature for a systematic review: which sources to check (theses, trial registries, conference abstracts, preprints, government/NGO reports), how to translate a search strategy where Boolean syntax isn’t supported, and how to document the search under PRISMA-S so it satisfies PRISMA 2020 reporting.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
 - 突き合わせ・推定：
   - 「There is a figure that the developers of PRISMA-S use to explain why the guideline was necessary, and it is worth sitting with. Estimates of search reproducibility in published systematic reviews range from」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses?」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「開発，検証，翻訳について報告している元の論文を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -11934,8 +11935,15 @@
   - 「具体的な解析プロトコルでは、ノード間の一貫性検証に」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
   - 「特に匿名化処理では、3段階検証システム（自動処理・手動確認・第三者チェック）が個人情報漏洩リスクを82%低減します」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
   - 「測定値の不一致が生じた場合、3段階検証フロー（再測定・機器点検・専門家相談）を採用する機関では、データ廃棄率を56%削減しています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
-  - 「データ欠損：自動入力検証システムの導入（エラー率72%削減）」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
 - 一次情報の探し方：
+  - 「The PRISMA-S checklist is available for download in Word and portable document format (PDF) formats from the PRISMA Statement website [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「PDF (735.5 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「善したというエビデンスは統計的に有意でないもの」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「を採用しているため，研究レジストリはますます重」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -11943,15 +11951,15 @@
   - 「を採用する 135-138）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「crd/Systematic_Reviews.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「Retrieval_v2-0.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「情報源が採用されると，著者は新しいプロセスに対」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Webサイトから Wordおよび PDF 形式でダウンロー」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「普及させ，雑誌による採用を促進する予定である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「2018/08/27/401554.full.pdf.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「of%20Cochrane%20Intervention%20Reviews.PDF. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「books/NBK44099/pdf/TOC.pdf. Accessed 1 Feb, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「2023年の分析では、この手法を採用した論文が掲載率を41%向上させた事例があり、読解時間の短縮効果が認められています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
 - 失敗・落とし穴：
+  - 「Registry name, date searched, search terms/condition and intervention fields used, number of registered trials identified, number with no linked publication (relevant to a risk-of-bias/publication-bias assessment).」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed toward English-language publications with positive results [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Song F, Parekh-Bhurke S, Hooper L, Loke YK, Ryder JJ, Sutton AJ, Hing CB, Harvey I. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Kirkham JJ, Dwan KM, Altman DG, Gamble C, Dodd S, Smyth R, Williamson PR. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「バイアスを最小限に抑えるよう，頑健かつ再現性が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「いことを理由として，そのレビューにはバイアスが」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「使用した場合，著者特有の検索状況によるバイアス」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -11959,30 +11967,22 @@
   - 「な限り多くのバイアスを取り除くために開発された」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「が偏って収録されており，バイアスの削減を達成す」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「索方法にバイアスがかかる可能性がある 67, 68） が，」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「DB の絞り込み機能の使用で検索にバイアスがか」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「込み機能は，その誤りの可能性があるため， SR で」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「は公開された検索の誤り 23）または DB の大きな変」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「outcome reporting bias in randomised controlled trials on a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「publication bias in different categories of research cohorts: a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Lengeler C, Antes G. Language bias in randomised controlled」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「と視覚的なフローチャートを活用した結果、研究デザインの明確化からバイアス評価まで、システマティックな作業が可能に」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
-  - 「メタ解析実施時のバイアスリスク評価フレームワーク」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
 - 実例：
   - 「PRISMA-S emerged from health information practice, and its examples are clinical, but its design scope is explicit: the checklist was built」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
-  - 「献検索，または情報検索プロセスは， SR の結果に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「追跡した結果，この比は年を追うごとに 1.0 に近づ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「scoping review: 既存の研究結果をマッピングしまとめたレビュー;」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ナリシスや SR のデータを統合的に分析して結果をまとめたレ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「研究の完了後に投稿された研究結果も含まれる場合がある」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「デルファイ調査の結果は，Medical Library Associa-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ファイル検索として同時に行い，結果は Ovid 重複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「のWeb サイトを検索すると管理できない数の結果が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「自体が表示できる結果件数に限りがある（たとえば」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Googleは1,000 件の結果しか表示しない） ，あるいは」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「る結果件数の制限を事前に指定することがよくあ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「レビューチームが限られた結果をレビューする」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Systematic Review Abstract Example」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「— A section-by-section walkthrough of the PRISMA 2020 for Abstracts checklist, with a full illustrative composite systematic review abstract example.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycInfo.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Many database platforms offer more than one database on the same platform. Some platforms allow users to search these multiple databases at one time; for example, using the Ovid platform to simultaneously search MEDLINE, Embase, and the Cochrane Database of Systematic Reviews.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Many databases are available on multiple different systems, each of which have their own specifications for how a search strategy can be constructed. The location or host system of the database is the platform. Platform is sometimes referred to as the interface or vendor. Common examples include Ovid, EBSCOhost, ProQuest, and Web of Science.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Many institutions or their affiliated libraries host online repository systems for their faculty, staff, and students. An example is the University of Michigan's Deep Blue Data system (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「For an example of supplementary materials related to a systematic review search, see:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「In this example, the materials shared include a Read Me file to explain the files, EndNote (.enlx) files of screened references, the original files imported into EndNote, and the complete, reproducible search strategies for all information sources.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「). For example, the MEDLINE database is available through at least 10 different platforms, including Ovid, EBSCOhost, Web of Science, and PubMed. Each platform offers different ways of searching the databases, such as platform-specific」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「]). In these cases, authors may choose to include the web address of the database in the text or the bibliography to provide clarity for their readers.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「]. Government, nonprofit organization, and pharmaceutical company websites, for example, contain a wealth of information not published elsewhere [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「>), by citing the websites in the bibliography, or by listing the website with corresponding web address in supplementary material, as shown in the examples above.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Examples,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
 
 ## e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）（e-Stat table preprocessing unit row merged header footnotes missing symbols japanese era year verify totals）
 - 文脈：手法
@@ -14107,11 +14107,11 @@
 
 ## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
 - 文脈：手法・企業調査
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）（journalism foundation guide verifying statistics sources ICFJ Reynolds Center GIJN data quality）
 - 文脈：裏取り

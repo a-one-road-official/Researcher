@@ -8,7 +8,7 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-08T11:26:10.959927+00:00",
+ "researched_at": "2026-11-08T19:16:58.578082+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -387,362 +387,6 @@
    },
    {
     "quote": ", and performance estimates can be obtained by restricting the sample to this subset. For example, with pairwise precision, this corresponds to estimating the ratio of the number of pairwise links within clusters in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Paper citation required for methodology",
-    "url": "https://generate-data.com/blog/entity-resolution-test-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "how to evaluate entity resolution systems (Binette et al., 2024)",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Evaluate Entity Resolution Systems:",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "An Entity-Centric Framework with Application to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "evaluation framework with the following components.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Methodology (§3.2)",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A key component of this type of evaluation is a method of",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2. FRAMEWORK",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "it a step at a time by moving split operations towards the",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "GMD. The theorem below shows how to compute pairwise",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“A heuristic-based hierarchical clustering method for",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "comparison of fast blocking methods for record",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Lee, “Framework for evaluating clustering algorithms",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "each cluster Si ∈ S. The ﬁrst step is determining which",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is generated in two steps. First, the gold standard G is gen-",
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Visualizing the matrix is the first step in diagnosing system performance.",
-    "url": "https://inferensys.com/glossary/enterprise-knowledge-graphs/entity-resolution/precision-and-recall",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": High-precision matching is essential for the merge step to avoid polluting the authoritative record with incorrect data.",
-    "url": "https://inferensys.com/glossary/enterprise-knowledge-graphs/entity-resolution/precision-and-recall",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This framework makes the trade-off explicit: reducing the FP count improves precision, while reducing the FN count improves recall.",
-    "url": "https://inferensys.com/glossary/enterprise-knowledge-graphs/entity-resolution/precision-and-recall",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "how to evaluate entity resolution systems (Binette et al., 2024)",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "clustering step, and (b) a sparsity-aware confidence",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "lessons below hold whichever search method produced the configuration.",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This design is deliberate: a method requiring abundant labels is impractical",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "attribute-based methods, and GAT also suffers a train/test graph mismatch",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "standard post-matching step in ER",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cluster repair with active LLM feedback. These methods operate inside the",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cluster. Our verified-merge step—which re-runs the matcher on",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Optuna: a next-generation hyperparameter optimization framework",
-    "url": "https://arxiv.org/html/2607.26298v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Evaluate Entity Resolution Systems:An Entity-Centric Framework with Application toInventor Name Disambiguation",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Evaluate Entity Resolution Systems:",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "An Entity-Centric Framework with Application to",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this article, we address evaluating the accuracy of entity resolution systems. Traditional evaluation methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding matching pairs, especially those missed by the entity resolution system, is much like looking for a needle in a haystack: in a database of",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "evaluation framework with the following components.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A methodology for creating a benchmark set of fully-resolved entities through manual data labeling (section",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "evaluation. That is, we evaluate the end result of an entity resolution system, without considering its specific architecture. This allows our framework to apply to any entity resolution system, as long as it produces a clustering as an output.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "represents the elements of the evaluation framework as well as their interdependencies.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". This can lead to inaccurate representation of model performance and erroneous ranking of competing methods. In particular, the naive computation of pairwise precision on benchmark data sets has been shown to provide over-optimistic results",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we introduce the proposed methodology. In section",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Most of these data sets provide “ground truth” disambiguation (of various quality) of a specific subset of inventors for a given time period. They are all cluster samples that fit our evaluation framework. However, except for the new inventor benchmark data developed in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". All other linkages are classified as operational, such as linkages that support specific steps in a sample survey, e.g., frame maintenance operations, like removing duplicates or linking different sampling frames in a multi-frame survey. For all the linkages, regardless of their purpose, the accuracy of the linkage decisions is measured with clerical reviews or a statistical model.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We now describe our evaluation framework in detail.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". To evaluate the entity resolution system, we introduce a methodology that samples clusters",
     "url": "https://arxiv.org/html/2404.05622",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1229,6 +873,362 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Paper citation required for methodology",
+    "url": "https://generate-data.com/blog/entity-resolution-test-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "how to evaluate entity resolution systems (Binette et al., 2024)",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "An Entity-Centric Framework with Application to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "evaluation framework with the following components.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Methodology (§3.2)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A key component of this type of evaluation is a method of",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. FRAMEWORK",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "it a step at a time by moving split operations towards the",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "GMD. The theorem below shows how to compute pairwise",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "“A heuristic-based hierarchical clustering method for",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "comparison of fast blocking methods for record",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Lee, “Framework for evaluating clustering algorithms",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "each cluster Si ∈ S. The ﬁrst step is determining which",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is generated in two steps. First, the gold standard G is gen-",
+    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Visualizing the matrix is the first step in diagnosing system performance.",
+    "url": "https://inferensys.com/glossary/enterprise-knowledge-graphs/entity-resolution/precision-and-recall",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": High-precision matching is essential for the merge step to avoid polluting the authoritative record with incorrect data.",
+    "url": "https://inferensys.com/glossary/enterprise-knowledge-graphs/entity-resolution/precision-and-recall",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This framework makes the trade-off explicit: reducing the FP count improves precision, while reducing the FN count improves recall.",
+    "url": "https://inferensys.com/glossary/enterprise-knowledge-graphs/entity-resolution/precision-and-recall",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "how to evaluate entity resolution systems (Binette et al., 2024)",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "clustering step, and (b) a sparsity-aware confidence",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "lessons below hold whichever search method produced the configuration.",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This design is deliberate: a method requiring abundant labels is impractical",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "attribute-based methods, and GAT also suffers a train/test graph mismatch",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "standard post-matching step in ER",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cluster repair with active LLM feedback. These methods operate inside the",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cluster. Our verified-merge step—which re-runs the matcher on",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Optuna: a next-generation hyperparameter optimization framework",
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:An Entity-Centric Framework with Application toInventor Name Disambiguation",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "An Entity-Centric Framework with Application to",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this article, we address evaluating the accuracy of entity resolution systems. Traditional evaluation methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding matching pairs, especially those missed by the entity resolution system, is much like looking for a needle in a haystack: in a database of",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "evaluation framework with the following components.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A methodology for creating a benchmark set of fully-resolved entities through manual data labeling (section",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "evaluation. That is, we evaluate the end result of an entity resolution system, without considering its specific architecture. This allows our framework to apply to any entity resolution system, as long as it produces a clustering as an output.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "represents the elements of the evaluation framework as well as their interdependencies.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". This can lead to inaccurate representation of model performance and erroneous ranking of competing methods. In particular, the naive computation of pairwise precision on benchmark data sets has been shown to provide over-optimistic results",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we introduce the proposed methodology. In section",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Most of these data sets provide “ground truth” disambiguation (of various quality) of a specific subset of inventors for a given time period. They are all cluster samples that fit our evaluation framework. However, except for the new inventor benchmark data developed in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". All other linkages are classified as operational, such as linkages that support specific steps in a sample survey, e.g., frame maintenance operations, like removing duplicates or linking different sampling frames in a multi-frame survey. For all the linkages, regardless of their purpose, the accuracy of the linkage decisions is measured with clerical reviews or a statistical model.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We now describe our evaluation framework in detail.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". To evaluate the entity resolution system, we introduce a methodology that samples clusters",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -1236,11 +1236,6 @@
   "pass3": [
    {
     "url": "https://note.com/kikaben/n/nc457443773b7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tnishimaki/n/n6e244572e076",
     "status": "ok",
     "method": "http"
    },
@@ -1255,7 +1250,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/gyoza_tencho/n/n83d24cd7720b",
+    "url": "https://note.com/tnishimaki/n/n6e244572e076",
     "status": "ok",
     "method": "http"
    },
@@ -1265,14 +1260,19 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/gyoza_tencho/n/n83d24cd7720b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vI1IAcBoZ6FkKFvsdQve9EYpAXnWeHOutmv-l0_jY6s_DzgZynT",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIyz_XB2f2dmxEjN2RU0n9RwLLofvWwuHxd6jhBH6yp-5ZgkUOU",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
@@ -1295,9 +1295,9 @@
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLAUMksxRn7HIQcq4qWH_sx27HCWama6zqNW7DsC5Cd217ocvLi",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKDgn0X0aUXyQ4azV5rPGxEDKVc1Qn_tuYg6HScyxnLT9P1HnwG",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
@@ -1310,7 +1310,12 @@
     "method": "http"
    },
    {
-    "url": "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "url": "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-jc.jp/news-blog/7106/precision%E9%81%A9%E5%90%88%E7%8E%87%E5%86%8D%E7%8F%BE%E7%8E%87%E6%AD%A3%E8%A7%A3%E7%8E%87f1%E3%81%AE%E9%81%95%E3%81%84%E9%99%BD%E6%80%A71%E3%81%A7%E5%AE%9F%E6%B8%AC/",
     "status": "ok",
     "method": "http"
    },
@@ -1320,22 +1325,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.r-jc.jp/news-blog/7106/precision%E9%81%A9%E5%90%88%E7%8E%87%E5%86%8D%E7%8F%BE%E7%8E%87%E6%AD%A3%E8%A7%A3%E7%8E%87f1%E3%81%AE%E9%81%95%E3%81%84%E9%99%BD%E6%80%A71%E3%81%A7%E5%AE%9F%E6%B8%AC/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJmceKZC7afWVuIYrMdgFm8aIf8YLu5XgEo1Q9l0iRfKvgX_LMi",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.r-jc.jp/news-blog/7106/precision%E9%81%A9%E5%90%88%E7%8E%87%E5%86%8D%E7%8F%BE%E7%8E%87%E6%AD%A3%E8%A7%A3%E7%8E%87f1%E3%81%AE%E9%81%95%E3%81%84%E9%99%BD%E6%80%A71%E3%81%A7%E5%AE%9F%E6%B8%AC/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall-f1/",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIyl8n6xngvwSdFW_YnAlv3thryCTqcYjAYynJLAXzXD1X3y9yl",
     "status": "ok",
     "method": "http"
    },
@@ -1345,12 +1335,22 @@
     "method": "http"
    },
    {
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "url": "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/mrmrmr/items/5db3ca86039c3f39daf6",
+    "url": "https://seo-webmaster.net/ai/precision-recall-precision-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omomuki-tech.com/archives/6129",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techgym.jp/column/performance-evaluation-index/",
     "status": "ok",
     "method": "http"
    },
@@ -1376,8 +1376,8 @@
    },
    {
     "url": "https://medium.com/aimonks/exploring-entity-resolution-techniques-challenges-and-implementation-with-a-synthetic-dataset-d6641a63999e",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
@@ -1391,15 +1391,15 @@
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） site:note.com",
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/mathesispress/n/nee9e33458b88",
     "https://note.com/gemba_ax_lab/n/nde3469e61df9",
-    "https://note.com/gyoza_tencho/n/n83d24cd7720b",
+    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/bonobono_107/n/ne56510f7b3a6",
+    "https://note.com/gyoza_tencho/n/n83d24cd7720b",
     "https://note.com/daily_epoch/n/n137102559d8f"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1408,34 +1408,34 @@
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vI1IAcBoZ6FkKFvsdQve9EYpAXnWeHOutmv-l0_jY6s_DzgZynT",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIyz_XB2f2dmxEjN2RU0n9RwLLofvWwuHxd6jhBH6yp-5ZgkUOU",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://note.com/noa813/n/nef0692042cdf",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://www.flowhunt.io/ja/%E7%94%A8%E8%AA%9E%E9%9B%86/f1-score/",
-    "https://datastudydock.com/precision-recall-f1/",
-    "https://omomuki-tech.com/archives/6129"
+    "https://www.azusuki.com/ai-enter/",
+    "https://note.com/tnishimaki/n/n6e244572e076"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 13
   },
   {
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） やり方",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLAUMksxRn7HIQcq4qWH_sx27HCWama6zqNW7DsC5Cd217ocvLi",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKDgn0X0aUXyQ4azV5rPGxEDKVc1Qn_tuYg6HScyxnLT9P1HnwG",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
+    "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "https://cysec148.hatenablog.com/entry/2025/03/29/180644",
-    "https://techsword.co.jp/column/how-to-evaluate-ai",
-    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design"
+    "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
+    "https://www.r-jc.jp/news-blog/7106/precision適合率再現率正解率f1の違い陽性1で実測/"
    ],
    "engines": [
     "ddgs:bing",
@@ -1448,17 +1448,17 @@
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJmceKZC7afWVuIYrMdgFm8aIf8YLu5XgEo1Q9l0iRfKvgX_LMi",
-    "https://www.r-jc.jp/news-blog/7106/precision%E9%81%A9%E5%90%88%E7%8E%87%E5%86%8D%E7%8F%BE%E7%8E%87%E6%AD%A3%E8%A7%A3%E7%8E%87f1%E3%81%AE%E9%81%95%E3%81%84%E9%99%BD%E6%80%A71%E3%81%A7%E5%AE%9F%E6%B8%AC/",
-    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall-f1/",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIyl8n6xngvwSdFW_YnAlv3thryCTqcYjAYynJLAXzXD1X3y9yl",
     "https://since2020.jp/media/f1-precision-recall/",
     "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
+    "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
+    "https://seo-webmaster.net/ai/precision-recall-precision-rate/",
     "https://www.r-jc.jp/news-blog/7106/precision適合率再現率正解率f1の違い陽性1で実測/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1478,7 +1478,7 @@
     "https://users.soe.ucsc.edu/~getoor/Papers/entity-res-geodata.pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1487,12 +1487,12 @@
    "query": "site:note.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/mathesispress/n/nee9e33458b88",
+    "https://note.com/gemba_ax_lab/n/nde3469e61df9",
+    "https://note.com/tnishimaki/n/n6e244572e076",
+    "https://note.com/gyoza_tencho/n/n83d24cd7720b",
     "https://note.com/bonobono_107/n/ne56510f7b3a6",
-    "https://note.com/bonobono_107/n/nc0174ef065d5",
-    "https://note.com/daily_epoch/n/n137102559d8f",
-    "https://note.com/gyoza_tencho/n/n83d24cd7720b"
+    "https://note.com/daily_epoch/n/n137102559d8f"
    ],
    "engines": [
     "ddgs:google"
@@ -1502,8 +1502,8 @@
   {
    "query": "site:x.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
-    "https://x.com/YuPhEngine/status/2051507795426693523",
     "https://x.com/Gkentei_Cheat/status/2101550539301597239",
+    "https://x.com/YuPhEngine/status/2051507795426693523",
     "https://x.com/gtest_guide/status/2061372190269067679",
     "https://x.com/Gkentei_Cheat/status/2101455903132426293",
     "https://x.com/seiseiai_pass/status/2090272659091468755",
@@ -1520,8 +1520,8 @@
    "results": [
     "https://jp.linkedin.com/learning/microsoft-azure-ai-fundamentals-ai-900-machine-learning-fundamentals/4217106",
     "https://jp.linkedin.com/pulse/confusion-matrix-accuracy-precision-recall-f1-score-measures-silwal?tl=ja",
-    "https://www.linkedin.com/posts/ゆにこ-やまざき-30a02447_モデル評価指標-分かりやすく-回帰問題-activity-7016791687326830592-s8q2",
     "https://jp.linkedin.com/pulse/performance-evaluation-metrics-classification-model-muhammad-daniyal?tl=ja",
+    "https://www.linkedin.com/posts/ゆにこ-やまざき-30a02447_モデル評価指標-分かりやすく-回帰問題-activity-7016791687326830592-s8q2",
     "https://jp.linkedin.com/posts/yasuyuki-takahashi-a9686a38b_istqb-jstqb-ai-tester-解説istqb-ai-tester-activity-7422864490590806016-42hL",
     "https://jp.linkedin.com/pulse/mastering-model-evaluation-comprehensive-guide-accuracy-bin-liao?tl=ja",
     "https://jp.linkedin.com/pulse/evaluating-your-classification-model-precision-recall-himanshu-singh-qm7ff?tl=ja"
@@ -1537,13 +1537,13 @@
     "https://www.facebook.com/JAPANkawaii01/videos/ガルパンのダイレンジャー名乗りの驚異の再現率はなんなんだろうjapan-kawaii/457443907961527/",
     "https://www.facebook.com/saaskecloud/photos/おすすめコンテンツのご紹介マーケティングブログデータクレンジングと名寄せデータの質を高める実践方法を公開しましたデータクレンジングの重要性とビジネスへの影響とは/996842299114322/",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
-    "https://www.facebook.com/hirofumi.matsuoka1/posts/名寄せとはある市区町村内で一人が持つ不動産をまとめた一覧表名寄帳を作ることです固定資産税がかからない私道や山林未登記の建物まで載るため相続の際に隠れた財産の見落/32927447200236710/",
     "https://www.facebook.com/masahiro.oyanagi/videos/件数の多さも驚きだが-本当に怖いのは名寄せだ９月２４日から１０月１６日までの２３日間国内の企業が公表した個人情報の流出恐れを含むは主要１２件だけで延べ１億件を超/1666935744848778/",
-    "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/",
-    "https://www.facebook.com/nikoyaka.sozoku/videos/全国の不動産から一括名寄せする方法-司法書士-相続-遺言相続登記が罰則付きで義務化されましたですがそもそも自分や亡くなった方がどこにどのような不動産を所有してい/1246881467598508/"
+    "https://www.facebook.com/hirofumi.matsuoka1/posts/名寄せとはある市区町村内で一人が持つ不動産をまとめた一覧表名寄帳を作ることです固定資産税がかからない私道や山林未登記の建物まで載るため相続の際に隠れた財産の見落/32927447200236710/",
+    "https://www.facebook.com/nikoyaka.sozoku/videos/全国の不動産から一括名寄せする方法-司法書士-相続-遺言相続登記が罰則付きで義務化されましたですがそもそも自分や亡くなった方がどこにどのような不動産を所有してい/1246881467598508/",
+    "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -1552,7 +1552,7 @@
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJcFyZO9IjmSQcfx0mxbnCBJxfdHnFDemcQwpg7RxWmG2YuTd_a",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJSpOI-Qrd0kw8e7RV3HkvYYQUNXFfsyMpAIgXFSW-YLrpmIWCc",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://note.com/noa813/n/nef0692042cdf",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
@@ -1562,7 +1562,7 @@
     "https://note.com/mathesispress/n/nee9e33458b88"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1572,12 +1572,12 @@
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vINi3zYahDoSzgoTNt52ub9RY55UP2PAVXg-sMMcE1gczhsocW6",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLMDQAWSG_NkzOEwHofbhcZ8fZjJKfX1VwmYLc5DBwlfkl6JFWl",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
-    "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
     "https://persol-serverworks.co.jp/blog/sagemaker/mixing-matrix.html",
     "https://www.r-jc.jp/news-blog/7106/precision適合率再現率正解率f1の違い陽性1で実測/"
    ],
@@ -1592,14 +1592,14 @@
    "results": [
     "https://www.linkedin.com/in/maryastero",
     "https://www.linkedin.com/posts/aravind-sathesh_machinelearning-amazonmlchallenge-activity-7512155514294906881-zd_f",
+    "https://in.linkedin.com/in/atharva-dubey-122b2a296",
     "https://www.linkedin.com/posts/martina-fuskova-phd_entityresolution-activity-7518603616317022208-Xcvt",
     "https://www.linkedin.com/in/cbratkovics",
     "https://in.linkedin.com/in/pkbatth7",
     "https://www.linkedin.com/in/sameer-khanna",
     "https://www.linkedin.com/in/mohamad-alipour-0a3758139",
     "https://www.linkedin.com/in/joshua-norfolk",
-    "https://www.linkedin.com/in/brian-jenkins-78134946",
-    "https://au.linkedin.com/in/nishadikirielle"
+    "https://www.linkedin.com/in/brian-jenkins-78134946"
    ],
    "engines": [
     "ddgs:bing",
@@ -1612,6 +1612,6 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-06T02:49:43.828832+00:00"
 }
