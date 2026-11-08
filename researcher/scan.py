@@ -37,8 +37,13 @@ def period_of(q):
 # 2026-11-06 4-53（インティメート・マージャー「市場規模の調べ方」：公的統計を使うときは資料名・統計表番号・対象年・URLを記録する）。
 # 一次の統計の値で、URL が表を指していない（e-Stat の表番号 sid・statdisp_id・ファイル、xlsx・csv が無い）ものは、どの表の値か後から引けない
 STATTABLEID = re.compile(r"(sid=|statdisp_id=|stat_infid=|toukei=|tstat=|file-download|\.xlsx?($|\?)|\.csv($|\?)|/excel/|/xls/)", re.I)
+# 2026-11-08 69回目の走査の失敗：mfg_capacity の「金型の事業所数の減少と合併の区別（日本金型工業会の自身の公表）」の品目に、
+# 大学（tcue.ac.jp）の論文の中の1989・1999年の数字61件が入り【一次で確認】・届出と出た。68回目の imes.boj.or.jp（日本銀行 金融研究所の論文）と同じ型。
+# 論文・紀要は統計・届出の写しを使った研究で、記録者本人ではない（4-24・4-93）。大学のサイトと研究所の論文の置き場を一次から外す
+PAPERHOST = re.compile(r"(\.ac\.jp$|^www\.imes\.boj\.or\.jp$|^imes\.boj\.or\.jp$|^www\.rieti\.go\.jp$|jstage\.jst\.go\.jp$|^cir\.nii\.ac\.jp$|repository)", re.I)
 def is_primary(url):
     host = urlparse(url).netloc
+    if PAPERHOST.search(host): return False
     return (bool(PRIMARY.search(url)) or bool(LOCALGOV.search(host))) and not NEWSHOST.search(host) and not COPYHOST.search(host)
 # 2026-11-05 走査の失敗から：奈良県と京都府の別々の県の統計が同じ欄で【裏付けあり】になった（mfg_capacity の規模別の品目）。地域が違えば同じ対象の裏付けではない（4-20 の条件違い）
 def region_of(url):
@@ -705,6 +710,13 @@ LOWRESP = re.compile(r"(回収率|回答率)\s*(は|が|：|:)?\s*(約)?\s*(\d{1
 WEIGHTED = re.compile(r"(ウエイト|ウェイト|重み付け|重みづけ|抽出率の逆数|復元倍率|推計乗率|無回答補正|weighted)", re.I)
 # 2026-11-08 4-93（日本銀行 金融研究所 22-E-07：合併は参入・退出と別の型。合併の効きは年を追って大きくなる）
 MERGEREXIT = re.compile(r"(合併|統合|吸収|経営統合|事業譲渡)")
+# 2026-11-08 4-94（樋口 note「発電シミュレーションの検証」：月の途中から始まった実績を通しの月の試算と比べれば少なく見えるのは当然。
+# 同じ名の値でも対象期間が違えば比べない）。年の値を求める品目に、上期・四半期・何か月間などの部分の期間の値が混ざるのを数える
+PARTIAL = re.compile(r"(上期|下期|上半期|下半期|中間期|第[1-4１-４一二三四]四半期|[1-4１-４]Q|[0-9０-９]{1,2}\s*[〜～~\-－ー]\s*[0-9０-９]{1,2}\s*月(期|期間|累計)?|[0-9０-９]{1,2}\s*か月(間|累計)|月次|月間|半期)")
+# 2026-11-08 4-94（wattson496 note「情報源の評価」：コリンズ＆エヴァンズの専門知の類型。現場でやった人（貢献型）と、語れるが自分ではやらない人（対話型）を分ける）。
+# 証言の話し手が、現場の当事者（社長・工場長・職人・現場の担当）か、外から語る人（コンサル・アナリスト・評論家・記者・研究員）かを数える
+SPK_DO = re.compile(r"(社長|代表取締役|工場長|職人|現場(の|で)(担当|責任者)|製造部長|生産技術|技能士|オーナー)")
+SPK_TALK = re.compile(r"(コンサルタント|アナリスト|評論家|ジャーナリスト|記者|研究員|エコノミスト|専門家|識者|解説)")
 SELFREPORT = re.compile(r"(自己評価|自己申告|自己採点|自社調べ|自社調査)")
 CONTRACTOR = re.compile(r"(委託先(の|が)?(変更|変わ)|調査(の)?委託先|入札(により|で)[^。]{0,10}委託)")
 INTERSEG = re.compile(r"(セグメント間|内部売上|内部取引|社内売上|グループ内(の)?(売上|取引))")
@@ -1642,6 +1654,22 @@ def scan(topic):
         if nwt: md.append(f"- 重み付け・補正の推計の語が{nwt}件：重みを付けた推計か、答えた先の単純な集計かを注記で確かめ、両者を同じ欄で比べない（4-93）")
         nmx = sum(1 for r in rs if MERGEREXIT.search(r["引用"]) and re.search(r"(廃業|退出|閉鎖|減少|消滅)", r["引用"]))
         if nmx: md.append(f"- ⚠ 合併・統合と廃業・減少の語が同じ引用に{nmx}件：合併・統合で減った分を退出に数えない。合併の効きは年を追って出るので、直後1年の変化で良し悪しを書かない（4-93）")
+        # 2026-11-08 4-94（樋口 note：対象期間の違う値は比べない）。年の値の品目に部分の期間の値が混ざれば数える
+        npart = sum(1 for r in rs if PARTIAL.search(r["引用"]) and str(r.get("値", "")).strip())
+        if npart: md.append(f"- ⚠ 通年でない期間（上期・四半期・何か月間）の値が{npart}件：通年の値と同じ欄で比べず、年の値の採る値・向きに使わない（4-94）")
+        # 2026-11-08 4-94（wattson496 note：出版バイアス＝驚きのある結果ほど採録されやすい）。一次と記事の両方がある品目で、
+        # 記事の値が一次の値の最小〜最大の外にある件数を数える。記事は目立つ値に寄って載る向きがあるので、外れた記事の値は採らない
+        _pv = [r["値"] for r in rs if r["一次"] == "一次" and isinstance(r.get("値"), (int, float)) and r["値"] > 0]
+        _av = [r for r in rs if r["一次"] == "記事" and isinstance(r.get("値"), (int, float)) and r["値"] > 0]
+        if len(_pv) >= 2 and _av:
+            _lo, _hi = min(_pv), max(_pv)
+            _out = [r for r in _av if r["値"] < _lo or r["値"] > _hi]
+            if _out: md.append(f"- ⚠ 記事の値が一次の範囲（{_lo:g}〜{_hi:g}）の外に{len(_out)}件／記事{len(_av)}件：記事は目立つ値に寄って載る（採録の偏り）。外れた記事の値は採らず、一次の範囲で読む（4-94）")
+        # 同（専門知の類型）：証言の話し手を、現場の当事者と外から語る人に分けて数える。外から語る人だけの証言は、現場の事実の裏付けに使わない
+        if ntes:
+            _do = sum(1 for r in rs if TESTIMONY.search(r["引用"]) and SPK_DO.search(r["引用"]))
+            _tk = sum(1 for r in rs if TESTIMONY.search(r["引用"]) and SPK_TALK.search(r["引用"]) and not SPK_DO.search(r["引用"]))
+            md.append(f"- 証言の話し手（4-94）：現場の当事者{_do}件・外から語る人{_tk}件・不明{ntes - _do - _tk}件" + ("。⚠ 当事者0件：現場の事実（工程・単価・人数）の裏付けに使わない" if _do == 0 else ""))
         nsr = sum(1 for r in rs if SELFREPORT.search(r["引用"]))
         if nsr: md.append(f"- ⚠ 自己評価・自己申告・自社調べの語が{nsr}件：答える側が良く見せる向きに偏りやすい。記録（統計・開示）と並べる（4-44）")
         nct = sum(1 for r in rs if CONTRACTOR.search(r["引用"]))
