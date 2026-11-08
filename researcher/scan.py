@@ -1040,6 +1040,24 @@ def kougyo_shrink(by, fld="従業者1人あたり付加価値額_万円", unit="
           f"  - 最新の{ly}年の平均 {m:,.1f}{unit}・中央値 {med:,.1f}{unit}（平均÷中央値 {m / med:.2f}。1.2を超えれば上の裾が重い・4-108）。"
           "縮めた見込み＝平均＋r×（値−平均）は【推定】で、翌年に平均へどれだけ寄りそうかの目安。r が0.8未満なら1年の高い・低いを業種の力と書かない",
           "  - 平均から遠い業種（値→縮めた見込み）：" + "、".join(f"{c} {nm} {v:,.1f}→{m + r * (v - m):,.1f}" for (c, nm), v in ex)]
+    # 2026-11-09 4-112・4-114：r が0.8を下回った区間は、どの業種の順位が動いたかを国の同じ表から出す（自治体の表の写しで埋めない・4-83・4-104）。
+    # 順位の動きと、値の増減率（分子＝付加価値と分母＝従業者のどちらが動いたか・4-70）を並べる
+    for y, rv in zip([yy for yy in (2016, 2017, 2018)][:len(rr)], rr):
+        if rv >= 0.8: continue
+        ks = [k for k in pts if y in pts[k] and y + 1 in pts[k]]
+        r0 = {k: i + 1 for i, k in enumerate(sorted(ks, key=lambda k: -pts[k][y]))}
+        r1 = {k: i + 1 for i, k in enumerate(sorted(ks, key=lambda k: -pts[k][y + 1]))}
+        mv = sorted(ks, key=lambda k: -abs(r1[k] - r0[k]))[:6]
+        def _parts(k):
+            a = dict(by.get(k, [])); s0, s1 = a.get(y, {}), a.get(y + 1, {})
+            va0, va1 = _kf(s0.get("付加価値額_万円") or s0.get("付加価値額")), _kf(s1.get("付加価値額_万円") or s1.get("付加価値額"))
+            e0, e1 = _kf(s0.get("従業者数")), _kf(s1.get("従業者数"))
+            p = []
+            if va0 and va1: p.append(f"付加価値 {va1 / va0 - 1:+.1%}")
+            if e0 and e1: p.append(f"従業者 {e1 / e0 - 1:+.1%}")
+            return ("・" + "・".join(p)) if p else ""
+        md.append(f"  - r={rv:.2f} の {y}→{y + 1}年に順位が大きく動いた業種（{fld}・{len(ks)}業種中の順位・国の工業統計の同じ表）：" +
+                  "、".join(f"{c} {nm} {r0[(c, nm)]}位→{r1[(c, nm)]}位（{pts[(c, nm)][y]:,.1f}→{pts[(c, nm)][y + 1]:,.1f}{unit}・{pts[(c, nm)][y + 1] / pts[(c, nm)][y] - 1:+.1%}{_parts((c, nm))}）" for c, nm in mv))
     return md
 
 def kougyo_section(topic):
@@ -3106,6 +3124,42 @@ def scan(topic):
                f"- 標準誤差率・相対標準誤差が15%を超える値：{len(_rse)}件。そのままの細かい区分では向きにせず、上の区分（業種の中分類・規模の大きい区切り）に束ねて読む",
                *(f"  - {r['品目'][:40]}（{x}%）：{r['引用'][:50]}" for r, x in _rse[:5]),
                f"- 20人未満（1〜9人・19人以下・3人以下など）の事業所数の引用：{len(_sm)}件。小さい事業所は調査票でなく行政記録・推計で数えられることが多く、事業所数は目安として読む（20人以上の数のほうが確か）",
+               ""]
+    except Exception: pass
+    # 2026-11-09 4-114（Crustdata「How to Build a Private-Company Research Agent」2026：出どころどうしが食い違うときは平均せず、
+    # 差そのもの（人数で4割の差など）を赤信号として出す。期待される記録の欠け（あるはずの数字が無い）も点検の対象。古い記録は新しい記録と同じ重みにしない。
+    # Veridion「5 Firmographic Data Accuracy Problems」：取得日の無い人数は今の事実か分からない・合併で出どころが同じでも人数が変わる。
+    # Affinity「Understanding employee headcount data accuracy」：名でなく確かな鍵で照合し、親と子を分ける）。
+    # ①同じ品目・同じ年・同じ規模の人数で、一次どうしが1.4倍を超えて割れる組 ②取得の年から2年以上前の年の人数（古い人数）
+    # ③売上・受注の値はあるが人数が0件（またはその逆）の品目＝1人あたりを出すのに片方が欠ける「期待される欠け」
+    try:
+        _hc = {}
+        for r in rows:
+            if r["単位"] == "人" and r["区分"].startswith("社員数") and r["一次"] == "一次" and r["年"]:
+                try:
+                    v = float(r["値"])
+                    if v > 0: _hc.setdefault((r["品目"], r["年"], r.get("規模", ""), r["文脈"]), []).append(v)
+                except Exception: pass
+        _hcx = sorted(((k, min(v), max(v)) for k, v in _hc.items() if len(v) >= 2 and max(v) / min(v) > 1.4), key=lambda t: -(t[2] / t[1]))
+        _old = {}
+        for r in rows:
+            if r["単位"] == "人" and r["区分"].startswith("社員数") and r["年"] and re.match(r"\d{4}", r["取得日"] or ""):
+                try:
+                    if int(r["取得日"][:4]) - int(r["年"]) >= 2: _old[r["品目"]] = _old.get(r["品目"], 0) + 1
+                except Exception: pass
+        _has_s, _has_h = set(), set()
+        for r in rows:
+            if re.search(r"(売上|受注|出荷|加工賃)", r["区分"]) and r["単位"] not in ("%", "人"): _has_s.add(r["品目"])
+            if r["単位"] == "人" and r["区分"].startswith("社員数"): _has_h.add(r["品目"])
+        _miss_h = sorted(_has_s - _has_h); _miss_s = sorted(_has_h - _has_s)
+        md += ["## 人数の割れ・古い人数・期待される欠け（4-114・機械）",
+               f"- 同じ品目・同じ年・同じ規模の人数で、一次どうしが1.4倍を超えて割れる組：{len(_hcx)}組。平均・中央値で1つにまとめず、割れたこと自体を赤信号として両端の出典を並べ、数える範囲（役員・パート・連結・事業所か会社か）を先に確かめる",
+               *(f"  - {k[0][:40]}（{k[1]}年・{k[2] or '規模不明'}）：{lo:g}〜{hi:g}人・{hi / lo:.1f}倍" for k, lo, hi in _hcx[:6]),
+               f"- 取得した年から2年以上前の年の人数がある品目：{len(_old)}品目。今の人数として使わず、年を添えて書く（合併・閉鎖で出どころが同じでも変わる・4-74）",
+               *(f"  - {n[:50]}（{c}件）" for n, c in sorted(_old.items(), key=lambda x: -x[1])[:6]),
+               f"- 売上・受注・出荷の値はあるが人数が0件の品目：{len(_miss_h)}品目／人数はあるが売上・受注・出荷が0件の品目：{len(_miss_s)}品目。1人あたりを出すには両方が要る。欠けた側を同じ表・同じ年で探す品目として inputs に戻す",
+               *(f"  - 人数が欠け：{n[:50]}" for n in _miss_h[:4]),
+               *(f"  - 売上が欠け：{n[:50]}" for n in _miss_s[:4]),
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
