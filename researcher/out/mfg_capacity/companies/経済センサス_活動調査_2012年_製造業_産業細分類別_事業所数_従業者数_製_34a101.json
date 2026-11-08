@@ -1,0 +1,1215 @@
+{
+ "name": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26）",
+ "en": "Economic Census for Business Activity 2012 Japan manufacturing detailed industry establishments employees",
+ "aliases": [
+  "平成24年経済センサス‐活動調査 製造業 産業細分類別 統計表",
+  "経済センサス 2012 製造業 事業所数 従業者数 細分類 e-Stat",
+  "平成24年 活動調査 製造業に関する集計"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T05:00:23.071538+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第１表】［総括表：従業者４人以上の事業所］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(29KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第３表】［従業者４人以上の事業所に関する統計表］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(26KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第４表】［従業者４人以上の事業所に関する統計表］産業中分類＞従業者規模・経営組織・資本金階層別統計表 (Excelファイル)(117KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第７表】［従業者４人以上の事業所に関する統計表］市町別＞従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(215KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第８表】［従業者30人以上の事業所に関する統計表］従業者規模・産業中分類別統計表 (Excelファイル)(40KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第10表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］従業者規模・産業中分類別統計表 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表３】市町別の事業所数の推移［従業員４人以上の事業所］（平成13年～） (Excelファイル)(26KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(36KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(22KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）付表１ 産業大分類、経営組織別事業所数、男女別従業者数及び１事業所当たり従業者数 (Excelファイル)(18KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）付表２ 市町、経営組織別事業所数及び男女別従業者数 (Excelファイル)(19KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）付表３ 市町、産業大分類別事業所数 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 年次別、卸売業・小売業別の事業所数（法人・個人別）、従業者数、年間商品販売額及び売場面積 (Excelファイル)(14KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 卸売業・小売業の産業分類細分類別の事業所数（従業者規模別）、従業者数、年間商品販売額及び売場面積 (Excelファイル)(176KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 卸売業・小売業別、経営組織別の事業所数（単独・本支店別）、従業者数及び年間商品販売額 (Excelファイル)(15KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第１表】［総括表：従業者４人以上の事業所］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(29KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第２表】［総括表：従業者４人以上の事業所］市町別統計表 (Excelファイル)(20KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第３表】［従業者４人以上の事業所に関する統計表］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(26KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第４表】［従業者４人以上の事業所に関する統計表］産業中分類＞従業者規模・経営組織・資本金階層別統計表 (Excelファイル)(117KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第５表】［従業者４人以上の事業所に関する統計表］産業細分類別統計表 (Excelファイル)(124KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第６表】［従業者４人以上の事業所に関する統計表］市町別統計表 (Excelファイル)(25KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第７表】［従業者４人以上の事業所に関する統計表］市町別＞従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(215KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第８表】［従業者30人以上の事業所に関する統計表］従業者規模・産業中分類別統計表 (Excelファイル)(40KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第９表】［従業者30人以上の事業所に関する統計表］市町別統計表 (Excelファイル)(39KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第10表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］従業者規模・産業中分類別統計表 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第11表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］市町別統計表 (Excelファイル)(18KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第12表】［品目に関する統計表：従業者４人以上の事業所］品目別統計表 (Excelファイル)(76KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第13表】［従業者３人以下の事業所に関する統計表］産業中分類別統計表 (Excelファイル)(25KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第14表】［従業者３人以下の事業所に関する統計表］産業細分類別統計表 (Excelファイル)(65KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第15表】［従業者３人以下の事業所に関する統計表］市町別統計表 (Excelファイル)(20KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表３】市町別の事業所数の推移［従業員４人以上の事業所］（平成13年～） (Excelファイル)(26KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり 付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者のうち雇用者1人当たり現金給与額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "30～49人",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "50～99人",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "100～199人",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "200～299人",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "300～499人",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "500～999人",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1000人以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表５】市町別の製造品出荷額等の推移［従業者4人以上の事業所］（平成13年～） (Excelファイル)(29KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表８】産業中分類別の製造品出荷額等の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(31KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(36KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表14】広島県及び全国の製造品出荷額等の産業中分類別特化係数の推移［従業者４人以上の事業所］（昭和25，30，35，40，45，50，55，60年，平成２年，平成5年～） (Excelファイル)(94KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(22KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）付表５ 市町、産業大分類別売上（収入）金額（試算値） (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）付表９ 市町、企業産業大分類別売上（収入）金額 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表1】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者4人以上の事業所]（昭和25年～） (Excelファイル)(34KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表2】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者3人以下の事業所]（昭和58年～） (Excelファイル)(16KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表5】市町別の製造品出荷額等の推移[従業者4人以上の事業所]（平成8年～） (Excelファイル)(31KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表8】産業中分類別の製造品出荷額等の推移[従業者4人以上の事業所]（昭和20年～） (Excelファイル)(31KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表9～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（平成8年～） (Excelファイル)(44KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（昭和20年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表14】広島県及び全国の製造品出荷額等の産業中分類別特化係数の推移[従業者4人以上の事業所]（昭和25，30，35，40，45，50．55．60年，平成2年，平成5年～） (Excelファイル)(88KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）[従業者4人以上の事業所]（昭和60年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 生産額(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "<2021年実績> 以降",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2020年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2019年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2018年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成30(2018)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成29(2017)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29(2017)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成28(2016)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成27(2015)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2022.12.26",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年（2021年）活動調査",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年（2016年）活動調査",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年（2021年）（活動調査）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表３】市町別の事業所数の推移［従業員４人以上の事業所］（平成13年～） (Excelファイル)(26KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表４】市町別の従業者数の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(26KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表５】市町別の製造品出荷額等の推移［従業者4人以上の事業所］（平成13年～） (Excelファイル)(29KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表６】市町別の付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(29KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表７】工業用地・工業用水の推移［従業者30人以上の事業所］（昭和55年，60年，平成２年～） (Excelファイル)(19KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表８】産業中分類別の製造品出荷額等の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(31KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(36KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表14】広島県及び全国の製造品出荷額等の産業中分類別特化係数の推移［従業者４人以上の事業所］（昭和25，30，35，40，45，50，55，60年，平成２年，平成5年～） (Excelファイル)(94KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(22KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年（2016年）（活動調査",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表1】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者4人以上の事業所]（昭和25年～） (Excelファイル)(34KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表2】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者3人以下の事業所]（昭和58年～） (Excelファイル)(16KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "2020-03-06 14:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "（事業所）第40表 存続・新設・廃業(3区分)別民営事業所数及び男女別従業者数- 広島県，市区町，広島大都市圏 (Excelファイル)(36KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第10表 産業（大分類），経営組織（4区分），存続・新設・廃業別民営事業所数及び男女別従業者数-広島県 (Excelファイル)(65KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "【参考表６】市町別の付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(29KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(36KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(22KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）付表６ 市町、産業大分類別純付加価値額 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）付表10 市町、企業産業大分類別純付加価値額 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表6】市町別の付加価値額の推移[従業者4人以上の事業所]（平成8年～） (Excelファイル)(31KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表9～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（平成8年～） (Excelファイル)(44KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（昭和20年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）[従業者4人以上の事業所]（昭和60年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）付表６ 市町，産業大分類別付加価値額 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）付表10 市町，企業産業大分類別付加価値額 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第1-1表 産業(大分類)，経営組織(5区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額―広島県 (Excelファイル)(19KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第2-2-2表 産業(中分類)，単独・本所・支所(3区分)別民営事業所数，事業従事者数及び付加価値額(外国の会社及び法人でない団体を除く) - 広島県，広島大都市圏 (Excelファイル)(62KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第4-2-2表 産業(大分類)，経営組織(3区分)別民営事業所数，事業従事者数及び付加価値額(外国の会社及び法人でない団体を除く) - 広島県，広島市 (Excelファイル)(32KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第5-2-1表 産業(大分類)，従業者規模(7区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島市 (Excelファイル)(53KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第5-2-2表 産業(大分類)，従業者規模(7区分)別民営事業所数，事業従事者数，付加価値額，1事業所当たり事業従事者数，1事業所当たり付加価値額及び事業従事者1人当たり付加価値額(外国の会社及び法人でない団体を除く) - 広島県，広島市 (Excelファイル)(45KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）第1-2表 企業産業(中分類)，単一・複数(２区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(99KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 生産額(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 製造品､半製品､仕掛品､原材料年末在庫額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 有形固定資産投資総額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり 付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者のうち雇用者1人当たり現金給与額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "（企業等）第1-2表 企業産業(中分類)，単一・複数(２区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(99KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）第3－2表 企業産業(大分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(28KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 有形固定資産投資総額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.pref.hokkaido.lg.jp/ss/tuk/003ecc/2021-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/0000016514.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/0000020815.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.himeji.lg.jp/shisei/0000022750.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389407",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/9f75fac4-2a3d-4abb-b875-1202df7d7fd2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2012/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&tclass3=000001061528&tclass4val=0&stat_infid=000023603912",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/data/developers/data-sets/economic-census.2012.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 人手不足 受注 断る",
+   "results": [
+    "https://www.pref.hokkaido.lg.jp/ss/tuk/003ecc/2021-1.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 受注残 人手不足",
+   "results": [
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.city.okayama.jp/shisei/0000020815.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 人手不足 損失 億円",
+   "results": [
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.city.himeji.lg.jp/shisei/0000022750.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.city.okayama.jp/shisei/0000016514.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu",
+    "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 推移",
+   "results": [
+    "https://www.city.himeji.lg.jp/shisei/0000022750.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389407",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/9f75fac4-2a3d-4abb-b875-1202df7d7fd2"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 従業者規模別",
+   "results": [
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 1人当たり 万円",
+   "results": [
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389407",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity 2012 Japan manufacturing detailed industry establishments employees Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/2012/index.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&tclass3=000001061528&tclass4val=0&stat_infid=000023603912",
+    "https://www.census.gov/data/developers/data-sets/economic-census.2012.html",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://www.imes.boj.or.jp/research/papers/english/me27-5.pdf",
+    "https://www.stat.go.jp/english/info/news/20220630.html",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539?hl=en",
+    "https://www.stat.go.jp/english/data/e-census/2012/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26）",
+   "results": [
+    "https://note.com/resas_data/n/n4931d2a23504",
+    "https://note.com/platypus2000jp/n/n4d2adfe23136",
+    "https://note.com/hashtag/経済センサス",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://note.com/at_consulting18/n/nf47674263cb5",
+    "https://note.com/kuroslow768890/n/nfbc7d3b65328",
+    "https://note.com/ogawa_tech/n/n0b261b2912a6",
+    "https://note.com/oyasummitte/n/n35dbee6234b1",
+    "https://note.com/toshiyamiyazaki/n/ncdf651dea52d?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com 経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26）",
+   "results": [
+    "https://x.com/MIC_soudan/status/2054003627329831245",
+    "https://x.com/G8TDMZ3XLb95172/status/2035876350129750254",
+    "https://jf.x.com/images/media-preview/2115407913393242185",
+    "https://jf.x.com/images/media-preview/2116068307304628350",
+    "https://x.com/city_ota/status/2058744870928568728",
+    "https://x.com/meti_NIPPON/status/2039316080091697577",
+    "https://x.com/ecensus2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26）",
+   "results": [
+    "https://jp.linkedin.com/posts/takaaki-tanaka（田中-隆明）-a3859a10_今日は経済センサス活動調査なるものを出した期限過ぎて役所から催促来たので任意かと-activity-7461018946159161344-WbQA",
+    "https://api.linkedin.com/checkpoint/rp/request-password-reset?trk=reset_password",
+    "https://members.linkedin.com/en-gb/download-the-linkedin-app",
+    "https://in.linkedin.com/company/wissen-technology",
+    "https://www.linkedin.com/help/linkedin/answer/a1377116/",
+    "https://uk.linkedin.com/in/rob-thompson-98a623",
+    "https://www.linkedin.com/feed/update/urn:li:share:7520841306701676544"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26）",
+   "results": [
+    "https://www.facebook.com/ginowancity.official/posts/重要経済センサス活動調査への回答はお済ですか現在全国のすべての企業事業所を対象に経済センサス活動調査を実施しています-̗̀まだ回答がお済みでない場合は下記回答期/1415415797299466/",
+    "https://www.facebook.com/city.omura/photos/経済センサス-活動調査にご協力ください総務省経済産業省による全産業分野の経済活動を網羅的に把握するための調査です調査結果は行政の政策立案や民間企業の出店計画など/1373768644780240/",
+    "https://www.facebook.com/city.mihara/posts/経済センサス-活動調査にご協力ください全国にある全ての事業所企業を対象に所在地従業員数売上金額などを把握するための国の統計調査が始まります過去の調査で所在地を把/946368374421942/",
+    "https://www.facebook.com/pref.wakayama/posts/経済センサス-活動調査総務省経済産業省和歌山県及び市町村は令和8年6月1日現在で経済センサス-活動調査を実施します本調査は全国すべての事業所企業を対象とする5年/1512921037510877/",
+    "https://www.facebook.com/kazunori.suyama.9/posts/経済センサス活動調査が来たのですが本当に死ぬほど面倒くさかったです分からない事が多々ありオペレーターに電話しながらやりましたけど1時間以上かかりましたしかもこれ/26030404509975670/",
+    "https://www.facebook.com/HiroshimaCityOfficial/posts/経済センサス-活動調査への回答はお済みですか経済センサス-活動調査は全国すべての事業所企業を対象とした調査です調査の回答は安全で便利なインターネット回答がおすす/1032146766050132/",
+    "https://www.facebook.com/sakatacity/posts/国の基幹統計-経済センサスでわかること③山形県で一番従業者数の多い業種経済センサス-活動調査は総務省と経済産業省が実施する統計調査で令和8年5年ぶりの実施が決ま/1384152953740777/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.city.okayama.jp/shisei/0000020815.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.city.okayama.jp/shisei/0000016514.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity 2012 Japan manufacturing detailed industry establishments employees site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/melissa-cidade",
+    "https://www.linkedin.com/in/emilylwiley",
+    "https://www.linkedin.com/in/andrewreamer",
+    "https://www.linkedin.com/in/tim-wojan-55632a4a",
+    "https://www.linkedin.com/in/taralynngray",
+    "https://www.linkedin.com/in/vincentlyons",
+    "https://www.linkedin.com/in/matthewnestlerphd",
+    "https://www.linkedin.com/in/bleditaska",
+    "https://www.linkedin.com/in/econ-parker",
+    "https://www.linkedin.com/in/joey-gunning"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "人手と仕事の差": "記載なし（読んだ30頁・検索18回）"
+ }
+}

@@ -101,9 +101,9 @@
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：2件／数字のある品目 3件（67%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.thefabricator.com と www.machinedesign.com：品目の重なり 1/1（100%）
   - www.thefabricator.com と 3dprint.com：品目の重なり 1/1（100%）
-  - 3dprint.com と www.machinedesign.com：品目の重なり 1/1（100%）
-  - www.thefabricator.com と 3dprintingindustry.com：品目の重なり 0/2（0%）
-  - www.machinedesign.com と 3dprintingindustry.com：品目の重なり 0/2（0%）
+  - www.machinedesign.com と 3dprint.com：品目の重なり 1/1（100%）
+  - www.thefabricator.com と startup.genisisiq.com：品目の重なり 0/2（0%）
+  - www.machinedesign.com と startup.genisisiq.com：品目の重なり 0/2（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - wl-A DfAM（AM適性判定・工法材料提案・費用概算）｜売上［市場規模］
@@ -138,3 +138,7 @@
   - wl-A DfAM（AM適性判定・工法材料提案・費用概算）
   - wl-A DfAM（トポロジー最適化・AM向け形状生成）
   - wl-C 3D CAD（2D図面→3Dモデル変換）
+
+## ストックとフロー・重み付きの回収率（4-97・機械）
+- 売上・総額・市場規模の金額で、期間も年も書かれていないもの：0件（0品目）。何か月分の量か（フロー）、ある時点の残高か（ストック）が分からないので、年間の値と同じ欄で比べない（4-94 を補う）
+- 事業所・企業の調査の回収率の引用 0件のうち、重み付き（金額・出荷額・従業者のベース、カバー率）が書かれていないもの 0件。件数の回収率が高くても大きな先が抜ければ総額は大きく欠ける。総額に占める答えた先の割合を探してから全体の値として読む

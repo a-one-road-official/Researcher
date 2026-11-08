@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・222品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・224品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -6150,11 +6150,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -12048,11 +12048,11 @@
 
 ## データ報道の編集者の点検（意外な跳びを先に疑う・数える範囲を変えない・表記ゆれの一覧・データの日誌・別の人の再現）（data journalism editors checklist verify surprising results data diary backstop）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）（survivorship bias correction business data closed firms best worst case assumption）
 - 文脈：失敗・落とし穴
@@ -12176,40 +12176,51 @@
 ## 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）（business survey unit response rate vs quantity response rate imputation share large units）
 - 文脈：失敗・落とし穴
 - 手順・やり方：
-  - 「implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「rates within the statistical process control framework. Current procedures typically」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「adequate framework for analyzing the response process. Instead, we propose using control」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Directorate, which motivates the proposed control chart framework also introduced in」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「StEPS database. The retrospective analysis examples provided in Section 5.1 are presented」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「computed using the delete-a-group jackknife method. The ACES uses weight adjustment」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「More details concerning the ACES survey design, methodology, and data limitations are」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「receipts for selected service sectors. Standard errors are computed using the method of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「than-expected value. Thus, a logical next step is to compute response rates by selected」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Assembling S is more involved. For example, programs can use replication methods or」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Taylor linearization methods to obtain point estimates of the variance and autocovariance」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「demonstrate how to use these metrics to understand and monitor the response process via」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「statistical process control methods adapted for usage with complex survey data.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「discussion of work in progress. Any views expressed on statistical, methodological, or operational」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「process control framework. In particular, they advocate analyzing response rates over」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「The statistical process control framework generally assumes a large number of」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「Section 4 presents two case studies that demonstrate how to analyze the different」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「(Methodology and Statistics Council, 2012) defines a respondent as an eligible unit for」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「3. Response Rates within a Statistical Process Control Framework」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「3 When one survey unit corresponds to more than one reporting unit, the survey methodologists」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「next (Pierchala and Surti, 2009). These stairstep control limits reflect the variability in the」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「therefore followed the authors’ suggestion and produced 5-sigma limit stairstep control」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「the MRTS estimates and methodology.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「System (StEPS). We developed our own GVF parameters for the TQRR control charts by」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「the key survey items. Figure 3 presents the modified p-chart with stairstep limits of the」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「increasingly wider stairstep limits.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
 - 突き合わせ・推定：
-  - 「key estimate reported by responding units or obtained from equivalent quality sources」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「key estimates reported by responding units or obtained from equivalent quality sources」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「estimated totals originating from a small set of cases. Consequently, the majority of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「53 percent of the total estimate (value). The remaining four units, which are selected with」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「certainty, account for 47 percent of the total estimate.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「payroll, capital expenditures) to account for the unit’s relative importance in the estimates」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「improve the quality of the estimates. Analysts strive to reduce imputation rates for all key」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「expected to contribute substantially to the estimate, followed by intensive analyst research」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「. Ry is the weighted estimate obtained by summing reported data for item y in the」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「. Ay is the weighted estimate obtained by summing equivalent source data (auxiliary」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「. Y is the estimated (weighted) total of the item in the statistical period. It includes all」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「data used to develop the publication estimate, including imputed data and」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「measures at that point in time of the proportion of the estimate that was not imputed. In this」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「ratio of correlated random variables and that the point estimates in the time series are not」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「and covariance estimates used in analysis must account for the complex survey design, if」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「proportions of estimates obtained from reported or equivalent quality data . Surveys may」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「quantity response rate (TQRR), defined as the weighted proportion of a key estimate that」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「program-level URR and one or more program -level TQRRs (one per key estimate) are」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「the estimated totals. Consequently, the majority of the economic surveys administered at」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「account for the unit’s relative importance in the estimates (Tucker et al. 2007), such as」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「percent) and still produce biased estimates (Peytcheva and Groves, 2009) , particularly if」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「estimate but tracking the TQRR over time using a p-chart presents unique challenges」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「contribute more to the estimates of total for the characteristic(s) of interest than others do.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「and the denominator. The WVRR estimates t he proportion of the population that」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「Where RNˆ is the unbiased estimate of the frame population obtained from R respondents」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「used in the URR and Nˆ is an unbiased estimate of the frame population siz e during the」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「assessing quality with respect to amount of non -imputed data in the tabulated estimates.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「the weighted estimate obtained by reported or equivalent quality data. For an item x , the」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「where RXˆ is the unbiased estimate obtained from units that responded to the survey with」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「NXˆ is the estimate of characteristic for the survey obtained by using the final (pos sibly」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
 - 一次情報の探し方：
+  - 「times of the year , which makes them less likely to respond . Other factors such as filing」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「requirements (e.g., tax filings) may also contribute to the lower response. Although this」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「annual reports, trade association statistics, or Securities and Exchange Commission filings.」（https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf）
+  - 「Administrative data is the primary source of alternative source data for the Economic」（https://ww2.amstat.org/meetings/proceedings/2020/data/assets/pdf/1505446.pdf）
   - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 - 失敗・落とし穴：
+  - 「guideline requires a nonresponse bias analysis be conducted for surveys with a URR of」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「percent) and still produce biased estimates (Peytcheva and Groves, 2009) , particularly if」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「Where RNˆ is the unbiased estimate of the frame population obtained from R respondents」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「used in the URR and Nˆ is an unbiased estimate of the frame population siz e during the」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「where RXˆ is the unbiased estimate obtained from units that responded to the survey with」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「Risk of Nonresponse Bias. Public Opinion Quarterly, 76 (3), pp. 555-575.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
   - 「Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「collection, data review), or of the potential level of nonresponse bias (Peytcheva and」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「Both numerator and denominator cases are weighted by “unbiased” weights, which」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
@@ -12218,25 +12229,22 @@
   - 「Many programs will also conduct nonresponse bias analyses, which at a minimum」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 - 実例：
-  - 「perspective for monitoring them. We illustrate this approach with examples from ongoing」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「that is unusual and in many cases unexpected. Moreover, control charts are useful because」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「they show what a process is capable of – for example, providing evidence that a given」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「target value. In the latter case, some form of modiﬁcation of the process would be required」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Bureau. Section 4 provides background on our two case studies. In Section 5, we discuss」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「estimated totals originating from a small set of cases. Consequently, the majority of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「(1) include “large” cases with certainty; (2) may sample “medium sized” cases with high」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「sampling rates; and (3) sample the remaining cases with very low sampling rates (usually」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「less than 0.01). As a result, sampled cases with large design weights often contribute very」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「To avoid overrepresentation of such small cases in computation, the URR is computed」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「the certainty or large noncertainty cases, making URR an inconsistent indicator of data」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「quality. Consider the ﬁctional business survey example presented below in Figures 1 and 2.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「four certainty cases. The URR is approximately 87% (26/30), but the TQRR value is」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「nonresponding cases contribute very little to the total tabulation so that the TQRR value」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「is approximately 93%. These examples demonstrate how the more consistent measures」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「importance of the certainty or larger sampled cases, making the URR an inconsistent」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「and variation that is unusual , and in many cases unexpected. Control charts are also」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「Section 4 presents two case studies that demonstrate how to analyze the different」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「estimation. For example, a firm (company) can comprise several establishments and can」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「units whose eligibility could not be determined -- for example, an undeliverable -as-」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「correlated with the MOS, for example, real valued characteristics such as income.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「example, t o ease respondent burden, the Census Bureau allows sampled businesses to」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「from one statistical period to the next. We found this to be the case with the TQRRs and」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「4. Case Studies」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「response measures; however, for our case study, we did not have access to these revised files.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「For this case study, we had t hree years of historic data to produce URRs, WVRRs, and」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「Confining ourselves to the most recent data from 2012 -- the last six months for example,」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「since the small cases contribute relatively little to the numerator and denominator.」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「deviations to five. With the first of our case studies (MRTS), this proved to be quite」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
+  - 「valuable insights. In one case study, we demonstrated detrimental effects on quality of」（https://ww2.amstat.org/meetings/proceedings/2014/data/assets/pdf/310863_86263.pdf）
 
 ## 統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手）（relative mean absolute revision first estimate vintage comparison statistics journalism）
 - 文脈：失敗・落とし穴
@@ -12763,11 +12771,11 @@
 
 ## 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）（corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）（selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation）
 - 文脈：突き合わせ
@@ -12924,3 +12932,151 @@
   - 「したがって、検索結果がないことは、出典を発見できなかったことを意味するだけである」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
 - 検索結果の抜粋：
   - 「消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+
+## 事業所・企業の調査の重み付きの回収率（総額のうち答えた先が占める割合）と非回答の内訳（連絡不能・データ無し・承諾後に未提出）を報告する実務（統計局・FCSM・調査会社の書き手）（weighted response rate establishment survey nonresponse categories FCSM）
+- 文脈：検証
+- 手順・やり方：
+  - 「Federal Committee on Statistical Methodology」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Stephen Blumberg (Co-Chair)」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practice 7: Discuss recommendations for data collection methods and adjustment strategies」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Framework for Data Quality from the Federal Committee on Statistical Methodology (FCSM).」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「the methods, results, and conclusions from those nonresponse bias analyses.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「The literature on how to conduct nonresponse bias analyses is extensive and growing.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「The methods used for any data collection will be a function of the characteristics of that data」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「refers to various methods for conducting, and aspects of, nonresponse bias analyses. But these」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「methods are not fully described. Readers will need to refer to the many existing references for」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「more information on these methods.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「documentation of the methods and results of nonresponse bias analyses so that readers can」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「can occur when the likelihood of responding to surveys or other data collection methods (or」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「survey methods expertise should be solicited when developing the plan for the nonresponse bias」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+- 突き合わせ・推定：
+  - 「which population-based estimates are published .......................................................................... 15」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「reporting on nonresponse bias in estimates obtained from survey data. Nonresponse bias is one」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「The generalizability of survey estimates , a key quality indicator (FCSM, 2020), relies on」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse bias affects both the accuracy and the reliability of population estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「possible sources of error that can cause survey estimates to differ from the underlying population」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「have a large impact on the final estimate.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「quality of the estimates produced.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「survey error — the difference between a survey estimate and the true value— thus enhancing the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「bias, to assess the potential for compounded or distorted bias estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「estimates given the overall survey design. The report should describe the key aspects of the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「the estimate given the sampling frame. According to the FCSM report, A Framework for Data」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「estimates. Descriptions of any unequal probabilities of inclusion used should be included.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「specific key estimates or outcomes. The report should provide a description of the survey’s key」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「estimates or outcomes and the set of variables used to produce them . Any other survey variables」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「however, it is not necessarily a strong predictor of the nonresponse bias in survey estimates」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+- 一次情報の探し方：
+  - 「https://aapor.org/wp-content/uploads/2023/05/Standards -Definitions-10th-edition.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.bls.gov/osmr/research -papers/2016/pdf/st160020.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/DataQualityAssessmentTool.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.whitehouse.gov/wp-content/uploads/2021/04/standards_stat_surveys.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「https://www.fcsm.gov/assets/files/docs/Transparent_Reporting_FCSM_19_01_092719.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「standards-apr2022.pdf. Accessed 17 Sept. 2024.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 失敗・落とし穴：
+  - 「Best Practices for Nonresponse Bias Reporting」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Prepared by the Nonresponse Bias Subcommittee of the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「SM, Fakhouri THI, Piscopo KD. 2023. Best Practices for Nonresponse Bias Reporting, FCSM-23-01」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse Bias Subcommittee」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practices for Nonresponse Bias Reporting June 2023 1」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「GUIDANCE FOR DEVELOPING A NONRESPONSE BIAS REPORT ..................................... 10」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practice 1: Describe the survey that is the subject of the nonresponse bias analysis ............. 10」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「the nonresponse bias analysis......................................................................................................... 13」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「nonresponse bias ................................................................................................................................. 14」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Guideline 2.7. Discuss the potential for nonresponse bias given weighted response rates,」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practice 3: Describe the plan for evaluating and quantifying nonresponse bias and any」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Guideline 3.2. Describe the analysis plan for comparing and assessing nonresponse bias levels」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Best Practices for Nonresponse Bias Reporting June 2023 2」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+- 実例：
+  - 「bias for other data sources. For example, gaps in data resulting from malfunctioning sensors in a」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「additional cases does not necessarily decrease bias (Heerwegh, Abts, & Loosveldt, 2007). Some」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「nonresponse bias. For example, if a survey i ncludes a longitudinal component, it may be useful」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「possible, any bias identified in the nonresponse bias analysis, for example by adjusting survey」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「collection procedures, including comprehensive metadata. As is the case with all guidance」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「survey and the population for which inferences will be made. For example, the target population」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「where each sample unit has a known probability of selection. For example, an address -based」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「telephone number or cell phone number. In some cases, a list of email addresses may provide a」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「students at a university). For example, t he Bureau of Labor Statistics uses unemployment」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「rely on multiple frames in which case information on each frame used and how they are used」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「about the target population” (p. 38) . For example, target household units without landline」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「The report should describe the level(s) at which data were collected. For example, the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「For example, households without tele phones cannot participate in telephone -only surveys」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「tested during data collection to increase response rates and reduce potential bias. Examples of」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「associated with bias, there are some situations where the latter may not lead to bias. For example,」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+
+## ストック（時点の数）とフロー（期間の量）を分けて推定し、公表値と対象範囲をそろえて確かめる実務（フェルミ推定・市場規模の推定の書き手・需要側と供給側の2つの切り口）（stock vs flow estimation market sizing demand side supply side sanity check）
+- 文脈：推定
+- 手順・やり方：
+  - 「【フェルミ推定】基礎知識や最新例題から具体的なやり方について解説 | マイビジョン」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「【フェルミ推定】基礎知識や最新例題から具体的なやり方について解説」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定の基礎知識や5つの手順、難易度別の例題・解答例、面接で評価されるポイントまで解説」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定を解くための5つの手順」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「手順1．問いの定義と前提条件を確認する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「手順2．推定に使うアプローチを決める」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「手順3．計算に必要な要素へ因数分解する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「手順4．根拠のある数値を代入して計算する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「手順5．計算結果が現実的か検証する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミは、限られた情報から物理現象などの規模を素早く概算する能力に優れていたことから、この推定方法がフェルミ推定と呼ばれるようになりました」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「たとえば店舗売上を求める場合でも、来店客数から考える方法のほか、座席数や回転数から推定する方法もあります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定の問題は、大きくストック型とフロー型に分けて考えられます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「ストック型は特定時点に存在する数量を求める問題で、フロー型は一定期間に発生する数量や金額を求める問題です」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フロー型では、1日・1ヶ月・1年など、どの期間を対象にするかによって答えが変わります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定は、一定の手順に沿って考えることで、初めて見る問題でも回答を組み立てやすくなります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+- 突き合わせ・推定：
+  - 「【フェルミ推定】基礎知識や最新例題から具体的なやり方について解説 | マイビジョン」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「【フェルミ推定】基礎知識や最新例題から具体的なやり方について解説」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定について調べているものの、「どのように考えればよいのか」「面接では何を見られるのか」と悩む人もいるでしょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定は、限られた情報から前提を置き、数値を分解しながら妥当な答えを導く思考法です」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定の基礎知識や5つの手順、難易度別の例題・解答例、面接で評価されるポイントまで解説」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「これからフェルミ推定を学びたい人や、コンサル転職の面接対策を進めたい人は、ぜひ参考にしてみてください」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定を解くための5つの手順」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「手順2．推定に使うアプローチを決める」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「手順5．計算結果が現実的か検証する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「Q1.フェルミ推定とケース面接の違いは何ですか？」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「Q2.フェルミ推定は暗算が苦手でも通過できますか？」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「Q3.フェルミ推定の面接で電卓やメモは使えますか？」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「Q4.フェルミ推定の対策にはどのくらいの期間が必要ですか？」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定とは、正確なデータがわからない状況で、限られた情報や一般的な知識をもとに数値を概算する思考法」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「仮説を立てて問題をいくつかの要素に分け、それぞれに妥当な数値を当てはめながら答えを導きます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+- 一次情報の探し方：
+  - 「コンサルティングファームなどの採用面接では、実際に論理的に考える力や仮説を立てる力を確認するために出題されることがあります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「国勢調査と住民基本台帳では対象の定義が違うため、参照する統計を確認したうえで使いましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「また、既知の統計や身近な感覚と比べたり、別のアプローチから概算したりする方法も有効です」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定では、統計の細かな数値をそのまま使う必要はありません」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「統計によって18歳人口の定義が異なる点は押さえておきましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「令和7年度学校基本統計（学校基本調査の結果）確定値」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「ここでは、日本フランチャイズチェーン協会の統計対象となる主要コンビニチェーンの店舗を想定します」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「協会の統計はJFA正会員のコンビニ本部を対象としているため、妥当性検証の条件もそろえやすくなります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「1店舗当たりの商圏人口は公的な基礎数値ではないため、ここでは生活圏にあるコンビニの店舗密度から約2,000人と仮定しています」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「ただし公表統計と比較する際は、対象範囲をそろえる必要がある」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「実際の統計と照らす場合も、豆・インスタントの小売額、カフェの飲食代、コーヒー飲料のいずれを含むかで公表値は大きく変わります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「各問題には公的な統計の数値を掲載しているため、自身の推定値と照合してどこにズレが生じたかも確認できます」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
+  - 「公的統計によると、日本の電柱本数は約3,550万〜3,600万本です」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
+  - 「時点は「現在に近い時点」（建設年度による差があるため厳密な現時点は統計でも把握困難）」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
+  - 「日本の総人口：約1億2,000万人（総務省統計局人口推計、2024年10月時点で約1億2,380万人）」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
+- 失敗・落とし穴：
+  - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「計算結果が直感に反するほど小さい（または大きい）場合、前提の設定に誤りがある可能性が高いものです」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
+- 実例：
+  - 「手順5．計算結果が現実的か検証する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「Q1.フェルミ推定とケース面接の違いは何ですか？」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「労働力調査（基本集計）2025年平均結果」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「ここでは、前提条件の確認から計算結果の検証まで、基本となる5つの手順を解説します」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「「日本全国にコンビニは何店舗あるか」という問題でも、どこまでをコンビニとして扱うのかによって推定結果は変わります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「結果への影響が大きい要素を優先し、限られた時間でも計算できる粒度にとどめることがポイント」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「計算式が合っていても、前提や代入した数値に無理があると、結果が大きくずれるためです」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「実際には、医学部などの6年制課程や留年者などもいるため、4学年で一律に計算した結果には誤差が生じます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「令和7年度学校基本統計（学校基本調査の結果）確定値」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「同じ猫を家族全員が飼っているケースも多く、人口を起点にすると重複を避けるために追加の仮定が必要になります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「これらを使うと約903万匹となり、実際の推計値約884.7万匹とも近い結果です」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「推定結果約6万店舗に対して、日本フランチャイズチェーン協会の2025年12月度調査では、JFA正会員7社の店舗数は5万6,054店舗でした」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「推定値との差は1割程度に収まっており、初級のフェルミ推定としてはおおむね妥当な結果と判断できます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「新宿駅前に出店するカフェの年間売上は、需要側と供給側の2つのアプローチから推定し、結果を比較することで妥当性を確認できます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）

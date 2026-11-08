@@ -1,0 +1,569 @@
+{
+ "name": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口）",
+ "en": "Census of Manufactures Japan 2010 2011 2012 industry detailed classification establishments employees shipments e-Stat",
+ "aliases": [
+  "平成22年 工業統計表 産業編",
+  "平成23年 工業統計表 産業編 細分類",
+  "平成24年 工業統計表 産業編 e-Stat 00550010",
+  "工業統計調査 2010年 確報 産業別統計表 xls"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T05:00:47.225300+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "<2021年実績> 以降",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2020年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2019年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2018年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成30(2018)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成29(2017)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29(2017)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成28(2016)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成27(2015)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2022.12.26",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/2950.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.tottori.lg.jp/224646.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003094713",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/20221024090007.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/chikukougyoudanchibetsujigyoushosuujuugyoushasuu/resource/f5805c52-bc05-4ae8-a509-2ebed6cb9bd9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007233_d/fil/0-mokuji_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.tokushima.lg.jp/statistics/year/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2012/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061425&tclass3=000001061416&tclass4=000001061480&tclass5val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stats-japan.com/t/kiji/10720",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/20221024090007.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/chikukougyoudanchibetsujigyoushosuujuugyoushasuu/resource/f5805c52-bc05-4ae8-a509-2ebed6cb9bd9"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.tottori.lg.jp/224646.htm",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003094713",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/20221024090007.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.tottori.lg.jp/224646.htm",
+    "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/chikukougyoudanchibetsujigyoushosuujuugyoushasuu/resource/f5805c52-bc05-4ae8-a509-2ebed6cb9bd9"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007233_d/fil/0-mokuji_2.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.pref.tottori.lg.jp/224646.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "https://www.pref.tottori.lg.jp/224646.htm",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.tokushima.lg.jp/sp/statistics/year/industry/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.pref.tottori.lg.jp/224646.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://www.pref.tottori.lg.jp/224646.htm",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Census of Manufactures Japan 2010 2011 2012 industry detailed classification establishments employees shipments e-Stat Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/e-census/2012/index.html",
+    "https://www.e-stat.go.jp/en/stat-search",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061425&tclass3=000001061416&tclass4=000001061480&tclass5val=0",
+    "https://stats-japan.com/t/kiji/10720",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.statista.com/statistics/636792/japan-communication-electronics-equipment-manufacturing-industry-business-number/?srsltid=AYCX9vKjO7PpZJLJm_wOkRG6F8Ip-IG-fbCsO6n4bbZUZ7fs6fFrV7Uw",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.glocal-c.com/jsic/",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00200&toukei=00200521&tstat=000001039448&tclass1=000001047544&tclass2=000001047545&tclass3=000001047548&result_page=1&tclass4val=0&stat_infid=000012666966"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口）",
+   "results": [
+    "https://note.com/itoyoshiyasu/n/nde1d5f6b99ef",
+    "https://note.com/hakuboku4/n/n2009a6e7b3a4",
+    "https://note.com/text_sakura/n/n58c50460c1f9",
+    "https://note.com/stats47/n/n973c3f8478f5?hl=en",
+    "https://note.com/ever_jobs/n/n77820e31b7f8",
+    "https://note.com/seikahaibun/n/n3ff57c479302",
+    "https://note.com/y44901726/n/n015115dc59d6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2108903228306067911",
+    "https://jf.x.com/images/media-preview/2115416473716093386",
+    "https://jf.x.com/images/media-preview/2116581302183010531",
+    "https://jf.x.com/images/media-preview/2107040014349881640",
+    "https://jf.x.com/images/media-preview/2113849953605058588",
+    "https://x.com/NFCMarketLive/status/2113374590651224073",
+    "https://x.com/noecho"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口）",
+   "results": [
+    "https://www.linkedin.com/company/linkedin/jobs",
+    "https://www.linkedin.com/company/asics-technologies",
+    "https://pulse.linkedin.com/",
+    "https://uk.linkedin.com/in/grace-pritchard-143693169",
+    "https://members.linkedin.com/apps",
+    "https://in.linkedin.com/company/vvdn-technologies",
+    "https://az.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口）",
+   "results": [
+    "https://www.facebook.com/GatewayBarnwell/",
+    "https://www.facebook.com/Sunshine0123/",
+    "https://www.facebook.com/deedeewithers/",
+    "https://www.facebook.com/danawayne423/",
+    "https://www.facebook.com/adriana.dasilvabarbosa/",
+    "https://www.facebook.com/Shawn6640/",
+    "https://www.facebook.com/marketplace/item/28553476377617591/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.pref.tottori.lg.jp/224646.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://spec.api.metro.tokyo.lg.jp/spec/t000003d2000000970-1792f6c52604d3b84745d18b694e9500-0?lang=ja",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/20221024090007.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&result_page=1&tclass3val=0&statdisp_id=0003094710",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007233_d/fil/0-mokuji_2.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.pref.tottori.lg.jp/224646.htm",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Census of Manufactures Japan 2010 2011 2012 industry detailed classification establishments employees shipments e-Stat site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/brockwebb",
+    "https://www.linkedin.com/in/bruceguile",
+    "https://www.linkedin.com/in/bleditaska",
+    "https://www.linkedin.com/in/roseleopold",
+    "https://www.linkedin.com/in/jonathankhuihui",
+    "https://www.linkedin.com/in/anthony-morano-ba95458",
+    "https://www.linkedin.com/in/mayankkejriwal",
+    "https://www.linkedin.com/in/kaquansah",
+    "https://www.linkedin.com/in/krystalmires",
+    "https://uk.linkedin.com/in/guillaume-baquiast-478965ba"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ30頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ30頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ30頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ30頁・検索18回）"
+ }
+}

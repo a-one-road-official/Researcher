@@ -1,0 +1,319 @@
+{
+ "name": "法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）",
+ "en": "corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company",
+ "aliases": [
+  "法人番号 会社法人番号 違い 名寄せ",
+  "法人番号公表サイト 同名企業 見分け方",
+  "登記事項証明書 法人番号 照合 与信"
+ ],
+ "context": "一次情報の探し方",
+ "kind": "market",
+ "researched_at": "2026-11-08T05:00:46.298815+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sovagroup.co.jp/media_article/corporate-number-difference/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vs-group.jp/startup/accounting/15356.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ssl-store.jp/houjin-bangou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://houmukyoku.moj.go.jp/saitama/page000141_00002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-smile-seturitu.jp/%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%A8%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%AF%E3%81%A9%E3%81%86%E3%82%84%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pright-si.com/2022/06/02/%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%A8%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripe.com/resources/more/corporate-number-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.go.jp/en/policies/mynumber_faq_08",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regbase.jp/en/guides/japanese-corporate-number-lookup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globaldatabase.com/japan-company-register-how-to-search-the-corporate-number-touki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lookuptax.com/validate/japan/corporate-number",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手） site:note.com",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://sovagroup.co.jp/media_article/corporate-number-difference/",
+    "https://vs-group.jp/startup/accounting/15356.html",
+    "https://www.ssl-store.jp/houjin-bangou/",
+    "https://houmukyoku.moj.go.jp/saitama/page000141_00002.pdf",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "https://tokyo-smile-seturitu.jp/%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%A8%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%AF%E3%81%A9%E3%81%86%E3%82%84%E3%82%8B/",
+    "https://www.pright-si.com/2022/06/02/%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%A8%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84/",
+    "https://shiodome.co.jp/js/blog/8947",
+    "https://note.com/geeky_banker/n/n0e619bab49c5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手） note",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://sovagroup.co.jp/media_article/corporate-number-difference/",
+    "https://vs-group.jp/startup/accounting/15356.html",
+    "https://www.ssl-store.jp/houjin-bangou/",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "https://tokyo-smile-seturitu.jp/%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%A8%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%AF%E3%81%A9%E3%81%86%E3%82%84%E3%82%8B/",
+    "https://www.pright-si.com/2022/06/02/%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%A8%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84/",
+    "https://www.youtube.com/watch?v=CLP8UVWNVfA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手） やり方",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://sovagroup.co.jp/media_article/corporate-number-difference/",
+    "https://vs-group.jp/startup/accounting/15356.html",
+    "https://www.ssl-store.jp/houjin-bangou/",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "https://tokyo-smile-seturitu.jp/%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%A8%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%AF%E3%81%A9%E3%81%86%E3%82%84%E3%82%8B/",
+    "https://www.pright-si.com/2022/06/02/%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%A8%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84/",
+    "https://www.youtube.com/watch?v=CLP8UVWNVfA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手） 事例",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://sovagroup.co.jp/media_article/corporate-number-difference/",
+    "https://vs-group.jp/startup/accounting/15356.html",
+    "https://www.ssl-store.jp/houjin-bangou/",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "https://tokyo-smile-seturitu.jp/%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%A8%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%AF%E3%81%A9%E3%81%86%E3%82%84%E3%82%8B/",
+    "https://www.pright-si.com/2022/06/02/%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%A8%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84/",
+    "https://www.youtube.com/watch?v=CLP8UVWNVfA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company",
+   "results": [
+    "https://stripe.com/resources/more/corporate-number-japan",
+    "https://www.digital.go.jp/en/policies/mynumber_faq_08",
+    "https://regbase.jp/en/guides/japanese-corporate-number-lookup",
+    "https://www.globaldatabase.com/japan-company-register-how-to-search-the-corporate-number-touki",
+    "https://lookuptax.com/validate/japan/corporate-number",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://en.wikipedia.org/wiki/Corporate_Number",
+    "https://www.businessdataguide.com/api-directory/japan-registry-api",
+    "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
+    "https://www.houjin-bangou.nta.go.jp/en/setsumei/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）",
+   "results": [
+    "https://note.com/geeky_banker/n/n0e619bab49c5",
+    "https://note.com/shigezoo/n/n1981a14e8de5",
+    "https://note.com/xxx_monotk/n/na119fb4cfdcd",
+    "https://note.com/data_hojosen/n/ndd94114269ca",
+    "https://note.com/alarmbox/n/n6ad3ae076ade",
+    "https://note.com/kirigaya/n/n990b181f5542",
+    "https://note.com/shigezoo/n/n1981a14e8de5?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）",
+   "results": [
+    "https://x.com/AandS_KSB1983/status/2057446158847676645",
+    "https://x.com/keiarima/status/2058844788280176888",
+    "https://x.com/IZUJIN2/status/2064100539483488737",
+    "https://x.com/2amnhrrr/status/2074722675881390579",
+    "https://x.com/takanishi12/status/2087433975816192060",
+    "https://x.com/okaguchik/status/2057235124182548599",
+    "https://x.com/otsunojirou/status/2092193495645884477"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）",
+   "results": [
+    "https://jp.linkedin.com/pulse/法人番号検索ツール作ってみたら便利だった件-shinichiro-yamashita-ijknc",
+    "https://jp.linkedin.com/in/hironobu-yoshida",
+    "https://jp.linkedin.com/pulse/日本における企業コード-shinichiro-yamashita",
+    "https://www.linkedin.com/pulse/understanding-japanese-corporate-tax-documentation-comprehensive-abyve",
+    "https://jp.linkedin.com/in/hisakatsu-cho-3489954a",
+    "https://jp.linkedin.com/posts/陽生-山口-77253a3b9_9月下旬から変わります領収済通知書の様式変更もう確認しましたか-経理業務-activity-7505815529291456512-W32k",
+    "https://www.linkedin.com/posts/勝利-安藤-3251a987_第10回-法務イノベーションフォーラム-詳細参加登録はこちら-activity-7428289408388337664-PqOg"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）",
+   "results": [
+    "https://www.facebook.com/aozoracafe123/posts/法人番号と会社法人番号等について-株式会社や合同会社や各種法人の設立登記をすると法務局で12桁の会社法人等番号が付されます-そして登記が完了してから一週間程度で/1166911173435178/",
+    "https://www.facebook.com/naru.hagiwara/",
+    "https://www.facebook.com/catsb.project/photos/トラスと桁の違いを実験/808884715948265/",
+    "https://www.facebook.com/groups/358586826319960/posts/1350273663817933/",
+    "https://www.facebook.com/100057204230039/posts/貴重な国内物のcbx550fなのでエンジンフルohしましたフレーム番号とエンジン番号4番違い/756280576288743/",
+    "https://www.facebook.com/signsystemsoart/posts/会社の電話に0426から始まる-12桁-の怪しい電話番号から着信ntt西日本と告げたので応答頭の悪そうな口調の輩が当方の個人情報を聞き出そうとあの手この手のらり/1444900264303275/",
+    "https://www.facebook.com/fukusyokudo/posts/福食堂はインボイス登録事業者ですレジ印刷のレシート領収書手書きの領収書にそれぞれtから始まる13桁の登録番号が記載されています/819663676521182/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手） note 社長",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://sovagroup.co.jp/media_article/corporate-number-difference/",
+    "https://vs-group.jp/startup/accounting/15356.html",
+    "https://www.ssl-store.jp/houjin-bangou/",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "https://tokyo-smile-seturitu.jp/%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%A8%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%AF%E3%81%A9%E3%81%86%E3%82%84%E3%82%8B/",
+    "https://www.pright-si.com/2022/06/02/%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%A8%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84/",
+    "https://www.youtube.com/watch?v=CLP8UVWNVfA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手） X 投稿",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://sovagroup.co.jp/media_article/corporate-number-difference/",
+    "https://vs-group.jp/startup/accounting/15356.html",
+    "https://houmukyoku.moj.go.jp/saitama/page000141_00002.pdf",
+    "https://www.ssl-store.jp/houjin-bangou/",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "https://www.youtube.com/watch?v=CLP8UVWNVfA",
+    "https://tokyo-smile-seturitu.jp/%E6%B3%95%E4%BA%BA%E7%AD%89%E7%95%AA%E5%8F%B7%E3%81%A8%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%AF%E3%81%A9%E3%81%86%E3%82%84%E3%82%8B/",
+    "https://www.houjin-bangou.nta.go.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/clemta-support_every-us-business-needs-an-ein-to-function-activity-7390010161429573632-uyZ7",
+    "https://www.linkedin.com/pulse/why-tin-verification-matters-businesses-how-do-efficiently-l0eyc",
+    "https://www.linkedin.com/posts/seb-amazonexpert_amazonseller-amazonuk-amazoneu-activity-7518642548052070400-moQv",
+    "https://www.linkedin.com/posts/md-ahsanullah-miajee-9b3145a5_to-be-direct-this-inquiry-has-all-the-activity-7504938757872332800-GHNi",
+    "https://www.linkedin.com/company/insight",
+    "https://www.linkedin.com/pulse/5-best-tools-verify-ein-number-free-paid-2026-teamsignzy-h7rrc",
+    "https://www.linkedin.com/posts/tinoherold_fta-tin-trn-activity-7519200997261332480-_hr6",
+    "https://www.linkedin.com/posts/markma922_most-payment-controls-focus-on-the-moment-activity-7519646258542718976-WGcL",
+    "https://www.linkedin.com/in/huzefaneemuchwala",
+    "https://www.linkedin.com/in/john-h-bishop-cpa-a4094a10"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ15頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ15頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）",
+  "実例": "記載なし（読んだ15頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T05:00:46.298815+00:00"
+}

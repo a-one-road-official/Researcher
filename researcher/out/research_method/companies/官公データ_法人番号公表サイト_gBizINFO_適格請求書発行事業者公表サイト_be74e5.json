@@ -8,17 +8,23 @@
  ],
  "context": "名寄せ",
  "kind": "market",
- "researched_at": "2026-11-07T21:48:04.637735+00:00",
+ "researched_at": "2026-11-08T05:00:41.285457+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "quote": "資本金・従業員数・届出/認定・財務・特許・補助金など",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "quote": "経済産業省が「500万社以上」の政府保有法人データを提供するサイトで、法人番号をキーに資本金・従業員数などの法人基本情報から届出/認定・財務・特許・調達・補助金・職場情報までを引けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書等の開示書類は、サイトでの閲覧・取得なら登録不要で、APIによる機械取得にはAPIキー（登録制）が必要です（キーなしのリクエストは拒否されます）",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -74,21 +80,41 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "資本金・従業員数・届出/認定・財務・特許・補助金など",
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "経済産業省が「500万社以上」の政府保有法人データを提供するサイトで、法人番号をキーに資本金・従業員数などの法人基本情報から届出/認定・財務・特許・調達・補助金・職場情報までを引けます",
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "有価証券報告書等の開示書類は、サイトでの閲覧・取得なら登録不要で、APIによる機械取得にはAPIキー（登録制）が必要です（キーなしのリクエストは拒否されます）",
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -185,32 +211,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "実例": [
-   {
-    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -222,9 +222,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.invoice-kohyo.nta.go.jp/",
+    "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
@@ -232,9 +232,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "url": "https://www.invoice-kohyo.nta.go.jp/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://disclosure2.edinet-fsa.go.jp/",
@@ -298,13 +298,13 @@
    "query": "官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活 site:note.com",
    "results": [
     "https://gomumari.com/knowledge/koukou-data-list/",
-    "https://www.invoice-kohyo.nta.go.jp/",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
     "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "https://www.invoice-kohyo.nta.go.jp/",
     "https://disclosure2.edinet-fsa.go.jp/",
     "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "https://www.fsa.go.jp/search/",
     "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
+    "https://www.fsa.go.jp/search/",
     "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
    ],
    "engines": [
@@ -334,13 +334,13 @@
    "query": "官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活 やり方",
    "results": [
     "https://gomumari.com/knowledge/koukou-data-list/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
     "https://www.invoice-kohyo.nta.go.jp/",
+    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
     "https://disclosure2.edinet-fsa.go.jp/",
     "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
     "https://www.fsa.go.jp/search/",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
     "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
    ],
    "engines": [
@@ -375,7 +375,7 @@
     "https://codigital.co.jp/en/posts/how-to-search-company-registry-in-japan",
     "https://regbase.jp/en/guides/gbizinfo-japanese-company-profile",
     "https://lemreveal.com/data/japan",
-    "https://catalog.data.gov/?keyword=corporations",
+    "https://catalog.data.gov/?keyword=companies",
     "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
     "https://www.prometiam.com/guides/japan-company-data-api"
    ],
@@ -448,21 +448,21 @@
    "query": "government open data company list houjin bangou gBizINFO closed relocated duplicate cleanup site:linkedin.com",
    "results": [
     "https://www.linkedin.com/company/houjin-bangou",
-    "https://www.linkedin.com/company/harris-data-integrity-solutions",
+    "https://www.linkedin.com/company/opengov-inc",
+    "https://in.linkedin.com/directory/companies",
     "https://sg.linkedin.com/company/opengovsg",
     "https://nz.linkedin.com/company/fluor-bwxt-portsmouth",
-    "https://in.linkedin.com/directory/companies",
-    "https://www.linkedin.com/pulse/list-state-open-data-portals-jet-lü",
-    "https://www.linkedin.com/company/opencorporates"
+    "https://in.linkedin.com/company/globaldataplc",
+    "https://www.linkedin.com/directory/companies"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T06:02:13.529796+00:00"
 }

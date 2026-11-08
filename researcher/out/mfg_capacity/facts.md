@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・206品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・208品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -10529,6 +10529,121 @@
   - 「業所調査』の集計結果（ 「産業編」 「品目編」 「地域編」 ） （2024 年 7 月 26 日公表）とそれらの関」（http://www.etisa.or.jp/mokuji/mokuji2930.pdf）
 - 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 工業統計表 産業別統計表 平成22〜24年（2010〜2012年）確報 産業細分類 事業所数・従業者数・製造品出荷額等（e-Stat 政府統計コード00550010 の統計表番号で・10年推移の前半・4-97 1つの入口で0件なら別の入口）（Census of Manufactures Japan 2010 2011 2012 industry detailed classification establishments employees shipments e-Stat）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 社員数・平均社員数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 受注金額・加工賃収入：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 10年推移：
+  - 「<2021年実績> 以降」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2020年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2019年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2018年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成30(2018)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成29(2017)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成29(2017)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成28(2016)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成27(2015)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「最終更新日：2022.12.26」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 痛み・損（深さの印）：記載なし（読んだ30頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ30頁・検索18回）
+- 生産能力・設備：記載なし（読んだ30頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ30頁・検索18回）
+
+## 経済センサス‐活動調査 2012年 製造業 産業細分類別 事業所数・従業者数・製造品出荷額等（2464・2465・2452・2691・工業統計の2012年の穴を埋める別の統計・段差として扱う・4-26）（Economic Census for Business Activity 2012 Japan manufacturing detailed industry establishments employees）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「（事業所）第40表 存続・新設・廃業(3区分)別民営事業所数及び男女別従業者数- 広島県，市区町，広島大都市圏 (Excelファイル)(36KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第10表 産業（大分類），経営組織（4区分），存続・新設・廃業別民営事業所数及び男女別従業者数-広島県 (Excelファイル)(65KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 事業所数・社数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「【第１表】［総括表：従業者４人以上の事業所］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(29KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第３表】［従業者４人以上の事業所に関する統計表］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(26KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第４表】［従業者４人以上の事業所に関する統計表］産業中分類＞従業者規模・経営組織・資本金階層別統計表 (Excelファイル)(117KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第７表】［従業者４人以上の事業所に関する統計表］市町別＞従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(215KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第８表】［従業者30人以上の事業所に関する統計表］従業者規模・産業中分類別統計表 (Excelファイル)(40KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第10表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］従業者規模・産業中分類別統計表 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表３】市町別の事業所数の推移［従業員４人以上の事業所］（平成13年～） (Excelファイル)(26KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(36KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(22KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表１ 産業大分類、経営組織別事業所数、男女別従業者数及び１事業所当たり従業者数 (Excelファイル)(18KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表２ 市町、経営組織別事業所数及び男女別従業者数 (Excelファイル)(19KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 社員数・平均社員数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「【第１表】［総括表：従業者４人以上の事業所］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(29KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第２表】［総括表：従業者４人以上の事業所］市町別統計表 (Excelファイル)(20KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第３表】［従業者４人以上の事業所に関する統計表］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(26KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第４表】［従業者４人以上の事業所に関する統計表］産業中分類＞従業者規模・経営組織・資本金階層別統計表 (Excelファイル)(117KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第５表】［従業者４人以上の事業所に関する統計表］産業細分類別統計表 (Excelファイル)(124KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第６表】［従業者４人以上の事業所に関する統計表］市町別統計表 (Excelファイル)(25KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第７表】［従業者４人以上の事業所に関する統計表］市町別＞従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(215KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第８表】［従業者30人以上の事業所に関する統計表］従業者規模・産業中分類別統計表 (Excelファイル)(40KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第９表】［従業者30人以上の事業所に関する統計表］市町別統計表 (Excelファイル)(39KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第10表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］従業者規模・産業中分類別統計表 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第11表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］市町別統計表 (Excelファイル)(18KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第12表】［品目に関する統計表：従業者４人以上の事業所］品目別統計表 (Excelファイル)(76KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第13表】［従業者３人以下の事業所に関する統計表］産業中分類別統計表 (Excelファイル)(25KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第14表】［従業者３人以下の事業所に関する統計表］産業細分類別統計表 (Excelファイル)(65KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 受注金額・加工賃収入：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表５】市町別の製造品出荷額等の推移［従業者4人以上の事業所］（平成13年～） (Excelファイル)(29KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表８】産業中分類別の製造品出荷額等の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(31KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(36KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表14】広島県及び全国の製造品出荷額等の産業中分類別特化係数の推移［従業者４人以上の事業所］（昭和25，30，35，40，45，50，55，60年，平成２年，平成5年～） (Excelファイル)(94KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(22KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表５ 市町、産業大分類別売上（収入）金額（試算値） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）付表９ 市町、企業産業大分類別売上（収入）金額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表1】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者4人以上の事業所]（昭和25年～） (Excelファイル)(34KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表2】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者3人以下の事業所]（昭和58年～） (Excelファイル)(16KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表5】市町別の製造品出荷額等の推移[従業者4人以上の事業所]（平成8年～） (Excelファイル)(31KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表8】産業中分類別の製造品出荷額等の推移[従業者4人以上の事業所]（昭和20年～） (Excelファイル)(31KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 1人あたり・1社あたり金額：
+  - 「【参考表６】市町別の付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(29KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成13年～） (Excelファイル)(36KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(22KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表６ 市町、産業大分類別純付加価値額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）付表10 市町、企業産業大分類別純付加価値額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表6】市町別の付加価値額の推移[従業者4人以上の事業所]（平成8年～） (Excelファイル)(31KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表9～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（平成8年～） (Excelファイル)(44KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（昭和20年～） (Excelファイル)(21KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）[従業者4人以上の事業所]（昭和60年～） (Excelファイル)(21KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表６ 市町，産業大分類別付加価値額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）付表10 市町，企業産業大分類別付加価値額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第1-1表 産業(大分類)，経営組織(5区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額―広島県 (Excelファイル)(19KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第2-2-2表 産業(中分類)，単独・本所・支所(3区分)別民営事業所数，事業従事者数及び付加価値額(外国の会社及び法人でない団体を除く) - 広島県，広島大都市圏 (Excelファイル)(62KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第4-2-2表 産業(大分類)，経営組織(3区分)別民営事業所数，事業従事者数及び付加価値額(外国の会社及び法人でない団体を除く) - 広島県，広島市 (Excelファイル)(32KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 生産能力・設備：
+  - 「（企業等）第1-2表 企業産業(中分類)，単一・複数(２区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(99KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）第3－2表 企業産業(大分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(28KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「1事業所当たり 有形固定資産投資総額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+- 10年推移：
+  - 「<2021年実績> 以降」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2020年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2019年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2018年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成30(2018)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成29(2017)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成29(2017)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成28(2016)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成27(2015)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「最終更新日：2022.12.26」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「令和３年（2021年）活動調査」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「平成28年（2016年）活動調査」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「令和３年（2021年）（活動調査）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 人手と仕事の差：記載なし（読んだ30頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

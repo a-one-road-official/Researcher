@@ -8,108 +8,8 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T22:06:09.773763+00:00",
+ "researched_at": "2026-11-08T05:05:36.900535+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "Data is everywhere. Because of advances in technology over the past decades, people can store and process more information than ever before. Meanwhile, data can come in aggregate or granular form. Of course, journalists often prefer to obtain granular data so it can be analyzed from all angles. Even so, that’s not always the case.",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "like the example in this link",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Some examples of publicly available datasets include:",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In some cases, journalists may need to create their own dataset if it doesn’t already exist in a structured format — via documents or other sources, for example.",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "As part of the analysis, it is possible to cross-reference the information with other datasets. For example, cross-referencing data from entities registered in offshore jurisdictions that appeared in the",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In these cases, data often drives the stories.",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, engineers can develop tools that help address the needs of the journalists, develop machine learning models to screen millions of records, use technology in the service of journalists, and help process millions of records.",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The series explored corruption cases in Kenya connected to “procurement and shady tendering scams in government and government agencies.” The project reviewed public procurement information and explored connections involving public officials and other stakeholders who, through a series of companies, received benefits in tender processes.",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<li>Updates from government officials and law enforcement through their social media, websites, and official channels, <a href=\"https://x.com/DCI_Kenya/status/1099963556500516865\">like the example in this link</a>.</li>",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "</ul><p>If an organization or a public agency publishes a figure (such as a statistic), asking for the data behind it could also be a way of accessing a dataset.</p><p>Some examples of publicly available datasets include:</p><ul>",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "</ol><p>In some cases, journalists may need to create their own dataset if it doesn&rsquo;t already exist in a structured format &mdash; via documents or other sources, for example.</p><ol start=\"2\">",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "began experimenting with the use of computers to process data for various projects at the Detroit Free Press. He also introduced the use of social science methods in reporting, later detailed in his 1973 book, “",
@@ -258,6 +158,14 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "検索結果の抜粋": [
+   {
+    "quote": "10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>",
@@ -349,6 +257,98 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "実例": [
+   {
+    "quote": "Data is everywhere. Because of advances in technology over the past decades, people can store and process more information than ever before. Meanwhile, data can come in aggregate or granular form. Of course, journalists often prefer to obtain granular data so it can be analyzed from all angles. Even so, that’s not always the case.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "like the example in this link",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Some examples of publicly available datasets include:",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In some cases, journalists may need to create their own dataset if it doesn’t already exist in a structured format — via documents or other sources, for example.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As part of the analysis, it is possible to cross-reference the information with other datasets. For example, cross-referencing data from entities registered in offshore jurisdictions that appeared in the",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In these cases, data often drives the stories.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, engineers can develop tools that help address the needs of the journalists, develop machine learning models to screen millions of records, use technology in the service of journalists, and help process millions of records.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The series explored corruption cases in Kenya connected to “procurement and shady tendering scams in government and government agencies.” The project reviewed public procurement information and explored connections involving public officials and other stakeholders who, through a series of companies, received benefits in tender processes.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Updates from government officials and law enforcement through their social media, websites, and official channels, <a href=\"https://x.com/DCI_Kenya/status/1099963556500516865\">like the example in this link</a>.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "</ul><p>If an organization or a public agency publishes a figure (such as a statistic), asking for the data behind it could also be a way of accessing a dataset.</p><p>Some examples of publicly available datasets include:</p><ul>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "</ol><p>In some cases, journalists may need to create their own dataset if it doesn&rsquo;t already exist in a structured format &mdash; via documents or other sources, for example.</p><ol start=\"2\">",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
@@ -365,17 +365,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yosatonet/n/n0752f2797baf",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/diisuket/n/n694838626b89",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n9a5bc0b221e6",
+    "url": "https://note.com/yosatonet/n/n0752f2797baf",
     "status": "ok",
     "method": "http"
    },
@@ -385,12 +380,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/sikumiya/n/n00d4a27de7ad",
+    "url": "https://note.com/kagawatomo/n/n9a5bc0b221e6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/rosy_dove4297/n/ne0fb8079b26d",
+    "url": "https://note.com/sikumiya/n/n00d4a27de7ad",
     "status": "ok",
     "method": "http"
    },
@@ -400,7 +395,7 @@
     "method": "http"
    },
    {
-    "url": "https://dataaicareer.com/data-analysis-pitfalls/",
+    "url": "https://note.com/ripla_business/n/n8afeb0776f4a",
     "status": "ok",
     "method": "http"
    },
@@ -411,6 +406,11 @@
    },
    {
     "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
     "status": "ok",
     "method": "http"
    },
@@ -430,9 +430,9 @@
     "method": "http"
    },
    {
-    "url": "https://corp.genialtech.io/ja/column/collation/",
+    "url": "https://www.goukaku.ne.jp/image/dlfile/jisshiyoko/R04/saiten_SP.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
@@ -455,11 +455,6 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
     "status": "ok",
     "method": "pdf"
@@ -475,6 +470,11 @@
     "method": "http"
    },
    {
+    "url": "https://gxo.co.jp/column/input-error-prevention-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
     "status": "http_403",
     "method": "http"
@@ -485,12 +485,12 @@
     "method": "http"
    },
    {
-    "url": "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
+    "url": "https://libguides.northwestern.edu/c.php?g=114895&p=8358627",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libguides.northwestern.edu/c.php?g=114895&p=8358627",
+    "url": "https://datajournalism.com/",
     "status": "ok",
     "method": "http"
    },
@@ -512,17 +512,17 @@
    "results": [
     "https://note.com/ai_masaki/n/nf3a542a88874",
     "https://note.com/hirokimiyano/n/ne79e40b9eeb0",
-    "https://note.com/yosatonet/n/n0752f2797baf",
     "https://note.com/diisuket/n/n694838626b89",
-    "https://note.com/kagawatomo/n/n9a5bc0b221e6",
+    "https://note.com/yosatonet/n/n0752f2797baf",
     "https://note.com/ichi_twnovel/n/n8867a5f760ae",
-    "https://note.com/kagawatomo/n/n509e3f985875",
+    "https://note.com/kagawatomo/n/n9a5bc0b221e6",
     "https://note.com/hirokimiyano/n/na74aba81e4c6",
+    "https://note.com/kagawatomo/n/n509e3f985875",
     "https://note.com/kagawatomo/n/n23d1ef26dfbb",
     "https://note.com/strategy_shimura/n/nf5934b0bad21"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -531,21 +531,18 @@
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） note",
    "results": [
     "https://note.com/sikumiya/n/n00d4a27de7ad",
-    "https://note.com/rosy_dove4297/n/ne0fb8079b26d",
     "https://note.com/ai_analysiss/n/n47652737608f",
-    "https://dataaicareer.com/data-analysis-pitfalls/",
+    "https://note.com/ripla_business/n/n8afeb0776f4a",
     "https://xtech.nikkei.com/atcl/nxt/column/18/02033/041400012/",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
-    "https://note.com/ripla_business/n/n8afeb0776f4a",
-    "https://note.com/studio_ichizen/n/n5f1a010b0e45",
-    "https://note.com/moonlightmanager/n/n143435aee501"
+    "https://note.com/rosy_dove4297/n/ne0fb8079b26d",
+    "https://www.worldoftest.com/ja/print/pdf/node/5638"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 8
   },
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） やり方",
@@ -553,10 +550,10 @@
     "https://www.soumu.go.jp/main_content/000723626.pdf",
     "https://data-viz-lab.com/large-scale-excel-data",
     "https://exceljoshi.cocoo.co.jp/media/excel-date-entry-rule",
-    "https://corp.genialtech.io/ja/column/collation/",
+    "https://www.goukaku.ne.jp/image/dlfile/jisshiyoko/R04/saiten_SP.pdf",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
     "https://www.kmds.jp/pc_kowaza/03_compare/",
-    "https://dailyexcelhacks.blog/excel-compare-two-lists/",
+    "https://www.stat.go.jp/naruhodo/12_ppdac/data.html",
     "https://www.amed.go.jp/content/000034153.pdf",
     "https://gxo.co.jp/column/input-error-prevention-guide-2026",
     "https://advan-jpn.co.jp/column/prevent-data-error/"
@@ -582,7 +579,7 @@
     "https://www.unifinity.co.jp/blog/20260721/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -592,20 +589,18 @@
    "results": [
     "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
     "https://viewjournal.eu/articles/10.18146/view.332",
-    "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
     "https://libguides.northwestern.edu/c.php?g=114895&p=8358627",
+    "https://datajournalism.com/",
     "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-how-do-you-edit-a-data-driven-story-when-youre-not-a-data-specialist-yourselfgi/1512261904276239/",
     "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "https://rjionline.org/news/providing-context-for-data-in-journalism/",
     "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
-    "https://shorthand.com/the-craft/how-to-create-great-data-journalism/index.html",
-    "https://infotimes.academy/blog/verify-data-before-publishing"
+    "https://shorthand.com/the-craft/how-to-create-great-data-journalism/index.html"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "site:note.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
@@ -617,9 +612,9 @@
     "https://note.com/slownewsjp/n/n37ca7d5001d5",
     "https://note.com/ichi_twnovel/n/n9bde056023e1",
     "https://note.com/ai_masaki/n/nf3a542a88874",
-    "https://note.com/ichi_twnovel/n/n8867a5f760ae",
     "https://note.com/diisuket/n/n694838626b89",
-    "https://note.com/langsmith/n/na8ea07795c45"
+    "https://note.com/langsmith/n/na8ea07795c45",
+    "https://note.com/ichi_twnovel/n/n8867a5f760ae"
    ],
    "engines": [
     "ddgs:google",
@@ -630,19 +625,19 @@
   {
    "query": "site:x.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
-    "https://x.com/KagawaTomo/status/2118481110871220447",
     "https://x.com/FABYMETAL4/status/2091994224120279540",
+    "https://x.com/ai_jitan/article/2113103194754879662?lang=cs",
     "https://x.com/cv_usk/article/2111237466988675400?lang=ar",
     "https://x.com/wayama_ryousuke/status/2118521865262260311",
-    "https://x.com/daifukujinji/status/2108663894743175417",
-    "https://x.com/ai_jitan/status/2113103194754879662",
+    "https://x.com/pop_ikeda/article/2090313930686271819",
     "https://x.com/zakiryo1533/article/2065096178136682867",
+    "https://x.com/daifukujinji/article/2112650114447909168?lang=ar",
     "https://x.com/hiro_panketing/status/2118720635388219758",
     "https://x.com/KagawaTomo/status/2116800506467422688",
-    "https://x.com/tamehey/status/2117223947305685041"
+    "https://x.com/MLBear2/status/2119196669598450034"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -652,17 +647,17 @@
    "results": [
     "https://jp.linkedin.com/directory/articles",
     "https://jp.linkedin.com/pulse/introducing-monitor-know-whats-your-dynamics-data-before-copilot-ivwbe?tl=ja",
+    "https://sg.linkedin.com/in/ehata-atsuko-35893510b",
     "https://jp.linkedin.com/pulse/excel-hell-how-overcome-challenges-data-management-miguel-domingos-xgj4f?tl=ja",
     "https://jp.linkedin.com/pulse/robotic-process-automation-bank-reconciliation-sap-s4hana-bandara-z2fhc?tl=ja",
     "https://jp.linkedin.com/pulse/we-using-wrong-data-choose-right-sites-alexander-swaab-5aa9e?tl=ja",
-    "https://sg.linkedin.com/in/ehata-atsuko-35893510b",
-    "https://jp.linkedin.com/pulse/monthly-reporting-process-best-practices-solver-africa-zrmlf?tl=ja",
     "https://jp.linkedin.com/pulse/hiring-101-15-basic-rules-we-forgot-along-way-ayon-banerjee-plk3c?tl=ja",
+    "https://jp.linkedin.com/pulse/monthly-reporting-process-best-practices-solver-africa-zrmlf?tl=ja",
     "https://jp.linkedin.com/pulse/why-server-side-tracking-still-fails-common-mistakes-costing-alam-bktdc?tl=ja",
-    "https://jp.linkedin.com/pulse/common-trade-show-planning-mistakes-how-avoid-them-bhavya-sharma-kyyhc?tl=ja"
+    "https://www.linkedin.com/showcase/ronbunnews/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -670,16 +665,16 @@
   {
    "query": "site:facebook.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
-    "https://es-la.facebook.com/kimie.hatano.9",
+    "https://www.facebook.com/tvasahinews/videos/%E7%8B%AC%E8%87%AA7%E5%B9%B4%E6%9C%8D%E5%BD%B9%E4%BC%9D%E8%AA%AC%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E8%AA%9E%E3%82%8B-gmo%E6%94%BB%E6%92%83%E7%8A%AF%E4%BA%BA%E5%83%8F%E3%81%AF-%E7%B4%A0%E4%BA%BA%E6%AE%8B%E3%81%95%E3%82%8C%E3%81%9F%E7%97%95%E8%B7%A1%E3%81%A8%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E5%88%91%E5%8B%99%E6%89%80%E5%86%85%E3%81%A7%E6%92%AE%E3%82%89%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%81%AB%E6%98%A0%E3%82%8B1%E4%BA%BA%E3%81%AE%E7%94%B7%E6%80%A7%E3%81%8B%E3%81%A4%E3%81%A6100%E5%84%84%E5%86%86%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%E8%A9%90%E6%AC%BA%E4%BA%8B%E4%BB%B6%E3%82%92%E5%BC%95%E3%81%8D%E8%B5%B7%E3%81%93/1449997456498192/",
     "https://www.facebook.com/KartzMediaWorks/",
-    "https://www.facebook.com/shizukaterata/?locale=ps_AF",
     "https://www.facebook.com/help/463983701520800?locale=ja_JP",
-    "https://www.facebook.com/jimin.official/posts/%E5%81%BD%E8%AA%A4%E6%83%85%E5%A0%B1%E3%81%8B%E3%82%89%E4%B8%8D%E5%AE%89%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E3%81%AB%E4%BC%B4%E3%81%86%E5%8E%9F%E6%B2%B9%E7%89%A9%E8%B3%87%E4%BE%9B%E7%B5%A6%E5%AF%BE%E7%AD%96qa%E6%94%BF%E5%BA%9C%E3%81%AF%E3%82%AC%E3%82%BD%E3%83%AA%E3%83%B3%E9%AB%98%E9%A8%B0%E5%AF%BE%E7%AD%96%E3%82%84%E5%8E%9F%E6%B2%B9%E3%81%AE%E4%BB%A3%E6%9B%BF%E8%AA%BF%E9%81%94%E6%8B%A1%E5%A4%A7%E6%B5%81%E9%80%9A%E3%81%AE%E7%9B%AE%E8%A9%B0%E3%81%BE%E3%82%8A%E8%A7%A3%E6%B6%88%E3%82%92%E5%85%88%E6%89%8B%E3%81%A7%E5%AE%9F%E8%A1%8C%E4%B8%AD%E3%81%A7%E3%81%99%E5%B8%B8%E3%81%AB%E4%B8%87/1501792837970970/",
-    "https://www.facebook.com/theater.enya/posts/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%92%E3%83%9D%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E7%9B%B2%E7%82%B9%E8%88%9E%E5%8F%B0%E6%8C%A8%E6%8B%B6%E6%B1%BA%E5%AE%9A%E5%A4%A7%E6%89%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E6%AE%86%E3%81%A9%E5%A0%B1%E9%81%93%E3%81%97%E3%81%AA%E3%81%84%E7%A7%91%E5%AD%A6%E3%81%A8%E4%BA%8B%E5%AE%9F%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E9%A9%9A%E6%84%95%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%92%E3%83%9D%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E7%9B%B2%E7%82%B9%E3%81%AE%E4%B8%8A%E6%98%A0%E3%82%92%E8%A8%98%E5%BF%B5%E3%81%97%E5%A4%A7%E8%A5%BF/1786578092782400/",
+    "https://www.facebook.com/shizukaterata/?locale=ps_AF",
     "https://www.facebook.com/docomo.official/posts/%E4%B8%80%E9%83%A8%E5%A0%B1%E9%81%93%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%8D%E9%81%A9%E5%88%87%E3%81%AA%E3%81%8A%E5%AE%A2%E6%A7%98%E5%BF%9C%E5%AF%BE%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3-%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E5%A0%B1%E9%81%93%E3%81%AB%E3%81%82%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%92%E4%BE%AE%E8%BE%B1%E3%81%97%E3%81%9F%E4%B8%8D%E9%81%A9%E5%88%87%E3%81%AA%E5%BF%9C%E5%AF%BE%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E3%81%94%E4%B8%8D%E5%BF%AB%E3%81%AA%E6%80%9D%E3%81%84%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E8%AA%A0%E3%81%AB%E7%94%B3%E3%81%97/2778265785586852/",
-    "https://www.facebook.com/tvasahinews/videos/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%B3%E6%80%A5%E3%81%AE%E3%81%8A%E9%A1%98%E3%81%84%E6%8A%95%E7%A8%BF-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Ephp%E3%81%AE%E4%BF%AE%E6%AD%A3%E3%83%91%E3%83%83%E3%83%81%E9%81%A9%E7%94%A8%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91%E3%82%8B%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3%E3%81%8C21%E6%97%A5%E5%A4%9C%E3%81%AB%E8%87%AA%E8%BA%AB%E3%81%AEx%E3%81%A7%E5%A4%A7%E8%87%B3%E6%80%A5%E3%81%AE%E3%81%8A%E9%A1%98%E3%81%84%E3%81%A8%E3%81%97%E3%81%A6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Ephp/2620471338454206/",
+    "https://www.facebook.com/jimin.official/posts/%E5%81%BD%E8%AA%A4%E6%83%85%E5%A0%B1%E3%81%8B%E3%82%89%E4%B8%8D%E5%AE%89%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E3%81%AB%E4%BC%B4%E3%81%86%E5%8E%9F%E6%B2%B9%E7%89%A9%E8%B3%87%E4%BE%9B%E7%B5%A6%E5%AF%BE%E7%AD%96qa%E6%94%BF%E5%BA%9C%E3%81%AF%E3%82%AC%E3%82%BD%E3%83%AA%E3%83%B3%E9%AB%98%E9%A8%B0%E5%AF%BE%E7%AD%96%E3%82%84%E5%8E%9F%E6%B2%B9%E3%81%AE%E4%BB%A3%E6%9B%BF%E8%AA%BF%E9%81%94%E6%8B%A1%E5%A4%A7%E6%B5%81%E9%80%9A%E3%81%AE%E7%9B%AE%E8%A9%B0%E3%81%BE%E3%82%8A%E8%A7%A3%E6%B6%88%E3%82%92%E5%85%88%E6%89%8B%E3%81%A7%E5%AE%9F%E8%A1%8C%E4%B8%AD%E3%81%A7%E3%81%99%E5%B8%B8%E3%81%AB%E4%B8%87/1501792837970970/",
+    "https://www.facebook.com/usembassytokyo/videos/%E7%A4%BE%E4%BC%9A%E4%BA%BA%E7%95%99%E5%AD%A6%E3%81%8C%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E3%81%AE%E8%A8%93%E7%B7%B4%E3%81%AB-english-text-follows-japanese%E5%A0%B1%E9%81%93%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3sunday%E3%81%AE%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%84%E3%82%B6%E3%83%8F%E3%83%95%E3%82%A3%E3%83%B3%E3%83%88%E3%83%B3%E3%83%9D%E3%82%B9%E3%83%88%E6%97%A5/1124191177663835/",
+    "https://www.facebook.com/theater.enya/posts/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%92%E3%83%9D%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E7%9B%B2%E7%82%B9%E8%88%9E%E5%8F%B0%E6%8C%A8%E6%8B%B6%E6%B1%BA%E5%AE%9A%E5%A4%A7%E6%89%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E6%AE%86%E3%81%A9%E5%A0%B1%E9%81%93%E3%81%97%E3%81%AA%E3%81%84%E7%A7%91%E5%AD%A6%E3%81%A8%E4%BA%8B%E5%AE%9F%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E9%A9%9A%E6%84%95%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%92%E3%83%9D%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E7%9B%B2%E7%82%B9%E3%81%AE%E4%B8%8A%E6%98%A0%E3%82%92%E8%A8%98%E5%BF%B5%E3%81%97%E5%A4%A7%E8%A5%BF/1786578092782400/",
     "https://www.facebook.com/ntvnews24/videos/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%83%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E6%80%A5%E5%A2%97-%E6%9C%AC%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97%E5%8B%9D%E6%89%8B%E3%81%AB%E5%A5%91%E7%B4%84%E3%82%84%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%AE%E4%B8%8D%E6%AD%A3%E5%88%A9%E7%94%A8%E3%82%82-%E6%82%AA%E7%94%A8%E3%81%AE%E5%AE%9F%E6%85%8B%E3%81%A8%E5%AF%BE%E5%87%A6%E6%B3%95%E3%81%AFnews-every%E3%81%AE%E6%A3%AE%E5%9C%AD%E4%BB%8B%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%8C%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%83%85%E5%A0%B1%E3%82%92/1395276930334455/",
-    "https://www.facebook.com/boulansserie/videos/%E3%83%91%E3%83%B3%E3%81%AE%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%82%92%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%E4%BD%BF%E3%81%A3%E3%81%A6%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%E3%81%AF%E5%8A%B9%E7%8E%87%E3%81%8C%EF%BC%91%EF%BC%90%E5%80%8D%E3%82%A2%E3%83%83%E3%83%97%E9%9B%BB%E5%8D%93%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%89%8B%E8%A8%88%E7%AE%97%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%E3%81%AF%E5%8A%B9%E7%8E%87%E3%81%8C%EF%BC%91%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%90%E5%80%8D%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%BE%E3%81%99/1443094082987361/"
+    "https://www.facebook.com/tvasahinews/videos/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%B3%E6%80%A5%E3%81%AE%E3%81%8A%E9%A1%98%E3%81%84%E6%8A%95%E7%A8%BF-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Ephp%E3%81%AE%E4%BF%AE%E6%AD%A3%E3%83%91%E3%83%83%E3%83%81%E9%81%A9%E7%94%A8%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91%E3%82%8B%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3%E3%81%8C21%E6%97%A5%E5%A4%9C%E3%81%AB%E8%87%AA%E8%BA%AB%E3%81%AEx%E3%81%A7%E5%A4%A7%E8%87%B3%E6%80%A5%E3%81%AE%E3%81%8A%E9%A1%98%E3%81%84%E3%81%A8%E3%81%97%E3%81%A6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Ephp/2620471338454206/"
    ],
    "engines": [
     "ddgs:google",
@@ -692,63 +687,66 @@
    "results": [
     "https://note.com/rosy_dove4297/n/ne0fb8079b26d",
     "https://note.com/ai_snslog/n/na664c724c69d",
-    "https://note.com/pokemimi/n/nc4b6cfd25f67",
-    "https://news.web.nhk/newsweb",
     "https://souzokushindan.com/sys/?p=122848",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.siteengine.co.jp/",
+    "https://note.com/sikumiya/n/n00d4a27de7ad",
     "https://researchmap.jp/blogs/blog_entries/view/99366/1e88f40818c1665710c11657ec9fe999?page_id=262622",
-    "https://note.com/magic_ai7978/n/naabb0b3af89c"
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://news.web.nhk/newsweb",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://note.com/magic_ai7978/n/naabb0b3af89c",
+    "https://note.com/studio_ichizen/n/n5f1a010b0e45"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） X 投稿",
    "results": [
     "https://www.soumu.go.jp/main_content/000723626.pdf",
     "https://help.x.com/ja/using-x/articles",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vI6wOLty5qC-b75_pqZTghvsfzuqqcWyMBuKvkr52N8FPhMvmtz",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vIVvmjbWYjrUBl5sLYPrw24lh4fZ8M5bcZx28mpkLwLGRAHkm9L",
     "https://www.siteengine.co.jp/",
     "https://exceljoshi.cocoo.co.jp/media/excel-date-entry-rule",
     "https://www.amed.go.jp/content/000034153.pdf",
     "https://note.com/goodcomms/n/n433dbeffaff7",
-    "https://baigie.me/officialblog/2022/02/02/writing_technic_twitter/",
-    "https://gxo.co.jp/column/input-error-prevention-guide-2026",
-    "https://advan-jpn.co.jp/column/prevent-data-error/"
+    "https://support.microsoft.com/ja-jp/excel/guidelines-for-organizing-and-formatting-data-on-a-worksheet",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02033/041400012/",
+    "https://gxo.co.jp/column/input-error-prevention-guide-2026"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "data journalism checklist verify complete dataset limitations section site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/ai-assisted-investigative-journalism-pakistan-practical-aleem-xbj0f",
     "https://www.linkedin.com/pulse/how-review-research-paper-complete-reviewer-checklist-aleem-6d57f",
-    "https://www.linkedin.com/pulse/ai-assisted-investigative-journalism-pakistan-practical-aleem-ajkgf",
     "https://www.linkedin.com/in/kleinmatic",
     "https://ca.linkedin.com/in/craigjsilverman",
+    "https://www.linkedin.com/pulse/ai-assisted-investigative-journalism-pakistan-practical-aleem-ajkgf",
     "https://www.linkedin.com/in/surya-mattu",
-    "https://www.linkedin.com/in/searchbistro",
-    "https://www.linkedin.com/in/lamthuyvo",
     "https://www.linkedin.com/in/julie-j-lee",
-    "https://www.linkedin.com/in/jessicalhuseman"
+    "https://www.linkedin.com/in/lamthuyvo",
+    "https://www.linkedin.com/in/jessicalhuseman",
+    "https://www.linkedin.com/in/will-craft-b39258ab"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   }
  ],
  "missing": {
   "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-06T20:09:01.989592+00:00"
 }
