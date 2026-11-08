@@ -8,16 +8,8 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-08T15:45:15.670295+00:00",
+ "researched_at": "2026-11-08T23:36:19.552611+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "If every positive item strengthens your thesis but every negative item is dismissed as temporary, the process is probably biased. My recommendation is to…",
-    "url": "https://equityresearchbase.com/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "The primary sources for Stage 1 are the 10-K Item 1 (Business), the MD&A narrative, and the most recent four earnings call transcripts. Understanding",
@@ -209,6 +201,14 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "If every positive item strengthens your thesis but every negative item is dismissed as temporary, the process is probably biased. My recommendation is to…",
+    "url": "https://equityresearchbase.com/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
@@ -245,14 +245,14 @@
     "method": "browser"
    },
    {
-    "url": "https://note.com/tatsuya_sabato/n/n69596da3b772",
-    "status": "ok",
+    "url": "https://www.help-note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.help-note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
+    "url": "https://note.com/tatsuya_sabato/n/n69596da3b772",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://note.com/mydayai/n/na86f04240f78",
@@ -265,7 +265,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tatsuya_sabato/n/na9bc92107c20",
+    "url": "https://note.com/tsunobuchi/n/nee062f8cbf16",
     "status": "ok",
     "method": "http"
    },
@@ -290,22 +290,22 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vLxoIdmGHNhtAKn-OvOSvNU27Gky0GPQVciMu2D8cvANnGVLSho",
+    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vIchrkvkQ2FAvX7-bfUkgXtLlD606Sgq6Fxk_wDFZ8W_VNUmn53",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://townwork.net/magazine/skill/130866/",
+    "url": "https://guides.lib.kyushu-u.ac.jp/citation-guide/page5",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
+    "url": "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vL_BoTDOxCHWjEX8SHc9ISnVfNDUmY-V7GNhgaYnLfV6F49gRYv",
+    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vKALbZSuE1MdeB6n6EUHV8IHUqgF-6Wp4leIENaj1VaJK0SFaoC",
     "status": "ok",
     "method": "http"
    },
@@ -315,9 +315,9 @@
     "method": "pdf"
    },
    {
-    "url": "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
+    "url": "https://report.prism-ai.jp/report-writing-statistical-data/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.shiga-med.ac.jp/library/support/materials/2019/2019academicwriting.pdf",
@@ -325,14 +325,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://report.prism-ai.jp/report-writing-statistical-data/",
+    "url": "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.bitget.com/ja/wiki/1203666",
-    "status": "http_404",
-    "method": "http"
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.kingstonautomation.com/workflows/investment-research",
@@ -341,11 +341,6 @@
    },
    {
     "url": "https://www.hebbia.com/resources/equity-research-report",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qveris.ai/guides/skill-equity-research-report",
     "status": "ok",
     "method": "http"
    },
@@ -363,6 +358,11 @@
     "url": "https://www.linkedin.com/pulse/ai-equity-research-how-investment-teams-automating-i6pbc",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://www.stockrover.com/guide-fundamental-stock-research-workflow/",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -376,37 +376,34 @@
     "https://note.com/x402inc/n/n57b734ceaa72",
     "https://note.com/miuraandpartners/n/n7872fce9fa20",
     "https://help.note.com/hc/ja/articles/360012426133-%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8",
-    "https://note.com/liberence/n/n431957910b82",
+    "https://note.com/certification_99/n/n4682b55799fc",
+    "https://note.com/tus_ok_sielin/n/nb944163c126d",
     "https://note.com/miraisyakai/n/ne2e06d2279c3",
-    "https://note.com/miuraandpartners/n/n94ac29c96ef8",
-    "https://note.com/tyousa_mri559"
+    "https://note.com/ictlink/n/n234e82328dbe"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 18
+   "n_hits": 17
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） note",
    "results": [
-    "https://note.com/tatsuya_sabato/n/n69596da3b772",
     "https://www.help-note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
+    "https://note.com/tatsuya_sabato/n/n69596da3b772",
     "https://note.com/mydayai/n/na86f04240f78",
     "https://www.f-academy.jp/contents/column/kabu-note-katsuyojutsu/",
-    "https://note.com/tatsuya_sabato/n/na9bc92107c20",
-    "https://www.oguno.jp/share/38",
-    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vIX61EqVwAoALn2T2IODMuet7eELdruGlLrLooBioV1cX8F_5nc",
-    "https://cocozas.jp/coco-the-style/in-mitsui/",
     "https://note.com/tsunobuchi/n/nee062f8cbf16",
-    "https://inuiwan.com/archives/3299"
+    "https://www.oguno.jp/share/38",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vLJ7xH4AzRuek4xYbUlev0tI7MwcPCp_W-KeigRlUIZktlbKzRz",
+    "https://cocozas.jp/coco-the-style/in-mitsui/",
+    "https://note.com/tatsuya_sabato/n/na9bc92107c20"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） やり方",
@@ -414,12 +411,12 @@
     "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
     "https://www.stat.go.jp/data/kokusei/2015/riyou.html",
     "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
-    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vLxoIdmGHNhtAKn-OvOSvNU27Gky0GPQVciMu2D8cvANnGVLSho",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vIchrkvkQ2FAvX7-bfUkgXtLlD606Sgq6Fxk_wDFZ8W_VNUmn53",
+    "https://guides.lib.kyushu-u.ac.jp/citation-guide/page5",
+    "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
+    "https://campus.seisen-u.ac.jp/guideline/guide_2011/guide_18.pdf",
     "https://townwork.net/magazine/skill/130866/",
     "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
-    "https://guides.lib.kyushu-u.ac.jp/citation-guide/page5",
-    "https://campus.seisen-u.ac.jp/guideline/guide_2011/guide_18.pdf",
-    "https://concours.toshokan.or.jp/concours/reference",
     "https://yoshin.mugenkaitaku.com/a/torihikisaki-chosahyo-kakikata"
    ],
    "engines": [
@@ -433,17 +430,17 @@
    "results": [
     "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
     "https://www.stat.go.jp/data/kokusei/2015/riyou.html",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vKALbZSuE1MdeB6n6EUHV8IHUqgF-6Wp4leIENaj1VaJK0SFaoC",
     "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
-    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vL_BoTDOxCHWjEX8SHc9ISnVfNDUmY-V7GNhgaYnLfV6F49gRYv",
     "https://campus.seisen-u.ac.jp/guideline/guide_2011/guide_18.pdf",
+    "https://report.prism-ai.jp/report-writing-statistical-data/",
+    "https://www.shiga-med.ac.jp/library/support/materials/2019/2019academicwriting.pdf",
     "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
     "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
-    "https://www.shiga-med.ac.jp/library/support/materials/2019/2019academicwriting.pdf",
-    "https://report.prism-ai.jp/report-writing-statistical-data/",
     "https://www.bitget.com/ja/wiki/1203666"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -453,12 +450,12 @@
    "results": [
     "https://www.kingstonautomation.com/workflows/investment-research",
     "https://www.hebbia.com/resources/equity-research-report",
-    "https://qveris.ai/guides/skill-equity-research-report",
     "https://www.marvin-labs.com/resources/equity-research-automation/",
     "https://grata.com/features/industry-research/private-equity-research",
     "https://www.linkedin.com/pulse/ai-equity-research-how-investment-teams-automating-i6pbc",
-    "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
-    "https://n8n.io/workflows/12949-generate-weekly-ai-equity-research-reports-with-google-sheets-fmp-newsapi-openai-and-gmail/",
+    "https://www.stockrover.com/guide-fundamental-stock-research-workflow/",
+    "https://reasonabledeviations.com/2020/08/20/investing-checklist/",
+    "https://visualping.io/blog/equity-research-tools",
     "https://www.alpha-sense.com/resources/equity-research-guide/",
     "https://www.finmonkeys.com/blog/source-linked-stock-research-workflow"
    ],
@@ -466,62 +463,62 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
    "results": [
     "https://note.com/s_line/n/nc621590e2063",
     "https://help.note.com/hc/ja/articles/360008882834-%E5%BC%95%E7%94%A8%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B",
-    "https://note.com/x402inc/n/n57b734ceaa72",
     "https://note.com/noted_jacana411/n/n2b7472ede716",
+    "https://note.com/x402inc/n/n57b734ceaa72",
     "https://note.com/miuraandpartners/n/n7872fce9fa20",
     "https://help.note.com/hc/ja/articles/360012426133-%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8",
-    "https://note.com/liberence/n/n431957910b82",
+    "https://note.com/tus_ok_sielin/n/nb944163c126d",
+    "https://note.com/certification_99/n/n4682b55799fc",
     "https://note.com/miraisyakai/n/ne2e06d2279c3",
-    "https://note.com/zaimani_com/n/neb18bd4d48ba",
-    "https://note.com/miuraandpartners/n/n94ac29c96ef8"
+    "https://note.com/ictlink/n/n234e82328dbe"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 18
-  },
-  {
-   "query": "site:x.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
-   "results": [
-    "https://x.com/vsr_ebuchi/status/2116732012983927101",
-    "https://x.com/vsr_ebuchi/status/2119342162466767155",
-    "https://x.com/vsr_ebuchi/status/2117887088376889359",
-    "https://x.com/vsr_ebuchi/status/2116804969450152416",
-    "https://x.com/agata_fc/status/2041832957556748756",
-    "https://x.com/hcnet1981/status/2118508751523365117",
-    "https://x.com/PLAYinc_pr/status/2118295936308756757",
-    "https://x.com/www_oddre_jp/status/2118229341113085971",
-    "https://x.com/SekidoCorp/status/2117814105881096650",
-    "https://x.com/findy_tools/status/2113213013499228556"
-   ],
-   "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
   },
   {
+   "query": "site:x.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
+   "results": [
+    "https://x.com/Nospare_Inc/status/1912453419190874288",
+    "https://x.com/vsr_ebuchi/status/2117887088376889359",
+    "https://x.com/vsr_ebuchi/status/2119342162466767155",
+    "https://x.com/hcnet1981/status/2118508751523365117",
+    "https://x.com/agata_fc/status/2041832957556748756",
+    "https://x.com/vsr_ebuchi/status/2116804969450152416",
+    "https://x.com/findy_tools/status/2113213013499228556",
+    "https://x.com/shota7180/article/2097165577257456080",
+    "https://x.com/www_oddre_jp/status/2118229341113085971",
+    "https://x.com/PLAYinc_pr/status/2118295936308756757"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
    "query": "site:linkedin.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
    "results": [
-    "https://ec.linkedin.com/company/nttdata?trk=public_post_share-update_actor-image",
-    "https://ca.linkedin.com/in/izumiando",
-    "https://jp.linkedin.com/company/nttdata",
-    "https://www.linkedin.com/posts/nttdata_dx-scm-nttdata-activity-7260176733499240448-iuPK",
-    "https://ch.linkedin.com/company/on-ag",
+    "https://jp.linkedin.com/posts/goldman-sachs_2010%E5%B9%B4%E3%81%AB%E6%96%B0%E5%8D%92%E7%A4%BE%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9%E8%A8%BC%E5%88%B8%E3%81%AE%E6%8A%95%E8%B3%87%E8%AA%BF%E6%9F%BB%E9%83%A8%E9%96%80%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E6%9D%89%E5%B1%B1%E8%B3%A2-activity-6415476089279246336-XLny",
+    "https://ec.linkedin.com/company/nttdata",
     "https://uk.linkedin.com/company/astrazeneca",
-    "https://www.linkedin.com/showcase/ecovadis-japan/",
-    "https://fr.linkedin.com/company/lvmh",
+    "https://www.linkedin.com/company/alteryx",
     "https://www.linkedin.com/company/earthbrain",
-    "https://fr.linkedin.com/company/schneider-electric"
+    "https://jp.linkedin.com/company/nttdata",
+    "https://www.linkedin.com/in/mayaedwards",
+    "https://www.linkedin.com/company/kuehne-nagel",
+    "https://www.linkedin.com/posts/nttdata_dx-scm-nttdata-activity-7260176733499240448-iuPK",
+    "https://fi.linkedin.com/company/nttdata"
    ],
    "engines": [
     "ddgs:google",
@@ -532,16 +529,16 @@
   {
    "query": "site:facebook.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
    "results": [
-    "https://www.facebook.com/100083556660048/photos/",
-    "https://www.facebook.com/lcc.izumo/posts/lcc%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99%E4%BB%8A%E6%97%A5%E3%81%AF%E7%94%9F%E6%B4%BB%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%81%94%E4%BE%9D%E9%A0%BC%E3%81%AF%E5%B3%B6%E6%A0%B9%E7%9C%8C%E5%87%BA%E9%9B%B2%E5%B8%82%E3%81%AB%E3%81%A6%E5%AE%B6%E3%81%AE%E4%B8%AD%E3%81%AE%E4%B8%8D%E7%94%A8%E5%93%81%E6%95%B4%E7%90%86%E7%89%87%E3%81%A5%E3%81%91%E4%BD%9C%E6%A5%AD%E3%82%92%E6%89%BF%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%87%BA%E9%9B%B2%E5%B8%82%E3%81%A7%E5%AE%9A%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E5%88%86%E5%88%A5%E6%96%B9%E6%B3%95%E3%81%AB%E5%89%87%E3%82%8A/1195832015513658/",
     "https://www.facebook.com/privacy/policy/?locale=ja_JP",
-    "https://www.facebook.com/yoishoku.jp/posts/-%E4%BB%8A%E9%80%B1%E3%81%AE%E3%81%A8%E3%82%8C%E3%81%9F%E3%81%A6%E5%A4%A7%E7%99%BE%E7%A7%91-%CB%8B%CB%8F-%E4%BB%8A%E9%80%B1%E3%81%AF%E3%83%9B%E3%82%A6%E3%83%AC%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%82%88%E6%B9%BF%E3%82%89%E3%81%9B%E3%81%9F%E6%96%B0%E8%81%9E%E7%B4%99%E3%81%AB%E5%8C%85%E3%81%BF%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E8%A2%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%A6%E9%87%8E%E8%8F%9C%E5%AE%A4%E3%81%A7%E7%AB%8B%E3%81%A6%E3%81%A6%E4%BF%9D%E5%AD%98%E3%81%97%E3%81%A6%E3%81%AD%E9%AE%AE%E5%BA%A6%E3%81%8C%E5%91%BD%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99%E3%81%90%E3%81%AB%E9%A3%9F%E3%81%B9%E5%88%87%E3%82%8C%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AF/1533515542135309/",
-    "https://www.facebook.com/satoyukari.japan/",
+    "https://www.facebook.com/lcc.izumo/posts/lcc%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99%E4%BB%8A%E6%97%A5%E3%81%AF%E7%94%9F%E6%B4%BB%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%81%94%E4%BE%9D%E9%A0%BC%E3%81%AF%E5%B3%B6%E6%A0%B9%E7%9C%8C%E5%87%BA%E9%9B%B2%E5%B8%82%E3%81%AB%E3%81%A6%E5%AE%B6%E3%81%AE%E4%B8%AD%E3%81%AE%E4%B8%8D%E7%94%A8%E5%93%81%E6%95%B4%E7%90%86%E7%89%87%E3%81%A5%E3%81%91%E4%BD%9C%E6%A5%AD%E3%82%92%E6%89%BF%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%87%BA%E9%9B%B2%E5%B8%82%E3%81%A7%E5%AE%9A%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E5%88%86%E5%88%A5%E6%96%B9%E6%B3%95%E3%81%AB%E5%89%87%E3%82%8A/1195832015513658/",
     "https://www.facebook.com/?locale=ja_JP",
-    "https://www.facebook.com/ads/ig_redirect/?d=Ad8Kh-A9OXOuWg69TZxQGVb6vPhu_gmfNwCyT8PZAP5spMFwcM6tElznmdAkt6QDat7RlniDDzm2d2YoBrm56JCh-DaR8vyAbvGQwcCvApy0SC4Lxa1c-yK0Gvx5v15S1W4S0ZbD4Gtk-JOk9hsTcA3iBEGZPgi9-dSnd6RO_f9-Uf7RYu8kTpZXO2jnD21Rvy4&a=1&hash=Ad9MGfUxP2-YQbXW",
-    "https://www.facebook.com/urbanresearch.jp/posts/%E5%B9%B3%E7%B4%A0%E3%81%AF%E6%A0%BC%E5%88%A5%E3%81%AE%E3%81%94%E9%AB%98%E9%85%8D%E3%82%92%E8%B3%9C%E3%82%8A%E5%8E%9A%E3%81%8F%E5%BE%A1%E7%A4%BC%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99-%E3%81%93%E3%81%AE%E5%BA%A6%E5%BC%8A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%BC%8Fx%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88urban_research%E3%81%AB%E3%81%8A%E3%81%8D%E3%81%BE%E3%81%97%E3%81%A6%E4%BD%95%E8%80%85%E3%81%8B%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E8%A2%AB%E5%AE%B3%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%A6/1608528581307482/",
+    "https://ja-jp.facebook.com/ads/library/",
     "https://www.facebook.com/help/109378269482053",
-    "https://ja-jp.facebook.com/ads/library/"
+    "https://about.facebook.com/ja/",
+    "https://www.facebook.com/satoyukari.japan/",
+    "https://www.facebook.com/help?locale=ja_JP",
+    "https://www.facebook.com/privacy/policies/cookies/",
+    "https://www.facebook.com/help/124679047612553?locale=ja_JP"
    ],
    "engines": [
     "ddgs:google",
@@ -553,21 +550,22 @@
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） note 社長",
    "results": [
     "https://note.com/mydayai/n/na86f04240f78",
-    "https://note.com/x402inc/n/n57b734ceaa72",
-    "https://note.com/noted_jacana411/n/n2b7472ede716",
-    "https://www.f-academy.jp/contents/column/kabu-note-katsuyojutsu/",
     "https://note.com/s_line/n/nc621590e2063",
-    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vJD2gv1x3GFyNcM4EG7P6sGXBtTGJMWP1tFxO7qWHmMUjPCgXbw",
-    "https://note.com/frank_pr/n/nc7b9b8c68b12",
+    "https://note.com/tsunobuchi/n/nee062f8cbf16",
+    "https://www.f-academy.jp/contents/column/kabu-note-katsuyojutsu/",
     "https://www.oguno.jp/share/38",
+    "https://note.com/noted_jacana411/n/n2b7472ede716",
     "https://cocozas.jp/coco-the-style/in-mitsui/",
+    "https://www.tsr-net.co.jp/",
+    "https://note.com/aikimi/n/n031c3675c18b",
     "https://inuiwan.com/archives/3299"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 18
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） X 投稿",
@@ -575,16 +573,16 @@
     "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
     "https://shwat.jp/ultra/howto-cite-onlinearticles/",
     "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
-    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vKU5IyMFhGDMR8OEFcrinHwu7JuGz4hpQaWVn1x_5CjxvVo4vT0",
+    "https://rs.usaco.co.jp/column/editage/how-to-43.html",
     "https://www.stat.go.jp/data/kokusei/2015/riyou.html",
-    "https://www.shiga-med.ac.jp/library/support/materials/2019/2019academicwriting.pdf",
-    "https://www.ritsumei.ac.jp/lib/pub/d08/010/14_quote.pdf",
     "https://prtimes.com/magazine/press-release-quote/",
-    "https://www.mext.go.jp/b_menu/1351168.htm",
-    "https://www.bitget.com/ja/wiki/1203666"
+    "https://note.com/liberence/n/n431957910b82",
+    "https://hasshin-lab.comtri.jp/x-community-notes/",
+    "https://guides.lib.kyushu-u.ac.jp/citation-guide/page5",
+    "https://www.wikiprompt.org/ja/senior-equity-research-analyst-prompt-for-stock-analysis"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -592,29 +590,28 @@
   {
    "query": "equity research workflow source tracking stale inputs checklist site:linkedin.com",
    "results": [
-    "https://ca.linkedin.com/company/haskayne-finance-club",
-    "https://www.linkedin.com/pulse/5-sources-investing-edge-matter-gary-mishuris-cfa-kaove",
+    "https://www.linkedin.com/in/william-mcnamara",
     "https://uk.linkedin.com/in/alexander-walsh",
-    "https://www.linkedin.com/top-content/productivity/optimizing-manufacturing-performance/how-to-track-processes-in-u-s-manufacturing/",
-    "https://ca.linkedin.com/company/cppinvestmentsinvestissementsrpc",
-    "https://ca.linkedin.com/in/gvalles1",
-    "https://ca.linkedin.com/company/tdsecurities",
-    "https://ca.linkedin.com/company/q4-inc",
-    "https://ca.linkedin.com/company/cibc-capital-markets",
-    "https://www.linkedin.com/in/daniel-ives-542321a8"
+    "https://www.linkedin.com/posts/adamdanyal_claudes-usage-limit-is-often-a-workflow-activity-7495585318197252097-rKUA",
+    "https://www.linkedin.com/pulse/gen-ai-business-90-happy-new-year-eugina-jordan-spqge",
+    "https://www.linkedin.com/in/peter-lau-592608115",
+    "https://www.linkedin.com/jobs/equity-research-analyst-jobs",
+    "https://www.linkedin.com/in/srikrishnamurthy",
+    "https://www.linkedin.com/top-content/finance/financial-analysis-techniques/filters-to-evaluate-financial-information/",
+    "https://www.linkedin.com/company/daloopa",
+    "https://ro.linkedin.com/company/investment-reports"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 17
   }
  ],
  "missing": {
   "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-07T03:19:43.919757+00:00"
 }

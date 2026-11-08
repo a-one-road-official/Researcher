@@ -9920,11 +9920,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順
@@ -12304,11 +12304,47 @@
 
 ## 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）（ownership chain verification beneficial ownership filings subsidiaries OSINT）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：
+  - 「How to investigate corporations, beneficial ownership, financial relationships, and asset structures using open source tools — from SEC filings to corporate registry searches.」（https://osintbench.com/guides/financial-osint/）
+  - 「, financial databases, and investigative tools from a single search. Corporate due diligence follows frameworks established by the」（https://maxintel.org/business.html）
+  - 「For UK companies, Bellingcat’s open-source Sugartrail (MIT licence) maps the companies, officers and addresses linked through Companies House. It finds everything within a chosen number of steps, and the chain that links two entities」（https://maxintel.org/business.html）
+  - 「Corporate OSINT is the application of open-source intelligence methodology to entities — companies, beneficial owners, counterparties, and supply chains — for the purpose of risk assessment, regulatory compliance, investment due diligence, or investigative journalism. The field sits at the intersection of financial intelligence (」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「), KYC/AML regulatory frameworks, and traditional」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「The first step in any corporate OSINT investigation is the formal registry.」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「Entity Resolution Methodology」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「legal arrangements outside common-law trust frameworks that produce similar opacity (Liechtenstein, Curaçao, Andorra)」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「Network Analysis Methodology」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「6.2 Search Methodology」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「7.1 Methods」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「Source Verification Framework」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「OSINT Legal Framework」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「Adopt a three-tier confidence framework consistent with intelligence community standards (see」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「— confidence-rating methodology」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+- 突き合わせ・推定：
+  - 「traces a brand or barcode to its parent, with sources. A public company lists its subsidiaries in its annual report; in the US that is Exhibit 21 of the 10-K on SEC EDGAR. Wikidata’s “owned by” field is a quick cross-check.」（https://maxintel.org/business.html）
+- 一次情報の探し方：
+  - 「How to investigate corporations, beneficial ownership, financial relationships, and asset structures using open source tools — from SEC filings to corporate registry searches.」（https://osintbench.com/guides/financial-osint/）
+  - 「Corporate and financial OSINT digs into legal entities: companies, foundations, trusts, and their controllers. It exposes real owners, financial ties between entities, and involvement in fraud, sanctions busting, or money laundering. Public corporate filings, beneficial ownership registries, court records, sanctions databases, and financial data sources are analyzed.」（https://osintbench.com/guides/financial-osint/）
+  - 「Investigating a US public company starts with the SEC's EDGAR database. EDGAR contains 10-K, 10-Q, DEF 14A, 8-K, Schedule 13D/13G, and Form 4 filings. The full-text search feature lets you search across filings.」（https://osintbench.com/guides/financial-osint/）
+  - 「Court records and legal filings are rich sources. You can access US federal court filings through PACER or CourtListener, a free alternative. State court systems vary; some state court data is aggregated by FindLaw, UniCourt, and Doxpop.」（https://osintbench.com/guides/financial-osint/）
+  - 「How do you research a company's ownership and filings for free?」（https://maxintel.org/business.html）
+  - 「from 140+ jurisdictions, SEC EDGAR with filings from over 12,000 publicly traded companies, and 21 linked US state entity searches. For hidden owners, ICIJ Offshore Leaks, OCCRP Aleph and OpenSanctions cover leak records, investigative data and sanctions lists.」（https://maxintel.org/business.html）
+  - 「SEC filings (company list)」（https://maxintel.org/business.html）
+  - 「Search the text of every filing since 2001 (enter the name in quotes)」（https://maxintel.org/business.html）
+  - 「Foreign agent filings」（https://maxintel.org/business.html）
+  - 「State LLC & Entity Filings」（https://maxintel.org/business.html）
+  - 「Free federal dockets & filings from the RECAP archive」（https://maxintel.org/business.html）
+  - 「Search IRS 990 filings — revenue, expenses, executive compensation」（https://maxintel.org/business.html）
+  - 「from 140+ jurisdictions), LEI Search (Legal Entity Identifiers), Companies House (UK), EU Business Register, North Data (Europe), and Handelsregister (Germany). These registries provide incorporation details, registered addresses, officer names, and filing history.」（https://maxintel.org/business.html）
+  - 「Financial Data & SEC Filings」（https://maxintel.org/business.html）
+  - 「— the Electronic Data Gathering, Analysis, and Retrieval system — provides free access to all regulatory filings from over」（https://maxintel.org/business.html）
+- 実例：
+  - 「Federal district & appeals cases by party name」（https://maxintel.org/business.html）
+  - 「Official federal case index — account, $0.10/page (waived under $30/quarter)」（https://maxintel.org/business.html）
+  - 「Commercial PEP databases remain more comprehensive than open alternatives but cost $20K–$100K+ annually. OpenSanctions provides a viable open-source alternative for most use cases and has rapidly closed the coverage gap since 2022.」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「7.2 Case: Uyghur Forced Labor Prevention Act (UFLPA, US 2022)」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+  - 「7.3 Case: Russia Sanctions and Component Diversion」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
 
 ## 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務（verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house）
 - 文脈：会社・一次
@@ -12387,9 +12423,9 @@
   - 「1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
 - 検索結果の抜粋：
   - 「Embracing Grading, Handling, and Dissemination Practices in OSINTPresentation - Local Government AssociationCompleting an intelligence report | College of PolicingIntelligence Management and Gradings - BVI FSCCompleting an intelligence report — Learning | BlueLineHubOSINT Handbook 2026 | The OSINT VaultOSINT Methodology Framework | Intelligence Analysis — To enhance their methods, OSINT investigat」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## データ報道の編集者の点検（意外な跳びを先に疑う・数える範囲を変えない・表記ゆれの一覧・データの日誌・別の人の再現）（data journalism editors checklist verify surprising results data diary backstop）
 - 文脈：突き合わせ
@@ -14381,11 +14417,11 @@
 
 ## 出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り）（pre-publication number check fact check procedure independent checker Pew decoded GIJN data journalism errors）
 - 文脈：検証・点検
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）（Quartz bad data guide github ProPublica bulletproofing data guide checklist）
 - 文脈：検証

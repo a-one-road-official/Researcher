@@ -115,11 +115,11 @@
 - 注記の記号（※・注・＊）の直後に数字がある引用のある品目：0件（注記の番号が値にくっついて桁が変わる疑い。原表で値と注記を分けてから使う）
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：2件／数字のある品目 3件（67%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
+  - www.zaikei.co.jp と sekiso-journal.com：品目の重なり 1/1（100%）
+  - www.zaikei.co.jp と 6kadditive.com：品目の重なり 1/1（100%）
   - www.zaikei.co.jp と 3dprint.com：品目の重なり 1/1（100%）
-  - sekiso-journal.com と www.zaikei.co.jp：品目の重なり 1/1（100%）
-  - sekiso-journal.com と 3dprint.com：品目の重なり 1/1（100%）
-  - 6kadditive.com と www.zaikei.co.jp：品目の重なり 1/1（100%）
   - 6kadditive.com と sekiso-journal.com：品目の重なり 1/1（100%）
+  - 3dprint.com と sekiso-journal.com：品目の重なり 1/1（100%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - 6K Additive｜政府・研究機関の契約［不明］

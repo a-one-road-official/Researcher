@@ -101,7 +101,7 @@
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：2件／数字のある品目 3件（67%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.thefabricator.com と www.machinedesign.com：品目の重なり 1/1（100%）
   - www.thefabricator.com と 3dprint.com：品目の重なり 1/1（100%）
-  - www.machinedesign.com と 3dprint.com：品目の重なり 1/1（100%）
+  - 3dprint.com と www.machinedesign.com：品目の重なり 1/1（100%）
   - www.thefabricator.com と revolutioninsimulation.org：品目の重なり 0/2（0%）
   - www.machinedesign.com と revolutioninsimulation.org：品目の重なり 0/2（0%）
 
