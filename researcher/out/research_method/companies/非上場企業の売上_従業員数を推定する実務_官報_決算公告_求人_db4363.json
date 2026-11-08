@@ -8,694 +8,8 @@
  ],
  "context": "凄腕・推定",
  "kind": "market",
- "researched_at": "2026-11-07T20:15:17.618462+00:00",
+ "researched_at": "2026-11-08T02:15:34.967399+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Can you estimate revenue for a company with almost no online presence?",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Find Revenue Estimates for Private Companies | Inven",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Find Revenue Estimates for Private Companies",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Why Private Company Revenue Estimates Matter",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "１．従業員数を推定する",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "２．人件費を推定する",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "３．その他の固定費（家賃など）を推定する",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "５．「損益分岐点売上高」を逆算する",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "６．売上高を推定する",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "８．固定資産を推定する",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "利益を生み出す構造（損益分岐点）から逆算するのがコツです",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それも無ければ、店舗の有無やおおよその面積から推定します",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それでも推定できないレベルであれば、「従業員数5名以下の規模」と仮定して問題ありません",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この給与額を年収換算し、推定した従業員数を掛ければ、固定費の大部分を占める「人件費」が算出できます",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本店住所や店舗の面積から、残りの固定費を推定します",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社保有とみられる場合は路線価などから逆算します（※自社保有の不動産は後述するBSの推定に直結します）",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最後に肌感覚で、その他の固定費用を足します（これは何百件と推定決算書を作れば感覚が磨かれます）",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "よく分からない場合は、仮置きした推定年商の「10％」を適当に加えるだけでも十分な精度になります",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "信用調査会社：推定値を含めて売上規模を把握できる",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q3. 決算公告の当期純利益から売上高を推定できますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Plan｜会議の指摘を具体的な仕事に変え、AIとプロ人材で調査・検証へつなぐ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "TeamPro Pilots｜新規事業の検証と実行を、経験者と進める",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Plan｜AIとプロ人材で、調査・検証から次の判断まで支援する",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単体と連結、売上高と取扱高、実績と推定を混ぜない",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業の売上が分からないときは、推定値と確認済みの数字を分ける",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推定の幅が意思決定を変える場合だけ、追加調査する",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調べた売上を、新規事業の参入判断と次の顧客検証につなげる",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公告が見つかったら、対象会社と決算期を照合し、損益計算書に売上高の記載があるかを読みます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "対象企業が多い、事業別の売上まで整理したい、情報同士の矛盾を調べる必要がある場合は、調査会社への依頼も選択肢です",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "06 撤退の規律：調べ続けて検証へ進めない",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競合調査の先にある、顧客検証を進める",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "イノベーション総研が、顧客仮説の整理から検証計画、事業立ち上げまで支援します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "パターン2：概算が把握できている場合の「推計・概算」文例",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "勤務先：〇〇商事株式会社／事業内容：建設資材の専門商社／資本金：1,000万円／売上高：約15億円（推計・在籍時）／従業員数：35名／拠点数：東京本社、大阪支店、福岡営業所",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調べ方④：有料の信用調査（推定値が混じることを理解して使う）",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "うちは求人と会社情報を突き合わせて扱っているのですが、",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査員による取材・企業からの申告・業界の推計が混じります",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取引・与信の判断は複数のソースで裏取りしてください",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業種の一部は日本標準産業分類(JSIC)を社名等から推定しています",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find Private Company Revenue Data & Estimates",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Accurately Estimate Private Company Revenue",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Below, we dig into the various methods for calculating revenue estimates for private companies and the tools that can simplify the process.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The most common method that investors use to calculate a revenue estimate is the",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Can a revenue estimate equation be that simple?",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 1) a range (e.g. 15-30 employees) and 2) the number of employees on LinkedIn. There is also no guarantee that the number of employees displayed on LinkedIn is in between the range they provide. Frequently, it is not. Choosing between those 2 dramatically affects your revenue estimate.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‍There’s a wide array of employees at a given company. Does it make sense to calculate them all into your revenue estimates? They can be accurate and a good sense check, but hard to do at scale.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‍More complex revenue estimates consider revenue generating employees differently. Revenue generating employees will look different across sectors, they could be quota carrying sales reps for a technology company, doctors for an outpatient clinic, or lawyers for a law firm.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Do Salary Estimates Belong in the Equation?",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For some revenue by employee models, the equation includes estimated employee salaries. The",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(BLS) publishes wage data by industry. Applying salary data to your models can help you sanity check your answer and set the lower bound for your revenue estimates, since any profitable business has to generate revenue greater than or equal to salaries.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Alternative Data Used to Estimate a Company’s Revenue",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Maybe they hit a milestone they’re celebrating. Not only is this a good way to estimate a company’s revenue, but it also gives you a reason to reach out and start a conversation if you’re interested in investing.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Investors can also use proxies of scale to estimate a company’s revenue.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When you find a metric of scale, multiply it by the company’s pricing to estimate revenue.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Use approaches such as discounted cash flow (DCF), comparable company analysis, or precedent transactions to estimate value.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The main goal is to measure how the assets contribute to competitive advantage and future earnings potential. Metrics like royalty rates, brand equity scores, and Intellectual Property (IP) portfolio strength are used to estimate their impact on valuation.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": The method is used for small or owner-operated businesses. Seller’s Discretionary Earnings (SDE) include net profit plus the owner’s salary, benefits, and other discretionary expenses. Applying an industry multiple to SDE gives an estimate of value from a buyer’s perspective and share valuation methods for a private company.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Use industry benchmarks like price-to-earnings, EV/EBITDA, or revenue multiples. Applying the ratios to the company’s financials gives an estimate of the market cap of the private company’s operations.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "無料範囲で調べるなら、複数ソースの合わせ技で\"推定\"に留まる、と割り切って使い分けるのが実務的",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取引・与信の判断は複数のソースで裏取りしてください",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業種の一部は日本標準産業分類(JSIC)を社名等から推定しています",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How To Estimate A Private Company's Revenue (2026)",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Estimate a Private Company’s Revenue: A Practical Guide",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This article walks you through practical, reliable methods to estimate a private company’s revenue using publicly available data, industry benchmarks, and smart analytical techniques. Whether you’re evaluating a potential business partner, researching a competitor, or preparing for B2B sales outreach, you’ll find actionable steps here.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Sales teams use revenue estimates to qualify leads and prioritize accounts. Investors and lenders use them to assess risk before extending credit or considering a deal. Job seekers use them to evaluate a company’s stability before accepting an offer. Competitors use them to benchmark market position and growth trends.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Because of this, most revenue estimates are approximations built from multiple data points rather than a single confirmed figure.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This approach estimates revenue by multiplying a company’s employee count by the average revenue generated per employee in that specific industry.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Multiply the employee count by that average to get an estimated range.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If a marketing agency has 40 employees and the industry average revenue per employee is $150,000, the estimated annual revenue would be around $6 million.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Adjust the estimate based on known factors like location, market share, or growth stage.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Several commercial databases compile estimated revenue figures for private companies based on aggregated data, surveys, and modeling.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Offers business credit reports that often include estimated annual revenue figures.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Provides company profiles with estimated revenue ranges based on proprietary data models.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Crowdsources and estimates competitive intelligence including revenue ranges.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "These platforms use algorithms and data aggregation rather than confirmed financials, so treat their figures as informed estimates, not verified facts.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Find or estimate any company's revenue in 2026: SEC filings, French SIRENE accounts, and the revenue-per-employee model, plus a workflow at scale in the web app or in Sheets.",
-    "url": "https://derrick-app.com/business-data/find-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When no figure is filed, estimate it with the revenue-per-employee model: headcount times an industry benchmark returns a defensible range.",
-    "url": "https://derrick-app.com/business-data/find-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Estimate Private Company Revenue for M&A | Nodior",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to estimate a private company's revenue from public signals",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For a payroll-based check, estimate payroll from headcount and public wage data for the trade and region. Then divide by the share of revenue that payroll usually takes in that kind of business. Permit volume or fleet size can add a further check.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue is always a range, and these estimates are not audited financials. They tell you which companies are likely the right size, so you can rank targets before anyone calls an owner.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimated revenue: $6 million to $9 million, high confidence.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Owner-led companies often rely on subcontractors and family members. Leaving them out makes a headcount-based estimate come in low.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For a handful of companies, you can do this yourself with the steps above. None of the data is secret. It takes time to find, date and cross-check.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Forecast future cash flows and discount them back to present value. It helps capture growth potential and risk in the estimate.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Look at recent sales of similar private companies in the same industry. The real-world benchmarks provide clear evidence to support and validate the estimate.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimate the company’s equity value by applying valuation methods like EBITDA multiples or discounted cash flow. The step forms the base of enterprise value for private companies.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Multiply the company’s EBITDA by the chosen multiple. It gives an estimate of the business’s enterprise value, which represents the combined worth of debt and equity.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これにより、対象企業が赤字にならないための最低売上ライン（損益分岐点売上高）が推定できます",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（※これは売上原価≒変動費と仮定した場合の、推定において大変重要な計算式です）",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の実績発表、第三者の収録値、自社の推定値",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上が不明な場合は顧客数と単価から幅を置いて試算し、実績と推定、年間売上と期末の年換算値を分けます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その場合は、売上の実績を「発見した」のではなく、前提を置いて「推定した」と明示します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推定対象はこのサービスの売上であり、会社全体の売上とは限りません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、推定に必要な考え方は、",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How accurate is a private company revenue estimate?",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "検索結果の抜粋": [
    {
     "quote": "How to Find Company Revenue: 6 Methods (2026) — Key takeaways To find a company's revenue, first check whether it is public, registered where accounts are filed, or neither. Public companies report exact revenue in SEC filings and annual reports. Many private companies in France, the UK, and the EU file turnover in official registries. When no figure is filed, estimate it with the revenue-per-empl",
@@ -704,1067 +18,13 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今は1円でも会社が作れる時代なので、「資本金が小さい＝ダメ」ではありません",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "30%以上なら比較的安定、10%未満は要注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の失敗・撤退（4）",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の失敗要因を6つの軸で診断",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上高がわからないときにやりがちな失敗を先に知っておくと、余計な減点を防げます",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、以下の点に注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、これは株主総会の手続きに関する特則であり、決算公告の義務自体が免除されるわけではない点に注意してください",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定款変更・株主総会決議は不要な手続きの流れと注意点を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes to Avoid",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意点として、電子官報は無料ですが、2004年7月1日より前に掲載されたものは閲覧できません",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "号外の「会社決算公告」で財務情報や倒産情報が掲載されることが",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "『世界自動車統計年報』日本自動車工業会（年刊） ※2019 で刊行終了",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、関連する統計情報とその出典が明記されています",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業種別社数、業種別資本金規模などの統計データも収録されています",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "市場シェアや関連団体の情報などは、業界団体が出版している年鑑や年報類に掲載されています",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日本国内の有価証券報告書のデータベースです",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「企業情報」機能で最近の決算データや企業プロファイルを見ることができ",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "北米地域の企業の古い営業報告書（1844-2008 年）のデータを PDF で",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "有価証券報告書（「有報」と略します）は、上場企業および一部非上場企業が金融庁への提出を義務付け",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "企業のホームページ上で「IR 情報」や「決算報告」などとして公開されている場合があります",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "企業の決算情報は官報の号外・会社決算公告に掲載されることがあります",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "図書館にある原紙の官報のほか、データベースでも閲覧できます",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・「官報」（無料一般公開版）（PDF）https://www.kanpo.go.jp/",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "令和 7 年 4 月 1 日以降の官報情報（本紙、号外、政府調達等）を無料で閲覧できます",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その他 収録内容：平成 15 年 7 月 15 日以降の法律、政令等の官報情報",
-    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Public companies report revenue every quarter. Private companies in the US have no such duty. State annual reports name officers and a registered agent, rarely revenue, and tax filings stay confidential.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Payroll and benefit-plan filings",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Use at least two sources that don't depend on each other. A benefit-plan filing and a job ad are independent. A staff page and a profile copied from it count once. Decide whether regular subcontractors are in the count.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the latest retirement-plan filing reports 52 participants.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A three-year-old filing or a job ad posted before a branch closed describes a different company.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本ガイドでは採用担当者を納得させる具体的な文例と、AnyGenを活用した即戦力書類の自動作成法を解説します",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Export to PowerPoint, Google Slides or PDF · No watermark on free tier",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この2つは目的も採用側の見方も根本的に異なります",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「わからない」と諦める前に、公的データベースや企業公開情報をリサーチすることで正確な売上高が判明するケースが多々あります",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "自社公式サイトの企業概要・IRページ：上場企業はもちろん、非上場企業でも決算月や沿革ページに直近年度の売上高が明記されているケースがあります",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "金融庁 EDINET（有価証券報告書閲覧サイト）：上場企業および有価証券報告書提出義務のある企業であれば、過去5年分の正確な連結・単体売上高が無償で閲覧可能です",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報決算公告（官報検索サービス・決算公表サイト）：会社法第440条に基づき決算公告を行っている株式会社であれば、貸借対照表や損益計算書の要約が掲載されています",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "当時の求人票・会社案内パンフレット：自身が入社した際の中途採用求人票、新卒採用時の会社案内、社内報に「年商〇〇億円」などの記載が残っていないか確認します",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "親会社がいる子会社の場合は、親会社の有価証券報告書内の「関係会社の状況」セクションに主要子会社の売上高・出資比率が掲載されていることがあります",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査の基準時点：売上高は「直近の決算期」または「自身の在籍当時の決算期」のどちらを記載しても問題ありません",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用担当者が知りたいのは「どの規模感の組織でどんな事業をしていたか」であるため、売上高以外の指標で十分に意図が伝わります",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用官は売上の絶対金額そのものよりも、与えられた目標を達成できる人物かどうかを審査しています",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人事・採用：採用充足率やコスト効率（例：中途採用年間24名充足、ダイレクトリクルーティング活用により外部エージェント費用を30%削減）",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AnyGenを使えば、売上高がわからない・非上場・バックオフィス・社外秘といった複雑な条件でも、採用担当者が求めるフォーマットに沿った職務経歴書とプレゼン資料を数分で自動生成できます",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ATS（採用管理システム）最適化：主要企業の書類選考システムが自動解析しやすい見出し構造・キーワード含有率を保証",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社の公式サイトに「電子公告」「決算公告」というページを持ち、そこにPDFや表を掲載します",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なので、登記簿さえ取れば確実にたどり着けます",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "サイト内で「決算公告」「IR」「会社情報」あたりを探すのが早い",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "登記簿から公告方法を確認する手順は、",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しょくばログという会社データベースを運営していると、毎日いろんな会社の登記や従業員数を見ることになります",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "登記情報（登記事項証明書／登記情報提供サービス・有料）",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "…有価証券報告書や決算短信で売上・利益が公開されています",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報の決算公告や、信用調査会社（帝国データバンク・東京商工リサーチ）の有料レポートが主な手段",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "求人や報道で見る「中小」「大手」は、だいたいこの考え方が下敷きです",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "正確な業績は、官報の決算公告や有料の信用調査が中心になります",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "正確な財務情報は登記・公式資料でご確認ください",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社の登記・求人・クチコミのデータと毎日向き合う中で気づいた“会社の調べ方”を、現場の目線で書いています",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "従業員数は①gBizINFO（無料・上場・中堅ほぼ全社）②公式サイトの「会社概要」③求人票の記載欄 ④しょくばログや同種の会社DB、この4ルートで見えます",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：有価証券報告書 or 会社の届出情報（正社員ベースが基本）",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ですが、入っていれば信頼度は高い（公的な届出データが元）",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調べ方③：求人票の会社情報欄（1分）",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ハローワーク求人票やIndeed求人には「事業所の従業員数」欄があります",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "求人を出している会社なら、ここで確認可能",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "中小企業の従業員数は公的データに出ないから",
-    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "皆さんは、非上場企業の決算内容を知りたいと思ったことはありませんか？",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "通常、決算書はその会社の顧問税理士や取引銀行など、直接的な関係がない限り把握することが出来ません",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まれに自社のホームページで決算公告を公表している中小企業も見かけますが、基本的には非開示である場合が圧倒的に多いです",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実は株式会社の場合、「決算公告」は会社法に基づく義務です（第440条）",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定時株主総会の終結後、遅滞なく貸借対照表などを広く知らせる必要があり、ある程度の規模に成長すると、対外信用を考慮して官報に掲載することが一般的になります",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それでも、官報掲載を行う企業は全体から見ると少数派です",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的な裁判データや報道でも、公告を怠っただけで罰則を受けた企業はほとんど確認されていません",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "開示・非開示の良し悪しはさておき、本記事では「公開されている断片的な情報から、非開示企業の決算書を推測して作成する手法」をご紹介します",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "掲載がなければ、ハローワークや求人情報を検索",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ハローワークなどに求人情報が掲載されていれば、募集給与が把握できます",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最後に肌感覚で、その他の固定費用を足します（これは何百件と推定決算書を作れば感覚が磨かれます）",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "不動産登記簿に銀行の「根抵当権（借入極度額）」の設定があるので、借入日から逆算して現在の負債額を推定します",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "晴れて「推定決算書」が作成できるというわけです",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説 | 電子決算公告ドットコムMagazine",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取引先の決算公告をせっかく探し当てたのに、肝心の売上高がどこにも書かれていない",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社法上の「大会社」（資本金5億円以上または負債総額200億円以上）に該当しない限り、決算公告に売上高を載せる義務はそもそもないのです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本の株式会社の大多数は大会社に該当しないため、世の中の決算公告のほとんどには売上高が記載されていません",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その後、決算公告から読み取れる情報の活用法と代替調査手段を解説し、最後に自社が公告する側になった場合の売上高の扱いにも触れます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告に売上高が載っていない理由は会社法440条にある",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "官報・新聞の公告は「要旨」でよいため情報量がさらに絞られる",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上高がなくても決算公告から読み取れる情報は多い",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "EDINET：非上場でも有価証券報告書の提出企業なら無料で全開示",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社が決算公告を出す側になったら：売上高は載せなくてよい",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q1. 決算公告に売上高が載っていないのは違法ではないのですか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q2. 大会社かどうかは決算公告のどこで見分けられますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q3. 決算公告の当期純利益から売上高を推定できますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業の売上は、公式サイトの会社概要・採用資料、親会社の開示資料、決算公告、企業資料などから調べられます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、決算公告があっても、売上高まで載っているとは限りません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告・無料の企業概要・有料情報で分かる範囲を区別する",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDF・全16ページ＋Excel",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. 公式サイトの会社概要・採用情報・決算資料を読む",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. 決算公告は、損益計算書と売上高の有無を確かめる",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算情報があっても売上高が載っているとは限りません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開されている書類と、その対象会社・決算期を確認します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "貸借対照表は決算日時点の資産・負債・純資産を示す書類です",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最初に押さえたいのは、決算情報があることと、売上高が載っていることは別だという点です",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社の決算公告は、原則として貸借対照表が対象となり、大会社では損益計算書も対象になります（",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、有価証券報告書の提出義務がある株式会社には同条4項の例外があります",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、非上場でも一定の条件で有価証券報告書を提出する企業があります",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "でも、非上場企業の確認先として有価証券報告書、決算公告、会社資料などが挙げられています",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "正式社名を特定し、公式資料、親会社・EDINET、決算公告、図書館資料の順に探し、数字と出所を一緒に残します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "職務経歴書で売上高がわからない｜採用担当者が納得する書き方と例文 | サクレキ",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "履歴書テンプレート一覧【7種】｜無料作成・PDFダウンロード",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "職務経歴書で売上高がわからない｜採用担当者が納得する書き方と例文",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を、採用担当者の視点から整理します",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用担当者は、非上場企業や社外秘のケースで売上高が出てこないことを理解しています",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "テレアポの職務経歴書の書き方と例文｜採用担当者が落とす書類の共通点",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "外資系の職務経歴書テンプレート｜見本と作り方を徹底解説 | 無料作成・ダウンロード・PDF・印刷",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "＼ たった3分で作成完了・PDFダウンロードも ／ 入力を始める ▶︎ 個人情報の利用目的（一部抜粋）職業紹介、就職・転職に関する情報提供およびこれらに関連するサービス…",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そもそも採用担当者が会社概要・売上高を確認する理由",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上高への向き合い方を決めるには、採用担当者がなぜその欄を見るのかを理解しておくと迷わなくなります",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用担当者は売上高という物差しを使って、応募者の実績を相対的に評価しています",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の公式サイトにあるIR情報（投資家向けページ）の決算資料、または金融庁が運営する",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "で公開されている有価証券報告書を確認してください",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業は会社四季報・官報・求人票をチェック",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資本金5億円以上または負債200億円以上の企業は会社法上の「大会社」にあたり、決算公告の義務があります",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業に決算公告は義務？実施率1.8%の実態と3つの対応方法を解説 | 電子決算公告ドットコムMagazine",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業に決算公告は義務？実施率1.8%の実態と3つの対応方法を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "東京商工リサーチの調査によると、官報を公告方法としている株式会社のうち、実際に決算公告を実施しているのはわずか1.8%です（2022年調査）",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「うちは上場企業じゃないから決算公告は関係ない」と考えていませんか",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実は会社法440条は、上場・非上場を問わず、すべての株式会社に決算公告を義務付けています",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、非上場企業の決算公告義務について会社法の条文に基づいて解説し、公告を実施していない場合のリスク、3つの公告方法の費用比較、そして実務的な対応手順までを網羅的にお伝えします",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業にも決算公告の義務がある？会社法440条を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業の決算公告の実態：実施率わずか1.8%",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なぜ98%以上の企業が決算公告をしないのか",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業が選べる3つの決算公告方法【費用比較表】",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社法440条の特例：決算公告が不要になる3つのケース",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特例1：有価証券報告書の提出会社（440条4項）",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業が決算公告を始めるための実務ステップ",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 3：必要に応じて定款変更・登記変更を行う",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 4：決算書類を準備する",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社の売上高を無料で調べる方法 — 決算公告・EDINET・信用調査の使い分け｜しょくばログ",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "／ 会社の売上高を無料で調べる方法 — 決算公告・EDINET・信用調査の使い分け",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社の売上高を無料で調べる方法 — 決算公告・EDINET・信用調査の使い分け",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社法が義務づけている決算公告は「貸借対照表」であって、売上高が載る「損益計算書」の公告義務があるのは大会社（資本金5億円以上、または負債200億円以上）だけ",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調べ方②：大会社なら決算公告を探す（無料・ただし90日の壁）",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調べ方③：会社の公式サイトと採用ページ（中小ではこれが本命）",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告を出していない会社は危ないですか？",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "官報の過去の決算公告を無料で読む方法はありますか？",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "相手が上場企業、または有価証券報告書の提出義務がある会社なら、ここで完全に解決します",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（https://disclosure2.edinet-fsa.go.jp/ ）で会社名を検索し、有価証券報告書を開きます",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（適時開示情報閲覧サービス）で決算短信を見る手もあります",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なので、登記簿を見れば分かります",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年4月1日に官報は電子化され、",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告は定時株主総会の後に出るので、3月決算の会社なら6〜7月に集中します",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去分を検索したい場合は、官報の有料検索サービスや、官報販売所が提供する決算公告のデータベースを使うことになります",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "社名変更や本店移転がある場合は、過去の名称でも探すと古い決算資料にたどり着くことがあります",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公式サイトの会社概要、採用ページ、ニュース、決算・IR資料、電子公告を確認します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "中小企業が官報で決算公告する費用・記載項目・申込手順を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
@@ -2840,6 +1100,1752 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Can you estimate revenue for a company with almost no online presence?",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies | Inven",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Why Private Company Revenue Estimates Matter",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "１．従業員数を推定する",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "２．人件費を推定する",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "３．その他の固定費（家賃など）を推定する",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "５．「損益分岐点売上高」を逆算する",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "６．売上高を推定する",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "８．固定資産を推定する",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "利益を生み出す構造（損益分岐点）から逆算するのがコツです",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それも無ければ、店舗の有無やおおよその面積から推定します",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それでも推定できないレベルであれば、「従業員数5名以下の規模」と仮定して問題ありません",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この給与額を年収換算し、推定した従業員数を掛ければ、固定費の大部分を占める「人件費」が算出できます",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本店住所や店舗の面積から、残りの固定費を推定します",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社保有とみられる場合は路線価などから逆算します（※自社保有の不動産は後述するBSの推定に直結します）",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最後に肌感覚で、その他の固定費用を足します（これは何百件と推定決算書を作れば感覚が磨かれます）",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "よく分からない場合は、仮置きした推定年商の「10％」を適当に加えるだけでも十分な精度になります",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "信用調査会社：推定値を含めて売上規模を把握できる",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q3. 決算公告の当期純利益から売上高を推定できますか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Plan｜会議の指摘を具体的な仕事に変え、AIとプロ人材で調査・検証へつなぐ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "TeamPro Pilots｜新規事業の検証と実行を、経験者と進める",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Plan｜AIとプロ人材で、調査・検証から次の判断まで支援する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単体と連結、売上高と取扱高、実績と推定を混ぜない",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上が分からないときは、推定値と確認済みの数字を分ける",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推定の幅が意思決定を変える場合だけ、追加調査する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調べた売上を、新規事業の参入判断と次の顧客検証につなげる",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公告が見つかったら、対象会社と決算期を照合し、損益計算書に売上高の記載があるかを読みます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象企業が多い、事業別の売上まで整理したい、情報同士の矛盾を調べる必要がある場合は、調査会社への依頼も選択肢です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "06 撤退の規律：調べ続けて検証へ進めない",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合調査の先にある、顧客検証を進める",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イノベーション総研が、顧客仮説の整理から検証計画、事業立ち上げまで支援します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "パターン2：概算が把握できている場合の「推計・概算」文例",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "勤務先：〇〇商事株式会社／事業内容：建設資材の専門商社／資本金：1,000万円／売上高：約15億円（推計・在籍時）／従業員数：35名／拠点数：東京本社、大阪支店、福岡営業所",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調べ方④：有料の信用調査（推定値が混じることを理解して使う）",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "うちは求人と会社情報を突き合わせて扱っているのですが、",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査員による取材・企業からの申告・業界の推計が混じります",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取引・与信の判断は複数のソースで裏取りしてください",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業種の一部は日本標準産業分類(JSIC)を社名等から推定しています",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find Private Company Revenue Data & Estimates",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Accurately Estimate Private Company Revenue",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Below, we dig into the various methods for calculating revenue estimates for private companies and the tools that can simplify the process.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The most common method that investors use to calculate a revenue estimate is the",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Can a revenue estimate equation be that simple?",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 1) a range (e.g. 15-30 employees) and 2) the number of employees on LinkedIn. There is also no guarantee that the number of employees displayed on LinkedIn is in between the range they provide. Frequently, it is not. Choosing between those 2 dramatically affects your revenue estimate.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‍There’s a wide array of employees at a given company. Does it make sense to calculate them all into your revenue estimates? They can be accurate and a good sense check, but hard to do at scale.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‍More complex revenue estimates consider revenue generating employees differently. Revenue generating employees will look different across sectors, they could be quota carrying sales reps for a technology company, doctors for an outpatient clinic, or lawyers for a law firm.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Do Salary Estimates Belong in the Equation?",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For some revenue by employee models, the equation includes estimated employee salaries. The",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(BLS) publishes wage data by industry. Applying salary data to your models can help you sanity check your answer and set the lower bound for your revenue estimates, since any profitable business has to generate revenue greater than or equal to salaries.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Alternative Data Used to Estimate a Company’s Revenue",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Maybe they hit a milestone they’re celebrating. Not only is this a good way to estimate a company’s revenue, but it also gives you a reason to reach out and start a conversation if you’re interested in investing.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investors can also use proxies of scale to estimate a company’s revenue.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When you find a metric of scale, multiply it by the company’s pricing to estimate revenue.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Use approaches such as discounted cash flow (DCF), comparable company analysis, or precedent transactions to estimate value.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The main goal is to measure how the assets contribute to competitive advantage and future earnings potential. Metrics like royalty rates, brand equity scores, and Intellectual Property (IP) portfolio strength are used to estimate their impact on valuation.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": The method is used for small or owner-operated businesses. Seller’s Discretionary Earnings (SDE) include net profit plus the owner’s salary, benefits, and other discretionary expenses. Applying an industry multiple to SDE gives an estimate of value from a buyer’s perspective and share valuation methods for a private company.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use industry benchmarks like price-to-earnings, EV/EBITDA, or revenue multiples. Applying the ratios to the company’s financials gives an estimate of the market cap of the private company’s operations.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "無料範囲で調べるなら、複数ソースの合わせ技で\"推定\"に留まる、と割り切って使い分けるのが実務的",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取引・与信の判断は複数のソースで裏取りしてください",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業種の一部は日本標準産業分類(JSIC)を社名等から推定しています",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How To Estimate A Private Company's Revenue (2026)",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Estimate a Private Company’s Revenue: A Practical Guide",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article walks you through practical, reliable methods to estimate a private company’s revenue using publicly available data, industry benchmarks, and smart analytical techniques. Whether you’re evaluating a potential business partner, researching a competitor, or preparing for B2B sales outreach, you’ll find actionable steps here.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Sales teams use revenue estimates to qualify leads and prioritize accounts. Investors and lenders use them to assess risk before extending credit or considering a deal. Job seekers use them to evaluate a company’s stability before accepting an offer. Competitors use them to benchmark market position and growth trends.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Because of this, most revenue estimates are approximations built from multiple data points rather than a single confirmed figure.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This approach estimates revenue by multiplying a company’s employee count by the average revenue generated per employee in that specific industry.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Multiply the employee count by that average to get an estimated range.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If a marketing agency has 40 employees and the industry average revenue per employee is $150,000, the estimated annual revenue would be around $6 million.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Adjust the estimate based on known factors like location, market share, or growth stage.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Several commercial databases compile estimated revenue figures for private companies based on aggregated data, surveys, and modeling.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Offers business credit reports that often include estimated annual revenue figures.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Provides company profiles with estimated revenue ranges based on proprietary data models.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Crowdsources and estimates competitive intelligence including revenue ranges.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "These platforms use algorithms and data aggregation rather than confirmed financials, so treat their figures as informed estimates, not verified facts.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Find or estimate any company's revenue in 2026: SEC filings, French SIRENE accounts, and the revenue-per-employee model, plus a workflow at scale in the web app or in Sheets.",
+    "url": "https://derrick-app.com/business-data/find-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When no figure is filed, estimate it with the revenue-per-employee model: headcount times an industry benchmark returns a defensible range.",
+    "url": "https://derrick-app.com/business-data/find-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Estimate Private Company Revenue for M&A | Nodior",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to estimate a private company's revenue from public signals",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For a payroll-based check, estimate payroll from headcount and public wage data for the trade and region. Then divide by the share of revenue that payroll usually takes in that kind of business. Permit volume or fleet size can add a further check.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Revenue is always a range, and these estimates are not audited financials. They tell you which companies are likely the right size, so you can rank targets before anyone calls an owner.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimated revenue: $6 million to $9 million, high confidence.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Owner-led companies often rely on subcontractors and family members. Leaving them out makes a headcount-based estimate come in low.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For a handful of companies, you can do this yourself with the steps above. None of the data is secret. It takes time to find, date and cross-check.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Forecast future cash flows and discount them back to present value. It helps capture growth potential and risk in the estimate.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Look at recent sales of similar private companies in the same industry. The real-world benchmarks provide clear evidence to support and validate the estimate.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimate the company’s equity value by applying valuation methods like EBITDA multiples or discounted cash flow. The step forms the base of enterprise value for private companies.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Multiply the company’s EBITDA by the chosen multiple. It gives an estimate of the business’s enterprise value, which represents the combined worth of debt and equity.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これにより、対象企業が赤字にならないための最低売上ライン（損益分岐点売上高）が推定できます",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（※これは売上原価≒変動費と仮定した場合の、推定において大変重要な計算式です）",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の実績発表、第三者の収録値、自社の推定値",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上が不明な場合は顧客数と単価から幅を置いて試算し、実績と推定、年間売上と期末の年換算値を分けます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その場合は、売上の実績を「発見した」のではなく、前提を置いて「推定した」と明示します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推定対象はこのサービスの売上であり、会社全体の売上とは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、推定に必要な考え方は、",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How accurate is a private company revenue estimate?",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "号外の「会社決算公告」で財務情報や倒産情報が掲載されることが",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "『世界自動車統計年報』日本自動車工業会（年刊） ※2019 で刊行終了",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、関連する統計情報とその出典が明記されています",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業種別社数、業種別資本金規模などの統計データも収録されています",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "市場シェアや関連団体の情報などは、業界団体が出版している年鑑や年報類に掲載されています",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日本国内の有価証券報告書のデータベースです",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「企業情報」機能で最近の決算データや企業プロファイルを見ることができ",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "北米地域の企業の古い営業報告書（1844-2008 年）のデータを PDF で",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書（「有報」と略します）は、上場企業および一部非上場企業が金融庁への提出を義務付け",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "企業のホームページ上で「IR 情報」や「決算報告」などとして公開されている場合があります",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "企業の決算情報は官報の号外・会社決算公告に掲載されることがあります",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "図書館にある原紙の官報のほか、データベースでも閲覧できます",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "・「官報」（無料一般公開版）（PDF）https://www.kanpo.go.jp/",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "令和 7 年 4 月 1 日以降の官報情報（本紙、号外、政府調達等）を無料で閲覧できます",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その他 収録内容：平成 15 年 7 月 15 日以降の法律、政令等の官報情報",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Public companies report revenue every quarter. Private companies in the US have no such duty. State annual reports name officers and a registered agent, rarely revenue, and tax filings stay confidential.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Payroll and benefit-plan filings",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Use at least two sources that don't depend on each other. A benefit-plan filing and a job ad are independent. A staff page and a profile copied from it count once. Decide whether regular subcontractors are in the count.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the latest retirement-plan filing reports 52 participants.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A three-year-old filing or a job ad posted before a branch closed describes a different company.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本ガイドでは採用担当者を納得させる具体的な文例と、AnyGenを活用した即戦力書類の自動作成法を解説します",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Export to PowerPoint, Google Slides or PDF · No watermark on free tier",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この2つは目的も採用側の見方も根本的に異なります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「わからない」と諦める前に、公的データベースや企業公開情報をリサーチすることで正確な売上高が判明するケースが多々あります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自社公式サイトの企業概要・IRページ：上場企業はもちろん、非上場企業でも決算月や沿革ページに直近年度の売上高が明記されているケースがあります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融庁 EDINET（有価証券報告書閲覧サイト）：上場企業および有価証券報告書提出義務のある企業であれば、過去5年分の正確な連結・単体売上高が無償で閲覧可能です",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報決算公告（官報検索サービス・決算公表サイト）：会社法第440条に基づき決算公告を行っている株式会社であれば、貸借対照表や損益計算書の要約が掲載されています",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当時の求人票・会社案内パンフレット：自身が入社した際の中途採用求人票、新卒採用時の会社案内、社内報に「年商〇〇億円」などの記載が残っていないか確認します",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "親会社がいる子会社の場合は、親会社の有価証券報告書内の「関係会社の状況」セクションに主要子会社の売上高・出資比率が掲載されていることがあります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査の基準時点：売上高は「直近の決算期」または「自身の在籍当時の決算期」のどちらを記載しても問題ありません",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用担当者が知りたいのは「どの規模感の組織でどんな事業をしていたか」であるため、売上高以外の指標で十分に意図が伝わります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用官は売上の絶対金額そのものよりも、与えられた目標を達成できる人物かどうかを審査しています",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人事・採用：採用充足率やコスト効率（例：中途採用年間24名充足、ダイレクトリクルーティング活用により外部エージェント費用を30%削減）",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AnyGenを使えば、売上高がわからない・非上場・バックオフィス・社外秘といった複雑な条件でも、採用担当者が求めるフォーマットに沿った職務経歴書とプレゼン資料を数分で自動生成できます",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ATS（採用管理システム）最適化：主要企業の書類選考システムが自動解析しやすい見出し構造・キーワード含有率を保証",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社の公式サイトに「電子公告」「決算公告」というページを持ち、そこにPDFや表を掲載します",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なので、登記簿さえ取れば確実にたどり着けます",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サイト内で「決算公告」「IR」「会社情報」あたりを探すのが早い",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "登記簿から公告方法を確認する手順は、",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しょくばログという会社データベースを運営していると、毎日いろんな会社の登記や従業員数を見ることになります",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "登記情報（登記事項証明書／登記情報提供サービス・有料）",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "…有価証券報告書や決算短信で売上・利益が公開されています",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報の決算公告や、信用調査会社（帝国データバンク・東京商工リサーチ）の有料レポートが主な手段",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "求人や報道で見る「中小」「大手」は、だいたいこの考え方が下敷きです",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "正確な業績は、官報の決算公告や有料の信用調査が中心になります",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "正確な財務情報は登記・公式資料でご確認ください",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社の登記・求人・クチコミのデータと毎日向き合う中で気づいた“会社の調べ方”を、現場の目線で書いています",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従業員数は①gBizINFO（無料・上場・中堅ほぼ全社）②公式サイトの「会社概要」③求人票の記載欄 ④しょくばログや同種の会社DB、この4ルートで見えます",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：有価証券報告書 or 会社の届出情報（正社員ベースが基本）",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ですが、入っていれば信頼度は高い（公的な届出データが元）",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調べ方③：求人票の会社情報欄（1分）",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ハローワーク求人票やIndeed求人には「事業所の従業員数」欄があります",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "求人を出している会社なら、ここで確認可能",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の従業員数は公的データに出ないから",
+    "url": "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "皆さんは、非上場企業の決算内容を知りたいと思ったことはありませんか？",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "通常、決算書はその会社の顧問税理士や取引銀行など、直接的な関係がない限り把握することが出来ません",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まれに自社のホームページで決算公告を公表している中小企業も見かけますが、基本的には非開示である場合が圧倒的に多いです",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実は株式会社の場合、「決算公告」は会社法に基づく義務です（第440条）",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定時株主総会の終結後、遅滞なく貸借対照表などを広く知らせる必要があり、ある程度の規模に成長すると、対外信用を考慮して官報に掲載することが一般的になります",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それでも、官報掲載を行う企業は全体から見ると少数派です",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的な裁判データや報道でも、公告を怠っただけで罰則を受けた企業はほとんど確認されていません",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "開示・非開示の良し悪しはさておき、本記事では「公開されている断片的な情報から、非開示企業の決算書を推測して作成する手法」をご紹介します",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "掲載がなければ、ハローワークや求人情報を検索",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ハローワークなどに求人情報が掲載されていれば、募集給与が把握できます",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最後に肌感覚で、その他の固定費用を足します（これは何百件と推定決算書を作れば感覚が磨かれます）",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "不動産登記簿に銀行の「根抵当権（借入極度額）」の設定があるので、借入日から逆算して現在の負債額を推定します",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "晴れて「推定決算書」が作成できるというわけです",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説 | 電子決算公告ドットコムMagazine",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取引先の決算公告をせっかく探し当てたのに、肝心の売上高がどこにも書かれていない",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法上の「大会社」（資本金5億円以上または負債総額200億円以上）に該当しない限り、決算公告に売上高を載せる義務はそもそもないのです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本の株式会社の大多数は大会社に該当しないため、世の中の決算公告のほとんどには売上高が記載されていません",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その後、決算公告から読み取れる情報の活用法と代替調査手段を解説し、最後に自社が公告する側になった場合の売上高の扱いにも触れます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告に売上高が載っていない理由は会社法440条にある",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官報・新聞の公告は「要旨」でよいため情報量がさらに絞られる",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上高がなくても決算公告から読み取れる情報は多い",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EDINET：非上場でも有価証券報告書の提出企業なら無料で全開示",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社が決算公告を出す側になったら：売上高は載せなくてよい",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q1. 決算公告に売上高が載っていないのは違法ではないのですか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q2. 大会社かどうかは決算公告のどこで見分けられますか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q3. 決算公告の当期純利益から売上高を推定できますか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上は、公式サイトの会社概要・採用資料、親会社の開示資料、決算公告、企業資料などから調べられます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、決算公告があっても、売上高まで載っているとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告・無料の企業概要・有料情報で分かる範囲を区別する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDF・全16ページ＋Excel",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 公式サイトの会社概要・採用情報・決算資料を読む",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. 決算公告は、損益計算書と売上高の有無を確かめる",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算情報があっても売上高が載っているとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開されている書類と、その対象会社・決算期を確認します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "貸借対照表は決算日時点の資産・負債・純資産を示す書類です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初に押さえたいのは、決算情報があることと、売上高が載っていることは別だという点です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社の決算公告は、原則として貸借対照表が対象となり、大会社では損益計算書も対象になります（",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、有価証券報告書の提出義務がある株式会社には同条4項の例外があります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、非上場でも一定の条件で有価証券報告書を提出する企業があります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "でも、非上場企業の確認先として有価証券報告書、決算公告、会社資料などが挙げられています",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正式社名を特定し、公式資料、親会社・EDINET、決算公告、図書館資料の順に探し、数字と出所を一緒に残します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "職務経歴書で売上高がわからない｜採用担当者が納得する書き方と例文 | サクレキ",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "履歴書テンプレート一覧【7種】｜無料作成・PDFダウンロード",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "職務経歴書で売上高がわからない｜採用担当者が納得する書き方と例文",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を、採用担当者の視点から整理します",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用担当者は、非上場企業や社外秘のケースで売上高が出てこないことを理解しています",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "テレアポの職務経歴書の書き方と例文｜採用担当者が落とす書類の共通点",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外資系の職務経歴書テンプレート｜見本と作り方を徹底解説 | 無料作成・ダウンロード・PDF・印刷",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＼ たった3分で作成完了・PDFダウンロードも ／ 入力を始める ▶︎ 個人情報の利用目的（一部抜粋）職業紹介、就職・転職に関する情報提供およびこれらに関連するサービス…",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そもそも採用担当者が会社概要・売上高を確認する理由",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上高への向き合い方を決めるには、採用担当者がなぜその欄を見るのかを理解しておくと迷わなくなります",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用担当者は売上高という物差しを使って、応募者の実績を相対的に評価しています",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の公式サイトにあるIR情報（投資家向けページ）の決算資料、または金融庁が運営する",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "で公開されている有価証券報告書を確認してください",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業は会社四季報・官報・求人票をチェック",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資本金5億円以上または負債200億円以上の企業は会社法上の「大会社」にあたり、決算公告の義務があります",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業に決算公告は義務？実施率1.8%の実態と3つの対応方法を解説 | 電子決算公告ドットコムMagazine",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業に決算公告は義務？実施率1.8%の実態と3つの対応方法を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "東京商工リサーチの調査によると、官報を公告方法としている株式会社のうち、実際に決算公告を実施しているのはわずか1.8%です（2022年調査）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「うちは上場企業じゃないから決算公告は関係ない」と考えていませんか",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実は会社法440条は、上場・非上場を問わず、すべての株式会社に決算公告を義務付けています",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、非上場企業の決算公告義務について会社法の条文に基づいて解説し、公告を実施していない場合のリスク、3つの公告方法の費用比較、そして実務的な対応手順までを網羅的にお伝えします",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業にも決算公告の義務がある？会社法440条を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の決算公告の実態：実施率わずか1.8%",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なぜ98%以上の企業が決算公告をしないのか",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業が選べる3つの決算公告方法【費用比較表】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法440条の特例：決算公告が不要になる3つのケース",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特例1：有価証券報告書の提出会社（440条4項）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業が決算公告を始めるための実務ステップ",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 3：必要に応じて定款変更・登記変更を行う",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 4：決算書類を準備する",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社の売上高を無料で調べる方法 — 決算公告・EDINET・信用調査の使い分け｜しょくばログ",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "／ 会社の売上高を無料で調べる方法 — 決算公告・EDINET・信用調査の使い分け",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社の売上高を無料で調べる方法 — 決算公告・EDINET・信用調査の使い分け",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法が義務づけている決算公告は「貸借対照表」であって、売上高が載る「損益計算書」の公告義務があるのは大会社（資本金5億円以上、または負債200億円以上）だけ",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調べ方②：大会社なら決算公告を探す（無料・ただし90日の壁）",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調べ方③：会社の公式サイトと採用ページ（中小ではこれが本命）",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告を出していない会社は危ないですか？",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官報の過去の決算公告を無料で読む方法はありますか？",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "相手が上場企業、または有価証券報告書の提出義務がある会社なら、ここで完全に解決します",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（https://disclosure2.edinet-fsa.go.jp/ ）で会社名を検索し、有価証券報告書を開きます",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（適時開示情報閲覧サービス）で決算短信を見る手もあります",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なので、登記簿を見れば分かります",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年4月1日に官報は電子化され、",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告は定時株主総会の後に出るので、3月決算の会社なら6〜7月に集中します",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過去分を検索したい場合は、官報の有料検索サービスや、官報販売所が提供する決算公告のデータベースを使うことになります",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "社名変更や本店移転がある場合は、過去の名称でも探すと古い決算資料にたどり着くことがあります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公式サイトの会社概要、採用ページ、ニュース、決算・IR資料、電子公告を確認します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今は1円でも会社が作れる時代なので、「資本金が小さい＝ダメ」ではありません",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "30%以上なら比較的安定、10%未満は要注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の失敗・撤退（4）",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の失敗要因を6つの軸で診断",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上高がわからないときにやりがちな失敗を先に知っておくと、余計な減点を防げます",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、以下の点に注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、これは株主総会の手続きに関する特則であり、決算公告の義務自体が免除されるわけではない点に注意してください",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定款変更・株主総会決議は不要な手続きの流れと注意点を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes to Avoid",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意点として、電子官報は無料ですが、2004年7月1日より前に掲載されたものは閲覧できません",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました",
@@ -3252,12 +3258,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/toushi_gyousei/n/n14e47b0c5d0c",
+    "url": "https://note.com/nayami_answer/n/ncacdf3ca4150",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nayami_answer/n/ncacdf3ca4150",
+    "url": "https://note.com/toushi_gyousei/n/n14e47b0c5d0c",
     "status": "ok",
     "method": "http"
    },
@@ -3292,7 +3298,7 @@
     "method": "http"
    },
    {
-    "url": "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
     "status": "ok",
     "method": "http"
    },
@@ -3302,7 +3308,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
     "status": "ok",
     "method": "http"
    },
@@ -3312,22 +3318,27 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shiodome.co.jp/js/blog/13507",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://kanpo-ad.com/kaisya-kamoku1.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "url": "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://biz.moneyforward.com/establish/basic/84885/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
     "status": "ok",
     "method": "http"
    },
@@ -3342,17 +3353,12 @@
     "method": "http"
    },
    {
-    "url": "https://catr.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://service.g-search.jp/2024/12/20/01062.html",
+    "url": "https://catr.jp/",
     "status": "ok",
     "method": "http"
    },
@@ -3382,9 +3388,9 @@
     "method": "http"
    },
    {
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.reddit.com/r/gtmengineering/comments/1qdi6h6/find_company_revenue_estimates/",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -3395,15 +3401,15 @@
     "https://note.com/funteractive_inc/n/nd5c6502fc018",
     "https://note.com/dakudhigura/n/n55af22458dd3",
     "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/toushi_gyousei/n/n14e47b0c5d0c",
     "https://note.com/nayami_answer/n/ncacdf3ca4150",
+    "https://note.com/toushi_gyousei/n/n14e47b0c5d0c",
     "https://note.com/irshukatsu/n/n9fd752118742",
     "https://note.com/zaimani_com/n/n55c23417fd36",
     "https://note.com/sk_kasou/n/n5f399867efe8",
     "https://note.com/nnoo12/n/nc6e185955a93"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 9
@@ -3417,53 +3423,53 @@
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
     "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
     "https://atsoho.com/blog/unlisted-results-notice",
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/"
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人） やり方",
    "results": [
     "https://www.lib.pref.saitama.jp/guide/docs/d24fe439f654d0608847f3cb7bc5a749.pdf",
-    "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
     "https://www.kigyou-houmu.com/secret-4/",
-    "https://shiodome.co.jp/js/blog/13507",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://kanpo-ad.com/kaisya-kamoku1.html",
     "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+    "https://biz.moneyforward.com/establish/basic/84885/",
+    "https://www.career-adv.jp/recruit_info/career/443/",
+    "https://shiodome.co.jp/js/blog/13507",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人） 事例",
    "results": [
     "https://www.lib.pref.saitama.jp/guide/docs/d24fe439f654d0608847f3cb7bc5a749.pdf",
+    "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
     "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://shiodome.co.jp/js/blog/13590",
     "https://www.career-adv.jp/recruit_info/career/443/",
-    "https://catr.jp/",
     "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
-    "https://service.g-search.jp/2024/12/20/01062.html"
+    "https://catr.jp/",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -3476,8 +3482,8 @@
     "https://www.privco.com/insights/Complete-Guide-to-Private-Company-Valuation-Methods-Formulas-and-Practical-Insights",
     "https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp",
     "https://raincatcher.com/private-company-valuation/",
+    "https://www.reddit.com/r/gtmengineering/comments/1qdi6h6/find_company_revenue_estimates/",
     "https://nodior.com/private-company-revenue-estimation",
-    "https://www.reddit.com/r/Entrepreneur/comments/xp517l/how_do_you_find_a_private_companys_revenue/",
     "https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue",
     "https://www.linkedin.com/posts/cpastrategicsolutions_knowing-the-formula-is-easy-knowing-how-activity-7511466677562257408-zNCM",
     "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/"
@@ -3486,7 +3492,7 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "site:note.com 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）",
@@ -3500,10 +3506,10 @@
     "https://note.com/dakudhigura/n/n55af22458dd3",
     "https://note.com/dakudhigura/n/n54b04dfbbe50",
     "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/toushi_gyousei/n/n14e47b0c5d0c"
+    "https://note.com/nayami_answer/n/ncacdf3ca4150"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -3527,13 +3533,13 @@
   {
    "query": "site:linkedin.com 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）",
    "results": [
-    "https://www.linkedin.com/in/drmahulamin",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7196789445893771265/",
+    "https://www.linkedin.com/pulse/非上場企業の中期経営計画-100億宣言という制度が思った以上に面白い-貴文-村上-y1szc/",
     "https://jp.linkedin.com/in/朋彦-土屋-b54152406",
-    "https://jp.linkedin.com/posts/yukioshima11_非上場企業の意思決定迅速に株主総会9割賛成なら書面で決議-日本経済新聞-activity-7414241387258490880-o0Ct",
     "https://jp.linkedin.com/posts/株式会社hrマネジメント_36協定-労務管理-従業員数数え方-activity-7396093957618769920--HkI",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7196789445893771265/",
     "https://jp.linkedin.com/posts/sakuraitakuya_従業員90名以下で売上2倍超株式会社ワットマン-渡邉-匡cfoが担った財務統制-activity-7480452317419360256-O854",
-    "https://jp.linkedin.com/posts/smacie_設立2年半で従業員数200名を突破-前年比売上570成長202223年度-activity-7268328357841313792-iXXi"
+    "https://jp.linkedin.com/posts/smacie_設立2年半で従業員数200名を突破-前年比売上570成長202223年度-activity-7268328357841313792-iXXi",
+    "https://jp.linkedin.com/posts/yukioshima11_非上場企業の意思決定迅速に株主総会9割賛成なら書面で決議-日本経済新聞-activity-7414241387258490880-o0Ct"
    ],
    "engines": [
     "ddgs:bing"
@@ -3544,15 +3550,15 @@
    "query": "site:facebook.com 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）",
    "results": [
     "https://www.facebook.com/kigyoujitsumu/",
-    "https://www.facebook.com/1725220191025746/",
-    "https://www.facebook.com/people/官報ブログ/100050929632349/",
-    "https://www.facebook.com/100050929632349/posts/トヨタ不動産-決算公告第89期httpskanpo-kanpoblogjparchives45054848html第89期-決算公告売上高216億9700万円売/1375183434189298/",
     "https://www.facebook.com/kigyoujitsumu.sc/",
+    "https://www.facebook.com/100057115913567/videos/1802871304273704/",
     "https://www.facebook.com/100057115913567/videos/1403952390685674/",
-    "https://www.facebook.com/worksinstitute/posts/景況判断bsiは停滞する一方従業員数判断bsiは2013年度以降高水準を維持し両者の乖離が拡大しています景気に関係なく人手不足が続き採用は不可避です賃上げも業績/1356170236295163/"
+    "https://www.facebook.com/p/一般社団法人おかやま中小企業支援実務家協議会-100057524054914/",
+    "https://www.facebook.com/worksinstitute/posts/景況判断bsiは停滞する一方従業員数判断bsiは2013年度以降高水準を維持し両者の乖離が拡大しています景気に関係なく人手不足が続き採用は不可避です賃上げも業績/1356170236295163/",
+    "https://www.facebook.com/PwCJapan/posts/876448842390768/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -3563,15 +3569,15 @@
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://note.com/cyber_forest/n/n24410a3e7804",
     "https://note.com/zaimani_com/n/n55c23417fd36",
-    "https://atsoho.com/blog/unlisted-results-notice",
-    "https://www.sankei.com/article/20180511-BSOB7WDE2JI2ZK4DIHUCUXPWYU/",
-    "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+    "https://www.sankei.com/article/20180511-BSOB7WDE2JI2ZK4DIHUCUXPWYU/",
+    "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
+    "https://atsoho.com/blog/unlisted-results-notice",
+    "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -3580,14 +3586,14 @@
    "query": "非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人） X 投稿",
    "results": [
     "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
     "https://www.sankei.com/article/20180511-BSOB7WDE2JI2ZK4DIHUCUXPWYU/",
     "https://x.com/kessan_db",
-    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
     "https://atsoho.com/blog/unlisted-results-notice",
+    "https://shiodome.co.jp/js/blog/13507",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/"
    ],
    "engines": [
@@ -3604,10 +3610,10 @@
     "https://www.linkedin.com/posts/acremades_valuing-pre-revenue-companies-activity-7337448332505604096-rECn",
     "https://www.linkedin.com/pulse/understanding-409a-valuation-nehil-jain-tym2c",
     "https://www.linkedin.com/pulse/valuation-private-limited-companies-purpose-methods-aditya-chokhra",
-    "https://www.linkedin.com/pulse/business-valuation-whats-my-manufacturing-company-worth-brunelle",
     "https://www.linkedin.com/top-content/finance/private-equity-basics/private-equity-valuation-methods/",
     "https://www.linkedin.com/posts/andrewmorrisbusinesssalesbrisbane_9-business-valuation-methods-explained-dcf-activity-7511220847244800001-VdHi",
     "https://www.linkedin.com/pulse/5-main-methods-value-business-daniel-faloppa",
+    "https://www.linkedin.com/posts/ayaan-khan-b0a976219_day-valutaion-erp-activity-7424658736238968832-7bZY",
     "https://www.linkedin.com/pulse/understanding-multiples-approach-company-valuation-omer-mba-fmva--bgodc"
    ],
    "engines": [
@@ -3619,109 +3625,15 @@
  ],
  "missing": {},
  "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Can you estimate revenue for a company with almost no online presence?",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Public companies report revenue every quarter. Private companies in the US have no such duty. State annual reports name officers and a registered agent, rarely revenue, and tax filings stay confidential.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Payroll and benefit-plan filings",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Use at least two sources that don't depend on each other. A benefit-plan filing and a job ad are independent. A staff page and a profile copied from it count once. Decide whether regular subcontractors are in the count.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the latest retirement-plan filing reports 52 participants.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A three-year-old filing or a job ad posted before a branch closed describes a different company.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
-    "quote": "日刊工業新聞の決算公告を検索・閲覧する方法｜掲載費用と手続きを徹底解説",
+    "quote": "中小企業が官報で決算公告する費用・記載項目・申込手順を解説",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日刊工業新聞に掲載された決算公告の検索・閲覧方法を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "G-Searchの活用法、掲載費用の目安、官報・電子公告との費用比較、定款変更の手順まで網羅",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告の記載事項とは？必須項目と公告方法別の違いを解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    }
   ]
  },
- "runs": 20,
+ "runs": 21,
  "first_researched_at": "2026-11-05T00:45:10.289248+00:00"
 }

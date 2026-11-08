@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・213品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・216品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1041,6 +1041,7 @@
 ## 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）（estimate private company revenue headcount methods）
 - 文脈：凄腕・推定
 - 手順・やり方：
+  - 「中小企業が官報で決算公告する費用・記載項目・申込手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「日経新聞に掲載された決算公告を検索する方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1055,7 +1056,6 @@
   - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報で決算公告を出すのは株主総会の前？後？タイミングと手順の完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.」（https://nodior.com/private-company-revenue-estimation）
   - 「Can you estimate revenue for a company with almost no online presence?」（https://nodior.com/private-company-revenue-estimation）
@@ -3314,7 +3314,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -5087,7 +5087,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -8635,6 +8635,10 @@
 ## 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）（market sizing reconcile top-down bottom-up comparison table transaction stage definition）
 - 文脈：市場規模の推計
 - 手順・やり方：
+  - 「TAM・SAM・SOMの計算方法｜市場規模の出し方 - 株式会社RJC」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
+  - 「TAM・SAM・SOMの計算方法｜市場規模の出し方」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
+  - 「（記載例）出典：株式会社RJC「TAM・SAM・SOMの計算方法｜市場規模の出し方」」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
+  - 「課題の検証の進め方は、関連記事の「PSFとPMFの違い｜検証の順番と判断基準」で扱っています」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
   - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
@@ -8646,11 +8650,10 @@
   - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
 - 突き合わせ・推定：
+  - 「を逆算すると、計画の無理が見えます」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
+  - 「課題の検証の進め方は、関連記事の「PSFとPMFの違い｜検証の順番と判断基準」で扱っています」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
+  - 「、と逆算すると計画の無理が見える」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
   - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
@@ -8663,10 +8666,9 @@
   - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
 - 一次情報の探し方：
+  - 「統計の数字は「何を数えたか」で大きく変わります」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
+  - 「ほかにも、チケットレストラン、書籍読み放題、2年ごとの慰労報奨（休暇 or 金一封）、11期連続の黒字決算」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
   - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
@@ -8680,8 +8682,6 @@
   - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
 - 失敗・落とし穴：
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
@@ -11976,7 +11976,7 @@
   - 「Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
 - 実例：
   - 「A List of Strong Verbs for Academic Writing: Examples and Exercises」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
@@ -12613,3 +12613,104 @@
   - 「また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
   - 「その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります」（https://note.com/wattson496/n/n853a10f28714）
   - 「その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます」（https://note.com/wattson496/n/n853a10f28714）
+
+## 史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス）（source criticism external internal provenance applied to business research）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「史料批判(しりょうひはん)とは？ 意味や使い方 - コトバンク」（https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003）
+  - 「…一般に歴史的認識のもととなるべき素材を史料というが，歴史研究の基礎であるこの史料について，いかなる素材が史料となりうるかを検討し，その固有の性格を究明し，収集･分類の方法を探究するのが〈史料学〉である」（https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務（weighting testimony contributory vs interactional expertise interviews）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「この中では、学問の探究が対象に応じてどのような方法論をとるか、ということを論じていました」（https://note.com/wattson496/n/n853a10f28714）
+  - 「これは人類の探究活動の最極致にある学術研究においてどのようなやり方が使われるか、という部分を扱ったものですが、社会の大多数を占める人々は専門家ではありません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「専門家に関する研究の中では、科学技術社会論（Science and technology studies, または science, technology, and society, STS）の中で、ハリー・コリンズとロバート・エヴァンズによって論じられた専門知の類型論が注目に値します」（https://note.com/wattson496/n/n853a10f28714）
+  - 「コリンズ＆エヴァンズ（2007、邦訳 2020）『専門知を再考する』では、"専門知の周期表"として専門知の類型が論じられています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「これは「ビアマット知識」「通俗的理解」「一次資料知識」「対話型専門知」「貢献型専門知」の5つの類型に分けられます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「「貢献型専門知」は、一般に"専門家"という言葉から連想されるような、特定の分野において実践的にことを為すことができるような能力をもたらす専門知のことです」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一方「対話型専門知」は、その分野において実践的な貢献は行わないが、分野のコミュニティに関わり、その特定分野に固有の暗黙知を身に付けた状態で、専門的なトピックに関して流暢なコミュニケーションを行うことを可能にするような専門知を指します」（https://note.com/wattson496/n/n853a10f28714）
+  - 「対話型専門知はコリンズとエヴァンズが新たに着想した概念で、『専門知を再考する』の中ではかなり詳しく論じられています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「対話型専門知および貢献型専門知には特定分野のコミュニティにおける社会的な暗黙知が必要となります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「また、特にその分野の実践を伴う貢献型専門知においては、物真似単形性のような技能の身体化が見られるようになります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「コリンズとエヴァンズの議論では、貢献型専門知を持った人々は、少なくとも潜在的には対話型専門知をも身に付けている、と論じられています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「学術コミュニティの場合は学会などでのやりとりとして言語によるコミュニケーションが行われるので、多くの場合対話型専門知が顕在化していることが多いと思います」（https://note.com/wattson496/n/n853a10f28714）
+  - 「なお、芸術評論家は貢献型専門知を持たず対話型専門知のみを持っているような例になっています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「これは、他の言葉で言えば批判的思考（クリティカル・シンキング）のようなものを行えるような資質のことを意味していて、特に学術分野における貢献型専門知の実践に深く関与しています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「これらの「対話能力」「熟慮能力」は特定の分野に限った能力ではないためこの行とは別に立てられていて、対話型専門知や貢献型専門知を顕在化させたり習熟させるのに役立つような資質として位置づけられています」（https://note.com/wattson496/n/n853a10f28714）
+- 突き合わせ・推定：
+  - 「近代歴史学では、バルトホルト・ゲオルク・ニーブールやレオポルト・フォン・ランケに始まる史料批判の伝統により、史料を様々に吟味して歴史上の事実などを推定する技術を高度な体系へと作り上げてきました」（https://note.com/wattson496/n/n853a10f28714）
+  - 「奥付などにそれらが記載されている近現代の史料では分かりやすいですが、記載がない場合や、あったとしてもその信頼性に問題がある場合は、他の証拠からいつ・どこで・誰が作った史料なのかを推定する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「史料の形態や考古学的な特徴を分析したり、関連する複数の史料を比較して内容の類似や矛盾を調べたりするなど、複数の観点からの分析を組み合わせて、総合的に判断されることになります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一方で、複数の史料の指し示す内容に矛盾がある場合、可信性を慎重に吟味して史実を推定する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「歴史的聯関の構成と歴史的意義の把握は、単なる事実についての推定から、相互の因果関係などのより高次の結論を導き出すものです」（https://note.com/wattson496/n/n853a10f28714）
+  - 「Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう」（https://note.com/wattson496/n/n853a10f28714）
+  - 「対照的に、研究最前線の成果や新しい理論を紹介することを主眼とした書籍では、まだ通説とは言えない仮説や少数説が大きな比重を占めることもあり、その場合には、その立場が専門家コミュニティの中でどの程度共有されているのかを読者自身が補って考える余地が大きくなります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「前者では本原性や出典の検討がある程度可能ですが、その場合でも引用されている先行研究を追っていくには相応の時間と労力が必要であり、「読みやすさ」と「検証のしやすさ」がトレードオフの関係に置かれがちな媒体です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「そのため、個々の記述がどの制度文書や研究に依拠しているのかを教材単体からさかのぼるのは難しく、本原性の高い情報源との対応関係を検討しようとすれば、別途、法令集や専門書、実務家向けの解説書などとの照合が必要になります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「査読によって一定の水準は担保されますが、査読の厳格さは雑誌や分野によって差があり、論文の内容を細部まで検証したり追試したりするには、高度な専門知識と時間・資源が必要になります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「論文は、個々の研究結果や新しい仮説を提示することを目的とした媒体であり、その主張がそのまま通説を表しているわけではありません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「Wikipediaでは編集方針として「検証可能性」「中立的な観点」「独自研究の不掲載」などが掲げられ、一次資料や査読付き論文、専門書、信頼できるニュースソースなどに依拠することが求められています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「研究者のブログでは、学術誌に掲載される前の予備的な結果や学会発表の内容が紹介されることがあり、学界の動向を早く知る手がかりになりますが、その時点では通説とは言えない仮説も含まれます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「制作者の専門性や通説との関係を判断する手がかりは、動画の説明欄やプロフィール、外部サイトへのリンクなどに限られることが多く、所属や業績がどの程度裏付けのあるものかを視聴者側から検証するのは容易ではありません」（https://note.com/wattson496/n/n853a10f28714）
+- 一次情報の探し方：
+  - 「通説との関係で見ると、教科書は「十分確実とみなされた内容」を優先して採用するため、専門家コミュニティでの議論の最前線や、通説が更新されつつある部分が反映されるまでには時間的なラグが生じます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「制作主体は試験を実施する公的機関や業界団体、民間出版社など多様であり、執筆者もその分野の専門家から予備校講師・実務家まで幅があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一方で、専門書が大学の教科書としてどの程度採用されているか、専門誌の書評でどのように評価されているかといった外在的な情報は、その専門書がコミュニティ内でどの位置づけにあるのかを推測する手がかりを与えます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「専門分野の基礎理論や統計手法、実験技法などについて十分な前提知識がない場合、論文の主張の強さや位置づけを適切に評価することは難しくなります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「政府機関や独立行政法人、地方公共団体などが発行する白書・統計書・調査報告・審議会答申は、公的な立場からの現状認識や政策判断を示す文献です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「法制度や行政運営に関する情報では、これらが「公式見解」や「公的統計」として事実上の基準になることも多く、行政がどのような問題設定と前提に立っているかを知る手がかりになります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「統計や報告書は年次で作成され、速報値・確報値の区別や後年の改定が行われます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「同じ名称の統計でも、調査方法や分類が途中で変わることがあり、時系列比較を行う際には、版・掲載年・調査方法を確認する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「統計や調査では、指標の選定にあたって専門家の助言が得られることが多く、学問的知見や広く共有された枠組みに沿った設計が行われますが、どの指標やグラフを強調するかといった編集方針には、政策課題や組織の関心が反映されます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「統計書は調査対象・抽出方法・集計手順などを明示するのが通例であり、本原性の高い情報源です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「統計表や図表が多数掲載されていても、それが学界のどの議論と対応しているか、どの程度通説に近い位置づけなのかは、本文だけでは分かりにくく、必要に応じて専門書や学術論文と組み合わせて読むことが求められます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一次資料や学術論文、公的統計へのリンクを丁寧に示すサイトでは、記述の根拠をたどりやすい一方で、出典をほとんど示さないまま断定的に語るサイトや、二次情報の重ね書きで元の出典が不明瞭になっているサイトもあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「非専門家にとって、個人サイトは多くの場合無料で利用でき、検索エンジンやSNS経由で到達しやすいという意味でアクセスコストは低いものの、運営者の専門性や立場、参照されている情報源の質を自分で見極める必要があり、複数サイトや公的資料・専門書と照らし合わせる評価コストは小さくありません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「研究者や公的機関・報道機関の公式アカウントの発信は、その組織の対外的な責任がかかる分だけ一定の慎重さが期待できますが、匿名個人やパロディアカウント、なりすましなども混在します」（https://note.com/wattson496/n/n853a10f28714）
+- 失敗・落とし穴：
+  - 「これには、「軽信によって起こったもの、不注意から来たもの、独断によって誤られたもの、批判的誤りから生じたもの等」のような種類があることが言及されています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「作者がその主張を強く印象づけるために行う工夫が、現代の読者にはダイレクトに刺さりやすい構図になっているため、より注意して客観的な判断を行う必要があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「専門家コミュニティにおける共通認識としての"通説"は、事実のような単一性をもったものではないことにも注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「その一方で、質問文の設計や非回答の扱いなどによって系統的な偏りが生じる余地は残り、本文で取り上げられる数字と付録に置かれる数字のあいだに編集上のバイアスが入り込むこともあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「事実報道と社説・コラム・ワイドショー的なコメントが連続して並ぶことで、事実と意見の境界が曖昧になりやすい点にも注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「オンライン版は公開後に更新・修正されることがあり、また紙面・放送・初期ウェブ版・改訂版で細部が異なることもあるので、外的批判を行う上では注意が必要な場合があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「辞書・事典同士が互いを参照しあった結果として、実質的には限られた原資料に依拠しているケースもあり、版や更新時期によって内容が細かく変化する点にも注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「誤りに気づけば素早く訂正できる反面、過去の版が十分に記録されないまま書き換えられることもあり、更新状況や来歴を追うのは容易ではありません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「会話内容がモデル改善や機能向上のために利用される場合でも、それがどのような形で学習に反映されるかは利用者には分かりにくく、その過程でどの方向にバイアスが強まるかも外側からは評価しにくい構造があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「完全にモデル内部からの生成によるものよりはいくぶん評価コスト上の利点があるとはいえ、やはり注意して扱うべき情報源と言えるでしょう」（https://note.com/wattson496/n/n853a10f28714）
+  - 「講義・講演という形式には、話の構成やレトリックによるバイアスも入り込みます」（https://note.com/wattson496/n/n853a10f28714）
+- 実例：
+  - 「ビアマット知識のような断片的な情報ではなく、推論によって具体的な事例に適用したりできるような、ある程度まとまった観念を指しています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「前者の場合は、非常に複雑ではあるがそれ単体で習得可能で、例えば村田製作所の"ムラタセイサク君"のような形で機械にも模倣可能です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「一方で、例えば芸術家のような専門家の場合、素晴らしい芸術作品を作ることはできるが、それについて流暢に言語化することは難しい、という場合があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「このような場合も、例えば芸術評論家が持つような言語化能力を身に付けることができれば、その芸術作品について対話をすることが可能でしょう」（https://note.com/wattson496/n/n853a10f28714）
+  - 「「専門的目利き」は、例えばワインのソムリエがワインの良し悪しについて判断できるような鑑定能力のことを指しています」（https://note.com/wattson496/n/n853a10f28714）
+  - 「ここでは、例えば自然科学では対応説、人文科学では整合説、みたいな形で、ドメインごとに別々の説による真理が成り立つ、ということが考えられます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「非専門家にとっては、例えば対応説的な真理を直接得ることはできず、専門家によって見出されたもの、という媒介を通してしか真理を見ることができません」（https://note.com/wattson496/n/n853a10f28714）
+  - 「真純性に問題があるケースとしては、一つは史料が偽作である場合、またもう一つとして錯誤もしくは誤認に基づいている場合があります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「このような錯誤や虚偽の吟味は、外的批判の結果とも組み合わせて検討されます」（https://note.com/wattson496/n/n853a10f28714）
+  - 「ただし、そのような信頼性の高い複製プロセスを経ていないものを対象としている場合や、版の違いによる改訂の差などが重要になってくる場合などでは、真純性の吟味が重要なケースは残ります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう」（https://note.com/wattson496/n/n853a10f28714）
+  - 「また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です」（https://note.com/wattson496/n/n853a10f28714）
+  - 「その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります」（https://note.com/wattson496/n/n853a10f28714）
+  - 「その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます」（https://note.com/wattson496/n/n853a10f28714）
+
+## 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方（data provenance checklist period resolution units missing values processing）
+- 文脈：突き合わせ
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）

@@ -8,41 +8,11 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-07T20:31:32.328269+00:00",
+ "researched_at": "2026-11-08T02:06:16.812368+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "The Admiralty System, when adapted for cyber threat intelligence, offers a robust framework for enhancing the reliability of your intelligence.",
-    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Admiralty System, NATO AJP-2.1 is a structured framework",
-    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
+  "失敗・落とし穴": [
    {
     "quote": "used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.",
-    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Action: If this vulnerability is relevant to you, immediate steps are required, like patching the vulnerability or deploying protective measures.",
-    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". Dive deep into the strategies discussed here, master the Admiralty System, and learn how to apply it in real-world cybercrime investigations. Don’t wait—",
-    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Freddy Murstad is the senior advisor for cyber threat intelligence (CTI) at Nordic Finance CERT (NFCERT) and has a specific focus on strategic reporting, as well as intelligence training of structured analysis techniques (SAT) and applying intelligence methodologies for CTI professionals.",
     "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -86,9 +56,39 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "失敗・落とし穴": [
+  "手順・やり方": [
+   {
+    "quote": "The Admiralty System, when adapted for cyber threat intelligence, offers a robust framework for enhancing the reliability of your intelligence.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Admiralty System, NATO AJP-2.1 is a structured framework",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Action: If this vulnerability is relevant to you, immediate steps are required, like patching the vulnerability or deploying protective measures.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Dive deep into the strategies discussed here, master the Admiralty System, and learn how to apply it in real-world cybercrime investigations. Don’t wait—",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freddy Murstad is the senior advisor for cyber threat intelligence (CTI) at Nordic Finance CERT (NFCERT) and has a specific focus on strategic reporting, as well as intelligence training of structured analysis techniques (SAT) and applying intelligence methodologies for CTI professionals.",
     "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -169,14 +169,14 @@
     "method": "browser"
    },
    {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.npmh.net/publication/data/66bok922169.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.mign.io/articles/",
@@ -204,17 +204,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.antiphishing.jp/pdf/apc_4th_studygroup_twofive.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
     "url": "https://note.com/cd350476/n/nb077ffe64431",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://chugai-tec.actibookone.com/content/detail?param=eyJjb250ZW50TnVtIjo3NzUyMjJ9&detailFlg=1&pNo=1&utm_source=cnlab&utm_medium=referral",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Admiralty_code",
+    "url": "https://nan.ac/solutions/23642",
     "status": "ok",
     "method": "http"
    },
@@ -245,8 +245,8 @@
    },
    {
     "url": "https://apophis133.medium.com/the-admiralty-system-in-cti-bad6134c567f",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -260,11 +260,11 @@
     "https://note.com/feriko_392/n/n75e9eee0d6f8",
     "https://note.com/clean_broom590/n/nb8198d6f9107",
     "https://note.com/frank_marketing/n/ncf9ee3c182b0",
-    "https://note.com/takamo8/n/n243b27184120",
-    "https://note.com/aoyamacpa/n/nc8ef58a5e67a"
+    "https://note.com/minato_2525msk/n/n8e5c14e95e4c",
+    "https://note.com/takamo8/n/n243b27184120"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -278,14 +278,16 @@
     "https://jenni.ai/ja/blog/how-to-find-credible-sources",
     "https://www.worldoftest.com/ja/print/pdf/node/5638",
     "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://note.com/hacklog_stealth/n/n5a847aa93190",
+    "https://note.com/shigyoai/n/nbabc32b5ebe6",
     "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14791",
-    "https://freelance-concierge.jp/articles/detail/745/"
+    "https://freelance-concierge.jp/articles/detail/745/",
+    "https://en.wikipedia.org/wiki/Admiralty_code"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例 やり方",
@@ -294,19 +296,18 @@
     "https://www.worldoftest.com/ja/print/pdf/node/5638",
     "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
     "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.npmh.net/publication/data/66bok922169.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.mign.io/articles/",
     "https://solanets.com/2026/11/02/cyber-attribution-fingerprints-dprk-it-workers/",
     "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8",
     "https://en.wikipedia.org/wiki/Admiralty_code"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 22
+   "n_hits": 16
   },
   {
    "query": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例 事例",
@@ -317,13 +318,13 @@
     "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
     "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
     "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.antiphishing.jp/pdf/apc_4th_studygroup_twofive.pdf",
     "https://note.com/cd350476/n/nb077ffe64431",
-    "https://chugai-tec.actibookone.com/content/detail?param=eyJjb250ZW50TnVtIjo3NzUyMjJ9&detailFlg=1&pNo=1&utm_source=cnlab&utm_medium=referral",
-    "https://www.mign.io/articles/",
+    "https://nan.ac/solutions/23642",
     "https://en.wikipedia.org/wiki/Admiralty_code"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -343,11 +344,10 @@
     "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/"
    ],
    "engines": [
-    "ddgs:duckduckgo",
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 14
   },
   {
    "query": "site:note.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
@@ -356,45 +356,43 @@
     "https://note.com/goldmist1959/n/n88276ab96488",
     "https://note.com/kensho_note/n/n80379e531cfb",
     "https://note.com/feriko_392/n/n75e9eee0d6f8",
+    "https://note.com/kotetsu0/n/neff392cd034c",
     "https://note.com/frank_marketing/n/ncf9ee3c182b0",
     "https://note.com/clean_broom590/n/nb8198d6f9107",
-    "https://note.com/takamo8/n/n243b27184120",
-    "https://note.com/aoyamacpa/n/nc8ef58a5e67a",
-    "https://note.com/formulary/n/n2abee841621a",
-    "https://note.com/minato_2525msk/n/n8e5c14e95e4c"
+    "https://note.com/takamo8/n/n243b27184120"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 11
+   "n_hits": 8
   },
   {
    "query": "site:x.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
    "results": [
     "https://x.com/hashtag/アドミラルティ・コード",
-    "https://jf.x.com/images/media-preview/2115172513571594744",
     "https://x.com/dutcode02/status/2116972971785167337",
+    "https://jf.x.com/images/media-preview/2115172513571594744",
     "https://jf.x.com/images/media-preview/2106581744245707050",
     "https://jf.x.com/images/media-preview/2107586100512370742",
     "https://jf.x.com/images/media-preview/2111691863187165618",
-    "https://x.com/dutcode02/status/2113741013269524650"
+    "https://x.com/ugkfOm6yaAKiR5N/status/2072958817529364840"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
    "results": [
+    "https://jp.linkedin.com/pulse/automating-security-assessments-devsecops-pipeline-ai-powered-gupta-nvenc?tl=ja",
     "https://jp.linkedin.com/pulse/source-credibility-theory-timeless-progress-from-navlakha-phd--gz08f?tl=ja",
     "https://jp.linkedin.com/pulse/how-find-sources-your-research-paper-5-steps-dr-naureen-aleem-hpw8f?tl=ja",
     "https://jp.linkedin.com/pulse/data-behind-ai-understanding-where-artificial-gets-its-gaz-hall-fh9de?tl=ja",
     "https://jp.linkedin.com/pulse/why-your-enterprise-needs-single-source-truth-heliosz-yds4c?tl=ja",
     "https://jp.linkedin.com/pulse/story-lead-time-land-asot-lewis-kennebrew-bchac?tl=ja",
-    "https://jp.linkedin.com/in/makoto-f-685651435",
-    "https://jp.linkedin.com/pulse/when-evaluating-ai-dont-forget-ilities-fergal-mcgovern-a338e?tl=ja"
+    "https://jp.linkedin.com/in/makoto-f-685651435"
    ],
    "engines": [
     "ddgs:google"
@@ -406,14 +404,14 @@
    "results": [
     "https://www.facebook.com/excel.sozoku/posts/上場株式の評価明細書をエクセルで作成するシステムファイルが完成しました-単純なテンプレートですので無料で公開しております私のhpに無料版をアップしてありますので/2998721613507803/",
     "https://www.facebook.com/100063888799200/posts/トヨタフォークリフトのエラーコードf5-1-f5-4-お久しぶりでございます-今日はよくあるトヨタさんのエラーコードです-車両は使えてるけどエラーコードf5-1/722219633250990/",
-    "https://www.facebook.com/fcodeInc/",
-    "https://www.facebook.com/LiveBarBunga/videos/fコードが苦手そんな方は少なくありません実はfコードが押さえにくいのには理由があります無理に1フレットで練習するのではなく少し弾きやすいポジションから始める方法/1737219520796113/",
     "https://www.facebook.com/moriken0119/videos/claude-codeで10プロジェクトをマルチ進行会話しながらaiにspecを書かせるそのspecを元にaiが実装そのコードをaiがレビューpdcaまでaiが/1321060476772291/",
     "https://www.facebook.com/LeanSixSigmaVBA/posts/ｔ検定とｆ検定の実務での使い方エクセル関数今回はデータ検定の中のｔ検定とｆ検定についての話です統計の難しい話題ですが易しい言葉で仕事でどう使えるのかの部分を話し/1973615219617107/",
-    "https://www.facebook.com/INTERALLIED/photos/05606-1350-ソビエト海軍-空母-アドミラルクヅネツォフ-20000税抜価格05606-1350-ussr-admiral-kuznetsov/863657520327285/"
+    "https://www.facebook.com/money.study.fp/posts/fp6分野の最新改正fp業務を発展させる集客it法律顧客の満足度を高めるテクニックなどfp業務で役立つ話題をたくさんお届けします-皆さんのご参加をお待ちしていま/359303802728359/",
+    "https://www.facebook.com/INTERALLIED/photos/05606-1350-ソビエト海軍-空母-アドミラルクヅネツォフ-20000税抜価格05606-1350-ussr-admiral-kuznetsov/863657520327285/",
+    "https://www.facebook.com/akiko.ueda.104/videos/2026春夏モデルアドミラルコレクション着るだけで気分もプレーも上がるウェアコートでも普段でも映えるデザインが最高です️テニスジャパンでまだ在庫あります気になる/1483591156691258/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -422,17 +420,17 @@
    "results": [
     "https://note.com/shore9999/n/ncbe0fb8eb5ca",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
     "https://note.com/creacir/n/ndd034a907875",
+    "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/12/14798",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/cyber_forest/n/n0adce94d8c1f",
-    "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
-    "https://seo.contencial.co.jp/seo-note/blog/ichiji-joho/",
     "https://en.wikipedia.org/wiki/Admiralty_code"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -462,17 +460,17 @@
    "results": [
     "https://uk.linkedin.com/in/gareth-w-44aa5b140",
     "https://www.linkedin.com/top-content/career/building-professional-credibility/multi-layer-fact-checking-for-professional-posts/",
-    "https://uk.linkedin.com/in/felixghauri",
     "https://www.linkedin.com/in/anthonykimery",
-    "https://de.linkedin.com/in/ahmed-nabil-al-eryani",
+    "https://uk.linkedin.com/in/felixghauri",
     "https://pk.linkedin.com/in/abdul-wahid022",
+    "https://de.linkedin.com/in/ahmed-nabil-al-eryani",
     "https://www.linkedin.com/top-content/science/science-journalism-insights/evaluating-sources-in-science-reporting/",
-    "https://de.linkedin.com/in/ohanamedeiros",
     "https://ng.linkedin.com/in/sadiq-idris-amana-28a64a46",
+    "https://de.linkedin.com/in/ohanamedeiros",
     "https://fr.linkedin.com/in/aurore-caugy-1a5085138/fr"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -483,6 +481,6 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T14:58:24.107007+00:00"
 }

@@ -1,0 +1,935 @@
+{
+ "name": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94）",
+ "en": "annual not half-year values plating heat treatment pressing Japan statistics",
+ "aliases": [
+  "電気めっき 年間 出荷額 暦年 統計",
+  "金属熱処理 年間 生産額 工業会 統計 年度",
+  "金属プレス 年間 出荷額 統計 年次"
+ ],
+ "context": "統計・全国",
+ "kind": "market",
+ "researched_at": "2026-11-08T02:03:21.764118+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "害、労働争議による操業停止リスク等） 、２：海外での事業展開メリットが減退（人件費が上昇",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "は１,30４万人（１978年）→１,４79万人（１990年）の約１.１倍となっている",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2005 年＝100） （万人）",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ては製造業で約２90万人、非製造業で約２２0万人",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よっては製造業で約 １0万人、非製造業で約２１0万人の雇用を生み出している",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "84 具体的には、商業（卸売・小売業）で約70万人、その他の対事業所サービス（法務・財務・会計サービスや建物サービス等）で約",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４0万人、道路輸送（除自家輸送）で約２0万人等となっている",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の大卒求人倍率は １.65倍となっており",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "87 文部科学省「学校基本調査」 （２0１２年）によると、全日制・定時制の高等学校で就職者は産業計で１7万6,873人であるが、うち製造業",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は 7 万7 １４人となっている",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは製造業の他に高等学校卒業者が多く就職する産業として 3 つ、建設業（ １ 万3,805人） 、卸売業、",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小売業（ １ 万8,603人） 、医療、福祉（１ 万5,9４6人）をあげている",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "90 株式会社リクルートワークス研究所「大卒求人倍率調査」における ２0１3年卒の者についての値",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 製造業の大卒求人倍率は1.65倍であるが、大学進学率の上昇や大学卒業者の製造業就職比率の低下は、",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料出所 （独）労働政策研究・研修機構「構造変化の中での企業経営と人材のあり方に関する調査」（2013年２月）",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "害、労働争議による操業停止リスク等） 、２：海外での事業展開メリットが減退（人件費が上昇",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 人件費などが高いため 39.5",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "盤技術の出荷額と従業員の推移を示したものであるが、１990年以降、国内市場の低迷により出荷額は",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2－ （4） －15図 基盤技術全体における出荷額と従業員数の推移",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、近年の家計所得は年間収入でみると１999年の約6４9万円から２009年の約553万円となるなど減",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業を中心に年収２50万円未満の層で有業者が増加しており、また、 ２00２年から２007年においては、医",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "療、福祉等を中心に４00万円未満層で有業者が増加している",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（10億円／万人・時間）",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "製造業の労働生産性（実質GDPを就業者数と労働時間の積で除したもの）が１980年代以降、上昇傾向にあることを分析している",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、近年の家計所得は年間収入でみると１999年の約6４9万円から２009年の約553万円となるなど減",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業を中心に年収２50万円未満の層で有業者が増加しており、また、 ２00２年から２007年においては、医",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "療、福祉等を中心に４00万円未満層で有業者が増加している",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、この労働生産性の変化率は第２－ （４） －２3図のように、労働者 １ 人当たりの資本装",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これを１980年からみると、TFP変化率・資本装備率はともに一貫して労働生産性上昇に大きく寄与",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "してきたことがわかるが、労働者の産業構成については、１980年代前半は労働生産性の上昇に寄与し",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２－ （４） －２４図は産業別の労働生産性",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "118 内閣府「平成２２年度年次経済財政報告」では、日米のマクロ統計を用いて名目賃金を失業率の逆数、予想物価変化率、労働生産性",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また前掲第２－ （４） －２3図においては、確かに資本装備率は労働生産性の上昇に寄与してきたが、こ",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "第２－ （４） －１２図により今後の設備投資予定をみると、現在海外事業を展開中または今後の展開を予定",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "column/search_now/sn１１05１１では、円安情勢と北米景気によって、北米で得られた資金を国内の設備投資に充当したとしている",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（設備投資のウェイトに関する考え方）１：どちらかと言えば国内にウェイトを置く",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５：今後の設備投資方針は未定・分からない",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2－ （4） －12図 今後の設備投資についての考え",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "119 内閣府「平成２２年度年次経済財政報告」では、設備投資関数を推計し、実質金利や実質負債要因により設備投資が抑制されたと分",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "●労働生産性の上昇もあり減少する製造業就業者数",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２－ （４） －１図によると、製造業の就業者は１990年代前半より減少傾向にあることがわかる",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２－ （２） －１0図でもみたが、これは生産工程・労務作業者の減少によるものが大きく、生産過程にお",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この生産量に関して、同図により鉱工業生産の推移をあわせて見る",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、１990年代前半まで生産量と就業者数はともに増加傾向であったが、前者が後者の伸びを上回って",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１990年代前半からの就業者数の減少傾向は、",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このように、製造業の就業者数は減少しているが、製造業が日本経済における雇用に果たしている",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これによると、１995年から２005年にかけて輸出が増加している中で、２005年には製造業の輸出によっ",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業就業者数の減少は労働生産性の上昇によるものが大きいと考えられる",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2－ （4） －1図 鉱工業生産と製造業就業者数の推移",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推移してきたことを考えれば、雇用に与える効果は大きいものであり、このことからも経済に与える",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料出所 総務省統計局「国勢調査（2010年）」より厚生労働省労働政策担当参事官室にて作成",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした動きを確認するため、第２－ （４） －6図により貿易特化係数の推移をみると、 １980年代半ばか",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 貿易特化係数の推移をみると、1980年代半ばから1990年代半ばにかけて消費財が低下している",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2－ （4） －6図 貿易特化係数の推移",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ル崩壊以降の国内需要の落ち込みもあり、国内向け消費財の増加傾向が止まり横ばいとなっているこ",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１１.3と約 ４ 倍となるなど一貫して増加傾向となっており、国際分業の進展の中で、アジアにおける生",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2－ （4） －7図 品目別特化係数の推移",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hillsform.com:443/contents/WORKERSBOARD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/tis_info/131206.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kenchiku-bosai.or.jp/nwcon017/wp-content/uploads/2026/09/2025ver_qa_260915.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2015/magazine1507.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2308.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://contents.xj-storage.jp/xcontents/AS71093/8b1787d0/a078/4f8f/b41d/8ee7cfad7253/140120260514533614.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0536464_03.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hagitaka.work/wage-lab/industries/2023_2464.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/190_r8_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/onshitsu/13.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2465/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcfia.gr.jp/report/pdf/no38/21.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://contents.xj-storage.jp/xcontents/AS70739/125a1f0c/2464/4463/a1b1/f8d186cf4bd5/20251029104621373s.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93717/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://reinscp.jcpra.or.jp/REINS-cp/R_Info/2026/pdf/R9_touroku42_001_00_all_1.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hiroyaku.or.jp/wp-content/uploads/2026/03/20260311jou203_.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nishi.or.jp/jigyoshajoho/kaihatsujigyo/kaihatsujigyo/gaiyo_uketsuke/20250403.files/K2025-012.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cdn.goope.jp/92821/261030105819-6ae3f9bb966c7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tmso.or.jp/contents/storage/images/performance/2023/3737/2/Yc7Nn889vnwJJ59e0fplNVKKspfIdZRPWOywFnz9.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/bunrui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/keikousei2024/documents/02tyuui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep15/gyosyu.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/soshiki/kaitei_14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2305.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_class.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/assets/files/entry/memberlist-ssw.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/r6bunrui_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkin-nagano.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_Japanese.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000506819.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpm.jp/wp-content/uploads/2025/04/211555.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2504.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://workersboard.mori.co.jp/mypage/topics/3270",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.tisi.jp/documents/jp/news/tis_info/131206.pdf",
+    "https://www.kenchiku-bosai.or.jp/nwcon017/wp-content/uploads/2026/09/2025ver_qa_260915.pdf",
+    "https://release.nikkei.co.jp/attach_file/0518068_03.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS71093/8b1787d0/a078/4f8f/b41d/8ee7cfad7253/140120260514533614.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2305.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550630"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2015/magazine1507.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2308.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.kenchiku-bosai.or.jp/nwcon017/wp-content/uploads/2026/09/2025ver_qa_260915.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS71093/8b1787d0/a078/4f8f/b41d/8ee7cfad7253/140120260514533614.pdf",
+    "https://release.nikkei.co.jp/attach_file/0536464_03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo2.pdf",
+    "https://hd.dowa.co.jp/ja/ir/library/annual/main/01112/teaserItems2/0/linkList/0/link/dowareport2026_j_a3.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94）",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2015/magazine1507.pdf",
+    "https://hagitaka.work/wage-lab/industries/2023_2464.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/190_r8_01.pdf",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/onshitsu/13.html",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2465/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2015/magazine1507.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2308.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://www.jcfia.gr.jp/report/pdf/no38/21.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS70739/125a1f0c/2464/4463/a1b1/f8d186cf4bd5/20251029104621373s.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93717",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://reinscp.jcpra.or.jp/REINS-cp/R_Info/2026/pdf/R9_touroku42_001_00_all_1.pdf",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/03/20260311jou203_.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2015/magazine1507.pdf",
+    "https://www.nishi.or.jp/jigyoshajoho/kaihatsujigyo/kaihatsujigyo/gaiyo_uketsuke/20250403.files/K2025-012.pdf",
+    "https://cdn.goope.jp/92821/261030105819-6ae3f9bb966c7.pdf",
+    "https://www.tmso.or.jp/contents/storage/images/performance/2023/3737/2/Yc7Nn889vnwJJ59e0fplNVKKspfIdZRPWOywFnz9.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/qa.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/kekka/bunrui.html",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/keikousei2024/documents/02tyuui.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep15/gyosyu.htm",
+    "https://www.kkj-st.go.jp/download/data/seizo_class.pdf",
+    "https://www.jeita.or.jp/japanese/stat/",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/onshitsu/13.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "https://www.chusho.meti.go.jp/soshiki/kaitei_14.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2015/magazine1507.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2305.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550630"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/memberlist-ssw.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/r6bunrui_e.pdf",
+    "https://www.nikkin-nagano.co.jp/",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_Japanese.pdf",
+    "https://www.soumu.go.jp/main_content/000506819.pdf",
+    "https://www.hokuto-sr.net/news_contents_9316.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jpm.jp/wp-content/uploads/2025/04/211555.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://contents.xj-storage.jp/xcontents/AS70739/125a1f0c/2464/4463/a1b1/f8d186cf4bd5/20251029104621373s.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2504.pdf",
+    "https://hagitaka.work/wage-lab/industries/2023_2464.html",
+    "https://www.kenchiku-bosai.or.jp/nwcon017/wp-content/uploads/2026/09/2025ver_qa_260915.pdf",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "annual not half-year values plating heat treatment pressing Japan statistics Japan statistics",
+   "results": [
+    "https://heatpumpingtechnologies.org/articles/heat-pumping-technologies-magazine-vol-42-no-1-2024/national-market-report-japan/",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.boj.or.jp/en/statistics/outline/exp/data/exbpsm6.pdf",
+    "https://rnavi.ndl.go.jp/en/post-485394.html",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.statista.com/topics/2505/japan/?srsltid=AYCX9vKRnjslrwdQPFOKb1JFw6D_AnKC3-6irsin73GKIkiatUjf3lay",
+    "https://www.reportsinsights.com/quants/research/heat-treating-market/japan",
+    "https://data.who.int/countries/392",
+    "https://www.e-stat.go.jp/en",
+    "https://nkbb.nikkei.co.jp/en/dataset/industrial-statistics/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94）",
+   "results": [
+    "https://note.com/coherentmi/n/n03ba62f0e485",
+    "https://note.com/qy_research/n/n62a759772301",
+    "https://note.com/david_parekar/n/ne61b7069390d",
+    "https://note.com/yamanaka_kan/n/n9a1220eccf9b",
+    "https://note.com/syncstar/n/n3747c7b03751",
+    "https://note.com/manav_/n/ndae2cdc06cfe",
+    "https://note.com/tatsuya_sabato/n/n0b1ed500336c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2099385291991908386",
+    "https://jf.x.com/images/media-preview/2097037719713022277",
+    "https://x.com/romanh__koomote/status/2085685291445342677",
+    "https://x.com/HayamiKei_AI/status/2085321966358249515",
+    "https://x.com/HayamiKei_AI/status/2085925481778753706",
+    "https://x.com/HayamiKei_AI/status/2083926650249740389",
+    "https://x.com/HayamiKei_AI/status/2086635625521021181"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94）",
+   "results": [
+    "https://jp.linkedin.com/pulse/戦略的市場インサイトグローバル産業用金属プレス市場の動向2025年-2032年-analyze-sage-fy6if",
+    "https://jp.linkedin.com/pulse/金属の熱処理市場の徹底的な精査規模シェアおよび収益成長2026年から2033年にかけて127のcagrを見込む-scoutifyz-efndf",
+    "https://jp.linkedin.com/pulse/モバイル-フオンエ-ルイクイド-金属市場の最新動向主要企業市場細分化と将来展望2026年版-sos-pro-sprint-15tjf",
+    "https://jp.linkedin.com/pulse/金属-プオウドアー-アドドイトイヴエ-製造市場の最新動向主要企業市場細分化と将来展望2026年版-arvqf",
+    "https://jp.linkedin.com/pulse/アントイ-スンオルイング-処理市場の最新動向主要企業市場細分化と将来展望2026年版-sp-1-future-growth-pro-8qu3f",
+    "https://jp.linkedin.com/pulse/シュイート-金属-加工-設備市場の最新動向主要企業市場細分化と将来展望2026年版-evidence-craft-0ztwf",
+    "https://jp.linkedin.com/pulse/アントイムオンイ-金属市場の最新動向主要企業市場細分化と将来展望2026年版-vmr-pro-trendsentinel-hub-mhs4f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94）",
+   "results": [
+    "https://www.facebook.com/p/大阪金属プレス工業会-100083214556350/",
+    "https://www.facebook.com/nkkmold/photos/中辻金型-中辻金型工業-中辻金型工業株式会社-町工場-製造業-物作りの町東大阪-データー-設計女子-設計-設計お手伝い-dxf-金型-プレス金型-ちょくちょくc/5665864840113557/",
+    "https://www.facebook.com/nkkmold/posts/加工の常識を変えれるハズ/1824226070944139/",
+    "https://www.facebook.com/nkkmold/posts/エンドミル加工マシニング切削金型金属加工機械加工切削工具切削加工最近社内販売も始めて見ました直接物が見れたりしますのでぜひぜひ中辻金型工業へ販売ショップの為のメ/4754907351209315/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/watch/?v=432122703221723",
+    "https://www.facebook.com/100088886342216/posts/舞台技術サービス事業日本標準産業分類承認の件第14回日本標準産業分類改正令和6年4月1日施行において舞台技術スタッフを指す産業分類番号として大分類n-生活関連サ/224951593811051/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://release.nikkei.co.jp/attach_file/0528200_07.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2506.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.jfe-holdings.co.jp/common/pdf/sustainability/data/2025/sustainability_2025_j.pdf",
+    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
+    "https://www.jfe-holdings.co.jp/common/pdf/sustainability/data/2024/sustainability_2024_j_A3.pdf",
+    "https://www.scribd.com/document/829017470/NLT1-40-Freq-List",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550630"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.jpm.jp/wp-content/uploads/2026/11/051842.pdf",
+    "http://www.nta.co.jp/aft/70090244.asp",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/150_r7_03.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS70739/125a1f0c/2464/4463/a1b1/f8d186cf4bd5/20251029104621373s.pdf",
+    "https://www.kenchiku-bosai.or.jp/nwcon017/wp-content/uploads/2026/09/2025ver_qa_260915.pdf",
+    "https://release.nikkei.co.jp/attach_file/0508565_03.pdf",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "annual not half-year values plating heat treatment pressing Japan statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/janrosenow_a-data-centre-is-usually-treated-as-a-problem-activity-7469643837536190464-Bd9g",
+    "https://www.linkedin.com/in/ogo-egbuna-33316b4",
+    "https://www.linkedin.com/in/erin-mcdevitt-b716386",
+    "https://www.linkedin.com/safety/go?url=https%3A%2F%2Flnkd.in%2FgymYPJsm%3Ftrk%3Dfeed_main-feed-card-text",
+    "https://www.linkedin.com/in/julia-hoos-37028a45",
+    "https://www.linkedin.com/company/kaijipress",
+    "https://www.linkedin.com/company/thermo-fisher-scientific",
+    "https://www.linkedin.com/in/chris-huntington",
+    "https://www.linkedin.com/in/yuichiro-kakutani-b59a4a142",
+    "https://www.linkedin.com/in/jondmoody"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

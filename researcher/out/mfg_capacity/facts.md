@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・200品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・202品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -10376,6 +10376,81 @@
   - 「との製造コストの差や人手不足などから，1999 年頃から海外進出の検討が始まっ」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
   - 「国内ではめっき仕上げ・研磨の人手不足，業者の廃業」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
   - 「うになってから， 納期」（https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf）
+
+## 工業統計表 産業細分類 2691 金属用金型・同部分品・附属品製造業 事業所数・従業者数 年次（所管の表・e-Stat 政府統計コード00550010・大学や研究所の論文の写しを除く・4-94）（Census of Manufacture metal molds and dies industry 2691 establishments employees annual e-Stat table）
+- 文脈：統計・全国
+- 痛み・損（深さの印）：記載なし（読んだ47頁・検索18回）
+- 事業所数・社数：記載なし（読んだ47頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ47頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ47頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ47頁・検索18回）
+- 生産能力・設備：記載なし（読んだ47頁・検索18回）
+- 10年推移：記載なし（読んだ47頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ47頁・検索18回）
+
+## 受託の細分類（電気めっき・金属熱処理・金属プレス）の上期・四半期でなく暦年・年度の値（通年の値だけ・部分の期間を除く・4-94）（annual not half-year values plating heat treatment pressing Japan statistics）
+- 文脈：統計・全国
+- 痛み・損（深さの印）：
+  - 「害、労働争議による操業停止リスク等） 、２：海外での事業展開メリットが減退（人件費が上昇」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+- 社員数・平均社員数：
+  - 「は１,30４万人（１978年）→１,４79万人（１990年）の約１.１倍となっている」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「（2005 年＝100） （万人）」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「ては製造業で約２90万人、非製造業で約２２0万人」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「よっては製造業で約 １0万人、非製造業で約２１0万人の雇用を生み出している」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「84 具体的には、商業（卸売・小売業）で約70万人、その他の対事業所サービス（法務・財務・会計サービスや建物サービス等）で約」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「４0万人、道路輸送（除自家輸送）で約２0万人等となっている」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「製造業の大卒求人倍率は １.65倍となっており」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「87 文部科学省「学校基本調査」 （２0１２年）によると、全日制・定時制の高等学校で就職者は産業計で１7万6,873人であるが、うち製造業」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「は 7 万7 １４人となっている」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「ここでは製造業の他に高等学校卒業者が多く就職する産業として 3 つ、建設業（ １ 万3,805人） 、卸売業、」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「小売業（ １ 万8,603人） 、医療、福祉（１ 万5,9４6人）をあげている」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「90 株式会社リクルートワークス研究所「大卒求人倍率調査」における ２0１3年卒の者についての値」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「○ 製造業の大卒求人倍率は1.65倍であるが、大学進学率の上昇や大学卒業者の製造業就職比率の低下は、」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「資料出所 （独）労働政策研究・研修機構「構造変化の中での企業経営と人材のあり方に関する調査」（2013年２月）」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「害、労働争議による操業停止リスク等） 、２：海外での事業展開メリットが減退（人件費が上昇」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+- 受注金額・加工賃収入：
+  - 「盤技術の出荷額と従業員の推移を示したものであるが、１990年以降、国内市場の低迷により出荷額は」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「第2－ （4） －15図 基盤技術全体における出荷額と従業員数の推移」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「また、近年の家計所得は年間収入でみると１999年の約6４9万円から２009年の約553万円となるなど減」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「業を中心に年収２50万円未満の層で有業者が増加しており、また、 ２00２年から２007年においては、医」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「療、福祉等を中心に４00万円未満層で有業者が増加している」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「（10億円／万人・時間）」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+- 1人あたり・1社あたり金額：
+  - 「製造業の労働生産性（実質GDPを就業者数と労働時間の積で除したもの）が１980年代以降、上昇傾向にあることを分析している」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「また、近年の家計所得は年間収入でみると１999年の約6４9万円から２009年の約553万円となるなど減」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「業を中心に年収２50万円未満の層で有業者が増加しており、また、 ２00２年から２007年においては、医」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「療、福祉等を中心に４00万円未満層で有業者が増加している」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「が、この労働生産性の変化率は第２－ （４） －２3図のように、労働者 １ 人当たりの資本装」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「これを１980年からみると、TFP変化率・資本装備率はともに一貫して労働生産性上昇に大きく寄与」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「してきたことがわかるが、労働者の産業構成については、１980年代前半は労働生産性の上昇に寄与し」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「第２－ （４） －２４図は産業別の労働生産性」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「118 内閣府「平成２２年度年次経済財政報告」では、日米のマクロ統計を用いて名目賃金を失業率の逆数、予想物価変化率、労働生産性」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「また前掲第２－ （４） －２3図においては、確かに資本装備率は労働生産性の上昇に寄与してきたが、こ」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+- 生産能力・設備：
+  - 「第２－ （４） －１２図により今後の設備投資予定をみると、現在海外事業を展開中または今後の展開を予定」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「column/search_now/sn１１05１１では、円安情勢と北米景気によって、北米で得られた資金を国内の設備投資に充当したとしている」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「（設備投資のウェイトに関する考え方）１：どちらかと言えば国内にウェイトを置く」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「５：今後の設備投資方針は未定・分からない」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「第2－ （4） －12図 今後の設備投資についての考え」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「119 内閣府「平成２２年度年次経済財政報告」では、設備投資関数を推計し、実質金利や実質負債要因により設備投資が抑制されたと分」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+- 10年推移：
+  - 「●労働生産性の上昇もあり減少する製造業就業者数」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「第２－ （４） －１図によると、製造業の就業者は１990年代前半より減少傾向にあることがわかる」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「第２－ （２） －１0図でもみたが、これは生産工程・労務作業者の減少によるものが大きく、生産過程にお」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「この生産量に関して、同図により鉱工業生産の推移をあわせて見る」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「と、１990年代前半まで生産量と就業者数はともに増加傾向であったが、前者が後者の伸びを上回って」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「１990年代前半からの就業者数の減少傾向は、」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「このように、製造業の就業者数は減少しているが、製造業が日本経済における雇用に果たしている」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「これによると、１995年から２005年にかけて輸出が増加している中で、２005年には製造業の輸出によっ」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「製造業就業者数の減少は労働生産性の上昇によるものが大きいと考えられる」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「第2－ （4） －1図 鉱工業生産と製造業就業者数の推移」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「推移してきたことを考えれば、雇用に与える効果は大きいものであり、このことからも経済に与える」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「資料出所 総務省統計局「国勢調査（2010年）」より厚生労働省労働政策担当参事官室にて作成」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「こうした動きを確認するため、第２－ （４） －6図により貿易特化係数の推移をみると、 １980年代半ばか」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「○ 貿易特化係数の推移をみると、1980年代半ばから1990年代半ばにかけて消費財が低下している」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+  - 「第2－ （4） －6図 貿易特化係数の推移」（https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4_04.pdf）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
