@@ -8,7 +8,7 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-07T19:36:15.286624+00:00",
+ "researched_at": "2026-11-08T01:12:27.392908+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,14 +24,14 @@
     "method": "browser"
    },
    {
-    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93095/",
-    "status": "http_404",
-    "method": "http"
-   },
-   {
     "url": "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93337/",
+    "status": "http_404",
+    "method": "http"
    },
    {
     "url": "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
@@ -49,12 +49,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000802721.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "url": "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -74,22 +74,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000802721.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E8%B3%87%E6%96%99",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kyomunbert.com/%E4%B8%80%E6%AC%A1%E8%B3%87%E6%96%99%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "url": "https://www.yoshika-medialink.site/fact-checking-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.yoshika-medialink.site/fact-checking-guide/",
+    "url": "https://kyomunbert.com/%E4%B8%80%E6%AC%A1%E8%B3%87%E6%96%99%E3%81%A8%E3%81%AF%EF%BC%9F/",
     "status": "ok",
     "method": "http"
    },
@@ -119,14 +114,14 @@
     "method": "http"
    },
    {
-    "url": "https://hedgebook.com/interest-rate-swap-tutorial/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.cftc.gov/sites/default/files/2024-04/Banks_and_Derivatives%20(11)%20-%20ada.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://derivativelogic.com/dl-report-category/interest-rate-swaps-10-myths-and-misconceptions",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.blueandco.com/interest-rate-swaps/",
@@ -141,17 +136,17 @@
    "results": [
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
     "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
     "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
     "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
     "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
     "https://www.soumu.go.jp/main_content/000802721.pdf",
     "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://note.com/alert_rose9948/n/n5ffc58320c45"
+    "https://note.com/reading_monkey/n/nc163a82be160"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -161,17 +156,17 @@
    "results": [
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
+    "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
     "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
     "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
     "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
-    "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
+    "https://www.soumu.go.jp/main_content/000802721.pdf",
     "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
     "https://factcheckpro.jp/lab/primary-source-guide/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -181,8 +176,8 @@
    "results": [
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
     "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
     "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
     "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
     "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
@@ -191,7 +186,7 @@
     "https://ja.wikipedia.org/wiki/一次資料"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -201,8 +196,8 @@
    "results": [
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
     "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
     "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
     "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
     "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
@@ -222,16 +217,16 @@
     "https://apers.app/learn/financial-modeling/debt-analysis/interest-rate-risk-caps-swaps-hedging",
     "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/derivatives_and_hedg/derivatives_and_hedg_US/chapter_11_private_c_US/112_simplified_hedge_US.html",
     "https://www.fasb.org/page/PageContent?pageId=/Archive/superseded-standards/derivatives-statement-implementation/fasb-cash-flow-hedges-measuring-the-ineffectiveness-of-a-cashflow-hedge-under-paragraph-30b-when-the-shortcut-method-is-notapplied.html&isStaticPage=true",
-    "https://hedgebook.com/interest-rate-swap-tutorial/",
     "https://www.cftc.gov/sites/default/files/2024-04/Banks_and_Derivatives%20(11)%20-%20ada.pdf",
+    "https://derivativelogic.com/dl-report-category/interest-rate-swaps-10-myths-and-misconceptions",
     "https://www.blueandco.com/interest-rate-swaps/",
-    "http://www.berrydunn.com/uploads/1548/doc/Simplified_Hedging_-_Harding,_Henley.pdf",
-    "https://www.ballardspahr.com/insights/alerts-and-articles/2023/06/term-sofr-hedges-the-price-of-perfection",
+    "https://www.bnncpa.com/resources/interest-rate-swaps/",
     "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1590.pdf",
-    "https://pomegra.io/learn/library/track-a-foundations/financial-news-literacy/chapter-02-anatomy-of-a-financial-article/hedge-words-news"
+    "https://www.ballardspahr.com/insights/alerts-and-articles/2023/06/term-sofr-hedges-the-price-of-perfection",
+    "https://bestwriting.com/fact-checking"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -251,7 +246,7 @@
     "https://note.com/satoruhiguchi/n/n760a1aa6b8c8"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -262,10 +257,10 @@
     "https://x.com/K_Ichida/status/2088098786593648867",
     "https://x.com/streetking5913/status/2071872851817468111",
     "https://x.com/spring_online1/status/2117753713712566384",
-    "https://x.com/yasu25983362/status/2098461732113174899",
     "https://x.com/KNHjyohokyoku/status/2054412554328572098",
+    "https://x.com/yasu25983362/status/2098461732113174899",
     "https://x.com/takesiyama/status/2114573549671432630",
-    "https://x.com/KBYMScotland/status/2037851929259176082"
+    "https://x.com/qTGPwFcWo791518/status/2104777529429221435"
    ],
    "engines": [
     "ddgs:google"
@@ -285,7 +280,7 @@
     "https://jp.linkedin.com/posts/bespoke-english_英語の語彙が半分になると-消えるのは言葉だけではありません-まずニュアンスが-activity-7518502683574489088-3cLX"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -295,13 +290,13 @@
    "results": [
     "https://www.facebook.com/kidera.yoshi/",
     "https://www.facebook.com/VUC2021/",
-    "https://www.facebook.com/100060979781975/posts/反戦コンサート関係者-一次資料を元に話し合いましょう一次資料は差別発言でした差別反対声明も出されましたあれ読みましたよひどいですねえ差別否定派-いいえあなたが読/1438879994821313/",
-    "https://www.facebook.com/tokyokokko/photos/増え続ける大企業の内部留保-落ち込む賃金と消費支出4668兆円に膨れ上がった大企業の内部留保に適正な課税を日本共産党も２４日提言を発表東京国公の長年の主張と重な/1243849696399600/",
+    "https://www.facebook.com/takumi.nagai.50/videos/南魚沼市議会議員の定数にいて調査をする特別委員会が22名の現状維持という結果をだしました委員会内では私たちの会派-未来創生会永井大平剛議員中澤一博議員と歩む会鈴/559176123593160/",
+    "https://www.facebook.com/groups/281769248591787/posts/9323570827744872/",
     "https://www.facebook.com/nikkan.gendai/photos/政治高市自民が内部留保200億円で仕掛けたsns金満選挙-超短期決戦でメッセージ動画再生回数1億5000万超の異常-httpswwwnikkan-gendaic/1490300979762528/",
-    "https://www.facebook.com/kohzoh.takaoka/posts/日本企業の経営者に物申したいのは内部留保を取り崩してでも従業員の給与を上げろということ内部留保が悪いとは言わないが内部留保を国家gdp並みまで貯め込みながらデジ/8315882721767986/",
-    "https://www.facebook.com/tian.cun.koutarou/posts/ついに日本企業の莫大な内部留保が動き始めたインフレ円安の中でほぼキャッシュ状態の円資産を保有し続けたことのコスト増大についに痺れをきらした日本の大企業はその巨大/10229542155530413/",
+    "https://www.facebook.com/100060979781975/posts/反戦コンサート関係者-一次資料を元に話し合いましょう一次資料は差別発言でした差別反対声明も出されましたあれ読みましたよひどいですねえ差別否定派-いいえあなたが読/1438879994821313/",
     "https://www.facebook.com/reel/1253222673181191/",
-    "https://www.facebook.com/groups/1378270818932953/posts/27178819295118085/"
+    "https://www.facebook.com/tokyokokko/photos/増え続ける大企業の内部留保-落ち込む賃金と消費支出4668兆円に膨れ上がった大企業の内部留保に適正な課税を日本共産党も２４日提言を発表東京国公の長年の主張と重な/1243849696399600/",
+    "https://www.facebook.com/kohzoh.takaoka/posts/日本企業の経営者に物申したいのは内部留保を取り崩してでも従業員の給与を上げろということ内部留保が悪いとは言わないが内部留保を国家gdp並みまで貯め込みながらデジ/8315882721767986/"
    ],
    "engines": [
     "ddgs:google",
@@ -314,17 +309,17 @@
    "results": [
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
     "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
     "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
     "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
     "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
     "https://www.soumu.go.jp/main_content/000802721.pdf",
     "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://ja.wikipedia.org/wiki/一次資料"
+    "https://factcheckpro.jp/lab/primary-source-guide/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -334,48 +329,46 @@
    "results": [
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
     "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
     "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
     "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
     "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
     "https://www.soumu.go.jp/main_content/000802721.pdf",
-    "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://factcheckpro.jp/lab/primary-source-guide/"
+    "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap site:linkedin.com",
    "results": [
     "https://in.linkedin.com/in/shital-rede-82b01a380",
-    "https://www.linkedin.com/posts/kashmala-malik_why-ai-skips-your-page-even-when-its-accurate-activity-7505834623558496256-3Flx",
-    "https://pe.linkedin.com/pulse/hedge-words-weaken-statements-indicating-lack-confidence-jeff-march-8q3pc",
     "https://www.linkedin.com/posts/dr-andree-bates_pharmaai-lifesciences-aigovernance-activity-7502772714135470080-kpwp",
-    "https://www.linkedin.com/posts/patrick-chessa_ai-prompts-chatgpt-activity-7432495353305862145-rPEm",
+    "https://www.linkedin.com/posts/newyorktitleinsurance_mortgage-hedge-homebuyer-activity-7155878285493637120-bpS1",
+    "https://pe.linkedin.com/pulse/hedge-words-weaken-statements-indicating-lack-confidence-jeff-march-8q3pc",
+    "https://www.linkedin.com/posts/kashmala-malik_why-ai-skips-your-page-even-when-its-accurate-activity-7505834623558496256-3Flx",
     "https://www.linkedin.com/top-content/writing/editing-and-proofreading-skills/fact-checking-procedures/",
-    "https://www.linkedin.com/pulse/thirteen-ai-output-failures-only-human-judgement-catches-bates-p8kue",
-    "https://www.linkedin.com/pulse/ai-report-read-perfectly-wrong-five-times-william-bentley-j8ahc"
+    "https://www.linkedin.com/pulse/weekly-vs-monthly-quarterly-yearly-growth-which-oghenechovwen--o0wrf",
+    "https://www.linkedin.com/posts/woozle-research_most-expert-calls-fail-before-they-start-activity-7417854169610530817-3VWU"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 8
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ24頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ24頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）",
-  "実例": "記載なし（読んだ24頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ23頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ23頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ23頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）",
+  "実例": "記載なし（読んだ23頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-06T10:14:27.555637+00:00"
 }

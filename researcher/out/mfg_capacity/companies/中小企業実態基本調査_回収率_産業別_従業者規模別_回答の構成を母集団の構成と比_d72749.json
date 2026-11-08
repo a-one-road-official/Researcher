@@ -1,0 +1,648 @@
+{
+ "name": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93）",
+ "en": "Basic Survey of Small and Medium Enterprises response rate by industry and size Japan",
+ "aliases": [
+  "中小企業実態基本調査 回収率 産業別 site:chusho.meti.go.jp",
+  "中小企業実態基本調査 利用上の注意 推計方法 復元倍率",
+  "Basic Survey SMEs Japan response rate by industry"
+ ],
+ "context": "統計・方法",
+ "kind": "market",
+ "researched_at": "2026-11-08T01:10:12.731197+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "Preliminary Report of the 2023 Basic Survey on Small and Medium Enterprises (Performance Results Based on the FY2022 Closing Accounts) Compiled/METI Ministry of Economy, Trade and Industry",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "pass": 3
+   },
+   {
+    "quote": "March 2024",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "pass": 3
+   },
+   {
+    "quote": "Preliminary Report of the 2023 Basic Survey on Small and Medium Enterprises (Performance Results Based on the FY2022 Closing Accounts) Compiled",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mar 29, 2024",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Small and Medium Enterprise Agency (SMEA) has been conducting the Basic Survey on Small and Medium Enterprises every year as a cross-industry survey in order to ascertain the financial and operational situation of SMEs. SMEA hereby announces that it has compiled a preliminary report on the results of the 2023 survey (performance results are based on the FY2022 closing accounts).",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMEA has been conducting the Basic Survey on Small and Medium Enterprises every year as a cross-industry survey in order to ascertain the financial and operational situation of SMEs. The 2023 survey was the 20th annual survey.",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "pass": 3
+   },
+   {
+    "quote": "For details of the 2023 survey results, see the Appendix.",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "pass": 3
+   },
+   {
+    "quote": "Appendix: Overview of Preliminary Report of the 2023 Basic Survey on Small and Medium Enterprises (Performance Results Based on the FY2022 Closing Accounts)(PDF:417KB)",
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/2026chousa_jishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180374/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://officenomikata.jp/coverage/16188/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/97662/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/policy/chusho/link/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001019842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamada-partners.jp/tax-topics/r040411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000593801.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000359.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/files/900013016.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2022FY/000414.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamada-partners.jp/tax-topics/r060415",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00553010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/h20sokuhou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&kikan=00553&toukei=00553010&tstat=000001019842&tclass1=000001124875&tclass2val=0&statdisp_id=0003321340",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00553010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikedabc.jp/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E7%B5%8C%E5%96%B6%E6%8C%87%E6%A8%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180875/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamada-partners.jp/tax-topics/r070414",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/tk/long_syu/tkyoko.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13372/smes-in-japan/?srsltid=AYCX9vLqcZzoaZjPXl5we-N4fzzvF727g0yKmF8rDiniVWib3VfGl0pP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cipe.org/resources/economic-security-survey-of-japanese-small-and-medium-sized-enterprises/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/en/publications/summary/24120009.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emerald.com/jabs/article/20/2/486/1251531/A-systematic-literature-review-of-Japanese-SMEs",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/2026chousa_jishi.html",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://www.smrj.go.jp/research_case/questionnaire/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://www.psrn.jp/topics/detail.php?id=42691",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://ab.jcci.or.jp/article/97662/",
+    "https://www.fsa.go.jp/policy/chusho/link/04.html",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93）",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.yamada-partners.jp/tax-topics/r040411",
+    "https://www.soumu.go.jp/main_content/000593801.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00553010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000414.pdf",
+    "https://www.yamada-partners.jp/tax-topics/r060415",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001019842"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://www.soumu.go.jp/main_content/000593801.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/h20sokuhou/",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000359.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&kikan=00553&toukei=00553010&tstat=000001019842&tclass1=000001124875&tclass2val=0&statdisp_id=0003321340",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/h20sokuhou/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180875/",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.yamada-partners.jp/tax-topics/r070414",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001019842"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Basic Survey of Small and Medium Enterprises response rate by industry and size Japan Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/tk/long_syu/tkyoko.htm",
+    "https://www.meti.go.jp/english/press/2024/0329_001.html",
+    "https://www.statista.com/topics/13372/smes-in-japan/?srsltid=AYCX9vLqcZzoaZjPXl5we-N4fzzvF727g0yKmF8rDiniVWib3VfGl0pP",
+    "https://www.cipe.org/resources/economic-security-survey-of-japanese-small-and-medium-sized-enterprises/",
+    "https://www.rieti.go.jp/en/publications/summary/24120009.html",
+    "https://www.emerald.com/jabs/article/20/2/486/1251531/A-systematic-literature-review-of-Japanese-SMEs",
+    "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "https://www.researchgate.net/publication/399838539_Strategic_insights_into_the_challenges_facing_Japan's_small_and_medium-sized_enterprises",
+    "https://www.jfc.go.jp/n/english/institute/survey.html",
+    "https://www.meti.go.jp/english/data_report/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93）",
+   "results": [
+    "https://note.com/sion_remake0415/n/ne43522d84ca6",
+    "https://note.com/yajirushi_works/n/n8a5d075da360",
+    "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
+    "https://note.com/masayuki_arai/n/n731a884f400f",
+    "https://note.com/onamae_business/n/n08ee5995ec19",
+    "https://note.com/seikahaibun/n/n40f1e0202b4a",
+    "https://note.com/smallbiz_startup/n/nee38985c188d",
+    "https://note.com/machi_hito1507/n/ne83b8f7c7ceb",
+    "https://note.com/just_mimosa8316/n/nbbe4a4b235f5",
+    "https://note.com/yajirushi_works/n/n93360ad7b5b2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93）",
+   "results": [
+    "https://x.com/kemtch",
+    "https://x.com/GAMBEJP/status/2116552887652532253",
+    "https://x.com/iryokaigodb",
+    "https://x.com/luigi_jpn/article/2095766103033282864",
+    "https://x.com/i/article/2108747200486674533",
+    "https://x.com/j_irouren",
+    "https://x.com/luigi_jpn/article/2092385763262660913",
+    "https://x.com/luigi_jpn/article/2066658370912915520",
+    "https://x.com/TKG_CraftBank",
+    "https://x.com/SkillupAi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93）",
+   "results": [
+    "https://www.linkedin.com/posts/takatsugu-suzuki-87b99b40_%E6%97%A5%E6%9C%AC-%E5%9C%A8%E7%95%99%E5%A4%96%E5%9B%BD%E4%BA%BA-%E5%8A%B4%E5%83%8D%E5%8A%9B%E4%B8%8D%E8%B6%B3-activity-7519661667148967936-glEI",
+    "https://jp.linkedin.com/company/sparticle-inc",
+    "https://www.linkedin.com/pulse/%E6%8E%A1%E7%94%A8%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3%E3%81%AE%E4%BB%8A%E3%81%93%E3%81%9D%E7%AC%AC%E4%B8%80%E5%BF%97%E6%9C%9B%E3%81%A7%E5%BF%9C%E5%8B%9F%E3%81%95%E3%82%8C%E3%82%8B%E6%8E%A1%E7%94%A8%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%8B%E3%81%9F-%E5%B4%87-%E5%A0%80%E5%86%85-bo2rc",
+    "https://jp.linkedin.com/in/hiranumaconsulting",
+    "https://jp.linkedin.com/in/jundai-tanada-66a723b2",
+    "https://jp.linkedin.com/in/%E5%8F%8B%E6%A8%B9-%E7%B4%B0%E6%B1%9F-62a52a3b9",
+    "https://jp.linkedin.com/in/seokyung-kang-191b332aa",
+    "https://jp.linkedin.com/in/yusuke-iguchi-43ba8b201",
+    "https://jp.linkedin.com/in/kazusa-nishioka-05601039",
+    "https://jp.linkedin.com/in/satoshikimura"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93）",
+   "results": [
+    "https://www.facebook.com/groups/627324771859424/posts/1787254875866402/",
+    "https://www.facebook.com/groups/627324771859424/posts/1538964444028781/",
+    "https://www.facebook.com/groups/627324771859424/posts/1542210037037555/",
+    "https://www.facebook.com/groups/627324771859424/posts/1657072045551353/",
+    "https://www.facebook.com/groups/627324771859424/posts/1781718409753382/",
+    "https://www.facebook.com/100064864117467/posts/%E7%B5%84%E5%90%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-2026%E5%B9%B410%E6%9C%8826%E6%97%A5%E5%85%A8%E5%9B%BD%E4%B8%80%E8%88%AC%E5%8A%B4%E5%83%8D%E7%B5%84%E5%90%88%E7%A6%8F%E5%B2%A1%E5%9C%B0%E6%96%B9%E6%9C%AC%E9%83%A8%E9%81%8B%E8%BB%A2%E8%80%85%E3%81%AE%E8%B3%83%E4%B8%8A%E3%81%92%E3%81%A8%E5%AE%89%E5%85%A8%E3%81%AA%E5%9C%B0%E5%9F%9F%E4%BA%A4%E9%80%9A%E3%81%AE%E7%A2%BA%E4%BF%9D%E3%82%92%E4%B9%9D%E5%B7%9E%E4%BA%A4%E9%81%8B%E5%8A%B4%E5%8D%94%E3%83%8F%E3%82%A4%E3%82%BF%E3%82%AF%E9%83%A8%E4%BC%9A%E4%B9%9D%E5%B7%9E%E9%81%8B%E8%BC%B8%E5%B1%80%E3%81%A8%E3%81%AE%E6%94%BF%E7%AD%96%E5%88%B6%E5%BA%A6%E8%A6%81%E6%B1%82%E4%BA%A4%E6%B8%89%E4%B9%9D%E5%B7%9E/1575606571278132/",
+    "https://www.facebook.com/zentekkin/posts/%E6%8A%80%E8%83%BD%E8%80%85%E3%81%AE%E9%9B%87%E7%94%A8%E6%94%B9%E5%96%84%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E4%BC%81%E6%A5%AD%E3%81%B8%E3%81%AE%E5%8F%97%E6%B3%A8%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%96%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%A0-%E5%BB%BA%E8%A8%AD%E9%80%9A%E4%BF%A1%E6%96%B0%E8%81%9E-%E8%87%AA%E4%B8%BB%E5%AE%A3%E8%A8%80%E4%BC%81%E6%A5%AD-371%E7%A4%BE%E3%81%AB%E6%9C%88%E7%B5%A6%E5%88%B6%E9%80%B1%E4%BC%912%E6%97%A5%E3%81%AA%E3%81%A9%E8%A1%A8%E6%98%8E%E5%9B%BD%E4%BA%A4%E7%9C%81-%E6%8A%80%E8%83%BD%E8%80%85%E3%81%AE%E5%87%A6%E9%81%87%E6%94%B9%E5%96%84%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E5%9B%BD%E5%9C%9F%E4%BA%A4/1224133173147557/",
+    "https://www.facebook.com/groups/627324771859424/posts/1543242733600952/",
+    "https://www.facebook.com/100076790372211/posts/%E6%97%A5%E6%9C%AC%E3%81%AF%E9%81%A9%E6%AD%A3%E3%81%AA%E4%BE%A1%E6%A0%BC%E8%BB%A2%E5%AB%81%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E5%95%86%E7%BF%92%E6%85%A3%E6%94%B9%E5%96%84%E3%81%8C%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B-%E5%BB%BA%E8%A8%AD%E9%80%9A%E4%BF%A1%E6%96%B0%E8%81%9E-%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E8%80%85%E3%82%92%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E5%95%86%E6%85%A3%E7%BF%92%E6%94%B9%E5%96%84%E3%81%B8%E9%81%94%E6%88%90%E7%9B%AE%E6%A8%99%E5%85%AC%E5%8F%96%E5%A7%94%E4%B8%AD%E4%BC%81%E5%BA%81-%E5%85%AC%E6%AD%A3%E5%8F%96%E5%BC%95%E5%A7%94%E5%93%A1%E4%BC%9A%E3%81%A8%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BA%81%E3%81%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC/1156425966927072/",
+    "https://www.facebook.com/groups/627324771859424/posts/1144207653504464/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://keiridriven.mjs.co.jp/180875/",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://www.yamada-partners.jp/tax-topics/r040411",
+    "https://note.com/kens_reading1/n/n213b18c76ea1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "https://www.yamada-partners.jp/tax-topics/r040411",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001019842"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Basic Survey of Small and Medium Enterprises response rate by industry and size Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/future-growth-revenue-analysis-japan-pricing-software-c4wce",
+    "https://uk.linkedin.com/showcase/enterprise-works-at-the-university-of-york/",
+    "https://www.linkedin.com/pulse/japan-ai-sales-assistant-industry-analysis-report-market-size-mg2ee",
+    "https://www.linkedin.com/pulse/japan-complaint-management-software-market-forecast-20242028-6ieff",
+    "https://www.linkedin.com/pulse/navigating-japan-ar-content-management-systems-market-size-using-moo8e",
+    "https://jp.linkedin.com/in/aya-saito-545138121/en",
+    "https://jp.linkedin.com/company/yano-research-institute-ltd-",
+    "https://uk.linkedin.com/in/professor-sue-smith-a5974a4",
+    "https://www.linkedin.com/pulse/competitive-analysis-retail-banking-software-market-bzpce",
+    "https://in.linkedin.com/in/vijaykumar-nandani-6463b9121"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ44頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ44頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ44頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ44頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ44頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ44頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ44頁・検索18回）"
+ }
+}

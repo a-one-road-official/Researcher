@@ -8,186 +8,230 @@
  ],
  "context": "手法・偏り",
  "kind": "market",
- "researched_at": "2026-11-07T18:58:07.025760+00:00",
+ "researched_at": "2026-11-08T01:10:08.720712+00:00",
  "evidence": {
-  "突き合わせ・推定": [
+  "一次情報の探し方": [
    {
-    "quote": "The Census Bureau produces two separate sets of ABS estimates: firm and owner characteristics",
+    "quote": "surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "demographic characteristics estimates are referenced as Demographic Characteristics for Businesses",
+    "quote": "act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "(DCB), and the economic characteristics estimates are referenced as Research and Development,",
+    "quote": "standards-apr2022.pdf. Accessed 17 Sept. 2024.",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Published DCB estimates can be found at ABS Company Summary, and RDIT published estimates can be",
+    "quote": "Pietsch, L. (1995), “Profiling large business to define frame units,” Chapter 6 in Business Survey",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://nces.ed.gov/FCSM/pdf/2009WorkshopProgram.pdf.",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "gov/indicator/qss/qsstecdoc.pdf.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Dhanapati Khatiwoda, Sandra Peterson, and Stephen Hardy",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the",
+    "quote": "Cross Sector Surveys Statistical Methods Branch (CSSSMB)",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "estimates, if the characteristics being measured for nonresponding units differ from the characteristics",
+    "quote": "Economic Statistical Methods Division (ESMD)",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "The analysis for this section involves unweighted estimates because the goal is to determine differences",
+    "quote": "about the survey, look at the survey methodology report available at ABS Methodology.",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "sections, we will consider weighted estimates when investigating if non-response bias is impacting our",
+    "quote": "requirement to report. The survey letter included instructions on how to access the survey and submit",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "American Community Survey Estimates, these five states are also the only states where less than 40",
+    "quote": "the methodology report is about 69%. This falls below the Census Bureau quality standards available at",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ownership are AZ, CA, FL, NM, NV, and TX, and the 2022 American Community Survey Estimates show",
+    "quote": "The estimated variance of the weighted unit response rate uses a delete-a-group jackknife method with",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "2022 American Community Survey Estimates. The states with at least 50% minority population",
+    "quote": "using delete-a-group jackknife method as mentioned in section 2.2 above.",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.",
+    "quote": "Bureau, US Census. “Annual Business Survey Methodology.” Census.Gov, 24 Oct. 2023, ABS",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "All RDIT analysis is limited to only firms that were eligible for RDIT estimates, which excludes the",
+    "quote": "surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "estimates, and, conversely, some firms within R&D industries may not see the R&D section because they",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "$50,000. Not all firms that report R&D expenses are tabulated in final R&D estimates because analyst",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "nonresponse for survey estimates, measurement and reporting of nonresponse rates, data collection",
+    "quote": "Most recently, the Federal Committee on Statistical Methodology (FCSM) organized a",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "improve the quality of survey estimates. Selected special studies conducted by Federal statistical",
+    "quote": "rates - a section that presents response rates of select establishment surveys, (6) methods and",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "tracked by Federal statistical agencies. They are used to evaluate the quality of estimates and to see",
+    "quote": "Survey methods research and survey data quality evaluations have routinely examined the",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "deadline for publishing preliminary and revised estimates.",
+    "quote": "Groves (1989), and Groves and Couper (1998). A variety of mathematical statistical methods have",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "estimated population total which is contributed by respondents. In cases where a small number of",
+    "quote": "methods for nonresponse reduction, nonresponse adjustment methods, along with a variety of",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "response rate is probably a better indicator of the quality of the estimate.",
+    "quote": "reference books on survey methods focus their discussions of nonresponse exclusively on household",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "totals being estimated by the surveys.",
+    "quote": "surveys. See for example, Telephone Survey Methodology (Groves, et. al., 1988), Survey Errors",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "most likely with large establishments whose cooperation is vital to the survey estimate.)",
+    "quote": "Nonsampling Errors in Surveys (Lessler and Kalsbeek, 1992), Survey Research Methods (Fowler,",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "estimates are adjusted to known control totals that are statistically more reliable. These totals could",
+    "quote": "framework for the definition of response and nonresponse that is suitable for both business and",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "for every i . This will control the survey estimates for",
+    "quote": "survey methods in a household survey context. In a study of North Carolina businesses, they found",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "survey estimates for race, but the grade marginals will now be incorrect. By repeating this process,",
+    "quote": "adaptation of household survey methods to establishment surveys. Jobber (1986) looked at surveys",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Imputation is the substitution of estimated values for missing or inconsistent data items or",
+    "quote": "Design Method (Dillman, 1978) to increase response to an establishment mail survey. They",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "thus attributing greater precision to the survey estimates than is warranted (see Kalton and",
+    "quote": "Alternatively, another body of literature examines the use of data collection methods that",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "and size (estimated number of employees). Larger manufacturing establishments experienced a",
+    "quote": "Clayton (1995) discuss the use of automated data collection methods in the Current Employment",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "provide an estimate of hours paid and hours worked; the other half required additional telephone",
+    "quote": "In addition to changes in data collection procedures, alternative statistical methods have",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Federal Committee on Statistical Methodology",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "THE FEDERAL COMMITTEE ON STATISTICAL METHODOLOGY",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "increased activities involving NRB analyses; however, it is unclear what methods have been used",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "summarize the characteristics of the surveys examined, the NRB analysis methods used, and the",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Methods: NRB reports involving federal surveys were identified via searches on PubMed,",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -198,19 +242,49 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "2006 guidance. Comparisons of survey estimates to external data was the most commonly used",
+    "quote": "whether post-survey adjustments reduced bias. The reported NRB methods were grouped into",
     "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "(NRB), and the levels of NRB can differ for different estimates in the same survey.",
+    "quote": "NRB assessment method for establishment surveys (89.9%); whereas, studying variations within",
     "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "estimates if survey response rates dropped below 80% (Office of Management Budget 2006).",
+    "quote": "the respondent set was the mostly commonly used method in household surveys (65.8%). A",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Conclusions: The types of NRB assessment methods used differed by survey type and mode of",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "with the threats posed by nonresponse bias and potential methods for detecting and reducing",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "establishment surveys (Federal Committee on Statistical Methodology 2009).",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "examined, the NRB analysis methods used, and the assessment of NRB for each. This",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and additional nonresponse bias studies were collected through a variety of methods. An online",
     "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -222,151 +296,91 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "adjustments appeared to reduce bias in final estimates.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "characteristics), survey estimates (e.g., prevalence of health outcomes, proportion of U.S. adults",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates (n=69).",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "more likely to examine bias in both sample characteristics and survey estimates (68.4%);",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survey Estimates Sample Composition Both Survey Estimates and",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "studies examining bias in both sample characteristics and survey estimates grew over time. These",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survey Estimates Sample Composition Both",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and survey estimates in NRB analyses.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "namely: comparison to other, authoritative survey estimates (benchmarking); assessing survey",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates based on external information (e.g., information on the sampling frame); studying",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "key estimate reported by responding units or obtained from equivalent quality sources",
+    "quote": "implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "key estimates reported by responding units or obtained from equivalent quality sources",
+    "quote": "(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
+    "quote": "1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "53 percent of the total estimate (value). The remaining four units, which are selected with",
+    "quote": "methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "certainty, account for 47 percent of the total estimate.",
+    "quote": "rates within the statistical process control framework. Current procedures typically",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "payroll, capital expenditures) to account for the unit’s relative importance in the estimates",
+    "quote": "adequate framework for analyzing the response process. Instead, we propose using control",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all key",
+    "quote": "Directorate, which motivates the proposed control chart framework also introduced in",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "expected to contribute substantially to the estimate, followed by intensive analyst research",
+    "quote": "StEPS database. The retrospective analysis examples provided in Section 5.1 are presented",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": ". Ry is the weighted estimate obtained by summing reported data for item y in the",
+    "quote": "retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": ". Ay is the weighted estimate obtained by summing equivalent source data (auxiliary",
+    "quote": "computed using the delete-a-group jackknife method. The ACES uses weight adjustment",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": ". Y is the estimated (weighted) total of the item in the statistical period. It includes all",
+    "quote": "More details concerning the ACES survey design, methodology, and data limitations are",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "data used to develop the publication estimate, including imputed data and",
+    "quote": "receipts for selected service sectors. Standard errors are computed using the method of",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "measures at that point in time of the proportion of the estimate that was not imputed. In this",
+    "quote": "than-expected value. Thus, a logical next step is to compute response rates by selected",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ratio of correlated random variables and that the point estimates in the time series are not",
+    "quote": "Assembling S is more involved. For example, programs can use replication methods or",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "and covariance estimates used in analysis must account for the complex survey design, if",
+    "quote": "Taylor linearization methods to obtain point estimates of the variance and autocovariance",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -922,228 +936,184 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "突き合わせ・推定": [
    {
-    "quote": "surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.",
+    "quote": "The Census Bureau produces two separate sets of ABS estimates: firm and owner characteristics",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed",
+    "quote": "demographic characteristics estimates are referenced as Demographic Characteristics for Businesses",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "standards-apr2022.pdf. Accessed 17 Sept. 2024.",
+    "quote": "(DCB), and the economic characteristics estimates are referenced as Research and Development,",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Pietsch, L. (1995), “Profiling large business to define frame units,” Chapter 6 in Business Survey",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://nces.ed.gov/FCSM/pdf/2009WorkshopProgram.pdf.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "gov/indicator/qss/qsstecdoc.pdf.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Dhanapati Khatiwoda, Sandra Peterson, and Stephen Hardy",
+    "quote": "Published DCB estimates can be found at ABS Company Summary, and RDIT published estimates can be",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Cross Sector Surveys Statistical Methods Branch (CSSSMB)",
+    "quote": "estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Economic Statistical Methods Division (ESMD)",
+    "quote": "estimates, if the characteristics being measured for nonresponding units differ from the characteristics",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "about the survey, look at the survey methodology report available at ABS Methodology.",
+    "quote": "The analysis for this section involves unweighted estimates because the goal is to determine differences",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "requirement to report. The survey letter included instructions on how to access the survey and submit",
+    "quote": "sections, we will consider weighted estimates when investigating if non-response bias is impacting our",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "the methodology report is about 69%. This falls below the Census Bureau quality standards available at",
+    "quote": "American Community Survey Estimates, these five states are also the only states where less than 40",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "The estimated variance of the weighted unit response rate uses a delete-a-group jackknife method with",
+    "quote": "ownership are AZ, CA, FL, NM, NV, and TX, and the 2022 American Community Survey Estimates show",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "using delete-a-group jackknife method as mentioned in section 2.2 above.",
+    "quote": "2022 American Community Survey Estimates. The states with at least 50% minority population",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Bureau, US Census. “Annual Business Survey Methodology.” Census.Gov, 24 Oct. 2023, ABS",
+    "quote": "predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.",
+    "quote": "All RDIT analysis is limited to only firms that were eligible for RDIT estimates, which excludes the",
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Most recently, the Federal Committee on Statistical Methodology (FCSM) organized a",
+    "quote": "estimates, and, conversely, some firms within R&D industries may not see the R&D section because they",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "$50,000. Not all firms that report R&D expenses are tabulated in final R&D estimates because analyst",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "nonresponse for survey estimates, measurement and reporting of nonresponse rates, data collection",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "rates - a section that presents response rates of select establishment surveys, (6) methods and",
+    "quote": "improve the quality of survey estimates. Selected special studies conducted by Federal statistical",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Survey methods research and survey data quality evaluations have routinely examined the",
+    "quote": "tracked by Federal statistical agencies. They are used to evaluate the quality of estimates and to see",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Groves (1989), and Groves and Couper (1998). A variety of mathematical statistical methods have",
+    "quote": "deadline for publishing preliminary and revised estimates.",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "methods for nonresponse reduction, nonresponse adjustment methods, along with a variety of",
+    "quote": "estimated population total which is contributed by respondents. In cases where a small number of",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "reference books on survey methods focus their discussions of nonresponse exclusively on household",
+    "quote": "response rate is probably a better indicator of the quality of the estimate.",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "surveys. See for example, Telephone Survey Methodology (Groves, et. al., 1988), Survey Errors",
+    "quote": "totals being estimated by the surveys.",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Nonsampling Errors in Surveys (Lessler and Kalsbeek, 1992), Survey Research Methods (Fowler,",
+    "quote": "most likely with large establishments whose cooperation is vital to the survey estimate.)",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "framework for the definition of response and nonresponse that is suitable for both business and",
+    "quote": "estimates are adjusted to known control totals that are statistically more reliable. These totals could",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "survey methods in a household survey context. In a study of North Carolina businesses, they found",
+    "quote": "for every i . This will control the survey estimates for",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "adaptation of household survey methods to establishment surveys. Jobber (1986) looked at surveys",
+    "quote": "survey estimates for race, but the grade marginals will now be incorrect. By repeating this process,",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Design Method (Dillman, 1978) to increase response to an establishment mail survey. They",
+    "quote": "Imputation is the substitution of estimated values for missing or inconsistent data items or",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Alternatively, another body of literature examines the use of data collection methods that",
+    "quote": "thus attributing greater precision to the survey estimates than is warranted (see Kalton and",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Clayton (1995) discuss the use of automated data collection methods in the Current Employment",
+    "quote": "and size (estimated number of employees). Larger manufacturing establishments experienced a",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "In addition to changes in data collection procedures, alternative statistical methods have",
+    "quote": "provide an estimate of hours paid and hours worked; the other half required additional telephone",
     "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Federal Committee on Statistical Methodology",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "THE FEDERAL COMMITTEE ON STATISTICAL METHODOLOGY",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "increased activities involving NRB analyses; however, it is unclear what methods have been used",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "summarize the characteristics of the surveys examined, the NRB analysis methods used, and the",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Methods: NRB reports involving federal surveys were identified via searches on PubMed,",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -1154,49 +1124,19 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "whether post-survey adjustments reduced bias. The reported NRB methods were grouped into",
+    "quote": "2006 guidance. Comparisons of survey estimates to external data was the most commonly used",
     "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "NRB assessment method for establishment surveys (89.9%); whereas, studying variations within",
+    "quote": "(NRB), and the levels of NRB can differ for different estimates in the same survey.",
     "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "the respondent set was the mostly commonly used method in household surveys (65.8%). A",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conclusions: The types of NRB assessment methods used differed by survey type and mode of",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "with the threats posed by nonresponse bias and potential methods for detecting and reducing",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "establishment surveys (Federal Committee on Statistical Methodology 2009).",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "examined, the NRB analysis methods used, and the assessment of NRB for each. This",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and additional nonresponse bias studies were collected through a variety of methods. An online",
+    "quote": "estimates if survey response rates dropped below 80% (Office of Management Budget 2006).",
     "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1208,91 +1148,151 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)",
+    "quote": "adjustments appeared to reduce bias in final estimates.",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "characteristics), survey estimates (e.g., prevalence of health outcomes, proportion of U.S. adults",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimates (n=69).",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "more likely to examine bias in both sample characteristics and survey estimates (68.4%);",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survey Estimates Sample Composition Both Survey Estimates and",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "studies examining bias in both sample characteristics and survey estimates grew over time. These",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survey Estimates Sample Composition Both",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and survey estimates in NRB analyses.",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "namely: comparison to other, authoritative survey estimates (benchmarking); assessing survey",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimates based on external information (e.g., information on the sampling frame); studying",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "key estimate reported by responding units or obtained from equivalent quality sources",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was",
+    "quote": "key estimates reported by responding units or obtained from equivalent quality sources",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC",
+    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.",
+    "quote": "53 percent of the total estimate (value). The remaining four units, which are selected with",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "rates within the statistical process control framework. Current procedures typically",
+    "quote": "certainty, account for 47 percent of the total estimate.",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "adequate framework for analyzing the response process. Instead, we propose using control",
+    "quote": "payroll, capital expenditures) to account for the unit’s relative importance in the estimates",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Directorate, which motivates the proposed control chart framework also introduced in",
+    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all key",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "StEPS database. The retrospective analysis examples provided in Section 5.1 are presented",
+    "quote": "expected to contribute substantially to the estimate, followed by intensive analyst research",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists",
+    "quote": ". Ry is the weighted estimate obtained by summing reported data for item y in the",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "computed using the delete-a-group jackknife method. The ACES uses weight adjustment",
+    "quote": ". Ay is the weighted estimate obtained by summing equivalent source data (auxiliary",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "More details concerning the ACES survey design, methodology, and data limitations are",
+    "quote": ". Y is the estimated (weighted) total of the item in the statistical period. It includes all",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "receipts for selected service sectors. Standard errors are computed using the method of",
+    "quote": "data used to develop the publication estimate, including imputed data and",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "than-expected value. Thus, a logical next step is to compute response rates by selected",
+    "quote": "measures at that point in time of the proportion of the estimate that was not imputed. In this",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Assembling S is more involved. For example, programs can use replication methods or",
+    "quote": "ratio of correlated random variables and that the point estimates in the time series are not",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Taylor linearization methods to obtain point estimates of the variance and autocovariance",
+    "quote": "and covariance estimates used in analysis must account for the complex survey design, if",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1363,24 +1363,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/jicp/3/1/3_107/_html/-char/ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18H01561/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "http://library.jsce.or.jp/jsce/open/00549/2012/64-04-0020.pdf",
+    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/58-1-025.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://cir.nii.ac.jp/crid/1390283659832446208",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
     "status": "ok",
-    "method": "browser"
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jicp/3/1/3_107/_html/-char/ja",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://academic.oup.com/jrsssa/article/185/Supplement_2/S310/7069524",
@@ -1403,14 +1398,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.bls.gov/osmr/response-rates/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.bls.gov/osmr/response-rates/",
+    "status": "http_403",
+    "method": "http"
    }
   ]
  },
@@ -1450,31 +1445,30 @@
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 13
   },
   {
    "query": "企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手） やり方",
    "results": [
-    "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
     "https://jasr.or.jp/wp/asr/asrpdf/asr5/asr05_020.pdf",
-    "https://www.dm-insight.jp/column/response-bias/",
+    "https://www.issoh.co.jp/column/details/6772/",
     "https://www.nira.or.jp/paper/research-report/2022/23.html",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/58-1-025.pdf",
+    "https://www.dm-insight.jp/column/response-bias/",
     "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://researto.com/column/market-research-bias/",
     "https://qiqumo.jp/contents/knowhow/7500",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 12
+   "n_hits": 13
   },
   {
    "query": "企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手） 事例",
@@ -1491,11 +1485,10 @@
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/"
    ],
    "engines": [
-    "ddgs:duckduckgo",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 13
   },
   {
    "query": "nonresponse bias business establishment survey response rate weighting",
@@ -1504,18 +1497,16 @@
     "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
     "https://www.statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
     "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "https://www.bls.gov/osmr/response-rates/",
     "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "https://www.bls.gov/osmr/response-rates/",
     "https://madoc.bib.uni-mannheim.de/67384/1/Dissertation_Publication.pdf",
     "https://casrai.org/guides/non-response-bias",
-    "https://www.researchgate.net/publication/357331131_Trends_in_Establishment_Survey_Nonresponse_Rates_and_Nonresponse_Bias_Evidence_from_the_2001-2017_IAB_Establishment_Panel",
-    "https://www.bls.gov/osmr/research-papers/2012/pdf/st120240.pdf"
+    "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 9
   },
   {
    "query": "site:note.com 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）",
@@ -1523,14 +1514,14 @@
     "https://note.com/jack4manastalk/n/n2eeee2240e33",
     "https://note.com/globis_engineers/n/n5dc591dc8551",
     "https://note.com/kamokita/n/nda11285781c3",
-    "https://note.com/aimediaoperator/n/n4dc718e0cc49",
     "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "https://note.com/aimediaoperator/n/n4dc718e0cc49",
     "https://note.com/york_date/n/nb25affcc2e01",
     "https://note.com/nikkei_r_finsol/n/n7882bbdc21ee",
-    "https://note.com/kamokita/n/n97f068370966"
+    "https://note.com/kamokita/n/nd37513f150bd"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -1538,13 +1529,13 @@
   {
    "query": "site:x.com 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）",
    "results": [
-    "https://x.com/mkmjapan2025/status/2071877137678929956",
     "https://x.com/mkmjapan2025/status/2094936487045517374",
+    "https://x.com/mkmjapan2025/status/2071877137678929956",
     "https://x.com/santa__oj/status/2038418032578711672",
-    "https://x.com/KNHjyohokyoku/status/2072130518045647203",
     "https://x.com/kinokochan99/status/2072009706680578429",
-    "https://x.com/nikkei/status/2080926365667258431",
-    "https://x.com/Kazedayori/status/2116115472727121934"
+    "https://x.com/KNHjyohokyoku/status/2072130518045647203",
+    "https://x.com/Kazedayori/status/2116115472727121934",
+    "https://x.com/nikkei/status/2080926365667258431"
    ],
    "engines": [
     "ddgs:yahoo"
@@ -1563,29 +1554,25 @@
     "https://jp.linkedin.com/pulse/hidden-truth-behind-survey-responses-uncovering-bias-bob-roitblat-kh1ac?tl=ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）",
    "results": [
-    "https://www.facebook.com/nira.japan/posts/nira基本調査2024サンプルに含まれるバイアスと人々の意識変化2024年に実施したnira基本調査の結果をもとにサンプルに含まれるバイアスと人々の意識変化を/1041878361303431/",
-    "https://www.facebook.com/rc.persol/posts/ニュースリリースマネジメントにおける無意識な偏見アンコンシャスバイアスの測定調査結果を発表上司との対話頻度が人事評価に大きく影響テレワーク下で注意すべきhttp/3531197523604060/",
-    "https://www.facebook.com/NRI.Japan/posts/ニュースリリース野村総合研究所10回目の生活者1万人アンケート調査を実施-コロナ禍を経た日本の生活者に戻らなかったもの-野村総合研究所は2024年8月全国15歳/1173646198095445/",
-    "https://www.facebook.com/kondokazuya3/videos/予備費と補正予算の違い/3920809218155416/",
-    "https://www.facebook.com/nira.japan/posts/インターネット調査におけるバイアス-国勢調査面接調査を利用した比較検討研究報告書httpswwwniraorjppaperresearch-report2022/8043670352325302/",
-    "https://www.facebook.com/nira.japan/photos/nira基本調査2024サンプルに含まれるバイアスと人々の意識変化2024年に実施したnira基本調査の結果をもとにサンプルに含まれるバイアスと人々の意識変化を/1041878337970100/",
-    "https://www.facebook.com/rc.persol/posts/3538758596181286/",
-    "https://www.facebook.com/dnpjp.official/videos/生成aiの回答精度を向上させる独自のデータ整形技術/338294469150035/",
     "https://www.facebook.com/city.koka/posts/事業者向け令和８年経済センサス-活動調査の回答はお済みですか現在全国すべての事業所企業を対象とした令和８年経済センサス活動調査を実施していますまだ回答がお済みで/1310701484494869/",
-    "https://www.facebook.com/ginowancity.official/posts/重要経済センサス活動調査への回答はお済ですか現在全国のすべての企業事業所を対象に経済センサス活動調査を実施しています-̗̀まだ回答がお済みでない場合は下記回答期/1415415797299466/"
+    "https://www.facebook.com/nira.japan/posts/インターネット調査におけるバイアス-国勢調査面接調査を利用した比較検討研究報告書httpswwwniraorjppaperresearch-report2022/8043670352325302/",
+    "https://www.facebook.com/ginowancity.official/posts/重要経済センサス活動調査への回答はお済ですか現在全国のすべての企業事業所を対象に経済センサス活動調査を実施しています-̗̀まだ回答がお済みでない場合は下記回答期/1415415797299466/",
+    "https://www.facebook.com/nira.japan/photos/nira基本調査2024サンプルに含まれるバイアスと人々の意識変化2024年に実施したnira基本調査の結果をもとにサンプルに含まれるバイアスと人々の意識変化を/1041878337970100/",
+    "https://www.facebook.com/nira.japan/posts/nira基本調査2024サンプルに含まれるバイアスと人々の意識変化2024年に実施したnira基本調査の結果をもとにサンプルに含まれるバイアスと人々の意識変化を/1041878361303431/",
+    "https://www.facebook.com/matsumoto.city.official/photos/令和８年経済センサス-活動調査-期限までにご回答をお願いします全国すべての事業所企業が対象の統計調査です〇インターネット回答〆4月20日月未回答の事業所へは5月/961858553066438/",
+    "https://www.facebook.com/city.inazawa/posts/経済センサス-活動調査の回答期限は６月８日-全国すべての事業所を対象とした統計調査です調査員が５月中に未回答新規の事業所へ調査票の配布に伺います24時間いつでも/956497827145007/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:bing"
    ],
-   "n_hits": 12
+   "n_hits": 7
   },
   {
    "query": "企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手） note 社長",
@@ -1602,11 +1589,10 @@
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/"
    ],
    "engines": [
-    "ddgs:duckduckgo",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 13
   },
   {
    "query": "企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手） X 投稿",
@@ -1618,15 +1604,15 @@
     "https://www.nira.or.jp/paper/research-report/2022/23.html",
     "https://www.soumu.go.jp/main_content/000626568.pdf",
     "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://researto.com/column/market-research-bias/",
     "https://qiqumo.jp/contents/knowhow/7500",
+    "https://researto.com/column/market-research-bias/",
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 13
   },
   {
    "query": "nonresponse bias business establishment survey response rate weighting site:linkedin.com",
@@ -1650,1296 +1636,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "The Census Bureau produces two separate sets of ABS estimates: firm and owner characteristics",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "demographic characteristics estimates are referenced as Demographic Characteristics for Businesses",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(DCB), and the economic characteristics estimates are referenced as Research and Development,",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Published DCB estimates can be found at ABS Company Summary, and RDIT published estimates can be",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates, if the characteristics being measured for nonresponding units differ from the characteristics",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The analysis for this section involves unweighted estimates because the goal is to determine differences",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "sections, we will consider weighted estimates when investigating if non-response bias is impacting our",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "American Community Survey Estimates, these five states are also the only states where less than 40",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ownership are AZ, CA, FL, NM, NV, and TX, and the 2022 American Community Survey Estimates show",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2022 American Community Survey Estimates. The states with at least 50% minority population",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "All RDIT analysis is limited to only firms that were eligible for RDIT estimates, which excludes the",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates, and, conversely, some firms within R&D industries may not see the R&D section because they",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "$50,000. Not all firms that report R&D expenses are tabulated in final R&D estimates because analyst",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "nonresponse for survey estimates, measurement and reporting of nonresponse rates, data collection",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "improve the quality of survey estimates. Selected special studies conducted by Federal statistical",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "tracked by Federal statistical agencies. They are used to evaluate the quality of estimates and to see",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "deadline for publishing preliminary and revised estimates.",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimated population total which is contributed by respondents. In cases where a small number of",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "response rate is probably a better indicator of the quality of the estimate.",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "totals being estimated by the surveys.",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "most likely with large establishments whose cooperation is vital to the survey estimate.)",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates are adjusted to known control totals that are statistically more reliable. These totals could",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for every i . This will control the survey estimates for",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "survey estimates for race, but the grade marginals will now be incorrect. By repeating this process,",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Imputation is the substitution of estimated values for missing or inconsistent data items or",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "thus attributing greater precision to the survey estimates than is warranted (see Kalton and",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and size (estimated number of employees). Larger manufacturing establishments experienced a",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "provide an estimate of hours paid and hours worked; the other half required additional telephone",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "method used, the target of NRB analyses (sample composition, survey estimates, or both), and",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2006 guidance. Comparisons of survey estimates to external data was the most commonly used",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(NRB), and the levels of NRB can differ for different estimates in the same survey.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates if survey response rates dropped below 80% (Office of Management Budget 2006).",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "method(s) used; 3) target of the NRB analyses (i.e., sample composition, survey estimates, or",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "adjustments appeared to reduce bias in final estimates.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "characteristics), survey estimates (e.g., prevalence of health outcomes, proportion of U.S. adults",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates (n=69).",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "more likely to examine bias in both sample characteristics and survey estimates (68.4%);",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survey Estimates Sample Composition Both Survey Estimates and",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "studies examining bias in both sample characteristics and survey estimates grew over time. These",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survey Estimates Sample Composition Both",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and survey estimates in NRB analyses.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "namely: comparison to other, authoritative survey estimates (benchmarking); assessing survey",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates based on external information (e.g., information on the sampling frame); studying",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "key estimate reported by responding units or obtained from equivalent quality sources",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "key estimates reported by responding units or obtained from equivalent quality sources",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "53 percent of the total estimate (value). The remaining four units, which are selected with",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "certainty, account for 47 percent of the total estimate.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "payroll, capital expenditures) to account for the unit’s relative importance in the estimates",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all key",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "expected to contribute substantially to the estimate, followed by intensive analyst research",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". Ry is the weighted estimate obtained by summing reported data for item y in the",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". Ay is the weighted estimate obtained by summing equivalent source data (auxiliary",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". Y is the estimated (weighted) total of the item in the statistical period. It includes all",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "data used to develop the publication estimate, including imputed data and",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "measures at that point in time of the proportion of the estimate that was not imputed. In this",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ratio of correlated random variables and that the point estimates in the time series are not",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and covariance estimates used in analysis must account for the complex survey design, if",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "smaller relative bias and vice versa. For example, the response rate of the industry sector 31 is 70.17%",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "establishments. The units may be, for example, individual establishments, companies, multiple",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "surveys. See for example, Telephone Survey Methodology (Groves, et. al., 1988), Survey Errors",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "participation. For example, some types of establishments were more likely than others to respond",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "response. Permanent random numbers and rotational designs (see for example, Ohlsson, 1995;",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "addressed establishment survey nonresponse. For example, the articles by Tomaskovic-Devey, et al.",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "data from health care providers (for example, physicians, hospitals) about the use of their health care",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Appendix 1 includes more detailed information on many of the surveys used as examples in",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "collection, for example, before and after major follow-up mailings or in panel surveys at each",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimated population total which is contributed by respondents. In cases where a small number of",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, the unweighted and weighted response rates for the",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "• establishments for which survey contact wa s attempted but without success, for example a",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "reached by the survey; for example persons initially contacted at an establishment, such as",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "• establishments in which requested data are not available; for example no one may",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "• establishments which agree to participate but do not deliver the requested data, for example",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "administration also affect response rate calculation. For example, sample elements in a long-term",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "contrast, the proportion of studies from household surveys grew over time. For example, from",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "information available for NRB analysis would vary across modes. For example, the information",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "on survey estimates; for example, comparing values obtained from sample cases interviewed",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "nonrespondents has been shown to be unsupported in some cases (Lin and Schaeffer 1995,",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "appeared to affect the types of NRB methods employed to assess bias. For example, a study",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "extraction of data especially challenging. For example, the reporting of response rates varied",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, agencies could be provided with a template to follow when conducting NRB",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "perspective for monitoring them. We illustrate this approach with examples from ongoing",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "that is unusual and in many cases unexpected. Moreover, control charts are useful because",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "they show what a process is capable of – for example, providing evidence that a given",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "target value. In the latter case, some form of modiﬁcation of the process would be required",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bureau. Section 4 provides background on our two case studies. In Section 5, we discuss",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(1) include “large” cases with certainty; (2) may sample “medium sized” cases with high",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "sampling rates; and (3) sample the remaining cases with very low sampling rates (usually",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "less than 0.01). As a result, sampled cases with large design weights often contribute very",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "To avoid overrepresentation of such small cases in computation, the URR is computed",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the certainty or large noncertainty cases, making URR an inconsistent indicator of data",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "quality. Consider the ﬁctional business survey example presented below in Figures 1 and 2.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "four certainty cases. The URR is approximately 87% (26/30), but the TQRR value is",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "nonresponding cases contribute very little to the total tabulation so that the TQRR value",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "is approximately 93%. These examples demonstrate how the more consistent measures",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "2.4 Relative Bias ................................................................................................................................ 19",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Statistical Quality Standards (census.gov) and is the motivation for this nonresponse bias analysis.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "According to the Census Bureau quality standard sub-requirement D3-3.6, nonresponse bias analysis is",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and nonrespondents. The study also researches the potential biases due to nonresponse in the survey.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "being measured for responding units. Nonresponse bias for a sample mean is the product of",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "suggests that a high rate of nonresponse does not necessarily imply a large bias, nor does a low rate of",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "nonresponse necessarily imply a small bias. The nonresponse rate is easy to calculate, while its impact is",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rate may only decrease the risk of nonresponse bias, investigating or estimating bias must be done in an",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "concludes by looking at the relative bias based on the mean differences between the respondents and",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RDIT are R&D activity and innovation. We cannot directly measure nonresponse bias for these key items",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and a frame variable, we can analyze the nonresponse bias of the frame variable as a proxy for the key",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "sections, we will consider weighted estimates when investigating if non-response bias is impacting our",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "point agencies will attempt to reduce the biasing effects of nonresponse in establishment surveys by",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The post-stratification adjustment attempts to reduce not only the bias created by",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "subpopulations, but in addition, attempts to quantify the nonresponse bias, using various models.",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These biases are computed for a number of subpopulations. These biases are computed before and",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "after nonresponse adjustments, measuring the reduction in bias due to nonresponse adjustments.",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Results show that adjustments may substantially reduce nonresponse bias in the estimates. The",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "nonresponse bias does not appear to be a dominant source of error after the adjustment, although it",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "adjustments. In this situation, one should expect relatively small nonresponse bias.",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "that when the response rates are low the downward bias can be very large. A variable with 20%",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "nonresponse bias can have a 20% underestimate of the variance. Since nonresponse adjustments",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "9.8 Investigating the Potential Biasing Effect of Nonresponse on Establishment Surveys",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A Systematic Review of Nonresponse Bias Studies in",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Elise Christopher, and Jennifer Madans. 2020. A Systematic Review of Nonresponse Bias Studies in Federally",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "MEMBERS OF THE NONRESPONSE BIAS ANALYSIS SUBCOMMITTEE",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "less than 80% conduct an analysis of nonresponse bias (NRB). Since 2006, federal surveys have",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "to assess NRB or whether mitigating strategies reduced bias.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "whether post-survey adjustments reduced bias. The reported NRB methods were grouped into",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "majority of studies reported bias in some variables prior to weight adjustment but noted that bias",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "data collection. Most studies reported a reduction in bias after weighting. However, in most",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "instances, a reduction in nonresponse bias was declared, but not explicitly documented, in the",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "However, a lower response rate is not always associated with higher levels of nonresponse bias",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "with the threats posed by nonresponse bias and potential methods for detecting and reducing",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "potential bias (Groves and Brick 2005). In 2009, the Federal Committee on Statistical",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "information may be useful in developing guidelines and best practices for nonresponse bias",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "87 documents from 11 federal statistical agencies; two agencies had no nonresponse bias studies",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and additional nonresponse bias studies were collected through a variety of methods. An online",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "collection, data review), or of the potential level of nonresponse bias (Peytcheva and",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Both numerator and denominator cases are weighted by “unbiased” weights, which",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "extracted from a larger cited nonresponse bias analysis study. Both studies were mandated",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "context of a nonresponse bias analysis study.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Many programs will also conduct nonresponse bias analyses, which at a minimum",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "standards-apr2022.pdf. Accessed 17 Sept. 2024.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Pietsch, L. (1995), “Profiling large business to define frame units,” Chapter 6 in Business Survey",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://nces.ed.gov/FCSM/pdf/2009WorkshopProgram.pdf.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "gov/indicator/qss/qsstecdoc.pdf.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Dhanapati Khatiwoda, Sandra Peterson, and Stephen Hardy",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Cross Sector Surveys Statistical Methods Branch (CSSSMB)",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Economic Statistical Methods Division (ESMD)",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "about the survey, look at the survey methodology report available at ABS Methodology.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "requirement to report. The survey letter included instructions on how to access the survey and submit",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the methodology report is about 69%. This falls below the Census Bureau quality standards available at",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The estimated variance of the weighted unit response rate uses a delete-a-group jackknife method with",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "using delete-a-group jackknife method as mentioned in section 2.2 above.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bureau, US Census. “Annual Business Survey Methodology.” Census.Gov, 24 Oct. 2023, ABS",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Most recently, the Federal Committee on Statistical Methodology (FCSM) organized a",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rates - a section that presents response rates of select establishment surveys, (6) methods and",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survey methods research and survey data quality evaluations have routinely examined the",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Groves (1989), and Groves and Couper (1998). A variety of mathematical statistical methods have",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "methods for nonresponse reduction, nonresponse adjustment methods, along with a variety of",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "reference books on survey methods focus their discussions of nonresponse exclusively on household",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "surveys. See for example, Telephone Survey Methodology (Groves, et. al., 1988), Survey Errors",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Nonsampling Errors in Surveys (Lessler and Kalsbeek, 1992), Survey Research Methods (Fowler,",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "framework for the definition of response and nonresponse that is suitable for both business and",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "survey methods in a household survey context. In a study of North Carolina businesses, they found",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "adaptation of household survey methods to establishment surveys. Jobber (1986) looked at surveys",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Design Method (Dillman, 1978) to increase response to an establishment mail survey. They",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Alternatively, another body of literature examines the use of data collection methods that",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Clayton (1995) discuss the use of automated data collection methods in the Current Employment",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In addition to changes in data collection procedures, alternative statistical methods have",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Federal Committee on Statistical Methodology",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "THE FEDERAL COMMITTEE ON STATISTICAL METHODOLOGY",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "increased activities involving NRB analyses; however, it is unclear what methods have been used",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "summarize the characteristics of the surveys examined, the NRB analysis methods used, and the",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Methods: NRB reports involving federal surveys were identified via searches on PubMed,",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "method used, the target of NRB analyses (sample composition, survey estimates, or both), and",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "whether post-survey adjustments reduced bias. The reported NRB methods were grouped into",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "NRB assessment method for establishment surveys (89.9%); whereas, studying variations within",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the respondent set was the mostly commonly used method in household surveys (65.8%). A",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conclusions: The types of NRB assessment methods used differed by survey type and mode of",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "with the threats posed by nonresponse bias and potential methods for detecting and reducing",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "establishment surveys (Federal Committee on Statistical Methodology 2009).",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "examined, the NRB analysis methods used, and the assessment of NRB for each. This",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and additional nonresponse bias studies were collected through a variety of methods. An online",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "method(s) used; 3) target of the NRB analyses (i.e., sample composition, survey estimates, or",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rates within the statistical process control framework. Current procedures typically",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "adequate framework for analyzing the response process. Instead, we propose using control",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Directorate, which motivates the proposed control chart framework also introduced in",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "StEPS database. The retrospective analysis examples provided in Section 5.1 are presented",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "computed using the delete-a-group jackknife method. The ACES uses weight adjustment",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "More details concerning the ACES survey design, methodology, and data limitations are",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "receipts for selected service sectors. Standard errors are computed using the method of",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "than-expected value. Thus, a logical next step is to compute response rates by selected",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Assembling S is more involved. For example, programs can use replication methods or",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Taylor linearization methods to obtain point estimates of the variance and autocovariance",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-07T18:58:07.025760+00:00"
 }

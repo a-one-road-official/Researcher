@@ -10266,14 +10266,22 @@
 
 ## 中小企業実態基本調査 回収率 産業別・従業者規模別（回答の構成を母集団の構成と比べる・非回答の偏り・4-93）（Basic Survey of Small and Medium Enterprises response rate by industry and size Japan）
 - 文脈：統計・方法
-- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
-- 事業所数・社数：記載なし（読んだ55頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
-- 生産能力・設備：記載なし（読んだ55頁・検索18回）
-- 10年推移：記載なし（読んだ55頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+- 10年推移：
+  - 「Preliminary Report of the 2023 Basic Survey on Small and Medium Enterprises (Performance Results Based on the FY2022 Closing Accounts) Compiled/METI Ministry of Economy, Trade and Industry」（https://www.meti.go.jp/english/press/2024/0329_001.html）
+  - 「March 2024」（https://www.meti.go.jp/english/press/2024/0329_001.html）
+  - 「Preliminary Report of the 2023 Basic Survey on Small and Medium Enterprises (Performance Results Based on the FY2022 Closing Accounts) Compiled」（https://www.meti.go.jp/english/press/2024/0329_001.html）
+  - 「Mar 29, 2024」（https://www.meti.go.jp/english/press/2024/0329_001.html）
+  - 「The Small and Medium Enterprise Agency (SMEA) has been conducting the Basic Survey on Small and Medium Enterprises every year as a cross-industry survey in order to ascertain the financial and operational situation of SMEs. SMEA hereby announces that it has compiled a preliminary report on the results of the 2023 survey (performance results are based on the FY2022 closing accounts).」（https://www.meti.go.jp/english/press/2024/0329_001.html）
+  - 「SMEA has been conducting the Basic Survey on Small and Medium Enterprises every year as a cross-industry survey in order to ascertain the financial and operational situation of SMEs. The 2023 survey was the 20th annual survey.」（https://www.meti.go.jp/english/press/2024/0329_001.html）
+  - 「For details of the 2023 survey results, see the Appendix.」（https://www.meti.go.jp/english/press/2024/0329_001.html）
+  - 「Appendix: Overview of Preliminary Report of the 2023 Basic Survey on Small and Medium Enterprises (Performance Results Based on the FY2022 Closing Accounts)(PDF:417KB)」（https://www.meti.go.jp/english/press/2024/0329_001.html）
+- 痛み・損（深さの印）：記載なし（読んだ44頁・検索18回）
+- 事業所数・社数：記載なし（読んだ44頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ44頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ44頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ44頁・検索18回）
+- 生産能力・設備：記載なし（読んだ44頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ44頁・検索18回）
 
 ## 工業統計表 金属製品製造業 金属用金型 事業所数の減少と合併・統合の区別（日本金型工業会の自身の公表・site:jdmia.or.jp・4-93）（Japan Die and Mold Industry Association members mergers closures annual）
 - 文脈：団体・一次
