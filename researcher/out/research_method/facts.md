@@ -2218,6 +2218,9 @@
 - 手順・やり方：
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告を官報で閲覧する5つの方法を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「官報に決算公告を載せるのはなぜ？会社法440条が定める3つの目的・歴史的背景・費用約7万5千円の実態と、電子公告への移行手順をわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告を電子公告に変更する登記手続き｜費用3万円・5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2228,10 +2231,9 @@
   - 「決算公告の官報掲載ガイド｜費用・手順・申込みを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告の官報掲載を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
+  - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Q3. 決算公告の当期純利益から売上高を推定できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2245,8 +2247,6 @@
   - 「5. 投資リターン、投資仮説の答え合わせ」（https://note.com/ib_pe_hf/n/n91f16945e33e）
   - 「以下は、公開情報からiBが考察した当時の投資仮説」（https://note.com/ib_pe_hf/n/n91f16945e33e）
   - 「仮説1：御三家は三菱自動車を潰さない」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「仮説2：発行価格100円は、資本増強後の会社の価値より安い」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「仮説3：ハンズオンの実績を作れる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
 - 一次情報の探し方：
   - 「決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2264,6 +2264,7 @@
   - 「Q2. 大会社かどうかは決算公告のどこで見分けられますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Q3. 決算公告の当期純利益から売上高を推定できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 失敗・落とし穴：
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2278,7 +2279,6 @@
   - 「株式会社の決算公告を調べる際と対象を混同しないようご注意ください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 - 実例：
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3403,6 +3403,9 @@
   - 「Demystifying Source Reliability: How To Ensure Credible CTI - Kraven Security」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「Demystifying Source Reliability: How to Ensure Credible CTI」（https://kravensecurity.com/source-reliability-and-information-credibility/）
 - 一次情報の探し方：
+  - 「A signed filing obtained directly from the official registry; a certificate transparency log entry; a court's own docket system.」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
+  - 「registry filing becomes an」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
+  - 「Government data has known error and staleness. Registries hold what was filed, not what is true; self-declared filings are」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
   - 「Filing history and accounts consistent」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Register shows active status and recent filing」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
@@ -3424,6 +3427,8 @@
   - 「Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「Can I identify any potential bias?」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
 - 実例：
+  - 「Typical OSINT examples」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
+  - 「is not an insult and it is not rare — a single unusual claim early in a case」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
   - 「no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation」（https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/）
   - 「support-example.example.com」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「carrowmere.example.com」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
@@ -3437,9 +3442,7 @@
   - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
-  - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-  - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -4645,37 +4648,37 @@
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
 - 手順・やり方：
-  - 「performed in a second step.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• Producers use revision studies to identify particul ar methods that could be improved or」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「because of the introduction of new methodologies, concepts, classifications, etc.;」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「This general policy will also describe reasons for data revisions, how to manage scheduled」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「acts, new definitions, adoption of new sources, new methods of estimation, innovation, etc), they」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「simultaneously in a single revision (current revision policy). This method tries to avoid unsettling」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「accounts. A consistent and coherent framework for a ll statistics, which produces data always in」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「methodological improvements. This should be conside red as good practice as it avoids revisions」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「on the total revisions of the time series and infor m the users. However, a change in the method」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「elements: the pre-announcing strategy, how to commu nicate in advance information on causes」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「methodological change is of major relevance for a c ountry, leading to more accurate figures, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「country could introduce the methodological change a s soon as possible provided that the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「announced and synchronised. Methodological revisions, which foster accuracy of important」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「coordinated. Methodological revisions, which foster accuracy of important indicators mentioned」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「between different domains. Methodological revisions at a country level, which foster accuracy of」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「W e survey these methods, and provide guidance on choosing one, depending on whether」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「benchmark revisions make use of major periodic source data, as well as methodological」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「3In the case of the US, the Bureau of Economic Analysis provides descriptions of the methodologies」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「employed at: http://www.bea.gov/methodologies/index.htm#national_meth」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「3 F orecasting methods and a model of the behaviour」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「expecting somehow to get cider . [Kishor and Koenig (2012)]」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「F or step (2) we need an estimate of ^yT . Suppose the SO simply sets yT +1T =wT +1T , so」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「the second step of the three-stage forecasting strategy set out above, would result in」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「(7) provides an estimate of ^yT , as required by step (2) of the forecasting strategy.」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「Galvªo (2017) proposes a one-step method to jointly estimate the parameters of」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「lagged values, and Bayesian methods were sometimes adopted: see, e.g., Doan, Litterman」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「vintage, i.e., Yt+1 for t = 1; 2;:::T , where Yt+1 =:::;y t+1t 1;yt+1t . The h-step ahead」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「to work relatively well. W e use the statistical framework of Jacobs and van Norden (2011)」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「autoregressive model for forecasting. The statistical framework of Jacobs and van Norden」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「model as a coherent statistical framework for deriving the properties of single-equation」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
 - 突き合わせ・推定：
-  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• Estimates that are not subject to revision could wr ongly be considered more accurate and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• If estimates are affected by sampling or non sampli ng errors, revision analysis can not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「definitively demonstrate the accuracy of initial estimates.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「process (e.g. estimated values for missing response s are replaced by reported figures). Normally,」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「Hence, missing values have to be estimated. Since t he estimated values normally do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「assess the new time series. The documentation shall detail the reasons for the revisions, estimate」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「estimated it is important to include information of these methods changes as it has direct impact」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「impact of revisions on their estimates and models ( e.g. business cycle analysis and forecasts).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「between the first release (a flash estimate) and th e second release (a first estimate). This」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「quality of provisional estimates or flash estimates has to be assessed」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「Official estimates of economic growth are regularly revised and therefore forecasts for GDP growth are done」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
-  - 「Statistical Agencies (SAs) to revise their estimates beyond the timeliness of their data collection. We show that」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
-  - 「estimates too much, while they are much more open to revise GDP expenditure components over time. More」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
-  - 「availability of data sources. For instance, the flash estimate for the euro area GDP is available as soon as 30」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「tional approach would be to estimate the forecasting model using the latest vintage of」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「data revisions we are able to improve the reliability of output gap estimates in real time」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「This article considers the implications of the nature of the estimates of macroeconomic」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「estimates, for forecasting the future values of those variables. Excellent general surveys」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「including details of the nature and timing of their updates to initial estimates (i.e., data」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「in terms of its processing of source data to generate initial estimates of macroeconomic」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「second estimate (equivalently, rst revision) reveals the truth. Later on, we describe」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「BEA publishes its rst or  advanceestimates of quarterly national accounts data about」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「a month after the quarter in question. These estimates are necessarily based on only」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「formerly known as the  preliminaryand  nalestimates, but are now simply the second」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「and third estimates. As described by Landefeld, Seskin and F raumeni (2008), 25% of the」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「GDP components at the time of the release of the rst estimate are trend-based data」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「trend-based data in the second and third estimates is 23% and 13% respectively. Hence」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「to incorporate new annual source data into the estimates. Finally, comprehensive or」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「In terms of the question we posed - why data revisions? - the need for timely estimates」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
 - 一次情報の探し方：
   - 「inflow of new data extracted from primary sources w ith vintages identification procedures. It」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
   - 「databases usually cover only subsets of variables available in primary sources (key indicators), on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
@@ -4709,21 +4712,21 @@
   - 「Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
   - 「Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
 - 実例：
-  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「and "practice to be avoided", following the success ful example of the ESS guidelines on seasonal」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「for users. More details, practical examples and ref erences are included in the ESS handbook on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「in line with relevant improvements in the productio n process. This could be the case when」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「Some examples are the adoption of a new classificat ion or changes in international」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「In case of an update of the weights of an index series, the new index using updated weights is」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「be removed whenever necessary. In this case, the re ason for the removal should be posted. When」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「example, the magnitude of the correction could be c ompared to the magnitude of expected」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「In the case of significant errors detected with del ay (referring to past or sometimes even far past」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「relevant figures, released as soon as possible with a pre-announcement. In the case of past errors」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「possible. In case of significant errors affecting past data a decision is taken based upon the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「should be mentioned. A draft example of a harmonised template is presented in annex.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「similar economic conditions – for example for compa rable phases of business cycle, seasonal and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• Finally, it is possible to focus on the diagonals l ooking for example to the differences」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「it ignores the fact that it will be revised. In some cases, the costs of this approach are」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「for example, Croushore and Stark (2001)), we are able to look back and gauge how well」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「to what might be expected to work for forecasters today. As an example, by forecasting」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「3In the case of the US, the Bureau of Economic Analysis provides descriptions of the methodologies」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「the superscript the quarterly vintage (or estimate). In the case of US BEA data, the」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「also be modelled and forecasted. It is generally the case that the models we discuss」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「5For example, there are 8 benchmark revisions in the data vintages from 1965Q3 up 2010Q1. In fact」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「or on the later estimate. F or example, consider the revision between the rst-estimates」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「and the PF assumes this is the case. That is, the SO makes no attempt to process the」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「A number of extensions and generalizations are possible. F or example, Howrey (1978)」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「motivated by, and generalises, the simpler cases described in sections 3.2 and 3.3.」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「(2017) estimates the forecasting model  a DSGE model in her case  with nal (true」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「revisions are integrated of order zero (written I (0)). So, for example, Yt+1t 1 and Ytt 1」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「Carriero, Clements and Galvªo (2015)). F or example, let yt+1t = 400 Yt+1t  Yt+1t 1 be」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
+  - 「If n is set equal to 2, for example, then values after the rst revision are assumed to」（https://centaur.reading.ac.uk/78512/1/encyc_final.pdf）
 
 ## 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）（entity matching key profiling missing rate composite key false merge）
 - 文脈：突き合わせ
@@ -10562,11 +10565,11 @@
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ14頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
-- 実例：記載なし（読んだ14頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
@@ -11217,7 +11220,7 @@
   - 「The guide warns that cases can disappear without notice .」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
   - 「Following the Waste Back to Italy: An OSINT Case Study from Croatia」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
   - 「AI-Designed Viral Genomes: What the First Functional Phage Case Changes」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ8頁・検索12回）
 
 ## 統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説）（how to read statistical survey methodology notes before using numbers sampling estimation suppression tax inclusive）
 - 文脈：裏取り
@@ -12007,6 +12010,8 @@
   - 「決算公告はどこで見れる？無料・有料の閲覧方法6選を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告はどこで見れる？官報・EDINET・企業HPなど無料で閲覧できる方法から有料データベースまで6つの手段を比較表付きで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「電子公告への移行手続き完全ガイド｜官報から切り替える4ステップと費用・期間」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「電子公告への移行手続きを4ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「作成手順（5ステップ）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「3つの公告方法別｜費用・手間・掲載期間を比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「Q7. 官報での決算公告の申込み手順を教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -12015,8 +12020,6 @@
   - 「ステップ1: 自社の会社分類を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「ステップ2: 決算書から必須科目の金額を転記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「ステップ3: 表示単位を決定し、金額を変換する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ4: 当期純利益（又は当期純損失）を付記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ5: 資産合計と負債純資産合計の一致を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 一次情報の探し方：
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -12035,6 +12038,8 @@
   - 「合同会社には決算公告の義務がないため、合同会社の経営者は「公告をしない」という選択ができます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 失敗・落とし穴：
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「ミス4: 科目名の誤り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「特に注意すべきは「当期純利益（又は当期純損失）」の付記です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「見落としがちなポイントですが、単位を確認せずに数字を読むと100倍・1,000倍の誤解につながるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -12048,6 +12053,7 @@
 - 実例：
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「貸借対照表の数値だけを転記して満足してしまい、損益計算書の数値である当期純利益の付記を忘れるケースが後を絶ちません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -12060,8 +12066,7 @@
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
 
 ## 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）（nonresponse bias business establishment survey response rate weighting）
 - 文脈：手法・偏り
@@ -14026,11 +14031,11 @@
 
 ## 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）（Statistics Commission Japan consultation report survey change discontinuation sampling frame）
 - 文脈：統計の読み方
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

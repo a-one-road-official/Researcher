@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T06:21:26.921519+00:00",
+ "researched_at": "2026-11-08T13:17:13.591998+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -194,6 +194,80 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "この記事の解答は、AIが出した文章をそのまま採用してよいという意味ではありません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本文「2026年9月7日17時までに採用する案をご返信ください」",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "返信案が自然でも、資料にない納期や値引きを約束していたら採用できません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では統計的な効果測定を保証しませんが、少なくとも変更日と変更内容、同時に変えた条件を記録するところから始められます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンクが返った段階と、変更が採用された段階は別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提案が採用された割合は一つの参考になりますが、採用した判断そのものが正しかったかは別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確認が甘ければ採用率だけ高くなることもあります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "案を採用する前に元ページを確認し、価格・広告・在庫を同時に変えたかも記録します",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入力：input／作成中：drafts／点検結果：review／人が採用した版：approved／実行記録：logs",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用者、対象、変更内容、確認日時を別に記録する案にします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ情報の重複説明を省き、却下された案と現在採用している案を分けます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が決めること：確認担当、回答期限、採用する改善一件",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます",
@@ -281,80 +355,6 @@
    },
    {
     "quote": "推定が役立つ場面でも、確定情報とは分けて表示させる必要があります",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "この記事の解答は、AIが出した文章をそのまま採用してよいという意味ではありません",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本文「2026年9月7日17時までに採用する案をご返信ください」",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "返信案が自然でも、資料にない納期や値引きを約束していたら採用できません",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では統計的な効果測定を保証しませんが、少なくとも変更日と変更内容、同時に変えた条件を記録するところから始められます",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "リンクが返った段階と、変更が採用された段階は別です",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "提案が採用された割合は一つの参考になりますが、採用した判断そのものが正しかったかは別です",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確認が甘ければ採用率だけ高くなることもあります",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "案を採用する前に元ページを確認し、価格・広告・在庫を同時に変えたかも記録します",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入力：input／作成中：drafts／点検結果：review／人が採用した版：approved／実行記録：logs",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用者、対象、変更内容、確認日時を別に記録する案にします",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同じ情報の重複説明を省き、却下された案と現在採用している案を分けます",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人が決めること：確認担当、回答期限、採用する改善一件",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -482,7 +482,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/oh1ta/n/n6c244fa8d7f9",
+    "url": "https://note.com/black_edge_five/n/n9394bca81a47",
     "status": "ok",
     "method": "http"
    },
@@ -517,17 +517,22 @@
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/accounting/basic/77802/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://xn--8pr380g.com/ja/blog/confirmation-matching/",
     "status": "ok",
     "method": "http"
    },
    {
+    "url": "https://biz.moneyforward.com/accounting/basic/77802/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://zenn.dev/datum_studio/articles/21ba0949af8156",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ec-rider.net/b2bec/denpyo-btob-seiri/",
     "status": "ok",
     "method": "http"
    },
@@ -537,12 +542,7 @@
     "method": "http"
    },
    {
-    "url": "https://corp.genialtech.io/ja/column/collation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.togu.co.jp/column/detail/85",
+    "url": "https://xn--8pr380g.com/ja/blog/data-totsugou/",
     "status": "ok",
     "method": "http"
    },
@@ -567,12 +567,12 @@
     "method": "http"
    },
    {
-    "url": "https://kashika-20mile.com/dpro/articles/case-mediaaid-mcp-data-merge/",
+    "url": "https://kuroco.team/blog-data-rei/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://xn--8pr380g.com/ja/blog/data-totsugou/",
+    "url": "https://www.giken.co.jp/column/multivariate-analysis-3/",
     "status": "ok",
     "method": "http"
    },
@@ -592,17 +592,17 @@
     "method": "http"
    },
    {
-    "url": "https://ofm.wa.gov/accounting/general-ledger-reconciliation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.highradius.com/resources/Blog/general-ledger-reconciliation/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://safebooks.ai/gl-reconciliation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.leapfin.com/blog/general-ledger-to-subledger-reconciliation",
     "status": "ok",
     "method": "http"
    }
@@ -617,14 +617,14 @@
     "https://note.com/yuzulemon1/n/n2d6d825b36eb",
     "https://note.com/rapid_canna9903/n/n05f5049cfdcd",
     "https://note.com/zouplans/n/n5e634f4c0fcc",
-    "https://note.com/oh1ta/n/n6c244fa8d7f9",
     "https://note.com/black_edge_five/n/n9394bca81a47",
+    "https://note.com/oh1ta/n/n6c244fa8d7f9",
     "https://note.com/everprogress/n/nc066813442e3",
-    "https://note.com/yamagishiyuuki/n/n2674666d6251",
-    "https://note.com/shijo_rashinban/n/n4f453725d10e"
+    "https://note.com/ny_bird/n/nc4f2cdbc639e",
+    "https://note.com/yamagishiyuuki/n/n2674666d6251"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -640,51 +640,51 @@
     "https://note.com/tag/%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90",
     "https://note.com/startup_now0708/n/n7cb89736664c",
     "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://team-y5.com/fukugyo-sensei/sns-market-reserch-note/",
+    "https://note.com/sumitsuke/n/ndc9f7089df63",
     "https://note.com/moritomokyan/n/n8549d50bb719"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） やり方",
    "results": [
     "https://data-viz-lab.com/large-scale-excel-data",
-    "https://biz.moneyforward.com/accounting/basic/77802/",
     "https://xn--8pr380g.com/ja/blog/confirmation-matching",
+    "https://biz.moneyforward.com/accounting/basic/77802/",
     "https://zenn.dev/datum_studio/articles/21ba0949af8156",
+    "https://ec-rider.net/b2bec/denpyo-btob-seiri/",
     "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://corp.genialtech.io/ja/column/collation/",
-    "https://www.togu.co.jp/column/detail/85",
+    "https://www.youtube.com/watch?v=M611GqFn6ZU",
     "https://xn--8pr380g.com/ja/blog/data-totsugou/",
     "https://data-viz-lab.com/excel",
-    "https://a-x.inc/blog/ai-data-matching-automation/"
+    "https://kodachi.jp/column/claude-data-reconciliation/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 12
   },
   {
    "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） 事例",
    "results": [
-    "https://data-viz-lab.com/large-scale-excel-data",
     "https://www.fortience.com/insight/column/230809-00/",
-    "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://www.youtube.com/watch?v=eX8RpVxnfh8",
+    "https://data-viz-lab.com/large-scale-excel-data",
     "https://xica.net/xicaron/how-does-data-driven-marketing-works/",
     "https://biz.moneyforward.com/accounting/basic/77736/",
     "https://catalog.monex.co.jp/article/?p=62129",
-    "https://xn--8pr380g.com/ja/blog/confirmation-matching",
+    "https://kuroco.team/blog-data-rei/",
+    "https://www.giken.co.jp/column/multivariate-analysis-3/",
+    "https://www.youtube.com/watch?v=eX8RpVxnfh8",
     "https://kashika-20mile.com/dpro/articles/case-mediaaid-mcp-data-merge/",
     "https://xn--8pr380g.com/ja/blog/data-totsugou/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -695,16 +695,16 @@
     "https://doc.workday.com/admin-guide/en-us/financial-management/financial-accounting/period-and-year-close/period-close-management/account-reconciliation/check-reconciliation-definition-coverage.html",
     "https://www.dualentry.com/blog/what-is-account-reconciliation",
     "https://www.numeric.io/blog/general-ledger-reconciliation",
-    "https://ofm.wa.gov/accounting/general-ledger-reconciliation/",
     "https://www.highradius.com/resources/Blog/general-ledger-reconciliation/",
     "https://safebooks.ai/gl-reconciliation/",
     "https://www.leapfin.com/blog/general-ledger-to-subledger-reconciliation",
     "https://www.ledge.co/content/how-to-do-general-ledger-reconciliation-with-examples",
-    "https://policy.umn.edu/finance/reconciliation",
-    "https://cointab.net/resources/Ledger-Reconciliation-Checklist-Steps-and-Best-Practices"
+    "https://www.wright.edu/financial-operations/controller/wings-express-finance-support/chapter-7-reconciliation-techniques",
+    "https://sites.google.com/umich.edu/mm-post-award-manual/project-management/monitoring-reconciling-expenditures",
+    "https://www.monitoringevaluationstudio.com/ai-for-me/prompts/reconcile-monitoring-sources"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -718,35 +718,35 @@
     "https://note.com/rapid_canna9903/n/n05f5049cfdcd",
     "https://note.com/zouplans/n/n5e634f4c0fcc",
     "https://note.com/oh1ta/n/n6c244fa8d7f9",
+    "https://note.com/yamagishiyuuki/n/n2674666d6251",
     "https://note.com/black_edge_five/n/n9394bca81a47",
     "https://note.com/everprogress/n/nc066813442e3",
-    "https://note.com/yamagishiyuuki/n/n2674666d6251",
     "https://note.com/shijo_rashinban/n/n4f453725d10e"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
+   "results": [
+    "https://x.com/KagawaTomo/article/2080578592044724258",
+    "https://x.com/MakeAI_CEO/article/2066803200460825019",
+    "https://x.com/KagawaTomo/status/2117512280791527638",
+    "https://x.com/KagawaTomo/status/2116445181717442741",
+    "https://x.com/ManiStoneBass",
+    "https://x.com/aitech_komoriya/with_replies",
+    "https://x.com/shinkoshoto",
+    "https://x.com/29meat_ai/article/2088395759129673856",
+    "https://x.com/sgk_1114/status/2113499052411359599",
+    "https://x.com/niramayo2096/status/2081266532001476988"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
-  },
-  {
-   "query": "site:x.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
-   "results": [
-    "https://x.com/KagawaTomo/article/2080578592044724258",
-    "https://x.com/KagawaTomo/status/2116445181717442741",
-    "https://x.com/MakeAI_CEO/article/2066803200460825019",
-    "https://x.com/KagawaTomo/status/2117512280791527638",
-    "https://x.com/ManiStoneBass",
-    "https://x.com/shinkoshoto",
-    "https://x.com/aitech_komoriya/with_replies",
-    "https://x.com/29meat_ai/article/2088395759129673856",
-    "https://x.com/niramayo2096/status/2081266532001476988",
-    "https://x.com/sgk_1114/status/2113499052411359599"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
   },
   {
    "query": "site:linkedin.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
@@ -757,16 +757,16 @@
   {
    "query": "site:facebook.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
    "results": [
+    "https://www.facebook.com/eddiegray1010/",
     "https://www.facebook.com/RaininBlues/",
     "https://www.facebook.com/matchdata/posts/マッチデータとは複数のデータを突き合わせて分析する手法であり経済学のフロンティアトピックのひとつですマッチデータプロジェクトではこの手法を人材マネジメントに含意/1480591158824132/",
     "https://www.facebook.com/funnary/posts/データを突き合わせて確認する時にvlookupの次に使えるのがこのexact関数httpswwwpqnavicomreportsview1625/1971880409735752/",
-    "https://www.facebook.com/matchdata/posts/1480597945490120/",
     "https://www.facebook.com/ootaniishinkara.igakubu.goukaku/posts/生徒とひざを突き合わせてセンターのデータを分析し合格するための/401311670416505/",
-    "https://www.facebook.com/mainichishimbun/posts/高市首相答弁と一つの中国-日中の主張はどこで食い違うのか台湾がどの国に属するのかについて日本と中国の立場は完全に一致してはおらず日本はぎりぎりの外交交渉によって/1230016705827348/",
-    "https://www.facebook.com/팝켓-101027605528563/videos/popketnews_-持続的な仮想通貨変動性-展望が交錯-投資家は混乱-jp持続する仮想通貨の変動性年末の見通しは食い違うオミクロンの恐怖や中国ハンダグループ/441073874382175/"
+    "https://www.facebook.com/matchdata/posts/1480597945490120/",
+    "https://www.facebook.com/mainichishimbun/posts/高市首相答弁と一つの中国-日中の主張はどこで食い違うのか台湾がどの国に属するのかについて日本と中国の立場は完全に一致してはおらず日本はぎりぎりの外交交渉によって/1230016705827348/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -775,17 +775,17 @@
    "results": [
     "https://note.com/shun0718/n/nc8c36a17391d",
     "https://note.com/shinu/n/n567c6705ec18",
-    "https://www.youtube.com/watch?v=uAkUmCBiuxA",
     "https://note.com/makesira_co",
-    "https://note.com/taima_mign/n/n782c544314bf",
-    "https://agenda-note.com/retail/detail/id=5504",
+    "https://www.youtube.com/watch?v=uAkUmCBiuxA",
     "https://note.com/guken/n/n826d63e4e9e0",
+    "https://agenda-note.com/retail/detail/id=5504",
+    "https://note.com/taima_mign/n/n782c544314bf",
     "https://www.youtube.com/watch?v=H6YAMk-zS-8",
     "https://note.com/toshiyukishiraki/n/n8b9cbf095ea0",
-    "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000644/"
+    "https://maneuva.co.jp/insights/category/presidentnote/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -795,14 +795,14 @@
    "results": [
     "https://www.macromill.com/service/words/twitter-to-x/",
     "https://www.mieruka-engine.com/media/twitter-ansys",
-    "https://x.com/marketdata_jp/status/2118607566012027217/photo/1",
+    "https://x.com/marketdata_jp/status/2118607566012027217",
+    "https://toyokeizai.net/articles/-/731844?display=b",
     "https://note.com/autoscript/n/n55ccdb1350d0",
     "https://www.koukoku.jp/service/suketto/marketer/sns/x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%8B%95%E7%94%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E6%88%90%E6%9E%9C%E3%82%92%E5%87%BA%E3%81%99%E6%B4%BB%E7%94%A8%E6%B3%95/",
     "https://www.kolr.ai/jp/info/x-marketing-about/",
-    "https://toyokeizai.net/articles/-/731844?display=b",
-    "https://tatap.jp/knowledge/x-customer-acquisition-case-studies/",
-    "https://agenda-note.com/about/id=7523&pno=1",
-    "https://x.com/yaneura_coffee/status/2113165641654186093"
+    "https://xn--q6vw15bczbg0p.com/knowhow/u4_x/",
+    "https://www.youtube.com/watch?v=jQNZ6OSiCDY",
+    "https://x.com/Laki_ideal_life/status/2097132974273962436"
    ],
    "engines": [
     "ddgs:bing",
@@ -818,11 +818,11 @@
     "https://www.linkedin.com/posts/strategic-digital-reserve-bank_sdrb-reservefi-ors-activity-7518666178018504704-z67_",
     "https://www.linkedin.com/pulse/when-everyone-has-data-one-context-crisis-information-andre-osobe",
     "https://www.linkedin.com/posts/drriteshjain_federal-reserve-board-requests-public-comment-activity-7509820570587332608-9LyL",
-    "https://www.linkedin.com/posts/jdcybertech_jdcybertech-itac-itapplicationcontrols-activity-7520166780842201088-fX5k",
     "https://www.linkedin.com/pulse/9246m-came-back-week-only-three-companies-earned-leon-eisen-phd-6neke",
     "https://www.linkedin.com/pulse/enterprise-finance-accounting-automation-through-ai-rl-ramachandran-vyrxe",
     "https://in.linkedin.com/in/uma-ayyalasomayajula-05930820",
-    "https://www.linkedin.com/posts/s-reddy-34517118a_sap-trm-legacy-data-migration-process-end-to-end-activity-7510639907980075008-JbA8"
+    "https://in.linkedin.com/in/ranjita-thakur-636a35258",
+    "https://hk.linkedin.com/in/zap-cheng"
    ],
    "engines": [
     "ddgs:google",
@@ -833,6 +833,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-06T16:40:00.005343+00:00"
 }
