@@ -8,83 +8,403 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T09:57:01.560443+00:00",
- "evidence": {},
+ "researched_at": "2026-11-08T17:45:26.807075+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "データ報道（データジャーナリズム）の手順を支援する",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データを見つけ、素性を確かめ、クリーニングし、分析し、可視化し、出典を明記して記事にするまでの体系的な手順",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2番目の手順",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "# カテゴリ型に変換（メモリ節約・順序付けが可能）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "海外では、AIが捏造した存在しない判例引用が法廷で問題になった事例（Mata v. Avianca、2023年）や、チャットボットが述べた誤った払い戻し方針が企業を拘束すると判断された事例（エア・カナダ、2024年）が、「LLMの捏造が公表事実として扱われた」典型例として知られる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "# 緯度経度を持つデータフレームを GeoDataFrame に変換",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "データセットの分析、グラフや地図の作成、雑然としたデータのクリーニング、統計の算出、データに基づく記事の構築に使う",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「e-Statのデータを分析したい」「人口あたりで比較したい」「グラフが誤解を招かないか確認したい」「統計から記事を組み立てたい」などの依頼で使う",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "注意：統計の更新頻度・定義・公表日程は変わる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本スキルは一般的な手引きであり、法的・統計的助言ではない",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "e-Stat（政府統計の総合窓口、e-stat.go.jp）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 日本の政府統計を横断的に検索・取得できる中核サイト",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "多くの統計が CSV・Excel・データベース API で提供される",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "、小売物価統計など",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 人口動態統計（出生・死亡・婚姻等）、毎月勤労統計（賃金・労働時間）、賃金構造基本統計、患者調査、各種保健・医療・福祉統計",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 金融・物価・国際収支・資金循環などのマクロ統計",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 貿易統計、国債・財政、予算・決算",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 民間給与実態統計調査、税収統計",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 鉱工業指数、商業動態統計、各種産業統計",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 作物統計、漁業・水産統計、食料需給表",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 建築着工統計、自動車保有・",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "仮説を検証する（取材・文書などの定性的手法と、データ分析などの定量的手法の両方で）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（例：分子2024 → 分母も2024の人口推計）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実際には2024年（経済センサス基礎調査）・人口推計2024が普通に取得できた",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 国勢調査、人口推計、労働力調査、家計調査、",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "*を欠損に変換、(5) 結合用キー（市区町村名）の新旧合併・表記揺れの突き合わせ、がよく必要になる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "分析上の主張は「発見」ではなく「検証すべき仮説」として扱う",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何を検証したかを書く（例：「すべての数値結果を pandas で再計算し、引用した出典はすべて個別に確認した」）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "必要に応じて、検証していない部分も書く",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フォントキャッシュでハングする環境がある（日本版・検証済みメモ 2026-07）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：原稿に載せる数値は独立に計算し直して突き合わせる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "、SNS由来データの検証は",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "注意：統計の更新頻度・定義・公表日程は変わる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "古いデータを使うのはデータ報道の重大な失敗",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "反面教師：2026年に書店データを2016年（経済センサス）・人口を2010年（国勢調査）で作ってしまった失敗例がある",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIツールは探索・コード生成・パターン発見を速めるが、記者が警戒すべき特有の失敗様式がある",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "日本語フォントの注意：Matplotlib 等で図を作ると日本語が「□（豆腐）」になることがある",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特に注意：棒グラフのY軸は必ずゼロ起点にする（途中から始めると差を誇張する）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データから個人が特定されうる扱いに注意する",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "結果を分析し、最も重要な発見に絞り込む",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 政治資金収支報告書、選挙結果",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "海外では、AIが捏造した存在しない判例引用が法廷で問題になった事例（Mata v. Avianca、2023年）や、チャットボットが述べた誤った払い戻し方針が企業を拘束すると判断された事例（エア・カナダ、2024年）が、「LLMの捏造が公表事実として扱われた」典型例として知られる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何を検証したかを書く（例：「すべての数値結果を pandas で再計算し、引用した出典はすべて個別に確認した」）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "時間の順序は合っているか（原因が結果より先か）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "'https://example.com'",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "'https://example.com/data.geojson'",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "地域別の統計（都道府県別の失業率、市区町村別の患者数、選挙区別の結果など）を示すコロプレスに最適",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "'https://www.example.go.jp/'",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "国内：日本新聞協会や各社のデータ報道事例、大学・研究機関の統計講座、e-Stat / RESAS の利用ガイド",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/pjnews/n/nb047436d4181",
+    "url": "https://note.com/gen_kiri/n/n0eac8d570a2b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kazukio/n/n2a704557e23c",
+    "url": "https://note.com/ikematsu/n/n52aa64a10e4b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/0081/n/n4efba02bd865",
+    "url": "https://note.com/hidetoshi_h_/n/n11c759a9ea2b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/loots/n/n2b912881f714",
+    "url": "https://note.com/yasuhitoo/n/n31380fc9abd3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ryomakom/n/n2a463a9bdd77",
+    "url": "https://note.com/zephel01/n/nbfb54cb384d6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/dapper_kalmia689/n/ne1c85bfd9fe6",
+    "url": "https://note.com/d5c/n/n4bc432331c8d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.asahi.com/articles/ASV801SS9V80BSDS008M.html",
+    "url": "https://note.com/tm_2025/n/n4c709686b4e1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://j-forum.org/memberlibrary/%E3%83%87%E3%83%BC%E3%82%BF%E5%A0%B1%E9%81%93%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%EF%BD%9E%E7%9D%80%E6%83%B3%E3%81%8B%E3%82%89%E5%88%B6%E4%BD%9C%E3%81%BE%E3%81%A7%E3%81%AE%E3%83%97%E3%83%AD/",
+    "url": "https://note.com/kazukio/n/nd4f0e127fd31",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.resixley.co.jp/blog/cognitive-warfare/media-bias-and-selective-editing",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/johokanri/58/3/58_166/_html/-char/ja/",
+    "url": "https://margin-shift.com/blog/20261028-newsroom-ai-oversight",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://community.ibm.com/community/user/blogs/yoichiro-nishimaki/2026/06/28/lessons28",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://datajournalismcom.s3-eu-central-1.amazonaws.com/handbooks/The-Data-Journalism-Handbook-2-JP.pdf",
+    "url": "https://j-forum.org/wp-content/uploads/2022/04/Jforum2022_flier_v2-3.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/ssi/7/1/7_37/_article/-char/ja/",
+    "url": "https://note.com/hirokimiyano/n/n16172f9159b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/questionnaire-survey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkfd.or.jp/research/detail.php?id=5048",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ppc.go.jp/all_faq_index/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ferris.ac.jp/column/post/sr.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/blog/b_1932.html",
     "status": "ok",
     "method": "http"
    },
@@ -94,33 +414,58 @@
     "method": "http"
    },
    {
+    "url": "https://www.pressnet.or.jp/about/commendation/pdf/workfile04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://d-jedi.jp/m/m05f3e7d545a3?gs=3bdec60a8a1652091af212faf6051f5f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jams.media/wp/wp-content/uploads/2023/04/2023spr_yoshisyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/ssi/7/1/7_37/_article/-char/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data.journalism.columbia.edu/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.scribd.com/document/468666266/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/557/2021/11/DataJournalismPlaybook.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://gijn.org/stories/developing-a-data-state-of-mind-key-tips-for-editors/",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theopennotebook.com/2020/07/28/interrogating-data-a-science-writers-guide-to-data-journalism/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.okfn.org/2025/11/28/open-data-editor-in-action-interrogating-data-for-investigative-journalism-in-mexico/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://americanpressinstitute.org/how-to-get-started-data/",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -129,204 +474,551 @@
   {
    "query": "データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表） site:note.com",
    "results": [
-    "https://note.com/pjnews/n/nb047436d4181",
-    "https://note.com/kazukio/n/n2a704557e23c",
-    "https://note.com/0081/n/n4efba02bd865",
-    "https://note.com/loots/n/n2b912881f714",
-    "https://note.com/ryomakom/n/n2a463a9bdd77",
-    "https://note.com/dapper_kalmia689/n/ne1c85bfd9fe6",
-    "https://note.com/gifted_bear994/n/n112199a7c89d"
+    "https://note.com/gen_kiri/n/n0eac8d570a2b",
+    "https://note.com/ikematsu/n/n52aa64a10e4b",
+    "https://note.com/hidetoshi_h_/n/n11c759a9ea2b",
+    "https://note.com/yasuhitoo/n/n31380fc9abd3",
+    "https://note.com/zephel01/n/nbfb54cb384d6",
+    "https://note.com/d5c/n/n4bc432331c8d",
+    "https://note.com/suwash/n/n74f64517eaed",
+    "https://note.com/reading_monkey/n/n944c3dd88609",
+    "https://note.com/hirokimiyano/n/nea163dc63aaf",
+    "https://note.com/hirokimiyano/n/n9d970a8296c2"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表） note",
    "results": [
-    "https://note.com/kazukio/n/n2a704557e23c",
-    "https://note.com/pjnews/n/nb047436d4181",
-    "https://www.asahi.com/articles/ASV801SS9V80BSDS008M.html",
-    "https://j-forum.org/memberlibrary/データ報道やってます～着想から制作までのプロ/",
-    "https://www.resixley.co.jp/blog/cognitive-warfare/media-bias-and-selective-editing",
-    "https://www.jstage.jst.go.jp/article/johokanri/58/3/58_166/_html/-char/ja/",
-    "https://community.ibm.com/community/user/blogs/yoichiro-nishimaki/2026/06/28/lessons28"
+    "https://note.com/gen_kiri/n/n0eac8d570a2b",
+    "https://note.com/tm_2025/n/n4c709686b4e1",
+    "https://note.com/kazukio/n/nd4f0e127fd31",
+    "https://biz.note.com/n/n07aac40f6ada",
+    "https://note.com/zephel01/n/nbfb54cb384d6",
+    "https://margin-shift.com/blog/20261028-newsroom-ai-oversight",
+    "https://j-forum.org/wp-content/uploads/2022/04/Jforum2022_flier_v2-3.pdf",
+    "https://note.com/hirokimiyano/n/n16172f9159b4",
+    "https://comemo.nikkei.com/n/n54b385ffee1a",
+    "https://note.com/kazukio/n/n2a704557e23c"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表） やり方",
    "results": [
-    "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
-    "https://j-forum.org/memberlibrary/データ報道やってます～着想から制作までのプロ/",
-    "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
-    "https://www.asahi.com/articles/ASV801SS9V80BSDS008M.html",
-    "https://community.ibm.com/community/user/blogs/yoichiro-nishimaki/2026/06/28/lessons28",
-    "https://datajournalismcom.s3-eu-central-1.amazonaws.com/handbooks/The-Data-Journalism-Handbook-2-JP.pdf",
-    "https://www.jstage.jst.go.jp/article/johokanri/58/3/58_166/_html/-char/ja/"
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "https://j-forum.org/wp-content/uploads/2022/04/Jforum2022_flier_v2-3.pdf",
+    "https://data-viz-lab.com/questionnaire-survey",
+    "https://www.tkfd.or.jp/research/detail.php?id=5048",
+    "https://www.ppc.go.jp/all_faq_index",
+    "https://www.ferris.ac.jp/column/post/sr.html",
+    "https://usonar.co.jp/blog/b_1932.html",
+    "https://ftp.isev.co.uk/katana70/2239345/",
+    "https://udct.co.jp/little-press/how-to-research-for-writing/",
+    "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表） 事例",
    "results": [
-    "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
-    "https://www.jstage.jst.go.jp/article/ssi/7/1/7_37/_article/-char/ja/",
     "https://www.asahishimbun-saiyou.com/company/datajournalism",
-    "https://www.jstage.jst.go.jp/article/johokanri/58/3/58_166/_html/-char/ja/",
-    "https://j-forum.org/memberlibrary/データ報道やってます～着想から制作までのプロ/",
-    "https://www.asahi.com/articles/ASV801SS9V80BSDS008M.html",
-    "https://note.com/kazukio/n/n2a704557e23c"
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "https://j-forum.org/wp-content/uploads/2022/04/Jforum2022_flier_v2-3.pdf",
+    "https://www.pressnet.or.jp/about/commendation/pdf/workfile04.pdf",
+    "https://www.tkfd.or.jp/research/detail.php?id=5048",
+    "https://margin-shift.com/blog/20261028-newsroom-ai-oversight",
+    "https://www.ppc.go.jp/all_faq_index",
+    "https://d-jedi.jp/m/m05f3e7d545a3",
+    "https://www.jams.media/wp/wp-content/uploads/2023/04/2023spr_yoshisyu.pdf",
+    "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "data journalism editor checklist questions universe subset sample self-reported name matching record layout",
    "results": [
     "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "https://data.journalism.columbia.edu/",
-    "https://www.scribd.com/document/468666266/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng",
-    "https://news.microsoft.com/wp-content/uploads/prod/sites/557/2021/11/DataJournalismPlaybook.pdf",
-    "https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf",
     "https://gijn.org/stories/developing-a-data-state-of-mind-key-tips-for-editors/",
-    "https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202107533"
+    "https://www.theopennotebook.com/2020/07/28/interrogating-data-a-science-writers-guide-to-data-journalism/",
+    "https://blog.okfn.org/2025/11/28/open-data-editor-in-action-interrogating-data-for-investigative-journalism-in-mexico/",
+    "https://www.youtube.com/watch?v=M_Dx5A44hug",
+    "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
+    "https://americanpressinstitute.org/how-to-get-started-data/",
+    "https://ksj.mit.edu/resource/data-journalism-tools/further-reading/",
+    "https://onlinejournalismblog.com/2012/04/23/step-by-step-how-to-start-in-a-data-journalist-role-2/",
+    "https://en.wikipedia.org/wiki/Data_journalism"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）",
    "results": [
-    "https://note.com/pjnews/n/nb047436d4181",
-    "https://note.com/kazukio/n/n2a704557e23c",
-    "https://note.com/0081/n/n4efba02bd865",
-    "https://note.com/loots/n/n2b912881f714",
-    "https://note.com/toino_shoko/n/n1e1161bf069d",
-    "https://note.com/dapper_kalmia689/n/ne1c85bfd9fe6",
-    "https://note.com/gifted_bear994/n/n112199a7c89d"
+    "https://note.com/yasuhitoo/n/n31380fc9abd3",
+    "https://note.com/ikematsu/n/n52aa64a10e4b",
+    "https://note.com/d5c/n/n4bc432331c8d",
+    "https://note.com/hirokimiyano/n/n16172f9159b4",
+    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "https://note.com/daigo_miyoshi/n/n06102a02182f",
+    "https://note.com/reading_monkey/n/n944c3dd88609",
+    "https://note.com/gifted_viola8806/n/n7a10da03ffb3",
+    "https://note.com/yasuhitoo/n/n8999cc74f1a7",
+    "https://note.com/reading_monkey/n/nd296c3a4db64"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）",
    "results": [
-    "https://x.com/sokushihoDaily/status/2052946660184183159",
-    "https://x.com/tmaita77/status/2089212837898093018",
-    "https://x.com/pon010n21/status/2105917166038180130",
-    "https://x.com/matsu__aki/status/1966499592951738622",
-    "https://x.com/kazbarque/status/2117817693399326784",
-    "https://x.com/KintaroOfficial/status/2102745541587464517",
-    "https://x.com/nkinvestigation"
+    "https://x.com/fujikawa/status/2115207077073449077",
+    "https://x.com/luigi_jpn/article/2095766103033282864",
+    "https://x.com/fujikawa/status/2118109224001744994",
+    "https://x.com/politasjp/all",
+    "https://x.com/khcoder/with_replies",
+    "https://x.com/KagawaTomo/status/2117526795083821560",
+    "https://x.com/KagawaTomo/status/2116445181717442741",
+    "https://x.com/SmartHR_Mag",
+    "https://x.com/enspire_co_jp/status/2116883063309578519",
+    "https://x.com/fujikawa/status/2117754449263522049"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:linkedin.com データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）",
    "results": [
-    "https://www.linkedin.com/posts/nkikuchi_問いの編集力-activity-7308463846480875520-KLny",
-    "https://www.linkedin.com/pulse/データをビジネスに活かす3つの問い-有輝-青山-mftnc",
-    "https://jp.linkedin.com/posts/qualtricscxextakuyatatsuuma_データの死角を歩く03組織の存在しないはずのデータに命を吹き込む-activity-7447548303942152192-dnzm",
-    "https://jp.linkedin.com/posts/誠之-鈴木-6229041a5_地域ジャーナリズムデータ報道osintオープンソースインテリジェンス推進-activity-7482955138614087680-th58",
-    "https://jp.linkedin.com/posts/416nishimaki_データ分析者達の教訓28-分析を迷走させないコツは正しい問いの設定と施策からの逆算-activity-7480040779542102016-i0A0",
-    "https://jp.linkedin.com/posts/shigun-shou-9aa07b1b8_成果につながるデータ分析の基本課題定義構造化仮説検証で本質をつかむ-qiita-activity-7470042988489072640-VnEO",
-    "https://jp.linkedin.com/in/海人-小笠原-84b1b5425"
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/in/yusuke-ehara-74468a148",
+    "https://jp.linkedin.com/in/masaki-shirasugi-6279b4191",
+    "https://jp.linkedin.com/pulse/spring-forward-data-analytics-seasonal-playbook-growth-asbvf?tl=ja",
+    "https://jp.linkedin.com/in/komatsukenji/ja",
+    "https://jp.linkedin.com/in/yuma-nagasawa-78626b30a",
+    "https://jp.linkedin.com/in/taketoshi-shimizu",
+    "https://jp.linkedin.com/in/mihokobayashibodyin",
+    "https://jp.linkedin.com/in/junichimakabe",
+    "https://jp.linkedin.com/in/%E4%BA%AE%E5%B9%B3-%E5%86%85%E6%9C%A8-b3085a12a"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）",
    "results": [
-    "https://www.facebook.com/events/1499585368473633/",
-    "https://www.facebook.com/mamoruichikawa/photos/記者編集者のスキルと知識を高める報道実務家フォーラム２０２５４月25日金27日日早稲田大学国際会議場にてリアルとオンラインのハイブリッドで開催します伝える仕事に/29058340893814596/",
+    "https://www.facebook.com/yoshihisa.sugiyama/posts/2026-11-02-%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%A8%E3%82%A4%E3%83%8811%E6%9C%881%E6%97%A5%E3%81%AE%E8%A8%98%E4%BA%8B%E3%82%88%E3%82%8A%E7%9F%A5%E3%82%8A%E3%82%BF%E3%82%A4%E3%81%8C%E8%AA%BF%E3%81%B9%E3%82%BF%E3%82%A4%E3%81%AB%E5%A4%89%E3%82%8F%E3%82%8B%E7%B7%A8%E9%9B%86%E9%95%B7%E3%81%AE%E8%A6%96%E7%82%B9-11%E6%9C%881%E6%97%A5%E3%81%8B%E3%82%89%E9%8A%80%E8%A1%8C%E7%AA%93%E5%8F%A3%E3%81%A7%E3%81%AE500%E4%B8%87%E3%83%90%E3%83%BC%E3%83%84%E4%BB%A5%E4%B8%8A%E3%81%AE%E7%8F%BE%E9%87%91%E5%8F%96%E5%BC%95%E3%81%AF%E8%B3%87%E9%87%91%E3%81%AE/10233877879276541/",
+    "https://www.facebook.com/yoshihisa.sugiyama/posts/2026-11-01-%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%A8%E3%82%A4%E3%83%8810%E6%9C%8831%E6%97%A5%E3%81%AE%E8%A8%98%E4%BA%8B%E3%82%88%E3%82%8A%E7%B7%A8%E9%9B%86%E9%95%B7%E3%81%AE%E8%A6%96%E7%82%B9-%E7%B1%B3%E5%9B%BD%E3%83%8F%E3%82%A4%E3%83%86%E3%82%AF%E6%A0%AA%E3%81%AE%E6%80%A5%E8%90%BD%E3%81%A7%E3%82%BF%E3%82%A4%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E4%BE%A1%E6%A0%BC%E3%81%8C%E5%AF%84%E3%82%8A%E4%BB%98%E3%81%8D%E3%81%A71%E3%83%90%E3%83%BC%E3%83%84%E9%87%8D%E9%87%8F%E3%81%82%E3%81%9F%E3%82%8A1550%E3%83%90%E3%83%BC%E3%83%84%E4%B8%8B%E8%90%BD/10233871650360822/",
+    "https://www.facebook.com/kaznishihara/?locale=ja_JP",
+    "https://www.facebook.com/maxxpl/posts/line-voom%E3%81%AF930%E3%81%A7%E7%B5%82%E4%BA%86%E3%81%971021%E3%81%8B%E3%82%89%E6%96%B0%E6%8A%95%E7%A8%BF%E3%81%B8%E5%88%87%E3%82%8A%E6%9B%BF%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%99%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AEline%E5%85%AC%E5%BC%8F%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E9%81%8B%E7%94%A8%E3%81%A7%E4%BB%8A%E3%81%AE%E3%81%86%E3%81%A1%E3%81%AB%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%9F%E3%81%84%E7%A7%BB%E8%A1%8C%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%81%A8%E8%B2%BB%E7%94%A8%E5%A5%91%E7%B4%84%E3%81%AE%E8%80%83%E3%81%88/1762155192580467/",
+    "https://www.facebook.com/groups/813342132068841/",
+    "https://www.facebook.com/61594198663457/posts/%E8%87%AA%E8%A1%9B%E9%9A%8A%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA%E3%82%92%E4%BA%8B%E5%89%8D%E9%98%B2%E7%81%BD%E3%81%AE%E6%9F%B1%E3%81%AB%E4%BD%8D%E7%BD%AE%E4%BB%98%E3%81%91%E3%82%8B%E4%BB%8A%E5%9B%9E%E3%81%AE%E9%98%B2%E7%81%BD%E5%BA%81%E7%99%BA%E8%B6%B3%E3%81%A7%E7%89%B9%E3%81%AB%E6%B3%A8%E7%9B%AE%E3%81%97%E3%81%9F%E3%81%84%E3%81%AE%E3%81%AF%E7%81%BD%E5%AE%B3%E3%81%8C%E8%B5%B7%E3%81%8D%E3%81%A6%E3%81%8B%E3%82%89%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%B9%B3%E6%99%82%E3%81%8B%E3%82%89%E8%A2%AB%E5%AE%B3%E3%82%92%E6%B8%9B%E3%82%89%E3%81%99%E4%BA%8B%E5%89%8D%E9%98%B2%E7%81%BD%E3%82%92%E9%87%8D%E8%A6%96%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%99/122128864131473288/",
+    "https://www.facebook.com/kawagoenomori/?locale=en_GB",
     "https://www.facebook.com/mamoruichikawa/posts/記者編集者のスキルと知識を高める報道実務家フォーラム２０２５４月25日金27日日早稲田大学国際会議場にてリアルとオンラインのハイブリッドで開催します伝える仕事に/29058345893814096/",
-    "https://www.facebook.com/kazutoshi.ueda.5/videos/真実を伝えると大変な事になるって本当でしょうか疑問が多い政策や報道をsnsで伝える限界とは-なぜ偏向報道は起こるのか1-編集方針価値観の違いメディアはそれぞれ社/1249191010351678/",
-    "https://www.facebook.com/datavizlab/posts/318288769764412/",
-    "https://www.facebook.com/henkoken/posts/目の前の課題の問い方そのものが変わっていく受講者インタビューvol1-奥本英宏さんリクルートワークス研究所所長httpswwweelcojpaidanewsin/857464979168878/",
-    "https://www.facebook.com/mana.iwamoto/videos/令和8年6月17日のデジタルai特別委員会での質疑の一部です国民のデータを活用する以上その価値がどのように国民へ還元されるのかを問いました答弁では企業の利益が税/958231687253385/"
+    "https://www.facebook.com/mamoruichikawa/photos/記者編集者のスキルと知識を高める報道実務家フォーラム２０２５４月25日金27日日早稲田大学国際会議場にてリアルとオンラインのハイブリッドで開催します伝える仕事に/29058340893814596/",
+    "https://www.facebook.com/kazutoshi.ueda.5/videos/真実を伝えると大変な事になるって本当でしょうか疑問が多い政策や報道をsnsで伝える限界とは-なぜ偏向報道は起こるのか1-編集方針価値観の違いメディアはそれぞれ社/1249191010351678/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表） note 社長",
    "results": [
-    "https://ja.wikipedia.org/wiki/加藤貞顕",
-    "https://note.com/ai_henshubu_note/n/ne405a0196b58",
-    "https://note.com/ai_genba_log/n/ne98dcb434809",
-    "https://debono.co.jp/media/tasha-ai-jiko-jisha-tenken/",
-    "https://www.asahi.com/articles/ASV801SS9V80BSDS008M.html",
-    "https://innovatopia.jp/cyber-security/cyber-security-news/119659/",
-    "https://www.asahi.com/articles/ASVBZ21Q1VBZULZU003M.html"
+    "https://note.com/gen_kiri/n/n0eac8d570a2b",
+    "https://note.com/tm_2025/n/n4c709686b4e1",
+    "https://note.com/corklabguild/n/n18447e963e9f",
+    "https://www.jiyujyutaku-navi.com/en-us/column/tag/report",
+    "https://note.com/zephel01/n/nbfb54cb384d6",
+    "https://margin-shift.com/blog/20261028-newsroom-ai-oversight",
+    "https://j-forum.org/wp-content/uploads/2022/04/Jforum2022_flier_v2-3.pdf",
+    "https://www.nikkei.com/opinion/senior-writer/?page=3",
+    "https://ftp.isev.co.uk/katana70/2239345/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表） X 投稿",
    "results": [
+    "https://news.web.nhk/newsweb/na/na-k10015023391000",
+    "https://www.youtube.com/watch?v=eYJVcFiL4cw",
+    "https://x.com/ShingoHatakeya1/status/2112149284389032050",
+    "https://www.asahi.com/articles/AST6C0CWDT6CULZU002M.html",
+    "https://j-forum.org/wp-content/uploads/2022/04/Jforum2022_flier_v2-3.pdf",
+    "https://www.pressnet.or.jp/news/headline/250612_15910.html",
+    "https://www.youtube.com/watch?v=urR_GZ4keN0",
+    "https://www.nhk.or.jp/bunken-blog/index_49.html",
     "https://note.com/sebaschans/n/n4598184b2c5e",
-    "https://x.com/tmaita77/status/2089212837898093018",
-    "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
-    "https://note.com/sebaschans/n/nc239af90a4c2",
-    "https://help.x.com/ja/using-x/edit-post",
-    "https://x.com/kobesyakai/status/2097163270167892408",
-    "https://github.com/sgbms1/ja-news-skills"
+    "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "data journalism editor checklist questions universe subset sample self-reported name matching record layout site:linkedin.com",
    "results": [
-    "https://uk.linkedin.com/in/benjamin-butcher-29822479",
-    "https://www.linkedin.com/in/emilia-ruzicka-639306182",
-    "https://www.linkedin.com/pulse/checklist-asking-right-questions-dataset-arno-wakfer-mct-c4msc",
-    "https://uk.linkedin.com/in/clairemilleruk",
-    "https://in.linkedin.com/in/yashaswani-chauhan-8840a8205",
-    "https://ng.linkedin.com/in/kafilat-taiwo-001359337",
-    "https://in.linkedin.com/in/aditya-kalra-3b48408"
+    "https://www.linkedin.com/posts/jessehirsch_some-time-back-i-was-in-between-jobs-a-activity-7511496661194649600-kdRo",
+    "https://www.linkedin.com/in/natallierocha",
+    "https://www.linkedin.com/in/maryrandolph17",
+    "https://www.linkedin.com/in/bob-love-57517b6",
+    "https://www.linkedin.com/in/darren-samuelsohn-0b64a87",
+    "https://de.linkedin.com/in/andreasvonbubnoff",
+    "https://www.linkedin.com/in/serrasowers",
+    "https://www.linkedin.com/in/clara-harter-a70200115",
+    "https://www.linkedin.com/in/brian-resnick-06a34b1b",
+    "https://www.linkedin.com/in/andrea-gawrylewski"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
- "missing": {
-  "手順・やり方": "記載なし（読んだ22頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ22頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ22頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）",
-  "実例": "記載なし（読んだ22頁・検索12回）"
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "データ報道（データジャーナリズム）の手順を支援する",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データを見つけ、素性を確かめ、クリーニングし、分析し、可視化し、出典を明記して記事にするまでの体系的な手順",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2番目の手順",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "# カテゴリ型に変換（メモリ節約・順序付けが可能）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "海外では、AIが捏造した存在しない判例引用が法廷で問題になった事例（Mata v. Avianca、2023年）や、チャットボットが述べた誤った払い戻し方針が企業を拘束すると判断された事例（エア・カナダ、2024年）が、「LLMの捏造が公表事実として扱われた」典型例として知られる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "# 緯度経度を持つデータフレームを GeoDataFrame に変換",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "データセットの分析、グラフや地図の作成、雑然としたデータのクリーニング、統計の算出、データに基づく記事の構築に使う",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「e-Statのデータを分析したい」「人口あたりで比較したい」「グラフが誤解を招かないか確認したい」「統計から記事を組み立てたい」などの依頼で使う",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "注意：統計の更新頻度・定義・公表日程は変わる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本スキルは一般的な手引きであり、法的・統計的助言ではない",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "e-Stat（政府統計の総合窓口、e-stat.go.jp）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 日本の政府統計を横断的に検索・取得できる中核サイト",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "多くの統計が CSV・Excel・データベース API で提供される",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "、小売物価統計など",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 人口動態統計（出生・死亡・婚姻等）、毎月勤労統計（賃金・労働時間）、賃金構造基本統計、患者調査、各種保健・医療・福祉統計",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 金融・物価・国際収支・資金循環などのマクロ統計",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 貿易統計、国債・財政、予算・決算",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 民間給与実態統計調査、税収統計",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 鉱工業指数、商業動態統計、各種産業統計",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 作物統計、漁業・水産統計、食料需給表",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 建築着工統計、自動車保有・",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "仮説を検証する（取材・文書などの定性的手法と、データ分析などの定量的手法の両方で）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（例：分子2024 → 分母も2024の人口推計）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実際には2024年（経済センサス基礎調査）・人口推計2024が普通に取得できた",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 国勢調査、人口推計、労働力調査、家計調査、",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "*を欠損に変換、(5) 結合用キー（市区町村名）の新旧合併・表記揺れの突き合わせ、がよく必要になる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "分析上の主張は「発見」ではなく「検証すべき仮説」として扱う",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何を検証したかを書く（例：「すべての数値結果を pandas で再計算し、引用した出典はすべて個別に確認した」）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "必要に応じて、検証していない部分も書く",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フォントキャッシュでハングする環境がある（日本版・検証済みメモ 2026-07）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：原稿に載せる数値は独立に計算し直して突き合わせる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "、SNS由来データの検証は",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "注意：統計の更新頻度・定義・公表日程は変わる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "古いデータを使うのはデータ報道の重大な失敗",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "反面教師：2026年に書店データを2016年（経済センサス）・人口を2010年（国勢調査）で作ってしまった失敗例がある",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIツールは探索・コード生成・パターン発見を速めるが、記者が警戒すべき特有の失敗様式がある",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "日本語フォントの注意：Matplotlib 等で図を作ると日本語が「□（豆腐）」になることがある",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特に注意：棒グラフのY軸は必ずゼロ起点にする（途中から始めると差を誇張する）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データから個人が特定されうる扱いに注意する",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "結果を分析し、最も重要な発見に絞り込む",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "— 政治資金収支報告書、選挙結果",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "海外では、AIが捏造した存在しない判例引用が法廷で問題になった事例（Mata v. Avianca、2023年）や、チャットボットが述べた誤った払い戻し方針が企業を拘束すると判断された事例（エア・カナダ、2024年）が、「LLMの捏造が公表事実として扱われた」典型例として知られる",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何を検証したかを書く（例：「すべての数値結果を pandas で再計算し、引用した出典はすべて個別に確認した」）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "時間の順序は合っているか（原因が結果より先か）",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "'https://example.com'",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "'https://example.com/data.geojson'",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "地域別の統計（都道府県別の失業率、市区町村別の患者数、選挙区別の結果など）を示すコロプレスに最適",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "'https://www.example.go.jp/'",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "国内：日本新聞協会や各社のデータ報道事例、大学・研究機関の統計講座、e-Stat / RESAS の利用ガイド",
+    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
  },
- "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T10:53:24.713470+00:00"
 }

@@ -1529,6 +1529,7 @@
   - 「出力された数字やURLの信頼性をAI自身に検証させる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「AIを使ったリサーチ業務の成否は、AIの性能ではなく「人間側の検証プロセス」にかかっている」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「架空のデータや検証できないURLが含まれている場合は、迷わず破棄して一次情報にあたる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「架空の企業分析を例に、説明を求める質問、比較条件と原典の照合、判断できない点を専門知識を持つ人へ引き継ぐ手順を紹介します」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「◦契約書等の文章の論理チェック・矛盾点指摘」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「拠とどこが矛盾していると考えているのかをプロンプ」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「客観的証拠と矛盾している、不合理である、経験則」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
@@ -1537,7 +1538,6 @@
   - 「もっともらしい製品アイデアを、検証済みの需要として扱わない」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「調査は公開資料による探索的な調査であり、代表性のあるアンケート、市場規模の推計、製品の推奨ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「少数の投稿だけで市場規模は推計できないため」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「調査によって当初の仮説が弱まる余地を残すため」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
 - 一次情報の探し方：
   - 「統計データや法律情報にドメインの指定が含まれているか」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「セグメント1：市場規模と主要プレイヤーの洗い出し（公的機関や業界団体の公式データを含むこと）」（https://zenn.dev/andyailab/articles/436444a75f05a0）
@@ -1547,13 +1547,13 @@
   - 「: 「無い」と書くときは、探した言葉・探した場所（検索エンジン・データベース・業界団体のサイト）・日付を必ず並べて書く」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「10個出させ、実在する語を採用」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「架空のデータや検証できないURLが含まれている場合は、迷わず破棄して一次情報にあたる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「送る版の選定、Officeの本文以外に残る情報、PDFの墨消しとサニタイズ、保存後の再確認と送信保留の判断を、公式資料に基づいて解説します」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「Primary sources for this section」（https://www.chatgrid.ai/blog/how-to-verify-ai-generated-research）
+  - 「Ask what would make the central conclusion wrong, narrower, or outdated. Search primary sources for exceptions, changed definitions, negative findings, and conditions excluded by the initial answer. AI can propose counterclaims, but each proposed challenge must enter the same verification process as a supporting claim.」（https://www.chatgrid.ai/blog/how-to-verify-ai-generated-research）
+  - 「These public primary sources ground the factual and methodological claims in this guide. Product behavior described for ChatGrid comes from the verified October 9, 2026 product-research gate; dynamic product facts should be rechecked on publication day.」（https://www.chatgrid.ai/blog/how-to-verify-ai-generated-research）
+  - 「Videos, PDFs, websites, and notes on one visual AI canvas」（https://www.chatgrid.ai/blog/how-to-verify-ai-generated-research）
   - 「れは、ある単語の次にどのような単語が続くかを統計」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「◦膨大な文書（PDF, Word など） をアップロード」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「事務所ウェブサイトの更新、スタッフの採用・育成・勤」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「弁護士3名の事務所で、事務員の採用がうまくい」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「と、採用・定着の改善策を、中小企業の経営コンサル」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3.pdf）をご参照のこと」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「その際、根拠 （公的機関」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 - 失敗・落とし穴：
   - 「接続役、MCP、共通契約、失敗時の停止条件、単一モデルと複数モデルを比較する判断基準まで整理します」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「事前リサーチ8ワークフロー、4役割スキルシフト、生存戦略4本、6落とし穴、EU AI Act 2026-08 まで、広告実務者向け完全ガイド」（https://media.deskrex.ai/case-citation-research-2026/）
@@ -1581,11 +1581,11 @@
   - 「: 調査を始める前に、AIに「同じものを指す言い換え・業界の略語・英語の呼び方」を10個出させ、そのうち実在の検索結果がある語をすべて検索の対象に入れる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「: 「国内の事例は見当たらない」と報告したら、クライアントがすぐに事例を見つけた」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「電通AICO2の役割分担事例も」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「2026年7月24日にリリースされたClaude Opus 5と、Anthropic公式が公開した「Claude 5世代向けコンテキストエンジニアリング新ルール」を、Claude Codeシステムプロンプト80％削減の実例、残す3要素と削る4要素の判断基準、CLAUDE.mdを半分に減らす書き換え辞書7例、Fable 5との使い分けまで一気に整理します」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「Label the rest as analysis, opinion, transition, or example. Analysis still needs honest reasoning, but it should not borrow false authority from a nearby citation. A claim inventory turns verification into a finite queue and prevents the most fluent paragraphs from escaping review.」（https://www.chatgrid.ai/blog/how-to-verify-ai-generated-research）
+  - 「Public captioned video used as a reproducible example source alongside the NIST report.」（https://www.chatgrid.ai/blog/how-to-verify-ai-generated-research）
   - 「3 弁護士業務における活用事例」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「成AIによる誤情報が法廷に提出された事例として報」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「道された最初の事例であり、また、連邦民事訴訟規則」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「11 条による制裁金が課された最初の事例でもある」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「「AI Hallucination Cases ＊3」という、裁判所による」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
@@ -4328,7 +4328,7 @@
   - 「This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.」（https://datamgmtinedresearch.com/clean）
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -7327,11 +7327,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
@@ -8913,6 +8913,7 @@
   - 「会計帳簿そのものに誤りや不正が存在する可能性があるためです」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
   - 「具体的な事情に応じて、必要な注意を払って監査を行うことが求められます」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
   - 「増資と第三者割当の基本――新株発行で注意すべき会社法のルール」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意 | 千代田区の司法書士事務所「司法書士法人永田町事務所」-商業登記特化-」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説」（https://asanagi.co.jp/2023/03/07/5096/）
@@ -8922,7 +8923,6 @@
   - 「のみを公示している場合は、違法状態となることに注意する必要がある」（https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告を怠ると罰則が課せられるため、注意が必要です」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「本書では、はじめてERPを導入する企業向けに、ERPの基本とその失敗しない選び方を解説します」（https://biz.moneyforward.com/erp/basic/2193/）
 - 実例：
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -8930,17 +8930,19 @@
   - 「例えば、会社の事業の経過や成果、重要な経営上の事項などが記載対象になります」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
   - 「例えば、法人税法では、帳簿書類の保存について別途の規定が設けられています」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
   - 「例えば、会計監査人の監査意見や監査役などの監査結果について、法令上の条件を確認する必要があります」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
+  - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「マテリアリティとは？重要性や特定するプロセス、事例を解説」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「アンゾフの成長マトリクスとは? 企業事例や経営戦略をわかりやすく解説」（https://biz.moneyforward.com/erp/basic/2193/）
   - 「これは、決算公告を怠ったことを理由に実際に過料が科されるケースが多くないためです」（https://sw-kaikei.com/archives/1874）
   - 「試算表や決算書の数字は、あくまで「過去の結果」を表すものです」（https://sw-kaikei.com/archives/1874）
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「企業によくある問題として、部門ごとに最適化を進めた結果、部門間に壁ができ、業務の一貫性や効率性が損なわれてしまうことがあります」（https://biz.moneyforward.com/erp/basic/2193/）
   - 「その結果、取引に際して危険性が高いと判断されて取引を打ち切られたり、信用力が低下して株主や顧客の離反が生じたりするリスクがあります」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「一方で大会社に該当しないケースでは、貸借対照表のみの公告となります（同上）」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「ただし、損益計算書の要旨を公告しないケースでは、貸借対照表の要旨に当期純損益金額を付記します（会社計算規則第142条）」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「決算公告の義務や例外的に不要となるケースについて説明します」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「例外的に、以下のケースに該当する会社は決算公告が不要です（会社法第440条3項・4項、会社法の施行に伴う関係法律の整備等に関する法律第28条）」（https://biz.moneyforward.com/erp/basic/2193/）
 - 検索結果の抜粋：
   - 「決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab — Oct 17, 2026 · 決算公告とは、株式会社が定時株主総会のあと、貸借対照表（大会社は損益計算書も）を公告する会社法上の義務です。 官報や日刊新聞紙なら要旨で足り、ホームページに5年間掲載する方法も選べます。」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算書を作るだけでは終わらない――会社法上の計算書類・承認・公告 | ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も」（https://www.kigyou-houmu.com/secret-4/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab決算書を作るだけでは終わらない――会社法上の計算書類・承認・公告 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も」（https://www.kigyou-houmu.com/secret-4/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告はいつまでに｜方法の選択と電子公告決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
   - 「決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ... — Oct 17, 2026 · 株式会社は、定時株主総会の終結後、遅滞なく貸借対照表（大会社は損益計算書も）を公告する義務があります。官報や日刊新聞紙で公告する場合は要旨で足り、ホームページに5年間掲載する方法も選べます。公告の内容、公告方法の定め、怠った場合の100万円以下の過料を会社法の条文で ...」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
@@ -10869,11 +10871,60 @@
 
 ## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：
+  - 「データ報道（データジャーナリズム）の手順を支援する」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「データを見つけ、素性を確かめ、クリーニングし、分析し、可視化し、出典を明記して記事にするまでの体系的な手順」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「2番目の手順」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「# カテゴリ型に変換（メモリ節約・順序付けが可能）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「海外では、AIが捏造した存在しない判例引用が法廷で問題になった事例（Mata v. Avianca、2023年）や、チャットボットが述べた誤った払い戻し方針が企業を拘束すると判断された事例（エア・カナダ、2024年）が、「LLMの捏造が公表事実として扱われた」典型例として知られる」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「# 緯度経度を持つデータフレームを GeoDataFrame に変換」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+- 突き合わせ・推定：
+  - 「仮説を検証する（取材・文書などの定性的手法と、データ分析などの定量的手法の両方で）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「（例：分子2024 → 分母も2024の人口推計）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「実際には2024年（経済センサス基礎調査）・人口推計2024が普通に取得できた」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 国勢調査、人口推計、労働力調査、家計調査、」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「*を欠損に変換、(5) 結合用キー（市区町村名）の新旧合併・表記揺れの突き合わせ、がよく必要になる」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「分析上の主張は「発見」ではなく「検証すべき仮説」として扱う」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「何を検証したかを書く（例：「すべての数値結果を pandas で再計算し、引用した出典はすべて個別に確認した」）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「必要に応じて、検証していない部分も書く」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「フォントキャッシュでハングする環境がある（日本版・検証済みメモ 2026-07）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「：原稿に載せる数値は独立に計算し直して突き合わせる」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「、SNS由来データの検証は」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+- 一次情報の探し方：
+  - 「データセットの分析、グラフや地図の作成、雑然としたデータのクリーニング、統計の算出、データに基づく記事の構築に使う」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「「e-Statのデータを分析したい」「人口あたりで比較したい」「グラフが誤解を招かないか確認したい」「統計から記事を組み立てたい」などの依頼で使う」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「注意：統計の更新頻度・定義・公表日程は変わる」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「本スキルは一般的な手引きであり、法的・統計的助言ではない」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「e-Stat（政府統計の総合窓口、e-stat.go.jp）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 日本の政府統計を横断的に検索・取得できる中核サイト」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「多くの統計が CSV・Excel・データベース API で提供される」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「、小売物価統計など」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 人口動態統計（出生・死亡・婚姻等）、毎月勤労統計（賃金・労働時間）、賃金構造基本統計、患者調査、各種保健・医療・福祉統計」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 金融・物価・国際収支・資金循環などのマクロ統計」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 貿易統計、国債・財政、予算・決算」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 民間給与実態統計調査、税収統計」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 鉱工業指数、商業動態統計、各種産業統計」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 作物統計、漁業・水産統計、食料需給表」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 建築着工統計、自動車保有・」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+- 失敗・落とし穴：
+  - 「注意：統計の更新頻度・定義・公表日程は変わる」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「古いデータを使うのはデータ報道の重大な失敗」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「反面教師：2026年に書店データを2016年（経済センサス）・人口を2010年（国勢調査）で作ってしまった失敗例がある」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「AIツールは探索・コード生成・パターン発見を速めるが、記者が警戒すべき特有の失敗様式がある」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「日本語フォントの注意：Matplotlib 等で図を作ると日本語が「□（豆腐）」になることがある」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「特に注意：棒グラフのY軸は必ずゼロ起点にする（途中から始めると差を誇張する）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「データから個人が特定されうる扱いに注意する」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+- 実例：
+  - 「結果を分析し、最も重要な発見に絞り込む」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「— 政治資金収支報告書、選挙結果」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「海外では、AIが捏造した存在しない判例引用が法廷で問題になった事例（Mata v. Avianca、2023年）や、チャットボットが述べた誤った払い戻し方針が企業を拘束すると判断された事例（エア・カナダ、2024年）が、「LLMの捏造が公表事実として扱われた」典型例として知られる」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「何を検証したかを書く（例：「すべての数値結果を pandas で再計算し、引用した出典はすべて個別に確認した」）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「時間の順序は合っているか（原因が結果より先か）」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「'https://example.com'」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「'https://example.com/data.geojson'」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「地域別の統計（都道府県別の失業率、市区町村別の患者数、選挙区別の結果など）を示すコロプレスに最適」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「'https://www.example.go.jp/'」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
+  - 「国内：日本新聞協会や各社のデータ報道事例、大学・研究機関の統計講座、e-Stat / RESAS の利用ガイド」（https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md）
 
 ## 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）（calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls）
 - 文脈：推定
@@ -13825,11 +13876,12 @@
 
 ## データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）（Quartz bad data guide problems in real-world data journalism）
 - 文脈：手法・報道
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：
+  - 「Teaching and learning about common data pitfalls」（https://www.neura.market/ai-tools-directory/all/the-quartz-guide-to-bad-data）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）（credit risk assessment adjusting book net assets private company financial statements）
 - 文脈：手法・企業調査
