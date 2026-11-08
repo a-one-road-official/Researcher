@@ -2620,6 +2620,70 @@ def scan(topic):
                *(f"  - {k[:50]}（{'・'.join(sorted(v))}）" for k, v in list(_mix.items())[:8]),
                ""]
     except Exception: pass
+    # 2026-11-08 4-101（宮野 note「景気動向指数の読み方」：先行・一致・遅行に分け、先行は1本で決めず複数の分野で同じ向きが
+    # 重なるかを見る、一致は水準でなく勢い（増加・加速・下げ止まり）で読む。あゆさわ「与信管理」：公告の純資産は簿価で、
+    # 実態修正で下がる側。Quartz「Bad Data Guide」：知りえない量は誰かの推定）。
+    # ①引用を先行・一致・遅行に振り分け、先行だけの品目を出す ②向きの語を持つ引用の分野の数（信号の重なり）
+    # ③年ごとの中央値の最後の3点の勢い ④公告・官報の純資産を「簿価・上限側」として数える ⑤知りえない量の言い切り
+    try:
+        _LEAD = re.compile(r"(新規求人|求人数|求人倍率|受注|引き合い|設備投資計画|増産計画|新工場|採用計画|景況|見通し|DI)")
+        _COIN = re.compile(r"(出荷|生産額|生産量|生産指数|売上|販売額|稼働率|加工賃)")
+        _LAG = re.compile(r"(従業者数|雇用者|常用労働者|賃金|給与|在庫|倒産|廃業)")
+        _FIELD = {"受注・需要": re.compile(r"(受注|引き合い|需要|販売)"), "在庫": re.compile(r"在庫"),
+                  "雇用の入口": re.compile(r"(求人|採用|入職)"), "設備・投資": re.compile(r"(設備|投資|新工場|増産)"),
+                  "価格・単価": re.compile(r"(価格|単価|値上げ|値下げ|加工賃)"), "出荷・生産": re.compile(r"(出荷|生産)")}
+        _UP = re.compile(r"(増|伸び|上昇|拡大|改善|回復)")
+        _DN = re.compile(r"(減|低下|縮小|悪化|下落|落ち込)")
+        _cls, _fld = {}, {}
+        for r in rows:
+            q, n = r["引用"], r["品目"]
+            c = _cls.setdefault(n, {"先行": 0, "一致": 0, "遅行": 0})
+            if _LEAD.search(q): c["先行"] += 1
+            if _COIN.search(q): c["一致"] += 1
+            if _LAG.search(q): c["遅行"] += 1
+            sgn = "増" if (_UP.search(q) and not _DN.search(q)) else ("減" if (_DN.search(q) and not _UP.search(q)) else None)
+            if sgn:
+                for f, p in _FIELD.items():
+                    if p.search(q): _fld.setdefault((n, sgn), set()).add(f)
+        _leadonly = sorted((n for n, c in _cls.items() if c["先行"] and not c["一致"]), key=lambda n: -_cls[n]["先行"])
+        _one = sorted(((n, s, list(v)[0]) for (n, s), v in _fld.items() if len(v) == 1))
+        _multi = sorted(((n, s, v) for (n, s), v in _fld.items() if len(v) >= 3), key=lambda x: -len(x[2]))
+        _ser = {}
+        for r in rows:
+            if r["予測"] or not r["年"] or not r["単位"]: continue
+            try: y = int(str(r["年"])[:4])
+            except Exception: continue
+            _ser.setdefault((r["品目"], r["単位"], r["文脈"]), {}).setdefault(y, []).append(r["値"])
+        _mom = []
+        for k, by in _ser.items():
+            ys = sorted(by)
+            if len(ys) < 3: continue
+            a, b, c3 = (statistics.median(by[y]) for y in ys[-3:])
+            if a <= 0 or b <= 0: continue
+            g1, g2 = b / a - 1, c3 / b - 1
+            if g2 > 0 and g1 > 0: lab = "増加・加速" if g2 > g1 else "増加・減速"
+            elif g2 > 0 >= g1: lab = "減少→下げ止まり・反転"
+            elif g2 <= 0 < g1: lab = "増加→頭打ち・反転"
+            else: lab = "減少・加速" if g2 < g1 else "減少・減速"
+            _mom.append((k, ys[-3:], lab, g1, g2))
+        _KOUKOKU = re.compile(r"(官報|決算公告|貸借対照表の要旨|電子公告)")
+        _nav = [r for r in rows if _KOUKOKU.search(r["引用"]) and re.search(r"(純資産|資本合計)", r["引用"])]
+        _UNK = re.compile(r"(すべての|全ての|全国の全|世界中の|あらゆる).{0,12}(企業|会社|工場|事業所|人).{0,20}\d")
+        _unk = [r for r in rows if _UNK.search(r["引用"]) and r["一次"] != "一次"]
+        md += ["## 先行・一致・遅行と信号の重なり・勢い・公告の簿価（4-101・機械）",
+               f"- 先行の信号（求人・受注・設備計画・景況など）だけで、一致の信号（出荷・生産・売上・加工賃）が無い品目：{len(_leadonly)}品目。先行は外れることがあるので、一致の系列に波及したかを見るまで向きの結論にしない",
+               *(f"  - {n[:60]}（先行 {_cls[n]['先行']}件・遅行 {_cls[n]['遅行']}件）" for n in _leadonly[:10]),
+               f"- 同じ向きの語が1つの分野（受注・在庫・雇用の入口・設備・価格・出荷）にしか出ない品目×向き：{len(_one)}組。1分野の信号は重なりが無いとして、別の分野の同じ向きを探す",
+               *(f"  - {n[:50]}（{s}・{f}だけ）" for n, s, f in _one[:10]),
+               f"- 同じ向きが3分野以上で重なる品目×向き：{len(_multi)}組（重なりの強い信号。それでも一致の系列で確かめる）",
+               *(f"  - {n[:50]}（{s}・{'・'.join(sorted(v))}）" for n, s, v in _multi[:8]),
+               f"- 年ごとの中央値の最後の3点の勢い（水準でなく勢いで読む。隣の年の跳び・段差の点検 4-5・4-89 を通るまで向きにしない）：{len(_mom)}系列",
+               *(f"  - {k[0][:45]}（{k[1]}・{k[2]}・{ys[0]}→{ys[2]}）：{lab}（前の区間 {g1:+.1%}・直近の区間 {g2:+.1%}）" for k, ys, lab, g1, g2 in _mom[:12]),
+               f"- 官報・決算公告の純資産を含む引用：{len(_nav)}件。公告の純資産は簿価で、回収できない売掛金・在庫・資産の含み損で実態は下がる側。上限側の値として読み、与信の判断に使うときは数期の並びと当期純損益と組で見る",
+               f"- 「すべての企業」のように数えようのない範囲の数字を一次でない出どころが言い切る引用：{len(_unk)}件。知りえない量は誰かの推定として【推定】で扱い、作り方を探す",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:60]}" for r in _unk[:5]),
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
