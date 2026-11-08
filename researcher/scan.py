@@ -146,6 +146,12 @@ def is_job_search(url):
     return bool(JOBSEARCH.search(p.netloc)) and bool(re.search(r"(search|/q-|[?&](q|keyword|kw)=)", (p.path or "") + "?" + (p.query or ""), re.I))
 # 2026-11-05 4-31：桁の感覚の上限（4-4 の最後の確かめを機械に落とす）。1業種・1品目の社員数・従業者数が1,000万人を超えることはない
 # （日本の製造業の就業者全体より大きい）。超えた人数は別の文脈（乗降客・人口・閲覧数）の混入として数えず、件数だけ出す
+# 4-109：research_method の結果に生のIPアドレスのホスト・成人向けや偽ブランド品のページが混じった。出どころとして数えない
+JUNKPATH = re.compile(r"(bokep|ngentot|memek|/watch/[a-z0-9-]*sex|porn|xxx|-handbags-|-purses-|replica|casino|slot-gacor|viagra)", re.I)
+def is_junk_url(url):
+    host = urlparse(url).netloc.split(":")[0]
+    return bool(re.fullmatch(r"\d{1,3}(\.\d{1,3}){3}", host)) or bool(JUNKPATH.search(url or ""))
+
 MAXPERSON = 1e7
 # 2026-11-05 4-31：規模の内側の向き（日本銀行 WP22-J-3：労働生産性の変化を Melitz-Polanec の分解で「企業内の改善」と「構成・再配分」「参入・退出」に分ける）。
 # 引用の中の従業者規模の区分（4〜9人・10〜29人・300人以上など）を値に付け、同じ地域×同じ規模の中で年ごとの向きを出す
@@ -286,6 +292,7 @@ def rows_from_doc(topic, d):
                 q, url = unicodedata.normalize("NFKC", it.get("quote", "") or ""), it.get("url", "")  # 全角数字・全角％を半角に（4-12）
                 q = join_okuman(q)
                 if is_job_search(url): drop(topic, "求人サイトの検索結果ページ（4-31）"); continue
+                if is_junk_url(url): drop(topic, "生のIPアドレス・スパムのURL（4-109）"); continue
                 if url in agu:
                     if NUM.search(q): drop(topic, "AIの対話の出力をそのまま載せたページ（4-61）")
                     continue
