@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T12:40:02.102567+00:00",
+ "researched_at": "2026-11-08T20:36:13.646614+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -226,364 +226,6 @@
    {
     "quote": "Example 2: a report of a filing.",
     "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "10. Edge cases",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "11. Worked examples",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 1: a fund commitment, recorded in full.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claim: \"Example County Pension committed USD 50 million to Example Buyout Fund IV.\"",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "E1: Example Capital's press release on the fund's first close, naming the pension and the amount",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 2: a report of a filing.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 3: circular reporting.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 4: an attribute no usable source states.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 5: separating information from judgment.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Information: \"The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target.\" (OFFICIAL_INSTITUTIONAL, OBSERVED.)",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 6: one press release, two origins.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— a sanitized, public worked example of a tiered open-source collection framework.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国連邦政府の場合、国防に関連する組織、インテリジェンス組織という国家安全保障に関連するために秘密が多いような部門であっても、国民のための政府であるから、当然に法律に基づき内部監査が実施され、その結果は秘密に該当しなければ公開されます",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さて、国防総省監察官室が、国家情報分析の作成と評価を統制する情報コミュニティー (Intelligence Community; IC) の分析標準である「情報コミュニティ指令203号：分析標準 (INTELLIGENCE COMMUNITY DIRECTIVE NUMBER 203: ANALYTIC STANDARDS) に基づく監査を実施し、その結果を公表していますね",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その結果、USCYBERCOMには、教育訓練のための教材やプログラムの改善を目指す、分析情報製品のレビューと評価の内部プログラムがなかった",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新人分析官に対するICD203の初期トレーニングが行われなかった結果、全情報源の情報分析官の中には、分析技術標準に不慣れな者もいるかもしれない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(U) 調査結果 サービスインテリジェンスセンターとUSCYBERCOMは分析標準を運用化するプログラムを実施していたが、トラデクラフトの評価と訓練に課題を抱えていた",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "可能な限り明確かつ正確に判断を表現し、結果や展開の可能性、時期、性質に言及することで曖昧さを減らす",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析成果物評価の結果は、分析知識、技能、能力、および技術に関する教育および訓練 のための教材およびプログラムの改善に使用される",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これは、重大な判断が重大な不確実性や複雑性（将来のトレンド予測など）と闘わなければならない場合や、確率の低い事象が大きな影響を与える結果をもたらす可能性がある場合に、特に重要である",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "したがって、分析成果物は、可能な限り明確かつ正確に判断を表現し、結果や展開の可能性、時期、性質に言及することで曖昧さを減らすべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(2) 分析情報成果物レビューの結果を作成し、議会及び関連する IC 要素に報告する；",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The case went no further. A second warrant issued on 4 July 2018. On 15 June 2022 the Pre-Trial Chamber terminated the proceedings, after the Prosecution reported the suspect's death and asked for the warrants to be withdrawn. No trial tested any of the material. The best-known example of open-source evidence reaching an international court is one where the challenge never came.",
-    "url": "https://privacyinsightsolutions.com/blog/osint-evidence-standards",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Take an invented example. A post on a public forum names a client's home street, alongside a photograph of the house.",
-    "url": "https://privacyinsightsolutions.com/blog/osint-evidence-standards",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "One consequence of how we work belongs here. We purge case findings within 48 hours of final delivery. The copy handed over is the one that persists, and the client holds it from that point. Whatever provenance record a finding carries has to travel in that copy, because we will not be holding it.",
-    "url": "https://privacyinsightsolutions.com/blog/osint-evidence-standards",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic producti;.",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "politicization, biased reporting, or lack of objectivity in intelligence analysis.",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "of collection as well as source access, validation, motivation, possible bias, or expertise. When a",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic products.",
-    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
-    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
-    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2つのICの分析要素間のような、分析判断における重大な相違は、十分に検討し、顧客の注意を喚起すべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その際、分析成果物は、顧客にとって有用なすべての判断を提示すべきであり、間違いのリスクを最小化するために困難な判断を回避すべきではない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Daily Brief: the day's most important stories, multi-source analysis with bias reports and transparent methodology, every weekday. No filler, no outrage bait, no ads.",
-    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "briefing every morning: stories checked for source strength, with their bias surfaced, so you can decide for yourself.",
-    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Objectivity. Analysts have to be aware of their own assumptions and actively work to identify and reduce bias, rather than letting familiar positions go unquestioned.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Products have to keep a clear line between the underlying intelligence and the analyst’s own assumptions and interpretations. That is the difference between “intercepted communications show X” and “we assess this means Y.” When the line blurs, policymakers can mistake an inference for a confirmed fact.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The ODNI Analytic Ombuds is the primary safeguard against politicized intelligence. The role addresses concerns about lack of objectivity, bias, politicization, or other failures in how the analytic standards are applied, and provides a confidential channel for analysts who believe they are being pressured to alter conclusions for reasons that have nothing to do with the evidence.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Congress created the position in the 2004 reform act, which required the DNI to designate someone available to counsel analysts, conduct arbitration, offer recommendations, and investigate complaints about biased or politicized analysis.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cognitive Biases in Intelligence Analysis",
-    "url": "https://intelligencenotes.com/02-Concepts--and--Tactics/22-Intelligence--and--OSINT/ICD-203",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cognitive biases in OSINT; key assumptions check, ACH, indicators, devil's advocacy, premortem; deception",
-    "url": "https://github.com/SOsintOps/intelligence-field-notes",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -997,6 +639,364 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "実例": [
+   {
+    "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10. Edge cases",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "11. Worked examples",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 1: a fund commitment, recorded in full.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claim: \"Example County Pension committed USD 50 million to Example Buyout Fund IV.\"",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "E1: Example Capital's press release on the fund's first close, naming the pension and the amount",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: a report of a filing.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 3: circular reporting.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 4: an attribute no usable source states.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 5: separating information from judgment.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information: \"The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target.\" (OFFICIAL_INSTITUTIONAL, OBSERVED.)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 6: one press release, two origins.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— a sanitized, public worked example of a tiered open-source collection framework.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国連邦政府の場合、国防に関連する組織、インテリジェンス組織という国家安全保障に関連するために秘密が多いような部門であっても、国民のための政府であるから、当然に法律に基づき内部監査が実施され、その結果は秘密に該当しなければ公開されます",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さて、国防総省監察官室が、国家情報分析の作成と評価を統制する情報コミュニティー (Intelligence Community; IC) の分析標準である「情報コミュニティ指令203号：分析標準 (INTELLIGENCE COMMUNITY DIRECTIVE NUMBER 203: ANALYTIC STANDARDS) に基づく監査を実施し、その結果を公表していますね",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果、USCYBERCOMには、教育訓練のための教材やプログラムの改善を目指す、分析情報製品のレビューと評価の内部プログラムがなかった",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新人分析官に対するICD203の初期トレーニングが行われなかった結果、全情報源の情報分析官の中には、分析技術標準に不慣れな者もいるかもしれない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(U) 調査結果 サービスインテリジェンスセンターとUSCYBERCOMは分析標準を運用化するプログラムを実施していたが、トラデクラフトの評価と訓練に課題を抱えていた",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "可能な限り明確かつ正確に判断を表現し、結果や展開の可能性、時期、性質に言及することで曖昧さを減らす",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析成果物評価の結果は、分析知識、技能、能力、および技術に関する教育および訓練 のための教材およびプログラムの改善に使用される",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは、重大な判断が重大な不確実性や複雑性（将来のトレンド予測など）と闘わなければならない場合や、確率の低い事象が大きな影響を与える結果をもたらす可能性がある場合に、特に重要である",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "したがって、分析成果物は、可能な限り明確かつ正確に判断を表現し、結果や展開の可能性、時期、性質に言及することで曖昧さを減らすべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(2) 分析情報成果物レビューの結果を作成し、議会及び関連する IC 要素に報告する；",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The case went no further. A second warrant issued on 4 July 2018. On 15 June 2022 the Pre-Trial Chamber terminated the proceedings, after the Prosecution reported the suspect's death and asked for the warrants to be withdrawn. No trial tested any of the material. The best-known example of open-source evidence reaching an international court is one where the challenge never came.",
+    "url": "https://privacyinsightsolutions.com/blog/osint-evidence-standards",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Take an invented example. A post on a public forum names a client's home street, alongside a photograph of the house.",
+    "url": "https://privacyinsightsolutions.com/blog/osint-evidence-standards",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "One consequence of how we work belongs here. We purge case findings within 48 hours of final delivery. The copy handed over is the one that persists, and the client holds it from that point. Whatever provenance record a finding carries has to travel in that copy, because we will not be holding it.",
+    "url": "https://privacyinsightsolutions.com/blog/osint-evidence-standards",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic producti;.",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "politicization, biased reporting, or lack of objectivity in intelligence analysis.",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "of collection as well as source access, validation, motivation, possible bias, or expertise. When a",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic products.",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2つのICの分析要素間のような、分析判断における重大な相違は、十分に検討し、顧客の注意を喚起すべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その際、分析成果物は、顧客にとって有用なすべての判断を提示すべきであり、間違いのリスクを最小化するために困難な判断を回避すべきではない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Daily Brief: the day's most important stories, multi-source analysis with bias reports and transparent methodology, every weekday. No filler, no outrage bait, no ads.",
+    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "briefing every morning: stories checked for source strength, with their bias surfaced, so you can decide for yourself.",
+    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Objectivity. Analysts have to be aware of their own assumptions and actively work to identify and reduce bias, rather than letting familiar positions go unquestioned.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Products have to keep a clear line between the underlying intelligence and the analyst’s own assumptions and interpretations. That is the difference between “intercepted communications show X” and “we assess this means Y.” When the line blurs, policymakers can mistake an inference for a confirmed fact.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The ODNI Analytic Ombuds is the primary safeguard against politicized intelligence. The role addresses concerns about lack of objectivity, bias, politicization, or other failures in how the analytic standards are applied, and provides a confidential channel for analysts who believe they are being pressured to alter conclusions for reasons that have nothing to do with the evidence.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Congress created the position in the 2004 reform act, which required the DNI to designate someone available to counsel analysts, conduct arbitration, offer recommendations, and investigate complaints about biased or politicized analysis.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cognitive Biases in Intelligence Analysis",
+    "url": "https://intelligencenotes.com/02-Concepts--and--Tactics/22-Intelligence--and--OSINT/ICD-203",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cognitive biases in OSINT; key assumptions check, ACH, indicators, devil's advocacy, premortem; deception",
+    "url": "https://github.com/SOsintOps/intelligence-field-notes",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -1054,7 +1054,7 @@
    },
    {
     "url": "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "status": "network_error:ReadTimeout",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -1064,7 +1064,7 @@
    },
    {
     "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-38610",
-    "status": "network_error:ReadTimeout",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -1073,9 +1073,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/6174",
-    "status": "http_403",
-    "method": "http"
+    "url": "https://irp.fas.org/dni/icd/icd-203.pdf",
+    "status": "http_202",
+    "method": "pdf"
    },
    {
     "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
@@ -1098,14 +1098,14 @@
     "method": "http"
    },
    {
+    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://www.ey.com/ja_jp/insights/forensic-integrity-services/overview-of-ediscovery-and-edrm",
@@ -1113,13 +1113,13 @@
     "method": "http"
    },
    {
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "status": "ok",
+    "url": "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
-    "status": "http_403",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -1154,12 +1154,14 @@
     "https://note.com/itta_usa/n/nd300923856e1",
     "https://note.com/pki_security/n/nce36f5f39488",
     "https://note.com/nobuworks/n/nc370238f3d2c",
-    "https://note.com/stii_timestamp/n/n9f064af6024d"
+    "https://note.com/stii_timestamp/n/n9f064af6024d",
+    "https://note.com/aiconsulting/n/nf74a657a69bd"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） note",
@@ -1184,12 +1186,12 @@
    "results": [
     "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
     "https://www.intelligence.gov/mission/our-values/objectivity",
+    "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-38610",
     "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
     "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
     "https://psu.pb.unizin.org/hls476/chapter/intelligence-community-directive-203/",
-    "https://www.worldoftest.com/ja/print/pdf/node/6174",
+    "https://irp.fas.org/dni/icd/icd-203.pdf",
     "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf"
    ],
    "engines": [
@@ -1204,8 +1206,8 @@
     "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "https://hybrid-analysis.com/sample/519c21e52dbbece7b42ec7d494b63a053a01bf52e2220a40e1e04c2a0563444c/5ba8617c7ca3e175f94e90f5",
     "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
     "https://www.ey.com/ja_jp/insights/forensic-integrity-services/overview-of-ediscovery-and-edrm",
     "https://researchmap.jp/blogs/blog_entries/view/76514/32b49befac676a3bdf469036fbd7a896?page_id=1621&lang=en",
     "https://iso10646hk.net/jp/learning/exercise_05_02.jsp"
@@ -1219,12 +1221,12 @@
    "query": "OSINT evidence provenance origin vs collection method ICD 203 likelihood language",
    "results": [
     "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
     "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
+    "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
     "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
-    "https://www.intelligence.gov/mission/our-values/objectivity",
     "https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3400/PEA3490-2/RAND_PEA3490-2.pdf",
     "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "https://www.intelligence.gov/mission/our-values/objectivity",
     "https://www.cisecurity.org/ms-isac/services/words-of-estimative-probability-analytic-confidences-and-structured-analytic-techniques",
     "https://fortunefavorstheprepared.com/analytical-tradecraft/",
     "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained"
@@ -1247,7 +1249,7 @@
     "https://note.com/aiconsulting/n/nf74a657a69bd"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1260,12 +1262,14 @@
     "https://x.com/hikarine3/status/2116912534150410458",
     "https://x.com/AandS_KSB1983/status/2033918089558200496",
     "https://x.com/NagisamaFuushiP/status/2088566248632442945",
-    "https://x.com/superdoccimo/article/2098464948250616223"
+    "https://x.com/superdoccimo/article/2098464948250616223",
+    "https://x.com/AandS_KSB1983/status/2052212584636715065"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
@@ -1295,7 +1299,7 @@
     "https://www.facebook.com/balimoto.transcriber/videos/録音データは言った言わないが争われる裁判で重要な証拠になることがあります未払い残業代金銭トラブル不動産問題などでは相手の発言を客観的に示す資料として評価される場/1437498261613567/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1304,13 +1308,13 @@
    "results": [
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-38610",
     "https://www.worldoftest.com/ja/print/pdf/node/6174",
-    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "https://www.coinex.zone/ja/academy/2882/related-articles",
     "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
     "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
     "https://note.com/red_structure/n/na2c79b00d217",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/76514/32b49befac676a3bdf469036fbd7a896?page_id=1621&lang=en",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=12"
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
    ],
    "engines": [
     "yahoo_jp"
@@ -1348,7 +1352,7 @@
     "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-uncertainty-activity-7424445658461364224-vrE7"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -1356,6 +1360,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 21,
+ "runs": 22,
  "first_researched_at": "2026-11-05T06:06:05.724082+00:00"
 }

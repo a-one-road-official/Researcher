@@ -694,21 +694,21 @@
   - 「ただし、より広範な収集と脅威インテリジェンスのフレームワークのコンテキスト内でこのアクティビティを見ることで、アクティビティを既知の攻撃者グループに帰属させることができるため、この特定の脅威アクターから組織を防御するために使用できるプロファイルに詳細性と具体性を与えることができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「例えば、公開されているインテリジェンスを確認することで、脅威アクターは組織が防御ラインを張る可能性のある場所を把握し、別の攻撃方法を探すことができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
 - 突き合わせ・推定：
-  - 「（侵入テスト、セキュリティ検証、脅威対象領域評価、」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「) used NLP to analyze WhatsApp chats for a remarkable investigation, which estimates the large-scale vandalism of South Africa. Some researchers observed the use of OSINT in criminal investigations that involve coordinated misbehavior and cybercrime (Kao et al.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
-  - 「1990年代後半に確認されて以来、今もなお猛威を振るい続けるこの攻撃手法について、プログラミングが全くわからない方でも理解できるよう、仕組み・実際の検証・そして具体的な対策まで徹底解説します」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
-  - 「自宅で作るDFIR・NSM実習ラボ｜Security OnionでZeek・Suricataを動かす（安全な検証環境）」（https://yasashii-cybersecurity.com/osint_beginer/）
-  - 「1990年代後半に確認されて以来、今もなお猛威を振るい続けるこの攻撃手法について、プログラミングが全くわからない方でも理解できるよう、仕組み・実際の検証・そして具体的な対策まで徹底解説します」（https://yasashii-cybersecurity.com/osint_beginer/）
-  - 「In many cases, a large majority of intelligence used in decision-making, often estimated at」（https://sopa.tulane.edu/blog/what-open-source-intelligence-osint-and-why-it-growing-career）
-  - 「： 一つのメールアドレスやユーザー名から、過去の漏洩データを突き合わせることで、匿名アカウントの所有者、使用している他のサービス、あるいは隠された連絡先を特定することができます」（https://note.com/terueda/n/n5707498651c3）
-  - 「【第4講】 単なる「検索」で終わらせるな：組織的な検証とドキュメント化のワークフロー」（https://note.com/terueda/n/n5707498651c3）
-  - 「得られた情報が本物かどうかを検証し、組織として活用できる客観的な報告書へとまとめる「再現可能なワークフロー（Methodology & Workflow）」にあります」（https://note.com/terueda/n/n5707498651c3）
-  - 「どのような手段で収集され、どのように検証されたデータなのか（情報の確度）」（https://note.com/terueda/n/n5707498651c3）
-  - 「私たちの仕事の多くは、この膨大な公開情報を「読み解いて」「自庁の既存ルールと照らし合わせて」「矛盾なく実務に落とし込む」プロセスで成り立っています」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「OSINT を通じて得られる情報は、すべて検証されているわけではありません」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「情報を正確に活用するためには、取得した情報を検証することが大切です」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「調査などで用いられ、その有用性は情報量だけでなく、取得時の来歴、検証、分析過程と限界を追跡できるかにも左右される」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「実務では、公開映像に写った地形を衛星画像で照合したり、公開報道を証言や通信資料と組み合わせたりするため、規律の境界は入力の由来を示しても、分析成果が一種類の情報だけで作られるとは限らない」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「ODNIの分析基準は、反対情報と代替仮説を検討し、情報の空白と不確実性を明示し、主要判断を論理と根拠で支えることを定めている」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「2010年代には、報道機関の外にいる調査者、研究者、人権団体と市民が、SNS上の画像・動画、公開地図、衛星画像を共同で検証する実践が目立つようになった」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「を扱った研究は、公開情報調査のネットワークが、職業ジャーナリストと市民調査者をつなぐ一方、匿名性、責任、検証規範をめぐる新しい課題も生んだと分析している」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「画像・動画を扱う調査では、建物、道路、地形、標識、影、天候、音、撮影機器などを、地図、衛星画像、過去の写真、気象記録等と照合する」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「は撮影地点、クロノロケーションは撮影時期を推定する作業であるが、一致する手掛かりの数だけでなく、それぞれが同じ情報源から派生していないか、反対の手掛かりがないかを検討する必要がある」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「大きな問いを検証可能な小さな問いへ分け、既知の事実、仮定、優先順位、除外範囲、必要な情報源、法的・倫理的制約と終了条件を記録する」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「検証は、少なくとも出所、ファイル、内容の三層で行う」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「出所の検証では、アカウントや発行主体、初出、過去の活動を調べる」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「ファイルの検証では、形式、メタデータ、編集・再圧縮の痕跡を確認する」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「内容の検証では、写っている場所、時刻、出来事、人物・物体と説明文が一致するかを、独立した資料で照合する」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「分析者は、根拠から直接分かることと推論を分け、代替仮説、反証、欠けている情報、確信度を明示する」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「報告では、主要な結論を先に示し、調査目的、方法、用いた資料、検証手順、限界、未解決点を読者が追える形にする」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「のような調査集団は、公開された画像・動画の検証方法を記事とともに提示してきた」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
 - 一次情報の探し方：
   - 「やり方3：公的記録・データベースを活用する」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
   - 「SNS・ウェブサイト・公的記録・地図・画像など、あらゆる公開情報がOSINTの対象になります」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
@@ -718,14 +718,15 @@
   - 「Open sources have existed for many years, but the explosion of the Internet and the World Wide Web (WWW) motivates several cyber security professionals and researchers to publish journals and articles on cyber threats, cyber-criminal profiling, and information gathering (Amaro et al.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
   - 「PDF (1.7 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
   - 「Accessing public records is a reliable way to collect verified data for OSINT research. Buried in filing cabinets and digital archives are records that can tell a story: business licenses, property records, court papers, and more.」（https://salesfuel.com/open-source-intelligence-tools/）
-  - 「ソーシャルメディアプロファイル、オンラインアクティビティ、公的記録、その他のソースからの情報をつなぎ合わせるときに、ある人の習慣、関心、振る舞いの詳細なプロファイルを作成することが可能です」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「： 競合他社が使用しているサーバーインフラ、保有ドメインの履歴、SNS上の発信パターン、求人情報や社員の投稿から覗く組織構造など、公開情報をつなぎ合わせることで、相手の戦略や弱点が浮き彫りになります」（https://note.com/terueda/n/n5707498651c3）
-  - 「～公開情報を武器に変える、守りのDX入門～｜solo@転職族公務員（IT採用、非IT部門勤務）」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「solo@転職族公務員（IT採用、非IT部門勤務）」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「ICT事務職として採用された市役所の職員の solo です」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「国税庁やe-Govなど、担当業務に関係する省庁の公開PDFやQ&Aを2〜3件ダウンロードします」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「Googleアカウントがあれば無料で使える「NotebookLM」にそのPDFをアップロードします」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「Berkeley Protocolは、内部作業ならスクリーンショットやPDF化で足りる場合もある一方、証拠価値を持ち得る資料には、より確実な取得方法を用い、可能な限り元の形式、URL、ソースコード、埋め込み媒体・メタデータ、取得情報とハッシュを保存するよう区別している」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「政策調査では、公的機関や国際機関が公表する規制案、会議資料、意見募集や決定を時系列で追うことがある」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「』では、会社・不動産の登記、新聞・雑誌記事などの公開資料を多数の取材者が整理し、人物、企業、土地取引の関係を追った」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「大宅壮一文庫は、約20人のチームが雑誌記事を調べた後に取材へ進んだと説明し、取材日誌の紹介も登記・会社資料の確認と対人取材の双方を記録している」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「は政府統計、」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「で有価証券報告書、臨時報告書、訂正報告書などを検索でき、APIから書類一覧と開示書類を取得できる」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
+  - 「単独では平凡な公開情報も、位置履歴、購買、勤務、家族、SNS、登記等を結合すると、個人の生活や機微な属性を推定できる」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
 - 失敗・落とし穴：
+  - 「NISTの報告によれば、合成画像検出器の精度は、評価データの圧縮や破損、画像の様式や被写体、学習に用いた生成器によって変わり、未知の生成器や圧縮・縮小後の画像では誤りが増える」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
   - 「また、多くの場合、情報の各オープンソースから活用できる膨大な二次データが存在することに注意することにも留意してください」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「Unreliable and prone to bias, non verifiable, time-consuming and resource-intensive, prone to cultural, language and social barriers, vulnerable to counterintelligence, the chance of human error, affected by legal and ethical considerations」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
@@ -740,7 +741,6 @@
   - 「下記に注意点をあげます」（https://note.com/subland_/n/nd946aa4f734d）
   - 「特に、サイトやブログなどで公開されている個人情報を収集する場合、取り扱いには十分に注意する必要があります」（https://note.com/subland_/n/nd946aa4f734d）
   - 「特に２については、収集先のサービスの運営元の国の法律に則った処罰を場合によっては受けますので、細心の注意が必要となります」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「法律違反には注意しましょう」（https://note.com/subland_/n/nd946aa4f734d）
 - 実例：
   - 「site:example.com キーワード」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
   - 「Actual Intelligence Case Studies Leveraging Open Source Intelligence (OSINT)」（https://en.wikipedia.org/wiki/Open-source_intelligence）
@@ -2544,6 +2544,8 @@
   - 「情シスが律速段階になる4つの構造と、パナソニックコネクト・DeNA・MUFG・SMBC・みずほ・旭化成の共通型を、一次データで解剖する業界オピニオン」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「本記事では、汎用型から専門型まで7つのAI製品を取り上げ、公開情報を用いて市場調」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「同じ入力でPoCを行い、単独採用か併用かを決める手順も示します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「コピーライティングのリサーチ方法｜AIでクライアント理解と空白訴求を見つける」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「競合コピーを50本並べて空白訴求を見つける6ステップ、Snorbeを使ったフロー、他ツールとの使い分けまで、コピーライターが明日から使える2026年版ガイド」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI Skillが増えすぎたらどう整理する？使われるSkillだけを残す棚卸し方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「架空の経費精算ヒアリングを例に、出所と適用条件を残し、同じ課題の出力を原典と照合して採否を決める方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2553,8 +2555,6 @@
   - 「AIのファイルアクセス要求をRead・Create・Update・Deleteに分け、契約、送信、権限取消まで確認する手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI Skillが具体的すぎると使えない｜個別例を判断基準へ抽象化する方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Claude Fable 5とffmpeg、Piper/Coqui XTTS v2のローカルナレーションを組み合わせてYouTube動画編集を自動化する実装手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「ClaudeとSnorbeを調査目的、情報源、根拠、履歴、定期実行、成果物、権限の7軸で比較し、30日競合調査のPoC手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2606,6 +2606,8 @@
 - 実例：
   - 「2026年7月24日にリリースされたClaude Opus 5と、Anthropic公式が公開した「Claude 5世代向けコンテキストエンジニアリング新ルール」を、Claude Codeシステムプロンプト80％削減の実例、残す3要素と削る4要素の判断基準、CLAUDE.mdを半分に減らす書き換え辞書7例、Fable 5との使い分けまで一気に整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Anthropic・VS Code・GitHub Copilotの公式ドキュメントで確認できる条件付き許可の設定と、許可リストが破られた実例、そして今の判断の賞味期限までを扱います」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Kimiとは？K3.1 Proの使い方・料金とXの活用事例」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Kimi K3.1 Proの利用経路と料金を公式資料で確認し、Xの3件の制作事例を投稿者の自己申告として読み解きます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ロボティクスと自動運転の実装事例から、製造業・物流業界に50兆ドル規模の変革をもたらす可能性まで詳しく分析」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIエージェントの強化学習とは？注目の手法、事例、論文から学ぶ自律的最適化の最新トレンド」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIエージェントと強化学習の現状とは？注目の手法から、ノーコード開発、実用の事例、注目の論文や研究開発のトレンドから強化学習とAIエージェントのトレンドを学びましょう」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2617,8 +2619,6 @@
   - 「5つの専門AIエージェントを持つSkyworkとは？DeepResearchの性能、活用事例や比較を徹底レビュー！」（https://media.deskrex.ai/how-to-conference-survey-2026/）
   - 「Claude Fable 5.1とは？使い方・料金・おすすめユースケースを解説」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「Claude CodeとAPIの始め方、公開事例、受入テストを解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「Microsoft、Google、Metaの2024-2025年事例から読み解く6つの買収パターンと、統合後の「空洞化」を防ぐ実務的な管理手法」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「2024年の中国生成AIの事例・規制・スタートアップの覇権競争とは？2025年予測も解説！」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -3496,17 +3496,17 @@
   - 「官報に掲載された非上場会社の決算公告を調べる方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「電子公告への移行手続き完全ガイド｜官報から切り替える4ステップと費用・期間」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「電子公告への移行手続きを4ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「貸借対照表の要旨を正しく作成する手順がわかります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「官報・電子公告の費用比較と年間4,000円で始める最安の方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「日刊工業新聞の決算公告を検索・閲覧する方法｜掲載費用と手続きを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「東京官書普及（千代田区）への窓口持参からWEB申込まで、具体的な手順を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「決算公告の官報費用はいくら？枠数別の料金表と節約する3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「にもかかわらず、官報の定款公告方法を採用している会社は全株式会社の83.9%（定款に公告方法の記載がない会社もデフォルトで官報となるため）に上ります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「この記事では、官報に実際に掲載される決算公告の記載例を会社規模別に示し、各科目の意味・紙面の構成・行数の計算方法・財務情報としての活用まで体系的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「中小企業の大半が該当するのは「非大会社・非公開会社」の類型です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「大会社の貸借対照表要旨の記載方法は、基本的に非大会社と同じですが、公開会社・非公開会社の区分に応じて追加記載が求められる科目があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「公告を閲覧するためのステップについては、」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「枠数と費用の詳しい計算方法については、」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「合法的に行数を削減する主な方法は以下のとおりです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「方法1：金額の表示単位を大きくする」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「方法2：0円科目の省略を徹底する」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3524,24 +3524,27 @@
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 一次情報の探し方：
-  - 「官報の収録に抜けがあり期間が離れている場合、公告ページでは前期の列を出さず、企業ページの決算ハイライトでは「2024年3月期比」のように比較対象の期を明示します」（https://kaijiwire.jp/guide/kessan-kokoku）
-  - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「「自分で登記できるもん」セルフ登記マンといわれる方々へ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「登記(会社設立や不動産名義変更)を税理士・行政書士に依頼してはいけない理由」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「不動産取引前に登記情報を閲覧したところ「事件中」と表示された司法書士の対応（司法書士向け）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「顧客の権利書･登記識別情報を紛失した専門家の方へ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「商号･本店･住所･氏名･･･不動産登記･商業登記で使える文字･使えない文字＜一覧＞」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「オンライン不動産登記の庁内での処理（グループ会員限定記事）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「取引相手から「自分で登記する」と言われた不動産売買の当事者の方へ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「不動産登記での住所氏名変更登記自動化：所有権の登記を申請する際に必要になった「検索用情報の申出（提出）」」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「購入不動産は「新住所か旧住所」どちらで登記すべきか？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「同じマンションなのに敷地権付区分建物と敷地権の登記されていない区分建物があるのですが？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「財産分与の登記：離婚のときに簡単に「財産分与」を登記原因として登記してはいけない理由と代替案」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「信託登記が入っている不動産の売却時チェックリスト」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「第三者のためにする契約（いわゆる三為契約、新中間省略）の契約実務・取引実務・登記実務」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「官報の決算公告記載例を完全解説｜実際の紙面フォーマットと各科目の読み方 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「官報の決算公告記載例を完全解説｜実際の紙面フォーマットと各科目の読み方」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「東京商工リサーチの調査によると、決算公告を官報で行っている株式会社はわずか1.8%にとどまります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「にもかかわらず、官報の定款公告方法を採用している会社は全株式会社の83.9%（定款に公告方法の記載がない会社もデフォルトで官報となるため）に上ります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「初めて官報で決算公告を行う担当者にとって、最初の壁となるのが「実際にどんな形で掲載されるのかがわからない」という点です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「提出する原稿のひな形は手に入っても、印刷された官報の紙面でどう表示されるか、各行が何を意味しているのか、第三者にはどう読まれるのかを丁寧に解説したコンテンツはほとんどありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「この記事では、官報に実際に掲載される決算公告の記載例を会社規模別に示し、各科目の意味・紙面の構成・行数の計算方法・財務情報としての活用まで体系的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「官報決算公告の記載例：掲載フォーマットの全体像」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「非大会社の官報決算公告記載例（貸借対照表の要旨）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「大会社の官報決算公告記載例（貸借対照表＋損益計算書）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「官報紙面での実際の見え方：2枠・3枠の違い」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「官報決算公告の記載例に関するよくある疑問（FAQ）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「Q1. 官報の記載例と提出する原稿の形式は同じですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「Q4. 官報決算公告に前期比較の数値を載せることはできますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「Q5. 官報の記載例として、特定の会社の実際の掲載内容を参考にすることはできますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 失敗・落とし穴：
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「「資産合計」は三区分の合計で、「負債及び純資産合計」と一致しなければなりません（一致しない場合は記載誤りです）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「この「付記」は省略できない必須事項であり、見落としがちな点ですので注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3552,11 +3555,10 @@
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3569,8 +3571,6 @@
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（前編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（後編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -6457,6 +6457,9 @@
   - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
   - 「Strategic estimates; long-horizon planning」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 一次情報の探し方：
+  - 「PDF for newsletter subscribers · free to read online」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Every section, table and checklist in one PDF, with links to the sources and related guides. Subscribe to our weekly NHI & AI Identity Journal and we’ll email you a download link.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「PDF Downloads for Newsletter Subscribers」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「FINAL1.pdf, accessed 20.10.2016.」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
   - 「wp-content/uploads/2013/06/03.-Taxonomy-of-Structured-Analytic-Techniques_FINAL.pdf, accessed」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
   - 「uploads/2014/05/Paper_1_2014_FINAL1.pdf, accessed 20.10.2016.」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
@@ -6469,10 +6472,10 @@
   - 「techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「a profiling exercise or a joint needs assessment.31」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「analysis processes in profiling or joint needs assessments. A description of each technique is」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 失敗・落とし穴：
+  - 「Structured Analytic Techniques for CTI Guide: Reducing Bias in Threat Assessments」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「logs are missing, retention is short and telemetry is biased towards what the organisation already monitors.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「The biases that show up most often in cyber assessments, and the technique that counters each:」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「employing SATs and compile lessons learned on best practices and pitfalls of their use in intelligence」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「the probability of errors caused by numerous cognitive biases」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「tive bias and reducing it. Chief among such biases often seen in」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
@@ -6485,10 +6488,14 @@
   - 「mitigating the cognitive pitfalls they are designed to address,」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「・ What are the most important best practices and pitfalls in」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「・ To what extent do SATs help overcome mindset bias, satis-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「ficing, and other cognitive pitfalls that plague analysis?」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「In some cases, an individual might have a bias—current intel-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「avoiding cognitive biases and fallacies. This does not mean the accuracy of predictions and assessments」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
 - 実例：
+  - 「assuming the adversary values what you would value, for example that a criminal group would never sit quietly for months. Counter with Red Team Analysis.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「the case is "solved" before scoping is complete. Counter with Indicators of Change and a scheduled re-test.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Builds the best case against the prevailing view」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「In this illustrative example H2 has no inconsistent evidence, so it leads, but it rests heavily on the "no extortion contact" item: if a demand arrives later, the assessment must be revisited. The commodity tool row does not discriminate and could be dropped. That is the kind of reasoning a reader can audit and challenge.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「many teams grade source reliability and information credibility separately, for example with the Admiralty (NATO) system of letters A to F for reliability and numbers 1 to 6 for credibility. A single vendor blog repeating an unverified claim should not be graded like a direct observation in your own logs.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「for every attribution, scoping or "are we affected?" judgement, recorded in the case notes.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Pilot ACH on two cases:」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「For example, various SATs address mindset bias; “satisficing”」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「can be misapplied in individual cases. Proponents of SATs」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「reexamination of assumptions and, in some cases, height-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
@@ -6497,13 +6504,6 @@
   - 「In some cases, an individual might have a bias—current intel-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「such cases, the analyst should not hesitate to give suggestions to the supervisor and」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
   - 「methods, which, among others, include methods such as evidentiary reasoning, case」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
-  - 「Trade Centre, for example) to explore new methods of analysis and training analysts,」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
-  - 「Cycle, such as: orientation, in the case of scenario evaluation techniques (Backcasting)」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
-  - 「example, the extent to which other people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「or example, military analysis may focus」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「these forces actually fght?). In this case,」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「might fuctuate. All of these examples」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
 
 ## DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方）（diffusion index percentage points misread statistics journalism）
 - 文脈：失敗
@@ -14177,7 +14177,7 @@
   - 「The defaults below are editable examples, not vendor prices or measured performance. “Usable” means a company was matched and all fields required by your workflow were present. No input is sent to a server by this calculator.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
   - 「Example monthly model:」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
   - 「Prepare a representative sample, ideally 50–100 companies across your actual countries and entity types. This is a practical starting point, not a statistically conclusive benchmark. Include difficult cases as well as easy ones: similar names, branches, inactive companies, holding structures and businesses with limited public filings.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
 
 ## 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）（Statistics Commission Japan consultation report survey change discontinuation sampling frame）
 - 文脈：統計の読み方
