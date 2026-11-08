@@ -191,21 +191,21 @@
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
 - 手順・やり方：
-  - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】｜billye」（https://note.com/billye/n/n1b91b3c986af）
-  - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】」（https://note.com/billye/n/n1b91b3c986af）
-  - 「株の銘柄分析には、大きく分けると次の2種類の方法があります」（https://note.com/billye/n/n1b91b3c986af）
-  - 「ただし、チェックするべき指標や分析の方法を理解していないと、業績が悪化する可能性がある企業に投資をして大損してしまうことにもなりかねないので注意しましょう」（https://note.com/billye/n/n1b91b3c986af）
-  - 「そこで本記事では、ファンダメンタル分析のやり方や、分析に役立つツールを紹介します」（https://note.com/billye/n/n1b91b3c986af）
-  - 「ファンダメンタル分析を使った企業分析のやり方」（https://note.com/billye/n/n1b91b3c986af）
-  - 「>手順⑤：「売上高」と「営業利益」を確認する」（https://note.com/billye/n/n1b91b3c986af）
-  - 「>手順⑧：PBR（株価純資産倍率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
-  - 「>手順⑨：ROE（自己資本利益率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
-  - 「>手順⑩：ROA（総資産利益率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
-  - 「株のファンダメンタル分析とは、企業の財務状況や業績状況のデータをもとに、分析を行う方法です」（https://note.com/billye/n/n1b91b3c986af）
-  - 「Choose how to sign in」（https://guides.nyu.edu/finance/private-companies）
-  - 「この記事では、企業研究ノートの作り方を5つのステップで解説します」（https://careerticket.jp/media/article/320/）
-  - 「ノートに記載すべき10個の基本項目や、効果的な活用方法も紹介するのでぜひ最後までご覧ください」（https://careerticket.jp/media/article/320/）
-  - 「企業研究ノートの作り方5ステップ」（https://careerticket.jp/media/article/320/）
+  - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない｜アラサー人事の選考対策室」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「企業分析のやり方がわからない、何をどこまで調べれば足りるのかわからない」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「就活・転職において、企業分析のやり方として多くの人が最初にやることはこうです」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「「実際に活躍している人がどんな人か」を知ることが、Q3の精度を上げる最も確実な方法です」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「この4ステップをやってみるだけで、「調べたけれど使えない」という感覚が変わるはずです」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「Q3・Q4をより体系的に整理し、志望動機に直結させるより具体的な分析手順は、有料記事で公開予定です」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「企業分析のやり方とは？効果的な項目や注意点を紹介」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「岡山大学在学中、最終面接で不採用となった友人の姿をきっかけに、選考プロセスそのものが評価されるスカウト型就活サービス『ABABA』を創業」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「企業分析のやり方が分からなくて困っている方も多いのではないでしょうか」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「就活において重要な役割を担う企業分析のやり方を紹介します」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「具体的には、社員インタビューや口コミサイトの調査、OB・OG訪問などの方法を活用しましょう」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「効率的な企業研究を進める方法が分からない場合やノートに...」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「効率よく企業分析をするには、フレームワークの活用がおすすめです」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「考え方の枠組みとなるフレームワークを使って分析することで、より効率的に企業理解を深められます」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
 - 突き合わせ・推定：
   - 「「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
   - 「企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
@@ -223,24 +223,25 @@
   - 「IT系職種21選｜「目指したい自分像」からの逆算が適職発見のカギ」（https://careerpark-agent.jp/column/67587）
   - 「上場類似企業の株価倍率（PER、PBR、EV/EBITDA）を用いて企業価値を推定します」（https://note.com/finanscope/n/n62d819db22c2）
 - 一次情報の探し方：
-  - 「企業の「決算書」は、ファンダメンタル分析を行う場合に最初にチェックすべきものです」（https://note.com/billye/n/n1b91b3c986af）
-  - 「決算書さえ見れば、その企業の売上は順調か、借金をどのくらい抱えているのか、など、客観的な数字をもとに、企業の経営状況をすぐに確認することができます」（https://note.com/billye/n/n1b91b3c986af）
-  - 「そもそも、決算とは、各企業が決めている営業年度（1年間）の区切りのことを指します」（https://note.com/billye/n/n1b91b3c986af）
-  - 「そして、営業年度の終わりである決算迎えた後には、売上高や、利益など、企業がどのくらい成長したのかをチェックすることができる、いわゆる企業の成績表とも言える「決算書」が公開されます」（https://note.com/billye/n/n1b91b3c986af）
-  - 「決算書は、いくつかの資料で構成されていますが、ファンダメンタル分析の基本となる資料は大きく3種類です」（https://note.com/billye/n/n1b91b3c986af）
-  - 「貸借対照表は、すべての上場企業が必ず作成しなければならない決まりとなっており、決算書の基本となる資料です」（https://note.com/billye/n/n1b91b3c986af）
-  - 「貸借対照表と同様に、損益計算書もすべての上場企業が必ず作成しなければならないもので、決算書の重要な資料です」（https://note.com/billye/n/n1b91b3c986af）
-  - 「貸借対照表、損益計算書、キャッシュフロー計算書など、決算書の資料の種類や内容を理解しても、ただ数値を眺めているだけでは、「その企業が安全なのか」「割安の株なのか、割高の株なのか」ということは、判断ができません」（https://note.com/billye/n/n1b91b3c986af）
-  - 「そこで、決算書に書かれている数字を使って、株式投資のポイントとなる指標を確認することで、企業の分析を行う必要があります」（https://note.com/billye/n/n1b91b3c986af）
-  - 「そして、ファンダメンタル分析に慣れてくると、企業が公開している決算書や財務諸表を読み解くのが、より効率的にできるようになり、指標への理解も深まります」（https://note.com/billye/n/n1b91b3c986af）
-  - 「9.採用情報」（https://careerticket.jp/media/article/320/）
-  - 「採用HPのメッセージや、説明会で感じた社員の雰囲気をありのままに記録します」（https://careerticket.jp/media/article/320/）
-  - 「まずは、企業の公式サイトやIR情報、採用ページを隅々まで確認し、数字や理念などを書き出すことから始めましょう」（https://careerticket.jp/media/article/320/）
-  - 「公式サイトは最も信頼できる一次情報であり、企業の「公式な意思」が反映されています」（https://careerticket.jp/media/article/320/）
-  - 「紹介する企業はすべて事前に直接取材を行っているため、求人票だけでは見えない職場の雰囲気をお伝えでき、あなたの企業研究ノートをより深みのある内容へとアップデートできるでしょう」（https://careerticket.jp/media/article/320/）
+  - 「Q3の出発点は、求人票や採用ページです」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「同じ採用メッセージでも、背景まで読み解くことで初めて「自分のどの経験や強みが当てはまるか」が見えてきます」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「採用メッセージは、企業の組織課題や文化を映した一次情報です」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「採用ページだけで情報が足りない場合は、社員インタビュー記事、OB/OG訪問、説明会での対話などを通じて補います」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「企業公式サイト（採用ページ、会社概要、事業紹介）」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「採用説明会・インターンシップでの社員との対話」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「採用ページを開き、「求める人材像」に関する記述をすべて書き出す」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「最近は日本でもジョブ型雇用の採用が増えてきました」（https://www.theport.jp/portcareer/article/64126/）
+  - 「職務経験のない新卒の採用はポテンシャル採用と言われていますが、採用の時点でどこの部署に配属になりたいかの希望を聞き、入社後の異動はなく、その分野でのスペシャリストを育成する採用もあります」（https://www.theport.jp/portcareer/article/64126/）
+  - 「調べ方：IR情報（中期経営計画や決算説明会資料）を確認する」（https://www.theport.jp/portcareer/article/64126/）
+  - 「とくに上場企業が公表している「中期経営計画」や「決算説明会資料」を活用するメリットは以下の通りです」（https://www.theport.jp/portcareer/article/64126/）
+  - 「採用担当者は、学生がどれだけ自社について理解しているかを通して、その志望度の高さや入社意欲、さらには情報収集能力や分析力といったビジネスパーソンとしての基礎能力を評価しています」（https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/）
+  - 「採用選考、特に面接において、必ずと言っていいほど聞かれる質問が「志望動機」です」（https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/）
+  - 「「なぜ他の企業ではなく、当社を志望するのですか？」という採用担当者の問いに、説得力のある答えを返すためには、徹底した企業分析が不可欠です」（https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/）
+  - 「採用担当者は、志望動機を通して以下の点を確認しようとしています」（https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/）
 - 失敗・落とし穴：
   - 「4. 企業分析におけるよくある失敗と対処法」（https://cheercareer.jp/ip_blogs/552）
   - 「ここでは、企業分析におけるよくある失敗と対処法を紹介します」（https://cheercareer.jp/ip_blogs/552）
+  - 「よくある落とし穴は、情報収集そのものを目的にしてしまうことです」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】｜billye」（https://note.com/billye/n/n1b91b3c986af）
   - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】」（https://note.com/billye/n/n1b91b3c986af）
   - 「特にファンダメンタル分析は、企業の経営状況の把握や、今後の業績の見通しを予測できるため、中長期投資の銘柄選びに役立ちます」（https://note.com/billye/n/n1b91b3c986af）
@@ -253,11 +254,13 @@
   - 「企業の「決算書」は、ファンダメンタル分析を行う場合に最初にチェックすべきものです」（https://note.com/billye/n/n1b91b3c986af）
   - 「決算書は、いくつかの資料で構成されていますが、ファンダメンタル分析の基本となる資料は大きく3種類です」（https://note.com/billye/n/n1b91b3c986af）
   - 「そこで、実際にファンダメンタル分析を行う場合は、単に、1年分の売上高だけではなく、ここ10年分くらいの売上高の推移をチェックすることも大切です」（https://note.com/billye/n/n1b91b3c986af）
-  - 「投資初心者の場合、ファンダメンタル分析の際にチェックしておきたい主な指標は、次の8個です」（https://note.com/billye/n/n1b91b3c986af）
 - 実例：
   - 「短所で「周りの目を気にする」を伝える例文｜26卒内定者の実例」（https://careerpark-agent.jp/column/67587）
   - 「例えば、安定志向の企業もあれば、リスクを覚悟で新しいビジネスに着手する企業もあり、事業に対する向き合い方は、同業界の企業で合っても大きく異なります」（https://cheercareer.jp/ip_blogs/552）
   - 「例えば入社当初からスピード感を持って自分のスキルアップがしたいと考えている方が、安定志向の企業に入ってしまうと目的が叶えられません」（https://cheercareer.jp/ip_blogs/552）
+  - 「と対応させた場合、例えば、4つの要素はこうなります」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「結果として、」（https://cheercareer.jp/ip_blogs/552）
+  - 「結果として、面接時の受け答えの質が上がり、面接官から高い評価を受けやすくなるでしょう」（https://cheercareer.jp/ip_blogs/552）
   - 「有報の読み方 有報ガイド 有報が使えない非上場人気企業の調べ方を体系化し、サイトの構造的弱点を解消する 親子上場の有報活用テクニックなど、他の就活メディアにはない実践的な調査手法を提供 就活人気企業の中には非上場企業が多数あり、有報が使えないケースが実際に存在する 非上場でも決算公告・信用調査・上場子会社の有報など代替情報源は複数ある サントリーHDのように非上場でも上場子会社の有報から事業内容を読み取れるケースがある 情報源ごとに信頼性と入手しやすさが異なるため、複数を組み合わせるのが基本」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「従業員の多様性データや環境関連の投資額など、面接での差別化に使える情報が見つかるケースもあります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「: ケーススタディ、採用情報、プレスリリースが主な情報源」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
@@ -267,11 +270,9 @@
   - 「例えば、お金の資金繰りがうまくいっていない企業の場合、損益計算書上では利益が出ているように見えても、回収や支払のタイミングによっては営業のキャッシュフローが赤字になっているケースもあります」（https://note.com/billye/n/n1b91b3c986af）
   - 「course, and there’s a more detailed “small business valuation” example in the」（https://mergersandinquisitions.com/private-company-valuation/）
   - 「Complete 9 case studies」（https://mergersandinquisitions.com/private-company-valuation/）
-  - 「These are true “small businesses” that are dependent on the owner, who tends to be highly involved in day-to-day operations. Examples include a barber shop, a doctor’s office, M&I and BIWS, and any company with “Wall Street” in its title.」（https://mergersandinquisitions.com/private-company-valuation/）
-  - 「企業分析の結果と自分の思考との共通点を探してみてください」（https://careerticket.jp/media/article/320/）
-  - 「手書きのノートではなく、パソコンやスマホを活用して企業研究の結果を管理するのもおすすめです」（https://careerticket.jp/media/article/320/）
 - 検索結果の抜粋：
   - 「【28卒】企業分析のやり方とは？4ステップで就活生に向けて解説 - 選... — Dec 27, 2025 · 企業分析の目的から具体的なやり方、比較ポイントまでを徹底解説。市場動向や競合比較など、分析を成功させる4つのステップと情報収集のコツを紹介します。自分に合う企業を見極め、選考を有利に進めるためのノウハウが満載です。」（https://cheercareer.jp/ip_blogs/552）
+  - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない｜... — Jun 26, 2026 · 面接で深掘りされると言葉が出てこない。 それは準備量の問題ではなく、分析の設計が間違っているサインです。 この記事では、企業分析で本当に答えるべき2つの問いを整理し、正しい分析の入り口をお伝えします。」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 調査方法: 企業の「会社概要」や「採用情報」ページでビジョン・ミッションを確認。 CSRレポート や インタビュー記事 をチェックして、企業の価値観や社会的責任に対する姿勢を調べる。」（https://note.com/miyu6754/n/nf3b036381057）
   - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ」（https://campus.doda.jp/career/job/000292.html）
   - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |... — Aug 7, 2026 · 企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう 企業研究ノートを作る前に押さえておくべき基礎知識 意味：企業情報を一覧化してまとめたノート 目的：企業選びや選考対策に役立てる メリット：企業を比較しやすくなる 3ステップで完成！ 企業研究ノートの作り方 ...」（https://careerpark-agent.jp/column/67587）
@@ -285,7 +286,6 @@
   - 「企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のフレームワーク 効率よく企業分析をするには、フレームワークの活用がおすすめです。考え方の枠組みとなるフレームワークを使って分析することで、より効率的に企業理解を深められます。以下では、企業分析におすすめのフレームワークを3つ紹介します。 3C分析 3C分析とは ...」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
   - 「企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — Apr 16, 2026 · 企業分析ノートの作り方と競合比較 集めた情報は、頭の中に置いておくだけでは面接で引き出せません。 企業分析ノート として1社ごとに整理しておくことを強くおすすめします。ノートは前述の7項目（事業内容・ビジネスモデル・強み弱み・業績・将来性・社風・求める人物像）を見出しに ...」（https://sinmido-recruit.com/columns/企業分析のやり方｜有報・四季報・ir資料を使った/）
   - 「【企業分析のやり方・コツ】業界・社会全体の動向まで調べる — Feb 16, 2024 · 今回は企業分析のやり方についてです。 面接官は 志望企業や業界、社会動向等に関する質問を多く繰り出してきます。 しっかり分析して備えておくと面接で話が盛り上がりやすくなります。 業界により、適切なやり方が若干異なるかもしれませんが、 私のやり方を参考にチューニングしてみ ...」（https://note.com/sunakeso/n/nadc16e37f21f）
-  - 「企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際に... — Aug 11, 2026 · 投資家は違うやり方をする。 自分の金を投じる相手を、公開データから自力で評価する。 そして必ず 複数を並べる。 1社だけ見ても、その数字が高いのか低いのか判断できないからだ。 就活は自分の時間を投じる意思決定なので、同じやり方が使える。」（https://note.com/irshukatsu/n/n208897213bd4）
 
 ## 求人情報・採用ページから会社の実態を読む方法（infer company from job postings）
 - 文脈：企業
@@ -7630,6 +7630,8 @@
 ## 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）（quote grounding verification extracted citation exists in source text RAG hallucination legal research）
 - 文脈：検証
 - 手順・やり方：
+  - 「RAG Hallucination: Why It Happens and How to Fix It (2026)」（https://hussain-nazary.github.io/rag-hallucination.html）
+  - 「RAG Evaluation: How to Measure Retrieval Quality」（https://hussain-nazary.github.io/rag-hallucination.html）
   - 「Deployment is governed by a rigorous evaluation framework using」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「vector index partitioned by jurisdiction for low-latency, high-relevance retrieval. Our evaluation framework measures」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
@@ -7643,8 +7645,6 @@
   - 「3. Methodological families」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「4. Evaluation frameworks」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「Legal results are bifurcated between grounded verification and closed-book generation. The Ukrainian legal citation-graph framework reports mean CG in the」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「be reflected in future conversations about how to responsibly」（https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf）
-  - 「lyze situations with an IRAC framework—first identify the issue」（https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf）
 - 突き合わせ・推定：
   - 「侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -9685,9 +9685,9 @@
   - 「4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
@@ -10274,37 +10274,37 @@
 ## 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き（triangulation four types Denzin reporting how sources compared）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「それぞれの評価方法が導き出すのは、以下のような問いに対する答えです」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「研究における三角測量法 - 複数の方法、データ源、理論、研究者を組み合わせる三角測量の原理と実践」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「方法論的三角測量、データ三角測量、研究者三角測量、理論的三角測量の種類と適用、信頼性と妥当性の向上戦略について学ぶ」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「方法論的三角測量は、異なる研究方法を用いて同じ現象を調査することです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法のデータ収集におけるサンプリング方法は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「定量的および定性的なデータ収集方法を組み合わせることが一般的です」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法におけるデータの信頼性を高める方法は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「問題設定、データ収集、分析、結果の統合のステップを踏みます」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法の研究におけるバイアスを減少させる方法は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法は、異なる方法やデータ源を組み合わせて、より信頼性の高い研究結果を得るためのアプローチです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法におけるデータの収集方法の選択基準は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「研究の目的や対象に応じた適切な方法を選ぶことです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「MTMMは異なる方法で測定された概念の相関行列を用い、測定誤差と妥当性を考察する有効な方法です」（https://statg.com/kiso/saso.html）
+  - 「すべての測定方法は、それぞれ固有の欠点があるので、多くの場合、研究者は特定の事項に対して異なるいくつかの方法を用いて測定する」（https://statg.com/kiso/saso.html）
   - 「Visual SLAMでの三角測量の役割は、キーフレーム間で追跡した特徴点の3D位置を確定することです」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「一度3D座標が決まると、その点は地図点として登録され、以降のフレームでのカメラ姿勢推定(PnP)に使われます」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「これがVisual SLAMでキーフレーム選択時に最低視差角(minimum parallax)を要求する理由です」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「インクリメンタル三角測量はSLAMで地図点が新しいキーフレームに観測されるたびに推定値を更新する方法です」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「新しいフレームが来るたびに逆深度の分布を更新し、分散が小さくなったら(十分に収束したら)地図点として確定します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量とは、複数の視点から現象を検討する手法であり、結論が単一の情報源、単一の方法、単一の分析者、あるいは単一の理論のみに依存しないようにするものです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「いかなる単一の証拠収集方法にも特有の盲点があり、それらの盲点はランダムに発生するものではありません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「方法論の三角測量 (Methodological triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「この区別については、関連する「データ対方法論の三角測量」の記事で詳しく解説しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量は通常、妥当性を高めるためのもの（同じことを2つの方法で検証し、答えが一致すればより確信を持てる）として喧伝されます」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「は、異なる方法が現象の異なる側面を明らかにするため、その目的は検証ではなく、より全体的な像を描くことにあるとします」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「異なる方法は、」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「他の方法を使用することでは明らかにできない現象の側面を明らかにする」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「方法論のセクションでそう述べることは、あなたがその違いを理解していることを示します" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 突き合わせ・推定：
-  - 「【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSHIMA」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「NAV17となる本記事では三角測量を扱います」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「三角測量(Triangulation)は既知の位置にある複数のカメラから同一点を観測し、その3D座標を復元する操作です」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「測量の三角測量と同じ原理で、異なる視点からの観測線の交点が3D点の位置になります」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「Visual SLAMでの三角測量の役割は、キーフレーム間で追跡した特徴点の3D位置を確定することです」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「一度3D座標が決まると、その点は地図点として登録され、以降のフレームでのカメラ姿勢推定(PnP)に使われます」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「最も基本的な三角測量であるDLT(Direct Linear Transform)法を導出します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「真に最適な三角測量は画像平面での再投影誤差の合計を最小化する非線形最小二乗問題です:」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「Hartley-Sturmの最適二視点三角測量(2次元射影的最適解)は二視点の場合に解析的最適解を求めるアルゴリズムです」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「ORB-SLAM3のCreateNewMapPointsはDLT三角測量を使い、BAで後から精度を向上させます」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「三角測量の精度を最も左右するのが視差角(parallax angle)です」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「視差角が小さいほど(カメラが近い位置にある、または点が遠い)三角測量精度が低下します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「一般的に1〜2度以上の視差角がないと三角測量の信頼性が低く、地図点として登録しません」（https://note.com/witty_mango107/n/na39978bdd66e）
+  - 「企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三角測量」の実践的活用法｜Whence@Gallery」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三角測量」の実践的活用法」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「3. M&Aにおける「三角測量」の枠組み」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「実際のM&Aや投資の現場では、これら3つの視点を掛け合わせる「三角測量」によって、多角的に対象企業を分析します」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「インカムアプローチで「将来収益と買収後の可能性」を検証する」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「この三角測量を行うことで、「価格の妥当性」「交渉で詰めるべき論点」、そして「投資後に企業価値を高めるための具体的な課題」を同時に明らかにすることができます」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「研究における三角測量法 - 複数の方法、データ源、理論、研究者を組み合わせる三角測量の原理と実践」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「方法論的三角測量、データ三角測量、研究者三角測量、理論的三角測量の種類と適用、信頼性と妥当性の向上戦略について学ぶ」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法を用いた研究の例を挙げてください」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法の研究結果を発表する際のポイントは？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「方法論的三角測量は、異なる研究方法を用いて同じ現象を調査することです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法のデータ分析における統計的手法は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法のデータ収集におけるサンプリング方法は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法の結果をどのように活用しますか？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法におけるデータの信頼性を高める方法は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
 - 一次情報の探し方：
   - 「[PDF] Using Triangulation and Crystallization to Make Qualitative Studies ...」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「(PDF) The use of Triangulation in Social Sciences Research」（https://grokipedia.com/page/Triangulation_(social_science)）
@@ -10334,30 +10334,31 @@
   - 「In social contexts marked by power dynamics or interpretive variability, treating disparate tools as interchangeable can propagate biases from the dominant method, eroding the presumed balance.」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「This pitfall challenges the foundational logic of」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「This convergent bias risks entrenching dominant theoretical frameworks, where non-conforming data is sidelined rather than interrogated for deeper understanding.」（https://grokipedia.com/page/Triangulation_(social_science)）
-  - 「三つ以上の視点からの三角測量での実装上の注意点を解説します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「次回NAV18では特徴点追跡——KLT光学フロー、FAST/ORBの詳細実装、追跡失敗の検出と回復を解説します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「数字を鵜呑みにするのではなく、複数手法によって導き出された「評価レンジ」をベースに、以下の要素を統合的な視点で評価する必要があります」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「異なる視点を明示し、結果の解釈に注意を払うことです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「データの質や研究者のバイアスが結果に影響を与える可能性があります」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
 - 実例：
-  - 「三角測量結果の不確かさを定量化するため、画像ノイズから3D点座標誤差への伝播を解析します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「このdepth画像をstereoRectifyの結果と組み合わせて3D点に変換し、Visual SLAMまたはLiDAR SLAMの入力として使います」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「最低視差角チェック: 視差角が1度未満の三角測量結果は深度誤差が大きいため棄却します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「再投影誤差チェック: 三角測量結果を全観測カメラに再投影し、全観測点での再投影誤差が閾値(通常2〜4ピクセル)以下のもののみ地図点として登録します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「スケール一致性チェック: ステレオまたはIMU統合の場合、三角測量結果の深度がスケール推定値と著しく異なる場合は棄却します」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「どちらの立場を主張するかによって結果が異なります」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「「これはデータの収集方法による人為的な結果（アーティファクト）なのではないか」」（https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation）
-  - 「もしある結果が1つの施設でのみ見られた場合、それは現象そのものではなく、その施設に関する何かを学んだことになります」（https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation）
-  - 「例えば、同じインタビューガイドの中で2つの異なる質問形式を用いたり、クローズド質問とオープンエンドの自由記述の両方を含むアンケートを実施したりすることです」（https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation）
-  - 「これを適切に行うということは、調査結果を「一致」、「部分的一致」、「沈黙（一方にしか現れない）」、そして「不協和（不一致）」に分類することを意味し、これは最後に書く数行のパラグラフではなく、真に分析的な作業です」（https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation）
-  - 「例えば、ある人がテレビCMでサービスを知り、数日後に名前で検索して買った、このとき記録に残るのは、最後の検索クリックだけ」（https://1st-cmo.one/essays/measurement-triangulation）
-  - 「ざっくり言うと、売上のような結果に対して、テレビ広告・デジタル広告・季節要因・競合の出稿状況などが、それぞれどれくらい寄与したかを、過去のデータからまとめて推定する道具です」（https://1st-cmo.one/essays/measurement-triangulation）
+  - 「類似する上場企業や過去の取引事例を基準とする評価です」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「例えば、コストアプローチの評価額よりもインカムアプローチの評価額が圧倒的に高い場合、その企業は「目に見える資産以上の強力なブランド力や無形資産（将来の稼ぐ力）を持っている」と読み取れます」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「評価結果の差額は、その企業が持つ独自の強み（超過収益力など）や、潜在的なリスク（事業計画の非現実性など）を如実に表しています」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「財務・事業デューデリジェンス（実態調査）の結果」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「これらすべての要素をバリュエーションの結果と統合して初めて、実行可能で、かつステークホルダーに対して納得性のあるM&A価格（投資価格）を形成することができるのですね」（https://note.com/whence278663/n/nd0398e441b32）
+  - 「異なる視点を明示し、結果の解釈に注意を払うことです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「データの質や研究者のバイアスが結果に影響を与える可能性があります」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法の研究結果を発表する際のポイントは？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「信頼性は、研究結果が一貫して再現可能であることを指します」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「利点は、研究結果の信頼性を高め、偏りを減少させることです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法の結果をどのように活用しますか？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「理論は、研究の枠組みを提供し、結果の解釈を助けます」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法の結果をどのように解釈しますか？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「問題設定、データ収集、分析、結果の統合のステップを踏みます」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
+  - 「三角測量法の研究結果の一般化について考慮すべき点は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
 - 検索結果の抜粋：
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を」（https://note.com/kasano/n/n5300393c2f30）
   - 「トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 客観性を高めるうえで多角化は重要と感じていましたが、先人の同様な考え方に出会うことが出来ました。 ※ノーマン・K・デンジンさんが1978年に著書のなかで提唱したものだそうです。」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
   - 「Triangulation (social science) — [1] Denzin identified four primary types of triangulation, each serving to deepen understanding and address limitations inherent in single-method studies. Data triangulation employs varied data sources—such as observations from different individuals, times, or settings—to identify patterns and convergences within the same phenomenon.」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「Triangulation in Qualitative Research - Simply Psychology — Sep 29, 2026 · Key Takeaways Definition: Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978). Four Types: Data, investigator, theory and method triangulation each corroborate a finding from a different direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...必須 No.1 法規・公共測量 ｜測量士 午後 記述式 解き方の型と過去5年...【2026年11月確認】令和9年受験向け 測量士補・計算基礎演習28問｜図... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当」（https://note.com/kasano/n/n5300393c2f30）
   - 「【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH... — Jun 19, 2026 · 前回はエピポーラ幾何の基礎行列・本質行列を解説しました。 NAV17となる本記事では三角測量を扱います。 複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します。」（https://note.com/witty_mango107/n/na39978bdd66e）
   - 「質的研究においてなぜ三角測量（トライアンギュレーション）を用いる... — 以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します。」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「3-2. 4つの道具を役割分担する｜三角測量の実践 | CMO1号 — Aug 1, 2026 · アトリビューション分析の数字をなんとなく信頼しきれていない——その感覚は正しいです。 MMM・アトリビューション・実験・調査、4つの道具を強みと弱みで使い分ける「三角測量」の考え方と、短期P/L・長期B/Sの時間軸を整理します。」（https://1st-cmo.one/essays/measurement-triangulation）
@@ -10368,7 +10369,6 @@
   - 「三角測量とは — 基線1本と角度だけで全国の座標を決めた方法と、GNSS... — Aug 16, 2026 · 三角測量とは、距離は基線1本だけを精密に測り、あとは角度で三角形をつないで座標を広げていく方法です。 長い距離を正確に測るのが難しかった時代の発明で、日本の一等三角測量は1883年（明治16年）に始まりました。 ただし網でつ…」（https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/）
   - 「測量のしくみ（三角測量・三角点・水準点） - 地理ラボ 詳しすぎる高... — 測量とは、2点間の位置関係を決めることです。 地図上の建物や海岸線などの位置関係を正確に決めるために測量は必須であり、地図は測量の結果を描いているものです。 このページでは、はじめに基本的な測量方法である」（https://alivevulnerable.com/basic/land-surveying/）
   - 「三角測量 - ナムウィキ - ja.namu.wiki — Aug 24, 2026 · 「直角 三角形 は角度一つだけ同じなら似た三角形」という性質と 三角関数を 利用するのに両方とも 平面でしか適用できない性質 であるため、 球面 である 地球 表面上で遠すぎる距離を測定すると誤差が発生することになる。」（https://ja.namu.wiki/w/삼각+측량）
-  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を」（https://note.com/kasano/n/n5300393c2f30）
 
 ## 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）（market sizing top-down bottom-up reconcile assumptions table）
 - 文脈：推定
@@ -13101,6 +13101,8 @@
   - 「したがって、検索結果がないことは、出典を発見できなかったことを意味するだけである」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
 - 検索結果の抜粋：
   - 「消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。 図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。」（https://note.com/shirabeshi/n/nee92b41d8cc1）
+  - 「消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ — Feb 24, 2026 · 削除された記事や閉鎖されたサイトでも、ウェブ魚拓（ウェブアーカイブ）サービスを使えば、過去の状態を閲覧できる場合があります。 この記事では、現在使えるウェブ魚拓サービスの種類と、それぞれの使い方をわかりやすく解説します。」（https://note.com/zz08/n/ncd84a61a7641）
 
 ## 事業所・企業の調査の重み付きの回収率（総額のうち答えた先が占める割合）と非回答の内訳（連絡不能・データ無し・承諾後に未提出）を報告する実務（統計局・FCSM・調査会社の書き手）（weighted response rate establishment survey nonresponse categories FCSM）
 - 文脈：検証
@@ -13836,8 +13838,8 @@
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

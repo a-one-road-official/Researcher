@@ -8,8 +8,304 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-08T03:18:28.166012+00:00",
+ "researched_at": "2026-11-08T10:24:48.146776+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "the rule like this: It takes $1 to verify a record as it’s entered, $10 to cleanse and dedupe it and $100 if nothing is done, as the ramifications of the mistakes are felt over and over again.",
+    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "You make one mistake in the matching criteria and the whole data matching would be uprooted. Many true positives can be missed. Understanding how the attributes and records can be said to be the same is a game-changer.",
+    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "寮や集合住宅、事業所なども同じ住所を共有するため、住所の一致だけで世帯を判断すると誤りが生じます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データクレンジングとは、データの誤りや欠損、表記のばらつきなどを確認し、決めた基準に沿って修正・整理する作業です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "小さな範囲で試行し、結果を業務担当者が確認してから全体に適用すると、影響の大きい誤りを抑えられます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どの程度の誤りを許容できるかは業務によって異なるため、試行結果を確認しながら調整します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統合後は、無作為に選んだ記録や誤りが起きやすいパターンを確認し、誤統合と見落としの両方を検証します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "顧客情報を修正する担当者、統合を承認する責任者、誤りが見つかった場合の戻し方を決めておくと、継続運用が安定します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、名寄せだけでデータが正確になるわけではなく、欠損や入力誤り、集計条件も別途確認する必要があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せで注意すべきなのは、別の対象を一つにまとめる誤統合です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どちらの誤りが業務に大きな影響を及ぼすのかを検討し、用途に応じた判定基準を設ける必要があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どのシステムから取得した値か、いつ更新されたか、どのルールで統合したかを追えるようにしておけば、誤りを発見した際に原因を調べやすくなります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "入力欄の形式をそろえる、必須項目を適切に設定する、選択肢を用意する、既存顧客の候補を表示するといった工夫で、登録時の誤りや重複を抑えやすくなります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、実際の作業では、照合候補を確認した結果、新たな表記差や誤りが分かり、再度クレンジングが必要になることもあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【基礎から解説】ボラティリティの意味とは？リスクとの関係や活用方法、注意点",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、「株式会社」と「(株)」のような表記間違いや入力ミスを防ぐためには、",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重複データを生み出す原因となるため注意が必要",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、顧客数の過大評価やセグメンテーションの誤りが発生する可能性があります",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、次のようなケースにおいて違いが生じやすいので注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データクレンジングのプロセスでは、項目ごとに表記ルールを統一させて、誤りのあるデータがあれば正しい表記に修正します",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "操作ミスによりファイルの破損・紛失などが発生するリスクもあり、取り扱いには注意が必要です",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せを実施する際は、個人情報の取り扱いに細心の注意を払わなければなりません",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せに失敗し、統合すべき情報が統合されなかった場合には、個人情報の漏えいなど大きなトラブルに発展するリスクがあるからです",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報の入力時だけでなく、データクレンジングやマッチングの各段階において誤りがないことを確認する",
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "⚠️ 落とし穴（重要） — inner join の「静かな欠落」は集計を黙って歪める",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「東京都 ↔ 東京」の名寄せに失敗して東京都の 1 行が落ちると、 合計は",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "匿名のトラフィック、表記の誤りを含むオフラインのレコード",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実運用の多くのCDPは両方を併用しており、即時の認識のためのリアルタイムのイベント統合と、統合の誤りを修正し履歴を再計算するための定期的な完全整合処理を組み合わせている",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統合の誤りはエラーとして表に出ないため、名寄せは無条件に信頼するのではなく、指標で監視する必要がある",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジング：表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.",
+    "url": "https://edukatesg.com/2026/09/05/how-entity-resolution-works/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは個々のレコードの誤りや表記ゆれを修正してデータ品質を高める前処理であり、名寄せは複数のレコードから同一人物・同一企業を特定して統合する作業です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データベースや管理ファイルに含まれる誤り・欠損・表記ゆれ・重複を修正し、データ全体の品質を高める作業です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "値の内容は同じでも、フォーマットが異なると完全一致マッチングは失敗します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤統合は顧客情報の混在という深刻な問題につながるため、特に注意が必要です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "サービス名、店舗名・ブランド名、部署名・拠点名、閉鎖企業、入力誤り、個人事業主、人名、海外法人",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、法人として名寄せできない場合でも、「なぜ非法人と判断されたのか」という背景を推測できるため、単なる失敗ではなく、次の判断につながる情報として扱えるようになります",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "名寄せの結果は、必ずしも全ての項目を一つの行に押し込むことではありません",
@@ -948,810 +1244,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、統計上のばらつきは上昇と下落の両方を含みます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客マスタ統合、 文献データベース、 公的統計の事業所集計",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "— e-Stat / RESAS / 自治体オープンデータの結合",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "SSDSE-B-2026 の都道府県名は表記揺れが少ないが、 「東京都/東京/トウキョウ/Tokyo」のような複数表記を統一する処理が、 県をキーに別データ (経産省・厚労省の地域統計) と結合する際に必須になる",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "e-Stat 全市町村 (約 1700 件) でも数秒",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "— 名前から国籍を推定する名寄せは、 採用や融資で差別的に作用する可能性",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "— 独立行政法人統計センター、 47 都道府県マスタの参照源",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "列（R01000〜R47000、 JIS X 0401 都道府県コードに基づく 47 個の一意キー）があり、 コード付きの外部統計とはこれで結合すれば表記揺れ問題そのものが消滅します",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "と、IPアドレス、デバイス、行動といったシグナルから統計的な確信度スコアを算出する",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "シグナル（IP、デバイス、行動）からの統計的な推定",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せにおける統計的なマッチングは、AIという呼び名よりも古い",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生成AIに式や判定の条件を相談した場合も、その答えを個人のチャット履歴に置かず、採用した条件だけを台帳に書き写します",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. Linking and profiling",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. Data Profiling and Standardization",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. Scalable Data Profiling and Cleansing",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "pull filings from every jurisdiction (plus SEC, tax, and licensing data).",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", and every field links back to its official filing. That provenance isn’t a nice-to-have; auditors demand it, regulators expect it, and machine-learning teams need it for training sets.",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表レコードは、項目ごとに採用基準を決めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "完全一致もしくは部分一致する候補が1件だけなら採用",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の自動化にはGoogleスプレッドシートと相性の良いGAS（GoogleAppScript）を採用しました",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SalesNowスコアは、Web更新、採用動向、ニュースなどから企業の活動活発度（アクティビティ）を数値化した指標です",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInAndy Wong - Quantexa | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data & Publ",
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInHitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data",
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Head of Entity Data at Intelix.AI — Greater London, England ... Oct 26, 2026 · THE ROLE: Entity master: company names, identifiers (LEI, Fitch ID, CUSIP, ISIN, BIC, tickers), locations, industries; the cross-reference between them and the rules for when two records are one company Entity resolution: matching rules, match confidence, survivorship, deduplication; accuracy measured against a publishe",
-    "url": "https://uk.linkedin.com/jobs/view/head-of-entity-data-at-intelix-ai-4482961270",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInPiu Maji - Barclays HackOHire’26 Finalist | 2nd Runner Up at ...Hitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Dedupli",
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "名寄せとは、複数のデータに記録された情報を照合し、同じ人物・企業・世帯などに関するものを判定して、関連付けたり統合したりする作業です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せとは、複数の記録を照合し、同じ対象についての情報であると判断できたものに共通の識別子を付けたり、代表となる情報にまとめたりすることです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客番号や法人番号のように重複しにくい番号があれば照合に役立ちますが、番号がない場合は氏名、住所、電話番号などの組み合わせを使います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "氏名、ふりがな、生年月日、住所、電話番号、メールアドレスなどが照合項目になります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "法人番号のような識別情報が利用できれば、名称だけに頼るより照合しやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "旧社名や合併前の情報は削除せず、変更履歴として保持すると、過去の取引記録との照合にも役立ちます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "仮説を立て、データで検証する思考を身に付ける",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これに対して名寄せは、整えたデータを照合し、同一の人物や企業などに属する記録を特定して結び付ける作業です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データクレンジングは照合しやすい状態をつくる役割を担い、名寄せは同じ対象かどうかを判断する役割を担います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その後、照合に使う項目と、最終的に残す項目を定めます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "マッチングとは、複数の項目を使って、記録が同じ対象を指しているかを照合することです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "照合に使う項目と統合の条件は、作業前に文書化します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "そのうえで、決めた照合ルールを適用し、一致した記録、類似する候補、判定できない記録に分けます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "類似度による照合では、一定の基準を超えた候補を自動で統合し、それ以外を人が確認する運用が考えられます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統合後に検証し、更新ルールを運用する",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "営業部門とマーケティング部門で別々のデータベースを使用する場合、顧客対応に食い違いが生じる可能性があります",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この場合、既存の顧客データをあらかじめ用意した標準化された顧客名リストと照合し、一致度を測定します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "明らかな入力ミスや論理的に矛盾するデータを特定し、修正します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ためには、 以下の観点で検証するのが定番です",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "コード 2: difflib で類似度ベース照合",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "— 異なるソースの個人情報を名寄せすると「容易照合性」が生じ、 仮名加工情報や匿名加工情報の要件が変わる",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "— 名前から国籍を推定する名寄せは、 採用や融資で差別的に作用する可能性",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "する（ここだけ人手検証） → ② 以降の結合はすべてコードで行う」という二段構えにすると、 名寄せコストを 1 回に封じ込められます",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人番号をキーにして一発で同一法人を突き合わせられる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこで利用されるのが、複数の情報を組み合わせた照合です",
-    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deterministic Matchingは、事前に定義したルールに従って照合する方法です",
-    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せ（アイデンティティ・レゾリューション）とは、複数の顧客識別子を照合し単一プロファイルへ統合するプロセス",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せ（アイデンティティ・レゾリューション）とは、メールアドレス、デバイスID、Cookieなど複数の接点に存在する顧客識別子を照合して統合し、単一の永続的なプロファイルへとまとめるデータ管理プロセスである",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確率的マッチングは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "レコードAがメールを介してレコードBと一致し、レコードBが電話番号を介してレコードCと一致する場合、推移的マッチングはAとCが共通のキーを持たないにもかかわらず、同一顧客に属すると推定する",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "シグナル（IP、デバイス、行動）からの統計的な推定",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "に準拠しているかを検証できず、データチームはプロファイルが誤って統合されたり分断されたまま残ったりした際に精度の問題を診断できなかった",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：どの識別子がどの統合を引き起こしたか、いつ発生したか、確定的マッチングと確率的マッチングのどちらによるものか、あるいは推移的推定がどのようにそれらをつなげたのかを示す完全な監査ログ",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検証の出発点は、正解のラベルを付けたサンプルだ",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "顧客の識別子を照合し、統合するプロセス",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確率的な名寄せは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せとは？意味・手順・Excelでのやり方（関数の式つき）・照合キーの決め方｜sento.group",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "請求と入金が合わない：請求先の記録と入金の記録が別の名前で登録され、照合に時間がかかる",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "表ごとに列の名前が違うまま比べ始めると、同じ電話番号が「電話番号」「代表電話」「連絡先」の三つの列に散らばり、照合から漏れます",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人番号が全体の何割に入っているかで、照合キーの組み方が変わります",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "照合キーを決める：確実さの段階をつけて、どの一致なら同じ候補とするかを書く",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "照合キーの列：=そろえた社名&\"|\"&そろえた電話 のように二つをつなぎ、一つの文字列にします",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "重複の件数を数える列：=COUNTIF(照合キーの列,照合キーのセル)",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "並べ替えて目で見る：照合キー、次にそろえた社名で並べ、隣り合う行を見比べて、判定の列に「統合」「保留」「別」を入れます",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "毎月繰り返す、数万件を超える、外部の企業データと突き合わせたい、という場合は、CRMの重複チェックや名寄せ用の道具を検討します",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "担当者が毎月頭の中で寄せていた作業を、登録画面の検索と、照合キーの台帳に残します",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "台帳には、照合キーの組み合わせ、統合・保留・別の判定条件、決めた人、決めた日を一行ずつ書きます",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q. 照合キーになる項目が無い記録はどうしますか？",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "保留の記録は、次に取引や問い合わせがあったときに電話番号などを聞いて埋め、照合をやり直します",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "照合キーと、消した番号の残し方まで一緒に決めます",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "techniques to compare attributes and estimate whether records belong to the same entity.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimate the value Tamr can bring to your data with a quick calculation",
-    "url": "https://www.tamr.com/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "補完できるものは他システムのデータと突き合わせて補完します",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：統合結果の検証と本番反映",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "反映後は件数の変化（統合前後のレコード数の差）を確認し、想定範囲内かどうかを検証します",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "専用ツールの強みは、外部マスタデータとの照合による高精度なマッチングです",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社データだけでは判定が難しいケースでも、外部の法人データベースと突き合わせることで精度を高められます",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1,250万拠点以上の法人データベース（LBC）との照合により、表記ゆれがあっても高精度な名寄せが可能です",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の記事では、「企業名だけのデータ」を起点に、どこまで自動で正規化できるのかを技術検証してみました",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の検証では622件の「企業名のみリスト」のうち、約7割にあたる422件を自動で特定・名寄せすることに成功しました",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の検証では、この「放置されていたデータ」を、どこまで自動で救えるのかをテーマにしました",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. 検証｜3段階の自動フィルタリング設計",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. 検証結果①｜SalesNowのロジックだけでどこまで決まるか",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際に検証してみると、驚くほど多くのデータが、STEP2まで（一致判定・SalesNowスコア判定）で名寄せできました",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. 検証結果②｜AIはどこまで「検索」で救えるのか",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回のフローでは、名寄せ結果だけでなく、「なぜその企業が選ばれたのか」を後から検証できるよう、判断根拠となる情報も併せて出力する設計としました",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "完全な自動化を前提としつつも、結果の妥当性を検証できる余地を残すことで、運用上の信頼性を担保しています",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これは、エンリッチデータが「推定・推薦による結果」であることを明示し、意味を共有しておくことで、運用フェーズにおけるデータ更新や修正判断が行いやすくなるためです",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の検証を通じて得られた結論はシンプルです",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科",
@@ -2636,297 +2128,805 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
+  "突き合わせ・推定": [
    {
-    "quote": "the rule like this: It takes $1 to verify a record as it’s entered, $10 to cleanse and dedupe it and $100 if nothing is done, as the ramifications of the mistakes are felt over and over again.",
-    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "You make one mistake in the matching criteria and the whole data matching would be uprooted. Many true positives can be missed. Understanding how the attributes and records can be said to be the same is a game-changer.",
-    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科",
+    "quote": "名寄せとは、複数のデータに記録された情報を照合し、同じ人物・企業・世帯などに関するものを判定して、関連付けたり統合したりする作業です",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説",
+    "quote": "名寄せとは、複数の記録を照合し、同じ対象についての情報であると判断できたものに共通の識別子を付けたり、代表となる情報にまとめたりすることです",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "寮や集合住宅、事業所なども同じ住所を共有するため、住所の一致だけで世帯を判断すると誤りが生じます",
+    "quote": "顧客番号や法人番号のように重複しにくい番号があれば照合に役立ちますが、番号がない場合は氏名、住所、電話番号などの組み合わせを使います",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "データクレンジングとは、データの誤りや欠損、表記のばらつきなどを確認し、決めた基準に沿って修正・整理する作業です",
+    "quote": "氏名、ふりがな、生年月日、住所、電話番号、メールアドレスなどが照合項目になります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "小さな範囲で試行し、結果を業務担当者が確認してから全体に適用すると、影響の大きい誤りを抑えられます",
+    "quote": "法人番号のような識別情報が利用できれば、名称だけに頼るより照合しやすくなります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "どの程度の誤りを許容できるかは業務によって異なるため、試行結果を確認しながら調整します",
+    "quote": "旧社名や合併前の情報は削除せず、変更履歴として保持すると、過去の取引記録との照合にも役立ちます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "統合後は、無作為に選んだ記録や誤りが起きやすいパターンを確認し、誤統合と見落としの両方を検証します",
+    "quote": "仮説を立て、データで検証する思考を身に付ける",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "顧客情報を修正する担当者、統合を承認する責任者、誤りが見つかった場合の戻し方を決めておくと、継続運用が安定します",
+    "quote": "これに対して名寄せは、整えたデータを照合し、同一の人物や企業などに属する記録を特定して結び付ける作業です",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ただし、名寄せだけでデータが正確になるわけではなく、欠損や入力誤り、集計条件も別途確認する必要があります",
+    "quote": "データクレンジングは照合しやすい状態をつくる役割を担い、名寄せは同じ対象かどうかを判断する役割を担います",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "名寄せで注意すべきなのは、別の対象を一つにまとめる誤統合です",
+    "quote": "その後、照合に使う項目と、最終的に残す項目を定めます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "どちらの誤りが業務に大きな影響を及ぼすのかを検討し、用途に応じた判定基準を設ける必要があります",
+    "quote": "マッチングとは、複数の項目を使って、記録が同じ対象を指しているかを照合することです",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "どのシステムから取得した値か、いつ更新されたか、どのルールで統合したかを追えるようにしておけば、誤りを発見した際に原因を調べやすくなります",
+    "quote": "照合に使う項目と統合の条件は、作業前に文書化します",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "入力欄の形式をそろえる、必須項目を適切に設定する、選択肢を用意する、既存顧客の候補を表示するといった工夫で、登録時の誤りや重複を抑えやすくなります",
+    "quote": "そのうえで、決めた照合ルールを適用し、一致した記録、類似する候補、判定できない記録に分けます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ただし、実際の作業では、照合候補を確認した結果、新たな表記差や誤りが分かり、再度クレンジングが必要になることもあります",
+    "quote": "類似度による照合では、一定の基準を超えた候補を自動で統合し、それ以外を人が確認する運用が考えられます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "【基礎から解説】ボラティリティの意味とは？リスクとの関係や活用方法、注意点",
+    "quote": "統合後に検証し、更新ルールを運用する",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "たとえば、「株式会社」と「(株)」のような表記間違いや入力ミスを防ぐためには、",
+    "quote": "営業部門とマーケティング部門で別々のデータベースを使用する場合、顧客対応に食い違いが生じる可能性があります",
     "url": "https://jp.sansan.com/media/aggregation-of-names/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "重複データを生み出す原因となるため注意が必要",
+    "quote": "この場合、既存の顧客データをあらかじめ用意した標準化された顧客名リストと照合し、一致度を測定します",
     "url": "https://jp.sansan.com/media/aggregation-of-names/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "たとえば、顧客数の過大評価やセグメンテーションの誤りが発生する可能性があります",
+    "quote": "明らかな入力ミスや論理的に矛盾するデータを特定し、修正します",
     "url": "https://jp.sansan.com/media/aggregation-of-names/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば、次のようなケースにおいて違いが生じやすいので注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データクレンジングのプロセスでは、項目ごとに表記ルールを統一させて、誤りのあるデータがあれば正しい表記に修正します",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "操作ミスによりファイルの破損・紛失などが発生するリスクもあり、取り扱いには注意が必要です",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せを実施する際は、個人情報の取り扱いに細心の注意を払わなければなりません",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せに失敗し、統合すべき情報が統合されなかった場合には、個人情報の漏えいなど大きなトラブルに発展するリスクがあるからです",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "情報の入力時だけでなく、データクレンジングやマッチングの各段階において誤りがないことを確認する",
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "⚠️ 落とし穴（重要） — inner join の「静かな欠落」は集計を黙って歪める",
+    "quote": "ためには、 以下の観点で検証するのが定番です",
     "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "「東京都 ↔ 東京」の名寄せに失敗して東京都の 1 行が落ちると、 合計は",
+    "quote": "コード 2: difflib で類似度ベース照合",
     "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
+    "quote": "— 異なるソースの個人情報を名寄せすると「容易照合性」が生じ、 仮名加工情報や匿名加工情報の要件が変わる",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— 名前から国籍を推定する名寄せは、 採用や融資で差別的に作用する可能性",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "する（ここだけ人手検証） → ② 以降の結合はすべてコードで行う」という二段構えにすると、 名寄せコストを 1 回に封じ込められます",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる",
     "url": "https://note.com/sr_mako/n/n611995af6f74",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
+    "quote": "法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる",
     "url": "https://note.com/sr_mako/n/n611995af6f74",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "匿名のトラフィック、表記の誤りを含むオフラインのレコード",
+    "quote": "法人番号をキーにして一発で同一法人を突き合わせられる",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこで利用されるのが、複数の情報を組み合わせた照合です",
+    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deterministic Matchingは、事前に定義したルールに従って照合する方法です",
+    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せ（アイデンティティ・レゾリューション）とは、複数の顧客識別子を照合し単一プロファイルへ統合するプロセス",
     "url": "https://cdp.com/ja/glossary/identity-resolution/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す",
+    "quote": "名寄せ（アイデンティティ・レゾリューション）とは、メールアドレス、デバイスID、Cookieなど複数の接点に存在する顧客識別子を照合して統合し、単一の永続的なプロファイルへとまとめるデータ管理プロセスである",
     "url": "https://cdp.com/ja/glossary/identity-resolution/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "実運用の多くのCDPは両方を併用しており、即時の認識のためのリアルタイムのイベント統合と、統合の誤りを修正し履歴を再計算するための定期的な完全整合処理を組み合わせている",
+    "quote": "確率的マッチングは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する",
     "url": "https://cdp.com/ja/glossary/identity-resolution/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "統合の誤りはエラーとして表に出ないため、名寄せは無条件に信頼するのではなく、指標で監視する必要がある",
+    "quote": "レコードAがメールを介してレコードBと一致し、レコードBが電話番号を介してレコードCと一致する場合、推移的マッチングはAとCが共通のキーを持たないにもかかわらず、同一顧客に属すると推定する",
     "url": "https://cdp.com/ja/glossary/identity-resolution/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "データクレンジング：表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体",
+    "quote": "シグナル（IP、デバイス、行動）からの統計的な推定",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "に準拠しているかを検証できず、データチームはプロファイルが誤って統合されたり分断されたまま残ったりした際に精度の問題を診断できなかった",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：どの識別子がどの統合を引き起こしたか、いつ発生したか、確定的マッチングと確率的マッチングのどちらによるものか、あるいは推移的推定がどのようにそれらをつなげたのかを示す完全な監査ログ",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証の出発点は、正解のラベルを付けたサンプルだ",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "顧客の識別子を照合し、統合するプロセス",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確率的な名寄せは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せとは？意味・手順・Excelでのやり方（関数の式つき）・照合キーの決め方｜sento.group",
     "url": "https://www.sento.group/concepts/nayose",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です",
+    "quote": "請求と入金が合わない：請求先の記録と入金の記録が別の名前で登録され、照合に時間がかかる",
     "url": "https://www.sento.group/concepts/nayose",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "quote": "表ごとに列の名前が違うまま比べ始めると、同じ電話番号が「電話番号」「代表電話」「連絡先」の三つの列に散らばり、照合から漏れます",
+    "url": "https://www.sento.group/concepts/nayose",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "quote": "法人番号が全体の何割に入っているかで、照合キーの組み方が変わります",
+    "url": "https://www.sento.group/concepts/nayose",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.",
-    "url": "https://edukatesg.com/2026/09/05/how-entity-resolution-works/",
+    "quote": "照合キーを決める：確実さの段階をつけて、どの一致なら同じ候補とするかを書く",
+    "url": "https://www.sento.group/concepts/nayose",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
+    "quote": "照合キーの列：=そろえた社名&\"|\"&そろえた電話 のように二つをつなぎ、一つの文字列にします",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重複の件数を数える列：=COUNTIF(照合キーの列,照合キーのセル)",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "並べ替えて目で見る：照合キー、次にそろえた社名で並べ、隣り合う行を見比べて、判定の列に「統合」「保留」「別」を入れます",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎月繰り返す、数万件を超える、外部の企業データと突き合わせたい、という場合は、CRMの重複チェックや名寄せ用の道具を検討します",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "担当者が毎月頭の中で寄せていた作業を、登録画面の検索と、照合キーの台帳に残します",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "台帳には、照合キーの組み合わせ、統合・保留・別の判定条件、決めた人、決めた日を一行ずつ書きます",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q. 照合キーになる項目が無い記録はどうしますか？",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "保留の記録は、次に取引や問い合わせがあったときに電話番号などを聞いて埋め、照合をやり直します",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "照合キーと、消した番号の残し方まで一緒に決めます",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "techniques to compare attributes and estimate whether records belong to the same entity.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
     "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
+    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
     "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "データクレンジングは個々のレコードの誤りや表記ゆれを修正してデータ品質を高める前処理であり、名寄せは複数のレコードから同一人物・同一企業を特定して統合する作業です",
+    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimate the value Tamr can bring to your data with a quick calculation",
+    "url": "https://www.tamr.com/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "補完できるものは他システムのデータと突き合わせて補完します",
     "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "データクレンジングとは、データベースや管理ファイルに含まれる誤り・欠損・表記ゆれ・重複を修正し、データ全体の品質を高める作業です",
+    "quote": "ステップ5：統合結果の検証と本番反映",
     "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "値の内容は同じでも、フォーマットが異なると完全一致マッチングは失敗します",
+    "quote": "反映後は件数の変化（統合前後のレコード数の差）を確認し、想定範囲内かどうかを検証します",
     "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "誤統合は顧客情報の混在という深刻な問題につながるため、特に注意が必要です",
+    "quote": "専用ツールの強みは、外部マスタデータとの照合による高精度なマッチングです",
     "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
+    "quote": "自社データだけでは判定が難しいケースでも、外部の法人データベースと突き合わせることで精度を高められます",
     "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "サービス名、店舗名・ブランド名、部署名・拠点名、閉鎖企業、入力誤り、個人事業主、人名、海外法人",
+    "quote": "1,250万拠点以上の法人データベース（LBC）との照合により、表記ゆれがあっても高精度な名寄せが可能です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の記事では、「企業名だけのデータ」を起点に、どこまで自動で正規化できるのかを技術検証してみました",
     "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "また、法人として名寄せできない場合でも、「なぜ非法人と判断されたのか」という背景を推測できるため、単なる失敗ではなく、次の判断につながる情報として扱えるようになります",
+    "quote": "今回の検証では622件の「企業名のみリスト」のうち、約7割にあたる422件を自動で特定・名寄せすることに成功しました",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の検証では、この「放置されていたデータ」を、どこまで自動で救えるのかをテーマにしました",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 検証｜3段階の自動フィルタリング設計",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. 検証結果①｜SalesNowのロジックだけでどこまで決まるか",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際に検証してみると、驚くほど多くのデータが、STEP2まで（一致判定・SalesNowスコア判定）で名寄せできました",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. 検証結果②｜AIはどこまで「検索」で救えるのか",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回のフローでは、名寄せ結果だけでなく、「なぜその企業が選ばれたのか」を後から検証できるよう、判断根拠となる情報も併せて出力する設計としました",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "完全な自動化を前提としつつも、結果の妥当性を検証できる余地を残すことで、運用上の信頼性を担保しています",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは、エンリッチデータが「推定・推薦による結果」であることを明示し、意味を共有しておくことで、運用フェーズにおけるデータ更新や修正判断が行いやすくなるためです",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の検証を通じて得られた結論はシンプルです",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInAndy Wong - Quantexa | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data & Publ",
+    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInHitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data",
+    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Head of Entity Data at Intelix.AI — Greater London, England ... Oct 26, 2026 · THE ROLE: Entity master: company names, identifiers (LEI, Fitch ID, CUSIP, ISIN, BIC, tickers), locations, industries; the cross-reference between them and the rules for when two records are one company Entity resolution: matching rules, match confidence, survivorship, deduplication; accuracy measured against a publishe",
+    "url": "https://uk.linkedin.com/jobs/view/head-of-entity-data-at-intelix-ai-4482961270",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInPiu Maji - Barclays HackOHire’26 Finalist | 2nd Runner Up at ...Hitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Dedupli",
+    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、統計上のばらつきは上昇と下落の両方を含みます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "顧客マスタ統合、 文献データベース、 公的統計の事業所集計",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— e-Stat / RESAS / 自治体オープンデータの結合",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SSDSE-B-2026 の都道府県名は表記揺れが少ないが、 「東京都/東京/トウキョウ/Tokyo」のような複数表記を統一する処理が、 県をキーに別データ (経産省・厚労省の地域統計) と結合する際に必須になる",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "e-Stat 全市町村 (約 1700 件) でも数秒",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— 名前から国籍を推定する名寄せは、 採用や融資で差別的に作用する可能性",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— 独立行政法人統計センター、 47 都道府県マスタの参照源",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "列（R01000〜R47000、 JIS X 0401 都道府県コードに基づく 47 個の一意キー）があり、 コード付きの外部統計とはこれで結合すれば表記揺れ問題そのものが消滅します",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と、IPアドレス、デバイス、行動といったシグナルから統計的な確信度スコアを算出する",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "シグナル（IP、デバイス、行動）からの統計的な推定",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せにおける統計的なマッチングは、AIという呼び名よりも古い",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生成AIに式や判定の条件を相談した場合も、その答えを個人のチャット履歴に置かず、採用した条件だけを台帳に書き写します",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Linking and profiling",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Data Profiling and Standardization",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Scalable Data Profiling and Cleansing",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "pull filings from every jurisdiction (plus SEC, tax, and licensing data).",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", and every field links back to its official filing. That provenance isn’t a nice-to-have; auditors demand it, regulators expect it, and machine-learning teams need it for training sets.",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表レコードは、項目ごとに採用基準を決めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "完全一致もしくは部分一致する候補が1件だけなら採用",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の自動化にはGoogleスプレッドシートと相性の良いGAS（GoogleAppScript）を採用しました",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SalesNowスコアは、Web更新、採用動向、ニュースなどから企業の活動活発度（アクティビティ）を数値化した指標です",
     "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2947,22 +2947,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/cute_peony965/n/n356d7d9ecfaa",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/sr_mako/n/n611995af6f74",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "url": "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "status": "ok",
     "method": "http"
    },
@@ -3009,22 +3009,12 @@
    {
     "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://usonar.co.jp/blog/5890.html",
-    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.quantexa.com/ja/platform/entity-resolution-software/",
+    "url": "https://techblog.asia-quest.jp/202512/amazon-entity-resolution-japanese-address-matching",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://cherub.jp/notes/entity-resolution/",
@@ -3033,6 +3023,11 @@
    },
    {
     "url": "https://zenn.dev/newvillage/articles/061c95599f2717",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/blog/5890.html",
     "status": "ok",
     "method": "http"
    },
@@ -3079,16 +3074,16 @@
    "results": [
     "https://note.com/kagawatomo/n/n5425654d0f5d",
     "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
-    "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "https://note.com/sr_mako/n/n611995af6f74",
-    "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "https://note.com/rmondo/n/n2477484cf8ea",
+    "https://note.com/sakusaku_excel/n/n826880608161",
     "https://note.com/tt_biz/n/n2cc5e4bb5ec7"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 9
@@ -3122,34 +3117,36 @@
     "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/what-is-service.html",
     "https://cdp.com/ja/glossary/identity-resolution/",
     "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
-    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
     "https://debono.co.jp/media/nayose-kokyaku-data-ai/",
-    "https://geniee.co.jp/media/cdp/datacleansing-datamatching/"
+    "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "https://techblog.asia-quest.jp/202512/amazon-entity-resolution-japanese-address-matching",
+    "https://cherub.jp/notes/entity-resolution/"
    ],
    "engines": [
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 13
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） 事例",
    "results": [
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://aipicks.jp/glossary/entity-resolution",
     "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
     "https://cdp.com/ja/glossary/identity-resolution/",
     "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
     "https://aws.amazon.com/jp/blogs/news/resolve-imperfect-data-with-advanced-rule-based-fuzzy-matching-in-aws-entity-resolution/",
     "https://usonar.co.jp/blog/5890.html",
     "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
-    "https://www.quantexa.com/ja/platform/entity-resolution-software/",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://aipicks.jp/glossary/entity-resolution"
+    "https://debono.co.jp/media/nayose-kokyaku-data-ai/",
+    "https://cherub.jp/notes/entity-resolution/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 13
   },
   {
    "query": "entity resolution company record matching rules",
@@ -3166,7 +3163,7 @@
     "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -3176,12 +3173,12 @@
    "results": [
     "https://note.com/kagawatomo/n/n5425654d0f5d",
     "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
-    "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "https://note.com/sr_mako/n/n611995af6f74",
-    "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "https://note.com/rmondo/n/n2477484cf8ea",
+    "https://note.com/sakusaku_excel/n/n826880608161",
     "https://note.com/tt_biz/n/n2cc5e4bb5ec7"
    ],
    "engines": [
@@ -3192,9 +3189,19 @@
   },
   {
    "query": "site:x.com 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/kigyoulist/status/2108920610042855467",
+    "https://x.com/matsuura_AI_oji/status/2078055480996565233",
+    "https://x.com/kotoha_ai_auto/status/2087399771057361310",
+    "https://x.com/hhayashiss/status/2068967239894843745",
+    "https://x.com/gyomu_rakulab/status/2113103058246988066",
+    "https://x.com/takanishi12/status/2087433963375923620",
+    "https://x.com/ai_x_ow_jp_01/status/2107039843444560161"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）",
@@ -3202,10 +3209,10 @@
     "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja",
     "https://www.linkedin.com/pulse/googleに本物と認識される方法エンティティという視点のseo-剛-柏崎-f5z0c",
     "https://jp.linkedin.com/pulse/harness-power-entity-resolution-qualytics-qualyticsinc-hwhfe?tl=ja",
-    "https://jp.linkedin.com/pulse/demystifying-named-entity-recognition-ner-hmms-viterbi-dev-pandey-k5agc?tl=ja",
     "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
     "https://in.linkedin.com/in/nisa-sehr",
-    "https://jp.linkedin.com/pulse/solving-same-problem-probabilistic-entity-linking-theo-marinos-uouze?tl=ja"
+    "https://jp.linkedin.com/pulse/solving-same-problem-probabilistic-entity-linking-theo-marinos-uouze?tl=ja",
+    "https://jp.linkedin.com/posts/善信-上野-6b754a_戦略を変えた方針も全社に伝えたそれでも現場が動かない-ある会社は卸売から-activity-7518617931199483904-ON_2"
    ],
    "engines": [
     "ddgs:google"
@@ -3218,13 +3225,13 @@
     "https://www.facebook.com/nikkeibusiness/posts/ある中小企業は調査会社の評点などで個別に与信限度額を設定していたが取引先を調査会社のdbと名寄せマッチングした際に旧dbで別会社として認識していた複数の会社が同/5104827656232141/",
     "https://www.facebook.com/100063523145751/photos/被支配会社大会社連合で会社を設立した場合申告の別表二に株主上位三位を記載し同族会社の判定をしますが被支配会社でない法人という欄があります同族会社の判定よりこの区/1160241347715277/",
     "https://www.facebook.com/japanex.jp/photos/同族会社の判定をどこよりもわかりやすく解説フローチャート式株主が個人で３人以下ならもう同族会社です️ほとんどの中小企業がstep1で判定が終わるのではないでしょ/1229142162334455/",
-    "https://www.facebook.com/HTTAX/posts/新着税務トピックス株式保有特定会社の判定基準改正へhttpwwwht-taxorjptopics20130502/602795276399563/",
-    "https://www.facebook.com/yukito.ishiwari/posts/合併や会社分割があった場合賃上げ促進税制の判定は単純ではありません給与総額が増えてもそれは賃上げではなく従業員が移ってきただけかもしれない逆に給与総額が減っても/27768125686109104/",
+    "https://www.facebook.com/office.honda/photos/第十章-加盟店管理ー加盟店は顧客企業ではなくビジネスパートナーー割賦販売法の改正趣旨の一つが加盟店とクレジット会社の関係が加盟店発注者クレジット会社業者ではなく/1447377788664109/",
     "https://www.facebook.com/office.sasidesign/videos/経営の次の一手がわかるカードゲーム/2241707230003627/",
+    "https://www.facebook.com/HTTAX/posts/新着税務トピックス株式保有特定会社の判定基準改正へhttpwwwht-taxorjptopics20130502/602795276399563/",
     "https://www.facebook.com/asadakaikei.co.jp/photos/株式評価-⑤-非上場株式会社規模の判定-株式評価の５回目は非上場株式取引相場のない株式の続きです次の４つのステップで評価していきますが今回は②-会社規模の判定を/2162130863804071/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -3235,18 +3242,18 @@
     "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
     "https://note.com/michibikugroup/n/n138dc00939ca",
     "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
-    "https://note.com/sai_note2222/n/n3455c961f865",
     "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
-    "https://aws.amazon.com/jp/blogs/news/resolve-imperfect-data-with-advanced-rule-based-fuzzy-matching-in-aws-entity-resolution/",
+    "https://note.com/sai_note2222/n/n3455c961f865",
     "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://help.salesforce.com/articleView?id=relationships_considerations.htm&type=0&language=ja&release=208.8",
+    "https://aws.amazon.com/jp/blogs/news/resolve-imperfect-data-with-advanced-rule-based-fuzzy-matching-in-aws-entity-resolution/",
+    "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja",
     "https://aipicks.jp/glossary/entity-resolution"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） X 投稿",
@@ -3254,11 +3261,11 @@
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
     "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
     "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/what-is-service.html",
-    "https://github.com/DevRev-JP/tech-blog/blob/main/articles/kg-agent-ontology-design.md",
     "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://github.com/DevRev-JP/tech-blog/blob/main/articles/kg-agent-ontology-design.md",
     "https://cdp.com/ja/glossary/identity-resolution/",
-    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
     "https://www.quantexa.com/ja/platform/entity-resolution-software/",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
     "https://dev.classmethod.jp/articles/aws-entity-resolution-rule-base-matching/"
    ],
    "engines": [
@@ -3277,8 +3284,8 @@
     "https://www.linkedin.com/company/winpure",
     "https://www.linkedin.com/posts/deepak-kushwaha818_entity-resolved-knowledge-graphs-a-tutorial-activity-7345732851578847234-6bki",
     "https://www.linkedin.com/posts/connecteddataworld_creating-customer-360s-using-entity-resolution-activity-7519050032474574848-wvW5",
-    "https://www.linkedin.com/pulse/beyond-string-matching-datacaffes-semantic-ai-true-entity-qgbxc",
-    "https://www.linkedin.com/pulse/rise-semantic-entity-resolution-building-smarter-knowledge-1yxwc"
+    "https://www.linkedin.com/pulse/rise-semantic-entity-resolution-building-smarter-knowledge-1yxwc",
+    "https://www.linkedin.com/pulse/beyond-string-matching-datacaffes-semantic-ai-true-entity-qgbxc"
    ],
    "engines": [
     "ddgs:google",
@@ -3289,6 +3296,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 21,
+ "runs": 22,
  "first_researched_at": "2026-11-05T03:02:26.379968+00:00"
 }
