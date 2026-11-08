@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T10:47:09.738358+00:00",
+ "researched_at": "2026-11-08T18:20:53.355895+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -44,7 +44,7 @@
     "method": ""
    },
    {
-    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?Q0vGyu7tZooUBinUYp1Z%2FcSBMt8FjgWizU8cdQRdaUNr2AhNxGAxwX9saX%2Ff10eVJeU3vo2CHtoK%0D%0AnhETFmhoM9Pgs%2Fb5BCxPVje40jTUGn4%3D",
+    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?3V7wY27t1q85FH5AkFEjrmbfz1LXP%2FYiAeWEd3EMWMC6bFYNn0yEI4ygB8ehbBqeC0QEyEyt8PBo%0D%0A1xXCKTh3h0b8x3MYGX69i6JCbgA6hx0%3D",
     "status": "ok",
     "method": "http"
    },
@@ -54,14 +54,9 @@
     "method": "browser"
    },
    {
-    "url": "https://koubo.jp/article/list?t=1123",
+    "url": "https://www.hi.u-tokyo.ac.jp/cdps/jmm/summary/",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://s.japan.zdnet.com/membership/login/?next=2f61727469636c652f33353235333038302f702f352f",
-    "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
@@ -74,13 +69,8 @@
     "method": "http"
    },
    {
-    "url": "https://www.enegaeru.com/authenticityjudgmentability",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mki.co.jp/knowledge/innovation/column145.html",
-    "status": "ok",
+    "url": "https://www.jmediawiki.org/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%80%81CSCL+%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A9%95%E4%BE%A1%E3%81%AE/Triangulation_(social_science)",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -89,18 +79,13 @@
     "method": "http"
    },
    {
-    "url": "https://worklife-carrer.hatenablog.com/entry/2026/07/18/163745",
+    "url": "https://scholarcompass.net/columns/184",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jmediawiki.org/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%80%81CSCL+%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A9%95%E4%BE%A1%E3%81%AE/Triangulation_(social_science)",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hisour.com/data/triangulation_social_science/",
-    "status": "http_403",
+    "url": "https://scholar.google.com/?hl=ja",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -109,18 +94,28 @@
     "method": "browser"
    },
    {
-    "url": "https://scholarcompass.net/columns/184",
+    "url": "https://worklife-carrer.hatenablog.com/entry/2026/07/18/163745",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://statg.com/kiso/saso.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://delvetool.com/blog/researcher-triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/10.1177/1609406919899220",
+    "status": "http_403",
     "method": "http"
    },
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8816392/",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://journals.sagepub.com/doi/10.1177/1609406919899220",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -134,12 +129,7 @@
     "method": "http"
    },
    {
-    "url": "https://delvetool.com/blog/researcher-triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "url": "https://ifcncodeofprinciples.poynter.org/the-commitments",
     "status": "ok",
     "method": "http"
    }
@@ -157,7 +147,7 @@
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://koubo.jp/article/list?t=1123",
+    "https://www.hi.u-tokyo.ac.jp/cdps/jmm/summary/",
     "https://note.com/kasano/n/n5300393c2f30"
    ],
    "engines": [
@@ -170,14 +160,14 @@
    "query": "調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事 note",
    "results": [
     "https://japan.eb.com/rg/article-01916900",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
     "https://www.tsuji.ac.jp/press/news/assets_c/2018/06/DATA3%2B-156031.html?training=",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://koubo.jp/article/list?t=1123",
-    "https://japan.zdnet.com/article/35253080/5/",
+    "https://www.hi.u-tokyo.ac.jp/cdps/jmm/summary/",
     "https://ja.wikipedia.org/wiki/三角測量"
    ],
    "engines": [
@@ -190,24 +180,6 @@
    "query": "調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事 やり方",
    "results": [
     "https://japan.eb.com/rg/article-01916900",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.tsuji.ac.jp/press/news/assets_c/2018/06/DATA3%2B-156031.html?training=",
-    "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
-    "https://www.enegaeru.com/authenticityjudgmentability",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.mki.co.jp/knowledge/innovation/column145.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事 事例",
-   "results": [
-    "https://japan.eb.com/rg/article-01916900",
     "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
@@ -215,8 +187,28 @@
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://koubo.jp/article/list?t=1123",
-    "https://rossan-reskilling.com/business_strategy/triangulation-bias-research-design/"
+    "https://www.hi.u-tokyo.ac.jp/cdps/jmm/summary/",
+    "https://ja.wikipedia.org/wiki/三角測量"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事 事例",
+   "results": [
+    "https://japan.eb.com/rg/article-01916900",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.youtube.com/watch?v=4NxTXIfQzh0",
+    "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
+    "https://www.tsuji.ac.jp/press/news/assets_c/2018/06/DATA3%2B-156031.html?training=",
+    "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://ja.wikipedia.org/wiki/三角測量"
    ],
    "engines": [
     "ddgs:bing",
@@ -227,33 +219,49 @@
   {
    "query": "investigator triangulation independent coders agreement fact-checking analysts",
    "results": [
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8816392/",
+    "https://delvetool.com/blog/researcher-triangulation",
     "https://journals.sagepub.com/doi/10.1177/1609406919899220",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8816392/",
     "https://link.springer.com/article/10.1007/s11135-026-02908-6",
     "https://www.atlasworkspace.ai/blog/researcher-triangulation",
-    "https://delvetool.com/blog/researcher-triangulation",
-    "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "https://ifcncodeofprinciples.poynter.org/the-commitments",
     "https://casrai.org/guides/triangulation-in-research",
-    "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
     "https://marketintelligencetools.com/learn/data-triangulation/",
+    "https://www.researchgate.net/post/How-to-do-investigator-triangulation-in-qualitative-research",
     "https://www.sciencedirect.com/topics/computer-science/independent-coder"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "site:note.com 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事",
    "results": [
     "https://note.com/kasano/n/n5300393c2f30",
     "https://note.com/atb001/n/n5c13e4cfc350",
-    "https://note.com/fine_clam2448/n/ne8764e967d91",
+    "https://note.com/santaruru/n/nf46e3d68cfee",
     "https://note.com/momoen_de/n/n538df6651dac",
     "https://note.com/unique_hornet966/n/n050aacdf4a96",
-    "https://note.com/kasouken_/n/n6a5ece62f6ae",
+    "https://note.com/ikukyu_teacher/n/n49a4facf6eb7",
     "https://note.com/ai_audit/n/n9213df7f1618"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事",
+   "results": [
+    "https://x.com/triangulation60",
+    "https://x.com/hito_lab_pt/status/2118986852636254316",
+    "https://x.com/ysokubu_999/status/2109917060746903567",
+    "https://x.com/relyonline/status/2074055786641387686",
+    "https://x.com/NitteikokuS2/status/2107049087321391500",
+    "https://x.com/shigeroido/status/2093810734497255622",
+    "https://x.com/sasaki_cha/status/2033347158028784020"
    ],
    "engines": [
     "ddgs:bing"
@@ -261,21 +269,15 @@
    "n_hits": 7
   },
   {
-   "query": "site:x.com 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
    "query": "site:linkedin.com 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事",
    "results": [
+    "https://www.linkedin.com/company/openai/jobs",
     "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
     "https://jp.linkedin.com/pulse/leadership-triangulation-bill-keever-oly?tl=ja",
     "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
     "https://jp.linkedin.com/pulse/better-decisions-start-right-people-ray-dalio-triangulating-0mb6f?tl=ja",
     "https://jp.linkedin.com/pulse/psychological-triangulation-circular-continuum-raymond-rivera-mba-jio0c?tl=ja",
-    "https://jp.linkedin.com/pulse/smarter-advantage-triangulating-ai-human-knowledge-alex-adamopoulos-u1w6e?tl=ja",
-    "https://jp.linkedin.com/pulse/triangulation-strategy-ones-talking-atif-dastgir--imcwf?tl=ja"
+    "https://jp.linkedin.com/pulse/smarter-advantage-triangulating-ai-human-knowledge-alex-adamopoulos-u1w6e?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -287,11 +289,11 @@
    "results": [
     "https://www.facebook.com/media/set/?set=a.971729412937126",
     "https://www.facebook.com/MiyazuCity/videos/歴史ってこんなにおもしろいkids学芸員として活動した宮津の小学生7人本物の資料を見て触れて調べる中で子どもたちはどんなことを感じたのでしょう神社に納めたもの色/1513708453857007/",
-    "https://www.facebook.com/nishitokyocity/posts/調べる学習コンクールのやり方が分からない人集まれ夏休みの自由研究にも活かせる調べる学習コンクールに初めて挑戦する方向けにテーマの決め方調べ方等のポイントをお教え/769556575357082/",
     "https://www.facebook.com/yoshitaka.yamauchi.5/posts/同じ資料でも受付総務経営者では受け取り方は変わるだろうか日々営業コラム260706これまで営業活動では資料をお渡しすることを一つの区切りとして考えていました-し/26547246928284346/",
-    "https://www.facebook.com/higashihiroshima.lib/posts/全国コンクール結果発表東広島市立図書館第28回図書館を使った調べる学習コンクール全国コンクールの結果が出ました今年度は東広島市のコンクールの受賞作より2作品が全/917602533912827/",
+    "https://www.facebook.com/nishitokyocity/posts/調べる学習コンクールのやり方が分からない人集まれ夏休みの自由研究にも活かせる調べる学習コンクールに初めて挑戦する方向けにテーマの決め方調べ方等のポイントをお教え/769556575357082/",
+    "https://www.facebook.com/Seiji.Ohsaka/videos/逢坂誠二の一日一話-知らないことはまず調べる-134新聞や会話資料の中で知らない言葉や疑問に出会うと私はまず調べます辞書や本インターネットを使いそれでも分からな/2322592648593207/",
     "https://www.facebook.com/KazunariYokoyama/videos/資料はあるでも誰も見ない共有フォルダに置いた瞬間共有できたと思っていませんか現場では資料を探す時間詳しい人に聞く時間同じ説明を繰り返す時間が積み重なっています資/1051622704152330/",
-    "https://www.facebook.com/Seiji.Ohsaka/videos/逢坂誠二の一日一話-知らないことはまず調べる-134新聞や会話資料の中で知らない言葉や疑問に出会うと私はまず調べます辞書や本インターネットを使いそれでも分からな/2322592648593207/"
+    "https://www.facebook.com/100067499064200/posts/第２回-吉野川市調べる学習コンクールいつも気になっていること不思議なこと好きな食べ物やスポーツ地域のことなど本で調べてまとめてみようぜひ夏休みの課題の選択肢の一/797211995872095/"
    ],
    "engines": [
     "ddgs:google"
@@ -302,14 +304,14 @@
    "query": "調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事 note 社長",
    "results": [
     "https://japan.eb.com/rg/article-01916900",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.youtube.com/watch?v=4NxTXIfQzh0",
     "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
     "https://www.tsuji.ac.jp/press/news/assets_c/2018/06/DATA3%2B-156031.html?training=",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://koubo.jp/article/list?t=1123",
-    "https://japan.zdnet.com/article/35253080/5/",
     "https://ja.wikipedia.org/wiki/三角測量"
    ],
    "engines": [
@@ -324,49 +326,50 @@
     "https://japan.eb.com/rg/article-01916900",
     "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.youtube.com/watch?v=4NxTXIfQzh0",
     "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
     "https://www.tsuji.ac.jp/press/news/assets_c/2018/06/DATA3%2B-156031.html?training=",
     "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://koubo.jp/article/list?t=1123",
-    "https://rossan-reskilling.com/business_strategy/triangulation-bias-research-design/"
+    "https://ja.wikipedia.org/wiki/三角測量"
    ],
    "engines": [
+    "ddgs:google",
     "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "investigator triangulation independent coders agreement fact-checking analysts site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/who-pushed-keys-fact-attribution-framework-digital-james-henning-kshme",
+    "https://www.linkedin.com/in/tzuhanhsu",
     "https://www.linkedin.com/posts/jason-corso_dario-amodeis-latest-post-on-open-weights-activity-7488211679571443712-ODyv",
-    "https://www.linkedin.com/posts/justiceaigpt_aiaccountability-responsibleai-decolonialai-activity-7524864632596070400-fsFp",
-    "https://www.linkedin.com/pulse/dissecting-case-study-research-stake-merriam-icmc-bimtech",
     "https://ca.linkedin.com/in/catherine-paulin",
-    "https://www.linkedin.com/posts/dr-faheem-ullah_phd-research-activity-7513176888874262529-KXZA",
+    "https://www.linkedin.com/posts/justiceaigpt_aiaccountability-responsibleai-decolonialai-activity-7524864632596070400-fsFp",
     "https://uk.linkedin.com/in/mikolajbarczentewicz",
-    "https://www.linkedin.com/in/michelle-daniel-jones",
-    "https://www.linkedin.com/top-content/healthcare/healthcare-fraud-detection/investigative-fraud-reporting-methods/",
-    "https://www.linkedin.com/posts/nfigay_meaningengineering-interoperability-systemsengineering-activity-7512126452679692288-PDOw"
+    "https://ca.linkedin.com/in/ashkanebadi",
+    "https://lu.linkedin.com/in/no%C3%A9mi-tamb%C3%A9-phd-ccas-36b95829",
+    "https://www.linkedin.com/pulse/dissecting-case-study-research-stake-merriam-icmc-bimtech",
+    "https://www.linkedin.com/in/antonywilliams"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ26頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）",
-  "実例": "記載なし（読んだ26頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ24頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ24頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）",
+  "実例": "記載なし（読んだ24頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T03:58:57.305473+00:00"
 }

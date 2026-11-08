@@ -1,0 +1,746 @@
+{
+ "name": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110）",
+ "en": "METI indices of industrial production fabricated metal products annual original index 2020 base annual revision",
+ "aliases": [
+  "鉱工業指数 年報 金属製品工業 生産指数 原指数",
+  "鉱工業生産指数 金属製品工業 暦年 年間補正 site:meti.go.jp",
+  "鉱工業指数 業種別 金属製品工業 2020年基準 接続指数"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T18:15:37.119709+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "決算月の増産やお盆休み等による減産など 1 年を周期として一定の変動パターンを",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "人造黒鉛電極 t 生・鉱 81.4 104.0 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人造研削材 t 生・鉱 7.5 20.2 県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "半導体製造装置 ○ 百万円 資 657.2 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット部品・付帯装置 ○ 百万円 生・鉱 42.3 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "精製仕上げ装置 ○ 百万円 資 20.5 - 県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "専用機 ○ 百万円 資 94.1 - 経済産業省・県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マシニングセンタ ○ 百万円 資 60.0 - 経済産業省・県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "食料品加工機械 ○ 百万円 資 1.6 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個装・内装機械 ○ 百万円 資 19.2 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開閉制御装置 ○ 百万円 資 28.6 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体集積回路 ○ 百万円 生・鉱 438.4 - 県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他の集積回路 ○ 百万円 生・鉱 9.0 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子回路基板 ○ 百万円 生・鉱 28.0 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子回路実装基板 ○ 百万円 生・鉱 34.9 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機関部品 ○ 百万円 生・鉱 42.1 87.5 経済産業省・県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "駆動伝導・操縦装置部品 ○ 百万円 生・鉱 66.7 86.6 県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "シャシー・車体部品 ○ 百万円 生・鉱 16.1 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品 ○ 百万円 非耐 1415.3 1999.8 県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "ウェイトは鉱工業全体を10000.0 とした構成比で表しており、生産指数は付加価値額",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置 ○ 百万円 資 657.2 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット部品・付帯装置 ○ 百万円 生・鉱 42.3 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "精製仕上げ装置 ○ 百万円 資 20.5 - 県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "専用機 ○ 百万円 資 94.1 - 経済産業省・県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マシニングセンタ ○ 百万円 資 60.0 - 経済産業省・県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "食料品加工機械 ○ 百万円 資 1.6 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個装・内装機械 ○ 百万円 資 19.2 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開閉制御装置 ○ 百万円 資 28.6 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体集積回路 ○ 百万円 生・鉱 438.4 - 県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他の集積回路 ○ 百万円 生・鉱 9.0 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子回路基板 ○ 百万円 生・鉱 28.0 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子回路実装基板 ○ 百万円 生・鉱 34.9 - 経済産業省",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機関部品 ○ 百万円 生・鉱 42.1 87.5 経済産業省・県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "駆動伝導・操縦装置部品 ○ 百万円 生・鉱 66.7 86.6 県",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "Ⅰ 令和２年(2020 年)基準指数の概要等",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 令和７年(2025 年)鉱工業指数の動向",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 令和２年（2020 年）基準指数の概要等",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前月比及び前期末比は季節調整済指数を、前年比、前年同月比及び前年同期（末）比",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指数の基準時は令和２年（2020年）とし、指数値は令和２年の平均を 100とした比率",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 30 年（2018 年）１月分まで遡及計算を行い、平成 29年（2017年）12 月以前につ",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いては、リンク係数による接続指数で時系列の断層を埋めている（P６「（10）旧指数との接続」",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "series {start=2016.1 算出に用いる原系列の開始時点は 2016.1",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "span=(2016.1,2023.12) 原系列の対象期間は 2016.1～2023.12",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "start=2016.1 ユーザ定義変数の開始時点は 2016.1",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産 TC 2020.5",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産 TC 2024.1",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "在庫 LS 2024.1",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "行い、長期時系列分析に資することとしている",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "接続期間H25（2013）～H29（2017)における製造工業平均原指数の接続例",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "系 列 H25(2013) H26(2014) H27(2015) H28(2016) H29(2017) H30(2018)",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2012) (2013) (2014) (2015) (2016) (2017) (2018) (2019) (2020) (2021) (2022) (2023) (2024)",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2015) （改定時に遡及して計算する期間） （基準年指数での運用期間 ）",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA310FU0R30C26A3000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202603kj.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=82827?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/pdf/reference/b2020_202608refsj.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/book/b2020_202607sj.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://firstreleasejapan.com/ja/indicators/iip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/book/b2020_202606sj.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://journal.meti.go.jp/keizaiword/46803/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/2002/0517getsurei/image15.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/toppage/report/minikaisetsu/pdf/iip_mechanism.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/kikainenkan2023/chap01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanto.meti.go.jp/tokei/kokogyo/monthly.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/mail/thread/204057170/gmail-deleted-emails-not-going-to-trash-folder?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clean.email/how-to-delete-all-emails/fix-gmail-not-deleting-emails",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/4620326/why-do-deleted-emails-keep-coming-back-into-my-inb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/4653567/why-dont-emails-i-delete-in-gmail-go-to-the-delete",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550300&tstat=000001022877&tclass1=000001205860&statdisp_id=0004052183",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA288Y50Y6A720C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/book/b2020_202512sj.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/pdf/dlri/04-20/0611_c.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_result-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/h2afdlde.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/PCU332332",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.nikkei.com/article/DGXZQOUA310FU0R30C26A3000000/",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202603kj.html",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY",
+    "https://www.nli-research.co.jp/report/detail/id=82827?site=nli",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/pdf/reference/b2020_202608refsj.pdf",
+    "https://www.reuters.com/jp/world/japan/EIOUUGQ63RPGXGU6GUQ6ZSTQB4-2025-05-30/",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/book/b2020_202607sj.html",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "https://firstreleasejapan.com/ja/indicators/iip/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.nikkei.com/article/DGXZQOUA310FU0R30C26A3000000/",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/book/b2020_202606sj.html",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE",
+    "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "https://www.youtube.com/watch?v=QiRwuT1hFUQ"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "https://journal.meti.go.jp/keizaiword/46803/",
+    "https://www.youtube.com/watch?v=U8cpsb3nzyc",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202603kj.html",
+    "https://firstreleasejapan.com/ja/indicators/iip/",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.meti.go.jp/statistics/",
+    "https://www5.cao.go.jp/keizai3/getsurei/2002/0517getsurei/image15.pdf",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.youtube.com/watch?v=U8cpsb3nzyc"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.meti.go.jp/statistics/toppage/report/minikaisetsu/pdf/iip_mechanism.pdf",
+    "https://www5.cao.go.jp/keizai3/getsurei/2002/0517getsurei/image15.pdf",
+    "https://www.meti.go.jp/statistics/",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://journal.meti.go.jp/keizaiword/46803/",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "https://www.jsme.or.jp/kikainenkan2023/chap01/",
+    "https://www.kanto.meti.go.jp/tokei/kokogyo/monthly.html",
+    "https://support.google.com/mail/thread/204057170/gmail-deleted-emails-not-going-to-trash-folder?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 38
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550300&tstat=000001022877&tclass1=000001205860&statdisp_id=0004052183",
+    "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.jsme.or.jp/kikainenkan2023/chap01/",
+    "https://journal.meti.go.jp/keizaiword/46803/",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.meti.go.jp/statistics/toppage/report/minikaisetsu/pdf/iip_mechanism.pdf",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "https://journal.meti.go.jp/keizaiword/46803/",
+    "https://www.nikkei.com/article/DGXZQOUA288Y50Y6A720C2000000/",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/book/b2020_202512sj.html",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "https://journal.meti.go.jp/keizaiword/46803/",
+    "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf",
+    "https://www.dlri.co.jp/pdf/dlri/04-20/0611_c.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "METI indices of industrial production fabricated metal products annual original index 2020 base annual revision Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_result-2.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/h2afdlde.html",
+    "https://fred.stlouisfed.org/series/PCU332332",
+    "https://firstreleasejapan.com/en/indicators/iip/",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_202601ke.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_202402se.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_result-2.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_202511ke.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/2020/01shihyou/shihyou1-7.pdf",
+    "https://note.com/todobuono/n/n33a05aa48f11",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202603kj.html",
+    "https://www.youtube.com/watch?v=U8cpsb3nzyc",
+    "https://crea-lp.com/lab/industrial-production-index/",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.oanda.jp/lab-education/dictionary/industrial_production/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.tohoku.meti.go.jp/cyosa/tokei/iip.html",
+    "https://www.youtube.com/watch?v=U8cpsb3nzyc",
+    "https://x.com/hashtag/%E9%89%B1%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E6%8C%87%E6%95%B0",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202603kj.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "METI indices of industrial production fabricated metal products annual original index 2020 base annual revision site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/fabricated-metal-products-market-industry-disruption-growth-wl4if",
+    "https://www.linkedin.com/company/fabricatedmetalproducts",
+    "https://in.linkedin.com/company/fabricated-metal-products",
+    "https://sa.linkedin.com/company/fabricated-products",
+    "https://uk.linkedin.com/in/meti-dani-16a421438",
+    "https://sa.linkedin.com/company/fabricated-steel-products-inc",
+    "https://in.linkedin.com/in/muttureddy-meti-015b70151"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ34頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ34頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ34頁・検索18回）"
+ }
+}

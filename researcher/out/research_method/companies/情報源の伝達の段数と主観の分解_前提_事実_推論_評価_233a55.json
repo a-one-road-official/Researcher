@@ -8,8 +8,100 @@
  ],
  "context": "出どころ",
  "kind": "market",
- "researched_at": "2026-11-08T10:31:16.988054+00:00",
+ "researched_at": "2026-11-08T18:15:40.992720+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is there a documented record of the investigative steps used to reach the conclusion?",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Document the tools, methods, and relevant technical conditions used to access and capture the evidence.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Source URL and access method",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The most common OSINT chain-of-custody failures occur when investigators collect information without preserving the metadata, methodology, and contextual records needed to verify it later.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Capturing visual evidence without documenting its source, timestamp, or collection method.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Transferring evidence without the methodology and context supporting it.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "However, the investigator fails to preserve the source URL, capture timestamp, collection method, or file integrity information.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Use suitable archival methods when available.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Preserve the search methodology and significant investigative steps.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Preserve Digital Evidence During OSINT Investigations",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The final report should connect conclusions to the evidence and methodology supporting them.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Collection dates and methods",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Important investigative steps",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
    {
     "quote": "For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.",
@@ -109,98 +201,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Is there a documented record of the investigative steps used to reach the conclusion?",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Document the tools, methods, and relevant technical conditions used to access and capture the evidence.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Source URL and access method",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The most common OSINT chain-of-custody failures occur when investigators collect information without preserving the metadata, methodology, and contextual records needed to verify it later.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Capturing visual evidence without documenting its source, timestamp, or collection method.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Transferring evidence without the methodology and context supporting it.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "However, the investigator fails to preserve the source URL, capture timestamp, collection method, or file integrity information.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Use suitable archival methods when available.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Preserve the search methodology and significant investigative steps.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Preserve Digital Evidence During OSINT Investigations",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The final report should connect conclusions to the evidence and methodology supporting them.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Collection dates and methods",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Important investigative steps",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
@@ -237,14 +237,14 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/seminar_lab_jp/archives",
+    "url": "https://note.com/shinu/n/n567c6705ec18",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shinu/n/n567c6705ec18",
+    "url": "https://researchmap.jp/feedbackward/works/43801152?lang=en",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://blog.techscore.com/entry/2022/10/12/080000",
@@ -252,17 +252,17 @@
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/phenomenology/misc/52568953?lang=ja",
+    "url": "https://note.com/chizuru_rakuten/n/n4c896be513d4",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "url": "https://note.com/keisuke_miura/n/n1cf533f00ea7",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://note.com/akiramotomura/n/nfcaea3fed7b1",
+    "url": "https://www.salesanalytics.co.jp/column/no00245/",
     "status": "ok",
     "method": "http"
    },
@@ -277,12 +277,12 @@
     "method": "browser"
    },
    {
-    "url": "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
+    "url": "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
+    "url": "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
     "status": "ok",
     "method": "http"
    },
@@ -302,14 +302,14 @@
     "method": "browser"
    },
    {
-    "url": "https://researchmap.jp/gento-k/presentations/52284652?lang=ja",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://philarchive.org/archive/HUARKP",
     "status": "http_403",
     "method": "http"
+   },
+   {
+    "url": "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.jmfrri.gr.jp/wp-content/uploads/RRI_WG3_AI_.pdf",
@@ -317,14 +317,14 @@
     "method": "pdf"
    },
    {
+    "url": "https://researchmap.jp/lsdn/presentations/3214723",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
@@ -375,23 +375,22 @@
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 18
+   "n_hits": 17
   },
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） note",
    "results": [
-    "https://note.com/seminar_lab_jp/archives",
     "https://note.com/shinu/n/n567c6705ec18",
+    "https://researchmap.jp/feedbackward/works/43801152?lang=en",
     "https://blog.techscore.com/entry/2022/10/12/080000",
-    "https://researchmap.jp/phenomenology/misc/52568953?lang=ja",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://note.com/akiramotomura/n/nfcaea3fed7b1",
-    "https://repository.kulib.kyoto-u.ac.jp/handle/2433/125341",
-    "https://ehm-yuge-h.esnet.ed.jp/json/blogs/saveLikeJson/1/108/7083",
+    "https://note.com/chizuru_rakuten/n/n4c896be513d4",
+    "https://note.com/keisuke_miura/n/n1cf533f00ea7",
+    "https://www.salesanalytics.co.jp/column/no00245/",
+    "https://note.com/aiarchaeologist/n/n44a08659c403",
     "https://www.chuo-u.ac.jp/uploads/2018/11/7394_commentary20_02-05.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
    ],
    "engines": [
@@ -405,13 +404,13 @@
    "results": [
     "https://www.cdfr.design.kyushu-u.ac.jp/lexicon/185/",
     "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
     "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
+    "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
     "https://zenn.dev/manabuyasuda/articles/3950c61bea392f",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www2.lib.keio.ac.jp/project/kitie/evaluate/index.html",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91%E5%A0%B1%E5%91%8A%E4%B8%8A%E6%89%8B%E3%81%AF%E3%81%93%E3%81%93%E3%81%8C%E9%81%95%E3%81%86%EF%BC%81%E3%80%8C%E4%BA%8B%E5%AE%9F%E3%80%8D",
+    "https://www.mext.go.jp/content/000365818.pdf",
     "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
    ],
    "engines": [
@@ -423,23 +422,22 @@
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） 事例",
    "results": [
-    "https://www.zentsuken.net/journal/file/144_5.html",
     "https://tsukuba.repo.nii.ac.jp/records/2019138",
-    "https://researchmap.jp/gento-k/presentations/52284652?lang=ja",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://philarchive.org/archive/HUARKP",
-    "https://www.jmfrri.gr.jp/wp-content/uploads/RRI_WG3_AI_.pdf",
-    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
     "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
+    "https://www.jmfrri.gr.jp/wp-content/uploads/RRI_WG3_AI_.pdf",
+    "https://researchmap.jp/lsdn/presentations/3214723",
+    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
+    "https://dspace.jaist.ac.jp/dspace/bitstream/10119/19765/6/paper.pdf",
     "https://www.jil.go.jp/institute/siryo/2016/documents/0165.pdf",
-    "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
+    "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "source hops chain of custody intelligence information decomposition assumptions facts inferences",
@@ -452,7 +450,7 @@
     "https://truescreen.io/articles/digital-chain-of-custody-guide/",
     "https://www.keiseruniversity.edu/articles/why-chain-of-custody-makes-or-breaks-a-case/",
     "https://www.kusari.dev/learning-center/chain-of-custody/",
-    "https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/",
+    "https://www.next-sight.com/resources/chain-of-custody-osint",
     "https://www.cambridge.org/core/books/intelligence-analysis-as-discovery-of-evidence-hypotheses-and-arguments/chains-of-custody/C4551D55340C444A8C82C8158F289924"
    ],
    "engines": [
@@ -471,7 +469,7 @@
     "https://note.com/fond_bee9001/n/nfb12449e0dfb",
     "https://note.com/blitz_kun/n/n69e2f77eeba5",
     "https://note.com/spaceground/n/n6a55796143c6",
-    "https://note.com/his10233470/n/n86db8cc075ca"
+    "https://note.com/kenhoshino2025/n/ncec38c2088ec"
    ],
    "engines": [
     "ddgs:google",
@@ -484,11 +482,11 @@
    "results": [
     "https://x.com/fukku_ai_BD/status/2067133351262302572",
     "https://x.com/yura_ai123/status/2103599741263352228",
-    "https://x.com/hiro44_pino/status/2100058975245074878",
     "https://x.com/sankakuten91256/status/2101070223738564655",
+    "https://x.com/hiro44_pino/status/2100058975245074878",
     "https://x.com/wancoro_xx/status/2070105823804883225",
-    "https://x.com/DokeiHi/status/2066811614855364653",
-    "https://x.com/enhanced_jp/status/2085668602389372932"
+    "https://x.com/enhanced_jp/status/2085668602389372932",
+    "https://x.com/DokeiHi/status/2066811614855364653"
    ],
    "engines": [
     "ddgs:google"
@@ -497,37 +495,25 @@
   },
   {
    "query": "site:linkedin.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
-   "results": [
-    "https://jp.linkedin.com/pulse/学びの窓-51-概念と伝達-誠一郎-眞部-rvf5c",
-    "https://jp.linkedin.com/pulse/power-logic-how-develop-evidence-based-reasoning-genius-banerji-lvbzc?tl=ja",
-    "https://jp.linkedin.com/pulse/fact-fetch-reason-unified-evaluation-generation-vlad-bogolin-tufve?tl=ja",
-    "https://www.linkedin.com/posts/naba3_行動や評価の基準が言語化されていても-その前提が共有されていない-ことがあります-activity-7413903981669847040-JCvv",
-    "https://www.linkedin.com/posts/freeowner17_一を聞いて十を知る人間になる極意-結論-演繹法-をマスターすることです-activity-7206435293804044288-J4gm",
-    "https://jp.linkedin.com/pulse/how-do-risk-managers-maintain-credibility-era-mass-tony?tl=ja",
-    "https://jp.linkedin.com/pulse/how-find-sources-your-research-paper-5-steps-dr-naureen-aleem-hpw8f?tl=ja"
-   ],
-   "engines": [
-    "ddgs:yahoo"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
    "results": [
     "https://www.facebook.com/nihongo.teachers.nagoya/posts/1425722452937453/",
-    "https://www.facebook.com/isao.matsumoto/posts/10242704201318839/",
     "https://www.facebook.com/akemi.furukawa.9/posts/ジャーナリズムの役割無視だなー事実の伝達報道-権力者の動向や社会的な事件災害などの情報を正確かつ迅速に市民に伝えること権力の監視-政治や行政大企業などの権力や不/26956430590717583/",
     "https://www.facebook.com/longwen.yuechuan/posts/提示された評価文について事実確認の結果を踏まえて論理構成を検証します1-数値の事実確認-高い精度主要な数値は現時点の一次情報と正確に一致しています-日本の米国債/10228620910786188/",
     "https://www.facebook.com/groups/548266103946448/posts/1202508308522221/",
+    "https://www.facebook.com/akihiko.manabe.9/posts/複数の推論と倫理的評価を重ねて謝罪要求に至る高橋庸正氏の最新noteを読んで判断と確認された事実は同じではない高橋庸正氏の最新noteまた自分の断定から逃げたを/3775095752628103/",
     "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報524金610月開催直観と主観の覚醒によるルール形成戦略型のイノベーション力強化プログラムルール形成戦略の第一人者として数々のルール形成に自らも取り/907033654767956/",
-    "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報610月開催直観と主観の覚醒によるルール形成戦略型のイノベーション力強化プログラムルール形成戦略の第一人者として数々のルール形成に自らも取り組みつつ/917353487069306/",
-    "https://www.facebook.com/akihiko.manabe.9/posts/複数の推論と倫理的評価を重ねて謝罪要求に至る高橋庸正氏の最新noteを読んで判断と確認された事実は同じではない高橋庸正氏の最新noteまた自分の断定から逃げたを/3775095752628103/"
+    "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報610月開催直観と主観の覚醒によるルール形成戦略型のイノベーション力強化プログラムルール形成戦略の第一人者として数々のルール形成に自らも取り組みつつ/917353487069306/"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） note 社長",
@@ -536,11 +522,11 @@
     "https://blog.techscore.com/entry/2022/10/12/080000",
     "https://note.com/sudatakashi/n/n5831f0e3b883",
     "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K20899",
-    "https://note.com/chizuru_rakuten/n/n4c896be513d4",
-    "https://gigazine.net/news/20230712-twitter-communitynote-algorithm/",
     "https://qiita.com/masato_makino/items/58a6eb864707c8b2d477",
+    "https://note.com/chizuru_rakuten/n/n4c896be513d4",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://japan.zdnet.com/article/35253080/5/",
+    "https://gigazine.net/news/20230712-twitter-communitynote-algorithm/",
     "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
    ],
    "engines": [
@@ -552,23 +538,22 @@
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） X 投稿",
    "results": [
-    "https://blog.x.com/ja/company/xs-community-led-approach-tackling-inaccurate-and-misleading-information",
-    "https://note.com/kawaidesign/n/ncc48348607be",
-    "https://digital.siance.co.jp/column/2023/08/twitter-x/",
-    "https://grow-group.jp/archives/29326/",
     "https://qiita.com/f_uto/items/5464a85647f8765fbddb",
+    "https://grow-group.jp/archives/29326/",
+    "https://note.com/kawaidesign/n/ncc48348607be",
     "https://www.koukoku.jp/service/suketto/marketer/sns/sns%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A8%E3%81%AF%EF%BD%9Cx%E3%83%BBinstagram%E5%88%A5%E3%81%AE%E8%A9%95%E4%BE%A1%E5%9F%BA%E6%BA%96/",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vK9dQ0C4LYI672R-Sa6Er5rBQIa6jNm6ws-evQhYusjQn-fdxgK",
+    "https://blog.x.com/ja/company/xs-community-led-approach-tackling-inaccurate-and-misleading-information",
     "https://marketing.twitter.com/content/dam/marketing-twitter/apac/ja/insights/kakusan/kakusan.pdf",
-    "https://camtsuku.com/guide/3811",
+    "https://baigie.me/nippo/2025/09/11/x_algo/",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vI2ufvTUfp7mvfWJtIi5r6rqQgB6TbT4DoL8rH51HqVGj7YpND2",
+    "https://digital.siance.co.jp/column/2023/08/twitter-x/",
     "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "source hops chain of custody intelligence information decomposition assumptions facts inferences site:linkedin.com",
@@ -576,16 +561,16 @@
     "https://www.linkedin.com/in/devinandrerhodes",
     "https://in.linkedin.com/in/nihan-anoop",
     "https://it.linkedin.com/in/nicolabernini",
-    "https://es.linkedin.com/in/arnau-vil%C3%A0-phd-83413665",
     "https://in.linkedin.com/in/dr-saurabh-pramanick-phd-31b8551a",
+    "https://es.linkedin.com/in/arnau-vil%C3%A0-phd-83413665",
     "https://ro.linkedin.com/in/andrei-cioroianu",
-    "https://www.linkedin.com/pulse/chain-custody-detectives-guide-building-trustworthy-ai-sheba-fernando-99lhc/",
     "https://www.linkedin.com/pulse/how-chain-custody-works-digital-forensics-wehire-laumech-rnvrf",
-    "https://www.linkedin.com/pulse/chain-custody-practical-guide-traceability-accountability-ruyde",
-    "https://www.linkedin.com/pulse/chain-custody-pillar-digital-evidence-collins-kiptoo-op6ef"
+    "https://www.linkedin.com/pulse/chain-custody-detectives-guide-building-trustworthy-ai-sheba-fernando-99lhc/",
+    "https://www.linkedin.com/pulse/d2-facts-assumptions-premises-inferences-nomene-chekki-prxpf",
+    "https://www.linkedin.com/pulse/chain-custody-practical-guide-traceability-accountability-ruyde"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -596,6 +581,6 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-06T03:39:48.721492+00:00"
 }

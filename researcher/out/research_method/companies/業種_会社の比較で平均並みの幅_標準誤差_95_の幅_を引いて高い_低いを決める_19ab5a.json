@@ -8,8 +8,34 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T10:35:48.855967+00:00",
+ "researched_at": "2026-11-08T18:26:51.075718+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to interrogate AI regulations",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to make a donation to The Journalist’s Resource",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
    {
     "quote": "<p>But what about cases where there's less clarity in the data -- how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity -- and a borderline “call” -- inherent in the numbers.</p>",
@@ -61,32 +87,6 @@
    },
    {
     "quote": "What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to interrogate AI regulations",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to make a donation to The Journalist’s Resource",
     "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -148,8 +148,8 @@
    },
    {
     "url": "https://biostatistics-consult.com/sd-vs-se/",
-    "status": "ok",
-    "method": "browser"
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
    },
    {
     "url": "https://www.stat.go.jp/data/kojinke/kekka/pdf/2024gosa.pdf",
@@ -157,12 +157,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.biostat4869.com/%E3%80%90%E3%82%84%E3%81%95%E3%81%97%E3%81%8F%E8%A7%A3%E8%AA%AC%E3%80%91%E6%A8%99%E6%BA%96%E5%81%8F%E5%B7%AE%EF%BC%88sd%EF%BC%89%E3%81%A8%E6%A8%99%E6%BA%96%E8%AA%A4%E5%B7%AE%EF%BC%88se%EF%BC%89/",
+    "url": "https://service.customedia.co.jp/marketing/comparison/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://service.customedia.co.jp/marketing/comparison/",
+    "url": "https://www.biostat4869.com/%E3%80%90%E3%82%84%E3%81%95%E3%81%97%E3%81%8F%E8%A7%A3%E8%AA%AC%E3%80%91%E6%A8%99%E6%BA%96%E5%81%8F%E5%B7%AE%EF%BC%88sd%EF%BC%89%E3%81%A8%E6%A8%99%E6%BA%96%E8%AA%A4%E5%B7%AE%EF%BC%88se%EF%BC%89/",
     "status": "ok",
     "method": "http"
    },
@@ -177,22 +177,17 @@
     "method": "http"
    },
    {
-    "url": "http://www.frontier-u.jp/wp-content/uploads/2019/01/toukei20192.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://shirasusolo.net/statistics/statistics_standard/post-1975/",
+    "url": "https://persol.csl.co.jp/contents/column/customer/0042/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.statg.com/kiso/sdse.html",
+    "url": "https://en.wikipedia.org/wiki/Standard_error",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://japan.editverse.com/standard-deviation-vs-standard-error/",
+    "url": "https://en.wikipedia.org/wiki/Confidence_interval",
     "status": "ok",
     "method": "http"
    },
@@ -204,21 +199,11 @@
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2639348/",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.graphhelix.ai/blog/error-bars-scientific-figures-sem-sd-ci",
-    "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.bls.gov/cps/factsheets/understanding-standard-errors-and-confidence-intervals.htm",
     "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://onlinejournalismblog.com/2025/12/08/telling-stories-with-data-more-on-the-difference-between-variation-stories-and-ranking-angles/",
-    "status": "ok",
     "method": "http"
    },
    {
@@ -254,22 +239,20 @@
     "https://note.com/rd_analytics_hub/n/n710a67cdeba9",
     "https://stat-lab.jp/standard-deviation-standard-error/",
     "https://biostatistics-consult.com/sd-vs-se/",
-    "https://www.stat.go.jp/data/kojinke/kekka/pdf/2024gosa.pdf",
-    "https://shirasusolo.net/statistics/statistics_standard/post-1975/"
+    "https://www.stat.go.jp/data/kojinke/kekka/pdf/2024gosa.pdf"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） やり方",
    "results": [
     "https://otemachiprep.com/dt-069-hypothesis-testing-investment-analysis/",
     "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff",
-    "https://www.biostat4869.com/【やさしく解説】標準偏差（sd）と標準誤差（se）/",
     "https://service.customedia.co.jp/marketing/comparison/",
+    "https://www.biostat4869.com/【やさしく解説】標準偏差（sd）と標準誤差（se）/",
     "https://stat-lab.jp/standard-deviation-standard-error/",
     "https://dosai.jp/news/ruiji-gyoshu-hijun-kagaku-r8-2026/",
     "https://shindanshi-nagitatsublog.com/keiei-shihyou-gyokai-heikin/"
@@ -288,27 +271,23 @@
     "https://stat-lab.jp/standard-deviation-standard-error/",
     "https://biostatistics-consult.com/sd-vs-se/",
     "https://www.stat.go.jp/data/kojinke/kekka/pdf/2024gosa.pdf",
-    "http://www.frontier-u.jp/wp-content/uploads/2019/01/toukei20192.pdf",
-    "https://shirasusolo.net/statistics/statistics_standard/post-1975/",
-    "https://www.statg.com/kiso/sdse.html",
-    "https://japan.editverse.com/standard-deviation-vs-standard-error/"
+    "https://persol.csl.co.jp/contents/column/customer/0042/"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "data journalism making the call close comparisons standard error confidence interval ranking",
    "results": [
+    "https://en.wikipedia.org/wiki/Standard_error",
+    "https://en.wikipedia.org/wiki/Confidence_interval",
     "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC2639348/",
-    "https://www.graphhelix.ai/blog/error-bars-scientific-figures-sem-sd-ci",
     "https://www.bls.gov/cps/factsheets/understanding-standard-errors-and-confidence-intervals.htm",
-    "https://onlinejournalismblog.com/2025/12/08/telling-stories-with-data-more-on-the-difference-between-variation-stories-and-ranking-angles/",
     "https://www.bls.gov/cps/methods/calculating-standard-errors-and-confidence-intervals.pdf",
-    "https://statisticsfundamentals.com/confidence-intervals/confidence-interval-examples/"
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995880/"
    ],
    "engines": [
     "ddgs:google"
@@ -318,27 +297,27 @@
   {
    "query": "site:note.com 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）",
    "results": [
-    "https://note.com/jun2024note/n/n15a1d9cf9eaf",
-    "https://note.com/york_date/n/nfc72572728f3",
     "https://note.com/nanto_econ/n/n35a707b1cabb",
-    "https://note.com/rd_analytics_hub/n/n710a67cdeba9",
+    "https://note.com/jun2024note/n/n15a1d9cf9eaf",
     "https://note.com/alert_hyssop1862/n/n9a05488f575d",
+    "https://note.com/york_date/n/nfc72572728f3",
+    "https://note.com/rd_analytics_hub/n/n710a67cdeba9",
     "https://note.com/kudo_reskill_log/n/n462988901903",
     "https://note.com/ohpforsme/n/n77200e160aba"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:x.com 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）",
    "results": [
-    "https://x.com/genkuroki/status/1737262861230157872",
+    "https://x.com/AISTATSCH/status/2077174061126533307",
     "https://x.com/kashin_moneylab/status/2102960682853638232",
-    "https://x.com/neco_ug/status/2104925808750145690",
     "https://x.com/marketdata_jp/status/2089494986870120745",
     "https://x.com/aiba_algorithm/status/2034551418057863427",
+    "https://x.com/neco_ug/status/2104925808750145690",
     "https://x.com/gkentei11/status/2115277421310349681",
     "https://x.com/AISTATSCH/status/2073911926586040702"
    ],
@@ -353,18 +332,15 @@
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3373097",
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3372084",
     "https://jp.linkedin.com/pulse/demystifying-training-generalization-error-machine-learning-silwal-9cc8c?tl=ja",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7497581720553152513/",
-    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3370079",
     "https://jp.linkedin.com/pulse/statistical-significance-tests-way-compare-data-populations?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-mse-rmse-mae-r-score-machine-learning-model-ahmed-rwloe?tl=ja",
-    "https://jp.linkedin.com/pulse/how-calculate-margin-error-sheik-sha-ha-m-8kdac?tl=ja",
-    "https://jp.linkedin.com/learning/marketing-foundations-analytics-27974673/4094008"
+    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3370079",
+    "https://jp.linkedin.com/learning/marketing-foundations-analytics-27974673/4094008",
+    "https://jp.linkedin.com/pulse/understanding-mse-rmse-mae-r-score-machine-learning-model-ahmed-rwloe?tl=ja"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）",
@@ -373,34 +349,30 @@
     "https://www.facebook.com/groups/428778194457478/",
     "https://www.facebook.com/seizoqc/videos/品質管理リーダー必見データ誤差の全知識と対策サンプリング誤差測定誤差を完全攻略httpsseizo-bucom23sq/4236291869969792/",
     "https://www.facebook.com/gendaibusiness/posts/パッと見では問題なさそうでも経営があやうい会社の業種業界ごとのヤバいパターン/1106355164627919/",
+    "https://www.facebook.com/100037504568899/posts/tbs報道特集でデマ流したコネクトエネルギー合同会社もうあちこちで指摘されているけどコンサル業なんだってねそれよりも会社hpのブログおよそ企業のものとは思えない/1604283277498476/",
     "https://www.facebook.com/business.research.lab/photos/相関の希薄化測定における誤差がもたらす影響httpswwwbusiness-research-labcom250728-2様々なデータを収集分析し意思決定に活か/1371830054948073/",
-    "https://www.facebook.com/story.php/?story_fbid=826628596912275&id=100086954269059",
-    "https://www.facebook.com/concord.sheep/videos/台灣砸4000億換來20關稅️️美國劃分盟友等級的標準是什麼這個20關稅對台指期是壞消息嗎/686788843681055/",
-    "https://www.facebook.com/100037504568899/posts/tbs報道特集でデマ流したコネクトエネルギー合同会社もうあちこちで指摘されているけどコンサル業なんだってねそれよりも会社hpのブログおよそ企業のものとは思えない/1604283277498476/"
+    "https://www.facebook.com/story.php/?story_fbid=826628596912275&id=100086954269059"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） note 社長",
    "results": [
-    "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff",
     "https://otemachiprep.com/dt-069-hypothesis-testing-investment-analysis/",
+    "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff",
     "https://note.com/rd_analytics_hub/n/n710a67cdeba9",
     "https://note.com/alert_hyssop1862/n/n9a05488f575d",
+    "https://www.biostat4869.com/【やさしく解説】標準偏差（sd）と標準誤差（se）/",
     "https://stat-lab.jp/standard-deviation-standard-error/",
-    "https://www.stat.go.jp/data/kojinke/kekka/pdf/2024gosa.pdf",
-    "http://www.frontier-u.jp/wp-content/uploads/2019/01/toukei20192.pdf",
-    "https://www.biostat4869.com/【やさしく解説】標準偏差（sd）と標準誤差（se）/"
+    "https://www.stat.go.jp/data/kojinke/kekka/pdf/2024gosa.pdf"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） X 投稿",
@@ -408,45 +380,39 @@
     "https://otemachiprep.com/dt-069-hypothesis-testing-investment-analysis/",
     "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff",
     "https://shirasusolo.net/statistics/statistics_standard/post-1975/",
-    "https://www.business-research-lab.com/250501-2/",
+    "https://www.biostat4869.com/【やさしく解説】標準偏差（sd）と標準誤差（se）/",
     "https://stat-lab.jp/standard-deviation-standard-error/",
     "https://biostatistics-consult.com/sd-vs-se/",
-    "https://www.stat.go.jp/data/kojinke/kekka/pdf/2024gosa.pdf",
-    "https://www.biostat4869.com/【やさしく解説】標準偏差（sd）と標準誤差（se）/"
+    "https://www.stat.go.jp/data/kojinke/kekka/pdf/2024gosa.pdf"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "data journalism making the call close comparisons standard error confidence interval ranking site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/1/what-implications-standard-error-your-data-fpkte",
-    "https://www.linkedin.com/advice/1/how-do-you-interpret-standard-error-your-data-set-5vree",
-    "https://www.linkedin.com/pulse/decline-data-journalism-how-race-clickbait-headlines-gupta-ph-d--rjndc",
     "https://www.linkedin.com/pulse/your-marketing-data-has-confidence-problem-heres-how-oliveros-enopia-wmgpc",
-    "https://www.linkedin.com/advice/1/what-emerging-trends-opportunities-data-journalism-digital",
-    "https://www.linkedin.com/advice/0/how-does-standard-error-affect-confidence-intervals-mbref",
-    "https://www.linkedin.com/advice/3/how-do-you-choose-best-error-bars-your-data",
+    "https://www.linkedin.com/pulse/master-confidence-intervals-your-guide-data-driven-decision-deb-okxof",
     "https://www.linkedin.com/pulse/mastering-data-accuracy-confidence-intervals-suparna-chowdhury-x9u8e",
-    "https://www.linkedin.com/advice/0/how-does-standard-error-relate-confidence-interval-estimate-84q7f",
-    "https://www.linkedin.com/advice/1/how-do-you-communicate-data-analysis-confidence"
+    "https://www.linkedin.com/pulse/mastering-statistical-foundations-central-limit-piyush-ashtekar--wxy0f",
+    "https://www.linkedin.com/pulse/confident-what-georgi-borros-yycbf",
+    "https://www.linkedin.com/advice/1/what-implications-standard-error-your-data-fpkte",
+    "https://www.linkedin.com/pulse/decline-data-journalism-how-race-clickbait-headlines-gupta-ph-d--rjndc"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ23頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ23頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-06T23:58:00.109403+00:00"
 }

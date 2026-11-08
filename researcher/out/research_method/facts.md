@@ -3648,15 +3648,15 @@
   - 「AWS CloudTrail・Azure Monitor・GCP Audit Logsを使ったインシデント調査の手順と課題を初心者にも分かるよう完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「The following is an example of the final matrix from a post by Scott J. Roberts, where he applies ACH to understand whether or not the Republican National Committee and Donald J. Trump for President, Inc were victims of similar attacks as the Democratic National Committee [2]. In his post he goes step-by-step on how he created and refined his ACH matrix.」（https://isc.sans.edu/diary/22460）
   - 「Interesting idea for analysis methodology. I'll be looking forward to the second part. The image is missing.」（https://isc.sans.edu/diary/22460）
+  - 「【完全無料】Let’s EncryptでHTTPS化する全手順｜初心者でもわかるSSL/TLS証明書の設定」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Let's EncryptとCertbotを使った無料SSL/TLS証明書の設定方法を初心者向けに解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「HTTPS化の仕組み・手順・自動更新・セキュリティ強化まで完全網羅」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「ネットワークトラフィック分析：通信の中身を可視化する技術・Burp Suite：Webアプリケーションの脆弱性診断ツール・Frida：動的解析・ランタイムフッキングフレームワーク」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「無料フォレンジックツール「Autopsy」の使い方を初心者向けに解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「インストールから削除ファイル復元・タイムライン分析・レポート作成まで、実践手順を網羅」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「INetSimの仕組みから実際の使い方を解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「INetSimの仕組みから実際の使い方まで、セキュリティの初心者でも理解できるように 丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「Linux フォレンジックの基本的な考え方（揮発性の順序）・メモリ・プロセス・ネットワークなど揮発性アーティファクトの取得方法・ログ・ファイルシステム・ユーザー活動など永続的アーティファクトの取得方法・bash 履歴・Cron・systemd など攻撃者がよく残す痕跡の見つけ方・代表的な解析ツール（Volatility・Autopsy・log2timeline・KAPE など）の使い方・トリアージスクリプトによる一括収集の自動化」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「仮想環境の仕組みを「部屋」のたとえで徹底解説！コマンドの使い方からフォルダ構造まで初心者でもわかる完全ガイド」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「ホイヤーによるとこのステップが最も重要になります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
 - 突き合わせ・推定：
   - 「人間は「最初の仮説に合う証拠」ばかり集めてしまう」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「仮説を洗い出す（最低3つ）」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -3678,6 +3678,10 @@
   - 「04_不安や悩みがあるときは…一人で悩まず、相談しよう（区市町村立学校用）.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/157?frame_12_page=108）
   - 「インターネット上の書き込みなどに関する相談・通報窓口のご案内.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/157?frame_12_page=108）
   - 「令和6年度三田中学校体罰防止スローガン.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/157?frame_12_page=108）
+  - 「04_チラシ_中学生、高校生の皆さんへ.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/1927?frame_12_page=108）
+  - 「04_不安や悩みがあるときは…一人で悩まず、相談しよう（区市町村立学校用）.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/1927?frame_12_page=108）
+  - 「インターネット上の書き込みなどに関する相談・通報窓口のご案内.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/1927?frame_12_page=108）
+  - 「令和6年度三田中学校体罰防止スローガン.pdf」（https://mita-js.minato-tky.ed.jp/plugin/blogs/show/1/13/1927?frame_12_page=108）
   - 「関係線を採用する前に、元になった各ソースを確認してください」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「メールアドレスや電話番号の調査は、許可された目的と、その目的に関連する公的記録の範囲にとどめましょう」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「で調べ、次に関連する公的な登記簿で裏付けを取ります」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
@@ -3685,10 +3689,6 @@
   - 「site:example.com filetype:pdf」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「はい、絞り込んだ調査であれば、アクセス可能な公的記録と手作業での検証で行えます」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「キャプチャと2種類のフィルタの違い、ディスプレイフィルタの型、C2ビーコン・データ持ち出しの検知、統計機能、tsharkでの自動化まで、防御者の視点でやさしく解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
-  - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「年功序列望む若手が増加？採用・定着を左右する「福利厚生」とは」（https://diamond.jp/articles/-/290369）
-  - 「インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
 - 失敗・落とし穴：
   - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「暗号資産（仮想通貨）の送金を追跡する方法｜Etherscanの使い方から専門ツール・詐欺被害時の注意点まで」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -7655,6 +7655,7 @@
 - 手順・やり方：
   - 「RAG Hallucination: Why It Happens and How to Fix It (2026)」（https://hussain-nazary.github.io/rag-hallucination.html）
   - 「RAG Evaluation: How to Measure Retrieval Quality」（https://hussain-nazary.github.io/rag-hallucination.html）
+  - 「Those three steps, retrieval, grounding, and verification, are what make RAG legal research reliable enough to file from. This guide walks through each layer of the pipeline and shows exactly where each one breaks.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「Deployment is governed by a rigorous evaluation framework using」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「vector index partitioned by jurisdiction for low-latency, high-relevance retrieval. Our evaluation framework measures」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
@@ -7667,8 +7668,9 @@
   - 「Empirical studies demonstrate that integrating fine-grained extraction and validation steps significantly improves citation precision and reduces hallucinations.」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「3. Methodological families」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「4. Evaluation frameworks」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「Legal results are bifurcated between grounded verification and closed-book generation. The Ukrainian legal citation-graph framework reports mean CG in the」（https://www.emergentmind.com/topics/citation-grounding-cg）
 - 突き合わせ・推定：
+  - 「AIが示した公報番号と引用は、J-PlatPatの原文で1件ずつ照合するまで使わない」（https://coplus-one.jp/tokkyo-chosa-ai/）
+  - 「原文で1件ずつ照合します」（https://coplus-one.jp/tokkyo-chosa-ai/）
   - 「侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「2．技術的なポイントは、分解・検索・引用検証の3つ」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7682,8 +7684,6 @@
   - 「- 引用の機械検証（付録E）を P5・P6 の直後に必ず挟む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「- §112(f) の推定（"means for" は推定あり、"configured to" 等は構造を示す語かどうか）を要件ごとに」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「クエリは事実の主張ではなく探索のための仮説である」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「**機械検証（必須）**：出力された各 `quote` が `DOC_TEXT` 内に（空白・改行の正規化後に）存在することをコードで確認する（付録E）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「判定と抽出を分けることで、判定モデルが原文を「読み違える」余地を減らし、引用の機械検証を可能にする」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 一次情報の探し方：
   - 「over a citation grammar compiled into a finite-state automaton, and posthoc span alignment. In constrained decoding, the automaton tracks whether decoding is in Claim, DOCID, or SNIPPET mode, restricts allowable tokens accordingly, and retries up to 3 times with temperature increased by」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7717,6 +7717,10 @@
   - 「"bias_assessment": { "type": "string" },」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 実例：
+  - 「, grounds the answer in that retrieved text, then verifies every citation against the source before you see it. It does not ask the model to recall the law from memory. That single design choice is the difference between a tool that cites real authority and one that invents cases.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「In 2023 a New York lawyer filed a brief citing six cases that did not exist. A generative AI tool had written them, names, citations, and quoted holdings, and nobody checked.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「I'm Priyansh, CTO of Vaquill AI. I've spent two years building this pipeline for US case law and statutes, and this is the explainer I wish existed when I started.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「The grounding layer (mapping every claim back to a real source passage with a pin cite, and surfacing whether the case is still good law) is what separates a demo from something a lawyer can file.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「The entire training and inference pipeline can be packaged for fully disconnected, on-premises environments. This supports national security, grand jury, and highly confidential litigation use cases where external API calls are prohibited, using optimized serving on air-gapped GPU clusters.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「(are cited cases real and correctly formatted?),」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
@@ -7728,10 +7732,6 @@
   - 「constructs grounded training examples from unlabeled queries using a pretrained」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「, by contrast, studies closed-book authority generation with citation retrieval, citation completion, citation error detection, case matching, and case verification/correction, and introduces Misleading Answer Rate as a measure of concrete but incorrect outputs under low」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「for joint document-plus-span grounding, and finer-grained evaluation such as position-based citation recall. AGREE proposes human-annotated partial-support examples,」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「今回は、導入後の成功事例ではなく、研究やサービスの公開情報をもとに、「どの工程に使えそうか」、「どのような仕組みなら実務に載せられそうか」を考えたものです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「「そのセンサーの検出結果に基づいて制御する」という限定なら、センサーの存在と制御機能の存在だけでなく、両者の関係も確認する必要があります」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「検索エージェントを評価するBrowseComp-Plusの研究でも、同じLLMに組み合わせる検索器を変えることで、結果が大きく変わる例が報告されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「例えば、クレームの抽象的な用語をそのまま検索するだけでなく、「メーカーなら、この機能をどう説明するか」を考えて検索語をつくるイメージです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 
 ## 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ（cognitive bias investigation workflow disconfirming evidence osintblog）
 - 文脈：偏り
@@ -9728,9 +9728,9 @@
   - 「4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
@@ -13067,19 +13067,19 @@
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）（hypothesis forms moderation mediation business research segment analysis）
 - 文脈：手順
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）（corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company）
 - 文脈：一次情報の探し方

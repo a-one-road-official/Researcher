@@ -12422,14 +12422,62 @@
 
 ## 経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110）（METI indices of industrial production fabricated metal products annual original index 2020 base annual revision）
 - 文脈：全体・統計
-- 痛み・損（深さの印）：記載なし（読んだ28頁・検索18回）
-- 事業所数・社数：記載なし（読んだ28頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ28頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ28頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ28頁・検索18回）
-- 生産能力・設備：記載なし（読んだ28頁・検索18回）
-- 10年推移：記載なし（読んだ28頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ28頁・検索18回）
+- 痛み・損（深さの印）：
+  - 「決算月の増産やお盆休み等による減産など 1 年を周期として一定の変動パターンを」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+- 社員数・平均社員数：
+  - 「人造黒鉛電極 t 生・鉱 81.4 104.0 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「人造研削材 t 生・鉱 7.5 20.2 県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+- 受注金額・加工賃収入：
+  - 「半導体製造装置 ○ 百万円 資 657.2 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「産業用ロボット部品・付帯装置 ○ 百万円 生・鉱 42.3 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「精製仕上げ装置 ○ 百万円 資 20.5 - 県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「専用機 ○ 百万円 資 94.1 - 経済産業省・県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「マシニングセンタ ○ 百万円 資 60.0 - 経済産業省・県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「食料品加工機械 ○ 百万円 資 1.6 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「個装・内装機械 ○ 百万円 資 19.2 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「開閉制御装置 ○ 百万円 資 28.6 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「半導体集積回路 ○ 百万円 生・鉱 438.4 - 県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「その他の集積回路 ○ 百万円 生・鉱 9.0 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「電子回路基板 ○ 百万円 生・鉱 28.0 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「電子回路実装基板 ○ 百万円 生・鉱 34.9 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「機関部品 ○ 百万円 生・鉱 42.1 87.5 経済産業省・県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「駆動伝導・操縦装置部品 ○ 百万円 生・鉱 66.7 86.6 県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「シャシー・車体部品 ○ 百万円 生・鉱 16.1 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+- 1人あたり・1社あたり金額：
+  - 「ウェイトは鉱工業全体を10000.0 とした構成比で表しており、生産指数は付加価値額」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「半導体製造装置 ○ 百万円 資 657.2 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「産業用ロボット部品・付帯装置 ○ 百万円 生・鉱 42.3 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「精製仕上げ装置 ○ 百万円 資 20.5 - 県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「専用機 ○ 百万円 資 94.1 - 経済産業省・県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「マシニングセンタ ○ 百万円 資 60.0 - 経済産業省・県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「食料品加工機械 ○ 百万円 資 1.6 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「個装・内装機械 ○ 百万円 資 19.2 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「開閉制御装置 ○ 百万円 資 28.6 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「半導体集積回路 ○ 百万円 生・鉱 438.4 - 県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「その他の集積回路 ○ 百万円 生・鉱 9.0 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「電子回路基板 ○ 百万円 生・鉱 28.0 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「電子回路実装基板 ○ 百万円 生・鉱 34.9 - 経済産業省」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「機関部品 ○ 百万円 生・鉱 42.1 87.5 経済産業省・県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「駆動伝導・操縦装置部品 ○ 百万円 生・鉱 66.7 86.6 県」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+- 10年推移：
+  - 「Ⅰ 令和２年(2020 年)基準指数の概要等」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「Ⅱ 令和７年(2025 年)鉱工業指数の動向」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「Ⅰ 令和２年（2020 年）基準指数の概要等」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「前月比及び前期末比は季節調整済指数を、前年比、前年同月比及び前年同期（末）比」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「指数の基準時は令和２年（2020年）とし、指数値は令和２年の平均を 100とした比率」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「平成 30 年（2018 年）１月分まで遡及計算を行い、平成 29年（2017年）12 月以前につ」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「いては、リンク係数による接続指数で時系列の断層を埋めている（P６「（10）旧指数との接続」」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「series {start=2016.1 算出に用いる原系列の開始時点は 2016.1」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「span=(2016.1,2023.12) 原系列の対象期間は 2016.1～2023.12」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「start=2016.1 ユーザ定義変数の開始時点は 2016.1」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「生産 TC 2020.5」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「生産 TC 2024.1」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「在庫 LS 2024.1」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「行い、長期時系列分析に資することとしている」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+  - 「接続期間H25（2013）～H29（2017)における製造工業平均原指数の接続例」（https://www.pref.toyama.jp/sections/1015/lib/iip/yb2025/01gaiyouR7.pdf）
+- 事業所数・社数：記載なし（読んだ34頁・検索18回）
+- 生産能力・設備：記載なし（読んだ34頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ34頁・検索18回）
 
 ## PRTR 届出事業所数 電気めっき業の全国の年次（環境省の集計結果の業種別・全国の表・千葉県など県の値でなく・2010年だけでなく直近まで・4-109・4-30）（PRTR national notified facilities electroplating industry annual Japan Ministry of the Environment）
 - 文脈：全体・統計
