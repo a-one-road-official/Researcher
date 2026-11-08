@@ -1558,6 +1558,7 @@
   - 「事前リサーチ8ワークフロー、4役割スキルシフト、生存戦略4本、6落とし穴、EU AI Act 2026-08 まで、広告実務者向け完全ガイド」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「AIリサーチで失敗する原因は、プロンプトの不備ではなく「検証の仕組み（フロー）」の欠如にある」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「抜け落ちは、間違いと違って画面に出てこないぶん厄介です」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「コピーライター向けリサーチAI 5選（Snorbe/ChatGPT Deep Research/Perplexity Pro/Felo AI/NotebookLM）を、選び方7軸・6ワークフロー・4ペルソナ推奨・6落とし穴・2028展望まで完全解説」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「4 弁護士業務における生成A I 活用上の主な注意点 14頁」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「注意喚起することで、利活用とのバランスを図るもの」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「及する判例については、その内容を鵜呑みにすること」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
@@ -1568,7 +1569,6 @@
   - 「本稿では、生成AI 活用上の主な注意点について、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「ける生成 AI の利活用等に関する注意事項」 （会員限定」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「れており（執筆者も経験したことがある） 、注意を要す」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「3 日弁連AI 戦略WGによる注意事項＊26」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 - 実例：
   - 「電池業界のAI戦略事例｜CATL・LG・パナソニック・BYDの勝ち筋」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「AIのリサーチ結果は、書いてあることより「書いていないこと」のほうが怖い」（https://zenn.dev/andyailab/articles/436444a75f05a0）
@@ -1579,12 +1579,12 @@
   - 「🔧 中・上級者向け：実務エッジケース対策・例外処理・パラメータ最適化の深掘り」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「: 調査を始める前に、AIに「同じものを指す言い換え・業界の略語・英語の呼び方」を10個出させ、そのうち実在の検索結果がある語をすべて検索の対象に入れる」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「: 「国内の事例は見当たらない」と報告したら、クライアントがすぐに事例を見つけた」（https://zenn.dev/andyailab/articles/436444a75f05a0）
+  - 「電通AICO2の役割分担事例も」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「3 弁護士業務における活用事例」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「成AIによる誤情報が法廷に提出された事例として報」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「道された最初の事例であり、また、連邦民事訴訟規則」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「11 条による制裁金が課された最初の事例でもある」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「「AI Hallucination Cases ＊3」という、裁判所による」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「に依拠したと認定された事例を集めたデータベースに」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
@@ -3642,6 +3642,8 @@
   - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「暗号資産（仮想通貨）の送金を追跡する方法｜Etherscanの使い方から専門ツール・詐欺被害時の注意点まで」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「AWS CloudTrail・Azure Monitor・GCP Audit Logsを使ったインシデント調査の手順と課題を初心者にも分かるよう完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「The following is an example of the final matrix from a post by Scott J. Roberts, where he applies ACH to understand whether or not the Republican National Committee and Donald J. Trump for President, Inc were victims of similar attacks as the Democratic National Committee [2]. In his post he goes step-by-step on how he created and refined his ACH matrix.」（https://isc.sans.edu/diary/22460）
+  - 「Interesting idea for analysis methodology. I'll be looking forward to the second part. The image is missing.」（https://isc.sans.edu/diary/22460）
   - 「無料フォレンジックツール「Autopsy」の使い方を初心者向けに解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「インストールから削除ファイル復元・タイムライン分析・レポート作成まで、実践手順を網羅」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「INetSimの仕組みから実際の使い方を解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -3651,8 +3653,6 @@
   - 「）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ホイヤーによるとこのステップが最も重要になります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「以上が情報分析の一つの方法である競合する仮説の分析ACHです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「【解析】urlscan.io 完全ガイド 使い方とOSINT活用法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 突き合わせ・推定：
   - 「人間は「最初の仮説に合う証拠」ばかり集めてしまう」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「仮説を洗い出す（最低3つ）」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -9003,8 +9003,8 @@
   - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
 
 ## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
 - 文脈：同一性
@@ -12192,7 +12192,7 @@
   - 「case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question」（https://metricgate.com/blogs/survivorship-bias/）
   - 「It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;」（https://metricgate.com/blogs/survivorship-bias/）
   - 「Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See」（https://metricgate.com/blogs/survivorship-bias/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
 
 ## 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）（data reconciliation single source of truth per metric tolerance thresholds discrepancy log）
 - 文脈：突き合わせ
@@ -13836,8 +13836,8 @@
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）

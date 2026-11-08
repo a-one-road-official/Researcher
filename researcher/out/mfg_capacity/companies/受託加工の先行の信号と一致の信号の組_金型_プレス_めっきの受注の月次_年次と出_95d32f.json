@@ -1,0 +1,654 @@
+{
+ "name": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101）",
+ "en": "Japan die mold press plating orders vs shipments leading coincident indicators",
+ "aliases": [
+  "日本金型工業会 金型 受注 推移",
+  "機械統計 金型 受注 生産 年次",
+  "機械受注統計 金属加工機械 年次 推移",
+  "全国鍍金工業組合連合会 景況 受注"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T10:06:06.013511+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyoiku-shuppan.co.jp/docs/pages/eigo/eigo_c/webilust/b3/pdf/news.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/104274",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bizreach.jp/static/articles/jf-071/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikoukei.co.jp/images/news/360774/337849_20180517192444892.pdf.pdf?1526552795",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000084367_00/04-00_%E5%85%A8%E8%B3%87%E6%96%99.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.scgr.co.jp/report/column/?_page=11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.nissyoku.co.jp/news/ebata20260804012116450",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/2019/tis_news/20190701_1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.recog.works/ja/news/detail/105",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/035_s02_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toyota-shokki.co.jp/products/technical/item/b74fb0973facccf9f6b68e7ba4129f02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jidosha/content/001745506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cmp-wafer-polishing.com/explanation/contract-processing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.betterseishin.co.jp/trust/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyodo-inc.co.jp/electronics/wafer-process/cmp.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techport.co.jp/archives/41486",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mt.com/jp/ja/home/library/declarations-of-conformity/process-analytics/CE_InPro6950i.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sugoroku.net/wp/wp-content/uploads/2026/01/correlation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100971411.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.jamstec.go.jp/jamstec-j/renkei/innovation/news07.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jcfia.gr.jp/report/pdf/no38/21.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcs-wr.co.jp/columns/kitanagoya-setubikousin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/tis_news/20160523_1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://beei.org/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fbeei.org%2Findex.php%2FEEI%2Farticle%2FviewFile%2F10199%2F4901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zgspws.com/zgspwszzen/article/pdf/20140519",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.tkgc.net/tkgc/article/pdf/20260180",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wyoscholar.uwyo.edu/bitstreams/f9485e21-d883-462c-9122-db7bc23ed990/download",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://u-fukui.repo.nii.ac.jp/record/29363/files/BD10126413-03.pdf",
+    "status": "http_406",
+    "method": "pdf"
+   },
+   {
+    "url": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/53214/1/32130001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okaya.lg.jp/soshikikarasagasu/kikakuka/66/652/55/6941.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/document/021000276/hokoku/202070/2020%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.syuseizai.com/hrd/doc/2024_whole_text_rev240822.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://committees.jsce.or.jp/cmc0705/system/files/all_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000909188.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/dl/koujirei_zen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcm.go.jp/jc/wp-content/uploads/sites/3/JCM_VN_PM003_ver01.0_Add_Info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0542302_01.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/tis_info/131206.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gw2050.okinawa/userfiles/files/oshirse(katsudohoukoku)/2026/VF_seichousenryaku_jikkoukeikaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.town.ashiya.lg.jp/uploaded/attachment/18495.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 人手不足 受注 断る",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
+    "https://www.kyoiku-shuppan.co.jp/docs/pages/eigo/eigo_c/webilust/b3/pdf/news.pdf",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/104274",
+    "https://www.bizreach.jp/static/articles/jf-071/",
+    "https://www.nikoukei.co.jp/images/news/360774/337849_20180517192444892.pdf.pdf?1526552795",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://www.tisi.jp/documents/jp/news/2019/tis_news/20191119_1.pdf",
+    "https://release.nikkei.co.jp/attach_file/0505302_02.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 受注残 人手不足",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000084367_00/04-00_%E5%85%A8%E8%B3%87%E6%96%99.pdf",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://news.nissyoku.co.jp/news/ebata20260804012116450",
+    "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
+    "https://www.tisi.jp/documents/jp/news/2019/tis_news/20190701_1.pdf",
+    "https://www.recog.works/ja/news/detail/105",
+    "https://www.hrr.mlit.go.jp/gijyutu/seisan/R5kouki/seisan_R5_s-9.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 人手不足 損失 億円",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/035_s02_02.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.toyota-shokki.co.jp/products/technical/item/b74fb0973facccf9f6b68e7ba4129f02.pdf",
+    "https://www.mlit.go.jp/jidosha/content/001745506.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/pdf/20251223_honbun.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101）",
+   "results": [
+    "https://www.cmp-wafer-polishing.com/explanation/contract-processing.html",
+    "https://www.betterseishin.co.jp/trust/",
+    "https://www.kyodo-inc.co.jp/electronics/wafer-process/cmp.html",
+    "https://techport.co.jp/archives/41486",
+    "https://www.mt.com/jp/ja/home/library/declarations-of-conformity/process-analytics/CE_InPro6950i.html",
+    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "https://www.e-kmt.com/business-details/made-to-order-business/",
+    "https://lefixea.jp/mfg/articles/parts-sourcing-assembly31",
+    "https://www.sankyo-it.co.jp/products/oem%E3%83%BBodm%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0/",
+    "https://www.invest-concierge.com/qa/leading-coincident-lagging-indicators-differences-and-examples"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 推移",
+   "results": [
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.toyota-shokki.co.jp/products/technical/item/b74fb0973facccf9f6b68e7ba4129f02.pdf",
+    "https://www.sugoroku.net/wp/wp-content/uploads/2026/01/correlation.pdf",
+    "https://www.nedo.go.jp/content/100971411.pdf",
+    "http://www.jamstec.go.jp/jamstec-j/renkei/innovation/news07.pdf",
+    "https://www.jcfia.gr.jp/report/pdf/no38/21.pdf",
+    "https://www.mcs-wr.co.jp/columns/kitanagoya-setubikousin",
+    "https://www.tisi.jp/documents/jp/news/tis_news/20160523_1.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00120/00239/takasho.pdf",
+    "https://www.bpb-jp.com/words/2026/08/business-cycle-indicators-guide.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 統計 PDF",
+   "results": [
+    "https://beei.org/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fbeei.org%2Findex.php%2FEEI%2Farticle%2FviewFile%2F10199%2F4901",
+    "https://www.zgspws.com/zgspwszzen/article/pdf/20140519",
+    "http://www.tkgc.net/tkgc/article/pdf/20260180",
+    "https://wyoscholar.uwyo.edu/bitstreams/f9485e21-d883-462c-9122-db7bc23ed990/download",
+    "https://www.toyota-shokki.co.jp/products/technical/item/b74fb0973facccf9f6b68e7ba4129f02.pdf",
+    "https://u-fukui.repo.nii.ac.jp/record/29363/files/BD10126413-03.pdf",
+    "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/53214/1/32130001.pdf",
+    "https://www.otsuka-elibrary.jp/pdf_viewer/?f=/file/1058/ozx_if.pdf",
+    "https://researchmap.jp/read0147861/misc/51531252/attachment_file.pdf",
+    "https://www.esri.cao.go.jp/jp/stat/di/di3.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.city.okaya.lg.jp/soshikikarasagasu/kikakuka/66/652/55/6941.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://jarea.org/cms_files/general/info/keizai_jittai_chousa.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 従業者規模別",
+   "results": [
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.npo-homepage.go.jp/npoportal/document/021000276/hokoku/202070/2020%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.nedo.go.jp/content/100971411.pdf",
+    "https://www.syuseizai.com/hrd/doc/2024_whole_text_rev240822.pdf",
+    "https://www.toyota-shokki.co.jp/products/technical/item/b74fb0973facccf9f6b68e7ba4129f02.pdf",
+    "https://committees.jsce.or.jp/cmc0705/system/files/all_1.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://www.ktr.mlit.go.jp/ktr_content/content/000909188.pdf",
+    "https://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/dl/koujirei_zen.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&stat_infid=000040197150"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 1人当たり 万円",
+   "results": [
+    "https://www.jcm.go.jp/jc/wp-content/uploads/sites/3/JCM_VN_PM003_ver01.0_Add_Info.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.recog.works/ja/news/detail/105",
+    "https://release.nikkei.co.jp/attach_file/0542302_01.pdf",
+    "https://www.tisi.jp/documents/jp/news/tis_info/131206.pdf",
+    "https://gw2050.okinawa/userfiles/files/oshirse(katsudohoukoku)/2026/VF_seichousenryaku_jikkoukeikaku.pdf",
+    "https://www.town.ashiya.lg.jp/uploaded/attachment/18495.pdf",
+    "http://www.jamstec.go.jp/jamstec-j/renkei/innovation/news07.pdf",
+    "https://www.sparx.co.jp/mutual/gen.html",
+    "https://factorycostcut.com/productivity/seizougyou-roudou-seisansei/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） 2015 2025",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "https://www.zenshinko.jp/module/wp-content/uploads/2024/09/692ea2a7376d7ce6b2d4f85e46b0dba0.pdf",
+    "https://www.toyota-shokki.co.jp/products/technical/item/b74fb0973facccf9f6b68e7ba4129f02.pdf",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.nedo.go.jp/content/100971411.pdf",
+    "https://sumitomoelectric.com/jp/rd/technical-reviews/all",
+    "https://jicpa.or.jp/specialized_field/files/4-2-0a-2-20160729.pdf",
+    "https://www8.cao.go.jp/cstp/gaiyo/sip/sip2_seika/jidosoko_05.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-8495"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Japan die mold press plating orders vs shipments leading coincident indicators Japan statistics",
+   "results": [
+    "https://tradingeconomics.com/japan/coincident-index",
+    "https://www.conference-board.org/pdf_free/economics/bci/JapFeb05.pdf",
+    "https://iot-analytics.com/industrial-macro-update/",
+    "https://www.freightwaves.com/news/what-japanese-machine-tool-data-tells-us-about-the-industrial-outlook",
+    "https://www.esri.cao.go.jp/en/stat/di/di-e.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_202507se.html",
+    "https://www.japantimes.co.jp/business/2026/03/19/economy/japan-machinery-orders-january/",
+    "https://eksportas.inovacijuagentura.lt/upload/files/2025/04/17/study-id163681-key-economic-indicators-of-japan-1.pdf",
+    "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/overview.html",
+    "https://www.meti.go.jp/english/statistics/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101）",
+   "results": [
+    "https://note.com/ok_totti/n/nf3f340ed68a4",
+    "https://note.com/kiyo_ai_note/n/n163a566728d6",
+    "https://note.com/lucid_lotus6287/n/n0478be337e47",
+    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "https://note.com/zenkok/n/n9883e45a6e8b",
+    "https://note.com/vast_cosmos500/n/ncd8c33fca570",
+    "https://note.com/kagawatomo/n/nfe51c4f0f92a",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/sute_aca/n/n7b9fe27ae4b2",
+    "https://note.com/qy_research/n/n176e8cf5cfab"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101）",
+   "results": [
+    "https://x.com/news_jrwest/status/1514919764153434113",
+    "https://x.com/NPA_saigaiKOHO/status/2097610969350553785",
+    "https://x.com/RepJudyChu/status/2116303956473188357/photo/3",
+    "https://x.com/hillbig/status/2080055713939014104",
+    "https://x.com/RepJudyChu/status/2116303953688170616",
+    "https://x.com/MZZxALW5qPiPmRv/status/2047057856956908003",
+    "https://x.com/CryptoMichNL/status/2072672639605182496",
+    "https://x.com/zakiryo1533/status/2113042814552752433",
+    "https://help.x.com/zh-cn/business-and-advertising/create-website-conversions-campaign",
+    "https://x.com/04GENLS/status/1955526194339909777"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101）",
+   "results": [
+    "https://www.linkedin.com/login/au",
+    "https://in.linkedin.com/company/ava-technology-official",
+    "https://es.linkedin.com/in/candela-tienda-corella-845439228",
+    "https://jp.linkedin.com/pulse/受託と派遣就労ってどう違うの-nao-kamiya",
+    "https://jp.linkedin.com/posts/-gyoseioishihoumuu-4b4ba86_2026年1月1日施行下請法が取適法に進化します-２０２６年令和-activity-7398895419638071296-G9hX",
+    "https://jp.linkedin.com/pulse/contract-manufacturing-meaning-types-pros-cons-kj8le?tl=ja",
+    "https://www.linkedin.com/posts/yoshikazu-shinoda-8b8a8633_fpga-リアルタイム処理-リアルタイムdnn-activity-7130364209799835649-9W3M"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101）",
+   "results": [
+    "https://www.facebook.com/groups/1902545183192803/posts/9891291190984789/",
+    "https://www.facebook.com/timeslesson/posts/警察官による手信号信号機の故障や災害による停電などの理由で信号機の灯火が消えた場合警察官が手信号による交通整理が行うことがありますまた信号機が点灯していたとして/1902620373119654/",
+    "https://www.facebook.com/zoorasianbrass/posts/本日ず組先行発売今年関西で好評だった豆まきコンサート次は関東でやります2027年1月30日土千葉公演1月31日日茅ヶ崎公演/1629241261905848/",
+    "https://www.facebook.com/skpcaudio/photos/写真はオリジナルソフトウェアーインパルス応答に様々な加工をしたりフィルターを作ったりする部品が一通り揃っていますただスピーカーを作るだけでなく信号処理のサービス/1438185720617646/",
+    "https://www.facebook.com/kiichiro.minami/videos/訓練中のメリーちゃんハンドラーが立ち止まる動きに合わせて犬が自然にオスワリをするオートマチックシットの練習ですね立ち止まる瞬間の軽いチェックリードへの合図は犬に/1945098939778897/",
+    "https://www.facebook.com/kakouman.japan/videos/横型マシニングのテーブルがアラームで動かなくなったと出張先にいた私へ部下から電話があった何故かこいつは自分が居ない時に限ってトラブルを起こす問題児なんだよなぁセ/1261968787974138/",
+    "https://www.facebook.com/ibaraki.tokei/posts/茨城県景気動向指数令和８年2026年５月分先行1158-一致-1069-遅行1057-基調判断上方への局面変化当月分は百貨店スーパー販売額や有効求人数等が上昇し/1493514632821224/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） note 社長",
+   "results": [
+    "https://techport.co.jp/archives/16536",
+    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "https://jtrweb.com/page/jp/messageDetail.html?id=26",
+    "https://note.com/seizo_genba/m/me0a04c9cbec9/hashtag/%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://note.com/goldratt/n/n539f7d0f8225",
+    "https://www.recog.works/ja/news/detail/114",
+    "https://www.coinex.zone/ja/ja/academy/2077/related-articles",
+    "https://note.com/delchemia_japan/n/nf72eafde1540"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の先行の信号と一致の信号の組（金型・プレス・めっきの受注の月次・年次と出荷・加工賃の同じ年・機械受注は設備投資と1対1でない・4-101） X 投稿",
+   "results": [
+    "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
+    "https://www.syd-tech.jp/products/contract/x-ct.php",
+    "https://lefixea.jp/mfg/articles/manufacturing-outsourcing-consultation60",
+    "https://www.mt.com/jp/ja/home/library/declarations-of-conformity/process-analytics/CE_InPro6950i.html",
+    "https://www.cmp-wafer-polishing.com/explanation/contract-processing.html",
+    "https://www.reddit.com/r/explainlikeimfive/comments/1l22vnf/eli5_what_prevents_traffic_lights_from_giving/?tl=ja",
+    "https://dl.cdn-anritsu.com/ja-jp/test-measurement/reffiles/About-Anritsu/R_D/Technical/98/98-05.pdf",
+    "https://www.zenshinko.jp/module/wp-content/uploads/2021/10/d67b4b75152fb68aa6b96bb1426803e8.pdf",
+    "https://x.com/munou_ac/article/2100542988556603887",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-8495"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Japan die mold press plating orders vs shipments leading coincident indicators site:linkedin.com",
+   "results": [
+    "https://no.linkedin.com/in/parthharbola",
+    "https://lu.linkedin.com/in/daniel-saraiva-b51a3b36",
+    "https://jp.linkedin.com/in/mitsuhiro-hayashibe-ba0a558b",
+    "https://cn.linkedin.com/in/santi-li",
+    "https://se.linkedin.com/in/natasha-pillai-a0626858",
+    "https://www.linkedin.com/posts/lab-wizard-cloud_leading-vs-lagging-indicators-in-plating-activity-7424451689769766912-cAPk",
+    "https://www.linkedin.com/posts/seunghoim_𝗝𝗮𝗽𝗮𝗻𝘀-𝗽𝗹𝗮𝘀𝘁𝗶𝗰-𝗺𝗼𝗹𝗱-activity-7363145524478148609-kZSc",
+    "https://www.linkedin.com/pulse/lagging-vs-leading-indicators-manufacturing-kpis-christine-hall-vwkcc",
+    "https://www.linkedin.com/pulse/emerging-technologies-reshaping-japan-copper-plating-equipment-hsbhf",
+    "https://www.linkedin.com/pulse/japan-metal-plating-finishing-service-market-application-hqqsf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

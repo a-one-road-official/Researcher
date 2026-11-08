@@ -1,0 +1,410 @@
+{
+ "name": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
+ "en": "Quartz bad data guide problems in real-world data journalism",
+ "aliases": [
+  "Quartz bad data guide 日本語",
+  "データジャーナリズム 悪いデータ 見分け方",
+  "GIJN bad data guide"
+ ],
+ "context": "手法・報道",
+ "kind": "market",
+ "researched_at": "2026-11-08T10:06:06.737485+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/atnote/n/n576270f7c411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zephel01/n/nbc8263123c13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaigian/n/n36d96f7a778d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nfe47827fa9eb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kawaidesign/n/n344027dd61ed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamnor/n/nde66a1f1eca3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://primenumber.com/blog/data-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/weather-data-cleansing-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.tableau.com/current/pro/desktop/ja-jp/datafields_typesandroles_datatypes.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/technicalsquare/42559/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zono_data/n/n78b18fd55a27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataaicareer.com/data-analysis-pitfalls/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emb.macnica.co.jp/articles/11414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://postd.cc/hamming-codes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doc.esri.com/ja/arcgis-pro/latest/help/data/imagery/mosaic-dataset-properties.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.autodesk.com/view/MAYAUL/2019/CHS/?guid=GUID-EA3311B2-BC51-455C-A462-25809455D494",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/think/topics/dirty-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/specific-examples-of-data-cleansing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alteryx.com/ja/glossary/dirty-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bft-yorozu.com/blog/data-quality-check-items",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblog.insightedge.jp/entry/eda-checklist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saison-technology.com/column/data-utilization-data-consistency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datajournalism.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sites.google.com/view/mj-basic-data-academy/data-state-of-mind/avoiding-pitfalls",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） site:note.com",
+   "results": [
+    "https://note.com/atnote/n/n576270f7c411",
+    "https://note.com/zephel01/n/nbc8263123c13",
+    "https://note.com/kaigian/n/n36d96f7a778d",
+    "https://note.com/hirokimiyano/n/nfe47827fa9eb",
+    "https://note.com/kawaidesign/n/n344027dd61ed",
+    "https://note.com/yamnor/n/nde66a1f1eca3",
+    "https://note.com/chatgpt_nobdata/n/n47fbd68eb349?hl=ko",
+    "https://note.com/hirokimiyano/n/n4323322abf83",
+    "https://note.com/betaitohuman/n/nae312df09f85?hl=en",
+    "https://note.com/mizupe/n/n6dbe3e61d660"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） note",
+   "results": [
+    "https://primenumber.com/blog/data-check/",
+    "https://data-viz-lab.com/weather-data-cleansing-2",
+    "https://help.tableau.com/current/pro/desktop/ja-jp/datafields_typesandroles_datatypes.htm",
+    "https://www.marubun.co.jp/technicalsquare/42559/",
+    "https://note.com/zono_data/n/n78b18fd55a27",
+    "https://dataaicareer.com/data-analysis-pitfalls/",
+    "https://uribo.github.io/practical-ds/03/handling-missing-data.html",
+    "https://techblog.insightedge.jp/entry/eda-checklist",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://github.com/Quartz/bad-data-guide"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） やり方",
+   "results": [
+    "https://www.marubun.co.jp/technicalsquare/42559/",
+    "https://www.youtube.com/watch?v=0xiPhuFGicA",
+    "https://emb.macnica.co.jp/articles/11414/",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://postd.cc/hamming-codes/",
+    "https://doc.esri.com/ja/arcgis-pro/latest/help/data/imagery/mosaic-dataset-properties.html",
+    "https://help.autodesk.com/view/MAYAUL/2019/CHS/?guid=GUID-EA3311B2-BC51-455C-A462-25809455D494",
+    "https://help.tableau.com/current/pro/desktop/ja-jp/datafields_typesandroles_datatypes.htm",
+    "https://www.ibm.com/jp-ja/think/topics/dirty-data",
+    "https://github.com/Quartz/bad-data-guide"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） 事例",
+   "results": [
+    "https://www.ibm.com/jp-ja/think/topics/dirty-data",
+    "https://primenumber.com/blog/data-check/",
+    "https://data-viz-lab.com/specific-examples-of-data-cleansing",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "https://www.alteryx.com/ja/glossary/dirty-data",
+    "https://bft-yorozu.com/blog/data-quality-check-items",
+    "https://techblog.insightedge.jp/entry/eda-checklist",
+    "https://www.saison-technology.com/column/data-utilization-data-consistency/",
+    "https://www.marubun.co.jp/technicalsquare/42559/",
+    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Quartz bad data guide problems in real-world data journalism",
+   "results": [
+    "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "https://github.com/Quartz/bad-data-guide",
+    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
+    "https://datajournalism.com/",
+    "https://sites.google.com/view/mj-basic-data-academy/data-state-of-mind/avoiding-pitfalls",
+    "https://uplopen.com/books/1637/files/5a02e8e1-02d2-4e5b-9661-2b85afdc38a9.pdf",
+    "https://andrewwhitby.com/2014/05/08/bad-data-journalism/",
+    "https://www.youtube.com/watch?v=Zo00y1gK_QQ",
+    "https://data.journalism.columbia.edu/content/quartz-guide-bad-data"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
+   "results": [
+    "https://note.com/quad_r_angle/n/naa24edde052a",
+    "https://note.com/sute_aca/n/n7b9fe27ae4b2",
+    "https://note.com/rich_hyssop406/n/na9545719f33f",
+    "https://note.com/chatgpt_nobdata/n/n94cf154ee95d",
+    "https://note.com/natty_parrot5639/n/ne724b4870a53",
+    "https://note.com/kokemori_trip/n/n3bd26bd0cd1f",
+    "https://note.com/saimofusaimo285/n/n2ee59bfe1406",
+    "https://note.com/disclosure/n/n934cb9c263ce",
+    "https://note.com/ryoseiarabic/n/n4c0e610acf08",
+    "https://note.com/igaguri_megane/n/n6992066c888e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2099471075599876239",
+    "https://jf.x.com/images/media-preview/2098221165110300736",
+    "https://x.com/HALmonia3/status/2110704834500518133",
+    "https://x.com/cocuchi_link/status/2113559959023825021",
+    "https://x.com/jdash2000/status/1703787727496556864",
+    "https://x.com/jpx_JQuants/status/2113219850671727045",
+    "https://x.com/tsuj/status/1586223697559375874"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
+   "results": [
+    "https://www.linkedin.com/posts/mark-farrington_github-quartzbad-data-guide-an-exhaustive-activity-6430474539934765056-yEiY",
+    "https://www.linkedin.com/posts/samer-hayel-36ba68a7_github-quartzbad-data-guide-an-exhaustive-activity-7315609297445359616-fdfX",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
+    "https://jp.linkedin.com/pulse/ultimate-guide-spotting-data-errors-fixing-them-fast-cassamo-jwnpf?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-root-causes-bad-data-quality-deep-dive-part-abdulhak-11plf?tl=ja",
+    "https://jp.linkedin.com/pulse/data-quality-testing-best-practices-from-basics-advanced-qasource-arzqc?tl=ja",
+    "https://jp.linkedin.com/pulse/what-consequences-bad-data-quality-dextai-ei6xf?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
+   "results": [
+    "https://www.facebook.com/fate.alter.id/posts/sekedar-info-proses-recovery-akun-jika-kalian-lupa-password-atau-transfer-code-f/1775777001222919/",
+    "https://www.facebook.com/CMCCanada1/posts/a-guide-to-dealing-with-bad-data-httpsgithubcomquartzbad-data-guide-bigdata/721635164634451/",
+    "https://www.facebook.com/GlobalDevelopmentUCPH/posts/on-github-quartz-guide-to-bad-data-and-what-to-do-about-many-of-the-kinds-of-pro/2327377167273249/",
+    "https://www.facebook.com/datastars.co/posts/a-comprehensive-list-of-problems-and-techniques-for-data-cleaning-by-quartz-http/1854607891437956/",
+    "https://www.facebook.com/SchoolofData/posts/scodareads-ddj-real-world-problems-with-data-and-their-most-probable-solutions-t/926833070730110/",
+    "https://www.facebook.com/opensourceagenda/posts/bad-data-guide-open-source-project/405193144670654/",
+    "https://www.facebook.com/risinkyotojapan/posts/今日の会場卓のquartz動作が恐ろしく重い要らない明かりのデータも入ったままで渡された本番怖い/4741051559273900/",
+    "https://www.facebook.com/openingsource/posts/開源日報-今日推薦開源項目解決數據問題-bad-data-guide今日推薦英文原文the-3-capacities-of-a-good-manager原文鏈接/1082299382160686/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） note 社長",
+   "results": [
+    "https://primenumber.com/blog/data-check/",
+    "https://data-viz-lab.com/weather-data-cleansing-2",
+    "https://help.tableau.com/current/pro/desktop/ja-jp/datafields_typesandroles_datatypes.htm",
+    "https://www.marubun.co.jp/technicalsquare/42559/",
+    "https://note.com/zono_data/n/n78b18fd55a27",
+    "https://dataaicareer.com/data-analysis-pitfalls/",
+    "https://uribo.github.io/practical-ds/03/handling-missing-data.html",
+    "https://techblog.insightedge.jp/entry/eda-checklist",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） X 投稿",
+   "results": [
+    "https://help.tableau.com/current/pro/desktop/ja-jp/datafields_typesandroles_datatypes.htm",
+    "https://www.gs1jp.org/standard/gs1/pdf/DM_Guide_JPN.pdf",
+    "https://www.marubun.co.jp/technicalsquare/42559/",
+    "https://www.aimex.co.jp/column/10958/",
+    "https://www.ibm.com/jp-ja/think/topics/dirty-data",
+    "https://community.denodo.com/docs/html/browse/8.0/jp/vdp/vql/language_for_defining_and_processing_data_vql/data_types/data_types",
+    "https://newssdx.kcme.jp/alteryx-tips_data-type/",
+    "https://jpfhir.jp/fhir/core/V1B/guide-handlingOfNonExistentData.html",
+    "https://helpx.adobe.com/jp/coldfusion/developing-applications/the-cfml-programming-language/using-coldfusion-variables/data-types-developing-guide.html",
+    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Quartz bad data guide problems in real-world data journalism site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/youyouz",
+    "https://www.linkedin.com/in/benjaminspoer",
+    "https://www.linkedin.com/in/danhirschhorn",
+    "https://www.linkedin.com/in/tobias-guennel-91382b11",
+    "https://www.linkedin.com/in/rajushreewastava",
+    "https://www.linkedin.com/in/laura-bratton-626477b1",
+    "https://www.linkedin.com/in/seanmcminn",
+    "https://www.linkedin.com/in/deenazaidi",
+    "https://www.linkedin.com/in/asif-mujahid-6506932",
+    "https://www.linkedin.com/posts/pooja-jain-898253106_how-to-build-a-real-data-engineering-project-activity-7424317098748751872-mFN9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T10:06:06.737485+00:00"
+}
