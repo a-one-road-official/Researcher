@@ -8,209 +8,215 @@
  ],
  "context": "統計の版",
  "kind": "market",
- "researched_at": "2026-11-07T22:25:12.015217+00:00",
+ "researched_at": "2026-11-08T04:52:12.267561+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
+    "quote": "戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "わしい統計の構築に向けた幕開けといえるものである",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本年秋には、 「公的統計の整備",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "われわれは、統計利用者の立場から、現在の統計の諸",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1. 統計の役割と最近の統計制度見直しの経緯",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(1) 統計の目的",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(2) 統計制度見直しの経緯",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
     "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
     "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
     "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
     "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
     "pass": 3,
     "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Some revisions correct mistakes. Many do not.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias in revisions can reveal a systematic early-estimate problem",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A fictional worked example of revision bias",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "scale changes are mistaken for economic change.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias, dispersion, autocorrelation, and news-noise diagnostics. It",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "release is deemed efficient if it satisfies specific conditions of unbiasedness and efficiency, tested",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• β0 = 0(no bias)",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Performs hypothesis tests for bias, efficiency, and correlation using robust methods (e.g.,",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Bias Tests: Tests for the presence of mean bias and regression bias.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Bias (mean): The mean revision, testing whether revisions are systematically biased.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Bias (p-value): p-value from a t-test evaluating the significance of the mean revision.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Bias (robust p-value): Newey-West HAC robust p-value for the mean revision test.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the null hypothesis of unbiasedness and efficiency.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.52 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.425 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.507 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.851 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.326 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.181 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.202 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
    }
   ],
   "手順・やり方": [
+   {
+    "quote": "その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つまり、日本では、中央レベルでは分散型の統計機構",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "集中型機構ともいえる＊2",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一性を図るため、調査方法、分類基準、定義などについての調査を実施している",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データベースは、共通の計測方法の下での国際比較が可能となっている",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しているが、各物価指数が共通の方法で計測されているわけではない",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "常に有機的な活用方法を想定して統計を整備しているかどうか、という点である",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.",
     "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
@@ -472,6 +478,96 @@
   ],
   "実例": [
    {
+    "quote": "や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "アンケートの結果から日本の統計の問題点が浮き彫りになった",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図表 1 景気動向指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図表 2 構造把握指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば米国商務省の Bureau of Labor Statisticsでは、労働生",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただこうした研究でも、企業行動が市場構造に影響されるケース",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "複数の異業種をかかえる事例が増える可能性がある",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
     "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.",
     "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
     "pass": 3,
@@ -604,7 +700,321 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "で、時系列的に連続させるには注意が必要である",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これら低回収率がもたらすバイアスならびにその補正については",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "correcting for unit nonresponse bias in surveys,\" Journal of Econometrics, vol. 136(1), pages",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Some revisions correct mistakes. Many do not.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias in revisions can reveal a systematic early-estimate problem",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A fictional worked example of revision bias",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "scale changes are mistaken for economic change.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, dispersion, autocorrelation, and news-noise diagnostics. It",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "release is deemed efficient if it satisfies specific conditions of unbiasedness and efficiency, tested",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• β0 = 0(no bias)",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Performs hypothesis tests for bias, efficiency, and correlation using robust methods (e.g.,",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Bias Tests: Tests for the presence of mean bias and regression bias.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Bias (mean): The mean revision, testing whether revisions are systematically biased.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Bias (p-value): p-value from a t-test evaluating the significance of the mean revision.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Bias (robust p-value): Newey-West HAC robust p-value for the mean revision test.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the null hypothesis of unbiasedness and efficiency.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.52 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.425 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.507 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.851 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.326 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.181 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.202 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
+   {
+    "quote": "推計期間 1970、1973-2003年 1960-1995年",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1960-1992年",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1955-92年",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "『昭和45年国富調査』より推計",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "在まで 2つのヴァージョンがあり、データベースの延長推計を行っている",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "情報サービス産業の動向や受注ソフトウエア投資の推計は、",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（1） 2002年推計見直しから積み残された“宿題”",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "GDP速報は2002年 8月に推計方法の抜本的な見直しを行った",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ているため、推計方法の見直しは確報との整合性も高めると考えられた",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現行推計では、供給",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.",
     "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
@@ -1025,146 +1435,70 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/jun8888888/n/n671b79694bb7",
+    "url": "https://note.com/kamokita/n/n99626649661e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "url": "https://note.com/kamokita/n/ne03790a166ec",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "url": "https://note.com/kamokita/n/n7c1539c12266",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/planos/n/n7c51fb2ce44d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shikaku_tokyo/n/n82288ea80aba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nakajima_doc/n/n1f5c1546cb02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_43038.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20260820001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zen-kyo.or.jp/topics/11795",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/ocaml/n/n7d712123cbea",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/kyotsu/kaitei/20150401-02.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ezuremanagement/n/ne844b7c1197b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/fueki_pug/n/n1a4676abf18b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/e_dao/n/n4a89d35ed368",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://toketarou.com/cheatsheet/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/e_dao/n/nb475d41b7cc7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.toukei-kentei.jp/grade/grade3/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.statweb.jp/method",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bellcurve.jp/statistics/course/10035.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.toukei-kentei.jp/news/post-16945",
+    "url": "https://www.boj.or.jp/statistics/index.htm",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.tokyo-tosho.co.jp/02332/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://www.stat.go.jp/data/nihon/index2-2.html",
@@ -1172,9 +1506,39 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/001095692.pdf",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001084298.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shikaku-dojo.lb-product.com/toukei-3/articles/book-review-koushiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cran.r-project.org/web/packages//reviser/vignettes/understanding-revisions.html",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
@@ -1182,29 +1546,19 @@
     "method": "http"
    },
    {
-    "url": "https://svannorden.org/original-vintage-data-sources/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304407610002526",
+    "url": "https://www.oecd.org/en/publications/undertaking-revisions-and-real-time-data-analysis-using-the-oecd-main-economic-indicators-original-release-data-and-revisions-database_146528313656.html",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://hdsr.mitpress.mit.edu/pub/w8l955ol",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://facultystaff.richmond.edu/~dcrousho/docs/Croushore%20Oxford%20Handbook%20paper.pdf",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://packages.ropensci.org/articles/reviser/understanding-revisions.html",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -1212,133 +1566,13 @@
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） site:note.com",
    "results": [
-    "https://note.com/jun8888888/n/n671b79694bb7",
-    "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/ocaml/n/n7d712123cbea",
-    "https://note.com/ezuremanagement/n/ne844b7c1197b",
-    "https://note.com/dakudhigura/n/nba796ec546bf",
-    "https://note.com/dakudhigura/n/n83c3936035fc",
-    "https://note.com/dakudhigura/n/n1cf48e633662",
-    "https://note.com/dakudhigura/n/n9afc1c8b6a7d"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） note",
-   "results": [
-    "https://note.com/fueki_pug/n/n1a4676abf18b",
-    "https://note.com/e_dao/n/n4a89d35ed368",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
-    "https://toketarou.com/cheatsheet/",
-    "https://note.com/e_dao/n/nb475d41b7cc7",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://bellcurve.jp/statistics/course/10035.html",
-    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "https://www.stat.go.jp/data/nihon/index2-2.html"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） やり方",
-   "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.toukei-kentei.jp/grade/grade3/",
-    "https://www.statweb.jp/method",
-    "https://bellcurve.jp/statistics/course/10035.html",
-    "https://toketarou.com/cheatsheet/",
-    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "https://www.stat.go.jp/data/nihon/index2-2.html"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） 事例",
-   "results": [
-    "https://www.toukei-kentei.jp/news/post-16945",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.statweb.jp/method",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
-    "https://bellcurve.jp/statistics/course/10035.html",
-    "https://www.tokyo-tosho.co.jp/02332/",
-    "https://toketarou.com/cheatsheet/",
-    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "https://www.stat.go.jp/data/nihon/index2-2.html"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "official statistics revision analysis vintages real-time data revision triangle",
-   "results": [
-    "https://ropensci.org/blog/2026/04/13/reviser/",
-    "https://svannorden.org/original-vintage-data-sources/",
-    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "https://www.sciencedirect.com/science/article/abs/pii/S0304407610002526",
-    "https://hdsr.mitpress.mit.edu/pub/w8l955ol",
-    "https://facultystaff.richmond.edu/~dcrousho/docs/Croushore%20Oxford%20Handbook%20paper.pdf",
-    "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "https://www.statcan.gc.ca/en/developers/real-time-data-tables",
-    "https://en.wikipedia.org/wiki/Official_statistics",
-    "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "site:note.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
-   "results": [
-    "https://note.com/jun8888888/n/n671b79694bb7",
-    "https://note.com/dr_sakura/n/n845fe91423c7",
-    "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/ezuremanagement/n/ne844b7c1197b",
-    "https://note.com/ocaml/n/n7d712123cbea",
-    "https://note.com/dakudhigura/n/n83c3936035fc",
-    "https://note.com/dakudhigura/n/n1cf48e633662",
-    "https://note.com/kamokita/n/n99626649661e"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "site:x.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
-   "results": [
-    "https://jf.x.com/images/media-preview/2115944098364625196",
-    "https://jf.x.com/images/media-preview/2113581919741022315",
-    "https://x.com/koumuinright2/status/2057692623268462895",
-    "https://x.com/RvFDRutpR26jgO3/status/2083179279106621564",
-    "https://x.com/Logics_of_Blue/status/2043199544788504990",
-    "https://x.com/smo_yutohisano/status/2075165578747342927",
-    "https://x.com/nananairu7/status/2074096861515063569"
+    "https://note.com/kamokita/n/n99626649661e",
+    "https://note.com/kamokita/n/ne03790a166ec",
+    "https://note.com/kamokita/n/n7c1539c12266",
+    "https://note.com/planos/n/n7c51fb2ce44d",
+    "https://note.com/shikaku_tokyo/n/n82288ea80aba",
+    "https://note.com/nakajima_doc/n/n1f5c1546cb02",
+    "https://note.com/yomidaru_log/n/n5fca2d5baedb"
    ],
    "engines": [
     "ddgs:google"
@@ -1346,15 +1580,91 @@
    "n_hits": 7
   },
   {
-   "query": "site:linkedin.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） note",
    "results": [
-    "https://jp.linkedin.com/pulse/evolution-thematic-analysis-methodologies-comparative-dr-muhammad-qzwxe?tl=ja",
-    "https://jp.linkedin.com/posts/shinobu-matsuoka_2027年3月-また今回の新旧対比表に記載した改訂箇所等を組み込-activity-7477285422302191616-DBA_",
-    "https://www.linkedin.com/jobs/archives-technician-jobs",
-    "https://www.linkedin.com/posts/pwc-japan-グループ_pwc-japan経済犯罪実態調査2018-日本分析版を発表-activity-6429885678879854592-AUT0",
-    "https://cn.linkedin.com/pulse/exploring-delta-lakes-tables-unifying-data-management-hemant-kumar?tl=zh",
-    "https://jp.linkedin.com/posts/hirofumi-isobe-291239169_下水道分野における-jis-q-55001-適用ユーザーズガイド概要版の公表-activity-7444292072087392258-ze6P",
-    "https://jp.linkedin.com/posts/株式会社日経hr（nikkei-human-resources-inc-_大卒年収調査2026年度版-業界別編平均年収約1400万円で2年連続トップとなった-activity-7480093259050962944-DsJO"
+    "https://www.mhlw.go.jp/stf/newpage_43038.html",
+    "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20260820001.html",
+    "https://www.zen-kyo.or.jp/topics/11795",
+    "https://www.nenkin.go.jp/service/jukyu/seido/kyotsu/kaitei/20150401-02.html",
+    "https://nira.or.jp/pdf/0803report.pdf",
+    "https://www.boj.or.jp/statistics/index.htm",
+    "https://www.mhlw.go.jp/content/10700000/001148084.pdf",
+    "https://www.stat.go.jp/data/nihon/index2-2.html",
+    "https://www.soumu.go.jp/main_content/001095692.pdf",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） やり方",
+   "results": [
+    "https://www.stat.go.jp/data/nihon/index2-2.html",
+    "https://www.nli-research.co.jp/report/detail/id=84399",
+    "https://www.soumu.go.jp/main_content/001084298.pdf",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
+    "https://shikaku-dojo.lb-product.com/toukei-3/articles/book-review-koushiki",
+    "https://www.jstage.jst.go.jp/article/jjssj/49/2/49_161/_article/-char/ja"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） 事例",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "official statistics revision analysis vintages real-time data revision triangle",
+   "results": [
+    "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "https://cran.r-project.org/web/packages//reviser/vignettes/understanding-revisions.html",
+    "https://ropensci.org/blog/2026/04/13/reviser/",
+    "https://www.oecd.org/en/publications/undertaking-revisions-and-real-time-data-analysis-using-the-oecd-main-economic-indicators-original-release-data-and-revisions-database_146528313656.html",
+    "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "https://packages.ropensci.org/articles/reviser/understanding-revisions.html",
+    "https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/revisionstrianglesformonthlygdp/current",
+    "https://cran.r-project.org/web/packages/reviser/vignettes/understanding-revisions.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+   "results": [
+    "https://note.com/kamokita/n/n99626649661e",
+    "https://note.com/kamokita/n/ne03790a166ec",
+    "https://note.com/planos/n/n7c51fb2ce44d",
+    "https://note.com/tokage_maru/n/n1ea70c394779",
+    "https://note.com/kamokita/n/n7c1539c12266",
+    "https://note.com/arima_planning/n/n4b49d2baffeb",
+    "https://note.com/planos/n/n5eed41f50c31"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2106380537472356561",
+    "https://jf.x.com/images/media-preview/2115944098364625196",
+    "https://x.com/koumuinright2/status/2057692623268462895",
+    "https://x.com/RvFDRutpR26jgO3/status/2083179279106621564",
+    "https://x.com/Logics_of_Blue/status/2043199544788504990",
+    "https://x.com/kami_sora_fly/status/2003999609044275568",
+    "https://x.com/smo_yutohisano/status/2075165578747342927"
    ],
    "engines": [
     "ddgs:bing"
@@ -1362,15 +1672,21 @@
    "n_hits": 7
   },
   {
+   "query": "site:linkedin.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
    "query": "site:facebook.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
    "results": [
     "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/posts/受講料無料シンフォニカ寄付講座公的統計の統計情報を実践的に利活用するための基礎から応用までを体系的に学びますオンライン対面各講座全5回19002030第一弾-人/1576289674434698/",
-    "https://www.facebook.com/keidanren/posts/経団連タイムス1021発行公的統計の改善に向けた提言を公表httpswwwkeidanrenorjpjournaltimes20211021_05html/5245593462136163/",
     "https://www.facebook.com/toukei.kentei/posts/東京図書株式会社より統計調査士に対応したテキストの改訂版が2024年4月に刊行されます改訂版では公的統計および統計調査に関する変更を反映し公的統計に関する記述を/928510505734997/",
+    "https://www.facebook.com/keidanren/posts/経団連タイムス1021発行公的統計の改善に向けた提言を公表httpswwwkeidanrenorjpjournaltimes20211021_05html/5245593462136163/",
     "https://www.facebook.com/Japan.RIETI/posts/2320489804709531/",
     "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
-    "https://www.facebook.com/kinpodo.pub/posts/改訂版情報超入門-すべての医療従事者のためのrstudioではじめる医療統計第2版著笹渕裕介東京大学リアルワールドエビデンス講座特任准教授大野幸子東京大学大学院/1026972052761609/",
-    "https://www.facebook.com/kandouhiwa/posts/これが解けなかったらiqは平均以下かもよ同僚が突然3つの三角形の問題を突きつけてきた1つ目の三角形には2282つ目には5550そして最後の三角形には66さあに入/1550440447120099/"
+    "https://www.facebook.com/nicowaku/posts/これが解けなかったらiqは平均以下かもよ同僚が突然3つの三角形の問題を突きつけてきた1つ目の三角形には2282つ目には5550そして最後の三角形には66さあに入/1529548559207135/",
+    "https://www.facebook.com/kanagawa.tokei.ch/posts/ランキングかながわ地域編統計指標でみる神奈川改訂第４版を作成しましたさまざまな分野の統計指標をもとに県内市町村の順位をまとめた-ランキングかながわ地域編統計指標/981522217343371/"
    ],
    "engines": [
     "ddgs:google"
@@ -1380,65 +1696,449 @@
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） note 社長",
    "results": [
-    "https://note.com/fueki_pug/n/n1a4676abf18b",
+    "https://www.keidanren.or.jp/journal/times/2026/0806_07.html",
+    "https://www.stat.go.jp/data/nihon/index2-2.html",
+    "https://www.youtube.com/watch?v=Bj8fkq533Dc",
     "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
-    "https://note.com/asobeyokiken_/n/n1205d172b215",
-    "https://www.youtube.com/watch?v=0K9jMwCcQJ0",
-    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
-    "https://note.com/paguinu/n/n5e638afbfc77",
-    "https://toketarou.com/cheatsheet/",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.tokyo-tosho.co.jp/02332/",
-    "https://www.stat.go.jp/data/nihon/index2-2.html"
+    "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
+    "https://systemengineer-career-lab.com/894/",
+    "https://blog.kabu-challenge.com/statistics/統計学-記号-一覧｜初心者でもわかる記号の意味と"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） X 投稿",
    "results": [
+    "https://www.stat.go.jp/data/nihon/index2-2.html",
     "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
-    "https://www.tokyo-tosho.co.jp/02332/",
-    "https://www.toukei-kentei.jp/news/post-16945",
-    "https://qiita.com/MariMurotani/items/1a216b6e48fc35d8ac47",
-    "https://x.com/toukei_kentei",
-    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
-    "https://www.youtube.com/watch?v=0K9jMwCcQJ0",
-    "https://toketarou.com/cheatsheet/",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.stat.go.jp/data/nihon/index2-2.html"
+    "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
+    "https://www.mhlw.go.jp/wp/seisaku/jigyou/25sougou/dl/r07-02.pdf",
+    "https://www.keidanren.or.jp/journal/times/2026/0806_07.html",
+    "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "official statistics revision analysis vintages real-time data revision triangle site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/riccardo-trezzi-phd-780799a5_once-again-istat-has-revised-gdp-upward-activity-7508809509310586880-I0gj",
-    "https://ca.linkedin.com/in/josef-perktold-josef-pktd-9a23b316",
-    "https://www.linkedin.com/posts/domenico-giannone-55755b45_macroeconomic-forecasting-and-machine-learning-activity-7383993725779271680-ZTe2",
-    "https://de.linkedin.com/in/daniel-ollech/en",
-    "https://sg.linkedin.com/jobs/view/senior-data-engineer-econtech-contract-at-monetary-authority-of-singapore-mas-4468179373",
-    "https://www.linkedin.com/in/iris-lang",
-    "https://www.linkedin.com/posts/jpazvd_officialstatistics-datagovernance-sdmx-activity-7523686501155704832-4arn",
-    "https://ch.linkedin.com/in/vazquezvazquezmiguel",
-    "https://www.linkedin.com/in/dpettenuzzo"
+    "https://www.linkedin.com/posts/philipp-wegmueller_reviser-analyzing-revisions-in-real-time-activity-7444298545873997824-JzXd",
+    "https://www.linkedin.com/pulse/canadas-301008-person-revision-warning-real-time-data-daniel-foch-ik5ve",
+    "https://www.linkedin.com/pulse/post-22-45-vintage-analysis-risk-signal-hiding-plain-sight-kotamraju-31s0c",
+    "https://www.linkedin.com/posts/chaire-en-macroéconomie-et-prévisions_real-time-vintages-activity-7315710557142081537-Oja1",
+    "https://de.linkedin.com/posts/andreas-peichl-67041812a_read-ger-introducing-german-real-time-regional-activity-7046151881013780481-HB5P",
+    "https://pe.linkedin.com/pulse/major-revision-vs-minor-understanding-differences-nvurc",
+    "https://pe.linkedin.com/posts/luke-hartigan-profile_yesterdays-release-of-the-national-accounts-activity-7138278441933574144-UsUF"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 9
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 11,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "わしい統計の構築に向けた幕開けといえるものである",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本年秋には、 「公的統計の整備",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "われわれは、統計利用者の立場から、現在の統計の諸",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1. 統計の役割と最近の統計制度見直しの経緯",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(1) 統計の目的",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(2) 統計制度見直しの経緯",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つまり、日本では、中央レベルでは分散型の統計機構",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "集中型機構ともいえる＊2",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一性を図るため、調査方法、分類基準、定義などについての調査を実施している",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データベースは、共通の計測方法の下での国際比較が可能となっている",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しているが、各物価指数が共通の方法で計測されているわけではない",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "常に有機的な活用方法を想定して統計を整備しているかどうか、という点である",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "アンケートの結果から日本の統計の問題点が浮き彫りになった",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図表 1 景気動向指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図表 2 構造把握指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば米国商務省の Bureau of Labor Statisticsでは、労働生",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただこうした研究でも、企業行動が市場構造に影響されるケース",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "複数の異業種をかかえる事例が増える可能性がある",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "で、時系列的に連続させるには注意が必要である",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これら低回収率がもたらすバイアスならびにその補正については",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "correcting for unit nonresponse bias in surveys,\" Journal of Econometrics, vol. 136(1), pages",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "推計期間 1970、1973-2003年 1960-1995年",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1960-1992年",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1955-92年",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "『昭和45年国富調査』より推計",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "在まで 2つのヴァージョンがあり、データベースの延長推計を行っている",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "情報サービス産業の動向や受注ソフトウエア投資の推計は、",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（1） 2002年推計見直しから積み残された“宿題”",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "GDP速報は2002年 8月に推計方法の抜本的な見直しを行った",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ているため、推計方法の見直しは確報との整合性も高めると考えられた",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現行推計では、供給",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった",
+    "url": "https://nira.or.jp/pdf/0803report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 12,
  "first_researched_at": "2026-11-05T22:24:39.527283+00:00"
 }

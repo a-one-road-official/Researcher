@@ -2209,7 +2209,7 @@
   - 「結果を分析することにより、 京都府社会が、 府政運営の指針である 「明日の京都」」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果、３．歯」（https://www.soumu.go.jp/main_content/000432276.pdf）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3467,7 +3467,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -5400,43 +5400,58 @@
 ## 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）（official statistics revision analysis vintages real-time data revision triangle）
 - 文脈：統計の版
 - 手順・やり方：
-  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「. The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Topic 4 Revisions Analysis | Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「つまり、日本では、中央レベルでは分散型の統計機構」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「集中型機構ともいえる＊2」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「一性を図るため、調査方法、分類基準、定義などについての調査を実施している」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「データベースは、共通の計測方法の下での国際比較が可能となっている」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「しているが、各物価指数が共通の方法で計測されているわけではない」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「常に有機的な活用方法を想定して統計を整備しているかどうか、という点である」（https://nira.or.jp/pdf/0803report.pdf）
 - 突き合わせ・推定：
-  - 「We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「However, the relative mean absolute revision (RMAR), which takes into account the revision to GDP in relation to the size of the initial estimate of growth, shows that the latest periods do not differ much from the pattern seen over the past three decades.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「As we first identified last year, there is some evidence that revisions are marginally statistically significant when looking at the final quarterly estimate of GDP across the entire time span from Quarter 2 1961 to Quarter 4 (Oct to Dec) 2024, compared with first estimates.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Revisions of estimates of UK gross domestic product (GDP)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「There is a trade-off between the timeliness and accuracy of estimates of gross domestic product (GDP). As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle can take up to three years and naturally leads to revisions in our estimates of GDP. Our article on」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP can be seen in Table 1」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「This article analyses the revisions to our quarterly GDP estimates that were published in our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Figure 1 shows the revisions to estimates of the quarterly change in real gross domestic product (GDP) as part of implementing our annual national accounts.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「The x-axis refers to that Blue Book publication, reflecting the mean absolute revision (MAR) to quarterly volume estimates of GDP from Quarter 1 1997 onwards. Blue Book 2024 was an exception as there was not a fully open revisions period as part of this update of the UK National Accounts. The MAR only covers the period from Quarter 1 2020 to Quarter 2 2024.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「We can use our first estimate of quarterly GDP to compare with one that is published months later. Our focus is on those estimates published 3 months and 36 months after the first estimate of quarterly GDP, reflecting the three-year production cycle of UK GDP.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Table 1 shows that the MR is a little higher when comparing the first published quarterly estimate with the estimate published three years later. This analysis continues to show that while initial revisions (t plus 3 months) are not」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「推計期間 1970、1973-2003年 1960-1995年」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「推計期間 1970-2002年 1960-1992年」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「推計期間 1970-2002年 1955-92年」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「『昭和45年国富調査』より推計」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「在まで 2つのヴァージョンがあり、データベースの延長推計を行っている」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「情報サービス産業の動向や受注ソフトウエア投資の推計は、」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「（1） 2002年推計見直しから積み残された“宿題”」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「GDP速報は2002年 8月に推計方法の抜本的な見直しを行った」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「ているため、推計方法の見直しは確報との整合性も高めると考えられた」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「現行推計では、供給」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった」（https://nira.or.jp/pdf/0803report.pdf）
 - 一次情報の探し方：
-  - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「わしい統計の構築に向けた幕開けといえるものである」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「本年秋には、 「公的統計の整備」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「われわれは、統計利用者の立場から、現在の統計の諸」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「1. 統計の役割と最近の統計制度見直しの経緯」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「(1) 統計の目的」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「(2) 統計制度見直しの経緯」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計」（https://nira.or.jp/pdf/0803report.pdf）
 - 失敗・落とし穴：
+  - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「で、時系列的に連続させるには注意が必要である」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「これら低回収率がもたらすバイアスならびにその補正については」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「correcting for unit nonresponse bias in surveys," Journal of Econometrics, vol. 136(1), pages」（https://nira.or.jp/pdf/0803report.pdf）
   - 「Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
@@ -5448,26 +5463,22 @@
   - 「Bias in revisions can reveal a systematic early-estimate problem」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「A fictional worked example of revision bias」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「scale changes are mistaken for economic change.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「bias, dispersion, autocorrelation, and news-noise diagnostics. It」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
-  - 「release is deemed efficient if it satisfies specific conditions of unbiasedness and efficiency, tested」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
-  - 「• β0 = 0(no bias)」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
-  - 「• Performs hypothesis tests for bias, efficiency, and correlation using robust methods (e.g.,」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
 - 実例：
-  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「(for example, a given month or quarter) a revision can be defined as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「. The numerical examples below are illustrative, not claims about current economic data.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A fictional worked example of revision bias」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A second worked example: sign reversal」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Eurostat revision-policy, vintage and national-accounts materials were checked for this edition on 5 September 2026. Numerical examples are original and hypothetical.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Choose a familiar Primary Science example. Explain the evidence, the idea and the result without notes. Then change one condition and explain your prediction.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「# Example usage with revision analysis results」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
-  - 「# Example wide-format data」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
-  - 「# Example list of wide-format data frames」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
-  - 「A compact example with GDP vintages」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「The package ships with a GDP example dataset in long vintage format.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「アンケートの結果から日本の統計の問題点が浮き彫りになった」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「図表 1 景気動向指標としての統計調査の評価結果」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「図表 2 構造把握指標としての統計調査の評価結果」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「例えば米国商務省の Bureau of Labor Statisticsでは、労働生」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「ただこうした研究でも、企業行動が市場構造に影響されるケース」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「複数の異業種をかかえる事例が増える可能性がある」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２」（https://nira.or.jp/pdf/0803report.pdf）
 
 ## 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）（source triangulation matrix independence scoring）
 - 文脈：裏取り
@@ -5901,6 +5912,7 @@
 ## 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）（entity resolution evaluation precision recall F1 ground truth pairs）
 - 文脈：同一性
 - 手順・やり方：
+  - 「Paper citation required for methodology」（https://generate-data.com/blog/entity-resolution-test-data）
   - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
@@ -5915,8 +5927,9 @@
   - 「evaluation framework with the following components.」（https://arxiv.org/pdf/2404.05622）
   - 「4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-」（https://arxiv.org/pdf/2404.05622）
   - 「Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,」（https://arxiv.org/pdf/2404.05622）
-  - 「without considering its specific architecture. This allows our framework to apply to any entity resolution」（https://arxiv.org/pdf/2404.05622）
 - 突き合わせ・推定：
+  - 「The ER-Evaluation user guide states around 400 resolved entities is generally sufficient for accurate performance estimates (snippet only; page was fetch-blocked; verify before treating as settled fact).」（https://generate-data.com/blog/entity-resolution-test-data）
+  - 「The ER-Evaluation user guide states that benchmark datasets of around 400 resolved entities are generally sufficient for accurate performance estimates (snippet only; page was fetch-blocked; verify directly). The AWS post notes the set need only be large enough to be representative of the real match distribution (retrieval date 2026-08-01).」（https://generate-data.com/blog/entity-resolution-test-data）
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such」（https://arxiv.org/pdf/2404.05622）
@@ -5930,8 +5943,6 @@
   - 「Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were」（https://arxiv.org/pdf/2404.05622）
   - 「results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey」（https://arxiv.org/pdf/2404.05622）
   - 「querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the」（https://arxiv.org/pdf/2404.05622）
-  - 「files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of」（https://arxiv.org/pdf/2404.05622）
-  - 「variance of estimated linkage propensities.」（https://arxiv.org/pdf/2404.05622）
 - 失敗・落とし穴：
   - 「commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to」（https://arxiv.org/pdf/2404.05622）
   - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
@@ -5949,6 +5960,12 @@
   - 「of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially」（https://arxiv.org/pdf/2404.05622）
   - 「The pitfall of using an arbitrary measure is that diﬀerent」（https://vldb.org/pvldb/vol3/R18.pdf）
 - 実例：
+  - 「amara.whitfield@example.com」（https://generate-data.com/blog/entity-resolution-test-data）
+  - 「amera.whitfield@example.com」（https://generate-data.com/blog/entity-resolution-test-data）
+  - 「amara.whitfeld@example.com」（https://generate-data.com/blog/entity-resolution-test-data）
+  - 「amy.whitfield@example.com」（https://generate-data.com/blog/entity-resolution-test-data）
+  - 「priya.natarajan@example.com」（https://generate-data.com/blog/entity-resolution-test-data）
+  - 「amara.w@denvermail.example.com」（https://generate-data.com/blog/entity-resolution-test-data）
   - 「By use case and by industry.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Data showcases and customer case studies.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「tied to your use case rather than a single universal cutoff, and a real-time API such as」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
@@ -5958,13 +5975,7 @@
   - 「Example use case: Identifying potential fraud cases where missing a fraudulent transaction is worse than flagging a legitimate one for review」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Example use case: Automated merging of patient medical records where incorrect matches could cause serious problems」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Using our previous example: With precision = 89% and recall = 80%:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-  - 「A common production pattern scores each candidate pair and routes it by confidence: pairs above an accept threshold auto-merge, pairs below a reject threshold are auto-dismissed, and the ambiguous middle band goes to a human review queue — which preserves precision on hard cases while keeping throughput high.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-  - 「Can you give a worked precision, recall and F1 example?」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-  - 「numerous yet small. For example, entity resolution is used for the identification of unique inventors listed」（https://arxiv.org/pdf/2404.05622）
-  - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
-  - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
-  - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -10746,6 +10757,8 @@
 ## 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）（calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls）
 - 文脈：推定
 - 手順・やり方：
+  - 「この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「2. 一過性の大型受注が混ざる」（https://note.com/ma_nakanohito/n/nfb2926887341）
   - 「決算期が異なる会社をCompsで比較する方法｜CY化・スタブ期間・予想年度｜大手町プレップ」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「四半期データからLTM・NTMを実際に積み上げるExcel実装の手順は、姉妹記事の」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「EV/EBITDA​倍率と​類似会社比較法｜Comps​作成の​5ステップ」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
@@ -10765,6 +10778,14 @@
   - 「AIで作り、検証まで学ぶ8講座」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「「LTMでは12倍だが来期予想では9倍」という並びは、割高と割安の矛盾ではなく、成長期待の大きさそのものです」（https://finance-rice-field.com/ltm-ebitda-calendarization）
 - 一次情報の探し方：
+  - 「M&Aでは、決算書の数字よりも「いまの実力」に近いため、価格算定の土台として使われます」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「決算書は、年に1回しか締まりません」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「3月決算の会社を10月に検討する場合、手元の決算書は半年以上前の姿です」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「たとえば3月決算の会社で、今期4〜9月の6か月が締まっているなら、「前期通期 ＋ 今期4〜9月 − 前期4〜9月」です」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「1. 決算書が古くなっている」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「どちらも、前期決算だけでは実態がわかりません」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「直近2期の決算書と、今期・前期同期間の月次試算表がそろっているか」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「その場合は前期決算を土台にし、不確実な分を価格から差し引くか、後払いにします」（https://note.com/ma_nakanohito/n/nfb2926887341）
   - 「決算期が異なる会社をCompsで比較する方法｜CY化・スタブ期間・予想年度｜大手町プレップ」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「成長率が高い会社ほど決算期ズレの影響が大きくなることを、整数の仮設例で確認」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「で複数の会社を並べるとき、各社の決算期はほぼ確実にバラバラです」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
@@ -10772,15 +10793,12 @@
   - 「決算を採用しており、国内企業同士でも3月・12月・9月・6月決算が混在します」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「本記事が扱うのは、Comps実務における決算期ズレの」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「「同じ業種・成長率でも決算期が違うだけでEV/EBITDAがどれだけ動くか」を整数の仮設例で確認し、LTM統一・CY化・FY表記のまま注記という3つの対応をどう使い分けるかを整理します」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「なぜ決算期の​ズレが​Comps​比較を​歪めるのか」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「日本企業に3月決算が多いのは、官公庁の会計年度」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「や新卒一括採用など日本の商慣行に合わせた歴史的経緯によるものです」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「決算が主流で、クロスボーダーでComp Setを組む場面（日本の同業種を米国のグローバルピアと比較する等）では、決算期のズレが常態化します」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「国内だけでComp Setを組んでも、3月決算と12月決算・9月決算の会社が混在するケースは珍しくありません」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「決算期がズレたまま「各社の直近本決算」を並べると、次の2つの問題が生じます」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「：成長企業ほど四半期ごとの業績水準が切り上がっていくため、直近本決算がどれだけ「新しいか」によってEBITDA水準が変わり、マルチプルも変わります」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「決算期ズレへの対応は、大きく3つの選択肢に整理できます」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
 - 失敗・落とし穴：
+  - 「LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴｜M&A、中の人」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「LTMと「年換算」の違い：3つの落とし穴」（https://note.com/ma_nakanohito/n/nfb2926887341）
+  - 「月次の締めは何か月遅れか（2か月以上なら要注意）」（https://note.com/ma_nakanohito/n/nfb2926887341）
   - 「で解説）の代替として使う近似値である点には注意が必要です」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「業種に​よる​季節性が​ある​場合の​注意点」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「バリュエーションの​落とし穴20」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
@@ -11522,11 +11540,11 @@
 
 ## 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界（estimate private company revenue physical footprint square footage locations equipment funding valuation limits）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）（record linkage data cleansing impossible values renamed companies former names matching）
 - 文脈：手法
@@ -11644,6 +11662,7 @@
 ## 検索の記録を再現できる形で残す実務（PRISMA-S：データベースと入口のプラットフォームを分ける・絞り込みと件数・灰色文献・検索エンジンの個人化の偏り）（PRISMA-S reporting literature search platform database limits grey literature personalization bias reproducible）
 - 文脈：手法
 - 手順・やり方：
+  - 「Report the approach used to assess certainty of evidence, such as the GRADE framework.」（https://paperguide.ai/blog/prisma-guidelines/）
   - 「システマティック・レビュー（SR）の報告方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「な作業手順の1 つである」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「成手順のような SR プロセスの追加的要素は，適格」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -11658,7 +11677,6 @@
   - 「rapid review: SR の手順を簡略化したアプローチ ; realist review: 複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「雑な政策介入のためにデザインされた新しい SR の方法 ; meta-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「意 図 的 に 検 索 ，閲 覧 し た オ ン ラ イ ン ま た は 印 刷 物 の 情 報 源（例 ：目次， 学会抄録， Web サイ ト） と， その方法を記述する」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
 - 突き合わせ・推定：
   - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -12223,6 +12241,10 @@
 ## 統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手）（relative mean absolute revision first estimate vintage comparison statistics journalism）
 - 文脈：失敗・落とし穴
 - 手順・やり方：
+  - 「take place as new methods of calculating figures are」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「revision results from changes in the methodology used to compile」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「The first step in constructing a real-time database is deciding」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「is that revisions due to methodological changes are likely to」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
   - 「to predict real GDP growth. When the model is estimated using our preferred method, its out-of-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「is not a bad method of estimating ", but it’s not as efficient a method as Strategy 1. The proof of」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「hand side). Strategy 3 performs poorly in comparison with the other methods.」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
@@ -12234,29 +12256,27 @@
   - 「methodological revisions and–if necessary–introduce one or more dummy variables on the right-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「technical conditions are also met. Among them is the requirement that the methodology used to」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「the second step in which they place the real-time (1992)」（https://d-nb.info/1166858995/34）
-  - 「most-recent-vintage data come from the first step in which」（https://d-nb.info/1166858995/34）
-  - 「status quo methods of data selection. Such a conclusion, how-」（https://d-nb.info/1166858995/34）
-  - 「quium participants at the Chair for Quantitative Methods in the」（https://d-nb.info/1166858995/34）
-  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and coordinated way. These changes can take place beyond the three-year production cycle. Our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
 - 突き合わせ・推定：
-  - 「We distinguish between three different ways of using real-time data to estimate forecasting」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「to predict real GDP growth. When the model is estimated using our preferred method, its out-of-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「We further argue that first-available official estimates should be used for the left-hand-side variable」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「when estimating the forecasting equation. First-available estimates ought to be used on the」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「growth and early estimates of (say) employment growth will typically be different from that」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「between GDP growth and estimates of employment growth available several years after the fact. It」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「release is an efficient estimate of subsequent releases, meaning that revisions to the initial release」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「this additional information is extraneous noise. Even if the government’s initial estimates are not」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「time, the CSO can calculate a more accurate estimate of that」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「questions spring to mind. How reliable are the initial estimates」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「In most countries, the first estimate of GDP for a given quarter」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「For example, the United States releases initial estimates of GDP」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「after which initial GDP estimates are released. Since QNA have」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「been released, the preliminary estimate of GDP has been」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「that the initial GDP estimate is usually released sometime around」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「the initial estimate of GDP in Ireland compares favourably with」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「reconcile with the new annual estimates in the NIE publication.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「improve the quarterly estimates.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「for the first quarter of 1997 was initially underestimated by」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「underestimated by \265m or 1·8%.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「be thought of as a crude estimate of the probability of a revision at」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「systematically underestimated in the initial release over the period」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「estimate amounts to 2·2% on average. The Mean Absolute Final」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
 - 一次情報の探し方：
   - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
 - 失敗・落とし穴：
+  - 「statistically significant positive bias to revisions for GDP growth.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「however, is whether this apparent bias is statistically significant」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
   - 「In those studies where the potential pitfalls of relying on current-vintage data have been」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「to Equation 3 yields an unbiased and consistent estimate of ". Less obviously, var(T(t)) # var(w(t)),」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
@@ -12270,9 +12290,11 @@
   - 「Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「y(t) = x(t)" + w(t), although both strategies yield unbiased estimates of ".」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「estimate the forecasting model of interest yield unbiased parameter estimates (West and」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「and, we argue, mistakenly, assume that it is the actual state」（https://d-nb.info/1166858995/34）
 - 実例：
+  - 「For example, the United States releases initial estimates of GDP」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「Following the example set by the Philadelphia Federal Reserve」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「be misleading in certain cases.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「forecast differs from a standard forecast. In this case, the aim is」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
   - 「example, 1999:Q1-vintage data (the most recent available at the time this paper was written) might」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「example, when the left-hand-side variable is 1990:Q1 GDP growth, all right-hand-side variables」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「For example, since 1990, the root-mean-square error of the Blue Chip consensus forecast of GDP」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
@@ -12284,10 +12306,6 @@
   - 「and the sample mean of the x(t)t coincide, for example, Equation 6' reduces to」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「exceptional case in which revisions to the government’s estimates of y(t) and movements in >(t)T "」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「As an extreme example, consider the special case in which " = 0, so that x(T)T is of」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「IV. An Example: Forecasting Current-Quarter GDP Growth」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「sample-vintage, real-time-vintage, and (as a special case of real-time-vintage) first-release data sets.」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「2 as applied to Equation 12. In addition, the table presents results for the special case of Strategy-1」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
 
 ## 調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方）（language bias search limits grey literature government websites search reporting PRISMA-S）
 - 文脈：失敗・落とし穴
@@ -12745,11 +12763,11 @@
 
 ## 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）（corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ14頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
-- 実例：記載なし（読んだ14頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）（selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation）
 - 文脈：突き合わせ

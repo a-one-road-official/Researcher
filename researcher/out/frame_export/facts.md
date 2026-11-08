@@ -3927,53 +3927,53 @@
   - 「🟧2025年3月期の受注残高が年間売上高の約1.7倍」（https://note.com/stock1/n/n41d3d433de07）
   - 「1. 受注残高の全体数値と推移」（https://note.com/stock1/n/n41d3d433de07）
 - 顧客（金を払う側）：
-  - 「しかしながら、私なんかも地元の神戸の企業、中小企業、特に小規模事業者なんかのお話を聞かせていただいておりますと、そう今、本当にいい状況だと思っていないという声がたくさん聞こえますね」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「ですので、いわゆる輸出産業なんかで牽引してくれている企業がだあんと大きい利益を出してくれています」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「しかし、数は、企業数とすればそんなに多くはない」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「一方、企業数として大半を占めておられる中小それから小規模事業者、その数は本当に大規模よりも、比べて非常に多くあります」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「日本の企業は、三百五十万者のうち九九・八％ぐらいは中小企業だと言われております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「だから、そういう中において、数字で足し算をすると、いっぱい高収益を出す企業が少数の数で莫大に利益を出して、数とすればすごく、その何十倍も何百倍もの中小企業は、実際には余り楽はできていない」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「ただ、足し算をすると、トータルのマクロの数字はいいんですが、ミクロを見ていくと苦しい企業というのが多いような感じが地元を歩いていて感じます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「こういうふうな中において、やはり中小企業、今、経済産業省も中小企業対策をしっかりとやっていこうと方針を立ててくださっておりますが、そういうふうに今困っていらっしゃる企業に対する対策をいかに取っていかれるのか、まずそこを聞かせていただきたいと思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「そして、それをまた、私も地元に行って、今苦しいなと言われておられます中小企業また小規模事業者の経営者にお話をしていきたいと思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「委員御指摘のとおり、経済の状況は、全体としては改善しつつある指標が多々ございますけれども、多くの中小企業におきましては、人手不足や物価高等の課題に直面しているものと認識しております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「まず、電気・ガス料金や燃料価格の激変緩和措置や資金繰り支援、またコスト増に直面する中小企業の価格転嫁対策促進などによりまして、中小企業の経営を下支えすることが重要と認識しております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「また、地域の中小企業にとりまして特に重要でございますのは、持続的な賃上げの実現であります」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「小規模事業者の販路拡大や新規輸出支援を通じて売上げの拡大を図りますとともに、価格交渉促進月間や業界全体での取引方針の改善を通じた価格転嫁対策を進めさせていただくとともに、ＩＴ導入や設備投資など生産性向上をしっかり進めてまいる所存であります」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「これらの施策を動員いたしまして中小企業の大転換を支援してまいりますけれども、重要となりますのは、果敢に挑戦する経営者の姿勢でございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「よろず支援拠点、地域の商工会、商工会議所とも連携いたしまして、意欲的な中小企業の挑戦を後押ししてまいる所存でございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
+  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「ENEOSが豪州で水素実証工場 27年1月稼働、液化供給網で前進」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「また、再生可能エネルギーの導入拡大に伴う電力の余剰問題を解決するため、P2G（Power-to-Gas）用途での水素需要が顕在化している」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「本調査レポートでは、水電解技術に係る研究成果や研究開発のトレンド、装置・部材メーカーの事業戦略を徹底調査するとともに、2035年までの水電解装置・部材市場の成長性を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「水電解装置の世界累積導入容量は2035年に300GWを超える見通し」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「水電解装置の方式別導入量推移、エリア別・用途別シェア」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「水電解装置・部材メーカーの動向（生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等）」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ｑ：水電解装置について、本資料ではどの期間の導入量の予測が掲載されていますか？」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ａ：方式別では2025年実績、2026～2030年予測、2035年予測の導入量（容量ベース）を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ａ：北米、欧州、中国、中東、インド、その他の区分で水電槽装置の導入量シェアを確認いただけます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ｑ：競合メーカーの情報はどの程度詳しく掲載されていますか？」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「「第1章 水電解技術・部材市場の将来展望」では、水電解技術の本格的な社会実装に向けて必要となる参入メーカー等の取り組みを把握することができます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「「第3章 水電解技術・部材市場の動向」では、水電解技術および部材に係る研究開発・市場動向を理解でき、かつ欧米の主要水電解装置メーカーの事業概要や採用プロジェクト等の情報が得られます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
 - 顧客の顧客（発注元が求めること）：
-  - 「関議員御指摘のように、半導体、まさに今後のデジタル化あるいは脱炭素化、あるいは様々な産業で使われているという視点で、経済安全保障の観点からも、しっかりと我が国は半導体の供給を確保していくこと、極めて重要だというふうに思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「次に、少し毛色の変わった話になるんですけれども、今現在、脱炭素化ということが叫ばれております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「再エネとか原子力などの実用段階にある脱炭素技術を活用して着実に脱炭素化を進めなければならない、また、水素やアンモニアを使った発電を行って、ＣＣＵＳですとかカーボンリサイクル、こうしたことを前提とした火力発電などのイノベーションを追求するといったことなどによって様々な取組を同時に進めなければならないというふうに考えています」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「このような状況を踏まえまして、まさにエネルギー安定供給と脱炭素に向けた取組を両立していくことが重要だと考えております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「本年七月に閣議決定したＧＸ推進戦略におきましても、第六次エネルギー基本計画の方針も踏まえて、ＳプラススリーＥの原則の下であらゆる選択肢を確保することを前提に、徹底した省エネの推進に加えて、再エネや原子力などの脱炭素電源への転換を推進する方針を明確にしております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「火力につきましては、まさに非効率な石炭火力のフェードアウトを着実に進めつつ、水素、アンモニア混焼などの活用によりまして、既存火力発電の脱炭素化を進めてまいります」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「引き続き、脱炭素とエネルギー安全保障の両立に向けまして、全力で取り組んでまいりたいと考えております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「かつては、労務費は、賃上げしたければ合理化努力で費用を捻出すべきだという取引慣行が根づいておりまして、値上げ要求がしづらかった側面がある」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「そして、水電解装置の導入目標十五ギガワットについてでありますけれども、これはまさに、導入量、世界的な脱炭素の潮流の中で増加が続く見通しであって、この目標の中で、脱炭素化、産業競争力強化の両面から事業者の取組を後押しすることとしております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「中小企業が持っている知的財産が私は大切だと思っていまして、今回の下請価格、なかなか転嫁できないということと同じように、これは、発注元の会社に対して、中小・小規模企業が特許を取得したとき、大きな会社から是非その特許を使わせてほしいといったときに、なかなか断り切れなかったり、あるいは特許の知的財産の移転が行われたりして、中小・小規模企業、特に技術開発志向のある中小企業の皆さんの利益が移転してしまうのではないかなというおそれがあるものですから、その点について、まず冒頭、質問させてください」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「中小企業長官に質問したいのは、今回、防衛整備に関して様々な施策を、これは防衛産業の強化法案を通して、それについて防衛省としても防衛産業のサプライチェーンをしっかりこれから把握して守っていくというお話をしておりまして、中小企業長官にはその点についての御答弁を是非お願いしたいと思っています」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「防衛産業についての中小・小規模企業、そのサプライチェーンについて、まず一問は、防衛省に」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「装備品等の製造等に係るサプライチェーン、これは、プライム企業のほかにかなり多数のサプライヤーから構成をされております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「このサプライヤーの中には、事業撤退であるとかあるいは原材料の入手等といった、安定的な製造を脅かす様々なリスクが存在するのではないか、このように認識しているところでございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「このため、防衛省といたしましては、委員から御指摘のありました防衛生産基盤強化法に基づきまして、防衛装備品のサプライチェーン調査を行った上でサプライチェーン上のサプライヤーを含めた企業のリスクを把握したい、このように考えているところでございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
+  - 「水素需要は従来、石油精製や化学分野に依存してきたが、脱炭素化の進展により鉄鋼、モビリティ、発電分野などへの拡張が期待されている」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「・脱炭素化を目的にグリーン水素の利活用を検討している事業者、自治体関係者」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「水電解技術は脱炭素化を目指した野心的なシナリオから」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「システム導入～運用を支えるワンストップソリューションのサプライヤーとして」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「福島県田村市のグリーン水素プロジェクトで半導体産業の脱炭素化に貢献」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「排熱のあるプラントとSOECを組み合わせた大規模脱炭素化実証をスタートさせる」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「──水素は、脱炭素社会実現の切り札として期待されています」（https://www.chiyodacorp.com/jp/purposestory/co-creation/water_electrolysis_system/）
+  - 「脱炭素社会の実現に向けてさまざまな技術開発が進む中、どれが本命になるかは、まだまだ不確実な状況です」（https://www.chiyodacorp.com/jp/purposestory/co-creation/water_electrolysis_system/）
+  - 「この役割を全うすることが脱炭素社会の実現に近づくことにもなるという思いで、引き続き頑張っていきます」（https://www.chiyodacorp.com/jp/purposestory/co-creation/water_electrolysis_system/）
+  - 「脱炭素化目標と気候変動への取り組みは、国内のクリーンエネルギー移行を推進しており、PEM水電解装置の用途をさらに拡大しています」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「政府の支援政策と脱炭素化目標は、PEM水電解装置の売上を牽引しています」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「脱炭素化と低炭素エネルギーシステムへの移行への注目の高まりにより、水の電気分解によって生成されるグリーン水素の需要が高まっています」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「電力部門の脱炭素化に向けた移行により、水の電気分解に新たな道が生まれています」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「水の電気分解と再生可能エネルギー源の融合により、二酸化炭素排出量が最小限であることを特徴とする「グリーン水素」の生成が可能になり、運輸、産業、発電などのさまざまな分野の脱炭素化に役立ちます」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
 - 顧客の競合（奪いに来る側）：
-  - 「イスラエルとガザ、すごい戦闘で、毎日毎日テレビニュースで流れておりますし、また、中国の不動産会社、ナンバーワン、ナンバーツー、ナンバースリーが経営危機に陥っていると」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「半導体は、千工程ぐらい、一つの半導体を作るのに工程がありますが、その中で七割から八割、十割ぐらい持っている工程の部分、日本が持っているというふうなところもあったりしますが、これは、逆に言えば、戦闘をやっているときには武器に、どんな武器も電子部品が使われるから、半導体がないと造れないわけですから、安全保障、半導体はもう出しませんよ、日本から出しませんよ、高い割合、シェアを持っている日本の企業が半導体を止めてしまいますよなんというふうな形もできるわけですね」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「エネルギーは全ての社会経済活動を支える土台でございまして、安定的で安価なエネルギー供給を確保することは政府の最重要課題でございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「日本が人口減少社会に突入しておりますけれども、中国や韓国、ヨーロッパの一部の国でも人口減少社会に突入しつつあるというような状況でございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「これは、アメリカは豊富で安価な再エネもありますし、それから自国で生産される天然ガスもありますので、水素製造が可能である、そうしたものから」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「米国だと、このアクティビスト、物言う株主に対しての規制が強化されたので、日本は規制がまだ進んでいないから、これはと皆さん大挙して来て、一定のマニュアルにのっとって企業買収が行われているかなと私は認識をしています」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「この企業買収に対する耐性が日本の経営者の皆さんはなかなかできていなくて、この人たちは米国で様々な経験を積んだ人ですから、日本の会社というのは、悪い言い方だけれども、赤子の手をひねるように駆逐をされてしまう感じがするんです」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「九月に台湾に行って様々な方と会ったときに、蔡英文政権は去年、四か月の徴兵制を来年から一年に延ばします」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「これは、米国に比べて株主提案に対するハードルが低いと言われていることが理由とも指摘されておりまして、日米の株主提案に関する規制にはどのような違いがあるのか、手短に答弁をお願いします」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「臨時株主総会の請求につきましては、日本では、議決権の三％以上を六か月以上継続して有する者が行うことができる一方、今御指摘がございました米国内、ここでは先進的な会社法制であり、また多くの米国企業が準拠して設立されているデラウェア州、ここの法律に基づきますと、定款に記載された者のみが行うことができるということで承知をしております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「ですから、そういう規制が起きる前に、様々な訓練を積んだ人たちが今日本の上場企業に対して押しかけてきているという認識でして、米国の制度を踏まえた上で、臨時株主総会請求のハードルを上げるなど、株主提案の規制を図る必要があるのではないか」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「例えば、ロシア、ウクライナの出展というのはどうするのか、あるいは、パレスチナ、イスラエルはどうするのか、北朝鮮は、中国は、極めてその中身が今重要になっている、問われていると思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「そういった中で、釈迦に説法でありますけれども、産業革命以降、例えばイギリスが、世界の工場がイギリスにあって、それがイギリスからアメリカに移転して、アメリカから日本、それで日本から中国、そしてインドネシアと今移転をどんどんしていっている中で、じゃ、イギリスは世界の工場がなくなって何で飯を食っているか」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「これで実は、電動キックボードのシェアリングビジネス、これも、最初はそこでやりながら、今はもう一般のビジネス化しているわけでありますし、新薬の治験のデータの信頼性をブロックチェーン技術によって確認するビジネス、こうした分野も展開をしてきました」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「今は大体素数を使って、要するに何万桁とかいう素数を使ってやっているというふうに聞いていますが、しかし、これは量子コンピューターが現れた世界になりますと、例えば中国が二〇二一年か何かに発表した話だと、量子コンピューターで、例えば日本の「富岳」が一兆年かかる計算を、〇・〇〇〇〇一三秒で解いたということなんですね」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
+  - 「中国新興の枡水科技、グリーン水素のコスト8分の1に - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「この成長市場で急速に存在感を高めているのが、水素関連材料を手がける中国スタートアップの枡水科技（Shengshui Technology）だ」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「DeepSeekなど中国AIの収益、米AI2社の10分の1 計算資源節約で克服」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「人工光合成の今 安価なクリーン水素へ、商用化目標2035年」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「水電解装置の方式別導入量推移、エリア別・用途別シェア」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「また、エリア別と用途別では2025年実績、および2030年予測のシェア（容量ベース）を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ａ：北米、欧州、中国、中東、インド、その他の区分で水電槽装置の導入量シェアを確認いただけます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「また、日本、EU、ドイツ、米国、中国、韓国の水素関連政策を整理しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ｑ：競合メーカーの情報はどの程度詳しく掲載されていますか？」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「「第2章 主要国の水素関連政策」では、日本、EU、ドイツ、米国、中国、韓国の水素政策の流れ、具体的な数位目標等の必要な情報が得られます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「「第4章 水電解装置・部材メーカーの動向」では、水電解装置および部材メーカーの事業概要、製品ポートフォリオや研究開発動向等の詳細を確認でき、競合比較や自社の戦略立案に役立ちます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「2-4.米国の水素関連政策」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「（図）米国で水素ハブに選定された7つの地域」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
 - 自社の競合（商社・代理店・仲介）：
   - 「資料でもお示しいただいておりますように、私ども、このインボイスの問題については、免税事業者に対して、課税事業者にならないと取引価格を引き下げるなどと一方的に通告をした場合には、独占禁止法上、優越的地位の濫用に該当するおそれがある、そういう問題がありますよということは、インボイスのＱアンドＡを公表してお示しをしているわけですけれども、今御指摘がありました優越的地位の濫用に該当するかどうかという点に関しては、信託取引であるとか仲介取引であるとか、そういうことをもって独占禁止法上の取引から外れるということはないというふうに私ども考えております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
   - 「商社も含めて、税金もばんばん、法人税を納めてもらえる」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
@@ -3991,38 +3991,43 @@
   - 「独立後は、メーカー・商社・EPC・地域新電力など、エネルギー関連企業のコンサルティングや人材育成を手がけ、現在は18社の顧問を務める」（https://gridnavi.jp/id_431/）
   - 「Grid connection constraints and permitting delays for large-scale electrolyzer installations remain structural bottlenecks, with project lead times of 3–5 years from planning to commissioning in many regions of Japan.」（https://www.indexbox.io/store/japan-electrolyzer-modules-market-analysis-forecast-size-trends-and-insights/）
 - 政治（法・予算・規制）：
-  - 「（原子力規制庁長官官房核物質・放射線総括審議官） 佐藤 暁君」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「ただ、この賃上げを考えてみますと、経営の中身の分析からしますと、先ほど御答弁をいただきましたけれども、電気、ガス、ガソリン、この政府の支援も春ぐらいまで延長しようということも方向性で言っていただいておりますが、そういうふうに考えますと、企業の経営からしますと、会計上も、言えばコストが増加しているわけですね」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「それでもこの物価高に対応するために、経済の好循環を新しくつくっていこうとすることにおいて、何とか賃上げをやってください、これは政府の方からも経済界にすごく話しかけていただいているところでございますが、それをでは実現しようとすると、経営者とすれば何をしないといけないのか」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「こういうふうな中において、今よく言われておるのが経済安全保障という概念なんですね」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「経済安全保障でキーを握るということでも非常に半導体は重要だと思うんですが、この半導体産業を戦略的にもっともっと増やしていくということも大事だと思うんですが、そこに対しての大臣のお考えを聞かせていただきたいと思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「関議員御指摘のように、半導体、まさに今後のデジタル化あるいは脱炭素化、あるいは様々な産業で使われているという視点で、経済安全保障の観点からも、しっかりと我が国は半導体の供給を確保していくこと、極めて重要だというふうに思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「熊本のＴＳＭＣ、一回目の工場、一つ目の工場で四千六百億ぐらい政府は補助してくれたと思うんですが、それが誘発となって、いろいろな企業が投資をして、四兆円まで民間投資が広まった」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「すごい、こんなにいい、いわゆる本来としての政府の補助の形が実現できたと思いますので、そういうふうな観点と経済安全保障の観点と両方で、是非、半導体業界を育てていきたいと思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「生成ＡＩを始めとして、情報処理能力に対する需要は非常に高まっておりますし、国際的にも官民を挙げて取り組んでおりますので、日本政府としても、我が国のインフラとなる計算資源の国内整備に向けて、これまでも取り組んでいますが、今回の経済対策の中でも、民間や産総研のＡＩ橋渡しコンピューターの整備拡充など、支援策を講じているところでございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「また、ＩＴ導入補助金等によります中小企業、小規模事業者の生産性向上に向けた支援、こちらに取り組んできておりますけれども、今般の経済対策によりまして省力化投資につきまして支援措置の抜本的な強化、これも図ってまいります」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「本年七月に閣議決定したＧＸ推進戦略におきましても、第六次エネルギー基本計画の方針も踏まえて、ＳプラススリーＥの原則の下であらゆる選択肢を確保することを前提に、徹底した省エネの推進に加えて、再エネや原子力などの脱炭素電源への転換を推進する方針を明確にしております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「エネルギーは全ての社会経済活動を支える土台でございまして、安定的で安価なエネルギー供給を確保することは政府の最重要課題でございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「このコストをしっかりと下げていくという観点から、これまでも、グリーンイノベーション基金を活用しながら、低コスト化、大規模化に向けた技術開発、実証を進めてきております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「また、御指摘いただきましたけれども、やはり強靱で大規模なサプライチェーンをしっかりとつくり上げていくことが肝要でございまして、このためには、規制、支援一体でしっかり民の方々の取組を後押しする必要があると考えてございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「経済対策ということで与党でもずっと議論をしてまいりまして、これから補正予算ということでありますけれども、やはり賃上げが非常に大事だということはその中でも非常に大きな要素でありますし、これは恐らく、与野党の皆さん共通して、やはり賃上げを今しっかりしていくことがとにかく大事なんだということは共通の問題認識であるというふうに思っております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
+  - 「（図）水素に係る国家戦略・方針・法律の策定状況」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「2026年2月にNEDOのGI基金事業に採択」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「わが国政府は、「水素基本戦略」で、2030年の世界の水電解システム市場において、「日本企業によるシェア1割獲得（15GW）」を目標に掲げています」（https://www.chiyodacorp.com/jp/purposestory/co-creation/water_electrolysis_system/）
+  - 「日本政府の水素基本戦略では、水素供給コスト（CIFコスト）について2030年に30円/Nm3、2050年に20円/Nm3が目標に掲げられていますが、安価な水素製造価格を実現できなければ、ビジネスが成り立たず、水素利活用・普及拡大が困難となります」（https://www.chiyodacorp.com/jp/purposestory/co-creation/water_electrolysis_system/）
+  - 「エネルギー資源のないこの日本で、”つくれるエネルギー、水素”の日本製水素製造設備の普及がいかに将来の日本を元気にするか、また日本政府の千代田化工建設様と我々に寄せる期待をヒシヒシと感じています」（https://www.chiyodacorp.com/jp/purposestory/co-creation/water_electrolysis_system/）
+  - 「国際的な取り組みや政府の支援政策により、グリーン水素の人気が高まっており、今後数年間でPEM水電解装置の販売が促進されると見込まれています」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「システムに対する政府の有利な政策は、PEM水電解装置の売上にプラスの影響を与えています」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「政府の支援政策と脱炭素化目標は、PEM水電解装置の売上を牽引しています」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「世界中の政府や産業界が野心的な炭素削減目標を設定し、気候変動に取り組んでいることから、グリーン水素の需要は拡大し、世界の水電解市場の拡大を促進すると予想されます」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「再生可能エネルギーと水素技術の促進を目的とした政府の支援政策や奨励金も、世界の水電解市場の成長に貢献しています」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「世界中の政府は、電解システムやグリーン水素インフラの開発と展開を促進するために、補助金、税制優遇措置、規制枠組みなどのさまざまな措置を実施しています」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「これらの政策は、電気分解プロジェクトへの投資を促進し、水の電気分解技術の導入を促進するために政府、業界、研究機関間の協力を奨励しています」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「特に風力発電と太陽光発電は、コストの低下、技術の進歩、政府の支援政策によって急激な成長を遂げています」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「電力会社が二酸化炭素排出量の削減と厳しい環境規制の順守を目指す中、電気分解によって生成される水素は、従来の化石燃料ベースの発電に代わるクリーンで持続可能な代替手段として浮上しています」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
 - 経済（規模・価格・為替）：
-  - 「 米国における日本からの輸入（2023年）は約1,472億ドル（約20.9兆円）」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「 日本における米国からの輸入（2023年）は約11.5兆円」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「 住友化学は、2022年9月にテキサス州に約300億円を投資して半導体用のプロセスケミカル工場を新設、2024年から稼働」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約20.9兆円）」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約11.5兆円）」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約2.3兆円）」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約1.8兆円）」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約1.6兆円）」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約1.6兆円） HSコード 品目名（概要） 輸入額（千円） 同分野に占める割合」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約1兆円） HSコード 品目名（概要） 輸入額（千円） 同分野に占める割合」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約7,700億円） HSコード 品目名（概要） 輸入額（千円） 同分野に占める割合」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約5,800億円） HSコード 品目名（概要） 輸入額（千円） 同分野に占める割合」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「（約2,300億円）」（https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf）
-  - 「【三菱化工機（6331）銘柄分析】 受注残高1,000億円超！水素社会の実装を担う隠れた国策銘柄の全貌 ｜トメ五郎」（https://note.com/stock1/n/n41d3d433de07）
-  - 「【三菱化工機（6331）銘柄分析】 受注残高1,000億円超！水素社会の実装を担う隠れた国策銘柄の全貌」（https://note.com/stock1/n/n41d3d433de07）
+  - 「：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ａ：2025年の実績、2026～2030年、2035年の市場規模（面積ベース、あるいは重量ベース）予測を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「日本政府の水素基本戦略では、水素供給コスト（CIFコスト）について2030年に30円/Nm3、2050年に20円/Nm3が目標に掲げられていますが、安価な水素製造価格を実現できなければ、ビジネスが成り立たず、水素利活用・普及拡大が困難となります」（https://www.chiyodacorp.com/jp/purposestory/co-creation/water_electrolysis_system/）
+  - 「世界のPEM水電解装置市場規模は2024年に336億米ドルで、2037年末には6,629億米ドルに達すると予測されており、2025―2037年の予測期間中に25.8%のCAGRで拡大します」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「北米のPEM水電解装置市場は、2037年までに世界全体の売上高シェアの30.9%を占めると予測されています」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「アジア太平洋地域のPEM水電解装置市場は、2025―2037年の間に最も高いCAGRで成長すると予測されています」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「CAGR (2024-2029)」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「CAGR 4.31%」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「5.1.市場規模と予測」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「6.1.市場規模と予測」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「6.3.1.1.市場規模と予測」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「6.3.2.1.市場規模と予測」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「6.3.3.1. 市場規模と予測」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「6.3.4.1.市場規模と予測」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
+  - 「6.3.5.1.市場規模と予測」（https://www.techsciresearch.com/report/ja/water-electrolysis-market/30.html）
 - 社会（人・担い手）：
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGKKZO83847700S4A001C2FFJ000/）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUC05AG00V01C21A0000000/）
+  - 「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJzJdAM8Wsvntbds3o1j-qTAgQt_ZtNEElc6oX4JlxPNy8xyvok）
   - 「委員御指摘のとおり、経済の状況は、全体としては改善しつつある指標が多々ございますけれども、多くの中小企業におきましては、人手不足や物価高等の課題に直面しているものと認識しております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
   - 「また、人手不足に関しましては、今般の経済対策によりまして省力化対策を抜本的に強化する所存でございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
   - 「先般の大臣所信におかれましては、西村大臣から、今後も継続する構造的な人手不足、人口減少といった状況を乗り越え、持続的賃上げを実現する新しい時代の経済構造への転換、改革を図る必要がありますという状況認識といいますか御決意といいますかを述べられました」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
@@ -4033,28 +4038,25 @@
   - 「このため、中小企業、小規模事業者が人手不足に対応していくための支援といたしまして、委員から今御指摘もございましたけれども、副業、兼業の活用や、就職氷河期世代、女性、高齢者、高度外国人材等の多様な人材の確保や職場環境改善による人材の定着を図るセミナー、またマッチング等の支援を実施しております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
   - 「また、とはいえ、日々の経営課題に忙殺されて、経営者は人材戦略に取り組む余裕がなかなかないというお声も聞いてございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
   - 「このため、様々な経営課題の背景にございます人材課題への取組を促すために、本年六月に人材活用ガイドラインを策定いたしまして、その普及啓発に取り組んでいるところでございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「これらの施策を通じまして、中小企業、小規模事業者の人材確保、活用をしっかりと支援してまいる所存であります」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「まさに様々な施策を総動員してこの人手不足に対応していただくということでありますので、是非とも、ここは正念場だと思いますので、頑張っていただきたい」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「そのための具体的な方策といたしましては、国内投資、すなわち、省エネ、再エネ、原子力といったエネルギー危機に強い構造になるための投資ですとか、省人化、省力化といった人手不足に対応するための投資、そして、グリーン、デジタル、バイオなど戦略分野で世界をリードするための成長投資、同時に、大企業の構造改革、ＭアンドＡ、スタートアップや中堅企業の成長を通じた新陳代謝も重要でございますし、そのため必要な労働移動というためのリスキリングも重要になってくるというふうに思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「今年は、春闘で、こうした物価高も踏まえて、人手不足も当然ありますので、中小企業も含めて三％以上の賃上げということでございますけれども、現場でいろいろな会社、企業の方にもお話を伺いましても、やはりかなり無理して賃上げをしているというふうなお話も伺います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「そのために、公明党さんからも提言をいただきましたトータルプラン、それも踏まえまして、御指摘ありましたように、一つは価格転嫁、これを強力に進めるということ、そしてもう一つが、やはり、売上げを上げていくため、あるいは人手不足を解消していくための投資、省力化投資、省人化投資、これによって生産性も上げていく、この大きく二つの取組を是非進めていかなきゃいけないと思っております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
 - 技術（新しい技術・実証）：
-  - 「加えて、将来必要とされる、まさに将来の成長力を左右するような、二ナノと言われるような最先端の次世代半導体についても、しっかりと日本で、国内で供給を確保できるようにということで、二〇年代後半の量産を目指して、北海道でラピダスのプロジェクトを今推進をしているところであります」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「そうした中、今後の我が国において同時にエネルギーの安定供給も実現しなきゃならないということでございますので、今後、どういったエネルギーミックスがベストなのかですとか、また、どういった新技術に重点的に力を注いでいくのかとかいったことが極めて国の方針として重要になってくると思いますので、この点について経済産業省としての考え方をお聞かせいただきたいと思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「また、原子力につきましても、安全性が確認された原子力発電所の再稼働を進めるとともに、次世代革新炉の開発、建設などの取組を進めてまいりたいと考えております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「このコストをしっかりと下げていくという観点から、これまでも、グリーンイノベーション基金を活用しながら、低コスト化、大規模化に向けた技術開発、実証を進めてきております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「あわせて、生産性を向上していくために、省人化投資、省力化投資、これも支援をしてまいりますし、新たなサービス、新たな商品開発、新規事業にも取り組む、こうした前向きな挑戦を後押しするような対策、これも経済対策の中でしっかり盛り込んでおりますので、必要な予算を確保したいと思っております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「具体的には、企業が労働者に対しまして訓練を実施した場合に訓練経費等を助成する人材開発支援助成金におきまして、中小企業における人材育成を高率助成をすることにより手厚く支援しているほか、独立行政法人高齢・障害・求職者雇用支援機構が全国に設置しております生産性向上人材育成支援センターにおきまして、中小企業等を対象としたデジタル対応に係る人材育成等の相談であるとか、ＤＸ関連の生産性向上の支援訓練を実施しているところでございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「それは特許数の観点から見てもはっきりとしていることだと思いますが、策定から六年がたち、ここに来て海外の猛追を受け、かなり厳しい状況になってまいりました」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「この差を埋めるべく、国際的な水準に引き下げるべく、グリーンイノベーション基金を活用して、水素電解装置の大型化、製造効率を高めることで、できる限りこの水準にまで引き下げるための技術開発に取り組んでいきたいというふうに考えております」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「さらに、水素運搬船の大型化に向けた技術開発、実証であるとか、既存燃料との価格差に着目した支援、これは、事業の予見可能性を高める、こういったことも含めて、いずれにしても、国際的な動向をしっかり見極めながら、水素のコスト低減、これは相当加速して取り組んでいかなきゃいけないと思いますので、全力で取り組んでいきたいというふうに思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「今回、海外での取組も含むというところがありましたので、念のため確認ですが、ＯＤＡ、政府開発援助の取組とこの水素基本戦略は同一ではない、そのことを、西村大臣、確認をさせてください」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「水素社会の実現に向けて、日本企業が先進的なテクノロジーで世界で活躍していくというのはすごく大事だと思いますが、一方で、委員御指摘のＯＤＡは、開発途上国の主体性尊重という観点から、要請主義に基づいて今まで運営されていると思います」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「現状においては、水電解装置、技術開発のしのぎを削り合っているという状況でございまして、私が認識している限り、現時点では途上国からＯＤＡについての要請は受けていないかなと思っておりまして、これまでのところ、現時点ではＯＤＡの援助は行っておりません」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「水素ステーションにつきまして、これまで技術開発であるとか規制改革とかをやってきた中で、整備費、運営費共に低減しているという実態はございます」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「今日は、まず中小企業の特許」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
-  - 「中小企業が持っている知的財産が私は大切だと思っていまして、今回の下請価格、なかなか転嫁できないということと同じように、これは、発注元の会社に対して、中小・小規模企業が特許を取得したとき、大きな会社から是非その特許を使わせてほしいといったときに、なかなか断り切れなかったり、あるいは特許の知的財産の移転が行われたりして、中小・小規模企業、特に技術開発志向のある中小企業の皆さんの利益が移転してしまうのではないかなというおそれがあるものですから、その点について、まず冒頭、質問させてください」（https://www.shugiin.go.jp/Internet/itdb_kaigiroku.nsf/html/kaigiroku/009821220231108002.htm）
+  - 「この成長市場で急速に存在感を高めているのが、水素関連材料を手がける中国スタートアップの枡水科技（Shengshui Technology）だ」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「TSMC、次世代半導体メモリー生産を検討 米報道」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「DeepSeekなど中国AIの収益、米AI2社の10分の1 計算資源節約で克服」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「ENEOSが豪州で水素実証工場 27年1月稼働、液化供給網で前進」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「このうち、アルカリとPEMは商用化フェーズ、SOECとAEMは実証から商用化に移行しつつある」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「本調査レポートでは、水電解技術に係る研究成果や研究開発のトレンド、装置・部材メーカーの事業戦略を徹底調査するとともに、2035年までの水電解装置・部材市場の成長性を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「水電解装置・部材メーカーの動向（生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等）」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「「第3章 水電解技術・部材市場の動向」では、水電解技術および部材に係る研究開発・市場動向を理解でき、かつ欧米の主要水電解装置メーカーの事業概要や採用プロジェクト等の情報が得られます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「「第4章 水電解装置・部材メーカーの動向」では、水電解装置および部材メーカーの事業概要、製品ポートフォリオや研究開発動向等の詳細を確認でき、競合比較や自社の戦略立案に役立ちます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「（表）水素エネルギー総合利用に関する実証事業の枠組み」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
+  - 「16MW級水電解装置を導入した大規模P2Gシステムの実証が順調に進む」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJqt13REE7Cydudk8Fv21h-lj47OXx-bmbdNTzouqsn2FyDdueq）
 - 検索結果の抜粋：
+  - 「中国新興の枡水科技、グリーン水素のコスト8分の1に — 中国新興の枡水科技、グリーン水素のコスト8分の1に 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC085BM0Y6A400C2000000/）
+  - 「グリーン水素製造 装置 、7割が 中国 に集中 - 日本経済新聞 — グリーン水素製造 装置 、7割が 中国 に集中 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGKKZO83847700S4A001C2FFJ000/）
   - 「グリーン水素は「作る」だけでは売れない｜国内外8事例と ... — グリーン水素は「作る」だけでは売れない｜国内外8事例と ... iri-group.jp https://iri-group.jp > ... > エネルギー・資源・フード」（https://iri-group.jp/knowledge/theme/energy-food/green-hydrogen/）
   - 「水電解装置 市場は 2026 年から2033年にかけて年平均成長率（C — 水電解装置 市場は 2026 年から2033年にかけて年平均成長率（C pando.life https://pando.life > 記事」（https://pando.life/article/4737577）
   - 「2026 年版 世界のPEM型 水電解 槽開発の現状と参入メーカー動向 — 2026 年版 世界のPEM型 水電解 槽開発の現状と参入メーカー動向 digital-research.co.jp https://digital-research.co.jp > ... > 水素エネルギー」（https://digital-research.co.jp/4044/）
@@ -4068,8 +4070,6 @@
   - 「月面用水電解装置の開発結果と将来展望※ — そこで我々は、保有する地上用の水電解技術を活用し、月面での技術実証を目的とした水電解装置を開発した。装置は、株式会社ispace(以下、ispace)による民間月面探査プログラム「HAKUTO-R」Mission 2に貨物(以下、ペイロード)として搭載され2,3)、2025年1月15日に打上げられた。しかしながら同年6月6 ...」（https://www.tte-net.com/lab/report/pdf/2025_12.pdf）
   - 「水電解装置における日本企業の競争力強化に向けて — 水電解装置は、産業競争力の観点でも、日本にとって非常に重要な製品であり、2023年6月に改訂された水素基本戦略においても2030年時点で日本関連企業の導入目標を15GW(世界シェア10%程度)に設定するなど、グローバルシェアの獲得がうたわれた。」（https://www.dbj.jp/upload/investigate/docs/2078b65a4d234d069f2325b3ea91c2b1.pdf）
   - 「水電解技術について – テクノ2050中島技術士事務所 — Nov 28, 2024 · 工事中です 2025年11月7日に、情報機構セミナー（オンライン）「グリーン水素製造向け水電解装置とその開発・活用状況および今後の展望」で講演を予定しています。」（https://techno2050.com/水電解技術について/）
-  - 「NEDO燃料電池・水素技術開発ロードマップに関する検討 (水電解技術開... — 水電解装置については、「アルカリ水電解(AWE)」と「プロトン交換膜水電解(PEMWE)」の2形式が商用化の技術水準にあるが、水電解による水素製造コストは依然として高く、更なる低コスト化のためには、その大半を占める電力コストの低減が必須であり、安価 ...」（https://www.nedo.go.jp/content/800021923.pdf）
-  - 「世界の水電解・燃料電池の動向と今後の技術開発の方向性 — グローバルでの水電解装置の導入量の推移と見通し 最近5年で水電解の導入容量は大きく拡大、2023年にはGW超えの1.3GWに到達 - 電解種類の内訳ではアルカリ水電解が約50%を占め、導入地域は中国・欧州が大半だが米国も増加」（https://fc-cubic-event.jp/wp-sympo/wp-content/uploads/2025/03/Lecture9.pdf）
 
 ## グリーンアンモニア（green ammonia）
 - 文脈：12 GX ②水素等
@@ -4078,22 +4078,29 @@
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/topics/22AC0174）
 - 顧客（金を払う側）：
+  - 「NCEDA は大手化学・エネルギー企業SASOLの協力を得て、2023年10月に開発計画のマスタープランをまとめました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「また、海水淡水化、系統電力など関連インフラや関連企業についても別途計画されると想定されるので、現実的にはこれらの系統との融合もあると思いますが、ここでは触れません」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「ベンチプラントはプロジェクトとしては最終目的ですが、終了後もこのパイロットで様々なデータを取り、関連企業の協力により実用化装置設計が始まると考えています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「水素、アンモニアの導入に向けたその後の動向を織り交ぜながら、水素、アンモニアの導入を考える際に重要と思われる問題について解説します」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「アンモニア市場 2026-2036年：技術、予測、有力企業」（https://www.idtechex.com/ja/research-report/ammonia-market/1163）
+  - 「また、インフラ、規制、市場推進要因、導入障壁の地域別動向についても評価を行っています」（https://www.idtechex.com/ja/research-report/ammonia-market/1163）
+  - 「● アンモニアのバリューチェーン全体の有力企業概要」（https://www.idtechex.com/ja/research-report/ammonia-market/1163）
+  - 「アンモニア・低炭素アンモニアのバリューチェーン各所で事業展開する主要既存企業、プロジェクト開発企業、新興企業の特定」（https://www.idtechex.com/ja/research-report/ammonia-market/1163）
+  - 「Who are IDTechEx's customers?」（https://www.idtechex.com/ja/research-report/ammonia-market/1163）
+  - 「IDTechEx has served over 35,000 customers globally. These range from large corporations to ambitious start-ups, and from Governments to research centers. Our customers use our work to make informed decisions and save time and resources.」（https://www.idtechex.com/ja/research-report/ammonia-market/1163）
   - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
   - 「このため、経済産業省は国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）に総額2兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業などを研究開発・実証から社会実装まで10年間継続して支援するグリーンイノベーション基金事業を立ち上げました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「また、アンモニアの発電利用における高混焼化とアンモニアだけで発電する専焼化技術の確立にも取り組み、2050年の国内導入想定量である3000万トン／年（専焼で10～20基、高混焼で20～40基程度の導入に相当）を実現することを目標とします」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/topics/22AC0174）
   - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「日印企業で4800億円ほどの投資を見込む」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「韓国が石炭火力のアンモニア混焼中止、環境相表明 日本の調達に逆風」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「JERAと三井物産､米国に新アンモニア工場 6000億円規模 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「などは9日、2029年に米ルイジアナ州で世界最大規模のアンモニア工場を稼働すると発表した」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「からも28年以降にアンモニアを調達する検討を進めている」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「三井物産は22年、CFインダストリーズと共同で年100万トン規模のアンモニア工場を米国に建設すると発表していた」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「新工場で調達したアンモニアは主に発電や船舶向けの燃料としてアジアや欧州で供給する」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
 - 顧客の顧客（発注元が求めること）：
+  - 「化石燃料を再生可能エネルギーに転換し脱炭素化を進める動きが世界的に加速している中、燃焼の過程でCO」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「日本、南アフリカ共和国（以下、南ア）とも1次エネルギーの大半を化石資源に頼り、発電燃料、移動体燃料、産業燃料に利用してきましたが、世界的な脱炭素の動きに呼応して、電力をソーラー、風力などの再エネから得る施策を進めています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「この技術は南アに特化したものとして出発しますが、実績を踏まえて世界の脱炭素エネルギー革命に役立つことを信じています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「グリーンアンモニアが注目される背景には、世界的な脱炭素化の潮流があります」（https://www.atpress.ne.jp/news/5784850）
+  - 「これらの産業における脱炭素化を推進する上で、グリーンアンモニアへの転換は不可欠です」（https://www.atpress.ne.jp/news/5784850）
+  - 「最も基本的な肥料原料としての利用に加え、火力発電所での石炭との混焼燃料、船舶の燃料、産業炉の燃料として直接利用することで、発電や輸送部門の脱炭素化に貢献します」（https://www.atpress.ne.jp/news/5784850）
+  - 「しかし、世界各国で脱炭素化への投資が加速しており、政府や企業による大規模な技術開発や実証プロジェクトが進行しています」（https://www.atpress.ne.jp/news/5784850）
   - 「NEDOは、グリーンイノベーション基金事業の一環で、脱炭素燃料の候補の一つとして期待される燃料アンモニアの社会実装を進める「燃料アンモニアサプライチェーンの構築プロジェクト」（予算総額598億円）に着手します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「を排出しないことから、カーボンニュートラルの実現に向け発電や船舶などに用いる脱炭素燃料として期待されています」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「特に発電用途では従来の化石燃料をアンモニアに代替し、火力発電の脱炭素化を進める効果が見込まれています」（https://www.nedo.go.jp/news/press/AA5_101502.html）
@@ -4102,14 +4109,15 @@
   - 「JERA、国内最大の石炭火力でアンモニア発電 混焼率6割で脱炭素へ」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
   - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2023/04/d273584737e74959.html）
   - 「発表によると、アンモニアは水素の運搬役として、発電や海上輸送の脱炭素化において主導的な役割を果たすと広く認識されている」（https://www.jetro.go.jp/biznews/2023/04/d273584737e74959.html）
-  - 「KBRは脱炭素化の取り組みを積極的に進めており、2022年8月に、米国マクダーモットとアンモニア製造プロセスのライセンス契約を締結し（」（https://www.jetro.go.jp/biznews/2023/04/d273584737e74959.html）
-  - 「――脱炭素の燃料で、日本はエネルギーの輸入依存を下げることができますか」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「JERA、国内最大の石炭火力でアンモニア発電 混焼率6割で脱炭素へ」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「脱炭素化の技術オプションを残すという観点からも確実に推進して頂きたい」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「・日本政府は、価格差に着目した支援、長期脱炭素電源オークションなどの支援策を新たに展」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「長期脱炭素電源オークションにおいて、計８件のアンモニア発電事業が落札」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
 - 顧客の競合（奪いに来る側）：
+  - 「水素に変換して貯蔵し、燃料電池（自動車）などで利用することも展望されていますが、安価なグリーン水素を供給するまでには至っていないのです」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「を埋め戻したブルーアンモニアをサウジアラビア、UAEから輸入し始めており、オーストラリア、米国からの輸入も実現に向けて動き出しています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「2022年11月29、30日に南ア・ケープタウンで水素サミットが開催され、アフリカ各国と共に欧州、日本など多数の国が参加しました（図3）」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「一方、欧州を中心としてソーラー、風力の変動補償として経済的に優れた砕石蓄熱が提案されています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「大西洋に面したBoegoebaaiの港から10万トンタンカーが日平均2.7回、南ア東部、欧州、東アジア、日本へ船出することになるでしょう」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「また、設備費は半額程度（水素/アンモニア製造設備0.36倍＋熱貯蔵設備）になり、総体として著しく安価になると考えています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「触媒にニッケルなど安価な金属を用いることの出来る陰イオン交換膜や、隔膜を使ったアルカリ水分解もいくつかの課題を抱えながらも話題となっています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「3年間の米国での研究を経て、帰国後はオランダ・トゥウェンテ大学との研究交流を20年以上続ける」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
   - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
   - 「またアンモニアは水素を含むことから水素キャリアとしても利用可能であり、既存のインフラを活用して安価に製造・輸送できる特長があります」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/topics/22AC0174）
@@ -4117,14 +4125,6 @@
   - 「経済産業省は30日、再生可能エネルギーからつくるグリーンアンモニアをインドで生産する」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
   - 「高市早苗首相は7月1〜3日にインドを訪れ、モディ首相との会談で両政府による支援について合意する」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
   - 「IHIはインドの再エネ大手のACMEグループと組み、2030年からアンモニアを供給する」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「インド北西部のラジャスタン州でつくった太陽光発電の電力を1000キロメートル以上離れた東部オディシャ州まで運ぶ」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「インドでアンモニア生産支援、日印首脳合意へ IHI参加の再エネ事業」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「韓国が石炭火力のアンモニア混焼中止、環境相表明 日本の調達に逆風」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「JERAと三井物産､米国に新アンモニア工場 6000億円規模 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「生産したアンモニアは日本を含むアジアや欧州に輸出する計画だ」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「米国政府は「インフレ抑制法（IRA）」で水素生産やCO2の回収事業に対して資金援助をしており、JERAなどはこうした政府支援も活用する」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「JERAは35年までに水素・アンモニアの取扱量を年700万トンに増やす目標を掲げており、米国では」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
 - 自社の競合（商社・代理店・仲介）：
   - 「European Commission - European Commission」（https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2）
   - 「COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE EUROPEAN COUNCIL, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS REPowerEU Plan」（https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2）
@@ -4142,6 +4142,9 @@
   - 「販売代理店、提携、直接参入の選択肢」（https://www.indexbox.io/ja/blog/ntpc-in-talks-with-japan-south-korea-germany-buyers-for-green-ammonia/）
   - 「CERC (Central Electricity Regulatory Commission) (2025) Report on Short-term Power Market in India, 2024-25. URL:」（https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf）
 - 政治（法・予算・規制）：
+  - 「図2 南ア政府の水素ロードマップ(3)の76頁：大西洋に近いNORTHERN Cape州（北ケープ州）でグリーン水素、グリーンアンモニア製造の構想が見えます」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「日本政府（後に南ア政府も）はエネルギーロードマップを改定し、水素利用の項にアンモニア利用を加えました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「北ケープ州行政府のパンフレットによると、ナミビア国境付近の海沿い、太陽光に恵まれた3,000km」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
   - 「グリーンイノベーション基金事業「燃料アンモニアのサプライチェーン構築」に着手 | ニュース | NEDO」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「グリーンイノベーション基金事業「燃料アンモニアのサプライチェーン構築」に着手」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「NEDOは、グリーンイノベーション基金事業の一環で、脱炭素燃料の候補の一つとして期待される燃料アンモニアの社会実装を進める「燃料アンモニアサプライチェーンの構築プロジェクト」（予算総額598億円）に着手します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
@@ -4154,26 +4157,24 @@
   - 「グリーンイノベーション基金事業 特設サイト」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「日本政府が掲げる「2050年カーボンニュートラル」への挑戦を、経済と環境の好循環につなげるための産業政策として、2021年6月18日に経済産業省が関係省庁と連携して「2050年カーボンニュートラルに伴うグリーン成長戦略」を策定しました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
   - 「グリーンイノベーション基金の適切かつ効率的な執行に向けて、経済産業省においてグリーンイノベーション基金で実施する「燃料アンモニアサプライチェーンの構築」プロジェクトの内容を「研究開発・社会実装計画」として策定しました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「（グリーンイノベーション基金事業全体についての問い合わせ先）」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「NEDO グリーンイノベーション基金事業統括室 担当：井上、堀、茂手木」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「グリーンイノベーション基金事業【事業紹介】」（https://www.nedo.go.jp/news/press/AA5_101502.html）
 - 経済（規模・価格・為替）：
-  - 「NEDOは、グリーンイノベーション基金事業の一環で、脱炭素燃料の候補の一つとして期待される燃料アンモニアの社会実装を進める「燃料アンモニアサプライチェーンの構築プロジェクト」（予算総額598億円）に着手します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「このため、経済産業省は国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）に総額2兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業などを研究開発・実証から社会実装まで10年間継続して支援するグリーンイノベーション基金事業を立ち上げました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「算：598億円」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「日印企業で4800億円ほどの投資を見込む」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「45年までの15年間、再エネ由来のアンモニアと既存の石炭やアンモニアなどとの価格差を助成金としてIHIに拠出する」（https://www.nikkei.com/article/DGXZQOUA307IG0Q6A630C2000000/）
-  - 「JERAと三井物産､米国に新アンモニア工場 6000億円規模 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「総事業費は40億ドル（約5900億円）で年間140万トンのアンモニアを生産する」（https://www.nikkei.com/article/DGXZQOUC090KR0Z00C25A4000000/）
-  - 「日印で4800億円投資、アンモニアのインド生産を支援認定 経産省」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「 事業規模:約284億円」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 支援規模*：約242億円（既支出額:約34.0億円）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 事業規模:約27億円」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 支援規模*：約23億円（既支出額:約11.3億円）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
+  - 「年11ヶ月稼働なので年平均値はこの値を11/12倍した値になります」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「その特徴は蓄電池の1/10-1/5といわれる装置価格の安さです」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「この原稿に手を入れている時、2023年10月、UAEのギガソーラーの売電価格（昼）がこれまでの最安値1.35セント（2円）/kWhで落札されました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「この昼価格を昼夜フラット電力に変換するとエネルギー価格では1.5倍だが、蓄熱装置など勘案して4円/kWhのフラット電力が（おそらく南アでも）可能でしょう」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「この値段はよく耳にするブラウンアンモニア国際価格（400ドル/t）に匹敵します」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「グリーンアンモニアの日本市場（2026年～2034年）、市場規模（プロトン交換膜、アルカリ性水電解、固体酸化物電解）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/5784850）
+  - 「グリーンアンモニアの日本市場（2026年～2034年）、市場規模（プロトン交換膜、アルカリ性水電解、固体酸化物電解）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「日本におけるグリーンアンモニア市場規模は、2025年に3,680万米ドルに達しました」（https://www.atpress.ne.jp/news/5784850）
+  - 「本調査会社は、今後、2034年までに12億3,280万米ドルに達し、2026年から2034年の期間で年平均成長率（CAGR）47.74%を記録すると予測しています」（https://www.atpress.ne.jp/news/5784850）
+  - 「リフト＆スライド式ステレオガレージの世界市場（2026年～2032年）、市場規模（2～4階建て立体駐車場、4～6階建て立体駐車場、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「オイルフリーピストン式エアコンプレッサーの世界市場（2026年～2032年）、市場規模（空冷式エアコンプレッサー、水冷式エアコンプレッサー）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「タービンブレード研削盤の世界市場（2026年～2032年）、市場規模（自動、手動）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「スクリュープロペラの世界市場（2026年～2032年）、市場規模（固定ピッチ型、可変ピッチ型）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「未パターン化ウェーハ検査システムの世界市場（2026年～2032年）、市場規模（14nm以下、14nm超）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
+  - 「PCRストリップチューブの世界市場（2026年～2032年）、市場規模（小容量、標準）・分析レポートを発表」（https://www.atpress.ne.jp/news/5784850）
 - 社会（人・担い手）：
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/topics/22AC0174）
   - 「調達 （ローカルコンテンツ） 、技術移転と人材育成の実施」（https://journal.jogmec.go.jp/content/300517186.pdf）
   - 「ネルギーミックスの多様化、炭素排出の削減、雇用創出」（https://journal.jogmec.go.jp/content/300517186.pdf）
   - 「また、技術移転の奨励、雇用創出、知識共」（https://journal.jogmec.go.jp/content/300517186.pdf）
@@ -4188,39 +4189,38 @@
   - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
   - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
   - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
-  - 「2023年1月に発表された「国家グリーン水素ミッション」において、2030年までに60万人以上の雇用を創出し、960億米ドル以上の投資を誘致し、年間5000万トンのCO2排出量を削減すると予測されています」（https://www.tkilaw.com/7717）
 - 技術（新しい技術・実証）：
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGKKZO80451940S4A500C2TB3000/）
-  - 「NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「本事業では、従来のアンモニア製造法からのさらなる効率化や低コスト化を実現する技術、また、発電利用時に高混焼・専焼化を可能にするバーナなどに関する技術の開発に取り組みます」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「このため、経済産業省は国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）に総額2兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業などを研究開発・実証から社会実装まで10年間継続して支援するグリーンイノベーション基金事業を立ち上げました」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「これらを踏まえNEDOは、経済産業省が策定した研究開発・社会実装計画」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「【研究開発項目1】アンモニア供給コストの低減」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「研究開発内容（1）アンモニア製造新触媒の開発・実証」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「●燃料アンモニアサプライチェーン構築に係るアンモニア製造新触媒の開発・技術実証」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「燃料アンモニアの利用拡大に向けて、製造コストの低減を実現できるアンモニア製造新触媒をコアとする国産技術を開発します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「研究開発内容（2）グリーンアンモニア電解合成」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「●常温、常圧下グリーンアンモニア製造技術の開発」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「水と窒素を原料とした電解反応を活用し、常温常圧でアンモニアを製造する方法を開発します」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「【研究開発項目2】アンモニアの発電利用における高混焼化・専焼化」（https://www.nedo.go.jp/news/press/AA5_101502.html）
-  - 「研究開発内容（1）石炭ボイラにおけるアンモニア高混焼技術（専焼技術含む）の開発・実証」（https://www.nedo.go.jp/news/press/AA5_101502.html）
+  - 「【日本・南アの共同研究開発】グリーンアンモニア製造： 地理学的特性と技術のベストマッチによるCO2排出ゼロへ向けて | サステナビリティ ハブ」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「【日本・南アの共同研究開発】グリーンアンモニア製造： 地理学的特性と技術のベストマッチによるCO2排出ゼロへ向けて」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「を排出しない水素やアンモニアは、化石燃料に代わる次世代燃料として注目されています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「このような状況下、水素の化学的貯蔵形態の１つであるアンモニアの利用技術が開発されてきました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「隣国ナミビア共和国（以下、ナミビア）と共有するナミブ砂漠一帯の水素回廊開発が主テーマでした」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「大統領は水素回廊を所有する北ケープ州と協力協定を結び、グリーン水素（アンモニア）開発が自由にできる地域を紹介し、各国への投資を呼び掛けました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「NCEDA は大手化学・エネルギー企業SASOLの協力を得て、2023年10月に開発計画のマスタープランをまとめました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「*Science and Technology Research Partnership for Sustainable Development：国立研究開発法人科学技術振興機構（JST）、国立研究開発法人日本医療研究開発機構（AMED）がそれぞれ独立行政法人国際協力機構（JICA）と連携して、地球規模課題の解決に向けた日本と開発途上国の国際共同研究を推進するプログラム」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「これまで変動する再エネの弱点を補う技術として溶融塩などの蓄熱システムを併設した熱発電が開発されてきました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「大西洋に面したBoegoebaaiの港から10万トンタンカーが日平均2.7回、南ア東部、欧州、東アジア、日本へ船出することになるでしょう」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「私たちはこれらの値を目標として、新しいグリーンアンモニア合成技術を用いて実証しようとしています」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「日本側は外務省JICA,文科省JST支援の下、地球規模課題の解決にむけた国際共同開発事業「SATREPS」の枠組みで6大学の研究室がNWUと共同研究を始めました」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「再エネ水素製造はNWUと東大（高鍋研）、アンモニア合成触媒開発は沼津高専（稲津研）と名古屋大（永岡研）、アンモニア吸収分離材開発は千葉大（劉研）と熊本大（杉本研）、システム統合は東工大（松本研）と宇都宮大（古澤研）が担当するとともに、秋鹿（沼津高専）が全体を統括します」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「合成触媒は南アで資源的に有利なルテニウム系触媒の開発を狙います」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
+  - 「図12 開発中のアンモニア合成分離装置の概念図」（https://www.sustainability-hub.jp/column/nh3-production-in-sa/）
 - 検索結果の抜粋：
+  - 「中国 産 グリーンアンモニア 3750トン 韓国 に輸出 - AFPBB News — 中国 産 グリーンアンモニア 3750トン 韓国 に輸出 - AFPBB News AFPBB News https://www.afpbb.com > 政治・経済」（https://www.afpbb.com/articles/-/3646169）
+  - 「市場調査レポート: グリーンアンモニア市場レポート：2035年までの動... — Oct 15, 2026 · グリーンアンモニア市場 グリーンアンモニア市場 世界のグリーンアンモニア市場の将来は、発電や輸送、工業用原料としての用途における機会を背景に、有望視されています。世界のグリーンアンモニア市場は、2027年の6億米ドルから2035年には推定21億米ドルに達すると見込まれており、2027年 ...」（https://www.gii.co.jp/report/luci2150224-green-ammonia-market-report-trends-forecast.html）
+  - 「グリーンアンモニア市場規模、シェア、2035年までの見通し — Sep 22, 2026 · グリーンアンモニア市場の概要 世界のグリーンアンモニア市場規模は、2026年に207億6,000万米ドルと推定され、2035年までに2,8064億4,000万米ドルに拡大し、2026年から2035年までの予測期間中に72.5%のCAGRで成長すると予測されています。」（https://www.businessresearchinsights.com/jp/market-reports/green-ammonia-market-126217）
+  - 「日揮HD、福島県浪江町でグリーンアンモニアの製造開始 — Jan 28, 2026 · アンモニア製造能力は日量4トン、レゾナックを通じて近隣の火力発電所に供給 日揮ホールディングス株式会社（佐藤 雅之 代表取締役会長兼社長CEO、以下：日揮HD）は、再生可能エネルギー由来のグリーンアンモニア製造技術の実証プラント（福島県浪江町 ...」（https://igaspedia.com/gx/2026/01/28/jgc-green-ammonia-fukushima-namie/）
+  - 「Japan Green Ammonia Market Size, Share, Trends and ... — Oct 8, 2026 · Japan Green Ammonia Market Overview According to Dimension Market Research, theJapan Green Ammonia Market size is projected to reach USD 27.7 million in 2026 and expand to USD 1,553.0 million by 2035, registering a remarkable CAGR of 56.4% during 2026 to 2035. This expansion reflects Japan's growing commitment to carbon neutral」（https://www.molecularcloud.org/p/japan-green-ammonia-market-size-share-trends-and-competitive-analysis-2026-to-2035）
+  - 「India's NTPC seeks overseas buyers for green ammonia, low ... — Oct 13, 2026 · India's top power producer NTPC is in talks with potential buyers in Japan, South Korea and Germany for green ammonia and other low-carbon fuels, Chairman Gurdeep Singh said on Tuesday.」（https://www.reuters.com/business/energy/indias-ntpc-seeks-overseas-buyers-green-ammonia-low-carbon-fuels-2026-10-13/）
+  - 「JERA Signs a Binding Heads of Agreement with AM Green for ... — Oct 27, 2026 · This allows us to connect diversified sources of ammonia with customer needs in Japan, contributing to Japan’s decarbonization goals.” Mahesh Kolli, Group President, and Joint Managing Director of AM Green, said: " Our partnership with JERA marks another important milestone in AM Green’s journey to become a leading glob」（https://www.jera.co.jp/en/news/information/20261027_2562）
+  - 「Japan Green Ammonia Market Size, Share & Forecast 2026–2034 — Green ammonia cracking infrastructure at Japanese import terminals — producing hydrogen for industrial users, fuel cell vehicles, and power generation — would transform green ammonia from a co-firing fuel into the foundation of Japan's hydrogen import supply chain, dramatically expanding the addressable market for green ammonia demand.」（https://marketsnxt.com/reports/country-reports/japan/japan-green-ammonia-market/）
+  - 「Japan Green Ammonia Market Size, Share and Forecast 2035 — Sep 17, 2026 · The Japan green ammonia market benefits from robust government support and a comprehensive policy framework aimed at promoting sustainable energy solutions. The Japanese government has set ambitious targets for carbon neutrality by 2050, which includes the integration of green ammonia as a key component in its energy transit」（https://www.marketresearchfuture.com/reports/japan-green-ammonia-market-48164）
   - 「米KBR、アビナからメキシコ湾岸の グリーンアンモニア ... — 米KBR、アビナからメキシコ湾岸の グリーンアンモニア ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2023/04」（https://www.jetro.go.jp/biznews/2023/04/d273584737e74959.html）
   - 「燃料から肥料へ、グリーンアンモニアの役割 | World Economic Forum — Nov 30, 2023 · ケニアのナッツ会社は、化石燃料を使わない肥料を自社で製造する初の農場になる予定です。 グリーンアンモニアは化石燃料を使わずに製造され、合成肥料の製造に伴う多量の排出の削減に役立つ可能性があります。」（https://jp.weforum.org/stories/nature-and-biodiversity/green-ammonia-climate-change-energy-transition-jp）
   - 「従来のアンモニアおよび ブルーアンモニア，グリーンアンモニア — アンモニア製造プロセスにCCSやCCUを追加することで製造できる。グレーアンモニアの製造 解技術の開発とい� モニアの製造コストを100とすると,グリーンアンモニアの製造コストは300~400と推定されている。」（https://www.scej.org/docs/publication/journal/backnumber/8612-open-article.pdf）
   - 「グリーンアンモニア世界市場レポート：主要企業、ランキング、成長予... — May 25, 2026 · グリーンアンモニアとは、再生可能エネルギー由来の電力を用いて製造されたグリーン水素と窒素を反応させることで生成される低炭素アンモニアであり、製造工程におけるCO₂排出量を大幅に削減できる次世代エネルギー素材である。」（https://note.com/qy_research/n/nbc7825892667）
   - 「燃料アンモニアサプライチェーンの構築 | NEDO グリーンイノベーショ... — Jun 29, 2026 · 既存のハーバー・ボッシュ法に劣らない効率でのアンモニア製造を実現しつつ、海外ライセンサーに依存しない生産体制を構築することを目指します。 また、再生可能エネルギーから水素を経由しないで直接アンモニアを製造する技術を開発します。」（https://green-innovation.nedo.go.jp/project/building-fuel-ammonia-supply-chain/）
   - 「レゾナック、福島県におけるグリーンアンモニア実証プロジェクトにお... — Oct 2, 2026 · <福島水素エネルギー研究フィールド（FH2R* 1 、福島県浪江町）で製造される再生可能エネルギー由来の水素を原料に、日揮HDは福島県浪江町に建設したグリーンアンモニア実証プラント * 2 （同町）において、グリーンアンモニアの製造を開始しました。」（https://www.resonac.com/jp/news/2026/10/02/4066.html）
-  - 「旭化成が製造する水素を用いた日揮HDのグリーンアンモニア実証プラン... — Jan 28, 2026 · 「再生可能エネルギー由来の水素を活用したアンモニア製造は、エネルギー貯蔵・輸送手段としての可能性に加え、化学原料として幅広い用途を持つアンモニアを脱炭素で供給できる点から、脱炭素社会の実現に向けた重要な技術の一つだと考えています。」（https://www.asahi-kasei.com/jp/news/2026/ze260128）
-  - 「日揮HD、福島・浪江町でグリーンアンモニア製造実証プラント稼働開始 ... — Jan 28, 2026 · 電力・水素供給の不安定さを考慮した最適運転制御により、プラント全体の効率向上と安定稼働を目指す。 実証期間は2026年度末までを予定しており、日揮HDは制御システムの検証・改良を通じてグリーンアンモニア製造技術の確立に注力する。」（https://kikai-news.net/2026/01/28/日揮hd、福島・浪江町でグリーンアンモニア製造実/）
-  - 「日揮HD、福島県浪江町でグリーンアンモニアの製造開始 — Jan 28, 2026 · 本プラントでは、近隣の福島水素エネルギー研究フィールド（FH2R） ※4 から供給される再生可能エネルギー由来の水素を原料にグリーンアンモニア製造技術を実証する。」（https://igaspedia.com/gx/2026/01/28/jgc-green-ammonia-fukushima-namie/）
-  - 「Japan Green Ammonia Market Size, Share, Trends and ... — Oct 8, 2026 · According to Dimension Market Research, theJapan Green Ammonia Market size is projected to reach USD 27.7 million in 2026 and expand to USD 1,553.0 million by 2035, registering a remarkable CAGR of 56.4% during 2026 to 2035.」（https://www.molecularcloud.org/p/japan-green-ammonia-market-size-share-trends-and-competitive-analysis-2026-to-2035）
-  - 「Japan Green Ammonia Market Size, Share & Forecast 2026–2034 — Analysis of Japan's green ammonia market covering power station co-firing, Yara/JERA projects, and ammonia import strategy.」（https://marketsnxt.com/reports/country-reports/japan/japan-green-ammonia-market/）
-  - 「Green ammonia demonstration plant of JGC begins producing ... — Jan 27, 2026 · Asahi Kasei is pleased to announce that a demonstration plant1 utilizing green ammonia production technology of JGC Holdings Corporation (JGC) began producing ammonia in January 2026, using hydrogen manufactured by Asahi Kasei. The plant is part of Japan's NEDO (New Energy and Industrial Technology Development Organizat」（https://www.asahi-kasei.com/news/2026/e260128）
-  - 「Japan Green Ammonia Market Size & Share, Report | 2034 — Oct 22, 2026 · Japan Green Ammonia Market Segmentation: IMARC Group provides an analysis of the key trends in each segment of the market, along with forecasts at the country level for 2026-2034.」（https://www.imarcgroup.com/japan-green-ammonia-market）
-  - 「JERA Signs a Binding Heads of Agreement with AM Green for ... — Oct 27, 2026 · This landmark agreement further strengthens AM Green’s position as a global leader in renewable ammonia production, accelerating India’s emergence as a major supplier of green molecules and establishing AM Green as a partner for Japan and the broader Asian energy transition.」（https://www.jera.co.jp/en/news/information/20261027_2562）
-  - 「NTPC Seeks Overseas Buyers in Japan, South Korea and Germany — Oct 20, 2026 · NTPC Limited is in talks with potential offtake partners in Japan, South Korea and Germany for green ammonia and other low-carbon fuels from its proposed Pudimadaka Green Hydrogen Hub in Andhra Pradesh, according to Reuters.」（https://www.hydrogenfuelnews.com/green-hydrogen-production-ntpc-seeks-overseas-buyers-in-japan-south-korea-and-ge/8576916/）
 
 ## 合成燃料（e-fuels）
 - 文脈：12 GX ②水素等
@@ -4546,22 +4546,25 @@
   - 「コスト約40％上昇（約760億円の損失を」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
   - 「コスト上昇(約6100億円の損失を計上)」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
 - 顧客（金を払う側）：
+  - 「洋上風力から欧州企業の撤退相次ぐ 事業性の担保が急...」（https://windjournal.jp/127008/）
+  - 「洋上風力から欧州企業の撤退相次ぐ 事業性の担保が急務」（https://windjournal.jp/127008/）
+  - 「「国内洋上風力、今が買い」 公募事業に救済策、企業は営業まき直し」（https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/）
+  - 「受注企業の巨額減損が示す洋上風力ビジネスの“欠陥*」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「ただ、この時に第 1 ラウンドを受注したコンソーシアムが提示した発電単価 (FIT<固定価格買取制度>での売電価格)」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「ーシアムの中心企業は今年 2 月、洋上風力発電事業に関して 500 億円を超える減損損失を計上すると発表しましたが、や」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「クのベスタスや、ドイツのシーメンス・ガメサなどの製品を調達する以外にありません」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「すべて海外調達なので、当然、」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「ドの受注企業と同じ道を辿る可能性があるのではないでしょうか」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「ヨーロッパのように 「セントラル方式」 を早期に導入するの」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「風力発電を導入する際には、さまざまな手続きが必要になります」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「(日本版ということはヨーロッパほどではないという意味か ? ) の一部導入が議論されていると聞いていますが、この」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「21年12月にあった政府公募の洋上風力発電プロジェクトコンペ第1弾において、三菱商事は圧倒的な価格破壊による「安値受注」で秋田県沖、千葉県沖の計3海域全ての案件を手に入れていた」（https://diamond.jp/articles/-/358920）
   - 「対象は2021年末に中部電力の関連会社や地元企業などとのコンソーシアムで落札した秋田・千葉における合計1.7GW規模に及ぶプロジェクトである」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「大手商社や電力会社が熾烈な競争を経て受注した大型事業から、巨額の違約金を支払ってまで撤退することは、日本では極めて異例である」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「さらに一般海域では、日本版セントラル方式の導入により事業者の負担軽減が進むなど、制度は一歩ずつ整いつつある」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
-  - 「国民が納得する合理的な洋上風力の導入計画の目途が立たない場合は現在の野心的な計画を速やかに見直すことも求められる」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「安定供給と脱炭素の道筋を切り開くのは国の責任であり、合理性のない再エネの大量導入で高い電気代を国民に押しつけるのは国民への背信であろう」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「事業用の太陽光発電はFITの導入で近年大幅に拡大され平地面積に占めるパネル設置面積は世界1位となる一方、森林伐採、山崩れ等々環境、防災上の懸念に対し地元住民の反対も高まっており今後はこれまでと同様の拡大は望めないと推察される」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「一方、風力発電は、第5次エネルギー基本計画（18年）において、陸上風力発電の導入可能な適地は限定的であるとして、洋上風力発電の導入拡大が不可欠とされた」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「風力発電は、現在、北海道、東北、九州を中心に洋上風力発電の導入が進んでいる」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「（日本風力発電協会）30年での洋上風力導入計画状況は、これまでに5.7GW(570万kW)案件が成立し、他の有望区域や準備区域での設置を見込むと30年目標5.7GW達成挑戦に向けて推進中と資源エネルギー庁はいう」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「の導入計画に関しては第1R～第3Rを加えても4.6GWであり第4Rはルールの改訂や海域の選定などで遅れていることから5.7GW達成は容易でないと推定される」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「図1 政府による導入目標の明示」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「図2 洋上風力発電の導入状況」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「世界に於ける洋上風力の累積導入量は、2011年の3.4GWから2023年には75.2GWに増加し、2030年には299GW、33年には436GWの導入見通しが報告されているがその一方で内外の足下では課題が顕在化している」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「（5）風力発電の技術・設備導入における中国リスクへの対応」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
 - 顧客の顧客（発注元が求めること）：
+  - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆しはどこに【脱炭素 深掘り】 | 47リポーターズ | 沖縄タイムス＋プラス」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆しはどこに【脱炭素 深掘り】」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「本来であれば、原子力の活用は脱炭素に向けた有力な電源構成ですが、福島第一原子力発電所の事故以来、原子力発電の」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
   - 「ーニング組織でトレーニングを受講することでＧＷＯ認証を取得することができる 21」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「かし、2019 年９月時点で、我が国の認証施設は、青森県上北郡六ケ所村にあるイオスエン」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「脱炭素化技術の海外展開の一環として洋上風力発電を新規に重点分野とすることが示され」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
@@ -4574,25 +4577,22 @@
   - 「作業者には、国際非営利組織「グローバル・ウインド・オーガニゼーション（GWO、本部コペンハーゲン）」の認証施設で訓練を受けることが求められている」（https://blogs.ricoh.co.jp/RISB/environment/post_886.html）
   - 「GWO技術認証の多くは有効期間が2年」（https://blogs.ricoh.co.jp/RISB/environment/post_886.html）
   - 「いずれにしても、GWOの認証を受けた作業員の育成の拡大が不可欠」（https://blogs.ricoh.co.jp/RISB/environment/post_886.html）
-  - 「「メンテナンスは自社で行う」（小松崎忍専務）との基本方針に基づき、これまでは遠隔地のGWO施設でメンテナンス作業の訓練を受けて認証の更新などを行ってきた」（https://blogs.ricoh.co.jp/RISB/environment/post_886.html）
-  - 「GWOの認証を必要とするのは、稼働後の運用・保守技術者だけではない」（https://blogs.ricoh.co.jp/RISB/environment/post_886.html）
-  - 「設置や建設を担う作業員も認証なしでは現場に入れない」（https://blogs.ricoh.co.jp/RISB/environment/post_886.html）
 - 顧客の競合（奪いに来る側）：
+  - 「洋上風力から欧州企業の撤退相次ぐ 事業性の担保が急...」（https://windjournal.jp/127008/）
+  - 「洋上風力から欧州企業の撤退相次ぐ 事業性の担保が急務」（https://windjournal.jp/127008/）
+  - 「【深掘り】「コザのストリートを全部買い占めたい」 米兵向け違法風俗店営業疑いで逮捕された中国籍の経営者とは スーツケースに数千万円も、関係者が語る人物像」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「開発進むスバンの現状と可能性（インドネシア）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「地域別では、中国が48.4GW（52.3%）、欧州が38.8GW（41.9%）を占める結果となった（図1参照）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「新規導入市場の中心は中国で、全体の7割を占め8年連続世界1位となり、英国・台湾・ドイツ・フランスを加えた上位5カ国・地域で全体の約99%を占めた （図2参照）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「欧州では、デンマークやオランダを中心に1990年代から実証と商用化を進め、続いて英国やノルウェーも市場を拡大してきた歴史がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「欧州が洋上風力の先駆者となった背景としては、エネルギー安全保障への対応と温室効果ガス削減を同時に進めてきた歴史に加え、遠浅の海底や年間を通して強い風が吹く地理的条件がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「さらに近年は、巨大な国内市場を持つ中国が急速に導入量を伸ばしている点も特徴だ」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「自然エネルギー財団によれば、コストの高騰は海外でも共通の課題であり、デンマークや英国など欧州の洋上風力先進国においても、撤退やゼロ入札が発生している」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「中でも、世界最大級のタービンを製造してきた欧州を中心としたメーカーは、技術力・量産能力の両方で重要とされ、官民双方でグローバル連携が進んでいる」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「欧州ではこれまで、大型タービンの量産体制を確立したシーメンスガメサ（スペイン）やべスタス（デンマーク）が、早期から欧州各国に製造拠点を設置し、現地部品メーカーとの共同開発を進めることでサプライチェーンの強化に成功してきた実績がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
   - 「コストの高騰は海外でも共通の課題であり、欧州の洋上風力先進国においても、撤退やゼロ入札が発生している」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「応札した競合他社の入札額平均と比較すると、6円から9円低い額で入札している」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「価格競争に圧され、ゼロプレミアム入札をせざるをえなかったラウンド2・3の事業者は、さらに厳しい環境に置かれている」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「そして、欧州とは異なる日本の課題として、許認可制度の複雑さと長期化、送電網建設や港湾整備の費用負担、カボタージュ規制による建設船の不足が挙げられる」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
-  - 「欧米は、中国の安売り攻勢に対し、エネルギー安全保障や自国産業保護の観点から警戒感を強めている」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「EUは「中国は補助金で欧州市場を歪めている」として、中国メーカに対する補助金調査を開始した」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「EVと同じように制裁関税で、中国からの「デフレ輸出」を防ごうとしている」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「「欧州における風力発電施設のプロジェクト単価に関する分析」 小田潤一郎ほか エネルギー・資源学会 エネルギー・資源学会、第40回コンファレンス、2024.1.31」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「風力発電については、欧州や中国など世界における導入拡大に比べ、我が国は導入実績」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「している再エネ電源の一つであり、特に欧州では海洋国家であるイギリスを中心に導入が」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「欧州における 2018 年 12 月時点の設備容量は 1,828 万 kW に達しており、今」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「後も 2020 年に 2,500 万 kW、2030 年までに 6,650 万 kW の洋上風力を開発し、欧州全体に」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「また、近年中国も」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「全な作業環境を確保するため、欧州を始めとする世界の風力発電事業者及び風車メーカー」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
 - 自社の競合（商社・代理店・仲介）：
   - 「大手商社や電力会社が熾烈な競争を経て受注した大型事業から、巨額の違約金を支払ってまで撤退することは、日本では極めて異例である」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「三菱商事が洋上風力で522億円の巨額減損！「特損地獄」必至で中西社長の“経営責任論”に発展も | クローズアップ商社 | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/358920）
@@ -4610,38 +4610,45 @@
   - 「デンマーク： European Commission (2023), “Wind Pledges - European Wind Power Action”,」（https://eneken.ieej.or.jp/data/11716.pdf）
   - 「オランダ： European Commission (2023), op. cit.」（https://eneken.ieej.or.jp/data/11716.pdf）
 - 政治（法・予算・規制）：
+  - 「政府は、発電時に温室効果ガスを排出しない再生可能エネルギーを主力電源とする目標を掲げている」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「政府関係者は「成長産業」と期待を寄せるが、将来的な人材不足が予想される」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「政府は3月7 日、 再生可能エネルギー海域利用法の改正案*! を閣議決定しました」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「海域は領海内に限られていましたが、排他的経済水域 (EEZ) 内まで広げるための法改正です」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「※ 1 ) 海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律案 (経済産業」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「政府は、2050 年までに温室効果がガスの排出を全体としてゼロにする「カーボンニュートラル」を目指すと宣言しています」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「それでは、今回の法改正で洋上風力の設置が加速するのかといえば、私は懐疑的に見ています」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「岐ベログをご覧のみなさまであれば覚えているかもしれませんが、 2021 年に、 政府による洋上風力発電の公募がありまし」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「洋上風力に有望と思われる場所を再エネ海域利用法に基づく促進区域と指定し、政府が洋上風力発電事業者を公募し」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「政府は洋上風力発電でのセントラル方式の運用について議論を始めていて、第 4 ラウンドから日本版セントラル方式」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
   - 「政府は撤退の要因を詳細に検討したうえで再入札を実施するとしている」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「そして、欧州とは異なる日本の課題として、許認可制度の複雑さと長期化、送電網建設や港湾整備の費用負担、カボタージュ規制による建設船の不足が挙げられる」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「今年6月、政府は改正「再エネ海域利用法」を成立させ、従来は一般海域に限られていた洋上風力の開発を排他的経済水域に大きく広げ、浮体式洋上風力開発への道を開いた」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「Boost for offshore wind as government raises maximum prices in renewable energy auction」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「Further reforms to the CfD scheme for AR7: government response to policy proposals」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律」（以下 「再エ」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「未稼動分を含めた固定価格買取制度による認定量は 2017 年度末」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「上風力 161 億 kWh、洋上風力 22 億 kWh）とされており6、現状の認定量は既にエネルギーミ」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「2018 年７月に閣議決定された第５次エネルギー基本計画において、「洋上風力について」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「15 デロイトトーマツコンサルティング合同会社「平成29年度電気施設等の保安規制の合理化検討に係る調査」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「を学ぶ Sea Survival（海上サバイバル）の５つのコースから成り、ＧＷＯが認定したトレ」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「また、ＧＷＯ認定組織に限らず、トレーニングサ」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「2019 年６月に閣議決定された「インフラシステム輸出戦略（改訂版）」では、低炭素化・」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「同社は政府公募の洋上風力コンペ第1弾で3海域のプロジェクトを総取りしたが、円安や資材高、工程遅延などが大きな逆風となっていた」（https://diamond.jp/articles/-/358920）
-  - 「21年12月にあった政府公募の洋上風力発電プロジェクトコンペ第1弾において、三菱商事は圧倒的な価格破壊による「安値受注」で秋田県沖、千葉県沖の計3海域全ての案件を手に入れていた」（https://diamond.jp/articles/-/358920）
 - 経済（規模・価格・為替）：
+  - 「【WEB限定】173億円赤字、刀・森岡氏との関係、新スポンサー探し… ジャングリア沖縄の運営会社代表が語ったこと 株主総会の継続会後、約1時間20分の会見【全文とノーカット動画】」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「当社が 2024 年 1 月に、約 2000 億円を投じて日本風力開発を子会社化したの$ぉ、こうした現状認識が背景にあります」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「ただ、この時に第 1 ラウンドを受注したコンソーシアムが提示した発電単価 (FIT<固定価格買取制度>での売電価格)」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「当時の報道によると、コンソーシアムが提示した価格は能代市沖で 1kWh あたり 13.26 円、」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「由利本荘市沖で 11.99 円、 千葉県銚子市沖で 16.49 円と、 3 海域の平均入札価格 (19一20 円) を大きく下回る金額でした」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「特に、規模の大きい由利本荘市沖の 11.99 円という金額は平均入札価格からかけ離れており、衝撃的な金額です」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「ーシアムの中心企業は今年 2 月、洋上風力発電事業に関して 500 億円を超える減損損失を計上すると発表しましたが、や」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「このように洋上風力はただでさえコストがかかるのに、第1 ラウンドでの事業者の選定は前述の通り入札で、「価格点」 の」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「その後、為替は 30 円以上円安に振れま した」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「為替や建設コスト の上昇を含めれば、50%以上はコストが上がっているので」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「その後の第 2 ラウンド、第3 ラウンドではほ売電価格の制度をFIT から FIPS (フィードインプレミアム) に変更するなど」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「正直なところ、これまでに権利を獲得した事業者は再生可能エネルギーの売電価格が大幅に上がらない限り、第 1 ラウン」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「実は、冒頭で第1 ラウンドのコンソーシアムの沙札価格が低すぎたという話をしましたが、その後、資源エネルギー庁」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
   - 「実際、資材価格、労務費、輸送費は入札時から急騰し、建設費全体は2割上昇している」（https://www.renewable-ei.org/activities/reports/20250901.php）
   - 「コスト全体の2割を占めるといわれるタービン価格が当時より倍増したとの指摘もある」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「、2024年の次回入札において上限金額を66％引き上げるという大幅な価格見直しを実施した」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「この見直しにより、価格は日本円換算で11.63円/kWhから19.30円/kWhに引き上げられた」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「価格競争に圧され、ゼロプレミアム入札をせざるをえなかったラウンド2・3の事業者は、さらに厳しい環境に置かれている」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「未稼動分を含めた固定価格買取制度による認定量は 2017 年度末」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「三菱商事が洋上風力で522億円の巨額減損！「特損地獄」必至で中西社長の“経営責任論”に発展も | クローズアップ商社 | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/358920）
-  - 「三菱商事は2月6日、国内3海域で進めている洋上風力発電事業で2024年4～12月期に522億円の減損損失を計上したと正式発表した」（https://diamond.jp/articles/-/358920）
-  - 「同社は政府公募の洋上風力コンペ第1弾で3海域のプロジェクトを総取りしたが、円安や資材高、工程遅延などが大きな逆風となっていた」（https://diamond.jp/articles/-/358920）
-  - 「三菱商事が巨額損失を発表する2日前、洋上風力発電事業のパートナーである中部電力も2024年4～12月期に同事業で179億円の損失を計上すると発表していた」（https://diamond.jp/articles/-/358920）
-  - 「21年12月にあった政府公募の洋上風力発電プロジェクトコンペ第1弾において、三菱商事は圧倒的な価格破壊による「安値受注」で秋田県沖、千葉県沖の計3海域全ての案件を手に入れていた」（https://diamond.jp/articles/-/358920）
-  - 「【独自】NTTグループの人事・報酬制度を大解剖、全12グレード＋専門職の年収を初公開！部長は年収1840～2000万円、若手抜擢で30代部長数は2桁に増加…AIを活用した新たな異動の仕組みとは？」（https://diamond.jp/articles/-/358920）
-  - 「区域名 万kW※１ 供給価格※２(円/kWh) 運開年月 選定事業者構成員」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/013_07_00.pdf）
-  - 「※2 ①～④はFIT制度適用のため調達価格」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/013_07_00.pdf）
-  - 「要素技術開発［総額385億円］」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/013_07_00.pdf）
 - 社会（人・担い手）：
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
+  - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆しはどこに【脱炭素 深掘り】 | 47リポーターズ | 沖縄タイムス＋プラス」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆...」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆しはどこに【脱炭素 深掘り】」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「政府関係者は「成長産業」と期待を寄せるが、将来的な人材不足が予想される」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「日本新聞協会が年１回、優れた報道の担い手に贈る賞です」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/）
   - 「４．風力発電業界における人材不足」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「５．担い手確保に向けた現状と課題」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「（１）人材育成のための教育プログラムの策定」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
@@ -4650,30 +4657,25 @@
   - 「り1、特に保守・運用等を行うメンテナンス分野の人材確保が喫緊の課題となっている」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「そこで、本稿では、風力発電メンテナンス分野における担い手の育成とその課題、また」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「事業」の一環として、国立大学法人東京大学において、再エネ関連事業を推進する人材育」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「人材の状況や、求められる人材像、また、再エネ人材の偏在性についての調査も実施され」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「同調査の結果では、再エネ全体の事業拡大の一番の課題として、必要な人材の確保が」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「難しく、人材育成には長期間を要することが明らかとなった12」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「来から慢性的な人材不足の状態にあるとされるが、その背景としては、①風力発電業界が」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「④風力発電業界の高齢化が進み、さらに若い人が適切に参入参画していくことが難しく、」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「階での人材確保が課題となる中、特に保守・運用については事故予防、稼働率向上、それ」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「エネルギー分野の事業活動を担う専門的人材の効果的な育成等と、それによるエネルギ」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
 - 技術（新しい技術・実証）：
-  - 「今回の事態を受けて再入札を含む今後のロードマップを速やかに示し、業界全体の開発への意欲と機運を維持する必要がある」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「今年6月、政府は改正「再エネ海域利用法」を成立させ、従来は一般海域に限られていた洋上風力の開発を排他的経済水域に大きく広げ、浮体式洋上風力開発への道を開いた」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「Boost for offshore wind as government raises maximum prices in renewable energy auction」（https://www.renewable-ei.org/activities/reports/20250901.php）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
-  - 「６．ＡＩを活用したメンテナンス技術の開発」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「（１）スマートメンテナンスを支える通信技術の開発」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「（２）Condition Monitoring System（ＣＭＳ）高度化技術開発」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「（３）スマートメンテナンス点検プラットフォームの開発」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「ＡＩ等を活用して風車のメンテナンスを効率的に行うことを可能とする技術開発の動向や」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「後も 2020 年に 2,500 万 kW、2030 年までに 6,650 万 kW の洋上風力を開発し、欧州全体に」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「なお、出力量は国立研究開発法人新エネルギー・産業」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「技術総合開発機構（ＮＥＤＯ）の調査によるものであり、単機出力10kW以上かつ総出力20kW以上の風力発電」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「国の実証事業となっている8」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「るために実証事業が行われてきたとされる9」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
+  - 「シフト作成18時間→3時間、売り上げ報告書2時間→10分 AI使いホテル業務を効率化 髙倉コーポレーション」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「自律AIに懸念 米アップル報告 「指示に逆らう恐れ」」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「当社が 2024 年 1 月に、約 2000 億円を投じて日本風力開発を子会社化したの$ぉ、こうした現状認識が背景にあります」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「ませんが、日本風力開発にもゃ、当面洋上風力を手控えて陸上風力に専念するように伝えています」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「https://www.enecho.meti.go.jp/category/saving_and_new/saiene/yojo_furyoku/dl/legal/central_unyou.pdf)」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
+  - 「開発進むスバンの現状と可能性（インドネシア）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「欧州では、デンマークやオランダを中心に1990年代から実証と商用化を進め、続いて英国やノルウェーも市場を拡大してきた歴史がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「浮体式は日本のように険しい海底地形を持つ国に適しており、実証が進めば将来的に国内への導入ポテンシャルは大きい」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「出所：国立研究開発法人産業技術総合研究所「産総研マガジン『洋上風力発電とは？―なぜ今注目されるのか―』」を基にジェトロ作成」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「日本風力開発協会によると、日本の本格洋上風力発電（陸上からの直接アクセスができず船を要するもの）の累積発電量は、2024年末で約253.4MWに達した」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「欧州ではこれまで、大型タービンの量産体制を確立したシーメンスガメサ（スペイン）やべスタス（デンマーク）が、早期から欧州各国に製造拠点を設置し、現地部品メーカーとの共同開発を進めることでサプライチェーンの強化に成功してきた実績がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「また、日本通運やDENZAIとも国内サプライチェーン強化を目的に協力覚書を締結するなど、日系企業との連携も進めている」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「こうした方針のもと、2024年3月に設立された浮体式洋上風力技術研究組合（FLOWRA）は欧州・米国をはじめとする海外諸機関との連携を重視し、浮体式の「低コスト化」や「量産化技術」の確立に取り組んでいる」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「浮体・ケーブルなどの要素技術開発や、EEZやアジア大洋州地域展開のための浮体式実証と、大水深における施工等の低コスト化」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「国土交通省では、令和8年度は下記2つのテーマを掲げて、洋上風力発電の施工方法に関する技術開発を支援していく方針です」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=5654）
 - 検索結果の抜粋：
+  - 「Outlook for offshore wind in Japan in 2026 | Aegir Insights — Outlook for offshore wind in Japan in 2026 | Aegir Insights Aegir Insights https://www.aegirinsights.com > articles」（https://www.aegirinsights.com/articles/outlook-for-offshore-wind-in-japan-in-2026）
+  - 「South Korea Floating Offshore Wind Market (2026-2031) — South Korea Floating Offshore Wind Market (2026-2031) MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/floating-offshore-wind-market/South-Korea）
   - 「浮体式 洋上風力 トップ3社に聞く、 日本 が直面する課題と突破口 — 浮体式 洋上風力 トップ3社に聞く、 日本 が直面する課題と突破口 ウインドジャーナル https://windjournal.jp > 業界トピック」（https://windjournal.jp/117237/）
   - 「世界で急拡大する浮体式 洋上風力 発電と我が国の課題 — 世界で急拡大する浮体式 洋上風力 発電と我が国の課題 東京大学 PDF https://lemons.k.u-tokyo.ac.jp > symposium > 1-2_...」（https://lemons.k.u-tokyo.ac.jp/symposium/4/1-2_%E4%B8%96%E7%95%8C%E3%81%A7%E6%80%A5%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E6%B5%AE%E4%BD%93%E5%BC%8F%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E3%81%AE%E8%AA%B2%E9%A1%8C.pdf）
   - 「丸紅の再生可能エネルギーへの取り組み ―欧州 洋上風力 発電 ... — 丸紅の再生可能エネルギーへの取り組み ―欧州 洋上風力 発電 ... 一般社団法人日本貿易会 https://www.jftc.jp > monthly > feature > detail > entry-516」（https://www.jftc.jp/monthly/feature/detail/entry-516.html）
@@ -4687,8 +4689,6 @@
   - 「令和8年度 予算 「 洋上風力 発電人材育成事業費 補助金 」の事務 ... — 令和8年度 予算 「 洋上風力 発電人材育成事業費 補助金 」の事務 ... 資源エネルギー庁 https://www.enecho.meti.go.jp > appli > public_offer」（https://www.enecho.meti.go.jp/appli/public_offer/2025/0127_02.html）
   - 「洋上風力発電事業に必要な人材数を推計 2050 年には48,500 人が必要 –... — Oct 3, 2023 · 今後、 2050 年カーボンニュートラル達成を目指し、洋上風力発電の導入ならびに運用を着実に進めるにあたり、人材の不足が懸念されていますが、今回の検討が解決に向けた一助になればと考えています。」（https://jwpa.jp/information/7798/）
   - 「洋上風力人材育成プロジェクト - 日本財団 — Nov 7, 2024 · 洋上風力発電の国際的機関であるGWO（国際風力機関）の認証を受けた訓練を提供する拠点です。年間に最大1,000人の訓練能力を有し、高所作業や海上サバイバル訓練などのGWO認証訓練に加えて世界初の実海域での洋上風車への移乗訓練など、洋上風力発電の実践的なメンテナンス作業を見据えた ...」（https://www.nippon-foundation.or.jp/what/projects/offshorewind）
-  - 「2050年カーボンニュートラルに向けた 洋上風力発電人材育成の取り組み... — 日本財団洋上風力人材育成センター(24年11月完成) ・ 洋上風力発電の現場を有し、古くから漁業・造船業など海とともに発展してきた長崎県に拠点を設置 • これまでの知見を活用し、長崎県が「洋上風力発電の人材育成のモデル拠点」となることを目指す」（https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai77/77shiryou2_3.pdf）
-  - 「JWPA事務局:日本財団助成金事業成果報告 ~洋上風力必要人材数推計結果... — 1. はじめに 洋上風力発電に対する期待の高まりを受け、一般社団法人日本風力発電協会(JWPA)では、公益財団法人日本財団からの助成金を受け、洋上風力発電の人材育成を進めていくために必要と考えられる調査・検討を実施した。」（https://assoc.skr.jp/jwpa/wp/wp-content/uploads/2023/06/JWPA-online2022-archive03.pdf）
 
 ## 小型モジュール炉（small modular reactor）
 - 文脈：12 GX ⑥次世代革新炉

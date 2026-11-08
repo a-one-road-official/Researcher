@@ -8,9 +8,57 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T21:45:24.761510+00:00",
+ "researched_at": "2026-11-08T04:51:17.762823+00:00",
  "evidence": {
   "一次情報の探し方": [
+   {
+    "quote": "M&Aでは、決算書の数字よりも「いまの実力」に近いため、価格算定の土台として使われます",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書は、年に1回しか締まりません",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3月決算の会社を10月に検討する場合、手元の決算書は半年以上前の姿です",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "たとえば3月決算の会社で、今期4〜9月の6か月が締まっているなら、「前期通期 ＋ 今期4〜9月 − 前期4〜9月」です",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1. 決算書が古くなっている",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "どちらも、前期決算だけでは実態がわかりません",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "直近2期の決算書と、今期・前期同期間の月次試算表がそろっているか",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その場合は前期決算を土台にし、不確実な分を価格から差し引くか、後払いにします",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "決算期が異なる会社をCompsで比較する方法｜CY化・スタブ期間・予想年度｜大手町プレップ",
     "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
@@ -156,7 +204,27 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "実例": [
+   {
+    "quote": "国内だけでComp Setを組んでも、3月決算と12月決算・9月決算の会社が混在するケースは珍しくありません",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2. 一過性の大型受注が混ざる",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "決算期が異なる会社をCompsで比較する方法｜CY化・スタブ期間・予想年度｜大手町プレップ",
     "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
@@ -232,6 +300,36 @@
   ],
   "失敗・落とし穴": [
    {
+    "quote": "LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴｜M&A、中の人",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "LTMと「年換算」の違い：3つの落とし穴",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "月次の締めは何か月遅れか（2か月以上なら要注意）",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
     "quote": "で解説）の代替として使う近似値である点には注意が必要です",
     "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
     "pass": 3,
@@ -287,86 +385,38 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "実例": [
-   {
-    "quote": "国内だけでComp Setを組んでも、3月決算と12月決算・9月決算の会社が混在するケースは珍しくありません",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.obc.co.jp/360/list/post433",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
+    "url": "https://note.com/chirimo/n/n508bc5858174",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kobelcosys.co.jp/column/monozukuri/251/",
+    "url": "https://note.com/loots/n/n087b9f4d306f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ishiomaru.com/differences/",
+    "url": "https://note.com/takonove/n/ne3545384d432",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/accounting/basic/68465/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://globis.jp/article/7092/",
+    "url": "https://note.com/lucky_bee22/n/n4be1125a8104",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.wallstreetprep.com/knowledge/calendarization/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://corporatefinanceinstitute.com/resources/accounting/calendarization/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://breakingintowallstreet.com/kb/finance/last-twelve-months-ltm/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://finance-able.com/blog/calendarization/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ibinterviewquestions.com/guides/valuation-investment-banking/ltm-vs-ntm-multiples-trailing-forward-calendarized",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.parikh.financial/glossary/last-twelve-months-ltm/",
+    "url": "https://note.com/keirisennsi/n/n351448f8ffd6",
     "status": "ok",
     "method": "http"
    }
@@ -376,114 +426,58 @@
   {
    "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） site:note.com",
    "results": [
-    "https://www.obc.co.jp/360/list/post433",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "https://ishiomaru.com/differences/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://www.youtube.com/watch?v=RZr9Wz1WPKI",
-    "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://globis.jp/article/7092/",
-    "https://note.com/ma_nakanohito/n/nfb2926887341"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） note",
-   "results": [
-    "https://www.obc.co.jp/360/list/post433",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "https://ishiomaru.com/differences/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://www.youtube.com/watch?v=RZr9Wz1WPKI",
-    "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://globis.jp/article/7092/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） やり方",
-   "results": [
-    "https://www.obc.co.jp/360/list/post433",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "https://ishiomaru.com/differences/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://www.youtube.com/watch?v=RZr9Wz1WPKI",
-    "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://globis.jp/article/7092/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） 事例",
-   "results": [
-    "https://www.obc.co.jp/360/list/post433",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "https://ishiomaru.com/differences/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://www.youtube.com/watch?v=RZr9Wz1WPKI",
-    "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://globis.jp/article/7092/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls",
-   "results": [
-    "https://www.wallstreetprep.com/knowledge/calendarization/",
-    "https://corporatefinanceinstitute.com/resources/accounting/calendarization/",
-    "https://breakingintowallstreet.com/kb/finance/last-twelve-months-ltm/",
-    "https://www.youtube.com/watch?v=rCrarrkKX7I",
-    "https://finance-able.com/blog/calendarization/",
-    "https://ibinterviewquestions.com/guides/valuation-investment-banking/ltm-vs-ntm-multiples-trailing-forward-calendarized",
-    "https://www.parikh.financial/glossary/last-twelve-months-ltm/",
-    "https://www.fe.training/free-resources/accounting/last-twelve-months-ltm/",
-    "https://www.wallstreetmojo.com/calendarization/",
-    "https://ibinterviewquestions.com/blog/ltm-vs-ntm-multiples-calendarization"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "site:note.com 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）",
-   "results": [
-    "https://note.com/zuruzirou/n/nf4aefd3bc596",
     "https://note.com/ma_nakanohito/n/nfb2926887341",
     "https://note.com/chirimo/n/n508bc5858174",
     "https://note.com/loots/n/n087b9f4d306f",
     "https://note.com/takonove/n/ne3545384d432",
     "https://note.com/lucky_bee22/n/n4be1125a8104",
-    "https://note.com/alive_racoon3752/n/n6afa3fccf64d",
+    "https://note.com/keirisennsi/n/n351448f8ffd6",
     "https://note.com/shingeki_saisei/n/nbef848b1dac8"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
+  },
+  {
+   "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） note",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） やり方",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） 事例",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）",
+   "results": [
+    "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "https://note.com/loots/n/n087b9f4d306f",
+    "https://note.com/takonove/n/ne3545384d432",
+    "https://note.com/lucky_bee22/n/n4be1125a8104",
+    "https://note.com/fin_narrator/n/n6fefa57a6712",
+    "https://note.com/keirisennsi/n/n351448f8ffd6",
+    "https://note.com/fayanasan/n/nf322d29105cb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）",
@@ -493,11 +487,11 @@
     "https://x.com/F380503545921/status/2098005206474924190",
     "https://x.com/F380503545921/status/2098005204218400995",
     "https://x.com/MeetsDX/status/2106903972066038104",
-    "https://x.com/rSu8bySbnrSIDPX/status/2075923329631047694",
-    "https://x.com/solavia_A/status/2088155227161764011"
+    "https://x.com/solavia_A/status/2088155227161764011",
+    "https://x.com/rSu8bySbnrSIDPX/status/2075923329631047694"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -508,90 +502,165 @@
     "https://jp.linkedin.com/in/史果-柏原-6a0697408",
     "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系でいう-q1-は基本的に-first-quarter第1四半期-activity-7444178554004803584-pSme",
     "https://www.linkedin.com/posts/activity-7414304935854501888-vnuj",
-    "https://jp.linkedin.com/posts/俊彦-木津-16287b37a_自社では何を見える化すればよいのか-ここまで経営の見える化についてお伝えしてきました-activity-7498880784049549312--hKU",
+    "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系企業におけるクオーターの使われ方-ビジネスや金融業界ではクオーター-activity-7378580217256312832-TewQ",
     "https://jp.linkedin.com/posts/義道-渡邉-820883175_月次決算の打合せで同じ課題が何度も出てくることがあります数字を見てここを改善-activity-7503569046563467264-ugFg",
-    "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系企業におけるクオーターの使われ方-ビジネスや金融業界ではクオーター-activity-7378580217256312832-TewQ"
+    "https://jp.linkedin.com/posts/俊彦-木津-16287b37a_自社では何を見える化すればよいのか-ここまで経営の見える化についてお伝えしてきました-activity-7498880784049549312--hKU",
+    "https://jp.linkedin.com/posts/tomokonakao_米国日系企業向け棚卸の準備ポイント-今年も残すところ一か月となり１２月決算-activity-7399446864561029120-Vn7H"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:facebook.com 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）",
    "results": [
-    "https://www.facebook.com/BIPROGY/videos/同じ売上データなのに数字が合わない原因はデータの意味や算出ルールの違いかもデータ活用で押さえたいポイントを解説ホワイトペーパーはこちらhttpsformbipr/2031634644162769/",
+    "https://www.facebook.com/kodatokaikei/",
+    "https://www.facebook.com/Pragma0120/",
     "https://www.facebook.com/digglejp/posts/事業ごとの数字がバラバラで全社の状況が見えづらくなっていませんか事業ごとに管理方法が違う見込み更新のタイミングもバラバラ気づけば全社の着地が読めないまま月末を迎/1472942694845633/",
+    "https://www.facebook.com/Pragma0120/photos/決算書の話をしたい会計事務所経営の話をしたい社長未来会計の現場-vol26-セカンドオピニオン編③ある社長がこんな風におっしゃっていました税理士さんにはお願いし/1378860880911320/",
     "https://www.facebook.com/100026138222127/posts/aiは数字に弱いから経営の数字を見せるのはちょっと研修先の社長から今でもよく聞きますその思い込みのせいで毎月いちばん時間を食う作業をいまだに手で抱え込んでいない/1984071472474108/",
     "https://www.facebook.com/yohei.nakamura.79/videos/どれが好き①②③コメントに数字で教えてhot-limittmrevolutionいい曲っぅぅなによりご本人の歌が衣装よりすごいちょっと難しいかもしれませんがプロ/1930439467936249/",
     "https://www.facebook.com/61576059511092/videos/970246705332362/",
-    "https://www.facebook.com/Pragma0120/photos/決算書の話をしたい会計事務所経営の話をしたい社長未来会計の現場-vol26-セカンドオピニオン編③ある社長がこんな風におっしゃっていました税理士さんにはお願いし/1378860880911320/",
-    "https://www.facebook.com/61576059511092/videos/1193279339533729/"
+    "https://www.facebook.com/17841427083835312/videos/1046505090062023/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） note 社長",
-   "results": [
-    "https://www.obc.co.jp/360/list/post433",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "https://ishiomaru.com/differences/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://www.youtube.com/watch?v=RZr9Wz1WPKI",
-    "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://globis.jp/article/7092/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） X 投稿",
-   "results": [
-    "https://www.obc.co.jp/360/list/post433",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "https://ishiomaru.com/differences/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://www.youtube.com/watch?v=RZr9Wz1WPKI",
-    "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://globis.jp/article/7092/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls site:linkedin.com",
    "results": [
-    "https://in.linkedin.com/in/jalaj30",
-    "https://in.linkedin.com/in/anushka-awasthi-540620216",
-    "https://in.linkedin.com/in/rahul-rajesh-mulchandani",
-    "https://www.linkedin.com/in/raj18",
-    "https://in.linkedin.com/in/nishyads",
-    "https://www.linkedin.com/in/chris-casucci-4515a1b",
-    "https://in.linkedin.com/in/nishit-shah-spjimr",
-    "https://in.linkedin.com/in/niprojitghosh",
     "https://www.linkedin.com/posts/-kanhaiyalal_calendarization-financialalignment-comparablecompanies-activity-7347285688414887936-fNc_",
-    "https://www.linkedin.com/posts/dheepakram007_corporateactions-fiscalyear-accounting-activity-7397716634800615424-beZ9"
+    "https://www.linkedin.com/posts/dheepakram007_corporateactions-fiscalyear-accounting-activity-7397716634800615424-beZ9",
+    "https://www.linkedin.com/advice/0/youre-navigating-merger-different-fiscal-year-ends-r5byc",
+    "https://www.linkedin.com/posts/smchoga_comparable-company-analysis-activity-7345916938214109184-ODZD",
+    "https://www.linkedin.com/learning/comparable-valuation-analysis/last-twelve-months-ltm",
+    "https://www.linkedin.com/posts/dr-bhoomi_investmentbankingcourse-wizenius-ebitda-activity-7502701296077127681-8zVV",
+    "https://www.linkedin.com/posts/ayushrawatnew_valuation-finance-learningjourney-activity-7448640356755148800-wRa_",
+    "https://www.linkedin.com/posts/vasco-mwakalasya-a23954366_valuation-corporatefinance-financialmodeling-activity-7447727307160682497-DoBh"
    ],
    "engines": [
     "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 8
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 3,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "M&Aでは、決算書の数字よりも「いまの実力」に近いため、価格算定の土台として使われます",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書は、年に1回しか締まりません",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3月決算の会社を10月に検討する場合、手元の決算書は半年以上前の姿です",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "たとえば3月決算の会社で、今期4〜9月の6か月が締まっているなら、「前期通期 ＋ 今期4〜9月 − 前期4〜9月」です",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1. 決算書が古くなっている",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "どちらも、前期決算だけでは実態がわかりません",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "直近2期の決算書と、今期・前期同期間の月次試算表がそろっているか",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その場合は前期決算を土台にし、不確実な分を価格から差し引くか、後払いにします",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2. 一過性の大型受注が混ざる",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴｜M&A、中の人",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "LTMと「年換算」の違い：3つの落とし穴",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "月次の締めは何か月遅れか（2か月以上なら要注意）",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 4,
  "first_researched_at": "2026-11-07T10:53:26.370812+00:00"
 }
