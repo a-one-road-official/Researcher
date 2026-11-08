@@ -8,8 +8,16 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-08T09:39:46.649500+00:00",
+ "researched_at": "2026-11-08T17:24:37.323431+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimate source acquisition, rendering, storage, labeling, evaluation, and downstream indexing together.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "What Is Boilerplate Removal? Methods and Evaluation",
@@ -177,14 +185,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimate source acquisition, rendering, storage, labeling, evaluation, and downstream indexing together.",
-    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -194,11 +194,6 @@
     "url": "https://note.com/55clotho/n/n816d179b53ec",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://note.com/53___/n/n0e4a04e4ce5b",
@@ -211,12 +206,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://note.com/stamp_/n/nd9ab3d346f58",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hiro924164/n/n183f3e700578",
+    "url": "https://note.com/lilith_li_japan/n/n46deac7eede0",
     "status": "ok",
     "method": "http"
    },
@@ -226,22 +226,12 @@
     "method": "http"
    },
    {
+    "url": "https://www.octoparse.jp/blog/python-web-scraping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://nititech.jp/blog/trafilatura-content-extraction/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nodakoubou.net/extractarticle.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://web2md.org/ja/blog/copy-webpage-without-ads",
     "status": "ok",
     "method": "http"
    },
@@ -251,27 +241,17 @@
     "method": "http"
    },
    {
+    "url": "https://web2md.org/ja/blog/copy-webpage-without-ads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.octoparse.jp/blog/web-scraping",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://github.com/u6k/extract-content",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.octoparse.jp/blog/python-web-scraping",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://scrapegraphai.com/glossary/data-extraction/how-to-extract-only-the-main-content-from-a-web-page",
+    "url": "https://nodakoubou.net/extractarticle.html",
     "status": "ok",
     "method": "http"
    },
@@ -281,7 +261,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://crawl.sarv.com/glossary/main-content-extraction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scrapegraphai.com/glossary/data-extraction/how-to-extract-only-the-main-content-from-a-web-page",
     "status": "ok",
     "method": "http"
    },
@@ -302,12 +292,12 @@
    "query": "Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例） site:note.com",
    "results": [
     "https://note.com/55clotho/n/n816d179b53ec",
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "https://note.com/53___/n/n0e4a04e4ce5b",
     "https://note.com/niti_technology/n/nf614a498b089",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "https://note.com/stamp_/n/nd9ab3d346f58",
-    "https://note.com/hiro924164/n/n183f3e700578",
-    "https://note.com/mirecat/n/nd6cb28af7b87"
+    "https://note.com/lilith_li_japan/n/n46deac7eede0",
+    "https://note.com/hiro924164/n/n183f3e700578"
    ],
    "engines": [
     "ddgs:google"
@@ -320,9 +310,9 @@
     "https://note.com/55clotho/n/n816d179b53ec",
     "https://easegis.jp/blog/readability/",
     "https://note.com/niti_technology/n/nf614a498b089",
+    "https://www.octoparse.jp/blog/python-web-scraping",
     "https://nititech.jp/blog/trafilatura-content-extraction/",
-    "https://nodakoubou.net/extractarticle.html",
-    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "https://www.shtockdata.com/blog/detail01.php",
     "https://web2md.org/ja/blog/copy-webpage-without-ads"
    ],
    "engines": [
@@ -332,87 +322,68 @@
   },
   {
    "query": "Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例） やり方",
-   "results": [
-    "https://www.shtockdata.com/blog/detail01.php",
-    "https://easegis.jp/blog/readability/",
-    "https://note.com/55clotho/n/n816d179b53ec",
-    "https://note.com/niti_technology/n/nf614a498b089",
-    "https://nititech.jp/blog/trafilatura-content-extraction/",
-    "https://nodakoubou.net/extractarticle.html",
-    "https://www.octoparse.jp/blog/web-scraping",
-    "https://web2md.org/ja/blog/copy-webpage-without-ads"
-   ],
-   "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
-   ],
-   "n_hits": 8
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例） 事例",
    "results": [
     "https://easegis.jp/blog/readability/",
     "https://note.com/55clotho/n/n816d179b53ec",
-    "https://github.com/u6k/extract-content",
     "https://note.com/niti_technology/n/nf614a498b089",
     "https://nititech.jp/blog/trafilatura-content-extraction/",
-    "https://nodakoubou.net/extractarticle.html",
     "https://www.octoparse.jp/blog/web-scraping",
-    "https://web2md.org/ja/blog/copy-webpage-without-ads",
-    "https://www.octoparse.jp/blog/python-web-scraping"
+    "https://www.octoparse.jp/blog/python-web-scraping",
+    "https://nodakoubou.net/extractarticle.html"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "main content extraction boilerplate removal related articles scraping",
    "results": [
-    "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
-    "https://scrapegraphai.com/glossary/data-extraction/how-to-extract-only-the-main-content-from-a-web-page",
     "https://simpleprog.com/topics/web-scraping/article-text-extraction",
+    "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
     "https://crawl.sarv.com/glossary/main-content-extraction",
+    "https://scrapegraphai.com/glossary/data-extraction/how-to-extract-only-the-main-content-from-a-web-page",
     "https://mydatascraper.com/services/website-content-scraping/",
     "https://www.markdownee.com/",
-    "https://praveentn.live/learn/concepts/text-extraction-and-boilerplate-removal",
-    "https://brightdata.com/glossary/boilerplate-removal"
+    "https://www.cambridge.org/core/journals/natural-language-engineering/article/an-unsupervised-perplexitybased-method-for-boilerplate-removal/5E589D838F1D1E0736B4F52001150339"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:note.com Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）",
    "results": [
-    "https://note.com/karupoimou/n/n4c97d4a2d74f",
     "https://note.com/55clotho/n/n816d179b53ec",
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "https://note.com/53___/n/n0e4a04e4ce5b",
     "https://note.com/niti_technology/n/nf614a498b089",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "https://note.com/stamp_/n/nd9ab3d346f58",
-    "https://note.com/hiro924164/n/n183f3e700578",
-    "https://note.com/mirecat/n/nd6cb28af7b87"
+    "https://note.com/lilith_li_japan/n/n46deac7eede0",
+    "https://note.com/hiro924164/n/n183f3e700578"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:x.com Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）",
    "results": [
-    "https://jf.x.com/images/media-preview/2112396153526616345",
-    "https://jf.x.com/images/media-preview/2105648928486310278",
+    "https://jf.x.com/images/media-preview/2117203212642222105",
     "https://jf.x.com/images/media-preview/2112070581218939359",
-    "https://x.com/beku_AI/article/2036353582694596632",
     "https://x.com/_ryu15_/status/2096526866865950879",
+    "https://x.com/beku_AI/article/2036353582694596632",
     "https://x.com/OWATA_YT/status/2114138368191975735",
-    "https://x.com/1055Abcde/status/2115197169259192723"
+    "https://x.com/jaga_farm/status/2021350691902718227",
+    "https://x.com/tetsu_tetsu333/status/2102035483308023949"
    ],
    "engines": [
     "ddgs:bing"
@@ -423,12 +394,12 @@
    "query": "site:linkedin.com Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）",
    "results": [
     "https://www.linkedin.com/help/linkedin/answer/a522475?lang=ja-JP",
+    "https://jp.linkedin.com/",
     "https://business.linkedin.com/ja-jp/marketing-solutions/linkedin-pages",
-    "https://jp.linkedin.com/pulse/linkedinでリードを獲得する方法無料施策からsales-navigator広告活用まで徹底解説-嘉一-中島-zquuc",
     "https://www.linkedin.com/help/linkedin/topic/a150004?lang=ja",
     "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
-    "https://jp.linkedin.com/posts/百科-中田-2b88523a9_llmによる情報抽出入門-日常のリアルなデータから価値ある情報を取り出す技術-activity-7489628395862147072-hSt_",
-    "https://uk.linkedin.com/posts/yuki-matsuzawa29_カナダプラスチック製品のリサイクル含有量と表示義務化ルールを提案-esg-journal-activity-7057143609220890624-RVL-"
+    "https://uk.linkedin.com/posts/yuki-matsuzawa29_カナダプラスチック製品のリサイクル含有量と表示義務化ルールを提案-esg-journal-activity-7057143609220890624-RVL-",
+    "https://jp.linkedin.com/pulse/お客さんがlineで御社のurlを送ったとき写真つきのカードは出ていますか-真一-宮崎-hww5e"
    ],
    "engines": [
     "ddgs:google"
@@ -439,13 +410,14 @@
    "query": "site:facebook.com Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）",
    "results": [
     "https://www.facebook.com/OfficeACT/posts/121341331301279/",
+    "https://www.facebook.com/KashiwazakiTakeout/photos/repost-syoutei2580-おはようございます️-将軍寿司の本日のおすすめメニュー書き上げました今日はメニューが多く入りきらないかと思いました-将軍寿/133410261676269/",
     "https://www.facebook.com/sachiko.iwano/videos/種をとるならいちばん大きく完熟した実からなんですがわたし流は採り遅れちゃったりほかの生き物に食べられちゃった実を活用する方法ザルの上で種の部分を水洗いして取り出/4456908421121023/",
     "https://www.facebook.com/Microsoft365Japan/videos/-word表からテキストを抽出表を解除してテキストのみの状態にしたいでも表を選択し削除するとテキストも消えてしまうと悩んだことはありませんか実は表の罫線を瞬時に/509216454871278/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
-   "n_hits": 3
+   "n_hits": 4
   },
   {
    "query": "Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例） note 社長",
@@ -455,29 +427,27 @@
     "https://note.com/niti_technology/n/nf614a498b089",
     "https://nititech.jp/blog/trafilatura-content-extraction/",
     "https://nodakoubou.net/extractarticle.html",
-    "https://www.octoparse.jp/blog/web-scraping",
-    "https://www.octoparse.jp/blog/python-web-scraping",
+    "https://web2md.org/ja/blog/copy-webpage-without-ads",
     "https://www.shtockdata.com/blog/detail01.php"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例） X 投稿",
    "results": [
     "https://easegis.jp/blog/readability/",
-    "https://github.com/u6k/extract-content",
     "https://note.com/55clotho/n/n816d179b53ec",
+    "https://github.com/u6k/extract-content",
     "https://note.com/niti_technology/n/nf614a498b089",
     "https://nititech.jp/blog/trafilatura-content-extraction/",
     "https://nodakoubou.net/extractarticle.html",
-    "https://web2md.org/ja/blog/copy-webpage-without-ads"
+    "https://ai-deck.app/ja/blog/defuddle/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -489,8 +459,8 @@
     "https://de.linkedin.com/pulse/web-scraping-ai-pipelines-what-actually-works-2026-47billion-7uaof?tl=de",
     "https://pe.linkedin.com/pulse/ai-ip-addressing-challenges-data-scraping-oecd-view-ip-solved-ztk6c",
     "https://www.linkedin.com/pulse/web-scraping-ai-pipelines-what-actually-works-2026-47billion-7uaof",
-    "https://www.linkedin.com/pulse/effective-content-extraction-workflow-i-trust-frank-enendu-msc-tleie",
-    "https://www.linkedin.com/pulse/free-riding-third-party-content-solution-ai-scraping-ribera-martínez-ifkle"
+    "https://www.linkedin.com/pulse/free-riding-third-party-content-solution-ai-scraping-ribera-martínez-ifkle",
+    "https://www.linkedin.com/pulse/effective-content-extraction-workflow-i-trust-frank-enendu-msc-tleie"
    ],
    "engines": [
     "ddgs:google"
@@ -499,9 +469,9 @@
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ19頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 16,
+ "runs": 17,
  "first_researched_at": "2026-11-05T15:19:46.211417+00:00"
 }

@@ -12299,13 +12299,32 @@
 
 ## PRTR 届出事業所数 電気めっき業・金属製品製造業の業種別・都道府県別の年次（環境省・経産省の届出の集計表・事業所の物理の足跡として工業統計の事業所数と並べる2本目の出どころ・site:env.go.jp・site:meti.go.jp・4-109）（PRTR notified facilities electroplating fabricated metal products by industry annual Japan）
 - 文脈：全体・統計
+- 事業所数・社数：
+  - 「県全体の継続物質を届け出た事業所数は平成22 年度が 1,300 事業所で、平成 21 年」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「度の 1,332 事業所より 2.4%減尐しており、同区域の継続物質を届け出た事業所数の前年度」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+- 社員数・平均社員数：
+  - 「事業者のうち、 従業員数21 人以上であって、 製造業など24 の業種に属する事業を営み、」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「1) 対象業種：対象業種に属する事業を営む事業者からの排出量であるが、従業員数、年」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「一定規模(従業員：21人、年間取扱量：1トン)未満の事業所からの排出量」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+- 1人あたり・1社あたり金額：
+  - 「物質名 上位5業種 届出排出量 1事業所当たりの届出排出量 届出移動量 1事業所当たりの届出移動量」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「※上位5 業種の1事業所当たりの届出排出量・移動量について」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+- 10年推移：
+  - 「2. 平成22年度(2010年度)の集計結果の概要 …………………………………………………9」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「柏市 57 292020 42 0 0 292062 169141 892 170033 462096 2.2」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「洗濯業 8 30115 0 0 0 30115 21900 120 22020 52135 0.2」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「移動量 11,183.8 トン)に比べ 4.5%増加していましたが、同区域の継続物質の排出・移動量」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「平成22年度 691 2033291 168471 72 0 2201833 4066041 189 4066230 6268063 71.0」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「表2.8の1 特定被災区域に所在する事業所からの継続物質の届出推移(kg/年)」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「平成22年度 1300 5172249 320185 78 0 5492511 12803227 2127 12805354 18297866 97.1」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「表2.8の2 県全体の継続物質の届出推移(kg/年)」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「表2.8の3 特定被災区域に所在する事業所からの継続物質の届出推移」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「前年度から増加した市町村は旭市と富津市、八街市、山武郡芝山町のみでともに 1 件」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「届出数の増加と減尐は平成21年度に比べ、増加数が尐なくなり、減尐数が多くなりま」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
+  - 「のは一般機械器具製造業で、前年度(平成21年度)から5件増加しています」（https://www.pref.chiba.lg.jp/taiki/toukeidata/prtr/2010/documents/2010count-houkokusho.pdf）
 - 痛み・損（深さの印）：記載なし（読んだ33頁・検索18回）
-- 事業所数・社数：記載なし（読んだ33頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ33頁・検索18回）
 - 受注金額・加工賃収入：記載なし（読んだ33頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ33頁・検索18回）
 - 生産能力・設備：記載なし（読んだ33頁・検索18回）
-- 10年推移：記載なし（読んだ33頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ33頁・検索18回）
 
 ## めっき薬品・表面処理薬品の上場メーカーの有価証券報告書のセグメント売上（JCU・上村工業など・顧客＝受託めっき業の需要の先行・一致の信号として・会社の主張でなく開示の数字・4-109）（listed plating chemical suppliers segment sales Japan JCU C.Uyemura annual report surface treatment demand）

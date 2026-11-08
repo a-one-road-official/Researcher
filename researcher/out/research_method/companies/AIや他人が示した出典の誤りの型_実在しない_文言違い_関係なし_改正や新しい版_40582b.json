@@ -8,11 +8,25 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T09:14:14.639122+00:00",
+ "researched_at": "2026-11-08T17:15:54.785206+00:00",
  "evidence": {
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "A List of Strong Verbs for Academic Writing: Examples and Exercises",
+    "quote": "Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.",
+    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Step 4: Cross-Check with Academic Databases",
+    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A professional editor cross-checks every citation against the original source, corrects formatting, and edits the surrounding text for flow, coherence, and argument strength.",
     "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -86,23 +100,9 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "突き合わせ・推定": [
+  "実例": [
    {
-    "quote": "Step 4: Cross-Check with Academic Databases",
-    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A professional editor cross-checks every citation against the original source, corrects formatting, and edits the surrounding text for flow, coherence, and argument strength.",
-    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.",
+    "quote": "A List of Strong Verbs for Academic Writing: Examples and Exercises",
     "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -123,11 +123,6 @@
     "method": "http"
    },
    {
-    "url": "https://yamanaka-bengoshi.jp/2026/08/07/aisakusei-hallucination-boushi/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "status": "ok",
     "method": "http"
@@ -138,13 +133,18 @@
     "method": "pdf"
    },
    {
+    "url": "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://www.it-houmu.com/archives/2705",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
-    "status": "ok",
+    "url": "https://yamanaka-bengoshi.jp/2026/08/07/aisakusei-hallucination-boushi/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -153,63 +153,78 @@
     "method": "http"
    },
    {
-    "url": "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/",
+    "url": "https://forbesjapan.com/articles/detail/89805",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/atmark_solution/n/n46ae55891da8",
+    "url": "https://law.doshisha.ac.jp/law/attach/page/LAW-PAGE-JA-117/109278/file/houritubunken2014a.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "url": "https://www.ppc.go.jp/files/pdf/280916_siryou1-1_bessi2.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://note.com/kikuad501/n/n4350779e0fed",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/auverimo/n/n7c48e409762f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://yamanaka-bengoshi.jp/2026/10/22/ai-fake-statistics-source-independence/",
+    "url": "https://openai.com/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://oowithai.com/articles/verify-ai-generated-quotes-and-sources/",
+    "url": "https://emanet.jp/column/ai-public-correction/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sukyojuku.com/joho1-generative-ai-literacy/",
+    "url": "https://gemini.google.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ibm.com/think/topics/artificial-intelligence",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://shigyo.ai/blog/2026-05-26-ai-hallucination-sanctions/",
+    "url": "https://www.britannica.com/technology/artificial-intelligence",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://search.google/ways-to-search/ai-mode/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ai-flow-lab.com/ai-answer-wrong-citations/",
+    "url": "https://aistudio.google.com/welcome",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://maisondechatofficial.com/entry/2026/11/05/203000",
+    "url": "https://cloud.google.com/learn/what-is-artificial-intelligence",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/kz2021019/items/4f5f6aebe65403c88737",
+    "url": "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perplexity.ai/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -223,13 +238,13 @@
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/html/2606.21155v3",
+    "url": "https://arxiv.org/html/2602.15871v1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://library.edgewood.edu/artificial-intelligence/hallucinated-citations",
-    "status": "ok",
+    "url": "https://scholarworks.calstate.edu/downloads/p5548244z",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -250,98 +265,97 @@
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://yamanaka-bengoshi.jp/2026/08/07/aisakusei-hallucination-boushi/",
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
+    "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
     "https://www.it-houmu.com/archives/2705",
-    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
-    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
+    "https://www.youtube.com/watch?v=gSnb_sQPvU4",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://note.com/auverimo/n/n7c48e409762f"
+    "https://emanet.jp/column/ai-public-correction/",
+    "https://www.ibm.com/think/topics/artificial-intelligence"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 19
   },
   {
    "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） note",
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://yamanaka-bengoshi.jp/2026/08/07/aisakusei-hallucination-boushi/",
-    "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
-    "https://www.it-houmu.com/archives/2705",
-    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
-    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
+    "https://www.youtube.com/watch?v=Ot9jNgftXDI",
+    "https://forbesjapan.com/articles/detail/89805",
+    "https://law.doshisha.ac.jp/law/attach/page/LAW-PAGE-JA-117/109278/file/houritubunken2014a.pdf",
+    "https://www.ppc.go.jp/files/pdf/280916_siryou1-1_bessi2.pdf",
+    "https://openai.com/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） やり方",
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://yamanaka-bengoshi.jp/2026/08/07/aisakusei-hallucination-boushi/",
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
+    "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
     "https://www.it-houmu.com/archives/2705",
-    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
-    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
+    "https://www.youtube.com/watch?v=gSnb_sQPvU4",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
+    "https://emanet.jp/column/ai-public-correction/",
+    "https://openai.com/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） 事例",
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://yamanaka-bengoshi.jp/2026/08/07/aisakusei-hallucination-boushi/",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
-    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
     "https://www.youtube.com/watch?v=UCHVCjSxmEU",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
+    "https://openai.com/"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 19
   },
   {
    "query": "citation error types hallucination outdated superseded source verification checklist",
    "results": [
     "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
     "https://www.inra.ai/blog/citation-accuracy",
-    "https://arxiv.org/html/2606.21155v3",
-    "https://library.edgewood.edu/artificial-intelligence/hallucinated-citations",
+    "https://arxiv.org/html/2602.15871v1",
+    "https://scholarworks.calstate.edu/downloads/p5548244z",
     "https://paperpile.com/blog/citation-checker-hallucinations/",
     "https://gptzero.me/news/what-counts-as-a-hallucinated-citation",
-    "https://scholarworks.calstate.edu/downloads/p5548244z",
     "https://www.vappingo.com/word-blog/ai-hallucinations-academic-writing/",
-    "https://manusights.com/blog/what-citation-verification-catches",
-    "https://arxiv.org/html/2607.22693v2"
+    "https://manuelgarcia.info/guides/research/guide/training-researchers-recognize-ai-hallucinations",
+    "https://library.edgewood.edu/artificial-intelligence/hallucinated-citations",
+    "https://www.mybib.com/tools/apa-citation-generator"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -355,16 +369,16 @@
     "https://note.com/miuraandpartners/n/n6e2ed30722cc",
     "https://note.com/gifted_viola8806/n/n320003225f39",
     "https://note.com/gifted_viola8806/n/na41c8b925790",
-    "https://note.com/gifted_viola8806/n/n8b8d42d7055b",
     "https://note.com/gifted_viola8806/n/n116ee27016c5",
-    "https://note.com/lovely_moose206/n/nb33d612ffa29",
-    "https://note.com/gifted_viola8806/n/n04144675f0a5"
+    "https://note.com/gifted_viola8806/n/n8b8d42d7055b",
+    "https://note.com/gifted_viola8806/n/n04144675f0a5",
+    "https://note.com/lovely_moose206/n/nb33d612ffa29"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:x.com AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）",
@@ -377,34 +391,34 @@
     "https://x.com/HiromitsuTakagi/status/2118199154128429087",
     "https://x.com/Con_Law_Masa",
     "https://x.com/lawvis",
-    "https://x.com/eikichi_keppy",
-    "https://x.com/ponaken"
+    "https://x.com/ak_tch/with_replies",
+    "https://x.com/eikichi_keppy"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:linkedin.com AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）",
    "results": [
     "https://jp.linkedin.com/in/kurokawa-naoki-law",
-    "https://jp.linkedin.com/in/yoichi-honda",
     "https://jp.linkedin.com/in/hidehiko-kasaba-813baa133",
-    "https://jp.linkedin.com/in/ryu-nakasaki-ab6747b8",
+    "https://jp.linkedin.com/in/yoichi-honda",
     "https://jp.linkedin.com/in/shohei-teramae-01181b24a/ja",
-    "https://vn.linkedin.com/in/daisuke-yamamoto-557137198",
+    "https://jp.linkedin.com/in/ryu-nakasaki-ab6747b8",
     "https://jp.linkedin.com/in/hiroshiooshima1983",
-    "https://jp.linkedin.com/in/ai141",
+    "https://vn.linkedin.com/in/daisuke-yamamoto-557137198",
     "https://jp.linkedin.com/in/kota-fujinuma-593329173",
-    "https://jp.linkedin.com/in/%E8%8B%B1%E6%B2%BB-%E5%8A%A0%E8%B3%80-382966254"
+    "https://jp.linkedin.com/in/ai141",
+    "https://jp.linkedin.com/in/hiranumaconsulting"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:facebook.com AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）",
@@ -424,73 +438,73 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） note 社長",
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://yamanaka-bengoshi.jp/2026/08/07/aisakusei-hallucination-boushi/",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
-    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
-    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
+    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
+    "https://openai.com/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） X 投稿",
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://yamanaka-bengoshi.jp/2026/08/07/aisakusei-hallucination-boushi/",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
-    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
-    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "https://www.youtube.com/watch?v=UCHVCjSxmEU",
-    "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
+    "https://openai.com/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "citation error types hallucination outdated superseded source verification checklist site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/why-we-cant-yet-blindly-trust-ai-answers-what-do-patrick-e-lawrence-86iwe",
-    "https://www.linkedin.com/in/damien-charlotin-45769278/",
-    "https://www.linkedin.com/pulse/hallucinations-happen-heres-how-investors-can-keep-ai-andrew-west-mtdzc",
-    "https://www.linkedin.com/posts/jdiazdecaro_rwe-causalinference-ai-activity-7485608630164025345-bHAF",
     "https://www.linkedin.com/pulse/ai-legal-problem-nobody-talking-more-dangerous-than-kalim-ullah-101if",
-    "https://www.linkedin.com/posts/nikunj-dang-3942454_enterpriseai-aitransformation-designthinking-activity-7508722408682430464-otFN",
-    "https://www.linkedin.com/posts/carolynelefant_douglasvdeutsche-activity-7501614639504437248-7fCB",
+    "https://www.linkedin.com/pulse/hallucinations-happen-heres-how-investors-can-keep-ai-andrew-west-mtdzc",
     "https://www.linkedin.com/posts/%F0%9F%8E%AF-ming-tommy-tang-40650014_1-claude-code-just-hallucinated-ensembl-activity-7429898761835028481-NQOu",
     "https://www.linkedin.com/posts/bradleygramhansen_navier-stokes-lost-in-translation-why-lean-activity-7514404677787029504-7GlV",
-    "https://www.linkedin.com/posts/caroline-trotman_ai-knowledgemanagement-digitaltwin-activity-7519172616411197440-H53u"
+    "https://www.linkedin.com/posts/carolynelefant_douglasvdeutsche-activity-7501614639504437248-7fCB",
+    "https://www.linkedin.com/posts/ruben-hassid_stop-embarrassing-yourself-with-outdated-activity-7417445538612101121-ayRa",
+    "https://www.linkedin.com/posts/caroline-trotman_ai-knowledgemanagement-digitaltwin-activity-7519172616411197440-H53u",
+    "https://www.linkedin.com/pulse/from-human-bias-ai-hallucinations-truth-false-dube-ph-d-cv1vc",
+    "https://www.linkedin.com/posts/jdiazdecaro_rwe-causalinference-ai-activity-7485608630164025345-bHAF"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T19:49:28.238004+00:00"
 }

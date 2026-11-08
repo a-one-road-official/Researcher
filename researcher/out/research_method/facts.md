@@ -1345,7 +1345,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -2074,38 +2074,45 @@
 ## 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）（OSINT document metadata job postings tech blog business process）
 - 文脈：企業
 - 手順・やり方：
-  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】 | Octoparse」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「あわせて、OSINTの土台になる「公開情報を効率的に集める」部分を、手作業に頼らず進める方法（」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTには決まった唯一の手順はなく、目的に応じて手法を組み合わせます」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTは強力なぶん、使い方を誤ると法的・倫理的な問題につながります」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します」（https://cybersecurity-info.com/column/30403/）
-  - 「OSINTを実践する際には、以下のステップを踏むことが一般的です」（https://cybersecurity-info.com/column/30403/）
-  - 「Claudeのコメント: 政府機関の公式発表そのものが拡散の起点となる点で、外部アクターの偽情報とは異なり、事実（起訴）を素材に誤った全体像を作る国内発の情報操作の典型であり、選挙前の時期設定を監視指標にできる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「同氏によれば、エージェントは課された攻撃の課題を意図と異なる方法で解こうとしたにすぎず、OpenAIは事態を把握していればいつでも停止できた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「2026年9月に30億ユーロ（約5,100億円）を調達して以来、初の大型製品となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 「再移住」という穏当な政策語と非営利法人の体裁で大量送還論を包み、刑事上の基準を下回る貼り紙で地域に浸透させる手法は、法執行の閾値の手前で過激な主張を常態化させるグレーゾーン型の世論形成であり、規制の空白をどう扱うかが国内の情報安全保障上の論点になる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「作者は「独裁者に対してできる最善のことは、人々に彼を笑わせることだ」と述べ、3Dプリントの小型像1万体を配る計画である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「天安門事件を記念する「恥辱の柱」が香港で撤去された後、小型の複製が世界に広がった経験に学んだ」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 小型複製を大量に配り撤去後も拡散させる手法は、物理的な展示を参加型の分散ナラティブに変える点で、影響工作が用いるミーム化と同じ構造を持ち、民主側の対抗言説（カウンターナラティブ）の実践例として位置づけられる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「原告側は、ChatGPTが妄想を強め、自殺念慮を肯定し、自傷の方法を伝えたと主張し、利用者に迎合する「sycophantic design（迎合的設計）」と安全試験の不足を訴える」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 人間の承認を制度上残しても、操縦士が見る情報の提示方法が未設計なら判断は機械の提示に従属しやすく、その入力や表示を欺瞞する攻撃は、人間の認知を標的とする認知戦の領域に重なる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 無力感を広げて投票を控えさせる言説は投票抑圧の典型だが、本件では区割り変更という目に見える抑圧が逆に動員の材料となった」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「武器は、Rapporteurが警察報道官の話としてAR-15に似た半自動小銃とし、The Guardianは要約で自動火器、別の箇所で当局の説明として軍用型の長銃と記す」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 安価で否認しやすいハイブリッド攻撃の典型に当たる手口で、同じ日の件数さえ媒体ごとに割れ、帰属も調査も各国任せのまま不安だけが先に広がる構図そのものが、社会の信頼を削る効果の一部になっている」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「1月に下院多数派となる民主党の歳出担当議員は事業の停止や制限の方法を協議していると、内務環境小委員会の民主党筆頭チェリー・ピングリー議員は語った」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「記事は、在欧米軍の縮小とロシアの影響力拡大につながる大型取引に米国が傾くとのウクライナと欧州の懸念を、この発言が強めるとみる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Public Noticeの寄稿者トム・シャラーは、11月3日の中間選挙で共和党が上院、下院、州知事、州議会、郡の選挙まで広く敗れたとし、「当然の報い」を受けた敗者を8類型に分けて挙げた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Trump replaces chief of staff Susie Wiles with Stephen Miller」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「国連事務総長選のUAE候補を標的にした、自動メール送信型の反対キャンペーン」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「記事の結論はその典型で、党派色の強い媒体が象徴の意味付けを通じて評判の形成に関わる過程を示している」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「2024年型の有権者像を前提にした共和党の区割り変更の誤算」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: イランは議長がXで米有権者の意思を「反戦」として自国の主張に取り込み、最高指導者が米国の不変を説くという二つの層で発信しており、他国の選挙結果を対外的な物語と国内向けの強硬姿勢の双方に利用する典型例である」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
 - 突き合わせ・推定：
-  - 「いずれも共通するのは、「公開情報を広く集め、突き合わせて意味を読む」という流れです」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「集めたあとの「分析・突き合わせ」に時間を回せるのが利点です」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「2026年9月のAI安全論議の主流化を整理し、AI企業を検証する主体の不在を問う論考」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「筆者は、EUではAI法の執行が始まったばかりで、米国では検証が企業自身に委ねられているとし、問うべきは「誰がAI企業を検証するのか」だと論じる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 1件の辞職投稿が1か月で大統領令にまで波及した経緯は、検証機関を欠く領域では、恐怖を喚起する物語が政策議題を左右しやすいことを示しており、AIリスク言説そのものが影響工作の格好の素材になりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「ClimateWorks財団は、個人と財団が気候変動に年110億〜180億ドル（約1兆6千億〜2兆7千億円）を投じていると推計する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 同一スローガンの同時出現は影響工作分析でも協調の兆候とされるが、本稿は団体間の資金の流れを具体的に示しておらず、主張の共有と協調行動を区別する検証が要る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 未公開の草稿を外部のAIサービスに預けた場合、その秘匿性は事業者の規約と自己調査に依存し、利用者側には検証手段がないという構図は、影響工作を調査する機関が分析途中の資料をAIで扱う際の情報保全の課題にも通じる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「米中間選挙に向かったロシア関連の影響工作と、標的であり拡散経路にもなる検証者」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「記事は、ロシアと関係のある影響工作「マトリョーシカ」「オペレーション・オーバーロード」「Storm-1679」の報告を突き合わせる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「VIGINUMは標的を60か国超のメディア等とし、Check Firstは検証記事を通じた偽の主張の増幅も目的に挙げる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「筆者は日本の検証者に、依頼の記録と共有、検証の優先順位付け、不要な拡散を避ける報道の三点を提案する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「イスラエル総選挙で両陣営とも過半数に届かず、出口調査と開票の食い違いと組閣交渉の長期化」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 国内の正当な批判を、根拠を示さずに外国由来のボットによる非真正な活動と呼ぶことは、影響工作への警戒を逆用して批判の正統性を奪う手法であり、「ボット」認定は検証可能な証拠と切り分けて扱う必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 当局提供や買収による移転を許すポリシーの下で認知状態の推定精度が上がれば、脳波の蓄積は個人の心理特性に合わせた影響工作の素材となりうる情報安全保障上の資産になる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 利害当事者である米国企業経営者の予測が検証されないまま欧州の政策の前提に入った経緯は、外国政府の工作でなくとも情報源の利害を問わない政策形成が外部の語りに左右されうることを示し、情報安全保障における情報源評価の重要性と重なる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「判決と投票増の因果は運動団体の主張であり検証は今後の課題だが、数十年の地域組織の基盤が、諦めを誘う情報環境への抵抗力として働いた例と読める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Cotraは、AIへの帰属が約8割で、AIなしとの比較は2026年10月時点の中心推定で約1.8倍だとしたうえで、AIの寄与は増えているとして、基準はすでに超えたというのが最善の推定だと述べた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「外部の科学者が検証できるよう、証拠の透明性も求めている」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「判断を左右する証拠の多くが開発企業の編集権の下にある現状では、AIの脅威評価そのものが企業の情報開示の枠内に置かれ、外部の検証が難しい点が情報安全保障上の核心である」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 編集者を介さず受信箱へ直接届く経路が選挙運動の標準になれば、公開の投稿より第三者の検証が届きにくい配信が増え、選挙期の情報環境の監視は開かれたSNS中心では足りなくなる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「マスク氏はテキサスの選挙に推計2億2400万ドル（約340億円）を投じていた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「凱旋門は推定費用1億ドル（約150億円）のうち1500万ドル（約23億円）を全米人文科学基金から充てる予定である」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「イーロン・マスクは2026年に5億ドル（約750億円）を投じ、テキサス州だけで推計2億2400万ドル（約340億円）を注いだが、同州の共和党は州全体の選挙を全て落とした」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「OnlyFansのデータでは上位5000人が各100万ドル（約1億5000万円）超を稼いだが、登録出演者500万人の平均は年約1000ドル（約15万円）と推計されると報告書は述べる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 航行するタンカーの映像を市場と有権者への信号として使う演出の可能性が指摘される一方、その実態はGreenpeaceやKplerの船舶追跡という公開情報で検証されており、物理的な行動を使った認識操作がOSINT（公開情報調査）によって崩れる例として注目される」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「ドイツの安全保障改革法案に盛り込まれたハックバック権限と、EU域外の民間業者への生体照合の委託」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「別の法案は、警察データを民間企業のAI訓練に渡すことや、インターネット上の生体照合をEU域外の民間業者に委託することを認める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「ニューヨーク・タイムズの推計では、うち約2億2400万ドルをテキサス州に費やしたが、同州上院選では民主党のジェームズ・タラリコ氏が13ポイント差で勝ち、同州で1988年以来の民主党の上院議席を得た」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
 - 一次情報の探し方：
+  - 「北朝鮮によるバイナンスの暗号資産窃取と、偽の採用面接と社内AIツールを経た侵入経路」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「バイナンスのCSO、ジミー・スー氏の説明では、6月に技術者が改ざんされたHomebrewパッケージを導入し、9月には別の技術者が偽の採用面接でコーディング課題を業務端末で実行させられ、EDRを回避するゼロデイのマルウェアが入った」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 侵入の起点が暗号の突破ではなく偽の採用担当者という作られた人物像だった点は、影響工作で用いられる偽ペルソナの手法がサイバー侵入の初期段階に転用されている例であり、報告がイランやロシアにも同様の偽採用の手口を挙げていることから、人を介した欺瞞への対策を技術防御と一体で扱う必要を示している」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 地域の公的発信が途絶えた空白は国内の扇動者だけでなく外国の影響工作にも足場を与えるため、自治体の平時の情報発信はFIMI（外国からの情報操作、干渉）への抵抗力を支える基盤として位置づけるべきである」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Anthropic、Google、OpenAI、Microsoftは、robots.txt（クローラーへの指示ファイル）でAI学習の可否を伝える新たな標準の採用に合意した」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「https://www.thebureau.news/p/chinas-overseas-police-stations-only」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「主な手法は文脈の付け替え（26件）、検証できない情報源、強い感情的な枠付け、公的機関への攻撃（各25件）で、4手法で半数近くを占めた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「：競合の製品・価格・採用状況・プレスリリースなどから戦略の変化を読む」（https://www.octoparse.jp/blog/what-is-osint）
   - 「：取引先の公式情報・登記・IR・報道をもとに、信頼性やリスクを確認する」（https://www.octoparse.jp/blog/what-is-osint）
   - 「：業界ニュース・口コミ・公開統計から市場のトレンドを把握する」（https://www.octoparse.jp/blog/what-is-osint）
@@ -2114,45 +2121,38 @@
   - 「：政府統計、公示情報、地図・気象などの公開データ」（https://www.octoparse.jp/blog/what-is-osint）
   - 「競合100社の価格、業界の求人一覧、製品レビューの束——こうした「同じ形の公開情報をまとめて集める」作業は、人手でコピー＆ペーストするには量が多すぎます」（https://www.octoparse.jp/blog/what-is-osint）
   - 「まずは目的（何を知りたいか）を決め、公式サイト・IR・報道などの一次情報から着手するのがおすすめです」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「PDFを更新しないとどうなるのか？「バージョンが古い」と出たときの原因と安全な対処法」（https://cybersecurity-info.com/column/30403/）
-  - 「採用などの選別アルゴリズムは、排除された人が機会を得ないため誤りの信号を残さず、提供企業は99.9%の精度を主張できるとも指摘した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 研究機関での感染疑いを当局が報道の大半を「虚偽」と否定する構図では、情報の空白に憶測が入り込みやすく、国際保健規則に基づく照会と回答が検証可能な一次情報の基準点として機能するかが、影響工作への耐性を左右する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 裁判所の認定という司法手続きを経ることで、プロパガンダ上の主張が公的な事実の体裁を得て、国内外向けのメディアで繰り返し使える素材になる点に、口実形成の段階が進んだことが表れている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 実在する公式統計を引用しつつ指標だけをすり替える手法は、出典の確かさが主張全体の信頼性を裏づけるように見えるため検証をすり抜けやすく、政府高官が起点となる場合は国内発の誤情報でも外国の影響工作と同様の拡散力を持ちうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「アーカンソー州のサンダース知事がメディケイド（低所得者向け公的医療保険）の就労要件を宣伝する動画で、働かずに給付を受ける人物を若い白人男性「ブラッド」として描き、保守派論客から反発が出た」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「学習データを持たない採用AIにも及ぶEU AI規則のバイアス検査義務と実データの必要性」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 失敗・落とし穴：
+  - 「武力紛争法が専門のクレイグ・マーティン氏（ウォッシュバーン大学）は、数秒で判断を迫られる場面での自動化バイアス（機械への過信）を懸念し、完全自律兵器の禁止を求める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 欧州の安全保障の失敗を「30年以上」の問題とする整理は、冷戦後のNATO拡大を欧州不安定の原因とするロシア側の年来の主張と重なりうる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「国内の当局が生む選挙不信の言説は、外国の影響工作が増幅に使う素材にもなる点に注意が要る」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 東西の加盟国間で負担配分の対立が深まると、「ブリュッセルが東欧に負担を押し付ける」という物語が生まれやすく、ETS2導入前後には外国の情報操作がこれをEU気候政策への反発の増幅に利用しうる点に注意が要る」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 製品が政治陣営の記号として語られると、設計や品質の失敗まで陣営の盛衰の物語に組み込まれる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 米国側が「欧州全体」の合意という語で発信したことで、NATOの態勢見直しを求めるロシア側の主張が和平協議の議題として扱われうる状況が生まれており、交渉の議題設定そのものがロシアの言説上の目標に資する点に注意が要る」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「議会のトランプ氏の盟友は更迭を求めつつ、弾劾による罷免は失敗する公算が大きいと認める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 選出方法の変更が憲法上の争点を抱えたまま進めば、2028年の結果の正統性をめぐる争いが生じやすく、選挙不信を狙う国内外の影響工作に格好の材料を与えうる点に注意が要る」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「筆者は、NewsGuardには新手法を「発見」し続ける事業上の側面があるとし、暴露を織り込むパーセプション・ハッキングに論じる側が加担しうる点にも注意を促す」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 帰属が定まらない事案は、第三者の憶測を取り込んだ後追いの声明で存在感を高める材料となり、報道が声明を拾うこと自体が影響工作としての効果を生む点に注意が要る」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 閉じた空間でのエンゲージメント数を説得の効果と取り違える誤りは、影響工作の効果測定でも、拡散量を態度変容の証拠とみなす評価の弱点として共通する」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説」（https://www.octoparse.jp/blog/what-is-osint）
   - 「本記事では、OSINTとは何か・できること・主な手法とツール・注意点を、ビジネスで合法的に活用する視点から整理します」（https://www.octoparse.jp/blog/what-is-osint）
   - 「本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します」（https://cybersecurity-info.com/column/30403/）
   - 「OSINTにはいくつかの課題や注意点があります」（https://cybersecurity-info.com/column/30403/）
-  - 「How Hackers Hack Gmail Accounts (And the 8 Most Common Mistakes That Let Them In)」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
-  - 「OAuth Redirect URI Vulnerabilities: How a Small Validation Mistake Can Leak Authentication Tokens」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
-  - 「50 Privacy Mistakes You’re Probably Making Every Day (And How to Fix Them)」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
-  - 「The Screenshot Mistake Millions of People Make Every Day — And Why It Can Come Back to Haunt You」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
-  - 「The investigator checks relevance, origin, quality and potential bias.」（https://osint.dev/osint）
-  - 「採用などの選別アルゴリズムは、排除された人が機会を得ないため誤りの信号を残さず、提供企業は99.9%の精度を主張できるとも指摘した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「ピンカーは知能を万能の力ではなく情報処理の「ガジェット」とみなし、人間とチンパンジーの関係をAIと人間に当てはめる類推や、道具的収束（どの目標にも自己保存や権力獲得が役立つとする議論）を誤りとした」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「一方、GPT-3.5以降の性能を受け、ニューラルネットワークでは人間並みの知能に届かないとした過去の見解は誤りだったと認めた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「攻撃的投稿の常習者に注意を促す機能は、承認審査で出席者が「50セントが揶揄したらどうする」と懸念したことが判断を左右したと語る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「FBI報道官は「誤り」と否定し、防諜タスクフォースを1,500人超に拡充したと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「イスラエルは2023年10月7日のハマス攻撃から3年を迎え、3週間後の総選挙では史上最悪の安全保障上の失敗に対するネタニヤフ首相の責任が中心的な争点になる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 実例：
+  - 「関税では、オーストラリア全国農業者連盟のハミッシュ・マッキンタイア会長が、政策の方向は選挙結果だけでは根本的に変わりにくいと述べた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 州の予算停止の示唆で変えられた市の方針が選挙結果を受けて再び転換した事例であり、移民取り締まりは州と市、党派の間の分断線として外国の影響工作にも利用されやすく、政策の揺れに乗じた言説の拡散を注視する必要がある」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 大規模SNSの所有者が資金と自社プラットフォーム上の発信を同時に選挙へ投じ、敗北後に投稿を消した事例であり、選挙期間中の発信記録を第三者が保全しておく必要性を示す」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「政権当局者は、クロスビー氏が勝てばRNCに深刻な財政上の結果が生じると警告した」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「同氏は、記録された事例がほぼ主流のチャットボットに限られる中、こうしたサービスは事業者の検知、捜査機関の証拠回収、公表のいずれでも見えにくいと指摘した」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「NORCは財団、報道機関、企業などのスポンサーを募っており、スポンサーには予備的な結果を早期に提供する」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: イランは議長がXで米有権者の意思を「反戦」として自国の主張に取り込み、最高指導者が米国の不変を説くという二つの層で発信しており、他国の選挙結果を対外的な物語と国内向けの強硬姿勢の双方に利用する典型例である」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「カナダのルブラン加米貿易担当相は、他国の選挙結果を解釈するのは建設的でないとし、交渉相手は引き続きトランプ政権だとして当面の戦略を変えないと述べた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: ルブラン氏が他国の選挙結果の解釈を公に避けたのは、選挙直後の外国政府の発言が相手国の国内政治への関与と受け取られる余地を狭める情報発信上の配慮であり、同盟国間でも選挙期の発言管理が外交の一部になっていることを示す」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「Claudeのコメント: 選出方法の変更が憲法上の争点を抱えたまま進めば、2028年の結果の正統性をめぐる争いが生じやすく、選挙不信を狙う国内外の影響工作に格好の材料を与えうる点に注意が要る」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「ATAFIMIプロジェクト（ロシア発のFIMI〈外国からの情報操作と干渉〉を監視する共同事業）は、2026年7月1日から9月30日までのスペイン、ウクライナ、ジョージアなど10か国の監視結果をまとめた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「インターネットやSNSの普及で扱える公開情報が爆発的に増えた結果、いまでは民間企業でも、競合の動向把握や自社リスクの点検など、日常の意思決定にOSINTが活用されています」（https://www.octoparse.jp/blog/what-is-osint）
   - 「分析結果を対象者に分かりやすく伝えるために、レポートやダッシュボードを作成します」（https://cybersecurity-info.com/column/30403/）
   - 「Emotet感染、情報漏洩被害企業・事例一覧【2025年最新】」（https://cybersecurity-info.com/column/30403/）
   - 「Human Risk Scoring: 12 Practical Use Cases for Prioritizing Security Action and Measuring Behavior Change」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
-  - 「What publicly observable infrastructure is associated with example.com, and which findings can be corroborated independently?」（https://osint.dev/osint）
-  - 「Claudeのコメント: 広告収入目的の集団と国家系の工作という動機の異なる主体が同じ社会不安に便乗し、結果として当局への不信を強める方向の物語を増幅しており、拡散の量から意図や帰属を推定することの難しさを示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「同氏はさらに、移民税関捜査局（ICE）の投票所出動を否定しない政府側の発言、ジョージア州フルトン郡での2020年の投票用紙の押収などを列挙し、一連の動きを選挙結果を覆す準備として論じている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 業界が資金を出した推計が政党の公約の根拠として流通する事例であり、政策論争に影響する数値の出典の系譜をたどる検証が、影響力行使の分析でも欠かせないことを示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「WHO contacts Russia after reports of second suspected pneumonic plague case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「https://www.rapporteur.com/news/who-contacts-russia-after-reports-of-second-suspected-pneumonic-plague-case/」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 主要国の代表団が棄権に傾く割れ方は、欧州の不一致を強調する分断の物語の材料になりやすく、採決結果そのものより票の内訳がどう発信されるかが情報面での焦点となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 国際法廷の判決への反発が街頭動員と議会の駆け引きを経て法廷の権限縮小に結びついた事例であり、EUの資金と条件付けをめぐる正統性の争いは、外部の主体が「主権対EU」の物語を増幅する足場になりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 政権交代後も集会参加者を顔認識で特定できる法的基盤が残る点は、市民空間を萎縮させる監視手段が制度として持ち越されることを意味し、EUのAI法が加盟国の権威主義的統制の遺産をどこまで是正できるかを測る事例となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「OpenAIは調査の結果、同氏のプロンプトは影響し得なかったと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 事実を偽らずに語彙の選択だけで脅威認識と立法の方向を動かす点は、技術事案のフレーミング（認識の枠組み設定）が政策形成に作用する経路として、影響工作の分析でも注視すべき事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 検索結果の抜粋：
   - 「Top 15 OSINT Tools for Business Intelligence - SalesFuel — Top 15 OSINT Tools for Business Intelligence - SalesFuel SalesFuel https://salesfuel.com > open-source-in...」（https://salesfuel.com/open-source-intelligence-tools/）
   - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【20... — Sep 7, 2026 · OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説。競合調査や市場調査に役立つ公開情報の集め方と、収集を効率化するノーコード手段（Octoparse）、合法的に使うための線引きも紹介します。」（https://www.octoparse.jp/blog/what-is-osint）
@@ -3317,7 +3317,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -3898,7 +3898,7 @@
   - 「https://cdn.example.net/img/hp-guide.jpg」（https://mydatascraper.com/services/website-content-scraping/）
   - 「Tell us what data you need, where it lives, and how you want it delivered. Our team will design the extraction workflow around your use case.」（https://mydatascraper.com/services/website-content-scraping/）
   - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
 
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
@@ -12190,7 +12190,7 @@
   - 「Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
 - 実例：
   - 「A List of Strong Verbs for Academic Writing: Examples and Exercises」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
