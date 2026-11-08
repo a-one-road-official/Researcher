@@ -1,0 +1,671 @@
+{
+ "name": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106）",
+ "en": "contract machining job shop owner interview what happened orders unit price headcount trade press Japan facts not opinions",
+ "aliases": [
+  "日刊工業新聞 めっき 社長 受注 単価 値上げ 実績",
+  "金属プレス 工場長 インタビュー 受注 減 人員",
+  "熱処理 加工賃 値上げ 交渉 実績 社長 談",
+  "-求人 -転職 金型 社長 受注 前年比"
+ ],
+ "context": "現場の声",
+ "kind": "market",
+ "researched_at": "2026-11-08T14:51:47.843694+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.scgr.co.jp/report/column/?_num=100",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alpha.japantimes.co.jp/issue/20260130/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/jprime_41351/?tpgnr=poli-soci",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1804.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/world/reports/2015/pdf/07001109_2/vn_firsttime201503r.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pro-jinzai.go.jp/jirei/files/r03_guidebook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gyoukaku.go.jp/genryoukourituka/dai4/sankou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.city.nayoro.lg.jp/assembly/ii35kh000000cpqn-att/ii35kh000000h1os.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/oshiraku_30115/?l-id=RNBreakingNews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sankei.co.jp/databox/paper/9607/html/0708side06.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2023_ir_j.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/mba/pdf/SBR/5-4/185.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/30620/ronsyu15.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/kyodo_1489571801181864116/?tpgnr=busi-econ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pages.awscloud.com/rs/112-TZM-766/images/AWS%20%E2%BD%A3%E6%88%90AI%20%E4%BA%8B%E4%BE%8B%E9%9B%86.pdf?version=7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/shokibo/00sHakusho_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.syokuryou-shinbun.com/pages/1084/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.hashimoto.lg.jp/material/files/group/30/ganbaru-jirei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reddit.com/r/techsupport/comments/c3c0lb/twitter_and_phub_sites_wont_properly_load_on_my/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/TrueUnpopularOpinion/comments/15mxdac/most_alternative_pornsites_are_better_than_phub/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forums.digitalpoint.com/forums/services.60/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/nsfwasmr/comments/14onlwl/mamamoldova_yunya_removed_phub_videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/user/John-Lemon-Phub/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://da.lib.kobe-u.ac.jp/da/kernel/D1006834/D1006834.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jarea.org/cms_files/general/about_jarea/disc_j_50nenshi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/event/techcommunitylive/microsoft-technical-takeoff-2026-windows--intune/4490614",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://support.microsoft.com/en-gb/contactus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wfp.org/stories?amp%3Bpage=6&amp%3Bsort_by=field_publication_date&amp%3Btext=&f%5B0%5D=publication_type%3A2143&page=8&sort_by=field_publication_date",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://s5ca423a02c2db498.jimcontent.com/download/version/1625818025/module/13617349992/name/20191019%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://oliveandjune.com/blogs/olive-university-press-ons/nail-glue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/tbs_3052635/?tpgnr=busi-econ",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reconstruction.go.jp/jireishuu/past/pdf/r4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rengo-soken.or.jp/work/201212-02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://archive.jidp.or.jp/wpd2024/wpd2024_2_a3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.city.kurashiki.okayama.jp/japan_heritage/kentei_r6/assets/pdf/jh_kurashiki_r3_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gettodaysdate.com/en-gb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://account.microsoft.com/account",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://myaccount.microsoft.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://myaccount.microsoft.com/%C2%A0-%3E",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.town.hasami.lg.jp/kiji003879/3_879_16_r303teireikai-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shihoro.jp/common/img/content/content_20220330_203810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.datalounge.com/thread/32890916-rfk-jr.-claims-cia-killed-jfk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.datalounge.com/thread/36376608-what-was-your-first-car-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.datalounge.com/thread/35798717-the-increasingly-complex-billy-porter-“cabaret”-controversy-explained",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.datalounge.com/thread/36376097-alison-sweeney-talking-about-horses-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wfp.org/stories?amp%3Bamp%3Bpage=6&amp%3Bamp%3Btext=&amp%3Bf%5B0%5D=topics%3A2193&page=9&sort_by=field_publication_date&tid_2=111",
+    "status": "http_202",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 人手不足 受注 断る",
+   "results": [
+    "https://www.scgr.co.jp/report/column/?_num=100",
+    "https://alpha.japantimes.co.jp/issue/20260130/",
+    "https://news.infoseek.co.jp/article/jprime_41351/?tpgnr=poli-soci",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1804.pdf",
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "https://www.jetro.go.jp/ext_images/world/reports/2015/pdf/07001109_2/vn_firsttime201503r.pdf",
+    "https://www.city.hashimoto.lg.jp/material/files/group/30/ganbaru-jirei.pdf",
+    "http://www.sankei.co.jp/databox/paper/9607/html/0708side06.html",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2023_ir_j.pdf",
+    "https://www.zillow.com/virginia-beach-va/apartments-2-bedrooms/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 受注残 人手不足",
+   "results": [
+    "https://www.scgr.co.jp/report/column/?_num=100",
+    "https://www.pro-jinzai.go.jp/jirei/files/r03_guidebook.pdf",
+    "https://www.gyoukaku.go.jp/genryoukourituka/dai4/sankou2.pdf",
+    "https://alpha.japantimes.co.jp/issue/20260130/",
+    "http://www.city.nayoro.lg.jp/assembly/ii35kh000000cpqn-att/ii35kh000000h1os.pdf",
+    "https://news.infoseek.co.jp/article/oshiraku_30115/?l-id=RNBreakingNews",
+    "http://www.sankei.co.jp/databox/paper/9607/html/0708side06.html",
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2023_ir_j.pdf",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 人手不足 損失 億円",
+   "results": [
+    "https://www.gyoukaku.go.jp/genryoukourituka/dai4/sankou2.pdf",
+    "https://www.u-hyogo.ac.jp/mba/pdf/SBR/5-4/185.pdf",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2023_ir_j.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronsyu15.pdf",
+    "https://news.infoseek.co.jp/article/kyodo_1489571801181864116/?tpgnr=busi-econ",
+    "https://pages.awscloud.com/rs/112-TZM-766/images/AWS%20%E2%BD%A3%E6%88%90AI%20%E4%BA%8B%E4%BE%8B%E9%9B%86.pdf?version=7",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/shokibo/00sHakusho_zentai.pdf",
+    "https://www.syokuryou-shinbun.com/pages/1084/",
+    "https://jarea.org/cms_files/general/about_jarea/disc_j_50nenshi.pdf",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106）",
+   "results": [
+    "https://www.scgr.co.jp/report/column/?_num=100",
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "https://www.gyoukaku.go.jp/genryoukourituka/dai4/sankou2.pdf",
+    "https://www.pro-jinzai.go.jp/jirei/files/r03_guidebook.pdf",
+    "https://www.u-hyogo.ac.jp/mba/pdf/SBR/5-4/185.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1804.pdf",
+    "https://alpha.japantimes.co.jp/issue/20260130/",
+    "https://news.infoseek.co.jp/article/jprime_41351/?tpgnr=poli-soci",
+    "https://www.city.hashimoto.lg.jp/material/files/group/30/ganbaru-jirei.pdf",
+    "https://www.reddit.com/r/techsupport/comments/c3c0lb/twitter_and_phub_sites_wont_properly_load_on_my/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 推移",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1804.pdf",
+    "https://www.scgr.co.jp/report/column/?_num=100",
+    "https://www.u-hyogo.ac.jp/mba/pdf/SBR/5-4/185.pdf",
+    "https://da.lib.kobe-u.ac.jp/da/kernel/D1006834/D1006834.pdf",
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "https://www.pro-jinzai.go.jp/jirei/files/r03_guidebook.pdf",
+    "https://alpha.japantimes.co.jp/issue/20260130/",
+    "https://jarea.org/cms_files/general/about_jarea/disc_j_50nenshi.pdf",
+    "https://www.city.hashimoto.lg.jp/material/files/group/30/ganbaru-jirei.pdf",
+    "https://www.microsoft.com/en-us/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 統計 PDF",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://ja.wfp.org/stories?amp%3Bpage=6&amp%3Bsort_by=field_publication_date&amp%3Btext=&f%5B0%5D=publication_type%3A2143&page=8&sort_by=field_publication_date",
+    "https://www.u-hyogo.ac.jp/mba/pdf/SBR/5-4/185.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1804.pdf",
+    "https://s5ca423a02c2db498.jimcontent.com/download/version/1625818025/module/13617349992/name/20191019%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "https://da.lib.kobe-u.ac.jp/da/kernel/D1006834/D1006834.pdf",
+    "https://oliveandjune.com/blogs/olive-university-press-ons/nail-glue"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.scgr.co.jp/report/column/?_num=100",
+    "https://news.infoseek.co.jp/article/tbs_3052635/?tpgnr=busi-econ",
+    "https://www.city.hashimoto.lg.jp/material/files/group/30/ganbaru-jirei.pdf",
+    "https://jarea.org/cms_files/general/about_jarea/disc_j_50nenshi.pdf",
+    "https://www.reconstruction.go.jp/jireishuu/past/pdf/r4.pdf",
+    "https://www.rengo-soken.or.jp/work/201212-02_01.pdf",
+    "https://archive.jidp.or.jp/wpd2024/wpd2024_2_a3.pdf",
+    "https://www2.city.kurashiki.okayama.jp/japan_heritage/kentei_r6/assets/pdf/jh_kurashiki_r3_01.pdf",
+    "https://gettodaysdate.com/en-gb/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 従業者規模別",
+   "results": [
+    "https://www.u-hyogo.ac.jp/mba/pdf/SBR/5-4/185.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1804.pdf",
+    "https://www.scgr.co.jp/report/column/?_num=100",
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "https://www.pro-jinzai.go.jp/jirei/files/r03_guidebook.pdf",
+    "https://www.gyoukaku.go.jp/genryoukourituka/dai4/sankou2.pdf",
+    "https://www.city.hashimoto.lg.jp/material/files/group/30/ganbaru-jirei.pdf",
+    "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30620/ronsyu15.pdf",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 1人当たり 万円",
+   "results": [
+    "https://www.scgr.co.jp/report/column/?_num=100",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1804.pdf",
+    "https://www.gyoukaku.go.jp/genryoukourituka/dai4/sankou2.pdf",
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "https://www.city.hashimoto.lg.jp/material/files/group/30/ganbaru-jirei.pdf",
+    "https://alpha.japantimes.co.jp/issue/20260130/",
+    "https://www.town.hasami.lg.jp/kiji003879/3_879_16_r303teireikai-1.pdf",
+    "https://www.shihoro.jp/common/img/content/content_20220330_203810.pdf",
+    "https://news.infoseek.co.jp/article/tbs_3052635/?tpgnr=busi-econ",
+    "https://www.datalounge.com/thread/32890916-rfk-jr.-claims-cia-killed-jfk"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 33
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） 2015 2025",
+   "results": [
+    "https://ja.wfp.org/stories?amp%3Bamp%3Bpage=6&amp%3Bamp%3Btext=&amp%3Bf%5B0%5D=topics%3A2193&page=9&sort_by=field_publication_date&tid_2=111",
+    "https://www.dainichiad.co.jp/html/baitai/171.php",
+    "https://s5ca423a02c2db498.jimcontent.com/download/version/1625818025/module/13617349992/name/20191019%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E.pdf",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://www.bizup.jp/biz_member/kigyo/dl_wk/k792.pdf",
+    "https://note.toray/magazines",
+    "https://www.jprime.jp/ud/pressrelease/guid/dn0000367449",
+    "https://alpha.japantimes.co.jp/issue/20260130/",
+    "https://www.shihoro.jp/common/img/content/content_20220330_203810.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "contract machining job shop owner interview what happened orders unit price headcount trade press Japan facts not opinions Japan statistics",
+   "results": [
+    "https://www.youtube.com/watch?v=0AjxgrzWMHc",
+    "https://seisanzai-japan.com/article/p5763/",
+    "https://www.amtonline.org/article/job-shops-by-the-numbers",
+    "https://www.youtube.com/watch?v=B7JxWBR_UQU",
+    "https://www.resellcnc.com/cnc-resell-news/article/japanese-machine-tool-invasion-american-manufacturing/",
+    "https://orbray.com/magazine_en/archives/4956",
+    "https://www.jetro.go.jp/ext_images/en/reports/survey/pdf/2022/rp_north_america2022.pdf",
+    "https://www.reddit.com/r/Machinists/comments/1lwn6td/estimating_in_a_job_shop/",
+    "https://www.brookings.edu/wp-content/uploads/2016/06/20040209_masuyama.pdf",
+    "https://www.ebrevia.com/ebrevia-command"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com 受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106）",
+   "results": [
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/tokasimnet/n/n3d36f9d3c4e6",
+    "https://note.com/loyal_ivy9071/n/nf21ce7aa3382",
+    "https://note.com/ocaml/n/n27b7431b0b5e",
+    "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/ryoseiarabic/n/n4c0e610acf08",
+    "https://note.com/dakudhigura/n/n8c5079ac4f7b",
+    "https://note.com/dakudhigura/n/n67269d3140bb",
+    "https://note.com/dakudhigura/n/n69f40c701fb3"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:x.com 受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106）",
+   "results": [
+    "https://www.timeanddate.com/worldclock/japan/tokyo",
+    "https://timetranslator.com/world-clock/tokyo/",
+    "https://daysoftheweek.org/what-day-is-it-in-japan/",
+    "https://time.is/Japan",
+    "https://www.thetimenow.com/japan/tokyo/",
+    "https://time.now/countries/japan/",
+    "https://www.worldwideclock.com/japan/tokyo/tokyo",
+    "https://time.is/Tokyo",
+    "https://timeintokyo.net/",
+    "https://www.currentdatetimenow.com/time/japan/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com 受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106）",
+   "results": [
+    "https://www.mlb.com/padres/tickets",
+    "https://padres.auctions.mlb.com/",
+    "https://baseballsavant.mlb.com/team/135",
+    "https://www.mlb.com/padres",
+    "https://www.mlb.com/padres/tickets/specials/theme-games",
+    "https://www.mlb.com/padres/roster",
+    "https://www.mlb.com/padres/tickets/specials/bark-at-the-park",
+    "https://www.mlb.com/padres/community/play/camps",
+    "https://www.mlb.com/padres/standings/",
+    "https://www.mlb.com/padres/stats/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:facebook.com 受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106）",
+   "results": [
+    "https://www.pornhub.com/video/search?search=gorditas",
+    "https://www.serviporno.com/videos-porno/gorditas/",
+    "https://www.xnxx.com/search/gordita",
+    "https://www.xnxx.com/search/gorditas",
+    "https://www.xvideos.com/tags/latina-gordita",
+    "https://www.xvideos.es/tags/gorditas",
+    "https://www.xvideos.com/tags/gorditas",
+    "https://es.pornhub.com/video/search?search=gordita&o=mr",
+    "https://mediakit.lnu.edu.ua/",
+    "https://tv.fakings.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） note 社長",
+   "results": [
+    "https://s5ca423a02c2db498.jimcontent.com/download/version/1625818025/module/13617349992/name/20191019%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E.pdf",
+    "https://note.toray/magazines",
+    "https://www.scgr.co.jp/report/column/?_num=100",
+    "https://contents.xj-storage.jp/xcontents/AS03088/0bca185d/1e10/4bd2/b4aa/67875e96bf19/140120210206457430.pdf",
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/shiryou2.pdf",
+    "https://news.infoseek.co.jp/article/kyodo_1489571801181864116/?tpgnr=busi-econ",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/backnumber/pdf/hakken_guide_vol4.pdf",
+    "https://www.jetro.go.jp/ext_images/world/reports/2015/pdf/07001109_2/vn_firsttime201503r.pdf",
+    "https://alpha.japantimes.co.jp/issue/20260130/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工の業界紙・専門誌の工場長・社長の発言のうち、受注・単価・人数で何が起きたかの事実の説明（見立て・意見・予想の文を除く・話し手の会社の規模と担当を添える・4-106） X 投稿",
+   "results": [
+    "https://ja.news.wfp.org/19-36-92643bf2db83?source=post_page-----92643bf2db83--------------------------------",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1804.pdf",
+    "https://www.pro-jinzai.go.jp/jirei/files/r03_guidebook.pdf",
+    "https://www.atpress.ne.jp/view/47084",
+    "https://news.infoseek.co.jp/article/jprime_41351/?tpgnr=poli-soci",
+    "https://www.gtsj.or.jp/journal/contents/journal1101.pdf",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2023_ir_j.pdf",
+    "https://www.shihoro.jp/common/img/content/content_20220330_203810.pdf",
+    "https://pages.awscloud.com/rs/112-TZM-766/images/AWS%20%E2%BD%A3%E6%88%90AI%20%E4%BA%8B%E4%BE%8B%E9%9B%86.pdf?version=7",
+    "https://en.wikipedia.org/wiki/Cantilever_bridge"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "contract machining job shop owner interview what happened orders unit price headcount trade press Japan facts not opinions site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/mwhillenburgii",
+    "https://www.linkedin.com/in/olgamack",
+    "https://www.linkedin.com/in/jamesgmayer",
+    "https://in.linkedin.com/in/jmohit",
+    "https://www.linkedin.com/in/anthonycoppedge",
+    "https://www.linkedin.com/in/matt-zabko-diamondturning",
+    "https://www.linkedin.com/in/bobmoesta",
+    "https://www.linkedin.com/company/usepepper",
+    "https://www.linkedin.com/in/john-steckel-8b4b448",
+    "https://www.linkedin.com/in/roncrabtree"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

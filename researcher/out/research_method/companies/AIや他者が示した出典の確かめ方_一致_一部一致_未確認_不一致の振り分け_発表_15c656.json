@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T07:21:00.582247+00:00",
+ "researched_at": "2026-11-08T14:53:34.327303+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -189,6 +189,44 @@
    },
    {
     "quote": "The system’s ability to detect subtle citation issues through the PARTIALLY SUPPORTED category addresses a critical gap in existing verification approaches. These cases often require minor corrections that substantially improve citation accuracy without major manuscript revisions.",
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "公的な認証制度や学術的な評価スコアではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Document processing begins with text extraction using PyMuPDF",
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PyMuPDF Documentation: https://github.com/pymupdf/PyMuPDF",
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "for PDF files, followed by recursive text splitting into 512-character chunks with 50-character overlap. The chunking strategy employs hierarchical separators including paragraph breaks, sentences, punctuation, and whitespace to maintain semantic coherence whilst ensuring manageable sizes for retrieval operations.",
     "url": "https://arxiv.org/html/2511.16198v1",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -467,44 +505,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "公的な認証制度や学術的な評価スコアではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Document processing begins with text extraction using PyMuPDF",
-    "url": "https://arxiv.org/html/2511.16198v1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PyMuPDF Documentation: https://github.com/pymupdf/PyMuPDF",
-    "url": "https://arxiv.org/html/2511.16198v1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for PDF files, followed by recursive text splitting into 512-character chunks with 50-character overlap. The chunking strategy employs hierarchical separators including paragraph breaks, sentences, punctuation, and whitespace to maintain semantic coherence whilst ensuring manageable sizes for retrieval operations.",
-    "url": "https://arxiv.org/html/2511.16198v1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -601,12 +601,12 @@
     "method": "http"
    },
    {
-    "url": "https://kugspro.adm.kanazawa-u.ac.jp/?page_id=2365",
+    "url": "https://note.com/yusukexz777/n/nddf2a3e1ae69",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/yusukexz777/n/nddf2a3e1ae69",
+    "url": "https://kugspro.adm.kanazawa-u.ac.jp/?page_id=2365",
     "status": "ok",
     "method": "http"
    },
@@ -616,17 +616,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://netamemo.com/ai-source-check/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
     "status": "ok",
     "method": "http"
    },
@@ -674,8 +674,8 @@
     "https://note.com/quirky_frog4014/n/nbf645fbec8f6",
     "https://note.com/kazushinakamura/n/n0415c71f886c",
     "https://note.com/motoharusumi/n/nae69efaebbaa",
-    "https://note.com/ai_remote_worker/n/n67aa12700b60",
-    "https://note.com/pisces2929/n/n58781c7416a9"
+    "https://note.com/pisces2929/n/n58781c7416a9",
+    "https://note.com/ai_remote_worker/n/n67aa12700b60"
    ],
    "engines": [
     "ddgs:google",
@@ -699,26 +699,27 @@
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 17
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） やり方",
    "results": [
     "https://www.reddit.com/r/Professors/comments/1mpr20e/checking_citations_and_references_to_counter_ai/?tl=ja",
     "https://www.pangram.com/ja/blog/did-ai-write-this",
-    "https://www.youtube.com/watch?v=JC974Wv-vVg",
     "https://libguides.lib.miyazaki-u.ac.jp/pathfinder/AcademicWriting/GenerativeAI",
     "https://www-kb.is.s.u-tokyo.ac.jp/~koba/report.html",
     "https://guide.m3dc.co.jp/trend_ai-search-engine-for-thesis",
+    "https://www.youtube.com/watch?v=xaRnmsxTVVo",
     "https://ibooks-japan.com/info5.html",
     "https://paperpal.com/ja/tools/ai-for-research",
     "https://netamemo.com/ai-source-check/",
     "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -728,20 +729,20 @@
    "results": [
     "https://www.reddit.com/r/Professors/comments/1mpr20e/checking_citations_and_references_to_counter_ai/?tl=ja",
     "https://www.pangram.com/ja/blog/did-ai-write-this",
+    "https://www.youtube.com/watch?v=JC974Wv-vVg",
     "https://ibooks-japan.com/info5.html",
     "https://guide.m3dc.co.jp/trend_ai-search-engine-for-thesis",
-    "https://kugspro.adm.kanazawa-u.ac.jp/?page_id=2365",
     "https://note.com/yusukexz777/n/nddf2a3e1ae69",
-    "https://libguides.lib.miyazaki-u.ac.jp/pathfinder/AcademicWriting/GenerativeAI",
+    "https://kugspro.adm.kanazawa-u.ac.jp/?page_id=2365",
     "https://cyber-intelligence.co.jp/blog/post-22173/",
-    "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
-    "https://netamemo.com/ai-source-check/"
+    "https://netamemo.com/ai-source-check/",
+    "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "verifying cited sources claim support partial support unverified contradicted",
@@ -758,30 +759,32 @@
     "https://dishaya.com/check/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 18
   },
   {
    "query": "site:note.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
    "results": [
+    "https://note.com/noahconnectjapan/n/naac957cbbd6f",
     "https://note.com/prizma/n/ne560da3ed5b0",
     "https://note.com/44310_morikawa/n/n94e83d3320b7",
     "https://note.com/copymonitor/n/nf53b89ccf753",
     "https://note.com/ano_insight/n/n61fe97813b62",
     "https://note.com/pisces2929/n/n58781c7416a9",
-    "https://note.com/naruhiko_007/n/n5ad8b8d68046",
     "https://note.com/ai_remote_worker/n/n67aa12700b60",
-    "https://note.com/noahconnectjapan/n/naac957cbbd6f",
-    "https://note.com/motoharusumi/n/nae69efaebbaa",
-    "https://note.com/otsukaman2018/n/n5e6832e097dc"
+    "https://note.com/naruhiko_007/n/n5ad8b8d68046",
+    "https://note.com/rapid_kiwi247/n/n2db685af4c01",
+    "https://note.com/motoharusumi/n/nae69efaebbaa"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 19
   },
   {
    "query": "site:x.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
@@ -806,16 +809,16 @@
   {
    "query": "site:linkedin.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
    "results": [
-    "https://jp.linkedin.com/pulse/how-get-cited-chatgpt-perplexity-google-ai-overviews-your-raajha-ognec?tl=ja",
-    "https://jp.linkedin.com/pulse/pwc-got-caught-publishing-ai-reports-full-fake-lesson-kotlarczyk-gspee?tl=ja",
     "https://jp.linkedin.com/pulse/find-sources-verify-citations-ai-tool-dr-rizwana-mustafa-r2exf?tl=ja",
+    "https://jp.linkedin.com/pulse/how-get-cited-chatgpt-perplexity-google-ai-overviews-your-raajha-ognec?tl=ja",
+    "https://jp.linkedin.com/pulse/citation-evidence-ai-has-exposed-human-problem-james-jim-couper-oam-upwgc?tl=ja",
+    "https://jp.linkedin.com/pulse/pwc-got-caught-publishing-ai-reports-full-fake-lesson-kotlarczyk-gspee?tl=ja",
     "https://jp.linkedin.com/pulse/using-ai-analyze-reports-evidence-based-claims-guide-finkenstadt-8xuve?tl=ja",
-    "https://jp.linkedin.com/pulse/can-ai-actually-read-cite-your-linkedin-posts-what-latest-turner--v00ce?tl=ja",
     "https://jp.linkedin.com/pulse/ai-visibility-gap-what-every-executive-needs-know-geo-umesiri-phd--g5kjc?tl=ja",
-    "https://jp.linkedin.com/pulse/ais-supply-chain-attack-knowledge-maor-chester-bxz8c?tl=ja",
+    "https://jp.linkedin.com/pulse/can-ai-actually-read-cite-your-linkedin-posts-what-latest-turner--v00ce?tl=ja",
     "https://jp.linkedin.com/pulse/attribution-ai-outputs-creative-commons-1ci5c?tl=ja",
     "https://jp.linkedin.com/pulse/ai-tools-detecting-plagiarism-understanding-types-dr-naureen-aleem-vfubf?tl=ja",
-    "https://jp.linkedin.com/pulse/risk-run-ai-why-chatgpt-cant-check-its-own-work-6rsqf?tl=ja"
+    "https://jp.linkedin.com/pulse/ai-search-visibility-guide-how-get-your-brand-cited-chinedum-azuh-8spuf?tl=ja"
    ],
    "engines": [
     "ddgs:google",
@@ -834,33 +837,34 @@
     "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AEai%E6%9C%AA%E6%9D%A5%E7%A4%BE%E4%BC%9A%E6%9C%80%E5%89%8D%E7%B7%9A2026%E5%B9%B411%E6%9C%881%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%96%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E3%81%AEai%E3%81%AB%E3%82%88%E3%82%8B%E7%A4%BE%E4%BC%9A%E6%A7%8B%E9%80%A0%E3%81%AE%E5%A4%89%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%94%BF%E5%BA%9C%E6%A9%9F%E9%96%A2%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E4%BC%81%E6%A5%AD%E3%81%AE%E5%85%AC%E5%BC%8F%E7%99%BA%E8%A1%A8%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E5%A0%B1%E9%81%93%E3%82%92%E8%AA%BF%E6%9F%BB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fa/10164648891114194/",
     "https://www.facebook.com/61584327205705/videos/%E5%87%BA%E5%85%B8%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%82%8B%E5%8C%BB%E5%AD%A6ai/1889959149050002/",
     "https://www.facebook.com/Medi.LX/posts/ai%E5%80%AB%E7%90%86%E7%94%9F%E6%88%90ai%E3%81%AE%E7%AD%94%E3%81%88%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E6%8E%88%E6%A5%AD%E8%B3%87%E6%96%99%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E7%9C%8B%E8%AD%B7%E6%95%99%E8%82%B2%E3%81%A7ai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82%E5%A4%A7%E5%88%87%E3%81%AA%E3%81%AE%E3%81%AF%E5%87%BA%E5%8A%9B%E3%82%92%E6%A4%9C%E8%A8%BC%E3%81%99%E3%82%8B%E8%B2%AC%E4%BB%BB%E3%81%AF%E6%95%99%E5%93%A1%E3%81%AB%E3%81%82%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%89%8D%E6%8F%90%E3%81%A7%E3%81%99ai%E3%81%AF%E6%99%82%E3%81%AB%E5%AD%98%E5%9C%A8/1632055365600068/",
-    "https://www.facebook.com/npacc.jp/posts/ai%E3%82%92%E7%A7%98%E6%9B%B8%E3%81%A8%E3%81%97%E3%81%A6%E4%BB%98%E3%81%8D%E5%90%88%E3%81%86%E7%A0%94%E7%A9%B6%E8%80%85%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEai%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89ai%E3%82%92%E4%BD%95%E3%81%A7%E3%82%82%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%A8%E3%81%97%E3%81%A6%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%80%8B%E4%BA%BA%E7%A7%98%E6%9B%B8%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%8D%E7%BD%AE%E3%81%A5%E3%81%91%E3%82%8B%E3%81%A8ai%E3%81%A8%E3%81%AE%E4%BB%98%E3%81%8D%E5%90%88%E3%81%84%E6%96%B9%E3%81%8C%E3%81%9A%E3%81%A3%E3%81%A8%E8%A6%8B%E9%80%9A%E3%81%97%E3%82%84/2010289783606311/",
-    "https://www.facebook.com/shota7180/posts/ai%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E4%BC%9A%E8%AD%B0%E8%B3%87%E6%96%99%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%93%E3%81%AE%E6%95%B0%E5%AD%97%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%81%9F%E3%81%AE%E3%81%8B%E3%81%AA%E3%81%9C%E3%81%93%E3%81%AE%E6%96%BD%E7%AD%96%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%A8%E8%81%9E%E3%81%8B%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%8D%E6%A0%B9%E6%8B%A0%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%90%8C%E3%81%983%E3%81%A4%E3%81%AE%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A62%E9%80%9A%E3%82%8A%E3%81%AE%E6%96%B9%E6%B3%95/28919558707705972/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
-  },
-  {
-   "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） note 社長",
-   "results": [
-    "https://note.com/tabi_lifer/n/nca1e2833744d",
-    "https://note.com/arista_inc/n/nc4e267f08300",
-    "https://note.com/ano_insight/n/n61fe97813b62",
-    "https://note.com/copymonitor/n/nf53b89ccf753",
-    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://note.com/zenkok/n/n9d37a76fd4ad",
-    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
-    "https://0120.co.jp/blog/aio-104/",
-    "https://mmedici.co.jp/mmedici-library/AI_11",
-    "https://note.com/noa_notexai/n/n195b6390aa09"
+    "https://www.facebook.com/shota7180/posts/ai%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E4%BC%9A%E8%AD%B0%E8%B3%87%E6%96%99%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%93%E3%81%AE%E6%95%B0%E5%AD%97%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%81%9F%E3%81%AE%E3%81%8B%E3%81%AA%E3%81%9C%E3%81%93%E3%81%AE%E6%96%BD%E7%AD%96%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%A8%E8%81%9E%E3%81%8B%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%8D%E6%A0%B9%E6%8B%A0%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%90%8C%E3%81%983%E3%81%A4%E3%81%AE%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A62%E9%80%9A%E3%82%8A%E3%81%AE%E6%96%B9%E6%B3%95/28919558707705972/",
+    "https://www.facebook.com/npacc.jp/posts/ai%E3%82%92%E7%A7%98%E6%9B%B8%E3%81%A8%E3%81%97%E3%81%A6%E4%BB%98%E3%81%8D%E5%90%88%E3%81%86%E7%A0%94%E7%A9%B6%E8%80%85%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEai%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89ai%E3%82%92%E4%BD%95%E3%81%A7%E3%82%82%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%A8%E3%81%97%E3%81%A6%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%80%8B%E4%BA%BA%E7%A7%98%E6%9B%B8%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%8D%E7%BD%AE%E3%81%A5%E3%81%91%E3%82%8B%E3%81%A8ai%E3%81%A8%E3%81%AE%E4%BB%98%E3%81%8D%E5%90%88%E3%81%84%E6%96%B9%E3%81%8C%E3%81%9A%E3%81%A3%E3%81%A8%E8%A6%8B%E9%80%9A%E3%81%97%E3%82%84/2010289783606311/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
+  },
+  {
+   "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） note 社長",
+   "results": [
+    "https://note.com/ano_insight/n/n61fe97813b62",
+    "https://note.com/tabi_lifer/n/nca1e2833744d",
+    "https://note.com/copymonitor/n/nf53b89ccf753",
+    "https://note.com/outdoorlifestyle/n/nd5dd4e8dbef3",
+    "https://note.com/arista_inc/n/nc4e267f08300",
+    "https://mmedici.co.jp/mmedici-library/AI_11",
+    "https://note.com/psycholo_studio/n/nffe4c1b6f9b9",
+    "https://akarumi.jp/knowledge/chatgpt-citation/",
+    "https://note.com/noa_notexai/n/n195b6390aa09",
+    "https://note.com/aoao_ai/n/nab3ac1fa7a16"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） X 投稿",
@@ -869,10 +873,10 @@
     "https://japan.mdpi.com/post/ai-citation",
     "https://x.com/MDPI_Japan/status/2115255770208153688",
     "https://www.pangram.com/ja/blog/did-ai-write-this",
-    "https://digirise.ai/chaen-ai-lab/x/",
     "https://biz.moneyforward.com/ai/basic/378/",
-    "https://www.youtube.com/watch?v=UOXxKI5oxl0",
+    "https://digirise.ai/chaen-ai-lab/x/",
     "https://www.editage.jp/blog/ai-disclosures-in-academic-writing/",
+    "https://note.com/yo4shi80/n/nbd9c06dc4775",
     "https://netamemo.com/ai-source-check/",
     "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853"
    ],
@@ -885,26 +889,27 @@
   {
    "query": "verifying cited sources claim support partial support unverified contradicted site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/cmupadhyay_youre-in-a-senior-ai-interview-at-google-activity-7406951319095140352-q16I",
     "https://www.linkedin.com/pulse/psychology-verification-why-intelligence-resists-what-martin-mehl-uwvqc",
+    "https://www.linkedin.com/posts/cmupadhyay_youre-in-a-senior-ai-interview-at-google-activity-7406951319095140352-q16I",
     "https://www.linkedin.com/posts/iamkhanphd_breaking-claude-can-now-research-like-a-activity-7522053505340178432-w3pU",
     "https://in.linkedin.com/in/surajit-techie",
-    "https://www.linkedin.com/in/trentwarner",
-    "https://www.linkedin.com/pulse/challenge-ai-hallucinations-understanding-measuring-andre-u3vue",
     "https://www.linkedin.com/posts/ggospodinov_author-correction-integrating-artificial-activity-7507839040381984768-Nu07",
+    "https://www.linkedin.com/in/trentwarner",
     "https://www.linkedin.com/in/daniel-wipert",
-    "https://www.linkedin.com/pulse/sm-100-everyone-claims-serve-farmer-nobody-knows-them-g-v-jbsxc",
-    "https://www.linkedin.com/in/darz-morris-515010184"
+    "https://www.linkedin.com/pulse/challenge-ai-hallucinations-understanding-measuring-andre-u3vue",
+    "https://www.linkedin.com/posts/dr-k-v-n-rajesh_ai-looked-a-lot-less-intimidating-when-i-activity-7510777870567501825-aMiP",
+    "https://www.linkedin.com/pulse/sm-100-everyone-claims-serve-farmer-nobody-knows-them-g-v-jbsxc"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 19
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T03:50:19.026558+00:00"
 }

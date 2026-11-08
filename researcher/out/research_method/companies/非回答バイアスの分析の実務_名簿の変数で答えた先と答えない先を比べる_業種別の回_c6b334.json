@@ -8,8 +8,100 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T07:59:10.567917+00:00",
+ "researched_at": "2026-11-08T15:08:30.781055+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "standards-apr2022.pdf. Accessed 17 Sept. 2024.",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.pdf.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.census.gov/indicator/qss/qsstechdoc.pdf.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.whitehouse.gov/omb/assets/omb/inforeg/pmc_survey_guidance_2006.pdf",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://aapor.org/wp-content/uploads/2023/05/Standards -Definitions-10th-edition.pdf",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.bls.gov/osmr/research -papers/2016/pdf/st160020.pdf",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.fcsm.gov/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.fcsm.gov/assets/files/docs/DataQualityAssessmentTool.pdf",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.whitehouse.gov/wp-content/uploads/2021/04/standards_stat_surveys.pdf",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.fcsm.gov/assets/files/docs/Transparent_Reporting_FCSM_19_01_092719.pdf",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://nces.ed.gov/FCSM/pdf/2009WorkshopProgram.pdf.",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Dhanapati Khatiwoda, Sandra Peterson, and Stephen Hardy",
@@ -940,98 +1032,6 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "standards-apr2022.pdf. Accessed 17 Sept. 2024.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.pdf.",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://www.census.gov/indicator/qss/qsstechdoc.pdf.",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://www.whitehouse.gov/omb/assets/omb/inforeg/pmc_survey_guidance_2006.pdf",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://aapor.org/wp-content/uploads/2023/05/Standards -Definitions-10th-edition.pdf",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.bls.gov/osmr/research -papers/2016/pdf/st160020.pdf",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.fcsm.gov/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.fcsm.gov/assets/files/docs/DataQualityAssessmentTool.pdf",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.whitehouse.gov/wp-content/uploads/2021/04/standards_stat_surveys.pdf",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.fcsm.gov/assets/files/docs/Transparent_Reporting_FCSM_19_01_092719.pdf",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://nces.ed.gov/FCSM/pdf/2009WorkshopProgram.pdf.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "The Census Bureau produces two separate sets of ABS estimates: firm and owner characteristics",
@@ -1399,47 +1399,37 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/reading_monkey/n/n27b140be5919",
+    "url": "https://note.com/makememo/n/n7ae565d6e7f0",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "url": "https://note.com/globis_engineers/n/n5dc591dc8551",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "url": "https://note.com/ryublog_link/n/nf530affa9d76",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.issoh.co.jp/column/details/6772/",
-    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.dm-insight.jp/column/response-bias/",
+    "url": "https://note.com/tasklab_biz/n/n01e064fda30b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuichy/n/n524d69d9e4f7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nikkei_r_finsol/n/n7882bbdc21ee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
     "status": "ok",
     "method": "http"
    },
@@ -1449,44 +1439,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nira.or.jp/paper/research-report/2022/23.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jasr.or.jp/wp/asr/asrpdf/asr5/asr05_020.pdf",
-    "status": "network_error:ConnectTimeout",
-    "method": "pdf"
-   },
-   {
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ipss.go.jp/syoushika/bunken/data/pdf/20760403.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://metricgate.com/docs/ja/nonresponse-adjustment/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.jstage.jst.go.jp/article/shes/19/1/19_15/_pdf",
@@ -1494,9 +1449,19 @@
     "method": "pdf"
    },
    {
-    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18H01561/",
+    "url": "https://www.issoh.co.jp/column/details/6772/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metricgate.com/docs/ja/nonresponse-adjustment/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://jgss.daishodai.ac.jp/research/monographs/jgssm11/jgssm11_20.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
@@ -1504,29 +1469,29 @@
     "method": "pdf"
    },
    {
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM+NRBA+Report+062623.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "url": "https://cran.r-project.org/web/packages/nrba/nrba.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/nonresponse_bias_analysis_felderer_2024.pdf",
-    "status": "http_403",
+    "url": "https://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "status": "network_error:SSLError",
     "method": "pdf"
    },
    {
     "url": "https://casrai.org/guides/non-response-bias",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/nonresponse_bias_analysis_felderer_2024.pdf",
+    "status": "http_403",
+    "method": "pdf"
    }
   ]
  },
@@ -1534,131 +1499,109 @@
   {
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） site:note.com",
    "results": [
-    "https://note.com/reading_monkey/n/n27b140be5919",
-    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "https://note.com/jack4manastalk/n/n81f611b08ce5",
     "https://note.com/makememo/n/n7ae565d6e7f0",
     "https://note.com/globis_engineers/n/n5dc591dc8551",
     "https://note.com/ryublog_link/n/nf530affa9d76",
-    "https://note.com/tasklab_biz/n/n01e064fda30b"
+    "https://note.com/tasklab_biz/n/n01e064fda30b",
+    "https://note.com/yuichy/n/n524d69d9e4f7",
+    "https://note.com/nikkei_r_finsol/n/n7882bbdc21ee",
+    "https://note.com/lyco_pene/n/ne3bc32aa82d3"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） note",
    "results": [
-    "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.dm-insight.jp/column/response-bias/",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://researto.com/column/market-research-bias/",
-    "https://uxdaystokyo.com/articles/glossary/nonresponse-bias/",
-    "https://jasr.or.jp/wp/asr/asrpdf/asr5/asr05_020.pdf",
-    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf"
+    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://note.com/globis_engineers/n/n5dc591dc8551",
+    "https://www.jstage.jst.go.jp/article/shes/19/1/19_15/_pdf",
+    "https://www.issoh.co.jp/column/details/6772/",
+    "https://metricgate.com/docs/ja/nonresponse-adjustment/"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） やり方",
    "results": [
-    "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.dm-insight.jp/column/response-bias/",
-    "https://www.nira.or.jp/paper/research-report/2022/23.html",
+    "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
     "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
-    "https://jasr.or.jp/wp/asr/asrpdf/asr5/asr05_020.pdf",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://qiqumo.jp/contents/knowhow/7500",
-    "https://www.ipss.go.jp/syoushika/bunken/data/pdf/20760403.pdf",
-    "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/"
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://www.jstage.jst.go.jp/article/shes/19/1/19_15/_pdf",
+    "https://www.issoh.co.jp/column/details/6772/",
+    "https://metricgate.com/docs/ja/nonresponse-adjustment/",
+    "https://jgss.daishodai.ac.jp/research/monographs/jgssm11/jgssm11_20.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） 事例",
    "results": [
-    "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://www.nira.or.jp/paper/research-report/2022/23.html",
-    "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
-    "https://jasr.or.jp/wp/asr/asrpdf/asr5/asr05_020.pdf",
-    "https://www.dm-insight.jp/column/response-bias/",
-    "https://qiqumo.jp/contents/knowhow/7500",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
-    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf"
+    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://www.jstage.jst.go.jp/article/shes/19/1/19_15/_pdf",
+    "https://metricgate.com/docs/ja/nonresponse-adjustment/",
+    "https://www.issoh.co.jp/column/details/6772/",
+    "https://jgss.daishodai.ac.jp/research/monographs/jgssm11/jgssm11_20.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "nonresponse bias analysis business survey frame variables response rate by industry",
    "results": [
     "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/nonresponse_bias_analysis_felderer_2024.pdf",
+    "https://statspolicy.gov/assets/fcsm/files/docs/FCSM+NRBA+Report+062623.pdf",
+    "https://cran.r-project.org/web/packages/nrba/nrba.pdf",
+    "https://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
     "https://casrai.org/guides/non-response-bias",
-    "https://www.norc.org/content/dam/norc-org/pdf2023/jsm-2023-gss-nonresponse-bias-analysis-final-clean.pdf",
-    "https://manuelgarcia.info/guides/research/guide/nonresponse-bias",
-    "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "https://statspolicy.gov/assets/fcsm/files/docs/FCSM+NRBA+Report+062623.pdf"
+    "https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/nonresponse_bias_analysis_felderer_2024.pdf",
+    "https://portal.census.gov/pulse/data/downloads/research/2021_sbps_nonresponse_bias_analysis_final.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "site:note.com 非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査）",
    "results": [
-    "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "https://note.com/ryublog_link/n/nf530affa9d76",
     "https://note.com/globis_engineers/n/n5dc591dc8551",
+    "https://note.com/ryublog_link/n/nf530affa9d76",
     "https://note.com/tasklab_biz/n/n01e064fda30b",
     "https://note.com/nikkei_r_finsol/n/n7882bbdc21ee",
     "https://note.com/takaos/n/n572d25860ed6",
     "https://note.com/kento_kuroha/n/n0e27201c551c",
-    "https://note.com/makememo/n/n7ae565d6e7f0"
+    "https://note.com/sbsmarketing/n/nabef1a174aa1"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:x.com 非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査）",
    "results": [
     "https://x.com/grok/status/2118302203551027687",
     "https://x.com/santa__oj/status/2038418032578711672",
-    "https://x.com/9qmqsa/status/2117435519823118538",
-    "https://x.com/KNHjyohokyoku/status/2072130518045647203",
     "https://x.com/tsuda/status/2043863540415787233",
     "https://x.com/IslandPon/status/2110317544016167189",
-    "https://x.com/maedaosamu1962/status/2081493232136094142"
+    "https://x.com/9qmqsa/status/2117435519823118538",
+    "https://x.com/maedaosamu1962/status/2081493232136094142",
+    "https://x.com/KNHjyohokyoku/status/2072130518045647203"
    ],
    "engines": [
     "ddgs:google"
@@ -1669,11 +1612,11 @@
    "query": "site:linkedin.com 非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査）",
    "results": [
     "https://jp.linkedin.com/pulse/unveiling-bias-data-collection-analysis-understanding-lkjff?tl=ja",
-    "https://jp.linkedin.com/pulse/correcting-invisible-bias-understanding-heckmans-aashish-juneja-ph-d-dhiqf?tl=ja",
+    "https://jp.linkedin.com/pulse/hidden-truth-behind-survey-responses-uncovering-bias-bob-roitblat-kh1ac?tl=ja",
     "https://www.linkedin.com/posts/york-date_組織サーベイで本音の回答を得るにはバイアスを抑制する技術-activity-7198470463545618432-Gsr8",
     "https://www.linkedin.com/posts/kenjinishiyama_ブログ一人の行為はなぜ集団の性質に変わるのか-帰属の非対称性と確証バイアス-activity-7507240028620673025-4YQU",
-    "https://jp.linkedin.com/pulse/hidden-truth-behind-survey-responses-uncovering-bias-bob-roitblat-kh1ac?tl=ja",
     "https://jp.linkedin.com/pulse/strategies-avoid-bias-your-data-doug-rose-fthje?tl=ja",
+    "https://jp.linkedin.com/pulse/correcting-invisible-bias-understanding-heckmans-aashish-juneja-ph-d-dhiqf?tl=ja",
     "https://jp.linkedin.com/pulse/research-methodology-navigating-errors-surveys-ashish-agarwal-ttsvf?tl=ja"
    ],
    "engines": [
@@ -1686,11 +1629,11 @@
    "results": [
     "https://www.facebook.com/unconsciousbias.lab/",
     "https://www.facebook.com/kandokoganei/posts/445228357710256/",
-    "https://www.facebook.com/kanto.zaimu/",
     "https://www.facebook.com/tatsuo.hisamatsu2/posts/某国立大学からのアンケート調査なのだが回答しようとして指が止まるこういうインセンティブは回答バイアスを生むので学術調査ではあまりやらないのではないだろうかそして/29477448848506929/",
     "https://www.facebook.com/printingjournal/posts/1264238884518299/",
     "https://www.facebook.com/rihejoho/posts/高教研ディスカッションペーパー-no1520213交絡変数の測定誤差が合流点バイアスをもたらす影響について合流点バイアスと交絡統制のジレンマに対する考察ㅤㅤ中尾/1612955535580322/",
-    "https://www.facebook.com/town.otaki/posts/千葉県男女共同参画地域推進員東上総地域主催事業アンコンシャスバイアスとは何かを見たり聞いたりしたときに無意識にこうだと思い込むことです女性だから男性だからなど知/1239865404845825/"
+    "https://www.facebook.com/town.otaki/posts/千葉県男女共同参画地域推進員東上総地域主催事業アンコンシャスバイアスとは何かを見たり聞いたりしたときに無意識にこうだと思い込むことです女性だから男性だからなど知/1239865404845825/",
+    "https://www.facebook.com/nissoken.osaka/posts/セミナーピックアップkyt５sなぜなぜ分析の実務への活用法只今好評配信中-指導講師福丸典芳氏有限会社福丸マネジメントテクノ-代表取締役-医療安全を組織文化として/902255495242980/"
    ],
    "engines": [
     "ddgs:google"
@@ -1700,66 +1643,54 @@
   {
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） note 社長",
    "results": [
-    "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
-    "https://www.dm-insight.jp/column/response-bias/",
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://note.com/tasklab_biz/n/n01e064fda30b",
-    "https://www.interviewz.io/blog/bias-questionnaire/",
-    "https://researto.com/column/market-research-bias/",
-    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf"
+    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://www.issoh.co.jp/column/details/6772/",
+    "https://note.com/globis_engineers/n/n5dc591dc8551",
+    "https://metricgate.com/docs/ja/nonresponse-adjustment/",
+    "https://www.jstage.jst.go.jp/article/shes/19/1/19_15/_pdf"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） X 投稿",
    "results": [
-    "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.nira.or.jp/paper/research-report/2022/23.html",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
-    "https://www.dm-insight.jp/column/response-bias/",
-    "https://qiqumo.jp/contents/knowhow/7500",
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://uxdaystokyo.com/articles/glossary/nonresponse-bias/",
-    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf"
+    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://metricgate.com/docs/ja/nonresponse-adjustment/",
+    "https://www.issoh.co.jp/column/details/6772/",
+    "https://www.jstage.jst.go.jp/article/shes/19/1/19_15/_pdf",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18H01561/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "nonresponse bias analysis business survey frame variables response rate by industry site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/meltem-chadwick_nonresponse-bias-in-household-inflation-expectations-activity-7387302244372840450-fuSg",
-    "https://www.linkedin.com/posts/joachim-schork_statistics-rstats-surveystatistics-activity-7517977467220033536-yXFS",
-    "https://www.linkedin.com/posts/james-benford-1801b25a_building-a-clearer-picture-of-the-labour-activity-7510282649786044416-Ohtm",
-    "https://www.linkedin.com/pulse/csat-silence-bias-when-satisfied-majority-doesnt-count-pizziniaco-hkamf",
-    "https://www.linkedin.com/in/jennifer-kali",
-    "https://www.linkedin.com/posts/helen-kelley_the-uk-va-survey-2026-results-have-landed-activity-7515323600732848128-6NAP",
-    "https://www.linkedin.com/in/rebecca-goldring-b6a63711",
-    "https://www.linkedin.com/in/staskolenikov",
-    "https://www.linkedin.com/in/stephanie-eckman-090224aa",
-    "https://www.linkedin.com/pulse/building-reliable-surveys-timely-topics-dos-donts-christos-makridis-f5eze"
+    "https://www.linkedin.com/advice/0/how-can-you-improve-validity-your-research-accounting",
+    "https://www.linkedin.com/advice/0/how-can-you-account-non-response-bias-survey-sampling",
+    "https://pe.linkedin.com/advice/0/what-most-effective-way-avoid-sampling-bias-ul56e",
+    "https://www.linkedin.com/advice/3/what-implications-non-response-market-research-ffule",
+    "https://www.linkedin.com/advice/1/what-best-practices-handling-non-response-your-qathe",
+    "https://www.linkedin.com/advice/1/what-best-practices-adjusting-non-response-bias-j9goc",
+    "https://www.linkedin.com/advice/0/what-implications-non-response-bias-survey-xgbme"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T00:52:18.617078+00:00"
 }

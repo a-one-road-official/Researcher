@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・235品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・237品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -12164,6 +12164,56 @@
 - 生産能力・設備：記載なし（読んだ55頁・検索18回）
 - 10年推移：記載なし（読んだ55頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 受託加工を本業とする上場会社の有価証券報告書をEDINETの原本から（従業員の状況・売上高・主要な経営指標等・zukaikeizai.com など写しのサイトを除く・前回は写し1か所だけ・4-24・4-107）（EDINET annual securities report contract heat treatment plating stamping company employees sales original filing）
+- 文脈：会社・開示
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107）（METI IIP capacity utilization index fabricated metal products annual time series xlsx 2020 base）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「2021年頃から世界的な半導体供給不足が深刻化し、日本の自動車メーカーも生産調整（減産）を余儀なくされました」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「2021年夏頃に減産幅が最大となり」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「このような減産により、日本の鉱工業生産指数もその時期には大きく落ち込んでいます（実際、2021年9月の鉱工業生産は前月比マイナスで、大きな低下を記録しました）」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「2022年以降も断続的に部品不足や工場の稼働停止が発生しましたが、そのたびに自動車工業の生産指数が上下し、全体指数を動かしています」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「このように、鉱工業指数の変動要因を分析すると、「自動車が減産したから全体が下がった」など背景にある出来事を読み取ることができます」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「生産が増加しても出荷が伴わず在庫が増えていれば、将来的に減産の可能性が高まり、景気の減速要因となることもあります」（https://www.oanda.jp/lab-education/dictionary/industrial_production/）
+- 生産能力・設備：
+  - 「鉱工業生産・出荷・在庫指数 製造工業生産能力指数・稼働率指数 2025年6月分 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488）
+  - 「製造工業生産能力指数・稼働率指数 2025年6月分」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488）
+- 10年推移：
+  - 「鉱工業生産・出荷・在庫指数 製造工業生産能力指数・稼働率指数 2025年6月分 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488）
+  - 「製造工業生産能力指数・稼働率指数 2025年6月分」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488）
+  - 「2025年 6月」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488）
+  - 「2025-08-15 13:30」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488）
+  - 「2025-04-28」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「日本の鉱工業生産指数（季節調整済）の推移（2018年～2025年）」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「https://www.meti.go.jp/statistics/toppage/report/archive/kako/20250331_1.html」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「（2025/4/28 参照）」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「図1：日本の鉱工業生産指数（季節調整済）の推移（2018年～2025年）」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「2020年初頭に急落しているのは新型コロナウイルスの影響で、生産が一時大きく落ち込んだことを示しています」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「2020年の水準を100」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「日本における産業別付加価値比率の推移（鉱工業を含むB,C,D,EはおよそGDPの25％を占めている）」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「例えば、2024年6月の鉱工業生産指数（季節調整済）は」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「これは、2020年平均と比べてほぼ同程度（100に近い）であることを意味します」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+  - 「一方で2020年4～5月の指数は急落し90を割り込んでいました​（図1参照）」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+- 人手と仕事の差：
+  - 「また、生産には季節的な変動（例：長期休暇や年度末の繁忙期など）があるため、それを平準化した」（https://lanes.info/industrial-production-index-supply-chain-explained/）
+- 検索結果の抜粋：
+  - 「鉱工業指数 ( 生産 ・出荷・在庫、生産 能力 ・ 稼働率 )、製造 工業 ... — 鉱工業指数 ( 生産 ・出荷・在庫、生産 能力 ・ 稼働率 )、製造 工業 ... 経済産業省 https://www.meti.go.jp > statistics > tyo > iip > result-1」（https://www.meti.go.jp/statistics/tyo/iip/result-1.html）
+  - 「Historical Data, Indices of Industrial Production ( base = 2020 ) — Historical Data, Indices of Industrial Production ( base = 2020 ) 経済産業省 https://www.meti.go.jp > tyo > iip > b...」（https://www.meti.go.jp/english/statistics/tyo/iip/b2020_result-2.html）
+  - 「Historical Data, Indices of Industrial Production ( base = 2015) — Historical Data, Indices of Industrial Production ( base = 2015) 経済産業省 https://www.meti.go.jp > tyo > iip > b...」（https://www.meti.go.jp/english/statistics/tyo/iip/b2015_result-2.html）
+- 事業所数・社数：記載なし（読んだ36頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ36頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ36頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ36頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

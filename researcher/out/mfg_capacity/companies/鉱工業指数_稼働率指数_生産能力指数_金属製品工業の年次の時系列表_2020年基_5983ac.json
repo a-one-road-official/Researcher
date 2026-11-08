@@ -1,0 +1,783 @@
+{
+ "name": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107）",
+ "en": "METI IIP capacity utilization index fabricated metal products annual time series xlsx 2020 base",
+ "aliases": [
+  "site:meti.go.jp/statistics/tyo/iip 稼働率指数 金属製品工業 時系列",
+  "site:meti.go.jp 鉱工業指数 生産能力指数 業種別 年 xlsx 2020年=100",
+  "鉱工業指数 稼働率指数 金属製品 年平均 2015 2024 表"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T14:54:52.731442+00:00",
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "鉱工業指数 ( 生産 ・出荷・在庫、生産 能力 ・ 稼働率 )、製造 工業 ... — 鉱工業指数 ( 生産 ・出荷・在庫、生産 能力 ・ 稼働率 )、製造 工業 ... 経済産業省 https://www.meti.go.jp > statistics > tyo > iip > result-1",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Data, Indices of Industrial Production ( base = 2020 ) — Historical Data, Indices of Industrial Production ( base = 2020 ) 経済産業省 https://www.meti.go.jp > tyo > iip > b...",
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Data, Indices of Industrial Production ( base = 2015) — Historical Data, Indices of Industrial Production ( base = 2015) 経済産業省 https://www.meti.go.jp > tyo > iip > b...",
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_result-2.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "鉱工業生産・出荷・在庫指数 製造工業生産能力指数・稼働率指数 2025年6月分 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "pass": 3
+   },
+   {
+    "quote": "製造工業生産能力指数・稼働率指数 2025年6月分",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "鉱工業生産・出荷・在庫指数 製造工業生産能力指数・稼働率指数 2025年6月分 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "pass": 3
+   },
+   {
+    "quote": "製造工業生産能力指数・稼働率指数 2025年6月分",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "pass": 3
+   },
+   {
+    "quote": "2025-08-15 13:30",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "pass": 3
+   },
+   {
+    "quote": "2025-04-28",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鉱工業生産指数（季節調整済）の推移（2018年～2025年）",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/statistics/toppage/report/archive/kako/20250331_1.html",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "（2025/4/28 参照）",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "図1：日本の鉱工業生産指数（季節調整済）の推移（2018年～2025年）",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年初頭に急落しているのは新型コロナウイルスの影響で、生産が一時大きく落ち込んだことを示しています",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の水準を100",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "日本における産業別付加価値比率の推移（鉱工業を含むB,C,D,EはおよそGDPの25％を占めている）",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2024年6月の鉱工業生産指数（季節調整済）は",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、2020年平均と比べてほぼ同程度（100に近い）であることを意味します",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で2020年4～5月の指数は急落し90を割り込んでいました​（図1参照）",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "逆にマイナスであれば生産が減少したことになります",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、前年比○％は1年前と比べた増減で、",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば2024年の年間鉱工業生産は前年比",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "前年比マイナスが続いているということは、昨年より生産水準が低い状態が続いており、停滞気味であると読み取れます",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な景気分析では季節調整済指数の前月比を重視しますが、年間の推移を見るときには原指数や前年比も参考にします",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "景気が上向くと製品がよく売れるため出荷が増加し、在庫が減少",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした在庫調整が進むと在庫は再び減少に転じ、やがて需要と在庫が整ってくると、再度生産が持ち直して景気回復局面に入ります​",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業生産・出荷・在庫指数 2020年基準時系列データ（2018年１月～） 品目別／四半期、年、年度／原指数 2026年 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&month=0&stat_infid=000040172374&tclass1=000001205860&toukei=00550300&tstat=000001022877&year=20250",
+    "pass": 3
+   },
+   {
+    "quote": "2020年基準時系列データ（2018年１月～）",
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&month=0&stat_infid=000040172374&tclass1=000001205860&toukei=00550300&tstat=000001022877&year=20250",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業生産・出荷・在庫指数 / 2020年基準時系列データ（2018年１月～）",
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&month=0&stat_infid=000040172374&tclass1=000001205860&toukei=00550300&tstat=000001022877&year=20250",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業生産の見方や、これまでの推移・最新の結果について解説します",
+    "url": "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "pass": 3
+   },
+   {
+    "quote": "前月比や前年比が増えているか、減っているかによって、景気動向を分析できます",
+    "url": "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "pass": 3
+   },
+   {
+    "quote": "数値が増加していれば景気はプラス傾向、減少していれば景気はマイナス傾向と判断",
+    "url": "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "pass": 3
+   },
+   {
+    "quote": "生産が増加しても出荷が伴わず在庫が増えていれば、将来的に減産の可能性が高まり、景気の減速要因となることもあります",
+    "url": "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、生産の増加がインフレや利上げにつながると判断される場合、株式市場では売り材料となることもあります",
+    "url": "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、生産が増えていても出荷が伴わず在庫が増加している場合は、需要が弱いため、将来的に景気減速の兆しとなることもあります",
+    "url": "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "pass": 3
+   },
+   {
+    "quote": "(2026-09) · MoM +2.16% · YoY +3.07% · Index (2020 = 100)",
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "pass": 3
+   },
+   {
+    "quote": "How this indicator has moved (published values, Jan 2018 to Sep 2026)",
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "pass": 3
+   },
+   {
+    "quote": "The highest month was Mar 2018 (116.3) and the lowest was May 2020 (87.6).",
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "pass": 3
+   },
+   {
+    "quote": "The largest year-on-year rise was in Jun 2021 (+21.92%) and the largest fall in May 2020 (-23.69%).",
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "pass": 3
+   },
+   {
+    "quote": "The average of the latest 12 months is 8.4% below the 2019 average.",
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "pass": 3
+   },
+   {
+    "quote": "Output volumes at domestic establishments that make mining and manufacturing products are collected by item and combined into one index using weights from the base year (2020). Because it measures volume rather than value, the index does not rise just because prices go up. Shipment and inventory indices are compiled from the same survey.",
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "pass": 3
+   },
+   {
+    "quote": ": when the base year (currently 2020) changes, items and weights are reviewed",
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "2021年頃から世界的な半導体供給不足が深刻化し、日本の自動車メーカーも生産調整（減産）を余儀なくされました",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年夏頃に減産幅が最大となり",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "このような減産により、日本の鉱工業生産指数もその時期には大きく落ち込んでいます（実際、2021年9月の鉱工業生産は前月比マイナスで、大きな低下を記録しました）",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年以降も断続的に部品不足や工場の稼働停止が発生しましたが、そのたびに自動車工業の生産指数が上下し、全体指数を動かしています",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、鉱工業指数の変動要因を分析すると、「自動車が減産したから全体が下がった」など背景にある出来事を読み取ることができます",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "生産が増加しても出荷が伴わず在庫が増えていれば、将来的に減産の可能性が高まり、景気の減速要因となることもあります",
+    "url": "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "また、生産には季節的な変動（例：長期休暇や年度末の繁忙期など）があるため、それを平準化した",
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fabricated Metal Products Market Industry Disruption and ... The Fabricated Metal Products Market Research Report delivers a sharp, evidence-based assessment of market size, growth trajectories, and emerging shifts that will impact your strategic choices.",
+    "url": "https://www.linkedin.com/pulse/fabricated-metal-products-market-industry-disruption-growth-wl4if",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://novaist.jp/articles/japan-output-slips-in-march/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/2026/09shihyou/shihyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/26797/osakakeizai-ugoki_no534.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/2020/01shihyou/shihyou1-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lanes.info/industrial-production-index-supply-chain-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbishinseibank.co.jp/institutional/markets_info/pdf/MRFRD-2025-044_Economic_Commentary.pdf",
+    "status": "network_error:ReadTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.monex.co.jp/articles/-/28701",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&month=0&stat_infid=000040172374&tclass1=000001205860&toukei=00550300&tstat=000001022877&year=20250",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/2022/01shihyou/shihyou1-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550320-month-full-list_b2020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fx.minkabu.jp/indicators/US-IP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/iip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202607kj.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/2020/02shihyou/shihyou1-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/2020/10shihyou/shihyou1-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://macrodatahub.com/ja/data/nihon-industrial-production-2220",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202606kj.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&kikan=00550&toukei=00550320&tstat=000001022885&tclass1=000001205861&result_page=1&tclass2val=0&statdisp_id=0004052234",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/kankoubutu/documents/30youran-gurafu05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_result-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_result-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://firstreleasejapan.com/en/indicators/iip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/fabricated-metal-products-market-industry-disruption-growth-wl4if",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://novaist.jp/articles/japan-output-slips-in-march/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www5.cao.go.jp/keizai3/getsurei/2026/09shihyou/shihyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/26797/osakakeizai-ugoki_no534.pdf",
+    "https://www.boj.or.jp/research/brp/rer/data/rer170710.pdf",
+    "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002249189.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/2020/01shihyou/shihyou1-7.pdf",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.youtube.com/watch?v=U8cpsb3nzyc",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE",
+    "https://lanes.info/industrial-production-index-supply-chain-explained/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.youtube.com/watch?v=VZ75x5Qk2Ps",
+    "https://www.sbishinseibank.co.jp/institutional/markets_info/pdf/MRFRD-2025-044_Economic_Commentary.pdf",
+    "https://media.monex.co.jp/articles/-/28701"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&month=0&stat_infid=000040172374&tclass1=000001205860&toukei=00550300&tstat=000001022877&year=20250",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www5.cao.go.jp/keizai3/getsurei/2022/01shihyou/shihyou1-7.pdf",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://data-seisaku.com/00550-meti-00550320-month-full-list_b2020/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.youtube.com/watch?v=U8cpsb3nzyc",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www5.cao.go.jp/keizai3/getsurei/2022/01shihyou/shihyou1-7.pdf",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE",
+    "https://fx.minkabu.jp/indicators/US-IP",
+    "https://pps-net.org/iip",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202607kj.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/2020/02shihyou/shihyou1-7.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&month=0&stat_infid=000040172374&tclass1=000001205860&toukei=00550300&tstat=000001022877&year=20250",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www5.cao.go.jp/keizai3/getsurei/2020/10shihyou/shihyou1-7.pdf",
+    "https://macrodatahub.com/ja/data/nihon-industrial-production-2220",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202606kj.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&month=0&stat_infid=000040172374&tclass1=000001205860&toukei=00550300&tstat=000001022877&year=20250",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.oanda.jp/lab-education/dictionary/industrial_production/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&kikan=00550&toukei=00550320&tstat=000001022885&tclass1=000001205861&result_page=1&tclass2val=0&statdisp_id=0004052234",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://data-seisaku.com/00550-meti-00550320-month-full-list_b2020/",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/kankoubutu/documents/30youran-gurafu05.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://fx.minkabu.jp/indicators/US-IP",
+    "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202606kj.html",
+    "https://macrodatahub.com/ja/data/nihon-industrial-production-2220"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.youtube.com/watch?v=HVo6h3c2ezE",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://media.monex.co.jp/articles/-/28701"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "METI IIP capacity utilization index fabricated metal products annual time series xlsx 2020 base Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_result-2.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_result-2.html",
+    "https://firstreleasejapan.com/en/indicators/iip/",
+    "https://www.sciencedirect.com/science/article/am/pii/S0959652622005583",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_201910ke.html",
+    "https://tradingeconomics.com/japan/industrial-production",
+    "https://www.e-stat.go.jp/en/statistics/00550300"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107）",
+   "results": [
+    "https://note.com/kiku_keizai/n/n1dd0155725e9",
+    "https://note.com/hirokimiyano/n/n8676b3b2b3a6",
+    "https://note.com/hirokimiyano/n/n7501d5193f10",
+    "https://note.com/easy_snipe4578/n/nb0fcd0a41685",
+    "https://note.com/noted_jacana411/n/n049b51f980af",
+    "https://note.com/lucid_lotus6287/n/n4da53619faf5",
+    "https://note.com/monologue_works/n/nda7648124123",
+    "https://note.com/ta_k9385/n/n868e031f9151",
+    "https://note.com/andyfp_2025/n/n1f828b0bad0f",
+    "https://note.com/todobuono/n/n33a05aa48f11"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107）",
+   "results": [
+    "https://jp.linkedin.com/in/shoichiiwakiri",
+    "https://www.linkedin.com/company/siemens",
+    "https://www.linkedin.com/company/nikken-sekkei-ltd",
+    "https://in.linkedin.com/company/nologin-in",
+    "https://fr.linkedin.com/company/gys",
+    "https://www.linkedin.com/company/acolad-group",
+    "https://jp.linkedin.com/pulse/temporal-data-visualization-time-series-plots-samir-pandya-2zmuf?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107）",
+   "results": [
+    "https://www.facebook.com/people/台灣區石礦業同業公會/100057281086111/",
+    "https://www.facebook.com/EversenBevelle/",
+    "https://www.facebook.com/p/台灣區水泥製品工業同業公會-61559400341188/",
+    "https://www.facebook.com/61559400341188/",
+    "https://www.facebook.com/gifumecca/",
+    "https://www.facebook.com/JetroVHA/posts/ビジネス短信2023年の鉱工業生産指数前年比15上昇にとどまるベトナムベトナム統計総局によると2023年の鉱工業生産指数iipは前年比15上昇した上昇率は202/683230310649088/",
+    "https://www.facebook.com/ibaraki.tokei/posts/農業算出額及び農林業センサス結果の長期時系列表都道府県別の公表について農林水産省の生産農業所得統計及び農林業センサスを基に耕種別の農業生産額や農家数などについて/2100450510247184/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/2020/01shihyou/shihyou1-7.pdf",
+    "https://www.youtube.com/watch?v=U8cpsb3nzyc",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.indb.co.jp/insight/economydata_2603_iip/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://www.oanda.jp/lab-education/dictionary/industrial_production/",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 金属製品工業の年次の時系列表（2020年基準・経産省の xlsx・指数の基準年を値に添える・4-98・4-107） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/2020/10shihyou/shihyou1-7.pdf",
+    "https://www.youtube.com/watch?v=U8cpsb3nzyc",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY",
+    "https://data-seisaku.com/00550-meti-00550320-month-full-list_b2020/",
+    "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202606kj.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "METI IIP capacity utilization index fabricated metal products annual time series xlsx 2020 base site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/supply-chain-management/capacity-planning-for-manufacturers/capacity-utilization-analysis/",
+    "https://www.linkedin.com/pulse/fabricated-metal-products-market-industry-disruption-growth-wl4if",
+    "https://in.linkedin.com/company/fabricated-metals",
+    "https://in.linkedin.com/company/fabricated-metal-products",
+    "https://pe.linkedin.com/pulse/index-industrial-production-iip-profit-from-it-khrgf",
+    "https://lc.linkedin.com/posts/sahil-kapoor-2783039_base-for-india-cpi-wpi-iip-and-gdp-are-activity-7064149101029789696-PodM",
+    "https://sa.linkedin.com/company/saudi-arabian-fabricated-metals-industry"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ36頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ36頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ36頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ36頁・検索18回）"
+ }
+}

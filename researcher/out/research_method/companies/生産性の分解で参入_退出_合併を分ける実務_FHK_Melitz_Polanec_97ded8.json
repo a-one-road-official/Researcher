@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T07:23:57.384721+00:00",
+ "researched_at": "2026-11-08T14:55:28.972621+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -299,8 +299,113 @@
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/syousuukabu_koho/n/n5a165b8cc748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/naoki0921/n/ne96d462af680",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rikei_okka/n/ncdfcef1fdfda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/syousuukabu_koho/n/n40551dbbfba1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chic_deer1160/n/na955cf3457e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rmc-oden.com/blog/archives/93188",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mmcea.com/business-analysis/productivity-analysis/va1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ssk-smec.jp/blog/1116.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-business-administration/productivity_analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiriplus.jp/tips/seisanseibunseki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.pactera.com/seminar/1606",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shikakutorunara.tokyo/2023/08/31/post-1076/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studying.jp/shindanshi/studyqa/id/19872.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aas-clover.com/tokyoblog/1999",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://academic.oup.com/icc/article/35/3/543/8257621",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -309,67 +414,109 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.rieti.go.jp/en/publications/summary/26010011.html",
+    "url": "https://waseda.elsevierpure.com/en/publications/the-impact-of-mergers-on-aggregate-productivity-an-empirical-anal/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://scispace.com/papers/the-impact-of-mergers-on-aggregate-productivity-an-empirical-9srzvapej6xa",
+    "url": "https://www.rieti.go.jp/en/columns/a01_0189.html",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
-    "status": "http_403",
     "method": "http"
-   },
-   {
-    "url": "https://www.ivysci.com/en/articles/11963371__The_impact_of_mergers_on_aggregate_productivity_an_empirical_analysis_using_productivity_decompositi",
-    "status": "ok",
-    "method": "browser"
    }
   ]
  },
  "search_log": [
   {
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/syousuukabu_koho/n/n5a165b8cc748",
+    "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "https://note.com/naoki0921/n/ne96d462af680",
+    "https://note.com/rikei_okka/n/ncdfcef1fdfda",
+    "https://note.com/syousuukabu_koho/n/n40551dbbfba1",
+    "https://note.com/chic_deer1160/n/na955cf3457e1",
+    "https://note.com/aku_bug/n/n10c7264400ce"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
+    "https://mmcea.com/business-analysis/productivity-analysis/va1/",
+    "https://shikakutorunara.tokyo/2023/08/18/post-1063/",
+    "https://www.youtube.com/watch?v=BPelOtM9zok",
+    "https://www.aas-clover.com/tokyoblog/1999",
+    "https://www.scribd.com/document/720128217/Melitz-y-Polanee-2015-Dynamic-Olley-Pakes-productivity-decomposition-with-entry-and-exit"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://ssk-smec.jp/blog/1116.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://www.youtube.com/watch?v=aKdj9nbmk4s",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://www.freee.co.jp/kb/kb-business-administration/productivity_analysis/",
+    "https://keiriplus.jp/tips/seisanseibunseki/",
+    "https://jp.pactera.com/seminar/1606"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） 事例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://www.youtube.com/watch?v=aKdj9nbmk4s",
+    "https://shikakutorunara.tokyo/2023/08/31/post-1076/",
+    "https://jp.pactera.com/seminar/1606",
+    "https://studying.jp/shindanshi/studyqa/id/19872.html",
+    "https://www.aas-clover.com/tokyoblog/1999"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "productivity decomposition entry exit merger effects firm level Japan",
    "results": [
-    "https://academic.oup.com/icc/article/35/3/543/8257621",
-    "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "https://www.rieti.go.jp/en/publications/summary/26010011.html",
-    "https://scispace.com/papers/the-impact-of-mergers-on-aggregate-productivity-an-empirical-9srzvapej6xa",
     "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
-    "https://www.ivysci.com/en/articles/11963371__The_impact_of_mergers_on_aggregate_productivity_an_empirical_analysis_using_productivity_decompositi",
-    "https://www.canyam.com/en/article/the-impact-of-mergers-on-aggregate-productivity-an-empirical-analysis-using-productivity-decomposition/61863174"
+    "https://academic.oup.com/icc/article/35/3/543/8257621",
+    "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "https://waseda.elsevierpure.com/en/publications/the-impact-of-mergers-on-aggregate-productivity-an-empirical-anal/",
+    "https://www.rieti.go.jp/en/columns/a01_0189.html",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/reigniting-productivity-growth_67b7a182.html",
+    "https://www.iwh-halle.de/fileadmin/_compnet/user_upload/Session_2_-_Presentation_2_-_Yojiro_Ito_new.pdf",
+    "https://spfusa.org/wp-content/uploads/2015/01/World-KLEMS-Conference-Fukao-et-al-20140519-final-pdf.pdf",
+    "https://www.rieti.go.jp/en/publications/summary/26010011.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "site:note.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
@@ -399,7 +546,7 @@
     "https://x.com/OnebookofMAG/status/2058655572963230152"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -412,12 +559,16 @@
     "https://jp.linkedin.com/posts/大地-川上-2247a7354_経営の成否を分ける仮説検証の技術なぜ優秀な経営者はmaでもスモールスタート-activity-7472430099049492480-R3tx",
     "https://jp.linkedin.com/posts/涼太-本田-066a05b6_生産計画において人システムaiの役割をどう分けるか-判断の質を上げるための-activity-7467349279368687616-tYnB",
     "https://www.linkedin.com/posts/秀一-新田-9b6b19324_ai時代の企業経営では人間の労働とaiを含むデジタル資本を組み合わせて生産性-share-7504695334909128704-mZir",
-    "https://jp.linkedin.com/posts/mkobayashi0522_ai時代の新戦略論-守る戦略から変化を運用する作戦へ競争優位をタスクレベル-activity-7394479108354895872-xiri"
+    "https://jp.linkedin.com/posts/mkobayashi0522_ai時代の新戦略論-守る戦略から変化を運用する作戦へ競争優位をタスクレベル-activity-7394479108354895872-xiri",
+    "https://jp.linkedin.com/pulse/新規事業の成否を分ける撤退力の本質ローンチ前後の撤退とジョブ理論の必然性-hiroyasu-kitagawa-2shfc",
+    "https://jp.linkedin.com/posts/剛-川生-130a113b3_医療市場は技術力だけでは参入できません-参入可否を分けるのは構造設計です-activity-7433110825386790912-6ygD",
+    "https://jp.linkedin.com/posts/大地-川上-2247a7354_maの成否を分けるプレシミュレーションの重要性-近年中小企業の経営選択肢-activity-7474606325864439808-GBDA"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 11
   },
   {
    "query": "site:facebook.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
@@ -437,37 +588,66 @@
   },
   {
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.youtube.com/watch?v=SP-2WCVBwIo",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://slack.com/intl/ja-jp/blog/productivity/how-to-analyze-productivity",
+    "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
+    "https://shikakutorunara.tokyo/2023/08/31/post-1076/",
+    "https://mmcea.com/business-analysis/productivity-analysis/va1/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.rieti.go.jp/jp/columns/a01_0820.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.youtube.com/watch?v=SP-2WCVBwIo",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
+    "https://rmc-oden.com/blog/archives/93188",
+    "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
+    "https://business.nikkei.com/atcl/seminar/20/00049/121500001/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "productivity decomposition entry exit merger effects firm level Japan site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/japan-ma-policy-part-1-japans-startup-exit-problem-structural-ovwzc",
-    "https://www.linkedin.com/pulse/japans-productivity-paradox-why-long-hours-persist-what-mari-ono-mba-1wosc",
-    "https://id.linkedin.com/company/apotokyo",
-    "https://ie.linkedin.com/in/iulia-siedschlag-722227231",
-    "https://at.linkedin.com/posts/allenleeavcj_mergersandacquisitions-ionanalytics-japanbusiness-activity-7060150182067245056-Qi1E",
-    "https://www.linkedin.com/pulse/japans-productivity-paradox-why-more-people-hasnt-meant-hoshino-tlxic",
-    "https://www.linkedin.com/posts/business-sweden-asia-pacific_focusasia-businesssweden-japan-activity-7241642178840543232-ghVz"
+    "https://www.linkedin.com/in/filipjolevski",
+    "https://cn.linkedin.com/in/rodrigo-zeidan-a6b2958",
+    "https://www.linkedin.com/in/dingding-lucas-li",
+    "https://www.linkedin.com/in/andrewmclennan",
+    "https://in.linkedin.com/in/nkumar5",
+    "https://www.linkedin.com/in/magnus-sigurdsson",
+    "https://www.linkedin.com/pulse/brave-new-world-why-ai-job-apocalypse-keeps-arriving-bernard-leong-8vkbf",
+    "https://uk.linkedin.com/in/robert--mitchell",
+    "https://ca.linkedin.com/in/lawingabriel",
+    "https://www.linkedin.com/in/ianokeefe"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 18
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ6頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ25頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T00:52:26.821694+00:00"
 }

@@ -1,0 +1,497 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105）",
+ "en": "Economic Structure Survey manufacturing establishments standard error rate table by industry and size sample 4-29 persons METI",
+ "aliases": [
+  "site:meti.go.jp 経済構造実態調査 製造業事業所調査 標準誤差率",
+  "経済構造実態調査 製造業事業所調査 調査の概要 抽出 4人以上29人以下 標準誤差",
+  "site:e-stat.go.jp 経済構造実態調査 製造業事業所調査 標準誤差"
+ ],
+ "context": "統計・定義",
+ "kind": "market",
+ "researched_at": "2026-11-08T14:51:43.281908+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000551994.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.yao.osaka.jp/shisei/toukei_chousa/1009862/1009864.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003109534/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index301.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.soumu.go.jp/main_content/000551994.pdf",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.jpo.go.jp/resources/statistics/mohou_higai/2018/document/index/0300.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.city.yao.osaka.jp/shisei/toukei_chousa/1009862/1009864.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003109534/index.html",
+    "https://cir.nii.ac.jp/crid/1970867909856297519"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003109534/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003109534/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.city.yao.osaka.jp/shisei/toukei_chousa/1009862/1009864.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003109534/index.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.city.yao.osaka.jp/shisei/toukei_chousa/1009862/1009864.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments standard error rate table by industry and size sample 4-29 persons METI Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index301.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html",
+    "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Structural_business_statistics_overview",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&toukei=00200555&tstat=000001221300"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105）",
+   "results": [
+    "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
+    "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "https://note.com/epolicy_actvst/n/n663f8cb1ab27",
+    "https://note.com/ready_ram4076/n/nfafe91a6060a",
+    "https://note.com/ok_totti/n/nf3f340ed68a4",
+    "https://note.com/kagawatomo/n/n25d015846a4d",
+    "https://note.com/0101_engineer/n/n94dab2cb7c48",
+    "https://note.com/humble_crane7701/n/n6296d90131e6",
+    "https://note.com/reading_monkey/n/n3b8643a92bb6",
+    "https://note.com/isl_mono29r1/n/n686bf0077f70"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105）",
+   "results": [
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://jf.x.com/images/media-preview/2112257298915877181",
+    "https://x.com/kido_office/status/2089094854446125168",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921",
+    "https://x.com/JFC_information/status/2070010921364455748"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105）",
+   "results": [
+    "https://www.linkedin.com/posts/rishabh-mishra-b693781ba_internship-scam-awareness-students-be-activity-7451156683088760832-HIoO",
+    "https://jp.linkedin.com/company/東洋経済新報社",
+    "https://www.linkedin.com/jobs/enh-jobs",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本の製造業の投資しても稼げない実態-付加価値を生まない構造の正体-monoist-activity-7474961796831817728-STMi",
+    "https://jp.linkedin.com/posts/alphast-jp_製造業の営業利益率とは目安や活用改善方法簡潔に解説-activity-7165583758895640576-MBMb",
+    "https://jp.linkedin.com/posts/shoichionaka_経済産業省が2026年1月に発表した2040年の就業構造推計に目を通してみました-activity-7432232582047547392-GwLx",
+    "https://jp.linkedin.com/jobs/view/山形事業所-機能材製品製造部-製造技術者-foam-tapes-and-attachment-products-manufacturing-process-engineer-at-3m-4005303297"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105）",
+   "results": [
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/stat.japan/posts/3月27日総務省統計局からお知らせします2025年経済構造実態調査一次集計結果-産業横断調査企業等に関する集計-総務省及び経済産業省は2025年6月に実施した2/1369600878537270/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/photo.php/?fbid=1237778328363840",
+    "https://www.facebook.com/tochokoho/posts/始まります令和8年経済センサス活動調査総務省と経済産業省は令和8年6月1日を期日として全国のすべての事業所及び企業を対象に令和8年経済センサス活動調査を実施しま/1281149700865058/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.city.yao.osaka.jp/shisei/toukei_chousa/1009862/1009864.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003109534/index.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://kantoko.com/blog/2025/09/90946/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 結果の概要 標準誤差率の表（産業別・従業者規模別・30人以上全数と4〜29人抽出の区別・前回は%が事業所数の欄に入っただけ・4-105） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments standard error rate table by industry and size sample 4-29 persons METI site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/yusufmehdi",
+    "https://jp.linkedin.com/in/bruce-tanaka-9326301",
+    "https://www.linkedin.com/pulse/publicly-available-datasets-manufacturing-use-cases-drescher-dr--hwwec",
+    "https://www.linkedin.com/pulse/highlights-from-2024-deloitte-manufacturing-52zme",
+    "https://economicgraph.linkedin.com/workforce-data",
+    "https://pulse.linkedin.com/",
+    "https://kr.linkedin.com/pulse/cost-reduction-manufacturing-establishments-strategic-ridma-peiris-ipgyc?tl=ko",
+    "https://et.linkedin.com/company/chemical-construction-inputs-industry-development-institute",
+    "https://in.linkedin.com/in/anindita-sen-40136717"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ29頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ29頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ29頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ29頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ29頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ29頁・検索18回）",
+  "10年推移": "記載なし（読んだ29頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ29頁・検索18回）"
+ }
+}
