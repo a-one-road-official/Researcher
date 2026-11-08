@@ -418,6 +418,13 @@
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
 - 手順・やり方：
+  - 「How to Research an Industry: Free Data Guide (2026) | VantaInsights」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「How To Research An Industry: 2026 Methods & Data」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「collectively cover employment, wages, revenue, pricing, and competitive structure across virtually every US industry. The challenge is knowing which source to use, when, and how to combine them into a coherent picture.」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「This guide walks through a repeatable four-step methodology for industry research: define your industry scope, pull structural data, layer in wage and price context, and map the competitive landscape. Each step builds on the last. By the end, you'll have a sourced, cited, NAICS-classified view of any industry you're analyzing.」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「Step 1: Define Your Industry Using NAICS Codes」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「Why This Step Cannot Be Skipped」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「(Other Services to Buildings). Document every relevant code before you start pulling data — it will save significant rework later. An industry research guide that skips this step isn't a guide; it's a liability.」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「1.以下の手順で該当企業を検索して、noteにあるか調べる」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「▼ご依頼方法の詳細については以下noteから」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「このnoteでは、NotebookLMを使って企業研究を引用付きで整理し、面接深掘りに耐える材料を作る手順をプロンプト付きで解説しています」（https://note.com/aruaruteitei/n/n5a56033bc157）
@@ -426,14 +433,8 @@
   - 「対比としてWeb系企業は「アジャイル型」（短期間で試行錯誤）を採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「【10】SES（客先常駐型ビジネス）— 下層業者のモデル」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「: SIer業界は「垂直統合型」の重層的下請構造で支えられています」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「1. 受託開発費（主にウォーターフォール型）」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「- 金融機関（最高単価、大型案件）」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「: 下請構造、従来型ウォーターフォール開発、SES事業」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「これらに対応できるSIer（特にコンサル機能を持つ大手）は生き残り、従来型の下請構造に依存するSIerは淘汰される傾向が強まっています」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「2.2.2 指定業界とこれら類似業界の比較フレームワーク」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「短期的には「COBOLシステムからJavaやPythonへの移行支援」という大型案件がSIer業界に流入する可能性」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「：SIer業界は「プロジェクト駆動型」であり、繁忙期・閑散期が大きく異なります」（https://note.com/aruaruteitei/n/n5a56033bc157）
 - 突き合わせ・推定：
+  - 「Federal data sources give you the defensible foundation that proprietary research estimates cannot — and they're publicly available at no cost.」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「【3】テスト・品質保証（QA）— 検証担当」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「その後、『納期を守れ』と言われる矛盾」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「確認できた事実、自分の仮説、まだ分からないことを分け、次に確かめる問いを1つ残す」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
@@ -448,8 +449,11 @@
   - 「業界と職種を「掛け算」で考えさせる構成」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「採用サイトの美しい言葉と、四季報の数字を突き合わせる作業が、企業研究の核心になります」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「㉚ もうけの仕組み ビジネスモデル大図鑑 404社を徹底検証!｜会社四季報業界地図編集部 編／井上達彦 監修」（https://note.com/tasuto11/n/n3d32991f6192）
 - 一次情報の探し方：
+  - 「's County Business Patterns (CBP) program is your first data pull. CBP reports annual data on the number of establishments, paid employees, and total annual payroll — broken down by industry, state, county, and metro area. It is sourced directly from IRS tax records and employer filings, making it among the most reliable structural datasets available (Census CBP, 2022).」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「Step 4: Identify Competitors via SEC EDGAR Filings」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「To find competitors systematically, use EDGAR's company search by SIC code (EDGAR classifies filers by SIC, not NAICS). Pull 10-K filings for the three to five largest players by revenue, then cross-reference their segment disclosures. Many conglomerates report revenue by business unit, giving you implied market share data that doesn't exist in any federal statistical release.」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「SEC EDGAR turns public filings into competitive intelligence — management's own words on market dynamics, risk exposure, and strategic positioning, at zero cost.」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「今回のような業界分析noteは今後も出していく予定ですが、その都度このnoteには業界分析のPDFを追記するため、それをそのままNotebookLMに入れると、このnote自体をソースとして活用できます」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「対比としてWeb系企業は「アジャイル型」（短期間で試行錯誤）を採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「: SIerの中でも特に下請け企業や小規模企業が採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
@@ -461,10 +465,6 @@
   - 「有価証券報告書、新聞の経営ニュース、業界レポート等で、企業の経営状況を確認」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「https://www.meti.go.jp/meti_lib/report/H28FY/000804.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「https://dspace.jaist.ac.jp/dspace/bitstream/10119/19147/1/kouen38_141.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「http://www.ipsj.or.jp/event/sj/sj2012/sj2012_official_guide.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「https://www.pmi-japan.org/wp-content/uploads/2023/01/NL51_FullScreen.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「https://www.apda.jp/pdf/p03_kousei/2005_JapanandChina_J.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
-  - 「https://www.jil.go.jp/institute/siryo/2022/documents/0257.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
 - 失敗・落とし穴：
   - 「「プロジェクト成功時のボーナスはほぼなく、失敗時のみ給与が下がる」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「: Ensuring the reliability and validity of the data collected can be challenging. Poorly designed research methods can lead to biased or inaccurate data.」（https://www.verifiedmarketresearch.com/marketresearchglossary/primary-research/）
@@ -482,6 +482,9 @@
   - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1404）
   - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1404）
 - 実例：
+  - 「One practical note: some industries span multiple NAICS codes. A commercial cleaning franchise, for example, might compete across NAICS」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「BLS wage and PPI data transforms a static industry snapshot into a dynamic cost and pricing picture — essential context for any forward-looking business case.」（https://vantainsights.com/insights/how-to-research-an-industry）
+  - 「Analyze any industry with Porter's Five Forces, PESTEL, and the industry life cycle, paired with verified federal data and a worked example.」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「記事の内容やAIの分析結果・推論に対するご意見・ご指摘・ご要望はお受けしておりません」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「面接日程の調整術・ES締切後の対処法・X就活垢の活用法・時短の志望動機作成術など、時間がない中で納得のいく結果を出すための実践集です」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「：テストケース作成→ テスト実施→ バグ報告・追跡」（https://note.com/aruaruteitei/n/n5a56033bc157）
@@ -494,9 +497,6 @@
   - 「例えば、自動車業界であれば「自動車業界」という広い括りではなく、「自動車部品メーカー」「完成車メーカー」「自動車販売会社」などと、業界の中でも細かく分類してノートを作成するというものが挙げられます」（https://unistyleinc.com/techniques/1404）
   - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1404）
   - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかという、」（https://unistyleinc.com/techniques/1404）
-  - 「例えば、総合商社であれば「三菱商事」、自動車業界であれば「トヨタ自動車」などといったように各業界のリーディングカンパニーを知っておくことも必要です」（https://unistyleinc.com/techniques/1404）
-  - 「長期インターンの場合、有給で募集されることもありますが、短期のものは無給のケースが多いです」（https://unistyleinc.com/techniques/1404）
-  - 「募集時期8月～10月頃から募集が始まるケースが多く、エントリーのピークは9月～10月頃」（https://unistyleinc.com/techniques/1404）
 - 検索結果の抜粋：
   - 「業界研究のやり方｜業界の絞り方と企業研究との違い | 就活Pass — この記事でわかること 1 業界研究と企業研究は、見ている距離が違う 2 何のために業界研究をするのか 3 業界研究の手順 — 俯瞰してから、一つに潜る 4 業界研究ノートの項目 早見表 5 情報源の選び方 — 一次情報から確かめる 6 調べたことを、比較できる ...」（https://www.shupass.jp/guides/gyokai-kenkyu-yarikata）
   - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · 市場調査をAIで効率化する具体的な方法を、中小企業診断士が解説します。ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある ...」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
@@ -2537,6 +2537,9 @@
 ## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
 - 文脈：探し先
 - 手順・やり方：
+  - 「情シスが遅い会社と進む会社の分岐点｜大企業でAIを回した6社の共通型」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「情シスが律速段階になる4つの構造と、パナソニックコネクト・DeNA・MUFG・SMBC・みずほ・旭化成の共通型を、一次データで解剖する業界オピニオン」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「本記事では、汎用型から専門型まで7つのAI製品を取り上げ、公開情報を用いて市場調」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI Skillが増えすぎたらどう整理する？使われるSkillだけを残す棚卸し方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「架空の経費精算ヒアリングを例に、出所と適用条件を残し、同じ課題の出力を原典と照合して採否を決める方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2549,9 +2552,6 @@
   - 「ClaudeとSnorbeを調査目的、情報源、根拠、履歴、定期実行、成果物、権限の7軸で比較し、30日競合調査のPoC手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Hermes Agentの使い方とユースケース6選を実機で解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「エンドツーエンドリサーチとは｜7ステップをAIで通す設計」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「Deep Researchとの違い、7ステップ×AIツール対応表、ハルシネーション対策の4点セット、日本語で回すSnorbeまで、R&D企画・新規事業・知財向けに解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AI検索エンジンPerplexity AIの使い方とサービスを徹底比較！（職種ごとの応用リサーチプロンプト57選付き）」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2601,6 +2601,7 @@
   - 「AIが生成した候補のリストや比較メモをそのまま調査の実績として鵜呑みにせず、AIの出力はあくまで探索の補助として、人が監督することが求められます」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 実例：
+  - 「2026年7月24日にリリースされたClaude Opus 5と、Anthropic公式が公開した「Claude 5世代向けコンテキストエンジニアリング新ルール」を、Claude Codeシステムプロンプト80％削減の実例、残す3要素と削る4要素の判断基準、CLAUDE.mdを半分に減らす書き換え辞書7例、Fable 5との使い分けまで一気に整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ロボティクスと自動運転の実装事例から、製造業・物流業界に50兆ドル規模の変革をもたらす可能性まで詳しく分析」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIエージェントの強化学習とは？注目の手法、事例、論文から学ぶ自律的最適化の最新トレンド」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIエージェントと強化学習の現状とは？注目の手法から、ノーコード開発、実用の事例、注目の論文や研究開発のトレンドから強化学習とAIエージェントのトレンドを学びましょう」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2615,7 +2616,6 @@
   - 「Microsoft、Google、Metaの2024-2025年事例から読み解く6つの買収パターンと、統合後の「空洞化」を防ぐ実務的な管理手法」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「2024年の中国生成AIの事例・規制・スタートアップの覇権競争とは？2025年予測も解説！」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「5Forces分析とは？AI自動化の事例と月曜から使う手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「40時間→2時間の事例、ChatGPTプロンプト2種、業界別事例、反復ループ型ワークフローまで具体的に紹介します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -5322,22 +5322,25 @@
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
 - 手順・やり方：
+  - 「tokens are content. Similarly, Weninger et al. [36]’s CETR method」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「HTML code.3 Newer approaches use sequence labeling methods and」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「this section, we describe the individual datasets and steps taken to」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「Trends-2017 corpus according to the reproduction steps given by」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「for the inference step.」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「different evaluation method, where instead of comparing individual」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「should find a worthy successor. Our combined dataset is a small step」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「methods), this challenges the assumption that more complex models」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「Martin Potthast. 2020. Web Page Segmentation Revisited: Evaluation Framework」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「Networks and Statistical Methods. In Proceedings of the 32nd Pacific Asia Confer-」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
   - 「新製品の提案書に、メーカーが説明している使い方を引用したい」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「JavaScriptを実行して画面を操作することや、画像の文字を読むことは、この手順の役割に含めません」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「持ち帰るのは、短くなった文章だけでなく、その文章を使ってよいか確かめる手順です」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方｜NITI Technology」（https://note.com/niti_technology/n/nf614a498b089）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方」（https://note.com/niti_technology/n/nf614a498b089）
-  - 「RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています」（https://note.com/niti_technology/n/nf614a498b089）
-  - 「非対話型確認プロトコル(CLIにおける破壊的操作の安全機構)」（https://64p.org/notes/html-content-extraction.html）
-  - 「TUF (The Update Framework)」（https://64p.org/notes/html-content-extraction.html）
-  - 「Virtualization.framework」（https://64p.org/notes/html-content-extraction.html）
-  - 「Linuxでコマンド実行時にメモリ上限を設定する方法」（https://64p.org/notes/html-content-extraction.html）
-  - 「LSM (Linux Security Modules) フレームワーク」（https://64p.org/notes/html-content-extraction.html）
-  - 「SCIM (Smart Common Input Method)」（https://64p.org/notes/html-content-extraction.html）
-  - 「正規表現エンジンの実装方式: バックトラッキング型とNFA/DFA型」（https://64p.org/notes/html-content-extraction.html）
-  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方」（https://nititech.jp/blog/trafilatura-content-extraction/）
-  - 「2. インストール方法」（https://nititech.jp/blog/trafilatura-content-extraction/）
 - 突き合わせ・推定：
+  - 「plexity, one has to estimate it. To show that such an estimation is」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「that more complex models with better features can estimate page」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「on its estimated extraction complexity, as there is no one-size-fits-」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
   - 「検索の問いに先に答えるなら、本文抽出は「コメントを除外して一度実行し、必要な記述を原文と照合する」ところから始められます」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「この検証は、実在サイト全体の精度を測るものではありません」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「検証環境はmacOS、Python三・一二・一四、Trafilatura二・三・一です」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
@@ -5350,7 +5353,6 @@
   - 「そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました」（https://thunderbit.com/ja/blog/trafilatura-review）
   - 「公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った」（https://thunderbit.com/ja/blog/trafilatura-review）
   - 「phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric」（https://arxiv.org/pdf/2605.21097）
-  - 「Estimate source acquisition, rendering, storage, labeling, evaluation, and downstream indexing together.」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
 - 一次情報の探し方：
   - 「有料部分では、導入から抽出、設定の比較、欄外の欠落の発見、題名と日付の照合、資料の保存、人による採用確認まで進めます」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています」（https://thunderbit.com/ja/blog/trafilatura-review）
@@ -5373,21 +5375,21 @@
   - 「[3] under multilingual conditions. We first identified biases in exist-」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
   - 「configured not to extract comments, which can introduce a bias in」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
 - 実例：
+  - 「specific use case, an individual page’s extraction precision may not」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「deep neural networks. For example, Web2Text [32] uses a hidden」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「scarce. For example, Leonhardt et al . [24] used a dataset of only」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「most cases), Endrédy and Novák [11]’s GoldMiner algorithm learns」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「main—text, the prime example being the OSCAR corpus [2], which」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「71 cases in the same format. The pages were taken from the online」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「of 115 test cases with raw HTML pages and cleaned versions with」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「dataset, we had to correct several cases of text duplication in the」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「truth files. There was also one such case in the CleanEval dataset,」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「correct all of these cases (and a browser-based extractor could tech-」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「the JVM and the trained model, classification of a single example」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「was the case, we recorded a “vote” for this token. In the end, we」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「simple models may be a better way forward, instead. In any case,」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
   - 「設定、実行結果、原文の画面を本文に載せ、どこまで確認したかを説明します」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「付属資料には実験コード、架空HTML、実行結果、資料を書き出す補助を収録しました」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
-  - 「最後には、編集、営業提案、施設案内という三つの仕事で、同じ抽出結果のどこを変えて読むかを扱います」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
-  - 「RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています」（https://note.com/niti_technology/n/nf614a498b089）
-  - 「日本発の自作事例: ExtractContent」（https://64p.org/notes/html-content-extraction.html）
-  - 「url = "https://example.com/article"」（https://nititech.jp/blog/trafilatura-content-extraction/）
-  - 「url = "https://example.com"」（https://nititech.jp/blog/trafilatura-content-extraction/）
-  - 「$ trafilatura -u "https://example.com/article"」（https://nititech.jp/blog/trafilatura-content-extraction/）
-  - 「$ trafilatura -u "https://example.com/article" --markdown」（https://nititech.jp/blog/trafilatura-content-extraction/）
-  - 「向いているユースケースとしては、以下の通りです」（https://nititech.jp/blog/trafilatura-content-extraction/）
-  - 「結果は 1 回の呼び出しで」（https://thunderbit.com/ja/blog/trafilatura-review）
-  - 「きれいな記事抽出の結果自体は、ローカルの制御されたフィクスチャから得たものです」（https://thunderbit.com/ja/blog/trafilatura-review）
-  - 「1 つは、私のテスト結果ではなくそのベンチマーク由来だということ」（https://thunderbit.com/ja/blog/trafilatura-review）
-  - 「空っぽか薄い結果が返ってきて、なぜかと首をかしげることになります」（https://thunderbit.com/ja/blog/trafilatura-review）
-  - 「カタログが 478 文字のフラットテキストとして返ってきたケースは、まさに」（https://thunderbit.com/ja/blog/trafilatura-review）
 - 検索結果の抜粋：
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。」（https://note.com/niti_technology/n/nf614a498b089）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。」（https://note.com/niti_technology/n/nf614a498b089）
@@ -9726,7 +9728,7 @@
   - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
   - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
   - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
 
 ## 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）（outcome switching registry publication comparison selective reporting audit method COMPare）
 - 文脈：報告の点検
@@ -9749,9 +9751,9 @@
   - 「All's well literature bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic access bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic suspicion bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き（revenue per employee headcount vs FTE average headcount false trend）
 - 文脈：手順
@@ -11601,6 +11603,7 @@
 ## 決算公告の貸借対照表を内訳の合計と資産合計で照合して読む実務と、株式会社以外の法人（医療法人・協同組合・社団）の決算の科目の違い（開示ワイヤー 決算公告ガイドの書き手）（reading Japanese statutory balance sheet notices verify totals non-stock corporations accounts）
 - 文脈：手法
 - 手順・やり方：
+  - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「作成手順（5ステップ）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「3つの公告方法別｜費用・手間・掲載期間を比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「Q7. 官報での決算公告の申込み手順を教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11615,7 +11618,6 @@
   - 「貸借対照表の要旨を実際に公告する方法は3つあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「それぞれの特徴を比較して、自社に最適な方法を選びましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「まだ決算公告の方法を決めていない方は、「」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「決算公告とは？義務・罰則・3つの公告方法を基礎からわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 一次情報の探し方：
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11633,6 +11635,8 @@
   - 「つまり、資本金5億円未満かつ負債200億円未満の中小企業であれば、貸借対照表の「要旨」で決算公告を行うことができます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「合同会社には決算公告の義務がないため、合同会社の経営者は「公告をしない」という選択ができます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 失敗・落とし穴：
+  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「ミス4: 科目名の誤り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「特に注意すべきは「当期純利益（又は当期純損失）」の付記です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「見落としがちなポイントですが、単位を確認せずに数字を読むと100倍・1,000倍の誤解につながるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -11643,6 +11647,7 @@
   - 「この「付記」は省略できない必須事項であり、見落としがちな点ですので注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 実例：
+  - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「貸借対照表の数値だけを転記して満足してしまい、損益計算書の数値である当期純利益の付記を忘れるケースが後を絶ちません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11657,7 +11662,7 @@
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
 
 ## 検索の記録を再現できる形で残す実務（PRISMA-S：データベースと入口のプラットフォームを分ける・絞り込みと件数・灰色文献・検索エンジンの個人化の偏り）（PRISMA-S reporting literature search platform database limits grey literature personalization bias reproducible）
 - 文脈：手法

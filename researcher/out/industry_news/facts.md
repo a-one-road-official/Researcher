@@ -4694,22 +4694,27 @@
   - 「創出のため、公共調達指令改正で需」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「• バイオものづくり分野の産官学連携でのルール形成（GX施策等の活用）、政府調達」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
 - 顧客の顧客（発注元が求めること）：
-  - 「こうした大手消費財メーカーの方針転換により、化学品サプライヤーにも」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「【対策2：「カーボンフットプリント認証」の取得】」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「脱炭素経営とサーキュラーエコノミーの進展がリグニン由来バイオ樹脂の採用を後押し、石油化学原料の代替が企業の調達戦略を変える」（https://www.atpress.ne.jp/news/2113196）
-  - 「今後の市場開拓では、建築用構造材料と一般内装材料などの用途別要求を踏まえ、適切なリグニン配合率と製造プロセスを確立することが求められます」（https://www.atpress.ne.jp/news/2113196）
-  - 「一方で、日本企業が競争力を確保するためには、国内需要だけではなく、海外の製造拠点や顧客企業が要求する品質基準、価格水準、供給数量への対応も必要となります」（https://www.atpress.ne.jp/news/2113196）
-  - 「このため、企業が設備投資を検討する際には、実験室段階での性能評価に加え、パイロット設備による検証、生産歩留まり、長期供給契約、顧客認証に必要な期間などを確認することが重要です」（https://www.atpress.ne.jp/news/2113196）
-  - 「投資家や事業開発責任者にとっては、特許、量産能力、顧客との共同開発、原料調達契約、製品認証の進捗などが事業評価の重要な指標となります」（https://www.atpress.ne.jp/news/2113196）
-  - 「経営者は、単純な原料置換率だけでなく、製造コスト、品質安定性、顧客認証、長期供給契約、用途別利益率を比較し、最初から大規模設備投資を行うのではなく、既存顧客との共同開発を通じて採用実績を積み上げる投資戦略を検討すべきです」（https://www.atpress.ne.jp/news/2113196）
-  - 「自動車産業の脱炭素化はリグニン系樹脂市場をどこまで変えるのか？日本の自動車部品メーカーが注目すべき鋳造用バインダー、軽量複合材料、バイオベース高機能樹脂への設備投資と事業拡大機会」（https://www.atpress.ne.jp/news/2113196）
-  - 「一方で、自動車用途には耐熱性、機械的強度、加工適性、ロット間の品質再現性など厳格な要求があるため、環境性能だけで採用が決まるわけではありません」（https://www.atpress.ne.jp/news/2113196）
-  - 「経営判断においては、完成車メーカーや一次部品サプライヤーとの共同評価体制を構築し、製品別の性能試験、採用までの期間、量産時の歩留まり、ライフサイクル全体の排出削減効果を確認することが重要です」（https://www.atpress.ne.jp/news/2113196）
-  - 「また、原料供給企業、樹脂メーカー、最終用途メーカーが早期に連携することで、供給原料の規格と顧客の製品要求を一致させやすくなります」（https://www.atpress.ne.jp/news/2113196）
-  - 「レンゴー ISCC PLUS認証を取得した」（https://www.env.go.jp/content/000322560.pdf）
-  - 「今後、同認証によりバイオマ」（https://www.env.go.jp/content/000322560.pdf）
-  - 「大日本印刷 ISCC PLUS認証を受けたバイオマス由来特性及びリサイ」（https://www.env.go.jp/content/000322560.pdf）
+  - 「脱炭素経営とサーキュラーエコノミーの進展がリグニン由来バイオ樹脂の採用を後押し、石油化学原料の代替が企業の調達戦略を変える」（https://newscast.jp/smart/news/2113196）
+  - 「今後の市場開拓では、建築用構造材料と一般内装材料などの用途別要求を踏まえ、適切なリグニン配合率と製造プロセスを確立することが求められます」（https://newscast.jp/smart/news/2113196）
+  - 「一方で、日本企業が競争力を確保するためには、国内需要だけではなく、海外の製造拠点や顧客企業が要求する品質基準、価格水準、供給数量への対応も必要となります」（https://newscast.jp/smart/news/2113196）
+  - 「このため、企業が設備投資を検討する際には、実験室段階での性能評価に加え、パイロット設備による検証、生産歩留まり、長期供給契約、顧客認証に必要な期間などを確認することが重要です」（https://newscast.jp/smart/news/2113196）
+  - 「投資家や事業開発責任者にとっては、特許、量産能力、顧客との共同開発、原料調達契約、製品認証の進捗などが事業評価の重要な指標となります」（https://newscast.jp/smart/news/2113196）
+  - 「経営者は、単純な原料置換率だけでなく、製造コスト、品質安定性、顧客認証、長期供給契約、用途別利益率を比較し、最初から大規模設備投資を行うのではなく、既存顧客との共同開発を通じて採用実績を積み上げる投資戦略を検討すべきです」（https://newscast.jp/smart/news/2113196）
+  - 「自動車産業の脱炭素化はリグニン系樹脂市場をどこまで変えるのか？日本の自動車部品メーカーが注目すべき鋳造用バインダー、軽量複合材料、バイオベース高機能樹脂への設備投資と事業拡大機会」（https://newscast.jp/smart/news/2113196）
+  - 「一方で、自動車用途には耐熱性、機械的強度、加工適性、ロット間の品質再現性など厳格な要求があるため、環境性能だけで採用が決まるわけではありません」（https://newscast.jp/smart/news/2113196）
+  - 「経営判断においては、完成車メーカーや一次部品サプライヤーとの共同評価体制を構築し、製品別の性能試験、採用までの期間、量産時の歩留まり、ライフサイクル全体の排出削減効果を確認することが重要です」（https://newscast.jp/smart/news/2113196）
+  - 「また、原料供給企業、樹脂メーカー、最終用途メーカーが早期に連携することで、供給原料の規格と顧客の製品要求を一致させやすくなります」（https://newscast.jp/smart/news/2113196）
+  - 「納入量、納期、品質、価格、不適合時の扱いを定めます」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「最後に、納入量、ロット間の品質、納期、価格、不良時の扱いを取引条件にします」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「個別設備の安全、菌株・用途の適合、認証を判定する診断ではありません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「個別の認証・表示の判断は、制度運営者や専門家へ確認します」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「認証制度や法律への適合を判定する図ではなく、特定企業の契約条件や一般削減率を示しません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
 - 顧客の競合（奪いに来る側）：
+  - 「今後は価格競争力だけでなく、材料の安定供給、加工適性、性能の再現性を実現できる企業が市場拡大の恩恵を受ける可能性があります」（https://newscast.jp/smart/news/2113196）
+  - 「経営者は、低価格競争に陥りやすい汎用接着剤市場だけを追うのではなく、環境情報の透明性や高度な品質保証が求められる建材分野に重点を置き、技術力と顧客との長期的な取引関係を活用した高付加価値事業の構築を目指すべきです」（https://newscast.jp/smart/news/2113196）
+  - 「2025年7月のQore発行リリースでは、米国アイオワ州での生産開始を公表し、The LYCRA Companyによる繊維への採用、BASFとの誘導品向け長期供給契約を説明しています」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「中国では安徽鼎梁生物能源科技、蘇州泰能生物能源、江蘇杰森生物質能源科技などの企業が事業を展開する」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
+  - 「Global Reportsの最新調査レポート「バイオマスの世界市場規模、シェア、企業ランキング、売上、需要動向予測（2026～2032年）」をもとに、バイオマス市場の市場規模、成長動向、主要企業の競争環境などについて整理します」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
   - 「これこそが、欧州バイオリファイナリーの圧倒的な収益性の秘密です」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「欧州バイオリファイナリーの競争力を支えるのは、」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「欧州では、大規模農業が主流であり、1農家あたり数百ヘクタールの農地を経営しています」（https://note.com/iceman_23/n/n4c99a6f861e4）
@@ -4720,12 +4725,9 @@
   - 「しかし台湾TSMCは、工業用水の使用量を90%削減し、水コストを年間200億円削減しています」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「台湾の半導体工場で見た、使用済み工業用水が99.9%の純度で再生される瞬間」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「次号では、台湾モデルの詳細と、日本の半導体復興に不可欠な水戦略を提示します」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「今後は価格競争力だけでなく、材料の安定供給、加工適性、性能の再現性を実現できる企業が市場拡大の恩恵を受ける可能性があります」（https://www.atpress.ne.jp/news/2113196）
-  - 「経営者は、低価格競争に陥りやすい汎用接着剤市場だけを追うのではなく、環境情報の透明性や高度な品質保証が求められる建材分野に重点を置き、技術力と顧客との長期的な取引関係を活用した高付加価値事業の構築を目指すべきです」（https://www.atpress.ne.jp/news/2113196）
-  - 「Global Reportsが公開した最新調査レポート「バイオマスの世界市場規模、シェア、企業ランキング、売上、需要動向予測（2026～2032年）」によると、バイオマスの世界市場は、2025年の約298億6,500万米ドルから2026年には約328億1,000万米ドルへ拡大し、2032年には約548億7,400万米ドルに達すると予測される」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
-  - 「農林業残渣や廃棄物を燃料へ転換する技術は、食料と競合しにくい原料の活用という点でも重要性を増している」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
-  - 「中国は農林業残渣や木質資源を背景に、バイオマス燃料の主要な生産拠点となっている」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
 - 自社の競合（商社・代理店・仲介）：
+  - 「Commissioned Research :」（https://newscast.jp/smart/news/2113196）
+  - 「https://www.reportocean.co.jp/commissioned-research-services」（https://newscast.jp/smart/news/2113196）
   - 「・JAには集荷手数料（トン1,000円）を支払い」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「・新規収益源（集荷手数料：年間1,200万円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「・European Commission "EU Bioeconomy Strategy" (2023)」（https://note.com/iceman_23/n/n4c99a6f861e4）
@@ -4738,6 +4740,9 @@
   - 「出所：N. Scarlat et al (European Commission, Joint Research Centre), Environmental Development, 15, 3-34 （2015)」（https://www.nedo.go.jp/content/100870192.pdf）
   - 「東南アジア、カナダ、米国の木質ペレットの商社および生産者」（https://www.cmtevents.com/aboutevent.aspx?ev=260501&）
 - 政治（法・予算・規制）：
+  - 「さらに海外市場への進出を検討する企業は、各国の環境規制、顧客の調達基準、原料供給体制、製品認証などを比較し、自社技術が最も高い付加価値を発揮できる用途と地域を見極める必要があります」（https://newscast.jp/smart/news/2113196）
+  - 「認証制度や法律への適合を判定する図ではなく、特定企業の契約条件や一般削減率を示しません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「材料メーカーが環境配慮型原料を評価しても、加工メーカーやブランドの購入予算が確保されているとは限りません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
   - 「原料集荷システムの整備、補助金提供、用地提供」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「・補助金：15億円（国・県補助金の合計）」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「さらに海外市場への進出を検討する企業は、各国の環境規制、顧客の調達基準、原料供給体制、製品認証などを比較し、自社技術が最も高い付加価値を発揮できる用途と地域を見極める必要があります」（https://www.atpress.ne.jp/news/2113196）
@@ -4750,10 +4755,14 @@
   - 「業の対話フォーラム設置、規制簡素」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「国政府の投資、政策、規制改革の方向」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「• 政府は、バイオエコノミー戦略（令和６年６月、総合イノベーション戦略推進会議決定）を」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「• バイオものづくり分野の産官学連携でのルール形成（GX施策等の活用）、政府調達」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「２つの大規模な予算事業（GI基金バイオものづくりPJ、バイオものづくり革命推進事業）を軸に、国内の微生物・」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
-  - 「経済安全保障の観点での重要技術の優位性確保や国際連携も推進」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
 - 経済（規模・価格・為替）：
+  - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略 | NEWSCAST」（https://newscast.jp/smart/news/2113196）
+  - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略」（https://newscast.jp/smart/news/2113196）
+  - 「リグニン系樹脂市場は、2025年の5億3,934万米ドルから2035年には8億6,066万米ドルに達すると予測されており、2026年から2035年の予測期間において年平均成長率（CAGR）5.33％で成長すると見込まれています」（https://newscast.jp/smart/news/2113196）
+  - 「年平均成長率5.33％という市場予測は、リグニン系樹脂が中長期的な成長領域として期待されていることを示しています」（https://newscast.jp/smart/news/2113196）
+  - 「そのロットに原料・運転・精製・検査で合計700万円かかったと仮定すると、合格品1キログラム当たり1,000円になります」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「さらに設備償却、物流、在庫、停止への備え、管理費、利益を加える必要があるため、1,000円はこの仮定における販売価格ではありません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「レポートオーシャン株式会社プレスリリース : 船舶用塗料市場は2035年に5,096万米ドルに到達、CAGR 10.48％で成長｜環境対応型塗料・防汚技術・船舶の長寿命化が新たな成長機会に」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
   - 「「私たちは、農家が捨てていたものを年間50億円のビジネスに変えました」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「しかも、原料費は石油の30%、販売価格は石油化学品より25%高い」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「・第1段階：高付加価値の香料成分を抽出（販売単価：kg 8,000円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
@@ -4762,13 +4771,6 @@
   - 「2020年、原油価格（WTI）は1バレルあたり約40ドルでした」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「しかし2024年現在、価格は80ドル前後で推移しています」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「原油価格が2倍になれば、製造コストは120%増加します」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略 | 株式会社レポートオーシャン」（https://www.atpress.ne.jp/news/2113196）
-  - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略」（https://www.atpress.ne.jp/news/2113196）
-  - 「リグニン系樹脂市場は、2025年の5億3,934万米ドルから2035年には8億6,066万米ドルに達すると予測されており、2026年から2035年の予測期間において年平均成長率（CAGR）5.33％で成長すると見込まれています」（https://www.atpress.ne.jp/news/2113196）
-  - 「年平均成長率5.33％という市場予測は、リグニン系樹脂が中長期的な成長領域として期待されていることを示しています」（https://www.atpress.ne.jp/news/2113196）
-  - 「プランテーションシャッター市場は2035年に209億6,000万米ドル到達へ｜CAGR 3.49％、住宅の断熱性向上・スマートホーム化・耐久性に優れたインテリア製品への需要拡大が市場成長を促進」（https://www.atpress.ne.jp/news/2113196）
-  - 「バイオマス市場規模予測2026：2032年に54874百万米ドルに到達 - 宮崎日日新聞DIGITAL」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
-  - 「バイオマス市場規模予測2026：2032･･･」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
 - 社会（人・担い手）：
   - 「・雇用創出（施設従業員80名+関連雇用200名）」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「• バイオファウンドリ拠点の整備（培養・発酵等の生産プロセス開発、人材育成）」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
@@ -4802,6 +4804,7 @@
   - 「能な、「二兎を追える」次世代の成長産業」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「川上・川中の構造変化 最終製品の新規開発・付加価値向上」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
 - 検索結果の抜粋：
+  - 「バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ... > エネルギー・資源・フード」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
   - 「令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... — 令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... 環境省 PDF https://www.env.go.jp > content」（https://www.env.go.jp/content/000322560.pdf）
   - 「バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ナレッジ」（https://iri-group.jp/knowledge/bio-based-chemicals/）
 

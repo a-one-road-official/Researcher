@@ -543,7 +543,7 @@
   - ［SNS］2026-11-06「小型モジュール炉市場の成長加速、2035年158億7,000万米ドルへ｜CAGR ... Sep 23, 2026 · 小型モジュール炉市場は、2025年の63億8000万米ドルから2035年には158億7000万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）10.66％で成長すると見込まれています。従来型の大型原子炉とは異なり、工場で製造したモジュールを現地で組み立てる設計思想を持つ小型 ..」https://note.com/jpreportocean/n/n7eab37d78894
   - ［SNS］2026-11-05「2026 年版： SMR （ 小型モジュール炉 ）市場戦略レポート - note 2026 年版： SMR （ 小型モジュール炉 ）市場戦略レポート - note note https://note.com > ビジネス > スタートアップ・VC」https://note.com/saidatomoya/n/n05759510e4fb
 ### 業界ニュース（毎日）｜バイオ由来化学品（bio-based chemicals）
-- 取得：2026-11-07T05:01・調査4回目・読んだ頁41
+- 取得：2026-11-08T05:18・調査5回目・読んだ頁41
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（59件）：
   - ［一次］2026-11-06「I. バイオプラスチック及び再生材等の研究開発、製造動向、導入状況に関する調査 （仕様書1） 3」https://www.env.go.jp/content/000322560.pdf
@@ -551,13 +551,13 @@
   - ［一次］2026-11-06「I – ② 再生材の研究開発、製造動向、導入状況に関する調査 55」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「I – ③ バイオプラスチック製品及び再生材製品の調達拡大に向けた検討及び課題等の把握 63」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「II. バイオプラスチック及び再生材等の導入に関連する規制・施策の調査 （仕様書2） 68」https://www.env.go.jp/content/000322560.pdf
-- 顧客の顧客（発注元が求めること）（38件）：
+- 顧客の顧客（発注元が求めること）（48件）：
   - ［一次］2026-11-06「今後、同認証によりバイオマ」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「大日本印刷 ISCC PLUS認証を受けたバイオマス由来特性及びリサイ」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「出光興産がIPCC PLUS認証を取得してバイオマスナフサ」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「2024年にIPCC PLUC認証を取得予定」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「用堆肥化(NF T51-800)認証を取得した PLA、PBAT、複」https://www.env.go.jp/content/000322560.pdf
-- 顧客の競合（奪いに来る側）（54件）：
+- 顧客の競合（奪いに来る側）（58件）：
   - ［一次］2026-11-06「II – ② 欧州におけるバイオプラスチック等の動向調査 242」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「世界の樹脂別バイオプラスチックの製造能力シェア（2024年、2029年）」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「世界の用途別バイオプラスチックの製造能力シェア（2024年）」https://www.env.go.jp/content/000322560.pdf
@@ -569,13 +569,13 @@
   - ［一次］2026-11-06「出所：N. Scarlat et al (European Commission, Joint Research Centre), Environmental Development, 15, 3-34 （2015)」https://www.nedo.go.jp/content/100870192.pdf
   - ［SNS］2026-11-07「・JAには集荷手数料（トン1,000円）を支払い」https://note.com/iceman_23/n/n4c99a6f861e4
   - ［SNS］2026-11-07「・新規収益源（集荷手数料：年間1,200万円）」https://note.com/iceman_23/n/n4c99a6f861e4
-- 政治（法・予算・規制）（39件）：
+- 政治（法・予算・規制）（40件）：
   - ［一次］2026-11-06「II. バイオプラスチック及び再生材等の導入に関連する規制・施策の調査 （仕様書2） 68」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「II – ① 国内及び海外でのプラスチックに関連する規制・制度、バイオプラスチック及び再生材に関連する施策等の調査 69」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「• 政府は、バイオエコノミー戦略（令和６年６月、総合イノベーション戦略推進会議決定）を」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
   - ［一次］2026-11-06「• バイオものづくり分野の産官学連携でのルール形成（GX施策等の活用）、政府調達」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
   - ［一次］2026-11-06「２つの大規模な予算事業（GI基金バイオものづくりPJ、バイオものづくり革命推進事業）を軸に、国内の微生物・」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
-- 経済（規模・価格・為替）（104件）：
+- 経済（規模・価格・為替）（110件）：
   - ［一次］2026-11-06「1-1) Braskem社プレスリリース（2021年2月23日）「Braskem invests US$61 million to increase biopolymer production」, https://www.braskem.com.br/usa/news-detail/braskem-invests-us61-million-to-increase-」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「市場単価（国内） • 石化PEと比較して約3倍3) （2021年ヒアリング結果）」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「• 約260円/kg（2021年12月LLDPE輸入単価）4)」https://www.env.go.jp/content/000322560.pdf
@@ -593,8 +593,7 @@
   - ［一次］2026-11-06「I – ② 再生材の研究開発、製造動向、導入状況に関する調査 55」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「I. バイオプラスチック及び再生材等の研究開発、製造動向、導入状況に関する調」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「I – ① バイオプラスチック及び再生材等の研究開発、製造動向の調査」https://www.env.go.jp/content/000322560.pdf
+- 検索結果の抜粋（1件）：
+  - ［一次］2026-11-06「令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... — 令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... 環境省 PDF https://www.env.go.jp > content」https://www.env.go.jp/content/000322560.pdf
 - SNS・note（LinkedIn・検索結果の抜粋）（1件）：
   - ［SNS］2026-11-04「Bio - based Chemicals : Paving the Way for a Sustainable ... Bio - based Chemicals : Paving the Way for a Sustainable ... LinkedIn https://www.linkedin.com > pulse > bi...」https://www.linkedin.com/pulse/bio-based-chemicals-paving-way-sustainable-1xghe
-- 検索結果の抜粋（2件）：
-  - ［一次］2026-11-06「令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... — 令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... 環境省 PDF https://www.env.go.jp > content」https://www.env.go.jp/content/000322560.pdf
-  - ［記事］2026-11-06「バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ナレッジ」https://iri-group.jp/knowledge/bio-based-chemicals/
