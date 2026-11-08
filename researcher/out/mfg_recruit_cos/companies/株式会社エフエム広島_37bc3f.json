@@ -4,7 +4,7 @@
   "HFM"
  ],
  "context": "瀬戸内の地場（広島）採用広報",
- "researched_at": "2026-11-08T13:45:14.128288+00:00",
+ "researched_at": "2026-11-08T21:52:48.832891+00:00",
  "official_url": "https://www.hfm.jp/",
  "identified_by": "given",
  "profile": {
@@ -13,6 +13,12 @@
     "label": "設立",
     "value": "設立：1982年 （ 昭和 57年） 2月27日",
     "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1982年2月27日",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
     "pass": 3
    },
    {
@@ -43,6 +49,12 @@
    },
    {
     "label": "事業内容",
+    "value": "FM",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
     "value": "ラジオ放送 / イベント",
     "url": "https://madeinlocal.jp/category/companies/hiroshima009",
     "pass": 3
@@ -67,6 +79,12 @@
     "label": "資本金",
     "value": "8000万円 [ 2 ]",
     "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "8千万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
     "pass": 3
    },
    {
@@ -114,300 +132,73 @@
   ]
  },
  "evidence": {
-  "創業年度": [
+  "SNS・note（X・検索結果の抜粋）": [
    {
-    "quote": "設立年月日：",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "quote": "Mash The Radio (@hfm_mash) / X Mash The Radio (@hfm_mash) / X X https://x.com > hfm_mash",
+    "url": "https://x.com/hfm_mash",
     "pass": 3
    },
    {
-    "quote": "（自動車会社）の創業家関係が大株主になっている",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "マツダ創業家は、広島エフエム放送のほか、",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "1982年設立の日本企業",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "1982年設立のラジオ局",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "創業から現在に至るまでの歴史",
-    "url": "https://madeinlocal.jp/category/companies/hiroshima009",
-    "pass": 3
-   },
-   {
-    "quote": "創立当初のカープを広島市民ひとりひとりの寄付で救った「樽募金」のエピソードのように、広島の人々が持っている「支え合う心・団結力」は他のエリアよりも強いと感じています",
-    "url": "https://madeinlocal.jp/category/companies/hiroshima009",
-    "pass": 3
-   }
-  ],
-  "料金": [
-   {
-    "quote": "広島FMのラジオCM｜料金目安・出し方・放送エリア",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "20秒1本は2万円程度〜が目安です（同局公式サイトの掲載額）",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2万円程度〜",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際の料金は、流す時間帯・本数・時期によって変わります",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際の料金や空き枠は、時期・本数・条件によって異なります",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "20秒1本あたり2万円程度〜が目安です（同局公式サイトの掲載額",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際の料金は時間帯・本数・時期で変わるため、ご希望をお聞きしてお見積もりします",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "20秒1本 1.8万円〜",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "8000万円",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "8億1385万円",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "1278万円",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "1390万円",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "4億8000万円",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "資本金8千万円（資本準備金含めて5億円）",
-    "url": "https://hfm.jp/company/",
-    "pass": 3
-   },
-   {
-    "quote": "670百万円（2026年3月現在）",
-    "url": "https://hfm.jp/company/",
-    "pass": 3
-   },
-   {
-    "quote": "プロモーションプランと料金の目安",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "【料金の目安】 1本20,000円程度～ ※契約期間や適用企画などにより金額は変わります",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "【料金の目安】 月額100,000円～500,000円程度 ※回数や内容により金額は変わります",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "【料金の目安】 300,000円～2,000,000円程度 ※内容により金額は変わります",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "【料金の目安】 100,000円程度～ ※契約期間や活用データなどにより金額は変わります",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "HFM（ 広島エフエム ）のラジオ番組「クラシカルホリデー」に ... HFM（ 広島エフエム ）のラジオ番組「クラシカルホリデー」に ... note https://note.com > 音楽 > ヒーリング・ニューエイジ",
-    "url": "https://note.com/leelamusic/n/n61dff6556ace",
-    "pass": 3
-   },
-   {
-    "quote": "広島FM 「HFM大運動会」に協賛決定！日根野会計事務所が ... 広島FM 「HFM大運動会」に協賛決定！日根野会計事務所が ... note https://note.com > スポーツ > スポーツ全般",
-    "url": "https://note.com/suezo178/n/nabfe459e2497",
-    "pass": 3
-   }
-  ],
-  "売り方": [
-   {
-    "quote": "同局の公式サイトに掲載されている金額です（営業ページ掲載の目安）",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "番組のパーソナリティが原稿を読み上げて紹介するCMです",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "りんくう常滑工場・営業所／検査・出荷センター",
-    "url": "https://www.tel-mic.co.jp/topics/20241216",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "駒津英紀…後に営業を経て、退職",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "2000年に営業に移動",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   },
-   {
-    "quote": "営業情報はこちら",
-    "url": "https://hfm.jp/company/",
-    "pass": 3
-   },
-   {
-    "quote": "営業情報 | 広島FM【公式】",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "ご相談・プロモーション事例のご紹介・お見積もりは無料です！",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "広島FMの営業スタッフがご要望やご予算を伺いながら、一緒になって魅力的な広告、楽しい企画を考えさせていただきます！",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "TEL ： 082-251-2200 (平日9:30～17:30) 広島FM営業部",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "★TOPICS★営業プロモーション",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "その他、営業プロモーションに関する記事もご覧いただけます",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "ご希望の方は営業部までお問い合わせください",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "営業情報はこちら",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "営業情報はこちら",
-    "url": "https://hfm.jp/topics/26724/",
-    "pass": 3
-   },
-   {
-    "quote": "AKIKOさん（マリンバ奏者）と、山本三季雄さん（HFM開局からのパーソナリティー）のお二人が、クラシックを「クラシ軽」、かる〜いタッチでご紹介するというコンセプトの番組です",
-    "url": "https://note.com/leelamusic/n/n61dff6556ace",
-    "pass": 3
-   },
-   {
-    "quote": "『ブルーヌード』のご紹介をさせていただきました",
-    "url": "https://note.com/leelamusic/n/n61dff6556ace",
-    "pass": 3
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "広島FM （HFM）のラジオCM — 広島FM （HFM）のラジオCM フリーザロックエージェント株式会社 https://freetherock.com > service > radiocm > station > hfm",
-    "url": "https://freetherock.com/service/radiocm/station/hfm/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【あなたはどうしてラジオを使う？！ マツダ株式会社篇 ... — 【あなたはどうしてラジオを使う？！ マツダ株式会社篇 ... hfm.jp https://hfm.jp > topics",
-    "url": "https://hfm.jp/topics/18349/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社概要 | 広島FM 【公式】 — 会社概要 | 広島FM 【公式】 hfm.jp https://hfm.jp > company",
-    "url": "https://hfm.jp/company/",
-    "pass": 3
-   },
-   {
-    "quote": "広島 FM （ 広島 エフエム放送） - 広島ニュース 食べタインジャー — 広島 FM （ 広島 エフエム放送） - 広島ニュース 食べタインジャー 広島ニュース 食べタインジャー https://tabetainjya.com > local > hfm",
-    "url": "https://tabetainjya.com/local/hfm/",
-    "pass": 3
-   },
-   {
-    "quote": "営業情報 | 広島FM 【公式】 — 営業情報 | 広島FM 【公式】 hfm.jp https://hfm.jp > company > sales",
-    "url": "https://hfm.jp/company/sales/",
-    "pass": 3
-   },
-   {
-    "quote": "radiko(ラジコ) | 広島FM がスマホやPCで今すぐ聴ける - radiko — radiko(ラジコ) | 広島FM がスマホやPCで今すぐ聴ける - radiko radiko https://radiko.jp > index > HFM",
-    "url": "https://radiko.jp/index/HFM/",
-    "pass": 3
-   },
-   {
-    "quote": "6月のゲスト インタビュー 記事 広島 テレビ放送株式会社 代表 ... — 6月のゲスト インタビュー 記事 広島 テレビ放送株式会社 代表 ... hfm.jp https://hfm.jp > topics",
-    "url": "https://hfm.jp/topics/26724/",
-    "pass": 3
-   },
-   {
-    "quote": "【公式】 広島FM (@hfm.jp) • Instagram photos and videos — 【公式】 広島FM (@hfm.jp) • Instagram photos and videos Instagram https://www.instagram.com > hfm",
-    "url": "https://www.instagram.com/hfm.jp/",
+    "quote": "DAYS！( 広島FM ) (@DAYShfm) / X DAYS！( 広島FM ) (@DAYShfm) / X X https://x.com > DAYShfm",
+    "url": "https://x.com/DAYShfm",
     "pass": 3
    }
   ],
   "売上・規模": [
+   {
+    "quote": "#3683 決算分析 : 広島エフエム放送株式会社 第44期決算 当期純利益 11百万円 - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "資産合計: 1,402百万円 (約14.0億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "負債合計: 434百万円 (約4.3億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "純資産合計: 969百万円 (約9.7億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 11百万円 (約0.1億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "利益剰余金: 453百万円 (約4.5億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "総資産約14億円に対し、純資産が約10億円と、",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "売上高約6億円という厳しいメディア環境の中、着実に利益を確保しており、地域に根差した老舗ラジオ局としての堅実な経営が光っています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（利益剰余金約4.5億円）として蓄積してきた結果であり、財務基盤は非常に盤石です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "番組名：H-Junk Factoryのものづくりラジオ",
     "url": "https://www.tel-mic.co.jp/topics/20241216",
@@ -549,92 +340,6 @@
     "pass": 3
    }
   ],
-  "製造業の顧客": [
-   {
-    "quote": "パーソナリティ 工場長、広報担当と一緒に、『ものづくり』や『採用関係』、『テル★ラジ』についてお話させていただきました！！",
-    "url": "https://www.tel-mic.co.jp/topics/20241216",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "年間2000社工場見学受け入れしております♪ご依頼は随時受付けております🙋‍♀️",
-    "url": "https://www.tel-mic.co.jp/topics/20241216",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "刈谷本社工場、りんくう常滑スマート工場🏢、どちらもお気軽にお問合せください",
-    "url": "https://www.tel-mic.co.jp/topics/20241216",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "製造業を元気にするラジオ番組「テル⭐️ラジ」情報も配信中📻✨",
-    "url": "https://www.tel-mic.co.jp/topics/20241216",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "360°VR工場見学",
-    "url": "https://www.tel-mic.co.jp/topics/20241216",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "りんくう常滑工場・営業所／検査・出荷センター",
-    "url": "https://www.tel-mic.co.jp/topics/20241216",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "パーソナリティ 工場長、広報担当と一緒に、『ものづくり』や『採用関係』、『テル★ラジ』についてお話させていただきました！！",
-    "url": "https://www.tel-mic.co.jp/20241216/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年間2000社工場見学受け入れしております♪ご依頼は随時受付けております🙋‍♀️",
-    "url": "https://www.tel-mic.co.jp/20241216/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "刈谷本社工場、りんくう常滑スマート工場🏢、どちらもお気軽にお問合せください",
-    "url": "https://www.tel-mic.co.jp/20241216/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造業を元気にするラジオ番組「テル⭐️ラジ」情報も配信中📻✨",
-    "url": "https://www.tel-mic.co.jp/20241216/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「製造業の女性活躍」をテーマに、あいち女性輝きカンパニー異業...",
-    "url": "https://www.tel-mic.co.jp/20241216/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
-   {
-    "quote": "DAYS！ （ 広島FM ） (@hfm.days) - Facebook DAYS！ （ 広島FM ） (@hfm.days) - Facebook Facebook https://www.facebook.com > ... > Radio station",
-    "url": "https://www.facebook.com/hfm.days/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "広島FM （hfm.jp - Facebook 広島FM （hfm.jp - Facebook Facebook https://www.facebook.com > ... > Radio station",
-    "url": "https://www.facebook.com/hfm.jp/",
-    "pass": 3
-   },
-   {
-    "quote": "広島FM （hfm.jp) (@hfm.jp) - Videos - Facebook 広島FM （hfm.jp) (@hfm.jp) - Videos - Facebook Facebook https://www.facebook.com > ... > 広島FM （hfm.jp)",
-    "url": "https://www.facebook.com/hfm.jp/videos/",
-    "pass": 3
-   }
-  ],
   "採用・人数": [
    {
     "quote": "パーソナリティ 工場長、広報担当と一緒に、『ものづくり』や『採用関係』、『テル★ラジ』についてお話させていただきました！！",
@@ -678,6 +383,80 @@
    {
     "quote": "採用情報はこちら",
     "url": "https://hfm.jp/topics/26724/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "広島FM （HFM）のラジオCM — 広島FM （HFM）のラジオCM フリーザロックエージェント株式会社 https://freetherock.com > service > radiocm > station > hfm",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【あなたはどうしてラジオを使う？！ マツダ株式会社篇 ... — 【あなたはどうしてラジオを使う？！ マツダ株式会社篇 ... hfm.jp https://hfm.jp > topics",
+    "url": "https://hfm.jp/topics/18349/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社概要 | 広島FM 【公式】 — 会社概要 | 広島FM 【公式】 hfm.jp https://hfm.jp > company",
+    "url": "https://hfm.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "広島 FM （ 広島 エフエム放送） - 広島ニュース 食べタインジャー — 広島 FM （ 広島 エフエム放送） - 広島ニュース 食べタインジャー 広島ニュース 食べタインジャー https://tabetainjya.com > local > hfm",
+    "url": "https://tabetainjya.com/local/hfm/",
+    "pass": 3
+   },
+   {
+    "quote": "営業情報 | 広島FM 【公式】 — 営業情報 | 広島FM 【公式】 hfm.jp https://hfm.jp > company > sales",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "radiko(ラジコ) | 広島FM がスマホやPCで今すぐ聴ける - radiko — radiko(ラジコ) | 広島FM がスマホやPCで今すぐ聴ける - radiko radiko https://radiko.jp > index > HFM",
+    "url": "https://radiko.jp/index/HFM/",
+    "pass": 3
+   },
+   {
+    "quote": "6月のゲスト インタビュー 記事 広島 テレビ放送株式会社 代表 ... — 6月のゲスト インタビュー 記事 広島 テレビ放送株式会社 代表 ... hfm.jp https://hfm.jp > topics",
+    "url": "https://hfm.jp/topics/26724/",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 広島FM (@hfm.jp) • Instagram photos and videos — 【公式】 広島FM (@hfm.jp) • Instagram photos and videos Instagram https://www.instagram.com > hfm",
+    "url": "https://www.instagram.com/hfm.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "HFM（ 広島エフエム ）のラジオ番組「クラシカルホリデー」に ... HFM（ 広島エフエム ）のラジオ番組「クラシカルホリデー」に ... note https://note.com > 音楽 > ヒーリング・ニューエイジ",
+    "url": "https://note.com/leelamusic/n/n61dff6556ace",
+    "pass": 3
+   },
+   {
+    "quote": "広島FM 「HFM大運動会」に協賛決定！日根野会計事務所が ... 広島FM 「HFM大運動会」に協賛決定！日根野会計事務所が ... note https://note.com > スポーツ > スポーツ全般",
+    "url": "https://note.com/suezo178/n/nabfe459e2497",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "DAYS！ （ 広島FM ） (@hfm.days) - Facebook DAYS！ （ 広島FM ） (@hfm.days) - Facebook Facebook https://www.facebook.com > ... > Radio station",
+    "url": "https://www.facebook.com/hfm.days/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "広島FM （hfm.jp - Facebook 広島FM （hfm.jp - Facebook Facebook https://www.facebook.com > ... > Radio station",
+    "url": "https://www.facebook.com/hfm.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "広島FM （hfm.jp) (@hfm.jp) - Videos - Facebook 広島FM （hfm.jp) (@hfm.jp) - Videos - Facebook Facebook https://www.facebook.com > ... > 広島FM （hfm.jp)",
+    "url": "https://www.facebook.com/hfm.jp/videos/",
     "pass": 3
    }
   ],
@@ -781,26 +560,13 @@
     "pass": 3
    }
   ],
-  "株主構成": [
-   {
-    "quote": "（自動車会社）の創業家関係が大株主になっている",
-    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
-    "pass": 3
-   }
-  ],
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "Mash The Radio (@hfm_mash) / X Mash The Radio (@hfm_mash) / X X https://x.com > hfm_mash",
-    "url": "https://x.com/hfm_mash",
-    "pass": 3
-   },
-   {
-    "quote": "DAYS！( 広島FM ) (@DAYShfm) / X DAYS！( 広島FM ) (@DAYShfm) / X X https://x.com > DAYShfm",
-    "url": "https://x.com/DAYShfm",
-    "pass": 3
-   }
-  ],
   "発言": [
+   {
+    "quote": "株式会社も、そんな地域密着メディアの代表格です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
    {
     "quote": "11/7株式会社かなわ 代表取締役 三保二郎さん",
     "url": "https://hfm.jp/company/",
@@ -887,6 +653,372 @@
     "url": "https://hfm.jp/topics/26724/",
     "pass": 3
    }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "パーソナリティ 工場長、広報担当と一緒に、『ものづくり』や『採用関係』、『テル★ラジ』についてお話させていただきました！！",
+    "url": "https://www.tel-mic.co.jp/topics/20241216",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年間2000社工場見学受け入れしております♪ご依頼は随時受付けております🙋‍♀️",
+    "url": "https://www.tel-mic.co.jp/topics/20241216",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "刈谷本社工場、りんくう常滑スマート工場🏢、どちらもお気軽にお問合せください",
+    "url": "https://www.tel-mic.co.jp/topics/20241216",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業を元気にするラジオ番組「テル⭐️ラジ」情報も配信中📻✨",
+    "url": "https://www.tel-mic.co.jp/topics/20241216",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "360°VR工場見学",
+    "url": "https://www.tel-mic.co.jp/topics/20241216",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "りんくう常滑工場・営業所／検査・出荷センター",
+    "url": "https://www.tel-mic.co.jp/topics/20241216",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "パーソナリティ 工場長、広報担当と一緒に、『ものづくり』や『採用関係』、『テル★ラジ』についてお話させていただきました！！",
+    "url": "https://www.tel-mic.co.jp/20241216/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年間2000社工場見学受け入れしております♪ご依頼は随時受付けております🙋‍♀️",
+    "url": "https://www.tel-mic.co.jp/20241216/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "刈谷本社工場、りんくう常滑スマート工場🏢、どちらもお気軽にお問合せください",
+    "url": "https://www.tel-mic.co.jp/20241216/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業を元気にするラジオ番組「テル⭐️ラジ」情報も配信中📻✨",
+    "url": "https://www.tel-mic.co.jp/20241216/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「製造業の女性活躍」をテーマに、あいち女性輝きカンパニー異業...",
+    "url": "https://www.tel-mic.co.jp/20241216/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "売り方": [
+   {
+    "quote": "同局の公式サイトに掲載されている金額です（営業ページ掲載の目安）",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "番組のパーソナリティが原稿を読み上げて紹介するCMです",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "りんくう常滑工場・営業所／検査・出荷センター",
+    "url": "https://www.tel-mic.co.jp/topics/20241216",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "駒津英紀…後に営業を経て、退職",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "2000年に営業に移動",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "営業情報はこちら",
+    "url": "https://hfm.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "営業情報 | 広島FM【公式】",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談・プロモーション事例のご紹介・お見積もりは無料です！",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "広島FMの営業スタッフがご要望やご予算を伺いながら、一緒になって魅力的な広告、楽しい企画を考えさせていただきます！",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "TEL ： 082-251-2200 (平日9:30～17:30) 広島FM営業部",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "★TOPICS★営業プロモーション",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、営業プロモーションに関する記事もご覧いただけます",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "ご希望の方は営業部までお問い合わせください",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "営業情報はこちら",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "営業情報はこちら",
+    "url": "https://hfm.jp/topics/26724/",
+    "pass": 3
+   },
+   {
+    "quote": "AKIKOさん（マリンバ奏者）と、山本三季雄さん（HFM開局からのパーソナリティー）のお二人が、クラシックを「クラシ軽」、かる〜いタッチでご紹介するというコンセプトの番組です",
+    "url": "https://note.com/leelamusic/n/n61dff6556ace",
+    "pass": 3
+   },
+   {
+    "quote": "『ブルーヌード』のご紹介をさせていただきました",
+    "url": "https://note.com/leelamusic/n/n61dff6556ace",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "設立: 1982年2月27日",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは、設立以来の利益を着実に",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "設立年月日：",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "（自動車会社）の創業家関係が大株主になっている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "マツダ創業家は、広島エフエム放送のほか、",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "1982年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "1982年設立のラジオ局",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "創業から現在に至るまでの歴史",
+    "url": "https://madeinlocal.jp/category/companies/hiroshima009",
+    "pass": 3
+   },
+   {
+    "quote": "創立当初のカープを広島市民ひとりひとりの寄付で救った「樽募金」のエピソードのように、広島の人々が持っている「支え合う心・団結力」は他のエリアよりも強いと感じています",
+    "url": "https://madeinlocal.jp/category/companies/hiroshima009",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "（自動車会社）の創業家関係が大株主になっている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "#3683 決算分析 : 広島エフエム放送株式会社 第44期決算 当期純利益 11百万円 - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "資産合計: 1,402百万円 (約14.0億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "負債合計: 434百万円 (約4.3億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "純資産合計: 969百万円 (約9.7億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 11百万円 (約0.1億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "利益剰余金: 453百万円 (約4.5億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "資本金: 8千万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "広島FMのラジオCM｜料金目安・出し方・放送エリア",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "20秒1本は2万円程度〜が目安です（同局公式サイトの掲載額）",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2万円程度〜",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の料金は、流す時間帯・本数・時期によって変わります",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の料金や空き枠は、時期・本数・条件によって異なります",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "20秒1本あたり2万円程度〜が目安です（同局公式サイトの掲載額",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の料金は時間帯・本数・時期で変わるため、ご希望をお聞きしてお見積もりします",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "20秒1本 1.8万円〜",
+    "url": "https://freetherock.com/service/radiocm/station/hfm/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "8000万円",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "8億1385万円",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "1278万円",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "1390万円",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "4億8000万円",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "pass": 3
+   },
+   {
+    "quote": "資本金8千万円（資本準備金含めて5億円）",
+    "url": "https://hfm.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "670百万円（2026年3月現在）",
+    "url": "https://hfm.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "プロモーションプランと料金の目安",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "【料金の目安】 1本20,000円程度～ ※契約期間や適用企画などにより金額は変わります",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "【料金の目安】 月額100,000円～500,000円程度 ※回数や内容により金額は変わります",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "【料金の目安】 300,000円～2,000,000円程度 ※内容により金額は変わります",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "【料金の目安】 100,000円程度～ ※契約期間や活用データなどにより金額は変わります",
+    "url": "https://hfm.jp/company/sales/",
+    "pass": 3
+   }
   ]
  },
  "checked": {
@@ -925,9 +1057,9 @@
     "method": "http"
    },
    {
-    "url": "https://madeinlocal.jp/category/companies/hiroshima009",
+    "url": "https://www.soumu.go.jp/main_content/000531583.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://hfm.jp/company/",
@@ -935,13 +1067,13 @@
     "method": "http"
    },
    {
-    "url": "https://prtimes.com/finance/7240001009126/settlement",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hiroshima-fm.co.jp/",
-    "status": "network_error:SSLError",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -990,6 +1122,16 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/leelamusic/n/n61dff6556ace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suezo178/n/nabfe459e2497",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://x.com/hfm_mash",
     "status": "robots_disallowed",
     "method": ""
@@ -1023,45 +1165,50 @@
     "https://hfm.jp/topics/25863/",
     "https://compalyze.co.jp/company/7240001009126",
     "https://catr.jp/companies/12bc8/14242",
-    "https://radiko.jp/newsrelease/pdf/20130729_001_pressrelease.pdf"
+    "https://radiko.jp/newsrelease/pdf/20130729_001_pressrelease.pdf",
+    "https://www.reddit.com/r/alexa/"
    ],
    "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 36
   },
   {
    "query": "エフエム広島 設立 OR 創業",
    "results": [
     "https://hfm.jp/company/",
     "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "https://www.soumu.go.jp/main_content/000531583.pdf",
     "https://madeinlocal.jp/category/companies/hiroshima009",
     "https://fmhigashi.jp/about/",
-    "https://www.soumu.go.jp/main_content/000531583.pdf",
+    "https://www.hiroshima-fm.co.jp/",
     "https://tabetainjya.com/local/hfm/",
     "https://compalyze.co.jp/company/7240001009126",
-    "https://www.hiroshima-fm.co.jp/",
-    "https://leadersclub.chugoku-np.co.jp/posts/093",
-    "https://ja.wikipedia.org/wiki/広島エフエム放送"
+    "https://open.spotify.com/show/5nQ6jCT5LGJkHoUnuA1ix9",
+    "https://www.zhihu.com/question/2007393804420944002"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 21
   },
   {
    "query": "エフエム広島 売上高 OR 年商",
    "results": [
     "https://hfm.jp/company/",
-    "https://prtimes.com/finance/7240001009126/settlement",
-    "https://www.hiroshima-fm.co.jp/",
-    "https://madeinlocal.jp/category/companies/hiroshima009",
-    "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
     "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "https://madeinlocal.jp/category/companies/hiroshima009",
     "https://catr.jp/companies/12bc8/14242",
-    "https://leadersclub.chugoku-np.co.jp/posts/093",
-    "https://compalyze.co.jp/company/7240001009126"
+    "https://www.hiroshima-fm.co.jp/",
+    "https://www.chugoku-np.co.jp/articles/-/650450",
+    "https://fumadata.com/search/detail/1675186",
+    "https://hfm.jp/company/sales/"
    ],
    "engines": [
     "yahoo_jp"
@@ -1080,13 +1227,14 @@
     "https://hiroshima-mac.com/technology_cases/",
     "https://www.instagram.com/reel/DfCJq1szj5y/",
     "https://hfm.jp/company/sales/",
-    "https://kpmg.com/jp/ja/events/2026/04/20260623-erp-hiroshima.html"
+    "https://www.google.com/flights/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 29
   },
   {
    "query": "エフエム広島 料金",
@@ -1095,18 +1243,18 @@
     "https://hfm.jp/company/sales/",
     "https://fmhigashi.jp/ad-price/",
     "https://freetherock.com/service/radiocm/station/hfm/",
-    "https://x.com/hiroshimafm",
     "https://radiocm-pro.com/price-list/",
+    "https://761.jp/fee/",
     "https://otonal.co.jp/radio-cm-price",
-    "https://radiko.jp/index/HFM/",
-    "https://radiocmbox.com/tyuushiko/hfm.html",
-    "https://hfm.jp/"
+    "https://x.com/hiroshimafm",
+    "https://fm777.co.jp/price/",
+    "https://idolforums.com/forum/639-american-idol/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 19
   },
   {
    "query": "エフエム広島 社長 インタビュー",
@@ -1115,38 +1263,39 @@
     "https://hfm.jp/topics/18349/",
     "https://madeinlocal.jp/category/companies/hiroshima009",
     "https://radiko.jp/podcast/channels/85a652f0-53be-44aa-9888-e641736d608c",
+    "https://www.instagram.com/reel/Cln4i2dDrHd/",
     "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
     "https://open.spotify.com/show/1NAa9pODGyWLgcbb8rpYKA",
     "https://www.youtube.com/watch?v=0SYNF9O9M5k",
     "https://www.instagram.com/hfm.jp/",
-    "https://hfm.jp/topics/22312/",
-    "https://hfm.jp/topics/12205/"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 14
-  },
-  {
-   "query": "site:note.com エフエム広島",
-   "results": [
-    "https://note.com/tag/%E5%BA%83%E5%B3%B6FM",
-    "https://note.com/asunani_radio/n/nee31ad8edd92",
-    "https://note.com/suezo178/n/n29268556d47c",
-    "https://note.com/apt_yucca456/n/n21b33e22a384",
-    "https://note.com/leelamusic/n/nb728886e0117",
-    "https://note.com/suezo178/n/nabfe459e2497",
-    "https://note.com/apt_yucca456/m/mf4673a74414c",
-    "https://note.com/suezo178/n/n14c9d6bab3b9",
-    "https://note.com/hfmpush/n/nef34a1e4b75f",
-    "https://note.com/je3kmz/n/nb101eb318dd7"
+    "https://www.southwest.com/"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com エフエム広島",
+   "results": [
+    "https://note.com/leelamusic/n/n61dff6556ace",
+    "https://note.com/td_group_pr/n/n371763f0c59e",
+    "https://note.com/suezo178/n/nabfe459e2497",
+    "https://note.com/tag/%E5%BA%83%E5%B3%B6FM",
+    "https://note.com/suezo178/n/nc1598ec4671b",
+    "https://note.com/leelamusic/n/nb728886e0117",
+    "https://note.com/suezo178/n/n14c9d6bab3b9",
+    "https://note.com/asunani_radio/n/nee31ad8edd92",
+    "https://note.com/suezo178/n/n70ad868d5e7c",
+    "https://www.ncaa.com/rankings/football/fbs/associated-press"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
   },
   {
    "query": "site:x.com エフエム広島",
@@ -1160,51 +1309,57 @@
     "https://x.com/hashtag/%E5%BA%83%E5%B3%B6FM?f=list",
     "https://x.com/5colors_hfm",
     "https://x.com/lucklife_info/status/2108829895161716926",
-    "https://x.com/hfm_godj/status/2076948664501891316"
+    "https://en.wikipedia.org/wiki/Pinus_rigida"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 29
   },
   {
    "query": "site:linkedin.com エフエム広島",
    "results": [
     "https://jp.linkedin.com/posts/kento-iwata-b10a92179_%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%81%AE%E6%AF%8E%E9%80%B1%E7%81%AB%E6%9B%9C%E6%97%A517%E6%99%8235%E5%88%86%E6%94%AF%E5%BA%97%E9%95%B7%E3%81%8C%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%BC%E5%87%BA%E6%BC%94%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%9912%E6%9C%88-activity-7382004476985090048-QvW8",
     "https://jp.linkedin.com/jobs/view/translator-operations-support-at-pocket-fm-4292786515",
-    "https://lr.linkedin.com/jobs/view/%E6%96%B0%E5%8D%92%E3%80%90%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%80%91-at-%E4%B8%89%E5%85%B1%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3%EF%BC%88%E6%A0%AA%EF%BC%89-4449059409?position=27&pageNum=0&refId=QOubjVxWQPgd%2BjTB4AghOw%3D%3D&trackingId=W5esBlFh4WRAdQCfX2fxhw%3D%3D",
-    "https://jp.linkedin.com/in/manabu-aizawa-215b26a8",
     "https://jp.linkedin.com/in/shiori-hosokawa-34a1a117a",
+    "https://lr.linkedin.com/jobs/view/%E6%96%B0%E5%8D%92%E3%80%90%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%80%91-at-%E4%B8%89%E5%85%B1%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3%EF%BC%88%E6%A0%AA%EF%BC%89-4449059409?position=27&pageNum=0&refId=QOubjVxWQPgd%2BjTB4AghOw%3D%3D&trackingId=W5esBlFh4WRAdQCfX2fxhw%3D%3D",
     "https://jp.linkedin.com/in/yuichi-emoto-09996742",
-    "https://jp.linkedin.com/posts/mazda-motor-corporation_%E3%83%9E%E3%83%84%E3%83%80%E3%81%97%E3%81%94%E3%83%88%E3%83%BC%E3%82%AF-%E3%83%9E%E3%83%84%E3%83%80-mazda-activity-7500354712806883328-yrbG",
+    "https://jp.linkedin.com/in/manabu-aizawa-215b26a8",
+    "https://jp.linkedin.com/jobs/view/electrical-engineer-construction-at-currie-brown-4486022136",
     "https://jp.linkedin.com/jobs/%E4%B8%87%E5%AE%9D%E8%B7%AF%E5%BC%80%E6%88%B7%E5%92%A8%E8%AF%A2%E7%94%B5%E8%AF%9D%E6%98%AF%E5%A4%9A%E5%B0%91%E5%8F%B7%E7%BC%85%E5%8C%97%E7%8E%AF%E7%90%83%E5%9B%BD%E9%99%85%E7%94%B5%E6%8A%95%E7%94%B5%E8%AF%9D%E2%9D%A4%E2%97%A5%E2%97%A4%20rokeycm.%E4%BB%A3%E5%8F%91com%20%E2%97%A5%E2%97%A4%E2%9D%A4%E8%80%81%E8%A1%97%E7%A6%8F%E5%88%A9%E6%9D%A5%E9%9B%86%E5%9B%A2%E7%83%AD%E7%BA%BF%E7%94%B5%E8%AF%9D%E7%BC%85%E5%8C%97%E6%9E%9C%E5%8D%9A%E4%B8%9C%E6%96%B9%E7%8E%B0%E5%9C%BA%E9%83%A8%E6%96%B0%E8%83%9C%E5%A8%B1%E4%B9%90%E5%BC%80%E5%8F%B7/-jobs?position=1&pageNum=0",
-    "https://jp.linkedin.com/in/naoaki-ijichi-80a66474"
+    "https://jp.linkedin.com/in/naoaki-ijichi-80a66474",
+    "https://en.m.wikipedia.org/wiki/Dallas_Cowboys"
    ],
    "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 39
   },
   {
    "query": "site:facebook.com エフエム広島",
    "results": [
     "https://www.facebook.com/hfm.jp/",
-    "https://www.facebook.com/p/FM%E6%9D%B1%E5%BA%83%E5%B3%B6-897MHz-100063172451344/",
     "https://www.facebook.com/hfm.jp/videos/",
-    "https://www.facebook.com/hanahana.officehanataba/posts/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%83%85%E5%A0%B12026107%E6%B0%B41400%E5%8F%B0%E5%BA%83%E5%B3%B6fmsunny-side-palette-20261010%E5%9C%9F1200%E5%8F%B0%CE%B1-stationfm%E5%A4%A7%E9%98%AAkiss-fm-kob/1703503065116222/",
     "https://www.facebook.com/FMHAMSTAR/",
-    "https://www.facebook.com/hfm.days/",
+    "https://www.facebook.com/p/FM%E6%9D%B1%E5%BA%83%E5%B3%B6-897MHz-100063172451344/",
+    "https://www.facebook.com/p/%E3%82%AF%E3%83%A9%E3%82%B7%E3%82%AB%E3%83%AB%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC-100056436083385/",
     "https://www.facebook.com/fmhatsukaichi/?locale=ja_JP",
-    "https://www.facebook.com/jicachugoku/posts/%EF%BD%86%EF%BD%8D%E3%83%9F%E3%82%B3%E3%83%AA%E3%83%B3jica%E6%B5%B7%E5%A4%96%E5%8D%94%E5%8A%9B%E9%9A%8A%E3%81%AB%E8%81%9E%E3%81%8F11%E6%9C%8811%E6%97%A5%E6%B0%B415%E6%99%82%E3%81%8B%E3%82%89%E6%94%BE%E9%80%8111%E6%9C%8811%E6%97%A5%E6%B0%B415%E6%99%82%E3%81%8B%E3%82%89%E7%B4%8430%E5%88%86%E9%96%93%E5%BA%83%E5%B3%B6%E3%81%AEfm%E3%83%A9%E3%82%B8%E3%82%AA766mhzfm%E3%83%9F%E3%82%B3%E3%83%AA%E3%83%B3%E3%81%AE%E7%95%AA%E7%B5%84%E3%81%94%E3%81%8D%E3%81%92%E3%82%93chu%E3%81%AE/1595557362615467/",
-    "https://www.facebook.com/hide.yuzaki/posts/%E6%98%A8%E6%97%A5%E3%81%8B%E3%82%89%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%AA%E7%95%AA%E7%B5%84%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%BC%E5%87%BA%E6%BC%94%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E6%AF%8E%E6%9C%88%E7%AC%AC2%E6%B0%B4%E6%9B%9C%E6%97%A51410%E3%81%94%E3%82%8D%E3%81%8B%E3%82%89%E5%BA%83%E5%B3%B6fm%E3%82%B5%E3%83%8B%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%8A%E8%81%B4%E3%81%8D%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%AC%A1%E5%9B%9E%E3%81%AF5%E6%9C%8813%E6%97%A5%E6%B0%B4%E3%81%A7%E3%81%99%EF%B8%8F/10225372193530043/",
-    "https://www.facebook.com/pages/広島エフエム放送/247121995302720/"
+    "https://www.facebook.com/hanahana.officehanataba/posts/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%83%85%E5%A0%B12026107%E6%B0%B41400%E5%8F%B0%E5%BA%83%E5%B3%B6fmsunny-side-palette-20261010%E5%9C%9F1200%E5%8F%B0%CE%B1-stationfm%E5%A4%A7%E9%98%AAkiss-fm-kob/1703503065116222/",
+    "https://www.facebook.com/hfm.days/",
+    "https://www.facebook.com/ElisabethUniversityofMusic/posts/%E5%BA%83%E5%B3%B6fm%E3%81%AB%E3%81%A6%E6%94%BE%E9%80%81%E4%B8%AD%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%AA%E7%95%AA%E7%B5%84%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%83%88%E9%9F%B3%E6%A5%BD%E5%A4%A7%E5%AD%A6presents%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%81%AE%E6%89%89%E6%AC%A1%E5%9B%9E%E3%81%AE7%E6%9C%8820%E6%97%A5%E6%97%A527%E6%97%A5%E6%97%A5%E3%81%AF%E5%A3%B0%E6%A5%BD%E3%81%AE%E7%BE%BD%E5%B1%B1%E5%BC%98%E5%AD%90%E6%95%99%E6%8E%88%E3%81%8C%E5%87%BA%E6%BC%94%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E7%BE%BD%E5%B1%B1%E5%85%88%E7%94%9F%E3%81%AE%E7%95%99%E5%AD%A6%E6%99%82%E4%BB%A3%E3%81%AE%E3%82%A8/1244496594141441/",
+    "https://mykaarma.com/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 29
   },
   {
    "query": "エフエム広島 note 社長",
@@ -1213,18 +1368,20 @@
     "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%94%BE%E9%80%81",
     "https://note.com/tag/%E5%BA%83%E5%B3%B6FM",
     "https://note.com/suezo178/n/n70ad868d5e7c",
+    "https://note.com/omoideya",
     "https://note.com/apt_yucca456/m/md8217ce97617",
     "https://x.com/hiroshimafm",
-    "https://note.com/apt_yucca456/m/m5f932a2f7659",
     "https://www.facebook.com/seri.nabeshima/videos/new-challenge619%E9%87%911700%E3%82%88%E3%82%8Afm%E6%9D%B1%E5%BA%83%E5%B3%B6%E3%81%95%E3%82%93-fmhigashihiroshima897mhz-%E5%91%A8%E6%B3%A2%E6%95%B0897mhz%E3%81%AB%E3%81%A6%E3%82%BB%E3%83%AA%E3%81%AE%E5%9B%BD%E4%BC%9A%E3%83%8E%E3%83%BC%E3%83%88%E3%82%92%E6%94%BE%E9%80%81%E3%81%95%E3%81%9B/1026902439688738/",
-    "https://ja.wikipedia.org/wiki/広島エフエム放送",
-    "https://leadersclub.chugoku-np.co.jp/posts/093"
+    "https://hyperallergic.com/",
+    "https://hyperallergic.com/how-to-pitch/"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 38
   },
   {
    "query": "エフエム広島 X 投稿",
@@ -1233,24 +1390,148 @@
     "https://hfm.jp/",
     "https://www.instagram.com/hfm.jp/",
     "http://twitter.com/HP_OJISAN",
-    "https://x.com/hfm_godj",
-    "https://www.youtube.com/watch?v=IxsubyOBFGA",
     "https://www.facebook.com/hfm.jp/",
+    "https://x.com/FM_higashi",
+    "https://www.youtube.com/watch?v=IxsubyOBFGA",
     "https://open.spotify.com/show/5nQ6jCT5LGJkHoUnuA1ix9",
-    "https://x.com/hfm_godj/status/2117870430191309016",
-    "https://search.yahoo.co.jp/realtime/search/＃広島エフエム/"
+    "https://www.worldtimebuddy.com/edt-to-utc-converter",
+    "https://utctime.info/converter/edt-to-utc/"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 25
   }
  ],
  "missing": {
-  "許認可": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）"
+  "許認可": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 11,
+ "new_this_run": {
+  "売上・規模": [
+   {
+    "quote": "#3683 決算分析 : 広島エフエム放送株式会社 第44期決算 当期純利益 11百万円 - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "資産合計: 1,402百万円 (約14.0億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "負債合計: 434百万円 (約4.3億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "純資産合計: 969百万円 (約9.7億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 11百万円 (約0.1億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "利益剰余金: 453百万円 (約4.5億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "総資産約14億円に対し、純資産が約10億円と、",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "売上高約6億円という厳しいメディア環境の中、着実に利益を確保しており、地域に根差した老舗ラジオ局としての堅実な経営が光っています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（利益剰余金約4.5億円）として蓄積してきた結果であり、財務基盤は非常に盤石です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "発言": [
+   {
+    "quote": "株式会社も、そんな地域密着メディアの代表格です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "設立: 1982年2月27日",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは、設立以来の利益を着実に",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "料金": [
+   {
+    "quote": "#3683 決算分析 : 広島エフエム放送株式会社 第44期決算 当期純利益 11百万円 - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "資産合計: 1,402百万円 (約14.0億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "負債合計: 434百万円 (約4.3億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "純資産合計: 969百万円 (約9.7億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": 11百万円 (約0.1億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "利益剰余金: 453百万円 (約4.5億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "資本金: 8千万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/24/160000_4",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 12,
  "first_researched_at": "2026-11-04T15:02:00.302442+00:00"
 }

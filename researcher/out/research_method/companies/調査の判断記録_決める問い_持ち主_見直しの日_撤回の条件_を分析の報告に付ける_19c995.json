@@ -8,8 +8,64 @@
  ],
  "context": "手順",
  "kind": "market",
- "researched_at": "2026-11-08T14:04:54.698484+00:00",
+ "researched_at": "2026-11-08T21:54:21.164550+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "For example, a product team may log a prioritization decision based on customer feedback and projected impact. Months later, they can evaluate performance data against that original reasoning. This",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Some decisions affect multiple teams or have long-term operational impact. Examples include workflow changes, tooling adoption, pricing adjustments, or delivery model changes.",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A concise statement that clearly describes the decision. This makes the decision log searchable and easy to scan. For example, “Adopt feature-based release cycles” communicates intent immediately.",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example of a filled decision log entry",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Below is an example of how a completed entry may look inside a project decision log. This format keeps the entry easy to scan and works well within documentation pages or project workspaces.",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Add optional fields like impact level or review date only if they support real use cases",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A decision log serves a different purpose. It documents the decisions made in response to those risks, assumptions, or issues. For example, a risk entry may identify a potential vendor delay, while the decision log records the final decision to switch vendors or adjust timelines.",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "What is a bug life cycle? Stages, workflow, and examples",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Every team, every use case,",
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": ", and how to create a practical decision log template for modern teams.",
@@ -101,119 +157,133 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "実例": [
-   {
-    "quote": "For example, a product team may log a prioritization decision based on customer feedback and projected impact. Months later, they can evaluate performance data against that original reasoning. This",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Some decisions affect multiple teams or have long-term operational impact. Examples include workflow changes, tooling adoption, pricing adjustments, or delivery model changes.",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A concise statement that clearly describes the decision. This makes the decision log searchable and easy to scan. For example, “Adopt feature-based release cycles” communicates intent immediately.",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example of a filled decision log entry",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Below is an example of how a completed entry may look inside a project decision log. This format keeps the entry easy to scan and works well within documentation pages or project workspaces.",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Add optional fields like impact level or review date only if they support real use cases",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A decision log serves a different purpose. It documents the decisions made in response to those risks, assumptions, or issues. For example, a risk entry may identify a potential vendor delay, while the decision log records the final decision to switch vendors or adjust timelines.",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What is a bug life cycle? Stages, workflow, and examples",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Every team, every use case,",
-    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/clever_mole1784/n/n29a763de73be",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d",
+    "url": "https://note.com/ichi_twnovel/n/n02363dc0f2b9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/magic_ai7978/n/n958a56fe11e6",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/toyuki777/n/nb5226743dbed",
+    "url": "https://note.com/hidetoshi_h_/n/ne2921ea57407",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ryota_jitsumu/n/n6334fb4ec16b",
+    "url": "https://note.com/amane_bombaye/n/n50733c01d075",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/pbsj/44/0/44_336/_pdf",
+    "url": "https://note.com/advertising/n/n573a79965bda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kntn123/n/n6c5da3b8e68c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/note_ir/n/nee66bbe1398e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kikaku_ir/n/n7ce98b295760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/law-research/securities/20231012_023791.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nfrc.co.jp/evaluation/example.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei-r.co.jp/service/analytics-consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/about/services/tame/faq/t_naito.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.irjapan.net/service/invenst/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arts-crafts.co.jp/post-18944/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jicpa.or.jp/specialized_field/publication/files/2-3-32-2a-20130722.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://hanapana.co.jp/blog-merchant-survey.html",
+    "url": "https://www.fsa.go.jp/common/about/research/index.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tendo-context.jp/topic-topic-2055/",
+    "url": "https://www.dir.co.jp/report/consulting/research/index.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tendo-context.jp/topic-topic-2101/",
+    "url": "https://www.wiwiw.com/service/consulting/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://yoshikawa-sogo.com/cyber-incident-decision-making/",
+    "url": "https://www.daiwa-grp.jp/dfc/about/fd_jirei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jairo.jp/consulting-menu/35/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
     "status": "ok",
     "method": "http"
    },
@@ -223,28 +293,23 @@
     "method": "http"
    },
    {
+    "url": "https://quire.io/blog/p/the-decision-log.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://monday.com/blog/project-management/decision-log/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://valiantceo.com/decision-log/",
+    "url": "https://medium.com/@gkunzile/10-common-ai-decision-log-mistakes-and-fixes-for-project-managers-0720d72fea5f",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://ones.com/blog/engineering-decision-record-examples-document-assumptions-and-revisit-triggers/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kiolo.com/en/blog/decision-log-template/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://markdific.com/templates/markdown/decision-log/",
-    "status": "ok",
+    "url": "https://raidlog.com/book-excerpts/decisions-log/",
+    "status": "http_404",
     "method": "http"
    }
   ]
@@ -253,99 +318,133 @@
   {
    "query": "調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資） site:note.com",
    "results": [
-    "https://note.com/clever_mole1784/n/n29a763de73be",
-    "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d",
-    "https://note.com/magic_ai7978/n/n958a56fe11e6",
-    "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
-    "https://note.com/toyuki777/n/nb5226743dbed",
-    "https://note.com/ryota_jitsumu/n/n6334fb4ec16b",
-    "https://note.com/marunage_shacho/n/n7975b2d3198c"
+    "https://note.com/ichi_twnovel/n/n02363dc0f2b9",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "https://note.com/hidetoshi_h_/n/ne2921ea57407",
+    "https://note.com/amane_bombaye/n/n50733c01d075",
+    "https://note.com/advertising/n/n573a79965bda",
+    "https://note.com/amane_bombaye/n/ndc9fd964b9a9",
+    "https://note.com/loyal_ivy9071/n/nf5e9824eb19a",
+    "https://note.com/huge_kamaitachi/n/n706aab16767f",
+    "https://note.com/aymix117/n/n4889ce0f13bc"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/kntn123/n/n6c5da3b8e68c",
+    "https://note.com/note_ir/n/nee66bbe1398e",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/kikaku_ir/n/n7ce98b295760",
+    "https://www.dir.co.jp/report/research/law-research/securities/20231012_023791.html",
+    "https://www.nfrc.co.jp/evaluation/example.html",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://longwave.co.jp/media/articles/lost-deal-analysis-howto.html",
+    "https://www.tr.mufg.jp/houjin/daikou/solution_ja.html",
+    "https://note.com/clever_mole1784/n/n29a763de73be"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資） やり方",
    "results": [
-    "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d",
-    "https://www.jstage.jst.go.jp/article/pbsj/44/0/44_336/_pdf",
-    "https://hanapana.co.jp/blog-merchant-survey.html",
-    "https://tendo-context.jp/topic-topic-2055/",
-    "https://note.com/clever_mole1784/n/n29a763de73be",
-    "https://tendo-context.jp/topic-topic-2101/",
-    "https://yoshikawa-sogo.com/cyber-incident-decision-making/"
+    "https://www.nikkei-r.co.jp/service/analytics-consulting",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.boj.or.jp/about/services/tame/faq/t_naito.htm",
+    "https://www.irjapan.net/service/invenst/",
+    "https://www.arts-crafts.co.jp/post-18944/",
+    "https://jicpa.or.jp/specialized_field/publication/files/2-3-32-2a-20130722.pdf",
+    "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/houkoku06.pdf",
+    "https://www.tr.mufg.jp/houjin/daikou/solution_ja.html",
+    "https://www.jstage.jst.go.jp/article/pbsj/44/0/44_336/_pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資） 事例",
    "results": [
-    "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d",
-    "https://www.jstage.jst.go.jp/article/pbsj/44/0/44_336/_pdf",
-    "https://tendo-context.jp/topic-topic-2101/",
-    "https://tendo-context.jp/topic-topic-2055/",
-    "https://note.com/magic_ai7978/n/n958a56fe11e6",
-    "https://hanapana.co.jp/blog-merchant-survey.html",
-    "https://yoshikawa-sogo.com/cyber-incident-decision-making/"
+    "https://www.nikkei-r.co.jp/service/analytics-consulting",
+    "https://www.fsa.go.jp/common/about/research/index.html",
+    "https://www.dir.co.jp/report/consulting/research/index.html",
+    "https://www.wiwiw.com/service/consulting/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.daiwa-grp.jp/dfc/about/fd_jirei.html",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
+    "https://jairo.jp/consulting-menu/35/",
+    "https://cms03.jftc.go.jp/soshiki/kyotsukoukai/ebpm_torikumi/jigohyoka_files/r4hontai.pdf",
+    "https://www.jstage.jst.go.jp/article/pbsj/44/0/44_336/_pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "decision log review date reversal trigger analysis assumptions",
    "results": [
+    "https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template",
     "https://mtfinstitute.com/insights/executive-decision-log-template/",
+    "https://quire.io/blog/p/the-decision-log.html",
     "https://monday.com/blog/project-management/decision-log/",
-    "https://valiantceo.com/decision-log/",
-    "https://ones.com/blog/engineering-decision-record-examples-document-assumptions-and-revisit-triggers/",
-    "https://kiolo.com/en/blog/decision-log-template/",
-    "https://markdific.com/templates/decision-log/",
-    "https://operationsexecutiveassistant.com/blog/executive-assistant-decision-reversal-log"
+    "https://medium.com/@gkunzile/10-common-ai-decision-log-mistakes-and-fixes-for-project-managers-0720d72fea5f",
+    "https://raidlog.com/book-excerpts/decisions-log/",
+    "https://documentation.cochrane.org/revman-kb/decision-log-292749313.html",
+    "https://aviy.ai/blog/decision-log-template",
+    "https://github.com/joelparkerhenderson/decision-record",
+    "https://valiantceo.com/decision-log/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "site:note.com 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）",
    "results": [
-    "https://note.com/clever_mole1784/n/n29a763de73be",
-    "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d",
-    "https://note.com/magic_ai7978/n/n958a56fe11e6",
-    "https://note.com/toyuki777/n/nb5226743dbed",
-    "https://note.com/marunage_shacho/n/n7975b2d3198c",
-    "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
-    "https://note.com/shijochosa_labo/n/n616b326ee950"
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/loyal_ivy9071/n/nf5e9824eb19a",
+    "https://note.com/huge_kamaitachi/n/n706aab16767f",
+    "https://note.com/natty_impala4797/n/nce001a681862",
+    "https://note.com/ocaml/n/n2c027478b941",
+    "https://note.com/ocaml/n/n25a2c177afc3",
+    "https://note.com/marukiyo/n/n14d5084cb896",
+    "https://note.com/ocaml/n/n409d29d10b54",
+    "https://note.com/ezuremanagement/n/n62ac85c83529",
+    "https://note.com/clever_mole1784/n/n29a763de73be"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:x.com 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）",
    "results": [
     "https://x.com/taku_cx_jp/status/2115965289498394837",
     "https://x.com/saratoga623/status/2069530491984961881",
-    "https://x.com/i/status/2083127968436781114",
     "https://x.com/Unknown__Lab/status/2104089694103597204",
     "https://x.com/Unknown__Lab/status/2104089696196555040",
-    "https://x.com/tubuyaki/status/2107690364262039634",
-    "https://x.com/keiei_lab/status/2115053978404962308"
+    "https://x.com/keiei_lab/status/2115053978404962308",
+    "https://x.com/i/status/2083127968436781114",
+    "https://x.com/Yohei_Narahara/status/2082727382302294389"
    ],
    "engines": [
     "ddgs:google"
@@ -364,81 +463,83 @@
     "https://jp.linkedin.com/posts/littlesoft-jp_その組織の決める人に必要なのは-判断に足る情報-状況を報告して-activity-7500382999075561473-fSo7"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）",
-   "results": [
-    "https://www.facebook.com/mama.mahou/videos/お片付けをする時に大切なのはそのモノたちの持ち主が誰なのか持ち主が手放すと決めたのであればその時初めてサヨナラありがとうとなりますこどもある程度自分で判断出来る/666995024736537/",
-    "https://www.facebook.com/100012230083226/photos/2026325-今日の東奥日報です昨日24日に市民団体とりどりが櫻田百合子十和田市長を訪問し十和田市奥瀬地区で計画されている仮称惣辺奥瀬風力発電事業計画区域内に/2543919932692318/",
-    "https://www.facebook.com/laboroai/videos/削っていた調査を必要十分な規模で/968979755564563/",
-    "https://www.facebook.com/wakayamamaizoubunkazai/videos/埋蔵文化財センターの仕事遺跡の発掘調査シリーズ㉖遺跡を記録する方法のひとつに写真があります現在はほぼすべての調査組織で使用しているカメラはデジタルカメラとなって/1243855730421291/",
-    "https://www.facebook.com/hajime.morishima.79/videos/家事分担の記録が続かないとき入力を増やす前に見直したいことまた続かなかったと感じるときまず記録する負担に目を向けてみませんか目的を一つに決める必要な範囲に絞る振/2245276539757987/",
-    "https://www.facebook.com/reel/913063451336485/",
-    "https://www.facebook.com/100043893636295/posts/毎日新聞の世論調査でも撤回する必要はないが67という結果です️/1424717112334730/"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資） note 社長",
    "results": [
-    "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d",
-    "https://note.com/clever_mole1784/n/n29a763de73be",
-    "https://yoshikawa-sogo.com/cyber-incident-decision-making/",
-    "https://hanapana.co.jp/blog-merchant-survey.html",
-    "https://inukai-cpa-tax-media.com/column/tax-audit-third-party-inquiry-records/",
-    "https://dprofessions.co.jp/企業法務/内部通報不正調査第三者委員会/社内調査の手続/関係者ヒアリングの進め方と記録/",
-    "https://taxaccountantki.com/2026/06/19/shitsumon-oto-kirokusho/"
+    "https://note.com/kntn123/n/n6c5da3b8e68c",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/chucon/n/n6d87843d2f04",
+    "https://www.dir.co.jp/report/research/law-research/securities/20231012_023791.html",
+    "https://www.nfrc.co.jp/evaluation/example.html",
+    "https://ikenplus.cfa.go.jp/api/file/62BYA5YOP",
+    "https://www.hiresteve.ai/ja/blog/win-loss-interviews-japan",
+    "https://longwave.co.jp/media/articles/lost-deal-analysis-howto.html",
+    "https://note.com/five_cs/n/n6aea77796bd8",
+    "https://note.com/clever_mole1784/n/n29a763de73be"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資） X 投稿",
    "results": [
-    "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d",
-    "https://www.jstage.jst.go.jp/article/pbsj/44/0/44_336/_pdf",
-    "https://yoshikawa-sogo.com/cyber-incident-decision-making/",
-    "https://note.com/clever_mole1784/n/n29a763de73be",
-    "https://tendo-context.jp/topic-topic-2101/",
-    "https://hanapana.co.jp/blog-merchant-survey.html",
-    "https://dprofessions.co.jp/企業法務/内部通報不正調査第三者委員会/社内調査の手続/関係者ヒアリングの進め方と記録/"
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.boj.or.jp/about/services/tame/faq/t_naito.htm",
+    "https://support.nikkei.com/app/ask_0101/p/19",
+    "https://www.hottolink.co.jp/service/twitter/consulting/",
+    "https://philarchive.org/archive/HUARKP",
+    "https://ikenplus.cfa.go.jp/api/file/5ORBMRD1I",
+    "https://www.international-arbitration-attorney.com/wp-content/uploads/arbitrationlawjbic_RIJ_2004005.pdf",
+    "https://recruit-holdings.com/files/ir/library/upload/report_202503Q4_ar_jp.pdf",
+    "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
+    "https://note.com/clever_mole1784/n/n29a763de73be"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "decision log review date reversal trigger analysis assumptions site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/every-major-decision-needs-reversal-trigger-goforth-pmp--dsr0e?tl=en",
-    "https://www.linkedin.com/pulse/decision-logs-business-analysts-power-tool-nikhil-divekar-rsnjf",
-    "https://by.linkedin.com/posts/kevinpetrietech_reversal-creativity-happens-when-we-reverse-activity-7028353740348817408-r2zV",
-    "https://www.linkedin.com/pulse/project-decisions-need-review-trigger-bestexperts-gmbh-z2roe",
-    "https://www.linkedin.com/pulse/power-decisions-log-simple-tool-huge-impact-oberlander-ph-d-pmp-gqzte",
-    "https://www.linkedin.com/pulse/one-decision-record-how-simple-log-stops-work-from-going-tshabalala-wle9f/",
-    "https://www.linkedin.com/posts/ellastartups_a-founder-decision-log-is-useful-because-activity-7519805427535089664-I9xL"
+    "https://www.linkedin.com/top-content/productivity/avoiding-decision-fatigue/creating-decision-protocols/",
+    "https://www.linkedin.com/pulse/decision-speed-vs-quality-building-agile-management-system-iuri-pinto-7a1ef",
+    "https://www.linkedin.com/top-content/productivity/techniques-for-better-decision-making/techniques-for-creating-a-decision-making-playbook/",
+    "https://www.linkedin.com/posts/paulbassat_ive-always-put-a-premium-on-optionality-activity-7506131036909572096-aq4t",
+    "https://www.linkedin.com/top-content/organizational-culture/inclusivity-in-decision-making/agile-decision-making-techniques/",
+    "https://www.linkedin.com/posts/akio-simokomaki-913a25172_projectdiscovery-solutionarchitecture-activity-7508701806563201024-Z-hm",
+    "https://www.linkedin.com/posts/diwakarsinghbamentor_ba-solved-case-study-activity-7508024271575707648-je8b",
+    "https://www.linkedin.com/pulse/eu-ai-act-compliance-playbook-step-by-step-guide-high-risk-khan-g7htf",
+    "https://www.linkedin.com/posts/rameshchandranvadali_r2r-implementation-from-financial-closure-activity-7513594425424478208--1G-",
+    "https://www.linkedin.com/pulse/missing-pillar-continuous-improvement-condition-based-ali-0yqte"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ17頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ17頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ17頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-07T01:58:51.516255+00:00"
 }

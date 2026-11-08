@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・250品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・252品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -12761,6 +12761,105 @@
 - 1人あたり・1社あたり金額：記載なし（読んだ37頁・検索18回）
 - 生産能力・設備：記載なし（読んだ37頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ37頁・検索18回）
+
+## 工業統計 実績2018年 確報 産業細分類別 付加価値額・従業者数（国の表・金属製品製造業の細分類・2017年と並べる・自治体の表でなく・4-83・4-104・4-112）（Japan Census of Manufacture 2018 final results value added employees by detailed industry metal products）
+- 文脈：統計
+- 事業所数・社数：
+  - 「工業統計調査 確報 平成30年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+- 社員数・平均社員数：
+  - 「工業統計調査 確報 平成30年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【2183】人工骨材製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【3251】娯楽用具・がん具製造業（人形を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【3252】人形製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+- 受注金額・加工賃収入：
+  - 「工業統計調査 確報 平成30年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+- 1人あたり・1社あたり金額：
+  - 「工業統計調査 確報 平成30年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+- 10年推移：
+  - 「2020-01-20 11:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+- 痛み・損（深さの印）：記載なし（読んだ43頁・検索18回）
+- 生産能力・設備：記載なし（読んだ43頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ43頁・検索18回）
+
+## 中小企業実態基本調査 金属製品製造業 従業者規模別 売上高と従業者数を同じ年・同じ表で（1人あたりの分子と分母の片方だけの欠けを埋める・4-114）（SME basic survey Japan metal products manufacturing sales and employees by size same table）
+- 文脈：統計
+- 事業所数・社数：
+  - 「区分：産業中分類＿６７区分、従業者規模＿５区分」（https://www.henmi-adm.jp/news/3775.html）
+- 社員数・平均社員数：
+  - 「法人企業の１企業当たりの付加価値額は９，９８６万円（前年度比４．３％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「１企業当たりの従業者数は９．９人（前年度比１．６％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「従業者数等：令和７年６月１日現在」（https://www.henmi-adm.jp/news/3775.html）
+  - 「速報（２月）では、従業者数、資産及び負債・純資産、売上高及び営業費用、事業承継の状況、中小企業の動向を集計・公表」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業における、１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）、１企業当たりの従業者数は９．９人（同１．６％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの売上高、営業利益、経常利益及び従業者数の全てが増加」（https://www.henmi-adm.jp/news/3775.html）
+  - 「（注１）令和４年調査より調査の期間・期日を変更（「売上高」及び「経常利益」は「前年度（令和３年調査であれば令和２年度）の決算期の数値」から「最近決算期の１年間の数値」に、「従業者数」は「３月３１日現在」から「６月１日現在」に、それぞれ変更）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「第1章 中小企業の従業者数」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の従業者数の産業大分類別構成比は、製造業（２０．３％）が最も高く、次いで小売業（１４．４％）、建設業（１１．３％）の順である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの従業者数は、９．９人（前年度比１．６％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの従業者数の変化を産業大分類別にみると、増加しているのは、生活関連サービス業，娯楽業（前年度比１１．５％増）、運輸業，郵便業（同４．９％増）など８産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「第2章 中小企業（法人企業）の資産及び負債・純資産」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の資産の産業大分類別構成比は、製造業（２３．０％）が最も高く、次いで卸売業（１７．５％）、不動産業，物品賃貸業（１７．２％）の順である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの資産は３．７億円で、前年度の３．６億円から０．６％増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの負債は２．０億円（前年度比▲０．３％減）、純資産は１．６億円（同１．８％増）である」（https://www.henmi-adm.jp/news/3775.html）
+- 受注金額・加工賃収入：
+  - 「１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの付加価値額は９，９８６万円（前年度比４．３％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「売上高等：最近決算期の１年間」（https://www.henmi-adm.jp/news/3775.html）
+  - 「速報（２月）では、従業者数、資産及び負債・純資産、売上高及び営業費用、事業承継の状況、中小企業の動向を集計・公表」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業における、１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）、１企業当たりの従業者数は９．９人（同１．６％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの売上高、営業利益、経常利益及び従業者数の全てが増加」（https://www.henmi-adm.jp/news/3775.html）
+  - 「（注１）令和４年調査より調査の期間・期日を変更（「売上高」及び「経常利益」は「前年度（令和３年調査であれば令和２年度）の決算期の数値」から「最近決算期の１年間の数値」に、「従業者数」は「３月３１日現在」から「６月１日現在」に、それぞれ変更）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの資産は３．７億円で、前年度の３．６億円から０．６％増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「資産の内訳をみると、流動資産は２．０億円（前年度比２．１％増）、固定資産は１．６億円（同▲１．２％減）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの負債は２．０億円（前年度比▲０．３％減）、純資産は１．６億円（同１．８％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの資産を産業大分類別にみると、卸売業（６．１億円）が最も高く、次いで製造業（６．０億円）、運輸業，郵便業（５．１億円）の順である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「第3章 中小企業の売上高及び営業費用」（https://www.henmi-adm.jp/news/3775.html）
+  - 「１．中小企業の売上高」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の売上高の産業大分類別構成比は、卸売業（２９．６％）が最も高く、次いで製造業（２０．２％）、建設業（１３．０％）の順である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの売上高は、２．２億円（前年度比６．９％増）である」（https://www.henmi-adm.jp/news/3775.html）
+- 1人あたり・1社あたり金額：
+  - 「１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの付加価値額は９，９８６万円（前年度比４．３％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業における、１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）、１企業当たりの従業者数は９．９人（同１．６％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの経常利益は、１，０７５万円（前年度比８．４％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「３．中小企業（法人企業）の付加価値額」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの付加価値額は、９，９８６万円（前年度比４．３％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の従業者１人当たりの付加価値額は、６３１万円（前年度比２．６％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業（法人企業）の１企業当たりの付加価値額（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「（注１）付加価値額の算出方法の詳細は、付録における経営指標の算出式及び全産業加重平均値（注１）を参照」（https://www.henmi-adm.jp/news/3775.html）
+- 生産能力・設備：
+  - 「確報（６月）では、速報公表項目に加え、設備投資とリースの状況、海外展開と輸出の状況、受託・委託の状況等を集計・公表」（https://www.henmi-adm.jp/news/3775.html）
+- 10年推移：
+  - 「中小企業の１企業当たりの売上高、営業利益、経常利益及び従業者数の全てが増加」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの従業者数の変化を産業大分類別にみると、増加しているのは、生活関連サービス業，娯楽業（前年度比１１．５％増）、運輸業，郵便業（同４．９％増）など８産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の従業者数構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの資産は３．７億円で、前年度の３．６億円から０．６％増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業（法人企業）の資産構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの売上高の変化を産業大分類別にみると、増加しているのは、不動産業，物品賃貸業（前年度比１９．１％増）、卸売業（同１４．９％増）、運輸業，郵便業（同８．６％増）など８産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の売上高構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの経常利益の変化を産業大分類別にみると、増加しているのは、運輸業，郵便業（前年度比２８．８％増）、建設業（同２７．８％増）など７産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の経常利益構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「産業大分類別にみると、学術研究，専門・技術サービス業（同１０．０％増）、建設業（同９．０％増）など８産業で増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「産業大分類別にみると、学術研究，専門・技術サービス業（同８．６％増）、サービス業（他に分類されないもの）（同７．２％増）など７産業で増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年12月」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年11月」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年10月」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年9月」（https://www.henmi-adm.jp/news/3775.html）
+- 痛み・損（深さの印）：記載なし（読んだ36頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ36頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

@@ -9,902 +9,8 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T14:15:11.011167+00:00",
+ "researched_at": "2026-11-08T21:57:46.407978+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "2026年最新のおすすめ拡張機能10選と料金、仕事を効率化する使い方を解説します",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Claude Codeの使い方｜始め方からつまずき対処・料金の選び方まで",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Claude Codeの使い方を初心者向けに解説",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Windsurf IDEの使い方｜Cursorとの違いと日本語設定のポイント",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "※RAG製品の検索方法、分割方法、権限、同期、評価機能は異なり、仕様も変わります",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本記事は特定製品の障害対応手順ではなく、中小企業が原因を整理するための一般的な実務手順です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIよろず室では、この順序で調べる方法を「RAG故障診断・5層」と呼んでいます",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この場合は、回答指示、渡す文脈の量、モデル、出力形式、人の確認方法を見直します",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIへ登録する文書の選び方は、RAG導入判断記事からつながる文書整理手順で確認できます",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "暗黙知しかない場合は、担当者への聞き取りから、業務責任者が確認した手順へ変えます",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAGの回答精度が上がらない原因は？検索・データ・生成を見直す改善手順【2026年8月最新】｜株式会社AIworker",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAGの回答精度が上がらない原因は？検索・データ・生成を見直す改善手順【2026年8月最新】",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "精度が出ない原因を工程別に切り分け、改善前後を同じ条件で比較する方法",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "必要な文書が登録されていなければ、検索方法を変えても正解には届きません",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "そのため、企業内検索では次の方法を比較します",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "原因6｜回答指示が検索結果の使い方を定めていない",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業務によっては、RAG以外の方法が適しています",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データ抽出、複雑な権限、検索基盤、評価自動化まで関わる場合は、外部支援を使いながら社内へ手順と判断基準を残す方法が現実的です",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "利用者向けには、質問の作り方、出典の確認、誤回答を見つけたときの報告方法を扱います",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研修後も、確認手順と評価用のひな型が社内に残る形にします",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "構成と評価方法を文書化し、社内で改善を続けられる状態を目指します",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「RAGへ資料を入れたのに回答が安定しない」「PoCを本番へ進めてよいか判断できない」「ベンダーへ何を修正依頼すればよいか分からない」という場合は、現在の質問、検索結果、回答、参照データ、権限、評価方法を確認し、最初に直す工程を整理します",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PMやCxOには「投資判断の材料」、エンジニアには「明日から使える診断手順」を提供する構成です",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2024〜2026年にかけて、RagasやDeepEvalなどのRAG評価フレームワークが整備され、「評価せずに改善する」こと自体がリスクになりつつあります",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "型番、固有名詞、規程番号を取りこぼす",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2026年時点では、Ragasで評価指標やゴールデンデータセットを設計し、DeepEvalのようなpytestライクな評価フレームワークでCI/CDに組み込む、という併用パターンも広がっています",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "型番、規程番号、固有名詞を取りこぼす",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ベクトル検索は、意味的に近い文書を探すのに強い一方、型番、規程番号、製品コード、顧客名などの完全一致検索には弱い場合があります",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製品型番や規程番号を取りこぼす場合は、キーワード検索を併用する",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RagasはQuick Startで評価プロジェクトを生成する流れを整備し、DeepEvalはpytest型の評価実行やCI/CD統合を前面に出しています",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本記事では、RAGの精度が出ない原因を、評価指標と工程別に切り分ける方法を解説しました",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "③ Step-Back Prompting",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「製品Xのバグ修正方法」→「製品Xのアーキテクチャ」で検索することで、",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価方法：LLMに「このチャンクはこの質問に関連していますか？」と採点させる",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価方法：LLMに「この回答はこのチャンクから導けますか？」と採点させる",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "評価方法：LLMに「この回答は質問に答えていますか？」と採点させる",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAGASというオープンソースフレームワークを使うと、これらの指標を自動計算できる",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "もうちょっと分解すると、RAGは3ステップで動いています",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "— 質問も埋め込みに変換して、意味が近いチャンクを座標の近さで探す方法",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "意味は分からないけど、固有名詞や型番の「完全一致」に強い",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "犯人2: 固有名詞・型番に弱い",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「XR-200」みたいな型番、これベクトル検索がいちばん苦手なやつです",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでのコツは、",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これがあると、後で「出典を明記する」「製品ごとに絞り込む（＝犯人2の型番問題の予防にもなる）」「親チャンクをたどって前後の文脈を補う」といったことが全部できるようになります",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "次は犯人2（固有名詞・型番に弱い）を退治します",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「XR-200」みたいな型番はBM25がガッチリ拾い、「返品したいんだけど」みたいな言い回しはベクトルが意味で拾う",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1. 中核となる検索キーワード（固有名詞・型番はそのまま残す）",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- 固有名詞・型番が検索で拾える形で残っているか",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "という記事で、検索 (retrieval) 単体の品質をDCG@10などのランキングメトリクスで測る方法を紹介しました",
-    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "つまり、RAG関数をトレースする際に「どこが検索ステップか」をMLflowに認識させておく必要があります",
-    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ポイントは、検索ステップを",
-    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "生成ステップでは、取得した文脈のみに基づいて回答するよう指示します",
-    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "そのためには、RAG関数の検索ステップを",
-    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "原因はチャンク分割・インデックス方法・検索方式・Top Kとスコア閾値・元資料の5か所にほぼ集約されます",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "原因2：インデックス方法と検索方式の選択ミス",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "長い資料をFull Docで入れて後半が答えられない、というのは典型的な落とし穴です",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Difyのインデックス方法には高品質（High Quality）と経済的（Economical）があります",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "：型番・法令名・固有名詞など、文字列一致が重要な資料向き",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Dify公式ドキュメント（インデックス方法と検索設定）",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Difyワークフローの使い方（LLMを組み合わせる手順）",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "編集部で切り分け手順を組み立てるにあたり、改善効果と作業の手間を5点満点で整理しました（数値は実務での体感を指標化したもので、公式の指標ではありません）",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Difyとn8nを連携する手順",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "設定を1つずつ変えて比較する習慣をつければ、別の資料でも同じ手順で立て直せるようになります",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Difyの使い方入門（ノーコードでAIアプリを作る方法）",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bolt.newの使い方｜コードなしでWebアプリを作る手順と実際の限界【2026年版】",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bolt.newでコードなしでWebアプリを作る手順を解説",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "CursorのRules設定の書き方｜AIの精度を上げる指示のコツと落とし穴",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ".cursor/rules（.mdc）の作成手順、Always・Auto Attachedなど4タイプの使い分け、効かないときの対処と失敗しない書き方のコツをまとめました",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "重い検証ステップを足すのではなく、そもそも出典からはみ出せない構造に組み替えた",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "回答を一度生成して、その後で「各文が、ちゃんと根拠に裏付けられているか？」を別ステップでチェックする",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "evidence-first のやり方にはひとつ大事な前提があります",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検索や回答生成のやり方を変えるたびに、本当に良くなったかを何かしら定量的に計測できないと改善のサイクルは回りません",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAGを導入したのに回答精度が上がらない理由｜文書分割・権限・評価の改善方法｜カトルセ",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "理由1：文書の分割方法が適切ではない",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一定文字数で機械的に分割するだけでなく、見出し単位／章・節単位／質問と回答のセット／規定本文と例外条件／表のタイトルと内容／製品名・型番と仕様／業務手順の開始から完了まで、といった構造を考慮します",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製品型番・エラーコード・契約番号・部品番号・プラン名・社内制度の正式名称・固有の略語・人名や部署名などです",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「AB-1200」と「AB-120O」のような型番は、意味的には近く見えても、業務上はまったく別の製品かもしれません",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "意味の近い内容を探す→ベクトル検索／型番や正式名称を探す→キーワード検索／特定部署や年度に絞る→メタデータフィルター／複数結果を並べ替える→リランキング／複雑な質問を分解する→クエリ分解／略語を正式名称に変換する→クエリ書き換え",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば「A商品の2026年度の保証期間と、故障時の申請方法を教えて」という質問には保証規定と申請マニュアルの両方が必要で、一回の検索ではなく質問を複数の検索クエリに分解する設計が必要になることもあります",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、単純に上位のチャンクだけを渡すのではなく、前後の文章や親階層の情報を追加する方法もあります",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検索時には小さな子チャンクを使い、最終的にはより広い親チャンクに置き換える「階層型チャンク」で、検索の細かさと回答に必要な文脈の両立を図る手法もあります",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAGの回答精度を改善する7ステップ",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ7で設定するルールの例：検索結果にない情報は推測しない／根拠となる文書名を表示する／複数の文書が矛盾する場合はその旨を伝える／情報が不足する場合は追加質問を行う／回答できない場合は担当部署を案内する／数値・日付・型番を省略しない／結論・根拠・手順の順に回答する",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "文書の読み取り、メタデータ、検索方法、リランキング、権限、プロンプトも含めて評価する必要があります",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "正解文書が検索結果に含まれるか／キーワード検索とベクトル検索を使い分けているか／型番や固有名詞を正確に検索できるか／メタデータで絞り込めるか／リランキングを行っているか",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "運用設計まで含めて外に出す判断をするなら、発注前に見ておきたいのは進め方と費用の変わり方です",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAG開発の依頼先を探している方向けに、対応領域と進め方をまとめたページ",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、社内規程の「出張費精算」の質問に対して、検索が「休暇申請」や「経費システムの操作手順」だけを渡したとします",
-    "url": "https://www.convergence-lab.com/blog/2026-08-09-rag-retrieval-before-model/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "MicrosoftのRAG設計ガイドでも、意味的に関連する内容を含むチャンクに分割すること、文書の構造に応じた分割方法を選ぶことが重要だと説明されています",
-    "url": "https://www.convergence-lab.com/blog/2026-08-09-rag-retrieval-before-model/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方で、製品型番、契約番号、エラーコード、規程番号、固有の略語など、文字列が完全一致することに意味がある質問では、キーワード検索の方が強い場合があります",
-    "url": "https://www.convergence-lab.com/blog/2026-08-09-rag-retrieval-before-model/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "本記事では具体的な使い方・料金プラン・つまずきやすいポイントと対処法を実際に検証した視点でまとめました",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ローカルLLMで社内PDFを検索できる環境を作り、ここ数回はRAGの精度を検証しています",
-    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "前回までの検証で、少し困った状態になっていました",
-    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "今回の検証では、検索前のクエリ書き換えと、その後のThinkingという、別々の場所に不安定さの原因があることが分かりました",
-    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "引用先を開けず、検証できない",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "答えがない、矛盾している、正式版が不明なら、根拠層の問題です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複数の文書が矛盾する場合は、結論を断定せず、文書名と相違点を示してください",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検索結果、出典表示、回答後の検証、人の承認を組み合わせます",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "回答範囲、根拠表示、答えがない場合、矛盾時の処理に絞ります",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検索だけで解決しようとせず、計算や照合は専用の処理へ任せるほうが安定することがあります",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "古い文書と新しい文書が矛盾する場合は、更新日を優先する",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "まず5〜8件に増やして回答の変化を見るのが手早い検証です",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その RAG、社内規程に「忠実」に答えていますか？ ― 回答を遅くする後追い検証に頼らず、構造で正す",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "重い検証ステップを足すのではなく、そもそも出典からはみ出せない構造に組み替えた",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "後追いの検証はやめた ― 遅くなるし、結局こぼれる",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2. 後追いの検証はやめた ― 遅くなるし、結局こぼれる",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "素直に思いつく対処は、検証（verification）を足すことです",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "最初はこの方向を考えましたが、後追いの検証には2つの弱点がありました",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検証を後段に足すというのは、要するに「回答を作る LLM 呼び出し」のうしろに「検証する LLM 呼び出し」をもう一段ぶら下げるということです",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "しかも回答全体が出そろわないと検証は始められないので、基本は直列",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "後追い検証は「おかしな主張を弾く」ことはできても、「最初からおかしな主張が生まれること」自体は防げません",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "回答より先に根拠への帰属を置くというアイデアは、attributed QA や Chain-of-Verification（CoVe）など、すでに複数の研究で提案・検証されています",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "：検索で得た根拠とユーザーの問いを突き合わせ、「この根拠から、この主張が言える」という",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "後段に重い検証層を足さなくても、捏造をほぼ抑え込めた",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "：回答を作ってから検証するのではなく、根拠を先に確定し、そこから回答を組み立てる（evidence-first）",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "後段に重い検証を積まないので、回答を遅くせずに捏造を抑えられる",
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "古い情報・重複情報・矛盾した情報が増えるほど検索精度が下がる",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ7で設定するルールの例：検索結果にない情報は推測しない／根拠となる文書名を表示する／複数の文書が矛盾する場合はその旨を伝える／情報が不足する場合は追加質問を行う／回答できない場合は担当部署を案内する／数値・日付・型番を省略しない／結論・根拠・手順の順に回答する",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "で、要件整理・検証・本番化の各段階と期間の目安を公開しています",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "ローカルLLMで社内PDFを検索できる環境を作り、ここ数回はRAGの精度を検証しています",
-    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "人間がPDFを見れば、迷うような質問ではありません",
-    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "最初に就業規則を読ませたときは、PDFに書いてある始業時刻すらまともに答えてくれませんでした",
-    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "よくあるのは、共有フォルダの一部だけを取り込んだ、PDFは入っているが社内Wikiは対象外、添付資料を取得していない、といった状態です",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDFの見た目では隣にある表や注記が、抽出後のテキストでは離れていることもあります",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDFの表、注記、画像が正しく抽出されている",
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "：古い文書、重複、表、PDF、権限、版数は整理されているか",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDFや規程文書では、ページ番号・章番号をメタデータ化する",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一次情報から言えるのは、RAG評価と運用の実務化が急速に進んでいるということです",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方で、これらの一次情報が示しているのは「すべてのRAGを高度化せよ」という話ではありません",
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "（例：PDF100ページ → 500文字ずつのブロックに切り分け）",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDFから抽出したテキストには、ゴミが混じっていることが多い",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDFからのテキスト抽出には、精度の高いライブラリ（pymupdf、pdfplumber）を使う",
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "XR-200_manual.pdf",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スキャンした画像だけのPDF、図版に文字が埋め込まれた資料、複雑な結合セルを含む表は、取り込めてもチャンクの中身が空に近くなります",
-    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "文書分割・PDF読み取り・鮮度・検索方式・権限・リランキング・評価を",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAGでは、PDFやWord、社内マニュアルなどを、そのまま検索するわけではありません",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "理由2：PDFや表を正しく読み取れていない",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "システム上は登録済みでも、PDFの読み取り順序が崩れている／2段組みの文章が混ざっている／表の行と列の関係が失われている／ヘッダーやフッターが本文に混入している／スキャンPDFを文字として認識できていない／図表内の重要情報が欠落している／箇条書きの階層構造が失われている、という状態になっていることがあります",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "登録文書は最新版か／古い・重複文書が残っていないか／PDFや表を正しく読み取れているか／管理責任者が決まっているか／公開日・改訂日が設定されているか",
-    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDF、表、スキャン画像、複数段組の文書は、テキスト抽出の時点で崩れることがあります",
-    "url": "https://www.convergence-lab.com/blog/2026-08-09-rag-retrieval-before-model/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "結果から言うと、原因の一つは意外なところにありました",
@@ -1489,6 +595,766 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "本記事では具体的な使い方・料金プラン・つまずきやすいポイントと対処法を実際に検証した視点でまとめました",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ローカルLLMで社内PDFを検索できる環境を作り、ここ数回はRAGの精度を検証しています",
+    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "前回までの検証で、少し困った状態になっていました",
+    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "今回の検証では、検索前のクエリ書き換えと、その後のThinkingという、別々の場所に不安定さの原因があることが分かりました",
+    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "引用先を開けず、検証できない",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "答えがない、矛盾している、正式版が不明なら、根拠層の問題です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の文書が矛盾する場合は、結論を断定せず、文書名と相違点を示してください",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検索結果、出典表示、回答後の検証、人の承認を組み合わせます",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "回答範囲、根拠表示、答えがない場合、矛盾時の処理に絞ります",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検索だけで解決しようとせず、計算や照合は専用の処理へ任せるほうが安定することがあります",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "古い文書と新しい文書が矛盾する場合は、更新日を優先する",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まず5〜8件に増やして回答の変化を見るのが手早い検証です",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その RAG、社内規程に「忠実」に答えていますか？ ― 回答を遅くする後追い検証に頼らず、構造で正す",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重い検証ステップを足すのではなく、そもそも出典からはみ出せない構造に組み替えた",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "後追いの検証はやめた ― 遅くなるし、結局こぼれる",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2. 後追いの検証はやめた ― 遅くなるし、結局こぼれる",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "素直に思いつく対処は、検証（verification）を足すことです",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最初はこの方向を考えましたが、後追いの検証には2つの弱点がありました",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検証を後段に足すというのは、要するに「回答を作る LLM 呼び出し」のうしろに「検証する LLM 呼び出し」をもう一段ぶら下げるということです",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかも回答全体が出そろわないと検証は始められないので、基本は直列",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "後追い検証は「おかしな主張を弾く」ことはできても、「最初からおかしな主張が生まれること」自体は防げません",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "回答より先に根拠への帰属を置くというアイデアは、attributed QA や Chain-of-Verification（CoVe）など、すでに複数の研究で提案・検証されています",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：検索で得た根拠とユーザーの問いを突き合わせ、「この根拠から、この主張が言える」という",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "後段に重い検証層を足さなくても、捏造をほぼ抑え込めた",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：回答を作ってから検証するのではなく、根拠を先に確定し、そこから回答を組み立てる（evidence-first）",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "後段に重い検証を積まないので、回答を遅くせずに捏造を抑えられる",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "古い情報・重複情報・矛盾した情報が増えるほど検索精度が下がる",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ7で設定するルールの例：検索結果にない情報は推測しない／根拠となる文書名を表示する／複数の文書が矛盾する場合はその旨を伝える／情報が不足する場合は追加質問を行う／回答できない場合は担当部署を案内する／数値・日付・型番を省略しない／結論・根拠・手順の順に回答する",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "で、要件整理・検証・本番化の各段階と期間の目安を公開しています",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "2026年最新のおすすめ拡張機能10選と料金、仕事を効率化する使い方を解説します",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Claude Codeの使い方｜始め方からつまずき対処・料金の選び方まで",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Claude Codeの使い方を初心者向けに解説",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Windsurf IDEの使い方｜Cursorとの違いと日本語設定のポイント",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "※RAG製品の検索方法、分割方法、権限、同期、評価機能は異なり、仕様も変わります",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本記事は特定製品の障害対応手順ではなく、中小企業が原因を整理するための一般的な実務手順です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIよろず室では、この順序で調べる方法を「RAG故障診断・5層」と呼んでいます",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この場合は、回答指示、渡す文脈の量、モデル、出力形式、人の確認方法を見直します",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIへ登録する文書の選び方は、RAG導入判断記事からつながる文書整理手順で確認できます",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "暗黙知しかない場合は、担当者への聞き取りから、業務責任者が確認した手順へ変えます",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAGの回答精度が上がらない原因は？検索・データ・生成を見直す改善手順【2026年8月最新】｜株式会社AIworker",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAGの回答精度が上がらない原因は？検索・データ・生成を見直す改善手順【2026年8月最新】",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "精度が出ない原因を工程別に切り分け、改善前後を同じ条件で比較する方法",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "必要な文書が登録されていなければ、検索方法を変えても正解には届きません",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そのため、企業内検索では次の方法を比較します",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原因6｜回答指示が検索結果の使い方を定めていない",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業務によっては、RAG以外の方法が適しています",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データ抽出、複雑な権限、検索基盤、評価自動化まで関わる場合は、外部支援を使いながら社内へ手順と判断基準を残す方法が現実的です",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "利用者向けには、質問の作り方、出典の確認、誤回答を見つけたときの報告方法を扱います",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研修後も、確認手順と評価用のひな型が社内に残る形にします",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "構成と評価方法を文書化し、社内で改善を続けられる状態を目指します",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「RAGへ資料を入れたのに回答が安定しない」「PoCを本番へ進めてよいか判断できない」「ベンダーへ何を修正依頼すればよいか分からない」という場合は、現在の質問、検索結果、回答、参照データ、権限、評価方法を確認し、最初に直す工程を整理します",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PMやCxOには「投資判断の材料」、エンジニアには「明日から使える診断手順」を提供する構成です",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2024〜2026年にかけて、RagasやDeepEvalなどのRAG評価フレームワークが整備され、「評価せずに改善する」こと自体がリスクになりつつあります",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "型番、固有名詞、規程番号を取りこぼす",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2026年時点では、Ragasで評価指標やゴールデンデータセットを設計し、DeepEvalのようなpytestライクな評価フレームワークでCI/CDに組み込む、という併用パターンも広がっています",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "型番、規程番号、固有名詞を取りこぼす",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ベクトル検索は、意味的に近い文書を探すのに強い一方、型番、規程番号、製品コード、顧客名などの完全一致検索には弱い場合があります",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製品型番や規程番号を取りこぼす場合は、キーワード検索を併用する",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RagasはQuick Startで評価プロジェクトを生成する流れを整備し、DeepEvalはpytest型の評価実行やCI/CD統合を前面に出しています",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本記事では、RAGの精度が出ない原因を、評価指標と工程別に切り分ける方法を解説しました",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "③ Step-Back Prompting",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「製品Xのバグ修正方法」→「製品Xのアーキテクチャ」で検索することで、",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "評価方法：LLMに「このチャンクはこの質問に関連していますか？」と採点させる",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "評価方法：LLMに「この回答はこのチャンクから導けますか？」と採点させる",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "評価方法：LLMに「この回答は質問に答えていますか？」と採点させる",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAGASというオープンソースフレームワークを使うと、これらの指標を自動計算できる",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "もうちょっと分解すると、RAGは3ステップで動いています",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "— 質問も埋め込みに変換して、意味が近いチャンクを座標の近さで探す方法",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "意味は分からないけど、固有名詞や型番の「完全一致」に強い",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "犯人2: 固有名詞・型番に弱い",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「XR-200」みたいな型番、これベクトル検索がいちばん苦手なやつです",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでのコツは、",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これがあると、後で「出典を明記する」「製品ごとに絞り込む（＝犯人2の型番問題の予防にもなる）」「親チャンクをたどって前後の文脈を補う」といったことが全部できるようになります",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次は犯人2（固有名詞・型番に弱い）を退治します",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「XR-200」みたいな型番はBM25がガッチリ拾い、「返品したいんだけど」みたいな言い回しはベクトルが意味で拾う",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1. 中核となる検索キーワード（固有名詞・型番はそのまま残す）",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 固有名詞・型番が検索で拾える形で残っているか",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "という記事で、検索 (retrieval) 単体の品質をDCG@10などのランキングメトリクスで測る方法を紹介しました",
+    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "つまり、RAG関数をトレースする際に「どこが検索ステップか」をMLflowに認識させておく必要があります",
+    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ポイントは、検索ステップを",
+    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成ステップでは、取得した文脈のみに基づいて回答するよう指示します",
+    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そのためには、RAG関数の検索ステップを",
+    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原因はチャンク分割・インデックス方法・検索方式・Top Kとスコア閾値・元資料の5か所にほぼ集約されます",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原因2：インデックス方法と検索方式の選択ミス",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "長い資料をFull Docで入れて後半が答えられない、というのは典型的な落とし穴です",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Difyのインデックス方法には高品質（High Quality）と経済的（Economical）があります",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：型番・法令名・固有名詞など、文字列一致が重要な資料向き",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Dify公式ドキュメント（インデックス方法と検索設定）",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Difyワークフローの使い方（LLMを組み合わせる手順）",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "編集部で切り分け手順を組み立てるにあたり、改善効果と作業の手間を5点満点で整理しました（数値は実務での体感を指標化したもので、公式の指標ではありません）",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Difyとn8nを連携する手順",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設定を1つずつ変えて比較する習慣をつければ、別の資料でも同じ手順で立て直せるようになります",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Difyの使い方入門（ノーコードでAIアプリを作る方法）",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bolt.newの使い方｜コードなしでWebアプリを作る手順と実際の限界【2026年版】",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bolt.newでコードなしでWebアプリを作る手順を解説",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "CursorのRules設定の書き方｜AIの精度を上げる指示のコツと落とし穴",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ".cursor/rules（.mdc）の作成手順、Always・Auto Attachedなど4タイプの使い分け、効かないときの対処と失敗しない書き方のコツをまとめました",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重い検証ステップを足すのではなく、そもそも出典からはみ出せない構造に組み替えた",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "回答を一度生成して、その後で「各文が、ちゃんと根拠に裏付けられているか？」を別ステップでチェックする",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "evidence-first のやり方にはひとつ大事な前提があります",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検索や回答生成のやり方を変えるたびに、本当に良くなったかを何かしら定量的に計測できないと改善のサイクルは回りません",
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAGを導入したのに回答精度が上がらない理由｜文書分割・権限・評価の改善方法｜カトルセ",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "理由1：文書の分割方法が適切ではない",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一定文字数で機械的に分割するだけでなく、見出し単位／章・節単位／質問と回答のセット／規定本文と例外条件／表のタイトルと内容／製品名・型番と仕様／業務手順の開始から完了まで、といった構造を考慮します",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製品型番・エラーコード・契約番号・部品番号・プラン名・社内制度の正式名称・固有の略語・人名や部署名などです",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「AB-1200」と「AB-120O」のような型番は、意味的には近く見えても、業務上はまったく別の製品かもしれません",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "意味の近い内容を探す→ベクトル検索／型番や正式名称を探す→キーワード検索／特定部署や年度に絞る→メタデータフィルター／複数結果を並べ替える→リランキング／複雑な質問を分解する→クエリ分解／略語を正式名称に変換する→クエリ書き換え",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「A商品の2026年度の保証期間と、故障時の申請方法を教えて」という質問には保証規定と申請マニュアルの両方が必要で、一回の検索ではなく質問を複数の検索クエリに分解する設計が必要になることもあります",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、単純に上位のチャンクだけを渡すのではなく、前後の文章や親階層の情報を追加する方法もあります",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検索時には小さな子チャンクを使い、最終的にはより広い親チャンクに置き換える「階層型チャンク」で、検索の細かさと回答に必要な文脈の両立を図る手法もあります",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAGの回答精度を改善する7ステップ",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ7で設定するルールの例：検索結果にない情報は推測しない／根拠となる文書名を表示する／複数の文書が矛盾する場合はその旨を伝える／情報が不足する場合は追加質問を行う／回答できない場合は担当部署を案内する／数値・日付・型番を省略しない／結論・根拠・手順の順に回答する",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文書の読み取り、メタデータ、検索方法、リランキング、権限、プロンプトも含めて評価する必要があります",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "正解文書が検索結果に含まれるか／キーワード検索とベクトル検索を使い分けているか／型番や固有名詞を正確に検索できるか／メタデータで絞り込めるか／リランキングを行っているか",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "運用設計まで含めて外に出す判断をするなら、発注前に見ておきたいのは進め方と費用の変わり方です",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAG開発の依頼先を探している方向けに、対応領域と進め方をまとめたページ",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、社内規程の「出張費精算」の質問に対して、検索が「休暇申請」や「経費システムの操作手順」だけを渡したとします",
+    "url": "https://www.convergence-lab.com/blog/2026-08-09-rag-retrieval-before-model/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "MicrosoftのRAG設計ガイドでも、意味的に関連する内容を含むチャンクに分割すること、文書の構造に応じた分割方法を選ぶことが重要だと説明されています",
+    "url": "https://www.convergence-lab.com/blog/2026-08-09-rag-retrieval-before-model/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方で、製品型番、契約番号、エラーコード、規程番号、固有の略語など、文字列が完全一致することに意味がある質問では、キーワード検索の方が強い場合があります",
+    "url": "https://www.convergence-lab.com/blog/2026-08-09-rag-retrieval-before-model/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "プロンプトのコツ・無料プランの制限（50クレジット/日・商用不可）・Proプラン料金比較・よくある失敗まで、実際に試してわかったことをまとめた",
@@ -1994,392 +1860,222 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "ローカルLLMで社内PDFを検索できる環境を作り、ここ数回はRAGの精度を検証しています",
+    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人間がPDFを見れば、迷うような質問ではありません",
+    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "最初に就業規則を読ませたときは、PDFに書いてある始業時刻すらまともに答えてくれませんでした",
+    "url": "https://note.com/naoyuki_fujita/n/ne74a9fe6682b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "よくあるのは、共有フォルダの一部だけを取り込んだ、PDFは入っているが社内Wikiは対象外、添付資料を取得していない、といった状態です",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFの見た目では隣にある表や注記が、抽出後のテキストでは離れていることもあります",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFの表、注記、画像が正しく抽出されている",
+    "url": "https://note.com/ai__worker/n/n139e4f11e738",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：古い文書、重複、表、PDF、権限、版数は整理されているか",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFや規程文書では、ページ番号・章番号をメタデータ化する",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一次情報から言えるのは、RAG評価と運用の実務化が急速に進んでいるということです",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方で、これらの一次情報が示しているのは「すべてのRAGを高度化せよ」という話ではありません",
+    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "（例：PDF100ページ → 500文字ずつのブロックに切り分け）",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFから抽出したテキストには、ゴミが混じっていることが多い",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFからのテキスト抽出には、精度の高いライブラリ（pymupdf、pdfplumber）を使う",
+    "url": "https://note.com/rally_ai/n/n91367ab099aa",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "XR-200_manual.pdf",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンした画像だけのPDF、図版に文字が埋め込まれた資料、複雑な結合セルを含む表は、取り込めてもチャンクの中身が空に近くなります",
+    "url": "https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文書分割・PDF読み取り・鮮度・検索方式・権限・リランキング・評価を",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAGでは、PDFやWord、社内マニュアルなどを、そのまま検索するわけではありません",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "理由2：PDFや表を正しく読み取れていない",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "システム上は登録済みでも、PDFの読み取り順序が崩れている／2段組みの文章が混ざっている／表の行と列の関係が失われている／ヘッダーやフッターが本文に混入している／スキャンPDFを文字として認識できていない／図表内の重要情報が欠落している／箇条書きの階層構造が失われている、という状態になっていることがあります",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "登録文書は最新版か／古い・重複文書が残っていないか／PDFや表を正しく読み取れているか／管理責任者が決まっているか／公開日・改訂日が設定されているか",
+    "url": "https://catorce.jp/st/knowledge-rag-accuracy",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF、表、スキャン画像、複数段組の文書は、テキスト抽出の時点で崩れることがあります",
+    "url": "https://www.convergence-lab.com/blog/2026-08-09-rag-retrieval-before-model/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
  "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/ocaml/n/n505db5d67548",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/dakudhigura/n/n69f40c701fb3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ai__worker/n/n139e4f11e738",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jun_ichikawa/n/n2e7bcc50af07",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ai_remote_worker/n/n9cf296f6f742",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/rally_ai/n/n91367ab099aa",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/snake_dragon/n/n7c8dec16b221",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.msiism.jp/article/rag.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hitachi-solutions.co.jp/katsubun/column/generative_ai003/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-666.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.fronteo.com/ai-learning/about-rag",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.alpha.co.jp/blog/202504_01/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sophiate.co.jp/rag%e3%81%ae%e6%a4%9c%e7%b4%a2%e6%96%b9%e5%bc%8f%ef%bc%88%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89-%e3%83%99%e3%82%af%e3%83%88%e3%83%ab-%e3%83%8f%e3%82%a4%e3%83%96%e3%83%aa%e3%83%83%e3%83%89/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ilujapan/n/na2d767631153",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dev.classmethod.jp/articles/rag-knowledge-on-real-projects/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://t-cr.jp/article/vgg1jc2tilpnwcv",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/yomogi_enginner/items/81240b6730088051f1af",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.info-brdg.co.jp/column/column_7.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8361807/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://link.springer.com/article/10.1186/s40537-019-0254-8",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-05",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.researchgate.net/publication/351689919_Data_extraction_methods_for_systematic_review_semiautomation_A_living_systematic_review_version_1_peer_review_3_approved",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://dl.acm.org/doi/full/10.1145/3815119",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tandfonline.com/doi/full/10.1080/01615440.2025.2512744",
-    "status": "http_403",
-    "method": "http"
-   }
-  ]
+  "pass3": []
  },
  "search_log": [
   {
    "query": "空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録） site:note.com",
-   "results": [
-    "https://note.com/ocaml/n/n505db5d67548",
-    "https://note.com/dakudhigura/n/n69f40c701fb3",
-    "https://note.com/ai__worker/n/n139e4f11e738",
-    "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "https://note.com/jun_ichikawa/n/n2e7bcc50af07",
-    "https://note.com/ai_remote_worker/n/n9cf296f6f742",
-    "https://note.com/selvanakayama/n/nb98248d3483a",
-    "https://note.com/witty_weasel4527/n/n3a6755475d7f",
-    "https://note.com/stock_value0407/n/n99d81a7b307c"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録） note",
-   "results": [
-    "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "https://note.com/rally_ai/n/n91367ab099aa",
-    "https://aws.amazon.com/jp/builders-flash/202504/way-to-succeed-rag-project-2/",
-    "https://zenn.dev/microsoft/articles/rag_textbook",
-    "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "https://note.com/snake_dragon/n/n7c8dec16b221",
-    "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "https://dev.classmethod.jp/articles/why-rag-fails-graph-perspective/",
-    "https://note.com/ai__worker/n/n139e4f11e738"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録） やり方",
-   "results": [
-    "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "https://zenn.dev/microsoft/articles/rag_textbook",
-    "https://www.msiism.jp/article/rag.html",
-    "https://aws.amazon.com/jp/blogs/news/a-practical-guide-to-improve-rag-systems-with-advanced-rag-on-aws/",
-    "https://www.hitachi-solutions.co.jp/katsubun/column/generative_ai003/",
-    "https://business.ntt-east.co.jp/content/cloudsolution/column-666.html",
-    "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "https://www.fronteo.com/ai-learning/about-rag",
-    "https://www.alpha.co.jp/blog/202504_01/",
-    "https://note.com/ai__worker/n/n139e4f11e738"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録） 事例",
-   "results": [
-    "https://www.msiism.jp/article/rag.html",
-    "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "https://zenn.dev/microsoft/articles/rag_textbook",
-    "https://aws.amazon.com/jp/builders-flash/202504/way-to-succeed-rag-project-2/",
-    "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
-    "https://business.ntt-east.co.jp/content/cloudsolution/column-666.html",
-    "https://www.fronteo.com/ai-learning/about-rag",
-    "https://note.com/ilujapan/n/na2d767631153",
-    "https://dev.classmethod.jp/articles/rag-knowledge-on-real-projects/",
-    "https://note.com/aiyoroz/n/nbe2e49bb97c1"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "diagnosing empty search results retrieval vs extraction failure data journalism data diary",
-   "results": [
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8361807/",
-    "https://link.springer.com/article/10.1186/s40537-019-0254-8",
-    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-05",
-    "https://www.researchgate.net/publication/351689919_Data_extraction_methods_for_systematic_review_semiautomation_A_living_systematic_review_version_1_peer_review_3_approved",
-    "https://dl.acm.org/doi/full/10.1145/3815119",
-    "https://www.tandfonline.com/doi/full/10.1080/01615440.2025.2512744",
-    "https://people.cs.umass.edu/~mccallum/papers/TableExtraction-irj06.pdf",
-    "https://guides.library.cornell.edu/evidence-synthesis/data-extraction",
-    "https://gijn.org/resource/free-game-changing-data-extraction-tools-that-require-no-coding-skills/",
-    "https://quarro.org/blog/intranet-search-empty-results-diagnosis/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:note.com 空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）",
-   "results": [
-    "https://note.com/ayako_iuchi/n/n8037e069dd84",
-    "https://note.com/kunugiyama123/n/n6f8a83258032",
-    "https://note.com/ocaml/n/n2c027478b941",
-    "https://note.com/nice_macaw601/n/n711145c7c539",
-    "https://note.com/ezuremanagement/n/ne844b7c1197b",
-    "https://note.com/dakudhigura/n/n69f40c701fb3",
-    "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "https://note.com/ai__worker/n/n139e4f11e738",
-    "https://note.com/jun_ichikawa/n/n2e7bcc50af07",
-    "https://note.com/witty_weasel4527/n/n3a6755475d7f"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 13
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:x.com 空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）",
-   "results": [
-    "https://help.x.com/ja/using-x/top-search-results-faqs",
-    "https://help.x.com/ja/using-x/x-advanced-search",
-    "https://x.com/keita_roboin/status/2028015763328778593",
-    "https://x.com/1yuno239121/status/2116877921348632617",
-    "https://help.x.com/ja/using-x/x-search-not-working",
-    "https://x.com/BPM650EX/article/2065300005767066096",
-    "https://help.x.com/ja/rules-and-policies/x-search-policies"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）",
-   "results": [
-    "https://jp.linkedin.com/pulse/linkedin検索を攻略人企業投稿の効率的な探し方とコツを整理-嘉一-中島-h75hc",
-    "https://jp.linkedin.com/pulse/linkedin検索で1000件以上の検索結果にアクセスする方法-riku-hamaguchi",
-    "https://sa.linkedin.com/company/scbcsa",
-    "https://jp.linkedin.com/learning/learning-linkedin-recruiter-2025/4030434",
-    "https://www.linkedin.com/help/linkedin/answer/a525054?lang=ja",
-    "https://www.linkedin.com/help/learning/answer/a1376045?lang=ja-JP",
-    "https://cn.linkedin.com/posts/leo-chiang_上週四的-webinar我聚焦在一個常被忽略的問題-多數團隊導入-ai-之後-activity-7500101944359702529-5F0d"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）",
-   "results": [
-    "https://www.facebook.com/knd.sayaka/photos/アメブロ新機能検索強化サポートの神活用術ブログ書こうと思ってアメブロの新規作成画面を開いたら-なんだか見慣れない項目が目に入ってフリーズ-最近-検索強化サポート/1277782570368258/",
-    "https://www.facebook.com/zhong.c.yifu/posts/2026512地方衰退の一番の原因は人口減少ではない山口の超富裕層が住民税43億円をまるっと抱えて移住した理由お名前はジェームズ文護さん齋藤文護齋藤james文/28191257917126486/",
-    "https://www.facebook.com/reel/1796373151049338/",
-    "https://www.facebook.com/reel/1957169018549640/",
-    "https://www.facebook.com/marukurashi/videos/更に取れないやり方は本文に書いてます便利かわいいアイテムでモチベあげたいまるママです𓂃𓈒𓏸𓍯保育園準備みんなもう始めてる正直準備するだけでも大変だけど1番大変だ/1237197347985716/",
-    "https://www.facebook.com/rishougakkai/posts/4h4tで原因検索心停止のアセスメントポイント好評発売中の新刊書籍あなたの心にビビッと届く臨床心電図判読上達ハートフルガイドbook本の中では万が一急変に遭遇し/2198082750350682/",
-    "https://www.facebook.com/100064438849199/photos/祈りは通じるアメリカの研究でこんな実験がありました末期がん患者を無作為に選んでａとｂの２つのグループに分けます彼らから遠く離れたところに住む１０人の健康な人にａ/1469476415210306/"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録） note 社長",
-   "results": [
-    "https://note.com/ai__worker/n/n139e4f11e738",
-    "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "https://aws.amazon.com/jp/builders-flash/202504/way-to-succeed-rag-project-2/",
-    "https://note.com/snake_dragon/n/n7c8dec16b221",
-    "https://www.msiism.jp/article/rag.html",
-    "https://zenn.dev/microsoft/articles/rag_textbook",
-    "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "https://officebot.jp/columns/basic-knowledge/rag-assignment/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録） X 投稿",
-   "results": [
-    "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
-    "https://zenn.dev/microsoft/articles/rag_textbook",
-    "https://aws.amazon.com/jp/blogs/news/a-practical-guide-to-improve-rag-systems-with-advanced-rag-on-aws/",
-    "https://qiita.com/taka_yayoi/items/2aec55e33bbb85a6d947",
-    "https://techtarget.itmedia.co.jp/tt/article/2610/22/2000002478/",
-    "https://business.ntt-east.co.jp/content/cloudsolution/column-661.html",
-    "https://jp.linkedin.com/pulse/why-rag-failing-shift-from-retrieval-ai-reasoning-mirko-peters-bbtle?tl=ja",
-    "https://www.alpha.co.jp/blog/202504_01/",
-    "https://note.com/ilujapan/n/na2d767631153",
-    "https://note.com/aiyoroz/n/nbe2e49bb97c1"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "diagnosing empty search results retrieval vs extraction failure data journalism data diary site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/posts/douglasflora_a-scalable-method-for-validated-data-extraction-activity-7516221025961857024-lOla",
-    "https://www.linkedin.com/pulse/ai-driven-knowledge-mining-from-dark-data-archives-andre-e8gfe",
-    "https://www.linkedin.com/in/deirdrekerr",
-    "https://www.linkedin.com/in/samin-poudel",
-    "https://ch.linkedin.com/in/pmarc",
-    "https://www.linkedin.com/in/hanlinmok",
-    "https://www.linkedin.com/in/soheilmoosavi",
-    "https://de.linkedin.com/in/msanabid",
-    "https://es.linkedin.com/in/martin-krallinger-85495920",
-    "https://www.linkedin.com/posts/adil-rashid-lone_september-2026-seo-news-and-google-algorithm-activity-7503686518981505025-2_wS"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-07T02:56:00.633797+00:00"
 }

@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・260品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・262品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -9939,9 +9939,9 @@
   - 「A decision log serves a different purpose. It documents the decisions made in response to those risks, assumptions, or issues. For example, a risk entry may identify a potential vendor delay, while the decision log records the final decision to switch vendors or adjust timelines.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
   - 「What is a bug life cycle? Stages, workflow, and examples」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
   - 「Every team, every use case,」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）（diagnosing empty search results retrieval vs extraction failure data journalism data diary）
 - 文脈：手法
@@ -14195,11 +14195,63 @@
 
 ## 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）（Statistics Commission Japan consultation report survey change discontinuation sampling frame）
 - 文脈：統計の読み方
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：
+  - 「statistical source data used to compile GDP and compilation method of GDP , as well as the revision of the」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「3 A case in which changes in the method of estimate in the operation manual, which is directly related to」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「framework of the basic structure concerning the benchmark year of SUT and the Input-」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「8 It aims to improve the capability of the enterprises by deploying and applying various methodologies」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「birthrate, aging and declining population, take steps toward a decarbonized society in」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「production methods more efficient and reducing the burden on respondents, as well as aim」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「compilation methods of the National Accounts, and transform the Input-Output Tables and」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「as improving the consistency of estimation methods for the benchmark and intermediate」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「improvement of compilation methods, the government improved the Integrated Statistics」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「to the transition to the SUT system, the government compiled the general framework for」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「of the 2015 Input-Output Tables, and the like. All of these are significant steps forward.」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「efforts are needed to improve source statistics and compilation methods, and the」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「compilation methods in QE and annual estimate, the seamless use of compilation methods,」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「seamless approach to the sectors and estimation methods for SUT, including improvements」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「learned and hints for new compilation methods can be obtained from these responses.」（https://www.soumu.go.jp/main_content/000977405.pdf）
+- 突き合わせ・推定：
+  - 「3 A case in which changes in the method of estimate in the operation manual, which is directly related to」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「on Construction Works, enhanced the Quarterly Estimate of GDP (hereafter referred to as」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「“QE”) and annual estimate, published the Quarterly National Accounts for Value Added by」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「Economic Activity QNA by production approach in addition to the Quarterly Estimates of」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「compensation of employees in annual estimates and enhancing the accuracy of deflators,」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「compilation methods in QE and annual estimate, the seamless use of compilation methods,」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「allocation ratios for some items in annual estimates). In the short term, securing and」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「improving the accuracy of the current estimate is the primary goal to be achieved for these」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「the accuracy of estimates, not only in crisis response but also in normal times.」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「and intermediate year estimates, including in areas that have not yet made their use. In」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「input survey are necessary for the SUT estimate of the benchmark year.」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「the basis for the benchmark year and intermediate year estimates in the National Accounts,」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「method of estimate for the National Accounts, an important factor is to publish source」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「addition to the necessity in the estimate of the National Accounts with regard to the early」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「seamless connection between QE and annual estimates to improve the accuracy of the」（https://www.soumu.go.jp/main_content/000977405.pdf）
+- 一次情報の探し方：
+  - 「referred to as “ e-Stat”) are being enhanced. During the spread of the novel coronavirus」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「In particular, the government shall continue to address such issues related to e-Stat, the」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「by creating a database on the e-Stat in May 2019. In addition, the government expanded」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「statistical data into e-Stat to realize the one-stop services, expand data provision in machine-」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「continuously promote consolidation to e-Stat and expansion of data provision in machine-」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「the user interface of e-Stat, enhance metadata development, and add a data catalog function,」（https://www.soumu.go.jp/main_content/000977405.pdf）
+- 失敗・落とし穴：
+  - 「characteristics including data bias, and the progress of digitalization. These efforts shall be」（https://www.soumu.go.jp/main_content/000977405.pdf）
+- 実例：
+  - 「In addition, during the period of the 3rd Term Master Plan, two inappropriate cases」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「measures have been taken to address these cases. In other words, in response to the decline」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「inappropriate case1F」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「Furthermore, in December 2021, it was found that there had been an inappropriate case2F」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「2 A case in which a survey design was changed without sufficient consideration and the change was not」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「3 A case in which changes in the method of estimate in the operation manual, which is directly related to」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「the case of the Monthly Labour Survey, there was no action taken or information provided to minimize」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「In this regard, following the revision of the Statistics Act in 2018, for example, the」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「Here are the main examples. In relation to the development of source statistics and」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「However, in the case of the National Accounts, which are processed statistics, constant」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「attention should be paid to the priority for each of them. For example, it is not realistic to」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「through mutual feedback. For example, it is important to further promote the use of the」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「cases, it is necessary to conduct constant research on how to deal with cases where there is」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「said to be at a halfway stage, unlike the manufacturing industry. For example, monthly」（https://www.soumu.go.jp/main_content/000977405.pdf）
+  - 「along with among ministries by, for example, uniformly conducting the Survey of Research」（https://www.soumu.go.jp/main_content/000977405.pdf）
 
 ## 買い手側の一次調査の実務（専門家への聞き取りの選び方・肩書きでなく担当範囲・意見より事実・辞めた経緯の偏り・In Practise の書き起こし）（buy-side primary research expert calls vetting by responsibility facts over opinions In Practise fieldwork）
 - 文脈：聞き取り・評価
@@ -14683,6 +14735,22 @@
   - 「trade adjustment in recent years. For example, in 2008 about 15 percent of the firms reassigned from」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 出どころどうしの値が割れたときに平均せず赤信号にする実務（会社データの照合・人数の割れの閾値・期待される記録の欠け・確かさの帯で人の確認に回す・4-114）（firmographic data conflicting sources do not average red flag headcount discrepancy threshold expected missing data）
+- 文脈：検証
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114）（independent study accuracy of company industry classification and employee counts databases small firms coverage）
+- 文脈：探し先
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

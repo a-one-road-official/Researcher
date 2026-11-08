@@ -1,0 +1,420 @@
+{
+ "name": "数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113）",
+ "en": "Getstats number hygiene rules explained in full Royal Statistical Society journalists",
+ "aliases": [
+  "12 number hygiene rules explained in full",
+  "Royal Statistical Society getstats journalists numeracy",
+  "記者 数字 チェックリスト 統計 誤用",
+  "データ報道 数字の点検 手順"
+ ],
+ "context": "検証",
+ "kind": "market",
+ "researched_at": "2026-11-08T21:47:55.658169+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/cool_boar7891/n/nbcb053765785",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dr_a_1/n/n692152ed028e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jpss4691/n/nd9a48c275d69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%AE%A2%E8%A6%B3%E7%9A%84%E3%83%87%E3%83%BC%E3%82%BF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jpss4691/n/nd1a4bd6c0700",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tamakitext/n/ne2b7e083e2d0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/noted_zebra6105/n/na5397b4334b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genba00/n/nee1f9a774b95",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/apt_oriole1681/n/nacba427d5e78",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yukistudy_brain/n/n6981254f88bd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eiseikanri2/n/n0e4454c36ef4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/study_room358/n/n87141aaedd4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anzeninfo.mhlw.go.jp/yougo/yougo24_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goukaku-drill.com/eisei/dai1/houki-kouryaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eisei-study.com/kankeihourei-suuchi-matome/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eisei-goukaku.com/health-officer-hazardous-work/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93%E5%89%87",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/totikensangyo/const/content/001603865.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fc-soft.jp/media/useful_info/a93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zentsuken.net/journal/file/173_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/143684.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ideal_zephyr3268/n/nb9c2280afeae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eisei-study.com/kankeihourei-oboekata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rss.org.uk/resources/resources-for-journalists/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nasw.org/article/statistics-journalism-handle-care",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dr.lib.iastate.edu/server/api/core/bitstreams/2a4e633c-395e-48d5-b83d-18d416c8173e/content",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://journalistsresource.org/wp-content/uploads/2015/03/CIJ_Statistics_for_Journalists_26_05_11.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gijn.org/stories/5-things-journalists-need-to-know-about-statistical-significance/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://statslaw.wordpress.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113） site:note.com",
+   "results": [
+    "https://note.com/cool_boar7891/n/nbcb053765785",
+    "https://note.com/dr_a_1/n/n692152ed028e",
+    "https://note.com/jpss4691/n/nd9a48c275d69",
+    "https://note.com/tag/%E5%AE%A2%E8%A6%B3%E7%9A%84%E3%83%87%E3%83%BC%E3%82%BF",
+    "https://note.com/jpss4691/n/nd1a4bd6c0700",
+    "https://note.com/tamakitext/n/ne2b7e083e2d0",
+    "https://note.com/jpss4691/n/n73024047b8d2",
+    "https://note.com/jpss4691/n/nb19fd2e94f6d",
+    "https://note.com/jpss4691/n/n544ed6eca93a",
+    "https://note.com/jpss4691/n/n5ca31a6fece1"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113） note",
+   "results": [
+    "https://note.com/noted_zebra6105/n/na5397b4334b7",
+    "https://note.com/genba00/n/nee1f9a774b95",
+    "https://note.com/apt_oriole1681/n/nacba427d5e78",
+    "https://note.com/yukistudy_brain/n/n6981254f88bd",
+    "https://note.com/eiseikanri2/n/n0e4454c36ef4",
+    "https://note.com/study_room358/n/n87141aaedd4a",
+    "https://www.mhlw.go.jp/content/000539604.pdf",
+    "https://note.com/ideal_zephyr3268/n/ndb21df588f40",
+    "https://note.com/eisei_ai_channel/n/nfe699a48e991",
+    "https://www.pakunote.com/library/daiisshu-eisei-kanrisha-matome"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113） やり方",
+   "results": [
+    "https://anzeninfo.mhlw.go.jp/yougo/yougo24_1.html",
+    "https://goukaku-drill.com/eisei/dai1/houki-kouryaku/",
+    "https://eisei-study.com/kankeihourei-suuchi-matome/",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://eisei-goukaku.com/health-officer-hazardous-work/",
+    "https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93%E5%89%87",
+    "https://www.jswa.jp/wp2/wp-content/uploads/pdf/guide_06_H30.pdf",
+    "https://www.shimadzu-techno.co.jp/news/column/column201807.html",
+    "https://eisei-study.com/kankeihourei-oboekata/",
+    "https://piyopass.com/blog/eisei-kanrisha-2-goroawase-kouryaku"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113） 事例",
+   "results": [
+    "https://anzeninfo.mhlw.go.jp/yougo/yougo24_1.html",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://goukaku-drill.com/eisei/dai1/houki-kouryaku/",
+    "https://eisei-study.com/kankeihourei-suuchi-matome/",
+    "https://note.com/apt_oriole1681/n/nacba427d5e78",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001603865.pdf",
+    "https://www.fc-soft.jp/media/useful_info/a93",
+    "https://www.zentsuken.net/journal/file/173_1.html",
+    "https://www.city.mihara.hiroshima.jp/uploaded/attachment/143684.pdf",
+    "https://note.com/ideal_zephyr3268/n/nb9c2280afeae"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Getstats number hygiene rules explained in full Royal Statistical Society journalists",
+   "results": [
+    "https://rss.org.uk/resources/resources-for-journalists/",
+    "https://www.youtube.com/watch?v=W2ifrvrRrxc",
+    "https://www.nasw.org/article/statistics-journalism-handle-care",
+    "https://dr.lib.iastate.edu/server/api/core/bitstreams/2a4e633c-395e-48d5-b83d-18d416c8173e/content",
+    "https://journalistsresource.org/wp-content/uploads/2015/03/CIJ_Statistics_for_Journalists_26_05_11.pdf",
+    "https://gijn.org/stories/5-things-journalists-need-to-know-about-statistical-significance/",
+    "https://statslaw.wordpress.com/",
+    "https://osr.statisticsauthority.gov.uk/news/osr-welcomes-the-royal-statistical-society-rss-report-refreshing-a-public-vision-for-statistics/",
+    "https://sciencemediacentre.es/en/short-guide-statistics-journalists-how-open-black-box-scientific-study",
+    "https://www.statlit.org/pdf/2012-RSS-Getstats-12-Number-Hygiene-Rules-Full.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113）",
+   "results": [
+    "https://note.com/cool_boar7891/n/nbcb053765785",
+    "https://note.com/jpss4691/n/nbe2abaf06811",
+    "https://note.com/dr_a_1/n/n692152ed028e",
+    "https://note.com/jpss4691/n/nd9a48c275d69",
+    "https://note.com/jpss4691/n/nd1a4bd6c0700",
+    "https://note.com/jpss4691/n/n5ca31a6fece1",
+    "https://note.com/tamakitext/n/ne2b7e083e2d0",
+    "https://note.com/jpss4691/n/n544ed6eca93a",
+    "https://note.com/jpss4691/n/n5f1c761e6cdf",
+    "https://note.com/jpss4691/n/nb19fd2e94f6d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113）",
+   "results": [
+    "https://x.com/columbus_ceo/status/2048586830506033280",
+    "https://x.com/hokenshiJ",
+    "https://x.com/turukame8/status/2116001497146380571",
+    "https://x.com/manaka_a",
+    "https://x.com/mklaoshi",
+    "https://x.com/@avan_tt",
+    "https://x.com/rudobico",
+    "https://x.com/kayamakoto",
+    "https://x.com/hirocky0121",
+    "https://x.com/lokakku_ohs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113）",
+   "results": [
+    "https://jp.linkedin.com/in/kss-uchiyama",
+    "https://jp.linkedin.com/in/%E5%B9%B8%E6%9A%89-%E5%A4%A7%E6%B2%BC-237283324",
+    "https://px.ads.linkedin.com/collect/?pid=3115092&fmt=gif",
+    "https://www.linkedin.com/posts/benjaminschilz_womenintech-share-7513906012408639490-R_ig",
+    "https://de.linkedin.com/in/björn-twiehaus-265aa3135",
+    "https://www.linkedin.com/posts/秀和-四方-5830b5b2_262の法則ってほんま-パレートの法則の派生した経験則という説明パレート-activity-7250822715396235265-3R3p",
+    "https://jp.linkedin.com/pulse/業界の基準実はこんなルールがあるコインランドリーの衛生指導要綱とは-志保-佐藤-rktnc",
+    "https://www.linkedin.com/posts/activity-7474036376271810560-jlrt"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com 数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113）",
+   "results": [
+    "https://www.facebook.com/junsasakimd/posts/%E8%AA%A4%E5%9A%A5%E6%80%A7%E8%82%BA%E7%82%8E%E3%81%AE1%E5%B9%B4%E7%94%9F%E5%AD%98%E7%8E%87%E3%81%AF50%E5%85%A5%E9%99%A2%E3%81%97%E3%81%A6%E3%82%821530%E3%81%AE%E6%96%B9%E3%81%8C1%E3%81%8B%E6%9C%88%E4%BB%A5%E5%86%85%E3%81%AB%E4%BA%A1%E3%81%8F%E3%81%AA%E3%82%89%E3%82%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E9%80%80%E9%99%A2%E3%81%A7%E3%81%8D%E3%81%A6%E3%82%821%E5%B9%B4%E4%BB%A5%E5%86%85%E3%81%AE%E5%86%8D%E7%99%BA%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AF3050%E7%A8%8B%E5%BA%A6%E3%81%93%E3%82%8C%E3%81%AF%E5%A4%9A%E3%81%8F%E3%81%AE%E5%A0%B4%E5%90%88%E7%AA%81%E7%84%B6%E3%81%AE%E4%B8%8D%E9%81%8B%E3%81%AA%E6%84%9F%E6%9F%93/26924840080468508/",
+    "https://www.facebook.com/tampon.tw/posts/%E4%BE%86%E8%A8%AA%E5%87%B1%E5%A8%9C%E7%94%9F%E7%90%86%E7%94%A8%E5%93%81%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%B0%B1%E9%80%81%E5%A5%BD%E7%A6%AE-%E6%9C%80%E5%A4%9A%E7%9A%84%E4%BE%86%E8%87%AA%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%9A%E5%85%83%E7%94%9F%E7%90%86%E7%94%A8%E5%93%81%E9%83%BD%E5%9C%A8%E9%80%99%E8%A3%A1%E5%90%84%E7%A8%AE%E5%A5%B3%E6%80%A7%E7%A7%91%E6%8A%80%E5%95%86%E5%93%81%E8%BA%AB%E9%AB%94%E6%A8%A1%E5%9E%8B-%E5%8F%83%E8%A7%80%E6%80%A7%E5%B9%B3%E4%B8%8D%E5%B0%8F%E5%AE%A4%E5%8A%A0%E5%85%A5%E5%87%B1%E5%A8%9C%E5%AE%98%E6%96%B9line%E5%A5%BD%E5%8F%8B%E5%8F%AA%E9%9C%803%E6%AD%A5%E9%A9%9F%E5%B0%B1%E9%80%81%E5%87%B1%E5%A8%9C%E6%97%A5%E7%94%A8%E8%A1%9B%E7%94%9F%E6%A3%89/1009711764528079/",
+    "https://www.facebook.com/p/%E6%98%AD%E5%92%8C%E5%A4%A7%E5%AD%A6%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E7%A0%94%E7%A9%B6%E6%89%80-61553611167056/",
+    "https://www.facebook.com/tampon.tw/posts/%E9%BD%81%E9%BD%81-%E6%A3%89%E6%A2%9D%E5%8F%88%E7%AC%AC%E4%B8%89%E5%BA%A6%E7%99%BB%E4%B8%8A%E4%BA%86%E9%A3%9F%E8%97%A5%E7%BD%B2%E7%9A%84%E5%AE%89%E5%85%A8%E9%80%B1%E5%A0%B1%E4%BA%86%E8%AC%9D%E8%AC%9D%E6%94%BF%E5%BA%9C%E5%96%AE%E4%BD%8D%E4%B8%80%E8%B5%B7%E4%BE%86%E5%91%BC%E7%B1%B2%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A2%BA%E5%AE%89%E5%85%A8%E7%9A%84%E4%BD%BF%E7%94%A8%E8%A1%9B%E7%94%9F%E6%A3%89%E6%A2%9D-%E5%88%A5%E5%BF%98%E4%BA%86%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%BD%BF%E7%94%A8%E4%BF%9D%E5%AD%98%E4%B9%9F%E6%98%AF%E5%BE%88%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%80%E9%96%80%E8%AA%B2%E9%A1%8C%E5%96%94%E5%8F%B0%E7%81%A3%E6%BF%95%E6%B0%A3%E9%87%8D%E8%AB%8B%E5%8B%99%E5%BF%85%E8%A8%98%E5%BE%97%E5%AD%98%E6%94%BE%E5%9C%A8/10156687332866927/",
+    "https://www.facebook.com/tampon.tw/posts/%E8%8A%B1%E9%8C%A2%E8%B2%B7%E4%BA%86%E4%B8%89%E5%BC%B5%E6%A3%89%E6%A2%9D%E5%BB%A3%E5%91%8A%E6%B5%B7%E5%A0%B1%E6%A9%AB%E8%B7%A8%E4%BA%86%E5%8D%8A%E5%80%8B%E4%B8%96%E7%B4%80%E7%9A%84%E5%A5%B3%E6%80%A7%E7%94%A8%E5%93%81%E7%99%BC%E5%B1%95%E5%8F%B2%E5%90%8C%E6%99%82%E8%AA%AA%E6%98%8E%E4%BA%86%E8%A1%9B%E7%94%9F%E7%94%A8%E5%93%81%E8%88%87%E6%80%A7%E5%88%A5%E8%A7%80%E5%BF%B5%E5%A6%82%E4%BD%95%E6%BC%94%E8%AE%8A%E9%83%BD%E6%94%B6%E9%8C%84%E5%9C%A8-%E5%87%B1%E5%A8%9C%E7%94%9F%E7%90%86%E7%94%A8%E5%93%81%E5%8D%9A%E7%89%A9%E9%A4%A8-%E5%95%A6%E9%A4%A8%E8%97%8F%E6%96%B0%E5%A2%9E%E5%BE%9E1946%E5%88%B02004%E6%A3%89%E6%A2%9D%E5%BB%A3%E5%91%8A%E7%9A%84/1192003636298890/",
+    "https://www.facebook.com/tampon.tw/posts/%E4%B8%80%E5%80%8B%E5%8F%AF%E9%81%B8%E6%93%87%E5%9B%9E%E6%8D%90%E7%9A%84%E6%95%99%E5%85%B7%E5%8B%9F%E8%B3%87%E6%A1%88%E8%AE%93%E5%A6%B3%E7%9A%84%E6%84%9B%E5%8F%AF%E4%BB%A5%E5%82%B3%E5%88%B0%E6%9B%B4%E5%A4%9A%E4%BA%BA%E6%89%8B%E4%B8%AD%E7%9B%AE%E5%89%8D%E6%88%91%E5%80%91%E6%AF%8F%E5%AD%B8%E6%9C%9F%E5%9B%BA%E5%AE%9A%E6%9C%83%E8%B7%9F%E5%B9%BE%E9%96%93%E5%A4%A7%E5%B0%88%E4%B8%AD%E5%AD%B8%E5%81%9A%E7%94%9F%E7%90%86%E6%9C%9F%E8%AC%9B%E5%BA%A7%E5%90%88%E4%BD%9C%E8%AC%9B%E5%BA%A7%E4%B8%AD%E6%9C%83%E4%B8%80%E8%A6%96%E5%90%8C%E4%BB%81%E7%9A%84%E6%95%99%E5%B0%8E-4-5-%E7%A8%AE%E7%94%9F%E7%90%86%E7%94%A8%E5%93%81%E4%BD%BF%E7%94%A8%E6%B3%95%E5%8C%85%E5%90%AB%E6%8B%8B%E6%A3%84%E5%BC%8F/10156462925201927/",
+    "https://www.facebook.com/tampon.tw/posts/%E4%B8%80%E5%80%8B%E8%A1%9B%E7%94%9F%E6%A3%89%E8%A1%8C%E9%8A%B7%E6%A1%88%E5%9C%A8%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E5%8D%BB%E9%81%AD%E5%88%B0%E4%BF%9D%E5%AE%88%E5%8B%A2%E5%8A%9B%E7%9A%84%E5%9C%8D%E6%94%BB%E8%BF%91%E6%97%A5%E9%80%BC%E5%BE%97%E5%93%81%E7%89%8C%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%85%A8%E6%95%B8%E5%88%AA%E6%96%87%E4%B8%94%E9%81%93%E6%AD%89%E9%80%A3%E5%8E%BB%E5%B9%B4%E5%9C%A8youtube-works%E5%AE%98%E6%96%B9%E5%BE%97%E7%8D%8E%E7%9A%84%E5%BB%A3%E5%91%8A%E5%BD%B1%E7%89%87%E9%83%BD%E5%88%AA%E5%85%89%E5%85%89%E7%9A%84%E9%82%A3%E7%A8%AE-%E4%B8%80%E8%B5%B7%E7%9C%8B%E7%9C%8B%E9%80%99%E5%80%8B%E8%B6%85/10157987931071927/",
+    "https://www.facebook.com/tampon.tw/posts/%E5%B8%83%E8%A1%9B%E7%94%9F%E6%A3%89%E8%B6%85%E7%B4%9A%E8%88%92%E6%9C%8D%E8%A6%AA%E8%86%9A%E4%B8%8D%E6%82%B6%E6%BF%95-%E8%AB%8B%E5%95%8F%E5%A6%B3%E5%80%91%E7%9A%84%E5%B8%83%E6%A3%89%E6%9C%83%E6%82%B6%E7%86%B1%E5%97%8E%E5%B0%8F%E7%B7%A8%E6%9C%80%E8%BF%91%E6%8E%A5%E7%8D%B2%E4%B8%8D%E5%B0%91%E9%80%99%E6%A8%A3%E7%9A%84%E7%A7%81%E8%A8%8A%E9%83%BD%E6%98%AF%E5%B8%8C%E6%9C%9B%E8%83%BD%E5%A4%A0%E5%9C%A8%E9%80%99%E7%A8%AE%E6%82%B6%E7%86%B1%E6%BD%AE%E6%BA%BC%E7%9A%84%E5%A4%8F%E6%97%A5%E5%B0%8B%E6%89%BE%E6%9B%B4%E4%B9%BE%E7%88%BD%E7%9A%84%E7%94%9F%E7%90%86%E7%94%A8%E5%93%81%E6%AF%94%E8%B5%B7%E4%B8%80%E6%AC%A1%E6%80%A7%E8%A1%9B%E7%94%9F%E6%A3%89%E5%B8%83%E6%96%99%E8%A3%BD%E4%BD%9C%E7%9A%84%E5%A5%BD%E8%99%95%E5%B0%B1/790093946489863/",
+    "https://www.facebook.com/tampon.tw/posts/%E6%84%9B%E6%AD%BB%E9%80%99%E5%80%8B%E5%8D%97%E9%9D%9E%E5%BB%A3%E5%91%8A%E5%89%B5%E6%84%8F/1465106472321937/",
+    "https://www.facebook.com/tampon.tw/posts/%E9%A3%9F%E8%97%A5%E9%97%A2%E8%AC%A0%E5%B0%88%E5%8D%80%E8%81%BD%E8%AA%AA%E6%9C%88%E4%BA%AE%E6%9D%AF%E6%9C%83%E5%A2%9E%E5%8A%A0%E9%99%B0%E9%81%93%E6%84%9F%E6%9F%93%E7%9A%84%E9%A2%A8%E9%9A%AA%E9%80%99%E6%98%AF%E7%9C%9F%E7%9A%84%E5%97%8E%E8%A7%A3%E7%AD%941-%E6%9C%88%E4%BA%AE%E6%9D%AF%E6%AD%A3%E5%BC%8F%E5%90%8D%E7%A8%B1%E7%82%BA%E6%9C%88%E7%B6%93%E9%87%8F%E6%9D%AFmenstrual-cup%E7%82%BA%E6%94%BE%E5%9C%A8%E9%99%B0%E9%81%93%E4%B8%AD%E7%94%A8%E4%BE%86%E6%94%B6%E9%9B%86%E6%9C%88%E7%B6%93%E9%87%8F%E4%B9%8B%E5%AE%B9%E5%99%A8%E7%94%B1%E9%86%AB%E7%99%82%E7%94%A8%E7%9F%BD%E8%86%A0%E8%A3%BD%E6%88%90%E7%9B%AE/10154709489996927/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113） note 社長",
+   "results": [
+    "https://note.com/genba00/n/nee1f9a774b95",
+    "https://note.com/human_fennel1152/all",
+    "https://note.com/yotsuha_335/n/n2d8a8707cd19",
+    "https://note.com/rich_laelia1091/m/m350f660e62a6/hashtag/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97",
+    "https://note.shiftinc.jp/n/n1bc6b13f28c1",
+    "https://www.tifana.ai/article/predict-article-258",
+    "https://note.com/nukoya_pochi/n/nd0c88536c0ad",
+    "https://note.com/study_room358/n/n87141aaedd4a",
+    "https://bookplus.nikkei.com/atcl/column/102700312/112400006/",
+    "https://note.com/apt_oriole1681/n/nacba427d5e78"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113） X 投稿",
+   "results": [
+    "https://x.com/trickcal_jp/article/2117542310758207749/media/2117504721053429760",
+    "https://note.com/apt_oriole1681/n/nacba427d5e78",
+    "https://www.zentsuken.net/journal/file/166_2.html",
+    "https://www.johas.go.jp/wp-content/uploads/2026/10/126.pdf",
+    "https://researchmap.jp/blogs/blog_entries/view/76981/5f49fc7e5ed8b96ccbd521d5099f2093",
+    "https://www.city.mihara.hiroshima.jp/uploaded/attachment/143684.pdf",
+    "https://www.mhlw.go.jp/content/10800000/001547202.pdf",
+    "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
+    "https://x.com/sino33210/status/2115700066220741041",
+    "https://x.com/GICHOGI/status/2097135886098215158"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Getstats number hygiene rules explained in full Royal Statistical Society journalists site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/data-visualisations-numberhygiene-activity-7213822342999801856-2Dwg",
+    "https://uk.linkedin.com/in/rss-data-ethics-and-governance-section-443831295",
+    "https://www.linkedin.com/pulse/research-skills-how-practice-good-stat-hygiene-primostats-3qs3e",
+    "https://ky.linkedin.com/posts/nicogoffette_5-things-journalists-need-to-know-about-statistical-activity-6963141295028453376-rkwH",
+    "https://www.linkedin.com/posts/royal-statistical-society_quarterly-policy-update-public-statistics-activity-7419419520378789888-IYcE",
+    "https://www.linkedin.com/posts/dr-chikere-ifeanyi-ebirim-10a94041_15-golden-rules-for-reporting-statistical-activity-7420044549152231425-7cFf",
+    "https://uk.linkedin.com/company/royal-statistical-society",
+    "https://www.linkedin.com/posts/royal-statistical-society_weve-published-our-five-principles-for-our-activity-7258064029271699456-DBzK"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T21:47:55.658169+00:00"
+}
