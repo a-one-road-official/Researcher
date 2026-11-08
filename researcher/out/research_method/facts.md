@@ -1215,6 +1215,8 @@
 ## 戦略コンサルのデスクリサーチと仮説検証の型（strategy consultant desk research hypothesis method）
 - 文脈：凄腕・型
 - 手順・やり方：
+  - 「QRコードアプリの選び方｜無料読取・履歴・作成とiPhone・Androidの手順【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
+  - 「バーコードを読み取る方法｜スマホ・PC・Excelと商品情報の確認点【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「JANコードのチェックデジット計算｜12桁から末尾1桁を求める手順」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「オフィス移転で什器を「移設・処分・売却」に分ける｜写真台帳で総務が判定する手順」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「境界型防御とゼロトラストの違い｜認証・認可と移行・運用の確認点」（https://renue.co.jp/posts/consulting-strategy-department-guide）
@@ -1228,8 +1230,6 @@
   - 「：3C、SWOT、バリューチェーン、5Forces等のフレームワークを活用した構造化分析」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「フレームワークの使い分け判断（「この問題にはどのフレームワークが有効か」の判断力）」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「：会議の結論とアクションアイテムを明確にし、次のステップを確定」（https://renue.co.jp/posts/consulting-strategy-department-guide）
-  - 「中国拠点コンサルティング活用では、個人情報保護法（PIPL 2021年11月施行）・データセキュリティ法（2021年9月施行）・データ越境規制（2024年3月公布・施行の「促進和規範数据跨境流动规定」）・網信弁「生成式人工智能服务管理暂行办法」（2023年8月15日施行）の大模型備案要件・反外国制裁法・技術輸出管理条例が論点化します」（https://renue.co.jp/posts/consulting-strategy-department-guide）
-  - 「対策として、中国拠点コンサルAIは現地完結型で中国国内データセンター完結、日本本社への情報共有は匿名化・集約化レポート、備案の対象となる場合はその状況をベンダーに確認する設計が有効とされています」（https://renue.co.jp/posts/consulting-strategy-department-guide）
 - 突き合わせ・推定：
   - 「● 2. 仮説構築の「たたき台」」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる」（https://note.com/tom_mba/n/n0ee295df2f32）
@@ -4374,11 +4374,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -8068,7 +8068,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -14267,11 +14267,11 @@
 
 ## 買い手側の一次調査の実務（専門家への聞き取りの選び方・肩書きでなく担当範囲・意見より事実・辞めた経緯の偏り・In Practise の書き起こし）（buy-side primary research expert calls vetting by responsibility facts over opinions In Practise fieldwork）
 - 文脈：聞き取り・評価
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 実質の持ち主（UBO）と名義役員・秘匿法域のたどり方（EBU Spotlight・OCCRP の手引き・登記の原本で確かめる・暫定の印）（beneficial ownership tracing nominee directors secrecy jurisdictions OSINT tutorial EBU Spotlight OCCRP）
 - 文脈：同一性・所有

@@ -8,7 +8,7 @@
  ],
  "context": "聞き取り・評価",
  "kind": "market",
- "researched_at": "2026-11-08T14:51:49.757375+00:00",
+ "researched_at": "2026-11-08T22:26:56.851397+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -29,7 +29,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/610_mto/n/n5fe57e207f7b",
+    "url": "https://note.com/bearcapital/n/n4f3d135558b3",
     "status": "ok",
     "method": "http"
    },
@@ -39,7 +39,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/bearcapital/n/n4f3d135558b3",
+    "url": "https://note.com/610_mto/n/n5fe57e207f7b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/versaroc_ebuchi/n/n3e46265915f9",
     "status": "ok",
     "method": "http"
    },
@@ -49,14 +54,14 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n5100dbf82075",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/n5100dbf82075",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://resory.jp/column/expert-interview-not-recommended",
@@ -64,12 +69,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "url": "https://www.murc.jp/library/column/qmt_260330/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.profilesofpractitioners.net/manual/",
+    "url": "https://mitsukijapan.com/ma/column/due-diligence-expert/",
     "status": "ok",
     "method": "http"
    },
@@ -79,7 +84,7 @@
     "method": "http"
    },
    {
-    "url": "https://mitsukijapan.com/ma/column/due-diligence-expert/",
+    "url": "https://base-one.jp/column-ma-practical-guide-5/",
     "status": "ok",
     "method": "http"
    },
@@ -89,14 +94,9 @@
     "method": "http"
    },
    {
-    "url": "https://base-one.jp/column-ma-practical-guide-5/",
+    "url": "https://jicpa.or.jp/specialized_field/publication/files/2-3-32-2a-20130722.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nihon-ma.co.jp/columns/2022/x20220316/",
-    "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.integrex.jp/business/hotpress/data/compla_0063.pdf",
@@ -104,14 +104,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.advi.co.jp/column/detail101/",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8689870&contentNo=1",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.murc.jp/library/column/qmt_260330/",
-    "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.thirdbridge.com/en-us/about-us/media/perspectives/primary-research-guide-for-investors-and-consultants",
@@ -124,6 +119,11 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.investopedia.com/articles/financialcareers/11/sell-side-buy-side-analysts.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://www.alpha-sense.com/blog/trends/sell-side-vs-buy-side-research/",
     "status": "ok",
     "method": "http"
@@ -131,11 +131,6 @@
    {
     "url": "https://weconvene.com/buy-side-research-playbook-process-access-workflow-guide/",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.investopedia.com/articles/financialcareers/11/sell-side-buy-side-analysts.asp",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -152,16 +147,16 @@
     "https://note.com/dattenesodane/n/nd878543263eb",
     "https://note.com/satsukishigoto/n/na1ecbdf37c70",
     "https://note.com/scrummasudar/n/n7c9431c64042",
-    "https://note.com/610_mto/n/n5fe57e207f7b",
-    "https://note.com/konkon4192/n/nc04b0ed3a10f",
     "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/610_mto/n/n5fe57e207f7b",
     "https://note.com/nyomu_cat/n/nc83d1a8f6a83",
     "https://note.com/shigeyukikato/n/n143997ba285c",
     "https://note.com/flyhigh1999/n/nc27a93d2232b",
     "https://note.com/agentbest/n/n9850fce8686b"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -169,15 +164,15 @@
   {
    "query": "買い手側の一次調査の実務（専門家への聞き取りの選び方・肩書きでなく担当範囲・意見より事実・辞めた経緯の偏り・In Practise の書き起こし） note",
    "results": [
+    "https://note.com/versaroc_ebuchi/n/n3e46265915f9",
     "https://www.hiresteve.ai/ja/blog/win-loss-interviews-japan",
-    "https://note.com/tsunobuchi/n/n5100dbf82075",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "https://note.com/tsunobuchi/n/n5100dbf82075",
     "https://resory.jp/column/expert-interview-not-recommended",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www.profilesofpractitioners.net/manual/",
+    "https://www.murc.jp/library/column/qmt_260330/",
     "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/20200731003-1.pdf",
-    "https://note.com/ak_id/n/ncd6dfc158c26",
-    "https://www.murc.jp/library/column/qmt_260330/"
+    "https://note.com/nikofu/n/n8d4d5e8e06d6",
+    "https://strategyconsultant-bank.com/columns/d8_qbl1xws2"
    ],
    "engines": [
     "yahoo_jp"
@@ -188,14 +183,14 @@
    "query": "買い手側の一次調査の実務（専門家への聞き取りの選び方・肩書きでなく担当範囲・意見より事実・辞めた経緯の偏り・In Practise の書き起こし） やり方",
    "results": [
     "https://www.hiresteve.ai/ja/blog/win-loss-interviews-japan",
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://mitsukijapan.com/ma/column/due-diligence-expert/",
-    "https://www.dm-insight.jp/research-method/expert-research/",
+    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://base-one.jp/column-ma-practical-guide-5/",
-    "https://www.nihon-ma.co.jp/columns/2022/x20220316/",
+    "https://www.dm-insight.jp/research-method/expert-research/",
+    "https://jicpa.or.jp/specialized_field/publication/files/2-3-32-2a-20130722.pdf",
+    "https://www.murc.jp/library/column/qmt_260330/",
     "https://resory.jp/column/expert-interview-not-recommended",
-    "https://www.integrex.jp/business/hotpress/data/compla_0063.pdf",
-    "https://www.murc.jp/library/column/qmt_260330/"
+    "https://www.integrex.jp/business/hotpress/data/compla_0063.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -208,12 +203,12 @@
     "https://www.hiresteve.ai/ja/blog/win-loss-interviews-japan",
     "https://mitsukijapan.com/ma/column/due-diligence-expert/",
     "https://www.dm-insight.jp/research-method/expert-research/",
-    "https://www.advi.co.jp/column/detail101/",
     "https://resory.jp/column/expert-interview-not-recommended",
+    "https://note.com/versaroc_ebuchi/n/n3e46265915f9",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "https://www.integrex.jp/business/hotpress/data/compla_0063.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www.murc.jp/library/column/qmt_260330/"
+    "https://www.murc.jp/library/column/qmt_260330/",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8689870&contentNo=1"
    ],
    "engines": [
     "yahoo_jp"
@@ -225,17 +220,17 @@
    "results": [
     "https://www.thirdbridge.com/en-us/about-us/media/perspectives/primary-research-guide-for-investors-and-consultants",
     "http://andreisimonov.com/N4106/pdf/FAJ_AnalystConflictsAnalysis4.pdf",
+    "https://www.investopedia.com/articles/financialcareers/11/sell-side-buy-side-analysts.asp",
     "https://www.alpha-sense.com/blog/trends/sell-side-vs-buy-side-research/",
     "https://weconvene.com/buy-side-research-playbook-process-access-workflow-guide/",
-    "https://www.investopedia.com/articles/financialcareers/11/sell-side-buy-side-analysts.asp",
     "https://primaryinsight.com/solutions/pi-surveys",
     "https://analystsolutions.com/5-things-buy-side-analysts-value-sell-side-analysts/",
     "https://www.woozleresearch.com/primary-research-for-investment-professionals-an-in-depth-guide/",
-    "https://www.corbinadvisors.com/research/",
-    "https://inpractise.com/articles/primary-research-methods-vetting-executives"
+    "https://revfin.org/do-sell-side-analysts-say-buy-while-whispering-sell/",
+    "https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -252,23 +247,23 @@
     "https://note.com/hanamush/n/n0337d9af2920"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:x.com 買い手側の一次調査の実務（専門家への聞き取りの選び方・肩書きでなく担当範囲・意見より事実・辞めた経緯の偏り・In Practise の書き起こし）",
    "results": [
+    "https://x.com/ueharajin/status/2103321452015743334",
     "https://x.com/chieko_maai/status/2053110695550734529",
     "https://x.com/chieko_maai/status/2052757008584163402",
-    "https://x.com/ueharajin/status/2103321452015743334",
     "https://x.com/otemachiprep/status/2095858167280185761",
     "https://x.com/hiro_retail/status/2106328324339565021",
-    "https://x.com/Shun_Mukai0718/status/2108467508604731393",
-    "https://x.com/osarupolice/status/2099718601922191476"
+    "https://x.com/salesworks_1/status/2106957575132487984",
+    "https://x.com/Shun_Mukai0718/status/2108467508604731393"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -284,7 +279,7 @@
     "https://jp.linkedin.com/pulse/primary-vs-secondary-market-research-types-sources-examples-?tl=ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -300,7 +295,7 @@
     "https://www.facebook.com/saitoma1/posts/サイト売買は売り手女性30買い手会社員30この度サイトマではサイトマで実際に売買されたお客様売り手と買い手を調査しました調査概要調査方法サイトマで売買成約された/1979727988873065/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -310,12 +305,12 @@
     "https://www.hiresteve.ai/ja/blog/win-loss-interviews-japan",
     "https://note.com/tsunobuchi/n/n5100dbf82075",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://resory.jp/column/expert-interview-not-recommended",
     "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www.profilesofpractitioners.net/manual/",
-    "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/20200731003-1.pdf",
+    "https://resory.jp/column/expert-interview-not-recommended",
     "https://note.com/nikofu/n/n8d4d5e8e06d6",
-    "https://www.murc.jp/library/column/qmt_260330/"
+    "https://www.murc.jp/library/column/qmt_260330/",
+    "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/20200731003-1.pdf",
+    "https://newspicks.expert/media/post/expert-interview"
    ],
    "engines": [
     "yahoo_jp"
@@ -326,14 +321,14 @@
    "query": "買い手側の一次調査の実務（専門家への聞き取りの選び方・肩書きでなく担当範囲・意見より事実・辞めた経緯の偏り・In Practise の書き起こし） X 投稿",
    "results": [
     "https://www.hiresteve.ai/ja/blog/win-loss-interviews-japan",
+    "https://www.youtube.com/watch?v=GYwhADmYr88",
     "https://squaregroup.co.jp/column/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91%E3%83%87%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A3%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E3%81%A8%E5%AE%9F%E5%8B%99%E4%B8%8A%E3%81%AE%E7%95%99/",
     "https://ainomura.com/wp-content/uploads/2022/01/pr01.pdf",
-    "https://resory.jp/column/expert-interview-not-recommended",
-    "https://www.dm-insight.jp/research-method/expert-research/",
-    "https://www.youtube.com/watch?v=B2JeKMxb8Lg",
     "https://www.nihon-ma.co.jp/columns/2022/x20220316/",
     "https://www.integrex.jp/business/hotpress/data/compla_0063.pdf",
-    "https://www.advi.co.jp/column/detail101/"
+    "https://note.com/versaroc_ebuchi/n/n3e46265915f9",
+    "https://resory.jp/column/expert-interview-not-recommended",
+    "https://www.dm-insight.jp/research-method/expert-research/"
    ],
    "engines": [
     "yahoo_jp"
@@ -347,28 +342,29 @@
     "https://uk.linkedin.com/company/woozle-research",
     "https://www.linkedin.com/in/fitzpatrickjack",
     "https://www.linkedin.com/in/evanreich",
-    "https://hk.linkedin.com/company/third-bridge",
+    "https://www.linkedin.com/in/adam-h-fry",
     "https://www.linkedin.com/in/ivanalahcanski",
-    "https://www.linkedin.com/company/capstonepartnersinvestmentbank",
+    "https://www.linkedin.com/in/isaac-ick",
     "https://www.linkedin.com/pulse/hot-knife-through-butter-lessons-learned-building-tegus-bob-casey-ozwbc",
     "https://www.linkedin.com/in/manish-somaiya",
-    "https://in.linkedin.com/in/vikrant-28"
+    "https://www.linkedin.com/in/william-little-iv"
    ],
    "engines": [
     "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 18
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ26頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）",
-  "実例": "記載なし（読んだ26頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ25頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ25頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ25頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ25頁・検索12回）",
+  "実例": "記載なし（読んだ25頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-08T14:51:49.757375+00:00"
 }
