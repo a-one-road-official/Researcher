@@ -1344,7 +1344,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -7261,11 +7261,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
@@ -8141,6 +8141,11 @@
 ## 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）（fiscal year calendar year alignment comparing statistics company data）
 - 文脈：失敗
 - 手順・やり方：
+  - 「図2 子会社の決算を使う場合の手順」（https://ipo-method.com/accounting/3393/）
+  - 「決算日を揃えるかどうかの判断、子会社の決算を使う場合の整理の手順づくり、親子間の残高照合表の様式、在外子会社の換算レートの整理まで通してお受けします」（https://ipo-method.com/accounting/3393/）
+  - 「上場準備では、申請期までにどちらの方法にするかを決め、毎期同じ方法で連結します」（https://ipo-method.com/accounting/3393/）
+  - 「どの方法でも、差の期間の損益をどう取り込むかと、注記の書き方を先に決めておきます」（https://ipo-method.com/accounting/3393/）
+  - 「連結財務諸表の用語、様式及び作成方法に関する規則（e-Gov法令検索）」（https://ipo-method.com/accounting/3393/）
   - 「The Calendarization Framework」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「Core Calendarization Methodologies」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「2. Weighted Average Stub Period Methodology」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
@@ -8151,12 +8156,10 @@
   - 「Assumptions and methodology notes」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「Present methodology and results to senior team members before using in client deliverables」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
-  - 「In 2024-2025, several fairness opinions have been challenged in Delaware Chancery Court proceedings, with plaintiffs' experts criticizing inadequate calendarization as evidence of flawed methodology. While these challenges have generally not succeeded on their own, they underscore the importance of rigorous, defensible technique.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
-  - 「While manual calendarization in Excel remains the standard for complex situations, technology platforms are increasingly automating routine aspects of the process. Professional-grade tools like S&P Capital IQ, FactSet, and Bloomberg offer calendarized multiples as standard outputs, though users should understand the underlying methodology.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
-  - 「Template-based adjustment frameworks for common one-time items」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
-  - 「Audit logs tracking all data sources and calculation steps」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
-  - 「are incorporating sophisticated calendarization capabilities that allow users to quickly generate properly adjusted comparable company analyses, reducing the manual calculation burden while maintaining full transparency into methodology.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
 - 突き合わせ・推定：
+  - 「実務では、親子間の債権債務の残高照合表を作るところから始めます」（https://ipo-method.com/accounting/3393/）
+  - 「決算日を揃えるかどうかの判断、子会社の決算を使う場合の整理の手順づくり、親子間の残高照合表の様式、在外子会社の換算レートの整理まで通してお受けします」（https://ipo-method.com/accounting/3393/）
+  - 「毎期、差異期間の親子間取引の一覧と残高照合表を作り、金額の大きいものから調整の要否を判断してください」（https://ipo-method.com/accounting/3393/）
   - 「If holiday sales represented 40% of annual EBITDA and came in 8% below expectations, Company A's reported results reflect this weakness while Company B's forward estimates may not yet be adjusted. An analyst using unadjusted forward multiples could undervalue Company A by 15-20% relative to Company B, despite identical underlying business performance.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「For companies without quarterly reporting or in situations where you need forward-looking metrics, the weighted average approach estimates results for partial periods by prorating annual figures.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「7 months actual + 5 months estimated」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
@@ -8169,26 +8172,24 @@
   - 「Validate that forward estimates align with consensus ranges」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「第30章 予測リストの検証――何がすでに起き、何が極端か」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「現時点の最重要仮説は、需要不足か供給不足かの二者択一ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「Goldman SachsはCoWoSの生産能力が2026年の約128万枚から2027年に約273万枚へ倍増すると推計している」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「これらは証券会社の推計であり、会社の計画値ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 - 一次情報の探し方：
-  - 「For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
-  - 「管理会計から考えるグループ会社の決算期設計｜高橋 本塁打（たかはし ほんるいだ）」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「管理会計から考えるグループ会社の決算期設計」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「グループ会社の決算月を、見直したいと思っています」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「現在、当社のグループ会社は決算月が統一されていません」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「最初は、事業会社の決算月をすべてそろえるのがよいと考えていました」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「決算月をそろえることで得られるメリットと、あえて分散させることで得られるメリット」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「そして、親会社の決算月をどこに置くか」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「① 理想は、事業会社の決算月を統一すること」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「まず、事業会社同士の決算月は、できればそろえたい」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「共通の期間にそろえて集計し直せば、今度は各社の決算書と集計対象期間がずれてしまう」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「月次で追ってきた数字が、そのまま年間決算につながる」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「そのためには、事業会社の決算月を統一するのが、最もわかりやすい方法です」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「複数の法人が同時に決算を迎えれば、決算整理、勘定科目の残高確認、税務申告の準備などが一斉に発生します」（https://note.com/gentle_whale205/n/nacbbb94f6294）
-  - 「もちろん、日頃から月次決算の精度を高め、締め作業を早く、正確に進められる体制を整えておけば、負荷は軽減できます」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「決算日が異なる子会社の連結｜3か月ルールと仮決算・調整仕訳」（https://ipo-method.com/accounting/3393/）
+  - 「決算日が異なる子会社の連結｜3か月を超えると仮決算、判定表と調整仕訳」（https://ipo-method.com/accounting/3393/）
+  - 「原則は、子会社が連結決算日に正規の決算に準ずる合理的な手続により決算（いわゆる仮決算）を行うことです（企業会計基準第22号第16項）」（https://ipo-method.com/accounting/3393/）
+  - 「決算日の差異が3か月を超えない場合は、子会社の正規の決算を基礎として連結することもでき（同注4、連結財務諸表規則第12条）、その場合は連結会社間の取引に係る会計記録の重要な不一致を調整します」（https://ipo-method.com/accounting/3393/）
+  - 「親会社が3月決算なら、12月・1月・2月決算の子会社は子会社の決算を使える」（https://ipo-method.com/accounting/3393/）
+  - 「4月〜11月決算（差異が3か月を超える）なら3月末に仮決算が要る」（https://ipo-method.com/accounting/3393/）
+  - 「子会社の決算を使うときは、差異期間の親子間取引（未達の商品、送金など）を調整する」（https://ipo-method.com/accounting/3393/）
+  - 「有価証券報告書では、決算日が異なる子会社の内容と仮決算の有無を注記する（連結財務諸表規則第13条第4項）」（https://ipo-method.com/accounting/3393/）
+  - 「原則は、連結決算日に正規の決算に準ずる合理的な手続により決算を行うことです」（https://ipo-method.com/accounting/3393/）
+  - 「ただし、決算日の差異が3か月を超えない場合には、子会社の正規の決算を基礎として連結決算を行うことができます」（https://ipo-method.com/accounting/3393/）
+  - 「原則は連結決算日での決算であること（第16項）」（https://ipo-method.com/accounting/3393/）
+  - 「決算月ごとの判定表（親会社が3月決算の場合）」（https://ipo-method.com/accounting/3393/）
+  - 「連結決算日に正規の決算に準ずる合理的な手続」（https://ipo-method.com/accounting/3393/）
+  - 「子会社の正規の決算を基礎として連結決算を行」（https://ipo-method.com/accounting/3393/）
+  - 「決算日の差異が3か月を超えな」（https://ipo-method.com/accounting/3393/）
 - 失敗・落とし穴：
+  - 「連結決算日のレートを機械的に当てはめると誤りになります」（https://ipo-method.com/accounting/3393/）
   - 「Technical Considerations and Common Pitfalls」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「This creates a systematic bias where companies with fiscal years ending soon after the valuation date appear to trade at lower forward multiples (because "forward" is nearly complete and thus more certain), while companies with fiscal years ending well after the valuation date appear more expensive (because "forward" is mostly estimated and includes more uncertainty).」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「To address this bias, sophisticated practitioners use Next Twelve Months (NTM) multiples, which represent the twelve-month period immediately following the valuation date, regardless of fiscal year boundaries. For a May 15, 2025 valuation date, NTM covers May 15, 2025 through May 14, 2026 for all companies.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
@@ -8203,8 +8204,8 @@
   - 「それでも長期処理では失敗管理が重要になることを示す例だ」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「セキュリティと権限逸脱：業務操作に失敗すると損害が拡大」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「一方、OpenAI・Anthropicが法的にOSSを禁止しようとして失敗するという表現は対象法案や具体的な行為を示さない限り検証不能である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「①OpenAI・Anthropicによる米国でのOSS「禁止」失敗――前提となる制度・法案の特定が必要」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 - 実例：
+  - 「①から③の結果、連結上の商品はP社の原価と同じ1,600万円（2,000万円－400万円）になり、この取引から生じる売上高と売上原価は残りません」（https://ipo-method.com/accounting/3393/）
   - 「Real-World Impact: The Retail Sector Example」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「Professional valuation practitioners employ three primary approaches, each with specific use cases:」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「For example, to calculate TTM revenue as of March 31, 2025 for a June fiscal year-end company:」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
@@ -8219,7 +8220,6 @@
   - 「2026年7月14日に結果が出た2028/2029年度分も、域内全体で上限の325ドルに張り付き、確保量は138,318MWだった」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「原油高によるインフレ、財政赤字に伴う国債増発、実質金利の上昇が重なった結果である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「その結果、2030年末までに3.5兆ドル超のAIインフラ投資が減損リスクにさらされ、現在の投資ペースが続けば2032年までに4兆ドル超の資産価値が評価減の対象になり得るとした」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「競争の結果として、単純なAPIトークン販売の利益率には圧力がかかる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 
 ## 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型（boilerplate removal main content extraction heuristics link density evaluation trafilatura readability）
 - 文脈：失敗
@@ -10546,11 +10546,11 @@
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例（full-time equivalent conversion denominator per employee comparison pitfalls）
 - 文脈：推定
@@ -10732,7 +10732,7 @@
   - 「Unfortunately, fake profiles and errors do occur. Especially for lesser-known or smaller businesses, a single company page can attract numerous unrelated profiles. One LinkedIn expert noted cases where a firm with only 30 real employees had」（https://blog.getaura.ai/headcount-data）
   - 「on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.」（https://blog.getaura.ai/headcount-data）
   - 「Many companies operate through subsidiaries, acquisitions, or international branches that might use different names. For example, a large multinational company might have separate LinkedIn pages for “Acme Corp (US)," “Acme Corp UK," “Acme Corp India,” and so on, each with its own employee count. One public source might summarize them, while another might not.」（https://blog.getaura.ai/headcount-data）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
 - 文脈：突き合わせ
@@ -11980,11 +11980,11 @@
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）（intelligence grading 3x5x2 handling code dissemination OSINT）
 - 文脈：検証
