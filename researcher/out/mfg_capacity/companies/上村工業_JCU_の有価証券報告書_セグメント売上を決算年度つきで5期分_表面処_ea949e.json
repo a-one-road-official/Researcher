@@ -1,0 +1,936 @@
+{
+ "name": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109）",
+ "en": "C.Uyemura JCU segment sales by fiscal year domestic overseas annual securities report",
+ "aliases": [
+  "上村工業 表面処理用資材事業 売上高 国内 推移 決算年度",
+  "JCU 薬品事業 売上高 地域別 日本 推移",
+  "めっき薬品 上場 セグメント 地域別売上 有価証券報告書"
+ ],
+ "context": "上場・開示",
+ "kind": "market",
+ "researched_at": "2026-11-08T17:57:13.983244+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "役員16人の経歴と担当（2026年6月時点）",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 連結従業員数567名・平均年収821万円（単体250名）",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 ： 単体 250名 連結 567名 （2026年3月31日現在）",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "JCUの2026年3月期のセグメント業績は、薬品事業269億円・装置事業27.5億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "27.5億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "84.4億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "31.8億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "▲0.2億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "26.1億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "13.1億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "▲0.9億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "77.9億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "20.4億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "▲1.1億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "▲0.6億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "73.5億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "29.4億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "▲0.1億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "78.7億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "▲0.7億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "79.3億円",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 24,859 28,356 29,200 29,672 4.6％",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 2025年3月期 2026年3月期",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "為替感応度（連結年換算）：下記主要通貨 1％の変動で、連結営業利益 1億円程度の影響",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,643百万円増",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 29,672 33,400 12.6％",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "144百万円増",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中 国(単位：百万円) YoY 13%",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "台 湾(単位：百万円) QoQ ▲2%",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "韓 国(単位：百万円) YoY 5%",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "2026年3月期 連結従業員数567名・平均年収821万円（単体250名）",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 2025年3月期 2026年3月期",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,643百万円増",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "144百万円増",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中 国(単位：百万円) YoY 13%",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "台 湾(単位：百万円) QoQ ▲2%",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "韓 国(単位：百万円) YoY 5%",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金 ： 12億8,148万円",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "JCUのセグメント業績・推移12カ年",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/11",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/12",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント業績の長期推移：2015年3月期〜2026年3月期",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2024/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2023/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2022/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2021/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2020/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2018/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2017/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2016/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2015/3",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "出所：有価証券報告書（2015年3月期〜2026年3月期）",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年就任 木村昌志",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年就任 大森晃久",
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "連結決算時に日本円換算数値を業績数値として公表しているため、円安は収益増加の要因となります",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 2026年",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●2025年10月末竣工",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022/3 2023/3 2024/3 2025/3 2026/3 2027/3",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒ 2025.4～2026.3",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒ 2025.1～2025.12",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ基板の需要が好調に推移し、薬品売上高は前年同期比で増加",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "好調に推移し、薬品売上高は前年同期比で大幅に増加",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "緩やかな回復が継続し、薬品売上高は前年同期比で増加",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■国内はデザイントレンドの変化に伴う薬品需要の低下もあり、薬品売上高は前年同期比で横ばいに推移",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■中国は輸出市場の多角化などにより需要が押し上げられたことで自動車の生産台数は増加し、",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社が対象とする自動車部品の需要が増加したため、薬品売上高は前年同期比で増加",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■受注案件が予定通り進行したものの、売上高及び受注残高は大幅に減少",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 2025年3月期 2026年3月期",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 2025年3月期 2026年3月期",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010/3 2018/3 2019/3 2020/3 2021/3 2022/3 2023/3 2024/3 2025/3 2026/3 2027/3",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024/3 2025/3 2026/3",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "■受注案件が予定通り進行したものの、売上高及び受注残高は大幅に減少",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "有形固定資産 11,830 19,682",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "■受注案件が予定通り進行したものの、売上高及び受注残高は大幅に減少",
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://release.nikkei.co.jp/attach/713144/02_202609301729.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1190405_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/toyokeizai_20260530_946268/?tpgnr=busi-econ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sitesearch.nomura.co.jp/index.php?sid=34_57_180_46_212_20261201174634_1524564&origin=1&aj_charset=utf-8&ask=.0122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alpha.japantimes.co.jp/issue/20260731/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.buffett-code.com/company/4975/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nomura-ir.co.jp/ja/qnresearch/report_4064/main/00/teaserItems1/00/link/qnresearch_4064.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/4973/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/tse/4975/financials/segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcu-i.com/ir/materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/05/078f8bc36a5f9bbc70fdbe590673b004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/investor/summary/highlight/segment.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/securities-report/20260317/S100XR5L.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fastretailing.com/jp/ir/library/pdf/yuho202408.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyobrief.com/jp/companies/4966-c-uyemura-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/4966/financials/segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/016/teaserItems5/0/linkList/0/link/107_full_jsec.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcgc.com/ir/pdf/01101/01252.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://the-shashi.com/tse/4966/segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/05/809490202c9a56a09f3a634ff852acba.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kabutan.jp/stock/finance?code=4966",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikken-kogaku.co.jp/wp/wp-content/uploads/2023/06/c3815195e68b4b527ca68fb6f0fe5bc0.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://edinetdb.jp/company/E01045/earnings/FY2023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/company/4966",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100T3N6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyoshin.co.jp/about/disclosure/disclosure_2023/documents/shiryo_01-08.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S10056DA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cdn.ullet.com/edinet/pdf/S100C9YI.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100IFEM.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sekisuikasei.com/jp/a.php?id=339",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/investor/presentation/presentation_past/main/011111113/teaserItems1/00/tableContents/00/multiFileUpload30/link/2015_1201_prem.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/05/Uyemura_Tanshin_Mar2026_4Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/72127/000119312507156870/d6k.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekisuichemical.com/ir/report/financial_report/__icsFiles/afieldfile/2022/07/27/ASR_Mar2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://waseda-jp.libguides.com/research-navi/find_securities/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/english/corporate/ir/library/fs/pdf/ASR_2503.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sojitz.com/pdf/en/ir/reports/vsecurity/ar2025e_fs.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 人手不足 受注 断る",
+   "results": [
+    "https://release.nikkei.co.jp/attach/713144/02_202609301729.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1190405_1527.html",
+    "https://news.infoseek.co.jp/article/toyokeizai_20260530_946268/?tpgnr=busi-econ",
+    "http://sitesearch.nomura.co.jp/index.php?sid=34_57_180_46_212_20261201174634_1524564&origin=1&aj_charset=utf-8&ask=.0122",
+    "https://alpha.japantimes.co.jp/issue/20260731/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 受注残 人手不足",
+   "results": [
+    "https://www.buffett-code.com/company/4975/",
+    "https://www.nomura-ir.co.jp/ja/qnresearch/report_4064/main/00/teaserItems1/00/link/qnresearch_4064.pdf",
+    "https://www.buffett-code.com/company/4973/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 人手不足 損失 億円",
+   "results": [
+    "https://the-shashi.com/tse/4975/financials/segment/",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/05/078f8bc36a5f9bbc70fdbe590673b004.pdf",
+    "https://www.nomuraholdings.com/jp/investor/summary/highlight/segment.html",
+    "https://www.nomura-ir.co.jp/ja/qnresearch/report_4064/main/00/teaserItems1/00/link/qnresearch_4064.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/securities-report/20260317/S100XR5L.pdf",
+    "https://www.fastretailing.com/jp/ir/library/pdf/yuho202408.pdf",
+    "https://ir.mmc.co.jp/ja/ir/main/0/teaserItems1/0/linkList/03/link/00Integrated2026.pdf",
+    "https://researchmap.jp/takayuki_yumoto/misc/21374928"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109）",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://tokyobrief.com/jp/companies/4966-c-uyemura-co-ltd",
+    "https://the-shashi.com/tse/4966/financials/segment/",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/016/teaserItems5/0/linkList/0/link/107_full_jsec.pdf",
+    "https://www.mcgc.com/ir/pdf/01101/01252.pdf",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/05/078f8bc36a5f9bbc70fdbe590673b004.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 推移",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://the-shashi.com/tse/4966/segment/",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf",
+    "https://www.nomuraholdings.com/jp/investor/summary/highlight/segment.html",
+    "https://the-shashi.com/tse/4975/financials/segment/",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/05/809490202c9a56a09f3a634ff852acba.pdf",
+    "https://kabutan.jp/stock/finance?code=4966"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 統計 PDF",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://the-shashi.com/tse/4966/segment/",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/016/teaserItems5/0/linkList/0/link/107_full_jsec.pdf",
+    "https://www.mcgc.com/ir/pdf/01101/01252.pdf",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/05/809490202c9a56a09f3a634ff852acba.pdf",
+    "https://the-shashi.com/tse/4975/financials/segment/",
+    "https://www.nikken-kogaku.co.jp/wp/wp-content/uploads/2023/06/c3815195e68b4b527ca68fb6f0fe5bc0.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://the-shashi.com/tse/4966/segment/",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://edinetdb.jp/company/E01045/earnings/FY2023",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.crex-data.com/company/4966",
+    "https://www.nomuraholdings.com/jp/investor/summary/highlight/segment.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 従業者規模別",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://the-shashi.com/tse/4966/segment/",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://www.nomuraholdings.com/jp/investor/summary/highlight/segment.html",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100T3N6.pdf",
+    "https://the-shashi.com/tse/4975/financials/segment/",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/05/078f8bc36a5f9bbc70fdbe590673b004.pdf",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2023/documents/shiryo_01-08.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 1人当たり 万円",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://the-shashi.com/tse/4966/financials/segment/",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/05/078f8bc36a5f9bbc70fdbe590673b004.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S10056DA.pdf",
+    "https://cdn.ullet.com/edinet/pdf/S100C9YI.pdf",
+    "https://www.nomuraholdings.com/jp/investor/summary/highlight/segment.html",
+    "https://the-shashi.com/tse/4975/financials/segment/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） 2015 2025",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://the-shashi.com/tse/4975/financials/segment/",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://tokyobrief.com/jp/companies/4966-c-uyemura-co-ltd",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100IFEM.pdf",
+    "https://www.sekisuikasei.com/jp/a.php?id=339",
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://www.nomuraholdings.com/jp/investor/presentation/presentation_past/main/011111113/teaserItems1/00/tableContents/00/multiFileUpload30/link/2015_1201_prem.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "C.Uyemura JCU segment sales by fiscal year domestic overseas annual securities report Japan statistics",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/05/Uyemura_Tanshin_Mar2026_4Q.pdf",
+    "https://www.sec.gov/Archives/edgar/data/72127/000119312507156870/d6k.htm",
+    "https://www.sekisuichemical.com/ir/report/financial_report/__icsFiles/afieldfile/2022/07/27/ASR_Mar2022.pdf",
+    "https://waseda-jp.libguides.com/research-navi/find_securities/en",
+    "https://www.mitsuifudosan.co.jp/english/corporate/ir/library/fs/pdf/ASR_2503.pdf",
+    "https://www.sojitz.com/pdf/en/ir/reports/vsecurity/ar2025e_fs.pdf",
+    "https://www.jcu-i.com/english/news/3367/",
+    "https://stockanalysis.com/quote/tyo/4966/",
+    "https://biz.toyokeizai.net/en/data/service/detail/id=762",
+    "https://www.uyemura.co.jp/en/ir/library/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109）",
+   "results": [
+    "https://note.com/hsho488/n/nd3f560e598b9",
+    "https://note.com/hsho488/n/na758bf1613e7",
+    "https://note.com/pocoa_420/n/n5e6f8c56216b",
+    "https://note.com/asahikigyou/n/n1dab7b75af48",
+    "https://note.com/pocoa_420/n/n23df2b5a6bad",
+    "https://note.com/nekstam3246/n/n562009151f4f",
+    "https://note.com/irshukatsu/n/n426fc7c8c112"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109）",
+   "results": [
+    "https://x.com/kessan_db/status/2057648508442915084",
+    "https://x.com/kessan_db/status/2118453198075895931",
+    "https://x.com/IrTracker75546/status/2118248684899242260",
+    "https://x.com/toushiobaba/status/2118494068674359806",
+    "https://x.com/quickdisclosure/status/2118229435459715570",
+    "https://x.com/ai_analyst_ir/status/2118305067182764334",
+    "https://x.com/HayamiKei_AI/status/2085806287934403028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109）",
+   "results": [
+    "https://www.linkedin.com/company/nightwing-us",
+    "https://www.linkedin.com/company/biolab-holdings",
+    "https://www.linkedin.com/company/doosan",
+    "https://www.linkedin.com/company/taco-inc-",
+    "https://www.linkedin.com/pulse/how-data-driving-masters-ibm-wio7e",
+    "https://jp.linkedin.com/posts/剛-吉田-181a81129_有価証券報告書レビュー及び大量保有報告書等のレビューについて令和８年度-activity-7443298374914863106-Zr69",
+    "https://www.linkedin.com/in/layne-lundeen-86652517"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109）",
+   "results": [
+    "https://www.facebook.com/KPMG.JP/posts/2026年3月27日金融庁から2025年度の有価証券報告書レビューの審査結果及び審査結果を踏まえた留意事項等が公表されましたあずさ監査法人のプロフェッショナルが/1375637524583441/",
+    "https://www.facebook.com/nikkeibpITpro/posts/情報通信企業大手15社の有価証券報告書を読み解き売上高や収益力平均給与などをランキング形式で見ていく第5回は平均勤続年数や平均残業時間有給休暇取得率男性の育児休/1389019073227973/",
+    "https://www.facebook.com/groups/1642518119356873/",
+    "https://www.facebook.com/JCUConservative/posts/激動-香港の今-中国崩壊へ-現代の革命jcuインサイト-第６回-後編ニュースでは報じられない世界の話未来の話ここだけの話を毎週木曜日にお届けする新番組jcu-イ/982837328763685/",
+    "https://www.facebook.com/JCUConservative/posts/公開記事を掲載しましたantifaアンティファが注目を集めている元々はアンチファシズムを標榜する団体だったが先鋭化し暴徒と化す彼らはかつての日本赤軍や革マル派を/886554598391959/",
+    "https://www.facebook.com/JCUConservative/posts/cpac-japanの総括御礼と2025年の展望jcuインサイト公開しましたhttpsyoutubedgxxzxqvulg饗庭あえば浩明の新刊書籍トランプの帰還/601716778888128/",
+    "https://www.facebook.com/SENKEN.shimbun/posts/24年度レディスアパレル売上高ランキング-環境の変化などで減収企業は半数httpssenkencojppostsladies-ranking-240801/1329920682474047/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） note 社長",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://the-shashi.com/tse/4966/financials/segment/",
+    "https://note.com/note_ir/n/n8e61bc29837d",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://note.com/mahjong_lab/n/nd24fb5232185",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/016/teaserItems5/0/linkList/0/link/107_full_jsec.pdf",
+    "https://www.uacj.co.jp/ir/assets/UACJ_Report2026_J_web_print_2.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/co3pgt0000001sxv-att/12note-1s.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109） X 投稿",
+   "results": [
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/fa2c32a0df1f0dd66941e05b90df8a6a.pdf",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4966",
+    "https://www.jcu-i.com/ir/materials/",
+    "https://www.nomuraholdings.com/jp/investor/summary/finance.html",
+    "https://www.jpx.co.jp/markets/statistics-equities/examination/",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/05/078f8bc36a5f9bbc70fdbe590673b004.pdf",
+    "https://www.moomoo.com/news/notice/307857007/c-uyemura-first-quarter-earnings-release-for-the-fiscal-year",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/securities-report/20260317/S100XR5L.pdf",
+    "https://www.fsa.go.jp/news/r5/sonota/20240327/02.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "C.Uyemura JCU segment sales by fiscal year domestic overseas annual securities report site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/company/uyemura",
+    "https://www.linkedin.com/company/uyemura-usa/",
+    "https://www.linkedin.com/in/marc-uyemura-912b9422a",
+    "https://jp.linkedin.com/in/tetsuro-kato-b0a45a2b",
+    "https://jp.linkedin.com/in/shinji-tachibana-320bb350",
+    "https://www.linkedin.com/in/guyemura",
+    "https://www.linkedin.com/pub/dir/+/Uemura/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ42頁・検索18回）"
+ }
+}

@@ -37,7 +37,7 @@
   - ［一次］2026-11-06「出所）SII「災害時に活用可能な家庭用蓄電システム導入促進事業費補助金」等データより三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「補助金総額：5億3400万EUR」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「系統用蓄電池等電力貯蔵システム導入支援関連の予算措置の状況」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf
-- 経済（規模・価格・為替）（143件）：
+- 経済（規模・価格・為替）（142件）：
   - ［一次］2026-11-08「5.9万円/kWh (5.6万円/kWh)」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［一次］2026-11-08「1.6万円/kWh (1.5万円/kWh)」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［一次］2026-11-08「4.2万円/kWh (4.0万円/kWh)」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
@@ -49,20 +49,12 @@
   - ［一次］2026-11-06「◼ 関西近辺においては、蓄電池関連の企業で、今後5年間で合計約1万人の雇用が見込まれており、産学官」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「が連携して、 2024年度よりバッテリー人材育成・確保の取組を本格的に実施していく」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「「バッテリー人材育成の方向性」(2023年3月)に関する主な進捗等」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
-- 技術（新しい技術・実証）（75件）：
+- 技術（新しい技術・実証）（63件）：
   - ［一次］2026-11-08「※1） 令和5年度経産省ZEH事業、令和5年度環境省ZEH事業、令和5年度環境省ZEH-M事業、分散型エネルギーリソースの更なる活用に向けた実証事業（DER等導入事業・C事業）等のデータを基に推計」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
-  - ［一次］2026-11-06「https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_003_04_00.pdf より三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 本回を含む計４回の検討会の結果は、2月開催予定の再生可能エネルギー大量導入・次世代電力ネット」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「※3：「その他」には製造・検査費用や開発費用等が含まれているが、工事費は含まれない」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 事業者ヒアリング及び「平成31年度需要家側エネルギーリソースを活用したバーチャルパワープラント構築実証」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- SNS・note（LinkedIn・検索結果の抜粋）（2件）：
-  - ［SNS］2026-11-08「What is a Battery Energy Storage System (BESS) and Why is It ... What is a Battery Energy Storage System (BESS) and Why is It ... LinkedIn https://www.linkedin.com > pulse > w...」https://www.linkedin.com/pulse/what-battery-energy-storage-system-bess-why-essential-singal-sj1wc
-  - ［SNS］2026-11-06「Battery Energy Storage Systems (BESS) - LinkedIn Battery Energy Storage Systems (BESS) - LinkedIn LinkedIn https://www.linkedin.com > pulse > b...」https://www.linkedin.com/pulse/battery-energy-storage-systems-bess-comprehensive-guide-jose-a-rico-07vrf
-- 検索結果の抜粋（8件）：
-  - ［一次］2026-11-08「2024年度 定置用 蓄電システム普及拡大検討会の 結果 ... — 2024年度 定置用 蓄電システム普及拡大検討会の 結果 ... 経済産業省 PDF https://www.meti.go.jp > storage_system > pdf」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
-  - ［一次］2026-11-06「定置用 蓄電システムの現状と課題 - 経済産業省 — 定置用 蓄電システムの現状と課題 - 経済産業省 経済産業省 PDF https://www.meti.go.jp > battery_strategy2 > shiryo06」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf
-  - ［記事］2026-11-08「定置用蓄電池 向け電池市場 2045年に15兆円規模に拡大へ — 定置用蓄電池 向け電池市場 2045年に15兆円規模に拡大へ 環境ビジネスオンライン https://www.kankyo-business.jp > news」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
-  - ［記事］2026-11-06「数字は正直か――経産省 定置用 蓄電システム普及拡大検討会 ... — 数字は正直か――経産省 定置用 蓄電システム普及拡大検討会 ... 慧通信技術工業株式会社 https://www.ieee802.co.jp > articles > article-034-re-evalu...」https://www.ieee802.co.jp/articles/article-034-re-evaluation-grid-scale-battery.php
-  - ［記事］2026-11-06「世界の 定置用 蓄電システム市場 2026 -2030年予測 高成長 ... — 世界の 定置用 蓄電システム市場 2026 -2030年予測 高成長 ... エネがえる https://www.enegaeru.com > エネがえるAPI」https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030
-- SNS・note（X・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「# 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X # 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X X https://x.com > Vyhledávání」https://x.com/hashtag/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%90%91%E3%81%91%E8%93%84%E9%9B%BB%E6%B1%A0?lang=cs
+  - ［一次］2026-11-06「事業費補助金」（VPP実証）の申請データに基に、業務・産業用蓄電システム価格の相場を推計したとこ」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
+- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- 検索結果の抜粋：未完（まだ取れていない・掘る対象）
+- SNS・note（X・検索結果の抜粋）：未完（まだ取れていない・掘る対象）

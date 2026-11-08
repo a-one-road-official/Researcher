@@ -1,0 +1,408 @@
+{
+ "name": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）",
+ "en": "using regulatory inspection and filing records in investigative reporting IRE public records data",
+ "aliases": [
+  "検査記録 調査報道 使い方",
+  "PRTR データ 事業所 調べ方",
+  "行政処分 公表 データ 調べ方 記者"
+ ],
+ "context": "探し先",
+ "kind": "market",
+ "researched_at": "2026-11-08T17:57:07.873987+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/amlcftmukudori/n/n4bb52994d890",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amlcftmukudori/n/n0091ffda7f49",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amlcftmukudori/n/nc0e59e3c99f3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masher772/n/ncbbb109ffa6e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amlcftmukudori/n/n72de11cbbf73",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gifted_viola8806/n/n9b998f68e75f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ppc.go.jp/personalinfo/faq/kinyukikan_QA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academy.claude.com/ja/use-cases/legal-research-memo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.miyake.gr.jp/wp-content/uploads/2026/05/%E9%87%91%E8%9E%8D%E5%BA%81%E3%80%8C%E3%83%9E%E3%83%8D%E3%83%AD%E3%83%B3%E7%AD%89%E5%AF%BE%E7%AD%96%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%88%E7%89%88%EF%BC%89%E3%80%8D%E3%81%AE%E8%BF%BD%E5%8A%A0%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reddit.com/r/RegulatoryClinWriting/comments/1c89l77/use_of_note_to_file_ntf_and_memorandum_memo_as/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fsa.go.jp/str/tetuzuki/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cistec.or.jp/export/faq/faqansers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_function_claims/notice/assets/food_labeling_cms205_251001_41.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.courts.go.jp/assets/071031_f3jyunbi_tebiki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.safety-chubu.meti.go.jp/denryoku/yoshiki/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coplus-one.jp/kinyu-seisei-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/news/r6/ginkou/20250331-3/03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fisc.or.jp/document/public/file/Opportunities_and_Challenges_of_New_Technologies_for_AML_CFT_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/research/brp/fsr/data/fsrb241021-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/gyosei.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbaudit.go.jp/koryu/study/pdf/itaku_r3_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://airspace-office.jp/pse-inspection-records-labeling-compliance-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ire.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rcfp.org/how-to-file-foia-requests-like-a-pro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/IRE.NICAR/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ap.org/the-definitive-source/behind-the-news/ap-investigative-reporter-offers-tips-for-seeking-public-records/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.benkuebrich.com/blog/tips-and-tricks-for-public-records-requests-from-ire-2022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lexisnexis.com/en-us/glossary/investigative-reporting.page",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109） site:note.com",
+   "results": [
+    "https://note.com/amlcftmukudori/n/n4bb52994d890",
+    "https://note.com/amlcftmukudori/n/n0091ffda7f49",
+    "https://note.com/amlcftmukudori/n/nc0e59e3c99f3",
+    "https://note.com/masher772/n/ncbbb109ffa6e",
+    "https://note.com/amlcftmukudori/n/n72de11cbbf73",
+    "https://note.com/gifted_viola8806/n/n9b998f68e75f",
+    "https://note.com/tsunobuchi/n/n17982922130d",
+    "https://note.com/fintertech/n/nd2000306c202",
+    "https://note.com/good_camel6014/n/n88dbf79c0afc",
+    "https://note.com/hrkzz/n/n5e1071a66969"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109） note",
+   "results": [
+    "https://note.com/amlcftmukudori/n/n4bb52994d890",
+    "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
+    "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/index.html",
+    "https://www.ppc.go.jp/personalinfo/faq/kinyukikan_QA/",
+    "https://academy.claude.com/ja/use-cases/legal-research-memo",
+    "https://www.miyake.gr.jp/wp-content/uploads/2026/05/%E9%87%91%E8%9E%8D%E5%BA%81%E3%80%8C%E3%83%9E%E3%83%8D%E3%83%AD%E3%83%B3%E7%AD%89%E5%AF%BE%E7%AD%96%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%88%E7%89%88%EF%BC%89%E3%80%8D%E3%81%AE%E8%BF%BD%E5%8A%A0%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.pdf",
+    "https://www.reddit.com/r/RegulatoryClinWriting/comments/1c89l77/use_of_note_to_file_ntf_and_memorandum_memo_as/?tl=ja",
+    "https://help.viedoc.net/l/1fc93a/ja/",
+    "https://note.com/amlcftmukudori/n/n60c6d61bbcb6",
+    "https://note.com/cmr_airtrade/n/n20ed1faaf6b6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109） やり方",
+   "results": [
+    "https://www.ppc.go.jp/personalinfo/faq/kinyukikan_QA/",
+    "https://www.fsa.go.jp/str/tetuzuki/index.html",
+    "https://www.cistec.or.jp/export/faq/faqansers.html",
+    "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_function_claims/notice/assets/food_labeling_cms205_251001_41.pdf",
+    "https://www.courts.go.jp/assets/071031_f3jyunbi_tebiki.pdf",
+    "https://www.safety-chubu.meti.go.jp/denryoku/yoshiki/index.html",
+    "https://coplus-one.jp/kinyu-seisei-ai/",
+    "https://www.jetro.go.jp/ext_images/world/security_trade_control/pdf/guide/202401_v2.pdf",
+    "https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/tokusetsu/index.htm",
+    "https://yoshikawa-sogo.com/regulatory-investigations/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109） 事例",
+   "results": [
+    "https://www.fsa.go.jp/news/r6/ginkou/20250331-3/03.pdf",
+    "https://www.fisc.or.jp/document/public/file/Opportunities_and_Challenges_of_New_Technologies_for_AML_CFT_jp.pdf",
+    "https://www.ppc.go.jp/personalinfo/faq/kinyukikan_QA/",
+    "https://www.miyake.gr.jp/wp-content/uploads/2026/05/%E9%87%91%E8%9E%8D%E5%BA%81%E3%80%8C%E3%83%9E%E3%83%8D%E3%83%AD%E3%83%B3%E7%AD%89%E5%AF%BE%E7%AD%96%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%88%E7%89%88%EF%BC%89%E3%80%8D%E3%81%AE%E8%BF%BD%E5%8A%A0%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.pdf",
+    "https://coplus-one.jp/kinyu-seisei-ai/",
+    "https://www.boj.or.jp/research/brp/fsr/data/fsrb241021-1.pdf",
+    "https://www.cistec.or.jp/export/faq/faqansers.html",
+    "https://www.npa.go.jp/sosikihanzai/jafic/todoke/gyosei.htm",
+    "https://www.jbaudit.go.jp/koryu/study/pdf/itaku_r3_2.pdf",
+    "https://airspace-office.jp/pse-inspection-records-labeling-compliance-support/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "using regulatory inspection and filing records in investigative reporting IRE public records data",
+   "results": [
+    "https://www.ire.org/",
+    "https://www.rcfp.org/how-to-file-foia-requests-like-a-pro/",
+    "https://www.facebook.com/IRE.NICAR/",
+    "https://www.ap.org/the-definitive-source/behind-the-news/ap-investigative-reporter-offers-tips-for-seeking-public-records/",
+    "https://www.benkuebrich.com/blog/tips-and-tricks-for-public-records-requests-from-ire-2022",
+    "https://www.lexisnexis.com/en-us/glossary/investigative-reporting.page",
+    "https://ire.users.membersuite.com/portallink/bba604a0-00de-c2f2-6e32-0b498dbabaa8",
+    "https://www.linkedin.com/company/investigative-reporters-and-editors",
+    "https://en.wikipedia.org/wiki/Investigative_Reporters_and_Editors",
+    "https://guides.ire.org/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）",
+   "results": [
+    "https://note.com/amlcftmukudori/n/n4bb52994d890",
+    "https://note.com/amlcftmukudori/n/n60c6d61bbcb6",
+    "https://note.com/gifted_viola8806/n/n9b998f68e75f",
+    "https://note.com/amlcftmukudori/n/n72de11cbbf73",
+    "https://note.com/hrkzz/n/n5e1071a66969",
+    "https://note.com/kagawatomo/n/nc9844172c40a",
+    "https://note.com/ssumisin/n/n1fb602a3b6a8",
+    "https://note.com/kenji_tocho/n/n0b276717cde7",
+    "https://note.com/utatane_nm/n/n658fe3d6fa17",
+    "https://note.com/kagawatomo/n/n0429a63c2a31"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）",
+   "results": [
+    "https://x.com/enspire_co_jp/status/2119400900032942231",
+    "https://x.com/mhimt/status/2117740102218916004",
+    "https://x.com/HiromitsuTakagi/status/2109291902180946144",
+    "https://x.com/notanurse_mako",
+    "https://x.com/imanari_satoshi/status/2091020283293675860",
+    "https://x.com/hagax01/status/2109879105034604644",
+    "https://help.x.com/ja/rules-and-policies/x-law-enforcement-support",
+    "https://x.com/tossact/status/2057215694702600353",
+    "https://x.com/RegPathLab/status/2117845233602093222",
+    "https://x.com/atomic_journal/status/2074814502684524612"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）",
+   "results": [
+    "https://au.linkedin.com/in/akari-matama-212aa6282",
+    "https://jp.linkedin.com/in/y-izumi4864",
+    "https://jp.linkedin.com/in/lawyerkenjigoto52243",
+    "https://jp.linkedin.com/jobs/view/regulatory-affairs-specialist-at-elekta-4387836459",
+    "https://jp.linkedin.com/pulse/effective-relationships-regulators-cris-mattoon-jd-ccep-cams?tl=ja",
+    "https://jp.linkedin.com/pulse/use-real-world-data-evidence-regulatory-submissions-global-hanlon-ogezc?tl=ja",
+    "https://jp.linkedin.com/posts/takyono_10月27日火に東京でsidleyとpwc共催のクロスボーダー紛争当局対応-activity-7509082518260822016-QQHs",
+    "https://jp.linkedin.com/posts/永嶋-國雄-88ab1189_法的鑑定書-令和8年6月-作成者永嶋國雄-技術士原子力安全防災-私は長年にわたり-activity-7471483904932225024-l-SP",
+    "https://www.linkedin.com/posts/利枝-武内-473a5b41_20240322開催デジタル庁政府におけるアナログ規制の見直し推進に向けた-activity-7176799922669674497-qeqd",
+    "https://www.linkedin.com/posts/daisei-furuyama-1a5866216_会社として記録文化を根付けるためには-使う目的を記録者が理解しておく-使うことによる-activity-6849559879804317696-_G3n"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）",
+   "results": [
+    "https://www.facebook.com/groups/627324771859424/_join_/?locale=ja_JP"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109） note 社長",
+   "results": [
+    "https://note.com/domonjo01/n/n4af5e6094d1c",
+    "https://note.com/ai__worker/n/n0a6e8bcad526",
+    "https://www.fsa.go.jp/common/law/guide/city/02.html",
+    "https://digital-gov.note.jp/n/na05192a2e4a1",
+    "https://note.com/ai_lab_work/n/n2780d4ddaee8",
+    "https://coplus-one.jp/kinyu-seisei-ai/",
+    "https://www.backoffice-arukikata.com/notebooklm-soumu-shirabemono/",
+    "https://claudecode.digirise.ai/blog/claude-code-finance-industry",
+    "https://tokyobrief.com/jp/articles/fsb-final-report-12-sound-practices-responsible-ai-adoption"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109） X 投稿",
+   "results": [
+    "https://x.com/fsa_JAPAN",
+    "https://www.fsa.go.jp/str/tetuzuki/index.html",
+    "https://www.digital.go.jp/policies/legal-practice",
+    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
+    "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
+    "https://www.gov-online.go.jp/api/v1/1/dynamic_furigana_json?url=%2Farticle%2F201703%2Fentry-7660.html&mode=1",
+    "https://www.courts.go.jp/assets/071031_f3jyunbi_tebiki.pdf",
+    "https://www.youtube.com/watch?v=LNKLUkdfts4",
+    "https://ikenplus.cfa.go.jp/api/file/6170YNKDT",
+    "http://www.nts-book.co.jp/item/detail/contents/bio/20231130_292.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "using regulatory inspection and filing records in investigative reporting IRE public records data site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/andylehren",
+    "https://www.linkedin.com/in/kateyrusch",
+    "https://www.linkedin.com/in/yurinagano",
+    "https://www.linkedin.com/in/catelizabethmurphy",
+    "https://www.linkedin.com/in/investigatormikemason",
+    "https://www.linkedin.com/in/isabelle-marceles",
+    "https://www.linkedin.com/in/yanqi-xu-journalist",
+    "https://ie.linkedin.com/in/ken-foxe-77319733",
+    "https://www.linkedin.com/in/rachel-gold-987227206",
+    "https://www.linkedin.com/in/ron-nixon-02365610"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-08T17:57:07.873987+00:00"
+}

@@ -8,16 +8,15 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-09 02:55 JST
+## 更新：2026-11-09 03:14 JST
 
 ## この24時間で増えた事実（一部）
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「さらに、ロボットメンテナンス技術者の多くがドローンや産業用ロボット分野から転身してきた人材だ」https://36kr.jp/488876/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「人手不足の製造現場にフィジカルAI 「職人技」継承の担い手に 国産開発へ企業連合 | 共同通信 プレミアム | 沖縄タイムス＋プラス」https://www.okinawatimes.co.jp/articles/-/1912883
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「こうした人型ロボットは、まずは製造業や物流業などでの活用が進むと見られるが、担い手不足に悩む建設業もターゲットの1つだ」https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「日本建設業連合会が25年7月に発表した長期ビジョン2.0では、25年度に299万人いた技能者が、10年後の35年度に264万人まで減ると予測した」https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」https://36kr.jp/488876/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題」https://36kr.jp/488876/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品の修理代として3万元（約70万円）を請求され、その高さに驚いたという」https://36kr.jp/488876/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・検索結果の抜粋）：「なぜ中国は 人型ロボット 開発に注力するのか - note なぜ中国は 人型ロボット 開発に注力するのか - note note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/nakaikeya/n/n2c1c63111e29
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「北京市などをはじめとして、規模の経済がある程度形成された地方政府・地方自治体は企業向けのみならず、消費者の中でも手が届きそうになってきた層に向けて、人型ロボットを消費家電製品のような位置づけで販売する試みを始めている」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「このフェスはまさに、北京市政府を中心とした中国政府とロボット産業界がエンドユーザーの需要を刺激するための戦略を表すと捉えることができる」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「そして4つ目は、ロボット販売促進補助金措置の実施だ」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
@@ -29,10 +28,6 @@
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「ロボットたちが走る。格闘する。パンチを繰り出し、キックを放つ。転倒すれば、再び立ち上がる。」https://note.com/nakaikeya/n/n2c1c63111e29
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「「ロボットの価格崩壊」は中小企業の人手不足を本当に解くのか？ - WORLD INSIGHT」https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「「ロボットの価格崩壊」は中小企業の人手不足を本当に解くのか？」https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「# 人型ロボット - Search / X # 人型ロボット - Search / X X https://x.com > Search」https://x.com/hashtag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「関節1つの交換で70万円！中国で 人型ロボット 普及の陰に ... — 関節1つの交換で70万円！中国で 人型ロボット 普及の陰に ... 36Kr Japan https://36kr.jp > new-cat > その他 > 編集部おす」https://36kr.jp/488876/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「人型ロボット 07 - YouTube — 人型ロボット 07 - YouTube YouTube https://www.youtube.com > watch」https://www.youtube.com/watch?v=TJmLxjcqM_A&vl=ja
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「特化型ヒューマノイド ロボット市場 は、予測期間 2026 -2033 ... — 特化型ヒューマノイド ロボット市場 は、予測期間 2026 -2033 ... LinkedIn https://jp.linkedin.com > pul」https://jp.linkedin.com/pulse/%E7%89%B9%E5%8C%96%E5%9E%8B%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AF%E4%BA%88%E6%B8%AC%E6%9C%9F%E9%96%932026-2033%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6137%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E6%BF%80%E3%81%97%E3%81%84%E7%AB%B6%E4%BA%89-zb0ee
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「中国車、国内失速も海外で快走 9月の輸出56％増、輸入は半減」https://36kr.jp/492924/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」https://36kr.jp/488876/
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題」https://36kr.jp/488876/
@@ -55,16 +50,12 @@
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「予想され、年平均成長率（CAGR）は32.5％」https://www.ltts.com/jp/blog/edge-ai-chip-design
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「市場調査機関Grand View Researchの最新リポートによると、世界のエッジAIチップ市場は2025年の273億ドル（約4.4兆円）から2033年には2,918億ドル（約46.9兆円）超へ急拡大し、年平均成長率（CAGR）は34.」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「チップ種別ではCPUが依然として主流だが、ASICが33.2%の成長率で最も急成長するカテゴリーとなる」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「AI Accelerator Chips Market Size, Share, Growth, 2034 — AI Accelerator Chips Market Size, Share, Growth, 2034 Straits Re」https://straitsresearch.com/report/ai-accelerator-chips-market
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜経済（規模・価格・為替）：「※2024年にMBO（経営陣による買収）の報道など資本政策の動きがあるため、上場廃止リスクやTOB価格へのサヤ寄せ等の動向には十分注意が必要（現時点では上場中として選定するが、TOB成立時は投資対象外となる）」https://note.com/tatsuya_sabato/n/n8f3616fc1607
 - デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の顧客（発注元が求めること）：「また、蓄電システムの「JC-STAR」（認証制度）により開始されたサイバーセキュリティ対策動向、LFP系が注目されるLiBの正極種類別採用動向、データセンター向けの蓄電システムをBBU、UPS、ESSなどの観点からも整理した」https://www.nikkei.com/article/DGXZRSP714192_S6A021C2000000/
 - デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「定置用蓄電池向け電池市場 2045年に15兆円規模に拡大へ、民間調査 | 環境ビジネスオンライン」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
 - デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「定置用蓄電池向け電池市場 2045年に15兆円規模に拡大へ、民間調査」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
 - デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜経済（規模・価格・為替）：「定置用蓄電システム向け蓄電池の世界市場は、2026年の5兆4949億円から2045年には15兆782億円に拡大する見通し」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
 - デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「法人であれば、「単純回収が7年か8年か」より、「停電時に操業停止損失を減らせるか」「稟議資料で説明しやすいか」が重要」https://www.enegaeru.com/japan-battery-market-outlook-2026-2030
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「定置用蓄電池 向け電池市場 2045年に15兆円規模に拡大へ — 定置用蓄電池 向け電池市場 2045年に15兆円規模に拡大へ 環境ビジネスオンライン https://www.kankyo-business.jp > news」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「2025年版 定置用蓄電池 （ESS）市場の現状と将来展望 ～家庭 ... — 2025年版 定置用蓄電池 （ESS）市場の現状と将来展望 ～家庭 ... yano.co.jp https://www.yano.co.jp > market」https://www.yano.co.jp/market_reports/C66126800?srsltid=AYCX9vJN888BXP7qRM4BffACJbKMq_osV43l7W6QX0jsM0nk6mTCIvME
-- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「電気自動車の車載用電池を活用した 定置用蓄電池 システムの ... — 電気自動車の車載用電池を活用した 定置用蓄電池 システムの ... 株式会社ユーラスエナジーホールディングス https://www.eurus-energy.com 」https://www.eurus-energy.com/news/2023/20230529-1750.html
 - デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「採用したい建材・設備メーカーランキング2024」https://xtech.nikkei.com/atcl/nxt/column/18/02421/062500123/
 - デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「ウェブマガジン「環境ビジネスオンライン」では、環境業界の注目ニュース・最新トレンド・政策・企業情報解説記事など、実務に役立つ情報・サービスを提供しており、多くの実務層の方々にご参照いただいています」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
 - デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「カルコパイライト太陽電池も量産工場新設で公的支援 神奈川県から1.6億円」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
@@ -82,15 +73,24 @@
 - 防衛｜日本→海外（輸出）｜軍用ドローン｜経済（規模・価格・為替）：「建設用プラスチック市場、2035年に2億8,293万米ドル規模へ拡大予測｜CAGR 7.95％、軽量化・耐久性・省エネ建材の需要拡大が市場成長を加速」https://www.atpress.ne.jp/news/1812347
 - 防衛｜日本→海外（輸出）｜軍用ドローン｜経済（規模・価格・為替）：「ヒト生体試料の世界市場（2026年～2032年）、市場規模（ヒト生体液、ヒト組織サンプル、細胞製品、その他）・分析レポートを発表」https://www.atpress.ne.jp/news/1812347
 - 防衛｜日本→海外（輸出）｜艦艇｜顧客（金を払う側）：「72年走った2両が「テーマパーク入り」 京成グループから県内企業へ無償譲渡 筑波山ケーブル」https://trafficnews.jp/post/705464
-- 防衛｜日本→海外（輸出）｜艦艇｜顧客（金を払う側）：「ホワイトハウス「米海軍戦闘艦など4隻を海外で建造すべき」…韓国企業は受注獲得なるか | Joongang Ilbo | 中央日報」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
-- 防衛｜日本→海外（輸出）｜艦艇｜SNS・note（Facebook・検索結果の抜粋）：「インド海軍 艦艇 「サヒャドリ」の横須賀入港および歓迎式典の ... インド海軍 艦艇 「サヒャドリ」の横須賀入港および歓迎式典の ... Facebook https://www.facebook.com > IndiaInJapan >」https://www.facebook.com/IndiaInJapan/posts/%EF%B8%8F%EF%B8%8F%EF%B8%8F%E3%82%A4%E3%83%B3%E3%83%89%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%82%B5%E3%83%92%E3%83%A3%E3%83%89%E3%83%AA%E3%81%AE%E6%A8%AA%E9%A0%88%E8%B3%80%E5%85%A5%E6%B8%AF%E3%81%8A%E3%82%88%E3%81%B3%E6%AD%93%E8%BF%8E%E5%BC%8F%E5%85%B8%E3%81%AE%E6%A7%98%E5%AD%90%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99%E3%82%A4%E3%83%B3%E3%83%89%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%82%B5%E3%83%92%E3%83%A3%E3%83%89%E3%83%AA%E3%81%AF%E7%8F%BE%E5%9C%A8%E5%A4%9A%E5%9B%BD%E9%96%93%E6%B5%B7%E4%B8%8A%E5%85%B1%E5%90%8C%E8%A8%93%E7%B7%B4malabar-2026%E3%81%8A%E3%82%88%E3%81%B3%E6%97%A5%E5%8D%B0%E4%BA%8C/1569502491888538/
-- 防衛｜日本→海外（輸出）｜艦艇｜SNS・note（Facebook・検索結果の抜粋）：「9月2日（水）に、横須賀港において、イタリア海軍 艦艇 ... 9月2日（水）に、横須賀港において、イタリア海軍 艦艇 ... Facebook https://www.facebook.com > jmsdf.yrh > posts > 」https://www.facebook.com/jmsdf.yrh/posts/%EF%BC%99%E6%9C%88%EF%BC%92%E6%97%A5%E6%B0%B4%E3%81%AB%E6%A8%AA%E9%A0%88%E8%B3%80%E6%B8%AF%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%82%B8%E3%83%A7%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%8B%E3%83%87%E3%83%AC%E3%83%90%E3%83%B3%E3%83%87%E3%83%8D%E3%83%BC%E3%83%ACgovanni-darre-bande-nere-p434%E3%81%AE%E5%85%A5%E6%B8%AF%E6%AD%93%E8%BF%8E%E8%A1%8C%E4%BA%8B%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9Fwe/1483619513792825/
 - 防衛｜日本→海外（輸出）｜艦艇｜技術（新しい技術・実証）：「米国と造船協力プロジェクト「MASGA（Make American Shipbuilding Great Again＝米国造船業を再び偉大にする）」を進めている韓国が、実際に受注を獲得できるか注目される」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
 - 防衛｜日本→海外（輸出）｜艦艇｜技術（新しい技術・実証）：「先月にはワシントンD．C．に韓米造船協力センター（KUSPC）を開設し、造船技術の開発や人材育成に向けた協力にも着手した」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
 - 防衛｜日本→海外（輸出）｜艦艇｜技術（新しい技術・実証）：「Breaking Defenseも「今回の投資は韓国側が米韓貿易協定の中で約束した『米造船業界に対する1,500億ドルの投資』の一部だ」「ハンファ･フィラデルフィア造船所は米国と韓国の協力関係において重要な役割を果たすことが期待されている」」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
 - 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「ホワイトハウス行政管理予算局（OMB）は先月21日（現地時間）、議会に提出した「2027会計年度国防権限法（NDAA）に関する行政当局の政策立場書（SAP）」で、このような方針を示した」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
 - 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「SAPはNDAAに対するドナルド・トランプ米政府の公式見解をまとめた文書で、ホワイトハウスはこの文書を通じ、外国の造船所で建造された戦闘艦の購入を認めないNDAAの条項に反対する考えを示した」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
 - 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「トランプ政府は、海軍が海外の造船所と契約して水上戦闘艦2隻と非戦闘支援艦2隻を建造できる権限を付与する立法を優先的に推進するという方針だ」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の競合（奪いに来る側）：「ホワイトハウス「米海軍戦闘艦など4隻を海外で建造すべき」…韓国企業は受注獲得なるか」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の競合（奪いに来る側）：「米国と造船協力プロジェクト「MASGA（Make American Shipbuilding Great Again＝米国造船業を再び偉大にする）」を進めている韓国が、実際に受注を獲得できるか注目される」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の競合（奪いに来る側）：「これにより、米国内造船所の建造の滞留を解消するとともに、海外造船所による米国への大規模な直接投資が進むことを期待している」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
+- 防衛｜日本→海外（輸出）｜艦艇｜社会（人・担い手）：「先月にはワシントンD．C．に韓米造船協力センター（KUSPC）を開設し、造船技術の開発や人材育成に向けた協力にも着手した」https://japanese.joins.com/JArticle/353082?sectcode=A00&servcode=A00
+- 防衛｜日本→海外（輸出）｜艦艇｜社会（人・担い手）：「この買収は250年間に渡って海軍と関係を築いてきたフィラデルフィアに高賃金の雇用をもたらすだろう」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
+- 防衛｜日本→海外（輸出）｜艦艇｜社会（人・担い手）：「Breaking Defenseは「HanwhaはLeonardo DRS（Leonardoの米国法人）の幹部だったコールター氏を国際防衛部門の責任者に迎え入れ、米国内でのプレゼンスを積極的に拡大している」「まだ協議は初期段階だがHanwh」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
+- 防衛｜日本→海外（輸出）｜艦艇｜経済（規模・価格・為替）：「海外の防衛産業企業が「7,000億ドル以上」とも言われる米国市場に参入するには「現地化」が必須で、欧州企業だけでなくアジア･オセアニア企業も「現地企業の買収」もしくは「合弁企業の設立」で米国進出を図っており、オーストラリアのAustalも「」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
+- 防衛｜日本→海外（輸出）｜艦艇｜経済（規模・価格・為替）：「因みにReutersは9月「現代重工業が米造船所買収に向けて複数の企業と交渉を進めている」と報じ、現代重工業も「米国は中国との海軍力格差を埋めるため造船市場の開放を迫られている」「短期的な艦艇不足を克服するためには同盟国がもつインフラと能力」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
+- 防衛｜日本→海外（輸出）｜艦艇｜経済（規模・価格・為替）：「米国がUAEとクウェートに武器の緊急売却を承認、売却総額は約2.6兆円」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の顧客（発注元が求めること）：「Hanwha Oceanは将来的に「ハンファ･フィラデルフィア造船所を米海軍艦艇建造の元請け企業にしたい」と考えているが、当面はジョーンズ法に準拠した貨物船、米海軍艦艇モジュールやブロックの建造を目標にしており、Hanwha Oceanは今」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の顧客（発注元が求めること）：「韓国のHanwha、米軍プログラムの元請け参加が可能なAustal買収に動く」https://grandfleet.info/us-related/hanwha-expands-investment-as-it-aims-to-build-us-naval-vessels-hyundai-heavy-industries-also-in-talks-to-acquire-us-shipyard/
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の顧客（発注元が求めること）：「防衛省統幕によると、18日午前11時ごろ、長崎県対馬市の南西約250キロで、海自の多用途支援艦「あまくさ」、ミサイル艇「しらたか」とP1哨戒機が中国の3隻を確認した」https://www.nikkei.com/article/DGXZQODE19DKJ0Z10C21A3000000/
 
 ## ファイル
 - 分野_AI_半導体_輸出_dd03fe.md：分野_AI・半導体_輸出

@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・241品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・244品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -12419,6 +12419,121 @@
   - 「区分 受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/06/S100W0TQ.pdf）
   - 「仕様、過去の類似契約における原価実績、契約期間の委託外注費、材料費、労務費の見積り等に基づ」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2025/06/S100W0TQ.pdf）
 - 事業所数・社数：記載なし（読んだ53頁・検索18回）
+
+## 経済産業省 鉱工業指数 年報 金属製品工業 生産指数・出荷指数の原指数 暦年（年間補正後・2020年基準・数量指数で金額ではない・月報や季節調整済と混ぜない・4-110）（METI indices of industrial production fabricated metal products annual original index 2020 base annual revision）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ28頁・検索18回）
+- 事業所数・社数：記載なし（読んだ28頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ28頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ28頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ28頁・検索18回）
+- 生産能力・設備：記載なし（読んだ28頁・検索18回）
+- 10年推移：記載なし（読んだ28頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ28頁・検索18回）
+
+## PRTR 届出事業所数 電気めっき業の全国の年次（環境省の集計結果の業種別・全国の表・千葉県など県の値でなく・2010年だけでなく直近まで・4-109・4-30）（PRTR national notified facilities electroplating industry annual Japan Ministry of the Environment）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「表１－(1)－⑫ 業種別の届出事業所数・ 排出量・移動量（平成 15年度）······················· 21」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「表１－(1)－⑫ 業種別の届出事業所数・排出量・移動量（平成 15 年度）」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「表１－(1)－⑬ 都道府県別の届出事業所数・排出量・移動量（平成 15 年度）」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「埼玉県の届出事業所数は１，３７８件で、前年度と比較して 20 件減少しました」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「業種別の届出事業所数は表１のとおりです」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「表 1 業種別の届出事業所数 ※」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「※ 占有率を整数で表記しているため、届出事業所数が少ない業種の占有率が０となる」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+- 社員数・平均社員数：
+  - 「② 事業者単位で常時使用する従業員の数が 21 人以上であること」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「① 事業者単位での常時雇用者数が 21 人以上であるという排出量等届」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「常時雇用者が 20 人以下であるため届出の必要がないと誤解していた」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「人の健康を損なうおそれがある等の性状があり、環境中に存在する物質を選定（政令指定） （法第２条第２項、第３項）」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「常用雇用者数：21 人以上」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「② 事業者として、常時使用する従業員の数が21人以上であること」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「ＰＲＴＲ制度の対象物質のうち、 人に対して発がん性がある１５物質は特定第一種指定化学物質」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「６ 物質別の用途、人体への影響」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「第一種指定化学物質のうち代表的な物質の用途および人体への影響を表 9～表 11 に示します」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「表 9 届出排出量上位５物質の用途及び人体への影響」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「表 10 埼玉県における総排出量上位５物質の特定第一種指定化学物質の用途及び人体への影響」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「表 11 家庭からの排出量上位５物質の用途（含有する製品）及び人体への影響」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+- 受注金額・加工賃収入：
+  - 「化管法第 24 条において、届出をせず、又は虚偽の届出をした者は、二十万円以」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「罰則 （法第 24 条） 排出量等届出の対象事業者が当該届出を行わず、又は虚偽の報告を行った場合、20 万円以下の過料」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+- 1人あたり・1社あたり金額：
+  - 「化管法第 24 条において、届出をせず、又は虚偽の届出をした者は、二十万円以」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「罰則 （法第 24 条） 排出量等届出の対象事業者が当該届出を行わず、又は虚偽の報告を行った場合、20 万円以下の過料」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+- 10年推移：
+  - 「② 今後、製造量や輸入量等の増加により相当広範な地域の環境において継続して」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「射の地表に到達する量を増加させることにより人」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「用量の増加等により、 相当広範な地域の環境において」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「の地表に到達する量を増加させることにより人の」（https://www.soumu.go.jp/main_sosiki/hyouka/hyouka_kansi_n/ketsuka_nendo/pdf/000253420.pdf）
+  - 「埼玉県の届出事業所数は１，３７８件で、前年度と比較して 20 件減少しました」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「埼玉県は 1％減少し、全国でも 1%減少しました」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「埼玉県の届出排出量と届出外排出量の６年間の推移は図２のとおりです」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「図 2 埼玉県の届出排出量と届出外排出量の６年間の推移（H29～R4）」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「のダイオキシン類の総排出量は 4,196mg-TEQ ＊/年で、令和３年度と比較して 23％増加しまし」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「平成 13 年度から 72%減少、令和 3 年度から 0.7%増加しています」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「で、平成 22 年度から 27%減少、令和 3 年度から 1%減少しています」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「◎ 届出排出量が平成 13 年度以降減少している主な要因」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「ンを除く 4 物質は、 いずれも平成 13 年度と比較して、 減少しており、 特に減少が顕著だったのは、」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「溶剤などに使用されるトルエン（減少率：77%）とキシレン（減少率：82%）でした」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+  - 「制度が始まった平成 13 年度と比較して、特に出版・印刷・同関連産業の減少の割合が大きく（平」（https://www.pref.saitama.lg.jp/documents/252609/r4syosai.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ53頁・検索18回）
+- 生産能力・設備：記載なし（読んだ53頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ53頁・検索18回）
+
+## 上村工業・JCU の有価証券報告書 セグメント売上を決算年度つきで5期分（表面処理用資材・薬品のセグメント・国内と海外を分けて・年不明の値でなく・4-109）（C.Uyemura JCU segment sales by fiscal year domestic overseas annual securities report）
+- 文脈：上場・開示
+- 痛み・損（深さの印）：
+  - 「■受注案件が予定通り進行したものの、売上高及び受注残高は大幅に減少」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+- 社員数・平均社員数：
+  - 「役員16人の経歴と担当（2026年6月時点）」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2026年3月期 連結従業員数567名・平均年収821万円（単体250名）」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「従業員数 ： 単体 250名 連結 567名 （2026年3月31日現在）」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+- 受注金額・加工賃収入：
+  - 「JCUの2026年3月期のセグメント業績は、薬品事業269億円・装置事業27.5億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「27.5億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「84.4億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「31.8億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「▲0.2億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「26.1億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「13.1億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「▲0.9億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「77.9億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「20.4億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「▲1.1億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「▲0.6億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「73.5億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「29.4億円」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「▲0.1億円」（https://the-shashi.com/tse/4975/financials/segment/）
+- 1人あたり・1社あたり金額：
+  - 「2026年3月期 連結従業員数567名・平均年収821万円（単体250名）」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「（百万円） 2025年3月期 2026年3月期」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+  - 「1,643百万円増」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+  - 「144百万円増」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+  - 「中 国(単位：百万円) YoY 13%」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+  - 「台 湾(単位：百万円) QoQ ▲2%」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+  - 「韓 国(単位：百万円) YoY 5%」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+  - 「資 本 金 ： 12億8,148万円」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+- 生産能力・設備：
+  - 「有形固定資産 11,830 19,682」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+- 10年推移：
+  - 「JCUのセグメント業績・推移12カ年」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2025/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2025/11」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2025/12」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「セグメント業績の長期推移：2015年3月期〜2026年3月期」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2024/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2023/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2022/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2021/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2020/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2019/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2018/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2017/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2016/3」（https://the-shashi.com/tse/4975/financials/segment/）
+  - 「2015/3」（https://the-shashi.com/tse/4975/financials/segment/）
+- 人手と仕事の差：
+  - 「■受注案件が予定通り進行したものの、売上高及び受注残高は大幅に減少」（https://www.jcu-i.com/wp/wp-content/uploads/2026/05/irks_20260512.pdf）
+- 事業所数・社数：記載なし（読んだ42頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

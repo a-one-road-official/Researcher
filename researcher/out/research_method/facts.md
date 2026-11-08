@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・252品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・254品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1760,22 +1760,24 @@
 ## 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）（entity resolution company record matching rules）
 - 文脈：同一性
 - 手順・やり方：
-  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「この記事では、名寄せの基本から、データクレンジングとの違い、実施手順、精度を保つ工夫まで解説します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「用途ごとの違いも押さえ、自社や自身の目的に合った進め方を考えていきましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「履歴を残したまま共通IDで結ぶ方法もあり、情報を消して一件にする方法だけが名寄せではありません」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「確実性の高い会員番号などがある場合は、その番号を中心に記録を結び付ける方法が考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「情報を入力する人や入力方法が複数あることも、重複を生む要因です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「判断に迷った記録は「要確認」として保留し、無理に自動処理へ含めない方法もあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「「株式会社」を機械的に削除するなどの処理は、別の会社との区別を弱める場合があるため、対象項目や処理方法を慎重に決めましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「更新日が新しい情報を優先する方法、情報源の信頼性を基準にする方法、項目ごとに優先順位を設定する方法などがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「判定の根拠が弱いものは候補として保留し、担当者が確認する手順を設けてください」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「名寄せは個人情報を扱うことがあるため、利用目的やアクセス権限、保管方法を確認してから実施します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「データの抽出、加工、外部委託、作業後の保管や削除など、工程ごとに管理方法を決めることが重要です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「少量のデータで、対象項目や照合条件が単純なら、表計算ソフトを使って名寄せを試す方法があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「自社の対象や照合ルールに適合するか、誤判定の確認方法があるかを事前に検証します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「Step 1: Data Standardization and Preprocessing」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「Raw data is messy. The first step is to clean and standardize records to make them more comparable. This is a crucial, often underestimated, part of the process. Effective preprocessing significantly improves the accuracy of subsequent matching steps. Common techniques include:」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「Step 2: Indexing and Blocking」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「To avoid the O(n²) comparison problem, records are grouped into smaller, manageable blocks. The assumption is that records that are potential matches are more likely to share some common characteristics. Only pairs of records within the same block are considered for comparison. This step dramatically reduces the number of pairs to evaluate.」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「Step 3: Pairwise Comparison and Similarity Scoring」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「The result of this step is a "comparison vector" for each pair, containing the similarity scores for each of the compared attributes (e.g.,」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「Step 4: Classification and Decision Making」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「This is the core decision step where a pair is classified as a」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「Step 5: Clustering and Merging」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「Once pairs are classified as matches, the final step is to group them into clusters where all records in a cluster refer to the same entity. This is effectively a graph problem where records are nodes and a」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「, or building on frameworks like」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「, BigQuery entity resolution framework) can dramatically accelerate deployment. These solutions package the entire pipeline, often with UIs for data stewardship. The tradeoff is cost (licensing fees), potential vendor lock-in, and less customizability.」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「category from the classification step requires manual review by data stewards. This is a significant and ongoing operational cost. The quality of the automated system directly impacts this cost; a more accurate model reduces the number of pairs needing expensive human adjudication. The design of the stewardship interface is critical for efficiency.」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「AI and Graph-based Methods:」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「With increasing data privacy regulations, there's a growing need to perform ER on sensitive data without exposing the raw values. PPRL techniques use methods like cryptographic hashing, homomorphic encryption, and Bloom filters to enable matching on encrypted or anonymized data. This is critical for collaboration between organizations, especially in government and healthcare.」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
 - 突き合わせ・推定：
+  - 「Raw data is messy. The first step is to clean and standardize records to make them more comparable. This is a crucial, often underestimated, part of the process. Effective preprocessing significantly improves the accuracy of subsequent matching steps. Common techniques include:」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「This approach is grounded in the foundational Fellegi-Sunter model of 1969. It uses statistical principles to calculate a match weight. For each attribute, it estimates two probabilities: the」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
   - 「名寄せとは、複数のデータに記録された情報を照合し、同じ人物・企業・世帯などに関するものを判定して、関連付けたり統合したりする作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「名寄せとは、複数の記録を照合し、同じ対象についての情報であると判断できたものに共通の識別子を付けたり、代表となる情報にまとめたりすることです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「顧客番号や法人番号のように重複しにくい番号があれば照合に役立ちますが、番号がない場合は氏名、住所、電話番号などの組み合わせを使います」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
@@ -1789,8 +1791,6 @@
   - 「マッチングとは、複数の項目を使って、記録が同じ対象を指しているかを照合することです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「照合に使う項目と統合の条件は、作業前に文書化します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「そのうえで、決めた照合ルールを適用し、一致した記録、類似する候補、判定できない記録に分けます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「類似度による照合では、一定の基準を超えた候補を自動で統合し、それ以外を人が確認する運用が考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「統合後に検証し、更新ルールを運用する」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 一次情報の探し方：
   - 「資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
@@ -1824,6 +1824,12 @@
   - 「どのシステムから取得した値か、いつ更新されたか、どのルールで統合したかを追えるようにしておけば、誤りを発見した際に原因を調べやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「入力欄の形式をそろえる、必須項目を適切に設定する、選択肢を用意する、既存顧客の候補を表示するといった工夫で、登録時の誤りや重複を抑えやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 実例：
+  - 「Converting text to a consistent case (e.g., lowercase), removing punctuation, and stripping whitespace.」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「Transforming values to a common format. For example, using a library to parse and standardize street addresses according to postal service standards like those from the」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「Grouping records by how their names sound, using phonetic algorithms. Classic examples include」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「A set of expert-defined rules determines the outcome. For example:」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「After clustering, a single canonical representation, or "golden record," is often created for each entity. This requires defining survivorship rules to decide which value to keep for each attribute. For example, the system might be configured to use the most recently updated address, the most frequently occurring last name, or the first non-null value for a given field.」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
+  - 「A Concrete Example: Deduplicating Customers」（https://itsmattgeorge.com/blog/entity-resolution-matching-and-deduplicating-records-across-sources）
   - 「名寄せの結果は、必ずしも全ての項目を一つの行に押し込むことではありません」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「個人の情報では、氏名や住所が似ていても、同一人物と断定できないケースがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「作業結果は、統合した件数だけで評価しないようにします」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
@@ -1833,12 +1839,6 @@
   - 「照合の結果をまとめる際は、どの記録を代表情報として扱うかを決めます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「たとえば、同姓同名、同じ住所に複数の企業があるケース、旧社名と新社名、異体字を含む氏名などを重点的に確認します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「結果として、郵送やメール配信の無駄を見直し、顧客とのやり取りにおける不自然な重複を減らすことにつながります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「関数やマクロを使った場合も、少数のデータで結果を確認してから全体へ適用します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「AIを使った照合機能がある場合も、類似度の根拠や判定結果を確認できるかが重要です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「導入前に実データの一部で試し、処理結果を担当者が評価します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「ただし、実際の作業では、照合候補を確認した結果、新たな表記差や誤りが分かり、再度クレンジングが必要になることもあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「両者を一度きりの直線的な工程と考えず、結果を確認しながら必要な修正を重ねます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「その後、統合結果を確認し、元データや変更履歴を追跡できる状態にします」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 
 ## 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）（company registry verification OpenCorporates EDGAR）
 - 文脈：探し方
@@ -9038,8 +9038,8 @@
   - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
 - 文脈：同一性
@@ -12333,7 +12333,7 @@
   - 「case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question」（https://metricgate.com/blogs/survivorship-bias/）
   - 「It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;」（https://metricgate.com/blogs/survivorship-bias/）
   - 「Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See」（https://metricgate.com/blogs/survivorship-bias/）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）（data reconciliation single source of truth per metric tolerance thresholds discrepancy log）
 - 文脈：突き合わせ
@@ -13051,11 +13051,11 @@
 
 ## 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方（data provenance checklist period resolution units missing values processing）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事（survivorship bias correction backfill dead firms pessimistic bounds double selection）
 - 文脈：失敗・落とし穴
@@ -14357,6 +14357,71 @@
 - 実例：記載なし（読んだ30頁・検索12回）
 
 ## 上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109）（analyst using listed suppliers customers peers disclosures to infer private company industry trends blog）
+- 文脈：探し先
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 鉱工業指数・生産指数の利用上の注意と作り方（県の年報の概要の頁・接続指数とリンク係数・年間補正の方法・ふくらまし・採用品目のカバー率・統計の担当者や研究者の解説・4-110）（how to use industrial production index base year linking annual revision weights coverage guide）
+- 文脈：推定
+- 手順・やり方：
+  - 「advises interested Governments on the ways and means of translating policy frameworks」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「manual published by the United Nations in 1950. It takes into account methodological」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「and describes new recommended methodological standards for the compilation of index」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「The updated methodology described in this publication, used with the Manual for an」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「In addition to outlining the standard methodology, this publication also provides practical」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「guidance for actual steps in the index number calculation and presents recommended」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「methods for each industry in its scope to assist countries in producing high-quality short-」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「methodology related to the compilation of index numbers for the services sector of the」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「1.5.3 Sources and methods .................................................................................................... 17」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「Chapter 4: Sources and Methods .................................................................................. 38」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「4.2 Methods to obtain industrial production volumes ...................................................... 44」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「4.3 Recommended variables and methods to obtain industrial production volumes........ 46」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「5.5.1 A step-by-step guide to compiling the index ................................................................ 83」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「Appendix 5 (c): Using the volume extrapolation method to calculate the IIP .................... 125」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「7.2 Evaluating the suitability of data variables and methods.......................................... 142」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+- 突き合わせ・推定：
+  - 「vii. Topic: Method to achieve volume estimates for the IIP」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「viii. Topic: Deflator to be used to achieve volume estimates from value data」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「to obtain a volume estimate for use in the compilation of the IIP. The detailed PPI」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「Recommendation: Missing data are to be estimated using imputation techniques」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「the lowest level of aggregation for which reliable estimates can be obtained; and」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「practice and it may not always be possible to make a satisfactory estimate of its」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「particular period but in the prices of another period. Estimates valued at current」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「37. A volume estimate of value added is obtained from a current price value via a」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「benchmarks to produce the quarterly estimates of production. One of these short」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「60. The IIP is used for the compilation of quarterly volume estimates for the industrial」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「sector in some countries. The volume estimates for the industrial sector in these」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「preferable to compile QNA estimates from IIP components at the disaggregated」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「indicator will tend to underestimate the increase in value added. Furthermore,」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「temporarily to approximate industrial production. For example, the estimate for a given month in an」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「overlap period or, if not available, some estimate made.」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+- 一次情報の探し方：
+  - 「経済産業省 大臣官房 調査統計グループ 経済解析室」（https://www.meti.go.jp/statistics/tyo/iip/index.html）
+  - 「162. The two primary sources of data to compile the movements in an IIP are:」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+- 失敗・落とし穴：
+  - 「利用上の注意、用語」（https://www.meti.go.jp/statistics/tyo/iip/index.html）
+  - 「discusses potential IIP calculation errors, biases and incompatibilities between」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+- 実例：
+  - 「2025年年間補正結果の公表時期について」（https://www.meti.go.jp/statistics/tyo/iip/index.html）
+  - 「3.2.2 Classification of statistical units – a special case: Outsourcing / activities on a fee or」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「Appendix 5 (b): Fixed weight versus chain approach (example) ........................................ 122」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「GDP for example) and its detailed activity breakdown.」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「3 In this case the goods and services are classified according to their position in the chain of production.」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「4 In this case IIPs are produced for intermediate goods, energy, consumer goods and capital goods.」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「data examples to demonstrate statistical practice. In addition, chapter 7 provides」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「done in steps, in the case of ISIC through each level of ISIC, using the existing」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「used to identify these in-scope units. In the case of this publication, the」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「One example of this was the suggestion to group the activities of ISIC Rev. 3.1」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「some advantages. For example, non-additivity21 due to chain linking and the」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「A specific example is the analysis of relative changes in productivity, measured as」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「have gaps in coverage that may need supplementary sources, for example, particular」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「units in the case of outsourcing is also discussed in this chapter. The key principles」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+  - 「example, a workshop, factory, warehouse, office, mine or depot), which」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
+
+## 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）（investigative journalism company network analysis shared addresses directors red flags auditor resignation）
 - 文脈：探し先
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）

@@ -29,13 +29,13 @@
   - ［記事］2026-11-05「’ Northlake “10X” campus is targeting 2028 commissioning, not 2026, while」https://rareearthexchanges.com/news/the-november-2026-usa-and-china-magnet-clock-is-ticking/
   - ［記事］2026-11-04「また、これにより深刻なコストの不安定化も招かれており、原材料価格の変動が製造マージンや長期契約の採算性に悪影響を及ぼす事態も生じています」https://newscast.jp/news/1930453
   - ［記事］2026-11-04「tariff exclusion schedules and implementing guidance published by the Office of the United States Trade Representative (USTR); Harmonized Tariff Schedule interpretations issued by the U.S. International Trade Commission 」https://www.duramag.com/techtalk/magnet-news/understanding-the-2026-section-301-tariffs-on-permanent-magnets-what-the-market-needs-to-know/
-- 政治（法・予算・規制）（116件）：
+- 政治（法・予算・規制）（115件）：
   - ［一次］2026-11-07「様式第一（第２条第１項関係） 供給確保計画の認定申請書（Word形式：94KB）」https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html
   - ［一次］2026-11-07「様式第五（第５条第１項関係） 認定供給確保計画の変更申請書（Word形式：25KB）」https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html
   - ［一次］2026-11-07「様式第九（第６条第２項関係） 認定供給確保計画の軽微な変更の届出書（Word形式：25KB）」https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html
   - ［一次］2026-11-07「様式第十三（第９条関係） 認定供給確保計画の実施状況報告書（Word形式：26KB）」https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html
   - ［一次］2026-11-07「４．認定供給確保計画」https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html
-- 経済（規模・価格・為替）（127件）：
+- 経済（規模・価格・為替）（126件）：
   - ［一次］2026-11-06「兆円を超える市場規模となることが予測されている9」https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf
   - ［一次］2026-11-06「10 国内の洋上風力発電の市場規模予測は2020 年度20 億円から2030 年度9,200 億円にまで増加することの試算もある」https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf
   - ［一次］2026-11-06「ス価格が７倍程度に高騰、永久磁石生産に遅れが発生した」https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf
@@ -47,7 +47,7 @@
   - ［一次］2026-11-06「（９）人材 ............................................................................................................................................................................................ 71」https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf
   - ［一次］2026-11-06「足下の人手不足ＤＩは、バブル期並みの過去最高水準に達している8」https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf
   - ［一次］2026-11-06「8 参考資料 P33「人口減少に伴う構造的人手不足：日本の労働参加率は、世界最高水準」参照」https://www.meti.go.jp/shingikai/sankoshin/sokai/pdf/034_s02_01.pdf
-- 技術（新しい技術・実証）（111件）：
+- 技術（新しい技術・実証）（108件）：
   - ［一次］2026-11-08「IMTSにみる米製造業の潮流（2）米西海岸3社が探るAIの活用」https://www.jetro.go.jp/biz/areareports/special/2026/0101/5229e687b7a111eb.html
   - ［一次］2026-11-07「様式第一関係 別紙２（設備投資・技術開発合算総括表）（Excel形式：27KB）」https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html
   - ［一次］2026-11-07「NEDOは、「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律」（令和4年法律第43号）に基づき、国民の生存や生活・経済活動に甚大な影響のある物資の安定供給確保を図るため、同法の政令で定められた特定重要物資について、経済産業大臣が認定した供給確保計画に沿った生産基盤の整備、生産技術開発等に対して助成金を交付する事業等を実施しています」https://www.nedo.go.jp/koubo/GI2_100001_00026.html
@@ -61,21 +61,9 @@
   - ［SNS］2026-11-05「電気自動車やハイテク産業に不可欠な永久磁石は、原料のレアアース供給を巡る地政…」https://note.com/tag/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3
   - ［SNS］2026-11-05「図解でわかる 永久磁石のすべて: ネオジム磁石・モーター・フィジカルAIを支える戦略素材」https://note.com/tag/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3
   - ［SNS］2026-11-05「# コーヒー☕️は10分で冷めるのに、宇宙の鉄は100万年かけて冷めるらしい。🐌」https://note.com/tag/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3
-- SNS・note（LinkedIn・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-08「The Ideal Permanent Magnet - Myths and Realities - LinkedIn The Ideal Permanent Magnet - Myths and Realities - LinkedIn LinkedIn https://www.linkedin.com > pulse > id...」https://www.linkedin.com/pulse/ideal-permanent-magnet-myths-realities-john-ormerod
-  - ［SNS］2026-11-04「Permanent Magnets Limited - LinkedIn Permanent Magnets Limited - LinkedIn LinkedIn India https://in.linkedin.com > company」https://in.linkedin.com/company/permanent-magnets-limited
-  - ［SNS］2026-11-04「A brief look at permanent magnetism | Compound Interest A brief look at permanent magnetism | Compound Interest LinkedIn https://www.linkedin.com > posts > c...」https://www.linkedin.com/posts/compound-interest_magnets-how-do-they-work-the-latest-edition-activity-7323791499106660353-923r
-  - ［SNS］2026-11-04「What Makes a Permanent Magnet a Good ... - LinkedIn What Makes a Permanent Magnet a Good ... - LinkedIn LinkedIn https://www.linkedin.com > pulse > w...」https://www.linkedin.com/pulse/what-makes-permanent-magnet-good-luke-marshall
-- 検索結果の抜粋（21件）：
-  - ［一次］2026-11-06「永久磁石 に係る安定供給確保を図るための取組方針 - 経済産業省 — 永久磁石 に係る安定供給確保を図るための取組方針 - 経済産業省 経済産業省 PDF https://www.meti.go.jp > magnet_hoshin_260331」https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf
-  - ［記事］2026-11-08「中国が9割を握るレアアース 磁石 に代わる、鉄と窒素だけの ... — 中国が9割を握るレアアース 磁石 に代わる、鉄と窒素だけの ... FabScene https://fabscene.com > 新着記事 > ニュース」https://fabscene.com/new/news/niron-iron-nitride-rare-earth-free-magnet/
-  - ［記事］2026-11-08「2022 QEPrize Winner The World's Strongest Permanent Magnet — 2022 QEPrize Winner The World's Strongest Permanent Magnet Queen Elizabeth Prize for Engineering https://qeprize.org > Winners」https://qeprize.org/winners/the-worlds-strongest-permanent-magnet
-  - ［記事］2026-11-07「AIが予測する 永久磁石 メーカー ｜2030年市場規模推移と主要 ... — AIが予測する 永久磁石 メーカー ｜2030年市場規模推移と主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet」https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet
-  - ［記事］2026-11-07「永久磁石 - メーカー・企業45社の業務用製品ランキング — 永久磁石 - メーカー・企業45社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 永久磁石」https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/
-- SNS・note（note・検索結果の抜粋）（3件）：
-  - ［SNS］2026-11-05「永久磁石 の人気・新着記事まとめ - note 永久磁石 の人気・新着記事まとめ - note note https://note.com > tag > 永久磁石」https://note.com/tag/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3
-  - ［SNS］2026-11-04「ネオジム 磁石 業界、2032年までに19240百万米ドル規模へ ... ネオジム 磁石 業界、2032年までに19240百万米ドル規模へ ... note https://note.com > 政治・経済 > ビジネス・経済」https://note.com/qy_research/n/n4f5f271e7bfe
-  - ［SNS］2026-11-04「永久磁石 市場予測（ 2026 ～2034年）：需要分析、成長トレンド 永久磁石 市場予測（ 2026 ～2034年）：需要分析、成長トレンド note https://note.com > ビジネス > ビジネス全般」https://note.com/techpress/n/n79dccd95f8bb
+- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- 検索結果の抜粋：未完（まだ取れていない・掘る対象）
+- SNS・note（note・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 ### 業界ニュース（毎日）｜グリーンスチール（green steel）
 - 取得：2026-11-08T04:03・調査5回目・読んだ頁47
 - 痛み・損（深さの印）（6件）：
@@ -102,7 +90,7 @@
   - ［一次］2026-11-07「• 当該分離回収技術により回収された安価なCO2」https://green-innovation.nedo.go.jp/resources/pdf/development-co2-separation-recovery/item-001-2/vision-nipponsteel-001.pdf
   - ［一次］2026-11-07「➢ 低濃度CO2分離・回収において、弊社開発技術に対して、競合技術の競争優位性が顕著になった場合」https://green-innovation.nedo.go.jp/resources/pdf/development-co2-separation-recovery/item-001-2/vision-nipponsteel-001.pdf
   - ［一次］2026-11-06「2021年、英国と米国が提案したイニシアティブの「産業脱炭素化アジェンダ（IDA）」が開始されたのです」https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_01.html
-- 自社の競合（商社・代理店・仲介）（25件）：
+- 自社の競合（商社・代理店・仲介）（24件）：
   - ［一次］2026-11-07「マージン低迷が継続する前提鋼材ｔあたり -1千円/t +2千円/t」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「FY2024 労務費・物流費等の増加が見込まれるが、販売価格への適切な反映により適正マージンを追求」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「・電磁鋼板専門商社である電機資材の株式を日鉄物産が当社グループ外の株主から取得・子会社化（日鉄物産が50%超保有）」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
@@ -126,37 +114,23 @@
   - ［一次］2026-11-07「その他 -280 人材確保･活躍推進に向けた人的投資 償却費増 等 -200」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「⚫ ＤＸ人材育成施策を開始（FY2021～）」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「このセクターで雇用リスクのある30万人の直接雇用と230万人の間接雇用を維持する」https://www.meti.go.jp/shingikai/mono_info_service/green_steel/follow_up/pdf/001_07_00.pdf
-- 技術（新しい技術・実証）（78件）：
+- 技術（新しい技術・実証）（77件）：
   - ［一次］2026-11-07「▪ 3つの超革新技術」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「技術開発 グリーンイノベーション(GI)基金｢製鉄プロセスにおける水素活用｣1,935億円 ➡ 4,499億円へ増額」https://www.nipponsteel.com/ir/library/settlement/pdf/20240801_300.pdf
   - ［一次］2026-11-07「実施プロジェクト名 革新的分離剤による低濃度CO2分離システムの開発」https://green-innovation.nedo.go.jp/resources/pdf/development-co2-separation-recovery/item-001-2/vision-nipponsteel-001.pdf
   - ［一次］2026-11-07「（6）研究開発・設備投資・マーケティング計画」https://green-innovation.nedo.go.jp/resources/pdf/development-co2-separation-recovery/item-001-2/vision-nipponsteel-001.pdf
   - ［一次］2026-11-07「2. 研究開発計画」https://green-innovation.nedo.go.jp/resources/pdf/development-co2-separation-recovery/item-001-2/vision-nipponsteel-001.pdf
-- SNS・note（X・検索結果の抜粋）（2件）：
-  - ［SNS］2026-11-08「オカムラ 企業広報 on X: " グリーンスチール を使用した ... オカムラ 企業広報 on X: " グリーンスチール を使用した ... X https://x.com > @okamura_corp」https://x.com/okamura_corp/status/1926816588218458318
-  - ［SNS］2026-11-04「林 雅之 on X: "【記事紹介】 グリーンスチール とは何か？ 日本 ... 林 雅之 on X: "【記事紹介】 グリーンスチール とは何か？ 日本 ... X https://x.com > @masayukihayashi」https://x.com/masayukihayashi/status/1803519496873005243
+- SNS・note（X・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 - SNS・note（note・本文）（22件）：
   - ［SNS］2026-11-06「国土交通省が、製造時の二酸化炭素排出量を削減したグリーン鉄を直轄土木工事で試行的に活用する取り組みを開始した。背景には、日本の産業部門で最大の排出量を占める鉄鋼分野の脱炭素化を政府が率先して調達することで牽引し、初期の市場形成を促す狙いがある。」https://note.com/lithe_crocus8929/n/ned665e96446a
   - ［SNS］2026-11-06「国土交通省は2026年7月31日、製造段階も含めた二酸化炭素排出量を削減した鋼材であるグリーン鉄を、同省が発注する直轄土木工事において試行的に活用すると発表した。試行工事の初弾として2026年7月24日時点で合計6件の工事が選定されている。具体的な対象工事には、北海道開発局が発注する一般国道5号仁木町銀山大橋上部中央工事のほか、中部地方整備局の鵜森三郷排水路整備工事と42号松阪多気BP朝田高架橋鋼上部工事、中国地方整備局の福山道路赤坂東」https://note.com/lithe_crocus8929/n/ned665e96446a
   - ［SNS］2026-11-06「今回の試行工事は、経済産業省が主導するGX需要創出・カーボンプライシング運営事業と緊密に連携して実施される。日本の鉄鋼業は、製造業全体の二酸化炭素排出量のうち最大の約35%から、産業部門全体の約4割を占める極めて炭素集約的な分野であるため、脱炭素化へのプロセス転換が急務とされている。しかし、初期段階における脱炭素型の製鉄は製造コストが高くなりやすく、民間市場での流通や十分な需要形成には至っていない。そこで政府が率先して公共調達を行うこと」https://note.com/lithe_crocus8929/n/ned665e96446a
   - ［SNS］2026-11-04「グリーン鉄、データでつながる日。サプライチェーン実証と国際標準の最前線｜scivan」https://note.com/scivanai/n/n7aa9e21b27c4
   - ［SNS］2026-11-04「グリーン鉄、データでつながる日。サプライチェーン実証と国際標準の最前線」https://note.com/scivanai/n/n7aa9e21b27c4
-- SNS・note（LinkedIn・検索結果の抜粋）（7件）：
-  - ［SNS］2026-11-07「Is green steel economically viable? Inside Saarstahl's €4.6 ... Is green steel economically viable? Inside Saarstahl's €4.6 ... LinkedIn https://www.linkedin.com > pulse > g...」https://www.linkedin.com/pulse/green-steel-economically-viable-inside-saarstahls-pxfnf
-  - ［SNS］2026-11-07「The Future of Green Steel Production - LinkedIn The Future of Green Steel Production - LinkedIn LinkedIn https://www.linkedin.com > design > t...」https://www.linkedin.com/top-content/design/sustainable-product-development/the-future-of-green-steel-production/
-  - ［SNS］2026-11-05「Heavy metal must go green . Steel is the backbone of our ... Heavy metal must go green . Steel is the backbone of our ... LinkedIn https://www.linkedin.com > posts > e...」https://www.linkedin.com/posts/european-environmental-bureau_heavy-metal-must-go-green-steel-is-activity-7307328381044293632-rFPw
-  - ［SNS］2026-11-05「The Green Steel Challenge | LinkedIn The Green Steel Challenge | LinkedIn LinkedIn https://www.linkedin.com > company」https://www.linkedin.com/company/the-green-steel-challenge
-  - ［SNS］2026-11-04「Green Steel Environmental | LinkedIn Green Steel Environmental | LinkedIn LinkedIn https://www.linkedin.com > company」https://www.linkedin.com/company/green-steel-environmental
-- SNS・note（note・検索結果の抜粋）（3件）：
+- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- SNS・note（note・検索結果の抜粋）（1件）：
   - ［SNS］2026-11-04「グリーン 鉄、データでつながる日。サプライチェーン実証と ... グリーン 鉄、データでつながる日。サプライチェーン実証と ... note https://note.com > 政治・経済 > ビジネス・経済」https://note.com/scivanai/n/n7aa9e21b27c4
-  - ［SNS］2026-11-04「【 2026 年6月21日 グリーン 鉄関連株】脱炭素の主役へ躍進 ... 【 2026 年6月21日 グリーン 鉄関連株】脱炭素の主役へ躍進 ... note https://note.com > 政治・経済 > ビジネス・経済」https://note.com/ready_fox3873/n/nd2206df7934f
-  - ［SNS］2026-11-04「【ニュース】公共工事で「 グリーン 鉄」を試行 - note 【ニュース】公共工事で「 グリーン 鉄」を試行 - note note https://note.com > 政治・経済 > 政策・法律」https://note.com/lithe_crocus8929/n/ned665e96446a
-- 検索結果の抜粋（22件）：
-  - ［一次］2026-11-07「鉄鋼業で進むGX―「 グリーン 鉄」普及へ政府も支援 — 鉄鋼業で進むGX―「 グリーン 鉄」普及へ政府も支援 資源エネルギー庁 https://www.enecho.meti.go.jp > special > green_steel_2026」https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html
-  - ［一次］2026-11-06「鉄鋼業の脱炭素化に向けた世界の取り組み（前編 ... — 鉄鋼業の脱炭素化に向けた世界の取り組み（前編 ... 資源エネルギー庁 https://www.enecho.meti.go.jp > special > green_steel_01」https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_01.html
-  - ［一次］2026-11-04「日本における グリーンスチール への道 - 自然エネルギー財団 — 日本における グリーンスチール への道 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > REI_greensteel2022」https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf
-  - ［記事］2026-11-08「Home | 4th European Green Steel Summit 2026 — Home | 4th European Green Steel Summit 2026 Green Steel Hub https://www.greensteelhub.com > EG...」https://www.greensteelhub.com/EGSS2026
-  - ［記事］2026-11-08「Signs Point to a Bright Future for U.S. Green Steel in 2026 — Signs Point to a Bright Future for U.S. Green Steel in 2026 TriplePundit https://triplepundit.com > 2026 > sign...」https://triplepundit.com/2026/signs-point-to-a-bright-future-for-u-s-green-steel-in-2026/
+- 検索結果の抜粋：未完（まだ取れていない・掘る対象）
 ### 業界ニュース（毎日）｜耐熱合金（superalloy）
 - 取得：2026-11-08T03:59・調査5回目・読んだ頁43
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
@@ -196,23 +170,14 @@
   - ［記事］2026-11-08「航空機用ニッケル基超合金の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」https://newscast.jp/smart/news/9440413
 - 社会（人・担い手）（1件）：
   - ［記事］2026-11-07「障害者雇用で働く前に、24職種の仕事を3〜5分で無料体験できる「ためし...」https://www.dreamnews.jp/press/0000355962
-- 技術（新しい技術・実証）（90件）：
+- 技術（新しい技術・実証）（89件）：
   - ［一次］2026-11-08「boilers and turbines of thermal energy plants, engine parts of cars/aircraft/ships, garbage incinerators, heat-treatment furnaces,」https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf
   - ［一次］2026-11-08「省資源型耐熱材料の開発としては, 第2 次世界大戦中」https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf
   - ［一次］2026-11-08「終戦間際にネ 20 というジェットエンジンを開発し, HG」https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf
   - ［一次］2026-11-08「* 大同特殊鋼帆技術開発研究所 (Corporate Research & Development Center, Daido Steel Co., Ltd.)」https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf
   - ［一次］2026-11-08「Table 1. Chemical compositions and main applications of typical heat-resistant steels and alloys.」https://www.daido.co.jp/common/pdf/pages/technology/journal/backno/2019/90_1/03_technicalreview01_takabayashi.pdf
-- 検索結果の抜粋（20件）：
-  - ［一次］2026-11-07「高合金取扱材質 （3） 耐熱合金 — 高合金取扱材質 （3） 耐熱合金 同和鍛造株式会社 PDF https://dowa-forging.co.jp > 2020/10 > metal_03」https://dowa-forging.co.jp/wp-content/uploads/2020/10/metal_03.pdf
-  - ［記事］2026-11-08「航空機エンジン用ニッケル基超 合金 の世界市場（ 2026年 ... — 航空機エンジン用ニッケル基超 合金 の世界市場（ 2026年 ... Newscast.jp https://newscast.jp > smart > news」https://newscast.jp/smart/news/9440413
-  - ［記事］2026-11-06「耐熱合金 - メーカー・企業11社の業務用製品ランキング — 耐熱合金 - メーカー・企業11社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 耐熱合金」https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/
-  - ［記事］2026-11-06「Research group has made a defect-resistant superalloy that ... — Research group has made a defect-resistant superalloy that ... Phys.org https://phys.org > news > 2020-12-gr...」https://phys.org/news/2020-12-group-defect-resistant-superalloy-d-printed.html
-  - ［記事］2026-11-06「SuperAlloy enters semiconductor pilot production in 3Q26 — SuperAlloy enters semiconductor pilot production in 3Q26 digitimes https://www.digitimes.com > news > s...」https://www.digitimes.com/news/a20261105PD226/superalloy-production-revenue-2026-profit.html
-- SNS・note（LinkedIn・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-05「Top Superalloy for Oil & Gas Manufacturers: Ranking and ... Top Superalloy for Oil & Gas Manufacturers: Ranking and ... LinkedIn https://www.linkedin.com > pulse > to...」https://www.linkedin.com/pulse/top-superalloy-oil-gas-manufacturers-ranking-profiles-delvoriac-djuue
-  - ［SNS］2026-11-04「Superalloy Manufacturing Solutions Corporation | LinkedIn Superalloy Manufacturing Solutions Corporation | LinkedIn LinkedIn https://www.linkedin.com > company」https://www.linkedin.com/company/superalloy-manufacturing-solutions-corporation
-  - ［SNS］2026-11-04「SeAH Superalloy Technologies | LinkedIn SeAH Superalloy Technologies | LinkedIn LinkedIn https://www.linkedin.com > company」https://www.linkedin.com/company/seahsuperalloys
-  - ［SNS］2026-11-04「Why Use Nickel-Base Superalloys for Heat and Corrosion ... Why Use Nickel-Base Superalloys for Heat and Corrosion ... LinkedIn https://www.linkedin.com > pulse > w...」https://www.linkedin.com/pulse/why-use-nickel-base-superalloys-heat-corrosion-resistance-sable
+- 検索結果の抜粋：未完（まだ取れていない・掘る対象）
+- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 ### 業界ニュース（毎日）｜低炭素アルミ（low carbon aluminum）
 - 取得：2026-11-08T03:59・調査5回目・読んだ頁42
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
@@ -222,7 +187,7 @@
   - ［一次］2026-11-07「スコープ3でのCO2排出量削減に向けた中核的で機動的な実行組織と して、グリーンアルミの調達やスクラ ップの利用拡大、リサ」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
   - ［一次］2026-11-07「アルミ合金をボル ト メーカーと共同開発し、鉄・ステンレス製のボル トからの代替が可能な「高強度アルミボル ト」の商品化により、」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
   - ［一次］2026-11-07「工場でのCO2」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
-- 顧客の顧客（発注元が求めること）（29件）：
+- 顧客の顧客（発注元が求めること）（28件）：
   - ［一次］2026-11-07「当社グループ全体のアルミ素材の脱炭素化を推進する上で、調達・製造・販売が一体となった活動が必要であるとの判断から、」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
   - ［記事］2026-11-08「YKKではこれからもお客様やサプライヤーの皆様と協働し、環境に配慮した商品・技術の開発・拡販等を通じて温室効果ガス排出削減の取組みを加速させ、持続可能な社会の実現に貢献してまいります」https://www.ykk.com/newsroom/g_news/2025/20250522.html
   - ［記事］2026-11-07「再生エネルギーから生まれるグリーンアルミニウム、脱炭素社会へ向けて」https://katokei.co.jp/4tco2_al/
@@ -251,22 +216,15 @@
 - 社会（人・担い手）（2件）：
   - ［記事］2026-11-05「【多世帯住宅2023】共働きの増加で親との同居に高い関心=少子高齢化での負担軽減も」https://www.housenews.jp/equipment/23613
   - ［記事］2026-11-04「本合意により、環境負荷を抑えたアルミの長期的な安定供給に寄与するとともに、ケベック州の地域経済や安定雇用の創出にも引き続き貢献していきます」https://www.marubeni.com/jp/news/2025/info/00033.html
-- 技術（新しい技術・実証）（68件）：
+- 技術（新しい技術・実証）（67件）：
   - ［一次］2026-11-07「化アルミニウム／アルミナの積極的な開発を進めているほか、水酸化アルミニウム／アルミナに特殊光学特性や高熱伝導性を付与」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
   - ［一次］2026-11-07「アルミ合金をボル ト メーカーと共同開発し、鉄・ステンレス製のボル トからの代替が可能な「高強度アルミボル ト」の商品化により、」https://www.nikkeikinholdings.co.jp/common/file/ir/ir2024_p27-36.pdf
   - ［記事］2026-11-08「YKKではこれからもお客様やサプライヤーの皆様と協働し、環境に配慮した商品・技術の開発・拡販等を通じて温室効果ガス排出削減の取組みを加速させ、持続可能な社会の実現に貢献してまいります」https://www.ykk.com/newsroom/g_news/2025/20250522.html
   - ［記事］2026-11-08「この取組みにより、温室効果ガスの排出量削減とともに、気候変動対策につながる商品として、アルミニウムの「軽量」、「ニッケルフリー、めっきレスでのシルバー色」といった特徴を活かしながら商品ラインナップを一新し、アパレルをはじめとした各種用途に幅広く採用される商品の開発に力を注いでいきます」https://www.ykk.com/newsroom/g_news/2025/20250522.html
   - ［記事］2026-11-08「1897年の創業以来、電線・ケーブルの製造技術をベースに、独創的な研究開発とあくなき新規事業への挑戦を通じ、新製品・新技術を創出し、事業領域を拡大」https://www.ykk.com/newsroom/g_news/2025/20250522.html
-- SNS・note（X・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「デジタルPRプラットフォーム on X: "LIXIL循環型 低炭素アルミ ... デジタルPRプラットフォーム on X: "LIXIL循環型 低炭素アルミ ... X https://x.com > @digitalpr_jp」https://x.com/digitalpr_jp/status/2109860265751687557
-- SNS・note（LinkedIn・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-05「The Low - carbon Aluminum Market Report (2026 to 2033 ... The Low - carbon Aluminum Market Report (2026 to 2033 ... LinkedIn https://www.linkedin.com > pulse > lo...」https://www.linkedin.com/pulse/low-carbon-aluminum-market-report-2026-2033-highlights-growth-ahuce
-- 検索結果の抜粋（16件）：
-  - ［一次］2026-11-04「BMW、リオティントのカナダ工場から 低炭素アルミニウム 調達 — BMW、リオティントのカナダ工場から 低炭素アルミニウム 調達 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2023/02」https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html
-  - ［一次］2026-11-04「メルセデス、 低炭素アルミニウム をノルスク・ハイドロから調達 — メルセデス、 低炭素アルミニウム をノルスク・ハイドロから調達 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2022/12」https://www.jetro.go.jp/biznews/2022/12/761d8e4afeb92bf2.html
-  - ［記事］2026-11-08「LIXIL、 低炭素アルミ を標準仕様に（2ページ目） | 日経ESG — LIXIL、 低炭素アルミ を標準仕様に（2ページ目） | 日経ESG 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column」https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/?P=2
-  - ［記事］2026-11-08「Low - Carbon Aluminum Market - 2036 - Fact.MR — Low - Carbon Aluminum Market - 2036 - Fact.MR Fact.MR https://www.factmr.com > report > lo...」https://www.factmr.com/report/low-carbon-aluminum-market
-  - ［記事］2026-11-08「Low Carbon Aluminum Smelting Technology Landscape 2026 — Low Carbon Aluminum Smelting Technology Landscape 2026 Patsnap Eureka https://eureka.patsnap.com > articles」https://eureka.patsnap.com/resources/blog/articles/low-carbon-aluminum-smelting-technology-landscape-2026/
+- SNS・note（X・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- 検索結果の抜粋：未完（まだ取れていない・掘る対象）
 ### 業界ニュース（毎日）｜レアメタルリサイクル（e-waste precious metal recovery）
 - 取得：2026-11-08T04:41・調査5回目・読んだ頁42
 - 痛み・損（深さの印）（1件）：
@@ -313,22 +271,17 @@
   - ［記事］2026-11-07「ワットが決めるAIの勝敗 電力制約時代の製造業とデータセンター 【第５話】 データセンター誘致と地域 雇用・税収・電力・水の交渉」https://www.dctainc.com/blog/
   - ［記事］2026-11-07「◆前回のおさらいと、今回お話ししたいこと前回の第8話では、人とロボットの役割分担と、技能継承について、現場の本音から、たっぷりとお話ししました」https://www.dctainc.com/blog/
   - ［記事］2026-11-07「フィジカルAIが塗り替える製造業の勢力図 日本はどこで勝てるか 【第８話】人とロボットの役割分担 現場の本音と技能継承」https://www.dctainc.com/blog/
-- 技術（新しい技術・実証）（103件）：
+- 技術（新しい技術・実証）（97件）：
   - ［一次］2026-11-08「で生産される銅 (AAG) OW 3 Me, EAI」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
   - ［一次］2026-11-08「ヶ都市叙山か5のレアメタル、 レアアース等の製錬・分離精製、 解体選別などの技術開発」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
   - ［一次］2026-11-07「4. レアメタルリサイクル技術の開発」https://tenbou.nies.go.jp/science/description/detail.php?id=62
-  - ［一次］2026-11-07「http://www.meti.go.jp/policy/recycle/main/admin_info/committee/o/26/hairi26_04.pdf」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-07「「3.代替材料開発」に関しては、「既存の延長線上にない物質・材料の革新的機能の創出」を目指す元素戦略プロジェクトの取り組みが、文部科学省により2007年度から始まっています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
-- SNS・note（X・検索結果の抜粋）（2件）：
-  - ［SNS］2026-11-07「テレ東BIZ on X: " レアメタル を“都市鉱山”から自動発掘 ... テレ東BIZ on X: " レアメタル を“都市鉱山”から自動発掘 ... X https://x.com > @txbiz_ondemand」https://x.com/txbiz_ondemand/status/2012736707972718723
-  - ［SNS］2026-11-04「橘 龍馬 on X: " ”都市鉱山”関連銘柄 貴金属回収×Eスクラップ ... 橘 龍馬 on X: " ”都市鉱山”関連銘柄 貴金属回収×Eスクラップ ... X https://x.com > @t_ryoma1985」https://x.com/t_ryoma1985/status/1998664755880599803
-- SNS・note（note・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「ゴミの山は宝の山！「都市鉱山」が注目される理由 - note ゴミの山は宝の山！「都市鉱山」が注目される理由 - note note https://note.com > 政治・経済 > ビジネス・経済」https://note.com/tasty_godwit501/n/na76bda3fa27a
-- 検索結果の抜粋（4件）：
+  - ［一次］2026-11-07「また、経済産業省も非鉄金属資源の代替材料及び使用量低減技術の確立を目的として、「希少金属代替材料開発プロジェクト」に取り組むなど、この分野には多くの注目が集まっています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+- SNS・note（X・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- SNS・note（note・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- 検索結果の抜粋（2件）：
   - ［一次］2026-11-07「レアメタルリサイクル技術 - 環境技術解説｜環境展望台：国立環境研究... — その課題解決の一翼を担うと期待されるレアメタルリサイクル技術について、事例を交えながら、最近の動向と課題を紹介します。 1. レアメタルとは 2. レアメタル確保の取り組み 3. レアメタルリサイクルを事業化するには」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-07「レアメタルリサイクル／産業環境管理協会／資源・リサイクル促進セン... — Jan 31, 2025 · 2019.12.11 〔ネオジム〕東京エコリサイクル株式会社、日和サービス株式会社、NEOMAXエンジニアリング株式会社による先進事業「レアアース磁石におけるサーキュラーエコノミーの推進」を掲載しました。」https://www.cjc.or.jp/raremetal/
-  - ［記事］2026-11-07「銅や レアメタル など製造する炉新設へ JX金属製錬佐賀関製錬 ... — 銅や レアメタル など製造する炉新設へ JX金属製錬佐賀関製錬 ... tosonline.jp https://tosonline.jp > news > 20260119」https://tosonline.jp/news/20260119/00000005.html
-  - ［SNS］2026-11-04「レアメタルリサイクル 市場規模は、 2026年 から2033年までの ... — レアメタルリサイクル 市場規模は、 2026年 から2033年までの ... LinkedIn https://jp.linkedin.com > pulse > レアメタルリサイクル市場...」https://jp.linkedin.com/pulse/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%ABcagr133%E3%81%A7%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E3%81%A6%E3%81%8A%E3%82%8A%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86-7493500947101380608-tk2xe
 - SNS・note（note・本文）（8件）：
   - ［SNS］2026-11-04「ゴミの山は宝の山！「都市鉱山」が注目される理由——レアメタル争奪戦と日本の秘める可能性｜やまさん」https://note.com/tasty_godwit501/n/na76bda3fa27a
   - ［SNS］2026-11-04「ゴミの山は宝の山！「都市鉱山」が注目される理由——レアメタル争奪戦と日本の秘める可能性」https://note.com/tasty_godwit501/n/na76bda3fa27a
@@ -375,36 +328,29 @@
   - ［一次］2026-11-06「売上 1.8～1.9兆円」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「して、 売上高1.6兆円以上、 EBITDAマージン20%以上という規模」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-06「期ビジ ョ ンにおいて事業価値ベースで2,000億円の事」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
-- 社会（人・担い手）（55件）：
+- 社会（人・担い手）（54件）：
   - ［一次］2026-11-06「(*)計画の認定に加え、継続雇用者給与等支給額の対前年度増加率≧3%を満たした場合」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「(出所)内閣府｢AI戦略2019｣、経済産業省｢IT人材育成の状況等について｣を基に弊行作成」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 日本のIT人材は、2030年時点で数十万人単位で不足するとされ、経済産業省では義務教育期間も含めた教育環境整備を進める」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 多様なICT人材の登用(高校は1校に1」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「⇒単独での施策にはデータ量、解析技術、人材等の面で限界有 (P.18)」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-- 技術（新しい技術・実証）（61件）：
+- 技術（新しい技術・実証）（60件）：
   - ［一次］2026-11-06「マテリアルズ・インフォマティクスによる材料開発」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 モビリティの進化や5Gの進展など我々を取り巻く環境が大きく変化する中、これらの加速に向けた新材料の開発ニーズが高まりつつ」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 MIは、研究者の経験や勘に基づく従来型の手法に比べ、開発期間の大幅な短縮や開発コストの低減を実現できる他、データベース」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 これに対し、MIを活用すれば、開発に必要なリソースが抑えられ、ベンチャー企業等にとって参入余地が広がる可能性があります」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「2011年5月 日本A社が固体電解質を従来手法で発見し、特許申請（特許は未公開）」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-- SNS・note（LinkedIn・検索結果の抜粋）（5件）：
-  - ［SNS］2026-11-08「Taylor Sparks' Post - Materials Informatics - LinkedIn Taylor Sparks' Post - Materials Informatics - LinkedIn LinkedIn https://www.linkedin.com > posts > ta...」https://www.linkedin.com/posts/taylor-sparks-4ba98b30_materials-informatics-activity-7399157055485435904-jl_6
-  - ［SNS］2026-11-05「Materials Informatics and AI/ML-driven Materials Discovery ... Materials Informatics and AI/ML-driven Materials Discovery ... LinkedIn https://www.linkedin.com > posts > ra...」https://www.linkedin.com/posts/raymundo-arroyave_day-9-of-our-computational-materials-science-activity-7486061282106847234-022Y
-  - ［SNS］2026-11-04「Top ten methodologies in Materials Informatics and examples ... Top ten methodologies in Materials Informatics and examples ... LinkedIn https://www.linkedin.com > pulse > to...」https://www.linkedin.com/pulse/top-ten-methodologies-materials-informatics-examples-how-buehler
-  - ［SNS］2026-11-04「The Strategic Value of Materials Informatics - LinkedIn The Strategic Value of Materials Informatics - LinkedIn LinkedIn https://www.linkedin.com > pulse > st...」https://www.linkedin.com/pulse/strategic-value-materials-informatics-markus-j-buehler-c6vke
-  - ［SNS］2026-11-04「Generative Materials Informatics - LinkedIn Generative Materials Informatics - LinkedIn LinkedIn https://www.linkedin.com > pulse > g...」https://www.linkedin.com/pulse/generative-materials-informatics-markus-j-buehler-1dhee
-- SNS・note（note・検索結果の抜粋）（5件）：
+- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- SNS・note（note・検索結果の抜粋）（3件）：
   - ［SNS］2026-11-07「【2026年最新】マテリアルズインフォマティクス導入事例まとめ｜大手... Sep 14, 2026 · 【2026年最新】マテリアルズインフォマティクス導入事例まとめ｜大手化学メーカー5社に学ぶMI活用のリアル かなめ │ ケミストのDXノート 2026年9月14日 22:26」https://note.com/ideal_lemur777/n/ne425544e0f80
   - ［SNS］2026-11-07「マテリアルズインフォマティクスの動向 2026/8/30｜トマかめ Aug 30, 2026 · ベイズ推定では、ときにありえない条件が提示されてくる、という問題があります。人間側で事前情報を与えることで現実的な条件を提示させる。 Geminiが提示してきた問題点は、もし人間側の事前情報が間違っていたら修正できないこと。 私の見解は、ある程度法則が見え始めた開発中期に ...」https://note.com/yh1973/n/n0222fa42e419
   - ［SNS］2026-11-07「マテリアルズインフォマティクス - 2026-02｜かなめ │ ケミストのDXノ... 化学業界に静かに起きている革命——マテリアルズインフォマティクスという切り札私は化学業界で約20年、材料開発の最前線に携わってきました。これまでに出願した特許も20件を超えます。そんな現場を知る立場として ...」https://note.com/ideal_lemur777/m/m78107f358db2/archive/2026-02
-  - ［SNS］2026-11-04「大手化学メーカー5社に学ぶMI活用のリアル - note 大手化学メーカー5社に学ぶMI活用のリアル - note note https://note.com > ビジネス > データ・分析」https://note.com/ideal_lemur777/n/ne425544e0f80
-  - ［SNS］2026-11-04「マテリアルズインフォマティクス - 2026 -09 - note マテリアルズインフォマティクス - 2026 -09 - note note https://note.com > ideal_lemur777 > archive > 2026-09」https://note.com/ideal_lemur777/m/m78107f358db2/archive/2026-09
-- 検索結果の抜粋（32件）：
-  - ［一次］2026-11-08「Summit of Materials Science 2026 and GIMRT User Meeting — Summit of Materials Science 2026 and GIMRT User Meeting Tohoku University https://www.tohoku.ac.jp > events > s...」https://www.tohoku.ac.jp/en/events/special_event/summit_of_materials_science_2026_and_gimrt_user_meeting.html
-  - ［記事］2026-11-08「MI-6のニュース一覧 | 企業情報 | イプロスものづくり — MI-6のニュース一覧 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信 > MI-6株式会社」https://mono.ipros.com/company/detail/2082487/news/
-  - ［記事］2026-11-07「MI動向調査2025 9割が「MIを導入しておらず」 - MONOist — MI動向調査2025 9割が「MIを導入しておらず」 - MONOist MONOist https://monoist.itmedia.co.jp > articles > news016」https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html
+- 検索結果の抜粋（13件）：
   - ［記事］2026-11-07「【2026年10月最新】マテリアルズインフォマティクス（MI）とは？導入... — Oct 2, 2026 · マテリアルズインフォマティクス（MI）の定義・メリット・国内外の動向・企業7社の事例を整理し、専門部署がない中小企業がAIで同じ発想を活かす方法まで解説します。」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/
   - ［記事］2026-11-07「マテリアルズインフォマティクス関連セミナー | アイアール技術者教育... — マテリアルズインフォマティクス関連セミナー 化学/素材 研究・開発 専門技術・ノウハウ 申込受付中 WEB開催 提携セミナー 開催日 2026 年 12 月 22 日（火） 担当講師 久保 百司 氏」https://engineer-education.com/seminar_tag/seminar_materials-informatics/
+  - ［記事］2026-11-07「MI Conf 2026 -Materials Informatics Conference- — Jul 15, 2026 · MIに特化したカンファレンス、MI Conf 2026の公式サイトです。アカデミア・企業の中から厳選されたMIのトップランナーが一堂に会し、最新の潮流や今後の方向性を紹介します。」https://miconf.mi-6.co.jp/2026
+  - ［記事］2026-11-07「マテリアルズインフォマティクス（MI）の世界市場（2026年～2036年） — May 11, 2026 · マテリアルズインフォマティクス（MI）の世界市場（2026年～2036年） The Global Materials Informatics Market 2026-2036 マテリアル/化学品 発行 Future Markets, Inc. 発行日 2026年05月11日 ページ情報 英文 190 Pages, 31 Tabl」https://www.gii.co.jp/report/fmi1510802-global-materials-informatics-market.html
+  - ［記事］2026-11-07「ビッグテックの設備投資の推移【2026年10月】Microsoft・Google・Amaz... — Oct 18, 2026 · 4社の2026年7〜9月期の設備投資は合計2,019億ドルで、前年同期の約2.08倍です。Microsoft・Google（Alphabet）・Amazon・Metaの設備投資を、決算書の現金ベースで2025年1〜3月期から7四半期並べ、通年見通しの改定履歴とリースを含む数え方の違いを整理します。Amazo」https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii
 - SNS・note（X・検索結果の抜粋）（3件）：
   - ［SNS］2026-11-07「おにぎり＠マテリアルズ・インフォマティクス (@mat_info_ai) / X 高分子の物性をAIで予測するWebアプリ「Polymer-ML」を公開しました！ モノマー構造を入力するとガラス転移温度やヤング率等の物性を即座に算出します。3Dモデルの確認も可能です URLは返信欄に載せています！ #マテリアルズインフォマティクス #Python #Streamlit #高分子」https://x.com/mat_info_ai
   - ［SNS］2026-11-07「横山トモヤス｜計算材料科学者 (@yoko_materialDX) / X パナソニック ホールディングス株式会社 シニアリードリサーチャー｜素材×DX（#マテリアルズインフォマティクス ）によるクリーンエネルギー材料の研究開発｜社会人博士課程修了｜計算材料科学、第一原理計算、機械学習｜その他の情報は個人HPへ｜会社の研修がきっかけで始めました ...」https://x.com/yoko_materialDX
