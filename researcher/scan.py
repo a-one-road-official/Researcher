@@ -2779,6 +2779,50 @@ def scan(topic):
                *(f"  - {n[:55]}（熱の数字 {c}件）" for n, c in _hyonly[:8]),
                ""]
     except Exception: pass
+    # 2026-11-08 4-104（中小企業白書2023 第1部第3章第3節「生産性の現況」：労働生産性は従業員1人あたり付加価値だが、
+    # 厳密な分母は従業員数×労働時間で、同じ節の中でも人数あたりと時間あたり（2015年価格）が混ざる。規模は期初の規模で分ける。
+    # TFP は寄与分解の値で労働生産性の水準とは別物。小川真由 MONOist「ファクトから考える中小製造業の生きる道(4)」：
+    # 規模を資本金で区切り、法人企業統計の1人あたりに OECD の平均労働時間を掛け合わせた合成の値・ドル建ては為替で動く。
+    # ICFJ「Working with Data」：作り方・標本・誤差・欠け・用語集のメタデータを先に見る。Reynolds Center
+    # 「How to check a source's statistics」：原典を示せない調査・自社の客だけの調査は母集団の数字にしない）。
+    # ①品目ごとに人数あたりと時間あたりが混ざる ②規模の区切りが資本金と従業者で混ざる ③ドル建て・為替換算の値
+    # ④TFP・全要素生産性の引用 ⑤一次でない「調査」の割合で、回答数・n・方法が本文に無いもの
+    try:
+        _PH = re.compile(r"(1時間|一時間|時間)(あたり|当たり)|人時|マンアワー|per hour", re.I)
+        _PP = re.compile(r"(1人|一人|１人|従業員|従業者)(あたり|当たり)|per (employee|worker|head)", re.I)
+        _dn = {}
+        for r in rows:
+            q = r["引用"]
+            if _PH.search(q): _dn.setdefault(r["品目"], set()).add("時間あたり")
+            if _PP.search(q): _dn.setdefault(r["品目"], set()).add("人数あたり")
+        _dnmix = sorted(n for n, v in _dn.items() if len(v) == 2)
+        _CAPB = re.compile(r"資本金\s*[\d,０-９]+\s*(千|百)?万?円|資本金\s*\d+\s*億円")
+        _EMPB = re.compile(r"\d+\s*[〜~～\-－]\s*\d+\s*人|\d+\s*人(以上|以下|未満)")
+        _sb = {}
+        for r in rows:
+            s = r["規模"] + " " + r["引用"]
+            if _CAPB.search(s): _sb.setdefault(r["品目"], set()).add("資本金")
+            if _EMPB.search(s): _sb.setdefault(r["品目"], set()).add("従業者")
+        _sbmix = sorted(n for n, v in _sb.items() if len(v) == 2)
+        _USD = re.compile(r"(米?ドル|USD|US\$|\$\s*\d)")
+        _usd = [r for r in rows if _USD.search(r["引用"] + " " + str(r["単位"])) and re.search(r"(生産性|付加価値|1人|一人|賃金|売上)", r["引用"])]
+        _TFP = re.compile(r"(TFP|全要素生産性)")
+        _tfp = [r for r in rows if _TFP.search(r["引用"])]
+        _SURV = re.compile(r"(調査|アンケート|回答)")
+        _NMETH = re.compile(r"(n\s*[=＝]|回答(数|者数|社数)|有効回答|サンプル|標本|対象[:：]|調査対象|調査方法|調査期間)", re.I)
+        _nosamp = [r for r in rows if r["一次"] != "一次" and "%" in (r["引用"] + str(r["単位"])) and _SURV.search(r["引用"]) and not _NMETH.search(r["引用"])]
+        md += ["## 人数あたりと時間あたり・規模の区切り・為替・TFP・標本の書かれない調査（4-104・機械）",
+               f"- 同じ品目に「人数あたり」と「時間あたり（人時）」の引用が混ざる品目：{len(_dnmix)}品目。分母が違うので同じ欄で並べず、時間あたりは労働時間の出どころ（実労働か平均か）を添える",
+               *(f"  - {n[:60]}" for n in _dnmix[:8]),
+               f"- 規模の区切りが資本金（法人企業統計・白書）と従業者数（工業統計・経済構造実態調査）で混ざる品目：{len(_sbmix)}品目。区切りの基準が違う「中小」を同じ規模として並べない",
+               *(f"  - {n[:60]}" for n in _sbmix[:8]),
+               f"- ドル建て・為替換算の生産性・売上・賃金の引用：{len(_usd)}件。円との比べは換算の年と率（市場レートか購買力平価か）を添え、向きは円の系列で見る",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:60]}" for r in _usd[:5]),
+               f"- TFP（全要素生産性）の引用：{len(_tfp)}件。寄与分解の変化率で、1人あたりの水準や向きの値として使わない",
+               f"- 一次でない「調査」の割合（%）で、回答数・対象・方法が本文に無い引用：{len(_nosamp)}件。原典の調査票と回答者の範囲（自社の客だけか）を確かめるまで母集団の数字にしない",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:60]}" for r in _nosamp[:5]),
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
