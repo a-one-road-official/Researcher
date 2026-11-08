@@ -2553,6 +2553,47 @@ def scan(topic):
                *(f"  - {n[:60]}（直接 {a}件・推計 {b}件）" for n, a, b in _both[:10]),
                ""]
     except Exception: pass
+    # 2026-11-08 4-99（経産省「鉱工業指数の見方」riyou-3：基準時を固定した指数は基準から遠いほど偏りが大きく、伸びる品目を
+    # 小さく見せる。FCSM 2020「連邦の調査の非回答バイアス研究の系統的レビュー」：補正で偏りが減ったと述べても数字で示さない
+    # 報告が多い。コンコード「フェルミ推定」：推定は実績値と同じ桁に入るかで分解を確かめ、桁が外れたら仮定に戻る）。
+    # ①同じ引用の基準年と対象年の差が5年以上の指数 ②「補正・調整で偏りが減った」と書くが数字の無い引用
+    # ③同じ品目・同じ単位で、推計と書かれた値の中央値と直接の値の中央値が10倍以上離れる（桁違い）
+    try:
+        _BY2 = re.compile(r"((?:19|20)\d{2})\s*年?\s*(?:=\s*100|基準)")
+        _far = {}
+        for r in rows:
+            m = _BY2.search(r["引用"])
+            if m and r["年"]:
+                try:
+                    gap = int(str(r["年"])[:4]) - int(m.group(1))
+                    if gap >= 5: _far.setdefault(r["品目"], set()).add(f"{m.group(1)}基準→{str(r['年'])[:4]}")
+                except Exception: pass
+        _ADJ = re.compile(r"(補正|調整|ウェイト|重み付け|weight|adjust)", re.I)
+        _BIAS = re.compile(r"(偏り|バイアス|bias)", re.I)
+        _RED = re.compile(r"(減|改善|小さくな|解消|reduc|lower)", re.I)
+        _decl = [r for r in rows if _ADJ.search(r["引用"]) and _BIAS.search(r["引用"]) and _RED.search(r["引用"]) and not re.search(r"\d", r["引用"])]
+        _EST2 = re.compile(r"(推計|推定|試算|見込み)")
+        _ge, _gd = {}, {}
+        for r in rows:
+            if r["予測"] or not r["単位"]: continue
+            k = (r["品目"], r["単位"])
+            (_ge if _EST2.search(r["引用"]) else _gd).setdefault(k, []).append(r["値"])
+        _ord = []
+        for k in _ge:
+            if k in _gd:
+                a, b = statistics.median(_ge[k]), statistics.median(_gd[k])
+                if a > 0 and b > 0 and max(a, b) / min(a, b) >= 10:
+                    _ord.append((k, a, b, max(a, b) / min(a, b)))
+        _ord.sort(key=lambda x: -x[3])
+        md += ["## 基準からの距離・数字の無い補正の宣言・推計と実績の桁（4-99・機械）",
+               f"- 基準年から5年以上離れた年の指数を引く品目：{len(_far)}品目。固定基準の指数は基準から遠いほど伸びる品目を小さく見せる偏りが大きい。基準改定後の系列か、連鎖の系列で取り直す",
+               *(f"  - {n[:60]}（{'・'.join(sorted(s)[:4])}）" for n, s in sorted(_far.items(), key=lambda x: -len(x[1]))[:10]),
+               f"- 補正・調整で偏りが減ったと書くが数字の無い引用：{len(_decl)}件。減ったことの宣言は確かめられていないものとして扱い、補正前後の値が並ぶ原表を探す",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:60]}" for r in _decl[:5]),
+               f"- 同じ品目・同じ単位で、推計と書かれた値と直接の値の中央値が10倍以上離れる：{len(_ord)}組。桁が外れたら分解の仮定（単位・分母・範囲）に戻る",
+               *(f"  - {k[0][:50]}（{k[1]}）：推計の中央値 {a:,.4g}・直接の中央値 {b:,.4g}・{x:,.1f}倍" for k, a, b, x in _ord[:10]),
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")

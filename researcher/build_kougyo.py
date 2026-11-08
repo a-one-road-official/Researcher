@@ -44,7 +44,7 @@ FIELDS = {  # 欄の見出しに含まれる言葉 → 出力の欄の名前。�
 
 
 # 2026-11-08 71回目：e-Stat の候補の拾い方を直したので、一度だけ作り直す。印の中の版が違えば作り直す（印のファイルは消さずに上書き）
-BUILD_VER = "estat-2026-11-08c"
+BUILD_VER = "estat-2026-11-08d"
 
 
 def is_done() -> bool:
@@ -148,6 +148,33 @@ def _estat(year: int, log: list[str]) -> list[str]:
                 near.append(ctx[-300:][:120])
         seen.append(f"{url}（file-download {len(re.findall('file-download', html))}件・statInfId {len(re.findall('statinfid', html, re.I))}件）")
         if out: break
+        # 2026-11-08 74回目：73回目の版（estat-2026-11-08c）でも、検索語の一覧・年で絞った一覧のどれも statInfId 0件だった。
+        # e-Stat の files の一覧は toukei だけでは調査の選択（tstat・tclass の階層）を出すだけで、表の行は階層を下りた先に出る。
+        # その頁の stat-search/files?…tstat= / tclass の階層のリンクを、年（西暦・和暦）か「産業」を含むものから優先して3段まで下りる（最大20頁）
+        if not out and not re.search(r"statinfid", html, re.I):
+            queue, visited, depth_log = [(html, 0)], set(), []
+            while queue and len(visited) < 20 and not out:
+                h0, dpt = queue.pop(0)
+                subs = re.findall(r"""(?:href|data-href)=["']([^"']*stat-search/files\?[^"']*(?:tstat|tclass)[^"']*)["']""", h0, re.I)
+                subs = [requests.compat.urljoin("https://www.e-stat.go.jp/", s.replace("&amp;", "&")) for s in subs]
+                subs = [s for s in dict.fromkeys(subs) if s not in visited]
+                subs.sort(key=lambda s: 0 if (str(year) in s or f"{year}0" in s) else 1)
+                depth_log.append(f"段{dpt}：階層のリンク {len(subs)}件")
+                for s in subs[:8]:
+                    if len(visited) >= 20: break
+                    visited.add(s)
+                    rr = _fetch(s)
+                    if rr is None or rr.status_code != 200: continue
+                    hh = rr.text
+                    for m in re.finditer(r"""((?:https://www\.e-stat\.go\.jp)?/?(?:stat-search/)?file-download\?[^"'\s<>]*?statinfid=\d+[^"'\s<>]*)""", hh, re.I):
+                        ctx = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", hh[max(0, m.start() - 1500):m.end() + 600]))
+                        if re.search(r"産業別|産業細分類|産業編", ctx) and re.search(str(year) + r"|平成" + str(year - 1988), ctx):
+                            _h = m.group(1).replace("&amp;", "&"); _h = _h if _h.startswith(("http", "/")) else ("/stat-search/" + _h if _h.startswith("file-download") else "/" + _h)
+                            out.append(requests.compat.urljoin("https://www.e-stat.go.jp/", _h))
+                    if out: break
+                    if dpt < 2: queue.append((hh, dpt + 1))
+            seen.append(f"階層を下りた：{len(visited)}頁（" + "・".join(depth_log[:6]) + f"）・候補 {len(out)}件")
+            if out: break
         if not out and near:
             seen.append("候補外のリンクの前後：" + " ｜ ".join(dict.fromkeys(near))[:600])
     log.append(f"- {year}：経産省は CAPTCHA のため e-Stat を見た：" + "／".join(seen) + f"／産業別の候補 {len(out)}件")
