@@ -44,7 +44,7 @@ FIELDS = {  # 欄の見出しに含まれる言葉 → 出力の欄の名前。�
 
 
 # 2026-11-08 71回目：e-Stat の候補の拾い方を直したので、一度だけ作り直す。印の中の版が違えば作り直す（印のファイルは消さずに上書き）
-BUILD_VER = "estat-2026-11-08b"
+BUILD_VER = "estat-2026-11-08c"
 
 
 def is_done() -> bool:
@@ -115,8 +115,14 @@ def _estat(year: int, log: list[str]) -> list[str]:
     """e-Stat（政府統計の総合窓口）の工業統計調査（政府統計コード 00550010）のファイル一覧から、その年の産業別統計表の Excel を探す。
     見つからなければ一覧のページで見えた候補をログに残す。"""
     out, seen = [], []
-    for q in (f"工業統計表 産業別統計表 {year}年", f"工業統計調査 {year}年 確報 産業別統計表"):
-        url = "https://www.e-stat.go.jp/stat-search/files?toukei=00550010&query=" + requests.utils.quote(q) + "&layout=datalist&page=1"
+    # 2026-11-08 73回目：72回目の直しでも0件。ログの「生の前後」を見ると、9件の file-download は一覧のリンクでなく
+    # 一括ダウンロードの画面部品（js-all-file-download-modal という class 名）だった＝検索語の付いた一覧に表の行が1件も出ていない。
+    # 検索語を外し、調査年（year=西暦×10、cycle=7 年次）で絞った一覧と、和暦の検索語も試す。一覧の行（statInfId）の数もログに残す
+    _urls = ["https://www.e-stat.go.jp/stat-search/files?toukei=00550010&query=" + requests.utils.quote(q) + "&layout=datalist&page=1"
+             for q in (f"工業統計表 産業別統計表 {year}年", f"工業統計調査 {year}年 確報 産業別統計表", f"平成{year - 1988}年 工業統計表 産業編")]
+    _urls += [f"https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00550010&cycle=7&year={year}0&month=0",
+              f"https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00550010&cycle=7&year={year + 1}0&month=0"]
+    for url in _urls:
         r = _fetch(url)
         if r is None or r.status_code != 200:
             seen.append(f"{url} status={getattr(r, 'status_code', '接続失敗')}")
@@ -140,7 +146,8 @@ def _estat(year: int, log: list[str]) -> list[str]:
                 out.append(requests.compat.urljoin("https://www.e-stat.go.jp/", _h))
             else:
                 near.append(ctx[-300:][:120])
-        seen.append(f"{url}（file-download {len(re.findall('file-download', html))}件）")
+        seen.append(f"{url}（file-download {len(re.findall('file-download', html))}件・statInfId {len(re.findall('statinfid', html, re.I))}件）")
+        if out: break
         if not out and near:
             seen.append("候補外のリンクの前後：" + " ｜ ".join(dict.fromkeys(near))[:600])
     log.append(f"- {year}：経産省は CAPTCHA のため e-Stat を見た：" + "／".join(seen) + f"／産業別の候補 {len(out)}件")

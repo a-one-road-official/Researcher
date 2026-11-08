@@ -2497,6 +2497,11 @@ def scan(topic):
             # 次に読む候補：method_read.txt に無い（束ねた形で照合）・主題外でない頁を、手法の言葉を含む引用の数の順に
             _mr = os.path.join(os.path.dirname(__file__), "method_read.txt")
             _rd = {canon_url(l.strip()) for l in open(_mr, encoding="utf-8")} if os.path.exists(_mr) else set()
+            # 2026-11-08 73回目の失敗から：抜き書きで読んで METHOD.md に出典として載せた頁（method_read.txt に足さない決まり・4-95）が
+            # 未読の候補に戻っていた。METHOD.md に出てくるURLも既読に数える
+            _mf = os.path.join(os.path.dirname(__file__), "METHOD.md")
+            if os.path.exists(_mf):
+                _rd |= {canon_url(x) for x in re.findall(r"https?://[^\s）)／]+", open(_mf, encoding="utf-8").read())}
             _offs = {u for u, _, _ in _off}
             _cand = sorted(((u, sum(1 for x in q if _mk.search(x))) for u, q in _pq.items() if u not in _rd and u not in _offs),
                            key=lambda x: -x[1])
@@ -2525,6 +2530,27 @@ def scan(topic):
                f"- 売上・総額・市場規模の金額で、期間も年も書かれていないもの：{sum(_nop.values())}件（{len(_nop)}品目）。何か月分の量か（フロー）、ある時点の残高か（ストック）が分からないので、年間の値と同じ欄で比べない（4-94 を補う）",
                *(f"  - {n[:60]}（{c}件）" for n, c in sorted(_nop.items(), key=lambda x: -x[1])[:10]),
                f"- 事業所・企業の調査の回収率の引用 {len(_rr)}件のうち、重み付き（金額・出荷額・従業者のベース、カバー率）が書かれていないもの {len(_rrw)}件。件数の回収率が高くても大きな先が抜ければ総額は大きく欠ける。総額に占める答えた先の割合を探してから全体の値として読む",
+               ""]
+    except Exception: pass
+    # 2026-11-08 4-98（NIRA「統計改革」0803：物価指数は指数ごとに作り方が違い、基準年の違う系列はリンクしてつなぐ。
+    # 米国センサス局 2010 の事業所調査の非回答バイアス分析：欠けは行政記録の直接の値で埋めるのが先で、モデルの推計は後。
+    # 大きい先の欠けから当たる）。①同じ品目の引用に「○年基準・○年=100」が2つ以上＝基準年の違う指数・実質値の混在。
+    # ②同じ品目に、推計・推定と書かれていない一次の値と、推計・推定・試算と書かれた値が並ぶ＝直接の記録があるのに推計を採る恐れ。
+    try:
+        _BASEY = re.compile(r"((?:19|20)\d{2})\s*年?\s*(?:=\s*100|基準|価格)")
+        _EST = re.compile(r"(推計|推定|試算|見込み|補完|imput)")
+        _bym, _dir, _estd = {}, {}, {}
+        for r in rows:
+            for m in _BASEY.finditer(r["引用"]): _bym.setdefault(r["品目"], set()).add(m.group(1))
+            if _EST.search(r["引用"]): _estd[r["品目"]] = _estd.get(r["品目"], 0) + 1
+            elif r["一次"] == "一次" and not r["予測"]: _dir[r["品目"]] = _dir.get(r["品目"], 0) + 1
+        _mix = sorted(((n, s) for n, s in _bym.items() if len(s) >= 2), key=lambda x: -len(x[1]))
+        _both = sorted(((n, _dir[n], _estd[n]) for n in _dir if n in _estd), key=lambda x: -x[2])
+        md += ["## 基準年の混在・直接の記録と推計の並存（4-98・機械）",
+               f"- 同じ品目の引用に基準年（○年基準・○年=100）が2つ以上：{len(_mix)}品目。指数ごとに作り方も基準も違うので、どの指数のどの基準年かをそろえるまで実質の向きを書かない",
+               *(f"  - {n[:60]}（{'・'.join(sorted(s))}）" for n, s in _mix[:10]),
+               f"- 直接の一次の値と、推計・推定・試算と書かれた値が同じ品目に並ぶ：{len(_both)}品目。直接の記録（統計の表・開示・公告）を先に採り、推計は記録が無い先の穴埋めに限る。穴埋めは総額への寄与の大きい先から",
+               *(f"  - {n[:60]}（直接 {a}件・推計 {b}件）" for n, a, b in _both[:10]),
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
