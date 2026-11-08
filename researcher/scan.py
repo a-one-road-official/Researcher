@@ -3162,6 +3162,57 @@ def scan(topic):
                *(f"  - 売上が欠け：{n[:50]}" for n in _miss_s[:4]),
                ""]
     except Exception: pass
+    # 2026-11-09 4-115（Inkwood Research「How Accurate Are Market Size Estimates?」2026：調査会社どうしの市場規模の食い違いは誤りより範囲の定義の違いが多い。
+    # 範囲（地域・区分・金額か数量か）を先にそろえ、供給側（生産・出荷）と需要側（消費・貿易統計）を突き合わせる。
+    # CREX「市場規模の算出方法を3つのステップで解説」2025：需要側と供給側の2つの式を比べ、楽観・標準・悲観の3つで幅を出す。
+    # IRE「Piercing the secrecy of private companies」2011：届出が無いことは事実が無いことの証明にならない）。
+    # ①市場規模の引用で地域の語が無いもの（範囲不明）②同じ品目に世界と国内の市場規模が混ざる品目（食い違いにしない）
+    # ③同じ品目・同じ年に生産・出荷と輸入と輸出の金額がそろう組＝見かけの国内需要（生産＋輸入−輸出・各中央値）【推定】
+    # ④同じ品目・同じ年の市場規模が3件以上あれば第1四分位・中央値・第3四分位を悲観・標準・楽観として並べる【推定】
+    try:
+        _GEO = r"(世界|グローバル|global|world|国内|日本|全国|米国|北米|欧州|アジア|中国|韓国|台湾|県|地域)"
+        _ms = [r for r in rows if r["文脈"] == "市場規模" and r["単位"] in ("万円", "円", "億円", "ドル", "万ドル", "億ドル")]
+        _nogeo = [r for r in _ms if not re.search(_GEO, r["引用"] + r["品目"], re.I)]
+        _gw, _gd = set(), set()
+        for r in _ms:
+            if re.search(r"(世界|グローバル|global|world)", r["引用"], re.I): _gw.add(r["品目"])
+            if re.search(r"(国内|日本)", r["引用"]): _gd.add(r["品目"])
+        _wd = sorted(_gw & _gd)
+        _sd = {}
+        for r in rows:
+            if r["単位"] != "万円" or not r["年"] or r.get("予測"): continue
+            q = r["区分"] + r["引用"]
+            k = "輸入" if "輸入" in q else "輸出" if "輸出" in q else "生産" if re.search(r"(生産額|出荷額|生産高)", q) else None
+            if not k: continue
+            try: _sd.setdefault((r["品目"], r["年"]), {}).setdefault(k, []).append(float(r["値"]))
+            except Exception: pass
+        _app = []
+        for (n, y), d in _sd.items():
+            if all(k in d for k in ("生産", "輸入", "輸出")):
+                p, i, e = (statistics.median(d[k]) for k in ("生産", "輸入", "輸出"))
+                _app.append((n, y, p, i, e, p + i - e))
+        _sc = {}
+        for r in _ms:
+            if r["単位"] == "万円" and r["年"] and not r.get("予測"):
+                try: _sc.setdefault((r["品目"], r["年"]), []).append(float(r["値"]))
+                except Exception: pass
+        _sc3 = []
+        for (n, y), v in _sc.items():
+            if len(v) >= 3:
+                q = statistics.quantiles(sorted(v), n=4)
+                _sc3.append((n, y, q[0], statistics.median(v), q[2], len(v)))
+        _sc3.sort(key=lambda t: -t[5])
+        md += ["## 市場規模の範囲・供給側と需要側・3つの幅（4-115・機械）",
+               f"- 市場規模の金額の引用：{len(_ms)}件のうち、地域（世界・国内・地域）の語が無いもの：{len(_nogeo)}件。範囲が分からない市場規模は他と突き合わせず、本文で範囲（地域・区分・金額か数量か）を確かめてから使う",
+               *(f"  - {r['品目'][:40]}：{r['引用'][:50]}" for r in _nogeo[:4]),
+               f"- 同じ品目に世界と国内の市場規模が混ざる品目：{len(_wd)}品目。範囲が違うので【食い違い】にせず別の欄に分ける",
+               *(f"  - {n[:50]}" for n in _wd[:6]),
+               f"- 同じ品目・同じ年に生産（出荷）・輸入・輸出の金額がそろう組：{len(_app)}組。見かけの国内需要＝生産＋輸入−輸出（各中央値・万円）【推定】。需要側の市場規模の引用と並べ、桁が合わなければ範囲か単位の違いを疑う",
+               *(f"  - {n[:36]}（{y}年）：生産 {p:,.0f}＋輸入 {i:,.0f}−輸出 {e:,.0f}＝{a:,.0f}万円" for n, y, p, i, e, a in _app[:6]),
+               f"- 同じ品目・同じ年の市場規模が3件以上ある組：{len(_sc3)}組。悲観（第1四分位）・標準（中央値）・楽観（第3四分位）として幅で書く【推定】（点の1つの値を約束として書かない）",
+               *(f"  - {n[:36]}（{y}年・{c}件）：{lo:,.0f}／{md_:,.0f}／{hi:,.0f}万円" for n, y, lo, md_, hi, c in _sc3[:6]),
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
