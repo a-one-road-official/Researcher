@@ -8,8 +8,618 @@
  ],
  "context": "記録",
  "kind": "market",
- "researched_at": "2026-11-07T18:45:48.593943+00:00",
+ "researched_at": "2026-11-08T00:21:55.840496+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "探偵業者や調査会社がネット調査の結果を報告書で裏づける方法がProofSnapです",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bbs.example.jp/thread/8812",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "market.example/items/33914",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example.co.jp/company/history",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ネット調査の結果を、報告書でどう裏づけますか？",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "時系列で複数回取得しておくと、変化そのものが調査結果になります",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「この法律において「探偵業務」とは、他人の依頼を受けて、特定人の所在又は行動についての情報であって当該依頼に係るものを収集することを目的として面接による聞込み、尾行、張込みその他これらに類する方法により実地の調査を行い、その調査の結果を当該依頼者に報告する業務をいう",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取得の各工程が操作種別、時刻、対象、結果とともに記録され、各エントリが直前のハッシュを含む連鎖構造になっています",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報が同時に記録されます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取得の各工程が、操作の種類、時刻、対象、結果とともに記録され、各エントリが直前のエントリのハッシュを含む連鎖構造になっています",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Organize evidence into cases and disclosure-ready packages",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example of a digitally signed, court-ready capture report",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cases are built across days, weeks, or months. Evidence must stay organized, traceable, and connected as the case develops.",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notes, observations, and investigative context are captured with the evidence itself, not stored separately. This keeps meaning, intent, and relevance intact as the case develops.",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Investigator attribution and case metadata included",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case-level organization",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Link multiple captures to a single subject, organization, or case",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case Evidence Overview",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Related captures organized for case-level review and context.",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The ability to generate signed, timestamped reports, capture scrolling pages, and extract key identifiers automatically saves me hours on every case.",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "I highly recommend it for your next investigation. On a recent case I had to capture long pages, embedded media, and source code with timestamps.",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "\"Forensic OSINT is a game-changer for investigators looking to produce admissible evidence for court cases.\"",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Handle straightforward cases and captures",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Work complex cases with many captures",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Collaborate with teammates or manage private cases",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Maintain a log of all screenshots taken during an investigation, including the purpose of each capture and the case to which it relates.",
+    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Create a dedicated case file for each OSINT investigation, with separate sections for different platforms, targets, and evidentiary themes.",
+    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Online identity attribution is critical for social media investigations, harassment cases, and fraud investigations. The",
+    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Social media harassment case:",
+    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Complete investigation example:",
+    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "By adopting rigorous capture practices, thorough documentation habits, and forensically sound storage solutions, investigators can ensure that their OSINT evidence is as defensible and impactful as any other form of evidence in their cases.",
+    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Investigative team or case assignment",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Associate evidence with the relevant case or investigation.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, an investigator correlating a forum username with a social media profile should retain the underlying observations supporting that connection.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, an investigator may capture a screenshot in one application, document its source in a spreadsheet, store the file in a shared folder, and communicate analytical context through a separate messaging platform.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It is maintaining a consistent relationship between the evidence, the collection process, and the investigative decisions made throughout the case.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Silo Case Manager supports the organization of investigation content and context, while Silo Drive provides capabilities for sharing collected material across authorized teams.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This can help teams apply appropriate access controls, manage investigative resources, and support accountability across analysts and cases.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Silo Case Manager and Silo Drive support evidence organization and team collaboration.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Centralized workflows help preserve relationships between collected artifacts and case context.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Capture: where cases are won and lost",
+    "url": "https://www.next-sight.com/resources/chain-of-custody-osint",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "None of this is invented per-case.",
+    "url": "https://www.next-sight.com/resources/chain-of-custody-osint",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ネット調査の結果を、",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "sns.example/target_account",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ネット調査の結果を、報告書でどう裏づければよいですか？",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "URL、DNSの解決結果、HTTPレスポンスヘッダー、WHOIS情報",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "時間をおいて複数回取得しておくと、変化そのものが調査結果になります",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この法律において「探偵業務」とは、他人の依頼を受けて、特定人の所在又は行動についての情報であって当該依頼に係るものを収集することを目的として面接による聞込み、尾行、張込みその他これらに類する方法により実地の調査を行い、その調査の結果を当該依頼者に報告する業務をいう",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "forensic_log.jsonは取得の各工程を操作の種類、時刻、結果とともに記録し、各エントリが直前のエントリのハッシュ値を含む連鎖構造です",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DNSの解決結果、HTTPレスポンスヘッダー、WHOIS情報が同時に記録されます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "chain_of_custody.jsonには、NTPで確認した時刻、DNSの解決結果、HTTPレスポンスヘッダー、WHOIS情報などが記録されます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "forensic_log.jsonは各操作を時刻と結果とともに記録し、各エントリが直前のエントリのハッシュ値を含むため、途中のエントリを書き換えると以降のハッシュ値が合わなくなります",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査の結果を、後から確認できる形で報告書に添えられます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Accurate timestamps prove content existed in a specific form at a specific moment. Proving exactly when something appeared online is paramount to creating a timeline of your case. If you can't prove something happened when you say it did, your entire timeline can come into question, and opposing counsel won't miss the opportunity to challenge your version of events.",
+    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Building court-ready case files",
+    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Social media evidence can only prove your case if the court lets you show it.",
+    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example.co.jp/news/20260810",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "URL、DNSの解決結果、HTTPレスポンスヘッダー、WHOIS情報",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A case folder contains hundreds of artifacts with filenames such as:",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The page identified Alice Example as a director of Example Ltd at the time of capture.",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "storage location or case identifier",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case: ACME-2026-08",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Did example.com identify Company A as the operator of the service?",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://example.com/terms",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cases/ACME-2026-08/evidence/EV-0042/",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Examples of volatile material include:",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://example.com/reports/2026/result?id=42",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "WARC is powerful, but not mandatory for every case",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Instead of asking the investigator to decide manually when to save every page, it can document browsing activity inside a case-oriented workflow.",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Do not make the filename carry the entire case.",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20260818T194211Z_EV-0042_example-com_terms_singlefile.html",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20260818T194211Z_EV-0042_example-com_terms_screenshot.png",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Examples of transformations include:",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "undergraduate dissertation (forensic OSINT across six case studies in",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "python examples/worked_example.py",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "python examples/fr02_krynky_case_study.py",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "fr02_krynky_case_study.py",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "reconstructs a real case from my dissertation:",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "examples/fr02_report.md",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "not collect data, scrape platforms, or profile individuals. The example",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "case is synthetic. Anything resembling investigation of a real person",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証ツール（Trust Verifier）",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "依頼者も、その先の弁護士も、無料の検証ツールで独立に検証できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンクまたはファイルをお送りいただければ、裁判所が検証できる署名付き・タイムスタンプ付きのパッケージを48時間以内にお返しします",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弁護士側は無料の検証ツールで独立に検証できるため、調査会社の信用に依存しない形で受け渡せます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "探偵の調査報告書とネット調査の証拠保全【2026年版】｜OSINTの記録を検証可能に｜ProofSnap",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "依頼者や弁護士は無料の検証ツールで確認できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "オープンソースで検証可能（MITライセンス）",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：社名入りPDF（EnterpriseとCompany）または証拠PDFに証拠ZIPを添えて、依頼者と弁護士が検証できる形で引き渡します",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ZIPにはハッシュ値、署名付きマニフェスト、チェーン・オブ・カストディが含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ZIPにはハッシュ値、署名付きマニフェスト、証拠管理の連鎖が含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報道機関・記者のファクトチェック記録【2026年版】｜取材で参照したページを検証できる形で保全｜ProofSnap",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "オープンソースで検証可能（MITライセンス）",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ProofSnapなら参照したページごとに証拠ZIPを作成でき、デスクや編集部の担当者は無料の検証ツールでファイルを確認できます",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
@@ -116,104 +726,6 @@
    {
     "quote": "Mistake 12 — No backup",
     "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証ツール（Trust Verifier）",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "依頼者も、その先の弁護士も、無料の検証ツールで独立に検証できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "リンクまたはファイルをお送りいただければ、裁判所が検証できる署名付き・タイムスタンプ付きのパッケージを48時間以内にお返しします",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "弁護士側は無料の検証ツールで独立に検証できるため、調査会社の信用に依存しない形で受け渡せます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "探偵の調査報告書とネット調査の証拠保全【2026年版】｜OSINTの記録を検証可能に｜ProofSnap",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "依頼者や弁護士は無料の検証ツールで確認できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "オープンソースで検証可能（MITライセンス）",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：社名入りPDF（EnterpriseとCompany）または証拠PDFに証拠ZIPを添えて、依頼者と弁護士が検証できる形で引き渡します",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ZIPにはハッシュ値、署名付きマニフェスト、チェーン・オブ・カストディが含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ZIPにはハッシュ値、署名付きマニフェスト、証拠管理の連鎖が含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "報道機関・記者のファクトチェック記録【2026年版】｜取材で参照したページを検証できる形で保全｜ProofSnap",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "オープンソースで検証可能（MITライセンス）",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ProofSnapなら参照したページごとに証拠ZIPを作成でき、デスクや編集部の担当者は無料の検証ツールでファイルを確認できます",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -811,616 +1323,59 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "実例": [
-   {
-    "quote": "探偵業者や調査会社がネット調査の結果を報告書で裏づける方法がProofSnapです",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bbs.example.jp/thread/8812",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "market.example/items/33914",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example.co.jp/company/history",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ネット調査の結果を、報告書でどう裏づけますか？",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "時系列で複数回取得しておくと、変化そのものが調査結果になります",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「この法律において「探偵業務」とは、他人の依頼を受けて、特定人の所在又は行動についての情報であって当該依頼に係るものを収集することを目的として面接による聞込み、尾行、張込みその他これらに類する方法により実地の調査を行い、その調査の結果を当該依頼者に報告する業務をいう",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "取得の各工程が操作種別、時刻、対象、結果とともに記録され、各エントリが直前のハッシュを含む連鎖構造になっています",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報が同時に記録されます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "取得の各工程が、操作の種類、時刻、対象、結果とともに記録され、各エントリが直前のエントリのハッシュを含む連鎖構造になっています",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Organize evidence into cases and disclosure-ready packages",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example of a digitally signed, court-ready capture report",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Cases are built across days, weeks, or months. Evidence must stay organized, traceable, and connected as the case develops.",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Notes, observations, and investigative context are captured with the evidence itself, not stored separately. This keeps meaning, intent, and relevance intact as the case develops.",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Investigator attribution and case metadata included",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Case-level organization",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Link multiple captures to a single subject, organization, or case",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Case Evidence Overview",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Related captures organized for case-level review and context.",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The ability to generate signed, timestamped reports, capture scrolling pages, and extract key identifiers automatically saves me hours on every case.",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "I highly recommend it for your next investigation. On a recent case I had to capture long pages, embedded media, and source code with timestamps.",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "\"Forensic OSINT is a game-changer for investigators looking to produce admissible evidence for court cases.\"",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Handle straightforward cases and captures",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Work complex cases with many captures",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Collaborate with teammates or manage private cases",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Maintain a log of all screenshots taken during an investigation, including the purpose of each capture and the case to which it relates.",
-    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Create a dedicated case file for each OSINT investigation, with separate sections for different platforms, targets, and evidentiary themes.",
-    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Online identity attribution is critical for social media investigations, harassment cases, and fraud investigations. The",
-    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Social media harassment case:",
-    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Complete investigation example:",
-    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "By adopting rigorous capture practices, thorough documentation habits, and forensically sound storage solutions, investigators can ensure that their OSINT evidence is as defensible and impactful as any other form of evidence in their cases.",
-    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Investigative team or case assignment",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Associate evidence with the relevant case or investigation.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, an investigator correlating a forum username with a social media profile should retain the underlying observations supporting that connection.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, an investigator may capture a screenshot in one application, document its source in a spreadsheet, store the file in a shared folder, and communicate analytical context through a separate messaging platform.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It is maintaining a consistent relationship between the evidence, the collection process, and the investigative decisions made throughout the case.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Silo Case Manager supports the organization of investigation content and context, while Silo Drive provides capabilities for sharing collected material across authorized teams.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This can help teams apply appropriate access controls, manage investigative resources, and support accountability across analysts and cases.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Silo Case Manager and Silo Drive support evidence organization and team collaboration.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Centralized workflows help preserve relationships between collected artifacts and case context.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Capture: where cases are won and lost",
-    "url": "https://www.next-sight.com/resources/chain-of-custody-osint",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "None of this is invented per-case.",
-    "url": "https://www.next-sight.com/resources/chain-of-custody-osint",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ネット調査の結果を、",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "sns.example/target_account",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ネット調査の結果を、報告書でどう裏づければよいですか？",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "URL、DNSの解決結果、HTTPレスポンスヘッダー、WHOIS情報",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "時間をおいて複数回取得しておくと、変化そのものが調査結果になります",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この法律において「探偵業務」とは、他人の依頼を受けて、特定人の所在又は行動についての情報であって当該依頼に係るものを収集することを目的として面接による聞込み、尾行、張込みその他これらに類する方法により実地の調査を行い、その調査の結果を当該依頼者に報告する業務をいう",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "forensic_log.jsonは取得の各工程を操作の種類、時刻、結果とともに記録し、各エントリが直前のエントリのハッシュ値を含む連鎖構造です",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "DNSの解決結果、HTTPレスポンスヘッダー、WHOIS情報が同時に記録されます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "chain_of_custody.jsonには、NTPで確認した時刻、DNSの解決結果、HTTPレスポンスヘッダー、WHOIS情報などが記録されます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "forensic_log.jsonは各操作を時刻と結果とともに記録し、各エントリが直前のエントリのハッシュ値を含むため、途中のエントリを書き換えると以降のハッシュ値が合わなくなります",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査の結果を、後から確認できる形で報告書に添えられます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Accurate timestamps prove content existed in a specific form at a specific moment. Proving exactly when something appeared online is paramount to creating a timeline of your case. If you can't prove something happened when you say it did, your entire timeline can come into question, and opposing counsel won't miss the opportunity to challenge your version of events.",
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Building court-ready case files",
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Social media evidence can only prove your case if the court lets you show it.",
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example.co.jp/news/20260810",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "URL、DNSの解決結果、HTTPレスポンスヘッダー、WHOIS情報",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A case folder contains hundreds of artifacts with filenames such as:",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The page identified Alice Example as a director of Example Ltd at the time of capture.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "storage location or case identifier",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Case: ACME-2026-08",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Did example.com identify Company A as the operator of the service?",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://example.com/terms",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cases/ACME-2026-08/evidence/EV-0042/",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples of volatile material include:",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://example.com/reports/2026/result?id=42",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "WARC is powerful, but not mandatory for every case",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Instead of asking the investigator to decide manually when to save every page, it can document browsing activity inside a case-oriented workflow.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Do not make the filename carry the entire case.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "20260818T194211Z_EV-0042_example-com_terms_singlefile.html",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "20260818T194211Z_EV-0042_example-com_terms_screenshot.png",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples of transformations include:",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "undergraduate dissertation (forensic OSINT across six case studies in",
-    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "python examples/worked_example.py",
-    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "python examples/fr02_krynky_case_study.py",
-    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "fr02_krynky_case_study.py",
-    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "reconstructs a real case from my dissertation:",
-    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "examples/fr02_report.md",
-    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "not collect data, scrape platforms, or profile individuals. The example",
-    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "case is synthetic. Anything resembling investigation of a real person",
-    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/4989er/n/n40c8fd7dc601",
+    "url": "https://note.com/macccoto_lab/n/nfcdc31ed3e47",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/bodybeat/n/nd781d748d5aa",
+    "url": "https://note.com/freezex/n/n5d1452ddfe42",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hiro_shi_note/n/n47fe9a6527bb",
+    "url": "https://note.com/takabonium/n/n6f7352ccfebb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kenji_tocho/n/n2c60480396d6",
+    "url": "https://note.com/kenji_tocho/n/n642a1d4ccfe1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/nb6c0632d2e41",
+    "url": "https://note.com/stii_timestamp/n/n4eb4a30e94e9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/nac0b207aaf5f",
+    "url": "https://note.com/nobuworks/n/nc370238f3d2c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nikinusu318/n/nf6a8daf345d3",
+    "url": "https://kiroku.today/guides/save-website-legal-evidence",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.ti.com/bin/ti/transcripts/5799500859001_ja-jp.json",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://sites.mit.edu/toshi/ja/author/toshiyuk/",
+    "url": "https://kiroku.today/guides/digital-evidence-authentication",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://digitaldata-forensics.com/column/forensics/26187/",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nii-auth.atlassian.net/wiki/spaces/UPKIFAQ/pages/43745748",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/hashing/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://anchor-u.com/maltego-hunchly-introduction/",
-    "status": "ok",
+    "url": "https://yamanaka-bengoshi.jp/2026/09/09/dejitaru-shouko-genpon-hozen-hasshuchi/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -1429,17 +1384,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.securewave.co.jp/blog/077",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cyber110.pro/forensics/blo/forensic-evidence-preservation/",
+    "url": "https://anchor-u.com/maltego-hunchly-introduction/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.secure-iv.co.jp/blog/23978",
+    "url": "https://getproofsnap.com/web-page-hozen-proofsnap-dashboard.html",
     "status": "ok",
     "method": "http"
    },
@@ -1449,34 +1404,34 @@
     "method": "http"
    },
    {
-    "url": "https://www.forensicosint.com/",
+    "url": "https://github.com/frangelbarrera/OSINT-BIBLE/blob/main/docs/evidence-preservation.md",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/pulse/how-choose-forensic-web-evidence-capture-tools-u9zbc",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "url": "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "url": "https://nhimg.org/evidence-handling-and-chain-of-custody-guide",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/",
+    "url": "https://www.forensicosint.com/web-capture-technology",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://deepwiki.com/oryon-osint/OSINT360-GPT/7.2-chain-of-custody-and-evidence-integrity",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -1484,122 +1439,104 @@
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 site:note.com",
    "results": [
-    "https://note.com/4989er/n/n40c8fd7dc601",
-    "https://note.com/bodybeat/n/nd781d748d5aa",
-    "https://note.com/hiro_shi_note/n/n47fe9a6527bb",
-    "https://note.com/kenji_tocho/n/n2c60480396d6",
-    "https://note.com/kagawatomo/n/nb6c0632d2e41",
-    "https://note.com/hirokimiyano/n/nac0b207aaf5f",
-    "https://note.com/oracle_kaisetsu/n/n032a813b48e1",
-    "https://note.com/shoeisha_bizit/n/n283c1a88f80d",
-    "https://note.com/jokoan/n/n4af8abf0a13c",
-    "https://note.com/coreinsight/n/n90d69091b16c"
+    "https://note.com/macccoto_lab/n/nfcdc31ed3e47",
+    "https://note.com/freezex/n/n5d1452ddfe42",
+    "https://note.com/takabonium/n/n6f7352ccfebb",
+    "https://note.com/kenji_tocho/n/n642a1d4ccfe1",
+    "https://note.com/stii_timestamp/n/n4eb4a30e94e9",
+    "https://note.com/nobuworks/n/nc370238f3d2c",
+    "https://note.com/magic_vole6213/n/ned75084de255"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 note",
    "results": [
-    "https://note.com/nikinusu318/n/nf6a8daf345d3",
-    "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
-    "https://www.ti.com/bin/ti/transcripts/5799500859001_ja-jp.json",
-    "https://sites.mit.edu/toshi/ja/author/toshiyuk/",
-    "https://note.com/4989er/n/n40c8fd7dc601",
-    "https://digitaldata-forensics.com/column/forensics/26187/",
-    "https://nii-auth.atlassian.net/wiki/spaces/UPKIFAQ/pages/43745748",
-    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
-    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
-    "https://kiroku.today/guides/save-website-legal-evidence"
+    "https://kiroku.today/guides/save-website-legal-evidence",
+    "https://kiroku.today/guides/digital-evidence-authentication",
+    "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "https://yamanaka-bengoshi.jp/2026/09/09/dejitaru-shouko-genpon-hozen-hasshuchi/",
+    "https://bksuccess.net/digital-forensics-evidence-preservation/",
+    "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "https://note.com/stii_timestamp/n/n4eb4a30e94e9"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 やり方",
    "results": [
-    "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
-    "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/hashing/",
-    "https://www.cyberdefense.jp/column/about_forensics",
-    "https://jouhou.main.jp/?p=37061",
-    "https://docs.microfocus.com/doc/SMAX/24.2/sendsurvey/ja",
-    "https://kiroku.today/guides/save-website-legal-evidence"
+    "https://kiroku.today/guides/save-website-legal-evidence",
+    "https://kiroku.today/guides/digital-evidence-authentication",
+    "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "https://yamanaka-bengoshi.jp/2026/09/09/dejitaru-shouko-genpon-hozen-hasshuchi/",
+    "https://bksuccess.net/digital-forensics-evidence-preservation/",
+    "https://anchor-u.com/maltego-hunchly-introduction/",
+    "https://getproofsnap.com/web-page-hozen-proofsnap-dashboard.html"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 事例",
    "results": [
-    "https://anchor-u.com/maltego-hunchly-introduction/",
-    "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
-    "https://bksuccess.net/digital-forensics-evidence-preservation/",
-    "https://www.securewave.co.jp/blog/077",
-    "https://www.cyber110.pro/forensics/blo/forensic-evidence-preservation/",
-    "https://www.secure-iv.co.jp/blog/23978",
-    "https://infra-sec-lab.com/incident-evidence-preservation/",
+    "https://kiroku.today/guides/save-website-legal-evidence",
+    "https://kiroku.today/guides/digital-evidence-authentication",
+    "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
     "https://yamanaka-bengoshi.jp/2026/09/09/dejitaru-shouko-genpon-hozen-hasshuchi/",
-    "https://cybersecurity-jp.com/contents/data-security/16796/",
-    "https://kiroku.today/guides/save-website-legal-evidence"
+    "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "https://bksuccess.net/digital-forensics-evidence-preservation/",
+    "https://anchor-u.com/maltego-hunchly-introduction/",
+    "https://infra-sec-lab.com/incident-evidence-preservation/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 13
+   "n_hits": 8
   },
   {
    "query": "OSINT evidence preservation chain of custody hashing web capture",
    "results": [
-    "https://www.forensicosint.com/",
-    "https://www.linkedin.com/pulse/how-choose-forensic-web-evidence-capture-tools-u9zbc",
-    "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
-    "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "https://github.com/frangelbarrera/OSINT-BIBLE/blob/main/docs/evidence-preservation.md",
+    "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "https://github.com/sahifasyed/OSINT-Investigation-Toolkit",
+    "https://nhimg.org/evidence-handling-and-chain-of-custody-guide",
+    "https://www.forensicosint.com/web-capture-technology",
+    "https://deepwiki.com/oryon-osint/OSINT360-GPT/7.2-chain-of-custody-and-evidence-integrity",
     "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
-    "https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/",
-    "https://www.eccu.edu/blog/how-investigators-preserve-digital-evidence/",
-    "https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf",
-    "https://www.next-sight.com/resources/chain-of-custody-osint",
-    "https://github.com/frangelbarrera/OSINT-BIBLE/blob/main/docs/evidence-preservation.md"
+    "https://osint-ui.com/en/blog/document-osint-evidence-court",
+    "https://github.com/HappyHackingSpace/witness",
+    "https://truescreen.io/articles/evidence-preservation-guide/"
    ],
    "engines": [
     "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 10
   },
   {
    "query": "site:note.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
    "results": [
-    "https://note.com/kenji_tocho/n/n2c60480396d6",
-    "https://note.com/kagawatomo/n/nb6c0632d2e41",
-    "https://note.com/hirokimiyano/n/nac0b207aaf5f",
-    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
-    "https://note.com/dotai/n/n0a79157bb26b",
-    "https://note.com/usa_stu/n/n168c097ce742",
-    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "https://note.com/kunugiyama123/n/n99fe88f0a212",
-    "https://note.com/patentpower/n/n07422dba56af",
-    "https://note.com/masa13_/n/n56317b0cd19c"
+    "https://note.com/freezex/n/n5d1452ddfe42",
+    "https://note.com/kenji_tocho/n/n642a1d4ccfe1",
+    "https://note.com/stii_timestamp/n/n4eb4a30e94e9",
+    "https://note.com/magic_vole6213/n/ned75084de255",
+    "https://note.com/nobuworks/n/nc370238f3d2c",
+    "https://note.com/nikinusu318/n/nf6a8daf345d3",
+    "https://note.com/ddf_japan/n/n2d5cc173997b"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:x.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
@@ -1636,84 +1573,62 @@
   {
    "query": "site:facebook.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
    "results": [
-    "https://www.facebook.com/kusuyama1975/posts/openai-chatgpt-%E6%97%A5%E5%88%8Aai-yusukekusuyama%EF%B8%8Edaily-ai-yusukekusuyama%EF%B8%8E%E7%89%B9%E8%A8%B1%E8%AB%96%E6%96%87%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E7%B5%B1%E5%90%88%E7%89%88-paten/1740487548087418/",
     "https://www.facebook.com/qiita/posts/100lgtm-普段の調査で利用するosintまとめ-by-_roku_/2926902907345529/",
     "https://www.facebook.com/OneBeInc/photos/新コラム現代社会で重要性がましているosintopen-source-intelligenceosintとはインターネットなどの公開情報を収集分析して有用な情報/1452940110171432/",
     "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報6月24日水開催-経済安全保障osint活用セミナー第4回研究における産業スパイ対策事例研究セキュリティ確保のため必要な取り組みとは詳細お申し込み-/1539739791497336/",
     "https://www.facebook.com/Securitydays13/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/122176936220783877/",
     "https://www.facebook.com/kaikoshajp/photos/８月の安全保障講座いよいよ２週間後に迫った今月の安全保障講座その２田中達浩講師による情報化時代のosintは安全保障の実務者のみならずit産業に関わる方も必聴で/755489340190398/",
     "https://www.facebook.com/newstamago/videos/武蔵大学-で-偽情報-と-ファクトチェック-についての-集中授業-3日間の2日目はじめに-nhk-報道の方からファクトチェックするトピックの社会的な機能に合わせ/1993042744740175/",
-    "https://www.facebook.com/balimoto.transcriber/videos/裁判では証拠があるかだけではなくいつ確保したかも重要です事故現場sns投稿設備故障などは時間が経つと状況が変わり証拠が失われることがあります勝つ人はトラブル直後/1755138608968898/"
+    "https://www.facebook.com/balimoto.transcriber/videos/裁判では証拠があるかだけではなくいつ確保したかも重要です事故現場sns投稿設備故障などは時間が経つと状況が変わり証拠が失われることがあります勝つ人はトラブル直後/1755138608968898/",
+    "https://www.facebook.com/balimoto.transcriber/videos/録音データを保存していてもいつ録音したものなのか分からないという状態では後から整理するのに苦労することがあります特に同じ相手と何度も話し合っている場合日時が分か/1103810655327923/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing",
+    "ddgs:google"
    ],
    "n_hits": 8
   },
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 note 社長",
-   "results": [
-    "https://note.com/nikinusu318/n/nf6a8daf345d3",
-    "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
-    "https://sites.mit.edu/toshi/ja/author/toshiyuk/",
-    "https://note.com/terueda/n/n5707498651c3",
-    "https://digitaldata-forensics.com/column/forensics/26445/",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
-    "https://note.com/4989er/n/n40c8fd7dc601",
-    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
-    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
-    "https://kiroku.today/guides/save-website-legal-evidence"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 X 投稿",
    "results": [
-    "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://nii-auth.atlassian.net/wiki/spaces/UPKIFAQ/pages/43745748",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
-    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
-    "https://docs.microfocus.com/doc/SMAX/24.2/sendsurvey/ja",
-    "https://www.secure-iv.co.jp/blog/20079",
-    "https://www.security-next.com/056537",
-    "https://kiroku.today/guides/save-website-legal-evidence"
+    "https://kiroku.today/guides/save-website-legal-evidence",
+    "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "https://yamanaka-bengoshi.jp/2026/09/09/dejitaru-shouko-genpon-hozen-hasshuchi/",
+    "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "https://bksuccess.net/digital-forensics-evidence-preservation/",
+    "https://anchor-u.com/maltego-hunchly-introduction/",
+    "https://kiroku.today/guides/save-x-posts-as-evidence"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "OSINT evidence preservation chain of custody hashing web capture site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/forcyd_understanding-the-chain-of-custody-in-cyber-activity-7387050327939862528-1eci",
-    "https://www.linkedin.com/pulse/legal-scrutiny-osint-evidence-access-3gbjf",
-    "https://www.linkedin.com/posts/ratforensics_digitalforensics-chainofcustody-forensicintelligence-activity-7405089601209430017-MyV4",
-    "https://in.linkedin.com/in/ajayjethe",
-    "https://www.linkedin.com/top-content/science/forensic-science-in-criminal-investigations/how-to-handle-digital-evidence-in-forensics/",
-    "https://www.linkedin.com/posts/iamsangramsahoo_cdac-cdacstdc-windowsforensics-activity-7462053551599431680-qiMY",
-    "https://uk.linkedin.com/in/ritujaa-kelaskar-681201334",
-    "https://www.linkedin.com/pulse/week-signal-shadow-derek-bowler-sbvce",
-    "https://www.linkedin.com/company/eliteforensics",
-    "https://www.linkedin.com/top-content/corporate-social-responsibility/data-protection-practices/legal-safeguards-for-digital-evidence-collection/"
+    "https://www.linkedin.com/pulse/how-choose-forensic-web-evidence-capture-tools-u9zbc",
+    "https://www.linkedin.com/pulse/maintaining-chain-custody-using-hash-hdbmf",
+    "https://www.linkedin.com/posts/the-osint-newsletter_forensic-osint-is-a-digital-evidence-capture-activity-7479579858197663744-ucfz",
+    "https://www.linkedin.com/posts/rajan-shyam-96595320_chain-of-custody-for-digital-evidence-in-activity-7464219000797966336-8PL8",
+    "https://www.linkedin.com/pulse/use-hash-values-osint-investigations-8j1yf",
+    "https://www.linkedin.com/posts/pagefreezer-software-inc_osint-socmint-defensibleevidence-activity-7399885499236040704-y1jf",
+    "https://www.linkedin.com/pulse/how-preserve-digital-evidence-proving-integrity-provenance-ps3ce"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-06T05:53:25.729862+00:00"
 }

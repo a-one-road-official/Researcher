@@ -8,31 +8,11 @@
  ],
  "context": "method",
  "kind": "market",
- "researched_at": "2026-11-07T18:23:52.408209+00:00",
+ "researched_at": "2026-11-08T00:20:53.802597+00:00",
  "evidence": {
   "実例": [
    {
     "quote": "To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "How to Extract Tables from PDF: Scale Structured Data Extraction",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rather than an isolated conversion step.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Income Verification API: How to Automate Document-Based Income Checks at Scale",
     "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -75,6 +55,26 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How to Extract Tables from PDF: Scale Structured Data Extraction",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "rather than an isolated conversion step.",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Income Verification API: How to Automate Document-Based Income Checks at Scale",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
@@ -91,12 +91,12 @@
     "method": ""
    },
    {
-    "url": "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
+    "url": "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "url": "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "status": "ok",
     "method": "http"
    },
@@ -111,93 +111,18 @@
     "method": "browser"
    },
    {
+    "url": "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://waic.jp/translations/WCAG-TECHS/PDF20",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.priceofelectricity.com/electricity-price-history/michigan",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.michigan.gov/mpsc/consumer/electricity/data-price/electric-rate-books",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.michigan.gov/mpsc/consumer/electricity/data-price/electric-rate-books/mpsc-approved-consumers-energy-electric-rate-books-and-cancelled-sheets",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ycharts.com/indicators/michigan_electric_utility_retail_price",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/CarMax",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.carmax.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.carmax.com/cars",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.carmax.com/stores/search",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.carmax.com/stores",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.carmax.com/about-carmax",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.elperiodico.com/es/internacional/20261107/ultima-hora-tiroteo-mortal-cracovia-136202401",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.eldiario.es/internacional/cinco-muertos-docena-heridos-tiroteo-ciudad-polaca-cracovia_1_13646897.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cope.es/actualidad/noticias/cinco-muertos-diez-heridos-tiroteo-cracovia-polonia-policia-habria-abatido-atacante-20261107_3470816.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.antena3.com/noticias/mundo/tiroteo-centro-cracovia-deja-cinco-muertos-varios-heridos_202611076aef5e7dd3bddc0868a90782.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.eltiempo.com/mundo/europa/cinco-muertos-por-tiroteo-en-ciudad-polaca-de-cracovia-3599262",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.lasexta.com/noticias/internacional/menos-cinco-muertos-varios-heridos-ataque-arma-fuego-centro-cracovia_202611076aef46d4d3bddc0868a8f029.html",
-    "status": "ok",
+    "url": "https://www.it-one.co.jp/blog/fukiyaocr/4839/",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
@@ -238,84 +163,72 @@
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
+    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
     "https://www.youtube.com/watch?v=6cUITZxZtw8",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "https://www.reddit.com/r/amazonprime/comments/128otcb/scary_mail_from_ofmamazoncom/"
+    "https://waic.jp/translations/WCAG-TECHS/PDF20"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 9
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 note",
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
+    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
     "https://www.youtube.com/watch?v=6cUITZxZtw8",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "https://www.priceofelectricity.com/electricity-price-history/michigan"
+    "https://waic.jp/translations/WCAG-TECHS/PDF20"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 29
+   "n_hits": 9
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 やり方",
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://www.youtube.com/watch?v=6cUITZxZtw8",
+    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
     "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "https://en.wikipedia.org/wiki/CarMax"
+    "https://www.it-one.co.jp/blog/fukiyaocr/4839/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 38
+   "n_hits": 9
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 事例",
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
+    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
     "https://www.youtube.com/watch?v=6cUITZxZtw8",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "https://www.elperiodico.com/es/internacional/20261107/ultima-hora-tiroteo-mortal-cracovia-136202401"
+    "https://waic.jp/translations/WCAG-TECHS/PDF20"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 26
+   "n_hits": 9
   },
   {
    "query": "detect column misalignment when flattening tables from PDF HTML table extraction validation",
@@ -326,42 +239,41 @@
     "https://www.stackai.com/insights/how-to-extract-tables-from-pdfs-best-strategies-for-accurate-pdf-table-parsing",
     "https://stackoverflow.com/questions/17591426/how-can-i-extract-tables-as-structured-data-from-pdf-documents",
     "https://medium.com/@kramermark/i-tested-12-best-in-class-pdf-table-extraction-tools-and-the-results-were-appalling-f8a9991d972e",
+    "https://community.alteryx.com/discussion/1373248/need-help-formatting-pdf-extracted-data-into-expected-table-format-in-alteryx",
     "https://www.youtube.com/watch?v=enfc8J2azn4",
     "https://www.olostep.com/blog/how-to-extract-tables-from-pdf",
-    "https://arxiv.org/html/2506.07015v1",
-    "https://artifex.com/blog/solving-common-issues-with-table-detection-and-extraction"
+    "https://arxiv.org/html/2506.07015v1"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 15
   },
   {
    "query": "site:note.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
    "results": [
     "https://note.com/itso_/n/n020a3413f04c",
     "https://note.com/selvanakayama/n/nb98248d3483a",
-    "https://note.com/furucrm/n/nb1cc6c2f1e64",
     "https://note.com/ennodes/n/n60450941902d",
+    "https://note.com/furucrm/n/nb1cc6c2f1e64",
     "https://note.com/honda_crosscom/n/n65f076b18e76",
     "https://note.com/snake_dragon/n/n5229c48e9a57",
     "https://note.com/ilujapan/n/nabff7a5a4710",
-    "https://note.com/ryosi_sec_dog/n/n5906d6929908",
     "https://note.com/gtminami/n/nac7ff90798ca",
+    "https://note.com/ryosi_sec_dog/n/n5906d6929908",
     "https://note.com/snake_dragon/n/n526b5557773f"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 30
+   "n_hits": 10
   },
   {
    "query": "site:x.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
    "results": [
     "https://x.com/hiro_gamo/status/1860376810384687617",
+    "https://x.com/nicbstme/status/2015174818497437834",
     "https://x.com/akshay_pachaar/status/2068317780064276917",
     "https://x.com/karpathy/status/2039805659525644595",
     "https://x.com/karpathy",
@@ -369,124 +281,104 @@
     "https://x.com/cv_usk/status/2116714085886878125",
     "https://x.com/sniffout_inc",
     "https://x.com/bcherny/status/2007179832300581177",
-    "https://x.com/CherryStudioHQ",
-    "https://x.com/samuraijuku_biz"
+    "https://x.com/CherryStudioHQ"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 30
+   "n_hits": 10
   },
   {
    "query": "site:linkedin.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
    "results": [
     "https://jp.linkedin.com/pulse/unlocking-future-intelligent-search-comprehensive-guide-rao-vrhdf?tl=ja",
-    "https://jp.linkedin.com/pulse/unlocking-secrets-pdf-parsing-comparative-analysis-python-tarnaras-gvmjf?tl=ja",
     "https://jp.linkedin.com/pulse/text-document-splitting-rag-why-matters-when-you-need-rajveer-gangwar-qrylc?tl=ja",
-    "https://www.linkedin.com/in/aravind-srinivas-16051987",
     "https://jp.linkedin.com/pulse/from-raw-data-ai-ready-why-rag-ingestion-pipelines-matter-la-vigne-4cnte?tl=ja",
+    "https://www.linkedin.com/in/aravind-srinivas-16051987",
+    "https://jp.linkedin.com/pulse/rag-concepts-form-basis-intelligent-enterprise-satya-krishna-v3qvc?tl=ja",
     "https://jp.linkedin.com/pulse/beyond-tokens-choosing-right-chunking-strategy-llm-success-agarwal-ou0fc?tl=ja",
-    "https://tw.linkedin.com/in/yefthajoshua",
+    "https://jp.linkedin.com/pulse/when-your-ai-agent-gets-spectacularly-wrong-what-recovery-fennen-w6pbc?tl=ja",
     "https://tw.linkedin.com/in/maryam-mahmoudi-data-scientist",
-    "https://jp.linkedin.com/pulse/how-to-html-pdf-conversion-using-python-qtwebengine-sivanandan-luhee?tl=ja",
-    "https://jp.linkedin.com/pulse/mastering-ingestion-phase-retriever-augmented-rag-snigdha-kakkar-qip7c?tl=ja"
+    "https://jp.linkedin.com/pulse/mastering-ingestion-phase-retriever-augmented-rag-snigdha-kakkar-qip7c?tl=ja",
+    "https://tw.linkedin.com/in/yefthajoshua"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 30
+   "n_hits": 10
   },
   {
    "query": "site:facebook.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
    "results": [
-    "https://www.facebook.com/groups/miaigroup/posts/1854738928630704/",
     "https://www.facebook.com/groups/DeepNetGroup/posts/2099062597153278/",
+    "https://www.facebook.com/groups/1243250902386508/posts/24272952078989731/",
     "https://www.facebook.com/groups/hacking101/posts/2690278371372064/",
-    "https://www.facebook.com/PythonDvz/posts/master-langchain-retrieval-concepts/1516649397168425/",
-    "https://www.facebook.com/groups/aigctw/posts/3257157387801484/",
     "https://www.facebook.com/thanhhm/videos/introducing-context7-skills-search-across-24k-skills-install-skills-with-single-/737973489090387/",
     "https://www.facebook.com/niyitech/videos/tencent-just-open-sourced-angel-slim-hy-mt15-a-fully-on-device-translation-model/4270867936576689/",
+    "https://www.facebook.com/pythonclcoding/posts/50-ml-projects-to-understand-llms-investigate-transformer-mechanisms-through-dat/1391301589690722/",
+    "https://www.facebook.com/groups/aigctw/posts/3257157387801484/",
+    "https://www.facebook.com/groups/439993792857479/posts/2976696269187206/",
     "https://m.facebook.com/DoctorMixDotCom/videos/7-most-famous-piano-riffs-in-the-world/365276847563903/?locale=zh_CN&_rdr",
-    "https://www.facebook.com/groups/1243250902386508/posts/24272952078989731/",
-    "https://www.facebook.com/kake.yang/"
+    "https://www.facebook.com/DataScienceTh/posts/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%ADhand-on-large-languge-models%E0%B9%81%E0%B8%88%E0%B8%81-source-code-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-oreilly-book-hands/1157420669761746/"
    ],
    "engines": [
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 10
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 note 社長",
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
+    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
     "https://www.youtube.com/watch?v=6cUITZxZtw8",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "https://www.ampreviews.net/"
+    "https://waic.jp/translations/WCAG-TECHS/PDF20"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 9
   },
   {
    "query": "表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活 X 投稿",
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
+    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
     "https://www.youtube.com/watch?v=6cUITZxZtw8",
-    "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
-    "https://en.wikipedia.org/wiki/File_Explorer"
+    "https://waic.jp/translations/WCAG-TECHS/PDF20"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 29
+   "n_hits": 9
   },
   {
    "query": "detect column misalignment when flattening tables from PDF HTML table extraction validation site:linkedin.com",
    "results": [
     "https://my.linkedin.com/in/ts-siti-nur-nazhifah-jais-meah-860984135",
-    "https://id.linkedin.com/in/ebbryl",
-    "https://www.merriam-webster.com/dictionary/detect",
-    "https://dictionary.cambridge.org/dictionary/english/detect",
-    "https://www.thefreedictionary.com/detect",
-    "https://www.merriam-webster.com/thesaurus/detect",
-    "https://detect.com/",
-    "https://www.dictionary.com/browse/detect",
-    "https://detect.ac/tools",
-    "https://www.vocabulary.com/dictionary/detect"
+    "https://id.linkedin.com/in/ebbryl"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 12
+   "n_hits": 2
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T07:59:38.807295+00:00"
 }

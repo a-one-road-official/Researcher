@@ -5870,11 +5870,31 @@
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「A one-hour, basic video tutorial on how to use the ChatGPT Data Analysis tool」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「A step-by-step guide to analyzing data with Python and the Jupyter Notebook.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「An AI tool that helps you extract valuable information from any document and organizes with just a few steps.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「How to use GPT for Sheets and Docs add-ons」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+- 一次情報の探し方：
+  - 「Turns text, images and PDFs into editable flowcharts and system architecture diagrams. Users can refine diagrams through chat, compare saved versions and export PNG, SVG or PDF for documentation and visual explanations. One guest diagram is free without registration, and further AI usage consumes credits; generated relationships and labels should be checked before publication.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「Turns your ideas and content into effective visuals that are interactive, editable and ready to present. Upload PDFs, web pages, documents and more.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「Generates charts from plain English descriptions. Type something like “US newsroom employment over the last 20 years” and it finds the data, picks the right chart type, and renders it in seconds. It can also recreate charts from screenshots, which is useful for pulling editable visuals out of PDFs and reports」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「Turn blog posts, articles, and PDFs into engaging infographics. Generate visuals quickly and easily from your data in seconds.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「Advanced AI analysis for SEC filings and financial news」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「A great alternative to Adobe Acrobat for editing PDFs.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「allows track PDFs. The tool has a built-in」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「Batch rename a long list of PDFs」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「From simply monitoring website pages that have a change (such as watching prices, restock notification), to deep inspection such as PDF text support, JSON and XML monitoring and extensive text triggers.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「ChatGPT AskyourPDF Plug-in」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「Turns your PDF into a chatbot」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「DocHush Free PDF Redaction Checker」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「A great PDF to text tool.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「A desktop tool designed to compress PDF files quickly while maintaining high visual quality. It helps users save storage space and easily share large documents through batch processing and automation features. With complete offline functionality, it ensures your files remain private and secure at all times.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+  - 「AI SPREADSHEET AND SCRAPING TOOLS | PDF CHAT」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+- 実例：
+  - 「Examples of AI use with charts.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
 
 ## 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）（entity resolution evaluation precision recall F1 ground truth pairs）
 - 文脈：同一性
@@ -10415,19 +10435,19 @@
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ6頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 実例：記載なし（読んだ6頁・検索12回）
 
 ## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
 - 文脈：method
@@ -10506,8 +10526,8 @@
   - 「The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 実例：
   - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
