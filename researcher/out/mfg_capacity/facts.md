@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・195品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・197品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -10205,25 +10205,53 @@
 
 ## 日本銀行 国内企業物価指数 金属製品 年平均 2010〜2024年（年を添えた指数の水準・時系列統計データ検索サイトの系列コード PR01'PRCG20_2200 など・前年比でなく水準・4-37・4-91）（Bank of Japan Corporate Goods Price Index metal products annual average level by year 2010-2024）
 - 文脈：統計・物価
-- 痛み・損（深さの印）：記載なし（読んだ47頁・検索18回）
-- 事業所数・社数：記載なし（読んだ47頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ47頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ47頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ47頁・検索18回）
-- 生産能力・設備：記載なし（読んだ47頁・検索18回）
-- 10年推移：記載なし（読んだ47頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ47頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ46頁・検索18回）
+- 事業所数・社数：記載なし（読んだ46頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ46頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ46頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ46頁・検索18回）
+- 生産能力・設備：記載なし（読んだ46頁・検索18回）
+- 10年推移：記載なし（読んだ46頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ46頁・検索18回）
 
 ## 経済センサス‐活動調査 製造業 加工賃収入額 全国 産業細分類（自治体の統計を除き所管の表から・site:meti.go.jp OR site:e-stat.go.jp・-市 -県・4-91）（Economic Census for Business Activity manufacturing processing fee revenue national by detailed industry e-Stat table）
 - 文脈：統計・全国
+- 痛み・損（深さの印）：記載なし（読んだ53頁・検索18回）
+- 事業所数・社数：記載なし（読んだ53頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ53頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ53頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ53頁・検索18回）
+- 生産能力・設備：記載なし（読んだ53頁・検索18回）
+- 10年推移：記載なし（読んだ53頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ53頁・検索18回）
+
+## Economic Census for Business Activity Japan manufacturing processing fee revenue by detailed industry national e-Stat（英語の別名で取り直す・全国だけ・自治体の表を除く・4-91・4-92）（Economic Census for Business Activity manufacturing processing fees detailed industry national Japan）
+- 文脈：全体・統計
+- 10年推移：
+  - 「Economic Census for Business Activity 2021 Economic Census for Business Activity Tabulation of Establishments Tabulation across Industries Number of Establishments and Persons Engaged 9-1B Persons Engaged by Industry Groups - Japan, Prefectures and Municipalities | Database | Browse Statistics | 政府統計の総合窓口」（https://www.e-stat.go.jp/en/stat-search/database?cycle=0&layout=datalist&page=1&statdisp_id=0004005688&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&toukei=00200553&tstat=000001145590）
+  - 「2021 Economic Census for Business Activity」（https://www.e-stat.go.jp/en/stat-search/database?cycle=0&layout=datalist&page=1&statdisp_id=0004005688&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&toukei=00200553&tstat=000001145590）
+  - 「Economic Census for Business Activity / 2021 Economic Census for Business Activity / Tabulation of Establishments Tabulation across Industries Number of Establishments and Persons Engaged」（https://www.e-stat.go.jp/en/stat-search/database?cycle=0&layout=datalist&page=1&statdisp_id=0004005688&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&toukei=00200553&tstat=000001145590）
+  - 「http://www.stat.go.jp/english/data/e-census/2021/index.htm」（https://www.e-stat.go.jp/en/stat-search/database?cycle=0&layout=datalist&page=1&statdisp_id=0004005688&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&toukei=00200553&tstat=000001145590）
+  - 「2021 Jun.」（https://www.e-stat.go.jp/en/stat-search/database?cycle=0&layout=datalist&page=1&statdisp_id=0004005688&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&toukei=00200553&tstat=000001145590）
+  - 「2023-06-27 14:00」（https://www.e-stat.go.jp/en/stat-search/database?cycle=0&layout=datalist&page=1&statdisp_id=0004005688&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&toukei=00200553&tstat=000001145590）
 - 痛み・損（深さの印）：記載なし（読んだ51頁・検索18回）
 - 事業所数・社数：記載なし（読んだ51頁・検索18回）
 - 社員数・平均社員数：記載なし（読んだ51頁・検索18回）
 - 受注金額・加工賃収入：記載なし（読んだ51頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ51頁・検索18回）
 - 生産能力・設備：記載なし（読んだ51頁・検索18回）
-- 10年推移：記載なし（読んだ51頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ51頁・検索18回）
+
+## 日本銀行 時系列統計データ 国内企業物価指数 金属製品 暦年平均 CSV（年の欄のある水準だけ・%の前年比を除く・4-92）（Bank of Japan Corporate Goods Price Index metal products annual average time series CSV）
+- 文脈：物価・実質
+- 痛み・損（深さの印）：記載なし（読んだ32頁・検索18回）
+- 事業所数・社数：記載なし（読んだ32頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ32頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ32頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索18回）
+- 生産能力・設備：記載なし（読んだ32頁・検索18回）
+- 10年推移：記載なし（読んだ32頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ32頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

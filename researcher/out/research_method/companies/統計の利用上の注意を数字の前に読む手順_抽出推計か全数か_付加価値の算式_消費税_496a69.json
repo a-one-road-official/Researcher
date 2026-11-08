@@ -9,8 +9,112 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T18:21:59.459864+00:00",
+ "researched_at": "2026-11-07T23:58:57.307810+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "計算したい場合、修正前の場合、「（）」内の数字を分離してから、割り算を⾏う必要が⽣じる",
+    "url": "https://www.soumu.go.jp/main_content/000723697.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "国勢調査のデータは無償で公開されており、商圏分析や需要推計、行政計画の立案まで幅広い用途に使えます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP6 総数との突合による検証と加工履歴の記録",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "BtoB企業：市場規模推計での按分処理の設計",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "記録がないまま比較表を提出すると、数字の妥当性を問われた際に再検証からやり直すことになります",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "商圏を半径500メートル単位で見たいのか、市区町村単位の傾向がつかめれば足りるのかを、分析目的から逆算して決めてください",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "加工が終わったデータは、必ず元の統計表の総数と突き合わせます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検証と並んで欠かせないのが、加工履歴の記録です",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "細かい側を粗い側へ合わせる方向であれば情報の欠落は起きませんが、逆方向の按分は推計値を作る行為になります",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "按分を行う場合は、按分の根拠と手法を記録し、推計値であることを明示してください",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "経年で比較する際は、公表資料の区分定義を調査年ごとに突き合わせ、一致する範囲でのみ比較する方針を立てます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公表されている市町村合併の履歴や都道府県別の変更一覧を突き合わせ、旧コードと新コードの対応表を作る流れになります",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "残差で埋めた値には推計であることを示すフラグを立て、元の値と区別できる状態を維持します",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "増減率を計算する前に、対象地域のコードが両年で同一かを機械的に照合する処理を入れます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "・ 調査票の未回答項目や回答内容の矛盾などについては、内容を精査し、平成28年経済",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "統計表における機械判読可能なデータ作成に関する表記方法について",
@@ -266,110 +370,6 @@
    },
    {
     "quote": "https://www.soumu.go.jp/main_content/000777099.pdf",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "計算したい場合、修正前の場合、「（）」内の数字を分離してから、割り算を⾏う必要が⽣じる",
-    "url": "https://www.soumu.go.jp/main_content/000723697.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "国勢調査のデータは無償で公開されており、商圏分析や需要推計、行政計画の立案まで幅広い用途に使えます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP6 総数との突合による検証と加工履歴の記録",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "BtoB企業：市場規模推計での按分処理の設計",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "記録がないまま比較表を提出すると、数字の妥当性を問われた際に再検証からやり直すことになります",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "商圏を半径500メートル単位で見たいのか、市区町村単位の傾向がつかめれば足りるのかを、分析目的から逆算して決めてください",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "加工が終わったデータは、必ず元の統計表の総数と突き合わせます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検証と並んで欠かせないのが、加工履歴の記録です",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "細かい側を粗い側へ合わせる方向であれば情報の欠落は起きませんが、逆方向の按分は推計値を作る行為になります",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "按分を行う場合は、按分の根拠と手法を記録し、推計値であることを明示してください",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "経年で比較する際は、公表資料の区分定義を調査年ごとに突き合わせ、一致する範囲でのみ比較する方針を立てます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公表されている市町村合併の履歴や都道府県別の変更一覧を突き合わせ、旧コードと新コードの対応表を作る流れになります",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "残差で埋めた値には推計であることを示すフラグを立て、元の値と区別できる状態を維持します",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "増減率を計算する前に、対象地域のコードが両年で同一かを機械的に照合する処理を入れます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・ 調査票の未回答項目や回答内容の矛盾などについては、内容を精査し、平成28年経済",
     "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -758,14 +758,19 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.mof.go.jp/tax_policy/summary/consumption/d04.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mof.go.jp/tax_policy/summary/consumption/d04.htm",
+    "url": "https://www.nta.go.jp/publication/pamph/shohi_kojin/pdf/02-4.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html",
@@ -783,24 +788,29 @@
     "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.soumu.go.jp/main_content/000327870.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040169020&fileKind=2",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/71-29c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www150.statcan.gc.ca/n1/en/pub/12-587-x/12-587-x2003001-eng.pdf?st=AdoucqkG",
@@ -847,13 +857,13 @@
     "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "https://www.mof.go.jp/tax_policy/summary/consumption/d04.htm",
     "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html",
-    "https://note.com/biostat_lab/m/md2537e253f1d"
+    "https://note.com/aiworknote_jp/n/na88f6ff78258"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 16
   },
   {
    "query": "統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説） note",
@@ -863,9 +873,9 @@
     "https://www.e-stat.go.jp/notice-use-of-statical-data",
     "https://www.soumu.go.jp/main_content/000723697.pdf",
     "https://data-viz-lab.com/census-data",
-    "https://www.pref.gifu.lg.jp/uploaded/attachment/50832.pdf",
-    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "https://www.mof.go.jp/tax_policy/summary/consumption/d04.htm",
+    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "https://www.nta.go.jp/publication/pamph/shohi_kojin/pdf/02-4.pdf",
     "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html",
     "https://www.stat.go.jp/data/nihon/index2-1.html"
    ],
@@ -883,14 +893,14 @@
     "https://www.e-stat.go.jp/notice-use-of-statical-data",
     "https://www.soumu.go.jp/main_content/000723697.pdf",
     "https://data-viz-lab.com/census-data",
-    "https://www.pref.gifu.lg.jp/uploaded/attachment/50832.pdf",
-    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "https://www.mof.go.jp/tax_policy/summary/consumption/d04.htm",
+    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "https://www.nta.go.jp/publication/pamph/shohi_kojin/pdf/02-4.pdf",
     "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html",
-    "https://www.stat.go.jp/data/kakei/notes.html"
+    "https://www.stat.go.jp/data/nihon/index2-1.html"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -903,14 +913,14 @@
     "https://www.e-stat.go.jp/notice-use-of-statical-data",
     "https://www.soumu.go.jp/main_content/000723697.pdf",
     "https://data-viz-lab.com/census-data",
-    "https://www.pref.gifu.lg.jp/uploaded/attachment/50832.pdf",
-    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "https://www.mof.go.jp/tax_policy/summary/consumption/d04.htm",
+    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "https://www.nta.go.jp/publication/pamph/shohi_kojin/pdf/02-4.pdf",
     "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html",
     "https://www.stat.go.jp/data/nihon/index2-1.html"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -940,11 +950,11 @@
    "results": [
     "https://note.com/aiworknote_jp/n/na88f6ff78258",
     "https://note.com/biostat_lab/m/md2537e253f1d",
-    "https://note.com/biostat_lab/n/nc11eb53a1734",
     "https://note.com/ripe_ixora5107/n/nec2b7a67a35e",
+    "https://note.com/biostat_lab/n/nc11eb53a1734",
     "https://note.com/kenko2024/n/na7db5c406f98",
-    "https://note.com/biostat_lab/n/na4d52855b4ad",
-    "https://note.com/koelab/n/n64df2afcaf36"
+    "https://note.com/koelab/n/n64df2afcaf36",
+    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5"
    ],
    "engines": [
     "ddgs:bing"
@@ -954,13 +964,13 @@
   {
    "query": "site:x.com 統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説）",
    "results": [
-    "https://jf.x.com/images/media-preview/2112816159183819170",
+    "https://x.com/mainichi_kotoba/status/2035131779947036926",
     "https://x.com/tokei389950/status/2021183837301243967",
     "https://x.com/tokei389950/status/2078257680465240424",
     "https://x.com/tokei389950/status/2105225550470267367",
-    "https://x.com/moneypostweb/status/2053595767672340852",
     "https://x.com/AISTATSCH/status/2074858731809223086",
-    "https://x.com/mainichi_kotoba/status/2085307704914927889"
+    "https://x.com/moneypostweb/status/2053595767672340852",
+    "https://x.com/NomuraShuya/status/1084088842880114688"
    ],
    "engines": [
     "ddgs:google"
@@ -970,16 +980,16 @@
   {
    "query": "site:linkedin.com 統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説）",
    "results": [
+    "https://jp.linkedin.com/pulse/understanding-summary-statistics-mahsa-salimi-rbkvf?tl=ja",
     "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
-    "https://jp.linkedin.com/pulse/定量化力数字で見立てる力新規事業の数字は読むから置くへ-真人-水谷-az3kc",
+    "https://jp.linkedin.com/learning/cert-prep-corporate-activities-for-it-passport-31669299/8729025",
     "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-実務教育研究所-activity-7357251360871903232-BIC0",
     "https://www.linkedin.com/posts/michio-okazaki-911495153_数字はひとり歩きする-その意味は数字や統計データが文脈から切り離されて誤解-activity-7132190054835224576-QOmO",
-    "https://jp.linkedin.com/learning/cert-prep-corporate-activities-for-it-passport-31669299/8729025",
-    "https://jp.linkedin.com/pulse/from-numbers-narratives-biostatisticians-guide-yogita-kolekar-thoke-bwiif?tl=ja",
-    "https://jp.linkedin.com/pulse/データ分析の本質数字の独り歩きを防ぐには-michio-okazaki-m8vfc"
+    "https://jp.linkedin.com/pulse/定量化力数字で見立てる力新規事業の数字は読むから置くへ-真人-水谷-az3kc",
+    "https://jp.linkedin.com/pulse/from-numbers-narratives-biostatisticians-guide-yogita-kolekar-thoke-bwiif?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -990,9 +1000,9 @@
     "https://www.facebook.com/toukeigaku.sensei/videos/httpswwwdataminingjps01オンライン講座数字データ情報に振り回されないはじめの一歩セミナー-星の数とはどういう数の特徴があるのかを正しく理解/2127344991197305/",
     "https://www.facebook.com/stat.japan/posts/総務省統計局からのお知らせ明日への統計2025を統計局ホームページに掲載しました統計調査の結果をグラフや図を用いてわかりやすく説明しています日本の社会経済の今の/1111615271002500/",
     "https://www.facebook.com/koh.iwasaki/posts/世論調査は既に意味が無いと思う無論統計というものを多少齧ったものとしてごく少数のサンプルでも抽出法が適切なら全体を表現出来ることは知っているしかし現状全体を表現/26967837532869703/",
-    "https://www.facebook.com/100048889824064/posts/youtubeとか見ていてaiのナレーションが方を-ほうと読むのが大嫌いで気になってしょうがないのでchatgptきいてみたとても良いご指摘です方という漢字は文/1231068861866096/",
+    "https://www.facebook.com/rikkenminshu/videos/データは単なる数字ではなく一人ひとりの人生に関わる情報です病歴や障害信仰犯罪歴などの要配慮個人情報個人情報保護法改正案について郡山りょう議員が本人同意の原則や人/2080306929247811/",
     "https://www.facebook.com/imakarasuugaku/posts/今日の問題問題に入る数字は答えは20時に公開お楽しみ和から-思考力-脳トレ-数トレ倍数思考整理-息抜き/1702869018053132/",
-    "https://www.facebook.com/rikkenminshu/videos/データは単なる数字ではなく一人ひとりの人生に関わる情報です病歴や障害信仰犯罪歴などの要配慮個人情報個人情報保護法改正案について郡山りょう議員が本人同意の原則や人/2080306929247811/"
+    "https://www.facebook.com/pref.yamaguchi.kouhou/posts/山口県統計グラフコンクールの作品募集中-調べて描いて数字が分かる自由なテーマで観察調査した結果を統計グラフで表現した作品を募集しています応募者全員に参加賞があり/655205443304070/"
    ],
    "engines": [
     "ddgs:bing"
@@ -1007,9 +1017,9 @@
     "https://www.e-stat.go.jp/notice-use-of-statical-data",
     "https://www.soumu.go.jp/main_content/000723697.pdf",
     "https://data-viz-lab.com/census-data",
-    "https://www.pref.gifu.lg.jp/uploaded/attachment/50832.pdf",
-    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "https://www.mof.go.jp/tax_policy/summary/consumption/d04.htm",
+    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "https://www.nta.go.jp/publication/pamph/shohi_kojin/pdf/02-4.pdf",
     "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html",
     "https://www.stat.go.jp/data/nihon/index2-1.html"
    ],
@@ -1030,12 +1040,14 @@
     "https://www.pref.gifu.lg.jp/uploaded/attachment/50832.pdf",
     "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "https://www.mof.go.jp/tax_policy/summary/consumption/d04.htm",
-    "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html"
+    "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html",
+    "https://www.stat.go.jp/data/nihon/index2-1.html"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 15
   },
   {
    "query": "how to read statistical survey methodology notes before using numbers sampling estimation suppression tax inclusive site:linkedin.com",
@@ -1046,124 +1058,20 @@
     "https://www.linkedin.com/in/mikek",
     "https://www.linkedin.com/in/alex-belsley",
     "https://www.linkedin.com/in/brent-l-moore-cep-193b0318",
-    "https://www.linkedin.com/in/michaelwstaib",
     "https://www.linkedin.com/in/viktoriya-babenko",
     "https://www.linkedin.com/in/wanyi-chen-ab4a05180",
-    "https://www.linkedin.com/in/matthew-bosancic-335791258"
+    "https://www.linkedin.com/in/dominik-kufel",
+    "https://se.linkedin.com/in/bolin-wu"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "一次情報の探し方": [
-   {
-    "quote": "については、「統計調査における売上高等の集計に係る消費税の取扱いに関するガイド",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ライン（平成27年５月19日 各府省統計主管課長等会議申合せ）」に基づき、消費税込",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.soumu.go.jp/main_content/000777097.pdf",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/hotei.pdf",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/otherwiseclassified.pdf",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・ 従業上の地位のうち雇用者の内訳について、「統計調査における労働者の区分等に関",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "するガイドライン（平成27年５月19日 各府省統計主管課長等会議申合せ） 」に基づき、",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.soumu.go.jp/main_content/000777099.pdf",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "・ 調査票の未回答項目や回答内容の矛盾などについては、内容を精査し、平成28年経済",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "その他の結果表章における注意点（四捨五入、秘匿処理等）",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "なお、従来の活動調査等結果は、当時の消費税率であり、現行の税率（10％）と異な",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公開情報等を基に、補足訂正を行った上で結果表として集計した",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その他の結果表章における注意点（四捨五入、秘匿処理等）",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・ 産業分類別の結果では、回答内容の不備等により産業分類の格付が十分に行えなかっ",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・ 「X」は、集計対象となる事業所（企業等）の数が１又は２であるため、集計結果をそ",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "集計結果の時系列比較を行う際は、十分に留意が必要である",
-    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 2,
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-07T13:01:36.359258+00:00"
 }

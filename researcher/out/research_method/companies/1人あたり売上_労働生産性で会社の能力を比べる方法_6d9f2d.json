@@ -8,7 +8,7 @@
  ],
  "context": "能力",
  "kind": "market",
- "researched_at": "2026-11-07T18:24:59.419649+00:00",
+ "researched_at": "2026-11-08T00:01:50.977003+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -1030,6 +1030,38 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その為に必要なものが、ヒト×テクノロジー×経営戦略の掛け算であると、ディ・ポップスグループは考えます",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1つ目は、「AIを使いこなす力」と「顧客を知る力」の掛け算で、FDEを育てること",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "M&Aや事業ポートフォリオ見直しの効果検証、業界内のベンチマーク、就職活動の企業研究まで幅広く活用されます",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
+    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "「作って売る！」という製造業は、決算書から外注加工費、材料費、運賃などの外部購入価値を集計したのち、付加価値額（売上高－外部購入価値）を売上高で割ることで付加価値率を計算します",
@@ -1205,38 +1237,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その為に必要なものが、ヒト×テクノロジー×経営戦略の掛け算であると、ディ・ポップスグループは考えます",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1つ目は、「AIを使いこなす力」と「顧客を知る力」の掛け算で、FDEを育てること",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "M&Aや事業ポートフォリオ見直しの効果検証、業界内のベンチマーク、就職活動の企業研究まで幅広く活用されます",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
-    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1273,47 +1273,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/cloud_hr_bank/n/n256b095a5956",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.layers.co.jp/solution/action/",
+    "url": "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://zaimani.com/financial-indicators/labor-productivity/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.moneyforward.com/erp/basic/2625/",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.motivation-cloud.com/hr2048/c489",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://canon.jp/biz/trend/bpo-27",
     "status": "ok",
     "method": "http"
    },
@@ -1323,12 +1293,42 @@
     "method": "http"
    },
    {
-    "url": "https://www.jmam.co.jp/hrm/column/0129-labor_productivity.html",
+    "url": "https://biz.moneyforward.com/erp/basic/2625/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motivation-cloud.com/hr2048/c489",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.layers.co.jp/solution/action/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/trend/bpo-27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tayori.com/blog/labor-productivity/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
     "status": "ok",
     "method": "http"
    },
@@ -1368,12 +1368,12 @@
     "method": "http"
    },
    {
-    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
+    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
     "status": "ok",
     "method": "http"
    },
@@ -1388,7 +1388,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.benchmarkit.ai/saas-talk-1/revenue-per-employee",
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
     "status": "ok",
     "method": "http"
    }
@@ -1407,10 +1407,10 @@
     "https://note.com/mad2007takahashi/n/n7f646325e917",
     "https://note.com/r33biz/n/n01b28dd4d175",
     "https://note.com/monozukuri_d_lab/n/n8767c384d74a",
-    "https://note.com/rowbelledesk/n/ne4f8f1633894"
+    "https://note.com/miraikyoso/n/nc396ca4c3047"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1418,15 +1418,15 @@
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 note",
    "results": [
-    "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
     "https://note.com/cloud_hr_bank/n/n256b095a5956",
-    "https://www.layers.co.jp/solution/action/",
-    "https://zaimani.com/financial-indicators/labor-productivity/",
-    "https://biz.moneyforward.com/erp/basic/2625/",
+    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
     "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://media.shouin.io/labor-productivity-formula",
+    "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
+    "https://biz.moneyforward.com/erp/basic/2625/",
     "https://www.motivation-cloud.com/hr2048/c489",
+    "https://zaimani.com/financial-indicators/labor-productivity/",
+    "https://biz.teachme.jp/blog/labor-productivity/",
     "https://notepm.jp/blog/24039"
    ],
    "engines": [
@@ -1438,22 +1438,20 @@
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 やり方",
    "results": [
+    "https://www.layers.co.jp/solution/action/",
     "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
-    "https://www.motivation-cloud.com/hr2048/c489",
     "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
     "https://canon.jp/biz/trend/bpo-27",
     "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
-    "https://www.jmam.co.jp/hrm/column/0129-labor_productivity.html",
+    "https://tayori.com/blog/labor-productivity/",
     "https://www.jpc-net.jp/research/list/comparison.html",
-    "https://www.layers.co.jp/solution/action/",
-    "https://www.persol-bd.co.jp/service/product/s-miteras/column/human_resources_productivity/",
-    "https://keisan.navilly.com/tools/productivity.html"
+    "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
+    "https://jinjibank.jp/knowhow/65517/"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 事例",
@@ -1463,8 +1461,8 @@
     "https://canon.jp/biz/trend/bpo-27",
     "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
     "https://www.r-agent.com/business/knowhow/article/9555/",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
     "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
     "https://www.layers.co.jp/solution/action/",
     "https://media.shouin.io/jinjiseisansei-keisan-jirei",
     "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
@@ -1479,14 +1477,14 @@
    "query": "revenue per employee benchmark analysis",
    "results": [
     "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
     "https://www.hibob.com/financial-metrics/revenue-per-employee/",
+    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
     "https://www.hrbench.com/resource/learn/revenue-per-employee",
     "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "https://www.benchmarkit.ai/saas-talk-1/revenue-per-employee",
     "https://www.metrichq.org/finance/revenue-per-employee/",
+    "https://www.benchmarkit.ai/saas-talk-1/revenue-per-employee",
     "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "https://tractian.com/en/glossary/revenue-per-employee",
+    "https://www.greatplacetowork.com/resources/blog/understanding-revenue-per-employee-what-is-a-good-revenue-per-employee-ratio-how-to-calculate-it",
     "https://www.companysights.com/resources/revenue-per-employee-a-key-benchmarking-metric-for-businesses"
    ],
    "engines": [
@@ -1510,7 +1508,7 @@
     "https://note.com/cheeky_crab838/n/n8523064a11fc"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1530,7 +1528,7 @@
     "https://x.com/KagawaTomo/status/2117017787034112208"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1550,7 +1548,7 @@
     "https://jp.linkedin.com/posts/%E6%9A%A2%E5%8F%B8-%E7%B2%95%E8%B0%B7-9063369a_%E9%87%8E%E6%9D%91%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E5%B9%B4%E5%8F%8E%E3%81%AF%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%ABse%E3%81%AE%E5%BD%B9%E8%81%B7%E5%88%A5%E7%B5%A6%E4%B8%8E%E3%81%A8%E5%B9%B4%E9%BD%A2%E5%88%A5%E3%81%AE%E5%B9%B4%E5%8F%8E%E6%8E%A8%E7%A7%BB%E9%AB%98%E7%B5%A6%E3%81%AE%E7%90%86%E7%94%B1%E3%82%92-activity-7091951755260825600-BUUJ"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1558,7 +1556,6 @@
   {
    "query": "site:facebook.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://www.facebook.com/kiichiro.minami/posts/%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B%E3%81%AA%E3%82%89%E5%AE%9F%E9%9A%9B%E3%81%AE%E5%95%86%E5%A3%B2%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC%E3%81%A7300%E5%86%86%E3%81%A7%E5%A3%B2%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%82%A7%E3%82%B3%E8%A3%BD%E3%81%AE%E3%83%9C%E3%83%98%E3%83%9F%E3%82%A2%E3%83%B3%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%923000%E5%86%86%E3%81%A7%E5%A3%B2%E3%82%8B500%E5%86%86%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%92%E5%A3%B2%E3%82%8B%E3%82%88%E3%82%8A50/39348168478160668/",
     "https://www.facebook.com/bioforestation/",
     "https://www.facebook.com/100064515737150/?locale=th_TH",
     "https://www.facebook.com/VUC2021/",
@@ -1566,31 +1563,32 @@
     "https://www.facebook.com/61554216255590/posts/%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%81%8C%E6%97%A5%E6%9C%AC%E4%B8%80%E9%AB%98%E3%81%84%E3%81%AE%E3%81%AF%E6%9D%B1%E4%BA%AC%E3%81%A7%E3%82%82%E5%A4%A7%E9%98%AA%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%A8%E5%9B%BD47%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E3%81%AE%E5%B9%B4%E9%96%93%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B01%E4%BD%8D%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%AE215694%E5%86%86%E6%9C%80%E4%B8%8B%E4%BD%8D%E3%81%AF%E5%85%B5%E5%BA%AB%E7%9C%8C%E3%81%AE115320%E5%86%86%E3%81%9D%E3%81%AE%E5%B7%AE%E5%B9%B4%E9%96%93%E3%81%AA%E3%82%93%E3%81%A8%E7%B4%84/122276952386140541/",
     "https://www.facebook.com/keieisyajyuku/posts/あなたの会社の社員1人あたりの売上高は社員1人あたり年2000万円の売上を上げられる事業をした方がいいってアドバイスしていたコンサルタントがいたもう少し経営を勉/4933308890067726/",
     "https://www.facebook.com/fudousan271/posts/日本一生産性の高い管理会社のつくりかた社員1人あたり生産性2500万円の超高収益企業の成功事例大公開2020年4月に緊急事態宣言が発令された直後10年遅れている/5223540794384852/",
+    "https://www.facebook.com/cuoreplanning.co.jp/photos/今期の方針生産性向上-方針例1-時間タイム-成果方針1人あたりの施術時間を最適化し回転率と満足度を両立する-施術プロセスの標準化シャンプーやカラーの手順を統一-/1269625554965574/",
     "https://www.facebook.com/Rimstoneco/videos/売上はあるのになぜかお金が残らないそんな悩みを持つオーナー様スタッフ一人ひとりの労働生産性を計算したことはありますか実は売上1万円のシャンプーカットでも誰がどの/1915756339033431/",
-    "https://www.facebook.com/cuoreplanning.co.jp/photos/今期の方針生産性向上-方針例1-時間タイム-成果方針1人あたりの施術時間を最適化し回転率と満足度を両立する-施術プロセスの標準化シャンプーやカラーの手順を統一-/1269625554965574/"
+    "https://www.facebook.com/management.consulting.jp/posts/2024078217612875/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 12
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 note 社長",
    "results": [
     "https://note.com/cloud_hr_bank/n/n256b095a5956",
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
     "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
     "https://note.com/gangaraganchan/n/ne1db0ada5e58",
     "https://media.shouin.io/jinjiseisansei-keisan-jirei",
     "https://zaimani.com/financial-indicators/labor-productivity/",
-    "https://u-ks.jp/news/note/2022-01-19",
-    "https://www.persol-bd.co.jp/service/product/s-miteras/column/human_resources_productivity/",
     "https://www.motivation-cloud.com/hr2048/c489",
+    "https://www.persol-bd.co.jp/service/product/s-miteras/column/human_resources_productivity/",
+    "https://media.unipos.me/labor-productivity",
     "https://notepm.jp/blog/24039"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1599,34 +1597,32 @@
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 X 投稿",
    "results": [
     "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
     "https://www.jmam.co.jp/hrm/column/0129-labor_productivity.html",
     "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://tayori.com/blog/labor-productivity/",
+    "https://saireco.jp/hr-system-nav/1096/",
     "https://www.layers.co.jp/solution/action/",
+    "https://tayori.com/blog/labor-productivity/",
+    "https://www.mytaxpro.jp/tax-content/258",
     "https://www.pasona-ns.co.jp/column_wp/detail/14348.html",
-    "https://www.jpc-net.jp/research/list/comparison.html",
-    "https://biz.service.ntt-east.co.jp/columns/productivity-index/",
-    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
+    "https://www.jpc-net.jp/research/list/comparison.html"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "revenue per employee benchmark analysis site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
     "https://www.linkedin.com/pulse/what-revenue-per-employee-how-can-i-use-grow-my-hancott-cgma-gysve",
+    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
     "https://www.linkedin.com/pulse/how-healthy-your-pr-firm-understanding-revenue-per-chuck-tanowitz",
-    "https://www.linkedin.com/pulse/revenue-per-employee-lets-talk-numbers-strategy-bobby-kimani-wpnuf",
     "https://www.linkedin.com/posts/ivanlandabaso_anthropic-generates-56m-revenue-per-employee-activity-7430865110384021504-b42v",
-    "https://www.linkedin.com/pulse/arr-per-employee-false-metric-ai-boom-nitish-shrivastava-dbonc",
+    "https://www.linkedin.com/pulse/revenue-per-employee-lets-talk-numbers-strategy-bobby-kimani-wpnuf",
     "https://www.linkedin.com/pulse/global-cost-per-employee-benchmarks-delivery-models-ali-katkhada-fbmrf",
-    "https://www.linkedin.com/pulse/arr-per-employee-efficiency-metric-randy-wootton-vxlcc",
-    "https://www.linkedin.com/pulse/four-real-world-employeerevenue-ratios-can-drive-your-glenn-perkins",
+    "https://www.linkedin.com/pulse/arr-per-employee-false-metric-ai-boom-nitish-shrivastava-dbonc",
+    "https://www.linkedin.com/posts/indmoney_automobile-business-productivity-activity-7474364957133017088-5g31",
+    "https://www.linkedin.com/pulse/revenue-per-vendor-services-firms-needs-change-up-down-phil-hassey-0mwhc",
     "https://www.linkedin.com/advice/3/what-best-practices-benchmarking-rpe-against-your"
    ],
    "engines": [
@@ -1638,6 +1634,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 20,
+ "runs": 21,
  "first_researched_at": "2026-11-05T00:00:25.623714+00:00"
 }

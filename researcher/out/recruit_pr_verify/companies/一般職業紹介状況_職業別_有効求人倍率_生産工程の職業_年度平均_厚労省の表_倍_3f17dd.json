@@ -1,0 +1,522 @@
+{
+ "name": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92）",
+ "en": "job openings to applicants ratio production process occupations annual average MHLW table",
+ "aliases": [
+  "一般職業紹介状況 職業別 有効求人倍率 生産工程 年度平均 表",
+  "職業別一般職業紹介状況 生産工程の職業 倍"
+ ],
+ "context": "②採用難",
+ "kind": "market",
+ "researched_at": "2026-11-07T23:56:04.361456+00:00",
+ "evidence": {
+  "採用難（公的統計）": [
+   {
+    "quote": "製造業の有効求人倍率 2026年最新｜製造WEB",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率 2026年最新",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率 2026年最新｜職種別の読み方と、自社の求人に落とす3ステップ",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースで「有効求人倍率1.18倍」と聞いても、自社の職種で何倍なのかは分かりません",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値）は1.18倍で前月と同水準、新規求人倍率は2.10倍（前月比−0.06）、正社員の有効求人倍率は1.00倍で前月と同水準でした",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "生産工程の職業の7月の新規求人は75,278件、就職件数は9,740件で、充足率は12.9%です",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、ハローワークの求職者1人に対して求人が何件あるか、です",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "職業別は原数値でしか公表されないので、全体との比較は同じ表の「全職業1.05倍」とします",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "元大手飲食チェーンの採用責任者が、有効求人倍率は年に数千人を採る会社の話で、年5人採る会社には関係ない、媒体会社が商品を売るために出している数字だ、と話していました（飲食業の話ですが、製造業の中小にも当てはまります）",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "年度の平均と充足率は、翌年4月末の年度分の公表で更新します",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "年度で見ると、2025年度平均は1.20倍で、前年度の1.25倍から下がっています",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "年度の平均と充足率は、翌年4月末の年度分の公表で更新します",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "この記事は、厚生労働省が毎月末に公表する「一般職業紹介状況」から、製造業に関わる職種の倍率を抜き出して、毎月更新する定点記事です",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新: 2026年8月28日公表の2026年7月分",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "年度の平均と充足率は、翌年4月末の年度分の公表で更新します",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "取材と原稿づくりから、公開後の更新まで担当します",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "この記事は、厚生労働省が毎月末に公表する「一般職業紹介状況」から、製造業に関わる職種の倍率を抜き出して、毎月更新する定点記事です",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "新規求人は前年同月比0.8%減ですが、製造業の新規求人は前年同月比6.8%増でした（厚生労働省「一般職業紹介状況（令和8年7月分）」）",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の一般職業紹介状況は、毎月末に前月分が公表されます",
+    "url": "https://seizo-web.com/blog/3040/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "有効求人倍率": [
+   {
+    "value": "1.18",
+    "url": "https://seizo-web.com/blog/3040/",
+    "quote": "ニュースで「有効求人倍率1.18倍」と聞いても、自社の職種で何倍なのかは分かりません"
+   },
+   {
+    "value": "1.00",
+    "url": "https://seizo-web.com/blog/3040/",
+    "quote": "有効求人倍率（季節調整値）は1.18倍で前月と同水準、新規求人倍率は2.10倍（前月比−0.06）、正社員の有効求人倍率は1.00倍で前月と同水準でした"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03&toukei=00450222&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450222&tstat=000001020327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000143877.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_67666.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyujinbairitsu.shigotodb.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/a01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seizo-web.com/blog/3040/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&survey=%22%E7%8A%B6%E6%B3%81%22&toukei=00450222",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92）",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03&toukei=00450222&result_page=1",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "https://limo.media/articles/-/136409",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92） 調査 PDF",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450222&tstat=000001020327",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://www.soumu.go.jp/main_content/000143877.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://www.mhlw.go.jp/stf/newpage_67666.html",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://www.mhlw.go.jp/stf/newpage_72811.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92） 規模別 万円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://www.soumu.go.jp/main_content/000143877.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92） 製造業 事例",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450222&tstat=000001020327",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://kyujinbairitsu.shigotodb.jp/",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/a01.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92） 2025 OR 2026",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92）",
+   "results": [
+    "https://note.com/jazzy_mole4471/n/n64cfb0ee529a",
+    "https://note.com/trex_ai/n/n80472342438e",
+    "https://note.com/aki_tenshoku/n/nc4708fe43f9f",
+    "https://note.com/ghrs/n/n7e4d560e0dc6",
+    "https://note.com/kyuzin_yomikaki/n/nf470156a925d",
+    "https://note.com/makaibito/n/n8b2e1e77aca5",
+    "https://note.com/hsp_kazu/n/n48964a33d901",
+    "https://note.com/kotatsu_ai_jadc/n/nfe449c1d5161",
+    "https://note.com/chic_deer1160/n/n94690e807498",
+    "https://note.com/thetashis01/n/nabd216148a14"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com 一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92）",
+   "results": [
+    "https://x.com/makaibito/article/2081194978857153007",
+    "https://x.com/KagawaTomo/status/2110692193677787567",
+    "https://x.com/kazunoricc",
+    "https://x.com/hukugyootaku/status/2034836262776115494",
+    "https://x.com/tokyoroudouMHLW/status/2048983855366029403",
+    "https://x.com/tokyoroudouMHLW/status/2017100464471384468",
+    "https://x.com/info_vcareer/status/2105077665254588508",
+    "https://x.com/indbgraphreport/status/2038957947339100420",
+    "https://x.com/indbgraphreport/status/1851059546070139055",
+    "https://x.com/indbgraphreport/status/2048926724386414671"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com 一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92）",
+   "results": [
+    "https://www.linkedin.com/pulse/一般職業紹介状況労働力調査令和6年2月分-崇-堀内-xqazc",
+    "https://jp.linkedin.com/posts/sakuraitakuya_一般職業紹介状況令和7年6月分離職理由別求職者数の推移令和7年8月発表-activity-7361526205113618433-jWN_",
+    "https://www.linkedin.com/company/indeed-com",
+    "https://www.linkedin.com/pulse/あらためて求人倍率について26卒-サトル-カナイワ-18yvc",
+    "https://jp.linkedin.com/posts/pasona-business_2026年4月最新版採用市場はどう動いた転職動向と求人倍率を業界職種別に解説-activity-7452555538288263168-9KXU",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://jp.linkedin.com/posts/satoshi-miyamoto-宮本智史-0a11b022_人材紹介2023年度の有料民間職業紹介事業所数は30113件前年度から-activity-7257277845725421571-Ajho"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92）",
+   "results": [
+    "https://www.facebook.com/p/%E5%9F%BC%E7%8E%89%E3%81%A8%E3%81%86%E3%81%B6%E8%8B%A5%E8%80%85%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-100067411946366/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/tanabecci/posts/ハローワーク田辺より一般職業紹介状況業務月報令和7年2月分が公表されました出典和歌山労働局ホームページ/1088833689950636/",
+    "https://www.facebook.com/katsushika.shigoto/posts/墨田葛飾エリアの職種別有効求人倍率情報ハローワーク墨田より職種別有効求人求職状況と求人賃金状況の7月分が公開されております墨田エリアの求人倍率は073倍令和4年/4985847114848907/",
+    "https://www.facebook.com/atsushi.okumura.sr/posts/労働時事49-２月の有効求人倍率３月31日厚生労働省ｈｐ一般職業紹介状況令和８年２月分によれば本年２月の有効求人倍率季節調整値は119倍で前月に比べて001ポイ/1546304880828087/",
+    "https://www.facebook.com/aichi.roudoukyoku/posts/令和８年１月における雇用情勢をお伝えします-基調判断-雇用情勢は求人が求職を上回って推移しているものの物価上昇等が雇用に与える影響に注意する必要がある-有効求人/1370002271836174/",
+    "https://www.facebook.com/aichi.roudoukyoku/photos/令和７年６月における雇用情勢をお伝えします-基調判断-雇用情勢は持ち直しの動きが広がりつつあるが一部に改善の動きが弱まっており引き続き注意する必要がある-有効求/1207167358119667/",
+    "https://www.facebook.com/tashirointernational/posts/めちゃくちゃ久しぶりにみた岐阜県ハローワーク別有効求人倍率の推移岐阜県の名物は多治見のパートの求人倍率が異常に高いことでありこれは某v社という最強企業１社によっ/25707145555614592/",
+    "https://www.facebook.com/minshokyo/posts/厚労省職業紹介事業における職種別手数料離職状況が公表されました１２月２５日木厚生労働省から職業紹介事業者における職種別手数料離職状況についてが公表されましたこれ/863011129655238/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://note.com/sorala_com/n/n2e38ec101645",
+    "https://www.henmi-adm.jp/news/2895.html",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 年度平均（厚労省の表・倍の値だけ・賃金の万円を除く・4-92） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://jinjibu.jp/news/detl/26717/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://www.mhlw.go.jp/stf/newpage_67666.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "job openings to applicants ratio production process occupations annual average MHLW table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_japan-jobless-rate-rises-to-25-in-august-activity-7512794093098385409-twAO",
+    "https://www.linkedin.com/posts/gloxus_%E6%97%A5%E6%9C%AC%E3%81%A7%E5%83%8D%E3%81%8F-%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8E%A1%E7%94%A8-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-activity-7508306835637141504-PJyj",
+    "https://cn.linkedin.com/in/karl-feng-49b33a57",
+    "https://jp.linkedin.com/in/michael-leung-72b543139",
+    "https://uk.linkedin.com/in/di-morris-1722b041",
+    "https://nl.linkedin.com/in/naoto-sato-nissui/en",
+    "https://au.linkedin.com/in/eric-li-a7b04686",
+    "https://de.linkedin.com/in/mika-schmidt-8100b9188",
+    "https://il.linkedin.com/in/yair-horesh-94854484",
+    "https://jp.linkedin.com/in/miao-yang-7275b465"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "社数（規模別）": "記載なし（読んだ27頁・検索13回）",
+  "採用広報・採用サイトの単価": "記載なし（読んだ27頁・検索13回）",
+  "作る側の原価": "記載なし（読んだ27頁・検索13回）",
+  "営業と採用のどちらに困っているか": "記載なし（読んだ27頁・検索13回）",
+  "前例の会社（製造業特化）": "記載なし（読んだ27頁・検索13回）"
+ }
+}
