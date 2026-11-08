@@ -1983,7 +1983,7 @@
 ## 主題外の頁（4-96・機械）
 - 引用10件以上で手法の言葉を含む引用が2割未満の頁：225頁。手法の記事の候補・件数に入れない（検索語か取得の層を直す）
   - media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide（引用 125件・手法の言葉 17件）
-  - media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai（引用 117件・手法の言葉 16件）
+  - media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai（引用 118件・手法の言葉 16件）
   - media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata（引用 105件・手法の言葉 11件）
   - note.com/charm_minnow1292/n/nb143d2640e51（引用 73件・手法の言葉 12件）
   - note.com/zum_ism/n/nc502867386a8（引用 72件・手法の言葉 14件）

@@ -8,8 +8,524 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T08:45:39.544882+00:00",
+ "researched_at": "2026-11-08T16:35:57.841875+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "この中では、学問の探究が対象に応じてどのような方法論をとるか、ということを論じていました",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは人類の探究活動の最極致にある学術研究においてどのようなやり方が使われるか、という部分を扱ったものですが、社会の大多数を占める人々は専門家ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門家に関する研究の中では、科学技術社会論（Science and technology studies, または science, technology, and society, STS）の中で、ハリー・コリンズとロバート・エヴァンズによって論じられた専門知の類型論が注目に値します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "コリンズ＆エヴァンズ（2007、邦訳 2020）『専門知を再考する』では、\"専門知の周期表\"として専門知の類型が論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは「ビアマット知識」「通俗的理解」「一次資料知識」「対話型専門知」「貢献型専門知」の5つの類型に分けられます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「貢献型専門知」は、一般に\"専門家\"という言葉から連想されるような、特定の分野において実践的にことを為すことができるような能力をもたらす専門知のことです",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方「対話型専門知」は、その分野において実践的な貢献は行わないが、分野のコミュニティに関わり、その特定分野に固有の暗黙知を身に付けた状態で、専門的なトピックに関して流暢なコミュニケーションを行うことを可能にするような専門知を指します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対話型専門知はコリンズとエヴァンズが新たに着想した概念で、『専門知を再考する』の中ではかなり詳しく論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対話型専門知および貢献型専門知には特定分野のコミュニティにおける社会的な暗黙知が必要となります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、特にその分野の実践を伴う貢献型専門知においては、物真似単形性のような技能の身体化が見られるようになります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "コリンズとエヴァンズの議論では、貢献型専門知を持った人々は、少なくとも潜在的には対話型専門知をも身に付けている、と論じられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "学術コミュニティの場合は学会などでのやりとりとして言語によるコミュニケーションが行われるので、多くの場合対話型専門知が顕在化していることが多いと思います",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお、芸術評論家は貢献型専門知を持たず対話型専門知のみを持っているような例になっています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは、他の言葉で言えば批判的思考（クリティカル・シンキング）のようなものを行えるような資質のことを意味していて、特に学術分野における貢献型専門知の実践に深く関与しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらの「対話能力」「熟慮能力」は特定の分野に限った能力ではないためこの行とは別に立てられていて、対話型専門知や貢献型専門知を顕在化させたり習熟させるのに役立つような資質として位置づけられています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "as “methods” underlying human expert opinions. These attempts have not been wholly",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "confusion and offer a coherent framework for conceptualizing and regulating machine",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "offers a framework for understanding machine credibility by describing the",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "processes are based on reliable methods and are implemented in a reliable way.",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methodology are sound.",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "community and determine reliability not only of the method, but also of the",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "software implementing that method, based on industry standards. In some cases,",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ability to operationalize an otherwise reliable method.",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "black box dangers and methods of confronting accusatory machine conveyances",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "framework for identifying credibility-dependent machine evidence",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "being believed. It then offers a framework for describing the testimonial",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "engaged in analytical missteps.",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ways that cause analytical errors. Machines learn how to categorize new data by",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Armed with the black box dangers framework, this Part",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "requirements for expert methodologies.",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "通説との関係で見ると、教科書は「十分確実とみなされた内容」を優先して採用するため、専門家コミュニティでの議論の最前線や、通説が更新されつつある部分が反映されるまでには時間的なラグが生じます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "制作主体は試験を実施する公的機関や業界団体、民間出版社など多様であり、執筆者もその分野の専門家から予備校講師・実務家まで幅があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方で、専門書が大学の教科書としてどの程度採用されているか、専門誌の書評でどのように評価されているかといった外在的な情報は、その専門書がコミュニティ内でどの位置づけにあるのかを推測する手がかりを与えます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門分野の基礎理論や統計手法、実験技法などについて十分な前提知識がない場合、論文の主張の強さや位置づけを適切に評価することは難しくなります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "政府機関や独立行政法人、地方公共団体などが発行する白書・統計書・調査報告・審議会答申は、公的な立場からの現状認識や政策判断を示す文献です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法制度や行政運営に関する情報では、これらが「公式見解」や「公的統計」として事実上の基準になることも多く、行政がどのような問題設定と前提に立っているかを知る手がかりになります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計や報告書は年次で作成され、速報値・確報値の区別や後年の改定が行われます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ名称の統計でも、調査方法や分類が途中で変わることがあり、時系列比較を行う際には、版・掲載年・調査方法を確認する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計や調査では、指標の選定にあたって専門家の助言が得られることが多く、学問的知見や広く共有された枠組みに沿った設計が行われますが、どの指標やグラフを強調するかといった編集方針には、政策課題や組織の関心が反映されます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計書は調査対象・抽出方法・集計手順などを明示するのが通例であり、本原性の高い情報源です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "統計表や図表が多数掲載されていても、それが学界のどの議論と対応しているか、どの程度通説に近い位置づけなのかは、本文だけでは分かりにくく、必要に応じて専門書や学術論文と組み合わせて読むことが求められます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一次資料や学術論文、公的統計へのリンクを丁寧に示すサイトでは、記述の根拠をたどりやすい一方で、出典をほとんど示さないまま断定的に語るサイトや、二次情報の重ね書きで元の出典が不明瞭になっているサイトもあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "非専門家にとって、個人サイトは多くの場合無料で利用でき、検索エンジンやSNS経由で到達しやすいという意味でアクセスコストは低いものの、運営者の専門性や立場、参照されている情報源の質を自分で見極める必要があり、複数サイトや公的資料・専門書と照らし合わせる評価コストは小さくありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "研究者や公的機関・報道機関の公式アカウントの発信は、その組織の対外的な責任がかかる分だけ一定の慎重さが期待できますが、匿名個人やパロディアカウント、なりすましなども混在します",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "/amended-fbi-str-final-6-16-15.pdf [http://perma.cc/FR35-44TN].",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ", United States v. Liebert, 519 F.2d 542, 543 (3d Cir. 1975) (discussing a list of persons not filing tax returns that was stored on IRS computers).",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "/ostp/PCAST/pcast_forensic_science_report_final.pdf",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "_Admissibility.pdf [http://perma.cc/3TFA-8VA5] (excluding STRmix results under",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ota_Barr_REDACTED.pdf [http://perma.cc/N2KP-ZS7K] (noting numerous software errors leading to Toyota Camry unintended acceleration issue that were only apparent upon review of source code).",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ".pdf [http://perma.cc/N6ZB-VLCW].",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "tent/uploads/2011/07/Algorithmic-Accountability-Reporting_final.pdf",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "_Criminal_Proceedings.pdf [http://perma.cc/WU2H-CWFW]).",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ".cybgen.com/information/newsroom/2015/dec/Smith2015.pdf [http://",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "/11394/4833/VanTonder_gp_llm_law_2013.pdf [http://perma.cc/PTY6-SDG7].",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "ビアマット知識のような断片的な情報ではなく、推論によって具体的な事例に適用したりできるような、ある程度まとまった観念を指しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "前者の場合は、非常に複雑ではあるがそれ単体で習得可能で、例えば村田製作所の\"ムラタセイサク君\"のような形で機械にも模倣可能です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一方で、例えば芸術家のような専門家の場合、素晴らしい芸術作品を作ることはできるが、それについて流暢に言語化することは難しい、という場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このような場合も、例えば芸術評論家が持つような言語化能力を身に付けることができれば、その芸術作品について対話をすることが可能でしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「専門的目利き」は、例えばワインのソムリエがワインの良し悪しについて判断できるような鑑定能力のことを指しています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここでは、例えば自然科学では対応説、人文科学では整合説、みたいな形で、ドメインごとに別々の説による真理が成り立つ、ということが考えられます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "非専門家にとっては、例えば対応説的な真理を直接得ることはできず、専門家によって見出されたもの、という媒介を通してしか真理を見ることができません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "真純性に問題があるケースとしては、一つは史料が偽作である場合、またもう一つとして錯誤もしくは誤認に基づいている場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このような錯誤や虚偽の吟味は、外的批判の結果とも組み合わせて検討されます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、そのような信頼性の高い複製プロセスを経ていないものを対象としている場合や、版の違いによる改訂の差などが重要になってくる場合などでは、真純性の吟味が重要なケースは残ります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Mr. Lizarraga-Tirado’s case is emblematic of litigants’",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "box dangers. In some cases, human testimony might be unnecessary or, depending",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "their complexity, opacity, sensitivity to case-specific human manipulation, and",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the obvious cases, these hearings do not offer sufficient scrutiny. Judges",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "is precisely in cases involving less-than-ideal conditions—degraded or",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "baseline. For example, even if a DNA expert system rarely falsely includes a",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "software implementing that method, based on industry standards. In some cases,",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "for human designers, inputters, or operators in certain cases where testimony",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "done in criminal cases. Courts could also give jury instructions for certain",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "also about public legitimacy in cases where the sole evidence of guilt is",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Finally, in criminal cases, machine sources of",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "revisit cases in which the Supreme Court appears to recognize implicitly that",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, scholars seem to agree",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In the case of machines, juries",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "both causing falsity by design. One recent example is the discovery that",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "近代歴史学では、バルトホルト・ゲオルク・ニーブールやレオポルト・フォン・ランケに始まる史料批判の伝統により、史料を様々に吟味して歴史上の事実などを推定する技術を高度な体系へと作り上げてきました",
@@ -373,522 +889,6 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "通説との関係で見ると、教科書は「十分確実とみなされた内容」を優先して採用するため、専門家コミュニティでの議論の最前線や、通説が更新されつつある部分が反映されるまでには時間的なラグが生じます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "制作主体は試験を実施する公的機関や業界団体、民間出版社など多様であり、執筆者もその分野の専門家から予備校講師・実務家まで幅があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "一方で、専門書が大学の教科書としてどの程度採用されているか、専門誌の書評でどのように評価されているかといった外在的な情報は、その専門書がコミュニティ内でどの位置づけにあるのかを推測する手がかりを与えます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "専門分野の基礎理論や統計手法、実験技法などについて十分な前提知識がない場合、論文の主張の強さや位置づけを適切に評価することは難しくなります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "政府機関や独立行政法人、地方公共団体などが発行する白書・統計書・調査報告・審議会答申は、公的な立場からの現状認識や政策判断を示す文献です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法制度や行政運営に関する情報では、これらが「公式見解」や「公的統計」として事実上の基準になることも多く、行政がどのような問題設定と前提に立っているかを知る手がかりになります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計や報告書は年次で作成され、速報値・確報値の区別や後年の改定が行われます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "同じ名称の統計でも、調査方法や分類が途中で変わることがあり、時系列比較を行う際には、版・掲載年・調査方法を確認する必要があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計や調査では、指標の選定にあたって専門家の助言が得られることが多く、学問的知見や広く共有された枠組みに沿った設計が行われますが、どの指標やグラフを強調するかといった編集方針には、政策課題や組織の関心が反映されます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計書は調査対象・抽出方法・集計手順などを明示するのが通例であり、本原性の高い情報源です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計表や図表が多数掲載されていても、それが学界のどの議論と対応しているか、どの程度通説に近い位置づけなのかは、本文だけでは分かりにくく、必要に応じて専門書や学術論文と組み合わせて読むことが求められます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "一次資料や学術論文、公的統計へのリンクを丁寧に示すサイトでは、記述の根拠をたどりやすい一方で、出典をほとんど示さないまま断定的に語るサイトや、二次情報の重ね書きで元の出典が不明瞭になっているサイトもあります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "非専門家にとって、個人サイトは多くの場合無料で利用でき、検索エンジンやSNS経由で到達しやすいという意味でアクセスコストは低いものの、運営者の専門性や立場、参照されている情報源の質を自分で見極める必要があり、複数サイトや公的資料・専門書と照らし合わせる評価コストは小さくありません",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "研究者や公的機関・報道機関の公式アカウントの発信は、その組織の対外的な責任がかかる分だけ一定の慎重さが期待できますが、匿名個人やパロディアカウント、なりすましなども混在します",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "/amended-fbi-str-final-6-16-15.pdf [http://perma.cc/FR35-44TN].",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ", United States v. Liebert, 519 F.2d 542, 543 (3d Cir. 1975) (discussing a list of persons not filing tax returns that was stored on IRS computers).",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "/ostp/PCAST/pcast_forensic_science_report_final.pdf",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "_Admissibility.pdf [http://perma.cc/3TFA-8VA5] (excluding STRmix results under",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ota_Barr_REDACTED.pdf [http://perma.cc/N2KP-ZS7K] (noting numerous software errors leading to Toyota Camry unintended acceleration issue that were only apparent upon review of source code).",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ".pdf [http://perma.cc/N6ZB-VLCW].",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tent/uploads/2011/07/Algorithmic-Accountability-Reporting_final.pdf",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "_Criminal_Proceedings.pdf [http://perma.cc/WU2H-CWFW]).",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ".cybgen.com/information/newsroom/2015/dec/Smith2015.pdf [http://",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "/11394/4833/VanTonder_gp_llm_law_2013.pdf [http://perma.cc/PTY6-SDG7].",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "ビアマット知識のような断片的な情報ではなく、推論によって具体的な事例に適用したりできるような、ある程度まとまった観念を指しています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "前者の場合は、非常に複雑ではあるがそれ単体で習得可能で、例えば村田製作所の\"ムラタセイサク君\"のような形で機械にも模倣可能です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "一方で、例えば芸術家のような専門家の場合、素晴らしい芸術作品を作ることはできるが、それについて流暢に言語化することは難しい、という場合があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このような場合も、例えば芸術評論家が持つような言語化能力を身に付けることができれば、その芸術作品について対話をすることが可能でしょう",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「専門的目利き」は、例えばワインのソムリエがワインの良し悪しについて判断できるような鑑定能力のことを指しています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここでは、例えば自然科学では対応説、人文科学では整合説、みたいな形で、ドメインごとに別々の説による真理が成り立つ、ということが考えられます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "非専門家にとっては、例えば対応説的な真理を直接得ることはできず、専門家によって見出されたもの、という媒介を通してしか真理を見ることができません",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "真純性に問題があるケースとしては、一つは史料が偽作である場合、またもう一つとして錯誤もしくは誤認に基づいている場合があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このような錯誤や虚偽の吟味は、外的批判の結果とも組み合わせて検討されます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ただし、そのような信頼性の高い複製プロセスを経ていないものを対象としている場合や、版の違いによる改訂の差などが重要になってくる場合などでは、真純性の吟味が重要なケースは残ります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Web上の情報については、アクセス日時によってサーバーから返されるデータが変わっている可能性があるため、魚拓的なアーカイブを参照したり、間接的に来歴を推定するような方法が必要なケースがあるでしょう",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その結果、モデル化された説明や教育的なスローガンが、適用範囲の限られた記述であるにもかかわらず、普遍的な事実や唯一の見方として理解されてしまうことがあります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その結果、「試験で正解とされる理解」と、実務現場における運用や学術的な理解とのあいだに一定のずれが生じます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Mr. Lizarraga-Tirado’s case is emblematic of litigants’",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "box dangers. In some cases, human testimony might be unnecessary or, depending",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "their complexity, opacity, sensitivity to case-specific human manipulation, and",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the obvious cases, these hearings do not offer sufficient scrutiny. Judges",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "is precisely in cases involving less-than-ideal conditions—degraded or",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "baseline. For example, even if a DNA expert system rarely falsely includes a",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "software implementing that method, based on industry standards. In some cases,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "for human designers, inputters, or operators in certain cases where testimony",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "done in criminal cases. Courts could also give jury instructions for certain",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "also about public legitimacy in cases where the sole evidence of guilt is",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Finally, in criminal cases, machine sources of",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "revisit cases in which the Supreme Court appears to recognize implicitly that",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example, scholars seem to agree",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In the case of machines, juries",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "both causing falsity by design. One recent example is the discovery that",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "この中では、学問の探究が対象に応じてどのような方法論をとるか、ということを論じていました",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これは人類の探究活動の最極致にある学術研究においてどのようなやり方が使われるか、という部分を扱ったものですが、社会の大多数を占める人々は専門家ではありません",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "専門家に関する研究の中では、科学技術社会論（Science and technology studies, または science, technology, and society, STS）の中で、ハリー・コリンズとロバート・エヴァンズによって論じられた専門知の類型論が注目に値します",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "コリンズ＆エヴァンズ（2007、邦訳 2020）『専門知を再考する』では、\"専門知の周期表\"として専門知の類型が論じられています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これは「ビアマット知識」「通俗的理解」「一次資料知識」「対話型専門知」「貢献型専門知」の5つの類型に分けられます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「貢献型専門知」は、一般に\"専門家\"という言葉から連想されるような、特定の分野において実践的にことを為すことができるような能力をもたらす専門知のことです",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "一方「対話型専門知」は、その分野において実践的な貢献は行わないが、分野のコミュニティに関わり、その特定分野に固有の暗黙知を身に付けた状態で、専門的なトピックに関して流暢なコミュニケーションを行うことを可能にするような専門知を指します",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "対話型専門知はコリンズとエヴァンズが新たに着想した概念で、『専門知を再考する』の中ではかなり詳しく論じられています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "対話型専門知および貢献型専門知には特定分野のコミュニティにおける社会的な暗黙知が必要となります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、特にその分野の実践を伴う貢献型専門知においては、物真似単形性のような技能の身体化が見られるようになります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "コリンズとエヴァンズの議論では、貢献型専門知を持った人々は、少なくとも潜在的には対話型専門知をも身に付けている、と論じられています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "学術コミュニティの場合は学会などでのやりとりとして言語によるコミュニケーションが行われるので、多くの場合対話型専門知が顕在化していることが多いと思います",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、芸術評論家は貢献型専門知を持たず対話型専門知のみを持っているような例になっています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これは、他の言葉で言えば批判的思考（クリティカル・シンキング）のようなものを行えるような資質のことを意味していて、特に学術分野における貢献型専門知の実践に深く関与しています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これらの「対話能力」「熟慮能力」は特定の分野に限った能力ではないためこの行とは別に立てられていて、対話型専門知や貢献型専門知を顕在化させたり習熟させるのに役立つような資質として位置づけられています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "as “methods” underlying human expert opinions. These attempts have not been wholly",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "confusion and offer a coherent framework for conceptualizing and regulating machine",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "offers a framework for understanding machine credibility by describing the",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "processes are based on reliable methods and are implemented in a reliable way.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "methodology are sound.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "community and determine reliability not only of the method, but also of the",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "software implementing that method, based on industry standards. In some cases,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ability to operationalize an otherwise reliable method.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "black box dangers and methods of confronting accusatory machine conveyances",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "framework for identifying credibility-dependent machine evidence",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "being believed. It then offers a framework for describing the testimonial",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "engaged in analytical missteps.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ways that cause analytical errors. Machines learn how to categorize new data by",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Armed with the black box dangers framework, this Part",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "requirements for expert methodologies.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
@@ -915,12 +915,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/dc_lawyer/n/nf1e10b45ec8c",
+    "url": "https://note.com/shoeisha_bizit/n/n01430c8bb087",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shoeisha_bizit/n/n01430c8bb087",
+    "url": "https://note.com/hirokimiyano/n/n2b0ccf749481",
     "status": "ok",
     "method": "http"
    },
@@ -935,14 +935,14 @@
     "method": "browser"
    },
    {
-    "url": "https://note.com/ryu_nakayama/n/nc941d1d068ba",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
     "status": "http_403",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.cira.kyoto-u.ac.jp/assets_c/pdf/20190820_fukushima_symposium.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://cir.nii.ac.jp/crid/1390282680208483968",
@@ -950,7 +950,7 @@
     "method": "browser"
    },
    {
-    "url": "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
+    "url": "https://note.com/ryu_nakayama/n/nc941d1d068ba",
     "status": "ok",
     "method": "http"
    },
@@ -980,7 +980,7 @@
     "method": "http"
    },
    {
-    "url": "https://fungry.co.jp/cnaps/blog/how-to-write-interview-article/",
+    "url": "https://tomorrowgate.co.jp/blog/2959/",
     "status": "ok",
     "method": "http"
    },
@@ -1020,23 +1020,23 @@
     "method": "http"
    },
    {
-    "url": "https://www.forensisgroup.com/resources/expert-legal-witness-blog/going-to-credibility-and-weight-not-to-admissibility",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://sites.cardiff.ac.uk/harrycollins/key-concepts/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "url": "https://www.forensisgroup.com/resources/expert-legal-witness-blog/going-to-credibility-and-weight-not-to-admissibility",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://scholarlycommons.law.northwestern.edu/nulr/vol110/iss4/3/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=1008&context=judgesbook",
-    "status": "http_403",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446190/",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -1054,12 +1054,12 @@
     "https://note.com/wattson496/n/n853a10f28714",
     "https://note.com/davide_tech/n/n05a7bc439eae",
     "https://note.com/kongoshuppan/n/n056b58858798",
-    "https://note.com/dc_lawyer/n/nf1e10b45ec8c",
     "https://note.com/shoeisha_bizit/n/n01430c8bb087",
-    "https://note.com/reading_monkey/n/nd32f1440f3db",
-    "https://note.com/ready_honest8301/n/n59bba03c79a9",
     "https://note.com/hirokimiyano/n/n2b0ccf749481",
-    "https://note.com/reading_monkey/n/na003899967aa"
+    "https://note.com/reading_monkey/n/nd32f1440f3db",
+    "https://note.com/dc_lawyer/n/nf1e10b45ec8c",
+    "https://note.com/kuga_spqr/n/n4320d8b02dd2",
+    "https://note.com/reading_monkey/n/n7d814e29a21b"
    ],
    "engines": [
     "ddgs:bing",
@@ -1072,13 +1072,13 @@
    "results": [
     "https://note.com/voicy_design/n/n0749ae7d6042",
     "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://note.com/ryu_nakayama/n/nc941d1d068ba",
     "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
-    "https://cir.nii.ac.jp/crid/1390282680208483968",
-    "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
     "https://www.cira.kyoto-u.ac.jp/assets_c/pdf/20190820_fukushima_symposium.pdf",
+    "https://cir.nii.ac.jp/crid/1390282680208483968",
+    "https://note.com/ryu_nakayama/n/nc941d1d068ba",
     "https://lab.ndl.go.jp/dl/book/1877174?page=3",
-    "https://mojioko-lab.com/reviews/interview-transcription/",
+    "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
+    "https://www.tsuji.ac.jp/press/news/cat919/13-2.html?training=&135029=&CID=TJCNMB0303",
     "https://note.com/clever_oriole603/n/ne9a210881fe9"
    ],
    "engines": [
@@ -1095,10 +1095,10 @@
     "https://note.com/yaeno_writer/n/n08b1c7786c46",
     "https://cro-co.co.jp/media/seo/interview-article-writing-guide/",
     "https://www.conmark.jp/column/interview-dialogue-format",
-    "https://fungry.co.jp/cnaps/blog/how-to-write-interview-article/",
-    "https://tomorrowgate.co.jp/blog/2959/",
     "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://tomorrowgate.co.jp/blog/2959/",
     "https://www.engineer.or.jp/cpd/pecpd/20120804-1/",
+    "https://www.bridgeworks.jp/blog/20260806",
     "https://www.ritsumei.ac.jp/acd/cg/law/lex//25-23/046watanabe.pdf"
    ],
    "engines": [
@@ -1131,18 +1131,18 @@
    "query": "weighting testimony contributory vs interactional expertise interviews",
    "results": [
     "https://en.wikipedia.org/wiki/Interactional_expertise",
-    "https://www.forensisgroup.com/resources/expert-legal-witness-blog/going-to-credibility-and-weight-not-to-admissibility",
     "https://sites.cardiff.ac.uk/harrycollins/key-concepts/",
-    "https://yalelawjournal.org/article/machine-testimony",
-    "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=1008&context=judgesbook",
-    "https://openwa.pressbooks.pub/rethinkingcriminalinvestigationsapractitionersguidetobestpractices/chapter/chapter-8-expert-testimony-in-interviews-interrogations-and-eyewitness-evidence/",
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2665847",
+    "https://www.forensisgroup.com/resources/expert-legal-witness-blog/going-to-credibility-and-weight-not-to-admissibility",
+    "https://scholarlycommons.law.northwestern.edu/nulr/vol110/iss4/3/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446190/",
-    "https://businesslawtoday.org/2023/12/adjudication-of-expert-witness-testimony-comparative-analysis/",
+    "https://openwa.pressbooks.pub/rethinkingcriminalinvestigationsapractitionersguidetobestpractices/chapter/chapter-8-expert-testimony-in-interviews-interrogations-and-eyewitness-evidence/",
+    "https://www.fjc.gov/sites/default/files/2012/SciMan3D03.pdf",
+    "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=1008&context=judgesbook",
+    "https://yalelawjournal.org/article/machine-testimony",
     "https://www.sciencedirect.com/science/article/pii/S0039368114000557"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -1150,33 +1150,32 @@
   {
    "query": "site:note.com 証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務",
    "results": [
-    "https://note.com/ready_honest8301/n/n552c3591ac68",
     "https://note.com/shisoji/n/nba138fd7fa2b",
+    "https://note.com/ready_honest8301/n/n552c3591ac68",
+    "https://note.com/jimbunshoin/n/n28c379a5c46c",
     "https://note.com/kenquichi/n/n349cd059ca58",
     "https://note.com/ready_honest8301/n/n04eff16af0c0",
     "https://note.com/hirokimiyano/n/n9058a7356b81",
     "https://note.com/kitecareplan/n/n5a9996d2e841",
     "https://note.com/wattson496/n/n853a10f28714",
     "https://note.com/irnote_2440/n/naeb7728257f3",
-    "https://note.com/yasumikikuchi/n/n2750a02227e6",
-    "https://note.com/dopingconsomme/n/naacd5d088eea"
+    "https://note.com/ready_honest8301/n/n6c47156418d7"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "site:x.com 証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務",
    "results": [
     "https://x.com/itouyoshihiro/status/2098575233066422317",
-    "https://x.com/Tokyonp_kawasa/status/2077905397764206655",
     "https://x.com/domperip3/status/2036065081088417844",
-    "https://x.com/19hz/status/2098681259832529022",
-    "https://x.com/haba_survivor/status/2080307320081514909",
+    "https://x.com/Tokyonp_kawasa/status/2077905397764206655",
     "https://x.com/butatakosu25/status/2043124517019820224",
-    "https://x.com/t_nihonmatsu/status/2058223735430426990"
+    "https://x.com/19hz/status/2098681259832529022",
+    "https://x.com/G_Hikarinohana/status/2075738081421111560",
+    "https://x.com/michisign/status/2086309961819365810"
    ],
    "engines": [
     "ddgs:google"
@@ -1210,15 +1209,15 @@
     "https://www.facebook.com/akihisa.shiozaki/posts/%E5%B9%B4%E6%9C%AB%E5%B9%B4%E5%A7%8B%E3%81%AB%E7%B5%B6%E5%AF%BE%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E8%88%B9%E6%A9%8B%E5%85%88%E7%94%9F%E3%81%AE%E4%B8%80%E5%86%8A%E4%BA%8C%E5%86%8A%E6%9B%B8%E8%A9%95%E3%82%92%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E6%9B%B8%E3%81%8B%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%83%96%E3%83%AD%E3%82%B0%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%88%BB%E3%81%BE%E3%82%8C%E3%82%8B%E6%94%BF%E6%A8%A9%E4%B8%AD%E6%9E%A2%E3%81%AE%E8%A8%98%E9%8C%B2%E8%88%B9%E6%A9%8B%E6%B4%8B%E4%B8%80%E5%AE%BF%E5%91%BD%E3%81%AE%E5%AD%90%E3%82%92%E8%AA%AD%E3%82%80%E4%BA%94%E5%8D%81%E4%BA%94%E5%B9%B4%E3%81%AE%E6%AD%B3%E6%9C%88%E3%82%92%E7%B5%8C%E3%81%A6%E7%88%B6%E3%81%A8%E5%90%8C%E3%81%98%E3%82%88/10161613846917950/",
     "https://www.facebook.com/caojapan/posts/1049066430661786/",
     "https://www.facebook.com/UTokyo.IFI/",
-    "https://www.facebook.com/GainesvilleBunko/",
     "https://www.facebook.com/groups/noufuku/posts/1974894316552331/",
-    "https://www.facebook.com/100017950053585/posts/2140905846517730/",
+    "https://www.facebook.com/GainesvilleBunko/",
     "https://www.facebook.com/100063700321950/photos/1556195906513739/",
+    "https://www.facebook.com/100017950053585/posts/2140905846517730/",
     "https://www.facebook.com/fresh.kitagami/",
     "https://www.facebook.com/upsoclpositivo.jp/posts/%E5%A4%A7%E9%87%8F%E3%81%AE%E3%81%8C%E3%82%8C%E3%81%8D%E3%81%AE%E4%B8%8B%E3%81%A7%E3%81%82%E3%82%8B%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9%E4%BA%BA%E3%81%AE%E5%B0%91%E5%B9%B4%E3%81%AF%E8%AA%B0%E3%81%8B%E3%81%8C%E8%87%AA%E5%88%86%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%81%AE%E3%82%92%E5%BE%85%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E5%BD%BC%E3%81%8C%E3%81%9D%E3%81%AE%E6%AC%A1%E3%81%AB%E8%B5%B7%E3%81%8D%E3%81%9F%E3%81%A8%E8%AA%9E%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AB%E8%87%B3%E3%82%8B%E3%81%BE%E3%81%A7%E8%AB%96%E7%90%86%E7%9A%84%E3%81%AA%E8%AA%AC%E6%98%8E%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E5%BD%BC%E8%87%AA/1050314250893289/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1229,11 +1228,11 @@
     "https://note.com/tag/%E5%8F%96%E6%9D%90",
     "https://note.com/willtec_ir/n/n3d275e5e49d7",
     "https://note.com/tag/%E5%AF%BE%E8%AB%87%E8%A8%98%E4%BA%8B",
-    "https://www.seikyoonline.com/article/E498BF27103EA24FFC9607722C25417A",
-    "https://www.youtube.com/watch?v=srRZUXgLXR4",
-    "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
     "https://satisjp.com/news/interview/consultant-1",
     "https://resory.jp/column/expert-interview-not-recommended",
+    "https://www.youtube.com/watch?v=srRZUXgLXR4",
+    "https://j-forum.org/2019-2/",
+    "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
     "https://note.com/chiikishinbun/n/n9a009927f538",
     "https://note.com/clever_oriole603/n/ne9a210881fe9"
    ],
@@ -1248,14 +1247,14 @@
    "results": [
     "https://www.youtube.com/watch?v=OH5zDAN-pSs",
     "https://x.com/kamitonami/status/2116870680113561699",
+    "https://www.youtube.com/watch?v=_OBvwpcd2gs",
+    "https://www.natureasia.com/ja-jp/ndigest/v8/n4/Twitter%E3%81%AB%E3%82%88%E3%82%8B%E5%AF%A9%E5%88%A4/36490",
     "https://www.youtube.com/watch?v=eP4oFMYXB30",
     "https://www.todaishimbun.org/symposium_20240216/",
     "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
     "https://qast.jp/usecase/issue05/",
-    "https://www.youtube.com/watch?v=WOOSGQpZItg",
     "https://www.curations.jp/article/ox1kEgVK",
-    "https://youtu.be/NG9fDQdS-Fc?si=gzGmVjTiitD2K5xU",
-    "https://note.com/prime_donkey3295/n/nfafdce87e522"
+    "https://www.ritsumei.ac.jp/acd/cg/law/lex//25-23/046watanabe.pdf"
    ],
    "engines": [
     "ddgs:bing",
@@ -1278,445 +1277,14 @@
     "https://www.linkedin.com/in/tammie-briscoe"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "the size of potential sampling error in the population frequency estimates",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ensure that machine estimates are accurate. For example, programmers must",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "influence algorithms’ predictions or statistical estimates. For example,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "can affect the accuracy of the machine’s scores and estimates. For example, in",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "software must also decide how conservative their estimates should be with",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "population for generating estimates of the rarity of genetic markers.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "alcohol for alcohol in deep lung air and inaccurately estimate the suspect’s",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "similarly admitted a program called “Applecrash,” which estimated the likely",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "software-generated driving time estimates;",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "likelihood that, with the safeguard, the jury will overestimate the value of",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "or to choose their own estimate related to the frequency of certain phenomena,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimates and predictive scores:",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the difficulty of validating the statistical estimates of law enforcement-elicited",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ", Jianniney v. State, 962 A.2d 229, 232 (Del. 2008) (excluding Mapquest driving estimates…",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ", Jianniney v. State, 962 A.2d 229, 232 (Del. 2008) (excluding Mapquest driving estimates as inadmissible hearsay); Adam Wolfson, Note,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "by evidence of bias or bad character in human progenitors. Lawmakers might even",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "errors can stem from programming mistakes, beginning with inadvertent miscodes.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A programmer’s conscious or unconscious bias might also",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "“automation biases” to favor corporate self-interest,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "a result the company insists was caused by “unconscious bias” on the part of",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias by incorporating racially-correlated variables.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias, user patterns can inadvertently skew algorithms. For example, the",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "“potential to change the law” by biasing results away from “less popular legal",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Even if a programmer is not “biased” in the sense of making",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "commencing the test runs the risk that the machine will mistake residual mouth",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "complex, biased, manipulable machine imaginable might produce evidence that is",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "a mistake, of course: “[m]icroscopic studies” require “‘a sincere Hand, and a",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "grounds that examiners suffer cognitive bias and lack any probabilistic basis",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "sensitive to human input and human bias, photographic evidence can easily",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "litigation, the motivation for biased representation of facts—such as increasing",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "/amended-fbi-str-final-6-16-15.pdf [http://perma.cc/FR35-44TN].",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ", United States v. Liebert, 519 F.2d 542, 543 (3d Cir. 1975) (discussing a list of persons not filing tax returns that was stored on IRS computers).",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "/ostp/PCAST/pcast_forensic_science_report_final.pdf",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "_Admissibility.pdf [http://perma.cc/3TFA-8VA5] (excluding STRmix results under",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ota_Barr_REDACTED.pdf [http://perma.cc/N2KP-ZS7K] (noting numerous software errors leading to Toyota Camry unintended acceleration issue that were only apparent upon review of source code).",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ".pdf [http://perma.cc/N6ZB-VLCW].",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tent/uploads/2011/07/Algorithmic-Accountability-Reporting_final.pdf",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "_Criminal_Proceedings.pdf [http://perma.cc/WU2H-CWFW]).",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ".cybgen.com/information/newsroom/2015/dec/Smith2015.pdf [http://",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "/11394/4833/VanTonder_gp_llm_law_2013.pdf [http://perma.cc/PTY6-SDG7].",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Mr. Lizarraga-Tirado’s case is emblematic of litigants’",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "box dangers. In some cases, human testimony might be unnecessary or, depending",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "their complexity, opacity, sensitivity to case-specific human manipulation, and",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the obvious cases, these hearings do not offer sufficient scrutiny. Judges",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "is precisely in cases involving less-than-ideal conditions—degraded or",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "baseline. For example, even if a DNA expert system rarely falsely includes a",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "software implementing that method, based on industry standards. In some cases,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "for human designers, inputters, or operators in certain cases where testimony",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "done in criminal cases. Courts could also give jury instructions for certain",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "also about public legitimacy in cases where the sole evidence of guilt is",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Finally, in criminal cases, machine sources of",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "revisit cases in which the Supreme Court appears to recognize implicitly that",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example, scholars seem to agree",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In the case of machines, juries",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "both causing falsity by design. One recent example is the discovery that",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "as “methods” underlying human expert opinions. These attempts have not been wholly",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "confusion and offer a coherent framework for conceptualizing and regulating machine",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "offers a framework for understanding machine credibility by describing the",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "processes are based on reliable methods and are implemented in a reliable way.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "methodology are sound.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "community and determine reliability not only of the method, but also of the",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "software implementing that method, based on industry standards. In some cases,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ability to operationalize an otherwise reliable method.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "black box dangers and methods of confronting accusatory machine conveyances",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "framework for identifying credibility-dependent machine evidence",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "being believed. It then offers a framework for describing the testimonial",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "engaged in analytical missteps.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ways that cause analytical errors. Machines learn how to categorize new data by",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Armed with the black box dangers framework, this Part",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "requirements for expert methodologies.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 2,
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-08T02:03:12.188705+00:00"
 }

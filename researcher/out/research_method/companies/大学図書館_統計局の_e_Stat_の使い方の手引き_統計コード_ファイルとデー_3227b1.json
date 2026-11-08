@@ -8,14 +8,110 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-08T08:59:08.946217+00:00",
+ "researched_at": "2026-11-08T16:46:53.978356+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "：検索入口、表示単位、ファイルとデータベース、公開更新日の注意",
+    "quote": "APIの使い方 | 政府統計の総合窓口(e-Stat)−API機能",
+    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "API機能の使用方法をサンプルコードを交えて紹介しています",
+    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下のサンプルではe-Stat-APIの使用方法と、統計データ取得APIから取得したデータをもとにグラフの表示を行います",
+    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "政府統計の総合窓口(e-Stat)API 仕様／2. APIの利用方法／2.3. 統計データ取得",
+    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ",
     "url": "https://blog.kurashiq.com/estat-first-search-guide/",
     "pass": 3,
     "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この五つは統計値の意味を自動的に決める手順ではありません",
+    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "数値の定義や調査方法が分からない場合は、e-Statの調査概要だけで判断せず、所管府省の用語解説や調査方法の説明、最新の公表資料も確認してください",
+    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総務省eStatで公開されている政府統計データを取得する方法は、下記の通りです",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、主に2つ目の方法（",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.1 データ取得手順",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 1: eStat API のアプリケーションIDを取得する",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 2: HTTP GETをコールして、APIからレスポンス（データ）を受け取る",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "APIの細かい使い方は、",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Request a HTTP GET method to the given url (for REST API)",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Request some HTTP GET methods to the given urls (for REST API)",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(!! This method uses multi threading when calling HTTP GET requests",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "max number of working threads of CPUs within executing this method.",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ],
   "一次情報の探し方": [
@@ -352,144 +448,18 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
+  "失敗・落とし穴": [
    {
-    "quote": "APIの使い方 | 政府統計の総合窓口(e-Stat)−API機能",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "API機能の使用方法をサンプルコードを交えて紹介しています",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "以下のサンプルではe-Stat-APIの使用方法と、統計データ取得APIから取得したデータをもとにグラフの表示を行います",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "政府統計の総合窓口(e-Stat)API 仕様／2. APIの利用方法／2.3. 統計データ取得",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ",
+    "quote": "：検索入口、表示単位、ファイルとデータベース、公開更新日の注意",
     "url": "https://blog.kurashiq.com/estat-first-search-guide/",
     "pass": 3,
     "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この五つは統計値の意味を自動的に決める手順ではありません",
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "数値の定義や調査方法が分からない場合は、e-Statの調査概要だけで判断せず、所管府省の用語解説や調査方法の説明、最新の公表資料も確認してください",
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "総務省eStatで公開されている政府統計データを取得する方法は、下記の通りです",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、主に2つ目の方法（",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.1 データ取得手順",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 1: eStat API のアプリケーションIDを取得する",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 2: HTTP GETをコールして、APIからレスポンス（データ）を受け取る",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "APIの細かい使い方は、",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Request a HTTP GET method to the given url (for REST API)",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Request some HTTP GET methods to the given urls (for REST API)",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(!! This method uses multi threading when calling HTTP GET requests",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "max number of working threads of CPUs within executing this method.",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
    }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://note.com/s_v_s/n/n9d6328633b83",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/clockwok_notes/n/nf2acadd2da7b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kiyo_ai_note/n/nac8c77768c07",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ts1_data_note/n/n58cca17369a0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/rosy_takin8598/n/na437d45168f2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ianak_20251121/n/n32216bea77a6",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "status": "ok",
@@ -506,11 +476,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "status": "ok",
     "method": "http"
@@ -521,17 +486,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.isc.senshu-u.ac.jp/jtext/text2019/EBchap7_st.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.e-stat.go.jp/help/operation",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.e-stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanagawa-u.ac.jp/library/search/database/list/article0702_01648",
     "status": "ok",
     "method": "http"
    },
@@ -556,12 +521,12 @@
     "method": "http"
    },
    {
-    "url": "https://pypi.org/project/estatjp/",
+    "url": "https://github.com/K-Oxon/e-stat-wrangling-skills/tree/main/plugins/estat-api",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://rdrr.io/cran/estatapi/",
+    "url": "https://github.com/yutannihilation/estatapi/blob/master/README.en.md",
     "status": "ok",
     "method": "http"
    }
@@ -570,19 +535,9 @@
  "search_log": [
   {
    "query": "大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API） site:note.com",
-   "results": [
-    "https://note.com/s_v_s/n/n9d6328633b83",
-    "https://note.com/clockwok_notes/n/nf2acadd2da7b",
-    "https://note.com/kiyo_ai_note/n/nac8c77768c07",
-    "https://note.com/ts1_data_note/n/n58cca17369a0",
-    "https://note.com/rosy_takin8598/n/na437d45168f2",
-    "https://note.com/ianak_20251121/n/n32216bea77a6",
-    "https://note.com/sk_code4noto/n/n95b523055fb9"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API） note",
@@ -590,10 +545,10 @@
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
     "https://www.lib.u-tokyo.ac.jp/ja/library/contents/database/342",
-    "https://www.e-stat.go.jp/api/api-dev/how_to_use",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "https://blog.kurashiq.com/estat-first-search-guide/",
-    "https://www.e-stat.go.jp/help/operation"
+    "https://www.e-stat.go.jp/help/operation",
+    "https://www.e-stat.go.jp/usageguide"
    ],
    "engines": [
     "ddgs:google"
@@ -602,23 +557,33 @@
   },
   {
    "query": "大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API） やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
+    "https://www.lib.u-tokyo.ac.jp/ja/library/contents/database/342",
+    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "https://blog.kurashiq.com/estat-first-search-guide/",
+    "https://www.e-stat.go.jp/help/operation",
+    "https://www.e-stat.go.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API） 事例",
    "results": [
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://www.lib.u-tokyo.ac.jp/ja/library/contents/database/342",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
+    "https://www.lib.u-tokyo.ac.jp/ja/library/contents/database/342",
+    "https://www.kanagawa-u.ac.jp/library/search/database/list/article0702_01648",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://www.isc.senshu-u.ac.jp/jtext/text2019/EBchap7_st.pdf",
     "https://www.e-stat.go.jp/help/operation",
     "https://www.e-stat.go.jp/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -629,12 +594,12 @@
     "https://www.e-stat.go.jp/api/en/api-info",
     "https://cran.r-universe.dev/estatapi/doc/manual.html",
     "https://yutannihilation.github.io/estatapi/",
-    "https://pypi.org/project/estatjp/",
-    "https://rdrr.io/cran/estatapi/",
-    "https://apify.com/tsukasa/e-stat-japan-statistics-api"
+    "https://github.com/K-Oxon/e-stat-wrangling-skills/tree/main/plugins/estat-api",
+    "https://github.com/yutannihilation/estatapi/blob/master/README.en.md",
+    "https://cran.rstudio.com/web/packages/japanstat/japanstat.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -642,11 +607,11 @@
    "query": "site:note.com 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）",
    "results": [
     "https://note.com/s_v_s/n/n9d6328633b83",
-    "https://note.com/tabino4ori/n/n196bd379345c",
     "https://note.com/agile_kudu7242/n/n74b6b1f1a00c",
+    "https://note.com/tabino4ori/n/n196bd379345c",
     "https://note.com/rosy_takin8598/n/na437d45168f2",
     "https://note.com/mankintan/n/n65f0fa60e38d",
-    "https://note.com/arima_planning/n/n851c719dc777",
+    "https://note.com/kiyo_ai_note/n/nac8c77768c07",
     "https://note.com/sk_code4noto/n/n95b523055fb9"
    ],
    "engines": [
@@ -658,15 +623,15 @@
    "query": "site:x.com 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）",
    "results": [
     "https://x.com/pengoo_writer/status/2025207882195849475",
-    "https://jf.x.com/images/media-preview/2112755762141315338",
-    "https://jf.x.com/images/media-preview/2114325456740872389",
+    "https://jf.x.com/images/media-preview/2117919755260830154",
+    "https://jf.x.com/images/media-preview/2116857055864643693",
     "https://x.com/KabayaC0718/status/2100881854081773852",
     "https://x.com/kotsudokan/status/2083191644028121446",
     "https://x.com/lacademy1/status/2070036770641907978",
-    "https://x.com/ArtHappyMuseum/status/2082824459296317558"
+    "https://x.com/mirai_spark/status/2080786610057273566"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -674,8 +639,8 @@
    "query": "site:linkedin.com 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）",
    "results": [
     "https://jp.linkedin.com/posts/典寿-有馬-b5b689352_japan-dashboard-e-stat日本の統計サービスはどう変-activity-7353940406360834049-JtKv",
-    "https://jp.linkedin.com/in/shuntaro-sato-463b9715b",
     "https://jp.linkedin.com/learning/how-to-use-linkedin-learning-2025/4040080",
+    "https://jp.linkedin.com/in/shuntaro-sato-463b9715b",
     "https://www.linkedin.com/company/theequalaccess",
     "https://www.linkedin.com/posts/sana-izumi_総務省統計局提供gaccoが主催するオンライン講座社会人のためのデータサイエンス-activity-7361238896635998208-WV-9",
     "https://jp.linkedin.com/in/俊太朗-佐藤-463b9715b",
@@ -691,14 +656,14 @@
    "results": [
     "https://www.facebook.com/aparblog/posts/1878045305753168/",
     "https://www.facebook.com/senmontoshokankyogikai/posts/525-研修会関東地区e-stat入門講座のご案内日-程-平成28年5月25日水15001630-場-所-日本図書館協会会館-2階研修室内-容-政府統計ポータル/971263882926924/",
+    "https://www.facebook.com/stat.japan/",
     "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/posts/申込締切間近受講料無料ハイブリッド政府統計の総合窓口e-statの使い方シンフォニカ寄付講座政府統計の総合窓口e-statから必要なデータを取得する方法また近年/1671954114868253/",
     "https://www.facebook.com/stat.japan/posts/1月13日総務省統計局からお知らせします誰でも使える統計オープンデータ開講-総務省統計局は誰でも無料で学べるデータサイエンスオンライン講座誰でも使える統計オープ/1308782831285742/",
     "https://www.facebook.com/tmlibrary/photos/122水午後3４時統計情報の調べ方都立中央図書館独統計センターより講師をお招きする特別セミナーです政府統計ポータルサイトe-stat地図で見る統計jstat-m/3138928889455242/",
-    "https://www.facebook.com/stat.japan/posts/11月11日総務省統計局からお知らせします誰でも使える統計オープンデータ受講者募集開始令和8年１月13日開講総務省統計局は誰でも無料で学べるデータサイエンスオン/1261291686034857/",
     "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -707,11 +672,11 @@
    "results": [
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
+    "https://www.e-stat.go.jp/api/api-dev/how_to_use",
     "https://www.lib.u-tokyo.ac.jp/ja/library/contents/database/342",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "https://blog.kurashiq.com/estat-first-search-guide/",
-    "https://www.e-stat.go.jp/help/operation",
-    "https://www.e-stat.go.jp/usageguide"
+    "https://www.e-stat.go.jp/help/operation"
    ],
    "engines": [
     "ddgs:google"
@@ -722,148 +687,39 @@
    "query": "大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API） X 投稿",
    "results": [
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://www.lib.u-tokyo.ac.jp/ja/library/contents/database/342",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
+    "https://www.lib.u-tokyo.ac.jp/ja/library/contents/database/342",
     "https://blog.kurashiq.com/estat-first-search-guide/",
     "https://www.kanagawa-u.ac.jp/library/search/database/list/article0702_01648",
     "https://www.e-stat.go.jp/help/operation",
     "https://www.e-stat.go.jp/usageguide"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "e-Stat user guide university library statistics code database API site:linkedin.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.linkedin.com/pulse/api-integration-database-fundamentals-sonika-uppalapati-ko7fc",
+    "https://www.linkedin.com/advice/3/how-do-you-manage-statistical-code-data-files-skills-statistics",
+    "https://in.linkedin.com/company/api-university",
+    "https://ca.linkedin.com/in/wusam2997",
+    "https://gh.linkedin.com/in/abdul-ganiu-a-banyala-426813228",
+    "https://in.linkedin.com/company/statpearls",
+    "https://gh.linkedin.com/in/isaaccoffie"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ14頁・検索12回）"
  },
- "new_this_run": {
-  "一次情報の探し方": [
-   {
-    "quote": "APIの使い方 | 政府統計の総合窓口(e-Stat)−API機能",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "以下のサンプルではe-Stat-APIの使用方法と、統計データ取得APIから取得したデータをもとにグラフの表示を行います",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://api.e-stat.go.jp/rest/2.0/app/getStatsData?appId=<アプリケーションID>&statsDataId=C0020050213000&cdCat01=%23A03503",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計データ取得APIの場合は、次のリクエストURLとなります",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://api.e-stat.go.jp/rest/<バージョン>/app/getStatsData?<パラメータ群>",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://api.e-stat.go.jp/rest/<バージョン>/app/json/getStatsData?<パラメータ群>",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計データ取得APIのデータの種類については次のページを参照ください",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "政府統計の総合窓口(e-Stat)API 仕様／2. APIの利用方法／2.3. 統計データ取得",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "たとえば検索データ種別「社会・人口統計体系」の老年人口割合［65歳以上人口]のコードは、",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "政府統計の総合窓口（e-Stat）で公開されているAPIを使う際には、アプリケーションIDが必要です",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "アプリケーションIDの発行には政府統計の総合窓口（e-Stat）のユーザ登録が必要です",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "政府統計の総合窓口（e-Stat）ユーザ登録",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "東京都の社会・人口統計体系のデータの場合は、C0020050201300を指定します",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "社会・人口統計体系のデータには、多くの項目が存在します",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "統計データ取得APIのパラメータについては次のページを参照ください",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "APIの使い方 | 政府統計の総合窓口(e-Stat)−API機能",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "API機能の使用方法をサンプルコードを交えて紹介しています",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "以下のサンプルではe-Stat-APIの使用方法と、統計データ取得APIから取得したデータをもとにグラフの表示を行います",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "政府統計の総合窓口(e-Stat)API 仕様／2. APIの利用方法／2.3. 統計データ取得",
-    "url": "https://www.e-stat.go.jp/api/api-dev/how_to_use",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 14,
+ "new_this_run": {},
+ "runs": 15,
  "first_researched_at": "2026-11-05T19:15:12.890857+00:00"
 }
