@@ -1,0 +1,920 @@
+{
+ "name": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
+ "en": "industry statistics vs product statistics specialization ratio coverage ratio census manufacturing methodology reclassification",
+ "aliases": [
+  "primary product specialization ratio coverage ratio census",
+  "establishment reclassification year to year comparison manufacturing census",
+  "工業統計 産業格付け 変更 年次比較 注意",
+  "経済センサス 産業分類 格付け 変更 影響"
+ ],
+ "context": "探し先",
+ "kind": "market",
+ "researched_at": "2026-11-08T20:50:54.823010+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "2 For example, the Bureau of Economic Analysis (BEA) incorporated R&D expenditures as investment in the National Income",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "process. In this case, sales receipts are used (BEA, 2013).",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "series become gradually larger. The largest differences are observed from 2002 forward. For example,",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "trade adjustment in recent years. For example, in 2008 about 15 percent of the firms reassigned from",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Establishments in the 2007 Economic Census are divided into those sent report forms and those not sent report forms. The coverage of and the method of obtaining census information from each are described below:",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ASM sample establishments. This group accounts for approximately 18 percent of all manufacturing establishments. The ASM panel covers all the units of large manufacturing establishments, as well as a sample of the medium and smaller establishments. The probability of selection was proportionate to size. For more information, see the methodology text in the ASM file.",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A more detailed examination of census methodology is presented in the",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "www.census.gov/econ/census07/www/methodology/history.html",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "No direct measurement of these effects has been obtained except for estimation for missing or misreported data, as by the percentages shown in the tables. Precautionary steps were taken in all phases of the collection, processing, and tabulation of the data in an effort to minimize the effects of nonsampling errors.",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "www.census.gov/econ/census07/www/methodology/",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "industries. Our main contributions to the literature are a consistent methodology and NAICS‐based",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3 These adjustments to the classification methodology rose from efforts to meet the needs of data users as the structure of U.S.",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This section provides background on industry classification methods, those historically used by the NSF,",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For multi‐unit firms with diverse production activities, a NAICS framework can be implemented",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "in ways that lead to different results. To our knowledge, there is no consensus on a single method to",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the U.S. Census Bureau by Robert Parker reviews five alternative methods that are used within the",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Federal Statistical System to classify enterprises, and concludes that the methods differ in how",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "method is used for multinational corporation data, assigning firms to one industry by a three stage",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "based on an aggregation of domestic establishment payroll data. The method is described as follows",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For each enterprise, the classification methodology starts by excluding nonoperating",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The major changes to NSF’s industry classification methodology between 1980 and the",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Table 1: Significant Changes in the Method for Assigning R&D‐Performing Firms to Industries",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Hierarchical payroll method was introduced. NSF also manually reviewed firms'",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1992. This timing corresponds with the “unfreezing” of industry codes in the classification methodology",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This section discusses the three main micro‐data sets and the methodology to create a consistent set of",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimates of data for these small establishments were developed using industry averages in conjunction with the administrative information. The value of shipments and cost of materials were not distributed among specific products and materials for these establishments but were included in the products and materials \"not specified by kind\" (nsk) categories.",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We then evaluate our estimates by comparing them to estimates of R&D expenditures obtained",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Innovation Survey (BRDIS) data. Our estimates are comparable to the BRDIS tabulation for computer and",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "electronic product manufacturing. Relative to BRDIS for 2008, we somewhat underestimate R&D",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "expenditures for chemical manufacturing and overestimate R&D expenditures for other manufacturing",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the estimates in the service‐and‐trade‐adjusted series are slightly higher than the corresponding",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "estimates in the payroll‐method series. However, from 1992 to 2001 the differences between the two",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the difference between the estimates of company and other funds for R&D performance is about 26",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "significantly higher than the payroll‐method series. For instance, in 2002, the estimate in the service‐",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and‐trade‐adjusted series is about 7 billion dollars higher than the estimate in the payroll‐method series,",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "estimates again become moderately higher than the payroll‐method series. The service‐and‐trade‐",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "pharmaceutical and medicine manufacturing. As shown, the estimates in the service‐and‐trade‐adjusted",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "series are nearly identical to the estimates in the payroll‐method series prior to 1992. However, from",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "years 1996 to 2008. For instance, in 1999, the adjusted estimate was 20 billion dollars higher than the",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "payroll‐method estimate; in 2003, the adjusted series was 11 billion dollars higher than the payroll‐",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the firm’s R&D. We compare our estimates to the estimates produced from the lines of business",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/study_room358/n/n63aeb2cdb96b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wish11_11/n/n7ff1b3ec8dfd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yajirushi_works/n/n93360ad7b5b2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/engawa_koushi/n/nc835437a1504",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/__name___/n/n68802c0bb801",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/stats47/n/n5d86476e9c73",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n76a547c39dd9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/yusyutu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-008.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/tsujike/n/nc349561cc3ae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/srch/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/blog/9468/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/data/io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/kaisi/1214-50/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/2008wg/wg4/wg4_4/siryou_4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.library.pref.tottori.jp/business/cat1/post-8.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/guide/kty2015/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.lib.unc.edu/industry/census-ratios",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://guides.library.georgetown.edu/c.php?g=75621&p=487531",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/ces/naics/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.emich.edu/c.php?g=187964&p=1242069",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） site:note.com",
+   "results": [
+    "https://note.com/study_room358/n/n63aeb2cdb96b",
+    "https://note.com/wish11_11/n/n7ff1b3ec8dfd",
+    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
+    "https://note.com/engawa_koushi/n/nc835437a1504",
+    "https://note.com/__name___/n/n68802c0bb801",
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/hirokimiyano/n/n7a3d09685940",
+    "https://note.com/e_dao/n/nabf2c1631fbe",
+    "https://note.com/tatsuya_sabato/n/n76a547c39dd9",
+    "https://note.com/wish11_11/n/na067eaf10d1b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） note",
+   "results": [
+    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
+    "https://note.com/tatsuya_sabato/n/n76a547c39dd9",
+    "https://www.customs.go.jp/yusyutu/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-008.pdf",
+    "https://note.com/tsujike/n/nc349561cc3ae",
+    "https://www.mof.go.jp/faq/statistics/12ga.htm",
+    "https://www.e-stat.go.jp/classifications/terms",
+    "https://note.com/wish11_11/n/nf03892fd8560"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） やり方",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://eigyo-mfg.com/blog/9468/",
+    "https://www.youtube.com/watch?v=wiGOIilOdoU",
+    "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "https://www.stat.go.jp/",
+    "https://www.e-stat.go.jp/",
+    "https://www.soumu.go.jp/toukei_toukatsu/data/io/",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html",
+    "https://www.kanzei.or.jp/osaka/teachme_top/teachme_03/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） 事例",
+   "results": [
+    "https://www.customs.go.jp/yusyutu/",
+    "https://www.meti.go.jp/statistics/tyo/iip/gaiyo.html",
+    "https://www.e-stat.go.jp/classifications/terms/10",
+    "https://eigyo-mfg.com/blog/9468/",
+    "https://www.jsme.or.jp/kaisi/1214-50/",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/2008wg/wg4/wg4_4/siryou_4.pdf",
+    "http://www.library.pref.tottori.jp/business/cat1/post-8.html",
+    "https://www.stat.go.jp/info/guide/kty2015/service.html",
+    "https://www.youtube.com/watch?v=wiGOIilOdoU",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0402-1.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "industry statistics vs product statistics specialization ratio coverage ratio census manufacturing methodology reclassification",
+   "results": [
+    "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "https://guides.lib.unc.edu/industry/census-ratios",
+    "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "https://guides.library.georgetown.edu/c.php?g=75621&p=487531",
+    "https://www.youtube.com/watch?v=jyEDqnOev0c",
+    "https://www.bls.gov/ces/naics/",
+    "https://guides.emich.edu/c.php?g=187964&p=1242069",
+    "https://researchguides.library.syr.edu/c.php?g=258104&p=1725771",
+    "https://www.prnewswire.com/news-releases/census-bureau-completes-release-of-all-364-manufacturing-reports-from-economic-census-industry-series-277803591.html",
+    "https://www.census.gov/data/experimental-data-products/trade-by-industry-and-product-statistics.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
+   "results": [
+    "https://note.com/engawa_koushi/n/nc835437a1504",
+    "https://note.com/hirokimiyano/n/n7a3d09685940",
+    "https://note.com/pure_shrew4975/n/n99bdf47ec4ae",
+    "https://note.com/tatsuya_sabato/n/n76a547c39dd9",
+    "https://note.com/gentle_otter9347/n/nb3cfad85f6fc",
+    "https://note.com/_cip/n/n6a8d35af561e",
+    "https://note.com/iceman_23/n/n0973f6cfc852",
+    "https://note.com/aosakasakas/n/ne17b609067f4",
+    "https://note.com/hirokimiyano/n/ne0165f725d77",
+    "https://note.com/hirokimiyano/n/n1cda3e178f43"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
+   "results": [
+    "https://x.com/aimatv_jp/status/2118234767670083801",
+    "https://x.com/ReportOcean_JP/all",
+    "https://x.com/KagawaTomo/status/2110523688902873223",
+    "https://x.com/monozukuri_ito",
+    "https://x.com/tsurezure_lab/article/2092974256254824749",
+    "https://x.com/luigi_jpn/article/2066658370912915520",
+    "https://x.com/kanemonfin/status/2097180639393095936",
+    "https://x.com/marikomabuchi/status/2057244749145522432",
+    "https://x.com/POLISTRIDE_JP/status/2104222287147028495",
+    "https://x.com/kak34689984/status/2059620812198756710"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
+   "results": [
+    "https://jp.linkedin.com/posts/juliuslillyjapan_%E6%97%A5%E6%9C%AC-%E8%BC%B8%E5%87%BA-%E8%A3%BD%E9%80%A0%E6%A5%AD-activity-7517963198713528320-IH1c",
+    "https://jp.linkedin.com/in/kotaro-muramoto-jobsjapan",
+    "https://jp.linkedin.com/in/%E7%B4%98%E4%B9%9F-%E5%A4%A7%E9%87%8E-49b23818a",
+    "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
+    "https://www.linkedin.com/pulse/品目元帳-敏敬-冨田-ifr0c/",
+    "https://jp.linkedin.com/pulse/mastering-inventory-management-aggregate-vs-item-level-gipe-sela-3aftc?tl=ja",
+    "https://jp.linkedin.com/posts/okadamasahiro_podcast-ポッドキャスト-koelab-activity-7227230859760656385-Dh7I",
+    "https://jp.linkedin.com/pulse/comprehensive-roadmap-learning-statistics-from-basics-abd-ur-rahman-dalff?tl=ja",
+    "https://jp.linkedin.com/pulse/real-time-engineering-applications-statistics-methods-k-palanivel-qzwyc?tl=ja",
+    "https://jp.linkedin.com/posts/anfini_sap-品目マスタ概要テーブル構造の解説マスタ登録例主要項目テーブル-activity-7237663334127280130--Lv2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
+   "results": [
+    "https://www.facebook.com/groups/281769248591787/",
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/globalbizgate/photos/貿易よもやま話-通関士検定試験対策編品目表金の統計細分の新設-輸出申告輸入申告の際に用いられる品目番号は必要に応じて改正が行われます令和8年4月1日改正の1つと/1243974517882723/",
+    "https://www.facebook.com/nobuhiro.suzuki.353/photos/1028-日農-今よみ①統計の読み方が理解できていない②集約化は解決策ではない③また生産を絞り込んだら元の木阿弥④ピントのずれた植物工場とお米券でなく安心して増/24879142405081185/",
+    "https://www.facebook.com/GuitarShelter/posts/輸入時の通関に使う申請書に輸入統計品目統計番号ってのが必要なんですがたとえばギターで調べると鍵盤以外の弦楽器弓で弾くもの以外ギターってなりますでもこれとは別のと/1836394936451903/",
+    "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/",
+    "https://www.facebook.com/nejibane.news/posts/毎週号の新聞やウェブニュースサイトの統計データに掲載している企業物価指数の品目を大幅に拡大しました読者様より要望の多かった品目を追加して段ボールや紙箱樹脂油脂類/1585494029579735/",
+    "https://www.facebook.com/smrjpr/photos/excelで実践品質管理入門中小企業向けの少人数制オンライン研修製造業等における品質管理の基本統計的なデータの読み方や扱い方を学び自社データを用いたexcelで/1417682420397703/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） note 社長",
+   "results": [
+    "https://note.com/study_room358/n/n63aeb2cdb96b",
+    "https://note.com/tsujike/n/nc349561cc3ae",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-008.pdf",
+    "https://www.meti.go.jp/statistics/tyo/seidou/commodities.html",
+    "https://www.customs.go.jp/toukei/sankou/code/code.htm",
+    "https://note.com/nanto_econ",
+    "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo2.pdf",
+    "https://www.fedex.com/ja-jp/small-business/getting-started/customs-101-hs-code.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://tf-online.jp/経営に役立つ統計データの読み方と産業政策の基/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/syoudou/result-4.html",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.pref.mie.lg.jp/DATABOX/25660002652.htm",
+    "https://www.e-stat.go.jp/classifications/terms/10",
+    "https://www.jsme.or.jp/kaisi/1214-50/",
+    "https://www.stat.go.jp/",
+    "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo2.pdf",
+    "https://learning.sap.com/courses/configuring-the-essential-functions-of-sap-global-trade-services-jp/%E7%B5%B1%E8%A8%88%E5%93%81%E7%9B%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A8%E9%96%A2%E7%A8%8E%E7%8E%87%E3%81%AE%E6%9B%B4%E6%96%B0",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0402-1.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "industry statistics vs product statistics specialization ratio coverage ratio census manufacturing methodology reclassification site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/eva-balint",
+    "https://ca.linkedin.com/in/paul-minho-kim",
+    "https://ca.linkedin.com/in/aczekajlo",
+    "https://ca.linkedin.com/in/ganesh-pachava",
+    "https://it.linkedin.com/in/davide-lezzi-2001",
+    "https://www.linkedin.com/pulse/product-aggregation-vs-specialization-john-satti-axwxc",
+    "https://www.linkedin.com/pulse/how-specialization-drives-efficiency-quality-srimathy-rajagopalan-jddoc",
+    "https://pe.linkedin.com/posts/theeran-a-4b2433191_optimising-the-man-to-machine-ratio-industry-activity-7274341227787948033-NoL2",
+    "https://www.linkedin.com/advice/3/how-can-statistical-methods-improve-manufacturing-0jyof",
+    "https://www.linkedin.com/pulse/statistics-pharmaceutical-manufacturing-quality-md-abdur-rakib-rz0uc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "2 For example, the Bureau of Economic Analysis (BEA) incorporated R&D expenditures as investment in the National Income",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "process. In this case, sales receipts are used (BEA, 2013).",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "series become gradually larger. The largest differences are observed from 2002 forward. For example,",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "trade adjustment in recent years. For example, in 2008 about 15 percent of the firms reassigned from",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Establishments in the 2007 Economic Census are divided into those sent report forms and those not sent report forms. The coverage of and the method of obtaining census information from each are described below:",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ASM sample establishments. This group accounts for approximately 18 percent of all manufacturing establishments. The ASM panel covers all the units of large manufacturing establishments, as well as a sample of the medium and smaller establishments. The probability of selection was proportionate to size. For more information, see the methodology text in the ASM file.",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A more detailed examination of census methodology is presented in the",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "www.census.gov/econ/census07/www/methodology/history.html",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "No direct measurement of these effects has been obtained except for estimation for missing or misreported data, as by the percentages shown in the tables. Precautionary steps were taken in all phases of the collection, processing, and tabulation of the data in an effort to minimize the effects of nonsampling errors.",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "www.census.gov/econ/census07/www/methodology/",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "industries. Our main contributions to the literature are a consistent methodology and NAICS‐based",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3 These adjustments to the classification methodology rose from efforts to meet the needs of data users as the structure of U.S.",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This section provides background on industry classification methods, those historically used by the NSF,",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For multi‐unit firms with diverse production activities, a NAICS framework can be implemented",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "in ways that lead to different results. To our knowledge, there is no consensus on a single method to",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the U.S. Census Bureau by Robert Parker reviews five alternative methods that are used within the",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Federal Statistical System to classify enterprises, and concludes that the methods differ in how",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "method is used for multinational corporation data, assigning firms to one industry by a three stage",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "based on an aggregation of domestic establishment payroll data. The method is described as follows",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For each enterprise, the classification methodology starts by excluding nonoperating",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The major changes to NSF’s industry classification methodology between 1980 and the",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Table 1: Significant Changes in the Method for Assigning R&D‐Performing Firms to Industries",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Hierarchical payroll method was introduced. NSF also manually reviewed firms'",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1992. This timing corresponds with the “unfreezing” of industry codes in the classification methodology",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This section discusses the three main micro‐data sets and the methodology to create a consistent set of",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimates of data for these small establishments were developed using industry averages in conjunction with the administrative information. The value of shipments and cost of materials were not distributed among specific products and materials for these establishments but were included in the products and materials \"not specified by kind\" (nsk) categories.",
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We then evaluate our estimates by comparing them to estimates of R&D expenditures obtained",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Innovation Survey (BRDIS) data. Our estimates are comparable to the BRDIS tabulation for computer and",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "electronic product manufacturing. Relative to BRDIS for 2008, we somewhat underestimate R&D",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "expenditures for chemical manufacturing and overestimate R&D expenditures for other manufacturing",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the estimates in the service‐and‐trade‐adjusted series are slightly higher than the corresponding",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "estimates in the payroll‐method series. However, from 1992 to 2001 the differences between the two",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the difference between the estimates of company and other funds for R&D performance is about 26",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "significantly higher than the payroll‐method series. For instance, in 2002, the estimate in the service‐",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and‐trade‐adjusted series is about 7 billion dollars higher than the estimate in the payroll‐method series,",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "estimates again become moderately higher than the payroll‐method series. The service‐and‐trade‐",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "pharmaceutical and medicine manufacturing. As shown, the estimates in the service‐and‐trade‐adjusted",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "series are nearly identical to the estimates in the payroll‐method series prior to 1992. However, from",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "years 1996 to 2008. For instance, in 1999, the adjusted estimate was 20 billion dollars higher than the",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "payroll‐method estimate; in 2003, the adjusted series was 11 billion dollars higher than the payroll‐",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the firm’s R&D. We compare our estimates to the estimates produced from the lines of business",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-08T20:50:54.823010+00:00"
+}

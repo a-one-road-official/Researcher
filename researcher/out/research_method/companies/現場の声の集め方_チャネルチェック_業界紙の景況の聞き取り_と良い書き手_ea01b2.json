@@ -8,7 +8,7 @@
  ],
  "context": "探し先・書き手",
  "kind": "market",
- "researched_at": "2026-11-08T13:08:57.445083+00:00",
+ "researched_at": "2026-11-08T20:59:12.291829+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -258,6 +258,32 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "Advantages Primary source, direct participants ’/",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "chy levels (primary sources), in addition to outside experts",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The remaining edge in fundamental equity research is increasingly a human one. Not the ability to build a better model, but the ability to have better conversations — with the people who sit one or two steps away from the company being analyzed and who have a ground-level view of what is actually happening that no quarterly filing captures.",
+    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Human intelligence from channel sources is most powerful when it can be reconciled against quantitative data that provides independent corroboration or challenge. Trade data — customs records, shipping databases, and import/export filings across relevant jurisdictions — provides exactly that corroboration for companies with significant physical product flows.",
+    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "puts forward concrete advice addressing this technique ’s inherent challenges of selecting experts, experts ’ personal biases, and the",
@@ -410,6 +436,62 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "interview is close to zero; it needs to be cross-checked",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "with other interviews or data streams ( “triangulation,”",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "provides “an estimate of how many respondents believe",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "External and Internal Triangulation",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2020). The precondition for this triangulation is that the",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In addition to the established triangulation of di ﬀerent",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "triangulation”—meaning the organized cross-checking of",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Semi-structured interviews typically last between 30 and 90 minutes. The key is balancing enough time for participants to elaborate while avoiding fatigue. If you have many questions, consider piloting the interview first to estimate timing.",
+    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Absolutely. MAXQDA allows integration of semi-structured interview data with other data, such as focus groups, open-ended survey responses, and field notes. Combining data sources enhances triangulation and deepens interpretation.",
+    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "cases where the number of observations is low. Experts can",
@@ -555,110 +637,28 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Advantages Primary source, direct participants ’/",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "chy levels (primary sources), in addition to outside experts",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The remaining edge in fundamental equity research is increasingly a human one. Not the ability to build a better model, but the ability to have better conversations — with the people who sit one or two steps away from the company being analyzed and who have a ground-level view of what is actually happening that no quarterly filing captures.",
-    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Human intelligence from channel sources is most powerful when it can be reconciled against quantitative data that provides independent corroboration or challenge. Trade data — customs records, shipping databases, and import/export filings across relevant jurisdictions — provides exactly that corroboration for companies with significant physical product flows.",
-    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "interview is close to zero; it needs to be cross-checked",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "with other interviews or data streams ( “triangulation,”",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "provides “an estimate of how many respondents believe",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "External and Internal Triangulation",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2020). The precondition for this triangulation is that the",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In addition to the established triangulation of di ﬀerent",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "triangulation”—meaning the organized cross-checking of",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Semi-structured interviews typically last between 30 and 90 minutes. The key is balancing enough time for participants to elaborate while avoiding fatigue. If you have many questions, consider piloting the interview first to estimate timing.",
-    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Absolutely. MAXQDA allows integration of semi-structured interview data with other data, such as focus groups, open-ended survey responses, and field notes. Combining data sources enhances triangulation and deepens interpretation.",
-    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/ichihashi_log/n/nd3bb2b3ebabb",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/takesato126/n/ne07de1c17597",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/startday0/n/nd35924ef93ea",
+    "url": "https://note.com/ichihashi_log/n/nd3bb2b3ebabb",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/gonchan_kanri/n/nc82c8fdcb93c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startday0/n/nd35924ef93ea",
     "status": "ok",
     "method": "http"
    },
@@ -698,6 +698,11 @@
     "method": "http"
    },
    {
+    "url": "https://shokuba-mentalcare.com/management-feedback-systems-without-executives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://taikoban.app/whitepaper",
     "status": "ok",
     "method": "http"
@@ -718,17 +723,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.alpha-sense.com/resources/product-articles/channel-checks-market-insights-q3-2025/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://veridatainsights.com/expert-interviews-research/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.woozleresearch.com/blog/primary-research-for-investment-professionals-the-complete-guide-to-expert-calls-b2b-surveys-and-channel-checks/",
     "status": "ok",
     "method": "http"
    }
@@ -738,13 +743,13 @@
   {
    "query": "現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手 site:note.com",
    "results": [
-    "https://note.com/ichihashi_log/n/nd3bb2b3ebabb",
     "https://note.com/takesato126/n/ne07de1c17597",
-    "https://note.com/startday0/n/nd35924ef93ea",
+    "https://note.com/ichihashi_log/n/nd3bb2b3ebabb",
     "https://note.com/gonchan_kanri/n/nc82c8fdcb93c",
+    "https://note.com/startday0/n/nd35924ef93ea",
     "https://note.com/ichihashi_log/n/n756f282dee08",
     "https://note.com/shouhei9489/n/n9965ac71f6e6",
-    "https://note.com/logi_navi/n/n7fbbc3ccacca"
+    "https://note.com/hrbuddy/n/n273b14f47953"
    ],
    "engines": [
     "ddgs:google"
@@ -754,16 +759,16 @@
   {
    "query": "現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手 note",
    "results": [
-    "https://note.com/ichihashi_log/n/n756f282dee08",
     "https://note.com/takesato126/n/ne07de1c17597",
     "https://biz.tunag.jp/article/55649",
+    "https://note.com/ichihashi_log/n/n756f282dee08",
     "https://writing-interview.com/manufacturing-case-study-field-voice-writing-guide/",
     "https://flares.jp/columns/field-feedback-loop/",
     "https://www.consulnote.com/articles/communication/organizational-listening/",
     "https://bcj-co.jp/keiei28/consulting/knowhow469.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -773,10 +778,10 @@
     "https://biz.tunag.jp/article/55649",
     "https://writing-interview.com/manufacturing-case-study-field-voice-writing-guide/",
     "https://flares.jp/columns/field-feedback-loop/",
-    "https://www.consulnote.com/articles/communication/organizational-listening/",
     "https://note.com/takesato126/n/ne07de1c17597",
+    "https://www.consulnote.com/articles/communication/organizational-listening/",
     "https://bcj-co.jp/keiei28/consulting/knowhow469.html",
-    "https://taikoban.app/whitepaper"
+    "https://shokuba-mentalcare.com/management-feedback-systems-without-executives/"
    ],
    "engines": [
     "ddgs:bing"
@@ -795,7 +800,7 @@
     "https://taikoban.app/whitepaper"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -805,10 +810,10 @@
     "https://nextyn.com/articles/channel-check-methodology",
     "https://fieldsignalhq.com/resources/blog/channel-checks-a-pe-and-hedge-fund-research-methodology",
     "https://www.alpha-sense.com/solutions/channel-checks/",
-    "https://www.alpha-sense.com/resources/product-articles/channel-checks-market-insights-q3-2025/",
     "https://veridatainsights.com/expert-interviews-research/",
     "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
-    "https://insights.woozleresearch.com/blog/primary-research-for-investment-professionals-the-complete-guide-to-expert-calls-b2b-surveys-and-channel-checks/"
+    "https://insights.woozleresearch.com/blog/primary-research-for-investment-professionals-the-complete-guide-to-expert-calls-b2b-surveys-and-channel-checks/",
+    "https://insights.woozleresearch.com/blog/primary-research-for-hedge-fund-analysts-the-complete-guide-to-expert-calls-surveys-channel-checks-2/"
    ],
    "engines": [
     "ddgs:google"
@@ -820,11 +825,11 @@
    "results": [
     "https://note.com/ichihashi_log/n/nd3bb2b3ebabb",
     "https://note.com/startday0/n/nd35924ef93ea",
+    "https://note.com/takesato126/n/ne07de1c17597",
     "https://note.com/ichihashi_log/n/n756f282dee08",
     "https://note.com/gonchan_kanri/n/nc82c8fdcb93c",
-    "https://note.com/takesato126/n/ne07de1c17597",
-    "https://note.com/shouhei9489/n/n9965ac71f6e6",
-    "https://note.com/hrbuddy/n/n273b14f47953"
+    "https://note.com/hrbuddy/n/n273b14f47953",
+    "https://note.com/shouhei9489/n/n9965ac71f6e6"
    ],
    "engines": [
     "ddgs:google"
@@ -836,27 +841,27 @@
    "results": [
     "https://x.com/genbanokoe_jpn",
     "https://x.com/KIDpgkh/status/2114870821869310283",
+    "https://x.com/takeuchi_shacho/status/2035114660492456417",
     "https://x.com/chibakome1117/status/2068287748990288162",
     "https://x.com/kondo_shoichi/status/2073956703679529202",
-    "https://x.com/takeuchi_shacho/status/2035114660492456417",
-    "https://x.com/hasibiro_maga/status/2106573889879076894",
-    "https://x.com/K_JINKEN/status/2115439806952116300"
+    "https://x.com/takabayashiy/status/2054556316753187193",
+    "https://x.com/v_mx/status/1735667995563720778"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手",
    "results": [
+    "https://www.linkedin.com/news/story/声のする方に進化する-4315625/",
     "https://www.linkedin.com/pulse/現場の声を経営に活かす方法-嵩真-福田-ycp9c",
     "https://jp.linkedin.com/posts/innovationshk_経営判断における現場の声の扱い方-経営者として現場の声をどのように扱うかは非常-activity-7426380560744345600-KEPU",
     "https://jp.linkedin.com/pulse/listening-isnt-just-channel-its-capability-mindset-ia-ko-phd-rixke?tl=ja",
-    "https://www.linkedin.com/posts/洋平-勝藤-71032b25a_arr30億円を突破したチャネルトークの成長に貢献した3つの戦略その業界の-activity-7143622505553932289-gzkv",
     "https://jp.linkedin.com/pulse/how-review-your-internal-communication-channels-joanna-parsons-duoje?tl=ja",
     "https://jp.linkedin.com/posts/ntt-data-institute-of-management-consulting-inc-_保険会社における顧客の声を活用したcx向上の要諦-経営研レポート-ntt-activity-7420386114718445568-uHqt",
-    "https://jp.linkedin.com/posts/tomossy3_現場を知らずに語るな豊田章男の言葉と物流36年の現場エピソード-トラックドライバー-activity-7484366922621464576-brTJ"
+    "https://jp.linkedin.com/posts/yuichi-nakamura-97126339b_国家インフラとしての行政ai構想-現場の声を起点に法体系を再設計する学習-activity-7461860671098425345-agBK"
    ],
    "engines": [
     "ddgs:google"
@@ -869,29 +874,29 @@
     "https://www.facebook.com/hashtag/現場の声/",
     "https://www.facebook.com/groups/1372650526444989/",
     "https://www.facebook.com/kangorenmei/posts/日本看護連盟の常設会員アンケート現場の声をお聞かせくださいをリニューアルしました会員のみなさんがいまどんなことで困っているのかどんなことに関心があるのか是非お聞/427438412738104/",
-    "https://www.facebook.com/kagawa.doyukai/photos/出すだけで終わらせないあなたの1票が同友会の知恵になり自社の未来を照らすデータになる景況調査は単なる統計集計ではありません地域経営者のリアルな声を集めて可視化す/1444048134422091/",
     "https://www.facebook.com/kagawa.doyukai/photos/-景況調査登録-会員さんへ依頼-政策提言の根拠補助金税制規制緩和などの改善要求の裏付け資料中小企業の声としてメディアや政府機関への発信材料中小企業の実態把握中小/1123286799831561/",
+    "https://www.facebook.com/kagawa.doyukai/photos/出すだけで終わらせないあなたの1票が同友会の知恵になり自社の未来を照らすデータになる景況調査は単なる統計集計ではありません地域経営者のリアルな声を集めて可視化す/1444048134422091/",
     "https://www.facebook.com/nissoken.ss/videos/こまめに現場に足を運びつつも時には現場の介護業務や利用者の付添いを自ら積極的に行い現場スタッフ利用者家族からの信頼が厚く話しかけられやすい存在制度や他事業所の情/1247168079443265/",
-    "https://www.facebook.com/yamanouchi.hideki/videos/教育は変わるだから声の受け皿も変わらなければならない今回の一般質問では次期学習指導要領を踏まえた教育行政における現場の声の受け皿について質問を行います私は教育現/1012096014635471/"
+    "https://www.facebook.com/schoolvoice.project/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手 note 社長",
    "results": [
-    "https://note.com/ichihashi_log/n/n756f282dee08",
     "https://biz.tunag.jp/article/55649",
     "https://note.com/takesato126/n/ne07de1c17597",
-    "https://www.tonome.jp/blog/voice-of-employees",
-    "https://flares.jp/columns/field-feedback-loop/",
     "https://bcj-co.jp/keiei28/consulting/knowhow469.html",
+    "https://flares.jp/columns/field-feedback-loop/",
+    "https://www.tonome.jp/blog/voice-of-employees",
+    "https://note.com/ichihashi_log/n/n756f282dee08",
     "https://www.consulnote.com/articles/communication/organizational-listening/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -902,9 +907,9 @@
     "https://writing-interview.com/manufacturing-case-study-field-voice-writing-guide/",
     "https://flares.jp/columns/field-feedback-loop/",
     "https://note.com/takesato126/n/ne07de1c17597",
-    "https://taikoban.app/whitepaper",
     "https://bcj-co.jp/keiei28/consulting/knowhow469.html",
-    "https://www.consulnote.com/articles/communication/organizational-listening/"
+    "https://taikoban.app/whitepaper",
+    "https://note.com/logi_navi/n/n7fbbc3ccacca"
    ],
    "engines": [
     "ddgs:google"
@@ -916,10 +921,10 @@
    "results": [
     "https://www.linkedin.com/pulse/how-alphasense-changing-channel-checks-ai-sachin-patel-1ffvf",
     "https://pe.linkedin.com/advice/1/how-can-structured-interviews-help-you-assess-soft-skills-kffsc",
-    "https://pe.linkedin.com/pulse/9-essential-checks-questionnaire-pilot-test-carol",
     "https://ng.linkedin.com/company/the-channel-checkers",
-    "https://pl.linkedin.com/in/reyhan-zayidova-2803b6275",
     "https://business.linkedin.com/hire/resources/interviewing-talent/reference-check",
+    "https://pl.linkedin.com/in/reyhan-zayidova-2803b6275",
+    "https://pe.linkedin.com/pulse/9-essential-checks-questionnaire-pilot-test-carol",
     "https://www.linkedin.com/pulse/mastering-interview-process-techniques-assessments-pryor-m-s-l-m--llp9c"
    ],
    "engines": [
@@ -930,6 +935,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 20,
+ "runs": 21,
  "first_researched_at": "2026-11-05T07:49:18.721290+00:00"
 }

@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・247品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・250品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -12607,13 +12607,159 @@
 
 ## 電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112）（persistence of per-employee value added ranking Japanese contract metalworking industries census of manufacture）
 - 文脈：統計
+- 痛み・損（深さの印）：記載なし（読んだ35頁・検索18回）
+- 事業所数・社数：記載なし（読んだ35頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ35頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ35頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ35頁・検索18回）
+- 生産能力・設備：記載なし（読んだ35頁・検索18回）
+- 10年推移：記載なし（読んだ35頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ35頁・検索18回）
+
+## 電気めっき・金属用金型の製造品出荷額を産業編と品目編で並べる（工業統計の産業別統計表と品目別統計表・特化率とカバー率・別の業種の事業所が作る分・同じ欄で突き合わせない・4-113）（Japan census of manufacture industry vs product statistics shipments electroplating dies specialization coverage ratio）
+- 文脈：統計
+- 事業所数・社数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 社員数・平均社員数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 受注金額・加工賃収入：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 10年推移：
+  - 「<2021年実績> 以降」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2020年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2019年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2018年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成30(2018)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成29(2017)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成29(2017)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成28(2016)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成27(2015)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「最終更新日：2022.12.26」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 2017→2018年に1人あたり付加価値額の順位が動いた金属加工の細分類と理由（工業統計 実績2017・2018年・鋼材や原材料の値上げ・自動車向けの増減・持続の相関が0.8を下回った区間・4-112・4-113）（2018 Japan metalworking subindustries value added per employee change raw material steel price）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「■ 転職率（離職後１年以内に転職した人の全有業者に占める割合）2007,2012,2017」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 全国の転職者について前職の離職理由をみると、事業不振や先行き不安などの「会社都合」により前職を離職した」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「（注１） 前職の離職理由が「その他」及び「離職理由不詳」は除いている」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「また、「会社都合」には「会社倒産・事業所閉鎖」、」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 大企業を「個人的な理由」で離職した人の数（全国）」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 全国的に、大企業を「個人的な理由」（結婚・出産・育児・介護を除く）で離職する若者が増えている」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「（昇進できないこと、若いからという理由でチャレンジさせてもらえないことへの不満をもとにした離職はここに入ると考えられる）」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「しかし、廃業率も同8.6％と全国の7.6％を上回っている」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 府内の産業別にみると、製造業の開業率が他の産業と比べて際立って低いこと、また小売業では開業率、廃業率と」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「開業率（廃業率）は、「新設事業所数（廃業事業所数）を年平均にならした数」の「期首に」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「※廃業率＝（廃業事業所数÷調査間隔年（月数/12ヶ月））÷期首の事業所数×100」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「＝（廃業事業所数÷23/12）÷（「平成26年経済センサス」の事業所数）×100」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■年平均事業所開業率・廃業率（民営）（2014～2016年）」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+- 事業所数・社数：
+  - 「 中小企業数を都道府県別にみると、大阪府には約27万の中小企業が立地しており、府内全企業の99.6％を占め」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「大阪府における中小企業数は、東京都に次いで多く、全国の中小企業の7.6％を占めている」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 中小企業数・割合（民営・非一次産業2016）」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 大阪府の従業員4人以上の医療用機器・医療用品製造業の事業所数は63か所と、全国4番目となっている」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「※開業率＝（新設事業所数÷調査間隔年（月数/12ヶ月））÷期首の事業所数×100」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「＝（新設事業所数÷23/12）÷（「平成26年経済センサス」の事業所数）×100」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「※廃業率＝（廃業事業所数÷調査間隔年（月数/12ヶ月））÷期首の事業所数×100」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「＝（廃業事業所数÷23/12）÷（「平成26年経済センサス」の事業所数）×100」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 2017年の大阪府の新規上場企業数は5社」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 本社所在地別の新規上場企業数（2017年）」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「※母集団企業数が10,000以上の自治体のみ比較」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+- 社員数・平均社員数：
+  - 「■ 製造品出荷額等の特化係数（従業者４人以上）」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「産業計 人 4,459,814 9,204,818 3,874,260」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「農林水産業 人 4,748 16,937 19,057」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「鉱業 人 240 3,071 499」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「製造業 人 768,576 1,117,208 943,268」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「人 47,214 79,321 22,319」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「建設業 人 265,811 517,127 223,684」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「小売業 人 792,672 1,503,676 683,179」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「郵便業 人 316,947 542,214 256,364」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「宿泊・飲食サービス業 人 242,582 555,025 309,839」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「情報通信業 人 162,983 1,000,979 68,218」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「保険業 人 140,735 474,026 87,732」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「不動産業 人 108,957 276,312 49,197」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「人 390,958 1,122,881 373,899」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「公務 人 131,682 296,817 84,166」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+- 受注金額・加工賃収入：
+  - 「■ 製造品出荷額等の特化係数（従業者４人以上）」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「（注）製造品出荷額等の調査対象期間は、平成30年１月から12月」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「産業計 万円 856.9 789.5 1,060.64 964.4」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「農林水産業 万円 9.1 0.4 0.4 4.2」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「鉱業 万円 0.6 0.0 0.7 0.1」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「製造業 万円 188.7 133.7 91.0 369.9」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「食料品 万円 24.8 14.5 7.6 19.0」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「繊維製品 万円 2.7 2.0 1.4 3.8」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「紙加工品 万円 3.9 2.6 1.2 3.5」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「化学 万円 21.1 20.2 12.9 12.1」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「石炭製品 万円 5.7 7.2 0.6 5.9」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「土石製品 万円 5.3 2.3 1.7 8.4」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「一次金属 万円 10.6 9.1 2.1 17.7」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「金属製品 万円 10.4 14.3 3.5 16.5」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「汎用・生産用・業務用機械 万円 26.3 21.9 14.4 39.9」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+- 1人あたり・1社あたり金額：
+  - 「２．労働生産性」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「あたり付加価値額で2番目に高い産業となっている」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 医薬品製剤製造業の従業員１人あたり付加価値額（大阪府） ■ 医薬品製造販売業者数（2020年）」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「産業計 万円 856.9 789.5 1,060.64 964.4」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「農林水産業 万円 9.1 0.4 0.4 4.2」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「鉱業 万円 0.6 0.0 0.7 0.1」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「製造業 万円 188.7 133.7 91.0 369.9」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「食料品 万円 24.8 14.5 7.6 19.0」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「繊維製品 万円 2.7 2.0 1.4 3.8」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「紙加工品 万円 3.9 2.6 1.2 3.5」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「化学 万円 21.1 20.2 12.9 12.1」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「石炭製品 万円 5.7 7.2 0.6 5.9」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「土石製品 万円 5.3 2.3 1.7 8.4」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「一次金属 万円 10.6 9.1 2.1 17.7」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「金属製品 万円 10.4 14.3 3.5 16.5」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+- 生産能力・設備：
+  - 「企業が約3割ある一方で、設備投資を増加した府内企業は2020年度の11.8%から2021年度15.7%へと増加」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+- 10年推移：
+  - 「2022.3.17」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「比較できる2006～2018年度の増減をみると、＋0.77%となっている」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「また、2009～2018年度は＋0.95％で、東京も同程度の＋0.97％、愛知は＋1.94％となっている」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 府内総生産（名目）の推移 ■ 府内総生産の全国シェア」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 主要３都府県の2006年度と2018年度の産業構造を比較すると、いずれも第二次産業が微減し、同等の分、第」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 産業構造の動き①（第一次産業、第二次産業、第三次産業別の分析）2006～2018年度」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 主要３都府県の2006年度から2018年度への実質経済成長率に対する寄与度を比較すると、いずれも、保健衛生・社会事業の寄与度が最も大きい」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 産業構造の動き②（寄与度の分析・産業大分類別）2006～2018年度」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 産業構造の動き③（産業大分類別の構成比の分析）2006～2018年度」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 産業大分類別に府内総生産の構成比を見ると、2018年度では「製造業（16.9%）」と「卸売・小売業（16.5%）」が大きなウェイトを占めており、2006年度」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「と比較し、製造業は▲1.2ポイント、卸売・小売業は▲2.7ポイントと減少しているが、まだまだ活力は衰えていない状況」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 また、2018年度における「情報通信業（5.7%）」と「専門・科学技術、業務支援サービス業（9.1%）」について、東京では、製造業（8.6%）よりウェイトが」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「では、情報通信業は横ばい、専門・科学技術、業務支援サービス業は1.5ポイント増加しており、緩やかな成長がみられる」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「■ 産業構造の動き④（産業大分類別の分析）2006～2018年度」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+  - 「 産業大分類別の付加価値について2006年度から2018年度への伸びを比較すると、大阪府は、「保健衛生・社会事業」の伸びが最も大きく(＋37.1%)、次い」（https://www.city.osaka.lg.jp/fukushutosuishin/cmsfiles/contents/0000561/561923/02shiryou2.pdf）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査の4〜29人の推計の標準誤差率（標本誤差の表・細分類×規模・15%を超える区分を束ねる・4-105・4-113）（Economic Structure Actual Survey manufacturing sampling error standard error rate small establishments）
+- 文脈：統計
+- 10年推移：
+  - 「January 2022」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「January 21, 2022」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「imum wages to macroeconomic wage dynamics (Kawaguchi and Mori, 2021; Hoshi and」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「Kashyap, 2020). Given the importance of wage statistics for both policy makers and re-」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「2See Higo et al. (2020) for an overview of the procedural flaw in the implementation of the Monthly」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「group bias in the US CPS, Krueger et al. (2017) also refer to bias in the UK and Canadian counterparts.」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「The European Commission (2020), which tabulates the time series of unit non-response rates from 2014」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「to 2018 among 35 European countries, finds that the evolution of the non-response rate is different across」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「wages among non-respondents (Manski, 2016), with the bound substantially tightened by」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「generally difficult to obtain ex post . Dinardo et al. (2021) propose constructing a cred-」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「2019). Kline and Santos (2013) developed a statistic that characterizes the type of sample」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「Bollinger et al. (2019) concludes that the sample selection bias of the CPS is non-ignorable」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「Between 2012 and 2017, 21 percent of establishments in the BSWS were sampled twice」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「or more, and 14 percent in the SSPS were sampled at least twice between 2012 and 2019.」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
+  - 「https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/dl/20210622-detail-06.pdf for the detailed sampling probability of」（https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf）
 - 痛み・損（深さの印）：記載なし（読んだ37頁・検索18回）
 - 事業所数・社数：記載なし（読んだ37頁・検索18回）
 - 社員数・平均社員数：記載なし（読んだ37頁・検索18回）
 - 受注金額・加工賃収入：記載なし（読んだ37頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ37頁・検索18回）
 - 生産能力・設備：記載なし（読んだ37頁・検索18回）
-- 10年推移：記載なし（読んだ37頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ37頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）

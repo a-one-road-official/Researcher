@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・258品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・260品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -92,38 +92,41 @@
 ## 複数の情報源を突き合わせる三角測量（トライアンギュレーション）（triangulation multiple sources research）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「プロンプト構造化（RCOSフレームワーク）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「プロンプトの工夫、ロールの付与、定型文の自動化、悪魔の代弁者モード――」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「３つのAIに異なる立場で議論させる（法廷型）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「法廷型ディベートモデル「PROClaim」」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「LLM-as-a-Judge（裁判官としてのLLM）フレームワーク」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「」により、詳細な手順を指示しなくても高精度なタスク達成が可能です」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「■ 「LLM審判」実装の３ステップ」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「これを個人の意思決定に応用する最もシンプルな方法が、以下の３ステップです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【ステップ１】１つのAIで応答を生成する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【ステップ２】その応答をコピーし、別のAIに評価させる」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【ステップ３】評価結果を踏まえて、再質問する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【ステップ１】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【ステップ２】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【ステップ３】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【テクニック２】 ３つのAIを「議論」させる 法廷型ディベート」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「・業務改革におけるステークホルダーを、役職だけでなく「業務・知識・影響・決裁」の観点から特定する方法」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「・関係者の関心・影響力・協力度・必要情報に応じて、調査・合意形成の方法を変える方法」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「・ヒアリング、現場観察、資料、システムログを組み合わせて調査計画を作る実務手順」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「例えば、EC責任者に「受注確認はどのような仕事か」と尋ねると、公式手順や管理指標を説明してもらえる」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「③ 実際に業務を遂行する人：例外処理、暗黙知、手戻りや実際の操作手順を知る担当者」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「所属、業務役割、関心事項、影響範囲、参加方法を整理する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「・調査計画表：何を、誰に、いつ、どの方法で確認するか」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「4．ステークホルダー分析の進め方」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「【ステップ1】改革目的・対象範囲・成功指標を確認する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「【ステップ2】対象の業務を端から端まで仮分解する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「【ステップ3】各工程の実行者・管理者・連携先を挙げる」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「組織図、役割分担表、手順書、会議体、業務システムの管理部門から候補者を抽出する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「【ステップ4】役割・関心・必要情報・影響を整理する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「【ステップ5】関係者の参加方法と優先順位を定める」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「意思決定者には目的・判断条件の確認、実行担当者にはインタビューと操作観察、IT担当にはデータ定義・抽出条件の確認など、目的に合わせた方法を採用する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
 - 突き合わせ・推定：
-  - 「【テクニック１】メタ・クロスチェック」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【テクニック４】真実の三角測量」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「複数LLMエージェントによる議論検証「DebateCV」」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「知的誠実さが極めて高く、論理的な矛盾を突く能力に長けています」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「」（Constitutional AI）による自己検証能力により、ユーザーへの忖度が最も少ないのが特徴です」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「シコファンシー対策での役割】最新データ照合」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「まずはClaudeにアイデアを投げ、「前提の矛盾」や「隠れたリスク」を徹底的に洗い出させます」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【テクニック１】 メタ・クロスチェック」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「■ なぜ「別のAI」によるクロスチェックが必要なのか？」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「なぜ、1つのAIに「自分の回答を見直して（Self-Criticism）」と指示するのではなく、わざわざ「別のAI」にクロスチェックさせる必要があるのでしょうか？」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「１つのAIの追従を、別のAIの批判で中和する――これが「メタ・クロスチェック」の核心です」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「■ 上級者の応用 「双方向メタ・クロスチェック」」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「■ DebateCV（2025年） 議論駆動型検証」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「」（真実を議論する：複数の大規模言語モデルエージェントによる議論駆動型主張検証）は、複数のLLMに議論させて情報の真偽を検証するフレームワーク「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「単一のLLMは複雑で多面的な事象の検証に弱い」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「・論点・未確認事項一覧：情報不足や矛盾がどこにあるか、追加確認が必要かを残す」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「これらを一つの表に無理に詰め込むと、担当者の変更とデータ取得状況、仮説の検証状態などが追いにくくなる」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「異なる方法で得た情報を突き合わせることを、ここでは三角測量という」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「例えば「管理者は処理を3分と認識」「現場では決済エラー時に15分かかる」「ログには手動確認の時間が残らない」という違いがあった場合、それを矛盾のまま捨てない」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「調査論点・仮説を整理する：工数、手戻り、例外、権限、システム連携などに分解する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「論点と必要証拠を結びつける：「確認したい」だけでなく、何で検証するかを書く」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「Q-02：在庫引当失敗／発生率と再確認の原因／EC・物流・IT／ログ定義確認＋例外観察／第1〜2週／結果は原因仮説台帳へ反映／ステータス：取得条件確認中」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「月間受注2,000件、1件12分、月間400時間は検証前の仮置きのベースラインである」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「・経理・決済担当者：決済エラー、返金・照合処理との境界」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「「連携APIが原因」という説明は、検証できるまでCとして扱う」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「→ 手順書の版・更新日を確認し、現場と照合する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「→ イベント定義、欠損、タイムスタンプ、手作業を検証する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「→ 発言・確認済み事実・仮説・未取得を分ける」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「□ 未取得や矛盾がある場合の追加確認方法を定めたか」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「改革の意思決定に必要な問いがあり、その問いを検証するのに必要な人・情報・方法が対応づけられ、調査に抜けがないことだ」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
 - 一次情報の探し方：
+  - 「意思決定者には目的・判断条件の確認、実行担当者にはインタビューと操作観察、IT担当にはデータ定義・抽出条件の確認など、目的に合わせた方法を採用する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「下記A社のインタビュー人数は、調査工程を練習するための仮置きであり、統計的な代表性や業務全容の網羅を保証するものではない」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「https://www.iiba.org/contentassets/68ac5649fc5248739a107fd08446cc08/task-card-plan-stakeholder-engagement.pdf」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
   - 「３つのうち「多数派の判断」を、初期仮説として採用する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「最も感度の高いセンサーが１つでも反応したら、それに従う」のが統計的・論理的な最適解」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「」で平均化・相殺し、機械学習の理論に基づいて統計的な信頼性を飛躍的に向上させるアプローチです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
@@ -136,10 +139,12 @@
   - 「のデータを集めた上で統計的に処理することによっ」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
   - 「おいては，個人レヴェルのデータを統計的な処理に」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
   - 「それらの方法の採用は，実り少ないものとなるであ」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
-  - 「そして，経験科学が採用している因果法則とい」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
-  - 「（量的アプローチ）を採用してクラスを扱うとき」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
-  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 失敗・落とし穴：
+  - 「業務改革の最初の失敗は、改善策の検討時ではなく、現状を調べる段階で起こることがある」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「一方、実際に受注処理をしている担当者に聞くと、返品・支払エラー・在庫引当失敗といった例外対応が見つかるかもしれない」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「Q-02：在庫引当失敗／発生率と再確認の原因／EC・物流・IT／ログ定義確認＋例外観察／第1〜2週／結果は原因仮説台帳へ反映／ステータス：取得条件確認中」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「10．よくある失敗と防止策」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「失敗⑤ インタビューの発言を事実と断定する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
   - 「ChatGPTに『すごい！』と褒められた人へ あなたの判断は静かに歪められている 『シコファンシー』という誰も警告してくれない罠 【全１１回の１０】｜なば」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「ChatGPTに『すごい！』と褒められた人へ あなたの判断は静かに歪められている 『シコファンシー』という誰も警告してくれない罠 【全１１回の１０】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「上記を踏まえると、シコファンシーの罠を抜け出すための「３つのAI使い分け」は、以下のリレー形式が基本となります」（https://note.com/tomohiko_naba/n/n45c8146428ce）
@@ -150,27 +155,22 @@
   - 「異なるモデルは、それぞれ全く異なる種類のバイアスの弱点を持つ」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「という「第三者の審判」に持ち込んで初めて、その隠れた追従性や見落とし（共通バイアス）を客観的にあぶり出すことができるのです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「AIは与えられた役割（ポジション）にアンカリング（固執）しがちですが、役割を交換してもなお「同じ結論」（判決）に収束した場合、それはAIのバイアスではなく「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「「ダニング・クルーガー効果の罠」を、AI同士の監視の連鎖によって強制的に克服する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「「１つのAI」に単独で判定を任せるより、異なる個性とバイアスを持つ「多様なモデルのパネル」（複数AIの集合）を利用した方が、はるかに客観的で信頼性の高い結果が得られる」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「先ほど確認した通り、ChatGPT、Claude、Geminiはそれぞれ異なる個性とバイアス（追従の方向性）を持っています」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「1. 私の確証バイアスを中和する仕組み（友人フレーミングなど）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「【テクニック１】で触れたように、異なるAIは異なるバイアスを持っているため、設計者と実行者を分離することで、互いの死角が補完され追従抑制効果がさらに高まります」（https://note.com/tomohiko_naba/n/n45c8146428ce）
 - 実例：
-  - 「【ステップ３】評価結果を踏まえて、再質問する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「例えば、転職の判断について相談した場合、以下のような化学反応が起きます」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「「両論および最新の市場データを検討した結果、独立成功には『6ヶ月分の生活防衛資金』『代替不可能な専門性』『既存の顧客ネットワーク』の3条件が必要」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「■ 「アドバーサリアル・プロンプト連鎖」の実例」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「「１つのAI」に単独で判定を任せるより、異なる個性とバイアスを持つ「多様なモデルのパネル」（複数AIの集合）を利用した方が、はるかに客観的で信頼性の高い結果が得られる」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「その結果、これらの新しい集約法が、」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「その結果、AIを複数集めて多数決をとるだけで、単独で最も優秀なAIを使うよりも、「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「論文はこの驚異的な結果を受け、「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「（B）共通バイアスへの素早い収束（極めて警戒すべき結果）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「３つの観測点（AI）すべてが「共通の歪み」を持っている場合、測量結果もまた歪みます」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「最終的な決断を下し、その結果の責任を負うのは「あなた自身」（人間）である」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「全21のテクニック（第８回７つ＋第９回７つ＋第１０回７つ）、６つの心理学的根拠（第７回）、複数の実害事例（第３回〜第６回）、そして語源の歴史（第２回）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「結果としてF1スコアが最大65%も大幅向上し、ハルシネーション率の低下を確認」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「」（大規模言語モデルのアンサンブル：サーベイ） Ibomoiye Domor Mienye, Theo G. Swart、MDPI Information、2025年8月 （LLMにおけるアンサンブル学習（Bagging, Boosting, Voting等）の手法と、医療・法律・教育などの応用事例を体系的にまとめた包括的レビュー論文）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「」（2026年企業向けガイド） IntuitionLabs、2026年5月 （ChatGPT Enterprise、Claude Enterprise、Microsoft Copilot、Gemini Enterpriseの企業向け4大AIを、セキュリティ、コンプライアンス、導入事例、市場シェアの観点で網羅的に比較したレポート）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「例えば、EC責任者に「受注確認はどのような仕事か」と尋ねると、公式手順や管理指標を説明してもらえる」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「IIBAの『The Business Analysis Standard』は、関係者との情報収集、結果の確認、協働の維持を重要な活動として整理している」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「例えばEC担当者からは実作業と例外、物流担当者からは出荷連携、IT担当からはログや制約を把握する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「例えば「受注確認1件12分」は仮定値として置き、操作観察・作業時間記録・注文データなどで測定し、測定対象や平均の定義をそろえる」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「例えば「管理者は処理を3分と認識」「現場では決済エラー時に15分かかる」「ログには手動確認の時間が残らない」という違いがあった場合、それを矛盾のまま捨てない」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「調査目的と意思決定との関係を明文化する：調べた結果、どの改革判断につながるかを書く」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「対象期間・サンプル条件を決める：平日／休日、通常／繁忙期、チャネル、例外ケースを考慮する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「実施日程・調査担当・レビューを決める：誰がいつ質問し、誰が結果を確認するか設定する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「Q-01：受注確認の作業工程／通常注文と例外注文の処理差／EC運用担当・業務ログ／インタビュー＋作業観察／第1週／結果はAs-Is工程一覧へ反映／ステータス：未実施」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「Q-02：在庫引当失敗／発生率と再確認の原因／EC・物流・IT／ログ定義確認＋例外観察／第1〜2週／結果は原因仮説台帳へ反映／ステータス：取得条件確認中」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「Q-03：顧客連絡／問い合わせ理由と再処理／CS担当・問い合わせ履歴／ヒアリング＋分類集計／第2週／結果は例外分類へ反映／ステータス：未実施」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「インタビューは、例えばEC責任者1人、運用管理者2人、実行担当者4人、物流担当者2人、CS担当者1人、IT担当者1人、決済・経理担当者1人の計12人を仮の候補として設定できる」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「9．調査結果の確認・レビュー・合意」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「例えば「現場担当者によれば、キャンセル時に在庫反映が遅れることがある」はB」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
+  - 「作成する成果物は、更新済みのステークホルダー一覧、調査実施結果、情報要求台帳、確認済みのAs-Is業務構成、未確認事項一覧など」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
 - 検索結果の抜粋：
   - 「【わかりやすく】トライアンギュレーションとは？～具体例も交えて～ ... — Jan 14, 2024 · この情報を文脈のなかで見るために、現場を越えて他の分析レベルで見る必要がある。 企業の水準でいえば、人員削減が他の職場ではなされており、もっと広い社会の文脈で見れば、失業の問題はたしかに重要な要素なのである。」（https://clitama.human-relation.net/triangulation/）
   - 「Triangulation in Research: Definition, Types, Examples, and StepsTriangulation in Research: The 4 Types — CASRAI(PDF) The Role of Triangulation in Qualitative Research ...Triangulation: Enhancing Research Validity Through ...(PDF) Triangulation in ResearchTriangulation in Research | Guide, Types, Examples - Scribbr — See full list on researchmethod.net 1. Data Triangulation This type involves usin」（https://researchmethod.net/triangulation/）
@@ -6228,7 +6228,7 @@
   - 「In a fun case from 2021, National Public Radio」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
 - 検索結果の抜粋：
   - 「Lessons Learned: 10 Common Mistakes in Data Journalism — Lessons Learned: 10 Common Mistakes in Data Journalism Global Investigative Journalism Network (GIJN) https://gijn.org > stories > 10-commo...」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -6725,19 +6725,19 @@
 - 失敗・落とし穴：
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a705dc88caa92cdea7d9c873dcba3eb7）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a705dc88caa92cdea7d9c873dcba3eb7）
+  - 「本記事では、主要業界の市場規模ランキングと比較の視点、信頼できるデータソースの選び方、実務での進め方と失敗パターンまでを整理して解説します」（https://crex-consulting.com/column/research/market-size-comparison-by-industry/）
+  - 「卸売や建設、サービス業など、非上場の中堅企業が市場を支える領域では特に注意が必要です」（https://crex-consulting.com/column/research/market-size-comparison-by-industry/）
+  - 「単一の統計を鵜呑みにせず、複数の情報源で裏を取ることが前提になります」（https://crex-consulting.com/column/research/market-size-comparison-by-industry/）
+  - 「公的統計を使う際の注意点は、更新頻度と公表ラグです」（https://crex-consulting.com/column/research/market-size-comparison-by-industry/）
+  - 「最も多い失敗が、」（https://crex-consulting.com/column/research/market-size-comparison-by-industry/）
+  - 「定義範囲のぶれは、2〜3倍の数字のずれを生む根の深い失敗です」（https://crex-consulting.com/column/research/market-size-comparison-by-industry/）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=36fa6184df2accd37fb3fb0b260ac935）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=36fa6184df2accd37fb3fb0b260ac935）
-  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「市場機会分析5つの実践手順でTAM/SAM/SOMを正しく算出し新規参入の失敗を防ぐ調査設計法｜Insight Journal」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「市場機会分析でよくある3つの失敗パターン」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「最も多い失敗は、TAMとSOMを混同した過大評価です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「二つ目の失敗は、既存統計データの無批判な引用です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「三つ目の失敗は、競合分析の欠如です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
@@ -6752,8 +6752,8 @@
   - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
   - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
   - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a705dc88caa92cdea7d9c873dcba3eb7）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a705dc88caa92cdea7d9c873dcba3eb7）
 
 ## 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）（entity resolution evaluation cluster sampling precision bias）
 - 文脈：突き合わせ
@@ -9119,31 +9119,31 @@
   - 「調査方法はアンケート方式で、「現在の景気をはどう感じるか」「数カ月先の景気はどうなると思うか」といった定性的な質問に対し、その判断理由を自由記述で回答してもらいます」（https://note.com/hirokimiyano/n/nd59c76298f07）
   - 「景気動向指数との関係で整理すると、景気ウォッチャー調査は「人の実感」集めたアンケート型の景気指標であり、CIやDIといった統計処理された客観指標とは性格が異なります」（https://note.com/hirokimiyano/n/nd59c76298f07）
   - 「製造業には、素材型産業から加工型産業まで幅広い業種が含まれ、非製造業には、卸売・小売、運輸、建設、不動産、サービス業など、内需に密接に関わる分野が含まれます」（https://note.com/hirokimiyano/n/nd59c76298f07）
-  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「. The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and coordinated way. These changes can take place beyond the three-year production cycle. Our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「This looks at the revisions in each Blue Book and relates to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication that was open to revision. It is one indicator of the trade-off between timeliness and accuracy, and also captures methodological improvements that come through our annual Blue Books.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「The main methodological and data improvements in Blue Book 2026 are the incorporation of the Annual Survey of Goods and Services (ASGS), which gives us more information on products that are produced by the services industries, and changes to our estimates of actual and imputed rentals. For quarterly changes in volume GDP, the MAR for Blue Book 2026 was 0.04 percentage points.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「, specifically the Annual Survey of Goods and Services, led to a revision to this historical data and now reflects a latest estimate of 1.7% for annual GDP in 2012. This is a consequence of a change in methods to bring in an entirely new data source that shed greater light on goods production in the service sector.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「However, there have been a series of methodological revisions over the last six years, which have had a particular impact for the change in 2017. For instance,」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「the enhancement in the quality of price deflators, including new methods to account for changes in the quality of computer hardware」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「introducing new weighting methods for market output deflators」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
 - 突き合わせ・推定：
   - 「したがって、先行系列は「当たる／外れる」を単独で決め打ちするのではなく、一致系列の動きと照合しながら、先行系列の変化が実体に波及していくかを確認する姿勢が重要になります」（https://note.com/hirokimiyano/n/nd59c76298f07）
   - 「GDPや鉱工業生産指数などのマクロ統計は、集計や推計に時間がかかるため、景気の変化を確認できるまでにタイムラグがあります」（https://note.com/hirokimiyano/n/nd59c76298f07）
-  - 「We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「However, the relative mean absolute revision (RMAR), which takes into account the revision to GDP in relation to the size of the initial estimate of growth, shows that the latest periods do not differ much from the pattern seen over the past three decades.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「As we first identified last year, there is some evidence that revisions are marginally statistically significant when looking at the final quarterly estimate of GDP across the entire time span from Quarter 2 1961 to Quarter 4 (Oct to Dec) 2024, compared with first estimates.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Revisions of estimates of UK gross domestic product (GDP)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「There is a trade-off between the timeliness and accuracy of estimates of gross domestic product (GDP). As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle can take up to three years and naturally leads to revisions in our estimates of GDP. Our article on」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP can be seen in Table 1」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「This article analyses the revisions to our quarterly GDP estimates that were published in our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Figure 1 shows the revisions to estimates of the quarterly change in real gross domestic product (GDP) as part of implementing our annual national accounts.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「The x-axis refers to that Blue Book publication, reflecting the mean absolute revision (MAR) to quarterly volume estimates of GDP from Quarter 1 1997 onwards. Blue Book 2024 was an exception as there was not a fully open revisions period as part of this update of the UK National Accounts. The MAR only covers the period from Quarter 1 2020 to Quarter 2 2024.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「There is a mean revision between the first estimate and the final estimate of positive 0.1 percentage points over the period Quarter 1 (Jan to Mar) 1961 to Quarter 4 (Oct to Dec) 2023; for the period Quarter 1 2020 to Quarter 4 2023, there is a mean revision of positive 0.3 percentage points, which includes the impact of the uncertainty around the coronavirus (COVID-19) pandemic.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「When we look at the sign of quarterly GDP growth, of the 175 times where the growth in the first estimate was positive, 168 of these (96%) have remained positive in the final estimate, while 42 of the 64 (66%) instances where the growth in the first estimate was negative have remained negative.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「For the period between May 2018 and December 2023, the mean revision to the first estimate of the three-month change in GDP is positive 0.26 percentage points.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「In the UK, the value of the economy in 2025 is estimated to be £3.0 trillion; this estimate is compiled from over」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「in the annual production round, with a time series that goes back to 1948 annually and 1955 quarterly. In the UK, we produce a first estimate of quarterly GDP six weeks after that quarter ends, alongside our higher-frequency monthly GDP estimates, which are also available around 40 days after the month ends.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「There is a trade-off between the timeliness and accuracy of estimates of GDP. As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle for the national accounts estimates, which includes these data revisions and is explained in the」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「, can take up to three years and naturally leads to revisions in our estimates of GDP.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「Managing the trade-off between timeliness and accuracy in producing our best estimates of GDP blog」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP are in Table 1」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「This article analyses the revisions to our quarterly GDP estimates that were published in our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
 - 一次情報の探し方：
   - 「単一の統計だけでは景気の全体像を把握しにくいため、複数の指標を組み合わせて「景気の方向感」をとらえる目的で作成されています」（https://note.com/hirokimiyano/n/nd59c76298f07）
   - 「例えば、新規求人数や機械受注、消費者態度指数などが含まれます」（https://note.com/hirokimiyano/n/nd59c76298f07）
@@ -9193,6 +9193,7 @@
   - 「この段階で在庫が減るのは、企業が「在庫を減らそう」と意図した結果ではなく、需要の回復が予想を上回った結果として起こるため、「意図せざる在庫の減少」呼ばれます」（https://note.com/hirokimiyano/n/nd59c76298f07）
   - 「その結果、需要が落ちているにもかかわらず生産が高水準のままとなり、在庫が予想外に増加します」（https://note.com/hirokimiyano/n/nd59c76298f07）
 - 検索結果の抜粋：
+  - 「GDP revisions in Blue Book: 2026 - Office for National Statistics — GDP revisions in Blue Book: 2026 - Office for National Statistics Office for National Statistics https://www.ons.gov.uk > articles > g...」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
   - 「GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a...」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · The T plus 3-month revision is actually more negative than the T plus 36-month vintage, but this is influenced by a couple of important periods during the pandemic period, when there were some large negative revisions in the early estimates, which were subsequently revised up when the more detailed data became available b」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
 
@@ -9335,13 +9336,19 @@
   - 「また、決算公告以外では調査機関の費用がかかる点に注意が必要です」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「Jira移行の5ステップ｜課題管理のデータを移す進め方と注意点」（https://lassic.co.jp/media/column/electronic-public-notice/）
-  - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「実務上、非常に間違いやすいのが「電子公告」の登記との違いです」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「電子公告の場合は貸借対照表の全文（要旨だけではダメ）を、5年間は掲載する必要があります」（https://yoshimulog.com/koukokuhouhou/）
+  - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
+  - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
+  - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
 - 実例：
   - 「掲載内容によって料金は異なりますが、例えば決算公告の場合、一般的には7万円程度の費用がかかります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-yarikata/）
+  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
+  - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
   - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「「決算公告だけはホームページで行う」として、この②の登記だけを単独で入れておくケース」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
@@ -9350,12 +9357,6 @@
   - 「合同会社であれば決算公告の義務はありませんので、官報公告を会社の公告方法としておくケースが多いのではないでしょうか」（https://shiodome.co.jp/js/blog/507）
   - 「合同会社でも公告費用が安いから電子公告を選択しているという方がたまにいらっしゃいますが、決算公告義務がないことを考えると、決定公告においては官報公告の方が安くなるケースも少なくありません」（https://shiodome.co.jp/js/blog/507）
   - 「上場企業は、かつては日本経済新聞に掲載するケースがほとんどでしたが、電子公告が認められるようになってからは、電子公告とするケースがほとんどのようです」（https://llliii.jp/commercial-registration/3511/）
-  - 「調査依頼を受けた電子公告調査機関は、公告期間中、6時間に1回以上の頻度で、あらかじめ調査機関に提出された公告情報と実際にインターネット上に掲載されている公告情報とか一致しているかどうか調査して、期間終了後、すみやかに「電子公告調査結果通知書」を発行します（電子公告規則第5条・第7条）」（https://llliii.jp/commercial-registration/3511/）
-  - 「この調査結果通知書は、登記申請の際の添付書面となります」（https://llliii.jp/commercial-registration/3511/）
-  - 「なお、以下は2023年7月に、ある上場企業からリリースされた適時開示の実例（一部抜粋）です」（https://llliii.jp/commercial-registration/3511/）
-  - 「を、提示ケースの範囲で整理します」（https://asanagi.co.jp/2025/10/11/25611/）
-  - 「：今年から官報に決算公告を再開（または移行）したのに、URL登記だけ残存しているケースに注意」（https://asanagi.co.jp/2025/10/11/25611/）
-  - 「・ケース1：公告方法を官報へ変更したが、URL抹消を失念」（https://asanagi.co.jp/2025/10/11/25611/）
 
 ## 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）（statistical revision policy guidelines error correction magnitude routine methodological revisions ESS handbook）
 - 文脈：推定
@@ -12130,6 +12131,7 @@
   - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「電子公告への移行手続き完全ガイド｜官報から切り替える4ステップと費用・期間」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「電子公告への移行手続きを4ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「貸借対照表の見方、大会社基準、自己資本比率の目安、検索手順を就活生向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「作成手順（5ステップ）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「3つの公告方法別｜費用・手間・掲載期間を比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「Q7. 官報での決算公告の申込み手順を教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -12137,7 +12139,6 @@
   - 「貸借対照表の要旨は、以下の5ステップで作成できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「ステップ1: 自社の会社分類を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「ステップ2: 決算書から必須科目の金額を転記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ3: 表示単位を決定し、金額を変換する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 一次情報の探し方：
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -12158,6 +12159,7 @@
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「ミス4: 科目名の誤り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「特に注意すべきは「当期純利益（又は当期純損失）」の付記です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「見落としがちなポイントですが、単位を確認せずに数字を読むと100倍・1,000倍の誤解につながるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -13688,7 +13690,7 @@
   - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
   - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
   - 「resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
 
 ## 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）（statistical series break linking coverage change fixed base index bias practice）
 - 文脈：突き合わせ
@@ -14617,6 +14619,56 @@
   - 「coverage across all economic sectors . It may indeed be the case that these data are being」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
   - 「Please give a precise definition. For example, if small-sized enterprises are differentiated」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
   - 「possible (for example, if the data are disaggregated by firm size or by economic sector).」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113）（Getstats number hygiene rules explained in full Royal Statistical Society journalists）
+- 文脈：検証
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）（industry statistics vs product statistics specialization ratio coverage ratio census manufacturing methodology reclassification）
+- 文脈：探し先
+- 手順・やり方：
+  - 「Establishments in the 2007 Economic Census are divided into those sent report forms and those not sent report forms. The coverage of and the method of obtaining census information from each are described below:」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
+  - 「ASM sample establishments. This group accounts for approximately 18 percent of all manufacturing establishments. The ASM panel covers all the units of large manufacturing establishments, as well as a sample of the medium and smaller establishments. The probability of selection was proportionate to size. For more information, see the methodology text in the ASM file.」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
+  - 「A more detailed examination of census methodology is presented in the」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
+  - 「www.census.gov/econ/census07/www/methodology/history.html」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
+  - 「No direct measurement of these effects has been obtained except for estimation for missing or misreported data, as by the percentages shown in the tables. Precautionary steps were taken in all phases of the collection, processing, and tabulation of the data in an effort to minimize the effects of nonsampling errors.」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
+  - 「www.census.gov/econ/census07/www/methodology/」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
+  - 「industries. Our main contributions to the literature are a consistent methodology and NAICS‐based」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「3 These adjustments to the classification methodology rose from efforts to meet the needs of data users as the structure of U.S.」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「This section provides background on industry classification methods, those historically used by the NSF,」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「For multi‐unit firms with diverse production activities, a NAICS framework can be implemented」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「in ways that lead to different results. To our knowledge, there is no consensus on a single method to」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「the U.S. Census Bureau by Robert Parker reviews five alternative methods that are used within the」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「Federal Statistical System to classify enterprises, and concludes that the methods differ in how」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「method is used for multinational corporation data, assigning firms to one industry by a three stage」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「based on an aggregation of domestic establishment payroll data. The method is described as follows」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+- 突き合わせ・推定：
+  - 「Estimates of data for these small establishments were developed using industry averages in conjunction with the administrative information. The value of shipments and cost of materials were not distributed among specific products and materials for these establishments but were included in the products and materials "not specified by kind" (nsk) categories.」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
+  - 「We then evaluate our estimates by comparing them to estimates of R&D expenditures obtained」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「Innovation Survey (BRDIS) data. Our estimates are comparable to the BRDIS tabulation for computer and」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「electronic product manufacturing. Relative to BRDIS for 2008, we somewhat underestimate R&D」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「expenditures for chemical manufacturing and overestimate R&D expenditures for other manufacturing」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「the estimates in the service‐and‐trade‐adjusted series are slightly higher than the corresponding」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「estimates in the payroll‐method series. However, from 1992 to 2001 the differences between the two」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「the difference between the estimates of company and other funds for R&D performance is about 26」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「significantly higher than the payroll‐method series. For instance, in 2002, the estimate in the service‐」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「and‐trade‐adjusted series is about 7 billion dollars higher than the estimate in the payroll‐method series,」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「estimates again become moderately higher than the payroll‐method series. The service‐and‐trade‐」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「pharmaceutical and medicine manufacturing. As shown, the estimates in the service‐and‐trade‐adjusted」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「series are nearly identical to the estimates in the payroll‐method series prior to 1992. However, from」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「years 1996 to 2008. For instance, in 1999, the adjusted estimate was 20 billion dollars higher than the」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「payroll‐method estimate; in 2003, the adjusted series was 11 billion dollars higher than the payroll‐」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+- 実例：
+  - 「2 For example, the Bureau of Economic Analysis (BEA) incorporated R&D expenditures as investment in the National Income」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「process. In this case, sales receipts are used (BEA, 2013).」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「series become gradually larger. The largest differences are observed from 2002 forward. For example,」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「trade adjustment in recent years. For example, in 2008 about 15 percent of the firms reassigned from」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 

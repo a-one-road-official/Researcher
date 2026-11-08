@@ -1,0 +1,519 @@
+{
+ "name": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112）",
+ "en": "persistence of per-employee value added ranking Japanese contract metalworking industries census of manufacture",
+ "aliases": [
+  "site:meti.go.jp 工業統計表 産業別統計表 細分類 付加価値額 従業者 2016 2019",
+  "工業統計 電気めっき業 付加価値額 年次 推移 細分類",
+  "金属用金型製造業 付加価値額 従業者 推移 工業統計"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T20:51:03.544370+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100238",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_08_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-fma.or.jp/7joh/data/kaihou16_200510.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/12061501.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.punch.co.jp/news/upload/20251202_shared_research_JP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2021_all",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://openjicareport.jica.go.jp/pdf/11684669_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hiac.or.jp/hiac_images/2023/02/H26chusho_houkoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://osaka-doyu.jp/pdf/survey/k72.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokkeiren.gr.jp/view/news/data/2025/1eba806f71eb87c35c0c4df255f46ab6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chugokukeiren.jp/proposal/pdf/y2015/20150526itiranhoukokukisosozaisanngyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2205.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12073/no127_seizo-asia.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/siryo/2012/documents/0109.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260305203609583562510&postId=1675249552",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcer.or.jp/english/how-productive-is-the-japanese-manufacturing-sector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/LFEAMNTTJPA647S",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 人手不足 受注 断る",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100238",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.jilc.or.jp/files/libs/179/202009181341415929.pdf",
+    "https://www.scgr.co.jp/report/column/?_num=100"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_08_00.pdf",
+    "https://j-fma.or.jp/7joh/data/kaihou16_200510.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/12061501.pdf",
+    "https://www.punch.co.jp/news/upload/20251202_shared_research_JP.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/12061501.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://www.punch.co.jp/news/upload/20251202_shared_research_JP.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://openjicareport.jica.go.jp/pdf/11684669_02.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112）",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.hiac.or.jp/hiac_images/2023/02/H26chusho_houkoku.pdf",
+    "https://osaka-doyu.jp/pdf/survey/k72.pdf",
+    "https://www.hokkeiren.gr.jp/view/news/data/2025/1eba806f71eb87c35c0c4df255f46ab6.pdf",
+    "https://chugokukeiren.jp/proposal/pdf/y2015/20150526itiranhoukokukisosozaisanngyou.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 推移",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.hiac.or.jp/hiac_images/2023/02/H26chusho_houkoku.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2205.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/12061501.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.hiac.or.jp/hiac_images/2023/02/H26chusho_houkoku.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2205.pdf",
+    "https://www.punch.co.jp/news/upload/20251202_shared_research_JP.pdf",
+    "https://j-fma.or.jp/7joh/data/kaihou16_200510.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/13/dl/13-1-4.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/12061501.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12073/no127_seizo-asia.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.hiac.or.jp/hiac_images/2023/02/H26chusho_houkoku.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.jil.go.jp/institute/siryo/2012/documents/0109.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://chugokukeiren.jp/proposal/pdf/y2015/20150526itiranhoukokukisosozaisanngyou.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.hokkeiren.gr.jp/view/news/data/2025/1eba806f71eb87c35c0c4df255f46ab6.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/12061501.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://www.punch.co.jp/news/upload/20251202_shared_research_JP.pdf",
+    "https://chugokukeiren.jp/proposal/pdf/y2015/20150526itiranhoukokukisosozaisanngyou.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2205.pdf",
+    "https://www.hokkeiren.gr.jp/view/news/data/2025/1eba806f71eb87c35c0c4df255f46ab6.pdf",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260305203609583562510&postId=1675249552",
+    "https://www.punch.co.jp/news/upload/20251202_shared_research_JP.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "persistence of per-employee value added ranking Japanese contract metalworking industries census of manufacture Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.jcer.or.jp/english/how-productive-is-the-japanese-manufacturing-sector",
+    "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/overview.html",
+    "https://fred.stlouisfed.org/series/LFEAMNTTJPA647S",
+    "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-49.pdf",
+    "https://statbase.org/data/jpn-employment-in-industry-share/",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112）",
+   "results": [
+    "https://note.com/qy_research/n/n62a759772301",
+    "https://note.com/david_parekar/n/ne61b7069390d",
+    "https://note.com/david_parekar/n/n570d2928ebf3",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/coherentmi/n/n03ba62f0e485",
+    "https://note.com/tohoku_itako_661/n/n9cb3fc8b421d",
+    "https://note.com/meijihatsumeikai/n/n7e1a01596144"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112）",
+   "results": [
+    "https://x.com/hashtag/金属熱処理",
+    "https://x.com/hybrid2185/status/2089601958256804012",
+    "https://x.com/hybrid2185/status/1737013605089062964",
+    "https://x.com/hybrid2185/status/1800307900314984741",
+    "https://x.com/pe_metals_O/status/2114673404913844617",
+    "https://x.com/Irppy3/status/2081214937452724671",
+    "https://x.com/OgawaSeisakusho/status/2114827307454238733"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112）",
+   "results": [
+    "https://jp.linkedin.com/company/nikkin-nagano",
+    "https://jp.linkedin.com/pulse/金属の熱処理市場の徹底的な精査規模シェアおよび収益成長2026年から2033年にかけて127のcagrを見込む-scoutifyz-efndf",
+    "https://jp.linkedin.com/pulse/戦略的市場インサイトグローバル産業用金属プレス市場の動向2025年-2032年-analyze-sage-fy6if",
+    "https://jp.linkedin.com/in/翔太-田重田-9bb13538a",
+    "https://jp.linkedin.com/pulse/コーティング彫刻熱処理および関連活動市場における投資潜在力範囲トレンド2025年から2032年までの予測cagr率-7407777674456285185-m5qqe",
+    "https://jp.linkedin.com/pulse/金属無電解めっき溶液の市場規模市場シェア市場成長タイプ別用途別の市場分析地域の洞察および2033年ま-7477415786589048835-gnane",
+    "https://jp.linkedin.com/posts/masato-matsubara-a61026221_このたび一般社団法人-型技術協会-第36回型技術論文賞を受賞することが決定いたしました-activity-7455191198165520384-Pv7e"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112）",
+   "results": [
+    "https://www.facebook.com/nkkmold/",
+    "https://www.facebook.com/p/大阪金属プレス工業会-100083214556350/",
+    "https://www.facebook.com/nkkmold/photos/中辻金型工業中辻金型中辻金型工業株式会社町工場製造業製造金型屋プレス屋金型製作金型プレス金型部品金型設計金型プレス量産試作順送単発鍛造設計ワイヤー-私も一度ワイ/5245993398767372/",
+    "https://www.facebook.com/denkimekki/posts/2023年度総会ならびに講演会のご案内めっき業を取り巻く現状と将来展望-下記のとおり2023年度総会講演会を開催いたします万障お繰り合わせの上ご参加下さいますよ/720004953160255/",
+    "https://www.facebook.com/nkkmold/posts/中辻金型-中辻金型工業-中辻金型工業株式会社-製造業-町工場-物作りの町東大阪-金型-金型製作-プレス-ブレス製作-金型プレス-プレス金型-事務員-事務仕事-今/5689795231053851/",
+    "https://www.facebook.com/nkkmold/posts/中辻金型-中辻金型工業-中辻金型工業株式会社-町工場-製造業-物作りの町東大阪-金型-プレス-金型プレス-新聞-日刊-日刊工業-日刊工業新聞-日刊工業新聞-51/5504270646272978/",
+    "https://www.facebook.com/nkkmold/posts/中辻金型工業-中辻金型工業株式会社-中辻金型-製造業-町工場-物作りの町東大阪-金型-プレス-金型プレス-プレス金型-マシニング-okk-機械-マシーン-いつも/5619994781367230/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） note 社長",
+   "results": [
+    "https://money.note.com/companies/1861",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260305203609583562510&postId=1675249552",
+    "https://www.jmrlsi.co.jp/membership/premium/concept/report/economy/mer201103.html?",
+    "https://www.hiac.or.jp/hiac_images/2023/02/H26chusho_houkoku.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.parker.co.jp/ja/_pdf/topics/CorporateReport2025.pdf",
+    "http://www.alps.or.jp/follow/wp-content/uploads/2017/05/2015kouki.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属用金型・金属熱処理・金属プレスの1人あたり付加価値額の業種の順位が年をまたいで続くか（工業統計 実績2016〜2019年の産業細分類・同じ表の年ごとの値・平均への回帰と1年の揺れを分ける・4-112） X 投稿",
+   "results": [
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260305203609583562510&postId=1675249552",
+    "https://www.msn.com/ja-jp/money/watchlist?id=a2skar&tab=TopLosers&ocid=nl_esmx_a1_20210929_1_1",
+    "https://www.jmrlsi.co.jp/membership/premium/concept/report/economy/mer201103.html?",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://jp.investing.com/news/assorted/article-432SI-1740967",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_report_taxonomy_category?post=93074",
+    "https://www.hro.or.jp/upload/27226/100_kinennsi.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "persistence of per-employee value added ranking Japanese contract metalworking industries census of manufacture site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/can-china-attain-high-income-status-manufacturing-alone-baldwin-kltre",
+    "https://www.linkedin.com/posts/msc-industrial-supply_metalworking-acquisition-manufacturing-activity-7018995456714133505-Wcpp",
+    "https://www.linkedin.com/company/mcalpin-industries",
+    "https://www.linkedin.com/company/metalworking-group",
+    "https://www.linkedin.com/company/miro-manufacturing-inc",
+    "https://www.linkedin.com/company/evans-machine-co",
+    "https://www.linkedin.com/company/midlake-products",
+    "https://www.linkedin.com/company/acme-industries",
+    "https://www.linkedin.com/company/black-company-industrial-and-safety",
+    "https://www.linkedin.com/company/king-industries"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ35頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ35頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ35頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ35頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ35頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ35頁・検索18回）",
+  "10年推移": "記載なし（読んだ35頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ35頁・検索18回）"
+ }
+}

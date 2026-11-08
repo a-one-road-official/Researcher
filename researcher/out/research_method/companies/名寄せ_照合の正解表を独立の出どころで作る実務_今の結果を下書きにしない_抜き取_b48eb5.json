@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T13:22:13.311581+00:00",
+ "researched_at": "2026-11-08T20:58:45.791225+00:00",
  "evidence": {
   "実例": [
    {
@@ -344,6 +344,122 @@
     "first_seen": "2026-11-08"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "この照合で、筆者の側の間違いが2つ出ました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "失敗した6問を見ると、4問が同じ原因です",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14 渡したのに答えず（読み取りの失敗）",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "7 渡していない（検索の失敗）",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "不支持になった辺を消してしまうと、抽出に間違いがあったことが画面から分からなくなります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "今回、オントロジーによって、『封神演義』の登場人物同士や勢力の関係性を表現し、読む助けになるかを検証しました",
@@ -519,269 +635,38 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "この照合で、筆者の側の間違いが2つ出ました",
-    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "失敗した6問を見ると、4問が同じ原因です",
-    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "14 渡したのに答えず（読み取りの失敗）",
-    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "7 渡していない（検索の失敗）",
-    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "不支持になった辺を消してしまうと、抽出に間違いがあったことが画面から分からなくなります",
-    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/nonoonenono/n/n4de1731386e6",
+    "url": "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "url": "https://note.com/leal_racoon4435/n/n05d6d0cab7b8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hash9371/n/n5b81c4e30ff8",
+    "url": "https://note.com/kotsukotsu_jimu/n/n857c9e47ff8c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "url": "https://note.com/keiri_no_arkr/n/n3acc06fda606",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/serene_tern3355/n/nd8b934794b6d",
+    "url": "https://note.com/tender_clam9623/n/n6b1a2d103945",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/talebi_com/n/n807724e52a18",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/sakusaku_excel/n/n826880608161",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/neroarc92f/n/n4420cc9cbf28",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ebisumart.com/blog/name/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/atstream/n/n15ddcade7e85",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.outsource.co.jp/column/unify/howto/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/5979",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://column.tis.jp/post-1473/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ever-rise.co.jp/dx-blog/data-cleansing-name-identification/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/name-collection",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.creativehope.co.jp/crh_media/media/name-collection.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://iridge.jp/blog/202507/39156/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://mazrica.com/product/businesslab/dx/about-name-identification-tools/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dl.acm.org/doi/10.1145/3721985",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.reddit.com/r/LanguageTechnology/comments/12h2b5y/evaluation_of_entity_resolution_entity_linking/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://dbs.uni-leipzig.de/research/projects/benchmark-datasets-for-entity-resolution",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
+    "url": "https://note.com/iso910/n/n369ec95a7c00",
     "status": "ok",
     "method": "http"
    }
@@ -791,116 +676,58 @@
   {
    "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） site:note.com",
    "results": [
-    "https://note.com/nonoonenono/n/n4de1731386e6",
-    "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "https://note.com/hash9371/n/n5b81c4e30ff8",
-    "https://note.com/rosso_blog/n/n9a90aed86fce",
-    "https://note.com/serene_tern3355/n/nd8b934794b6d",
-    "https://note.com/talebi_com/n/n807724e52a18",
-    "https://note.com/zz08/n/nbbd92f92aef9",
-    "https://note.com/reading_monkey/n/n50eaf93d2c59",
-    "https://note.com/jack4manastalk/n/neeebe40afbde",
-    "https://note.com/unikoukokun/n/nebf8099bb750"
+    "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
+    "https://note.com/leal_racoon4435/n/n05d6d0cab7b8",
+    "https://note.com/kotsukotsu_jimu/n/n857c9e47ff8c",
+    "https://note.com/keiri_no_arkr/n/n3acc06fda606",
+    "https://note.com/tender_clam9623/n/n6b1a2d103945",
+    "https://note.com/iso910/n/n369ec95a7c00",
+    "https://note.com/hiroshi_ai_55/n/ndc0d084d0170"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） note",
-   "results": [
-    "https://note.com/sakusaku_excel/n/n826880608161",
-    "https://note.com/neroarc92f/n/n4420cc9cbf28",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
-    "https://ebisumart.com/blog/name/",
-    "https://note.com/atstream/n/n15ddcade7e85",
-    "https://clawdhub.mintlify.app/ja-JP/concepts/progress-drafts",
-    "https://note.com/datainformed/n/n2aa02bf512ce",
-    "https://www.liscore.jp/contents/ma-data-cleansing"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） やり方",
-   "results": [
-    "https://www.outsource.co.jp/column/unify/howto/",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://www.worldoftest.com/ja/print/pdf/node/5979",
-    "https://column.tis.jp/post-1473/",
-    "https://www.ever-rise.co.jp/dx-blog/data-cleansing-name-identification/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://usonar.co.jp/blog/6065.html",
-    "https://www.agrex.co.jp/column/detail/name-identification_01.html",
-    "https://ebisumart.com/blog/name/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） 事例",
-   "results": [
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://data-viz-lab.com/name-collection",
-    "https://column.tis.jp/post-1473/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.creativehope.co.jp/crh_media/media/name-collection.html",
-    "https://iridge.jp/blog/202507/39156/",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://ebisumart.com/blog/name/",
-    "https://mazrica.com/product/businesslab/dx/about-name-identification-tools/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "entity resolution ground truth independent source benchmark bias evaluation",
-   "results": [
-    "https://dl.acm.org/doi/10.1145/3721985",
-    "https://aws.amazon.com/blogs/industries/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
-    "https://arxiv.org/pdf/2404.05622",
-    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
-    "https://www.reddit.com/r/LanguageTechnology/comments/12h2b5y/evaluation_of_entity_resolution_entity_linking/",
-    "https://dbs.uni-leipzig.de/research/projects/benchmark-datasets-for-entity-resolution",
-    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
-    "https://apxml.com/courses/advanced-vector-search-llms/chapter-5-advanced-tuning-evaluation/building-ground-truth-datasets",
-    "https://labelstud.io/learning-center/how-do-benchmarks-use-ground-truth-data/",
-    "https://tilores.io/content/ground-truth-dataset-entity-resolution-2026/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:note.com 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）",
    "results": [
-    "https://note.com/nonoonenono/n/n4de1731386e6",
-    "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "https://note.com/rosso_blog/n/n9a90aed86fce",
-    "https://note.com/serene_tern3355/n/nd8b934794b6d",
-    "https://note.com/hash9371/n/n5b81c4e30ff8",
-    "https://note.com/zz08/n/nbbd92f92aef9",
-    "https://note.com/talebi_com/n/n807724e52a18",
-    "https://note.com/reading_monkey/n/n50eaf93d2c59",
-    "https://note.com/jack4manastalk/n/neeebe40afbde",
-    "https://note.com/lagless/n/n4630b937afc4"
+    "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
+    "https://note.com/leal_racoon4435/n/n05d6d0cab7b8",
+    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
+    "https://note.com/kotsukotsu_jimu/n/n04bd6361ecda",
+    "https://note.com/kotsukotsu_jimu/n/n857c9e47ff8c",
+    "https://note.com/keiri_no_arkr/n/n3acc06fda606",
+    "https://note.com/gyomu_oji/n/n1bcdc3a6e76b"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:x.com 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）",
@@ -910,8 +737,8 @@
     "https://x.com/pumalab_gas/status/2080904640636612962",
     "https://x.com/norimasu_lab/status/2110613523940388940",
     "https://x.com/ecojojo24/status/2107615145086341602",
-    "https://x.com/nagato_nock/status/2113843432598974604",
-    "https://x.com/ecojojo24/status/2107630025491255662"
+    "https://x.com/ai_nurseman/status/2101723931535393160",
+    "https://x.com/nagato_nock/status/2113843432598974604"
    ],
    "engines": [
     "ddgs:google"
@@ -930,7 +757,7 @@
     "https://jp.linkedin.com/posts/ryuhei-yamanaka_metr研究とaiの生産性仕事に当てはめる条件と限界の照合表-activity-7505049098908233729-xLuU"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -952,65 +779,37 @@
   },
   {
    "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） note 社長",
-   "results": [
-    "https://note.com/sakusaku_excel/n/n826880608161",
-    "https://note.com/neroarc92f/n/n4420cc9cbf28",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://ebisumart.com/blog/name/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://note.com/atstream/n/n15ddcade7e85",
-    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
-    "https://souzokushindan.com/sys/?p=122848",
-    "https://clawdhub.mintlify.app/ja-JP/concepts/progress-drafts"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） X 投稿",
-   "results": [
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/9/31/14736",
-    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
-    "https://clawdhub.mintlify.app/ja-JP/concepts/progress-drafts",
-    "https://www.creativehope.co.jp/crh_media/media/name-collection.html",
-    "https://data-viz-lab.com/inquiry-data",
-    "https://ebisumart.com/blog/name/",
-    "https://blog.bizboost.co.jp/data-cleaning-tools",
-    "https://note.com/atstream/n/n15ddcade7e85"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "entity resolution ground truth independent source benchmark bias evaluation site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/signal-issue-2-join-nobody-makes-polyalgorithm-machine-learning-kmaac",
-    "https://www.linkedin.com/in/prajwal-kumar-aaa24721b",
-    "https://www.linkedin.com/posts/bita-safaee_fusion-of-%F0%9D%97%A5%F0%9D%97%94%F0%9D%97%9A-retrieval-augmented-generation-activity-7290697444122644480-3o9w",
-    "https://www.linkedin.com/in/zekun-ni-9176a2a3",
-    "https://www.linkedin.com/in/giuliano-tortoreto",
-    "https://www.linkedin.com/in/richardbellizzi",
-    "https://www.linkedin.com/pulse/understanding-ai-hallucinations-causes-implications-manoj-joshi-2a2ne",
-    "https://uk.linkedin.com/in/misun-kim-nlp",
-    "https://de.linkedin.com/in/ikendiukhov",
-    "https://es.linkedin.com/in/pere-martra"
+    "https://www.linkedin.com/pulse/building-scalable-entity-resolution-pipeline-under-pressure-singhal-kcfrc/",
+    "https://www.linkedin.com/posts/acm-journal-of-data-and-information-quality-jdiq_new-article-in-issue-171-of-acm-journal-activity-7310940803084771328-qVaz",
+    "https://au.linkedin.com/in/patrick-keough-b5b7a7261",
+    "https://pe.linkedin.com/posts/w-mullins_entity-neutering-activity-7312870121151086592-7yXW",
+    "https://www.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac",
+    "https://www.linkedin.com/posts/amrutha-cheepurupalli-57921539a_github-amrutha408amazon-ml-challenge-entity-resolution-activity-7509698430638821376-oMHY",
+    "https://www.linkedin.com/pulse/ground-truth-rag-building-reliable-evaluation-datasets-dikhit-xiunc/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ6頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T06:00:31.109627+00:00"
 }
