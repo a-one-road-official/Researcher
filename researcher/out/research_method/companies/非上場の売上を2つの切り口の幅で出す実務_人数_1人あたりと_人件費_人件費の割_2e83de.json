@@ -8,88 +8,108 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T00:44:20.639720+00:00",
+ "researched_at": "2026-11-08T07:56:37.657617+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/miraikyoso/n/n71f274a532d8",
+    "url": "https://note.com/epolicy_actvst/n/n43c835f022f3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
+    "url": "https://note.com/cyber_forest/n/na36cc2666c44",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/s_toyama/n/n6dbf1abbd310",
+    "url": "https://note.com/epolicy_actvst/n/n4fb34ca1fddc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shimo_data/n/n863c26151b7c",
+    "url": "https://note.com/epolicy_actvst/n/nca89858e3caf",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/gentle_squid4572/n/n2daa75df5629",
+    "url": "https://note.com/gram14/n/n9e9e573fd2be",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/s_toyama/n/ne555ba0831ee",
+    "url": "https://note.com/epolicy_actvst/n/nfe616fc0d062",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://accomp.jp/column/uriagebunseki",
+    "url": "https://note.com/constdx/n/n70a0a9dd2719",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.zoho.com/jp/crm/academy/conceptual/sales-analysis/",
+    "url": "https://www.careersync.jp/insights/personnel-cost-variance/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://emplay.jp/blog/sales-data-analysis-basics",
+    "url": "https://note.com/e_ras_kozai/n/n2133799189af",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://shishamo-company.com/blog/sales-data-analysis-for-sme/",
+    "url": "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://coconala.com/blogs/6364910/834059",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data-viz-lab.com/sales-data-analysis",
+    "url": "https://note.com/zeirishiam/n/n613ec6714f23",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
+    "url": "https://sharedine.me/media/know-how/labor-cost-percentage",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/keyword/keyword_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://canaeru.usen.com/opening/zyunbi441.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "url": "https://biz.moneyforward.com/erp/basic/5446/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tm-tax.com/mailmag/zaimu/zaimu774/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "url": "https://www.stand-3.com/column/business-column/11190/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "url": "https://gxo.co.jp/column/labor-cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zei-eikoh.jp/%E7%AC%AC%EF%BC%99%EF%BC%95%E5%9B%9E%E3%80%80%E5%A2%97%E5%8A%A0%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%8D%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%8C/?srsltid=AYCX9vKjkRXMwGaIS-mtvygA1m9W8iBS9FQxwnt-GTCEYTEbnmacgWP6",
     "status": "ok",
     "method": "http"
    },
@@ -99,7 +119,27 @@
     "method": "http"
    },
    {
-    "url": "https://blog.tmetric.com/revenue-per-employee/",
+    "url": "https://www.scoro.com/blog/revenue-per-employee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indeed.com/hire/c/info/revenue-per-employee",
     "status": "ok",
     "method": "http"
    }
@@ -109,107 +149,143 @@
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） site:note.com",
    "results": [
-    "https://note.com/miraikyoso/n/n71f274a532d8",
-    "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
-    "https://note.com/s_toyama/n/n6dbf1abbd310",
-    "https://note.com/shimo_data/n/n863c26151b7c",
-    "https://note.com/gentle_squid4572/n/n2daa75df5629",
-    "https://note.com/s_toyama/n/ne555ba0831ee",
-    "https://note.com/markeducation/n/n90132f936d08"
+    "https://note.com/epolicy_actvst/n/n43c835f022f3",
+    "https://note.com/cyber_forest/n/na36cc2666c44",
+    "https://note.com/epolicy_actvst/n/n4fb34ca1fddc",
+    "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "https://note.com/gram14/n/n9e9e573fd2be",
+    "https://note.com/epolicy_actvst/n/nfe616fc0d062",
+    "https://note.com/ayacokato/n/n983f2bd0b5e0",
+    "https://note.com/buchok_dojo/n/n31fa2397e929",
+    "https://note.com/ir100_bonjin/n/n4ad87acabfe3",
+    "https://note.com/diggle/n/neb0952547987"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/constdx/n/n70a0a9dd2719",
+    "https://www.careersync.jp/insights/personnel-cost-variance/",
+    "https://note.com/e_ras_kozai/n/n2133799189af",
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/zeirishiam/n/n613ec6714f23",
+    "https://note.com/tonarino_cfo/n/n3de662dda8cb"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 7
   },
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） やり方",
    "results": [
-    "https://accomp.jp/column/uriagebunseki",
-    "https://www.zoho.com/jp/crm/academy/conceptual/sales-analysis/",
-    "https://emplay.jp/blog/sales-data-analysis-basics",
-    "https://shishamo-company.com/blog/sales-data-analysis-for-sme/",
-    "https://coconala.com/blogs/6364910/834059",
-    "https://data-viz-lab.com/sales-data-analysis",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+    "https://sharedine.me/media/know-how/labor-cost-percentage",
+    "https://www.mof.go.jp/pri/reference/ssc/keyword/keyword_05.pdf",
+    "https://canaeru.usen.com/opening/zyunbi441.html",
+    "https://biz.moneyforward.com/erp/basic/5446/",
+    "https://www.tm-tax.com/mailmag/zaimu/zaimu774/",
+    "https://www.stand-3.com/column/business-column/11190/",
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://accompanyon.co.jp/column/jinkenhi-ritsu.html",
+    "https://paypay.ne.jp/store-media/tenpo/0018_inshokujinkenhi/",
+    "https://accomp.jp/column/uriagebunseki"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） 事例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://sharedine.me/media/know-how/labor-cost-percentage",
+    "https://gxo.co.jp/column/labor-cost-reduction",
+    "https://www.tm-tax.com/mailmag/zaimu/zaimu774/",
+    "https://www.careersync.jp/insights/personnel-cost-variance/",
+    "https://biz.moneyforward.com/erp/basic/5446/",
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.zei-eikoh.jp/%E7%AC%AC%EF%BC%99%EF%BC%95%E5%9B%9E%E3%80%80%E5%A2%97%E5%8A%A0%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%8D%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%8C/?srsltid=AYCX9vKjkRXMwGaIS-mtvygA1m9W8iBS9FQxwnt-GTCEYTEbnmacgWP6",
+    "https://note.com/e_ras_kozai/n/n2133799189af"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "private company revenue estimate payroll method revenue per employee range overlap",
    "results": [
-    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
-    "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
     "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "https://blog.tmetric.com/revenue-per-employee/",
-    "https://bizminer.com/revenue-per-employee-benchmarks/"
+    "https://www.scoro.com/blog/revenue-per-employee/",
+    "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
+    "https://www.metrichq.org/finance/revenue-per-employee/",
+    "https://www.indeed.com/hire/c/info/revenue-per-employee",
+    "https://umbrex.com/resources/company-analysis/human-resources/revenue-per-employee/",
+    "https://productive.io/blog/revenue-per-employee/",
+    "https://onpay.com/insights/revenue-per-employee/",
+    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "site:note.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
    "results": [
-    "https://note.com/miraikyoso/n/n71f274a532d8",
-    "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/s_toyama/n/ne555ba0831ee",
-    "https://note.com/s_toyama/n/n6dbf1abbd310",
-    "https://note.com/gentle_squid4572/n/n2daa75df5629"
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/engikoumu/n/n7aa71e31796a",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
+    "https://note.com/zum_ism/n/n95a214855ce7",
+    "https://note.com/engikoumu/n/n88d87d17413b",
+    "https://note.com/610_mto/n/n5fe57e207f7b",
+    "https://note.com/loyal_ivy9071/n/nf5e9824eb19a",
+    "https://note.com/loyal_ivy9071/n/n0a90841cffa5",
+    "https://note.com/pr_fuku/n/ncc3dc4ef97d2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
+   "results": [
+    "https://x.com/PwC_Japan/status/2115949357208138036",
+    "https://x.com/work2lunch0141/status/2090215578858574146",
+    "https://x.com/nagi_cpa_tax/status/2103258074488385669",
+    "https://x.com/aidatapartner/status/2090259671466607101",
+    "https://x.com/nikkei/status/2090171118812340632",
+    "https://x.com/fpfinance12/status/2059652560215302474",
+    "https://x.com/masumi_dojo/status/2057219823218696461"
    ],
    "engines": [
     "ddgs:google"
    ],
    "n_hits": 7
-  },
-  {
-   "query": "site:x.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
-   "results": [
-    "https://x.com/fpfinance12/status/2059652560215302474",
-    "https://x.com/PwC_Japan/status/2115949357208138036",
-    "https://x.com/nagi_cpa_tax/status/2103258074488385669",
-    "https://x.com/work2lunch0141/status/2090215578858574146",
-    "https://x.com/nikkei/status/2090171118812340632",
-    "https://x.com/aidatapartner/status/2090259671466607101",
-    "https://x.com/MugiKaikei/status/2109965873733837223",
-    "https://x.com/masumi_dojo/status/2057219823218696461"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google"
-   ],
-   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
    "results": [
     "https://es.linkedin.com/in/jaime-santo-domingo-mayoral-01a73a2a",
     "https://jp.linkedin.com/in/瞬-髙倉-b4b28141a",
-    "https://jp.linkedin.com/posts/takahiro-sawada-99a598261_利益率を伸ばしながら売上を伸ばす方法-利益率を最大化するために不可欠な変動費と固定費-activity-7394158251002691584-Aupi",
     "https://www.linkedin.com/pulse/日本のバイオベンチャーの企業価値評価ー評価手法と主要概念ー-takuya-kano-e7dnc",
+    "https://jp.linkedin.com/posts/takahiro-sawada-99a598261_利益率を伸ばしながら売上を伸ばす方法-利益率を最大化するために不可欠な変動費と固定費-activity-7394158251002691584-Aupi",
     "https://www.linkedin.com/posts/徹-高島-09388247_タイムマネジメント-売上最大化-activity-7078943552029822976-UYuy",
-    "https://jp.linkedin.com/posts/itoan2018_第2回値上げできる会社に共通するもの-原価管理という切り口-activity-7489969865198292992-CeS9",
-    "https://jp.linkedin.com/learning/excel-data-analysis-365-2019/2935961"
+    "https://jp.linkedin.com/learning/excel-data-analysis-365-2019/2935961",
+    "https://jp.linkedin.com/learning/excel-2016-charts/692002"
    ],
    "engines": [
     "ddgs:google"
@@ -224,8 +300,8 @@
     "https://www.facebook.com/higinbk.co.jp/posts/1127941051007001/",
     "https://www.facebook.com/NewsPicksStudios/videos/見たい数字を経営の意思決定に/2805985496448054/",
     "https://www.facebook.com/NewsPicksStudios/videos/見たい数字を経営の意思決定に/1132783659719527/",
-    "https://www.facebook.com/zaimuconsultant/videos/no60-成功の7つの法則①考え方行動能力の3軸でチェックする-売上がなければ給与はありません-売上向上のチェックポイントを3つの軸で見てみましょう考え方を手に/1841444286869865/",
-    "https://www.facebook.com/mikagecpa/photos/有価証券金銭債権譲渡時の消費税課税売上割合の計算-5でよい場合加算しなくてよい場合株式など有価証券の譲渡や金銭債権の譲渡は消費税上非課税取引とされており課税売上/2361349773999357/"
+    "https://www.facebook.com/mikagecpa/photos/有価証券金銭債権譲渡時の消費税課税売上割合の計算-5でよい場合加算しなくてよい場合株式など有価証券の譲渡や金銭債権の譲渡は消費税上非課税取引とされており課税売上/2361349773999357/",
+    "https://www.facebook.com/zaimuconsultant/videos/no60-成功の7つの法則①考え方行動能力の3軸でチェックする-売上がなければ給与はありません-売上向上のチェックポイントを3つの軸で見てみましょう考え方を手に/1841444286869865/"
    ],
    "engines": [
     "ddgs:google"
@@ -235,52 +311,69 @@
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） note 社長",
    "results": [
-    "https://shishamo-company.com/blog/sales-data-analysis-for-sme/",
+    "https://note.com/constdx/n/n70a0a9dd2719",
+    "https://www.careersync.jp/insights/personnel-cost-variance/",
+    "https://note.com/e_ras_kozai/n/n2133799189af",
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/zeirishiam/n/n613ec6714f23",
+    "https://note.com/tonarino_cfo/n/n3de662dda8cb",
     "https://emplay.jp/blog/sales-data-analysis-basics",
-    "https://accomp.jp/column/uriagebunseki",
-    "https://coconala.com/blogs/6364910/834059",
-    "https://data-viz-lab.com/sales-data-analysis",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://www.zoho.com/jp/crm/academy/conceptual/sales-analysis/",
-    "https://fazom.ai/blog/metrics-management/sales-factor-analysis-method/"
+    "https://shishamo-company.com/blog/sales-data-analysis-for-sme/",
+    "https://accomp.jp/column/uriagebunseki"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） X 投稿",
+   "results": [
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://tenpo-syukyaku.com/2020/08/15/%E5%83%8D%E3%81%8D%E6%96%B9%E6%94%B9%E9%9D%A9%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%A7%E3%82%AB/",
+    "https://www.youtube.com/watch?v=wS9vq5sRUAo",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://kabe-nashi.jp/sites/form/opening-wp.html?wp=opening-jigyokeikaku-template&no=1079?no=1079&code=/work/column/opening-typeb-business-model.html",
+    "https://www.jil.go.jp/institute/reports/2022/documents/0212.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103"
+   ],
+   "engines": [
+    "yahoo_jp"
    ],
    "n_hits": 8
   },
   {
-   "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
    "query": "private company revenue estimate payroll method revenue per employee range overlap site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/revenue-per-employee-most-overlooked-metric-scaling-gary-macdermid-ru9ac/",
-    "https://www.linkedin.com/pulse/revenue-per-employee-number-tells-truth-patrick-rooney-qdjhe",
-    "https://www.linkedin.com/pulse/revenue-per-employee-lets-talk-numbers-strategy-bobby-kimani-wpnuf",
-    "https://www.linkedin.com/pulse/hows-your-revenue-per-employee-carber-goodlet-02q0e",
-    "https://www.linkedin.com/pulse/revenue-per-employee-what-reveals-your-business-ken-stasiak-nacd-dc-vqfve",
-    "https://www.linkedin.com/pulse/real-measure-revenue-per-employee-we-getting-right-dadhich-mahur-rm0fc",
-    "https://www.linkedin.com/pulse/from-rule-40-fewer-why-revenue-per-employee-only-half-philipp-kraft-jpk6f/"
+    "https://www.linkedin.com/posts/duygu-g%C3%BCrel-148510b3_t%C3%BCrkiye-payroll-a-salary-figure-means-activity-7513946262585565184-u6wh",
+    "https://www.linkedin.com/company/irs",
+    "https://www.linkedin.com/company/workday",
+    "https://www.linkedin.com/posts/soham-bhilare-0bb407115_bau-workday-sap-activity-7507669374216945664-8GLg",
+    "https://www.linkedin.com/company/corporate-payroll-services_2",
+    "https://www.linkedin.com/company/equity-methods",
+    "https://www.linkedin.com/company/rudd-and-company-pllc",
+    "https://www.linkedin.com/company/system-six",
+    "https://www.linkedin.com/company/tapcheckinc",
+    "https://www.linkedin.com/company/employees-retirement-system-of-texas"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ18頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ18頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ18頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ18頁・検索12回）",
-  "実例": "記載なし（読んだ18頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ26頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）",
+  "実例": "記載なし（読んだ26頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-05T16:50:39.740528+00:00"
 }

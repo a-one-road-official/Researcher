@@ -1,0 +1,745 @@
+{
+ "name": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差）",
+ "en": "practitioner columns re-analysing manufacturing statistics index base year survivorship",
+ "aliases": [
+  "小川製作所 経済データ MONOist",
+  "中小製造業 統計 規模別 推移 コラム",
+  "工業統計 自分で分析 生産性 退出"
+ ],
+ "context": "統計の読み方",
+ "kind": "market",
+ "researched_at": "2026-11-08T07:52:58.645251+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "製造業の人手不足をデータで読む——ものづくり白書・統計の正しい読み方と稟議への使い方",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ統計でも「読み方」と「使い方」で稟議の通過率はまったく変わります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事では、製造業の人手不足を示す主要統計の読み方と、経営会議・稟議書でデータを使いこなす実務ノウハウを解説します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "製造業の人手不足を定量的に語るとき、参照すべき統計は実質的に次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「白書で構造を掴み、月次統計で現在地を確認し、推計で未来を語る」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」で製造業の採用難を語るとき、多くの記事は「生産工程の職業は約",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "設備保全人材は市場からの採用がほぼ不可能な水準",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "倍超の職種は「採用で埋める」前提を捨てて省人化・技能のデジタル化で対応、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "稟議に使う際は必ず最新月の参考統計表を確認してください",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "全国統計は「前置き」、自社データが「本論」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "職業別求人倍率や年齢構成の全国値と自社を並べ、劣後している領域を特定",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "有効求人倍率は稟議・資料作成のタイミングで最新月を参照すればよく、毎月追う必要はありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "に集約される：白書で構造、月次統計で現在地、推計で未来",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "を見て、職種ごとに「採用で埋める／省人化で対応」を分ける",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "、実際の成功事例は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "他社の成功事例を学び、自社の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "選択結果を選ぶと、ページが全面的に更新されます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "「白書で構造を掴み、月次統計で現在地を確認し、推計で未来を語る」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "）／国立社会保障・人口問題研究所「日本の将来推計人口（令和",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "定年までの年数＝技能継承プロジェクトの残り時間として逆算する",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "国立社会保障・人口問題研究所「日本の将来推計人口（令和",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "年推計）」によれば、生産年齢人口（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "出典：国立社会保障・人口問題研究所「日本の将来推計人口（令和",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人時生産性を指標に置くと効果検証まで一貫します（指標設計は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "に集約される：白書で構造、月次統計で現在地、推計で未来",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "製造業の人手不足をデータで読む——ものづくり白書・統計の正しい読み方と稟議への使い方",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ統計でも「読み方」と「使い方」で稟議の通過率はまったく変わります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "従業員や幹部の退職が直接の引き金となった「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "最後に、集めたデータを意思決定につなげる「使い方の型」を",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つの型に共通する原則は、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kohyo.co.jp/journal/077/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shohyoubookreview.com/archives/16735",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alert_hyssop1862/n/n84b1c14bb573",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stat-lab.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shohyoubookreview.com/archives/16447",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pub.nikkan.co.jp/book/b10021070.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-76.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nam.org/mfgdata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202621-trends-in-manufacturing-in-the-united-states",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nber.org/research/data/nber-ces-manufacturing-industry-database",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://commonsenseinstituteus.org/research/made-in-iowa-the-outsized-contribution-of-manufacturing-in-the-states-economy/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） site:note.com",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://note.com/fact_st_ory"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） note",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://shohyoubookreview.com/archives/16735"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） やり方",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://shohyoubookreview.com/archives/16735"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） 事例",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://shohyoubookreview.com/archives/16735"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "practitioner columns re-analysing manufacturing statistics index base year survivorship",
+   "results": [
+    "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-76.pdf",
+    "https://nam.org/mfgdata/",
+    "https://www.mckinsey.com/mgi/our-research/ramping-up-manufacturing-in-america",
+    "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202621-trends-in-manufacturing-in-the-united-states",
+    "https://www.nber.org/research/data/nber-ces-manufacturing-industry-database",
+    "https://commonsenseinstituteus.org/research/made-in-iowa-the-outsized-contribution-of-manufacturing-in-the-states-economy/",
+    "https://eig.org/manufacturing-rebound/",
+    "https://www.haver.com/articles/ism-index-the-manufacturing-sector-continues-to-struggle",
+    "https://iot-analytics.com/us-manufacturing-reshoring-boom-what-the-data-says/",
+    "https://fred.stlouisfed.org/series/IPMAN"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差）",
+   "results": [
+    "https://x.com/OgawaSeisakusho",
+    "https://x.com/OgawaSeisakusho/status/2114827307454238733",
+    "https://x.com/OgawaSeisakusho/status/2102136799686701103",
+    "https://x.com/OgawaSeisakusho/status/2102560195989901604",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/OgawaSeisakusho/status/2109751403480854654",
+    "https://x.com/OgawaSeisakusho/status/2114826491607560531"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差）",
+   "results": [
+    "https://jp.linkedin.com/in/文昭-木村-4238a9401",
+    "https://jp.linkedin.com/pulse/予測の技術-微分積分と確率統計で-ビジネスの未来を読む-昌幸-増田",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7433858128661757952/",
+    "https://www.linkedin.com/pulse/製造現場の再生自分は必要とされているという実感が現場の潜在能力を解き放つ-美徳-鈴木-gxrsc/",
+    "https://jp.linkedin.com/posts/minitab-jp_ウェビナー開催7月30日水14時dmaic統計の再発見シリーズ第2弾-activity-7351149381590441986-8wet",
+    "https://jp.linkedin.com/pulse/ワイヤー放電加工機-edm-市場レポート2026年から2033年にかけて138の成長が見込まれる人口統計データと成長可能性-wj2ue",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7444693265678974976"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差）",
+   "results": [
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/ibaraki.tokei/",
+    "https://www.facebook.com/100064621122412/posts/1308781351285890/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/nbpbooknavi/posts/生成ai時代その判断に迷いはない最後に頼れるのは統計の基礎力ですざっくり理解で実務に生かす生成ai時代に求められる判断できる力統計リテラシーの入門書として好適な/1920865492643689/",
+    "https://www.facebook.com/ikemotokatsuyukifb/posts/社員が自分たちで機械を改造し人がいなくても動くようにした製造会社があります徳島市の西精工ナットなどの部品をつくる1923年創業のメーカーですこの会社では毎朝50/1761322232669953/",
+    "https://www.facebook.com/kaoru.higuchi.9/videos/特許のあり方特許は自分や会社を守るためだけじゃなく世界を守ることのできる素晴らしい道具なんです製造業-雑学-ものづくり-特許/3108688839327292/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） note 社長",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://release.nikkei.co.jp/attach_file/0500885_01.pdf",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://shohyoubookreview.com/archives/16735"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差） X 投稿",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://secure.freee.co.jp/reports/profit_and_loss/transition",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.kohyo.co.jp/journal/077/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://sitereports.nabunken.go.jp/ja/search-article?all=%E8%A8%88%E9%87%8F%E5%8C%96",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://shohyoubookreview.com/archives/16735"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "practitioner columns re-analysing manufacturing statistics index base year survivorship site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/heathercooan",
+    "https://www.linkedin.com/in/chandra-adapa",
+    "https://hk.linkedin.com/in/andrewcwilkinson",
+    "https://www.linkedin.com/in/alexandre-tilly",
+    "https://in.linkedin.com/in/sanjibpaul-analyticsai",
+    "https://www.linkedin.com/in/samantrip",
+    "https://www.linkedin.com/in/anneod",
+    "https://mx.linkedin.com/in/geraledesma/es",
+    "https://cl.linkedin.com/in/ignacio-antonio-ramos-tapia-19ab3385/es",
+    "https://www.linkedin.com/top-content/supply-chain-management/mastering-statistical-analysis/how-survivorship-bias-skews-data-analysis/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）"
+ },
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "製造業の人手不足をデータで読む——ものづくり白書・統計の正しい読み方と稟議への使い方",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ統計でも「読み方」と「使い方」で稟議の通過率はまったく変わります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事では、製造業の人手不足を示す主要統計の読み方と、経営会議・稟議書でデータを使いこなす実務ノウハウを解説します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "製造業の人手不足を定量的に語るとき、参照すべき統計は実質的に次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「白書で構造を掴み、月次統計で現在地を確認し、推計で未来を語る」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」で製造業の採用難を語るとき、多くの記事は「生産工程の職業は約",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "設備保全人材は市場からの採用がほぼ不可能な水準",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "倍超の職種は「採用で埋める」前提を捨てて省人化・技能のデジタル化で対応、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "稟議に使う際は必ず最新月の参考統計表を確認してください",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "全国統計は「前置き」、自社データが「本論」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "職業別求人倍率や年齢構成の全国値と自社を並べ、劣後している領域を特定",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "有効求人倍率は稟議・資料作成のタイミングで最新月を参照すればよく、毎月追う必要はありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "に集約される：白書で構造、月次統計で現在地、推計で未来",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "を見て、職種ごとに「採用で埋める／省人化で対応」を分ける",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "、実際の成功事例は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "他社の成功事例を学び、自社の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "選択結果を選ぶと、ページが全面的に更新されます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "「白書で構造を掴み、月次統計で現在地を確認し、推計で未来を語る」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "）／国立社会保障・人口問題研究所「日本の将来推計人口（令和",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "定年までの年数＝技能継承プロジェクトの残り時間として逆算する",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "国立社会保障・人口問題研究所「日本の将来推計人口（令和",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "年推計）」によれば、生産年齢人口（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "出典：国立社会保障・人口問題研究所「日本の将来推計人口（令和",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人時生産性を指標に置くと効果検証まで一貫します（指標設計は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "に集約される：白書で構造、月次統計で現在地、推計で未来",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "製造業の人手不足をデータで読む——ものづくり白書・統計の正しい読み方と稟議への使い方",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ統計でも「読み方」と「使い方」で稟議の通過率はまったく変わります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "従業員や幹部の退職が直接の引き金となった「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "最後に、集めたデータを意思決定につなげる「使い方の型」を",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つの型に共通する原則は、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-08T07:52:58.645251+00:00"
+}

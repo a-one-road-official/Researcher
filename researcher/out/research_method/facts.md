@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・229品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・231品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4353,11 +4353,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -7268,11 +7268,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
@@ -12035,6 +12035,8 @@
 
 ## 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務（verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house）
 - 文脈：会社・一次
+- 検索結果の抜粋：
+  - 「Companies House - GOV.UKCorporate Family Tree - SEC Subsidiary ExplorerUS CorpWatch EX-21 Filings – OpenSanctionsWRDS Company Subsidiary DataEnglish Guides to Japanese Company Public Records | RegBaseHow to Search and Verify Any Japanese Company in 2026 ... — Upload a document to Companies House ServiceUse this service to file certain documents online instead of posting a paper form. Changes to UK」（https://www.gov.uk/government/organisations/companies-house）
 - 手順・やり方：記載なし（読んだ12頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ12頁・検索12回）
@@ -13443,8 +13445,93 @@
 
 ## 補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど）（verifying claims that weighting reduced nonresponse bias benchmark comparison desk research guide）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
+
+## 統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差）（practitioner columns re-analysing manufacturing statistics index base year survivorship）
+- 文脈：統計の読み方
+- 手順・やり方：
+  - 「製造業の人手不足をデータで読む——ものづくり白書・統計の正しい読み方と稟議への使い方」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「同じ統計でも「読み方」と「使い方」で稟議の通過率はまったく変わります」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「従業員や幹部の退職が直接の引き金となった「従業員退職型」も」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「最後に、集めたデータを意思決定につなげる「使い方の型」を」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「つの型に共通する原則は、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+- 突き合わせ・推定：
+  - 「「白書で構造を掴み、月次統計で現在地を確認し、推計で未来を語る」」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「）／国立社会保障・人口問題研究所「日本の将来推計人口（令和」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「定年までの年数＝技能継承プロジェクトの残り時間として逆算する」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「国立社会保障・人口問題研究所「日本の将来推計人口（令和」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「年推計）」によれば、生産年齢人口（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「出典：国立社会保障・人口問題研究所「日本の将来推計人口（令和」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「人時生産性を指標に置くと効果検証まで一貫します（指標設計は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「に集約される：白書で構造、月次統計で現在地、推計で未来」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+- 一次情報の探し方：
+  - 「製造業の人手不足をデータで読む——ものづくり白書・統計の正しい読み方と稟議への使い方」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「同じ統計でも「読み方」と「使い方」で稟議の通過率はまったく変わります」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「本記事では、製造業の人手不足を示す主要統計の読み方と、経営会議・稟議書でデータを使いこなす実務ノウハウを解説します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「製造業の人手不足を定量的に語るとき、参照すべき統計は実質的に次の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「「白書で構造を掴み、月次統計で現在地を確認し、推計で未来を語る」」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「厚生労働省「一般職業紹介状況」で製造業の採用難を語るとき、多くの記事は「生産工程の職業は約」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「設備保全人材は市場からの採用がほぼ不可能な水準」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「倍超の職種は「採用で埋める」前提を捨てて省人化・技能のデジタル化で対応、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「稟議に使う際は必ず最新月の参考統計表を確認してください」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「全国統計は「前置き」、自社データが「本論」」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「職業別求人倍率や年齢構成の全国値と自社を並べ、劣後している領域を特定」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「有効求人倍率は稟議・資料作成のタイミングで最新月を参照すればよく、毎月追う必要はありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「に集約される：白書で構造、月次統計で現在地、推計で未来」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「を見て、職種ごとに「採用で埋める／省人化で対応」を分ける」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+- 実例：
+  - 「、実際の成功事例は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「他社の成功事例を学び、自社の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
+  - 「選択結果を選ぶと、ページが全面的に更新されます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
 - 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+
+## 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）（private company due diligence red flags combination late filing director turnover charges）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「取引先の与信管理の方法｜信用調査・与信限度額の設定・倒産リスクの見極め方と債権回収の実務【公認会計士・税理士監修】」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「取引先の与信管理の方法｜信用調査・与信限度額の設定・倒産リスクの見極め方と債権回収の実務」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「「取引先の倒産で売掛金が回収できなかった」経験のある経営者、また「与信管理を社内ルール化したいが何から始めるべきか分からない」経営者に向けて、与信管理の7ステップ実務フロー・与信限度額の計算式・倒産リスク検知のチェックリスト・回収遅延時の段階別対応を完全ガイドします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「与信管理の7ステップ実務フロー」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「以下の7ステップで体系化されます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ1：新規取引前の信用調査」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「調査方法は自社調査・信用調査会社への依頼・インターネット公開情報の収集の3通りです」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ2：評価と格付け」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ3：与信限度額の設定」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「算出方法は後述の3つの計算式から選択します」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ4：取引条件と契約の締結」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「与信限度額を踏まえ、支払サイト・決済方法・担保・保証の条件を取引基本契約書に明記します」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ5：取引開始後の継続モニタリング」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ6：危険信号検知と対応」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ7：回収遅延・回収不能時の対応」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+- 一次情報の探し方：
+  - 「年間100社以上の法人決算・会社設立・税務調査対応を支援」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「営業担当者の訪問確認、決算書の入手（取引先に依頼）、業界内のヒアリングなど、自社で実施する調査です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「法人番号公表サイト（国税庁）・官報決算公告・登記情報・自社HP・口コミなどの無料公開情報を活用します」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「決算書の評価では、簿価だけでなく実態修正が重要です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「3基準の最小値採用」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「→ 最小値の400万円を採用（最も保守的）」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「2期連続の赤字または直近決算で大幅赤字」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「公認会計士・税理士の代表が、記帳代行から決算・税務申告まで一括で直接対応します」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「取引先の倒産情報は、信用調査会社（TDB・TSR）・官報・業界ネットワークから入手できます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「決算書の入手（年1回）が基本です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「上場企業なら決算短信、非上場でも主要取引先として決算書提出を依頼できる関係なら依頼します」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「入手が難しい場合は官報決算公告・信用調査会社のデータベース・現地訪問観察で代替します」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「決算時には法人税の貸倒損失と消費税の税額調整をセットで確認してください」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「与信限度額は3つの算出式（純資産基準・売上基準・回収サイト基準）の最小値採用が保守的」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「記帳代行から決算・税務申告まで、売上規模だけで決まる年間総額のみの明朗会計で一括してお任せいただけます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+- 失敗・落とし穴：
+  - 「⚠️ 注意：「信頼関係があるから大丈夫」は最も危険な発想」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「現場で見かける最も多い失敗は、10年以上の長期取引先に対する信用調査の怠慢です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「⚠️ 注意：複数シグナルの同時発生は要警戒」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+- 実例：
+  - 「実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「調査結果を基に、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「信用調査の結果を踏まえ、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）

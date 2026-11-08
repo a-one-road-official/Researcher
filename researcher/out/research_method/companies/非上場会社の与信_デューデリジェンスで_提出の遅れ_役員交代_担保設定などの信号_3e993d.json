@@ -1,0 +1,849 @@
+{
+ "name": "非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）",
+ "en": "private company due diligence red flags combination late filing director turnover charges",
+ "aliases": [
+  "非上場 与信 調査 登記 役員変更 担保",
+  "決算公告 遅れ 信号 与信",
+  "デューデリジェンス 非上場 赤信号 組み合わせ"
+ ],
+ "context": "裏取り",
+ "kind": "market",
+ "researched_at": "2026-11-08T07:53:02.890799+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "年間100社以上の法人決算・会社設立・税務調査対応を支援",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "営業担当者の訪問確認、決算書の入手（取引先に依頼）、業界内のヒアリングなど、自社で実施する調査です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人番号公表サイト（国税庁）・官報決算公告・登記情報・自社HP・口コミなどの無料公開情報を活用します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書の評価では、簿価だけでなく実態修正が重要です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3基準の最小値採用",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "→ 最小値の400万円を採用（最も保守的）",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2期連続の赤字または直近決算で大幅赤字",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公認会計士・税理士の代表が、記帳代行から決算・税務申告まで一括で直接対応します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の倒産情報は、信用調査会社（TDB・TSR）・官報・業界ネットワークから入手できます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書の入手（年1回）が基本です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "上場企業なら決算短信、非上場でも主要取引先として決算書提出を依頼できる関係なら依頼します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "入手が難しい場合は官報決算公告・信用調査会社のデータベース・現地訪問観察で代替します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算時には法人税の貸倒損失と消費税の税額調整をセットで確認してください",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "与信限度額は3つの算出式（純資産基準・売上基準・回収サイト基準）の最小値採用が保守的",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "記帳代行から決算・税務申告まで、売上規模だけで決まる年間総額のみの明朗会計で一括してお任せいただけます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "取引先の与信管理の方法｜信用調査・与信限度額の設定・倒産リスクの見極め方と債権回収の実務【公認会計士・税理士監修】",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の与信管理の方法｜信用調査・与信限度額の設定・倒産リスクの見極め方と債権回収の実務",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「取引先の倒産で売掛金が回収できなかった」経験のある経営者、また「与信管理を社内ルール化したいが何から始めるべきか分からない」経営者に向けて、与信管理の7ステップ実務フロー・与信限度額の計算式・倒産リスク検知のチェックリスト・回収遅延時の段階別対応を完全ガイドします",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "与信管理の7ステップ実務フロー",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下の7ステップで体系化されます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ1：新規取引前の信用調査",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査方法は自社調査・信用調査会社への依頼・インターネット公開情報の収集の3通りです",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ2：評価と格付け",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ3：与信限度額の設定",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "算出方法は後述の3つの計算式から選択します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ4：取引条件と契約の締結",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "与信限度額を踏まえ、支払サイト・決済方法・担保・保証の条件を取引基本契約書に明記します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ5：取引開始後の継続モニタリング",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ6：危険信号検知と対応",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ7：回収遅延・回収不能時の対応",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査結果を基に、取引先を5〜7段階で格付けします",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "信用調査の結果を踏まえ、取引先を5〜7段階で格付けします",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "⚠️ 注意：「信頼関係があるから大丈夫」は最も危険な発想",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現場で見かける最も多い失敗は、10年以上の長期取引先に対する信用調査の怠慢です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "⚠️ 注意：複数シグナルの同時発生は要警戒",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://corporate-a-lawoffice.com/ma-hyoumeihosho-dd-disclosuretrouble/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tanabeconsulting.co.jp/manda/ma_info/column52.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gip.co.jp/2026/05/25/insights-14/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinc-capital.co.jp/column/legal-affairs/due-diligence/due-diligence-checklist",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/114336",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ags.co.jp/nw/column/column27.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100071",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0506336_01.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bizreach.jp/static/articles/jf-071/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mamotte.rl-shukin.jp/column/post-76/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creditsafe.com/jp/ja/blog/credit-and-risk/no-financial.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bcm_intelligence/n/n6ef848bd2ae9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.paid.jp/3054/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cvmax.jp/credit-check-methods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/16563/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://timewell.jp/columns/export-partner-credit-check-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zaimu-pro.jp/column/torihikisaki-shinsa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/release/common/pdf/credit202311.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.intralinks.com/guides/12-due-diligence-red-flags",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nocturnallegal.com/blog/due-diligence-red-flags-business-buyers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brinkersimpson.com/blog/before-you-buy-red-flags-in-an-ma-targets-financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legal.thomsonreuters.com/blog/due-diligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ellty.com/blog/due-diligence-red-flags",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datarooms.org/vdr-blog/red-flag-due-diligence/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える） site:note.com",
+   "results": [
+    "https://corporate-a-lawoffice.com/ma-hyoumeihosho-dd-disclosuretrouble/",
+    "https://www.tanabeconsulting.co.jp/manda/ma_info/column52.html",
+    "https://www.gip.co.jp/2026/05/25/insights-14/",
+    "https://cinc-capital.co.jp/column/legal-affairs/due-diligence/due-diligence-checklist",
+    "https://www.morihamada.com/ja/insights/newsletters/114336",
+    "https://www.ags.co.jp/nw/column/column27.html",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100071",
+    "https://release.nikkei.co.jp/attach_file/0506336_01.pdf",
+    "https://www.bizreach.jp/static/articles/jf-071/",
+    "https://note.com/bcm_intelligence/n/n6ef848bd2ae9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える） note",
+   "results": [
+    "https://corporate-a-lawoffice.com/ma-hyoumeihosho-dd-disclosuretrouble/",
+    "https://www.tanabeconsulting.co.jp/manda/ma_info/column52.html",
+    "https://www.gip.co.jp/2026/05/25/insights-14/",
+    "https://cinc-capital.co.jp/column/legal-affairs/due-diligence/due-diligence-checklist",
+    "https://www.morihamada.com/ja/insights/newsletters/114336",
+    "https://www.ags.co.jp/nw/column/column27.html",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100071",
+    "https://release.nikkei.co.jp/attach_file/0506336_01.pdf",
+    "https://www.bizreach.jp/static/articles/jf-071/",
+    "https://mamotte.rl-shukin.jp/column/post-76/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える） やり方",
+   "results": [
+    "https://corporate-a-lawoffice.com/ma-hyoumeihosho-dd-disclosuretrouble/",
+    "https://www.tanabeconsulting.co.jp/manda/ma_info/column52.html",
+    "https://www.gip.co.jp/2026/05/25/insights-14/",
+    "https://cinc-capital.co.jp/column/legal-affairs/due-diligence/due-diligence-checklist",
+    "https://www.morihamada.com/ja/insights/newsletters/114336",
+    "https://www.ags.co.jp/nw/column/column27.html",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100071",
+    "https://release.nikkei.co.jp/attach_file/0506336_01.pdf",
+    "https://www.bizreach.jp/static/articles/jf-071/",
+    "https://mamotte.rl-shukin.jp/column/post-76/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える） 事例",
+   "results": [
+    "https://corporate-a-lawoffice.com/ma-hyoumeihosho-dd-disclosuretrouble/",
+    "https://www.tanabeconsulting.co.jp/manda/ma_info/column52.html",
+    "https://www.gip.co.jp/2026/05/25/insights-14/",
+    "https://cinc-capital.co.jp/column/legal-affairs/due-diligence/due-diligence-checklist",
+    "https://www.morihamada.com/ja/insights/newsletters/114336",
+    "https://www.ags.co.jp/nw/column/column27.html",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100071",
+    "https://release.nikkei.co.jp/attach_file/0506336_01.pdf",
+    "https://www.bizreach.jp/static/articles/jf-071/",
+    "https://mamotte.rl-shukin.jp/column/post-76/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "private company due diligence red flags combination late filing director turnover charges",
+   "results": [
+    "https://www.intralinks.com/guides/12-due-diligence-red-flags",
+    "https://nocturnallegal.com/blog/due-diligence-red-flags-business-buyers/",
+    "https://www.brinkersimpson.com/blog/before-you-buy-red-flags-in-an-ma-targets-financials",
+    "https://legal.thomsonreuters.com/blog/due-diligence/",
+    "https://www.ellty.com/blog/due-diligence-red-flags",
+    "https://datarooms.org/vdr-blog/red-flag-due-diligence/",
+    "https://robbinsdimonte.com/news/articles/ma-due-diligence-red-flags-that-can-kill-a-deal/",
+    "https://www.clearlyacquired.com/blog/10-due-diligence-red-flags-when-buying-a-business",
+    "https://www.pillsburylaw.com/a/web/1059/DueDiligenceinPrivatePlacementOfferings1.pdf",
+    "https://www.proofofgoodstanding.com/learn/sos-search-red-flags-for-due-diligence-teams"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）",
+   "results": [
+    "https://note.com/masa_chan_0515/n/naae7f3d7b9dc",
+    "https://note.com/bcm_intelligence/n/n6ef848bd2ae9",
+    "https://note.com/yamayama_yama/n/nc35288313447",
+    "https://note.com/bcm_intelligence/n/nd8014bfa2c9b",
+    "https://note.com/runicorn/n/n98f6edae291d",
+    "https://note.com/fair_wasp2869/n/n0039507270ad",
+    "https://note.com/nagi_edumny/n/n79f005c8666f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）",
+   "results": [
+    "https://x.com/compalyze/status/2072226409649758704",
+    "https://x.com/akikankeri/status/2104556628821594311",
+    "https://x.com/IGoldeneggs/status/2074683826379325636",
+    "https://x.com/kishida_cpa/status/2110915119303790685",
+    "https://x.com/Kuroi_CPA/status/2076444514005459036",
+    "https://x.com/akikankeri/status/2104534923671634105",
+    "https://x.com/yukiyuki_kiryu/status/2048688617590288509"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）",
+   "results": [
+    "https://jp.linkedin.com/pulse/決算書重視の信用調査-hiroyuki-nakamura",
+    "https://www.linkedin.com/posts/takeuchi-shacho_ma仲介におけるデューデリジェンスddの重要性と実践方法竹内慎吾ma仲介会社-activity-7199522698576740352-eO_h",
+    "https://jp.linkedin.com/pulse/common-due-diligence-pitfalls-how-avoid-them-the-vant-group-aajqc?tl=ja",
+    "https://jp.linkedin.com/pulse/due-diligence-vs-internal-audit-why-both-matter-business-5cjgc?tl=ja",
+    "https://www.linkedin.com/posts/翔二郎-美田-a23587287_帳簿は綺麗なのに引き継いだ翌月に会社が止まる罠暗黙知とレガシーシステムが-activity-7498137794045919232-yp1r",
+    "https://jp.linkedin.com/pulse/due-diligence-checklist-mergers-acquisitions-mjpt-8x18f?tl=ja",
+    "https://jp.linkedin.com/pulse/elevating-due-diligence-corporate-governances-vital-role-agarwal?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）",
+   "results": [
+    "https://www.facebook.com/funaisoken/posts/ma成長戦略デューデリジェンスで描く100億企業化への道-maにおいて投資対象の価値やリスクを評価するデューデリジェンスddは事業の成長性やシナジー効果を判断し/1522259086576961/",
+    "https://www.facebook.com/japanvcassociation/posts/jvcaでは経済産業省-新規事業創造推進室より委託を受け投資家向けデューデリジェンスqaddqならびに四半期レポーティングqr雛形を作成しこのたび経済産業省のホ/3027995623914070/",
+    "https://www.facebook.com/ishizuedensen/posts/役員交代のお知らせこの度の第66期定時株主総会におきまして下記の通り役員が選任されそれぞれ就任いたしました代表取締役社長-田中-友則-取締役-安保-恵造-取締役/1348305103969995/",
+    "https://www.facebook.com/nikkei/posts/経産省が異例文書国税庁案は政府方針に逆行-非上場株の評価で-利益を上げるほど相続税が高くなる国税庁の案を経産省は問題視経営努力で高い利益率を出す中小企業には不公/1649180149886714/",
+    "https://www.facebook.com/tsrnet/photos/定量定性分析-危ない会社は増えたのか東京商工リサーチtsrには取引先をどう評価したら良いか与信限度額を決めたいなどの問い合わせが絶えない2024年度の全国倒産が/1447080179928747/",
+    "https://www.facebook.com/nose.yusuke95/posts/後継者不足の問題の一つに非上場企業の承継はお金がかかる現実を知りました世代交代の際に直面する深刻な税制の壁がその大きな要因です黒字の優良企業ほど自社株の評価額が/2570100646842247/",
+    "https://www.facebook.com/IPBASE/photos/知的財産-デューデリジェンスベンチャー-企業への出資や事業提携maを検討する際に行われる知財-の観点からの対象会社のリスク評価及び価値評価について基本的なプロセ/959083366258983/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える） note 社長",
+   "results": [
+    "https://www.tanabeconsulting.co.jp/manda/ma_info/column52.html",
+    "https://www.gip.co.jp/2026/05/25/insights-14/",
+    "https://corporate-a-lawoffice.com/ma-hyoumeihosho-dd-disclosuretrouble/",
+    "https://cinc-capital.co.jp/column/legal-affairs/due-diligence/due-diligence-checklist",
+    "https://www.morihamada.com/ja/insights/newsletters/114336",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100071",
+    "https://release.nikkei.co.jp/attach_file/0506336_01.pdf",
+    "https://www.recog.works/ja/news/detail/114",
+    "https://note.com/maco0411/n/n4222e00ccac3",
+    "https://mamotte.rl-shukin.jp/column/post-76/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える） X 投稿",
+   "results": [
+    "https://www.tanabeconsulting.co.jp/manda/ma_info/column52.html",
+    "https://www.gip.co.jp/2026/05/25/insights-14/",
+    "https://corporate-a-lawoffice.com/ma-hyoumeihosho-dd-disclosuretrouble/",
+    "https://cinc-capital.co.jp/column/legal-affairs/due-diligence/due-diligence-checklist",
+    "https://www.morihamada.com/ja/insights/newsletters/114336",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100071",
+    "https://release.nikkei.co.jp/attach_file/0506336_01.pdf",
+    "https://www.recog.works/ja/news/detail/114",
+    "https://note.com/maco0411/n/n4222e00ccac3",
+    "https://mamotte.rl-shukin.jp/column/post-76/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "private company due diligence red flags combination late filing director turnover charges site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/brianbezdek",
+    "https://www.linkedin.com/in/matthew-denegre",
+    "https://www.linkedin.com/in/james-rosenstock",
+    "https://www.linkedin.com/in/calvincheong",
+    "https://www.linkedin.com/in/matthew-sumner-outbound",
+    "https://www.linkedin.com/posts/sunil-chopra-64062a7_boatipo-istheboatsinking-dancenomore-activity-7394622553148841984-lKDO",
+    "https://in.linkedin.com/in/amit-dodani-1a9b6385",
+    "https://www.linkedin.com/in/babersheikh",
+    "https://ae.linkedin.com/in/casarthakahuja",
+    "https://www.linkedin.com/in/rahul-bahl-838a838"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ25頁・検索12回）"
+ },
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "年間100社以上の法人決算・会社設立・税務調査対応を支援",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "営業担当者の訪問確認、決算書の入手（取引先に依頼）、業界内のヒアリングなど、自社で実施する調査です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人番号公表サイト（国税庁）・官報決算公告・登記情報・自社HP・口コミなどの無料公開情報を活用します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書の評価では、簿価だけでなく実態修正が重要です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3基準の最小値採用",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "→ 最小値の400万円を採用（最も保守的）",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2期連続の赤字または直近決算で大幅赤字",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公認会計士・税理士の代表が、記帳代行から決算・税務申告まで一括で直接対応します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の倒産情報は、信用調査会社（TDB・TSR）・官報・業界ネットワークから入手できます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書の入手（年1回）が基本です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "上場企業なら決算短信、非上場でも主要取引先として決算書提出を依頼できる関係なら依頼します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "入手が難しい場合は官報決算公告・信用調査会社のデータベース・現地訪問観察で代替します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算時には法人税の貸倒損失と消費税の税額調整をセットで確認してください",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "与信限度額は3つの算出式（純資産基準・売上基準・回収サイト基準）の最小値採用が保守的",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "記帳代行から決算・税務申告まで、売上規模だけで決まる年間総額のみの明朗会計で一括してお任せいただけます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "取引先の与信管理の方法｜信用調査・与信限度額の設定・倒産リスクの見極め方と債権回収の実務【公認会計士・税理士監修】",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の与信管理の方法｜信用調査・与信限度額の設定・倒産リスクの見極め方と債権回収の実務",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「取引先の倒産で売掛金が回収できなかった」経験のある経営者、また「与信管理を社内ルール化したいが何から始めるべきか分からない」経営者に向けて、与信管理の7ステップ実務フロー・与信限度額の計算式・倒産リスク検知のチェックリスト・回収遅延時の段階別対応を完全ガイドします",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "与信管理の7ステップ実務フロー",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "以下の7ステップで体系化されます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ1：新規取引前の信用調査",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査方法は自社調査・信用調査会社への依頼・インターネット公開情報の収集の3通りです",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ2：評価と格付け",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ3：与信限度額の設定",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "算出方法は後述の3つの計算式から選択します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ4：取引条件と契約の締結",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "与信限度額を踏まえ、支払サイト・決済方法・担保・保証の条件を取引基本契約書に明記します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ5：取引開始後の継続モニタリング",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ6：危険信号検知と対応",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ7：回収遅延・回収不能時の対応",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査結果を基に、取引先を5〜7段階で格付けします",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "信用調査の結果を踏まえ、取引先を5〜7段階で格付けします",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "⚠️ 注意：「信頼関係があるから大丈夫」は最も危険な発想",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現場で見かける最も多い失敗は、10年以上の長期取引先に対する信用調査の怠慢です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "⚠️ 注意：複数シグナルの同時発生は要警戒",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-08T07:53:02.890799+00:00"
+}

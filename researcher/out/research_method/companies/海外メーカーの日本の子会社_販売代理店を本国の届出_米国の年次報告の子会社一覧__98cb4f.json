@@ -8,11 +8,25 @@
  ],
  "context": "会社・一次",
  "kind": "market",
- "researched_at": "2026-11-08T01:18:06.806461+00:00",
- "evidence": {},
+ "researched_at": "2026-11-08T08:02:07.385867+00:00",
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Companies House - GOV.UKCorporate Family Tree - SEC Subsidiary ExplorerUS CorpWatch EX-21 Filings – OpenSanctionsWRDS Company Subsidiary DataEnglish Guides to Japanese Company Public Records | RegBaseHow to Search and Verify Any Japanese Company in 2026 ... — Upload a document to Companies House ServiceUse this service to file certain documents online instead of posting a paper form. Changes to UK",
+    "url": "https://www.gov.uk/government/organisations/companies-house",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/iksus25/n/ndc20e9ffb76d",
+    "status": "ok",
+    "method": "http"
+   },
    {
     "url": "https://note.com/nk_advisory/n/n4af854770603",
     "status": "ok",
@@ -24,22 +38,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tender_dunlin641/n/n58307d1e6a12",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/8click/n/n2830b16a8056",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/iksus25/n/ndc20e9ffb76d",
+    "url": "https://note.com/tender_dunlin641/n/n58307d1e6a12",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/tradetax/n/n49c60d78c8a6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gov.uk/guidance/searching-the-companies-house-register",
     "status": "ok",
     "method": "http"
    },
@@ -64,12 +78,7 @@
     "method": "http"
    },
    {
-    "url": "https://bizsearch.loreatec.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.gov.uk/government/collections/register-of-overseas-entities",
+    "url": "https://easynihon.com/blog/japan-company-search-meti-gbizinfo-guide-2026",
     "status": "ok",
     "method": "http"
    }
@@ -79,13 +88,13 @@
   {
    "query": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務 site:note.com",
    "results": [
+    "https://note.com/iksus25/n/ndc20e9ffb76d",
     "https://note.com/nk_advisory/n/n4af854770603",
     "https://note.com/yamamoto_ec/n/nd3b3890ee728",
-    "https://note.com/tender_dunlin641/n/n58307d1e6a12",
     "https://note.com/8click/n/n2830b16a8056",
-    "https://note.com/iksus25/n/ndc20e9ffb76d",
+    "https://note.com/tender_dunlin641/n/n58307d1e6a12",
     "https://note.com/tradetax/n/n49c60d78c8a6",
-    "https://note.com/inhouse_tax7777/n/n05e0654ab4bb"
+    "https://note.com/yamamoto_ec/n/n441239606332"
    ],
    "engines": [
     "ddgs:google"
@@ -113,32 +122,32 @@
   {
    "query": "verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house",
    "results": [
+    "https://www.gov.uk/guidance/searching-the-companies-house-register",
     "https://www.gov.uk/government/organisations/companies-house",
     "https://corporate-family-tree.com/",
     "https://wrds-www.wharton.upenn.edu/pages/data-announcements/wrds-company-subsidiary-data/",
     "https://regbase.jp/en/guides",
-    "https://bizsearch.loreatec.jp/",
-    "https://www.gov.uk/government/collections/register-of-overseas-entities",
+    "https://easynihon.com/blog/japan-company-search-meti-gbizinfo-guide-2026",
     "https://www.opensanctions.org/datasets/us_corpwatch/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:note.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
    "results": [
+    "https://note.com/iksus25/n/ndc20e9ffb76d",
     "https://note.com/nk_advisory/n/n4af854770603",
     "https://note.com/tender_dunlin641/n/n58307d1e6a12",
-    "https://note.com/iksus25/n/ndc20e9ffb76d",
-    "https://note.com/global_bizz/n/nb49212399d96",
     "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://note.com/global_bizz/n/nb49212399d96",
     "https://note.com/8click/n/n2830b16a8056",
-    "https://note.com/tradetax/n/n49c60d78c8a6"
+    "https://note.com/global_bizz/n/n292910e36667"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -154,29 +163,39 @@
     "https://x.com/PRTIMES_BIZ/status/2084491790040928431"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/in/aya-mihara-a02ab6267",
+    "https://jp.linkedin.com/company/waygate-technologies",
+    "https://jp.linkedin.com/posts/taku-matsumoto-6ab69abb_本邦上場会社の外為法における対内直接投資等事前届出該当性リストの改訂について-activity-7241067329227268096--0zv",
+    "https://www.linkedin.com/pulse/maximizing-roi-ai-era-mainframe-value-tco-explained-tom-mcpherson-bkq2e",
+    "https://jp.linkedin.com/pulse/日本の自動販売機市場シェア主要企業の分析と予測2024-2032-chetan-kumar-xypkc",
+    "https://jp.linkedin.com/posts/takamasa-adachi-a7415297_中国自動車メーカーの海外動向bydgeely-自動車産業ポータル-マークラインズ-activity-7240160004819816449-m4C8",
+    "https://jp.linkedin.com/posts/tomoko-sasaki-1236654b_欧州連合2023年の企業結合簡素化パッケージ-企業結合規制の近代化-activity-7113527760534294529-0r9U"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
    "results": [
     "https://www.facebook.com/sekidorc/photos/cp2026特設ページ公開httpssekidocorpcomcp2026セキドが正規販売代理店をつとめるdji日本総代理店をつとめるhasselblad-と-/1312176990940561/",
-    "https://www.facebook.com/sekidorc/posts/cp2026特設ページ公開httpssekidocorpcomcp2026セキドが正規販売代理店をつとめるdji日本総代理店をつとめるhasselblad-と-/1312181717606755/",
+    "https://www.facebook.com/nihon.horei/posts/特定技能オンラインで定期届出に関する説明動画オンラインで定期届出を行う方法を解説した動画を公開しました-出入国在留管理庁-出入国在留管理庁は特定技能所属機関向け/1535513261911856/",
     "https://www.facebook.com/docusignjpn/posts/ドキュサインの販売代理店およびディストリビューターの一覧日本を公開しました-弊社ではお客様により付加価値の高いソリューションの提供を可能にするパートナーエコシス/1471448659880102/",
     "https://www.facebook.com/atlascopco.Jp/posts/コンプレッサ事業本部では現在日本各地に15の販売代理店を設けお客様のあらゆるニーズに迅速にお応えいたします110kw以下の給油式コンプレッサー-正規代理店詳細お/1042834947866593/",
+    "https://www.facebook.com/sekidorc/posts/cp2026特設ページ公開httpssekidocorpcomcp2026セキドが正規販売代理店をつとめるdji日本総代理店をつとめるhasselblad-と-/1312181717606755/",
     "https://www.facebook.com/filgen.jp/photos/新規取扱いメーカーのお知らせelabscience-biotechnology社中国の全製品について日本国内における販売代理店となりましたelisaキットcli/2124835364229098/",
-    "https://www.facebook.com/ImmigrationServicesAgency.MOJ/posts/学校や会社を変更した場合の届出留学生の方や就労の在留資格を持っている方は所属する学校や会社を変更した場合辞めた場合に入管への届出が必要です届出はインターネットで/1623540653106819/",
-    "https://www.facebook.com/nihon.horei/posts/特定技能オンラインで定期届出に関する説明動画オンラインで定期届出を行う方法を解説した動画を公開しました-出入国在留管理庁-出入国在留管理庁は特定技能所属機関向け/1535513261911856/"
+    "https://www.facebook.com/ImmigrationServicesAgency.MOJ/posts/学校や会社を変更した場合の届出留学生の方や就労の在留資格を持っている方は所属する学校や会社を変更した場合辞めた場合に入管への届出が必要です届出はインターネットで/1623540653106819/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -216,7 +235,16 @@
   "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）",
   "実例": "記載なし（読んだ12頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 2,
+ "new_this_run": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Companies House - GOV.UKCorporate Family Tree - SEC Subsidiary ExplorerUS CorpWatch EX-21 Filings – OpenSanctionsWRDS Company Subsidiary DataEnglish Guides to Japanese Company Public Records | RegBaseHow to Search and Verify Any Japanese Company in 2026 ... — Upload a document to Companies House ServiceUse this service to file certain documents online instead of posting a paper form. Changes to UK",
+    "url": "https://www.gov.uk/government/organisations/companies-house",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 3,
  "first_researched_at": "2026-11-07T19:49:24.493545+00:00"
 }
