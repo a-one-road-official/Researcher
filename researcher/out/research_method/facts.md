@@ -9025,7 +9025,7 @@
   - 「<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
 - 検索結果の抜粋：
   - 「10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）（statistics reporting guidelines outliers regression to the mean broadcaster）
 - 文脈：推定
@@ -9101,6 +9101,7 @@
   - 「. Bring the jurisdictions, identifier types, approximate record count and a description of the ambiguous cases your team needs to resolve. Check」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
   - 「Registry identifiers are unique codes assigned to companies by government authorities at the time of incorporation. Examples include Company Registration Numbers (UK), EINs (US), Handelsregisternummer (Germany), and CNPJ (Brazil). They don’t change when a company rebrands and are unique within their jurisdiction.」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
   - 「Deterministic matching using a registration number and jurisdiction code achieves near-perfect accuracy (~99.9%). Probabilistic matching based on company names typically achieves 60–95% accuracy depending on data quality, and requires confidence thresholds and manual review for borderline cases.」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
+  - 「Case study: Why automating fund verification is the new standard for Client Lifecycle Management (CLM) providers」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「— Identifying and merging duplicate records within a single dataset. The narrowest case of entity resolution and the most tractable, because schema is consistent.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
   - 「Typical examples include:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -13469,6 +13470,8 @@
   - 「推定結果約6万店舗に対して、日本フランチャイズチェーン協会の2025年12月度調査では、JFA正会員7社の店舗数は5万6,054店舗でした」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「推定値との差は1割程度に収まっており、初級のフェルミ推定としてはおおむね妥当な結果と判断できます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「新宿駅前に出店するカフェの年間売上は、需要側と供給側の2つのアプローチから推定し、結果を比較することで妥当性を確認できます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+- 検索結果の抜粋：
+  - 「ストック問題とフロー問題の違い | ケース面接ジム — Jun 1, 2026 · フェルミ推定の問題は、ある時点の量を問うストック問題と、一定期間の量を問うフロー問題に大きく分かれます。見分け方と解き方の違いを整理します。 30秒でわかるこの記事 本文 約3分」（https://casemensetsu.com/columns/stock-flow-difference）
 
 ## 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）（business survey nonresponse follow-up large units administrative data substitution early late respondents comparison）
 - 文脈：検証
@@ -14099,11 +14102,11 @@
 
 ## 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）（market research confirmation bias rubber stamp strategy operator economics consultant essay）
 - 文脈：手法・推定
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
 - 文脈：手法・企業調査
