@@ -5048,6 +5048,10 @@
 ## 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）（e-Stat user guide university library statistics code database API）
 - 文脈：統計
 - 手順・やり方：
+  - 「APIの使い方 | 政府統計の総合窓口(e-Stat)−API機能」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「API機能の使用方法をサンプルコードを交えて紹介しています」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「以下のサンプルではe-Stat-APIの使用方法と、統計データ取得APIから取得したデータをもとにグラフの表示を行います」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「政府統計の総合窓口(e-Stat)API 仕様／2. APIの利用方法／2.3. 統計データ取得」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
   - 「e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「この五つは統計値の意味を自動的に決める手順ではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「数値の定義や調査方法が分からない場合は、e-Statの調査概要だけで判断せず、所管府省の用語解説や調査方法の説明、最新の公表資料も確認してください」（https://blog.kurashiq.com/estat-first-search-guide/）
@@ -5059,24 +5063,22 @@
   - 「APIの細かい使い方は、」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「Request a HTTP GET method to the given url (for REST API)」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「Request some HTTP GET methods to the given urls (for REST API)」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「(!! This method uses multi threading when calling HTTP GET requests」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「max number of working threads of CPUs within executing this method.」（https://qiita.com/faux/items/efc4c8981510b78dd560）
 - 一次情報の探し方：
-  - 「e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「e-Stat（政府統計の総合窓口）は、各府省が登録した公式統計を一か所で探せるポータルです」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「の統計データを1か所に集めて検索できる政府統計のポータルサイトで、」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「「分野」「組織」「キーワード」などから探し、統計表はファイル（Excel・CSVなど）でダウンロードしたり、データベース形式で表示したりできます」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「最終確認日：2026年10月3日／出典：総務省統計局「」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「Let's Stat!!! 〜e-Stat活用ナビ〜」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「」、e-Stat「」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「家計調査や国勢調査などの統計をつくる総務省統計局の庁舎（東京都新宿区）」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「e-Statは、各府省が登録した統計表ファイルや統計データ、公表予定、統計分類などをまとめて探せる政府統計のポータルです」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「キーワードだけでなく、分野や組織からも統計を探せます」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「統計表には、Excel、CSV、PDFなどのファイル形式と、項目を選んで表を組み替えられるデータベース形式があります」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「すべての統計が同じ形式で提供されているわけではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「最初は日常語で検索し、結果に表示される統計名と所管府省を確認してから絞り込みます」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「たとえば総務省統計局の家計調査2026年7月分（9月4日公表）では、二人以上の世帯の消費支出は1世帯当たり301,245円で、前年同月比は実質3.6％の減少でした」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「APIの使い方 | 政府統計の総合窓口(e-Stat)−API機能」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「以下のサンプルではe-Stat-APIの使用方法と、統計データ取得APIから取得したデータをもとにグラフの表示を行います」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「http://api.e-stat.go.jp/rest/2.0/app/getStatsData?appId=<アプリケーションID>&statsDataId=C0020050213000&cdCat01=%23A03503」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「統計データ取得APIの場合は、次のリクエストURLとなります」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「http://api.e-stat.go.jp/rest/<バージョン>/app/getStatsData?<パラメータ群>」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「http://api.e-stat.go.jp/rest/<バージョン>/app/json/getStatsData?<パラメータ群>」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「統計データ取得APIのデータの種類については次のページを参照ください」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「政府統計の総合窓口(e-Stat)API 仕様／2. APIの利用方法／2.3. 統計データ取得」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「たとえば検索データ種別「社会・人口統計体系」の老年人口割合［65歳以上人口]のコードは、」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「政府統計の総合窓口（e-Stat）で公開されているAPIを使う際には、アプリケーションIDが必要です」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「アプリケーションIDの発行には政府統計の総合窓口（e-Stat）のユーザ登録が必要です」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「政府統計の総合窓口（e-Stat）ユーザ登録」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「東京都の社会・人口統計体系のデータの場合は、C0020050201300を指定します」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「社会・人口統計体系のデータには、多くの項目が存在します」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
+  - 「統計データ取得APIのパラメータについては次のページを参照ください」（https://www.e-stat.go.jp/api/api-dev/how_to_use）
 - 失敗・落とし穴：
   - 「：検索入口、表示単位、ファイルとデータベース、公開更新日の注意」（https://blog.kurashiq.com/estat-first-search-guide/）
 - 実例：
@@ -5090,7 +5092,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -11222,11 +11224,11 @@
 
 ## 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）（analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活（verify PDF table extraction errors footnote units row column journalist data checking）
 - 文脈：手法
@@ -12060,11 +12062,11 @@
 
 ## 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）（ownership chain verification beneficial ownership filings subsidiaries OSINT）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務（verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house）
 - 文脈：会社・一次

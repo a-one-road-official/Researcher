@@ -8,7 +8,7 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T02:06:16.812368+00:00",
+ "researched_at": "2026-11-08T08:49:25.520764+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -109,12 +109,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kensho_note/n/n80379e531cfb",
+    "url": "https://note.com/feriko_392/n/n75e9eee0d6f8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/feriko_392/n/n75e9eee0d6f8",
+    "url": "https://note.com/kensho_note/n/n80379e531cfb",
     "status": "ok",
     "method": "http"
    },
@@ -124,7 +124,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/frank_marketing/n/ncf9ee3c182b0",
+    "url": "https://note.com/aoyamacpa/n/nc8ef58a5e67a",
     "status": "ok",
     "method": "http"
    },
@@ -135,7 +135,7 @@
    },
    {
     "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "status": "ok",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
@@ -169,6 +169,11 @@
     "method": "browser"
    },
    {
+    "url": "https://nan.ac/solutions/23642",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.npmh.net/publication/data/66bok922169.pdf",
     "status": "ok",
     "method": "pdf"
@@ -180,11 +185,6 @@
    },
    {
     "url": "https://www.mign.io/articles/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://solanets.com/2026/11/02/cyber-attribution-fingerprints-dprk-it-workers/",
     "status": "ok",
     "method": "http"
    },
@@ -204,17 +204,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.antiphishing.jp/pdf/apc_4th_studygroup_twofive.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://note.com/cd350476/n/nb077ffe64431",
+    "url": "https://nan.ac/solutions/23663",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nan.ac/solutions/23642",
+    "url": "https://chugai-tec.actibookone.com/content/detail?param=eyJjb250ZW50TnVtIjo3NzUyMjJ9&detailFlg=1&pNo=1&utm_source=cnlab&utm_medium=referral",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Admiralty_code",
     "status": "ok",
     "method": "http"
    },
@@ -245,8 +245,8 @@
    },
    {
     "url": "https://apophis133.medium.com/the-admiralty-system-in-cti-bad6134c567f",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    }
   ]
  },
@@ -256,15 +256,15 @@
    "results": [
     "https://note.com/ocaml/n/n25a2c177afc3",
     "https://note.com/goldmist1959/n/n88276ab96488",
-    "https://note.com/kensho_note/n/n80379e531cfb",
     "https://note.com/feriko_392/n/n75e9eee0d6f8",
+    "https://note.com/kensho_note/n/n80379e531cfb",
     "https://note.com/clean_broom590/n/nb8198d6f9107",
-    "https://note.com/frank_marketing/n/ncf9ee3c182b0",
-    "https://note.com/minato_2525msk/n/n8e5c14e95e4c",
-    "https://note.com/takamo8/n/n243b27184120"
+    "https://note.com/aoyamacpa/n/nc8ef58a5e67a",
+    "https://note.com/takamo8/n/n243b27184120",
+    "https://note.com/frank_marketing/n/ncf9ee3c182b0"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -278,13 +278,13 @@
     "https://jenni.ai/ja/blog/how-to-find-credible-sources",
     "https://www.worldoftest.com/ja/print/pdf/node/5638",
     "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://note.com/shigyoai/n/nbabc32b5ebe6",
-    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14791",
+    "https://note.com/hacklog_stealth/n/n5a847aa93190",
+    "https://futana-e.esnet.ed.jp/json/blogs/saveLikeJson/1/21/4549",
     "https://freelance-concierge.jp/articles/detail/745/",
     "https://en.wikipedia.org/wiki/Admiralty_code"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -296,15 +296,15 @@
     "https://www.worldoftest.com/ja/print/pdf/node/5638",
     "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
     "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://nan.ac/solutions/23642",
     "https://www.npmh.net/publication/data/66bok922169.pdf",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.mign.io/articles/",
     "https://solanets.com/2026/11/02/cyber-attribution-fingerprints-dprk-it-workers/",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8",
     "https://en.wikipedia.org/wiki/Admiralty_code"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -317,14 +317,14 @@
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
     "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
+    "https://nan.ac/solutions/23663",
     "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www.antiphishing.jp/pdf/apc_4th_studygroup_twofive.pdf",
-    "https://note.com/cd350476/n/nb077ffe64431",
-    "https://nan.ac/solutions/23642",
+    "https://chugai-tec.actibookone.com/content/detail?param=eyJjb250ZW50TnVtIjo3NzUyMjJ9&detailFlg=1&pNo=1&utm_source=cnlab&utm_medium=referral",
+    "https://www.mign.io/articles/",
     "https://en.wikipedia.org/wiki/Admiralty_code"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -339,27 +339,27 @@
     "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
     "https://apophis133.medium.com/the-admiralty-system-in-cti-bad6134c567f",
     "https://en.wikipedia.org/wiki/Admiralty_code",
-    "https://nhimg.org/intelligence-confidence-and-reliability-guide",
+    "https://greydynamics.com/school-courses/intelligence-processing-fundamentals/",
     "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters",
     "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 16
   },
   {
    "query": "site:note.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
    "results": [
     "https://note.com/ocaml/n/n25a2c177afc3",
-    "https://note.com/goldmist1959/n/n88276ab96488",
     "https://note.com/kensho_note/n/n80379e531cfb",
-    "https://note.com/feriko_392/n/n75e9eee0d6f8",
-    "https://note.com/kotetsu0/n/neff392cd034c",
-    "https://note.com/frank_marketing/n/ncf9ee3c182b0",
     "https://note.com/clean_broom590/n/nb8198d6f9107",
-    "https://note.com/takamo8/n/n243b27184120"
+    "https://note.com/feriko_392/n/n75e9eee0d6f8",
+    "https://note.com/takamo8/n/n243b27184120",
+    "https://note.com/aoyamacpa/n/nc8ef58a5e67a",
+    "https://note.com/frank_marketing/n/ncf9ee3c182b0",
+    "https://note.com/shiny_magpie4504/n/n44e2b1fb4962"
    ],
    "engines": [
     "ddgs:google",
@@ -371,31 +371,31 @@
    "query": "site:x.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
    "results": [
     "https://x.com/hashtag/アドミラルティ・コード",
-    "https://x.com/dutcode02/status/2116972971785167337",
     "https://jf.x.com/images/media-preview/2115172513571594744",
     "https://jf.x.com/images/media-preview/2106581744245707050",
-    "https://jf.x.com/images/media-preview/2107586100512370742",
-    "https://jf.x.com/images/media-preview/2111691863187165618",
-    "https://x.com/ugkfOm6yaAKiR5N/status/2072958817529364840"
+    "https://x.com/dutcode02/status/2116972971785167337",
+    "https://x.com/ugkfOm6yaAKiR5N/status/2072958817529364840",
+    "https://x.com/kenji_growthlab/status/2079741642077347879",
+    "https://x.com/cotty_personal/status/2116455165549310258"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
    "results": [
-    "https://jp.linkedin.com/pulse/automating-security-assessments-devsecops-pipeline-ai-powered-gupta-nvenc?tl=ja",
+    "https://jp.linkedin.com/pulse/rethinking-code-evaluation-introducing-codebleu-smarter-jatasra-iugsc?tl=ja",
+    "https://jp.linkedin.com/pulse/what-single-source-truth-zentso-v6rme?tl=ja",
     "https://jp.linkedin.com/pulse/source-credibility-theory-timeless-progress-from-navlakha-phd--gz08f?tl=ja",
     "https://jp.linkedin.com/pulse/how-find-sources-your-research-paper-5-steps-dr-naureen-aleem-hpw8f?tl=ja",
+    "https://jp.linkedin.com/pulse/訪日外国人は日本旅行の何を参考にするのかsns動画ブログ口コミの最新導線を整理-susumu-shimoda-cozaf",
     "https://jp.linkedin.com/pulse/data-behind-ai-understanding-where-artificial-gets-its-gaz-hall-fh9de?tl=ja",
-    "https://jp.linkedin.com/pulse/why-your-enterprise-needs-single-source-truth-heliosz-yds4c?tl=ja",
-    "https://jp.linkedin.com/pulse/story-lead-time-land-asot-lewis-kennebrew-bchac?tl=ja",
     "https://jp.linkedin.com/in/makoto-f-685651435"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -403,11 +403,11 @@
    "query": "site:facebook.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
    "results": [
     "https://www.facebook.com/excel.sozoku/posts/上場株式の評価明細書をエクセルで作成するシステムファイルが完成しました-単純なテンプレートですので無料で公開しております私のhpに無料版をアップしてありますので/2998721613507803/",
+    "https://www.facebook.com/AIJGAKKAI.FB/posts/建築構造設計アンブレラコード部材検定と応答評価案の発行について/649370691190078/",
     "https://www.facebook.com/100063888799200/posts/トヨタフォークリフトのエラーコードf5-1-f5-4-お久しぶりでございます-今日はよくあるトヨタさんのエラーコードです-車両は使えてるけどエラーコードf5-1/722219633250990/",
     "https://www.facebook.com/moriken0119/videos/claude-codeで10プロジェクトをマルチ進行会話しながらaiにspecを書かせるそのspecを元にaiが実装そのコードをaiがレビューpdcaまでaiが/1321060476772291/",
     "https://www.facebook.com/LeanSixSigmaVBA/posts/ｔ検定とｆ検定の実務での使い方エクセル関数今回はデータ検定の中のｔ検定とｆ検定についての話です統計の難しい話題ですが易しい言葉で仕事でどう使えるのかの部分を話し/1973615219617107/",
-    "https://www.facebook.com/money.study.fp/posts/fp6分野の最新改正fp業務を発展させる集客it法律顧客の満足度を高めるテクニックなどfp業務で役立つ話題をたくさんお届けします-皆さんのご参加をお待ちしていま/359303802728359/",
-    "https://www.facebook.com/INTERALLIED/photos/05606-1350-ソビエト海軍-空母-アドミラルクヅネツォフ-20000税抜価格05606-1350-ussr-admiral-kuznetsov/863657520327285/",
+    "https://www.facebook.com/ToolCrazy/posts/私は電気科卒なため工業卒でも実務経験短縮にならない存在でしたが今後電気や電子に関する学科卒業でも実務経験短縮になるようです/4955085574590599/",
     "https://www.facebook.com/akiko.ueda.104/videos/2026春夏モデルアドミラルコレクション着るだけで気分もプレーも上がるウェアコートでも普段でも映えるデザインが最高です️テニスジャパンでまだ在庫あります気になる/1483591156691258/"
    ],
    "engines": [
@@ -420,17 +420,17 @@
    "results": [
     "https://note.com/shore9999/n/ncbe0fb8eb5ca",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://note.com/creacir/n/ndd034a907875",
+    "https://note.com/cyber_forest/n/n0adce94d8c1f",
     "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/12/14798",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://note.com/cyber_forest/n/n0adce94d8c1f",
+    "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
+    "https://www.e-xtreme.co.jp/blog/50153/",
     "https://en.wikipedia.org/wiki/Admiralty_code"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -442,8 +442,8 @@
     "https://zenn.dev/ricrio/articles/x-algorithm-source-code-analysis",
     "https://nii-auth.atlassian.net/wiki/spaces/meatmailniiacjp/pages/36274344",
     "https://note.com/kawaidesign/n/ncc48348607be",
-    "https://hasshin-lab.comtri.jp/x-community-notes/",
     "https://blog.x.com/ja/company/xs-community-led-approach-tackling-inaccurate-and-misleading-information",
+    "https://hasshin-lab.comtri.jp/x-community-notes/",
     "https://d-m-f.jp/blog/0035-2/",
     "https://www.soumu.go.jp/main_content/000938666.pdf",
     "https://qiita.com/tomada/items/9a36955a3b660409ed24",
@@ -461,16 +461,16 @@
     "https://uk.linkedin.com/in/gareth-w-44aa5b140",
     "https://www.linkedin.com/top-content/career/building-professional-credibility/multi-layer-fact-checking-for-professional-posts/",
     "https://www.linkedin.com/in/anthonykimery",
-    "https://uk.linkedin.com/in/felixghauri",
     "https://pk.linkedin.com/in/abdul-wahid022",
     "https://de.linkedin.com/in/ahmed-nabil-al-eryani",
+    "https://uk.linkedin.com/in/felixghauri",
     "https://www.linkedin.com/top-content/science/science-journalism-insights/evaluating-sources-in-science-reporting/",
-    "https://ng.linkedin.com/in/sadiq-idris-amana-28a64a46",
     "https://de.linkedin.com/in/ohanamedeiros",
-    "https://fr.linkedin.com/in/aurore-caugy-1a5085138/fr"
+    "https://ng.linkedin.com/in/sadiq-idris-amana-28a64a46",
+    "https://au.linkedin.com/in/ashley-mallia"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -481,6 +481,6 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T14:58:24.107007+00:00"
 }

@@ -7,8 +7,100 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T01:43:55.578131+00:00",
+ "researched_at": "2026-11-08T08:49:31.369270+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "どれほど精密に調査設計を組み立てても、回答が十分に集まらなければ、統計的な信頼性を確保したり、社会の実態を的確にとらえたりすることは難しくなります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「①品質（国際規格を保有）、②調査体制、③統計界で最高の栄誉とされる“大内賞”を受賞した公的統計基盤整備委員会所属」という特徴的なサービスです",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アンケート（質問紙調査）などで得られた情報を数値化し、統計学に基づいて分析する調査方法",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この時、配布数にあたるサンプルサイズが10件しかなければ、統計的な誤差が大きくなる確率が高く、信頼に足るデータとは言えません",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一般的には「サンプル数」と混同されがちですが、統計学的には次のように明確に使い分けられます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "かつては調査員が対象者の自宅を直接訪ねる「訪問調査」が主流であり、公的調査などでは高い回収率を維持できていました",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "回収率の参考値として、政府が公表している統計データを見ると、実際の調査でどの程度の回答が得られているかが分かります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一般的な社会意識を問う調査において、公的機関が依頼しても「約半数の協力獲得が標準的」であることを示しています",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外交という比較的関心が分かれるテーマでこの回収率を実現しているのは、国の公的な依頼という信頼性が大きく寄与していると考えています",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日本国内に住むすべての人と世帯を対象とする「国勢調査」は、国の統計調査の中でも最大規模のものです",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "法律に基づく回答義務が課せられている公的調査で、郵送回答とインターネット回答の併用を実施しても、回収率は80％程度となっています",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「はい／いいえ」や5段階評価など、一般的で分かりやすい形式を採用し、迷わず答えられる設計を心がけることが大切です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自分の意見が社会や組織の役に立つという貢献感は、特に公的調査や社会性の高いテーマにおいて、強い協力意欲を引き出します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特に公的機関や大学との共同調査である場合は、その事実を前面に出すことで、回答者の安心感は格段に高まります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「回答内容はすべて統計的に処理され、個人が特定されることはない」といった点をはっきりと言葉にしましょう",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "学術調査（アカデミックリサーチ）は、理論の検証、新しい知見の発見、既存の知識の体系化などを目的とした、特定の学問分野における研究や調査活動のことを指します",
@@ -139,93 +231,15 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "どれほど精密に調査設計を組み立てても、回答が十分に集まらなければ、統計的な信頼性を確保したり、社会の実態を的確にとらえたりすることは難しくなります",
+    "quote": "「回答した人」と「回答しなかった人」のあいだに、属性や意識の違いが存在するという非回答バイアスが生じるリスクが高まります",
     "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「①品質（国際規格を保有）、②調査体制、③統計界で最高の栄誉とされる“大内賞”を受賞した公的統計基盤整備委員会所属」という特徴的なサービスです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アンケート（質問紙調査）などで得られた情報を数値化し、統計学に基づいて分析する調査方法",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この時、配布数にあたるサンプルサイズが10件しかなければ、統計的な誤差が大きくなる確率が高く、信頼に足るデータとは言えません",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一般的には「サンプル数」と混同されがちですが、統計学的には次のように明確に使い分けられます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "かつては調査員が対象者の自宅を直接訪ねる「訪問調査」が主流であり、公的調査などでは高い回収率を維持できていました",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "回収率の参考値として、政府が公表している統計データを見ると、実際の調査でどの程度の回答が得られているかが分かります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一般的な社会意識を問う調査において、公的機関が依頼しても「約半数の協力獲得が標準的」であることを示しています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "外交という比較的関心が分かれるテーマでこの回収率を実現しているのは、国の公的な依頼という信頼性が大きく寄与していると考えています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日本国内に住むすべての人と世帯を対象とする「国勢調査」は、国の統計調査の中でも最大規模のものです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "法律に基づく回答義務が課せられている公的調査で、郵送回答とインターネット回答の併用を実施しても、回収率は80％程度となっています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「はい／いいえ」や5段階評価など、一般的で分かりやすい形式を採用し、迷わず答えられる設計を心がけることが大切です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "自分の意見が社会や組織の役に立つという貢献感は、特に公的調査や社会性の高いテーマにおいて、強い協力意欲を引き出します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "特に公的機関や大学との共同調査である場合は、その事実を前面に出すことで、回答者の安心感は格段に高まります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「回答内容はすべて統計的に処理され、個人が特定されることはない」といった点をはっきりと言葉にしましょう",
+    "quote": "スクリーニング調査とは？注意点や設問例、メリット・デメリットを解説",
     "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -322,20 +336,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "「回答した人」と「回答しなかった人」のあいだに、属性や意識の違いが存在するという非回答バイアスが生じるリスクが高まります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スクリーニング調査とは？注意点や設問例、メリット・デメリットを解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -357,12 +357,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/arsenal_best/n/n2d55b0237b7d",
+    "url": "https://note.com/taituna/n/nd3a899d46302",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/taituna/n/nd3a899d46302",
+    "url": "https://note.com/ai_insight_lab/n/n49e0cfc12015",
     "status": "ok",
     "method": "http"
    },
@@ -397,9 +397,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.ipaj.org/bulletin/pdfs/JIPAJ17-1PDF/17-1_p023-030.pdf",
+    "url": "https://www.macromill.com/service/column/entry-080/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.soumu.go.jp/main_content/000949200.pdf",
@@ -427,9 +427,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.macromill.com/service/column/entry-080/",
+    "url": "https://www.soumu.go.jp/main_content/000900563.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://ai-government-portal.com/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB/",
@@ -437,27 +437,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/quantitative_qualitative_social_research/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000644846.pdf",
+    "url": "https://survey.gov-online.go.jp/houkokusyo.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jmra-net.or.jp/Portals/0/event/2023/20231208_001.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
+    "url": "https://www.gyoukaku.go.jp/genryoukourituka/dai4/sankou2.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -500,19 +485,18 @@
     "https://note.com/humble_crane7701/n/n917c11401561",
     "https://note.com/kagawatomo/n/n5cbaf70a8af2",
     "https://note.com/ikedon0505/n/n3d4e402301e3",
-    "https://note.com/arsenal_best/n/n2d55b0237b7d",
     "https://note.com/taituna/n/nd3a899d46302",
-    "https://note.com/hidetoshi_h_/n/n3b1198a8bd6b",
     "https://note.com/ai_insight_lab/n/n49e0cfc12015",
-    "https://note.com/hidetoshi_h_/n/n330a7e5ef040",
+    "https://note.com/hidetoshi_h_/n/n3b1198a8bd6b",
+    "https://note.com/arsenal_best/n/n2d55b0237b7d",
     "https://note.com/loyal_ivy9071/n/n2a4e10b590ba",
+    "https://note.com/hidetoshi_h_/n/n330a7e5ef040",
     "https://note.com/hidetoshi_h_/n/nb026af33eb58"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） note",
@@ -522,18 +506,17 @@
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
     "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
     "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.ipaj.org/bulletin/pdfs/JIPAJ17-1PDF/17-1_p023-030.pdf",
+    "https://www.macromill.com/service/column/entry-080/",
     "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
-    "https://www.soumu.go.jp/main_content/000846331.pdf",
+    "https://www.soumu.go.jp/main_content/000900563.pdf",
     "https://www.ipss.go.jp/syoushika/bunken/DATA/pdf/25810103.pdf",
     "https://www.stat.go.jp/data/guide/pdf/guideline.pdf"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 12
   },
   {
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） やり方",
@@ -543,8 +526,8 @@
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
     "https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/",
     "https://unii-research.com/business/media/survey-responserate/",
-    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
     "https://www.city.iwakura.aichi.jp/cmsfiles/contents/0000000/381/enquete.pdf",
+    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
     "https://kotsutorisetsu.com/20250605-1/",
     "https://www.macromill.com/service/column/entry-080/",
     "https://www.soumu.go.jp/main_content/000900563.pdf"
@@ -558,23 +541,20 @@
   {
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） 事例",
    "results": [
-    "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
-    "https://www.soumu.go.jp/main_content/000833618.pdf",
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
     "https://ai-government-portal.com/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB/",
-    "https://www.city.iwakura.aichi.jp/cmsfiles/contents/0000000/381/enquete.pdf",
+    "https://www.soumu.go.jp/main_content/000833618.pdf",
+    "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "https://survey.gov-online.go.jp/houkokusyo.pdf",
     "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
+    "https://www.city.iwakura.aichi.jp/cmsfiles/contents/0000000/381/enquete.pdf",
     "https://unii-research.com/business/media/survey-responserate/",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/quantitative_qualitative_social_research/",
-    "https://www.soumu.go.jp/main_content/000644846.pdf",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf"
+    "https://www.gyoukaku.go.jp/genryoukourituka/dai4/sankou2.pdf"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 9
   },
   {
    "query": "official statistics quality decline response rates budget cuts how to judge reliability",
@@ -600,18 +580,18 @@
    "query": "site:note.com 公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止）",
    "results": [
     "https://note.com/hidetoshi_h_/n/n330a7e5ef040",
-    "https://note.com/good_dill292/n/n1b837c6be69d",
-    "https://note.com/atom_/n/nd0275e85a343",
-    "https://note.com/loyal_ivy9071/n/nf5227f7a4b5c",
     "https://note.com/modern_flea8708/n/ne6121df5b053",
+    "https://note.com/loyal_ivy9071/n/nf5227f7a4b5c",
     "https://note.com/nobuto545/n/n16c9db27456e",
-    "https://note.com/automationjp/n/nedc6c5889a1e",
-    "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "https://note.com/zenkok/n/n7a1dabfd8585",
+    "https://note.com/atom_/n/nd0275e85a343",
+    "https://note.com/good_dill292/n/n1b837c6be69d",
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
     "https://note.com/loyal_ivy9071/n/n1b4a4b6fcd01"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -620,11 +600,11 @@
    "query": "site:x.com 公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止）",
    "results": [
     "https://x.com/nikkei/status/2060647902913900934",
-    "https://x.com/i/trending/2068155858660258280",
     "https://x.com/enodon/status/2031951753286205806",
+    "https://x.com/i/trending/2068155858660258280",
     "https://x.com/nkinvestigation/status/2106889779531108419",
-    "https://x.com/i/trending/2060498472588182007",
     "https://x.com/mitibata1/status/2060502218344890698",
+    "https://x.com/i/trending/2060498472588182007",
     "https://x.com/nikkei/status/2060427451633741867"
    ],
    "engines": [
@@ -639,13 +619,13 @@
     "https://jp.linkedin.com/pulse/quality-over-quantity-rethinking-employee-survey-response-mark-bewick-xbzfe?tl=ja",
     "https://jp.linkedin.com/pulse/why-your-nps-survey-response-rates-stuck-below-10-how-khandelwal-ieuwc?tl=ja",
     "https://www.linkedin.com/posts/shirakawa-kiyomi-433a2276_だいたい400万円が400になる瞬間-公的統計の値に意味と根拠を随伴-activity-7502832420589666304-u2w6",
-    "https://www.linkedin.com/posts/浩二-折瀧-a49910293_日本経済についての懸念は多くその背景にはいくつかの主要な問題があります以下にその-activity-7186886360224481280-09pR",
+    "https://www.linkedin.com/posts/mayumi-kawasaki-a44294169_ブラック企業の見分け方2026年最新求人面接公的ツールで入社前に見抜く方法-activity-7436942239852961793-Giuv",
     "https://jp.linkedin.com/posts/glg_効果的な定量調査を行うための完全ガイド-activity-6995604115120635904-5ca4",
-    "https://jp.linkedin.com/pulse/boosting-response-rates-online-b2b-surveys-practical-nhffe?tl=ja",
-    "https://jp.linkedin.com/pulse/spotting-outliers-essential-reliable-statistics-vinit-dedhia-csm-pcq3f?tl=ja"
+    "https://jp.linkedin.com/pulse/spotting-outliers-essential-reliable-statistics-vinit-dedhia-csm-pcq3f?tl=ja",
+    "https://jp.linkedin.com/pulse/what-good-response-rate-employee-survey-i-bet-your-mastrangelo?tl=ja"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -654,14 +634,14 @@
    "query": "site:facebook.com 公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止）",
    "results": [
     "https://www.facebook.com/kidera.yoshi/",
-    "https://www.facebook.com/100064515737150/?locale=th_TH",
+    "https://www.facebook.com/100064515737150?locale=af_ZA",
     "https://www.facebook.com/nikkei/posts/国勢調査の回答率8割どまり綻ぶ全世帯統計-未回答の世帯は近隣住民やマンション管理人らへの聞き取りで補いますが限界があります都心では就業状態が4割も不祥となるエリ/1525900022214728/",
     "https://www.facebook.com/masashi.hagihara/posts/日経朝刊国勢調査の回答率8割どまり-綻ぶ全世帯統計ぼやける国の輪郭昨日2025年国勢調査の速報が発表されて多くのメディアが日本の人口縮小を記事にしているが日経は/10242721666439147/",
     "https://www.facebook.com/koba84naoki/photos/国勢調査の回答率8割どまり-綻ぶ全世帯統計ぼやける国の輪郭/27217168327894670/",
     "https://www.facebook.com/keidanren/posts/経団連タイムス1021発行公的統計の改善に向けた提言を公表httpswwwkeidanrenorjpjournaltimes20211021_05html/5245593462136163/",
     "https://www.facebook.com/KiyoharaKeikoMitaka/posts/文部科学省統計業務の質の向上に向けた専門家会議副主査に就任信頼される統計の確立を目指して3月27日文部科学省において統計業務の質の向上に向けた専門家会議の第1回/1398200245654199/",
-    "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/posts/受講料無料シンフォニカ寄付講座公的統計の統計情報を実践的に利活用するための基礎から応用までを体系的に学びますオンライン対面各講座全5回19002030第一弾-人/1576289674434698/",
-    "https://www.facebook.com/keidanren/posts/経団連タイムス99発行公的統計における行政記録情報活用の現状と課題経済財政委員会統計部会httpwwwkeidanrenorjpjournaltimes2021/5108713332490844/"
+    "https://www.facebook.com/keidanren/posts/経団連タイムス99発行公的統計における行政記録情報活用の現状と課題経済財政委員会統計部会httpwwwkeidanrenorjpjournaltimes2021/5108713332490844/",
+    "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/posts/受講料無料シンフォニカ寄付講座公的統計の統計情報を実践的に利活用するための基礎から応用までを体系的に学びますオンライン対面各講座全5回19002030第一弾-人/1576289674434698/"
    ],
    "engines": [
     "ddgs:google",
@@ -672,43 +652,42 @@
   {
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） note 社長",
    "results": [
+    "https://www.soumu.go.jp/main_content/000833618.pdf",
     "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
-    "https://www.soumu.go.jp/main_content/000949200.pdf",
+    "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
-    "https://www.mext.go.jp/b_menu/shingi/chousa/shougai/052/gijiroku/mext_00002.html",
-    "https://www.issoh.co.jp/column/details/6772/",
     "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
+    "https://www.mext.go.jp/b_menu/shingi/chousa/shougai/052/gijiroku/mext_00002.html",
     "https://www.ipaj.org/bulletin/pdfs/JIPAJ17-1PDF/17-1_p023-030.pdf",
-    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
-    "https://www.soumu.go.jp/main_content/000644846.pdf",
-    "https://www.soumu.go.jp/main_content/000833618.pdf"
+    "https://note.com/jyaga0716/n/n0aa7362ae7b7",
+    "https://www.soumu.go.jp/main_content/000900563.pdf",
+    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 13
   },
   {
    "query": "公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止） X 投稿",
    "results": [
     "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "https://www.soumu.go.jp/main_content/000949200.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://www.macromill.com/service/column/entry-080/",
+    "https://www.issoh.co.jp/column/details/6772/",
+    "https://tayori.com/blog/survey-rate-tips/",
     "https://ai-government-portal.com/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB/",
-    "https://survey.gov-online.go.jp/about/caution/",
     "https://www.chisou.go.jp/tiiki/rinjikoufukin/pdf/r6_kaitou_kouhyou.pdf",
-    "https://webtan.impress.co.jp/e/2008/05/16/3080",
-    "https://www.webcas.jp/formulator/knowhow/valid-respondents/",
-    "https://researto.com/column/survey-free-response-limitations/",
-    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://www.soumu.go.jp/main_content/000833618.pdf",
     "https://www.soumu.go.jp/main_content/000900563.pdf"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "official statistics quality decline response rates budget cuts how to judge reliability site:linkedin.com",
@@ -733,6 +712,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T14:02:10.039536+00:00"
 }

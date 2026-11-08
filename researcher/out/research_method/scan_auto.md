@@ -1815,13 +1815,14 @@
   - cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html（引用 61件・手法の言葉 10件）
 
 ## 次に読む手法の記事の候補（4-96・機械）
-- 未読（束ねた形で照合）で主題外でない頁：781頁。手法の言葉を含む引用の多い順に
+- 未読（束ねた形で照合）で主題外でない頁：783頁。手法の言葉を含む引用の多い順に
   - cran.r-project.org/web/packages/available_packages_by_date.html（39件）
   - tkfd.or.jp/research/detail.php?id=4396（34件）
   - soumu.go.jp/main_content/000432276.pdf（32件）
   - lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf（32件）
   - itscom.co.jp/forbiz/column/office-environment/17399（32件）
   - pmc.ncbi.nlm.nih.gov/articles/PMC10019664（32件）
+  - yalelawjournal.org/article/machine-testimony（30件）
   - arxiv.org/html/2404.05622（30件）
   - editverse.com/システマティックレビューの作成手順：prisma声明2020に（30件）
   - e-stat.go.jp/stat-search?toukei=00200553（30件）
@@ -1830,7 +1831,6 @@
   - ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス（29件）
   - soumu.go.jp/main_content/000576510.pdf（29件）
   - appinio.com/en/blog/market-research/research-methods（28件）
-  - docs.ropensci.org/reviser/articles/revision-analysis.html（28件）
 
 ## ストックとフロー・重み付きの回収率（4-97・機械）
 - 売上・総額・市場規模の金額で、期間も年も書かれていないもの：15件（10品目）。何か月分の量か（フロー）、ある時点の残高か（ストック）が分からないので、年間の値と同じ欄で比べない（4-94 を補う）
