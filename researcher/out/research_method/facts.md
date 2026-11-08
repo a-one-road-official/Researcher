@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・231品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・234品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1877,6 +1877,7 @@
   - 「「存在しているか」をここで確かめ、そのうえで中身を別の公的記録で確かめる、という順番で使うと、調べものの精度が上がります」（https://note.com/joshima_s/n/nf7b375482338）
   - 「官報の公告欄から、会社のどんな動きが見えるのかを整理します」（https://note.com/joshima_s/n/nf7b375482338）
 - 失敗・落とし穴：
+  - 「登記申請書の捨印とは？押し方・注意点を法人登記向けに解説」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
   - 「確認するときの3つの注意点」（https://note.com/joshima_s/n/nf7b375482338）
   - 「同名の法人、登記上の本店、法人でない事業者の扱いに注意する」（https://note.com/joshima_s/n/nf7b375482338）
   - 「法人成りとの違い、向いている事業者のチェックリスト、会社設立時の注意点を公認会計士が解説しています」（https://biz.moneyforward.com/establish/basic/88844/）
@@ -1891,7 +1892,6 @@
   - 「EV充電スタンドは儲かる？仕組みや導入費用・失敗リスクを解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「山椒栽培は儲かる？農家の年収や副業での始め方・失敗例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「入札ビジネスは儲からない？失敗理由や個人でも利益を出すコツを解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「自動車整備士の独立で失敗する原因とは？開業準備と成功のコツを解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 実例：
   - 「Here is an example of a company profile:」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「You do pay for Veridion, but what you get in return is a far more capable, flexible dataset built for commercial use cases.」（https://veridion.com/insights/articles/opencorporates-alternatives）
@@ -5801,6 +5801,9 @@
   - 「官報AIの本文・原本画像は検索と対照のための非公式な整理です」（https://kanpou.ai/guide）
 - 失敗・落とし穴：
   - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
+  - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -5812,11 +5815,11 @@
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
 - 実例：
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「主要企業の官報公告事例と実務への影響を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -5828,9 +5831,6 @@
   - 「3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「なお、電子公告の公告期間が終了した後は、各社サイトから削除されているケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 
 ## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
 - 文脈：突き合わせ
@@ -6721,22 +6721,23 @@
 ## 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）（entity resolution evaluation cluster sampling precision bias）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「comprehensive evaluation framework to measure their performance and compare different」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「framework that can address challenges associated with ER system evaluation, including」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「clustering metrics and toy benchmark datasets without a principled evaluation methodology」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「all components of a principled evaluation framework for ER systems. It incorporates principled」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「architecture, ensuring straightforward portability to other languages and frameworks when」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「methods based on labeling record pairs ( Marchant & Rubinstein, 2017 ). The entity-centric」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「To address this issue, a new entity-centric methodology has been proposed in Binette, York, et」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「biased benchmark datasets. The ER-Evaluation package implements this methodology and」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「numerous extensions to create a comprehensive, end-to-end evaluation framework. It aims」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「name disambiguation ( Binette, Madhavan, et al., 2023 ). The original methodology has been」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「published in Binette, York, et al. ( 2023) and extended methodology is under development in」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「end-to-end evaluation framework for entity resolution systems with application to inventor」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
   - 「This paper introduces a novel evaluation methodology for entity resolution algorithms. It is motivated」（https://arxiv.org/pdf/2210.01230）
   - 「using an entity resolution algorithm. We provide a data collection methodology and tailored performance」（https://arxiv.org/pdf/2210.01230）
   - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
-  - 「able to measure performance, to inform users of the reliability of the data, and to support methodological」（https://arxiv.org/pdf/2210.01230）
-  - 「porting methodological research to improve disambiguation algorithms. We propose novel evaluation method-」（https://arxiv.org/pdf/2210.01230）
-  - 「datasets, with nearly perfect precision and recall reported in the latest methodological report (Monath et al.,」（https://arxiv.org/pdf/2210.01230）
-  - 「There are two main uses for accurate and statistically rigorous evaluation methodology.」（https://arxiv.org/pdf/2210.01230）
-  - 「biguation methodology. This requires choosing between alternative methods and evaluating the results of」（https://arxiv.org/pdf/2210.01230）
-  - 「methodological experiments. Without sound evaluation methodology, decisions regarding the disambigua-」（https://arxiv.org/pdf/2210.01230）
-  - 「disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use」（https://arxiv.org/pdf/2210.01230）
-  - 「2 Data and Methodology」（https://arxiv.org/pdf/2210.01230）
-  - 「In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation method-」（https://arxiv.org/pdf/2210.01230）
-  - 「ology, our proposed performance metric estimators, and the simulation framework that we use to compare」（https://arxiv.org/pdf/2210.01230）
-  - 「2.2 Hand-Disambiguation Methodology」（https://arxiv.org/pdf/2210.01230）
-  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
 - 突き合わせ・推定：
+  - 「al. ( 2023) for obtaining accurate performance metric estimates based on small and potentially」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
   - 「is to obtain estimates that are representative of performance on the full data, for which no ground truth」（https://arxiv.org/pdf/2210.01230）
   - 「tative performance estimates (Fuller, 2011).」（https://arxiv.org/pdf/2210.01230）
   - 「Figure 1: Distribution of precision estimates versus the true precision of 52% (shown as a dotted vertical」（https://arxiv.org/pdf/2210.01230）
@@ -6751,10 +6752,12 @@
   - 「provide estimates for precision or recall (McVeigh et al., 2019), or provided solutions tailored to very speciﬁc」（https://arxiv.org/pdf/2210.01230）
   - 「provide cost-eﬀective estimates for any disambiguation algorithm.」（https://arxiv.org/pdf/2210.01230）
   - 「to validate the performance of our estimators. Section 3 then presents our performance estimates and results」（https://arxiv.org/pdf/2210.01230）
-  - 「estimates based on this data might therefore be slightly optimistic, which should be acknowledged when」（https://arxiv.org/pdf/2210.01230）
 - 一次情報の探し方：
   - 「View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors」（https://arxiv.org/abs/2404.05622）
 - 失敗・落とし穴：
+  - 「accounting for sampling biases and managing class imbalances. Otherwise, using naive」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「relatively small benchmark datasets. However, this process has been shown to yield biased」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
+  - 「biased benchmark datasets. The ER-Evaluation package implements this methodology and」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
   - 「estimators that account for sampling biases. Our approach is simple, practical and principled – key」（https://arxiv.org/pdf/2210.01230）
   - 「leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given」（https://arxiv.org/pdf/2210.01230）
   - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
@@ -6767,9 +6770,6 @@
   - 「estimators based on cluster and block samples. Past work either ignored biases when computing precision」（https://arxiv.org/pdf/2210.01230）
   - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
   - 「readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means」（https://arxiv.org/pdf/2210.01230）
-  - 「and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias」（https://arxiv.org/pdf/2210.01230）
-  - 「assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula」（https://arxiv.org/pdf/2210.01230）
-  - 「100 times in order to provide the distribution of the estimators and metrics such as bias and root mean」（https://arxiv.org/pdf/2210.01230）
 - 実例：
   - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
   - 「example 1 below.」（https://arxiv.org/pdf/2210.01230）
@@ -12099,7 +12099,7 @@
   - 「Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
 - 実例：
   - 「A List of Strong Verbs for Academic Writing: Examples and Exercises」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
@@ -12750,10 +12750,75 @@
 - 手順・やり方：
   - 「史料批判(しりょうひはん)とは？ 意味や使い方 - コトバンク」（https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003）
   - 「…一般に歴史的認識のもととなるべき素材を史料というが，歴史研究の基礎であるこの史料について，いかなる素材が史料となりうるかを検討し，その固有の性格を究明し，収集･分類の方法を探究するのが〈史料学〉である」（https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+  - 「後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「この方法論は19世紀ドイツで体系化された」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「その方法論はベルンハイムの『歴史的方法教本』とその入門書（日本では『歴史とは何ぞや』として読まれた）や、ラングロワ＝セニョボスの『歴史研究入門』によって教科書化され[3]、日本では今井登志喜『歴史学研究法』（初出1935年）が古典的方法論の代表的な入門書となった[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「「偽書だから全部捨てる」「一次史料だから信じる」という二値処理は、どちらも古典的方法論の水準にすら達していない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「さらに、「史料が独立でない」と言っても、少なくとも三つの型を区別する必要がある」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「今井登志喜『歴史学研究法』の第六章「方法的作業の一例」は、天文17年（1548年）7月、武田晴信（信玄）が小笠原長時を破った塩尻峠の合戦を題材に、史料の提示から真純性・来歴・本原性・可信性の批判を経て史実を決定するまでの全過程を実演している[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「目次構成は「序説」「歴史学を補助する学科」「史料学」「史料批判（外的批判：真純性の批判・来歴批判・本原性の批判／内的批判：可信性の批判）」「綜合」「方法的作業の一例――天文年間塩尻峠の合戦」」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「[3] Ernst Bernheim, Lehrbuch der historischen Methode und der Geschichtsphilosophie, 1889ほか」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「貝組成データ等の傾向からその立地の背景を明らかにし、未知の貝塚の貝組成傾向を知る方法の確立」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「method to determine the background of the location of shell middens based on trends in shell」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「この史資料批判は、外的批判と内的批判に類型化さ」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「れ、後者は比較的専門分野の訓練と経験により習熟していく性質があるが、 前者を科学的に行う方法論は確立」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+- 突き合わせ・推定：
+  - 「\text{史料批判} = \text{データ来歴の確認} + \text{誤差モデルの推定} + \text{バイアスの評価} + \text{独立データによる検証}」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「そのうえで実際の戦果を推定するには、少なくとも三つを分けて考える必要がある」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「「この史料は信用できるか」という問いは、ベイズ的には「この史料の記述は、仮説の真偽によってどれだけ生じやすさが変わるか」という尤度比の問いに置き換わる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「「史料間の依存グラフを推定する」という問題は、実は歴史学・文献学が19世紀から取り組んできた古典的問題である」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「保存されなかった史料は観測できない以上、保存機構を現存史料だけから完全に推定することはできず、目録・引用記録・失われた文書への言及・考古学的状況といった外部情報が必要になる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「正確を期せば、これはベイジアンネットワーク全体の同時事後分布を推定したものではなく、依存グラフの概念設計と、手作業で置いたベイズ因子による感度分析、すなわち将来のネットワーク化に向けた最小モデルである」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「ただし断っておくと、これらの事後確率は、仮説を「19日」と「15日」の二つに限定し、事前オッズを1対1とした条件付きの値である」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「なお、ここで推定しているのはあくまで「内応があったか」という発生の有無であって、「内応が敗因だったか」という因果命題ではない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「発生の推定と因果効果の推定は、混同されやすいが別の問題である」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「そこでモデルEでは、『甲陽軍鑑』の系統的位置について複数の構造仮説、すなわち独立した早い伝承、家伝群と共通する失われた伝承、家伝群からの派生・編集などを並べ、家伝群を見た後の追加ベイズ因子を、追加情報を与えないと置けば1、完全な独立史料と置けば4、中間的な位置づけなら1.9、という複数シナリオで動かした」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「なお、構造仮説に重みを置いて統合するなら、本来はモデル平均」（https://note.com/reading_monkey/n/nb4523f84f3df）
+- 一次情報の探し方：
+  - 「本稿では、19世紀以来の古典的史料批判の骨格を確認したうえで、それがベイズ推論・グラフィカルモデル・欠損データ理論といった現代の統計的道具立てでどこまで形式化できるか、そして形式化の限界はどこにあるかを論じる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「統計学で同じ標本を複製してサンプルサイズを水増ししてはいけないのと同じである」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「史料が保存される確率は、権力者にとって都合がよいか、公的機関が作成したか、大量に複製されたか、後世に正統とされたか、寺社や役所に保管されたか、といった条件に依存する」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「本格的に構築するなら、統計学・機械学習の既存の道具立てがそのまま使える」（https://note.com/reading_monkey/n/nb4523f84f3df）
+- 失敗・落とし穴：
+  - 「\text{史料批判} = \text{データ来歴の確認} + \text{誤差モデルの推定} + \text{バイアスの評価} + \text{独立データによる検証}」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「これは測定精度・バイアス・モデルの妥当性の評価に対応する」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「さらに、書き手のバイアスは除去すべきノイズであると同時に、史料を生み出した社会についての信号でもある」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「第三に共通の制度的バイアス（別々に観察したが、同じ宣伝方針・検閲・報告様式に従った）」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「遺伝子は誤りを伴う複製によって伝わり、その変異から系統樹を復元できる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「写本も筆写者による誤りを伴う複製によって伝わる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「これは、撃墜されずに帰還した機体の被弾箇所だけを見て装甲を決めてはいけない、という生存者バイアスの問題と同じ形をしている」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「われわれは原理的に「生き残った史料」に条件づけて推論しており、保存機構が史料内容にも依存するなら、この条件付けは見かけ上の相関やバイアスを生む」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「今井の言う感状の「絶対的」証拠力は、ベイズ的には強すぎる表現で、年月日の書き誤りや文書同定の誤りの確率を論理的にゼロにはできない以上、「大きいが有限なベイズ因子」に置き換えるのが適切である」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「ここで「実効」ベイズ因子には、文書の真正性、「不起合体」の語義解釈、その陣が小笠原方のどの範囲を指すか、作成者の情報アクセス、写本上の誤りの可能性がすべて畳み込まれている」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「両家記が互いを写していなくても、名門主家の敗北を指揮の失敗ではなく家臣の裏切りで説明する、という」（https://note.com/reading_monkey/n/nb4523f84f3df）
+- 実例：
+  - 「後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「9. 実例：塩尻峠の合戦」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「以上の枠組みを、具体的な史料批判の古典的な実例に当ててみよう」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「前節の独立性の原理が、この事例では結論の反転として現れる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「後者を扱うには、内応がなければ戦闘結果が変わったか、内応が敗北確率をどれだけ上げたかという反実仮想の評価、たとえば」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「[7] Adrian C. Barbrook, Christopher J. Howe, Norman Blake and Peter Robinson, "The phylogeny of The Canterbury Tales", Nature, vol. 394, 1998, p. 839. 進化生物学の系統解析手法を『カンタベリー物語』中「バースの女房の序」の15世紀写本58点に適用し、分岐ネットワーク（split decomposition）による解析結果を示した」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「この結果、モデルにとって重要な変数は、対象クラスターを説明する通説と違和感はなく機械学習モデ」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「それぞれのシミュレーション結果最終世代の遺構情報を実際」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「の 9期遺構データと比較した結果、設定値 2が要素が一致する件数は多い結果となった」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「実験結果の比較のため、二種類のア」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「この結果は、対象クラスター」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「この結果、モデルにとって重要な変数は、対象クラスターを説明する通説と違和感はなく機械学習モデルの有用性が示唆された」（https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K19998/）
+  - 「のリポジトリに掲載して公開する事例が増えて」（https://ocw.u-tokyo.ac.jp/lecture_files/11407/3/notes/ja/03nagasaki20180423_final.pdf）
+- 検索結果の抜粋：
+  - 「理系にも分かる史料批判――ベイズ推論と情報生成モデルによる再構成 — Oct 18, 2026 · 2. 古典的史料批判の骨格：外的批判と内的批判 この方法論は19世紀ドイツで体系化された。ランケ（Leopold von Ranke, 1795–1886）は、1824年の著作に付した『近世歴史家批判』で先行する歴史著述の情報源と信頼性を詳細に吟味し、史料批判の基準を大きく引き上げた。後世、近代的史料批判を代表 ...」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「21K19998 研究成果報告書 - KAKEN — 研究成果の学術的意義や社会的意義人文社会学研究では、 特に史資料批判が研究の根幹をなす。 この史資料批判は、外的批判と内的批判に類型化され、 後者は比較的専門分野の訓練と経験により習熟していく性質があるが、 前者を科学的に行う方法論は確立されていない。 一方で、 近年、AI ...」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
+  - 「KAKEN — 研究課題をさがす | 機械学習による外的史資料批判モデルの検... — Aug 30, 2021 · 人文社会学研究では、特に史資料批判が研究の根幹をなす。この史資料批判は、外的批判と内的批判に類型化され、外的批判を科学的に行う方法論は確立されていない。考古学分野でおきた様々な捏造や偽造事件はその方法論の確立が急務だといえる。本申請では、外的批判を科学的に行う方法 ...」（https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K19998/）
 
 ## 証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務（weighting testimony contributory vs interactional expertise interviews）
 - 文脈：突き合わせ
@@ -13570,3 +13635,163 @@
   - 「地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
 - 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+
+## 景気指標の先行・一致・遅行の読み方と転換点の判定（内閣府 景気動向指数の利用の手引き・複数の分野で同じ向きの重なり・単月で断定しない）（leading coincident lagging indicators turning point diffusion index how to read）
+- 文脈：手法・統計
+- 手順・やり方：
+  - 「3．統計の作成方法」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「※新たな「外れ値」処理手法を反映した詳細な算出方法(PDF形式：111KB)」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「なお、季節調整方法は、年1回見直しを行う(注)」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「i. X-12-ARIMAのスペックファイルの設定方法」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「2曜日型曜日調整・・・毎月の月曜日から日曜日までの各曜日の数が月によって違うことにより原数値に与えている影響を、毎月の平日（月曜日～金曜日）の数の合計と休日（土曜日と日曜日）の数の合計の2つを説明変数として取り除くもの」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「日本型曜日調整1・・・日本の国民の祝日を考慮したもの」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「日本型曜日調整2・・・日本の国民の祝日及びお盆休みや年末年始などの慣例的な休日を考慮したもの」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「（3）作成方法」（https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html）
+  - 「神奈川CIの作成方法は、内閣府のCI作成方法に準じています」（https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html）
+  - 「神奈川CIの作成方法を簡潔に述べると、個別指標における前月比変化率を、過去の平均的な変動と比較することによって基準化し、それらの平均を求めて合成し、指数化します」（https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html）
+  - 「統計調査等によって集計された値には、毎年繰り返される規則的な増減（季節変動）が含まれることが多く、景気変動を把握するため、公表される統計の値から季節変動を除去することを季節調整といい、その方法として、米センサス局法X-12-ARIMAや前年同月比を用いています」（https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html）
+  - 「定められた作成方法に基づき、これらの指標の動きを統合したCIとDI（先行指数、一致指数、遅行指数）が算出されています」（https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/）
+  - 「2 ＣＩ(コンポジット・インデックス)計算方法と見方」（https://www.pref.fukushima.lg.jp/sec/11045b/15926.html）
+  - 「(1) 計算方法」（https://www.pref.fukushima.lg.jp/sec/11045b/15926.html）
+  - 「作成方法については、内閣府経済社会総合研究所の方法（第10次改訂）に準拠しています」（https://www.pref.fukushima.lg.jp/sec/11045b/15926.html）
+- 突き合わせ・推定：
+  - 「X-12-ARIMAのoutlierコマンドを用いて検証し、対象期間にレベルシフト、異常値が検出された場合は、それを調整する」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「曜日調整及びうるう年調整に係る各種設定に際しては、推定パラメタのt値等を参考に総合的に判断する」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「次に、候補の中から、調整の統計的な妥当性を検証の上、AICが一番小さい候補を採用する」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「神奈川県景気基準日付は、神奈川県景気動向指数の一致指数の個別指標のうち過半がピーク（ボトム）をつけたことを景気の山（谷）の判定の根拠とし、検証した上で設定しています」（https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html）
+  - 「availability of estimates of sampling and reporting errors; the length of the」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「estimates of the contributions of the missing components were made, so that」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「of good and timely estimates for the missing components, this problem is a」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「offer no substitute for the quantitative estimates of error available from the」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「increase, rather than reduce, the discrepancy between the prior and the final estimate.」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「smoothed with a minimum loss of timeliness and provide monthly estimates」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「adding these lags for each series, one can obtain a rough estimate of the total」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「Table 11.3 Estimated Information Lags for 110 Cyclical Indicator Series」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「ment, prices, costs, profits, money, and credit. The estimates are conservative」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「13. These are rough estimates, based on simple methods applicable to large volumes of data at」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「these variables only after the initial estimate of the index had been published」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+- 一次情報の探し方：
+  - 「1．統計の目的」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「CIとDIは共通の指標を採用しており、採用系列数は、先行指数11、一致指数10、遅行指数9の30系列である」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「（2017年1月分以降、「規模別製造工業生産指数」（中小企業庁）公表休止のため、一致指数において「中小企業出荷指数（製造業）」を採用系列から除外）」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「採用系列は概ねひとつの山もしくは谷が経過するごとに見直しを行っており、現行系列は、第16循環の景気の山の暫定設定時（2020年7月）に選定され、2021年１月分から採用された」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「毎月の統計表には、足下の基調の変化をつかみやすい3か月後方移動平均と、足下の基調の変化が定着しつつあることを確認する7か月後方移動平均をあわせて掲載している」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「DIは採用系列のうち改善している指標の割合のことで、景気の各経済部門への波及の度合いを表す」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「DIは景気の各経済部門への波及の度合いを表す指標であり、各採用系列が大幅に拡張しようと、小幅に拡張しようと、拡張系列数の割合が同じならば同じDIが計測される」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「CIは景気の強弱を定量的に計測する指標であり、DIが同じ数値で計測されたとしても、各採用系列が大幅に拡張していればCIも大幅に上昇し、各採用系列が小幅に拡張しているならばCIも小幅に上昇する」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「このように、CIの変化幅そのものからは各経済部門への波及度合いの相違を把握することが難しいため、CIの変化幅に対する各採用系列の寄与度やDIをあわせて利用するのが望ましい」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「3．統計の作成方法」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「1.採用系列を選択する」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「(2)統計の継続性・信頼性」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「(6)統計の速報性」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「2.各採用系列の前月と比べた変量を算出する」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「各採用系列について、対称変化率（注1）を求める」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+- 失敗・落とし穴：
+  - 「DIは、景気の拡張が経済活動のより多くの分野に浸透していったことを示す指標であり、景気拡張が加速していることを示すものではないことに注意が必要である」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「5．利用上の注意」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「本コラム執筆時点における情報に基づいて作成しておりますので、最新情報との乖離にご注意ください」（https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/）
+  - 「※分りやすい説明を目的としたものであり、正確な定義ではありませんので、利用する際にはご注意ください」（https://www.esri.cao.go.jp/jp/stat/di/yogo.html）
+  - 「（注意）景気の山谷を判定するにはブライボッシャン法によるヒストリカルDIの算定を行います」（https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tebiki.html）
+  - 「Figure 2: Forecasters have bias in predicting declines in US GDP」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16）
+  - 「time forecaster. In sum, tests of this type could be severely biased against」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「tional or unbiased (cf. Keane and Runkle 1990). However, the errors in the」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「bias, GSB = 2(p - f)2, where p and f are means of Pt and rt , respectively.」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「are well-calibrated or unbiased (i.e., have GSB ~ 0 for all horizons). The」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+- 実例：
+  - 「ただし、例えば景気の拡張局面においても、CI一致指数が単月で低下するなど、不規則な動きも含まれていることから、移動平均値をとることにより、ある程度の期間の月々の動きをならしてみることが望ましい」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「（注1）対称変化率では、例えば、ある指標が110から100に低下した時（9.5%下降）と、100から110に上昇した時（9.5%上昇）で、変化率の絶対値が同じになる」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「X11パートの設定項目のうち2.及び3.はX11コマンドによる選定結果を用いている」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「6．利活用事例、研究論文など」（https://www.esri.cao.go.jp/jp/stat/di/di3.html）
+  - 「ただし、例えば景気の拡張局面においても、CI一致指数が単月で低下するなど、不規則な動きも含まれていることから、移動平均値をとることにより、ある程度の期間の月々の動きをならして、その基調的な動きを読み取ります」（https://www.pref.kanagawa.jp/docs/x6z/tc20/keiki/tebiki.html）
+  - 「景気動向指数の見方を理解するために、令和6年11月8日に公表された「令和6年9月分速報の結果の概要」を確認してみましょう」（https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/）
+  - 「「景気動向指数（令和6（2024）年9月分速報）結果の概要」」（https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/）
+  - 「「結果の概要」の1ページ目には、令和2年を基準年（100）としたときのCIの数値と、前月比・3ヵ月移動平均・7ヵ月移動平均の動きについての説明があります」（https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/）
+  - 「「結果の概要」の2ページ目に掲載されている個別系列の推移では、CIを合成する個別系列の一致指数への寄与度を確認できます」（https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/OBFuUvA0BE5oy8N/）
+  - 「We built this glossary to help you make better decisions about your money and your life. When a definition and an example aren't enough, one of our advice-only financial planners can tell you what it means for your situation. The only thing you pay for is the advice: a flat fee you agree to up front, with no commissions and no percentage of your investments.」（https://adviceonly.com/glossary/leading-economic-indicators）
+  - 「An example of turning point indicators」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16）
+  - 「According to a survey of leading statistical and economic institutions, business and consumer surveys are the most popular source of data for leading indicators (for example, surveys asking business managers about their order books and production plans have proved very useful leading indicators).」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16）
+  - 「For example,」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/realtimeturningpointindicators/2020-04-16）
+  - 「all kinds, for example, major strikes and foreign wars. This is particularly」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+  - 「extent. For example, the leaders as a group rank well below the coinciders」（https://www.nber.org/system/files/chapters/c10382/c10382.pdf）
+
+## データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）（Quartz bad data guide problems in real-world data journalism）
+- 文脈：手法・報道
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）（credit risk assessment adjusting book net assets private company financial statements）
+- 文脈：手法・企業調査
+- 手順・やり方：
+  - 「ミルシートとは？用途・発行方法・記載内容を徹底解説」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「不要な単管パイプの処理方法とは？４つの選択肢のご紹介」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「何故に急に赤サビ！！？”もらいサビ”のメカニズムと対処方法」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「知らないと損をする"サイクル試験"の実力とは？！その目的と鋼管の信頼性を検証する具体的な方法を詳しく解説」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「メッキパイプの製品知識を手軽に深める方法や如何に？！リモート対応も可能な大和鋼管の"メッキパイプ製品説明会"について」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「取引先の与信管理の方法｜信用調査・与信限度額の設定・倒産リスクの見極め方と債権回収の実務【公認会計士・税理士監修】」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「取引先の与信管理の方法｜信用調査・与信限度額の設定・倒産リスクの見極め方と債権回収の実務」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「「取引先の倒産で売掛金が回収できなかった」経験のある経営者、また「与信管理を社内ルール化したいが何から始めるべきか分からない」経営者に向けて、与信管理の7ステップ実務フロー・与信限度額の計算式・倒産リスク検知のチェックリスト・回収遅延時の段階別対応を完全ガイドします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「与信管理の7ステップ実務フロー」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「以下の7ステップで体系化されます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ1：新規取引前の信用調査」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「調査方法は自社調査・信用調査会社への依頼・インターネット公開情報の収集の3通りです」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ2：評価と格付け」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「ステップ3：与信限度額の設定」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「算出方法は後述の3つの計算式から選択します」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+- 突き合わせ・推定：
+  - 「白サビの効果的な落とし方！サビ取り消しゴムとクリーナーの検証」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「知らないと損をする"サイクル試験"の実力とは？！その目的と鋼管の信頼性を検証する具体的な方法を詳しく解説」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「保守経営や上場基準を意識する中堅〜大手では、自社の許容損失から逆算する」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「1つの手法で出した金額を、別の手法の結果と突き合わせて大きくずれていないか確認するのが実務では安全です（例：月商法の結果と月商一割法の結果を比較して、桁がずれていれば根拠を再確認する）」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「「入金データと請求データの突き合わせが手作業で追いつかない」「督促や残高管理が特定の担当者に依存している」「請求書の発行・会計・販売管理がばらばらで二重入力が発…」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「月商法（月商 × 回収サイト）や売掛債権基準など、資金繰りリスクや自社の許容損失から逆算する手法と結果を突き合わせ、桁がずれていないかを相互チェックする補助的な用途に留めるのが安全です」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「ante expected creditor losses in the event of default, typically in the form of a point estimate. Our」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+  - 「accounting information to estimate the returns they expect from lending (Barth et al. 1998; Kothari」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+  - 「conceptually and empirically related to and distinct from estimates of the loss given a default event,」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+  - 「likelihood) and (2) if so, what is the “best estimate” of the amount of loss. As discussed later, the former, a binary or」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+  - 「yes/no assessment is likely to be less difficult than the latter, a point estimate.」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+  - 「an obligation-specific estimate of the amount of creditor loss after a default (loss given default or」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+  - 「relative to the least risky issuers. LGD is an obligation-specific point estimate that can be compared」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+  - 「Spearman (Pearson) correlation between decile-ranked Moody’s PD and LGD estimates for our」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+  - 「relative credit risk with AAA the lowest relative credit risk. LGD is an estimate of the loss a creditor could expect on」（https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf）
+- 一次情報の探し方：
+  - 「”与信限度額”はどうやって見直す？！”決算書の読み方”についての基礎知識」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「3月は多くの企業の年次決算の時期です」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「取引先の”決算書”を確認して”与信限度額”を見直しを実施する方もいら」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「しかし、決算書に含まれる"損益計算書"や"貸借対照表"などには、数字が並んでいるので「」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「仮設資材販売店や鋼材販売店で営業を担当している方々に向けて、われわれなりの”決算」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「先ずは、”決算書”を読む”目的”を明確にする」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「”決算書”を読む場合には、まず”目的”を明確にする事が重要です」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「今回は、「与信限度額を見直しを実施する」という”目的”を設定していますので、過去の”決算書”との比較を行う事で、”与信限度額”を検討する事ができます」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「しかし、「新しく取引を始める為に、与信限度額を新たに設定する」という”目的”で”決算書”を読む場合には、該当する会社の”決算書”ではなく、業種や会社規模の近い会社の”決算書”や”与信限度額”と比較しながら考える事が必要になります」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「つまり”決算書”を読む目的によって、準備する資料の”質”や”量”が異なる事に、注意が必要になる訳です」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「”決算書”を読む時に重要な3つの分析」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「「与信限度額を見直しを実施する」際に重要となる、”決算書”を読む上で3つの分析をご紹介します」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「”与信限度額”を見直す場合には、”決算書”で得られる定量的な情報も重要ですが、お客さまの特徴や日々の営業活動で得られる定性的な情報や自身の営業活動の方針も重要です」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「特に、”決算書”に記載されている数値の背景などは、お客さまへヒアリングしてその理由や一過性のものなのか正しく判断しておく必要があります」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「仮設資材販売店や鋼材販売店で営業を担当している皆さんに向けて、決算」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+- 失敗・落とし穴：
+  - 「つまり”決算書”を読む目的によって、準備する資料の”質”や”量”が異なる事に、注意が必要になる訳です」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
+  - 「⚠️ 注意：「信頼関係があるから大丈夫」は最も危険な発想」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「現場で見かける最も多い失敗は、10年以上の長期取引先に対する信用調査の怠慢です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「⚠️ 注意：複数シグナルの同時発生は要警戒」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「月商法・純資産基準・売掛債権基準・仕入債務基準・平均取引単価基準など、それぞれ計算式・向いている企業規模・注意点が異なり、どれを選ぶかで限度額は数倍から10倍以上変わることもあります」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「GRCツールおすすめ26選を徹底比較｜ESG開示基準・委託先管理の動向と失敗しない選び方を解説」（https://catalog.monex.co.jp/article/?p=49812）
+- 実例：
+  - 「実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「調査結果を基に、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「信用調査の結果を踏まえ、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
+  - 「今日Excelを開いて自社ケースの試算を始められる状態にすることが本記事の到達点です」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「は、根拠が「1割」の慣行値のみのため単独で稟議に載せると説得力が弱く、他の手法との相互チェック（例：月商法の結果と比較して大きくずれていないか確認する）として使うのが実務では安全です」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「数字を自社ケースに書き換えれば、そのままExcelで試算できます」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「例えば売掛債権基準で使う格付けウェイトは、Aランク=2.0倍・Bランク=1.5倍・Cランク=1.0倍・Dランク=0.6倍・Fランク=0.2倍のように、Cランクを基準（1.0倍）にした相対値で設計する方式も広く使われています」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「1つの手法で出した金額を、別の手法の結果と突き合わせて大きくずれていないか確認するのが実務では安全です（例：月商法の結果と月商一割法の結果を比較して、桁がずれていれば根拠を再確認する）」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「契約書に個別の限度額を書き込まないケースが多いため、社内側で「与信管理台帳」に取引先ごとの限度額・格付け・見直し予定日・担当者を登録し、営業と経理が共通の台帳を参照できる状態にします」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「想定は「新規取引先A社（卸売業・自社純資産8,000万円）」で、月商法・純資産基準・売掛債権基準を組み合わせるケースです」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「取引先の業績が右肩上がりで、取引額の増加が事業拡大の反映であるケースです」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「数年前に設定した限度額を放置しており、現状と乖離していたケースです」（https://catalog.monex.co.jp/article/?p=49812）
+  - 「月商法（月商 × 回収サイト）や売掛債権基準など、資金繰りリスクや自社の許容損失から逆算する手法と結果を突き合わせ、桁がずれていないかを相互チェックする補助的な用途に留めるのが安全です」（https://catalog.monex.co.jp/article/?p=49812）

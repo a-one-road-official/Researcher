@@ -8,17 +8,11 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T02:06:37.685967+00:00",
+ "researched_at": "2026-11-08T09:14:14.639122+00:00",
  "evidence": {
-  "突き合わせ・推定": [
+  "実例": [
    {
-    "quote": "Step 4: Cross-Check with Academic Databases",
-    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A professional editor cross-checks every citation against the original source, corrects formatting, and edits the surrounding text for flow, coherence, and argument strength.",
+    "quote": "A List of Strong Verbs for Academic Writing: Examples and Exercises",
     "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -92,9 +86,15 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "実例": [
+  "突き合わせ・推定": [
    {
-    "quote": "A List of Strong Verbs for Academic Writing: Examples and Exercises",
+    "quote": "Step 4: Cross-Check with Academic Databases",
+    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A professional editor cross-checks every citation against the original source, corrects formatting, and edits the surrounding text for flow, coherence, and argument strength.",
     "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -119,7 +119,7 @@
    },
    {
     "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "status": "ok",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
@@ -143,12 +143,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ruilouis/n/n62de5972730c",
+    "url": "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
+    "url": "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "status": "ok",
     "method": "http"
    },
@@ -158,7 +158,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/auverimo/n/n7c48e409762f",
+    "url": "https://note.com/atmark_solution/n/n46ae55891da8",
     "status": "ok",
     "method": "http"
    },
@@ -173,17 +173,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://emanet.jp/column/ai-public-correction/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://maisondechatofficial.com/entry/2026/11/05/203000",
+    "url": "https://note.com/auverimo/n/n7c48e409762f",
     "status": "ok",
     "method": "http"
    },
@@ -203,7 +193,22 @@
     "method": "http"
    },
    {
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/30/2000001526/",
+    "url": "https://shigyo.ai/blog/2026-05-26-ai-hallucination-sanctions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-flow-lab.com/ai-answer-wrong-citations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maisondechatofficial.com/entry/2026/11/05/203000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/kz2021019/items/4f5f6aebe65403c88737",
     "status": "ok",
     "method": "http"
    },
@@ -249,16 +254,16 @@
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
-    "https://note.com/ruilouis/n/n62de5972730c",
-    "https://www.youtube.com/watch?v=gSnb_sQPvU4",
-    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
-    "https://note.com/biz_ai_lab/n/n199bbbdbfce0"
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
+    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://note.com/auverimo/n/n7c48e409762f"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） note",
@@ -269,9 +274,9 @@
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
-    "https://note.com/ruilouis/n/n62de5972730c",
-    "https://www.youtube.com/watch?v=gSnb_sQPvU4",
-    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
+    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
    ],
    "engines": [
@@ -289,9 +294,9 @@
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
     "https://www.youtube.com/watch?v=UCHVCjSxmEU",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://emanet.jp/column/ai-public-correction/",
     "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
    ],
    "engines": [
@@ -309,16 +314,17 @@
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
     "https://www.youtube.com/watch?v=UCHVCjSxmEU",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://emanet.jp/column/ai-public-correction/",
     "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "citation error types hallucination outdated superseded source verification checklist",
@@ -332,10 +338,10 @@
     "https://scholarworks.calstate.edu/downloads/p5548244z",
     "https://www.vappingo.com/word-blog/ai-hallucinations-academic-writing/",
     "https://manusights.com/blog/what-citation-verification-catches",
-    "https://www.emergentmind.com/topics/citation-hallucinations"
+    "https://arxiv.org/html/2607.22693v2"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -349,10 +355,10 @@
     "https://note.com/miuraandpartners/n/n6e2ed30722cc",
     "https://note.com/gifted_viola8806/n/n320003225f39",
     "https://note.com/gifted_viola8806/n/na41c8b925790",
-    "https://note.com/gifted_viola8806/n/n116ee27016c5",
     "https://note.com/gifted_viola8806/n/n8b8d42d7055b",
+    "https://note.com/gifted_viola8806/n/n116ee27016c5",
     "https://note.com/lovely_moose206/n/nb33d612ffa29",
-    "https://note.com/naokitani_lawyer/n/n2a51743a3b43"
+    "https://note.com/gifted_viola8806/n/n04144675f0a5"
    ],
    "engines": [
     "ddgs:google",
@@ -375,7 +381,7 @@
     "https://x.com/ponaken"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -384,18 +390,18 @@
    "query": "site:linkedin.com AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）",
    "results": [
     "https://jp.linkedin.com/in/kurokawa-naoki-law",
-    "https://jp.linkedin.com/in/hidehiko-kasaba-813baa133",
     "https://jp.linkedin.com/in/yoichi-honda",
-    "https://jp.linkedin.com/in/shohei-teramae-01181b24a/ja",
+    "https://jp.linkedin.com/in/hidehiko-kasaba-813baa133",
     "https://jp.linkedin.com/in/ryu-nakasaki-ab6747b8",
-    "https://jp.linkedin.com/in/hiroshiooshima1983",
+    "https://jp.linkedin.com/in/shohei-teramae-01181b24a/ja",
     "https://vn.linkedin.com/in/daisuke-yamamoto-557137198",
-    "https://jp.linkedin.com/in/kota-fujinuma-593329173",
+    "https://jp.linkedin.com/in/hiroshiooshima1983",
     "https://jp.linkedin.com/in/ai141",
-    "https://jp.linkedin.com/in/hiranumaconsulting"
+    "https://jp.linkedin.com/in/kota-fujinuma-593329173",
+    "https://jp.linkedin.com/in/%E8%8B%B1%E6%B2%BB-%E5%8A%A0%E8%B3%80-382966254"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -409,10 +415,10 @@
     "https://www.facebook.com/matsushimamidori/",
     "https://www.facebook.com/groups/bukatsutochiikisportclub/posts/3728882007418251/",
     "https://www.facebook.com/100064119754324/?locale=is_IS",
+    "https://www.facebook.com/groups/adachiku.iine/",
     "https://www.facebook.com/benrishi.mumeikai/",
     "https://www.facebook.com/p/%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%8C%E6%80%A7%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%9C%A8%E7%95%99%E7%89%B9%E5%88%A5%E8%B3%87%E6%A0%BC%E8%A8%B4%E8%A8%9F%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E4%BC%9A-100064878810714/",
-    "https://www.facebook.com/VUC2021/",
-    "https://www.facebook.com/paulshizuofukuzaki/posts/%E3%83%9E%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AE%E6%97%A5%E6%9C%AC%E6%86%B2%E6%B3%95%E8%8D%89%E6%A1%88%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95%E6%96%B0%E6%86%B2%E6%B3%95%E3%81%AF%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6%E5%BE%8C%E3%81%AE%E9%80%A3%E5%90%88%E5%9B%BD%E8%BB%8D%E6%9C%80%E9%AB%98%E5%8F%B8%E4%BB%A4%E5%AE%98%E7%B7%8F%E5%8F%B8%E4%BB%A4%E9%83%A8ghq%E3%81%AE%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%82%82%E3%81%A8%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E3%81%A8%E3%81%AE%E4%BA%A4%E6%B8%89%E3%82%84%E5%B8%9D%E5%9B%BD%E8%AD%B0%E4%BC%9A%E3%81%A7%E3%81%AE%E5%AF%A9%E8%AD%B0%E3%82%92%E7%B5%8C%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F1/28075665388703006/"
+    "https://www.facebook.com/VUC2021/"
    ],
    "engines": [
     "ddgs:google",
@@ -429,13 +435,13 @@
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
-    "https://note.com/ruilouis/n/n62de5972730c",
-    "https://www.youtube.com/watch?v=gSnb_sQPvU4",
-    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
+    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -449,13 +455,13 @@
     "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://www.it-houmu.com/archives/2705",
-    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
+    "https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://emanet.jp/column/ai-public-correction/",
+    "https://www.youtube.com/watch?v=UCHVCjSxmEU",
     "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -465,26 +471,26 @@
    "results": [
     "https://www.linkedin.com/pulse/why-we-cant-yet-blindly-trust-ai-answers-what-do-patrick-e-lawrence-86iwe",
     "https://www.linkedin.com/in/damien-charlotin-45769278/",
-    "https://www.linkedin.com/pulse/ai-legal-problem-nobody-talking-more-dangerous-than-kalim-ullah-101if",
     "https://www.linkedin.com/pulse/hallucinations-happen-heres-how-investors-can-keep-ai-andrew-west-mtdzc",
+    "https://www.linkedin.com/posts/jdiazdecaro_rwe-causalinference-ai-activity-7485608630164025345-bHAF",
+    "https://www.linkedin.com/pulse/ai-legal-problem-nobody-talking-more-dangerous-than-kalim-ullah-101if",
+    "https://www.linkedin.com/posts/nikunj-dang-3942454_enterpriseai-aitransformation-designthinking-activity-7508722408682430464-otFN",
+    "https://www.linkedin.com/posts/carolynelefant_douglasvdeutsche-activity-7501614639504437248-7fCB",
     "https://www.linkedin.com/posts/%F0%9F%8E%AF-ming-tommy-tang-40650014_1-claude-code-just-hallucinated-ensembl-activity-7429898761835028481-NQOu",
     "https://www.linkedin.com/posts/bradleygramhansen_navier-stokes-lost-in-translation-why-lean-activity-7514404677787029504-7GlV",
-    "https://www.linkedin.com/posts/carolynelefant_douglasvdeutsche-activity-7501614639504437248-7fCB",
-    "https://www.linkedin.com/posts/ruben-hassid_stop-embarrassing-yourself-with-outdated-activity-7417445538612101121-ayRa",
-    "https://www.linkedin.com/posts/caroline-trotman_ai-knowledgemanagement-digitaltwin-activity-7519172616411197440-H53u",
-    "https://www.linkedin.com/pulse/from-human-bias-ai-hallucinations-truth-false-dube-ph-d-cv1vc"
+    "https://www.linkedin.com/posts/caroline-trotman_ai-knowledgemanagement-digitaltwin-activity-7519172616411197440-H53u"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ25頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T19:49:28.238004+00:00"
 }
