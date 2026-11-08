@@ -115,8 +115,24 @@ def off_topic_latin(q: str, name: str, en: str = "", url: str = "") -> bool:
     return not any(w in q.lower() for w in words)
 
 
+# 2026-11-08 4-106 走査の失敗から：リクルートエージェントの求人検索ページ（r-agent.com/job_search/kw/…）の求人票の文言
+# （「求人票の作成・更新、応募者対応…」「取締役会、株主総会運営…」）が、定置用蓄電池・生成AI半導体の「社会」「顧客の顧客」「自社の競合」
+# の事実として INDEX.md に出た。日経の記事からは同じページの関連記事の見出し（「米民主党はAIブームを失速させるのか 5つのポイントで解説」
+# 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」）が数字入りのため題名の判定をすり抜けた。
+# 求人サイトの検索結果・求人一覧のページの引用は brief に出さない（4-9・4-31）。句点の無い「〜で解説」「注目N本」「〜選」の行は見出しとして外す。
+JOBHOST = re.compile(r"(r-agent|stanby|indeed|doda|mynavi|rikunabi|en-japan|townwork|baitoru|careerjet|kyujinbox|hatarako|bizreach|green-japan|wantedly|type\.jp|levtech|jac-recruitment)", re.I)
+JOBPATH = re.compile(r"(job_search|/jobs?/|/kw/|search|/q-|[?&](q|keyword|kw)=)", re.I)
+HEADLINE_RE = re.compile(r"(で解説|を解説|注目\s*\d+\s*本|\d+\s*選|まとめ|ランキング|とは[？?]?)\s*$")
+def job_or_headline(q: str, url: str) -> bool:
+    p = urlparse(url or "")
+    if JOBHOST.search(p.netloc) and JOBPATH.search((p.path or "") + "?" + (p.query or "")): return True
+    q = re.sub(r"\s+", " ", q or "").strip()
+    return "。" not in q and len(q) <= 80 and bool(HEADLINE_RE.search(q))
+
+
 def keep(i: dict, rec: dict, common: set) -> bool:
     q, nm = i.get("quote", ""), rec.get("name", "")
+    if job_or_headline(q, i.get("url", "")): return False
     if junk(q) or off_topic_title(q, nm) or off_topic_latin(q, nm, rec.get("en", ""), i.get("url", "")): return False
     return (urlparse(i.get("url", "")).netloc, re.sub(r"\s+", "", q)[:60]) not in common
 
