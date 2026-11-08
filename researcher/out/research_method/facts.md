@@ -8959,8 +8959,8 @@
   - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
 
 ## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
 - 文脈：同一性
@@ -10259,37 +10259,37 @@
   - 「視差角が小さいほど(カメラが近い位置にある、または点が遠い)三角測量精度が低下します」（https://note.com/witty_mango107/n/na39978bdd66e）
   - 「一般的に1〜2度以上の視差角がないと三角測量の信頼性が低く、地図点として登録しません」（https://note.com/witty_mango107/n/na39978bdd66e）
 - 一次情報の探し方：
-  - 「実用的な設計判断として、二視点では高速なHartley-Sturm法を使い、三視点以上ではDLT初期値+LM法で解くというアプローチが多くのSLAM実装で採用されています」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「PTAM(Parallel Tracking and Mapping)とLSD-SLAMで採用されています」（https://note.com/witty_mango107/n/na39978bdd66e）
-  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「研究者は、様々な方法、データソース、視点を採用することで、調査結果を確認し、結論が一貫していることを確認することができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「三角測量を採用するかどうかを選択する際、研究者は研究の背景、目的、利用可能な資源、研究テーマの性質を慎重に評価すべきである」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「調査は、統計的に評価できる量的情報を提供し、さまざまな質的情報源と組み合わせることができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「結果を包括的かつ透明性をもって提示し、データ源と採用した分析プロセスを明らかにする」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「同様に同じデータを解析するにしても、古典的な統計手法や」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
-  - 「公開情報や一次情報をもとに内容を検証し、正確性・信頼性の高いコンテンツ制作を支援しています」（https://construction-dx.com/ict/triangulation）
-  - 「正確な数値は国土地理院の一次情報でご確認ください」（https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/）
-  - 「例えば、インタビューの文字おこしをテキストマイニングのような統計的手法をもちいて頻出語句を調べたり、GTAやSCATのようなテクスト分析から文脈を抽出することも」（https://note.com/kasano/n/n5300393c2f30）
-  - 「決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書｜日本個別株デューデリジェンスセンター」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
-  - 「決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
-  - 「本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
-  - 「この測量技術を習得することで、決算発表後の株価の方向性をより高い解像度で予測し、ノイズに惑わされない一貫した投資判断を下すことが可能になります」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
+  - 「[PDF] Using Triangulation and Crystallization to Make Qualitative Studies ...」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「(PDF) The use of Triangulation in Social Sciences Research」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] VOL. 56, No. 2」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] Research Triangulation: Enhancing reliability in social research」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] Triangulation in Social Research: Qualitative and Quantitative ...」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] Žs Paradigm Shift: Revisiting Triangulation in Qualitative Research」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] Combining Quantitative and Qualitative Methods in a Single Large ...」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] An IntroductIon to trIAngulAtIon - UNAIDS」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] The use of Triangulation in Social Sciences Research」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「pdfs.semanticscholar.org」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「(PDF) Realism with the triangulation techniques - ResearchGate」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] The Role of Human Resource Development in the Poverty Zone in ...」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] ABSTRACT LOCKLEAR, ELIZABETH ASHLYN. Educating for ...」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] TRIANGULATION IN SOCIAL WORK RESEARCH: THE THEORY ...」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「[PDF] ACADEMIA Letters Triangulation in Research - ComplexDiscovery」（https://grokipedia.com/page/Triangulation_(social_science)）
 - 失敗・落とし穴：
+  - 「research, triangulation is a methodological strategy that involves the deliberate combination of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon, thereby enhancing the validity, reliability, and comprehensiveness of findings by cross-verifying information and mitigating potential biases.」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「Unlike single-method studies, which may be constrained by inherent biases, limitations in scope, or contextual insensitivity, triangulation emphasizes the convergence or complementarity of」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「began developing multiple validation techniques to mitigate biases in observational data, laying preliminary groundwork that was formalized in 1959 when Campbell and Donald W. Fiske introduced the」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「, proposing triangulation as a strategy to combine inquiries and resolve inherent biases. He categorized it into four types—」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「A key mechanism underlying these benefits is triangulation's role in controlling for researcher subjectivity by enclosing personal biases within a framework of multiple methods or observers. This approach, as articulated by Denzin, aims to neutralize」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「This integration fosters a more holistic understanding of social phenomena, reducing biases associated with any single methodological lens.」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「Investigator triangulation refers to the strategy of employing two or more researchers with diverse backgrounds to engage in the collection, analysis, or interpretation of data within a single study, aiming to mitigate the influence of individual researcher biases and enrich the overall understanding of the」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「By applying these contrasting theories, researchers can uncover diverse interpretations of the same empirical observations, reducing the risk of theoretical bias and enriching the analytical depth.」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「biases and illuminate essential phenomena.」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「In social contexts marked by power dynamics or interpretive variability, treating disparate tools as interchangeable can propagate biases from the dominant method, eroding the presumed balance.」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「This pitfall challenges the foundational logic of」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「This convergent bias risks entrenching dominant theoretical frameworks, where non-conforming data is sidelined rather than interrogated for deeper understanding.」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「三つ以上の視点からの三角測量での実装上の注意点を解説します」（https://note.com/witty_mango107/n/na39978bdd66e）
   - 「次回NAV18では特徴点追跡——KLT光学フロー、FAST/ORBの詳細実装、追跡失敗の検出と回復を解説します」（https://note.com/witty_mango107/n/na39978bdd66e）
   - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「また、よくある誤解として注意すべき点ですが、」（https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation）
-  - 「ここにある2つのいずれも、分析者のバイアスには対処できないため」（https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation）
-  - 「よくある失敗パターンは、3つの異なるデータを収集し、それぞれを別々に分析し、互いに全く対話のない3つの連続したセクションで報告する研究です」（https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation）
-  - 「視野はデジタルの内側に閉じている、ここを忘れると、さきほどの「見えている範囲を実態のすべてと取り違える」罠に嵌ってしまいます」（https://1st-cmo.one/essays/measurement-triangulation）
-  - 「三角測量は、多様なデータ源、方法論、視点を融合させることで、研究者のバイアスを減らし、研究の深みを増し、最終的にはより信頼できる徹底的な結論に到達することを可能にする」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「それぞれの研究者がもたらす異なる視点、経験、バイアスは、他の研究者の調査結果をサポートし、検証することができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「バイアスの可能性を低くし、調査結果の信頼性を高めることで、三角測量は研究の妥当性に貢献する」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「複数の手法、データソース、視点を組み合わせた場合でも、データに対する研究者の認識や分析は、研究者自身のバイアスや視点に影響される可能性がある」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「多くの情報源から得られた知見を統合し、総合する必要があるかもしれないが、これには主観的な判断が含まれ、研究者のバイアスがかかるかもしれない」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「三角測量のプロセスを通じて公平性と開放性を達成するためには、研究者は自身のバイアスを認識していなければならない」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「三角測量は、多くの方法を組み合わせることでバイアスを減らし、個々のバイアスの影響を減らし、客観性を高める」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
 - 実例：
   - 「三角測量結果の不確かさを定量化するため、画像ノイズから3D点座標誤差への伝播を解析します」（https://note.com/witty_mango107/n/na39978bdd66e）
   - 「このdepth画像をstereoRectifyの結果と組み合わせて3D点に変換し、Visual SLAMまたはLiDAR SLAMの入力として使います」（https://note.com/witty_mango107/n/na39978bdd66e）
@@ -10307,6 +10307,10 @@
   - 「例えば、ある人がテレビCMでサービスを知り、数日後に名前で検索して買った、このとき記録に残るのは、最後の検索クリックだけ」（https://1st-cmo.one/essays/measurement-triangulation）
   - 「ざっくり言うと、売上のような結果に対して、テレビ広告・デジタル広告・季節要因・競合の出稿状況などが、それぞれどれくらい寄与したかを、過去のデータからまとめて推定する道具です」（https://1st-cmo.one/essays/measurement-triangulation）
 - 検索結果の抜粋：
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を」（https://note.com/kasano/n/n5300393c2f30）
+  - 「トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 客観性を高めるうえで多角化は重要と感じていましたが、先人の同様な考え方に出会うことが出来ました。 ※ノーマン・K・デンジンさんが1978年に著書のなかで提唱したものだそうです。」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+  - 「Triangulation (social science) — [1] Denzin identified four primary types of triangulation, each serving to deepen understanding and address limitations inherent in single-method studies. Data triangulation employs varied data sources—such as observations from different individuals, times, or settings—to identify patterns and convergences within the same phenomenon.」（https://grokipedia.com/page/Triangulation_(social_science)）
+  - 「Triangulation in Qualitative Research - Simply Psychology — Sep 29, 2026 · Key Takeaways Definition: Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978). Four Types: Data, investigator, theory and method triangulation each corroborate a finding from a different direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH... — Jun 19, 2026 · 前回はエピポーラ幾何の基礎行列・本質行列を解説しました。 NAV17となる本記事では三角測量を扱います。 複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します。」（https://note.com/witty_mango107/n/na39978bdd66e）
   - 「質的研究においてなぜ三角測量（トライアンギュレーション）を用いる... — 以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します。」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「3-2. 4つの道具を役割分担する｜三角測量の実践 | CMO1号 — Aug 1, 2026 · アトリビューション分析の数字をなんとなく信頼しきれていない——その感覚は正しいです。 MMM・アトリビューション・実験・調査、4つの道具を強みと弱みで使い分ける「三角測量」の考え方と、短期P/L・長期B/Sの時間軸を整理します。」（https://1st-cmo.one/essays/measurement-triangulation）
@@ -10318,10 +10322,6 @@
   - 「測量のしくみ（三角測量・三角点・水準点） - 地理ラボ 詳しすぎる高... — 測量とは、2点間の位置関係を決めることです。 地図上の建物や海岸線などの位置関係を正確に決めるために測量は必須であり、地図は測量の結果を描いているものです。 このページでは、はじめに基本的な測量方法である」（https://alivevulnerable.com/basic/land-surveying/）
   - 「三角測量 - ナムウィキ - ja.namu.wiki — Aug 24, 2026 · 「直角 三角形 は角度一つだけ同じなら似た三角形」という性質と 三角関数を 利用するのに両方とも 平面でしか適用できない性質 であるため、 球面 である 地球 表面上で遠すぎる距離を測定すると誤差が発生することになる。」（https://ja.namu.wiki/w/삼각+측량）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を」（https://note.com/kasano/n/n5300393c2f30）
-  - 「【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10分 ロジマジBlogへようこそ ...」（https://note.com/logic_magic/n/nf5651ba8baea）
-  - 「戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... — このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反対に、戦争から反復可能な構造を取り出し、決勝点と作戦線という原則へまとめました。二人は ...」（https://note.com/hidetoshi_h_/m/m40eef6dece29）
-  - 「決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式... — Sep 7, 2025 · 本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します。それは、実績（着地）、会社計画（ガイダンス）、そして市場期待（コンセンサス）という3つの頂点を結ぶ「三角 ...」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
-  - 「上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — May 25, 2026 · この連載では、その時々にインフラづくりを主導し、あるいはその発展に寄与することで時代をデザインしてきた「土木人」を一人ずつ紹介します。 今回登場するのは、高精度の3次元測量システムを開発した上谷良吉（1911-1972）です。」（https://note.com/jsce_hyoden/n/naced57b483a7）
 
 ## 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）（market sizing top-down bottom-up reconcile assumptions table）
 - 文脈：推定
@@ -10737,11 +10737,11 @@
 
 ## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）（calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls）
 - 文脈：推定

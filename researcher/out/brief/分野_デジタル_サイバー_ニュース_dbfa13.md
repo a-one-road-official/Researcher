@@ -1,66 +1,68 @@
 # 分野_デジタル・サイバー_ニュース（業界ニュース（毎日）・顧客起点の3C＋PEST・事実のみ）
 
 ### 業界ニュース（毎日）｜定置用蓄電池（stationary energy storage battery）
-- 取得：2026-11-07T02:55・調査4回目・読んだ頁41
-- 痛み・損（深さの印）（3件）：
+- 取得：2026-11-08T03:12・調査5回目・読んだ頁41
+- 痛み・損（深さの印）（4件）：
+  - ［一次］2026-11-08「⚫ 風力は 1日を通して設備利用率は概ね一定であり、 0.01 円コマによる売電機会損失の影響は太陽光よりも低い」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［記事］2026-11-06「法人であれば、「単純回収が7年か8年か」より、「停電時に操業停止損失を減らせるか」「稟議資料で説明しやすいか」が重要」https://www.enegaeru.com/japan-battery-market-outlook-2026-2030
   - ［記事］2026-11-06「同社の受注残高は約49億ドルに達しており、その高い需要を示しています」https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030
   - ［記事］2026-11-06「蓄電池の購入判断は、補助の有無に加えて自家消費・売電の機会損失・維持費を確認します」https://www.enegaeru.com/smartintroductionofhomeenergystoragesystems-zeh
-- 顧客（金を払う側）（78件）：
+- 顧客（金を払う側）（86件）：
   - ［一次］2026-11-06「3. 導入拡大見通しの推計」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 国内の事業環境や市場動向を調査し、定置用蓄電システムの中長期的な導入拡大に向け」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 再エネの更なる導入拡大への貢献、EV普及も踏まえた定置用蓄電システムの役割、定置用蓄電システム」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 蓄電システムメーカー等の事業の予見性を高めるため、目標価格と共に今後の定置用蓄電システムの」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 本回を含む計４回の検討会の結果は、2月開催予定の再生可能エネルギー大量導入・次世代電力ネット」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- 顧客の顧客（発注元が求めること）（65件）：
-  - ［一次］2026-11-06「て提供されており、既築住宅向け蓄電システムは卸・商社、OEM/ODM生産、その他の3つの主要流通経路」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「うち、「卸・商社」及び「OEM/ODM」流通がそれぞれ約30%」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「※ OEM：Original Equipment Manufacturer、ODM：Original Designed Manufacturerの略で、いずれも委託を受けた企業のブランドで生産を行うこと」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「電池への要求性能が異なることから、車載用とは別に定置用向けの電池」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「既築住宅における課題  適切な設置場所、配線ルートが確保できない場合、追加工事が必要  PVの有無、PCSリプレースの有無によって要求される設置工数や技術水準が変化するため、対応可能な事業者が限られる 内装への配慮、隠ぺい配線を好む需要家が多く、工数が増加」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- 顧客の競合（奪いに来る側）（67件）：
+- 顧客の顧客（発注元が求めること）（75件）：
+  - ［一次］2026-11-08「燃料電池・蓄電池市場の展望（前編）脱炭素を支える蓄電池（世界） | 地域・分析レポート - 海外ビジネス情報 - ジェトロ」https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html
+  - ［一次］2026-11-08「燃料電池・蓄電池市場の展望（前編）脱炭素を支える蓄電池（世界）」https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html
+  - ［一次］2026-11-08「世界的な脱炭素化の流れが加速する中、再生可能エネルギー（再エネ）の拡大やモビリティーの電動化、水素エネルギーなどの活用が重要な課題となっている」https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html
+  - ［一次］2026-11-08「蓄電池は電気を貯蔵し、必要なときに利用できる技術であり、脱炭素化を支える基盤技術の1つだ」https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html
+  - ［一次］2026-11-08「そのため、各国で脱炭素化に向けた規制強化や電動化政策が進む中、BEVの普及拡大は車載用蓄電池需要を大きく押し上げており、蓄電池市場全体の成長を牽引する最大の要因の1つとなっている」https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html
+- 顧客の競合（奪いに来る側）（69件）：
+  - ［一次］2026-11-08「⚫ 補助金を活用した案件の蓄電システム価格は、 2022 年度、２０２４年度、２０２３年度の順で安価であり、炭酸リ」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［一次］2026-11-06「 家庭用蓄電システムは、日本、ドイツ、豪州、米国CA州において比較的導入が拡大している」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「＜市場シェア＞2018年時点で家庭用市場の約20%を占める」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「＜市場シェア＞2018年時点で家庭用市場の約80％を占める」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「米国CA州における家庭用蓄電システムの価格水準」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「 米国において最も市場シェアの高いTeslaのPowerwall（13.5kWh）は本体6,500USD、付属品（Gateway）」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- 自社の競合（商社・代理店・仲介）（6件）：
+- 自社の競合（商社・代理店・仲介）（7件）：
+  - ［一次］2026-11-08「//www.energy.gov/oced/articles/oced-announces-100-million-non-lithium-long-duration-energy-storage-pilot-projects, California Energy Commission, “Long Duration Energy Storage」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［一次］2026-11-06「て提供されており、既築住宅向け蓄電システムは卸・商社、OEM/ODM生産、その他の3つの主要流通経路」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「うち、「卸・商社」及び「OEM/ODM」流通がそれぞれ約30%」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「※2次卸・商社へ販売する事例もある」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［記事］2026-11-06「設備と必要工事の総額を150万円、別途の手数料を2万円、条件を満たして受け取る補助を20万円と仮定します」https://www.enegaeru.com/smartintroductionofhomeenergystoragesystems-zeh
-  - ［記事］2026-11-05「【メーカー・商社経営層必見】産業用太陽光・蓄電池販売革命：エネがえるBizで実現する10分ROI診断と市場シェア拡大戦略」https://www.enegaeru.com/biz-lib-strategyidea
 - 政治（法・予算・規制）（86件）：
   - ［一次］2026-11-06「1. 定置用蓄電システムの普及拡大に関する政府の取組」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「費補助金」の申請データに基づき、工事費を含む蓄電システム価格の相場を推計したところ、18.7万円」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「出所）SII「災害時に活用可能な家庭用蓄電システム導入促進事業費補助金」等データより三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「補助金総額：5億3400万EUR」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「系統用蓄電池等電力貯蔵システム導入支援関連の予算措置の状況」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf
-- 経済（規模・価格・為替）（127件）：
-  - ［一次］2026-11-06「2. 目標価格の設定」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「2030年の目標価格を新たに設定してはどうか」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「 2030年時点で蓄電システムから得られるユーザの利益を考慮の上、目標価格を設定してはどうか」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「国内家庭用蓄電システムの価格水準（2019年度）(1/2)」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「格の総額は14.0万円/kWh程度となった」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
+- 経済（規模・価格・為替）（143件）：
+  - ［一次］2026-11-08「5.9万円/kWh (5.6万円/kWh)」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
+  - ［一次］2026-11-08「1.6万円/kWh (1.5万円/kWh)」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
+  - ［一次］2026-11-08「4.2万円/kWh (4.0万円/kWh)」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
+  - ［一次］2026-11-08「⚫ 補助事業のデータを基に、 2023 年時点における家庭用蓄電システムの価格水準を推計した ※1」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
+  - ［一次］2026-11-08「※）2023 年度の設備費 11.1 万円 /kWh のうち、電池部分及び PCS の内訳は、 2022 年度推計値 ※2及び事業者へのヒアリングから得ら」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
 - 社会（人・担い手）（21件）：
   - ［一次］2026-11-06「関西蓄電池人材育成等コンソーシアムについて」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「同コンソーシアムでは、バッテリー人材の育成・確保に向けた人材育成プログラムの方向性及び2023年度」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「◼ 関西近辺においては、蓄電池関連の企業で、今後5年間で合計約1万人の雇用が見込まれており、産学官」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「が連携して、 2024年度よりバッテリー人材育成・確保の取組を本格的に実施していく」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「「バッテリー人材育成の方向性」(2023年3月)に関する主な進捗等」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
-- 技術（新しい技術・実証）（73件）：
+- 技術（新しい技術・実証）（76件）：
+  - ［一次］2026-11-08「※1） 令和5年度経産省ZEH事業、令和5年度環境省ZEH事業、令和5年度環境省ZEH-M事業、分散型エネルギーリソースの更なる活用に向けた実証事業（DER等導入事業・C事業）等のデータを基に推計」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［一次］2026-11-06「https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_003_04_00.pdf より三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 本回を含む計４回の検討会の結果は、2月開催予定の再生可能エネルギー大量導入・次世代電力ネット」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「※3：「その他」には製造・検査費用や開発費用等が含まれているが、工事費は含まれない」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 事業者ヒアリング及び「平成31年度需要家側エネルギーリソースを活用したバーチャルパワープラント構築実証」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［一次］2026-11-06「事業費補助金」（VPP実証）の申請データに基に、業務・産業用蓄電システム価格の相場を推計したとこ」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- SNS・note（LinkedIn・検索結果の抜粋）（1件）：
+- SNS・note（LinkedIn・検索結果の抜粋）（2件）：
+  - ［SNS］2026-11-08「What is a Battery Energy Storage System (BESS) and Why is It ... What is a Battery Energy Storage System (BESS) and Why is It ... LinkedIn https://www.linkedin.com > pulse > w...」https://www.linkedin.com/pulse/what-battery-energy-storage-system-bess-why-essential-singal-sj1wc
   - ［SNS］2026-11-06「Battery Energy Storage Systems (BESS) - LinkedIn Battery Energy Storage Systems (BESS) - LinkedIn LinkedIn https://www.linkedin.com > pulse > b...」https://www.linkedin.com/pulse/battery-energy-storage-systems-bess-comprehensive-guide-jose-a-rico-07vrf
-- SNS・note（X・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「# 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X # 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X X https://x.com > Vyhledávání」https://x.com/hashtag/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%90%91%E3%81%91%E8%93%84%E9%9B%BB%E6%B1%A0?lang=cs
-- 検索結果の抜粋（6件）：
+- 検索結果の抜粋（8件）：
+  - ［一次］2026-11-08「2024年度 定置用 蓄電システム普及拡大検討会の 結果 ... — 2024年度 定置用 蓄電システム普及拡大検討会の 結果 ... 経済産業省 PDF https://www.meti.go.jp > storage_system > pdf」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/20250307_1.pdf
   - ［一次］2026-11-06「定置用 蓄電システムの現状と課題 - 経済産業省 — 定置用 蓄電システムの現状と課題 - 経済産業省 経済産業省 PDF https://www.meti.go.jp > battery_strategy2 > shiryo06」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf
+  - ［記事］2026-11-08「定置用蓄電池 向け電池市場 2045年に15兆円規模に拡大へ — 定置用蓄電池 向け電池市場 2045年に15兆円規模に拡大へ 環境ビジネスオンライン https://www.kankyo-business.jp > news」https://www.kankyo-business.jp/news/3b26a9ae-3747-4bc7-add2-5285220d1365
   - ［記事］2026-11-06「数字は正直か――経産省 定置用 蓄電システム普及拡大検討会 ... — 数字は正直か――経産省 定置用 蓄電システム普及拡大検討会 ... 慧通信技術工業株式会社 https://www.ieee802.co.jp > articles > article-034-re-evalu...」https://www.ieee802.co.jp/articles/article-034-re-evaluation-grid-scale-battery.php
   - ［記事］2026-11-06「世界の 定置用 蓄電システム市場 2026 -2030年予測 高成長 ... — 世界の 定置用 蓄電システム市場 2026 -2030年予測 高成長 ... エネがえる https://www.enegaeru.com > エネがえるAPI」https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030
-  - ［記事］2026-11-05「産業 用蓄電池 （ 定置 型蓄電システム）市場「10倍化」に向けた ... — 産業 用蓄電池 （ 定置 型蓄電システム）市場「10倍化」に向けた ... エネがえる https://www.enegaeru.com > 産業用太陽光・自家消費」https://www.enegaeru.com/biz-lib-strategyidea
-  - ［記事］2026-11-04「2026年 9月の系統 用蓄電池ニュース 87件まとめ - BESS NEWS — 2026年 9月の系統 用蓄電池ニュース 87件まとめ - BESS NEWS bessnews.jp https://bessnews.jp > 制度・政策・審議会」https://bessnews.jp/institutional/standard/4629602102001/
+- SNS・note（X・検索結果の抜粋）（1件）：
+  - ［SNS］2026-11-04「# 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X # 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X X https://x.com > Vyhledávání」https://x.com/hashtag/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%90%91%E3%81%91%E8%93%84%E9%9B%BB%E6%B1%A0?lang=cs

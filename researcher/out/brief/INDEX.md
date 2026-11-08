@@ -8,36 +8,35 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-08 12:11 JST
+## 更新：2026-11-08 12:29 JST
 
 ## この24時間で増えた事実（一部）
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「ヒューマノイドロボットは工場の雇用を奪うのか？製造業の人手不足と自動化の現実を解説 - iCOM技研ブログ」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「ヒューマノイドロボットは工場の雇用を奪うのか？製造業の人手不足と自動化の現実を解説」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「近年、ヒューマノイドロボットへの注目が急速に高まっています」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地 | Iolite（アイオライト）」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「ロボットは人手不足解消に加え、AIとの融合により柔軟な作業対応が可能となっている」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「政府は、ロボットの統合をスマート高齢者ケアサービスに支援するために組織を招待しました」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「早期技術の採用者の存在と相まってロボット技術の普及を推進する政府の取り組みは、地域市場をさらに向上させました」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「政府の積極的な「中国製2025」の取り組みは、国内外の企業がローカライズされた生産を設定し、R&D施設を全国に拡大することを奨励しています」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「ヒューマノイドロボットは工場の雇用を奪うのか？製造業の人手不足と自動化の現実を解説 - iCOM技研ブログ」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「ヒューマノイドロボットは工場の雇用を奪うのか？製造業の人手不足と自動化の現実を解説」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「人のような形をしたロボットが工場内を移動し、部品を運び、作業台の前で組立や検査を行う映像も見られるようになりました」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜痛み・損（深さの印）：「給与そのものに加えて、社会保険料、採用費、教育費、離職対応、派遣・請負費用なども含めると、人手に依存する工程の維持コストは大きくなります」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜痛み・損（深さの印）：「ヒューマノイドロボットの導入は、人件費そのものを削減するだけでなく、採用難、教育負担、離職リスク、作業負荷といった複数の課題を減らす手段として検討される可能性があります」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜痛み・損（深さの印）：「設備が止まったときの対応、部品のばらつきへの判断、品質異常の原因確認、段取り替え、安全確認などは、人の経験や知識が重要です」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の顧客（発注元が求めること）：「より人間中心のロボット設計のための重要な要求を発生させます」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の顧客（発注元が求めること）：「ISO 9001:2015認証取得」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「【3行日記】フィクションにツッコむSE ～ロボットの充電～」https://note.com/tag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「ゆきまさかずよし on X: "イタリアで 人型ロボット にジェット ... ゆきまさかずよし on X: "イタリアで 人型ロボット にジェット ... X https://x.com > @Kyukimasa」https://x.com/Kyukimasa/status/1666606271641026560
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「火花吹いてぶっ倒れる、 人型ロボット として完璧な壊れ方だ - X 火花吹いてぶっ倒れる、 人型ロボット として完璧な壊れ方だ - X X https://x.com > @emetzyakuri」https://x.com/emetzyakuri/status/2090405395819008155
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「AIどころではない……2年後に 人型ロボット 「爆発的普及」で ... — AIどころではない……2年後に 人型ロボット 「爆発的普及」で ... ビジネス+IT https://www.sbbit.jp > ... > 製造業種別 > ロ」https://www.sbbit.jp/article/st/169887
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「ヒューマノイド ロボット市場 規模とYY成長率、2025-2032 — ヒューマノイド ロボット市場 規模とYY成長率、2025-2032 Coherent Market Insights https://www.coherentmarke」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「【徹底解説】 人型ロボット メーカーの世界ランキング20位を ... — 【徹底解説】 人型ロボット メーカーの世界ランキング20位を ... 株式会社ミジンコ https://mijinko.co.jp > media > humanoi」https://mijinko.co.jp/media/humanoid-robot/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（Facebook・検索結果の抜粋）：「日本初 人型ロボット 専用の大規模研究開発拠点「GMO ... 日本初 人型ロボット 専用の大規模研究開発拠点「GMO ... Facebook https://www.facebook.com > ... > Videos」https://www.facebook.com/GMOinternetgroup/videos/%E6%97%A5%E6%9C%AC%E5%88%9D%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B0%82%E7%94%A8%E3%81%AE%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%8B%A0%E7%82%B9gmo%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%A9%E3%83%9C%E8%A6%8B%E5%AD%A6%E3%83%84%E3%82%A2%E3%83%BC%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%94%E8%88%88%E5%91%B3%E3%81%82%E3%82%8B%E6%96%B9%E3%81%AF%E3%81%9C%E3%81%B2%E3%81%8A%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%B3%95%E4%BA%BA%E9%99%90%E5%AE%9Agmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB/28580605788214444/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「ヒューマノイド ロボット 市場、2035年に1兆360億米ドル規模へ ヒューマノイド ロボット 市場、2035年に1兆360億米ドル規模へ LinkedIn https://jp.linkedin.com > pulse > 人型ロボットが」https://jp.linkedin.com/pulse/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%8C%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8B%E3%82%89%E7%94%A3%E6%A5%AD%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%B8%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B42035%E5%B9%B4%E3%81%AB1%E5%85%86360%E5%84%84%E7%B1%B3%E3%83%89%E3%83%AB%E8%A6%8F%E6%A8%A1%E3%81%B8-7513818788258234368-9jsyc
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「2035年までに1,300万体のヒューマノイド ロボット が私たちの ... 2035年までに1,300万体のヒューマノイド ロボット が私たちの ... LinkedIn https://jp.linkedin.com > pulse >」https://jp.linkedin.com/pulse/13-million-humanoid-robots-walk-among-us-2035-bernard-marr-arwae?tl=ja
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「ヒューマノイド ロボット に私たちの世界のより良い感覚を与える ヒューマノイド ロボット に私たちの世界のより良い感覚を与える LinkedIn https://jp.linkedin.com > pulse」https://jp.linkedin.com/pulse/giving-humanoid-robots-better-sense-our-world-texas-instruments-2z5re?tl=ja
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「#humanoid # robot #generalpurposerobot #teleoperation ... #humanoid # robot #generalpurposerobot #teleoperation ... Link」https://www.linkedin.com/posts/takayukiyamazaki_humanoid-robot-generalpurposerobot-activity-7371213694309036032-G9IW
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「さらに、ロボットメンテナンス技術者の多くがドローンや産業用ロボット分野から転身してきた人材だ」https://36kr.jp/488876/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「人手不足の製造現場にフィジカルAI 「職人技」継承の担い手に 国産開発へ企業連合 | 共同通信 プレミアム | 沖縄タイムス＋プラス」https://www.okinawatimes.co.jp/articles/-/1912883
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「こうした人型ロボットは、まずは製造業や物流業などでの活用が進むと見られるが、担い手不足に悩む建設業もターゲットの1つだ」https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」https://36kr.jp/488876/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題」https://36kr.jp/488876/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品の修理代として3万元（約70万円）を請求され、その高さに驚いたという」https://36kr.jp/488876/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・検索結果の抜粋）：「なぜ中国は 人型ロボット 開発に注力するのか - note なぜ中国は 人型ロボット 開発に注力するのか - note note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/nakaikeya/n/n2c1c63111e29
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「北京市などをはじめとして、規模の経済がある程度形成された地方政府・地方自治体は企業向けのみならず、消費者の中でも手が届きそうになってきた層に向けて、人型ロボットを消費家電製品のような位置づけで販売する試みを始めている」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「このフェスはまさに、北京市政府を中心とした中国政府とロボット産業界がエンドユーザーの需要を刺激するための戦略を表すと捉えることができる」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「そして4つ目は、ロボット販売促進補助金措置の実施だ」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「1.AI×ロボティクス×ブロックチェーンで産業構造が進化」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「ロボットは人手不足解消に加え、AIとの融合により柔軟な作業対応が可能となっている」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「3.エッジAIとフィジカルAIで“現場完結型”の知能化が進む」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「なぜ中国は人型ロボット開発に注力するのか｜仲島池哉＠仲池屋」https://note.com/nakaikeya/n/n2c1c63111e29
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「朝、NHKのニュースを見ていると、中国で行われた人型ロボットによる運動競技が紹介されていました。」https://note.com/nakaikeya/n/n2c1c63111e29
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「ロボットたちが走る。格闘する。パンチを繰り出し、キックを放つ。転倒すれば、再び立ち上がる。」https://note.com/nakaikeya/n/n2c1c63111e29
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「「ロボットの価格崩壊」は中小企業の人手不足を本当に解くのか？ - WORLD INSIGHT」https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「「ロボットの価格崩壊」は中小企業の人手不足を本当に解くのか？」https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「# 人型ロボット - Search / X # 人型ロボット - Search / X X https://x.com > Search」https://x.com/hashtag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「関節1つの交換で70万円！中国で 人型ロボット 普及の陰に ... — 関節1つの交換で70万円！中国で 人型ロボット 普及の陰に ... 36Kr Japan https://36kr.jp > new-cat > その他 > 編集部おす」https://36kr.jp/488876/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「人型ロボット 07 - YouTube — 人型ロボット 07 - YouTube YouTube https://www.youtube.com > watch」https://www.youtube.com/watch?v=TJmLxjcqM_A&vl=ja
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「特化型ヒューマノイド ロボット市場 は、予測期間 2026 -2033 ... — 特化型ヒューマノイド ロボット市場 は、予測期間 2026 -2033 ... LinkedIn https://jp.linkedin.com > pul」https://jp.linkedin.com/pulse/%E7%89%B9%E5%8C%96%E5%9E%8B%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AF%E4%BA%88%E6%B8%AC%E6%9C%9F%E9%96%932026-2033%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6137%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E6%BF%80%E3%81%97%E3%81%84%E7%AB%B6%E4%BA%89-zb0ee
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「中国車、国内失速も海外で快走 9月の輸出56％増、輸入は半減」https://36kr.jp/492924/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」https://36kr.jp/488876/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題」https://36kr.jp/488876/
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（LinkedIn・検索結果の抜粋）：「エッジ AI チップ 関連企業トップ10一覧 - LinkedIn エッジ AI チップ 関連企業トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > エッジ-ai-チッ」https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-%E3%83%81%E3%83%83%E3%83%97%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-polytrack-market-analytics-mcx4e
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エヌビディアなどの AI 半導体、米政府が 輸出 規制案 - Bloomberg — エヌビディアなどの AI 半導体、米政府が 輸出 規制案 - Bloomberg Bloomberg https://www.bloomberg.com 」https://www.bloomberg.com/jp/news/articles/2026-03-05/TBFSPTKK3NY800
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エッジ AI チップ 関連 企業 トップ10一覧 - LinkedIn — エッジ AI チップ 関連 企業 トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > エッジ」https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-%E3%83%81%E3%83%83%E3%83%97%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-polytrack-market-analytics-mcx4e
@@ -91,6 +90,7 @@
 - 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の顧客（発注元が求めること）：「27 Martin Fornusek, “Government agrees to carry out defense procurement through Prozorro system,” Kyiv Independent, Febr」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
 - 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の顧客（発注元が求めること）：「55 “Defence Procurement Agency is largest customer of drones in Prozorro,” Ukrinform, June 21, 2024.」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
 - 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「複数のドローンを協調させる「スウォーム（群れ）技術」を開発するSwarmer 社は、2025 年 9 月に米国」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「とウクライナから 1500 万ドルを調達したと発表、翌 2026 年には米国新興企業市場で IPO が実施された」https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf
 
 ## ファイル
 - 分野_AI_半導体_輸出_dd03fe.md：分野_AI・半導体_輸出

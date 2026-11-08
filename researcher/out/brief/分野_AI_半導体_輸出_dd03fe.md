@@ -1,7 +1,7 @@
 # 分野_AI・半導体_輸出（日本→海外（輸出）・顧客起点の3C＋PEST・事実のみ）
 
 ### 日本→海外（輸出）｜人型ロボット（humanoid robot）
-- 取得：2026-11-07T02:56・調査4回目・読んだ頁81
+- 取得：2026-11-08T03:12・調査5回目・読んだ頁82
 - 痛み・損（深さの印）（15件）：
   - ［記事］2026-11-07「給与そのものに加えて、社会保険料、採用費、教育費、離職対応、派遣・請負費用なども含めると、人手に依存する工程の維持コストは大きくなります」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
   - ［記事］2026-11-07「ヒューマノイドロボットの導入は、人件費そのものを削減するだけでなく、採用難、教育負担、離職リスク、作業負荷といった複数の課題を減らす手段として検討される可能性があります」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
@@ -20,7 +20,7 @@
   - ［記事］2026-11-07「より人間中心のロボット設計のための重要な要求を発生させます」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
   - ［記事］2026-11-07「ISO 9001:2015認証取得」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
   - ［記事］2026-11-06「航空宇宙分野やその他の高付加価値製造分野への進出は、ロボットメーカーやアクチュエータ、センサー、AIソフトウェア、マシンビジョン、バッテリー、安全システムなどのサプライヤーにとって、新たな収益機会を生み出す可能性がある」https://straitsresearch.com/jp/report/humanoid-robot-market
-- 顧客の競合（奪いに来る側）（112件）：
+- 顧客の競合（奪いに来る側）（120件）：
   - ［一次］2026-11-06「2026年、中国の人型ロボットは前年比94％増産の予測、政策主導で量産・商用化が加速」https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html
   - ［一次］2026-11-06「市場調査会社トレンドフォース（集邦諮詢）は4月9日、2026年の中国における人型ロボットの生産台数が前年比94％増加するとの予測を発表した」https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html
   - ［一次］2026-11-06「工業情報化部によると、中国の人型ロボット業界においては、2025年が同産業の「量産元年」との共通認識があるとされる」https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html
@@ -32,66 +32,66 @@
   - ［記事］2026-11-06「海外の最先端ロボットを日本市場へ — AI実装・業務統合・現場導入・運用までを一貫して担う技術商社です」https://www.innosystech.jp/robot-business.html
   - ［記事］2026-11-06「技術商社として中国最先端ロボットを日本市場へ導入」https://www.innosystech.jp/robot-business.html
   - ［記事］2026-11-05「アクロバットで話題の人型ロボ「H1」「G1」、GMO子会社が国内販売へ 中国Unitreeと代理店契約」https://www.itmedia.co.jp/news/article/2606/19/1260619118/
-- 政治（法・予算・規制）（71件）：
+- 政治（法・予算・規制）（78件）：
   - ［一次］2026-11-04「今回のリスト追加は、これらの機器が米国の経済安全保障や国家安全保障を損なうサプライチェーン上の脆弱（ぜいじゃく）性を生じさせ、米国の重要インフラにサイバーセキュリティーリスクをもたらす恐れがあるとの省庁横断組織の判断に基づく」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［記事］2026-11-07「政府は、ロボットの統合をスマート高齢者ケアサービスに支援するために組織を招待しました」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-  - ［記事］2026-11-07「早期技術の採用者の存在と相まってロボット技術の普及を推進する政府の取り組みは、地域市場をさらに向上させました」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-  - ［記事］2026-11-07「政府の積極的な「中国製2025」の取り組みは、国内外の企業がローカライズされた生産を設定し、R&D施設を全国に拡大することを奨励しています」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-  - ［記事］2026-11-07「主要な運転者はヘルスケア、教育、小売およびカスタマー サービスのようなセクターで成長するオートメーションの必要性を含み、スタートアップ、大学および政府の実験室間のR & Dの活動を高めます」https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4
-- 経済（規模・価格・為替）（101件）：
+  - ［記事］2026-11-08「北京市などをはじめとして、規模の経済がある程度形成された地方政府・地方自治体は企業向けのみならず、消費者の中でも手が届きそうになってきた層に向けて、人型ロボットを消費家電製品のような位置づけで販売する試みを始めている」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
+  - ［記事］2026-11-08「このフェスはまさに、北京市政府を中心とした中国政府とロボット産業界がエンドユーザーの需要を刺激するための戦略を表すと捉えることができる」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
+  - ［記事］2026-11-08「そして4つ目は、ロボット販売促進補助金措置の実施だ」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
+  - ［記事］2026-11-08「具体的には、政府が個人消費者向けに最大 1500 元（1元＝21円換算で約3万3000円）、企業向けに最大 25 万元（約525万円）の補助金を提供することで、ロボット購入のハードルを下げ、市場浸透を加速させることを目的としている」https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/
+- 経済（規模・価格・為替）（113件）：
   - ［一次］2026-11-06「2026年、中国の人型ロボットは前年比94％増産の予測、政策主導で量産・商用化が加速」https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html
   - ［一次］2026-11-06「市場調査会社トレンドフォース（集邦諮詢）は4月9日、2026年の中国における人型ロボットの生産台数が前年比94％増加するとの予測を発表した」https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html
   - ［一次］2026-11-06「市場規模は15億5,000万元（約356億5,000万円、1元＝約23円）に達した」https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html
   - ［一次］2026-11-04「市場規模も世界全体の50％を超えた」https://spap.jst.go.jp/china/news/260602/topic_2_01.html
-  - ［記事］2026-11-06「市場規模の観点でも今後急速に拡大すると予測され、2050年には自動車産業を超える可能性もあるといわれている」https://www.mirait-one.com/miraiz/whatsnew/trend-data_0071.html
-- 社会（人・担い手）（84件）：
+  - ［記事］2026-11-08「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」https://36kr.jp/488876/
+- 社会（人・担い手）（87件）：
   - ［一次］2026-11-05「通知では、（1）実地訓練スペースの構築、（2）イノベーション応用コンソーシアムの設立、（3）実用的な作業技能の開発、（4）実環境での応用検証と継続的な配備の強化、（5）重要分野の基盤整備の強化（標準化の推進、人材育成、金融支援などを含む）、（6）蓄積された知見の整理・普及といった6つの側面の具体的な取り組みが盛り込まれた」https://www.jetro.go.jp/biznews/2026/07/d17df8127c38f0b9.html
-  - ［記事］2026-11-07「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地 | Iolite（アイオライト）」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
-  - ［記事］2026-11-07「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
-  - ［記事］2026-11-07「ロボットは人手不足解消に加え、AIとの融合により柔軟な作業対応が可能となっている」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
-  - ［記事］2026-11-07「工場で人に代わって作業を担う「産業用ロボット」は、深刻化する国内の人手不足に貢献」https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology
-- 技術（新しい技術・実証）（165件）：
+  - ［記事］2026-11-08「さらに、ロボットメンテナンス技術者の多くがドローンや産業用ロボット分野から転身してきた人材だ」https://36kr.jp/488876/
+  - ［記事］2026-11-08「人手不足の製造現場にフィジカルAI 「職人技」継承の担い手に 国産開発へ企業連合 | 共同通信 プレミアム | 沖縄タイムス＋プラス」https://www.okinawatimes.co.jp/articles/-/1912883
+  - ［記事］2026-11-08「こうした人型ロボットは、まずは製造業や物流業などでの活用が進むと見られるが、担い手不足に悩む建設業もターゲットの1つだ」https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/
+  - ［記事］2026-11-08「日本建設業連合会が25年7月に発表した長期ビジョン2.0では、25年度に299万人いた技能者が、10年後の35年度に264万人まで減ると予測した」https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/
+- 技術（新しい技術・実証）（162件）：
   - ［一次］2026-11-04「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「外国製のヒューマノイドや四足歩行ロボットなどの高度ロボット機器と、ネットワーク接続型パワーインバーターを追加したと発表」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「ただし、ロボットについては戦争省（国防総省）が、インバーターについては国土安全保障省が、国家安全保障上のリスクがないとして「条件付き承認（Conditional Approval）」を付与した場合は、FCCの認証を受けられる（注）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「リスト掲載品目の中で、製造企業を特定せず製品カテゴリー自体を掲載し、特定製品に「条件付き承認」を与える形式となっているのは、今回の外国製高度ロボット機器およびインバーターのほか、消費者ルーター（」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「中国製ロボット、海外導入広がる 羽田空港で人型ロボット実証 | Science Portal China」https://spap.jst.go.jp/china/news/260602/topic_2_01.html
-- SNS・note（note・本文）（73件）：
-  - ［SNS］2026-11-07「【3行日記】フィクションにツッコむSE ～ロボットの充電～」https://note.com/tag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
-  - ［SNS］2026-11-06「きょうの気になる企業ニュース（2026/11/02）」https://note.com/tag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
-  - ［SNS］2026-11-06「テスラがオプティマスを年間1,000万台作る工場を建てはじめた」https://note.com/tag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
-  - ［SNS］2026-11-06「雪かき自動化は実現する？ 未来のAIBOとAIロボット」https://note.com/tag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
-  - ［SNS］2026-11-06「投資＃８０２ スマホですら熱暴走する真夏の屋外で、人型ロボットは本当に動けるのか」https://note.com/tag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
-- SNS・note（X・検索結果の抜粋）（12件）：
-  - ［SNS］2026-11-07「ゆきまさかずよし on X: "イタリアで 人型ロボット にジェット ... ゆきまさかずよし on X: "イタリアで 人型ロボット にジェット ... X https://x.com > @Kyukimasa」https://x.com/Kyukimasa/status/1666606271641026560
-  - ［SNS］2026-11-07「火花吹いてぶっ倒れる、 人型ロボット として完璧な壊れ方だ - X 火花吹いてぶっ倒れる、 人型ロボット として完璧な壊れ方だ - X X https://x.com > @emetzyakuri」https://x.com/emetzyakuri/status/2090405395819008155
-  - ［SNS］2026-11-06「人型ロボット 「Unitree G1」改造2日目。 今回はAI専用の ... - X 人型ロボット 「Unitree G1」改造2日目。 今回はAI専用の ... - X X https://x.com > @masahirochaen」https://x.com/masahirochaen/status/2109313327948333217/video/1
-  - ［SNS］2026-11-05「ぽん吉 on X: " 世界人型ロボット最新レポート①｜2026年11月4日 8:00 ... 🤖 世界人型ロボット最新レポート①｜2026年11月4日 8:00 JST 本日の最重要ニュースは、Xiaomiが11月3日に発表した、工場と住宅の両方におけるロボット実証の進展です。 ① 🟢 Xiaomi：自動車工場で8時間の作業を検証 Xiaomiは11月3日、人型ロボットの実用化に関する最新成果を発表しました。 主な ...」https://x.com/Zwe3sJg1hD54815/status/2117783993366307302
-  - ［SNS］2026-11-05「JR西日本ニュース【公式】 on X: " 「量産型人型ロボット」 既導入の... 「量産型人型ロボット」 既導入の人型ロボットを軽量・小型化 より高所での作業が可能になり、操作性も向上 小型・軽量化、ブーム長さを延長などの改良実施 線路沿線の支障木伐採を対象に活用 2026年11月より使用開始」https://x.com/news_jrwest/status/2111027510318354489
-- 検索結果の抜粋（70件）：
-  - ［一次］2026-11-05「中国、 2026 年度の 人型ロボット とエンボディドAIに係る実地 ... — 中国、 2026 年度の 人型ロボット とエンボディドAIに係る実地 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/07」https://www.jetro.go.jp/biznews/2026/07/d17df8127c38f0b9.html
-  - ［一次］2026-11-05「Japan firms work with China on humanoid robots — Japan firms work with China on humanoid robots NHKニュース https://www3.nhk.or.jp > news」https://www3.nhk.or.jp/nhkworld/news/20260928de52951/
-  - ［一次］2026-11-04「米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... — 米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［一次］2026-11-04「中国製ロボット、海外導入広がる 羽田空港で 人型ロボット 実証 — 中国製ロボット、海外導入広がる 羽田空港で 人型ロボット 実証 Science Portal Asia Pacific https://spap.jst.go.jp > china > news > topic_2_01」https://spap.jst.go.jp/china/news/260602/topic_2_01.html
-  - ［一次］2026-11-04「ヒューマノイド ロボット — ヒューマノイド ロボット MITSUI & CO., LTD. PDF https://www.mitsui.com > afieldfile > 2025/02/07」https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/02/07/2501btf_tsuji_matsuura.pdf
-- SNS・note（note・検索結果の抜粋）（9件）：
-  - ［SNS］2026-11-06「なぜ世界をリードした日本のヒューマノイド ロボット は停滞 ... なぜ世界をリードした日本のヒューマノイド ロボット は停滞 ... note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/tagtag/n/nab12ea360ce2
-  - ［SNS］2026-11-05「話題のヒューマノイド ロボット 紹介：欧米編、21選 - note 話題のヒューマノイド ロボット 紹介：欧米編、21選 - note note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/yamarikiedge/n/nb88c6f434090
-  - ［SNS］2026-11-05「ドローンの歴史から予想するヒューマノイド ロボット の未来 ドローンの歴史から予想するヒューマノイド ロボット の未来 note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/otl_sr/n/n069149d30cbd
-  - ［SNS］2026-11-05「新入社員は「人型ロボット」になった―創業140年の老舗企業が始めた、A... Sep 8, 2026 · 創業140年の老舗企業、カクイチが2027年4月、二足歩行型ヒューマノイドロボットを「新卒総合職」として迎える計画を進めています。 名前まであります。 「宮澤ノア」 です。 工場だけで働く産業用ロボットではありません。」https://note.com/anms/n/n398f824cb45e
-  - ［SNS］2026-11-04「なぜ日本からヒューマノイド ロボット スタートアップが生まれ ... なぜ日本からヒューマノイド ロボット スタートアップが生まれ ... note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/otl_sr/n/nbb8ebb84e6e1
+- SNS・note（LinkedIn・検索結果の抜粋）（24件）：
+  - ［SNS］2026-11-08「#humanoid # robot #generalpurposerobot #teleoperation ... #humanoid # robot #generalpurposerobot #teleoperation ... LinkedIn https://www.linkedin.com > posts」https://www.linkedin.com/posts/takayukiyamazaki_humanoid-robot-generalpurposerobot-activity-7371213694309036032-G9IW
+  - ［SNS］2026-11-07「ヒューマノイド ロボット 市場、2035年に1兆360億米ドル規模へ ヒューマノイド ロボット 市場、2035年に1兆360億米ドル規模へ LinkedIn https://jp.linkedin.com > pulse > 人型ロボットが未来の技...」https://jp.linkedin.com/pulse/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%8C%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8B%E3%82%89%E7%94%A3%E6%A5%AD%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%B8%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B42035%E5%B9%B4%E3%81%AB1%E5%85%86360%E5%84%84%E7%B1%B3%E3%83%89%E3%83%AB%E8%A6%8F%E6%A8%A1%E3%81%B8-7513818788258234368-9jsyc
+  - ［SNS］2026-11-07「2035年までに1,300万体のヒューマノイド ロボット が私たちの ... 2035年までに1,300万体のヒューマノイド ロボット が私たちの ... LinkedIn https://jp.linkedin.com > pulse > 13-million-humanoid-ro...」https://jp.linkedin.com/pulse/13-million-humanoid-robots-walk-among-us-2035-bernard-marr-arwae?tl=ja
+  - ［SNS］2026-11-07「ヒューマノイド ロボット に私たちの世界のより良い感覚を与える ヒューマノイド ロボット に私たちの世界のより良い感覚を与える LinkedIn https://jp.linkedin.com > pulse」https://jp.linkedin.com/pulse/giving-humanoid-robots-better-sense-our-world-texas-instruments-2z5re?tl=ja
+  - ［SNS］2026-11-07「Humanoid Robots : 18 Companies Racing To Build The Next ... Humanoid Robots : 18 Companies Racing To Build The Next ... LinkedIn https://www.linkedin.com > pulse > h...」https://www.linkedin.com/pulse/humanoid-robots-18-companies-racing-build-next-big-thing-bernard-marr-tjdae
 - SNS・note（Facebook・検索結果の抜粋）（9件）：
   - ［SNS］2026-11-07「日本初 人型ロボット 専用の大規模研究開発拠点「GMO ... 日本初 人型ロボット 専用の大規模研究開発拠点「GMO ... Facebook https://www.facebook.com > ... > Videos」https://www.facebook.com/GMOinternetgroup/videos/%E6%97%A5%E6%9C%AC%E5%88%9D%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B0%82%E7%94%A8%E3%81%AE%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%8B%A0%E7%82%B9gmo%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%A9%E3%83%9C%E8%A6%8B%E5%AD%A6%E3%83%84%E3%82%A2%E3%83%BC%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%94%E8%88%88%E5%91%B3%E3%81%82%E3%82%8B%E6%96%B9%E3%81%AF%E3%81%9C%E3%81%B2%E3%81%8A%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%B3%95%E4%BA%BA%E9%99%90%E5%AE%9Agmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB/28580605788214444/
   - ［SNS］2026-11-05「【世界人型ロボット運動会 日本から唯一参戦「ひとみん」400mと1500m... Aug 27, 2026 · 大会、二日目の昨日は、 四百メートル走が行われました。 中には、常識を覆す走りを見せる ロボットも。 アメリカの調査会社によりますと、 今年、上半期で出荷された、人型ロボットの内、 九十七パーセントが、中国メーカー制だったと言い ます。」https://www.facebook.com/tvasahinews/videos/世界人型ロボット運動会-日本から唯一参戦ひとみん400mと1500mを完走-北京中国で5日間にわたって行われている人型ロボットの運動会で日本と中国の企業が世界最/1605544117889612/
   - ［SNS］2026-11-05「人型ロボットを待つか、今あるロボットから始めるか、決めていますか... 人型ロボットを待つか、今あるロボットから始めるか 、決めていますか。 横須賀の造船所づくりを進めた幕臣と、飛ぶ機械を描 き続けた画家が語ったら。 人型ロボットが自動車工場で部品を運ぶ映像を見て、 うちもいずれ導入すべきかと考える。」https://www.facebook.com/growthintelligence2026/videos/人型ロボットを待つか今あるロボットから始めるか決めていますか横須賀の造船所づくりを進めた幕臣と飛ぶ機械を描き続けた画家が語ったら人型ロボットが自動車工場で部品を/951094967720868/
   - ［SNS］2026-11-05「人型ロボット研究開発チーム - Facebook Feb 25, 2026 · 本時刻より自社HPを公開いたします。 0から自力で開発していますので、何か、不具合や改 善箇所があればご連絡いただけたら修繕にかかります 。 下記、URLよりHPを閲覧できます。 HR-RT.COM 人型ロボット研究開発チーム」https://www.facebook.com/profile.php/?id=61586129523341
   - ［SNS］2026-11-05「ウサイン・ボルトに迫るスピードの人型ロボットが誕生！浙江大学杭州...【ロボットの「恥ずかしそうに顔を覆う」走り方が話題に！】8月23日に...【8秒64！ロボットが100メートル走で激走！】北京市の国家スピードス... Feb 7, 2026 · ウサイン・ボルトに迫るスピードの人型ロボットが誕生！ 浙江大学杭州国際科創センター人型ロボットイノベーション研究院は2月2日、最高速度10m/sに達する世界初のフルサイズ人型ロボット「Bol」https://www.facebook.com/jinminmou/videos/ウサインボルトに迫るスピードの人型ロボットが誕生/3114577675404446/
-- SNS・note（LinkedIn・検索結果の抜粋）（23件）：
-  - ［SNS］2026-11-07「ヒューマノイド ロボット 市場、2035年に1兆360億米ドル規模へ ヒューマノイド ロボット 市場、2035年に1兆360億米ドル規模へ LinkedIn https://jp.linkedin.com > pulse > 人型ロボットが未来の技...」https://jp.linkedin.com/pulse/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%8C%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8B%E3%82%89%E7%94%A3%E6%A5%AD%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%B8%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B42035%E5%B9%B4%E3%81%AB1%E5%85%86360%E5%84%84%E7%B1%B3%E3%83%89%E3%83%AB%E8%A6%8F%E6%A8%A1%E3%81%B8-7513818788258234368-9jsyc
-  - ［SNS］2026-11-07「2035年までに1,300万体のヒューマノイド ロボット が私たちの ... 2035年までに1,300万体のヒューマノイド ロボット が私たちの ... LinkedIn https://jp.linkedin.com > pulse > 13-million-humanoid-ro...」https://jp.linkedin.com/pulse/13-million-humanoid-robots-walk-among-us-2035-bernard-marr-arwae?tl=ja
-  - ［SNS］2026-11-07「ヒューマノイド ロボット に私たちの世界のより良い感覚を与える ヒューマノイド ロボット に私たちの世界のより良い感覚を与える LinkedIn https://jp.linkedin.com > pulse」https://jp.linkedin.com/pulse/giving-humanoid-robots-better-sense-our-world-texas-instruments-2z5re?tl=ja
-  - ［SNS］2026-11-07「Humanoid Robots : 18 Companies Racing To Build The Next ... Humanoid Robots : 18 Companies Racing To Build The Next ... LinkedIn https://www.linkedin.com > pulse > h...」https://www.linkedin.com/pulse/humanoid-robots-18-companies-racing-build-next-big-thing-bernard-marr-tjdae
-  - ［SNS］2026-11-07「There's a lot of really impressive humanoid robots being ... There's a lot of really impressive humanoid robots being ... LinkedIn https://www.linkedin.com > posts > to...」https://www.linkedin.com/posts/tomfgoodwin_theres-a-lot-of-really-impressive-humanoid-activity-7393788798276644865-MbsY
+- SNS・note（note・検索結果の抜粋）（10件）：
+  - ［SNS］2026-11-08「なぜ中国は 人型ロボット 開発に注力するのか - note なぜ中国は 人型ロボット 開発に注力するのか - note note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/nakaikeya/n/n2c1c63111e29
+  - ［SNS］2026-11-06「なぜ世界をリードした日本のヒューマノイド ロボット は停滞 ... なぜ世界をリードした日本のヒューマノイド ロボット は停滞 ... note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/tagtag/n/nab12ea360ce2
+  - ［SNS］2026-11-05「話題のヒューマノイド ロボット 紹介：欧米編、21選 - note 話題のヒューマノイド ロボット 紹介：欧米編、21選 - note note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/yamarikiedge/n/nb88c6f434090
+  - ［SNS］2026-11-05「ドローンの歴史から予想するヒューマノイド ロボット の未来 ドローンの歴史から予想するヒューマノイド ロボット の未来 note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/otl_sr/n/n069149d30cbd
+  - ［SNS］2026-11-05「新入社員は「人型ロボット」になった―創業140年の老舗企業が始めた、A... Sep 8, 2026 · 創業140年の老舗企業、カクイチが2027年4月、二足歩行型ヒューマノイドロボットを「新卒総合職」として迎える計画を進めています。 名前まであります。 「宮澤ノア」 です。 工場だけで働く産業用ロボットではありません。」https://note.com/anms/n/n398f824cb45e
+- SNS・note（note・本文）（81件）：
+  - ［SNS］2026-11-08「なぜ中国は人型ロボット開発に注力するのか｜仲島池哉＠仲池屋」https://note.com/nakaikeya/n/n2c1c63111e29
+  - ［SNS］2026-11-08「朝、NHKのニュースを見ていると、中国で行われた人型ロボットによる運動競技が紹介されていました。」https://note.com/nakaikeya/n/n2c1c63111e29
+  - ［SNS］2026-11-08「ロボットたちが走る。格闘する。パンチを繰り出し、キックを放つ。転倒すれば、再び立ち上がる。」https://note.com/nakaikeya/n/n2c1c63111e29
+  - ［SNS］2026-11-08「もちろん人間と比べれば、まだぎこちないところもあります。それでも少し前までのロボットを思えば、驚くべき進歩なのでしょう。」https://note.com/nakaikeya/n/n2c1c63111e29
+  - ［SNS］2026-11-08「NHKでは、中国が人型ロボットの開発を急速に進めていることが紹介され、日本はこの競争に勝てるのか、という視点から解説されていました。」https://note.com/nakaikeya/n/n2c1c63111e29
+- SNS・note（X・検索結果の抜粋）（13件）：
+  - ［SNS］2026-11-08「# 人型ロボット - Search / X # 人型ロボット - Search / X X https://x.com > Search」https://x.com/hashtag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
+  - ［SNS］2026-11-07「ゆきまさかずよし on X: "イタリアで 人型ロボット にジェット ... ゆきまさかずよし on X: "イタリアで 人型ロボット にジェット ... X https://x.com > @Kyukimasa」https://x.com/Kyukimasa/status/1666606271641026560
+  - ［SNS］2026-11-07「火花吹いてぶっ倒れる、 人型ロボット として完璧な壊れ方だ - X 火花吹いてぶっ倒れる、 人型ロボット として完璧な壊れ方だ - X X https://x.com > @emetzyakuri」https://x.com/emetzyakuri/status/2090405395819008155
+  - ［SNS］2026-11-06「人型ロボット 「Unitree G1」改造2日目。 今回はAI専用の ... - X 人型ロボット 「Unitree G1」改造2日目。 今回はAI専用の ... - X X https://x.com > @masahirochaen」https://x.com/masahirochaen/status/2109313327948333217/video/1
+  - ［SNS］2026-11-05「ぽん吉 on X: " 世界人型ロボット最新レポート①｜2026年11月4日 8:00 ... 🤖 世界人型ロボット最新レポート①｜2026年11月4日 8:00 JST 本日の最重要ニュースは、Xiaomiが11月3日に発表した、工場と住宅の両方におけるロボット実証の進展です。 ① 🟢 Xiaomi：自動車工場で8時間の作業を検証 Xiaomiは11月3日、人型ロボットの実用化に関する最新成果を発表しました。 主な ...」https://x.com/Zwe3sJg1hD54815/status/2117783993366307302
+- 検索結果の抜粋（74件）：
+  - ［一次］2026-11-05「中国、 2026 年度の 人型ロボット とエンボディドAIに係る実地 ... — 中国、 2026 年度の 人型ロボット とエンボディドAIに係る実地 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/07」https://www.jetro.go.jp/biznews/2026/07/d17df8127c38f0b9.html
+  - ［一次］2026-11-05「Japan firms work with China on humanoid robots — Japan firms work with China on humanoid robots NHKニュース https://www3.nhk.or.jp > news」https://www3.nhk.or.jp/nhkworld/news/20260928de52951/
+  - ［一次］2026-11-04「米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... — 米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
+  - ［一次］2026-11-04「中国製ロボット、海外導入広がる 羽田空港で 人型ロボット 実証 — 中国製ロボット、海外導入広がる 羽田空港で 人型ロボット 実証 Science Portal Asia Pacific https://spap.jst.go.jp > china > news > topic_2_01」https://spap.jst.go.jp/china/news/260602/topic_2_01.html
+  - ［一次］2026-11-04「ヒューマノイド ロボット — ヒューマノイド ロボット MITSUI & CO., LTD. PDF https://www.mitsui.com > afieldfile > 2025/02/07」https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/02/07/2501btf_tsuji_matsuura.pdf
 ### 日本→海外（輸出）｜エッジAIチップ（edge AI chip）
 - 取得：2026-11-07T03:19・調査4回目・読んだ頁70
 - 痛み・損（深さの印）（2件）：

@@ -8,8 +8,40 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-07T21:03:48.122490+00:00",
+ "researched_at": "2026-11-08T03:14:51.442303+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Double selection — worst case",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "survivor mean is no longer an unbiased estimate of",
@@ -153,38 +185,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "実例": [
-   {
-    "quote": "The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Double selection — worst case",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -216,7 +216,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/umaki11/n/n19f2ca96df61",
+    "url": "https://note.com/edwardcyber/n/n9c1950e95a3a",
     "status": "ok",
     "method": "http"
    },
@@ -261,23 +261,23 @@
     "method": "http"
    },
    {
-    "url": "http://www.nikkeibp.co.jp/atcl/column/15/335161/040100028/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vJV4pK56hFFL_A8aSsfBOvQUAteDGpEY6O1-CBrKIOpQJ_yP7Ub",
+    "url": "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vIyfME05IglD00JxXN9HpuEU3DYBcx832CQ_gcAKxtUu2Vvcg5n",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.lib.nerima.tokyo.jp/manage/contents/upload/69b22916a05ca.pdf",
-    "status": "network_error:ConnectTimeout",
-    "method": "pdf"
+    "url": "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://higashiyamato.net/thinking/wp-content/uploads/sites/10/2019/05/8d49dfc2224ec69571737d6e158eaa7a.pdf",
     "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lib.nerima.tokyo.jp/manage/contents/upload/69b22916a05ca.pdf",
+    "status": "network_error:ConnectTimeout",
     "method": "pdf"
    },
    {
@@ -291,7 +291,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "url": "https://researchmap.jp/s-oiso/published_papers/49623871",
     "status": "ok",
     "method": "browser"
    },
@@ -351,8 +351,8 @@
     "https://note.com/ikedon0505/n/n3d4e402301e3",
     "https://note.com/shindan_kaichi/n/n271d269a20ba",
     "https://note.com/sute_aca/n/n7b9fe27ae4b2",
-    "https://note.com/umaki11/n/n19f2ca96df61",
     "https://note.com/edwardcyber/n/n9c1950e95a3a",
+    "https://note.com/umaki11/n/n19f2ca96df61",
     "https://note.com/mocatina/n/n8b628dab14ce",
     "https://note.com/doburockman69/n/n829c88859523",
     "https://note.com/ego_station/n/nf3a2411b4a6e"
@@ -361,7 +361,7 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 17
   },
   {
    "query": "生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ） note",
@@ -378,7 +378,7 @@
     "https://ja.wikipedia.org/wiki/生存者バイアス"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -389,12 +389,12 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "http://www.nikkeibp.co.jp/atcl/column/15/335161/040100028/",
-    "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vJV4pK56hFFL_A8aSsfBOvQUAteDGpEY6O1-CBrKIOpQJ_yP7Ub",
-    "https://www.lib.nerima.tokyo.jp/manage/contents/upload/69b22916a05ca.pdf",
+    "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vIyfME05IglD00JxXN9HpuEU3DYBcx832CQ_gcAKxtUu2Vvcg5n",
+    "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
     "https://higashiyamato.net/thinking/wp-content/uploads/sites/10/2019/05/8d49dfc2224ec69571737d6e158eaa7a.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.bizreach.jp/static/articles/jf-071/",
+    "https://www.lib.nerima.tokyo.jp/manage/contents/upload/69b22916a05ca.pdf",
+    "https://curious-500.com/v2/study/1704",
+    "https://lab.jinjib.co.jp/archives/category/personnelcolumn/page/3?postID=2708",
     "https://ja.wikipedia.org/wiki/生存者バイアス"
    ],
    "engines": [
@@ -410,7 +410,7 @@
     "https://analytics.leverages.jp/entry/2025/01/20/160000",
     "https://www.soumu.go.jp/main_content/000626568.pdf",
     "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "https://researchmap.jp/s-oiso/published_papers/49623871",
     "http://benesse.jp/news/kyouiku/trend/20130919120052.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2307.pdf",
@@ -458,19 +458,28 @@
     "https://note.com/clever_turkey674/n/n589808b31108"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   },
   {
    "query": "site:x.com 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）",
    "results": [
-    "https://x.com/tomoida"
+    "https://x.com/tomoida",
+    "https://x.com/yuzo_hashimoto/status/2108121722318725393",
+    "https://x.com/sota_sline/status/2069910950732525937",
+    "https://x.com/_mas_0723_GF/status/2105834914470154539",
+    "https://x.com/japan2025change/status/2112143209090695276",
+    "https://x.com/TNF1475031/status/2105427876472561890",
+    "https://x.com/skillty_nakatsu/status/2118484421892620463",
+    "https://x.com/SAITO_KENTA/status/2109830229904720340"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 1
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）",
@@ -480,27 +489,27 @@
     "https://jp.linkedin.com/pulse/2024年8月25日sun-52-オレが転職した会社は特殊だったのか統計的に考えてみた-憲一-gohara-san-合原-ov04c",
     "https://www.linkedin.com/posts/comodobiz_会社を守れ倒産時代の生き残り対策を教えますオンライン決裁者交流会ランマッチ-activity-7310805003516919808-Op0N",
     "https://www.linkedin.com/posts/funaisoken_社長の経営判断が遅れるリスクを防ぐ取り組むべき数字の管理-activity-7123475497912516608-c34Z",
-    "https://jp.linkedin.com/pulse/データ分析の本質数字の独り歩きを防ぐには-michio-okazaki-m8vfc",
-    "https://jp.linkedin.com/posts/tsbproject_続関係者外秘損害保険代理店-生き残り戦術実践編-証跡で語れるかどうか-activity-7369295909542625285-nJ4U"
+    "https://jp.linkedin.com/learning/data-science-foundations-fundamentals-22851503/4518082",
+    "https://jp.linkedin.com/pulse/データ分析の本質数字の独り歩きを防ぐには-michio-okazaki-m8vfc"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）",
    "results": [
+    "https://www.facebook.com/hirofumi.shiochi/posts/誤魔化したい統計数字企業なら決算書と数字を誤魔化したい欲望があちこちにあるaiの開発を通じて改めてわかったのはデータの正確な保存と管理は地味だけど業務の基本中の/28465271066433579/",
     "https://www.facebook.com/tsrnet/photos/警備業に何が業界全体の業績は堅調に伸びるも倒産休廃業が過去最多-生き残りのために求められる変革全国の主な警備会社828社の2024年の業績は売上高が1兆9180/1430460538257378/",
-    "https://www.facebook.com/miyatazaimu/videos/売上は覚えているでは粗利率は即答できなかった社長へ感覚で会社を伸ばせる時代は終わりましたこれからは自社の数字を読める社長だけが生き残りますでも安心してください数/1780623016275778/",
     "https://www.facebook.com/DiamondHBR/posts/6333747623371081/",
+    "https://www.facebook.com/miyatazaimu/videos/売上は覚えているでは粗利率は即答できなかった社長へ感覚で会社を伸ばせる時代は終わりましたこれからは自社の数字を読める社長だけが生き残りますでも安心してください数/1780623016275778/",
     "https://www.facebook.com/cbase.co.jp/photos/人事ブログ公開mbo評価制度に偏りはありませんか定量数字だけに頼るのはリスク成果と行動の両方をきちんと評価することでより納得される制度になります実務で役立つポイ/1313972833764462/",
     "https://www.facebook.com/takeshi.shimane/videos/事業承継の現場で会社の数字やスキームばかりに目を奪われていませんか社長は会社の代表であると同時にひとりの人間ですみなさんは面談時社長の個人や家族の状況までしっか/1457251206541457/",
-    "https://www.facebook.com/tempstaff.official/photos/わたしの生きる道テンプスタッフ創業者の履歴書vol83経済環境が依然として厳しく業界全体で1万人のリストラが必要といわれる中で私は人材派遣会社が生き残りのためと/929160187145584/",
-    "https://www.facebook.com/karacchii/posts/人事制度って過去に所属した会社の経験に引っ張られがちで考え方に偏りが出ますでも人事制度って会社の思想を言語化しつつ運用に耐えられる仕組みに落とさないといけないの/10241895982844339/"
+    "https://www.facebook.com/yorozufukuoka/photos/経営知識をつけて黒字倒産を防ぐ対面新セミナーのお知らせ10月27日火-13301500利益は出てるのに何でお金が足りないの損益とキャッシュフローの違いセミナー創/3497141210378246/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -511,15 +520,15 @@
     "https://note.com/rowbelledesk/n/na64a8963018d",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
     "https://note.com/knowledge_a/n/n960db4a7cf65",
-    "https://note.com/kenichiro/n/n3e3b2c6efdc4",
+    "https://note.com/keyplayers/n/nbe74635bc99b",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://l-c-style.co.jp/startup-academy/column/most-startups-fail/",
-    "https://note.com/keyplayers/n/nbe74635bc99b",
+    "https://note.com/kenichiro/n/n3e3b2c6efdc4",
     "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
     "https://ja.wikipedia.org/wiki/生存者バイアス"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -527,19 +536,19 @@
   {
    "query": "生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ） X 投稿",
    "results": [
+    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
     "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://dashboard.co.jp/column/data-fallacies/",
     "http://benesse.jp/news/kyouiku/trend/20130919120052.html",
-    "https://contents.xj-storage.jp/xcontents/33500/1665a577/3fd8/4d30/88c2/fb54396252b3/140120240208530999.pdf",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://contents.xj-storage.jp/xcontents/33500/1665a577/3fd8/4d30/88c2/fb54396252b3/140120240208530999.pdf",
+    "https://toyokeizai.net/articles/-/956688?display=b",
     "https://www.smartnews.com/ja-jp/article/5008965407873177193",
     "https://recog.works/ja/news/detail/584",
-    "https://toyokeizai.net/articles/-/956688?display=b",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
     "https://ja.wikipedia.org/wiki/生存者バイアス"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -547,205 +556,28 @@
   {
    "query": "survivorship bias correction business data closed firms best worst case assumption site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/sahilbloom_the-most-dangerous-trap-in-business-is-invisible-activity-7383471708399390722-TFrN",
     "https://www.linkedin.com/pulse/survivorship-bias-why-we-study-success-learn-failure-qhse-standard-530uf",
     "https://www.linkedin.com/pulse/survivorship-bias-avoid-mistake-stephen-lynch",
     "https://www.linkedin.com/pulse/falling-victim-survivorship-bias-product-management-what-mihael-simic",
-    "https://www.linkedin.com/posts/jeffreyrwinter_success-stories-are-statistically-dishonest-activity-7414691024624730112-Y-zp",
     "https://www.linkedin.com/posts/ivestay_7-jobs-in-14-years-a-comms-director-explains-activity-7484894898220068864-QsfY",
-    "https://www.linkedin.com/posts/kokila-sudarshi-641b70208_dataanalysis-riskmanagement-financialstrategy-activity-7523239527449239553-pjgR",
-    "https://www.linkedin.com/pulse/understanding-confirmation-bias-survivor-igor-osipov-5dewe",
     "https://www.linkedin.com/posts/josh-braun_lets-talk-about-survivorship-bias-in-sales-activity-7371157996485230592-qIDL",
-    "https://www.linkedin.com/posts/helenbevanhealthcare_survivorship-bias-is-a-big-problem-in-the-activity-7341527502839869440-Cw7G"
+    "https://www.linkedin.com/pulse/understanding-confirmation-bias-survivor-igor-osipov-5dewe",
+    "https://www.linkedin.com/posts/helenbevanhealthcare_survivorship-bias-is-a-big-problem-in-the-activity-7341527502839869440-Cw7G",
+    "https://www.linkedin.com/posts/kokila-sudarshi-641b70208_dataanalysis-riskmanagement-financialstrategy-activity-7523239527449239553-pjgR",
+    "https://www.linkedin.com/pulse/survivorship-bias-starts-data-problem-raymond-mullaney-1cx3e",
+    "https://www.linkedin.com/pulse/survivorship-bias-understanding-applications-finance-business-hedid-xfcbf"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 15
   }
  ],
  "missing": {
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "survivor mean is no longer an unbiased estimate of",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Parts that failed early are often discarded before measurement, biasing mean-time-to-failure estimates upward.",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Re-estimate under pessimistic assumptions about the dropouts to bracket how far the bias could move your conclusion.",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "imitate behaviors that failed firms shared in equal measure — the data simply forgot the failures. Engineers who estimate",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimate is itself misleading — a tight interval around the wrong center is still wrong.",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "How to Correct for It",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How to Detect It Before It Burns You",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "framework delivers, and a",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Survivorship Bias in Data Analysis | MetricGate",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship Bias in Data Analysis",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "guide explains how the bias creeps in, shows a simulation you can run, and lays out the corrections that actually work. It pairs well",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "selection bias vs survivorship bias",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is not about bad measurement. Every number in your dataset can be perfectly accurate. The problem is the",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How the Bias Distorts Your Numbers",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "survivor mean is no longer an unbiased estimate of",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "# every fund-year, no bias",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "\"=== Survivorship bias in fund returns ===\\n\"",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "\"Survivorship bias inflates the average\"",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Where Survivorship Bias Shows Up",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Parts that failed early are often discarded before measurement, biasing mean-time-to-failure estimates upward.",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Inflated — biased upward",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The gold standard is a full universe that back-fills the dead funds, lapsed customers, or scrapped parts. Many vendors now sell explicitly “survivorship-bias-free” histories for exactly this reason.",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Double selection — worst case",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-07T21:03:48.122490+00:00"
 }

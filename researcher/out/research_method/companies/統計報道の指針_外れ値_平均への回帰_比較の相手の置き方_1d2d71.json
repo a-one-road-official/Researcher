@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T21:25:10.352757+00:00",
+ "researched_at": "2026-11-08T03:22:07.887634+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -141,87 +141,17 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/reading_monkey/n/n792fbbd3d90b",
+    "url": "https://biostatistics-consult.com/outlier/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://syuminokobeya.blog/2025/04/26/%E7%B5%B1%E8%A8%88%E8%87%AA%E4%B8%BB%E5%AD%A6%E7%BF%92%E2%91%A2%E5%A4%96%E3%82%8C%E5%80%A4%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%9F%E5%BE%8C%E3%81%AB%E3%81%A9%E3%81%86%E5%AF%BE%E5%BF%9C%E3%81%99/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ichi_twnovel/n/nc7a804e0096d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hosoi6311/n/ned85285c8be1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/micchel2020/n/ne7fc091c7212",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/moppynote/n/nf5ba6d6b0150",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hirofumi_saito/n/n7b4b4571f8fa",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/outlifest/n/n4c5ed7fb8831",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.reddit.com/r/AskStatistics/comments/4fc3zw/should_i_remove_an_outlier_when_making_a/?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.business-research-lab.com/250529/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://metricgate.com/blogs/ja/understanding-leverage-in-regression/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nanto_econ",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://gmo-research.ai/research-column/outlier",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.emuyn.net/stats/manual/outlier_handling",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bellcurve.jp/statistics/blog/14290.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.statweb.jp/method",
+    "url": "https://www.consulnote.com/articles/data-analysis/outlier-detection-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -231,58 +161,68 @@
     "method": "http"
    },
    {
-    "url": "https://bellcurve.jp/statistics/course/9704.html",
+    "url": "https://www.emuyn.net/stats/manual/outlier_handling",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.statweb.jp/analysis_case",
+    "url": "https://www.emuyn.net/stats/manual/outlier_handling?s%5B%5D=*4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://best-biostatistics.com/toukei-er/entry/robust-estimation-in-regression-analysis-building-models-resilient-to-outliers/",
+    "url": "https://www.biostat4869.com/%E5%B9%B3%E5%9D%87%E3%81%B8%E3%81%AE%E5%9B%9E%E5%B8%B0%E3%81%A8%E3%81%AF-%E2%80%95-%E8%87%A8%E5%BA%8A%E8%A9%A6%E9%A8%93%E3%81%A7%E3%80%8C%E5%8A%B9%E6%9E%9C%E3%80%8D%E3%82%92%E9%8C%AF%E8%A6%9A%E3%81%95/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gyakuten-compass.airtrue.jp/blog/182",
+    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/72-2-245.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/imuret_/n/n4518c3cf3339",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nli-research.co.jp/report/detail/id=61928?site=nli",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metricgate.com/blogs/ja/what-is-regression-to-the-mean/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://support.jmir.org/hc/en-us/articles/360019690851-Guidelines-for-Reporting-Statistics",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11925299/",
+    "url": "https://www.geeksforgeeks.org/machine-learning/methods-for-dealing-with-outliers-in-regression-analysis/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://freddiedeboer.substack.com/p/reporting-regression-results-responsibly",
+    "url": "https://statmate.org/ja/blog/descriptive-statistics-apa-reporting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://statisticsbyjim.com/basics/regression-to-the-mean/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/10.1177/1094428112470848",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://statisticsfundamentals.com/descriptive-statistics/outliers/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://link.springer.com/article/10.1007/s11676-025-01967-z",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://stats.stackexchange.com/questions/551815/why-does-regression-to-the-mean-work",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "status": "ok",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/mar.22187",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -290,152 +230,120 @@
  "search_log": [
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） site:note.com",
-   "results": [
-    "https://note.com/reading_monkey/n/n792fbbd3d90b",
-    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
-    "https://note.com/hosoi6311/n/ned85285c8be1",
-    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/micchel2020/n/ne7fc091c7212",
-    "https://note.com/moppynote/n/nf5ba6d6b0150",
-    "https://note.com/jack4manastalk/n/nae5c1f7c390a",
-    "https://note.com/masa_san_jp/n/n56167cb7ee39",
-    "https://note.com/automationjp/n/nedc6c5889a1e",
-    "https://note.com/exodusennui/n/n05121ed83d8f"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） note",
-   "results": [
-    "https://note.com/hirofumi_saito/n/n7b4b4571f8fa",
-    "https://note.com/outlifest/n/n4c5ed7fb8831",
-    "https://www.reddit.com/r/AskStatistics/comments/4fc3zw/should_i_remove_an_outlier_when_making_a/?tl=ja",
-    "https://www.business-research-lab.com/250529/",
-    "https://metricgate.com/blogs/ja/understanding-leverage-in-regression/",
-    "https://note.com/nanto_econ",
-    "https://toyokeizai.net/articles/-/539717?display=b",
-    "https://qiita.com/ssugasawa/items/d1a015bff9ee2c8552de",
-    "https://note.com/kamokita/n/n1f79a2527f10",
-    "https://data-viz-lab.com/outlier"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） やり方",
    "results": [
-    "https://gmo-research.ai/research-column/outlier",
-    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://biostatistics-consult.com/outlier/",
+    "https://syuminokobeya.blog/2025/04/26/統計自主学習③外れ値を見つけた後にどう対応す/",
+    "https://www.consulnote.com/articles/data-analysis/outlier-detection-guide/",
+    "https://saycon.co.jp/archives/neta/統計における外れ値の扱い方",
     "https://www.emuyn.net/stats/manual/outlier_handling",
-    "https://bellcurve.jp/statistics/blog/14290.html",
-    "https://www.statweb.jp/method",
-    "https://saycon.co.jp/archives/neta/%E7%B5%B1%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E3%82%8C%E5%80%A4%E3%81%AE%E6%89%B1%E3%81%84%E6%96%B9",
-    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/regression/supporting-topics/model-assumptions/ways-to-identify-outliers/",
-    "https://www.nli-research.co.jp/report/detail/id=61928?site=nli",
-    "https://cacco.co.jp/datascience/media/data-analysis/928/",
-    "https://biostatistics-consult.com/outlier/"
+    "https://www.emuyn.net/stats/manual/outlier_handling?s[]=*4",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/72-2-245.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） 事例",
    "results": [
+    "https://biostatistics-consult.com/outlier/",
+    "https://saycon.co.jp/archives/neta/統計における外れ値の扱い方",
+    "https://www.biostat4869.com/平均への回帰とは-―-臨床試験で「効果」を錯覚さ/",
+    "https://www.emuyn.net/stats/manual/outlier_handling?s[]=*4",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/72-2-245.pdf",
+    "https://note.com/imuret_/n/n4518c3cf3339",
     "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "https://gmo-research.ai/research-column/outlier",
-    "https://bellcurve.jp/statistics/course/9704.html",
-    "https://www.statweb.jp/analysis_case",
-    "https://best-biostatistics.com/toukei-er/entry/robust-estimation-in-regression-analysis-building-models-resilient-to-outliers/",
-    "https://gyakuten-compass.airtrue.jp/blog/182",
-    "https://www.business-research-lab.com/250529/",
-    "https://www.nli-research.co.jp/report/detail/id=61928?site=nli"
+    "https://metricgate.com/blogs/ja/what-is-regression-to-the-mean/"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
    "n_hits": 8
   },
   {
    "query": "statistics reporting guidelines outliers regression to the mean broadcaster",
    "results": [
-    "https://support.jmir.org/hc/en-us/articles/360019690851-Guidelines-for-Reporting-Statistics",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11925299/",
-    "https://freddiedeboer.substack.com/p/reporting-regression-results-responsibly",
-    "https://statisticsfundamentals.com/descriptive-statistics/outliers/",
-    "https://stats.stackexchange.com/questions/551815/why-does-regression-to-the-mean-work",
-    "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "https://smw.ch/index.php/smw/article/download/1987/2855?inline=1",
-    "https://web.pdx.edu/~gerbing/Books/ML/06-influence.html",
-    "https://www.reddit.com/r/explainlikeimfive/comments/1ef2a1d/eli5_what_is_the_regression_toward_the_mean_in/",
-    "https://statmate.org/blog/descriptive-statistics-apa-reporting"
+    "https://www.geeksforgeeks.org/machine-learning/methods-for-dealing-with-outliers-in-regression-analysis/",
+    "https://statmate.org/blog/descriptive-statistics-apa-reporting",
+    "https://statisticsbyjim.com/basics/regression-to-the-mean/",
+    "https://journals.sagepub.com/doi/10.1177/1094428112470848",
+    "https://link.springer.com/article/10.1007/s11676-025-01967-z",
+    "https://onlinelibrary.wiley.com/doi/full/10.1002/mar.22187",
+    "http://ftp.uspbpep.com/v29240/usp29nf24s0_c1010.html",
+    "https://www.statology.org/understanding-regression-to-the-mean-and-why-it-matters/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5548942/"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 19
+   "n_hits": 9
   },
   {
    "query": "site:note.com 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）",
    "results": [
-    "https://note.com/reading_monkey/n/n792fbbd3d90b",
-    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
-    "https://note.com/assawssin/n/n7f3b37ba5262",
-    "https://note.com/hankshih_/n/ndc4883a42650",
-    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/jack4manastalk/n/nae5c1f7c390a",
-    "https://note.com/jack4manastalk/n/n23f349d009fb",
-    "https://note.com/masa_san_jp/n/n56167cb7ee39",
-    "https://note.com/jack4manastalk/n/nae2210dd64f8",
-    "https://note.com/micchel2020/n/ne7fc091c7212"
+    "https://note.com/kamokita/n/nc07ba13a7448",
+    "https://note.com/kamokita/n/n0d884264afae",
+    "https://note.com/alert_hyssop1862/n/n73bdf42ec7ab",
+    "https://note.com/kamokita/n/n32f647ec7a5e",
+    "https://note.com/kamokita/n/n1f79a2527f10",
+    "https://note.com/gaku_data/n/ne058d5b098ce",
+    "https://note.com/imuret_/n/n4518c3cf3339"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:x.com 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）",
    "results": [
-    "https://x.com/hahaguma/with_replies",
     "https://x.com/AISTATSCH/status/2085508696562659690",
     "https://x.com/nzap9290/status/2116521342879314182",
     "https://x.com/BBiostatistics/status/2056517093219242204",
     "https://x.com/smo_yutohisano/status/2076793777029857629",
     "https://x.com/otoriki2015/status/2082763487550582793",
-    "https://x.com/50python2024/status/2023593249537917308",
-    "https://x.com/hisahisapipi/status/2038242233418441198"
+    "https://x.com/i/trending/2092071997106802788",
+    "https://x.com/50python2024/status/2023593249537917308"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/pulse/statistical-life-regression-mean-arun-chinnachamy?tl=ja",
+    "https://jp.linkedin.com/posts/york-date_外れ値その理解と対応-データ分析において外れ値の扱いは導出される結論の妥当性-activity-7340711379227578368-dxJa",
+    "https://jp.linkedin.com/pulse/how-data-analysts-scientists-approach-outliers-amit-edke-zndhc?tl=ja",
+    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4359438",
+    "https://jp.linkedin.com/pulse/understanding-descriptive-inferential-statistics-concepts-sahoo-es0ic?tl=ja",
+    "https://www.linkedin.com/posts/嘉人-西口-8b5a0919b_行動経済学平均への回帰ヒトは最終的には平均に戻っていく話-ニンゲン-activity-7188669952885698560-Qfjr",
+    "https://www.linkedin.com/posts/matsumocchan_デマや偏向報道に騙されない本当に正しい統計データの読み方入門-president-activity-6970899191287988224-_0Aq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）",
    "results": [
-    "https://www.facebook.com/groups/aiacademy.jp/",
-    "https://www.facebook.com/VUC2021/",
-    "https://www.facebook.com/kawagoenomori/?locale=en_GB",
     "https://www.facebook.com/nksoft/posts/平均値中央値外れ値あなたは理解できていますか日経ソフトウエア9月号の特集pythonで統計は統計学を全く知らない人でも安心して読める特集です平均値中央値外れ値と/7818050978236246/",
     "https://www.facebook.com/ledlenserjp/photos/外れ値という言葉がある統計学で言うところの-平均から大きく外れた数値のことだデータ分析では-しばしば除外される存在でも人生においては-この外れ値こそが-最も価値/1303556608444479/",
     "https://www.facebook.com/reel/1468577837986766/",
@@ -445,77 +353,66 @@
     "https://www.facebook.com/reel/1054191602310562/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） note 社長",
    "results": [
-    "https://note.com/tnishimaki/n/ndbaaed8d02be",
-    "https://note.com/kamokita/n/nb7740238d59c",
-    "https://note.com/nanto_econ",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://note.com/nanto_econ/n/nceee2f36c432",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
-    "https://zenn.dev/fuukanoo/articles/a77c23b62a023d",
-    "https://note.com/tag/%E7%B5%B1%E8%A8%88",
-    "https://www2.econ.tohoku.ac.jp/~isgk/lec_material/suri_tokei/SuriTokei_23.pdf",
-    "https://note.com/kamokita/n/n1f79a2527f10"
+    "https://note.com/kamokita/n/n1f79a2527f10",
+    "https://metricgate.com/blogs/ja/regression-to-the-mean-misunderstood/",
+    "https://saycon.co.jp/archives/neta/統計における外れ値の扱い方",
+    "https://www.consulnote.com/articles/data-analysis/robust-statistics/",
+    "https://blog.kabu-challenge.com/statistics/統計学における外れ値とは？検出方法と扱い方を",
+    "https://www.hrpro.co.jp/keiei/articles/series/4816",
+    "https://note.com/imuret_/n/n4518c3cf3339"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） X 投稿",
    "results": [
-    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "https://gmo-research.ai/research-column/outlier",
-    "https://stat-agent.com/blog/15.html",
-    "https://www.amed.go.jp/content/000034154.pdf",
-    "https://toyokeizai.net/articles/-/539717?display=b",
-    "https://www.business-research-lab.com/250529/",
-    "https://mizumot.com/files/EffectSize_KELES31.pdf",
-    "https://thunderbit.com/ja/blog/x-stats",
     "https://metricgate.com/blogs/ja/regression-to-the-mean-misunderstood/",
-    "https://note.com/kamokita/n/nc07ba13a7448"
+    "https://data-viz-lab.com/outlier",
+    "https://saycon.co.jp/archives/neta/統計における外れ値の扱い方",
+    "https://syuminokobeya.blog/2025/04/26/統計自主学習③外れ値を見つけた後にどう対応す/",
+    "https://www.biostat4869.com/平均への回帰とは-―-臨床試験で「効果」を錯覚さ/",
+    "https://x.com/BBiostatistics/status/2056517093219242204",
+    "https://note.com/imuret_/n/n4518c3cf3339"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "statistics reporting guidelines outliers regression to the mean broadcaster site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/engineering/data-analysis-techniques-for-engineers/methods-to-remove-outliers-from-data-arrays/",
-    "https://www.linkedin.com/posts/beginners-blog_i-just-turned-logistic-regression-one-of-activity-7389613986402562048-q4Lk",
-    "https://www.linkedin.com/top-content/training-development/data-analysis-skills-training/practical-skills-for-statistics-graduates/",
-    "https://www.linkedin.com/top-content/supply-chain-management/mastering-statistical-analysis/understanding-residual-analysis-in-regression-models/",
-    "https://www.linkedin.com/top-content/science/best-practices-for-data-management/data-cleaning-and-outlier-handling-techniques/",
-    "https://www.linkedin.com/top-content/training-development/data-analysis-skills-training/regression-analysis-and-modeling/",
-    "https://www.linkedin.com/in/jasonwosborne-miami-university",
-    "https://www.linkedin.com/posts/sumonigupta_the-data-science-roadmap-nobody-told-you-activity-7402685749634244608-S5CE",
-    "https://au.linkedin.com/in/rajan-shankar",
-    "https://www.linkedin.com/in/joshuareader-fl"
+    "https://www.linkedin.com/advice/1/how-do-you-detect-handle-outliers-regression-wftvf",
+    "https://www.linkedin.com/advice/1/what-consequences-ignoring-outliers-regression-analysis-7sx6c",
+    "https://pe.linkedin.com/advice/0/what-methods-can-you-use-detect-outliers-regression-sa5bc",
+    "https://pe.linkedin.com/advice/1/what-best-methods-identifying-data-outliers-during-cleaning-27mrf",
+    "https://www.linkedin.com/advice/1/what-most-effective-techniques-dealing-regression-ogvrc",
+    "https://www.linkedin.com/advice/3/how-do-you-communicate-presence-outliers-your-statistical-9c53e",
+    "https://www.linkedin.com/advice/3/how-do-outliers-impact-linear-regression-dz0ff",
+    "https://www.linkedin.com/advice/3/what-best-ways-present-data-without-outliers-science-dfd5f"
    ],
    "engines": [
     "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 17
+   "n_hits": 8
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ17頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ17頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-06T20:08:53.091567+00:00"
 }
