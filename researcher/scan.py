@@ -2386,6 +2386,43 @@ def scan(topic):
                    f"- 数字が取れたのに scan.md に名前が出ない品目：{len(_miss)}件／数字のある品目 {sum(1 for n in _inp5 if n in _hasn)}件"
                    + ("。次の scan.md で、採らない理由を1行ずつ書くか結論に入れる" if _miss else ""), *(f"  - {n[:60]}" for n in _miss[:60]), ""]  # 2026-11-07 45回目：20件で切ると残りの品目に理由を書けない（4-69 の全件照合）ので60件まで出す
     except Exception: pass
+    # 2026-11-08 4-95（看護研究のトライアンギュレーション：同じ現象を「異なる時・場所・人」から取って比べる＝データの三角測量）。
+    # 同じ品目・同じ年・同じ単位・同じ文脈の値が、別の取得日に取り直されて1割超ずれた欄を数える（ページの改定か別のページの混入）。
+    # あわせて、すべての引用が1つの取得日に固まった品目（時間の三角測量が無い）を数える。値は scan.py だけが出す
+    try:
+        from collections import defaultdict as _dd95
+        _g95 = _dd95(list); _days95 = _dd95(set)
+        for r in rows:
+            _days95[r["品目"]].add(r["取得日"])
+            try: _v = float(r["値"])
+            except Exception: continue
+            if r["予測"] or not r["年"] or not r["取得日"]: continue
+            _g95[(r["品目"], r["年"], r["単位"], r["文脈"])].append((r["取得日"], _v))
+        _drift = []
+        for (it, y, u, c), vs in _g95.items():
+            _bd = {}
+            for d, v in vs: _bd.setdefault(d, []).append(v)
+            if len(_bd) < 2: continue
+            _med = sorted(statistics.median(x) for x in _bd.values())
+            if _med[0] > 0 and _med[-1] / _med[0] > 1.1:
+                _drift.append(f"  - {it[:40]}｜{y}年｜{c}｜取得日 {len(_bd)}日で中央値 {_med[0]:,.4g}〜{_med[-1]:,.4g}{u}")
+        _one = sum(1 for d in _days95.values() if len(d) == 1)
+        md += ["## 時間の三角測量（4-95・機械）",
+               f"- 同じ品目・年・単位・文脈で、別の取得日の値が1割超ずれた欄：{len(_drift)}件（取り直しで変わった。版・ページの差し替え・別の表の混入を本文で確かめるまで、どちらも採らない）",
+               *_drift[:20],
+               f"- すべての引用が1つの取得日に固まった品目：{_one}件／{len(_days95)}件（時を変えた取り直しが無い。結論に効く品目から次の回で取り直す）", ""]
+    except Exception: pass
+    # 2026-11-08 4-95（MetricGate「Survivorship Bias in Data Analysis」：入る段と残る段の二重の選別は最悪の型。
+    # 数字が全部正しくても、標本が「答えた先かつ残った先」なら平均は上に偏る。幅が狭くても中心がずれていれば誤り）。
+    # 調査の回答・アンケートの値で、平均・1人あたり・中央値を名指しする品目を数え、二重の選別の疑いとして印す
+    try:
+        _ds95 = sorted({r["品目"] for r in rows
+                        if re.search(r"回答|アンケート|調査対象|回収", r["引用"] or "")
+                        and re.search(r"平均|1人あたり|1人当たり|中央値|一人当たり", (r["品目"] or "") + (r["引用"] or ""))})
+        md += ["## 二重の選別の疑い（4-95・機械）",
+               f"- 調査の回答の値で平均・1人あたりを語る品目：{len(_ds95)}件。標本は「答えた先かつ残った先」。四分位の幅が狭くても中心が上にずれうるので、"
+               "全数の統計（経済センサス・工業統計）の同じ欄と並べるまで向き・水準の根拠にしない", *(f"  - {n[:60]}" for n in _ds95[:20]), ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
