@@ -507,21 +507,21 @@
 ## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
 - 文脈：企業
 - 手順・やり方：
-  - 「「世界一やさしい」のタイトル通り、図解とイラストを多用しながら、決算書から有望企業を発掘する手順を体系的に解説しています」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「「会計がわからんで経営ができるか」「キャッシュベース経営の原則」など、経営現場で実際に活きる会計の使い方が、実体験を通じて熱く語られています」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「「外資系金融の分析力と瞬発力が身につく19の方法」」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「決算書を読めるようになった次のステップとして、「その企業はいくらの価値があるのか」を計算するスキルが必要になります」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「ステップ1：会計ゼロからスタートする人（1〜2ヶ月）」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「ステップ2：株式投資に活かしたい人（追加で1ヶ月）」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「ステップ3：仕事・経営に活かしたい人（追加で1〜2ヶ月）」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「ステップ4：上級・専門レベルへ（追加で2〜3ヶ月）」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「継続するためのちょっとしたコツを共有しておきます」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「KPIを設定している場合には、その内容として、目標の達成度合いを測定する指標、算出方法、なぜその指標を利用するのかについて説明することや、合理的な検討を踏まえて設定された経営計画等の具体的な目標数値を記載することが考えられるとされています」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
-  - 「資金調達の方法については、資金需要を満たすための資金が営業活動によって得られるのか、銀行借入、社債発行や株式発行等による調達が必要なのかを具体的に記載することが考えられるとされており、資本コストに関する企業の定義や考え方についてもこれらの内容とともに説明することも有用とされています」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
-  - 「個々の重要な投資案件の潜在的なリスク、事業等のリスクの性質ごとの分類について分かりやすく記載している例や、事業等のリスクの把握及び管理方法を記載している例が紹介されています（p. 2-1、p. 2-6、p.2-13）」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
-  - 「成長投資、手許資金、株主還元の方針と、資金需要に対する資金調達の方法や設備投資の水準についての経営者の考えの記載や、今後の実質フリー・キャッシュ・フローや株主還元の目標水準及び株主資本コストの目標水準を記載している例が紹介されています（p. 4-3、p. 4-4、p. 4-5）」（https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01）
-  - 「DOEとは？意味・計算方法・配当性向との違いをわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「DOEとは？意味・計算方法・配当性向との違いをわかりやすく解説「DOEって何？」「配当性向と何が違うの？」「高配当株投資でなぜ重要？」という疑問を持つ方は多いです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「本記事では決算書分析の1つの勉強方法として、決算書分析に関する本を読むことをおすすめします」（https://kaikei-shop.net/contents108/）
+  - 「数多くの決算書を分析してきた先人たちの英知を1冊で得ることができるので、非常におすすめの方法です」（https://kaikei-shop.net/contents108/）
+  - 「楽天の経営企画室で決算分析について実践しながら学び、その後シリコンバレーにて起業する傍ら、note(webマガジン)にて決算が読めるようになるための方法を公開している著者の1冊」（https://kaikei-shop.net/contents108/）
+  - 「インターネット・ソフトウェア業界の分析に範囲は絞られていますが、業界ごとに独自の方程式や決算を読むコツを紹介しております」（https://kaikei-shop.net/contents108/）
+  - 「さらに、方程式とコツをもとに、具体的な企業を取り上げて、決算読解の実演も業界ごとに解説されております」（https://kaikei-shop.net/contents108/）
+  - 「最終章ではより実践的に、日常生活において会計センスを磨く方法がいくつか紹介されておりますので、ビジネスに関わるあらゆるビジネスパーソンに読んでほしい1冊となります」（https://kaikei-shop.net/contents108/）
+  - 「第2章 リアル経営分析の進め方」（https://kaikei-shop.net/contents108/）
+  - 「ただ、分析方法としては今でも十分使用できる内容となっておりますので、その点はご安心ください」（https://kaikei-shop.net/contents108/）
+  - 「PBRとは？意味・見方・使い方をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「PBRとは？意味・見方・使い方をわかりやすく解説「PBRって何？」「1倍割れってどういう意味？」「低いと割安なの？」株を調べていると、PERと並んでよく目にするのがPBRという指標です」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「moomoo証券の使い方｜基本操作から米国株の探し方までわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「moomoo証券の使い方｜基本操作から米国株の探し方までわかりやすく解説「moomoo証券を始めたけど、画面の情報が多すぎて何を見ればいいかわからない…」という方は少なくないはずです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「SBI証券でIPOに申し込む方法｜抽選参加の流れをわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「SBI証券でIPOに申し込む方法｜抽選参加の流れをわかりやすく解説SBI証券でもIPOに参加できます」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「有価証券報告書の分析方法とは？見るべき7つのポイントをわかりやすく解説」（https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/）
 - 突き合わせ・推定：
   - 「生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「手順4：出力を一次資料で検証する」（https://note.com/irshukatsu/n/nec2070d76e3c）
@@ -539,22 +539,25 @@
   - 「accountants’ judgment, particularly where estimates and」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
   - 「cross-checked through revenue trends, margin movements,」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
 - 一次情報の探し方：
-  - 「【2026年最新】決算書の読み方が学べるおすすめ本22選｜会計初心者から株式投資・経営分析まで実戦で使える名著マップ｜コトビトの部屋＠本好き」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「【2026年最新】決算書の読み方が学べるおすすめ本22選｜会計初心者から株式投資・経営分析まで実戦で使える名著マップ」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「「決算書って数字ばっかりで、見ても何が書いてあるかさっぱり分からない…」」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「「株を買いたいんだけど、企業の決算書から有望株を見抜けるようになりたい」」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「決算書（財務3表）が読めるようになると、世界の見え方が一気に変わります」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「ただ、決算書の本は数百冊単位で出ていて、しかも内容のレベルがピンキリ」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「なぜ今、決算書を読めるスキルが価値を持つのか」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「決算書を読む力は、」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「決算書を学ぶ前に押さえたい3つの大前提」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「本の紹介に入る前に、決算書学習で挫折しないための「考え方の前提」を共有しておきます」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「決算書は会計士のためだけのものではありません」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「決算書の本は、著者ごとに切り口が違います」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「3. 必ず実物の決算短信を1社分は眺めること」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「気になる企業のIRページに飛んで、最新の「決算短信」「有価証券報告書」を1社分だけでも眺めてください」（https://note.com/tasuto11/n/nde45889dccb0）
+  - 「決算書の読み方がわかる本！おすすめランキング8選 – 会計ショップ」（https://kaikei-shop.net/contents108/）
+  - 「決算書の読み方の勉強をしようと考えたはいいけど、何からすればいいのだろう、、、」（https://kaikei-shop.net/contents108/）
+  - 「本記事では決算書分析の1つの勉強方法として、決算書分析に関する本を読むことをおすすめします」（https://kaikei-shop.net/contents108/）
+  - 「数多くの決算書を分析してきた先人たちの英知を1冊で得ることができるので、非常におすすめの方法です」（https://kaikei-shop.net/contents108/）
+  - 「１位. MBAより簡単で英語より大切な決算を読む習慣」（https://kaikei-shop.net/contents108/）
+  - 「３位. 決算説明会資料」（https://kaikei-shop.net/contents108/）
+  - 「４位. 有価証券報告書を使った決算書速読術」（https://kaikei-shop.net/contents108/）
+  - 「６位. 決算書を楽しもう！」（https://kaikei-shop.net/contents108/）
+  - 「第1章:決算が読めるようになると何が変わるのか?」（https://kaikei-shop.net/contents108/）
+  - 「第2章:ECビジネスの決算」（https://kaikei-shop.net/contents108/）
+  - 「第3章:FinTechビジネスの決算」（https://kaikei-shop.net/contents108/）
+  - 「第4章:広告ビジネスの決算」（https://kaikei-shop.net/contents108/）
+  - 「第5章:個人課金ビジネスの決算」（https://kaikei-shop.net/contents108/）
+  - 「第6章:携帯キャリアの決算」（https://kaikei-shop.net/contents108/）
+  - 「第7章:企業買収(M&A)と決算」（https://kaikei-shop.net/contents108/）
 - 失敗・落とし穴：
+  - 「また、投資家目線で見た場合に、キャッシュリッチ企業がなぜダメなのか？などについても書かれております」（https://kaikei-shop.net/contents108/）
+  - 「注意点として、企業側が作成しているものなので、自社にとって不利なことは基本的には記載されておりません」（https://kaikei-shop.net/contents108/）
+  - 「注意点としては、発刊されたのが2010年度であり、掲載されている情報は当時のものとなっている点です」（https://kaikei-shop.net/contents108/）
   - 「会計をまったく知らない初心者から、株式投資のファンダメンタル分析を極めたい中上級者まで、目的別に厳選した22冊」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「一方で、SNSやYouTubeで流れる「○○銘柄が買い時」みたいな情報を鵜呑みにして、決算書も読まずに飛び乗ってしまう人も急増しています」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「⑩ 株を買うなら最低限知っておきたい ファンダメンタル投資の教科書 改訂版｜足立武志」（https://note.com/tasuto11/n/nde45889dccb0）
@@ -567,10 +570,10 @@
   - 「最後に、決算書を学び始めた人が陥りがちな失敗を3つだけ紹介します」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「失敗1：簿記から学び始める」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「失敗2：1冊を完璧にしようとする」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「失敗3：本だけで実物の決算書を見ない」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「は⑩「ファンダメンタル投資の教科書」と⑫「10倍株の探し方」と⑭「バフェットの財務諸表を読む力」」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「NISAはやめたほうがいい？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
 - 実例：
+  - 「第3章 生き残る会社と消え去る会社―実例に学ぶ分析枠組み編」（https://kaikei-shop.net/contents108/）
+  - 「第4章 生き残る会社の数字のつくり方―ケーススタディーで分析訓練編」（https://kaikei-shop.net/contents108/）
+  - 「ビジネス会計検定の解答速報の結果を踏まえ取るべき行動は？」（https://kaikei-shop.net/contents108/）
   - 「最新の上場企業の事例を元に、決算書を「分析する視点」を学べるのがポイント」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「短期的な利益ばかり追う「PL思考」から、企業価値を最大化する「ファイナンス思考」への転換を、Amazon・リクルート・JTなどの事例を交えて解説しています」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「1冊を100%理解する必要はなく、複数冊を「7割理解」で次々に読んだ方が、結果的に立体的な理解に到達します」（https://note.com/tasuto11/n/nde45889dccb0）
@@ -583,9 +586,6 @@
   - 「近年の有報では、リスクの重要度(影響度・発生可能性)を会社が自己評価して明記しているケースも増えている」（https://note.com/irshukatsu/n/n426fc7c8c112）
   - 「最後には、レーザーテックなど7社の事例が紹介され、実践的な速読スキルを身につける練習ができます」（https://note.com/bookreview_lab/n/n5ddefc10af59）
   - 「著者の川口宏之さんは、難解に思える決算書を、実践的かつ効率的に読み解く方法を丁寧に解説しており、特に実例を交えた説明が非常にわかりやすいです」（https://note.com/bookreview_lab/n/n5ddefc10af59）
-  - 「NotebookLMはアップロードした資料の範囲で回答する以上、入れる資料の質がそのまま分析結果の質に直結します」（https://inuiwan.com/archives/3282）
-  - 「見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります」（https://kabu.com/kabuyomu/money/1191.html）
-  - 「2025年3月期（2024年4月から2025年3月まで）は、増収減益という結果になりました」（https://kabu.com/kabuyomu/money/1191.html）
 - 検索結果の抜粋：
   - 「How to Read Financial Statements: A Beginner’s GuideAnnual report - WikipediaMcDonald’s Business Model (2026) | How McDonald’s Makes Money2025 ANNUAL REPORT - Marriott InternationalOur Annual Reports | Diageo — A balance sheetconveys the “book value” of a company. It allows you to see what resources it has available and how they were financed as of a specific date. It shows its assets, liabilities」（https://online.hbs.edu/blog/post/how-to-read-financial-statements）
   - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: Investor Reading MapHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisMaster the Art of Reading Annual Reports - InvestopediaHow to Read an Annual Report Like an Equity Research AnalystHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a 」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
@@ -4351,11 +4351,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -5231,54 +5231,56 @@
 ## 市場規模の資料が食い違うときの照合（商品の範囲・地域・売上か出荷額か・実績か予測か）（reconciling conflicting market size estimates scope geography revenue shipments forecast）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「経営者・経理責任者のための補助金・助成金申請実務マニュアル｜採択率を上げる事業計画、経費設計、提出前チェックの全手順｜sansan」（https://note.com/sansan2/n/n038e934f7207）
-  - 「経営者・経理責任者のための補助金・助成金申請実務マニュアル｜採択率を上げる事業計画、経費設計、提出前チェックの全手順」（https://note.com/sansan2/n/n038e934f7207）
-  - 「だからこそお渡ししたいのは、小手先の裏技ではなく、根拠を積み上げ、証憑を残し、採択された後まで会社を守れるやり方です」（https://note.com/sansan2/n/n038e934f7207）
-  - 「厚生労働省所管の雇用関係助成金が典型で、採択競争というより、計画届や就業規則、賃金台帳、出勤簿といった日常の労務管理が要件どおりに残っているかが問われる」（https://note.com/sansan2/n/n038e934f7207）
-  - 「自治体の「助成金」が公募・採択制だったり、国の事業でも名称と運用が典型像とずれたりする」（https://note.com/sansan2/n/n038e934f7207）
-  - 「経理責任者が単独で制度名を拾い、経営者が金額だけを見て即決する進め方では、途中で対象外経費や着手時期の食い違いが出やすい」（https://note.com/sansan2/n/n038e934f7207）
-  - 「使い方：候補を2つに絞る前の30分判定で使い、出力は要領原文と照らしてから検討表へ移す」（https://note.com/sansan2/n/n038e934f7207）
-  - 「使い方：経理と資金繰り表を広げて使い、銀行相談前に立替のピーク月を確認する」（https://note.com/sansan2/n/n038e934f7207）
-  - 「この章の方法が前提にするのは、制度名と公募回が特定でき、最新版の要領を入手できている状態です」（https://note.com/sansan2/n/n038e934f7207）
-  - 「この章は公募型の補助金を主軸に置き、助成金で読み替えるべき箇所はその都度断ります」（https://note.com/sansan2/n/n038e934f7207）
-  - 「精読六十分の具体的な進め方と四週間の逆算表は、この前提を押さえた次の部で扱います」（https://note.com/sansan2/n/n038e934f7207）
-  - 「0〜8分は表紙、公募回、締切日時、申請方法、交付決定の予定時期だけを確認し、表紙余白に書きます」（https://note.com/sansan2/n/n038e934f7207）
-  - 「制度によっては別のIDや認定支援機関の関与が前提になるため、要領の申請方法の欄で個別に確かめます」（https://note.com/sansan2/n/n038e934f7207）
-  - 「使い方：要領を精読した直後に使い、回答は必ず要領の原文と照合する」（https://note.com/sansan2/n/n038e934f7207）
-  - 「使い方：資格や見積で迷いが出た日に使い、金額には経理の再計算値だけを入れる」（https://note.com/sansan2/n/n038e934f7207）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
 - 突き合わせ・推定：
-  - 「補助金に期待して要領を読み、夜に申請画面で入力を進めたのに、最後の最後に小さな食い違いで進めなくなり、一つずつ手作業で確かめ直しながら、締切を前に冷や汗をかいたことも一度や二度ではありません」（https://note.com/sansan2/n/n038e934f7207）
-  - 「補助金の申請も、申請書を開いて言葉をひねり出す前に、自社に合う制度かどうかを確かめ、締切から逆算し、採択された後の会計まで見通してから計画を立てるのです」（https://note.com/sansan2/n/n038e934f7207）
-  - 「順番さえ整えば、文章の得意不得意に振り回されず、抜けや矛盾は誰でも同じように防げます」（https://note.com/sansan2/n/n038e934f7207）
-  - 「自社との適合を点数で判定する診断表、締切から逆算する日程表と社内の分担表、初めて人工知能に触れる方への案内とそのまま使える指示文五十選、模擬審査の採点表と弱みを強みに変える作業表、売上と資金繰りを連動させる計算表の作成キット、経費の可否判定と相見積りの比較や場面別の対応表、採択後の証憑と会計の管理台帳に減額や返還を防ぐ確認表、そして三十を超えるテンプレート集です」（https://note.com/sansan2/n/n038e934f7207）
-  - 「2. 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
-  - 「7. 第7章 提出前最終チェックと審査対応――第三者点検で不備・矛盾・読みにくさを潰す」（https://note.com/sansan2/n/n038e934f7207）
-  - 「2. 特典2｜締切逆算スケジュール＆社内タスク分担表」（https://note.com/sansan2/n/n038e934f7207）
-  - 「・締切直前に準備不足に気づく → 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
-  - 「・提出直前にミスがないか不安だ → 第7章 提出前最終チェックと審査対応――第三者点検で不備・矛盾・読みにくさを潰す」（https://note.com/sansan2/n/n038e934f7207）
-  - 「・締切に間に合うか毎日不安になる → 特典2｜締切逆算スケジュール＆社内タスク分担表」（https://note.com/sansan2/n/n038e934f7207）
-  - 「本章では、制度探しを「金額の大きい順」から始めないために、政策目的、自社の事業内容、実施時期、自己負担の四点を突き合わせ、自社に合う候補を残し、合わない候補を早めに外す考え方をたどる」（https://note.com/sansan2/n/n038e934f7207）
-  - 「経理責任者が単独で制度名を拾い、経営者が金額だけを見て即決する進め方では、途中で対象外経費や着手時期の食い違いが出やすい」（https://note.com/sansan2/n/n038e934f7207）
-  - 「第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
-  - 「前半で扱う論点は、読む順番以前の食い違いです」（https://note.com/sansan2/n/n038e934f7207）
-  - 「後半では、その読み取りを締切から逆算した予定へ落とし、経営者、経理、取引先の役割を分けます」（https://note.com/sansan2/n/n038e934f7207）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
 - 一次情報の探し方：
-  - 「経理のご担当なら、月次決算や給与計算、請求や支払いの処理に追われながら、社長からの一言で調べものを引き受け、結局は夜遅くまで一人で画面に向かっていた、という経験があるのではないでしょうか」（https://note.com/sansan2/n/n038e934f7207）
-  - 「手元に置くものは、直近決算の概要、現在の事業と従業員数、やりたいことの概算額と希望時期、使える自己資金の見通しで足りる」（https://note.com/sansan2/n/n038e934f7207）
-  - 「雇用系は人の採用や処遇改善への取組に支払われるもので、設備代そのものを埋める設計にはなっていない」（https://note.com/sansan2/n/n038e934f7207）
-  - 「手元には、要領のPDFか印刷物、直近の決算書、登記事項が分かる資料、導入したい設備やサービスの引合い先の情報が最低限必要です」（https://note.com/sansan2/n/n038e934f7207）
-  - 「用意するのは、事務局の公式サイトから当日取り直した最新版の要領PDF、3色の付箋、タイマーです」（https://note.com/sansan2/n/n038e934f7207）
-  - 「D-14日〜D-8日は金額と根拠資料を固め、経理が決算書の数字と計画の数字を突き合わせます」（https://note.com/sansan2/n/n038e934f7207）
-  - 「書き始める前提として、手元には最新の公募要領、審査項目が載ったページ、申請様式とその文字数・ページ制限、直近決算書、月別の売上や受注の記録、顧客から寄せられた具体的な要望や失注の記録、導入候補の見積書の下書きが要る」（https://note.com/sansan2/n/n038e934f7207）
-  - 「業界団体の統計は、自社の顧客層と年代、地域、単価帯が合う場合にだけ補強として使う」（https://note.com/sansan2/n/n038e934f7207）
-  - 「準備物は、直近2期から3期分の決算書、直近月の試算表、既存事業の商品別・取引先別売上、現在の借入返済表、導入設備等の見積書、賃料や人件費の根拠資料である」（https://note.com/sansan2/n/n038e934f7207）
-  - 「ただし金額は千円単位か円単位か、税込か税抜かを全表で統一し、決算書の実績値と計画初年度の接続を説明できる状態にしておく」（https://note.com/sansan2/n/n038e934f7207）
-  - 「手元には直近3期の決算書、直近3か月の試算表、設備見積書を置く」（https://note.com/sansan2/n/n038e934f7207）
-  - 「原価は直近決算の材料費と外注費を売上比で拾い、新事業の変動費率とする」（https://note.com/sansan2/n/n038e934f7207）
-  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=47fb6a15fa08e4197dcd0c1ad884c109）
-  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=47fb6a15fa08e4197dcd0c1ad884c109）
-  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=47fb6a15fa08e4197dcd0c1ad884c109）
+  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
 - 失敗・落とし穴：
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
   - 「本編では、補助金と助成金の違いを踏まえた制度の選び方から、公募要領で読み落としやすい応募資格や事前着手の注意点、審査する側が読む順序に沿った事業計画の作り方へ進みます」（https://note.com/sansan2/n/n038e934f7207）
   - 「続いて、根拠を示せる売上予測と自己負担を乗り切る資金計画、認められない費目を外した経費と見積りの設計、様式の誤りやファイルの不備を防ぐ電子申請、提出前の最終確認と審査への対応、採択後の交付申請から受給と事後の管理までを扱います」（https://note.com/sansan2/n/n038e934f7207）
   - 「2. 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
@@ -5292,24 +5294,22 @@
   - 「典型的な失敗事例――直せば通るのに、放置される2パターン」（https://note.com/sansan2/n/n038e934f7207）
   - 「失敗1｜弱みを消し、強みを盛る」（https://note.com/sansan2/n/n038e934f7207）
   - 「失敗2｜課題と設備がつながらず、売上だけが先行する」（https://note.com/sansan2/n/n038e934f7207）
-  - 「| 選択肢 | 向く場合 | 期限の置き方 | 限界・注意 |」（https://note.com/sansan2/n/n038e934f7207）
-  - 「典型的な失敗2件――兆候が出た時点で組み直す」（https://note.com/sansan2/n/n038e934f7207）
 - 実例：
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e8cdec13c432a732f999dd49d402769a）
+  - 「Real Life Case Appendix」（https://www.futuremarketinsights.com/methodology）
   - 「6. 特典6｜補助対象経費の可否判定＆相見積比較・ケース別対応表」（https://note.com/sansan2/n/n038e934f7207）
-  - 「・この経費が対象か見積が不安だらけ → 特典6｜補助対象経費の可否判定＆相見積比較・ケース別対応表」（https://note.com/sansan2/n/n038e934f7207）
-  - 「予算や制度改正、支給審査で結果は変わる」（https://note.com/sansan2/n/n038e934f7207）
-  - 「実例――率の高い候補を外したら、自己負担の見通しが60万円動いた」（https://note.com/sansan2/n/n038e934f7207）
-  - 「事例1｜値上げを恐れて内金を払った製造業（従業員9人、税抜480万円）」（https://note.com/sansan2/n/n038e934f7207）
-  - 「事例2｜従業員数の数え違いで資格を外しかけた小売業」（https://note.com/sansan2/n/n038e934f7207）
-  - 「対象は、設備導入や新サービス開発など、投資のテーマがおおよそ決まり、事業計画の出来が審査結果に影響する補助金に申請する経営者と経理責任者である」（https://note.com/sansan2/n/n038e934f7207）
-  - 「逆に、要件を満たせば支給される性格の強い助成金や、先着順・抽選で決まる制度では、本章の組み立てが結果を左右する余地は小さい」（https://note.com/sansan2/n/n038e934f7207）
-  - 「いつから、どの顧客層や工程で、何が起き、その結果どれだけの機会や利益を逃しているのかが示されて、初めて審査員は困りごとの大きさを測れる」（https://note.com/sansan2/n/n038e934f7207）
-  - 「実例――受注台帳から市場性を組み直した金属加工業の計画」（https://note.com/sansan2/n/n038e934f7207）
-  - 「結果としてこの会社は補助率2分の1、対象経費1,200万円で採択され、稼働後6か月では納期理由の辞退が月平均2件まで減り、追加受注は月平均48万円で推移している」（https://note.com/sansan2/n/n038e934f7207）
-  - 「典型的な失敗事例――直せば通るのに、放置される2パターン」（https://note.com/sansan2/n/n038e934f7207）
-  - 「| 書き方 | 審査側が追えるか | 向くケース |」（https://note.com/sansan2/n/n038e934f7207）
-  - 「後半では、その結果から損益分岐点と自己負担額を出し、補助金の後払いと支払いの先行によって生じる資金の谷をどう越えるか、前提が崩れた場合にどの数字から見直すかへ進む」（https://note.com/sansan2/n/n038e934f7207）
-  - 「銀行へ持ち込んだ実例――残高38万円の谷」（https://note.com/sansan2/n/n038e934f7207）
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
@@ -7982,7 +7982,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -9922,22 +9922,28 @@
 ## 法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）（corporate number master key entity resolution Japan check digit gBizINFO）
 - 文脈：手法
 - 手順・やり方：
+  - 「『法人番号』を活用した顧客情報の名寄せと、セキュリティに配慮した実施方法について｜はしる／橋本 光」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「『法人番号』を活用した顧客情報の名寄せと、セキュリティに配慮した実施方法について」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「を活用して顧客情報の名寄せを行う方法について解説していきます」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「ここからは、経済産業省の公開情報を利用してデータ突合を行う具体的な方法について説明します」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「方法1：法人番号付与ツールを利用する」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「方法2：法人番号データを利用する」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「そこで今回は、gBizINFOで公開されている全法人番号のデータを取得、加工し、自前でデータ突き合わせを行う方法についてご紹介します」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「一般的に、このような定型データを加工するにはbashやpythonを選択すると比較的簡単にできるのですが、企業によっては実行環境を用意するハードルが高い場合がありますので、今回はWindows OSに標準搭載されている」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「本記事では、法人番号の活用と名寄せの重要性、そして具体的な実施方法について解説しました」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
   - 「方法で、手続を行っていただく必要があります」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「人等番号とも異なるものとなるように、財務省令で定める方法により国税庁長官が定めるものとする」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「同意を得た後）、速やかに、インターネットを利用して公衆の閲覧に供する方法により行うものとする」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「更後のこれらの事項を前項に規定する方法により公表するものとする」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「が当該事由が生じたことを知った年月日）を第一項に規定する方法により公表するものとする」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「第三条 令第三十五条第三項に規定する財務省令で定める方法は、他のいずれの法人番号を構成する同条第一項に規定する基」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
-  - 「これら以外の者を区分して識別することができるような十二桁の番号を電子計算機及びプログラムを用いて算出する方法と」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
-  - 「ご利用方法（検索・閲覧、ダウンロード機能）について」（https://www.houjin-bangou.nta.go.jp/）
-  - 「官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順｜ゴムマリ」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「／ 官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「官公データで​企業リストを​作る​方​法｜​法人番号・​gBizINFOを​無料で​束ねる​手順」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「使う4つのデータ源（法人番号公表サイト・gBizINFO・EDINET・適格請求書公表サイト）の実仕様と5つの手順、ファイル形式・文字コードの選び方、名寄せ・鮮度維持のつまずきどころ、商用利用の規約の作法を、作る順番で整理します」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「企業リストの入手方法は3つある」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「手順は5つ——小さく作って一巡させる」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「この記事は、リスト購入の予算がないBtoB営業企画・マーケ担当に向けて、使うデータ源・ファイル仕様・手順・つまずきどころまでを、作る順番で解説します」（https://gomumari.com/knowledge/koukou-data-list/）
 - 突き合わせ・推定：
+  - 「例えば全半角の混在や改行、空白など、突き合わせを行う際に不都合のあるデータの訂正を行います」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「さらに、割り当てた法人番号を使ってデータベース間のデータも突き合わせ、統合していきます」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「そこで今回は、gBizINFOで公開されている全法人番号のデータを取得、加工し、自前でデータ突き合わせを行う方法についてご紹介します」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「法人番号による突き合わせを行うにあたっては、法人番号(1列目)、商号(2列目)、本店所在地(4列目)の3項目で十分ですので、必要なデータだけを処理することで少しでも」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「また、各列のデータに含まれるダブルクオーテーション(")は突き合わせ時に邪魔になるため、読み込み時に削除しておきます」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「これでデータ突合の準備が整いましたので、顧客リストを用意して突き合わせを行っていきます」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
   - 「法人番号システムWeb‑API機能の検証環境における設定変更について（６月20日）」（https://www.houjin-bangou.nta.go.jp/）
   - 「手元の顧客リストと官公データを名前で突き合わせると、表記ゆれと同名他社で破綻します」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/koukou-data-list/）
@@ -9947,8 +9953,8 @@
   - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「数千件の個別照合や差分の自動取り込みはAPI向きです」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「最新情報と照合することで法人情報の確認を自動化し、取引のための審査を迅速化」（https://kamakurakanzeikai.net/images/info_hojinnum.pdf）
 - 一次情報の探し方：
+  - 「これがうまく動作すれば、法人名と登記住所から法人番号を検索することに応用でき、顧客リストの名寄せが簡単になると思います」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
   - 「設立登記法人への指定･･････････････････････････････ ５」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「設立登記のない法人と人格のない社団等への指定･･････ ６」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「設立登記法人の基礎番号は、商業登記法に基づき登記簿に記録される12桁の番号（会社法人等番号）です」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
@@ -9963,12 +9969,20 @@
   - 「設立登記法人の法人番号（13桁）は、商業登記法に基づき登記簿に記録される12桁の番号（会社法人等」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「設立登記のない法人と人格のない社団等への指 定」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「設立登記のない法人と人格のない社団等への指定」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
-  - 「設立登記のない法人、人格のない社団等であって、所定の税法上の届出書（※１）を提出することとされている」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
 - 失敗・落とし穴：
+  - 「また、このタイミングで登録誤りや重複が分かっているものは修正しておきます」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
   - 「）及びその前に付された一桁の検査用数字（法人番号を電子計算機に入力するときに誤りのないことを確認することを」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
 - 実例：
+  - 「例えば全半角の混在や改行、空白など、突き合わせを行う際に不都合のあるデータの訂正を行います」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「最後に、部分一致した法人情報を検索結果としてファイルに出力します」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「該当する法人情報が1件以下の場合はCSVファイルの一覧として、2件以上だった場合は検索対象毎に検索結果のファイルを作成することにします」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「# 1件以下 -> 実行結果.csv に記録」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「今回の例では、実行結果は以下のように出力されます」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「dir 実行結果 -Recurse -Filter *.txt | Foreach-Object {$_.Name + "," + (Get-Content $_.FullName | Measure-Object -Line).Lines}」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「検索対象の1件目、3件目、5件目は結果ファイルに一覧として出力されていることから、」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
+  - 「候補が少数であれば、検索結果から目視で正しい商号、本店所在地の組み合わせを確認することも可能です」（https://note.com/qkw_dgn_mtr/n/ne8b8359be4be）
   - 「検索の結果、表示される内容は次のとおりです」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「例えば、ISO/IEC15459-2において、法人番号7000012050002のコードは、「TAJ7000012050002」と表します」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「なお、検索結果は「英語版法人番号公表サイト」の画面が表示されます」（https://www.houjin-bangou.nta.go.jp/）
@@ -9976,8 +9990,6 @@
   - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
-  - 「Start with NTA Corporate Number full files, daily changes and Web API, then add gBizINFO API and EDINET where the business case and terms justify it.」（https://companiesdata.cloud/open-company-data-japan.html）
 
 ## データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）（data journalism bad data guide checklist percent change percentage points inflation adjustment）
 - 文脈：検証

@@ -8,7 +8,7 @@
  ],
  "context": "凄腕・OSINT",
  "kind": "market",
- "researched_at": "2026-11-07T19:02:54.390287+00:00",
+ "researched_at": "2026-11-08T00:39:18.574585+00:00",
  "evidence": {
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
@@ -24,117 +24,129 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
+  "失敗・落とし穴": [
    {
-    "quote": "いずれも共通するのは、「公開情報を広く集め、突き合わせて意味を読む」という流れです",
+    "quote": "OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説",
     "url": "https://www.octoparse.jp/blog/what-is-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、",
+    "quote": "OSINTの注意点・合法性【重要】",
     "url": "https://www.octoparse.jp/blog/what-is-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "集めたあとの「分析・突き合わせ」に時間を回せるのが利点です",
+    "quote": "本記事では、OSINTとは何か・できること・主な手法とツール・注意点を、ビジネスで合法的に活用する視点から整理します",
     "url": "https://www.octoparse.jp/blog/what-is-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "競合調査や市場調査のように、集めたあとに分析・突き合わせをする調査では、この工程が要になります",
+    "quote": "BIツール比較｜主要6製品の特徴と失敗しない選び方【2026年版】",
+    "url": "https://www.octoparse.jp/blog/what-is-osint",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報を大量に集めるデータ収集系の実務や、合法的に使うための注意点まで、ビジネス調査の視点でまとめました",
     "url": "https://www.octoparse.jp/blog/osint-tools",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ツールは「何がしたいか」から逆算して選ぶと迷いません",
+    "quote": "OSINTツールを使うときの注意点【合法・公開・目的】",
     "url": "https://www.octoparse.jp/blog/osint-tools",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、データ収集系の工程を手作業でやると、すぐ限界がきます",
+    "quote": "OSINTとは？意味・手法・注意点",
     "url": "https://www.octoparse.jp/blog/osint-tools",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "集める工程を効率化すれば、そのぶん「分析・突き合わせ」に時間を回せます",
+    "quote": "OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説",
     "url": "https://www.octoparse.jp/blog/osint-tools",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「現在の従業員」から技術スタックの推定",
+    "quote": "2024年現在も要注意",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「採用情報」からの技術スタック推定",
+    "quote": "：顔認識精度が高く、人物特定に有効（プライバシー侵害リスクに注意）",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Google StreetViewやGoogle Earthと照合して撮影地点を特定する「",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": "OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.",
+    "url": "https://theosintvault.io/osint-handbook",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ランドマークの三角測量",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": ", you will inevitably suffer from information overload, miss critical connections, or worse, succumb to cognitive bias and falsely accuse an innocent person of a cybercrime.",
+    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "太陽の位置・影の角度から方角・時刻を推定（SunCalcツールが有効）",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": "The biggest mistake you can make is opening a web browser and typing a target’s name without a plan. Before you collect a single byte of data, you must define the scope of the investigation.",
+    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Google StreetViewでの地上視点確認と照合",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": "6. Mitigating Cognitive Bias",
+    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "PeakFinderアプリで山の稜線パターンと照合（山岳地帯）",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": "Confirmation Bias",
+    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ShodanでそのIPレンジ全体のスキャン結果と照合",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": "Without a methodology, investigators risk collecting large amounts of irrelevant data (data overload), violating legal or ethical boundaries, and falling victim to confirmation bias. A methodology ensures a repeatable, defensible, and accurate intelligence product.",
+    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである",
+    "quote": "How do OSINT analysts avoid confirmation bias?",
+    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Analysts avoid confirmation bias by using structured analytical techniques, such as the Analysis of Competing Hypotheses (ACH). This requires them to actively look for evidence that",
+    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた",
+    "quote": "公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、衛星写真（IMINT）をスペクトル分析（MASINT）と併用することで、撮影対象の化学組成を推定できる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIが提供するデータの精度は、トレーニングデータの質に依存するため、企業は信頼性の高いデータソースを確保し、分析結果を批判的に検証する必要がある",
+    "quote": "また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -146,115 +158,127 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "衛星画像は画像インテリジェンス（IMINT）の一形態であるが、パターン分析（車両計数、建設進捗推定のための影測定、夜間光量分析による活動度推定等）を行う場合、本質的にはMASINT的分析を公開情報画像に適用していることになる",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一部の企業はWi-Fi信号やBluetooth信号から匿名化された足跡データを測定し、店舗訪問者数を推定している",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIは早期警戒、パターン認識、仮説生成を提供するパートナーであり、人間が検証し「なぜ」と「含意」を掘り下げる役割を担う（CIA, n.d.）",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定期的な監査やレッドチーム演習を実施し、防御体制を検証する",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ツールがなければ、インテリジェンスチームは検索エンジンやOSINTフィード、Twitter、レポートなどに含まれる非構造化データを、手動で収集、検証、重複排除、標準化する作業に足を取られ、前に進めなくなるでしょう",
+    "quote": "OSINTとは？活用例やテクニック、ツール、注意すべき点を解説 | Codebook｜Security News",
     "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（侵入テスト、セキュリティ検証、脅威対象領域評価、",
+    "quote": "OSINTとは？活用例やテクニック、ツール、注意すべき点を解説",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本のIPA、米国のCISAなど、公的機関が発信する注意喚起情報",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "組織においては、損害を与えかねない情報が意図せず公開されないかを注意すること、また、適切なセキュリティ対策を講じて慎重な扱いが求められるデータを保護することが、非常に重要です",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GmailとMS 365の利用者は注意を：フィッシングキット「Tycoon 2FA」の概要と対策",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、多くの場合、情報の各オープンソースから活用できる膨大な二次データが存在することに注意することにも留意してください",
     "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この報道は、誰にでも閲覧できる、オープンソースである「政治資金収支報告書」や、不動産、法人の登記簿を徹底的に分析することによって矛盾するカネの流れを明らかにしたものでした",
-    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "quote": "攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです",
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "検証 コロナ予算 77兆円",
-    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "EmailHippo： メールアドレスの有効性を検証",
+    "quote": "OSINTの実施にあたっては、合法性と倫理性の両面に注意を払う必要があります",
     "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "[dev.example.com] と [staging.example.com] へのセキュリティ設定の検証を実施",
+    "quote": "注意： 多くのソーシャルメディアプラットフォームは、アップロード時にEXIFデータを削除しますが、常にではありません",
     "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "： 従業員は、メールの送信元やリンクの正当性を十分に検証していない",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "quote": "直すための更新にも落とし穴がある本体の弱点（CVE-2026-119977）",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Cross-check findings with independent sources. Document methodology, evidence, and confidence levels. Present findings in a format appropriate for your audience.",
+    "quote": "撮る道具と読む道具の違い、最初に使う6つのプラグイン、2つの名簿（pslistとpsscan）の見比べ方、Python 3.14での落とし穴、旧版Volatility 2との違い、メモリダンプを扱うときの注意まで図解します",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI and machine learning are transforming OSINT. Large language models accelerate synthesis, computer vision enables video and image analysis at scale, and automated correlation tools reduce human workload. However, human oversight remains essential, AI hallucinates, misinterprets context, and can amplify biases.",
     "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【対策】ファクトチェックとクロスチェックの徹底",
+    "quote": "70種類以上のセキュリティエンジンで一括チェックできる無料サービスの基本操作から、Intelligence・Retrohunt・Graphといった高度機能、OSINT調査でのピボット活用、安全に使うための注意点までまとめて解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINTの3つのデメリットと注意点",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ": 情報の出所（ソース）はどこか？信頼できる情報源（公的機関、主要メディア、公式サイトなど）か？根拠となるデータは示されているか？といった点を確認し、情報の真偽を検証します",
+    "quote": "OSINTは低コストで迅速に大量の情報を収集できる強力な手法ですが、その手軽さゆえに看過できないデメリットや注意点も存在します",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "情報源ごとに内容が矛盾する場合は、どちらが正しいのか、あるいはどちらも間違っているのかを慎重に見極める必要があります",
+    "quote": "これらの情報を鵜呑みにしてしまうと、",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "写真の背景に写り込んだ特徴的な建物、看板、マンホールのデザインなどをGoogleストリートビューと照合したり、写真に埋め込まれた位置情報（ジオタグ）を抽出したりする手口が使われます",
+    "quote": "特定の製品を宣伝したい、特定の思想を広めたい、競合他社をおとしめたい、といったバイアスがかかった情報は、一見客観的に見えても、都合の良い事実だけを切り取っていたり、不利な情報を隠していたりする可能性があります",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Metasploit（脆弱性検証ツール）に似たインターフェースを持つ、モジュール式のWeb偵察フレームワークです",
+    "quote": "早期に発見し、テイクダウン（閉鎖）要請や顧客への注意喚起を行うことで、被害の拡大を防ぎます",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ": 「競合のA社について調べる」という漠然とした目的ではなく、「競合A社は、来年度、どの事業領域に最も投資しようとしているか？」や「自社Webサーバーに、外部から攻撃可能な既知の脆弱性は存在するか？」といった、具体的で検証可能な問いを立てます",
+    "quote": ": OSINTが悪用された巧妙な標的型メールの実例を示し、安易にリンクや添付ファイルを開かないよう、定期的に訓練や注意喚起を行います",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
     "quote": "単一の情報源からの情報を鵜呑みにせず、複数の異なる情報源を組み合わせて多角的に分析（クロスチェック）する",
+    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "二次情報には発信者の解釈やバイアスが含まれている可能性があるため、必ず一次情報に立ち返って事実関係を確認する癖をつけましょう",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -874,63 +898,87 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
+  "突き合わせ・推定": [
    {
-    "quote": "本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "インターネットやSNSの普及で扱える公開情報が爆発的に増えた結果、いまでは民間企業でも、競合の動向把握や自社リスクの点検など、日常の意思決定にOSINTが活用されています",
+    "quote": "いずれも共通するのは、「公開情報を広く集め、突き合わせて意味を読む」という流れです",
     "url": "https://www.octoparse.jp/blog/what-is-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ユースケース",
+    "quote": "OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、",
     "url": "https://www.octoparse.jp/blog/what-is-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "アカウント分析・ソーシャルリスニング・データ収集の3タイプの違いと選び方、無料で使えるツール、Octoparseで公式では取れないデータを補完する方法まで、目的別の組み合わせ方を実例つきで解説します",
+    "quote": "集めたあとの「分析・突き合わせ」に時間を回せるのが利点です",
+    "url": "https://www.octoparse.jp/blog/what-is-osint",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合調査や市場調査のように、集めたあとに分析・突き合わせをする調査では、この工程が要になります",
     "url": "https://www.octoparse.jp/blog/osint-tools",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ユースケース",
+    "quote": "ツールは「何がしたいか」から逆算して選ぶと迷いません",
     "url": "https://www.octoparse.jp/blog/osint-tools",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "実際の調査フロー（ケーススタディ）",
+    "quote": "OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、データ収集系の工程を手作業でやると、すぐ限界がきます",
+    "url": "https://www.octoparse.jp/blog/osint-tools",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "集める工程を効率化すれば、そのぶん「分析・突き合わせ」に時間を回せます",
+    "url": "https://www.octoparse.jp/blog/osint-tools",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「現在の従業員」から技術スタックの推定",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "site:example.co.jp",
+    "quote": "「採用情報」からの技術スタック推定",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "intitle:\"admin panel\" inurl:\"/admin/login\" site:example.com",
+    "quote": "Google StreetViewやGoogle Earthと照合して撮影地点を特定する「",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Google結果をプロキシ経由で取得",
+    "quote": "ランドマークの三角測量",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "プロのOSINTアナリストは3つすべてを使い、結果をクロスリファレンスします",
+    "quote": "太陽の位置・影の角度から方角・時刻を推定（SunCalcツールが有効）",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google StreetViewでの地上視点確認と照合",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PeakFinderアプリで山の稜線パターンと照合（山岳地帯）",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -942,151 +990,7 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査方法・結果について説明責任を持つ",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "rule／meta／strings／conditionの構造、16進パターン、メモリスキャン、Velociraptorでの全端末ハント、誤検知を抑える運用まで、実例コードと図解でやさしく解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". For applied examples, review the investigative articles in the",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "username tracing case studies",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Each pivot should be logged, validated, and tied to source URLs with timestamps. This reduces the risk of contamination and helps keep the case defensible.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Search logs should be stored in the case file. If a result is challenged, the investigator can reproduce the search and show that the evidence was accessible. This is a critical credibility step, especially when findings are used in legal or corporate environments.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Investigators should build a validation matrix: a table that lists each claim and the independent sources that support it. For example, a username match might be supported by a shared email address and a matching profile photo. A phone number match might be supported by a public listing and a domain registration. The matrix prevents over-claiming and highlights where evidence is thin.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Simulated case study",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "They require multiple independent signals and document conflicts in the case file before making any final determination.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Storage and indexing: Processed records are stored in a structured form — a case management system, spreadsheet, or OSINT platform — where they can be queried, sorted, and linked. Analysts working from unstructured notes instead of processed records produce less accurate analysis and miss entity correlations.",
-    "url": "https://osint-software.com/osint-methodology-professional-investigators-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A concrete example of why processing matters: three email addresses appear in your collected data —",
-    "url": "https://osint-software.com/osint-methodology-professional-investigators-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Tools that support the analysis phase — link visualisation platforms like Maltego, relationship graphing tools, and AI-augmented platforms that surface correlations across large datasets — are the second category of OSINT software that professionals rely on alongside collection tools. osint-software.com includes both categories, searchable by function and use case.",
-    "url": "https://osint-software.com/osint-methodology-professional-investigators-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, your finished graph might show:",
-    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿では、各機関がこれらの手法をどのように活用しているかを比較し、さらに実際のビジネスにおける応用事例を取り上げる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、投資家は小売店の駐車場の衛星写真を分析することで売上予測を行い、競争優位を確立した事例がある（Groll, 2017）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：ケーススタディによれば、インテリジェンス思考を導入することで戦略的優位性を得ることができる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、ヘッジファンドが画像データや取引データを活用して投資判断を行ったり、企業がプライベート・インテリジェンス企業を利用してデューデリジェンスや競合分析を行ったりしている（Black Cube, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿の後続セクションでは、各インテリジェンス分野の比較分析、ビジネスへの応用事例、および倫理的な実施ガイドラインについて詳細に論じる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各カテゴリーについて、CIA（米国）、モサド（イスラエル）、MI6（英国）、およびKGB（ソ連/ロシア）が伝統的に情報を収集する方法を検討し、独自のアプローチや歴史的事例を強調する",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本研究は、インテリジェンス文献およびビジネスニュースのケーススタディなどの公開情報に基づいている",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、インテリジェンス主導のビジネス戦略が実際にどのように機能するかを示すため、実例を交えて解説する",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、CIAの「Open Source Enterprise（旧Open Source Center）」は、世界中の公開情報を体系的に収集し、生のデータを政策立案者向けのインテリジェンスレポートに変換している（CIA, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、企業は競合他社の求人情報やプレスリリースを分析し（公開情報の活用）、その事業拡大計画や研究開発の焦点を推測できる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、ヘッジファンドやコンサルティング企業は、公開データセットを活用して経済指標を分析する戦略を構築している",
+    "quote": "本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1098,475 +1002,133 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この情報を活用した投資家は、後に発表された企業業績の好結果により、市場で優位性を確立することができた",
+    "quote": "例えば、衛星写真（IMINT）をスペクトル分析（MASINT）と併用することで、撮影対象の化学組成を推定できる",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、衛星画像を用いた駐車場の分析は合法であるものの、一般に広くアクセス可能な情報ではなく、特定のツールを持つ者のみが利用可能である",
+    "quote": "AIが提供するデータの精度は、トレーニングデータの質に依存するため、企業は信頼性の高いデータソースを確保し、分析結果を批判的に検証する必要がある",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "国際スパイ博物館によれば、最も古いインテリジェンス収集方法は人間の情報源（スパイ）を活用することであり、ケースオフィサーやエージェントが機密情報を取得するために知略を駆使する（International Spy Museum, n.d.）",
+    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "UC Berkeley Haasの研究チームが後に480万枚の衛星画像と米国44の主要小売チェーンのデータを分析した結果、駐車場車両密度と四半期売上高の間に統計的に有意な相関が確認された",
+    "quote": "衛星画像は画像インテリジェンス（IMINT）の一形態であるが、パターン分析（車両計数、建設進捗推定のための影測定、夜間光量分析による活動度推定等）を行う場合、本質的にはMASINT的分析を公開情報画像に適用していることになる",
     "url": "https://note.com/everprogress/n/ndfc934686a89",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本書は、前半において物語と事例を通じて各インテリジェンス領域の本質を体感的に理解し、後半において学術的な分析と実践的手順を通じてその転用方法を体系的に習得するという構成を採っている",
+    "quote": "一部の企業はWi-Fi信号やBluetooth信号から匿名化された足跡データを測定し、店舗訪問者数を推定している",
     "url": "https://note.com/everprogress/n/ndfc934686a89",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "なお、本書は公開情報源（学術文献、報道記事、ビジネスケーススタディ等）のみに依拠しており、すべての手法は合法的な競争情報活動（Competitive Intelligence: CI）の範囲内に厳格に留まるものである",
+    "quote": "AIは早期警戒、パターン認識、仮説生成を提供するパートナーであり、人間が検証し「なぜ」と「含意」を掘り下げる役割を担う（CIA, n.d.）",
     "url": "https://note.com/everprogress/n/ndfc934686a89",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "各種報告書、通信記録、観察結果、統計数値",
+    "quote": "定期的な監査やレッドチーム演習を実施し、防御体制を検証する",
     "url": "https://note.com/everprogress/n/ndfc934686a89",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この区別は抽象的に聞こえるかもしれないが、プロローグの事例を思い出していただきたい",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "高解像度衛星写真（IMINT）はスペクトル分析（MASINT）により強化され、例えば農作物の色スペクトルから作柄を評価したり、合成繊維のスペクトル特性からカモフラージュネットを検出したりすることが可能となる",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プロローグで紹介した駐車場の車両計数も、厳密にはOSINT（公開衛星画像の利用）とMASINT的分析（定量的特性の抽出とビジネス指標への関連付け）の融合事例である",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、AIが世界中の数千の産業施設の夜間衛星画像を分析し、どの施設が明るく照らされている（稼働中）か暗い（遊休中）かを特定することで、産業活動のマクロ経済指標を提供する",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "変化検出はMASINTの中核的用途であり、例えば工場の熱特性が著しく上昇したことを検知すれば、生産急増を示唆する",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "International Spy Museumが指摘するように、インテリジェンス収集の最も古い方法は人的情報源（スパイ）を通じたものであり、ケースオフィサーとエージェントが自らの知恵を駆使して機密を取得することに依拠する（International Spy Museum, n.d.）",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAのケースオフィサーが外交パーティーでやっていることと、あなたが展示会でやるべきことは、本質的に同じである",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば「御社のその新製品、すごいですね",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "銀行記録、電信送金、ペーパーカンパニー登記等をつなぎ合わせることで、隠れた関係性、例えば一見無関係な二つのグループが実は資金源を共有していたといった事実を暴露し得る",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、競合他社の年次報告書における特定セグメントのR&D支出の急増を検出することで、当該企業が将来の機会を見出している領域を推測し得る",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、競合他社が大口融資を受けたことを検知すれば、拡大計画（もしくは資金繰りの困窮）を示唆するものであり、いずれにせよ行動可能なインテリジェンスとなる",
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTを通じて得られる知見は、例えば脅威アクターが用いる戦術・技術・手順（TTP）に関する理解を深めたり、攻撃の前兆を検知して先手を打った対策を講じたりする上で役立ちます",
+    "quote": "ツールがなければ、インテリジェンスチームは検索エンジンやOSINTフィード、Twitter、レポートなどに含まれる非構造化データを、手動で収集、検証、重複排除、標準化する作業に足を取られ、前に進めなくなるでしょう",
     "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "このアナウンスの中で、どのような手法を用いたのかを攻撃者自身が説明していたケースがいくつか報告されています",
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "セキュリティ企業やインテリジェンス企業、また個人の研究者は、特定の脅威アクターやマルウェア、攻撃事例などの調査結果をインターネット上で公開していることがあります",
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報源からは、例えば以下のような情報が入手できる場合があります",
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、企業のホームページに掲載された経営幹部の情報、連絡先情報、従業員がXやLinkedIn等に投稿した私生活に関する情報や業務に関する情報、職務経歴などは、巧妙な",
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "高度な検索演算子を用いながら検索結果を絞り込み、求めている情報を見つけるのです",
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば近年では、情報収集、分析、評価、レポーティングといったOSINTの各フェーズにおいて、作業効率やスピードの向上を目的としたAI技術の活用が進んでいます",
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、当社のアナリストがまとめたOSINT調査の結果に関するレポートも無料で配布しています",
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "脅威アクターがGitHubを不正な目的で悪用するケースが増加",
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、ソーシャルメディアアカウントをマイニングして、ユーザーの名前、生年月日、家族構成、居住地などの個人情報を得ることができます",
+    "quote": "（侵入テスト、セキュリティ検証、脅威対象領域評価、",
     "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "サイバーセキュリティにおけるOSINTのユースケース",
-    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "サイバーセキュリティにおけるOSINTの一般的なユースケースとして、次の2つがあります",
-    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、公開掲示板への投稿はそれ自体では、サイバーセキュリティチームにとって有用な情報をもたらさない可能性があります",
-    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、公開されているインテリジェンスを確認することで、脅威アクターは組織が防御ラインを張る可能性のある場所を把握し、別の攻撃方法を探すことができます",
-    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、サイバー犯罪者は、「機密だが未分類の情報」というフレーズを含むドキュメントのファイル検索を実行できます",
-    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらにどのようにしたら解決できるのかという対策の実例も紹介しています",
+    "quote": "この報道は、誰にでも閲覧できる、オープンソースである「政治資金収支報告書」や、不動産、法人の登記簿を徹底的に分析することによって矛盾するカネの流れを明らかにしたものでした",
     "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば日本の国税局もインテリジェンスを実践しています",
+    "quote": "検証 コロナ予算 77兆円",
     "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、「芸能人の豪邸訪問」という番組があります",
-    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調子に乗って高級品を披露していると、「彼の申告している所得では購入できるはずがない」と、税務調査に入られて申告漏れを指摘された、なんていうケースも実際に起きています",
-    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば不動産や法人の登記簿の情報は先進国の多くでは無料で入手できますが、日本では有料なので厳密な意味でのオープンソースとは言えません",
-    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "政府の事業（予算、契約、入札結果）、医療（医師の成果、病院への苦情、医療監査の結果）、教育（学校ごとの教育の評価）、犯罪（被告や裁判の情報、判決文、銃取引の記録）など多くの情報がオープンになっています",
-    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "こうした手法は、自ずと取材の経緯や手法の透明化にも繋がっていて、調査結果を簡単にフェイクだと言わせない効果も生んでいます（ただしプーチン大統領は「フェイクだ」と言い続けていますが）",
-    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ヒギンズ氏はベリングキャットのメンバーを積極的にニューヨークタイムズ（NYT）やBBCに送り込み、例えば2020年1月に起きたイランでの民間航空機撃墜事件などでは、NYTのOSINTチームの一員となった若手メンバーと連絡を取りながら、NYTの記事とベリングキャットのサイトでほぼ同時に調査内容を公表する成果をあげた",
-    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実践的なペネトレーションテストでの活用事例",
+    "quote": "EmailHippo： メールアドレスの有効性を検証",
     "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "特に、ペネトレーションテストにおけるOSINTの重要性、具体的な技術手法、そして実際の活用事例について、実務的な観点から詳しく紹介します",
+    "quote": "[dev.example.com] と [staging.example.com] へのセキュリティ設定の検証を実施",
     "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、有料データベース、会員制サイト、内部文書などがこれに該当します",
+    "quote": "： 従業員は、メールの送信元やリンクの正当性を十分に検証していない",
     "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "その結果、組織が現実世界でどのような脅威に直面しているかを、より正確に評価できます",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com \"admin\"",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com filetype:pdf",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "inurl:admin site:example.com",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com -www",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:*.example.com -www",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com inurl:login | inurl:signin | inurl:admin",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com \"Warning: mysql_connect（）\" | \"SQL syntax\" | \"MySQL Error\"",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ntitle:\"index of\" site:example.com",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com ext:xls \"confidential\"",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Bing： 異なるインデックスアルゴリズムにより、Googleで見つからない結果が見つかることがある",
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "across fraud, law enforcement, and due diligence, start with the use-case hub, then come back here to run the workflow.",
+    "quote": "Cross-check findings with independent sources. Document methodology, evidence, and confidence levels. Present findings in a format appropriate for your audience.",
     "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Real-world case studies show how organizations catch fraud, verify identities, and manage security risks",
-    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Tools like Maltego, Espectrosint, and custom scripts create visual representations of connections. A single email address, for example, might connect to multiple domains, social accounts, breach records, and financial accounts, all valuable leads. A",
-    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IV. Real-World Case Studies",
-    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study 1: Corporate Fraud Detection",
-    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study 2: Third-Party Risk Management",
-    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study 3: Supply Chain Verification",
-    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Is OSINT Used For? 8 Real-World Use Cases",
-    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、OSINTの基礎知識から、具体的な調査手法、活用場面、悪用事例と対策、そして実践に役立つ無料ツールまで、網羅的に解説します",
+    "quote": "【対策】ファクトチェックとクロスチェックの徹底",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "・B社の決算内容と市場の反応を分析した結果、B社は今後、特定事業への投資を加速させる可能性が高い",
+    "quote": ": 情報の出所（ソース）はどこか？信頼できる情報源（公的機関、主要メディア、公式サイトなど）か？根拠となるデータは示されているか？といった点を確認し、情報の真偽を検証します",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "個人に関する情報は、SNSやブログ、フォーラムなど、本人が意図的または無意識に公開しているケースが多く見られます",
+    "quote": "情報源ごとに内容が矛盾する場合は、どちらが正しいのか、あるいはどちらも間違っているのかを慎重に見極める必要があります",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、企業の採用情報から「AWSの専門家を募集」していることが分かれば、その企業がAWSを積極的に利用していると推測できます",
+    "quote": "写真の背景に写り込んだ特徴的な建物、看板、マンホールのデザインなどをGoogleストリートビューと照合したり、写真に埋め込まれた位置情報（ジオタグ）を抽出したりする手口が使われます",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ": 物理的な調査、例えば対象企業への潜入や関係者への聞き込みなどと比較して、OSINTはオフィスや自宅からリモートで実施できます",
+    "quote": "Metasploit（脆弱性検証ツール）に似たインターフェースを持つ、モジュール式のWeb偵察フレームワークです",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、自社サービスに障害が発生した際、SNS上のユーザーの反応をOSINTで監視することで、影響範囲や原因究明のヒントを迅速に得られる場合があります",
+    "quote": ": 「競合のA社について調べる」という漠然とした目的ではなく、「競合A社は、来年度、どの事業領域に最も投資しようとしているか？」や「自社Webサーバーに、外部から攻撃可能な既知の脆弱性は存在するか？」といった、具体的で検証可能な問いを立てます",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、ある企業の新製品について調査する場合、企業の公式発表（一次情報）、ニュースメディアの報道（二次情報）、専門家のブログでのレビュー（専門的見解）、SNSでの一般ユーザーの口コミ（市場の反応）といった異なる種類の情報を組み合わせることで、",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、従業員が何気なく投稿したオフィスの写真に、未発表製品のポスターやホワイトボードに書かれた機密情報が写り込んでいるかもしれません",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": インターネット上には、意図的に嘘の情報を流布させる「ディスインフォメーション（偽情報）」や、悪意はないものの結果的に誤った内容が広まってしまう「ミスインフォメーション（誤情報）」が溢れています",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、企業の役員情報を調査する際、古い会社概要ページを参照してしまい、既に退任した人物が現役であると誤認するケースなどが考えられます",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 例えば、サイバーセキュリティ目的でOSINTを行うのであれば、ネットワーク、サーバー、脆弱性に関する知識がなければ、収集した技術情報が何を意味するのかを理解できません",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com \"社外秘\"",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "→ example.com内で「社外秘」という単語を含むページを探す",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://example.com/robots.txt",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、特定の脆弱性を悪用する攻撃が流行しているという情報を得れば、自社システムにその脆弱性がないか緊急で点検するといった対応が可能になります",
+    "quote": "単一の情報源からの情報を鵜呑みにせず、複数の異なる情報源を組み合わせて多角的に分析（クロスチェック）する",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2624,64 +2186,94 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
+  "実例": [
    {
-    "quote": "OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説",
+    "quote": "本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インターネットやSNSの普及で扱える公開情報が爆発的に増えた結果、いまでは民間企業でも、競合の動向把握や自社リスクの点検など、日常の意思決定にOSINTが活用されています",
     "url": "https://www.octoparse.jp/blog/what-is-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTの注意点・合法性【重要】",
+    "quote": "ユースケース",
     "url": "https://www.octoparse.jp/blog/what-is-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本記事では、OSINTとは何か・できること・主な手法とツール・注意点を、ビジネスで合法的に活用する視点から整理します",
-    "url": "https://www.octoparse.jp/blog/what-is-osint",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "BIツール比較｜主要6製品の特徴と失敗しない選び方【2026年版】",
-    "url": "https://www.octoparse.jp/blog/what-is-osint",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報を大量に集めるデータ収集系の実務や、合法的に使うための注意点まで、ビジネス調査の視点でまとめました",
+    "quote": "アカウント分析・ソーシャルリスニング・データ収集の3タイプの違いと選び方、無料で使えるツール、Octoparseで公式では取れないデータを補完する方法まで、目的別の組み合わせ方を実例つきで解説します",
     "url": "https://www.octoparse.jp/blog/osint-tools",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTツールを使うときの注意点【合法・公開・目的】",
+    "quote": "ユースケース",
     "url": "https://www.octoparse.jp/blog/osint-tools",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTとは？意味・手法・注意点",
-    "url": "https://www.octoparse.jp/blog/osint-tools",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説",
-    "url": "https://www.octoparse.jp/blog/osint-tools",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2024年現在も要注意",
+    "quote": "実際の調査フロー（ケーススタディ）",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：顔認識精度が高く、人物特定に有効（プライバシー侵害リスクに注意）",
+    "quote": "site:example.co.jp",
     "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "intitle:\"admin panel\" inurl:\"/admin/login\" site:example.com",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google結果をプロキシ経由で取得",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロのOSINTアナリストは3つすべてを使い、結果をクロスリファレンスします",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ShodanでそのIPレンジ全体のスキャン結果と照合",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査方法・結果について説明責任を持つ",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "rule／meta／strings／conditionの構造、16進パターン、メモリスキャン、Velociraptorでの全端末ハント、誤検知を抑える運用まで、実例コードと図解でやさしく解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". For applied examples, review the investigative articles in the",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "username tracing case studies",
+    "url": "https://theosintvault.io/osint-handbook",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -2692,193 +2284,601 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ", you will inevitably suffer from information overload, miss critical connections, or worse, succumb to cognitive bias and falsely accuse an innocent person of a cybercrime.",
+    "quote": "Each pivot should be logged, validated, and tied to source URLs with timestamps. This reduces the risk of contamination and helps keep the case defensible.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Search logs should be stored in the case file. If a result is challenged, the investigator can reproduce the search and show that the evidence was accessible. This is a critical credibility step, especially when findings are used in legal or corporate environments.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investigators should build a validation matrix: a table that lists each claim and the independent sources that support it. For example, a username match might be supported by a shared email address and a matching profile photo. A phone number match might be supported by a public listing and a domain registration. The matrix prevents over-claiming and highlights where evidence is thin.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Simulated case study",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "They require multiple independent signals and document conflicts in the case file before making any final determination.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Storage and indexing: Processed records are stored in a structured form — a case management system, spreadsheet, or OSINT platform — where they can be queried, sorted, and linked. Analysts working from unstructured notes instead of processed records produce less accurate analysis and miss entity correlations.",
+    "url": "https://osint-software.com/osint-methodology-professional-investigators-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A concrete example of why processing matters: three email addresses appear in your collected data —",
+    "url": "https://osint-software.com/osint-methodology-professional-investigators-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tools that support the analysis phase — link visualisation platforms like Maltego, relationship graphing tools, and AI-augmented platforms that surface correlations across large datasets — are the second category of OSINT software that professionals rely on alongside collection tools. osint-software.com includes both categories, searchable by function and use case.",
+    "url": "https://osint-software.com/osint-methodology-professional-investigators-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, your finished graph might show:",
     "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "The biggest mistake you can make is opening a web browser and typing a target’s name without a plan. Before you collect a single byte of data, you must define the scope of the investigation.",
-    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "6. Mitigating Cognitive Bias",
-    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Confirmation Bias",
-    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Without a methodology, investigators risk collecting large amounts of irrelevant data (data overload), violating legal or ethical boundaries, and falling victim to confirmation bias. A methodology ensures a repeatable, defensible, and accurate intelligence product.",
-    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How do OSINT analysts avoid confirmation bias?",
-    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Analysts avoid confirmation bias by using structured analytical techniques, such as the Analysis of Competing Hypotheses (ACH). This requires them to actively look for evidence that",
-    "url": "https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）",
+    "quote": "本稿では、各機関がこれらの手法をどのように活用しているかを比較し、さらに実際のビジネスにおける応用事例を取り上げる",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である",
+    "quote": "例えば、投資家は小売店の駐車場の衛星写真を分析することで売上予測を行い、競争優位を確立した事例がある（Groll, 2017）",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる",
+    "quote": "：ケーススタディによれば、インテリジェンス思考を導入することで戦略的優位性を得ることができる",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
+    "quote": "例えば、ヘッジファンドが画像データや取引データを活用して投資判断を行ったり、企業がプライベート・インテリジェンス企業を利用してデューデリジェンスや競合分析を行ったりしている（Black Cube, n.d.）",
     "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTとは？活用例やテクニック、ツール、注意すべき点を解説 | Codebook｜Security News",
+    "quote": "本稿の後続セクションでは、各インテリジェンス分野の比較分析、ビジネスへの応用事例、および倫理的な実施ガイドラインについて詳細に論じる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各カテゴリーについて、CIA（米国）、モサド（イスラエル）、MI6（英国）、およびKGB（ソ連/ロシア）が伝統的に情報を収集する方法を検討し、独自のアプローチや歴史的事例を強調する",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本研究は、インテリジェンス文献およびビジネスニュースのケーススタディなどの公開情報に基づいている",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、インテリジェンス主導のビジネス戦略が実際にどのように機能するかを示すため、実例を交えて解説する",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、CIAの「Open Source Enterprise（旧Open Source Center）」は、世界中の公開情報を体系的に収集し、生のデータを政策立案者向けのインテリジェンスレポートに変換している（CIA, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、企業は競合他社の求人情報やプレスリリースを分析し（公開情報の活用）、その事業拡大計画や研究開発の焦点を推測できる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、ヘッジファンドやコンサルティング企業は、公開データセットを活用して経済指標を分析する戦略を構築している",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この情報を活用した投資家は、後に発表された企業業績の好結果により、市場で優位性を確立することができた",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、衛星画像を用いた駐車場の分析は合法であるものの、一般に広くアクセス可能な情報ではなく、特定のツールを持つ者のみが利用可能である",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国際スパイ博物館によれば、最も古いインテリジェンス収集方法は人間の情報源（スパイ）を活用することであり、ケースオフィサーやエージェントが機密情報を取得するために知略を駆使する（International Spy Museum, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "UC Berkeley Haasの研究チームが後に480万枚の衛星画像と米国44の主要小売チェーンのデータを分析した結果、駐車場車両密度と四半期売上高の間に統計的に有意な相関が確認された",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本書は、前半において物語と事例を通じて各インテリジェンス領域の本質を体感的に理解し、後半において学術的な分析と実践的手順を通じてその転用方法を体系的に習得するという構成を採っている",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、本書は公開情報源（学術文献、報道記事、ビジネスケーススタディ等）のみに依拠しており、すべての手法は合法的な競争情報活動（Competitive Intelligence: CI）の範囲内に厳格に留まるものである",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各種報告書、通信記録、観察結果、統計数値",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この区別は抽象的に聞こえるかもしれないが、プロローグの事例を思い出していただきたい",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "高解像度衛星写真（IMINT）はスペクトル分析（MASINT）により強化され、例えば農作物の色スペクトルから作柄を評価したり、合成繊維のスペクトル特性からカモフラージュネットを検出したりすることが可能となる",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロローグで紹介した駐車場の車両計数も、厳密にはOSINT（公開衛星画像の利用）とMASINT的分析（定量的特性の抽出とビジネス指標への関連付け）の融合事例である",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、AIが世界中の数千の産業施設の夜間衛星画像を分析し、どの施設が明るく照らされている（稼働中）か暗い（遊休中）かを特定することで、産業活動のマクロ経済指標を提供する",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "変化検出はMASINTの中核的用途であり、例えば工場の熱特性が著しく上昇したことを検知すれば、生産急増を示唆する",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "International Spy Museumが指摘するように、インテリジェンス収集の最も古い方法は人的情報源（スパイ）を通じたものであり、ケースオフィサーとエージェントが自らの知恵を駆使して機密を取得することに依拠する（International Spy Museum, n.d.）",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAのケースオフィサーが外交パーティーでやっていることと、あなたが展示会でやるべきことは、本質的に同じである",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば「御社のその新製品、すごいですね",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "銀行記録、電信送金、ペーパーカンパニー登記等をつなぎ合わせることで、隠れた関係性、例えば一見無関係な二つのグループが実は資金源を共有していたといった事実を暴露し得る",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合他社の年次報告書における特定セグメントのR&D支出の急増を検出することで、当該企業が将来の機会を見出している領域を推測し得る",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合他社が大口融資を受けたことを検知すれば、拡大計画（もしくは資金繰りの困窮）を示唆するものであり、いずれにせよ行動可能なインテリジェンスとなる",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINTを通じて得られる知見は、例えば脅威アクターが用いる戦術・技術・手順（TTP）に関する理解を深めたり、攻撃の前兆を検知して先手を打った対策を講じたりする上で役立ちます",
     "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTとは？活用例やテクニック、ツール、注意すべき点を解説",
+    "quote": "このアナウンスの中で、どのような手法を用いたのかを攻撃者自身が説明していたケースがいくつか報告されています",
     "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日本のIPA、米国のCISAなど、公的機関が発信する注意喚起情報",
+    "quote": "セキュリティ企業やインテリジェンス企業、また個人の研究者は、特定の脅威アクターやマルウェア、攻撃事例などの調査結果をインターネット上で公開していることがあります",
     "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "組織においては、損害を与えかねない情報が意図せず公開されないかを注意すること、また、適切なセキュリティ対策を講じて慎重な扱いが求められるデータを保護することが、非常に重要です",
+    "quote": "公開情報源からは、例えば以下のような情報が入手できる場合があります",
     "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "GmailとMS 365の利用者は注意を：フィッシングキット「Tycoon 2FA」の概要と対策",
+    "quote": "例えば、企業のホームページに掲載された経営幹部の情報、連絡先情報、従業員がXやLinkedIn等に投稿した私生活に関する情報や業務に関する情報、職務経歴などは、巧妙な",
     "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "また、多くの場合、情報の各オープンソースから活用できる膨大な二次データが存在することに注意することにも留意してください",
+    "quote": "高度な検索演算子を用いながら検索結果を絞り込み、求めている情報を見つけるのです",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば近年では、情報収集、分析、評価、レポーティングといったOSINTの各フェーズにおいて、作業効率やスピードの向上を目的としたAI技術の活用が進んでいます",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、当社のアナリストがまとめたOSINT調査の結果に関するレポートも無料で配布しています",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "脅威アクターがGitHubを不正な目的で悪用するケースが増加",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、ソーシャルメディアアカウントをマイニングして、ユーザーの名前、生年月日、家族構成、居住地などの個人情報を得ることができます",
     "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです",
+    "quote": "サイバーセキュリティにおけるOSINTのユースケース",
     "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTの実施にあたっては、合法性と倫理性の両面に注意を払う必要があります",
+    "quote": "サイバーセキュリティにおけるOSINTの一般的なユースケースとして、次の2つがあります",
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、公開掲示板への投稿はそれ自体では、サイバーセキュリティチームにとって有用な情報をもたらさない可能性があります",
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、公開されているインテリジェンスを確認することで、脅威アクターは組織が防御ラインを張る可能性のある場所を把握し、別の攻撃方法を探すことができます",
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、サイバー犯罪者は、「機密だが未分類の情報」というフレーズを含むドキュメントのファイル検索を実行できます",
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらにどのようにしたら解決できるのかという対策の実例も紹介しています",
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば日本の国税局もインテリジェンスを実践しています",
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「芸能人の豪邸訪問」という番組があります",
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調子に乗って高級品を披露していると、「彼の申告している所得では購入できるはずがない」と、税務調査に入られて申告漏れを指摘された、なんていうケースも実際に起きています",
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば不動産や法人の登記簿の情報は先進国の多くでは無料で入手できますが、日本では有料なので厳密な意味でのオープンソースとは言えません",
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "政府の事業（予算、契約、入札結果）、医療（医師の成果、病院への苦情、医療監査の結果）、教育（学校ごとの教育の評価）、犯罪（被告や裁判の情報、判決文、銃取引の記録）など多くの情報がオープンになっています",
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "こうした手法は、自ずと取材の経緯や手法の透明化にも繋がっていて、調査結果を簡単にフェイクだと言わせない効果も生んでいます（ただしプーチン大統領は「フェイクだ」と言い続けていますが）",
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ヒギンズ氏はベリングキャットのメンバーを積極的にニューヨークタイムズ（NYT）やBBCに送り込み、例えば2020年1月に起きたイランでの民間航空機撃墜事件などでは、NYTのOSINTチームの一員となった若手メンバーと連絡を取りながら、NYTの記事とベリングキャットのサイトでほぼ同時に調査内容を公表する成果をあげた",
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実践的なペネトレーションテストでの活用事例",
     "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "注意： 多くのソーシャルメディアプラットフォームは、アップロード時にEXIFデータを削除しますが、常にではありません",
+    "quote": "特に、ペネトレーションテストにおけるOSINTの重要性、具体的な技術手法、そして実際の活用事例について、実務的な観点から詳しく紹介します",
     "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "直すための更新にも落とし穴がある本体の弱点（CVE-2026-119977）",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": "例えば、有料データベース、会員制サイト、内部文書などがこれに該当します",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "撮る道具と読む道具の違い、最初に使う6つのプラグイン、2つの名簿（pslistとpsscan）の見比べ方、Python 3.14での落とし穴、旧版Volatility 2との違い、メモリダンプを扱うときの注意まで図解します",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": "その結果、組織が現実世界でどのような脅威に直面しているかを、より正確に評価できます",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "AI and machine learning are transforming OSINT. Large language models accelerate synthesis, computer vision enables video and image analysis at scale, and automated correlation tools reduce human workload. However, human oversight remains essential, AI hallucinates, misinterprets context, and can amplify biases.",
+    "quote": "site:example.com \"admin\"",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com filetype:pdf",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "inurl:admin site:example.com",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com -www",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:*.example.com -www",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com inurl:login | inurl:signin | inurl:admin",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com \"Warning: mysql_connect（）\" | \"SQL syntax\" | \"MySQL Error\"",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ntitle:\"index of\" site:example.com",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com ext:xls \"confidential\"",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Bing： 異なるインデックスアルゴリズムにより、Googleで見つからない結果が見つかることがある",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "across fraud, law enforcement, and due diligence, start with the use-case hub, then come back here to run the workflow.",
     "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "70種類以上のセキュリティエンジンで一括チェックできる無料サービスの基本操作から、Intelligence・Retrohunt・Graphといった高度機能、OSINT調査でのピボット活用、安全に使うための注意点までまとめて解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "quote": "Real-world case studies show how organizations catch fraud, verify identities, and manage security risks",
+    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTの3つのデメリットと注意点",
+    "quote": "Tools like Maltego, Espectrosint, and custom scripts create visual representations of connections. A single email address, for example, might connect to multiple domains, social accounts, breach records, and financial accounts, all valuable leads. A",
+    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IV. Real-World Case Studies",
+    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study 1: Corporate Fraud Detection",
+    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study 2: Third-Party Risk Management",
+    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study 3: Supply Chain Verification",
+    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Is OSINT Used For? 8 Real-World Use Cases",
+    "url": "https://www.espectrosint.com/blog/what-is-osint-investigation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、OSINTの基礎知識から、具体的な調査手法、活用場面、悪用事例と対策、そして実践に役立つ無料ツールまで、網羅的に解説します",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTは低コストで迅速に大量の情報を収集できる強力な手法ですが、その手軽さゆえに看過できないデメリットや注意点も存在します",
+    "quote": "・B社の決算内容と市場の反応を分析した結果、B社は今後、特定事業への投資を加速させる可能性が高い",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "これらの情報を鵜呑みにしてしまうと、",
+    "quote": "個人に関する情報は、SNSやブログ、フォーラムなど、本人が意図的または無意識に公開しているケースが多く見られます",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "特定の製品を宣伝したい、特定の思想を広めたい、競合他社をおとしめたい、といったバイアスがかかった情報は、一見客観的に見えても、都合の良い事実だけを切り取っていたり、不利な情報を隠していたりする可能性があります",
+    "quote": "例えば、企業の採用情報から「AWSの専門家を募集」していることが分かれば、その企業がAWSを積極的に利用していると推測できます",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "早期に発見し、テイクダウン（閉鎖）要請や顧客への注意喚起を行うことで、被害の拡大を防ぎます",
+    "quote": ": 物理的な調査、例えば対象企業への潜入や関係者への聞き込みなどと比較して、OSINTはオフィスや自宅からリモートで実施できます",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ": OSINTが悪用された巧妙な標的型メールの実例を示し、安易にリンクや添付ファイルを開かないよう、定期的に訓練や注意喚起を行います",
+    "quote": "例えば、自社サービスに障害が発生した際、SNS上のユーザーの反応をOSINTで監視することで、影響範囲や原因究明のヒントを迅速に得られる場合があります",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "単一の情報源からの情報を鵜呑みにせず、複数の異なる情報源を組み合わせて多角的に分析（クロスチェック）する",
+    "quote": "例えば、ある企業の新製品について調査する場合、企業の公式発表（一次情報）、ニュースメディアの報道（二次情報）、専門家のブログでのレビュー（専門的見解）、SNSでの一般ユーザーの口コミ（市場の反応）といった異なる種類の情報を組み合わせることで、",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "二次情報には発信者の解釈やバイアスが含まれている可能性があるため、必ず一次情報に立ち返って事実関係を確認する癖をつけましょう",
+    "quote": "例えば、従業員が何気なく投稿したオフィスの写真に、未発表製品のポスターやホワイトボードに書かれた機密情報が写り込んでいるかもしれません",
+    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": インターネット上には、意図的に嘘の情報を流布させる「ディスインフォメーション（偽情報）」や、悪意はないものの結果的に誤った内容が広まってしまう「ミスインフォメーション（誤情報）」が溢れています",
+    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、企業の役員情報を調査する際、古い会社概要ページを参照してしまい、既に退任した人物が現役であると誤認するケースなどが考えられます",
+    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 例えば、サイバーセキュリティ目的でOSINTを行うのであれば、ネットワーク、サーバー、脆弱性に関する知識がなければ、収集した技術情報が何を意味するのかを理解できません",
+    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com \"社外秘\"",
+    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "→ example.com内で「社外秘」という単語を含むページを探す",
+    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://example.com/robots.txt",
+    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、特定の脆弱性を悪用する攻撃が流行しているという情報を得れば、自社システムにその脆弱性がないか緊急で点検するといった対応が可能になります",
     "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2914,7 +2914,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hiro_shi_note/n/n616ac34500a8",
+    "url": "https://note.com/good_bear70/n/n173e9bb489ca",
     "status": "ok",
     "method": "http"
    },
@@ -2979,34 +2979,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://be-water-online.com/2024/06/12/19/",
     "status": "ok",
     "method": "http"
    },
    {
+    "url": "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://x.com/osintjapan",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Open-source_intelligence",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://osintframework.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://osintsearch.org/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.sans.org/job-roles/osint-investigatoranalyst",
@@ -3049,16 +3034,17 @@
     "https://note.com/tedd_jp/n/nc236000f7e8c",
     "https://note.com/serene_rhino7171/n/n2b11f64350a6",
     "https://note.com/everprogress/n/ndfc934686a89",
-    "https://note.com/hiro_shi_note/n/n616ac34500a8",
     "https://note.com/good_bear70/n/n173e9bb489ca",
-    "https://note.com/hirokimiyano/n/nb308858fbbf5",
+    "https://note.com/hiro_shi_note/n/n616ac34500a8",
     "https://note.com/everprogress/n/n92645fb8d178",
+    "https://note.com/hirokimiyano/n/nb308858fbbf5",
     "https://note.com/hirokimiyano/n/nde8510fa6e26"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 20
   },
   {
    "query": "OSINT 企業調査の手法（調査報道・OSINTアナリスト） note",
@@ -3075,7 +3061,7 @@
     "https://en.wikipedia.org/wiki/Open-source_intelligence"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 19
@@ -3105,20 +3091,18 @@
    "results": [
     "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "https://www.hbf.or.jp/grants/event/3220/",
-    "https://globe.asahi.com/article/14757756",
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.sans.org/blog/cybersecurity-jobs-osint-investigator-analyst-ja",
     "https://be-water-online.com/2024/06/12/19/",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://globe.asahi.com/article/14757756",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.mediatechnology.jp/entry/AllofOSINT",
     "https://x.com/osintjapan",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://en.wikipedia.org/wiki/Open-source_intelligence"
+    "https://www.sun-denshi.co.jp/df/shadowdragon-news/shadowdragon-news-976/"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 9
   },
   {
    "query": "OSINT company investigation methodology analyst",
@@ -3135,7 +3119,7 @@
     "https://theosintvault.io/osint-handbook"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 19
@@ -3155,7 +3139,7 @@
     "https://note.com/hiro_shi_note/n/ndfee72298add"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 20
@@ -3166,13 +3150,13 @@
     "https://en.wikipedia.org/wiki/Open-source_intelligence",
     "https://osintframework.com/",
     "https://osintsearch.org/",
-    "https://www.osint.industries/",
     "https://osint.dev/osint",
+    "https://www.osint.industries/",
     "https://theosintvault.io/",
     "https://osint-ui.com/en",
     "https://osint.ly/",
     "https://github.com/jivoi/awesome-osint",
-    "https://fingerprint.to/osint"
+    "https://osint.club/free-tools/"
    ],
    "engines": [
     "ddgs:google"
@@ -3186,12 +3170,12 @@
     "https://jp.linkedin.com/pulse/so-you-want-work-osint-heres-what-need-know-heading-how2c?tl=ja",
     "https://jp.linkedin.com/pulse/why-so-many-close-protection-service-providers-weak-craig-p1sve?tl=ja",
     "https://jp.linkedin.com/pulse/unleashing-potential-osints-role-defense-strategy-efim-lerner-xobkf?tl=ja",
-    "https://www.linkedin.com/in/mio-yamada-8ba52189",
     "https://www.linkedin.com/in/hiromi-okazawa-55b8a7a3",
     "https://jp.linkedin.com/pulse/evolution-osint-technologies-vijay-gupta--ur4ec?tl=ja",
     "https://jp.linkedin.com/in/shirasawa-miki",
     "https://jp.linkedin.com/in/tomohisaishikawa",
-    "https://jp.linkedin.com/in/yumiko-nishitani-21403825"
+    "https://jp.linkedin.com/in/yumiko-nishitani-21403825",
+    "https://jp.linkedin.com/in/daichiishii"
    ],
    "engines": [
     "ddgs:google",
@@ -3207,14 +3191,14 @@
     "https://en.wikipedia.org/wiki/Open-source_intelligence",
     "https://osintframework.com/",
     "https://osintsearch.org/",
-    "https://www.osint.industries/",
     "https://osint.dev/osint",
+    "https://www.osint.industries/",
     "https://theosintvault.io/",
     "https://osint-ui.com/en",
     "https://osint.ly/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 12
@@ -3249,12 +3233,12 @@
     "https://www.hbf.or.jp/grants/event/3220/",
     "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://osint.jp/",
     "https://www.sun-denshi.co.jp/df/shadowdragon-news/shadowdragon-news-883/",
-    "https://osint.jp/2026",
     "https://en.wikipedia.org/wiki/Open-source_intelligence"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 19
@@ -3268,19 +3252,20 @@
     "https://uk.linkedin.com/company/osint-jobs",
     "https://www.linkedin.com/jobs/crime-analyst-jobs-greater-chicago-area",
     "https://www.linkedin.com/pulse/advanced-email-investigation-techniques-osint-analysts-rana-cdzmc",
-    "https://sg.linkedin.com/jobs/view/threat-intelligence-analyst-spi-threat-intelligence-at-amazon-4047560901",
     "https://in.linkedin.com/jobs/osint-jobs",
-    "https://www.linkedin.com/jobs/crime-analyst-jobs",
-    "https://ie.linkedin.com/jobs/investigative-analyst-jobs"
+    "https://sg.linkedin.com/jobs/view/threat-intelligence-analyst-spi-threat-intelligence-at-amazon-4047560901",
+    "https://www.linkedin.com/learning/deep-dive-into-open-source-intelligence",
+    "https://www.linkedin.com/jobs/view/osint-analyst-at-people-technology-processes-llc-4475355051"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 20
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 20,
+ "runs": 21,
  "first_researched_at": "2026-11-05T00:04:11.513958+00:00"
 }

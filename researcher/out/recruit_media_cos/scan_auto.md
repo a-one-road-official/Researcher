@@ -504,10 +504,10 @@
   - 株式会社ジンジブ
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：11件／数字のある品目 14件（79%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
-  - tenshoku.mynavi.jp と www.r-agent.com：品目の重なり 1/3（33%）
+  - www.r-agent.com と tenshoku.mynavi.jp：品目の重なり 1/3（33%）
   - www.nikkei.com と www.r-agent.com：品目の重なり 1/4（25%）
   - www.nikkei.com と tenshoku.mynavi.jp：品目の重なり 1/4（25%）
-  - www.r-agent.com と service-johokan.com：品目の重なり 0/3（0%）
+  - www.r-agent.com と 調査会社：品目の重なり 0/3（0%）
   - www.r-agent.com と cresai.nashplan.jp：品目の重なり 0/3（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）

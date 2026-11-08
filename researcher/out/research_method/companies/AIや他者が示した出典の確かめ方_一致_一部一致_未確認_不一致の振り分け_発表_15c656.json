@@ -8,8 +8,206 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-07T19:05:39.090354+00:00",
+ "researched_at": "2026-11-08T00:41:33.485553+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、初心者でも取り組みやすい7つの検証方法を解説します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIが提示した出典を検証する7つの方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "方法3：資料名・著者・発行年を照合する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ3：検証結果を整理する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは、今回紹介する検証方法の中でも特に重要です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "※これは検証方法を説明するための架空の例です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際のアプリや検証実験の結果ではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "必要に応じて第三者による検証記事も参考にします",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "※以下の主張は検証手順を説明するために設定したものです",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検証作業を終えたら、確認できた範囲を記録します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "特に注意したいのは、3つ目の「出典と説明が一致しない」問題です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本文を確認するときは、次の言葉に注意すると誤りを発見しやすくなります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここで注意したいのが、日付の種類です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "論文は発表後に誤りが発見され、修正されたり、撤回されたりすることがあります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方、公式資料で「有料」と説明されているサービスをAIが「無料」と説明していれば、Dの「不一致・誤り」に該当します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、AI自身が新たな誤りを生成する可能性もあります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成AIとは何ができる？ChatGPTとの違い・仕組み・注意点までわかるガイド",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI旅行プランの注意点10選｜ChatGPTの間違いを防ぐ確認方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Citation bias: questionable research practice or scientific misconduct?",
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "公的な認証制度や学術的な評価スコアではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Document processing begins with text extraction using PyMuPDF",
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PyMuPDF Documentation: https://github.com/pymupdf/PyMuPDF",
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "for PDF files, followed by recursive text splitting into 512-character chunks with 50-character overlap. The chunking strategy employs hierarchical separators including paragraph breaks, sentences, punctuation, and whitespace to maintain semantic coherence whilst ensuring manageable sizes for retrieval operations.",
+    "url": "https://arxiv.org/html/2511.16198v1",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
@@ -192,136 +390,6 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この記事では、初心者でも取り組みやすい7つの検証方法を解説します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIが提示した出典を検証する7つの方法",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "方法3：資料名・著者・発行年を照合する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ3：検証結果を整理する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは、今回紹介する検証方法の中でも特に重要です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "※これは検証方法を説明するための架空の例です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際のアプリや検証実験の結果ではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "必要に応じて第三者による検証記事も参考にします",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "※以下の主張は検証手順を説明するために設定したものです",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検証作業を終えたら、確認できた範囲を記録します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "公的な認証制度や学術的な評価スコアではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Document processing begins with text extraction using PyMuPDF",
-    "url": "https://arxiv.org/html/2511.16198v1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PyMuPDF Documentation: https://github.com/pymupdf/PyMuPDF",
-    "url": "https://arxiv.org/html/2511.16198v1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for PDF files, followed by recursive text splitting into 512-character chunks with 50-character overlap. The chunking strategy employs hierarchical separators including paragraph breaks, sentences, punctuation, and whitespace to maintain semantic coherence whilst ensuring manageable sizes for retrieval operations.",
-    "url": "https://arxiv.org/html/2511.16198v1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "ステップ3：検証結果を整理する",
@@ -437,74 +505,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "特に注意したいのは、3つ目の「出典と説明が一致しない」問題です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本文を確認するときは、次の言葉に注意すると誤りを発見しやすくなります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここで注意したいのが、日付の種類です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "論文は発表後に誤りが発見され、修正されたり、撤回されたりすることがあります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方、公式資料で「有料」と説明されているサービスをAIが「無料」と説明していれば、Dの「不一致・誤り」に該当します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、AI自身が新たな誤りを生成する可能性もあります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "生成AIとは何ができる？ChatGPTとの違い・仕組み・注意点までわかるガイド",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AI旅行プランの注意点10選｜ChatGPTの間違いを防ぐ確認方法",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Citation bias: questionable research practice or scientific misconduct?",
-    "url": "https://arxiv.org/html/2511.16198v1",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -526,9 +526,14 @@
     "method": "http"
    },
    {
-    "url": "https://openai.com/",
+    "url": "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://openai.com/",
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://gemini.google.com/",
@@ -544,6 +549,46 @@
     "url": "https://aistudio.google.com/welcome",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perplexity.ai/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english/verifying",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/verifying",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/thesaurus/verifying",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vocabulary.com/dictionary/verifying",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ieltslounge.com/verifying-or-verifing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thesaurus.com/browse/verifying",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -554,15 +599,18 @@
     "https://www.ibm.com/think/topics/artificial-intelligence",
     "https://www.britannica.com/technology/artificial-intelligence",
     "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
     "https://openai.com/",
     "https://gemini.google.com/",
     "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome"
+    "https://aistudio.google.com/welcome",
+    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "https://www.perplexity.ai/"
    ],
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） note",
@@ -573,12 +621,15 @@
     "https://www.britannica.com/technology/artificial-intelligence",
     "https://search.google/ways-to-search/ai-mode/",
     "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence"
+    "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
+    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "https://www.perplexity.ai/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） やり方",
@@ -589,24 +640,53 @@
     "https://www.britannica.com/technology/artificial-intelligence",
     "https://search.google/ways-to-search/ai-mode/",
     "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence"
+    "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
+    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "https://www.perplexity.ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） 事例",
+   "results": [
+    "https://openai.com/",
+    "https://gemini.google.com/",
+    "https://www.ibm.com/think/topics/artificial-intelligence",
+    "https://www.britannica.com/technology/artificial-intelligence",
+    "https://search.google/ways-to-search/ai-mode/",
+    "https://aistudio.google.com/welcome",
+    "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
+    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "https://www.perplexity.ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "verifying cited sources claim support partial support unverified contradicted",
+   "results": [
+    "https://dictionary.cambridge.org/dictionary/english/verifying",
+    "https://dictionary.cambridge.org/us/dictionary/english/verifying",
+    "https://www.merriam-webster.com/thesaurus/verifying",
+    "https://www.vocabulary.com/dictionary/verifying",
+    "https://ieltslounge.com/verifying-or-verifing/",
+    "https://www.thesaurus.com/browse/verifying",
+    "https://www.merriam-webster.com/dictionary/verifying",
+    "https://www.thefreedictionary.com/verifying",
+    "https://www.oxfordlearnersdictionaries.com/us/definition/english/verify",
+    "https://www.dictionary.com/browse/verify"
    ],
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 7
-  },
-  {
-   "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） 事例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
-   "query": "verifying cited sources claim support partial support unverified contradicted",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "n_hits": 10
   },
   {
    "query": "site:note.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
@@ -614,47 +694,30 @@
     "https://www.ibm.com/think/topics/artificial-intelligence",
     "https://www.britannica.com/technology/artificial-intelligence",
     "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
     "https://openai.com/",
     "https://gemini.google.com/",
     "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome"
+    "https://aistudio.google.com/welcome",
+    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "https://www.perplexity.ai/"
    ],
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "site:x.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
-   "results": [
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
-   "results": [
-    "https://www.ibm.com/think/topics/artificial-intelligence",
-    "https://www.britannica.com/technology/artificial-intelligence",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence",
-    "https://openai.com/",
-    "https://gemini.google.com/",
-    "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）",
@@ -662,15 +725,18 @@
     "https://www.ibm.com/think/topics/artificial-intelligence",
     "https://www.britannica.com/technology/artificial-intelligence",
     "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
     "https://openai.com/",
     "https://gemini.google.com/",
     "https://search.google/ways-to-search/ai-mode/",
-    "https://aistudio.google.com/welcome"
+    "https://aistudio.google.com/welcome",
+    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "https://www.perplexity.ai/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） note 社長",
@@ -681,12 +747,15 @@
     "https://www.britannica.com/technology/artificial-intelligence",
     "https://search.google/ways-to-search/ai-mode/",
     "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence"
+    "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
+    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "https://www.perplexity.ai/"
    ],
    "engines": [
     "ddgs:bing"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない） X 投稿",
@@ -697,12 +766,15 @@
     "https://www.britannica.com/technology/artificial-intelligence",
     "https://search.google/ways-to-search/ai-mode/",
     "https://aistudio.google.com/welcome",
-    "https://cloud.google.com/learn/what-is-artificial-intelligence"
+    "https://cloud.google.com/learn/what-is-artificial-intelligence",
+    "https://www.mtu.edu/data-science/undergraduate/ai/what-is/",
+    "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+    "https://www.perplexity.ai/"
    ],
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "verifying cited sources claim support partial support unverified contradicted site:linkedin.com",
@@ -719,13 +791,13 @@
     "https://www.oxfordlearnersdictionaries.com/us/definition/english/verify"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 10
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T03:50:19.026558+00:00"
 }
