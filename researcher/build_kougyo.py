@@ -44,7 +44,7 @@ FIELDS = {  # 欄の見出しに含まれる言葉 → 出力の欄の名前。�
 
 
 # 2026-11-08 71回目：e-Stat の候補の拾い方を直したので、一度だけ作り直す。印の中の版が違えば作り直す（印のファイルは消さずに上書き）
-BUILD_VER = "estat-2026-11-08"
+BUILD_VER = "estat-2026-11-08b"
 
 
 def is_done() -> bool:
@@ -126,11 +126,18 @@ def _estat(year: int, log: list[str]) -> list[str]:
         # 前後どちらにも出るうえ、工業統計表の巻の名前は「産業編」（産業別統計表の巻）なので、前後の文字（タグを除く）を広く見て「産業編」も受ける。
         # それでも0件なら、各リンクの前後の文字をログに残す（次の直しの材料）
         near = []
-        for m in re.finditer(r"""href=["']([^"']*file-download\?[^"']*statInfId=\d+[^"']*)["']""", html):
+        # 2026-11-08 72回目：前の版の作り直しでも file-download 9件・候補0件・「候補外のリンクの前後」も空だった＝href= の型に1件も
+        # 合っていない（属性が data-* や JS の中、statInfId の大小文字・&amp; の違い）。属性を問わず file-download?…statInfId=数字 を拾い、
+        # それでも0件なら生の出現の前後をログに残す
+        raw_hits = [mm.start() for mm in re.finditer("file-download", html)]
+        if raw_hits and not re.search(r"file-download\?[^\"'\s<>]*statinfid=\d+", html, re.I):
+            seen.append("file-download の生の前後：" + " ｜ ".join(re.sub(r"\s+", " ", html[max(0, i - 80):i + 120]) for i in raw_hits[:3])[:700])
+        for m in re.finditer(r"""((?:https://www\.e-stat\.go\.jp)?/?(?:stat-search/)?file-download\?[^"'\s<>]*?statinfid=\d+[^"'\s<>]*)""", html, re.I):
             ctx = re.sub(r"<[^>]+>", " ", html[max(0, m.start() - 1500):m.end() + 600])
             ctx = re.sub(r"\s+", " ", ctx)
             if re.search(r"産業別|産業細分類|産業編", ctx) and re.search(str(year) + r"|" + str(year - 1988) + r"年|平成" + str(year - 1988), ctx):
-                out.append(requests.compat.urljoin("https://www.e-stat.go.jp/", m.group(1).replace("&amp;", "&")))
+                _h = m.group(1).replace("&amp;", "&"); _h = _h if _h.startswith(("http", "/")) else ("/stat-search/" + _h if _h.startswith("file-download") else "/" + _h)
+                out.append(requests.compat.urljoin("https://www.e-stat.go.jp/", _h))
             else:
                 near.append(ctx[-300:][:120])
         seen.append(f"{url}（file-download {len(re.findall('file-download', html))}件）")
