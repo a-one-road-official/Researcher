@@ -131,7 +131,7 @@
   - www.nikkei.com と www.astrisadvisory.com：品目の重なり 1/1（100%）
   - www.nikkei.com と the-shashi.com：品目の重なり 1/1（100%）
   - www.nikkei.com と diamond.jp：品目の重なり 1/1（100%）
-  - www.astrisadvisory.com と www.macnica.co.jp：品目の重なり 1/1（100%）
+  - www.macnica.co.jp と the-shashi.com：品目の重なり 1/1（100%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - Dicker Data｜売上・粗利率［市場規模］
