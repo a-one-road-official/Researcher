@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・208品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・210品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -10644,6 +10644,145 @@
   - 「【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
   - 「【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
 - 人手と仕事の差：記載なし（読んだ30頁・検索18回）
+
+## 上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める）（securities report five-year key financial indicators contract metal processing listed companies Japan employees net sales）
+- 文脈：会社・開示
+- 痛み・損（深さの印）：
+  - 「当社は即納体制を敷いているため、受注はほぼ売上高と均衡しており、受注残高に重要性はありません」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「は１株当たり当期純損失額」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「反し工場の操業停止等の処分を受けた場合などには、業績に影響を与える可能性があります」（https://www.mcgc.com/ir/pdf/20110711-1.pdf）
+  - 「また、当連結会計年度における為替差損益（デリバティブ解約益含む）は26億円の損失となり、前」（https://www.mcgc.com/ir/pdf/20110711-1.pdf）
+  - 「連結会計年度と比べて45億円の損失の増加となりました」（https://www.mcgc.com/ir/pdf/20110711-1.pdf）
+  - 「外損益は25億円の損失となり、前連結会計年度と比べて47億円の損失の減少となりました」（https://www.mcgc.com/ir/pdf/20110711-1.pdf）
+  - 「価証券評価損（107億円）、固定資産整理損失引当金繰入額（60億円）を中心に、合計610億円の損失」（https://www.mcgc.com/ir/pdf/20110711-1.pdf）
+  - 「を相殺した純額においては、前連結会計年度の損失156億円に対し、当連結会計年度は543億円の損失」（https://www.mcgc.com/ir/pdf/20110711-1.pdf）
+  - 「と、386億円の損失の増加となりました」（https://www.mcgc.com/ir/pdf/20110711-1.pdf）
+  - 「セグメントの名称 受注高(百万円) 前年同期比(％) 受注残高(百万円) 前年同期比(％)」（https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf）
+  - 「事業部門の名称 受注高（百万円） 前年度比（％） 受注残高 （百万円） 前年度比（％）」（https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf）
+  - 「平成18年11月 全国倒産処理弁護士ネットワーク」（https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf）
+  - 「受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+- 事業所数・社数：
+  - 「(1）持分法適用の関連会社数 １社」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+- 社員数・平均社員数：
+  - 「従業員数 (人) 8,380 8,961 10,580 12,286 12,261」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「従業員数 (人) 2,607 2,599 2,788 3,042 3,205」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「1985年3月 アメリカに現地法人KEYENCE CORPORATION OF AMERICAを設立」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「1990年5月 ドイツに現地法人KEYENCE DEUTSCHLAND GmbHを設立」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2001年9月 中国に現地法人KEYENCE (CHINA) CO.,LTD.を設立」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2011年5月 ブラジルに現地法人KEYENCE BRASIL COMERCIO DE PRODUTOS ELETRONICOS LTDA.を設立」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2011年8月 インドに現地法人KEYENCE INDIA PVT.LTD.を設立」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2013年7月 インドネシアに現地法人PT.KEYENCE INDONESIAを設立」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2014年3月 ベトナムに現地法人KEYENCE VIETNAM CO.,LTD.を設立」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2025年3月20日現在における従業員数（就業人員数）は、12,261人であります」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「（注）1 従業員数は就業人員数であります」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「（3）人的資本に関する戦略」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「［ほか、平均臨時雇用人員］ ［7,363］ ［8,448］ ［9,024］ ［9,486］ ［8,361］」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「［ほか、平均臨時雇用人員］ ［2,996］ ［3,401］ ［3,833］ ［4,697］ ［4,035］」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「（注）１．従業員数は就業人員（当社グループからグループ外への出向者を除き、グループ外から当社グループへの出」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+- 受注金額・加工賃収入：
+  - 「売上高 (百万円) 538,134 755,174 922,422 967,288 1,059,145」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「経常利益 (百万円) 286,594 431,240 512,830 519,295 561,010」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「当期純利益 (百万円) 197,289 303,360 362,963 369,642 398,656」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「包括利益 (百万円) 203,293 309,265 378,990 387,339 381,199」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「純資産額 (百万円) 1,912,844 2,173,583 2,491,634 2,806,193 3,108,552」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「総資産額 (百万円) 2,009,874 2,324,037 2,650,429 2,964,792 3,289,224」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「キャッシュ・フロー (百万円) 192,652 271,476 302,628 387,916 409,522」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「キャッシュ・フロー (百万円) △177,487 △11,134 △283,487 △242,792 △280,612」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「キャッシュ・フロー (百万円) △48,532 △49,817 △63,666 △76,306 △83,430」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「期末残高 (百万円) 189,875 396,165 344,002 406,065 451,715」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「売上高 (百万円) 419,291 605,720 709,736 691,503 790,462」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「経常利益 (百万円) 259,601 402,733 463,006 452,515 512,831」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「当期純利益 (百万円) 177,592 282,019 325,792 323,168 362,708」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「資本金 (百万円) 30,637 30,637 30,637 30,637 30,637」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「純資産額 (百万円) 1,742,998 1,974,501 2,238,206 2,486,576 2,762,084」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+- 1人あたり・1社あたり金額：
+  - 「売上高 (百万円) 538,134 755,174 922,422 967,288 1,059,145」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「経常利益 (百万円) 286,594 431,240 512,830 519,295 561,010」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「当期純利益 (百万円) 197,289 303,360 362,963 369,642 398,656」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「包括利益 (百万円) 203,293 309,265 378,990 387,339 381,199」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「純資産額 (百万円) 1,912,844 2,173,583 2,491,634 2,806,193 3,108,552」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「総資産額 (百万円) 2,009,874 2,324,037 2,650,429 2,964,792 3,289,224」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「キャッシュ・フロー (百万円) 192,652 271,476 302,628 387,916 409,522」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「キャッシュ・フロー (百万円) △177,487 △11,134 △283,487 △242,792 △280,612」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「キャッシュ・フロー (百万円) △48,532 △49,817 △63,666 △76,306 △83,430」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「期末残高 (百万円) 189,875 396,165 344,002 406,065 451,715」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「売上高 (百万円) 419,291 605,720 709,736 691,503 790,462」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「経常利益 (百万円) 259,601 402,733 463,006 452,515 512,831」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「当期純利益 (百万円) 177,592 282,019 325,792 323,168 362,708」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「資本金 (百万円) 30,637 30,637 30,637 30,637 30,637」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「純資産額 (百万円) 1,742,998 1,974,501 2,238,206 2,486,576 2,762,084」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+- 生産能力・設備：
+  - 「１ 【設備投資等の概要】……………………………………………………………………… 15」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「設備投資の計画につきましては、「第３ 設備の状況」の「３ 設備の新設、除却等の計画」に記載のとおりであ」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「１【設備投資等の概要】」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「有形固定資産合計 75,870 76,924」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「有形固定資産の取得による支出 △12,492 △14,342」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「(2）有形固定資産」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「有形固定資産合計 46,451 46,849」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「１ 【設備投資等の概要】…………………………………………………………………………45」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「当連結会計年度末の有形固定資産が56億49百万円、未収入金が28億28百万円減少した一方で、当連結会計年」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「れは有形固定資産の売却による収入が363億66百万円（前期は992億90百万円）あった一方で、生産設備を中心とし」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「た有形固定資産の取得による支出が619億87百万円（前期は673億21百万円）あったこと等によります」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「１【設備投資等の概要】」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「ル、海外工場の製造設備の導入を中心とした設備投資（無形固定資産への投資を含む）を71,019百万円実施いたしま」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「を中心に48,708百万円の設備投資（無形固定資産への投資を含む）を実施いたしました」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「「アジア」セグメントにおいては、生産体制の強化を中心に13,148百万円の設備投資（無形固定資産への投資を含」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+- 10年推移：
+  - 「第56期（自2024年3月21日 至2025年3月20日）」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「１ 【主要な経営指標等の推移】……………………………………………………………… 2」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「【提出日】 2025年6月16日」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「【事業年度】 第56期（自 2024年3月21日 至 2025年3月20日）」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「決算年月 2021年3月 2022年3月 2023年3月 2024年3月 2025年3月」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「１【主要な経営指標等の推移】」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2 「収益認識に関する会計基準」（企業会計基準第29号2020年3月31日）等を第54期の期首から適用しており、第」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2 最高株価及び最低株価は、2022年4月4日より東京証券取引所プライム市場におけるものであり、それ以前につい」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「3 「収益認識に関する会計基準」（企業会計基準第29号2020年3月31日）等を第54期の期首から適用しており、第」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2016年7月」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2022年4月」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「当社の関係会社は、当社、連結子会社28社、関連会社1社（2025年3月20日現在）により構成され、その主な事業内」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2025年3月20日現在」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「2025年3月20日現在における従業員数（就業人員数）は、12,261人であります」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「により大規模なリコールが発生した場合や現行法規制の急激な強化・変更が生じた場合には、対応コストの増加を招」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+- 人手と仕事の差：
+  - 「当社は即納体制を敷いているため、受注はほぼ売上高と均衡しており、受注残高に重要性はありません」（https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf）
+  - 「た取り組みや人手不足対応などを背景に、投資活動の拡大傾向が続きました」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「向けた取り組みや人手不足対応などを背景に、投資活動の拡大傾向が続きました」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「暮らしを支えるごみ収集業務は、人口減少や高齢化を背景とした人手不足に加え、収集漏れの際の確認作業に」（https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf）
+  - 「セグメントの名称 受注高(百万円) 前年同期比(％) 受注残高(百万円) 前年同期比(％)」（https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf）
+  - 「当社グループの運転資金需要のうち主なものは、原材料及び外注部品等の仕入のほか、製造費用、販売費及び」（https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf）
+  - 「事業部門の名称 受注高（百万円） 前年度比（％） 受注残高 （百万円） 前年度比（％）」（https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf）
+  - 「受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+
+## 工業統計表 産業細分類の従業者規模別で総額への寄与の大きい区分（100人以上・300人以上）の事業所数・従業者数・製造品出荷額等（受託の細分類・大きい先の欠けを先に埋める・4-98）（Census of Manufactures Japan large establishments 100 300 employees detailed industry contracted processing shipments）
+- 文脈：全体・規模別
+- 事業所数・社数：
+  - 「工業統計調査 確報 平成21年確報 産業編 3-6 従業者４人以上の事業所に関する従業者規模別統計（産業細分類別の事業所数、従業者数等） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「従業者４人以上の事業所に関する従業者規模別統計（産業細分類別の事業所数、従業者数等）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+- 社員数・平均社員数：
+  - 「工業統計調査 確報 平成21年確報 産業編 3-6 従業者４人以上の事業所に関する従業者規模別統計（産業細分類別の事業所数、従業者数等） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「従業者４人以上の事業所に関する従業者規模別統計（産業細分類別の事業所数、従業者数等）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「常用労働者年間月平均数(従業者30人以上)（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「生産額(従業者30人以上） （百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「１０人～１９人」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「２０人～２９人」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「３０人～４９人」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「５０人～９９人」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「１００人～１９９人」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「２００人～２９９人」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「３００人～４９９人」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「５００人～９９９人」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「１０００人以上」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+- 受注金額・加工賃収入：
+  - 「生産額(従業者30人以上） （百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+- 1人あたり・1社あたり金額：
+  - 「生産額(従業者30人以上） （百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085370）
+- 痛み・損（深さの印）：記載なし（読んだ21頁・検索18回）
+- 生産能力・設備：記載なし（読んだ21頁・検索18回）
+- 10年推移：記載なし（読んだ21頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ21頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

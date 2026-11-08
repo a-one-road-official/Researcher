@@ -1,0 +1,2213 @@
+{
+ "name": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める）",
+ "en": "securities report five-year key financial indicators contract metal processing listed companies Japan employees net sales",
+ "aliases": [
+  "有価証券報告書 主要な経営指標等の推移 めっき 受託",
+  "有価証券報告書 主要な経営指標等の推移 熱処理 加工",
+  "EDINET 金型 製造 主要な経営指標等の推移 従業員数"
+ ],
+ "context": "会社・開示",
+ "kind": "market",
+ "researched_at": "2026-11-08T06:00:35.770383+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "当社は即納体制を敷いているため、受注はほぼ売上高と均衡しており、受注残高に重要性はありません",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は１株当たり当期純損失額",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "反し工場の操業停止等の処分を受けた場合などには、業績に影響を与える可能性があります",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、当連結会計年度における為替差損益（デリバティブ解約益含む）は26億円の損失となり、前",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連結会計年度と比べて45億円の損失の増加となりました",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外損益は25億円の損失となり、前連結会計年度と比べて47億円の損失の減少となりました",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価証券評価損（107億円）、固定資産整理損失引当金繰入額（60億円）を中心に、合計610億円の損失",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を相殺した純額においては、前連結会計年度の損失156億円に対し、当連結会計年度は543億円の損失",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、386億円の損失の増加となりました",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称 受注高(百万円) 前年同期比(％) 受注残高(百万円) 前年同期比(％)",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業部門の名称 受注高（百万円） 前年度比（％） 受注残高 （百万円） 前年度比（％）",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成18年11月 全国倒産処理弁護士ネットワーク",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "従業員数 (人) 8,380 8,961 10,580 12,286 12,261",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 (人) 2,607 2,599 2,788 3,042 3,205",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1985年3月 アメリカに現地法人KEYENCE CORPORATION OF AMERICAを設立",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1990年5月 ドイツに現地法人KEYENCE DEUTSCHLAND GmbHを設立",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2001年9月 中国に現地法人KEYENCE (CHINA) CO.,LTD.を設立",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年5月 ブラジルに現地法人KEYENCE BRASIL COMERCIO DE PRODUTOS ELETRONICOS LTDA.を設立",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年8月 インドに現地法人KEYENCE INDIA PVT.LTD.を設立",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2013年7月 インドネシアに現地法人PT.KEYENCE INDONESIAを設立",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2014年3月 ベトナムに現地法人KEYENCE VIETNAM CO.,LTD.を設立",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月20日現在における従業員数（就業人員数）は、12,261人であります",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1 従業員数は就業人員数であります",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（3）人的資本に関する戦略",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "［ほか、平均臨時雇用人員］ ［7,363］ ［8,448］ ［9,024］ ［9,486］ ［8,361］",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "［ほか、平均臨時雇用人員］ ［2,996］ ［3,401］ ［3,833］ ［4,697］ ［4,035］",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．従業員数は就業人員（当社グループからグループ外への出向者を除き、グループ外から当社グループへの出",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．従業員数欄の（外書）は、期間従業員、派遣社員等の人数であります",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．従業員数は就業人員（当社から社外への出向者を除き、社外から当社への出向者を含む",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業員数欄の（外書）は、期間従業員、派遣社員等の人数であります",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動運転レベル４相当の車両を用いた無人走行試験を大成ロテック株式会社様と開始しました",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度は、「人の成長」に注力する人事中期計画（2024年度～2026年度）の初年度として、",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[外、平均臨時雇用人員] (人) 33,447 [3,706] 39,305 [3,784] 41,480 [3,848] 53,907 [4,432] 53,882 [5,158]",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 (人) 32 37 39 40 46",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、青島雅能都化成社の「資本金(または出資金)」欄に記載の金額は、登録資本金92百万人民元の",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 臨時従業員数は[ ]内に年間の平均人員を外数で記載しており、派遣社員は除いております",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ エレクトロニクス・アプリケーションズセグメントの従業員数の減少及びデザインド・マテリアルズセグメ",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ントの従業員数の増加は、主として平成22年４月１日付で事業の括り直しを行ったことに伴い、エレクトロ",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数には執行役員３人が含まれております",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 従業員数の増加は、主として出向者の増加によるものであります",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 臨時従業員の総数が従業員数の100分の10未満であるため、臨時従業員数の記載を省略しております",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求だけではない新しい経営の機軸が不可欠であるとの考えのもと、「APTSIS 15」の策定に併せ、人類・",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 （名） 10,865 10,706 10,617 10,690 10,480",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 （名） 3,615 3,716 3,749 3,773 3,812",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2002年２月 中華人民共和国天津市西青区に天津双協機械工業有限公司(現 連結子会社)を設立",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2004年１月 中華人民共和国天津開発区に天津双叶協展機械有限公司(現 連結子会社)を設立",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2004年10月 中華人民共和国広東省広州市に広州双叶汽車部件有限公司(現 連結子会社)を設立",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005年８月 中華人民共和国広東省東莞市に東莞双叶金属制品有限公司(現 連結子会社)を設立",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012年１月 中華人民共和国湖南省長沙市に長沙双叶汽車部件有限公司(現 連結子会社)を設立",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012年12月 中華人民共和国重慶市に重慶福達巴汽車部件有限公司を設立",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年７月 中華人民共和国天津開発区に双叶(天津)企業管理有限公司(現 連結子会社)を設立",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "双叶(天津)企業管理㈲ 中華人民共和国天津市 千米ドル2,000 中国子会社の統括及び管理支援 100.0 兼任１名 無 当社の製品の販売 無",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "天津双協機械工業㈲ 中華人民共和国天津市 千米ドル6,500 自動車等車両部品 81.0 ― 無 当社の製品の販売 無",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "天津双叶協展機械㈲ 中華人民共和国天津市 千米ドル11,820 自動車等車両部品 81.0 ― 無 当社の製品の販売 無",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "広州双叶汽車部件㈲ 中華人民共和国広東省広州市 千米ドル29,500 自動車等車両部品 81.0 ― 無 当社の製品の販売 無",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東莞双叶金属制品㈲ 中華人民共和国広東省東莞市 千米ドル23,290 自動車等車両部品 100.0 ― 無 当社の製品の販売 無",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ 従業員数は当社から他社への出向者を除く就業人員であります",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ 当事業年度に出産した従業員数及び配偶者が出産した従業員数に対して、当事業年度に育児休業を取得した",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 （人） 11,810 11,885 12,788 14,631 17,306",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 （人） 6,429 5,576 5,465 5,442 5,445",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成14年８月 中華人民共和国、上海市に上海恩梯恩精密機電有限公司を設立",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成14年９月 中華人民共和国、廣州市に廣州恩梯恩裕隆傳動系統有限公司を設立",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成16年８月 中華人民共和国、常州市に常州恩梯恩精密軸承有限公司を設立",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成17年７月 中華人民共和国、上海市に恩梯恩（中国）投資有限公司を設立",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．従業員数は、就業人員であります",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．臨時従業員数は、従業員数の100分の10未満であるため、記載を省略しております",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上債権の増加額12,381百万円、法人税等の支払額11,133百万円、などの支出によります",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14,215百万円、売上債権の増加額12,381百万円、法人税等の支払額11,133百万円、などの支出によります",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業員数は就業人員であり、臨時雇用者数（嘱託社員、人材会社からの派遣社員を含む",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成21年12月 韓国に現地法人YAC Korea Co.,Ltdを設立",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成22年５月 中国に現地法人瓦愛新（上海）国際貿易有限公司を設立",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．従業員数は就業人員（当社グループからグループ外への出向者を除き、グループ外から当社グループへの出",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "売上高 (百万円) 538,134 755,174 922,422 967,288 1,059,145",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 (百万円) 286,594 431,240 512,830 519,295 561,010",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 (百万円) 197,289 303,360 362,963 369,642 398,656",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 (百万円) 203,293 309,265 378,990 387,339 381,199",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 1,912,844 2,173,583 2,491,634 2,806,193 3,108,552",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 2,009,874 2,324,037 2,650,429 2,964,792 3,289,224",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 192,652 271,476 302,628 387,916 409,522",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △177,487 △11,134 △283,487 △242,792 △280,612",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △48,532 △49,817 △63,666 △76,306 △83,430",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末残高 (百万円) 189,875 396,165 344,002 406,065 451,715",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (百万円) 419,291 605,720 709,736 691,503 790,462",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 (百万円) 259,601 402,733 463,006 452,515 512,831",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 (百万円) 177,592 282,019 325,792 323,168 362,708",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 (百万円) 30,637 30,637 30,637 30,637 30,637",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 1,742,998 1,974,501 2,238,206 2,486,576 2,762,084",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 1,819,694 2,098,430 2,355,139 2,594,969 2,893,007",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社 大阪府高槻市 百万円30 電子応用機器の製造 100 1 役員の兼任等 有2 営業上の取引当社商品の製造",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アピステ 大阪府大阪市 百万円100 電子応用機器の製造販売 100 役員の兼任等 有",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (百万円) 1,498,442 1,459,706 1,507,336 1,516,255 1,697,229",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益又は経常損失（△） (百万円) 12,261 37,986 15,787 △9,233 39,310",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(百万円) △7,489 △84,732 △117,664 17,087 △217,753",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 (百万円) 20,611 △74,716 △78,297 36,847 △206,726",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産 (百万円) 604,872 516,007 433,409 463,420 251,020",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産 (百万円) 1,231,495 1,258,350 1,361,735 1,464,375 1,478,180",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 108,429 106,711 △40,799 △110,410 1,128",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △56,211 △62,181 △60,257 39,244 △4,600",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △38,408 △39,147 114,208 55,638 29,738",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末残高 (百万円) 54,651 62,662 75,683 67,733 88,420",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (百万円) 1,013,243 863,642 832,061 827,969 910,689",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益又は経常損失（△） (百万円) 13,937 11,611 △25,743 △56,894 8,623",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（△） (百万円) 2,827 △88,599 △119,189 △948 △210,652",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 (百万円) 72,717 72,717 72,717 72,717 72,717",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産 (百万円) 421,436 309,968 195,566 187,641 △36,465",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産 (百万円) 809,768 780,850 832,468 854,505 856,893",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ 売上高には消費税等は含まれておりません",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (百万円) 2,622,820 2,929,810 2,909,030 2,515,079 3,166,771",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常損失（△） (百万円) 141,296 128,885 △1,906 58,990 223,899",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純損失（△） (百万円) 100,338 164,064 △67,178 12,833 83,581",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 (百万円) ― ― ― ― 86,742",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 758,752 1,095,927 940,114 1,032,865 1,114,003",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 2,318,832 2,765,837 2,740,876 3,355,097 3,294,014",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 63,343 156,173 76,149 116,073 288,853",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △133,434 △177,985 △189,233 △327,006 △101,064",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 74,492 70,871 179,526 94,437 △149,493",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末残高 (百万円) 67,995 165,748 226,410 112,591 143,747",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益 (百万円) 36,800 26,189 17,196 15,586 15,174",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 (百万円) 33,978 23,247 15,180 12,972 10,374",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 (百万円) 55,898 51,353 20,612 12,622 10,442",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 (百万円) 50,000 50,000 50,000 50,000 50,000",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 290,956 328,883 327,453 328,997 368,236",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 430,355 480,465 477,184 612,364 653,643",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "超過額は、それぞれ、14,623百万円及び19,756百万円であります",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 （百万円） 466,809 572,118 708,072 795,802 707,104",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 （百万円） 7,962 7,807 7,768 18,489 13,281",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 （百万円） 4,095 3,307 10,576 12,831 6,208",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 （百万円） 12,147 13,441 11,367 33,521 △4,093",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 （百万円） 87,216 90,014 99,747 130,901 123,165",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 （百万円） 290,194 309,487 319,768 334,780 313,913",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） 22,792 35,468 47,743 57,370 24,785",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） △24,672 △35,547 △22,307 △16,208 △23,190",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "売上高 (百万円) 538,134 755,174 922,422 967,288 1,059,145",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 (百万円) 286,594 431,240 512,830 519,295 561,010",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 (百万円) 197,289 303,360 362,963 369,642 398,656",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 (百万円) 203,293 309,265 378,990 387,339 381,199",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 1,912,844 2,173,583 2,491,634 2,806,193 3,108,552",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 2,009,874 2,324,037 2,650,429 2,964,792 3,289,224",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 192,652 271,476 302,628 387,916 409,522",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △177,487 △11,134 △283,487 △242,792 △280,612",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △48,532 △49,817 △63,666 △76,306 △83,430",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末残高 (百万円) 189,875 396,165 344,002 406,065 451,715",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (百万円) 419,291 605,720 709,736 691,503 790,462",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 (百万円) 259,601 402,733 463,006 452,515 512,831",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 (百万円) 177,592 282,019 325,792 323,168 362,708",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 (百万円) 30,637 30,637 30,637 30,637 30,637",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 1,742,998 1,974,501 2,238,206 2,486,576 2,762,084",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 1,819,694 2,098,430 2,355,139 2,594,969 2,893,007",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社 大阪府高槻市 百万円30 電子応用機器の製造 100 1 役員の兼任等 有2 営業上の取引当社商品の製造",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アピステ 大阪府大阪市 百万円100 電子応用機器の製造販売 100 役員の兼任等 有",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (百万円) 1,498,442 1,459,706 1,507,336 1,516,255 1,697,229",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益又は経常損失（△） (百万円) 12,261 37,986 15,787 △9,233 39,310",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(百万円) △7,489 △84,732 △117,664 17,087 △217,753",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 (百万円) 20,611 △74,716 △78,297 36,847 △206,726",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産 (百万円) 604,872 516,007 433,409 463,420 251,020",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産 (百万円) 1,231,495 1,258,350 1,361,735 1,464,375 1,478,180",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 108,429 106,711 △40,799 △110,410 1,128",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △56,211 △62,181 △60,257 39,244 △4,600",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △38,408 △39,147 114,208 55,638 29,738",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末残高 (百万円) 54,651 62,662 75,683 67,733 88,420",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (百万円) 1,013,243 863,642 832,061 827,969 910,689",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益又は経常損失（△） (百万円) 13,937 11,611 △25,743 △56,894 8,623",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（△） (百万円) 2,827 △88,599 △119,189 △948 △210,652",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 (百万円) 72,717 72,717 72,717 72,717 72,717",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産 (百万円) 421,436 309,968 195,566 187,641 △36,465",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産 (百万円) 809,768 780,850 832,468 854,505 856,893",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (百万円) 2,622,820 2,929,810 2,909,030 2,515,079 3,166,771",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常損失（△） (百万円) 141,296 128,885 △1,906 58,990 223,899",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純損失（△） (百万円) 100,338 164,064 △67,178 12,833 83,581",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 (百万円) ― ― ― ― 86,742",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 758,752 1,095,927 940,114 1,032,865 1,114,003",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 2,318,832 2,765,837 2,740,876 3,355,097 3,294,014",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 63,343 156,173 76,149 116,073 288,853",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △133,434 △177,985 △189,233 △327,006 △101,064",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 74,492 70,871 179,526 94,437 △149,493",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末残高 (百万円) 67,995 165,748 226,410 112,591 143,747",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益 (百万円) 36,800 26,189 17,196 15,586 15,174",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 (百万円) 33,978 23,247 15,180 12,972 10,374",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 (百万円) 55,898 51,353 20,612 12,622 10,442",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 (百万円) 50,000 50,000 50,000 50,000 50,000",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 (百万円) 290,956 328,883 327,453 328,997 368,236",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 (百万円) 430,355 480,465 477,184 612,364 653,643",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "超過額は、それぞれ、14,623百万円及び19,756百万円であります",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 （百万円） 466,809 572,118 708,072 795,802 707,104",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 （百万円） 7,962 7,807 7,768 18,489 13,281",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 （百万円） 4,095 3,307 10,576 12,831 6,208",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 （百万円） 12,147 13,441 11,367 33,521 △4,093",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 （百万円） 87,216 90,014 99,747 130,901 123,165",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 （百万円） 290,194 309,487 319,768 334,780 313,913",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） 22,792 35,468 47,743 57,370 24,785",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） △24,672 △35,547 △22,307 △16,208 △23,190",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） 1,750 △3,451 △22,009 △27,746 △10,360",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "１ 【設備投資等の概要】……………………………………………………………………… 15",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資の計画につきましては、「第３ 設備の状況」の「３ 設備の新設、除却等の計画」に記載のとおりであ",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１【設備投資等の概要】",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産合計 75,870 76,924",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産の取得による支出 △12,492 △14,342",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2）有形固定資産",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産合計 46,451 46,849",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【設備投資等の概要】…………………………………………………………………………45",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末の有形固定資産が56億49百万円、未収入金が28億28百万円減少した一方で、当連結会計年",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れは有形固定資産の売却による収入が363億66百万円（前期は992億90百万円）あった一方で、生産設備を中心とし",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た有形固定資産の取得による支出が619億87百万円（前期は673億21百万円）あったこと等によります",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１【設備投資等の概要】",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ル、海外工場の製造設備の導入を中心とした設備投資（無形固定資産への投資を含む）を71,019百万円実施いたしま",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を中心に48,708百万円の設備投資（無形固定資産への投資を含む）を実施いたしました",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「アジア」セグメントにおいては、生産体制の強化を中心に13,148百万円の設備投資（無形固定資産への投資を含",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「その他」セグメントにおいては、米国における新製品対応設備の取得を中心に9,162百万円の設備投資（無形固",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【設備投資等の概要】……………………………………………………………………………40",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、設備投資による支出等により、1,010億円の支出(前連結会計年度比2,259",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、設備投資による支出等に より、1,010億円の支出(前連結会計年度比",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "囲内であったことに伴い、有形固定資産が減少したこと等により、３兆2,940億円（前連結会計年度",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ 設備投資金額は、有形固定資産及び無形固定資産に係るものであります",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 設備投資金額には、消費税等は含まれておりません",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【設備投資等の概要】",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ 帳簿価額は有形固定資産及び無形固定資産に係るものであります",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度後１年間の設備投資計画(新設・拡充)は、146,000百万円であり、セグメント毎の内",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全社（共通） 2,000 基礎研究試験に係る設備投資等 自己資金及び借入金",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１. 【設備投資等の概要】 ････････････････････････････････････････････････････････････････････････････22",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における当社製品におきましては、納入先より３ヶ月程度の生産計画の提示を受け、生産能力",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期の設備投資につきましては、生産性向上のための合理化・省力化投資、新規受注に伴う金型等投",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【設備投資等の概要】",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度後１年間の設備投資計画のセグメントごとの内訳は次のとおりであります",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 設備投資計画に係る今後の主要資金については、主として自己資金をもって充当する予定であります",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産合計 136,167 131,454",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１． 設備投資等の概要 ……………………………………………………………………………………………… 19",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の要因は有形固定資産の取得による支出58,099百万円、持分法適用関連会社株式の取得による支出10,487百万円な",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "要因は有形固定資産の取得による支出58,099百万円、持分法適用関連会社株式の取得による支出10,487百万円など",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１【設備投資等の概要】",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "善・新製品研究開発等を主眼に、当連結会計年度は59,347百万円の設備投資を行いました",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等で39,176百万円の設備投資を行いました",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等で19,574百万円の設備投資を行いました",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "精密機器商品等部門におきましては、株式会社ＮＴＮ三雲製作所の製造設備の増設等で595百万円の設備投資を行",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1）有形固定資産 ※１",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産合計 236,431 42.1 267,441 43.7",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．有形固定資産の取得による支出 △49,690 △58,099",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．有形固定資産の売却による収入 675 447",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１． 設備投資等の概要 …………………………………………………………………………………………… 17",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１【設備投資等の概要】",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産合計 2,916,038 3,876,509",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産の取得による支出 △30,331 △46,048",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産の売却による収入 300 811",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "第56期（自2024年3月21日 至2025年3月20日）",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】……………………………………………………………… 2",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【提出日】 2025年6月16日",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事業年度】 第56期（自 2024年3月21日 至 2025年3月20日）",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算年月 2021年3月 2022年3月 2023年3月 2024年3月 2025年3月",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１【主要な経営指標等の推移】",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 「収益認識に関する会計基準」（企業会計基準第29号2020年3月31日）等を第54期の期首から適用しており、第",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 最高株価及び最低株価は、2022年4月4日より東京証券取引所プライム市場におけるものであり、それ以前につい",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 「収益認識に関する会計基準」（企業会計基準第29号2020年3月31日）等を第54期の期首から適用しており、第",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年7月",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の関係会社は、当社、連結子会社28社、関連会社1社（2025年3月20日現在）により構成され、その主な事業内",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月20日現在",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月20日現在における従業員数（就業人員数）は、12,261人であります",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "により大規模なリコールが発生した場合や現行法規制の急激な強化・変更が生じた場合には、対応コストの増加を招",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、各種の法規制が変更又は新たに制定された場合は、その遵守対応のための費用が増加し、当社グル",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末 の総資産は、前連結会計年度末 に比べ324,432百万円増加し、3,289,224百万円となりまし",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは、投資有価証券が213,449百万円増加したことなどによるものであります",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業年度 自 2024年４月１日",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（第113期） 至 2025年３月31日",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025/06/27 10:19:51／24199136_日野自動車株式会社_有価証券報告書（通常方式）",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第113期（自2024年４月１日 至2025年３月31日）",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】…………………………………………………………………２",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【提出日】 2025年６月24日",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事業年度】 第113期（自 2024年４月１日 至 2025年３月31日）",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算年月 2021年３月 2022年３月 2023年３月 2024年３月 2025年３月",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１【主要な経営指標等の推移】",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．「収益認識に関する会計基準」（企業会計基準第29号 2020年３月31日）等を第110期の期首から適用して",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．最高株価及び最低株価は2022年４月４日より東京証券取引所（プライム市場）におけるものであり、それ以",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．「収益認識に関する会計基準」（企業会計基準第29号 2020年３月31日）等を第110期の期首から適用して",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1910年８月 東京瓦斯工業株式会社（日野自動車株式会社の前身）設立",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年11月 日野セールスサポート株式会社（現連結子会社）を設立（同年12月、日野自動車株式会社と豊田通商株",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年６月 アラブ首長国連邦に中東日野自動車株式会社（現連結子会社）を設立",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年９月 タイに日野モータース アジア株式会社（現連結子会社）を設立",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年７月 東京日野自動車株式会社（子会社）は千葉日野自動車株式会社（子会社）と横浜日野自動車株式会社",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年４月 東京証券取引所の市場区分の見直しにより、東京証券取引所の市場第一部からプライム市場に移行",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】……………………………………………………………………１",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 【株価の推移】……………………………………………………………………………………71",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成10年４月 株式会社ミドリ十字と合併",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ エレクトロニクス・アプリケーションズセグメントの従業員数の減少及びデザインド・マテリアルズセグメ",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ントの従業員数の増加は、主として平成22年４月１日付で事業の括り直しを行ったことに伴い、エレクトロ",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 従業員数の増加は、主として出向者の増加によるものであります",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のの、設備投資や個人消費に持ち直しの動きがみられ、また、アジア向けを中心に輸出が増加するな",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ど、回復基調で推移してきましたが、本年３月に発生した東日本大震災は、東北・関東地方の広範囲",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とで需要が引き続き堅調に推移し、概ね良好でありましたが、東日本大震災により、当社グループに",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "記録材料は、外付けハードディスクやフラッシュメモリー製品等の販売数量が増加したものの、",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DVDの販売数量が減少し、総じて販売価格が低 下したことに加え、円高の影響もあり、売上げは減",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子関連製品のうち、ディスプレイ材料は、期後半に需要が減少し、売上げは前連結",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会計年度並みとなりましたが、半導体向けの精密洗浄・ウエハー再生等の事業は、順調に推移しま",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情報機材は、事務機器向け印刷材料であるOPC及びトナーの販売が堅調に推移したものの、",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円高の影響等により、売上げは減少しました",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、営業利益は、精密洗浄等の半導体関連事業の増益、OPC及びトナーの販売数量の増加等によ",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加により、売上げは増加しました",
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自 2024年４月１日",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "至 2025年３月31日",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１. 【主要な経営指標等の推移】 ････････････････････････････････････････････････････････････････････････････２",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【提出日】 2025年６月19日",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事業年度】 第111期(自 2024年４月１日 至 2025年３月31日)",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "当社は即納体制を敷いているため、受注はほぼ売上高と均衡しており、受注残高に重要性はありません",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た取り組みや人手不足対応などを背景に、投資活動の拡大傾向が続きました",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "向けた取り組みや人手不足対応などを背景に、投資活動の拡大傾向が続きました",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "暮らしを支えるごみ収集業務は、人口減少や高齢化を背景とした人手不足に加え、収集漏れの際の確認作業に",
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称 受注高(百万円) 前年同期比(％) 受注残高(百万円) 前年同期比(％)",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの運転資金需要のうち主なものは、原材料及び外注部品等の仕入のほか、製造費用、販売費及び",
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業部門の名称 受注高（百万円） 前年度比（％） 受注残高 （百万円） 前年度比（％）",
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "(1）持分法適用の関連会社数 １社",
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nsk.com/content/dam/nsk/jp/ja/company/investors/library/pdf/financial_statements/2025/164q4rep.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smk.co.jp/system/files/media/doc/yuho103.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000002hidl-att/11JapanHomeShield-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=S7BQfXRyjzI%3D&tabid=159&mid=1060&TabModule1202=0",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.takatori-g.co.jp/ir/tanshin/pdf/66yu-ka.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.itochu.co.jp/ja/files/security_102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toray.co.jp/ir/pdf/lib/lib_a668.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhi.com/jp/finance/library/financial/pdf/2024/2024_04_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/018/teaserItems5/0/linkList/0/link/105_full_jsec.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2017/20180622yuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/wp-content/uploads/2019/04/yuho_138.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/wp-content/uploads/2019/08/yuho_143.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hsk.co.jp/ja/ir/news/news8725521927874348804.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiyo-hd.co.jp/jp/investor/library/securities/main/05/teaserItems3/06/linkList/0/link/20190625_02-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp-filings.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuhodb.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcgc.com/ir/pdf/01101/01252.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meigin.com/ir/ir-library/securities-report/pdf/107/report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclosure2.edinet-fsa.go.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/ir-library/securities-reports/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100IH6J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ir/statements/docs/59_annual_securities_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.h2o-retailing.co.jp/ja/ir/library/securities/main/014/teaserItems1/0/linkList/0/link/183yuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/securities_reports/FY2024_Q4_Sequrities_Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100TLL3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shizuoka-fg.co.jp/pdf/ir/2026/2026_securities_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/ir/000017403.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hagihara.co.jp/cms/wp-content/uploads/2504Q_hokoku-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mazda.com/content/dam/mazda/corporate/mazda-com/ja/pdf/investors/library/s-report/2025/f_repo250624.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2024/202503yuho.pdf?sc_lang=ja",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 人手不足 受注 断る",
+   "results": [
+    "https://www.nsk.com/content/dam/nsk/jp/ja/company/investors/library/pdf/financial_statements/2025/164q4rep.pdf",
+    "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "https://www.smk.co.jp/system/files/media/doc/yuho103.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000002hidl-att/11JapanHomeShield-1s.pdf",
+    "https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf",
+    "https://www.nipro.co.jp/assets/document/ir_library/72nd/securities_report.pdf",
+    "https://www.nipponham.co.jp/corporate/ir/library/report/pdf/y_2025.06.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 受注残 人手不足",
+   "results": [
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=S7BQfXRyjzI%3D&tabid=159&mid=1060&TabModule1202=0",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://www.takatori-g.co.jp/ir/tanshin/pdf/66yu-ka.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.itochu.co.jp/ja/files/security_102.pdf",
+    "https://www.mmc.co.jp/corporate/ja/ir/pdf/yuka2011-03.pdf",
+    "https://www.mhi.com/jp/finance/library/financial/pdf/2024/2024_04_all.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2606.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 人手不足 損失 億円",
+   "results": [
+    "https://www.itochu.co.jp/ja/files/security_102.pdf",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=S7BQfXRyjzI%3D&tabid=159&mid=1060&TabModule1202=0",
+    "https://www.toray.co.jp/ir/pdf/lib/lib_a668.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "https://www.mhi.com/jp/finance/library/financial/pdf/2024/2024_04_all.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/018/teaserItems5/0/linkList/0/link/105_full_jsec.pdf",
+    "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2017/20180622yuho.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める）",
+   "results": [
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.shinetsu.co.jp/wp-content/uploads/2019/04/yuho_138.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/018/teaserItems5/0/linkList/0/link/105_full_jsec.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2606.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://jp-filings.com/ja"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 推移",
+   "results": [
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2606.pdf",
+    "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://www.shinetsu.co.jp/wp-content/uploads/2019/08/yuho_143.pdf",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news8725521927874348804.html",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj108.pdf",
+    "https://www.taiyo-hd.co.jp/jp/investor/library/securities/main/05/teaserItems3/06/linkList/0/link/20190625_02-2.pdf",
+    "https://jp-filings.com/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 統計 PDF",
+   "results": [
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2606.pdf",
+    "https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.mcgc.com/ir/pdf/01101/01252.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/018/teaserItems5/0/linkList/0/link/105_full_jsec.pdf",
+    "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2017/20180622yuho.pdf",
+    "https://www.meigin.com/ir/ir-library/securities-report/pdf/107/report.pdf",
+    "https://disclosure2.edinet-fsa.go.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100IH6J.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.indb.co.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 従業者規模別",
+   "results": [
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.tkc.jp/media_library/ir/statements/docs/59_annual_securities_report.pdf",
+    "https://www.h2o-retailing.co.jp/ja/ir/library/securities/main/014/teaserItems1/0/linkList/0/link/183yuho.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://www.ntn.co.jp/japan/investors/pdf/securities/fsj126.pdf",
+    "https://www.daiichisankyo.co.jp/files/investors/library/securities_reports/FY2024_Q4_Sequrities_Report.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 1人当たり 万円",
+   "results": [
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/018/teaserItems5/0/linkList/0/link/105_full_jsec.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100TLL3.pdf",
+    "https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf",
+    "https://www.shizuoka-fg.co.jp/pdf/ir/2026/2026_securities_report.pdf",
+    "https://www.tokyo-airport-bldg.co.jp/files/ir/000017403.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.itochu.co.jp/ja/files/security_102.pdf",
+    "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://jp-filings.com/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） 2015 2025",
+   "results": [
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2606.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.hagihara.co.jp/cms/wp-content/uploads/2504Q_hokoku-1.pdf",
+    "https://futabasangyo.com/assets/uploads/pdf/fe7899843a4b61c462d0e8b0e956a29c1ac6727a.pdf",
+    "https://www.shinetsu.co.jp/wp-content/uploads/2019/08/yuho_143.pdf",
+    "https://www.mazda.com/content/dam/mazda/corporate/mazda-com/ja/pdf/investors/library/s-report/2025/f_repo250624.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2024/202503yuho.pdf?sc_lang=ja",
+    "https://jp-filings.com/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "securities report five-year key financial indicators contract metal processing listed companies Japan employees net sales Japan statistics",
+   "results": [
+    "https://www.nipponsteel.com/en/ir/library/pdf/securitiesreport_2025.pdf",
+    "https://www.hitachicm.com/content/dam/hitachicm/global/en/ir/library/securities-report/docs/Annual-Securities-Report-61st-term.pdf",
+    "https://corp.shiseido.com/en/ir/library/financial_statements/pdf/2025/annual_securities_report.pdf",
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://www.jsw.co.jp/en/ir/finance/indicator.html",
+    "https://www.jpx.co.jp/english/corporate/investor-relations/ir-library/integrated-report/tvdivq0000008t9q-att/b5b4pj0000031kma.pdf",
+    "https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/japan-wci-report-english.pdf",
+    "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "https://www.jsda.or.jp/en/about/annual-report/JSDA2025_web.pdf",
+    "https://www.nipponsteel.com/en/ir/library/annualsecuritiesreport.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める）",
+   "results": [
+    "https://note.com/good_dill292/n/n41c622e52337",
+    "https://note.com/hirokimiyano/n/nc2d3ee58d38a",
+    "https://note.com/denkikogyo/n/ndb8bffb766ec",
+    "https://note.com/high_growth/n/n74351fc63809",
+    "https://note.com/tatsuya_sabato/n/n9f6fdd8ecb24",
+    "https://note.com/kuuna_freedom/n/n316c56abc39d",
+    "https://note.com/tatsuya_sabato/n/n04030c3a0efc",
+    "https://note.com/hirokimiyano/n/n3ec7af6801ef",
+    "https://note.com/umaki11/n/n486c62527c7c",
+    "https://note.com/marunon_invest/n/nf65dbd240abf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める）",
+   "results": [
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://jf.x.com/images/media-preview/2113418115262587180",
+    "https://x.com/komoriapp/status/2089890782992113668",
+    "https://x.com/Katana_Screener/status/2114258580618826060",
+    "https://x.com/edinetdb/status/2073618055859704256",
+    "https://x.com/Asa_stock_blog/status/2071147936046870841",
+    "https://x.com/gamella/status/2026076480980348940",
+    "https://x.com/JapanTaxHub/status/2069720466504167639"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める）",
+   "results": [
+    "https://jp.linkedin.com/posts/青山恒夫経営管理会計の伝道師_経営分析テキスト作成中です-それでふと思いついたのが上場企業が発行する有価証券報告書-activity-6997397343096492032-1yMn",
+    "https://jp.linkedin.com/in/kazukikondo",
+    "https://www.linkedin.com/posts/yukihide-taira-b5b926153_irインタビュー公開-証券コード4481-ベース株式会社代表取締役社長中山様-activity-7064455083505184768-y4RC",
+    "https://jp.linkedin.com/posts/hashimototakehito_人的資本経営-有価証券報告書-人材戦略-activity-7465519506627555328-FI7V",
+    "https://jp.linkedin.com/posts/ryotamioka_人的資本経営-人的資本開示-有価証券報告書-activity-7467779678263558144-y-gM",
+    "https://jp.linkedin.com/posts/hayato-dobashi_人的資本に関する開示状況の分析2022年12月期有価証券報告書-activity-7085171087801544704-LxmG",
+    "https://jp.linkedin.com/posts/kojiito-a04355246_弊社hacobuの物流関連ブログにて記事を執筆してみました-有価証券報告書に使用-activity-7498962010379046912-Lixr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める）",
+   "results": [
+    "https://www.facebook.com/kkpartners/",
+    "https://www.facebook.com/100064515737150/?locale=es_LA",
+    "https://www.facebook.com/murc.jp/posts/1059313935998584/",
+    "https://www.facebook.com/reel/4109733862582574/",
+    "https://www.facebook.com/ToyokeizaiOnline/posts/広告に対して最もお金をかけている上場企業はどこなのか東洋経済オンラインでは有価証券報告書の2023年9月期から2024年8月期までの1年間のデータをもとにして各/592905876618676/",
+    "https://www.facebook.com/OECD.JP/posts/oecd東京センターのウェブサイトには主要統計の一覧が日本語で掲載されています各指標のリンク先ではデータが一目でわかるようグラフになっていて日本語の定義もご覧い/6213059408766632/",
+    "https://www.facebook.com/bidataxcom/photos/深度解析審計報告四大意見讀懂企業財務健康指標守護投資安全️________________________________________-審計報告的核心作用審/1193907892740748/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） note 社長",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/co3pgt0000001sxv-att/12note-1s.pdf",
+    "https://www.tdk.com/system/files/ir_library_report_pdf_lib40430_ja.pdf",
+    "https://www.takatori-g.co.jp/ir/tanshin/pdf/66yu-ka.pdf",
+    "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2017/20180622yuho.pdf",
+    "https://www.mcgc.com/ir/pdf/20110711-1.pdf",
+    "https://www.komatsu.jp/ja/-/media/home/ir/library/annual%20security%20report/ja/150th_q4_all_6.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/018/teaserItems5/0/linkList/0/link/105_full_jsec.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2021_03.pdf",
+    "https://www.global.toshiba/content/dam/toshiba/migration/corp/irAssets/about/ir/jp/library/sr/sr2010/tsr2010_ca.pdf?utm_source=www&utm_medium=web&utm_campaign=since202203CorpIr",
+    "https://jp-filings.com/ja"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の受託加工会社の有価証券報告書「主要な経営指標等の推移」5期分（売上高・従業員数・臨時従業員の平均人数を同じ表で・売上1年分だけの14品目の穴・4-92・4-98 欠けは直接の記録で先に埋める） X 投稿",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000gfzl-att/02TOBooks-1s.pdf",
+    "https://www.sekisui.co.jp/ir/pdf/summary/yuhou104.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/sr/pdf/26fr_j.pdf",
+    "https://www.asiapile-hd.com/ir/uploads/RLDzcjskJfhCw1782288162.pdf",
+    "https://www.zensho.co.jp/jp/ir/resource/pdf/44.4Q.pdf",
+    "https://www.fujioil.co.jp/pdf/ir/library/negotiable/95th_4.pdf",
+    "https://www.7andi.com/ir/file/library/pdf/24_7andi_int04.pdf",
+    "https://www.suzuki.co.jp/ir/library/valuablesecurities/pdf/2025_3.pdf",
+    "https://jp-filings.com/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "securities report five-year key financial indicators contract metal processing listed companies Japan employees net sales site:linkedin.com",
+   "results": [
+    "https://gh.linkedin.com/company/xiamen-c&d-inc-",
+    "https://hk.linkedin.com/in/sebastiandave",
+    "https://www.linkedin.com/in/thomas-kurian-469b6219",
+    "https://www.linkedin.com/in/williamhlangston",
+    "https://www.linkedin.com/in/escamillaanthony",
+    "https://www.linkedin.com/in/mfwarder",
+    "https://www.linkedin.com/in/david-glick-484248115",
+    "https://www.linkedin.com/company/aurubis",
+    "https://www.linkedin.com/company/hp",
+    "https://uk.linkedin.com/in/davidwicraig"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {}
+}

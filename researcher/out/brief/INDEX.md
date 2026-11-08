@@ -8,7 +8,7 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-08 14:59 JST
+## 更新：2026-11-08 15:19 JST
 
 ## この24時間で増えた事実（一部）
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「#humanoid # robot #generalpurposerobot #teleoperation ... #humanoid # robot #generalpurposerobot #teleoperation ... Link」https://www.linkedin.com/posts/takayukiyamazaki_humanoid-robot-generalpurposerobot-activity-7371213694309036032-G9IW

@@ -1,0 +1,1643 @@
+{
+ "name": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）",
+ "en": "entity resolution ground truth independent source benchmark bias evaluation",
+ "aliases": [
+  "名寄せ 正解データ 作り方 評価",
+  "entity resolution benchmark bias ground truth construction",
+  "照合精度 評価 正解 偏り"
+ ],
+ "context": "検証",
+ "kind": "market",
+ "researched_at": "2026-11-08T06:00:31.109627+00:00",
+ "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "この照合で、筆者の側の間違いが2つ出ました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "失敗した6問を見ると、4問が同じ原因です",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14 渡したのに答えず（読み取りの失敗）",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "7 渡していない（検索の失敗）",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "不支持になった辺を消してしまうと、抽出に間違いがあったことが画面から分からなくなります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "今回、オントロジーによって、『封神演義』の登場人物同士や勢力の関係性を表現し、読む助けになるかを検証しました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この検証で答えたい問いが「事前にスキーマを決めずに、どこまで機械が見つけられるか」だからです",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何種類の型が出てくるか自体が、この検証の結果になります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "合計9,375項目のうち、9,186項目（98.0%）が原文の一部として照合できました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、この書き換えは原文と照合すれば検出できます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図2で挙げた型の候補と突き合わせると、3つのことが言えます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抽出結果と原文を突き合わせるには、新字体と簡体字を原文の字体に戻す必要があります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その引用が原文の部分文字列かどうかを、機械で照合しました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この照合で、筆者の側の間違いが2つ出ました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "もう1つは、照合を完全一致だけでやっていたために、",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "末尾の句読点を落としてから照合するようにしました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "答えが入っている243件を全部モデルに採り直させたところ、58件（24%）で食い違いました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "主語を前へ詰めた引用になっているため、原文の部分文字列かどうかの照合が通らず、死亡回が4つに減りました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "原文との文字列照合で、この1件は除かれています",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "tain estimates that are representative of the system’s performance on the entire data set, not just the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Estimates (§3.4)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "computed for predictions, while their true value for a ground truth clustering can be estimated using labeled",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "レシピを1万件集めて「よく使われる材料」を数えるとき、集計プログラムが玉ねぎ・タマネギ・玉葱を別々に数えてしまえば、結果は実態と合いません",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "スキーマを与えると、抽出結果は必ずその3種類のどれかに収まります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何種類の型が出てくるか自体が、この検証の結果になります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "原文に根拠のない関係が抽出結果に混ざっても、筆者が読んで気づくことは難しくなります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3つめは、原文が中国語なので、抽出結果を見ても筆者には正解かどうかの判断がつかないことです",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抽出した結果を数えると、次のようになりました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、以下のようにLLMはズルをしました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事前にスキーマを渡していたら、この2つは抽出結果に出てきません",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抽出結果と原文を突き合わせるには、新字体と簡体字を原文の字体に戻す必要があります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抽出結果に手を加えていないほうは「抽出したままの主張」と呼びます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "numerous yet small. For example, entity resolution is used for the identification of unique inventors listed",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In section 4, we showcase its application to inventor name disambiguation and its validation in simulation",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "resolution systems, using the methodology used by Statistics Canada as an example.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "patent grant date, patent assignee, and patent classification codes; see Table 1 for examples.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "T able 1: Example of attributes available for individual inventor mentions. Additional attributes, such as",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "or operational. In the former case, the main goal is to produce a linked file including all the required",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "responses and explanatory variables, to fit some regression model. A good example is the linkage of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, with probability proportional to size sampling, we have pc = |c|/N. Sampling processes and designs",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, when sampling clusters with probability proportional to size, we havepc = |c|/N. Consequently,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, we can estimate each expectation with its corresponding weighted sample average—and take the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "「この文書からは、人物・組織・場所の3種類を抜き出してください」と先に指定してから抽出させるやり方があります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "作業を始める前、筆者は「人物・勢力・出身・宝貝（パオペイ）あたりの型を先に決めればよい」と考えていました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図2 事前に挙げた型の候補と、原文での出現回数",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つまり、型を事前に決めると、原文の分布と合わないものを押し付けることになります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そこで筆者は、抽出させるときのスキーマには型のフィールドだけを置き、値は自由な文字列で書かせました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何種類の型が出てくるか自体が、この検証の結果になります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図6 型の種類と、件数の偏り",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図2で挙げた型の候補と突き合わせると、3つのことが言えます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1つめは、「寶貝」という型が1件も出なかったことです",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "が、型として出てきたことです",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そこで、表示のためだけに型を閉じた抽出を、別の実験として回しました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "魂の行き先は、型を与えても死の手がかりにはなっていません",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この対をグラフの辺とみなして、繋がっているものを1つの人物にまとめるのが、素朴なやり方です",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "問題の型で分けると、どちらが当てるかが分かれます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この3つだけ型を閉じて抽出し直しました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "An Entity-Centric Framework with Application to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "evaluation framework with the following components.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Methodology (§3.2)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/nonoonenono/n/n4de1731386e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/serene_tern3355/n/nd8b934794b6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hash9371/n/n5b81c4e30ff8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zz08/n/nbbd92f92aef9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/neroarc92f/n/n4420cc9cbf28",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sakusaku_excel/n/n826880608161",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebisumart.com/blog/name/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atstream/n/n15ddcade7e85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.outsource.co.jp/column/unify/howto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldoftest.com/ja/print/pdf/node/5979",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ever-rise.co.jp/dx-blog/data-cleansing-name-identification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://column.tis.jp/post-1473/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/name-collection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.creativehope.co.jp/crh_media/media/name-collection.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iridge.jp/blog/202507/39156/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/ai-record-linkage-strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dl.acm.org/doi/10.1145/3721985",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LanguageTechnology/comments/12h2b5y/evaluation_of_entity_resolution_entity_linking/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://labelstud.io/learning-center/how-do-benchmarks-use-ground-truth-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dbs.uni-leipzig.de/research/projects/benchmark-datasets-for-entity-resolution",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） site:note.com",
+   "results": [
+    "https://note.com/nonoonenono/n/n4de1731386e6",
+    "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "https://note.com/serene_tern3355/n/nd8b934794b6d",
+    "https://note.com/hash9371/n/n5b81c4e30ff8",
+    "https://note.com/zz08/n/nbbd92f92aef9",
+    "https://note.com/talebi_com/n/n807724e52a18",
+    "https://note.com/reading_monkey/n/n50eaf93d2c59",
+    "https://note.com/jack4manastalk/n/neeebe40afbde",
+    "https://note.com/lagless/n/n4630b937afc4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） note",
+   "results": [
+    "https://note.com/neroarc92f/n/n4420cc9cbf28",
+    "https://note.com/sakusaku_excel/n/n826880608161",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "https://ebisumart.com/blog/name/",
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
+    "https://clawdhub.mintlify.app/ja-JP/concepts/progress-drafts",
+    "https://notability.com/g/download/viewer/qZ8YiJ345rd2BK1uadlXN/%E7%AC%94%E8%AE%B0%202022%E5%B9%B49%E6%9C%8828%E6%97%A5.pdf?u=1664331631252",
+    "https://www.norihama.com/ja/research/expressivewriting"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） やり方",
+   "results": [
+    "https://www.outsource.co.jp/column/unify/howto/",
+    "https://www.worldoftest.com/ja/print/pdf/node/5979",
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://www.ever-rise.co.jp/dx-blog/data-cleansing-name-identification/",
+    "https://column.tis.jp/post-1473/",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://usonar.co.jp/blog/6065.html",
+    "https://www.agrex.co.jp/column/detail/name-identification_01.html",
+    "https://www.saaske.com/blog/customer/blog47/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） 事例",
+   "results": [
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://data-viz-lab.com/name-collection",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://column.tis.jp/post-1473/",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://www.creativehope.co.jp/crh_media/media/name-collection.html",
+    "https://iridge.jp/blog/202507/39156/",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/ai-record-linkage-strategy/",
+    "https://ebisumart.com/blog/name/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "entity resolution ground truth independent source benchmark bias evaluation",
+   "results": [
+    "https://dl.acm.org/doi/10.1145/3721985",
+    "https://aws.amazon.com/blogs/industries/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
+    "https://arxiv.org/pdf/2404.05622",
+    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "https://www.reddit.com/r/LanguageTechnology/comments/12h2b5y/evaluation_of_entity_resolution_entity_linking/",
+    "https://labelstud.io/learning-center/how-do-benchmarks-use-ground-truth-data/",
+    "https://dbs.uni-leipzig.de/research/projects/benchmark-datasets-for-entity-resolution",
+    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
+    "https://apxml.com/courses/advanced-vector-search-llms/chapter-5-advanced-tuning-evaluation/building-ground-truth-datasets",
+    "https://github.com/damminhtien/entity-resolution-benchmark"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）",
+   "results": [
+    "https://note.com/nonoonenono/n/n4de1731386e6",
+    "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "https://note.com/hash9371/n/n5b81c4e30ff8",
+    "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "https://note.com/serene_tern3355/n/nd8b934794b6d",
+    "https://note.com/talebi_com/n/n807724e52a18",
+    "https://note.com/zz08/n/nbbd92f92aef9",
+    "https://note.com/reading_monkey/n/n50eaf93d2c59",
+    "https://note.com/jack4manastalk/n/neeebe40afbde",
+    "https://note.com/unikoukokun/n/nebf8099bb750"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）",
+   "results": [
+    "https://x.com/ai_x_ow_jp_01/status/2107039843444560161",
+    "https://x.com/Inochan_AI/status/2110143555037696096",
+    "https://x.com/pumalab_gas/status/2080904640636612962",
+    "https://x.com/ecojojo24/status/2107615145086341602",
+    "https://x.com/norimasu_lab/status/2110613523940388940",
+    "https://x.com/ecojojo24/status/2107630025491255662",
+    "https://x.com/nagato_nock/status/2113843432598974604"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）",
+   "results": [
+    "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
+    "https://jp.linkedin.com/posts/yuukimiyake_生成aiによるoffice資料作成で本当に難しいのは生成ではなく検収かもしれません-activity-7509301211054129152-jmkz",
+    "https://jp.linkedin.com/posts/ryuhei-yamanaka_gpt-6-astraのプロンプト納品物の不足を見つける照合表-activity-7502946750090006529-aMxv",
+    "https://www.linkedin.com/posts/issei-takahashi-233022172_生成aiが自社の決算の数字を間違えていないかを継続して確かめるための照合テストの-activity-7520742180177498112-L8fK",
+    "https://jp.linkedin.com/posts/ryuhei-yamanaka_chatgptで図解を作る原稿と照合して修正先を決める確認表-activity-7503916145112924160-iOg3",
+    "https://jp.linkedin.com/posts/ryuhei-yamanaka_metr研究とaiの生産性仕事に当てはめる条件と限界の照合表-activity-7505049098908233729-xLuU",
+    "https://jp.linkedin.com/posts/minoru-fujita-907a842b_財務データの生エクスポートをまとめてボードデッキに変換する作業でopus-55-activity-7512303603437715456-Mdj6"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）",
+   "results": [
+    "https://www.facebook.com/hirofumi.matsuoka1/posts/名寄せとはある市区町村内で一人が持つ不動産をまとめた一覧表名寄帳を作ることです固定資産税がかからない私道や山林未登記の建物まで載るため相続の際に隠れた財産の見落/32927447200236710/",
+    "https://www.facebook.com/100069742365985/posts/昨日首帳の名寄せ個人別台帳が作成されていたとおぼしき記述が清良記内閣本14上05に記述されている旨報吿した今朝さらにネットで首帳を検索すると下記関原首帳福嶋家-/1350208483980551/",
+    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
+    "https://www.facebook.com/tae.220/videos/契約書の照合整理まだ手でやっていますか️claude-for-legal-にすぐ使えるテンプレートが6種類-追加されました条項の一覧表引用の照合案件管理ボード書/1144222328099111/",
+    "https://www.facebook.com/hottocom/posts/やりたいことをするために独立したはずだったそれなのに誰かを真似て無難な方を選んでいませんかこのままやりたいを後回しにし続けますか自分のやりたいを思い出しにいく1/1551781946909700/",
+    "https://www.facebook.com/hiroshi.nakata.1447/videos/福岡で電気工事の担当者が自分都合で作ってみてますきっと役に立つはず️今回は火が付いた現場に入った何が正解か分からない施工図ないプロット配置️原設計を元に図面を書/1049181820860584/",
+    "https://www.facebook.com/yu.yokoyama.92/videos/在留カードが本物ならどんな仕事でもできるわけではありません外国人採用時は原本の表裏読取アプリ在留資格と仕事内容の照合までを会社の標準手順にしましょう採用担当者向/905155692352114/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） note 社長",
+   "results": [
+    "https://note.com/sakusaku_excel/n/n826880608161",
+    "https://note.com/neroarc92f/n/n4420cc9cbf28",
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://ebisumart.com/blog/name/",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
+    "https://souzokushindan.com/sys/?p=122848",
+    "https://clawdhub.mintlify.app/ja-JP/concepts/progress-drafts"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り） X 投稿",
+   "results": [
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/9/31/14736",
+    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
+    "https://clawdhub.mintlify.app/ja-JP/concepts/progress-drafts",
+    "https://www.creativehope.co.jp/crh_media/media/name-collection.html",
+    "https://data-viz-lab.com/inquiry-data",
+    "https://ebisumart.com/blog/name/",
+    "https://blog.bizboost.co.jp/data-cleaning-tools",
+    "https://dekiru.net/article/20166/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "entity resolution ground truth independent source benchmark bias evaluation site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/chris-knotz-5457345",
+    "https://www.linkedin.com/pulse/signal-issue-2-join-nobody-makes-polyalgorithm-machine-learning-kmaac",
+    "https://www.linkedin.com/in/giuliano-tortoreto",
+    "https://www.linkedin.com/in/prajwal-kumar-aaa24721b",
+    "https://www.linkedin.com/posts/bita-safaee_fusion-of-%F0%9D%97%A5%F0%9D%97%94%F0%9D%97%9A-retrieval-augmented-generation-activity-7290697444122644480-3o9w",
+    "https://www.linkedin.com/in/richardbellizzi",
+    "https://www.linkedin.com/in/zekun-ni-9176a2a3",
+    "https://www.linkedin.com/in/siyi-zhou-ab2664108",
+    "https://www.linkedin.com/pulse/understanding-ai-hallucinations-causes-implications-manoj-joshi-2a2ne",
+    "https://uk.linkedin.com/in/misun-kim-nlp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）"
+ },
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "この照合で、筆者の側の間違いが2つ出ました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "失敗した6問を見ると、4問が同じ原因です",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "14 渡したのに答えず（読み取りの失敗）",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "7 渡していない（検索の失敗）",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "不支持になった辺を消してしまうと、抽出に間違いがあったことが画面から分からなくなります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "今回、オントロジーによって、『封神演義』の登場人物同士や勢力の関係性を表現し、読む助けになるかを検証しました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この検証で答えたい問いが「事前にスキーマを決めずに、どこまで機械が見つけられるか」だからです",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何種類の型が出てくるか自体が、この検証の結果になります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "合計9,375項目のうち、9,186項目（98.0%）が原文の一部として照合できました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、この書き換えは原文と照合すれば検出できます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図2で挙げた型の候補と突き合わせると、3つのことが言えます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抽出結果と原文を突き合わせるには、新字体と簡体字を原文の字体に戻す必要があります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その引用が原文の部分文字列かどうかを、機械で照合しました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この照合で、筆者の側の間違いが2つ出ました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "もう1つは、照合を完全一致だけでやっていたために、",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "末尾の句読点を落としてから照合するようにしました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "答えが入っている243件を全部モデルに採り直させたところ、58件（24%）で食い違いました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "主語を前へ詰めた引用になっているため、原文の部分文字列かどうかの照合が通らず、死亡回が4つに減りました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "原文との文字列照合で、この1件は除かれています",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "tain estimates that are representative of the system’s performance on the entire data set, not just the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Estimates (§3.4)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "computed for predictions, while their true value for a ground truth clustering can be estimated using labeled",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "レシピを1万件集めて「よく使われる材料」を数えるとき、集計プログラムが玉ねぎ・タマネギ・玉葱を別々に数えてしまえば、結果は実態と合いません",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "スキーマを与えると、抽出結果は必ずその3種類のどれかに収まります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何種類の型が出てくるか自体が、この検証の結果になります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "原文に根拠のない関係が抽出結果に混ざっても、筆者が読んで気づくことは難しくなります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3つめは、原文が中国語なので、抽出結果を見ても筆者には正解かどうかの判断がつかないことです",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抽出した結果を数えると、次のようになりました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、以下のようにLLMはズルをしました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事前にスキーマを渡していたら、この2つは抽出結果に出てきません",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抽出結果と原文を突き合わせるには、新字体と簡体字を原文の字体に戻す必要があります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "抽出結果に手を加えていないほうは「抽出したままの主張」と呼びます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "numerous yet small. For example, entity resolution is used for the identification of unique inventors listed",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In section 4, we showcase its application to inventor name disambiguation and its validation in simulation",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "resolution systems, using the methodology used by Statistics Canada as an example.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "patent grant date, patent assignee, and patent classification codes; see Table 1 for examples.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "T able 1: Example of attributes available for individual inventor mentions. Additional attributes, such as",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "or operational. In the former case, the main goal is to produce a linked file including all the required",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "responses and explanatory variables, to fit some regression model. A good example is the linkage of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, with probability proportional to size sampling, we have pc = |c|/N. Sampling processes and designs",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, when sampling clusters with probability proportional to size, we havepc = |c|/N. Consequently,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, we can estimate each expectation with its corresponding weighted sample average—and take the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "「この文書からは、人物・組織・場所の3種類を抜き出してください」と先に指定してから抽出させるやり方があります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "作業を始める前、筆者は「人物・勢力・出身・宝貝（パオペイ）あたりの型を先に決めればよい」と考えていました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図2 事前に挙げた型の候補と、原文での出現回数",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つまり、型を事前に決めると、原文の分布と合わないものを押し付けることになります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そこで筆者は、抽出させるときのスキーマには型のフィールドだけを置き、値は自由な文字列で書かせました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "何種類の型が出てくるか自体が、この検証の結果になります",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図6 型の種類と、件数の偏り",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図2で挙げた型の候補と突き合わせると、3つのことが言えます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1つめは、「寶貝」という型が1件も出なかったことです",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "が、型として出てきたことです",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そこで、表示のためだけに型を閉じた抽出を、別の実験として回しました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "魂の行き先は、型を与えても死の手がかりにはなっていません",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この対をグラフの辺とみなして、繋がっているものを1つの人物にまとめるのが、素朴なやり方です",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "問題の型で分けると、どちらが当てるかが分かれます",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この3つだけ型を閉じて抽出し直しました",
+    "url": "https://note.com/rosso_blog/n/n9a90aed86fce",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "An Entity-Centric Framework with Application to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "evaluation framework with the following components.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Methodology (§3.2)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-08T06:00:31.109627+00:00"
+}

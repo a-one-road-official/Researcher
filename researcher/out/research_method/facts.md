@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・224品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・227品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -367,21 +367,21 @@
   - 「家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「同ウェブサイトにて、四半期速報および年次推計などの各種データや解説が提供されている」（https://note.com/keisemi/n/naf14ab3c9062）
 - 一次情報の探し方：
-  - 「30年くらい前まで、私の研究室は統計月報の類で埋め尽くされていた」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「EXCEL形式で提供されていれれば、すぐにさまざまな統計処理ができる」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「他の国と比べても、日本は統計先進国だ」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「は、日本政府の統計ポータルサイトだから、ここには、人口の統計があるに違いない」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「統計データは、「統計データを探す」からお探しください」という表示が出る」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「そこで「統計データ」を開くが、どこにあるか、すぐには」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「きわめて多数の統計表があり、どれを見たらよいかが分からないのだ」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「これは、人口統計に限った問題ではない」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「官庁によるデータ提供は、データがPDFでしか提供されていない場合がきわめて多い」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「予算や税に関するデータは、財務省の統計データは、似たような内容のものがホームページに雑然と掲載されており、非常に使いにくい」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「ここには、税収の推移や負担率など、税に関してしばしば用いる統計データがある」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「しかし、サイトの構成は分かりにくく、しかも、信じられないことに、データはPDFでしか提供されていない」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「・ウエブにあるpdfファイルをダウンロードする」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「「ファイルを選択」でダウンロードしたpdfファイルを選択」（https://note.com/yukionoguchi/n/n72456a1984f8）
-  - 「ウエブにあるpdfファイルのスクリーンショットを撮り、それを Excelファイルに貼り付ける」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「e-Stat（政府統計の総合窓口）の使い方」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「• e-Stat（政府統計の総合窓口） とは」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「• 「分野」から統計を探す場合の方法ーまとめ」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「e-Stat（政府統計の総合窓口） とは、」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「経済センサス‐活動調査 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「疾病、傷害及び死因の統計分類（基本分類）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「疾病、傷害及び死因の統計分類（疾病分類）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「疾病、傷害及び死因の統計分類（死因分類）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「統計名(50音)」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「一般職国家公務員在職状況統計表（人事統計報告）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「連合会を組織する共済組合における医療状況実態統計調査」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「介護給付費等実態統計（旧：介護給付費等実態調査）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
 - 失敗・落とし穴：
   - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「取り方、表の形、業種の母数と企業等の数と売上の数え方、記号などの落とし穴、利用の条件を、取った記録と公式の説明でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -9025,6 +9025,12 @@
 ## 統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法（national statistics revisions analysis vintages methodological change period uncertainty）
 - 文脈：推定
 - 手順・やり方：
+  - 「したがって、先行系列を見る際のコツは、単に一つの指標の上下だけを見るのではなく、「在庫」「受注」「雇用の入口」「家計心理」「金融市場」の複数の分野で同じ方向の変化が出ているか、つまり、「先行きシグナルの重なり」を確認することです」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「一致系列の読み方のコツは、単に指数の水準だけでなく、「前月比で増えているか」「増え方が加速しているか」「減っているが下げ止まっているか」といった「勢い」まで見ることです」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「遅行系列の読み方のコツは、「一致系列が改善しているのに遅行が弱い」状態を異常と決めつけないことです」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「調査方法はアンケート方式で、「現在の景気をはどう感じるか」「数カ月先の景気はどうなると思うか」といった定性的な質問に対し、その判断理由を自由記述で回答してもらいます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「景気動向指数との関係で整理すると、景気ウォッチャー調査は「人の実感」集めたアンケート型の景気指標であり、CIやDIといった統計処理された客観指標とは性格が異なります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「製造業には、素材型産業から加工型産業まで幅広い業種が含まれ、非製造業には、卸売・小売、運輸、建設、不動産、サービス業など、内需に密接に関わる分野が含まれます」（https://note.com/hirokimiyano/n/nd59c76298f07）
   - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
@@ -9034,13 +9040,9 @@
   - 「A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
 - 突き合わせ・推定：
+  - 「したがって、先行系列は「当たる／外れる」を単独で決め打ちするのではなく、一致系列の動きと照合しながら、先行系列の変化が実体に波及していくかを確認する姿勢が重要になります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「GDPや鉱工業生産指数などのマクロ統計は、集計や推計に時間がかかるため、景気の変化を確認できるまでにタイムラグがあります」（https://note.com/hirokimiyano/n/nd59c76298f07）
   - 「We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「However, the relative mean absolute revision (RMAR), which takes into account the revision to GDP in relation to the size of the initial estimate of growth, shows that the latest periods do not differ much from the pattern seen over the past three decades.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「As we first identified last year, there is some evidence that revisions are marginally statistically significant when looking at the final quarterly estimate of GDP across the entire time span from Quarter 2 1961 to Quarter 4 (Oct to Dec) 2024, compared with first estimates.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
@@ -9054,25 +9056,24 @@
   - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「The x-axis refers to that Blue Book publication, reflecting the mean absolute revision (MAR) to quarterly volume estimates of GDP from Quarter 1 1997 onwards. Blue Book 2024 was an exception as there was not a fully open revisions period as part of this update of the UK National Accounts. The MAR only covers the period from Quarter 1 2020 to Quarter 2 2024.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「We can use our first estimate of quarterly GDP to compare with one that is published months later. Our focus is on those estimates published 3 months and 36 months after the first estimate of quarterly GDP, reflecting the three-year production cycle of UK GDP.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Table 1 shows that the MR is a little higher when comparing the first published quarterly estimate with the estimate published three years later. This analysis continues to show that while initial revisions (t plus 3 months) are not」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
 - 一次情報の探し方：
-  - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「inflow of new data extracted from primary sources w ith vintages identification procedures. It」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「databases usually cover only subsets of variables available in primary sources (key indicators), on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「(http://www.oecd.org/dataoecd/44/37/40309451.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「単一の統計だけでは景気の全体像を把握しにくいため、複数の指標を組み合わせて「景気の方向感」をとらえる目的で作成されています」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「例えば、新規求人数や機械受注、消費者態度指数などが含まれます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「生産指数や有効求人倍率、商業販売額などが代表例で、政府の公式な景気判断では、この一致指数が最も重視されます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「■景気動向指数 採用系列一覧（2021年3月 第13次改定）」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「景気は、需要が増えてから生産が増え、雇用が改善し、所得や物価に波及するという順番で動くことが多いため、企業や家計が「これから先」を見て意思決定する領域の指標は、実体経済の結果が統計に表れる前に動きやすくなります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「具体的には、企業が先行き需要を見込んで設備投資を検討する段階、採用計画を立てる段階、家計が将来不安を強めたり弱めたりする段階、そして金融市場が将来の業績や金利環境を織り込む段階で、先行的な変化が生じます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「たとえば、企業が需要減を感じ始めると、まず受注が鈍り、在庫が積み上がり、投資計画が慎重になり、採用が抑えられます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「● 新規求人者数（除く学卒）・・・採用の入口で企業の雇用意欲を反映しやすい」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「● 有効求人倍率（除く学卒）・・・雇用需給の現状（人手不足・余剰）」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「これらの人々は、統計数字が表れる前段階で、来店客数の変化、注文内容の変化、客層の変化などを肌感覚で捉えやすい立場にあります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「GDPや鉱工業生産指数などのマクロ統計は、集計や推計に時間がかかるため、景気の変化を確認できるまでにタイムラグがあります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「そのため、金融市場や政策当局では、統計が出揃う前の「先行的な景気の温度感」を測る材料として重視されています」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「このため、単月のDIだけで景気判断を断定するのではなく、数カ月のトレンドや、景気の動向指数・GDP・生産統計などの定量的指標と合わせて読むことが重要です」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「景気動向指数との関係で整理すると、景気ウォッチャー調査は「人の実感」集めたアンケート型の景気指標であり、CIやDIといった統計処理された客観指標とは性格が異なります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「数値統計では捉えきれない「空気感」を補完する指標として、景気分析において重要な位置づけを持っています」（https://note.com/hirokimiyano/n/nd59c76298f07）
 - 失敗・落とし穴：
+  - 「機械受注統計は、「設備投資の先行指標」として非常に重要ですが、必ずしも実際の設備投資額と一対一で一致するわけではない点には注意が必要です」（https://note.com/hirokimiyano/n/nd59c76298f07）
   - 「Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「Some revisions correct mistakes. Many do not.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
@@ -9087,23 +9088,22 @@
   - 「be of limited use (also called “average bias”).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「revision is statistically different from zero which may give an insight of whether a bias 7」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
 - 実例：
-  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「. The numerical examples below are illustrative, not claims about current economic data.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A fictional worked example of revision bias」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A second worked example: sign reversal」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Eurostat revision-policy, vintage and national-accounts materials were checked for this edition on 5 September 2026. Numerical examples are original and hypothetical.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Choose a familiar Primary Science example. Explain the evidence, the idea and the result without notes. Then change one condition and explain your prediction.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「from time series data. Finally, we illustrate with a detailed example」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
-  - 「Examples of benchmark revisions in Swiss GDP」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
-  - 「For example: \( y_1^t \) is the estimate available at time \( t \) of」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
-  - 「examples using GDP revision data.」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
-  - 「Example 1: Revisions Using an Interval」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
-  - 「The most common use case is to analyze how reported values evolve」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
-  - 「Example 2: Revisions Relative to a Fixed Reference Date」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
-  - 「Example 3: Revisions to the Nth Release」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+  - 「例えば、新規求人数や機械受注、消費者態度指数などが含まれます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「景気は、需要が増えてから生産が増え、雇用が改善し、所得や物価に波及するという順番で動くことが多いため、企業や家計が「これから先」を見て意思決定する領域の指標は、実体経済の結果が統計に表れる前に動きやすくなります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「このように、制度的・契約的・行動的な「遅れ」が構造的に存在する指標は、景気の結果として後から変化します」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「逆に景気悪化の初期には一致系列が先に落ち、遅行系列は「遅いから役に立たない」のではなく、「景気の結果がどこまで広がったか」を確認するために重要なのです」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「● 第3次産業活動指数（対事業所サービス業）・・・景気の結果としてサービス活動が後から反映されやすい」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「● 最終需要財在庫指数・・・需要の結果として在庫が後から動きやすい」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「景気ウォッチャー調査の結果は、DI（ディフュージョン・インデックス）として集計されます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「一方、景気ウォッチャー調査は月次で実施され、翌月上旬には結果が公表されるため、景気の変化を非常に早い段階で捉えることができます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「売上や生産量といった結果ではなく、「良いと感じているか」「悪いと感じているか」「先行きはどう見ているか」という意思決定の前段階の情報を集めているため、実体経済の変化を先取りしやすいという性格を持っています」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「その為、実際の生産や売上の結果を示すものではありませんが、企業の意識決定や行動の方向性を把握する点で補完的な役割を果たします」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「実務や試験では、「日銀短観=企業側から見た景気判断」「景気ウォッチャー調査=地域・消費現場の実感」「GDP・生産指数=結果としての数量データ」と整理すると理解しやすくなります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「その結果、「意図して在庫を増やしたのか」「意図せずに在庫が増えたのか」といった違いが生じ、これが在庫循環の局面を分ける基準となります」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「その結果、出荷が生産を上回り、在庫が想定以上に減少します」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「この段階で在庫が減るのは、企業が「在庫を減らそう」と意図した結果ではなく、需要の回復が予想を上回った結果として起こるため、「意図せざる在庫の減少」呼ばれます」（https://note.com/hirokimiyano/n/nd59c76298f07）
+  - 「その結果、需要が落ちているにもかかわらず生産が高水準のままとなり、在庫が予想外に増加します」（https://note.com/hirokimiyano/n/nd59c76298f07）
 - 検索結果の抜粋：
   - 「GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a...」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · The T plus 3-month revision is actually more negative than the T plus 36-month vintage, but this is influenced by a couple of important periods during the pandemic period, when there were some large negative revisions in the early estimates, which were subsequently revised up when the more detailed data became available b」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
@@ -9236,6 +9236,7 @@
   - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 失敗・落とし穴：
+  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
@@ -9250,7 +9251,6 @@
   - 「まず全体像を確認したうえで、具体的な手順、必要書類、費用の内訳、そして失敗しがちなポイントまで順番にお伝えします」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「URLを決める際の注意点として、登記するURLは「トップページURL」ではなく「公告が実際に掲載されるページのURL」です」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「公告方法の変更登記では、いくつかの落とし穴があります」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
-  - 「特に注意が必要なのは、2週間の申請期限です」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
 - 実例：
   - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
@@ -13087,3 +13087,162 @@
   - 「推定結果約6万店舗に対して、日本フランチャイズチェーン協会の2025年12月度調査では、JFA正会員7社の店舗数は5万6,054店舗でした」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「推定値との差は1割程度に収まっており、初級のフェルミ推定としてはおおむね妥当な結果と判断できます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「新宿駅前に出店するカフェの年間売上は、需要側と供給側の2つのアプローチから推定し、結果を比較することで妥当性を確認できます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+
+## 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）（business survey nonresponse follow-up large units administrative data substitution early late respondents comparison）
+- 文脈：検証
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
+
+## 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）（reproducibility of derived statistics deflator base year linking real series pitfalls）
+- 文脈：検証
+- 手順・やり方：
+  - 「これらの品目については、価格変動を的確に指数に反映させるため、小売物価統計調査による価格のほか品目ごとに典型的な利用事例をモデルケースとするなどにより設定した計算式（モデル式）を用いて月々の指数を算出しています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「モデル式による指数の作成方法については、「2025年基準消費者物価指数の解説」の「」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「付1 モデル品目の計算方法」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「B-2 日本の消費者物価指数の作成方法は主要国と同じですか」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「また、消費者物価指数に関する国際的なマニュアルとして「消費者物価指数マニュアル：概念と方法（」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「Consumer Price Index Manual : Concepts and Methods」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「そこで、何らかの方法で持家世帯の住宅費用を測れないかという問題がでてきます」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「上記のほかには、「モデル式効果」（モデル品目の計算方法の改定及び内部ウエイトの改定などの影響）や「品目改定効果」（指数に採用する品目の追加及び廃止などによる影響）があります（モデル品目については、」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「ウエイト効果やリセット効果などの影響の計算方法については、「」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「「パソコン（ノート型）」について、タブレット端末による価格も取り込み」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「消費者物価指数では、調査対象の入替えの際に、オーバーラップ法、容量比による換算、単回帰式を用いた換算、オプション・コスト法、インピュート法、直接比較などの中から適切な方法を選択し、品質調整を行っています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「ヘドニック法とは品質調整に用いられる方法のひとつで、各製品の品質がこれを構成する複数の特性（性能）に分解でき、価格は性能によって決定されると考え、これらの諸特性（例えば、パソコンなら記憶容量、メモリ容量、ディスプレイサイズなど）と各製品の価格との関係を、重回帰分析という統計的手法で解析することにより、製品間の価格差のうち品質に起因する部分を計量的に把握しようとする手法です」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「消費者物価指数では、品質向上が著しく製品サイクルが極めて短いテレビ、パソコン及びカメラについて、品質調整済みの価格変動をヘドニック法により直接求める方法を採用しています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「具体的な計算方法については、「2025年基準消費者物価指数の解説」の「」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「G-6 価格調査の対象となる商品の選定方法について、アメリカは日本と異なる方法を採用していると聞きましたが、日本の選定方法は諸外国と異なっているのですか」（https://www.stat.go.jp/data/cpi/4-1.htm）
+- 突き合わせ・推定：
+  - 「指数の計算に当たっては、総務省で実施している全国家計構造調査において推計された持家の帰属家賃額を基に、住宅の構造及び規模ごとにウエイトを求め、それに対応する持家の帰属家賃の価格変動は、小売物価統計調査で調査している民営借家の家賃の価格変動を用いています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「例えば、パソコンにおいて、「記憶容量が1TB増えたとき、パソコン本体価格は5.0%上昇する」という関係が推計できたとします」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「⇒ 例えば「記憶容量が1TB増→パソコン本体価格は5.0%上昇」という関係を推計」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「また、内閣府経済社会総合研究所が作成している『国民経済計算』において、別々に推計される名目付加価値額と実質付加価値額の比から事後的に計算される「GDPデフレーター」も、物価指数の一つです」（https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm）
+  - 「また、品目指数を非公表の扱いとする場合は、当該非公表品目の指数が、上位分類指数と当該上位分類指数に属する他品目の指数を用いた逆算により明らかにならないように、非公表品目の属する上位の分類（商品群など）にある他の1品目の指数も、併せて非公表の扱いとしています（二次秘匿）」（https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm）
+  - 「新旧商品の諸特性の変化から「品質変化による価格変動分」を回帰方程式により定量的に推定し、残り部分を「純粋な価格変動分」として処理する方法」（https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm）
+  - 「価格比較サイトのビッグデータと機械学習手法を用いた物価指数の試算：品質調整方法の比較分析と妥当性の検証」（https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm）
+  - 「スパース推定を用いた新しいヘドニック法について」（https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm）
+  - 「うかの見当をつけ、過去のデータによって検証してみる以外に方法はありません」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「－（原材料使用額等＋内国消費税額＋推計消費税額＋減価償却額)」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「別付加価値額（基準金額）は、その品目の生産額を出荷額と年間在庫増減により推計」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「均在庫を推計することです（ほかのウェイト基準額は、算出した年間の金額を単純に」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「準額算出」参照）が含まれていませんので、これを生産動態統計等から推計し、鉱」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「額ウェイトの基準額算出」参照）を推計し、鉱工業用生産財に加算します」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「ける業種別ウェイト基準額に乗じ、財別ウェイト基準額の第１次推定値とします」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+- 一次情報の探し方：
+  - 「統計局ホームページ/消費者物価指数に関するQ&A（回答）」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「その後、昭和27年（1952年）に、小売物価統計調査で調査された小売価格から指数を作成するようになりました」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「第6 新・旧指数の接続（PDF：409KB）」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「この、ウエイトに採用した年次のことを、「ウエイトの参照年次」と呼んでいます」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「その際、併せて指数に採用する品目などの見直しも行っています（」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「家計調査やGDP統計における家計消費支出など他の重要な経済指標を実質化するためのデフレーターとしても利用されています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「各品目の価格は、主に毎月の小売物価統計調査によって調査したものを用います」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「指数に採用する品目とそのウエイトはこの基準改定に合わせて見直しを行っています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「2025年基準で指数に採用している品目は589品目です」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「これらの品目については、価格変動を的確に指数に反映させるため、小売物価統計調査による価格のほか品目ごとに典型的な利用事例をモデルケースとするなどにより設定した計算式（モデル式）を用いて月々の指数を算出しています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「平成15年（2003年）12月にジュネーヴで開催された第17回国際労働統計家会議では、消費者物価指数に関する現行の国際基準が決議として採択されました」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「B-3 指数の計算に採用する品目は、どのように決められていますか」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「消費者物価指数で採用している品目は、世帯の消費支出上一定の割合を占める重要なものから構成されており、589の品目があります」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「小売物価統計調査では、1年のある時期に出回りが全くない又は出回りが非常に少ないため、現実に調査できない月がある品目（衣料品の夏物、冬物など）については、出回りのある月を調査月として価格を調査しています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「指数の計算に当たっては、総務省で実施している全国家計構造調査において推計された持家の帰属家賃額を基に、住宅の構造及び規模ごとにウエイトを求め、それに対応する持家の帰属家賃の価格変動は、小売物価統計調査で調査している民営借家の家賃の価格変動を用いています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+- 失敗・落とし穴：
+  - 「は以下のとおりでした（ただし、比較する月ごとにこれらの影響の大きさは異なりますので御注意ください」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「G-5 日本の消費者物価指数には上方バイアスがあると言われていますが本当ですか」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「消費者物価指数の上方バイアスは、価格の大きく下落した品目が、（1）需要も増えて相対的な支出割合も拡大した場合、（2）時間の経過とともに指数の水準が著しく低下した場合、などに生じることが指摘されています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「G-7 消費者物価指数と企業物価指数（日本銀行）の動きを対比させて見る際の注意点はありますか」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「なお、GDPデフレーターはできるだけ指数算出に伴うバイアスを軽減することができるようにウエイトを毎年更新する連鎖方式により作成されています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「注2）消費税調整済指数は、課税扱いとなる品目について一律に消費税率引上げの直接的な影響があるとみなした調整をしており、品目別に見た一律の調整による指数が実際の課税措置に完全には適合しておらず、過剰な調整（又は調整不足）となる場合があるため、利用には注意が必要です」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「接続指数では、過去基準の指数を新基準の分類編成に組み替えた上で接続していますが、各基準において採用品目や品目ウエイトなどが異なるため、利用にあたって、性格が異なる各基準の指数を機械的に接続したものである点には、注意する必要があります」（https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm）
+  - 「いるからその品目の上昇が適正に評価されず、総合指数が下方にバイアスを持ってい」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「いがどれだけあるかによりバイアスが生じるのです」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「大に、停滞品は過小に評価され、総合指数に上方のバイアスを持ち込むことになりま」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「の方のバイアスが少ないということではなく、ラスパイレス算式と全く正反対のバイ」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「固定された基準時から遠ざかるにしたがって指数のバイアスが大きくなるならば、」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「しかしながら、あまり長く基準時を固定しておくとバイアスが大きくなりま」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「基準改定を行うのは、算式のバイアスをなくすためだけではなく、もう１つ大きな」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+  - 「過去の鉱工業生産指数を見る限り、指数にバイアスが生じる原因は、経済的に不安」（https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf）
+- 実例：
+  - 「なお、家計消費支出割合は家計調査の結果などを用います」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「これらの品目については、価格変動を的確に指数に反映させるため、小売物価統計調査による価格のほか品目ごとに典型的な利用事例をモデルケースとするなどにより設定した計算式（モデル式）を用いて月々の指数を算出しています」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「品目は5年に1度の基準改定の際に、直近の家計調査結果に基づいて見直しが行われます」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「このような品目の調査されない月（非調査月）において、これを除外して上位類の指数を計算すると、その品目のウエイトは類内の他の品目に比例的に配分されることになるため、結果的に各月のウエイトの年平均が本来の年平均ウエイトと異なるという問題が生じます」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「C-1 結果はいつ頃公表されるのですか」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「消費者物価指数のような月次統計には、例えば、衣料品の価格が季節の初めには高値で、季節の終わり近くになるとセールなどで値下がりするといった、季節的な要因で毎年同じような動きをするものがあり、これを季節変動と呼んでいます」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「消費者物価指数では、家計調査結果による支出割合を基に作成されたウエイトを5年ごとに更新する公式系列のほかに、消費構造の変化の影響を確認するため、毎年ウエイトを更新して作成するラスパイレス連鎖基準方式による指数を参考指数として公表しています（」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「その結果は、「」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「パーシェ・チェックの結果について（PDF：137KB）」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「2025年基準改定による遡及結果について（PDF：217KB）」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「例えば2026年6月分において、新旧基準の総合指数の前年同月比は0.1ポイントの下方改定となりました」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「2020年基準においては、新たな品目の追加等が必要かどうかの検討を行った結果、品目の見直しは行わず、COICOP分類指数」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「について、国際比較可能性向上の観点から、年平均に加え、月次結果についても毎月公表することとしました」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「ヘドニック法とは品質調整に用いられる方法のひとつで、各製品の品質がこれを構成する複数の特性（性能）に分解でき、価格は性能によって決定されると考え、これらの諸特性（例えば、パソコンなら記憶容量、メモリ容量、ディスプレイサイズなど）と各製品の価格との関係を、重回帰分析という統計的手法で解析することにより、製品間の価格差のうち品質に起因する部分を計量的に把握しようとする手法です」（https://www.stat.go.jp/data/cpi/4-1.htm）
+  - 「例えば、パソコンにおいて、「記憶容量が1TB増えたとき、パソコン本体価格は5.0%上昇する」という関係が推計できたとします」（https://www.stat.go.jp/data/cpi/4-1.htm）
+
+## 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）（entity resolution ground truth independent source benchmark bias evaluation）
+- 文脈：検証
+- 手順・やり方：
+  - 「「この文書からは、人物・組織・場所の3種類を抜き出してください」と先に指定してから抽出させるやり方があります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「作業を始める前、筆者は「人物・勢力・出身・宝貝（パオペイ）あたりの型を先に決めればよい」と考えていました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「図2 事前に挙げた型の候補と、原文での出現回数」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「つまり、型を事前に決めると、原文の分布と合わないものを押し付けることになります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「そこで筆者は、抽出させるときのスキーマには型のフィールドだけを置き、値は自由な文字列で書かせました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「何種類の型が出てくるか自体が、この検証の結果になります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「図6 型の種類と、件数の偏り」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「図2で挙げた型の候補と突き合わせると、3つのことが言えます」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「1つめは、「寶貝」という型が1件も出なかったことです」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「が、型として出てきたことです」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「そこで、表示のためだけに型を閉じた抽出を、別の実験として回しました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「魂の行き先は、型を与えても死の手がかりにはなっていません」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「この対をグラフの辺とみなして、繋がっているものを1つの人物にまとめるのが、素朴なやり方です」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「問題の型で分けると、どちらが当てるかが分かれます」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「この3つだけ型を閉じて抽出し直しました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+- 突き合わせ・推定：
+  - 「今回、オントロジーによって、『封神演義』の登場人物同士や勢力の関係性を表現し、読む助けになるかを検証しました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「この検証で答えたい問いが「事前にスキーマを決めずに、どこまで機械が見つけられるか」だからです」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「何種類の型が出てくるか自体が、この検証の結果になります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「合計9,375項目のうち、9,186項目（98.0%）が原文の一部として照合できました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「ただし、この書き換えは原文と照合すれば検出できます」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「図2で挙げた型の候補と突き合わせると、3つのことが言えます」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「抽出結果と原文を突き合わせるには、新字体と簡体字を原文の字体に戻す必要があります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「その引用が原文の部分文字列かどうかを、機械で照合しました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「この照合で、筆者の側の間違いが2つ出ました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「もう1つは、照合を完全一致だけでやっていたために、」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「末尾の句読点を落としてから照合するようにしました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「答えが入っている243件を全部モデルに採り直させたところ、58件（24%）で食い違いました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「主語を前へ詰めた引用になっているため、原文の部分文字列かどうかの照合が通らず、死亡回が4つに減りました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「原文との文字列照合で、この1件は除かれています」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such」（https://arxiv.org/pdf/2404.05622）
+- 失敗・落とし穴：
+  - 「この照合で、筆者の側の間違いが2つ出ました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「失敗した6問を見ると、4問が同じ原因です」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「14 渡したのに答えず（読み取りの失敗）」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「7 渡していない（検索の失敗）」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「不支持になった辺を消してしまうと、抽出に間違いがあったことが画面から分からなくなります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the」（https://arxiv.org/pdf/2404.05622）
+  - 「bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy」（https://arxiv.org/pdf/2404.05622）
+  - 「adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include」（https://arxiv.org/pdf/2404.05622）
+  - 「reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.」（https://arxiv.org/pdf/2404.05622）
+  - 「ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always」（https://arxiv.org/pdf/2404.05622）
+  - 「less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the」（https://arxiv.org/pdf/2404.05622）
+  - 「In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-」（https://arxiv.org/pdf/2404.05622）
+- 実例：
+  - 「レシピを1万件集めて「よく使われる材料」を数えるとき、集計プログラムが玉ねぎ・タマネギ・玉葱を別々に数えてしまえば、結果は実態と合いません」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「スキーマを与えると、抽出結果は必ずその3種類のどれかに収まります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「何種類の型が出てくるか自体が、この検証の結果になります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「原文に根拠のない関係が抽出結果に混ざっても、筆者が読んで気づくことは難しくなります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「3つめは、原文が中国語なので、抽出結果を見ても筆者には正解かどうかの判断がつかないことです」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「抽出した結果を数えると、次のようになりました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「例えば、以下のようにLLMはズルをしました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「事前にスキーマを渡していたら、この2つは抽出結果に出てきません」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「抽出結果と原文を突き合わせるには、新字体と簡体字を原文の字体に戻す必要があります」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「抽出結果に手を加えていないほうは「抽出したままの主張」と呼びます」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「numerous yet small. For example, entity resolution is used for the identification of unique inventors listed」（https://arxiv.org/pdf/2404.05622）
+  - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
+  - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
+  - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
+  - 「resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/pdf/2404.05622）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
